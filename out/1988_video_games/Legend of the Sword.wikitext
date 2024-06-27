@@ -1,0 +1,81 @@
+Legend of the Sword
+Permalink: //en.wikipedia.org/w/index.php?title=Legend_of_the_Sword&oldid=1224582819
+Accessed on: 2024-06-26T17:04:34.695679
+
+
+
+------
+Legend of the Sword
+{{Short description|1988 video game}}
+{{use dmy dates|date=May 2023}}
+{{for|the film|King Arthur: Legend of the Sword}}
+{{Infobox video game
+| title         = Legend of the Sword
+| image         = Legend of the Sword cover.jpg
+| developer     = Silicon Software<ref name="developer">{{cite video game |title=Legend of the Sword |developer=Silicon Soft |publisher=[[Rainbird Software]] |date=1988 |platform=[[MS-DOS]] |version= |level=The game's starting scene |language= |quote=Silicon Soft © 1988}}</ref><ref name="CVG"/><ref name="disk"/>
+| publisher     = [[Rainbird Software]]
+| producer      = 
+| designer      = {{ubl|Karl Buckingham|Colin Mongardi|Eugene Messina<ref name="credits">{{cite video game |title=Legend of the Sword |developer=Silicon Soft |publisher=[[Rainbird Software]] |date=1988 |platform=[[MS-DOS]] |version= |level=The game's credits page |language= |quote=I would like to acknowledge the contributions, (however trivial) of the following people: To myself, (Karl Buckingham) for writing a brilliant adventure and drawing the graphics. To Colin Mongardi, for his incredibly long mega-programs. Also to: Eugene Messina for ′mapscaping′, additional design.}}</ref><ref name="CVG"/>}}
+| programmer    = 
+| artist        = 
+| writer        = 
+| composer      = 
+| engine        = 
+| series        = 
+| platforms     = [[Atari ST]], [[Amiga]], [[MS-DOS]]
+| released      = 1988<ref name="disk">{{cite journal |title=Legend of the Sword |journal=Game Diskette (Atari ST) |url=https://www.mobygames.com/game/4445/legend-of-the-sword/cover/group-80491/cover-218839/ |publisher=[[Rainbird Software]] |quote=Copyright 1988 Silicon Software}}</ref>
+| genre         = [[Interactive fiction]]
+| modes         = [[Single-player]]
+}}
+
+'''''Legend of the Sword''''' is a 1988 fantasy [[interactive fiction]] video game developed by Silicon Soft and published by [[Rainbird Software]] for the [[Atari ST]]. Ports for the [[Amiga]] and [[MS-DOS]] were released later.<ref name="CVG"/> A [[Macintosh]] version was expected to release shortly after the Atari ST version but was never released.<ref name="CVG"/> A sequel, ''[[The Final Battle (video game)|The Final Battle]]'', was released in 1990.
+
+==Plot==
+The lands of Anar have been invaded by the forces of an evil wizard, Suzar. In times past, a magical sword and shield guarded the inhabitants. The player character and his [[Party (role-playing games)|party]] set out to search for the items in order to stop the wizard.<ref name="TGM"/>
+
+==Gameplay==
+The interface is divided into four areas, the top left is used for images which change depending the situation, the top right is the scrolling map area, the middle shows the movement commands and hitpoints which are depicted as a burning candle. The bottom third of the screen is used for text display.<ref name="AUI"/>
+
+==Development==
+''Legend of the Sword'' was in development for over two years. The development started when Karl Buckingham decided to write a novel about a dream he had. When talking to Colin Mongardi, he decided to write it as a video game instead. He hadn't played an adventure game before and after playing ''[[The Pawn]]'', decided his game wasn't going to have any vague puzzles. Silicon Soft was based in [[Eastbourne]], England and was set up under the [[Enterprise Allowance Scheme]]. The game was designed by a three-person team of Buckingham, Mongardi, and Eugene Messina for the [[Amstrad CPC]]. When finished, they contacted publisher [[Mastertronic]] but didn't like their offhand approach to the game. Next was Rainbird which required a [[16-bit]] version because they thought an Amstrad version wouldn't sell, also an additional six months of development time was requested by the publisher in collaboration with their development team. The game was then remade for the Atari ST and written in the [[C (programming language)|C programming language]].<ref name="CVG"/>
+
+==Reception==
+{{Video game reviews
+| AmUI = 10/10<ref name="AUI">{{cite magazine |last1=Moss |first1=Andy |title=Entertainment - Legend of the Sword |journal=[[Amiga User International]] |date=November 1988 |page=84 |url=https://archive.org/details/Amiga_User_International_1988011/page/n83/mode/2up |publisher=Croftward Limited}}</ref>
+| ASM = 49/60 (ST)<ref name="ASM1">{{cite magazine |last1=Vill |first1=Klaus |title=Adventure der neuen Generation |journal=[[Aktueller Software Markt]] |date=August 1988 |issue=9/88 |pages= |url=https://www.kultboy.com/index.php?site=t&id=2709&s=1 |publisher=Tronic-Verlag |language=German |quote=Grafik: 8/12, Vokabular: 10/12, Story: 10/12, Atmosphäre: 11/12, Preis/Leistung: 10/12}}</ref><br>46/60 (DOS)<ref name="ASM2">{{cite magazine |last1=Suck |first1=Michael |title=Legend of the Sword |journal=[[Aktueller Software Markt]] |date=April 1989 |issue=4/89 |page=68 |url=https://www.kultboy.com/index.php?site=t&id=19025 |publisher=Tronic-Verlag |language=German |quote=Grafik: 9/12, Vokabular: 10/12, Story: 9/12, Atmosphäre: 9/12, Preis/Leistung: 9/12}}</ref>
+| CVG = 33/40 (ST)<ref name="CVG">{{cite magazine |last1=Campbell |first1=Keith |title=Adventure Reviews - Legend of the Sword |journal=[[Computer and Video Games]] |date=June 1988 |issue=80 |pages=72–73 |url=https://archive.org/details/Computer_Video_Games_Issue_080_1988-06_EMAP_Publishing_GB/page/n71/mode/2up |publisher=[[Future plc]] |quote=Vocabulary: 7, Atmosphere: 8, Personal: 9, Value: 9}}</ref>
+| TGM = 91% (ST)<ref name="TGM">{{cite magazine |last1=Steel |first1=Rob |title=Rob Steel's Getting Adventurous - Legend of the Sword |journal=[[The Games Machine]] |date=July 1988 |issue=8 |pages=38–39 |url=https://archive.org/details/thegamesmachine-magazine-08/page/n37/mode/2up |publisher=[[Newsfield Publications]]}}</ref>
+| Z64 = 87% (Amiga)<ref name="Z64">{{cite magazine |last1=The Harlequin |title=Adventure - Legend of the Sword |journal=[[Zzap!64]] |date=August 1988 |issue=40 |page=42 |url=https://archive.org/details/zzap64-magazine-040/page/n41/mode/2up |publisher=[[Newsfield Publications]]}}</ref>
+| rev1 = ''Power Play''
+| rev1Score = 6.5/10 (ST)<ref name="PP">{{cite magazine |last1=Locker |first1=Anatol |title=Test - Legend of the Sword |journal={{ill|lt=Power Play|Power Play (Zeitschrift)|de}} |date=1988 |issue=6 |url=https://www.kultpower.de/archiv/heft_powerplay_1988-06_seite74 |publisher=[[Markt+Technik]] |language=German}}</ref>
+| rev2 = ''Your Amiga''
+| rev2Score = 59/100<ref name="YA">{{cite magazine |last1=Fahey |first1=Fin |title=Review - Legend of the Sword |journal=Your Amiga |date=February 1989 |page=61 |url=http://amr.abime.net/review_4946}}</ref>
+}}
+''[[Computer and Video Games]]'' said the parser is not up to [[Infocom]] standard but concluded that the game "should establish Silicon Soft as among the best of adventure producers [...]<ref name="CVG"/> ''[[The Games Machine]]'' said "[t]he screen layout and control of the game are what make Legend of the Sword work so well."<ref name="TGM"/> ''[[Amiga User International]]'' praised the parser as "a delight" and also commended the game's "sheer playability" and user friendliness.<ref name="AUI"/> ''Your Amiga'' called it "a competent and good-looking adventure" but said it's "treading some well-hallowed but tired ground".
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #53<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-53/page/60/mode/2up | title=Jeux & stratégie 53 | date=October 1988 }}</ref>
+*''[[Amiga Computing]]'', ''[[Amiga Format]]'', and ''[[CU Amiga]]''<ref>{{cite web | url=https://amigareviews.leveluphost.com/legendsw.htm | title=Amiga Reviews: Legend of the Sword }}</ref>
+*''[[ACE (magazine)|ACE]]'' #11<ref>{{cite web | url=https://archive.org/details/ace-magazine-11/page/n73/mode/2up | title=ACE Magazine Issue 11 | date=August 1988 }}</ref>
+*''[[Tilt (French magazine)|Tilt]]'' #65<ref>http://download.abandonware.org/magazines/Tilt/tilt_numero065/TILT%20065%20(Avril%201989)%20-%20Page%20111.jpg</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/4445/legend-of-the-sword}}
+*{{abime|id=863}}
+*{{atarimania|id=9816}}
+*{{Internet Archive game|legswor|Legend of the Sword}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Cancelled Amstrad CPC games]]
+[[Category:Cancelled classic Mac OS games]]
+[[Category:DOS games]]
+[[Category:Fantasy video games]]
+[[Category:Single-player video games]]
+[[Category:Telecomsoft games]]
+[[Category:Video games developed in the United Kingdom]]

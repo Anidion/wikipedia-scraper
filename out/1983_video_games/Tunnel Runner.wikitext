@@ -1,0 +1,68 @@
+Tunnel Runner
+Permalink: //en.wikipedia.org/w/index.php?title=Tunnel_Runner&oldid=1193599319
+Accessed on: 2024-06-26T16:56:05.128316
+
+
+
+------
+Tunnel Runner
+{{Infobox video game
+| title = 
+| collapsible = 
+| state = 
+| image =  Tunnel Runner Cover.jpg
+| caption = 
+| developer =
+| publisher = [[CBS Electronics]]
+| designer = Richard K. Balaska Jr.<ref name=giantlist/>
+| released = {{vgrelease|NA|1983}}
+| genre = [[List of maze video games|Maze]]
+| modes = 
+| platforms = [[Atari 2600]]
+}}
+
+'''''Tunnel Runner''''' is a first person maze game released by CBS Electronics in 1983 for the [[Atari 2600]].<ref name="amania">{{cite web |title=Tunnel Runner |url=http://www.atarimania.com/game-atari-2600-vcs-tunnel-runner_8142.html |website=Atari Mania}}</ref> It was programmed by Richard K. Balaska Jr.<ref name=giantlist/> ''Tunnel Runner'' is one of three CBS games for the Atari 2600 with an additional 256 bytes of RAM in each cartridge, a feature promoted by CBS as "RAM Plus."<ref name="8bitcentral">{{cite web |title=Did CBS Electronics deliver the 1st FPS in 1983, on the Atari 2600, w/ Tunnel Runner via RAM Plus? |url=http://www.8-bitcentral.com/blog/2014/ramPlus.html |website=8-Bit Central.com|date=March 6, 2014}}</ref> The other two RAM Plus games are ''[[Mountain King (video game)|Mountain King]]'' and the port of ''[[Omega Race]]''.
+
+==Gameplay==
+{{Unreferenced|section|date=July 2019}}
+The game offers two modes of gameplay. The GAME1 mode is a campaign mode, with pre-programmed levels that never change. GAME2 mode generates random mazes for each level.
+
+In the game, the player has a first person view of a maze to navigate. The task is to locate and use the exit door of the labyrinth within a certain time limit. Whilst many mazes have multiple exit doors, the player must find the key hidden somewhere in the labyrinth. Once the key is obtained the player can leave and progress to the next maze. However, if the player could not find a way out of the labyrinth within the time limit they have to repeat the level upon finding the exit. At higher levels the available time decreases considerably.
+
+[[File:Tunnel Runner Screenshot.png|thumb|left|Gameplay screenshot]]
+
+Apart from the time limit, there are many other obstacles in each level. Several creatures - called Zots - are scouting the tunnels, looking for the player. Unarmed, the player must avoid them at all costs in order to quickly find the key and exit to the next level. This is quite easy at the start, but later the game becomes harder by placing more Zots on each level (up to a maximum of four). Above all this, the Zots get faster and faster up to a certain limit and at higher levels they can even pass through walls. This is not a glitch, the manual refers to this as "Zot magic". Because of the Atari's limitations, the game lacks a turning animation when changing directions, so it is easy to become disoriented, especially when the Zots are chasing the player. 
+It is also worth mentioning that the walls' colour constantly changes in each maze. The most difficult levels have black walls where only the floor is visible and the doors themselves cannot be seen (making it impossible to know what type they are). ''Tunnel Runner'' features many black levels in a row periodically, making them a real challenge to pass.
+
+To compensate the increasing difficulty of the game, the player's running speed also increases during the game. The small arrow on the time indicator always pinpoints the direction the player is facing, and the player also has a map to help him out of each maze. The player may press the FIRE button to view a map of the current level in overhead form which shows the location of the player, the Zots, the key and the exit.
+
+As the levels progress the increasing difficulty also affects the map, such as making the map invisible (especially on black wall levels), making the Zots invisible or making the player or the key invisible. The map is never rendered to be completely useless, so "something" will always be shown regardless the current level state. Viewing the map, however, may cause the player to be vulnerable as the player must stand still to view the map while the Zots can move freely during that time.
+
+Although not shown on the map, there are multiple types of doors in each maze. They can be found easily as the floor is colorfully vibrating in front of a door on a nearby wall. There are five types of doors which only the player can use; the Zots cannot. The player will automatically stop running each time they reach one of these colorful sections, and the time will not decrease while standing on it. The player must take these into account when running away from Zots.
+
+'''Door with up arrow.''' The exit of the maze. Only accessible if the player has acquired the key. These are only found at the east walls of each maze, and are shown on the map at early stages.
+
+'''Door with double up arrows.''' Warp exit, which transfers the player ahead two levels instead of one. Only accessible if the player has acquired the key and has seen the normal exit before. These warp exits only appear at the east walls of the maze.
+
+'''Door with two side arrows.''' Teleporting doors. Upon entering, they transfer the player to a random location of that particular maze. They can be extremely useful for escaping from the Zots and saving precious level time at higher stages. The random teleportation may also be valuable help in finding the key, as sometimes the player will spontaneously grab the key during the "teleportation". However, there is always a slight chance of being teleported right in front of a Zot. They can appear on almost every wall.
+
+'''Door with double down arrows.''' This door sends the player back to the previous level, and is considered an obstacle, especially at black wall levels where all doors are invisible. Like teleporting doors they can be seen frequently on many walls.
+
+'''Doors with "cb db" symbol.''' This door cannot be entered, but staring at it will award the player with up to 1000 bonus points as long as they continue to face it. Turning away and turning back will not restore the scoring ability. Being a secret door they are quite rare, but can appear everywhere and are invisible on the level map. The symbols are the initials of the game's programmer and his wife of the time.
+
+The player has three initial extra lives when starting a new game. Every time a Zot catches the player, he or she loses one life and reappears at a random location in the level with the same time he had before the unfortunate event (the player will also not lose the key). The player may also gain extra lives (maximum four) by earning a certain number of points. Points are awarded for wandering through tunnels, exiting the level as soon as possible, or finding the "cb db" secret doors.
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+*[https://www.youtube.com/watch?v=fMFEiJFrafs TV commercial]
+
+[[Category:1983 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Maze games]]
+[[Category:Video games developed in the United States]]
+[[Category:CBS Electronics games]]

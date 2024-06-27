@@ -1,0 +1,96 @@
+Lazy Jones
+Permalink: //en.wikipedia.org/w/index.php?title=Lazy_Jones&oldid=1196245571
+Accessed on: 2024-06-26T16:57:06.185165
+
+
+
+------
+Lazy Jones
+{{More citations needed|date=December 2010}}
+{{Infobox video game
+|title = Lazy Jones
+|image =[[File:Lazy Jones.jpg|200px|Lazy Jones]]
+|caption = Commodore 64 cover art
+|developer = David Whittaker
+|publisher = Terminal Software
+|designer = [[David Whittaker (video game composer)|David Whittaker]]
+|composer = David Whittaker
+|released = 1984
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64]], [[ZX Spectrum]], [[MSX]], [[Tatung Einstein]]
+}}
+
+'''''Lazy Jones''''' is a [[platform game]] for the [[Commodore 64]], [[ZX Spectrum]], [[MSX]] and [[Tatung Einstein]]. It was written by [[David Whittaker (video game composer)|David Whittaker]] and released by Terminal Software in 1984. The Spectrum version was [[Porting|ported]] by Simon Cobb.
+
+''Lazy Jones'' is a collection of fifteen [[sub-game]]s. The game takes place inside a [[hotel]] with three floors, connected by an [[elevator]]. The character is a lazy hotel employee who does not much care for his work, but prefers to sneak into the rooms to play [[video game]]s instead.
+
+==Gameplay==
+[[Image:Lazy Jones Screenshot.png|thumb|C64 screenshot]]
+
+The main screen in ''Lazy Jones'' is the hotel interior. There, the character can use the elevator to travel freely between the three floors, but he must watch out for enemies: the current hotel manager on the top floor, the [[ghost]] of the previous manager on the bottom floor, and a haunted cleaning cart on the middle floor. The enemies only walk around and do not pursue the character, but contact with them is fatal.
+
+Each floor has six rooms, three on each side of the elevator. Each room can be entered once. Inside most rooms is a video game, which the character immediately begins playing. As well as the video games, there is the hotel [[bar (establishment)|bar]], a [[bed]], a cleaning closet and a [[toilet]]. The bar works like a video game, but the other rooms are useless decorations (intentionally added, because Whittaker had run out of ideas for new games).
+
+When all rooms have been visited, the game starts over again, but increasingly faster each time.
+
+The sub-games are generally simplified versions of 1970s and 1980s video games, such as ''[[Space Invaders]]'', ''[[Frogger]]'', ''[[Snake (video game genre)|Snake]]'', ''[[H.E.R.O. (video game)|H.E.R.O.]]'', ''[[Breakout (video game)|Breakout]]'' or ''[[Chuckie Egg]]''. Their plots and gameplay are very simple, and in most of them the player simply must avoid incoming enemies long enough to score many points. In some, the player must shoot enemies to score points.
+
+Each sub-game has a time limit. In some sub-games it is possible to "die", thus ending the sub-game prematurely, while others only end after the time limit expires. But this also depends on the portrayed game version. While a "death" in the Commodore 64 may return the game character to a certain point in the screen, in the MSX version the same death results in the premature end of the sub-game.
+
+The fourteen video games are as follows:
+* ''99 Red Balloons'': Red [[balloon]]s continuously fly towards the top of the screen. The player has to grab hold of two balloons to fly upwards, to get to kiss a woman. Then they need to grab hold of one balloon to fly back down to kiss another woman. A [[bow and arrow|bow]] tries to shoot [[arrow]]s to puncture the player's balloons.
+* ''Eggie Chuck'': A simplified ''Chuckie Egg'' clone.
+* ''Jay Walk'': A simplified ''Frogger'' clone. The player has to cross a street without hitting any of the cars, to get to kiss a woman. Then they cross the street back to kiss another woman.
+* ''Laser Jones'': A ''Space Invaders'' clone where the aliens do not shoot back.
+* ''Outland'': A very simple [[shoot 'em up]]. [[starship|Spaceship]]s descend from the skies and the player shoot them to score points.
+* ''Res Q'': A simplified ''[[H.E.R.O. (video game)|H.E.R.O.]]'' clone. The player has to rescue men trapped in a [[cave]] without touching the cave walls.
+* ''Scoot'': A game of skill where the player has to steer some kind of hovercraft in a cave.
+* ''Star Dust'': A shoot 'em up where the player can shoot balls of dust.
+* ''The Hills Are Alive'': A shoot 'em up very similar to ''Outland'' except this time the spaceships fly horizontally.
+* ''The Reflex'': [[Bone]]s fly down from the top of the screen and the player has to bounce them back up.
+* ''The Turk'': Roast [[turkey (bird)|turkey]]s slide on a [[conveyor belt]] and the player has to fire a [[fork]] at them to score points. A [[telephone]] flies diagonally around the screen, getting in the way of the player's fork.
+* ''The Wall'': A simplified ''Snake'' clone. The player must steer a continuously growing garden wall without hitting themselves, the screen boundaries, or any of the plants.
+* ''Wild Wafers'': A shoot 'em up where the player can shoot spinning wafers.
+* ''Wipeout'': A simplified [[Breakout clone|''Breakout'' clone]].
+
+In the MSX and Tatung Einstein versions, ''Jay Walk'' is replaced by ''Wafers II'', in which the player uses two controlled spaceships (one vertically and one horizontally) to jointly hit the spinning wafers.
+
+In the hotel bar, Lazy Jones stands in front of the (rather wide) bar. The barman and the only other patron, hopelessly drunk, are both moving back and forth across the bar, at different speeds. Pressing the fire button while standing in front of both a drink and the barman at the same time earns points. The drunk patron bars the player's movement but can be jumped over.
+
+The sub-games where it is possible to "die" prematurely are ''Eggie Chuck'', ''Jay Walk'', ''Res Q'' and ''The Wall''.
+
+The sub-games that only end when the time limit runs out are ''99 Red Balloons'', ''Laser Jones'', ''Outland'', ''Scoot'', ''Star Dust'', ''The Hills Are Alive'', ''The Reflex'', ''The Turk'', ''Wild Wafers'', ''Wipeout'', ''Wafers II'' and the hotel bar.
+
+(In the MSX version, sub-games ending exclusively by running out of time limit: ''Outland'', ''The Reflex'', ''Wild Wafers'', ''Wafers II'', ''Wipeout'' and the bar).
+
+==Development==
+Whittaker developed each sub-game individually in [[BASIC]] first, to make sure they worked, then converted each one of them, almost line by line, into [[Assembly Language|assembly]] code.<ref>{{cite web|url=http://www.c64.com/interviews/whittaker.html |title=David Whittaker Interview |publisher=C64.COM |access-date=2015-06-26}}</ref>
+
+==Legacy==
+One of the music tracks (subtune from "Star Dust" in C64, the same as "The Wall" in MSX) was sampled by German electro project [[Zombie Nation (musician)|Zombie Nation]] for their 1999 single "[[Kernkraft 400]]".<ref name="nme">{{cite web|url=https://www.nme.com/NME/External/News/News_Story/0,1004,9126,00.html |date=2001-06-30 |access-date=2012-09-09 |url-status=dead |archive-url=https://web.archive.org/web/20010630145207/http://www.nme.com/NME/External/News/News_Story/0%2C1004%2C9126%2C00.html |archive-date=30 June 2001 |title=OK COMPUTER! | magazine=[[NME]]}}</ref> Florian Senfter ("Splank!") later paid an undisclosed sum to David Whittaker for the use of the melody.<ref name="nme"/>
+
+In September 2021, [[James Rolfe]] reviewed the game as part of his ''[[Angry Video Game Nerd]]'' series, giving it a very positive review and calling it  "A pretty revolutionary concept for its day" and "The crowning achievement of the Commodore 64"<ref>{{Citation|title=Commodore 64 - Angry Video Game Nerd (AVGN)|url=https://www.youtube.com/watch?v=UDumOYP0ZA0 |archive-url=https://ghostarchive.org/varchive/youtube/20211221/UDumOYP0ZA0 |archive-date=2021-12-21 |url-status=live|language=en|access-date=2021-09-28}}{{cbignore}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{lemon64 game|id=1499}}
+*{{WoS game|id=0002836}}
+
+{{Use dmy dates|date=February 2021}}
+
+[[Category:1984 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Minigame compilations]]
+[[Category:MSX games]]
+[[Category:Platformers]]
+[[Category:Single-player video games]]
+[[Category:Tatung Einstein games]]
+[[Category:Terminal Software games]]
+[[Category:Video games about video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games scored by David Whittaker]]
+[[Category:Video games set in hotels]]
+[[Category:ZX Spectrum games]]

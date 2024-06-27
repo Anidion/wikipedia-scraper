@@ -1,0 +1,52 @@
+Wander (1974 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Wander_%281974_video_game%29&oldid=1141180598
+Accessed on: 2024-06-26T16:47:28.039177
+
+
+
+------
+Wander (1974 video game)
+{{short description|1974 text adventure}}
+{{Infobox video game
+|title  = Wander
+|image  =
+|caption =
+|developer =
+|publisher =
+|designer =  [[Peter Langston]]
+|engine =
+|released = 1974
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Mainframe computer|Mainframe]]
+}}
+'''''Wander''''' is  [[text adventure]] written by [[Peter Langston]] in 1974. It is one of the earliest text adventure video games in existence, predating ''[[Colossal Cave Adventure]]''.<ref name="RetroMag"/> The game was originally coded in [[BASIC]]<ref name="wanderign"/> on a [[mainframe computer]] with multiple databases to create the worlds that formed the game.<ref name="mainframe"/> It was distributed in Langston's PSL Games collection for [[Unix]].<ref name="LangstonUnix"/>
+
+For a long time, the original files had been kept in an archived email by one of Langston's friends. The files now exist on [[GitHub]].<ref name="sourcecode"/>
+
+==Gameplay==
+''Wander'' is both a text adventure game and a tool for creating [[interactive fiction]]; it describes itself as "a tool for writing non-deterministic fantasy stories".<ref name="wanderign"/> The game comes with one such story, named "a3", along with instructions for authors to write their own stories that the game can parse. The game is entirely text based, with the player entering commands such as "north" or "kick machine" in order to progress. The player also has an inventory, which stores objects that they have collected in a game for use.
+
+==Plot==
+In the story included with the game, the player takes the role as a First Under-secretary to the Ambassador for an organisation called Corps Diplomatique Terrestrienne (CDT). Sent by Mr. Magnan to the mysterious country Aldebaran III, the player's mission to prevent up uprising against Terran nationals in a limited time.
+
+==Development==
+''Wander'' was created in 1973 or 1974 by [[Peter Langston]].<!-- The original BASIC version has not been recovered, and Langston does not remember when exactly he created it, beyond that it was at Evergreen and before he moved to Harvard in 1974. --> It was initially created by Langston in HP [[BASIC]] at [[Evergreen State College]] where Langston was teaching computer science and audio engineering.<ref>{{cite web | url=http://wolfpackempire.com/peter.langston-on-birthdate.txt | title=The birthdate of Empire | publisher=WolfpackEmpire.com | accessdate=2022-01-30}}</ref> He likely developed ''Wander'' on an [[HP2000]] [[minicomputer]] like his 1972 game ''[[Empire (1972 video game)|Empire]]''. Langston rewrote the game in [[C (programming language)|C]] in 1974 while at [[Harvard University]] and released it to other users of the mainframe system.<ref name="sourcecode"/> He maintained the game through the rest of the decade, with a release in 1980 as part of his PSL Games Collection package of games for [[Unix]].<ref name="LangstonUnix"/> The game was thought lost since, as the mainframe computers it ran on were discontinued and no backup copies were known, but in 2015 an interactive fiction enthusiast named "ant", upon seeing the game on a list of lost mainframe games, contacted Langston, who found a copy of the 1980 version in a friend's email archives. The 1980 source code has since been uploaded to [[GitHub]], with adjustments made by Langston and others to make it run on non-unix systems.<ref name="sourcecode"/>
+
+==References==
+{{reflist|refs=
+<ref name="RetroMag">{{cite magazine|title=Colossal Cave 40th |url=https://archive.org/details/RetroManiac-Magazine-11/page/n213 |magazine=RetroManiac |issue=11 |date=October 29, 2016 |page=214}}</ref>
+<ref name="wanderign">{{cite web|last=Rad|first=Chloi|url=https://www.ign.com/articles/2015/04/27/wander-first-ever-mainframe-text-adventure-game-recovered|title=Wander, First ever Mainframe text adventure game, recovered|publisher=IGN|date=April 27, 2015|accessdate=December 20, 2018}}</ref>
+<ref name="sourcecode">{{cite web|last=Tanbusch|first=Savannah|url=https://killscreen.com/articles/rediscovered-mainframe-game-from-1974-might-first-text-adventure/|title=A rediscovered Mainframe game from 1974 might be the first Text Adventure|publisher=Killscreen|date=January 5, 2015|accessdate=December 20, 2018}}</ref>
+<ref name="mainframe">{{cite web|last=de Klerk|first=Rick|url=https://www.nag.co.za/2015/05/05/earliest-text-adventure-rediscovered-available-to-public/|title=Earliest text adventure rediscovered, available to public|publisher=NAG Online|date=May 5, 2015|accessdate=December 20, 2018}}</ref>
+<ref name="LangstonUnix">{{cite journal|title=Chapter VIII: The Craft of Adventure|url=https://inform-fiction.org/manual/Chapter8.pdf|journal=The Informer's Design Manual |page=363}}</ref>
+}}
+
+==External links==
+*{{Internet Archive game|id=wander_201504|title=Wander}}
+*[https://github.com/shmup/wander Source code]
+
+[[Category:1974 video games]]
+[[Category:1970s interactive fiction]]
+[[Category:Mainframe games]]
+[[Category:Video games developed in the United States]]

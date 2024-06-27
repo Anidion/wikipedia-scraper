@@ -1,0 +1,106 @@
+Island of Kesmai
+Permalink: //en.wikipedia.org/w/index.php?title=Island_of_Kesmai&oldid=1167572565
+Accessed on: 2024-06-26T16:58:40.471519
+
+
+
+------
+Island of Kesmai
+{{Redirect|IoK|Indian-administered Kashmir|Jammu and Kashmir (union territory)}}
+{{italic title}}
+{{Infobox video game
+| title = Island of Kesmai
+| developer = [[Kesmai]]
+| publisher = [[CompuServe]]
+| released = 1985
+| genre = Fantasy [[Multi-user dungeon|MUD]]
+| modes = [[Multiplayer video game|Multiplayer]]
+}}
+{{Infobox video game
+| title = Legends of Kesmai
+| developer = [[Kesmai]]
+| publisher = [[AOL]], [[GameStorm]]
+| released = 1996
+| genre = Fantasy [[Multi-user dungeon|MUD]]
+| modes = [[Multiplayer video game|Multiplayer]]
+}}
+
+'''''Island of Kesmai''''' was an early commercial [[online game]] in the [[Multi-user dungeon|multi-user dungeon (MUD)]] genre, innovative in its use of [[roguelike]] pseudo-graphics. It is considered a major forerunner of modern [[massively multiplayer online role-playing game|massively multiplayer online role-playing games (MMORPGs)]].
+
+==Launch date==
+In the summer of 1980 [[University of Virginia]] classmates [[John R. Taylor III|John Taylor]] and [[Kelton Flinn]] wrote ''Dungeons of Kesmai'', a six player game inspired by ''[[Dungeons & Dragons]]'' which used [[Roguelike]] [[ASCII]] graphics. They founded the [[Kesmai]] company in 1982 and in 1985 an enhanced version of ''Dungeons of Kesmai'', ''Island of Kesmai'', was launched on [[CompuServe]]. Later, its 2-D graphical descendant ''[[Legends of Kesmai]]'' was launched on [[AOL]] in 1996. The games were retired commercially in 2000.<ref name="dog" />
+
+==Price to play==
+The game was available on [[CompuServe]] for no additional charge, but CompuServe charged $6 per hour for 300 [[baud]] or $12 per hour for 1200 [[baud]] access rates. The game processed one command every 10 seconds, which equates to 1{{fraction|2|3}} cents per command. Players could also order an optional 181-page game manual from Compuserve for $16.50.<ref name="da" />
+
+==Game characteristics==
+After logging into Compuserve and selecting to play ''Island of Kesmai'', the user was allowed to create a character. After creating a character, the next step was to enter the [[chat room]]. From the chat room, the user could enter the [[virtual world]].
+
+The game interface was two dimensional and scrolled unless you downloaded and installed a [[GUI]].<ref name="netgames" /> The interface has often been called [[roguelike]] in that it borrowed features of game-play from a game called ''[[Rogue (computer game)|Rogue]]''. The game used a ''[[Dungeons & Dragons]]''-like turn-based play. Players moved in tiles on a grid utilizing short commands or key presses. Items could be found on the floor of the dungeon as symbols &mdash; as could [[Mob (computer gaming)|mobs]] to fight.
+
+One of the notable game play systems was the ability to perform quests for various rewards.<ref name="netgames" /> These choreographed progressions represented some of the first online questing systems which would become a significant aspect of the wildly popular future [[massively multiplayer online role-playing game|MMORPGs]] such as ''[[EverQuest]]'' and ''[[World of Warcraft]]''.
+
+===Setting===
+The island of Kesmai was divided into five regions that totalled 62,000 discrete locations, was populated by 2500 creatures and non-player characters, and could support up to 100 simultaneous players.<ref name=da>{{cite web | url =https://www.filfre.net/tag/island-of-kesmai/ | title =Games on the Net Before the Web, Part 3: The Persistent Multiplayer CRPG | last =Maher | first =Jimmy
+| date =2017-12-22 | website =The Digital Antiquarian | access-date =2021-04-27}}</ref>
+
+In 1988, with many players approaching the maximum character level, the new lands of Torii and Annwn were introduced. Promotional material promised "more powerful weapons, tougher monsters, and a variety of treasures". Players could only travel to those lands when they had reached the island's maximum character level, and once they had travelled to the new regions, they could never return to the island.<ref name="da" />
+
+==''Legends of Kesmai''==
+'''''Legends of Kesmai''''' (LOK) was among the first successful [[Massively multiplayer online role-playing game|graphical multi-player online role-playing games]]. It was based on a slightly stripped down version of ''Island of Kesmai'' with 2D [[Sprite (computer graphics)|sprites]] replacing ''IoK''<nowiki>'</nowiki>s [[roguelike]] pseudo-graphics, and was available for play at [[America Online]] and [[GameStorm]]. Prior to that, [[Kesmai]] corporation ran a long open beta for the game, as well as hosting the game for a short period of time in the mid 1990s. In 1999 [[Electronic Arts]] bought Kesmai and in 2000 closed the business.<ref name="dog" /><ref name="caron" />
+
+==Reception==
+Patricia Fitzgibbons reviewed the game for ''[[Computer Gaming World]]'', and stated that "even telegamers who have become jaded with D&D-type programs perk up when they're adventuring with a party of real people. The best MP games allow players to interact and cooperate as well as compete with one another. IOK is a prime example of this facility".<ref name="CGW29">{{cite magazine |last=Fitzgibbons |first=Patricia |title=Island of Kesmai |magazine=Computer Gaming World |date=June–July 1986 |volume=1 |issue=29 |pages=30–31}}</ref>
+
+In the December 1987 edition of ''[[Dragon (magazine)|Dragon]]'' (Issue 128), Cheryl Peterson gave an in-depth examination of the game, noting it could be used by "anyone with a personal computer and a modem" and that it was unique at that point in time due to the interaction between players. She also noted that this was a game where "there is no real winner in any session. The point is for players to enjoy themselves and have fun".<ref name=dragon128>{{cite magazine|last=Peterson|first=Cheryl|date=December 1987 |title=The Island in Your Computer|magazine=[[Dragon (magazine)|Dragon]]|publisher=[[TSR (company)|TSR, Inc.]]|issue=128|pages=69–73}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="dog">{{cite book
+ | last1 = Mulligan | first1 = Jessica
+ | last2 = Patrovsky | first2 = Bridgette
+ | year = 2003 
+ | title = Developing Online Games: An Insider's Guide
+ | publisher = New Riders
+ | isbn = 1-59273-000-0
+ | pages = 447, 463
+ | quote = 1985 [...] "My memory says that ''Island of Kesmai'' went live on CompuServe on December 15, 1985, after a very long internal test. The price was actually $6 an hour for 300 baud, $12 for 1200 baud. Serious players paid the bucks." '''&mdash;[[Kelton Flinn]]''' [...] 2000 [...] In May, Electronics Arts announces the shutdown of most of the Kesmai games, including ''Legends of Kesmai'' and ''Air Warrior Classic''.
+}}</ref>
+<ref name="netgames">{{cite book
+ | last1 = Maloni
+ | first1 = Kelly
+ | last2 = Baker
+ | first2 = Derek
+ | last3 = Wice
+ | first3 = Nathaniel
+ | year = 1994
+ | title = Net Games
+ | publisher = Random House / Michael Wolff & Company, Inc.
+ | isbn = 0-679-75592-6
+ | pages = [https://archive.org/details/netgamesyourguid00malo/page/95 95]
+ | quote = '''Island of Kesmai''' You know a game has a steep learning curve when there are five file libraries on the subject, in this case in CompuServer's MPGAMES Forum. First of all, make your life easier and download one of the front-end shareware programs. You'll also want to download maps of the various areas, so you know where you're going. ¶ '''Fluid world''' ¶ Once you get the hang of all this, you'll find Kesmai to be a remarkably fluid world&mdash;there's no main goal to achieve, just adventure after adventure. And when you're not on a particular quest, join others in a hunting party and go after some big-time game (and treasure). Get enough experience points and you can find your way out of Kesmai and into the other segments of the game, eventually leaving the basic game entirely for the more-challenging Advanced Game. ¶ ''Kesmai'' is a multiplayer game in the truest sense: killing other players is forbidden, and stealing from them (even if you're a thief) is frowned upon. There are so many other ways to perish here, however, that you'll probably be thankful you have to leave fellow players alive&mdash;they can help you.
+ | url-access = registration
+ | url = https://archive.org/details/netgamesyourguid00malo/page/95
+ }}</ref>
+<ref name="caron">{{cite web
+ | last = Caron | first = Frank
+ | url = https://arstechnica.com/journals/thumbs.ars/2008/02/26/aretrospective-look-at-the-studios-ea-has-bought-and-broke
+ | title = A look at the studios EA has bought and shuttered
+ | work = [[Ars Technica]]
+ | date = 2008-02-26
+ | accessdate = 2010-05-26
+}}</ref>
+}}
+
+{{MUDs}}
+{{Authority control}}
+
+[[Category:1985 video games]]
+[[Category:CompuServe]]
+[[Category:Roguelike video games]]
+[[Category:Role-playing video games]]
+[[Category:MUD games]]
+[[Category:Multiplayer online games]]
+[[Category:Inactive multiplayer online games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set on fictional islands]]

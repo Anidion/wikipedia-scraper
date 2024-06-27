@@ -1,0 +1,97 @@
+Sinistar
+Permalink: //en.wikipedia.org/w/index.php?title=Sinistar&oldid=1224119639
+Accessed on: 2024-06-26T16:55:50.993760
+
+
+
+------
+Sinistar
+{{short description|1983 video game}}
+{{Infobox video game
+|title = Sinistar
+|image = Sinistar cover.jpg
+|caption = Cabinet marquee
+|developer = [[Williams (gaming company)|Williams Electronics]]
+|publisher = [[Williams (gaming company)|Williams Electronics]]
+|designer = [[Noah Falstein]]<br>[[John Newcomer]]
+|artist = Jack Haeger
+|programmer = Sam Dicker<br>[[RJ Mical]]<br>Richard Witt<br>Ken Graham
+|released = February 1983<ref name="IS">{{cite journal|last1=Falstein|first1=Noah|title=Reflections on the Birth of Sinistar|journal=Gamesauce|date=Fall 2009|url=https://issuu.com/gamesauce/docs/2009fallgamesauce}}</ref>
+|genre = [[Multidirectional shooter]]
+|modes = [[Single-player video game|Single-player]], 2 players alternating
+|arcade system =
+|platforms = [[Arcade video game|Arcade]]
+}}
+
+'''''Sinistar''''' is a 1983{{efn|The game was released in 1983.<ref name="IS"/><ref name="manual"/> The in-game copyright notice incorrectly reads 1982.}} [[multidirectional shooter]] [[arcade game]] developed and manufactured by [[Williams (gaming company)|Williams Electronics]].<ref>Burnham, Van (2003) "Supercade: A Visual History of the Videogame Age 1971-1984" {{ISBN|0-262-52420-1}}</ref> It was created by Sam Dicker,<ref name=S>{{cite web|url=http://www.sinistar.com/nf.html|title=Noah Falstein on the development of Sinistar|website=www.sinistar.com|access-date=2014-11-24|archive-date=2021-05-16|archive-url=https://web.archive.org/web/20210516002617/http://www.sinistar.com/nf.html|url-status=dead}}</ref> Jack Haeger,<ref name=S/> [[Noah Falstein]],<ref>Burnham (2003) p. 320</ref> [[RJ Mical]], [[Python Anghelo]],<ref name=IS/> and Richard Witt.<ref name=S/> Players control a space pilot who battles the eponymous Sinistar (voiced by [[John Doremus]]), a giant, anthropomorphic spacecraft. The game is known for its use of digitized speech and high difficulty level.<ref>{{cite web|last1=Sawyer|first1=Steve|title=The Most Difficult Arcade Games – Ever!|url=https://www.libertygames.co.uk/blog/the-most-difficult-arcade-games-ever/|website=Liberty Games Blog}}</ref><ref name="pop">{{cite web|last1=Williams|first1=G. Christopher|title='Beware, I Live': The Voice of Antagonism, The Voice of the Arcade|url=http://www.popmatters.com/post/181282-beware-i-live-the-voice-of-antagonism-the-voice-of-the-arcade/|website=Pop Matters|date=26 January 2021}}</ref>
+
+Although not ported individually to home consoles, ''Sinistar'' was included in various arcade compilations. A sequel entitled ''[[Sinistar: Unleashed]]'' was released for [[Microsoft Windows]] in 1999.
+
+==Gameplay==
+{{More citations needed|section|date=February 2022}}
+[[File:ARC Sinistar.png|thumb|left|The player's ship, left of center, below a Warrior and partially obscured by a just-released Sinibomb.]]
+
+The player pilots a lone [[spacecraft]], flying through a large region of space, part of which is shown on the [[mini-map]] at the top of the screen. Shooting drifting [[asteroid|planetoids]] releases small, white [[crystals]]. When collected, each crystal turns into a "Sinibomb", which is the weapon for defeating the [[Boss (video games)|end of level boss]], Sinistar, an animated spacecraft with a demonic [[skull]] face. A planetoid contains a limited number of crystals; shooting it too rapidly causes it to explode.
+
+Sinistar does not exist at the start of a level, but is constructed by red enemy worker ships. Workers cannot hurt the player, but they compete to collect crystals to build the Sinistar. Warrior ships directly attack the player's ship, shoot planetoids to mine crystals, and guard the Sinistar while it is being built. It takes 20 crystals to create the 20 pieces of a completely built Sinistar, but only 13 Sinibombs to destroy it. The 7 pieces making up the face are considered a single piece once Sinistar is active.
+
+When the Sinistar is complete, its [[Speech synthesis|digitized voice]] announces "Beware, I live" and Sinistar chases the player's ship while making threatening remarks: "Run! Run! Run!", "Beware, coward!", "I hunger!", "Run, coward!", and a loud roar. It has no weapons, but it destroys the player's ship on contact, after which it sometimes proclaims "I am Sinistar". A dedicated button releases a Sinibomb which automatically targets the Sinistar. A Sinibomb can be intercepted mid-flight by Workers, Warriors, and planetoids. Successfully damaging the Sinistar causes angry roaring.
+
+The player warps to a new zone each time ''Sinistar'' is defeated. The unnamed first zone is followed by the Worker Zone, Warrior Zone, Planetoid Zone, and Void Zone, then it cycles back to the Worker Zone. Each zone emphasizes a particular game feature, with the Void Zone having fewer planetoids. In all but the first zone, a completed but damaged ''Sinistar'' can be repaired by enemy Workers, extending its lifespan if the player is unable to kill it quickly.
+
+==Development==
+''Sinistar'' was the first game with [[Stereophonic sound|stereo]] sound (in the sit-down version), with two independent front and back sound boards for this purpose. It also uses a 49-way optical [[joystick]] that Williams produced specifically for this game.<ref name=S/>
+
+The voice of Sinistar was recorded by radio personality [[John Doremus]]<ref>[https://www.imdb.com/name/nm1707880/ Internet Movie Database]{{unreliable source?|date=September 2014}}</ref> and played through an HC-55516 [[Continuously variable slope delta modulation|CVSD]] decoder.<ref>{{cite web|url=http://maws.mameworld.info/minimaws/set/trog|title=MAME 0.36b7 changelog|publisher=|access-date=2011-10-03|archive-date=2011-10-07|archive-url=https://web.archive.org/web/20111007113335/http://maws.mameworld.info/minimaws/set/trog|url-status=dead}}</ref><ref>{{cite web|url=http://www.system16.com/hardware.php?id=610|title=System 16 - Williams/Midway Y Unit Hardware (Midway)|website=www.system16.com}}</ref>
+
+''Sinistar'' contains a [[software bug|bug]] that grants the player many lives (ships). It happens only if the player is down to one life and the ''Sinistar'' is about to eat the player's ship. If a warrior ship shoots and destroys the ship at this moment, it immediately takes the player to zero lives, and the ''Sinistar'' eating the player subtracts another life. Since the number of lives is stored in the game as an 8-[[bit]] [[Signedness|unsigned integer]], the subtraction from zero will cause the integer to [[integer overflow|wrap around]] to the largest value representable with 8 bits, which is 255 in decimal.<ref>[[Noah Falstein]] interview, ''Williams Arcade Classics'' CD-ROM for DOS and Microsoft Windows, Williams Entertainment, 1996</ref>
+
+The [[Motorola 6809|6809]] source code for ''Sinistar'' is available at https://github.com/historicalsource/sinistar.
+
+== Reception ==
+In 1995, ''[[Flux (magazine)|Flux]]'' magazine ranked ''Sinistar'' 72nd on their Top 100 Video Games. They praised the game calling it a "truly harrowing" arcade classic.<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=31}}</ref>
+
+==Legacy==
+There were no contemporary ports of ''Sinistar''. Versions for [[Atari 2600]]<ref>{{cite web |url=http://www.atariprotos.com/2600/software/sinistar/sinistar.htm |title=Sinistar (Atari 2600) |last=Reichert |first=Matt |work=AtariProtos.com |accessdate=2011-03-05}}</ref> and the [[Atari 8-bit computers]] were in progress,<ref>{{cite web |url=http://www.atariprotos.com/8bit/software/sinistar/sinistar.htm |title=Sinistar (Atari 8-bit) |last=Reichert |first=Matt |work=AtariProtos.com |accessdate=2011-03-05}}</ref> but not completed. ''Sinistar'' was commercially available in the mid-1990s as part of ''[[Williams Arcade's Greatest Hits]]'' for the [[Super Nintendo Entertainment System|Super NES]], [[Sega Genesis]] and [[Sega Saturn|Saturn]], [[Dreamcast]], [[PlayStation]], and [[Microsoft Windows]]. It is also available as part of ''[[Midway Arcade Treasures]]'' for the [[Xbox (console)|Xbox]], [[GameCube]], and [[PlayStation 2]] in 2003, and for Windows in 2004; part of ''[[Midway Arcade Treasures: Extended Play]]'' for the PlayStation Portable in late 2005; and part of ''[[Midway Arcade Origins]]'' for the [[PlayStation 3]] and [[Xbox 360]].<ref>{{cite web|url=http://www.ign.com/articles/2012/11/14/midway-arcade-origins-review|title=Midway Arcade Origins Review|first=Samuel|last=Claiborn|date=13 November 2012|publisher=}}</ref> ''Sinistar'' is included in ''[[Midway's Greatest Arcade Hits]]'' on the [[Game Boy Advance]].<ref>[https://uk.ign.com/articles/2003/01/01/midways-greatest-arcade-hits IGN]</ref>
+
+A 3D sequel from a different developer and publisher was released for Windows in 1999 as ''[[Sinistar: Unleashed]]''.<ref>[https://web.archive.org/web/20121106213235/http://www.gamespot.com/sinistar-unleashed/techinfo/platform/pc/ Webcitation.org]</ref>
+
+===Clones===
+''[[Deathstar (video game)|Deathstar]]'' is a ''Sinistar'' clone for the [[BBC Micro]] and [[Acorn Electron]], published by [[Superior Software]] in 1984.<ref>{{cite web|url=http://www.acornelectron.co.uk/mags/aab/revs/superior/r-deat.html|title=Acorn User Review Archive: DEATHSTAR|website=www.acornelectron.co.uk|access-date=2014-11-24|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304023634/http://www.acornelectron.co.uk/mags/aab/revs/superior/r-deat.html|url-status=dead}}</ref> It was originally developed as an official port to be released by [[Atarisoft]], but they decided to abandon the BBC platform while a number of games were still in development. ''Sinistaar'' (1989) is a clone for the Tandy Color Computer 3.<ref>{{cite web|last1=Boyle|first1=L. Curtis|title=Sinistaar|url=http://www.lcurtisboyle.com/nitros9/sinistaar.html|website=Tandy Color Computer Games List}}</ref> ''Xenostar'' (1994) is a public domain clone for the Amiga.<ref>{{Cite web|url=http://aminet.net/package/game/shoot/Xenostar|title=Aminet - game/Shoot/Xenostar.lha}}</ref>
+
+===In popular culture===
+Sinistar is referenced in various non-video-game media. The [[Cage (rapper)|Cage]] song "Grand Ol' Party Crash" samples Sinistar. The film ''[[We Are the Strange]]'' uses "Beware, I live", "I hunger", "Run, coward", and Sinistar's roar. Sinistar makes several appearances in the [[webcomic]] ''[[Bob the Angry Flower]]'', and also appears as the title of one of the print editions of the comic. Sinistar appears in the DVD version of the ''[[South Park]]'' episode trilogy "[[Imaginationland (disambiguation)|Imaginationland]]". The sound bite "Beware, coward" was used in the theme tune to the British [[Channel 4]] video-game TV show ''[[Bits (TV series)|Bits]]''.<ref>{{Citation|last=DKTronics70|title=Bits Series 1 Part 1|date=2008-06-19|url=https://www.youtube.com/watch?v=N6mcf9t3GFw|archive-url=https://web.archive.org/web/20120714195318/http://www.youtube.com/watch?v=N6mcf9t3GFw&gl=US&hl=en| archive-date=2012-07-14|url-status=dead|access-date=2018-10-19}}</ref> The audio version of podcast ''[[IGN]] Game Scoop'' uses the sound bite "Beware, I live" in its theme tune.<ref>{{Cite web|url=https://player.fm/series/game-scoop|title=Game Scoop!|last=FM|first=Player|website=Game Scoop!|language=en|access-date=2018-10-19}}</ref> The game was featured prominently in the music video for the [[Sheena Easton]] song "[[Almost Over You]]".<ref>{{cite web |url=https://www.youtube.com/watch?v=Ugl3pd8LUhA |archive-url=https://ghostarchive.org/varchive/youtube/20211213/Ugl3pd8LUhA| archive-date=2021-12-13 |url-status=live|title=Sheena easton - Almost over you - 1983 |last=lolymaslol|date=9 September 2010 |access-date=12 April 2018|via=YouTube}}{{cbignore}}</ref> Sinistar himself is name-dropped and various lines of his are quoted in Stage 42 of [[List of Neon Genesis Evangelion chapters#Neon Genesis Evangelion: Shinji Ikari Raising Project|Neon Genesis Evangelion: Shinji Ikari Raising Project]].
+
+''Sinistar'' receives a large reference in chapters 30 and 31 of the Dresden Files book ''[[Ghost Story (The Dresden Files)|Ghost Story]]'', a 2011 novel in the Dresden Files series by [[Jim Butcher]], during a recollection of a demonic battle from the protagonist's youth.<ref>{{Cite web|url=https://www.jim-butcher.com/books/dresden/ghost-story|title=Ghost Story|date=27 December 2010|language=en|access-date=2020-12-07}}</ref>
+
+Vocal samples of ''Sinistar'' are used in [[Buckethead]]'s song "Revenge of The Double-Man" that appears in the 1999 album ''[[Monsters and Robots]]''.
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{portal|Video games}}
+{{Reflist|refs=
+<ref name="manual">{{cite book|title=Sinistar Instruction Manual|date=1983|publisher=Williams Electronics|url=https://archive.org/details/ArcadeGameManualSinistar}}</ref>
+}}
+
+==External links==
+* {{KLOV game|id=9553}}
+* [http://www.sinistar.com/origsin.html The ''SiniStar'' information page at sinistar.com]
+* [http://www.schoenke.com/tyler/sinistar/index.html Tyler's ''Sinistar'' Page], another ''Sinistar'' site
+* [https://www.youtube.com/watch?v=Dmx-Q-P_3cU RJ Mical talks about the easter egg in ''Sinistar'']
+
+[[Category:1983 video games]]
+[[Category:Arcade video games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Cancelled Atari 8-bit computer games]]
+[[Category:Cancelled BBC Micro and Acorn Electron games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Fictional doomsday devices]]
+[[Category:Multidirectional shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Fiction about spaceflight]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in outer space]]
+[[Category:Williams video games]]

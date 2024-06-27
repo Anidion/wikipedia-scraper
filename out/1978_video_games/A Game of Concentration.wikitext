@@ -1,0 +1,52 @@
+A Game of Concentration
+Permalink: //en.wikipedia.org/w/index.php?title=A_Game_of_Concentration&oldid=1224497063
+Accessed on: 2024-06-26T16:47:52.457775
+
+
+
+------
+A Game of Concentration
+{{short description|1978 video game}}
+{{Infobox video game
+|title = A Game of Concentration
+|image = A Game of Concentration Coverart.png
+|caption =
+|developer = [[Atari, Inc.]]
+|publisher = Atari, Inc.
+|designer = Jim Huether<ref name=giantlist>{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|engine = 
+|released = {{vgrelease|NA|1978}}
+|genre = [[Card game]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Atari 2600]]
+}}
+
+'''''A Game of Concentration''''' (also known as '''''Concentration''''' and '''''Hunt & Score''''') is a [[video game]] programmed by Jim Heuther of [[Atari, Inc.]] and released in 1978 for the Atari VCS (later renamed to the [[Atari 2600]]).<ref name=mania/> It is a  digital version of the [[Concentration (game)|classic memory game]] played with cards. ''A Game of Concentration'' is one of a handful of games that use Atari's keypad controllers.<ref>{{cite web|url=http://www.atariage.com/controller_page.html?ControllerID=4&SystemID=2600|title=Atari Keypad|work=AtariAge.com|accessdate=2010-08-26}}</ref>
+
+The game was released by [[Sears]] for its Tele-Games Video Arcade console under the name '''''Memory Match'''''.<ref>{{cite web|url=http://www.atariage.com/software_page.html?SystemID=2600&SoftwareID=1147|title=Memory Match (Sears)|work=AtariAge.com|accessdate=2010-08-26|archive-url=https://web.archive.org/web/20121015085001/http://www.atariage.com/software_page.html?SystemID=2600&SoftwareID=1147|archive-date=2012-10-15|url-status=dead}}</ref>
+
+==Gameplay==
+[[File:A Game of Concentration Atari 2600.jpg|thumb|left|Gameplay screenshot]]
+The game is played using a matrix of numbered panels, either 4 x 4 (for 16 panels) or 5 x 6 (for 30 panels). Using the keypad, players enter the number of the panels they wish to reveal. If the images behind the two panels match, the panels are removed and the player scores 1 or 2 points, depending on what difficulty the switch is set to, along with an extra turn.<ref>{{cite web|url=http://www.atariage.com/manual_page.html?SystemID=2600&SoftwareLabelID=203&maxPages=6&currentPage=2|title=Atari 2600 Manuals - Game of Concentration (Atari)|work=AtariAge.com|accessdate=2010-08-26}}</ref>
+
+The game has a total of eight variations, four each for each matrix size and four have wild cards. Each matrix can be played by either a single player or by two players taking turns; in single-player games, the player attempts to clear the matrix with as few incorrect matches as possible. Also, players can enable wild cards that will match any image on the board.<ref>{{cite web|url=http://www.atariage.com/manual_page.html?SystemID=2600&SoftwareLabelID=203&maxPages=6&currentPage=5|title=Atari 2600 Manuals - Game of Concentration (Atari)|work=AtariAge.com|accessdate=2010-08-26}}</ref>
+
+==See also==
+{{Portal|Video games}}
+*[[List of Atari 2600 games]]
+
+==References==
+{{reflist|refs=
+<ref name="mania">{{cite web |title=Game of Concentration |url=http://www.atarimania.com/game-atari-2600-vcs-game-of-concentration-a_18198.html |website=Atari Mania}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=18198}}
+
+{{DEFAULTSORT:Concentration, A Game of}}
+[[Category:1978 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Memory games]]

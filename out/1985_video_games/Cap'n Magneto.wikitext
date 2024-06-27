@@ -1,0 +1,73 @@
+Cap'n Magneto
+Permalink: //en.wikipedia.org/w/index.php?title=Cap%27n_Magneto&oldid=1230335421
+Accessed on: 2024-06-26T16:58:11.852229
+
+
+
+------
+Cap'n Magneto
+{{Short description|1985 video game}}
+{{multiple issues|
+{{more references|date=August 2016}}
+{{original research|date=November 2019}}
+}}
+{{Infobox video game
+| title = Cap'n Magneto
+|image = Cap'n Magneto splash screen.png
+|developer = Al Evans
+|designer = Al Evans
+|released = [[1985 in video gaming|1985]], [[2000 in video gaming|2000]], [[2005 in video gaming|2005]]
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single player]]
+|platforms = [[Apple III]], [[Macintosh]]
+}}
+'''''Cap'n Magneto''''' is a [[shareware]] graphical [[adventure game]] released for the [[Apple III]] in 1983 and the [[Macintosh]] in 1985. In 2020, the game was re-released as [[freeware]]. The game follows Captain Lance Magneto as he attempts to capture the ''Crown of Control'', a mind-control device being used to commit piracy around the planet Rigel IV. As he approaches the planet the device is used on his ship, causing it to crash. The player controls Magneto and tries to collect items from the map in order to capture the Crown and leave the planet.
+
+==Gameplay==
+
+The game takes place on a top-down 2-D map, which is colorized in recent versions. The characters, including Magneto, appear in side view. By modern standards the map is quite small, wrapping around after about three window-sizes, the windows remaining limited to the original 512 × 384 resolution of the early Macs. Magneto could move only in the four cardinal directions, either by pressing buttons on the "control panel" on the right side of the screen, or by using the cursor keys in modern versions (early Macs did not include cursor keys). There are several other buttons used to identify objects and translate the alien speech, pick up or drop objects, and to use the various equipment found while playing.
+
+''Cap'n Magneto'' is based on finding and collecting important items scattered around the map, and then using them to access different areas of the map and continue in this fashion. Most of the map consists of various "buildings", including the broken remains of Magneto's ship, as well as a useful apple tree and a small island. Some of the map locations lead to "new maps" when entered, areas that are represented by smaller buildings on the original "outdoors" map.
+
+Also scattered around the map are various alien characters who are sometimes friendly; friendly aliens will follow Magneto around the map, periodically saying various "help text"-like statements that are spoken using the Mac's speech system. These statements come out as an odd garbled sound and text until Magneto retrieves his [[tricorder]] from the ship's wreckage, although it is possible to partially decode the text labels as the [[symbol font]] used to obscure the text is similar enough to make some text legible.
+
+Friendly aliens will help Magneto in combat, dramatically improving his odds of winning the game. Although friendlies are not particularly strong attacking, enemies attacking Magneto have an equal chance of attacking any friendlies nearby, reducing the number of hits Magneto will take. Combat is very simple; the player clicks on a target and holds the mouse (or cursor key) while a "battle counter" appears and displays random numbers, the idea being to release the mouse when the number is high in order to do more damage. Magneto's health is displayed as a small bar at the bottom of the screen, and will regain strength with time.
+
+== Plot ==
+Captain Lance Magneto of the Intergalactic Rangers, crash-landed on an alien planet to find the space pirate named The Menturg. His mission was to gather supplies and tools scattered across the world to defeat the villain and find his way back home. 
+
+[[File:Cap'n Magneto in-game.png|thumb|right|250px|Scene early in the game as Magneto searches the wreckage of his spacecraft. He is being followed by a friendly alien (smiling, with his hand out) while two neutral aliens hover nearby. The "Identify" button has been pressed, labeling the various objects, but without his tricorder most of these are translated to gibberish by rendering in a symbol font. The tricorder is visible at the bottom of the screen, not having been picked up yet. The green bar in the title area at the bottom is Magneto's health, currently full.]]
+
+== Al Evans ==
+
+Al Evans created "Cap'n Magneto" as part of overcoming a terrible car crash, in which he received extreme burns to his body. Evans states "The chance of me living to the age of 28 or 30 was below 30% or something like that" going on to say  "I wasn't going to spend the next two years of my life dorking around different hospitals. So I said what's the alternative?". Captain magneto is unique for its speech systems and the fact that Non-player characters can choose whether they like you or not. <ref name="choi" /> After an eclectic life full of computer programming, music, artwork, and friends around the world, Al Evans died at home surrounded by family on July 19, 2022.
+
+==Development==
+
+The game was originally written by Al Evans for the original 128K Macintosh in [[Apple Pascal|Lisa Pascal]], and was released as shareware in 1985. It is a rewritten and expanded version of Evans' 1983 [[Apple III]] game ''Cap'n Magneto''.<ref name="ross">{{cite book |last=Moss |first=Richard |date= March 22, 2018 |title=The Secret History of Mac Gaming |chapter=02 Nineteen Eighty-Four |publisher=Unbound |asin= B0732LJB15}}</ref> Evans describes it as "the first truly interactive game for the Apple Macintosh"<ref>[http://www.capnmagneto.com/instructions.html ''Cap'n Magneto'' game manual]</ref> and writer Richard Moss claims it is the "first free-roaming direct control adventure game" released for Macintosh.<ref name="ross" /> This version continued to work on all of the early versions of the [[classic Mac OS]] and was a common shareware fixture. The game stopped working under [[System 7]], and several compatibility updates followed.
+
+Evans intended ''Cap'n Magneto'' to show a vision of how he conceived the world worked, "an amalgamation of hard-earned lessons on the value of relationships, being an active participant in shaping the world and knowing how to move on."<ref name="choi">{{cite news |last=Choi |first=Hojun |date=2021-05-13 |title=Freeing Cap'n Magneto: How Austinite's quest to overcome adversity inspired 1980s cult classic videogame |url=https://www.statesman.com/in-depth/news/2021/05/13/al-evans-capn-magneto-videogame-creator-persevered-after-injury/7185492002/?fbclid=IwAR1upOd_zbI4nODw9n9jvOo0y0Qw8xKYyqgJgHt0Jf18RUK3EIEPbUE64Tg |work=[[Austin American-Statesman]] |access-date=2021-05-26}}</ref> He was inspired by the ''[[Ultima (series)|Ultima]]'' series but annoyed that combat was the only interaction possible with creatures. He implemented the ability to befriend creatures because he felt that a game in which everyone is the enemy "doesn't reflect the game of life [...] most people actually, are probably pretty friendly."<ref name="choi" />
+
+==Reception==
+
+''[[Macworld]]'' named the Macintosh version of ''Cap'n Magneto'' the "Best of Show" as part of its Shareware and Public Domain Game Awards in 1987. ''Macworld'' praises ''Cap'n Magneto's'' gameplay, stating that "Although ''Cap'n Magneto'' resembles other games with its emphasis on fighting and destroying enemies, it requires strategy to win. Moreover, making friends is at least as important as fighting, which sets ''Cap'n Magneto'' apart from the rest. ''Cap'n Magneto'' successfully combines arcadelike features with the puzzle-solving spirit of a good adventure game."<ref>{{cite magazine|last = DeMaria|first = Rusel|title = Shareware and Public Domain Game Awards|date = November 1987|url = https://archive.org/details/MacWorld_8711_November_1987/page/n165|magazine = Macworld|publisher = Mac Publishing|page = 164-165}}</ref>
+
+In 1989, ''[[MacUser]]'' magazine named ''Cap'n Magneto'' one of the 200 best Macintosh products, calling it "an old favorite that's still popular" and enjoyable despite being "crude compared with some more recent games."<ref>{{cite magazine |title = 200 Best Macintosh products: Best 50 Shareware
+|volume=5|number=12 |date = December 1989|url = https://vintageapple.org/macuser/pdf/MacUser_8912_December_1989.pdf#page=177|magazine = [[MacUser]]|publisher = [[Ziff Davis|Ziff-Davis Publishing Company]]|page = 173}}</ref>
+
+==Legacy==
+
+In 1993, ''Cap'n Magneto'' was updated for compatibility with System 7 and Macintoshes up to the Quadra 850. This version was never widely distributed, as the original publisher went out of business before it was released. A quickly-patched version running on [[Mac OS X]] appeared as one of the "hacks" at [[MacHack|MacHack 2000]], known as ''The Return of Cap'n Magneto''. In 2005 a new [[Carbon (API)|Carbonized]] version with colorized graphics replacing the previous black and white graphics was released to run natively on [[Mac OS X]], and the original and 1993 versions were released free for download. The Carbonized version is not compatible with [[Mac transition to Intel processors|Intel-based Mac]]s running [[Mac OS X Lion]] and newer versions of macOS, due to the dropping of [[Rosetta (software)|Rosetta]] support. In 2020, Al Evans released ''Cap'n Magneto'' as freeware and posted a free-to-use registration code on the official ''Cap'n Magneto'' website, following the demise of KAGI, the company that handled the game's registration.
+
+==References==
+<references/>
+
+==External links==
+* [http://www.capnmagneto.com Cap'n Magneto web site]
+* [https://www.statesman.com/in-depth/news/2021/05/13/al-evans-capn-magneto-videogame-creator-persevered-after-injury/7185492002/ Article about the game]
+
+[[Category:1985 video games]]
+[[Category:Adventure games]]
+[[Category:Classic Mac OS games]]
+[[Category:Classic Mac OS-only games]]
+[[Category:Video games developed in the United States]]

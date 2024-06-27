@@ -1,0 +1,63 @@
+Amazon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Amazon_%28video_game%29&oldid=1231140861
+Accessed on: 2024-06-26T16:56:17.459917
+
+
+
+------
+Amazon (video game)
+{{Short description|1984 video game}}
+{{Infobox VG
+ |title       = Amazon
+ |image       = Amazon (video game).jpg
+ |alt         = 
+ |developer   = [[Telarium]]
+ |publisher   = Telarium
+ |director    = 
+ |designer    = 
+ |programmer  = Stephen Warady
+ |artist      = David Durand
+ |writer      = [[Michael Crichton]]
+ |released    = [[1984 in video gaming|1984]]
+ |genre       = [[Interactive fiction]]
+ |modes       = [[Single-player video game|Single-player]]
+ |platforms   = [[Apple II series|Apple II]], [[Atari ST]], [[Commodore 64]], [[DOS]], [[Macintosh]], [[MSX]]
+}}
+
+'''''Amazon''''' is an [[interactive fiction]] [[graphic adventure]] game. The game was published by [[Telarium]] in 1984 and written by [[Michael Crichton]].<ref>{{cite magazine |last=Murphy |first=Jamie |others=Reported by Cristina Garcia |title=Stepping into the Story: Players participate in 'interactive fiction' |magazine=Time |date=May 13, 2013 |volume=125 |number=19 |page=64 |quote=Micheal Crichton ''(The Andromedia Strain, The Terminal Man)'' has actually created a software work from scratch: ''Amazon'' (Telarium; $39.95), which transports the player and a sidekick parrot named Paco into the jungles of South America in search of a lost city and hidden emeralds.}}</ref>
+
+==Development==
+Best-selling novelist and director [[Michael Crichton]] was a computer hobbyist who taught himself the programming language [[BASIC]]. In the early 1980s he, programmer Stephen Warady, and artist David Durand began developing an [[Apple II series|Apple II]] [[graphic adventure]] game based on Crichton's novel ''[[Congo (novel)|Congo]]''; he sometimes programmed game sequences which Warady converted into much faster [[assembly language]]. They worked on the project for 18 months and, before Crichton found a publisher, [[Spinnaker Software]] approached him about adapting his novels for its [[Telarium]] division's new "bookware" games. The author revealed the game, amazing Spinnaker, and signed a contract in late 1983.{{r|maher20131011}}
+
+Crichton did not realize, however, that he had already sold all adaptation rights to ''Congo'' to another party. The team revised the game (renamed ''Amazon''), moving the setting from [[Africa]] to [[South America]] and changing a [[diamond mine]] to an [[emerald |emerald mine]]; the novel's Amy the talking [[gorilla]] became Paco the talking [[parrot]]. Because the game was mostly complete, Telarium was able to [[porting|port]] it to the Commodore 64 before ''Amazon''{{'}}s release.<ref name="maher20131011">{{cite web | url=http://www.filfre.net/2013/10/from-congo-to-amazon/ | title=From Congo to Amazon | work=The Digital Antiquarian | date=2013-10-11 | accessdate=10 July 2014 | author=Maher, Jimmy}}</ref> Crichton later said that he was disappointed with the game due to technological limitations at the time of its development.<ref>{{cite web|last=Lohr|first=Steve|title=Michael Crichton Giving Computer Games 2d Try|url=https://www.nytimes.com/1999/04/16/business/michael-crichton-giving-computer-games-2d-try.html|website=[[The New York Times]]|accessdate=December 8, 2016|date=April 16, 1999}}</ref>
+
+== Reception ==
+''Amazon'' was the best-selling Telarium title with as many as 100,000 copies sold, the majority likely for the Commodore 64.{{r|maher20131011}} ''[[Computer Gaming World]]'' praised its rarely used animated graphics and Crichton's cooperation with its designers, stating that "the cohesive manner in which the game's storyline unfolds reflects Crichton's skill as a writer".<ref name="adams198501">{{cite magazine | title=Hitchhiker's Guide to the Galaxy Leads an Invasion of the Pros | magazine=Computer Gaming World | date=January 1985 | author=Adams, Roe | pages=17}}</ref> James Delson of ''[[Family Computing]]'' reviewed the Apple II version and wrote that the game "has limited graphics, but what's there is choice." Delson also noted the game's difficulty and wrote, "Patience is more than a virtue in this game, it's a necessity."<ref>{{cite web|last=Delson|first=James|title=Amazon review (Apple II)|url=https://archive.org/stream/family-computing-19/Family_Computing_Issue_19_1985_Mar#page/n85/mode/1up/|website=[[Family Computing]]|accessdate=December 6, 2016|page=80, 86|date=March 1985}}</ref> German reviewers recognized the suspenseful, atmospheric and elaborated prose. Storyline, graphics and [[text parser]] got the score "sehr gut" (very good).<ref>Heinrich Lenhardt: ''7 Klasse-Adventures auf einen Streich'', Happy Computer 9/1985, p.145; Boris Schneider-Johne, Heinrich Lenhardt: ''Science Fiction-Adventures'', Happy Computer 5/1985, p.145ff.</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{moby game|id=/amazon|name=''Amazon''}}
+* [http://mocagh.org/loadpage.php?getgame=amazon ''Amazon''] at Museum of Computer Adventure Game History
+* {{atarimania|id=27178}}
+* {{lemon64 game|id=106|name=Amazon}}
+* {{IFDB|id=88qp1exvnf9yn8xt|title=Amazon}}
+
+{{Telarium}}
+{{Michael Crichton}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1984 video games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:MSX games]]
+[[Category:Single-player video games]]
+[[Category:Telarium games]]
+[[Category:Video games based on novels]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the Amazon]]
+[[Category:Works by Michael Crichton]]

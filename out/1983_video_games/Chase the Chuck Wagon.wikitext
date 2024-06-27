@@ -1,0 +1,80 @@
+Chase the Chuck Wagon
+Permalink: //en.wikipedia.org/w/index.php?title=Chase_the_Chuck_Wagon&oldid=1226496934
+Accessed on: 2024-06-26T16:54:44.443532
+
+
+
+------
+Chase the Chuck Wagon
+{{Short description|1983 video game}}
+{{Infobox video game
+| width          = 
+| title          = ''Chase the Chuck Wagon''
+| image          = Chase the Chuck Wagon cover.jpg
+| caption        = 
+| developer      = [[ICOM Simulations|TMQ]]
+| publisher      = [[Spectravideo|Spectravision]]
+| designer       = Mike Schwartz<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+| series         = 
+| engine         = 
+| released       = 1983 
+| genre          = [[Maze video game|Maze]]
+| modes          = 
+| platforms      = [[Atari 2600]]
+|alt = 
+}}
+'''''Chase the Chuck Wagon''''' is a 1983 [[Advertising in video games|promotional video game]] written by Mike Schwartz for the [[Atari 2600]] and distributed by [[Ralston Purina|Purina]]. It was available only via [[mail order]] by sending in proofs of purchase to [[Ralston Purina|Purina]]. In the 1970s and 1980s, popular television commercials for Purina dog food included a dog chasing a tiny  [[chuckwagon]].<ref>{{youtube| id=rnwppcD-SMc | title=Classic Chuck Wagon Dog Food Commercial}}</ref>  The gameplay is loosely based on this premise.
+
+== Gameplay ==
+[[image:Chasechuckwagon splash.png|thumb|Attract mode]]
+
+''Chase the Chuck Wagon'' is a [[maze video game]]. The object of each maze screen is to move Chuckie, the dog, through mazes of four different designs and escape through the opening directly below the chuckwagon. The player has limited time (60 or 30 seconds depending on the difficulty setting) per maze to accomplish this.
+
+There are two obstacles in each maze: the dog catcher moves through the maze, and, if he touches Chuckie, the player loses one life; the bouncing object (bone, etc.) travels back and forth across the maze unhindered by the maze walls, and, if it touches Chuckie, he will be frozen momentarily (signified by the maze changing color), making it more difficult to reach the end of maze within the time limit or avoid the dog catcher.<ref>{{cite web |url=http://www.atariguide.com/4/423.php |title=Chase the Chuck Wagon by Spectravision for the Atari 2600 |publisher=Atariguide.com |date=January 3, 2014 |accessdate=April 10, 2014 |archive-url=https://web.archive.org/web/20120229202737/http://www.atariguide.com/4/423.php# |archive-date=February 29, 2012 |url-status=dead }}</ref>
+
+After successfully completing a maze, a reward screen appears. A dog dish drops from the chuckwagon, and the player must use the joystick to orient Chuckie left or right to face the dish, and press the fire button at the right moment to stop it horizontal to Chuckie, allowing him to move to the dish and eat. This gives an additional 100 points.<ref>{{cite web |url=http://www.atariage.com/manual_html_page.html?SoftwareLabelID=76 |title=Atari 2600 Manuals (HTML) - Chase the Chuck Wagon (Spectravision) |publisher=AtariAge |date= |accessdate=April 10, 2014 |archive-url=https://web.archive.org/web/20140413124458/http://www.atariage.com/manual_html_page.html?SoftwareLabelID=76 |archive-date=April 13, 2014 |url-status=dead }}</ref><ref>{{ cite web | url=http://www.digitpress.com/library/manuals/atari2600/chuckwagon.pdf | title=Scan of the original instruction sheet for Chase the Chuck Wagon| publisher=Digital Press}}</ref> If the player misses, no points are awarded and the game advances to the next maze screen. If the player does not press the fire button, the dish falls repeatedly and the game does not advance.
+
+[[Image:Chasechuckwagon.png|thumb|Chuckie avoids a dog catcher. A flickering bone isn't visible]] 
+
+The player starts the game with three Chuckies. Chuckies are lost when time runs out on a maze or upon contact with the dog catcher. The game ends when all the Chuckies are exhausted.
+
+===Scoring===
+The amount of time left at the end of each maze is the player's score for that stage. Each successfully completed reward screen adds 100 points. The total score is displayed at the end of the game.
+
+===Controls===
+The player uses the joystick to move Chuckie through mazes and to change his facing on the reward screen. The fire button is only used to stop the dropping food dish on the rewards screens.
+
+{{key press|Reset}} does not start the game (which is the typical behavior). {{key press|Select}} is used instead.
+
+== History ==
+As part of a promotion involving the [[Chuck Wagon (dog food)|Chuck Wagon]] line of dog food, [[Ralston Purina|Purina]] contracted video game distributor [[Spectravideo|Spectravision]]<ref>{{cite web|url=http://www.atarihq.com/2678/3party/spectrav.html |title=AGH - Third Party Profile: Spectravision |publisher=Atarihq.com |date= |accessdate=April 10, 2014}}</ref> to create a game themed around dogs and dog food. Customers could redeem [[proof of purchase|proofs of purchase]] from bags of dog food in exchange for the game,<ref name="Bogost">{{cite book |title=How to Do Things with Videogames (Electronic Mediations) |first=Ian |last=Bogost |authorlink=Ian Bogost |publisher=University of Minnesota Press |date=August 5, 2011 |isbn=978-0-8166-7647-7 |page=[https://archive.org/details/howtodothingswit0000bogo/page/68 68] |url=https://archive.org/details/howtodothingswit0000bogo/page/68 }}</ref> an example of a new marketing technique that emerged during the popularity of video games in the early 1980s.<ref>{{cite book| last=Kohler | first=Chris | date=2005 |  page=48 | title=Retro Gaming Hacks | publisher=O'Reilly | isbn=0-596-00917-8 | url=https://books.google.com/books?id=Sv5OAAAAMAAJ&q=%22chase+the+chuck+wagon%22}}</ref> In practice, the promotion was relatively unsuccessful. The unshipped cartridges were destroyed.<ref>{{cite web |url=http://www.atariage.com/software_page.html?SoftwareID=917 |title=Atari 2600 - Chase the Chuck Wagon (Spectravision) |publisher=AtariAge |date= |accessdate=April 10, 2014 |archive-url=https://web.archive.org/web/20140413125408/http://www.atariage.com/software_page.html?SoftwareID=917 |archive-date=April 13, 2014 |url-status=dead }}</ref>
+
+{{quotation |I was approached by a good friend who ran TMQ/ICOM and he badly needed this game programmed over a weekend.  Yes, it took me all of 3 days to cobble this game together.  I had existing code from my first game, ''[[Artillery Duel]]'', to look at.  The sound effects were basically the same.  I apologize for the weak gameplay, but I was rushed! | Mike Schwartz}}
+
+==Legacy==
+''Chase the Chuck Wagon'' is far from the rarest of games for the Atari 2600, but it is often referred to as the [[Holy Grail#Casual metaphor|Holy Grail]] of Atari 2600 [[video game collecting]].<ref>{{cite magazine |title=The Real Thing |magazine=[[Next Generation (magazine)|Next Generation]]|issue=28 |publisher=[[Imagine Media]] |date=April 1997 |pages=44–45}}</ref><ref>{{cite interview | url=http://www.videogametrader.com/ctcw-interview2009.htm | title=Chase the Chuckwagon - Complete Interview | subject="So Cal" Mike | url-status=dead | archiveurl=https://web.archive.org/web/20110113150310/http://www.videogametrader.com/ctcw-interview2009.htm | archivedate=January 13, 2011 | accessdate=April 9, 2014 }}</ref>
+
+== See also ==
+*''[[Kool-Aid Man (video game)|Kool-Aid Man]]''
+
+==References==
+{{reflist}}
+
+==External links==
+*{{atarimania|id=12374}}
+*[https://www.youtube.com/watch?v=6w1UqNfKl1U Gameplay video ] on [[YouTube]]
+*{{IAg|atari_2600_chase_the_chuckwagon_1983_spectravideo_-_video_games_industries_corpor/v2}}.
+
+{{Atari 2600}}
+
+[[Category:1983 video games]]
+[[Category:Advergames]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Maze games]]
+[[Category:Ralston Purina]]
+[[Category:Spectravideo games]]
+[[Category:Video games about dogs]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]
+[[Category:Works based on advertisements]]

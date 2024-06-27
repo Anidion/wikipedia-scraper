@@ -1,0 +1,49 @@
+3D Dotty
+Permalink: //en.wikipedia.org/w/index.php?title=3D_Dotty&oldid=1186777944
+Accessed on: 2024-06-26T17:01:26.581637
+
+
+
+------
+3D Dotty
+{{Infobox video game
+| title          = 3D Dotty
+| image          = 3D Dotty Coverart.png
+| caption        = 
+| developer      = 
+| publisher      = [[Blue Ribbon (software house)|Blue Ribbon]]
+| designer       = J.L. Harris<ref name=bbc/>
+| series         = 
+| engine         = 
+| released       = 1987
+| genre          = [[List of maze video games|Maze]]
+| modes          = [[Single-player video game|Single-player]]
+| platforms      = [[BBC Micro]], [[Acorn Electron]]
+}}
+
+'''''3D Dotty''''' is a [[List of maze video games|maze video game]] written by J.L. Harris and published by [[Blue Ribbon (software house)|Blue Ribbon]] for the [[Acorn Electron]] and [[BBC Micro]] [[home computer]]s in 1987.<ref name=bbc/> Each screen consists of vertically stacked mazes connected by ladders. The goal is to collect all of the dots while avoiding a fungus.
+
+==Gameplay==
+{{Unreferenced section|date=October 2020}}
+
+Contact with the fungus reduces energy, and a life is lost when the energy reaches zero. The fungus can be blocked, but only three blocks are permitted at any one time. On completing a screen bonus points are given proportional to the amount of energy remaining. Extra lives are awarded when the score reaches 5,000 and 10,000 points.
+
+There are eight different screens. After the eighth, the screens are repeated, but energy is reduced by two units upon contact with the fungus. A practice mode allows trying any of the screens.
+
+==References==
+{{reflist|refs=
+<ref name="bbc">{{cite web |title=3D Dotty |url=http://bbcmicro.co.uk/game.php?id=559 |website=BBC Micro Games Archive}}</ref>
+}}
+
+{{DEFAULTSORT:3D Dotty}}
+[[Category:1987 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Blue Ribbon (software house) games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Maze games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+
+
+{{Maze-videogame-stub}}

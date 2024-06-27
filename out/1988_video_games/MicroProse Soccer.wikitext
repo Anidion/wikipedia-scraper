@@ -1,0 +1,89 @@
+MicroProse Soccer
+Permalink: //en.wikipedia.org/w/index.php?title=MicroProse_Soccer&oldid=1225954322
+Accessed on: 2024-06-26T17:04:40.698992
+
+
+
+------
+MicroProse Soccer
+{{Infobox video game
+|title=MicroProse Soccer
+|image = Microprose Soccer Coverart.png
+|developer = [[Sensible Software]]
+|publisher = [[MicroProse]]
+|designer =
+|programmer = Chris Yates<ref name='rgmakingofmicroprosesoccer'>{{cite magazine |title=The Making of MicroProse Soccer|magazine=Retro Gamer|issue=226|publisher=Imagine|date=28 October 2021|page=38-41}}</ref>
+|artist = [[Jon Hare]]<ref name='rgmakingofmicroprosesoccer' />
+|composer = [[Martin Galway]]<ref name='rgmakingofmicroprosesoccer' />
+|released = 1988
+|genre = [[Sports video game|Sports]] ([[List of association football video games|association football]])
+|modes = [[Single-player video game|Single-player]], [[Multiplayer|2 player]]
+|platforms = [[Commodore 64]], [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[MS-DOS]], [[ZX Spectrum]]
+}}
+
+'''''MicroProse Soccer''''' is an [[List of association football video games|association football video game]] published by [[MicroProse]] in 1988.<ref>[http://www.ysrnry.co.uk/articles/microprosesoccer.htm Microprose Soccer] {{webarchive|url=https://web.archive.org/web/20071225220452/http://www.ysrnry.co.uk/articles/microprosesoccer.htm |date=2007-12-25}} at ysrnry.co.uk</ref> The original [[Commodore 64]] version was developed by [[Sensible Software]] and ported to other systems. In the [[United States]], the game was released as '''''Keith Van Eron's Pro Soccer''''', named after [[Keith Van Eron]].<ref name='rgmakingofmicroprosesoccer' />
+
+Designed by [[Jon Hare]] and programmed by Chris Yates, they adapted the gameplay format of [[arcade video game]] ''[[Tehkan World Cup]]'' (1985) while adding their own elements to create ''MicroProse Soccer''. It is the forerunner of the 16-bit ''[[Sensible Soccer]]'' series.
+
+== Gameplay ==
+The game can simulate a full 11-a-side game of football on a grass pitch, or 6-a-side  soccer,<ref>[http://homepages.tesco.net/~parsonsp/html/microprose_soccer.html Microprose Soccer] {{webarchive|url=https://web.archive.org/web/20071222184056/http://homepages.tesco.net/~parsonsp/html/microprose_soccer.html |date=2007-12-22}} at homepages.tesco.net/~parsonsp</ref> based on the American indoor league of the time.
+
+A single player can work through a World Cup (or Indoor League) tournament, or take on a series of increasingly tougher computer teams. A two-player friendly can be played head to head.
+
+The control method was designed to be as simple as possible, lending itself to fast and flowing football (in the manner of the later ''[[Sensible Soccer]]''). A quick tap of the fire button passed forward, a longer hold of the button chipped the ball at height. Pushing backwards and fire did an overhead kick. Pushing forwards and fire took a shot.
+
+Most unusual was the "banana kick", the strength of which could be varied among three settings in the options menu. By pushing diagonally as a shot was taken, the ball would swerve in the air to get round defenders and goalkeeper. Rival game ''[[Kick Off (series)|Kick Off]]'' would also add this after-touch feature.
+
+Most versions featured a simulated "action replay" after a goal was scored, with the C64 version featuring black & white stripes to resemble a video rewinding.
+
+==Development==
+The game was designed by [[Jon Hare]] and programmed by Chris Yates. Hare cited the [[arcade video game]] ''[[Tehkan World Cup]]'', released by [[Tehkan]] (Tecmo) in 1985, as the basis and the inspiration for the game.<ref name="Retro">{{cite magazine |title=The Sensible Game: Jon Hare Reveals the Drive and Inspiration – Direct and Indirect – For the Beautiful Game That Became Sensible Soccer |magazine=[[GamesTM|Retro: The Ultimate Retro Companion from Games<sup>TM</sup>]] |date=2010 |volume=3 |publisher=[[Imagine Publishing]] |location=United Kingdom |pages=224-231 (228-9) |url=https://issuu.com/topov81/docs/retro_volume_3/228}}</ref><ref>{{cite magazine |title=In the chair with... Jon Hare |magazine=[[Retro Gamer]] |date=March 2009 |issue=61 |publisher=[[Imagine Publishing]] |location=United Kingdom |pages=62–69 |url=https://archive.org/details/retro_gamer/RetroGamer_061/page/62/mode/2up}}</ref><ref name="RG33">{{cite journal |title=Developer Lookback: Being Sensible |journal=[[Retro Gamer]] |date=January 2007 |issue=33 |pages=36–41 |url=https://archive.org/details/retro_gamer/RetroGamer_033/page/36/mode/2up}}</ref> He referred to it as an "arcade conversion" of ''Tehkan World Cup'',<ref>{{cite journal |last1=Wallström |first1=Andreas |title=Another Sensible Interview with John Hare |journal=[[Zzap!64]] |date=July 2005 |issue=108 |pages=19–21 |url=https://archive.org/details/zzapp_64_issue_108_600dpi/page/n18}}</ref> but said it was not "a carbon copy" as they also added their "own elements" to the gameplay.<ref name="Retro"/> ''Tehkan World Cup'' used a [[trackball]] to control the direction and speed of the shot, which they incorporated into the game by adapting the [[game physics]] for more conventional [[joystick]] controls.<ref name="Retro"/><ref name="RG33"/>
+
+Preview pictures of the game appeared in an issue of ''[[Zzap!64]]'' magazine, with a plea for a publisher to come forward.{{Citation needed|date=March 2020}}
+
+The Electronic Pencil Company ported the game to the Amiga and Atari ST. The programmer created a 6502 emulator, transferring the game code and logic to the 16-bit machines.{{Citation needed|date=March 2020}}
+
+==Reception==
+{{Video game reviews
+| YSinclair = 82%<ref>{{cite web |url=http://www.ysrnry.co.uk/articles/microprosesoccer.htm |title=Archived copy |access-date=2007-11-24 |url-status=dead |archive-url=https://web.archive.org/web/20071225220452/http://www.ysrnry.co.uk/articles/microprosesoccer.htm |archive-date=2007-12-25}}</ref>
+| CRASH = 90%<ref>{{Cite web|url=http://live.worldofspectrum.org/infoseek/magazines/crash/65|title=World of Spectrum - Crash-65|website=World of Spectrum}}</ref>
+| SUser = 75%<ref>{{Cite web|url=http://live.worldofspectrum.org/infoseek/magazines/sinclair-user/87|title=World of Spectrum - Sinclair User-87|website=World of Spectrum}}</ref>
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 97%<ref>{{Cite web|url=http://www.zzap64.co.uk/zzap100/100thspec5.html|title=Zzap!64 100th Issue Pull-Out Special Page 5|website=www.zzap64.co.uk}}</ref>
+| award1Pub = ''Zzap!64''
+| award1 = Gold Medal
+| award2Pub = ''Crash''
+| award2 = Crash Smash
+}}
+''[[Crash (magazine)|Crash]]'' gave 90% for the game.
+
+The game was voted Best 8-bit Simulation of the Year at the [[Golden Joystick Awards]].<ref>{{Cite web|url=http://live.worldofspectrum.org/infoseek/magazines/computer--video-games/92|title=World of Spectrum - Computer & Video Games-92|website=World of Spectrum}}</ref> In the Spectrum sales charts, it briefly reached the number one position before being replaced by ''[[Kenny Dalglish Soccer Manager]]''.<ref name='sinclairuser0989'>{{cite magazine |title=Full Price 20|magazine=Sinclair User|issue=90|publisher=EMAP|date=18 August 1989|page=42|url=https://spectrumcomputing.co.uk/page.php?issue_id=90&page=42|access-date=15 January 2022}}</ref> In the all-formats charts, the game was kept off the top position by ''[[RoboCop_(1988_video_game)|Robocop]]'',<ref name='nce10thJune89'>{{cite magazine |title=Top 20 Full Price Games/Robocop Blasts Chart Records|magazine=New Computer Express|issue=|publisher=Future Publishing|date=10 June 1989|page=5|url=https://archive.org/details/NH2021_New_Computer_Express_Issue031.pdf/page/n3/mode/2up|access-date=15 January 2022}}</ref> which had been at number one for a record eighteen weeks.<ref name='nce10thJune89' />
+
+==Legacy==
+''MicroProse Soccer'' was the basis for the ''[[Sensible Soccer]]'' series, which was created by the same designer Jon Hare and programmer Chris Yates.<ref name="Retro"/><ref name="RG33"/>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://www.mobygames.com/game/keith-van-erons-pro-soccer ''MicroProse Soccer''] at [[MobyGames]]
+* {{abime|id=2467}}
+* [http://www.crashonline.org.uk/65/mpsoccer.htm ''MicroProse Soccer''] at crashonline.org.uk
+
+{{Sensible Software}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Association football video games]]
+[[Category:Atari ST games]]
+[[Category:Crash Smash! award winners]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:MicroProse games]]
+[[Category:Sensible Software games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games scored by Barry Leitch]]
+[[Category:Video games scored by Martin Galway]]
+[[Category:ZX Spectrum games]]

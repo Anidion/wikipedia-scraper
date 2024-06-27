@@ -1,0 +1,88 @@
+Jinxter
+Permalink: //en.wikipedia.org/w/index.php?title=Jinxter&oldid=1224478382
+Accessed on: 2024-06-26T17:02:25.897526
+
+
+
+------
+Jinxter
+{{Lead too short|date=December 2022}}
+{{ infobox video game
+|image = Jinxter cover.jpg
+|image_size =
+|caption = MS-DOS cover art
+|developer = [[Magnetic Scrolls]]
+|publisher = [[Rainbird Software]]
+|programmer = Paul Findley
+|writer = {{unbulleted list|Georgina Sinclair | Michael Bywater <ref>{{cite web | url=http://www.ifarchive.org/if-archive/magnetic-scrolls/info/msfact.txt | first=Stefan| last=Meier | title=Magnetic Scrolls Fact Sheet | accessdate=17 June 2015}}</ref>}}
+|composer = John Molloy
+|artist = {{unbulleted list|Geoff Quilley | Duncan McLean}}
+|released = 1987
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = {{cslist|[[Amiga]] | [[Amstrad CPC]] | [[Amstrad PCW]] | [[Apple II]] | [[Acorn Archimedes|Archimedes]] | [[Atari 8-bit]] | [[Atari ST]] | [[Commodore 64]] | [[Mac (computer)|Mac]] | [[MS-DOS]] | [[ZX Spectrum]]<ref>{{cite web|url=http://www.birdsanctuary.co.uk/jinxter/d.php |title=Jinxter - data |archive-url=https://web.archive.org/web/20120314174120/http://www.birdsanctuary.co.uk/jinxter/d.php |archive-date=2012-03-14 |website=The Bird Sanctuary}}</ref>}}
+}}
+
+'''''Jinxter''''' is an [[interactive fiction]] video game developed by [[Magnetic Scrolls]] and published by [[Rainbird (software company)|Rainbird]] in 1987 for [[8-bit]] and [[16-bit]] home computers of the time. ''Jinxter'' tells the story of a man on a mission to save the fictional land of Aquitania from the looming threat of evil witches. The game was well received by critics upon its release.
+
+==Gameplay==
+[[image:Jinxter screenshot.gif|thumb|upright=4|Atari ST gameplay screenshot, showing one of the game's "more eye-catching scenes"<ref>{{cite magazine|first=Mike |last=Gerrard |url=http://www.mschronicles.com/articles/art002b.htm |title=The Arts That Spell Adventure - Page Three |archive-url=https://web.archive.org/web/20150402143509/http://www.mschronicles.com/articles/art002b.htm |archive-date=2015-04-02 |magazine=Atari ST User |date=March 1988}}</ref>]]
+
+''Jinxter'' is a text-based adventure, where the player controls the protagonist character by typing in command sentences. Most versions use graphics for illustrations, with the exception of the text-only [[Spectrum +3]] and [[Apple II]] versions.<ref>{{cite web|url=http://www.birdsanctuary.co.uk/jinxter/i.php |title=Jinxter - information |archive-url=https://web.archive.org/web/20130115030025/http://www.birdsanctuary.co.uk/jinxter/i.php |archive-date=2013-01-15 |website=The Bird Sanctuary}}</ref> It was famous for its quirky, eccentric humour, as many of the textual descriptions are very long and have a humorous aspect. Each of the five charms provides a magic spell, and the words to trigger these spells are common [[placeholder name]]s. Unlike many other text adventures, in ''Jinxter'' the player character almost never dies during the course of gameplay (the only exception to this rule is at the game's final confrontation<ref name=ac/>). However, the player can lose some luck and be unable to complete the game later on.
+
+==Plot==
+The game is a [[science fantasy]] comedy set in the fictional country of Aquitania, which bears a strong resemblance to [[History of the United Kingdom#Early 20th century 1901–1918|early-to-middle 20th century Britain]]. The central characters in the story are the Guardians, immortal [[guardian angel]]-like beings who look after and help people. The Guardians - members of ARSE, the Association of Registered Stochastic Executives - are described as liking to wear [[herringbone (cloth)|herringbone]] overcoats and eat [[cheese sandwich]]es. Centuries ago the country was threatened by the rising dark power of the wicked Green Witches until the good magician Turani created a magical object, called the Bracelet, which holds luck and distributes it throughout Aquitania to limit and keep in check the witches' magic, banning the dangerous parts of the [[witchcraft]] and rendering them relatively harmless. However, the new high witch Jannedor has enough of the restraints. She has obtained and disassembled the Bracelet, stripped it of its five magical charms and hid them in various places (the bracelet itself is worn by Jannedor), waiting for its powers to be weakened enough it could be destroyed so she would fulfill her schemes of [[jinx]] and conquest. If the charms of Turani are not reunited soon with the legendary Bracelet of Turani then luck could completely run out and the witches will regain all of their old magic and the country will again fall under their influence.
+
+The player character is, pretty much accidentally, recruited by the Guardians to rescue his friend Xam, who was kidnapped by the witches, retrieve the charms, fix the Bracelet, and then use its powers against Jannedor to kill her and destroy her castle, thus defeating the witches and restoring luck to Aquitania.<ref name=ac/><ref>{{cite web|url=http://www.mschronicles.com/games/jinxter/jfiles/jfiles01.htm |title=Plot Summary|archive-url=https://web.archive.org/web/20140302062419/http://www.mschronicles.com/games/jinxter/jfiles/jfiles01.htm |archive-date=2014-03-02 |website=The Magnetic Scrolls Chronicles}}</ref><ref name=aa/><ref name=crash51/> Once Jannedor's evil ambitions are put to an end, however, the player's character is put back just where he was before he began his adventure—in front of a speeding bus—and killed.<ref>{{cite web|url=http://www.birdsanctuary.co.uk/jinxter/m.php |title=Memories |publisher=The Bird Sanctuary |accessdate=2011-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20110727144540/http://www.birdsanctuary.co.uk/jinxter/m.php |archive-date=2011-07-27 }}</ref>
+
+== Development ==
+''Jinxter'' was originally conceived as an answer to [[Infocom]]'s ''[[Enchanter (video game)|Enchanter]]'' and was created by a relatively large development team. The game was originally written by the sister of Magnetic Scrolls' founder Anita Sinclair, Georgina, who had previously written the novella ''A Tale of Kerovnia'' for ''[[The Pawn]]''. However, due to a falling out between them, the whole text had to be rewritten in three weeks by Michael Bywater, who had previously written the ''What Burglar'' magazine for ''[[The Guild of Thieves]]'' and then helped with ''[[Corruption (interactive fiction)|Corruption]]''.<ref name=trivia>{{cite web |first=Peter |last=Verdi |url=http://www.mschronicles.com/games/jinxter/jfiles/jfiles02.htm |title=Trivia |publisher=Mschronicles.com |accessdate=2011-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20110714123441/http://www.mschronicles.com/games/jinxter/jfiles/jfiles02.htm |archive-date=2011-07-14 }}</ref> The game's package contents included ''The Independent Guardian'' newspaper written by Bywater.<ref>{{cite web|url=http://www.birdsanctuary.co.uk/jinxter/p.php |title=Jinxter - Packaging |archive-url=https://web.archive.org/web/20120314174110/http://www.birdsanctuary.co.uk/jinxter/p.php |archive-date=2012-03-14 |website=The Bird Sanctuary}}</ref>
+
+==Reception==
+{{Video game reviews
+| YSinclair = 9/10
+| CRASH = 92%
+| CVG = 37/40
+| AAction = 88%
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 83%
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Your Sinclair''
+| award3 = Megagame
+}}
+
+''Jinxter'' received positive reviews, including the rating scores of 70% from ''[[Amiga Computing]]'',<ref name=ac>{{cite web |first=Peter |last=Verdi |url=http://www.mschronicles.com/games/jinxter/jtext/jtext05.htm |title=Review (CommodoreAmiga) taken from "Amiga Computing" magazine 10/1988 |publisher=Mschronicles.com |access-date=2011-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20110714123453/http://www.mschronicles.com/games/jinxter/jtext/jtext05.htm |archive-date=2011-07-14 |date=October 1988}}</ref> 7/10 from ''[[Amiga User International]]'',<ref>{{cite web |first=Peter |last=Verdi |url=http://www.mschronicles.com/games/jinxter/jtext/jtext03.htm |title=Review (Commodore Amiga) from "Amiga User International" magazine |publisher=Mschronicles.com |access-date=2011-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20110714123459/http://www.mschronicles.com/games/jinxter/jtext/jtext03.htm |archive-date=2011-07-14 }}</ref> 88% from ''[[Amstrad Action]]'',<ref name=aa>{{cite web |url=http://msmemorial.if-legends.org/articles.htm/aa3088.htm |title=CPC version, Amstrad Action, issue 30 (March 1988), p.60-61 - reviewed by The Pilgrim |publisher=Msmemorial.if-legends.org |accessdate=2011-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20110726172154/http://msmemorial.if-legends.org/articles.htm/aa3088.htm |archive-date=2011-07-26 }}</ref> 8/10 from ''[[Commodore Power Play|Power Play]]'',<ref>{{cite web |first=Peter |last= Verdi |url=http://www.mschronicles.com/games/jinxter/jtext/jtext02.htm |title=Review (Commodore 64/128) taken from Power Play magazine |publisher=Mschronicles.com |accessdate=2011-06-13 |url-status=dead |archiveurl=https://web.archive.org/web/20110714123514/http://www.mschronicles.com/games/jinxter/jtext/jtext02.htm |archive-date=2011-07-14 }}</ref> 9/10 from ''[[Commodore User]]'',<ref>{{cite magazine| magazine=Commodore User |issue=52 |date=January 1988 |url=http://msmemorial.if-legends.org/games.htm/download.php?CU52_6667.pdf |title=Into The Valley: Jinxter |first=Keith |last=Campbell |pages=76–77 |archive-url=https://web.archive.org/web/20170118224822/http://msmemorial.if-legends.org/games.htm/download.php?CU52_6667.pdf |archive-date=18 January 2017}}</ref> 37/40 from ''[[Computer & Video Games]]'',<ref>{{cite magazine| magazine=Computer & Video Games |issue=76 |date=February 1988 |title=Exclusive review: Jinxter |author=Keith |url=http://msmemorial.if-legends.org/games.htm/download.php?cvg76_0288_104105.pdf |pages=104–105 |archive-url=https://web.archive.org/web/20170118114048/http://msmemorial.if-legends.org/games.htm/download.php?cvg76_0288_104105.pdf |archive-date=18 January 2017}}</ref> 89% from ''Computing with the Amstrad'',<ref>{{cite magazine| magazine=Computing with the Amstrad |title=Glossy Line in Classics |author=Gandalf |volume= 4 |issue=5 |date=September 1988 |url=http://msmemorial.if-legends.org/games.htm/download.php?cwa4-5_0988_43.pdf |page=43 |archive-url=https://web.archive.org/web/20170118132327/http://msmemorial.if-legends.org/games.htm/download.php?cwa4-5_0988_43.pdf |archive-date=18 January 2017}}</ref> 92% from ''[[Crash (magazine)|Crash]]'',<ref name=crash51>{{cite magazine| title=Adventure Trail | publisher=[[Newsfield Publications]] | magazine=[[crash (magazine)|CRASH]] | date= April 1988 | issue=51 | pages=43 | url=https://archive.org/stream/Crash_No._51_1988-04_Newsfield_GB#page/n41/mode/2up }} [http://www.crashonline.org.uk/51/jinxter.htm Alt URL]</ref> 92% from ''[[The Games Machine]]''<ref>{{cite web |author=Peter Verdi |url=http://www.mschronicles.com/games/jinxter/jtext/jtext04.htm |title=Review (Commodore Amiga/Atari ST) from "The Games Machine" magazine 02/1988 |publisher=Mschronicles.com |access-date=2011-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20131231002311/http://www.mschronicles.com/games/jinxter/jtext/jtext04.htm |archive-date=2013-12-31 }}</ref> 9/10 in ''[[Your Sinclair]]'',<ref>{{cite magazine | magazine=Your Sinclair |issue=30 |url=http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue30/Pages/YourSinclair3000082.jpg| page=82 |title=Jinxter |date=June 1988}}</ref> and 83% from ''[[Zzap64]]''.<ref>{{cite magazine| magazine=Zzap64 |issue=35 |date=March 1988 |url=http://msmemorial.if-legends.org/games.htm/download.php?zzap35_0388_48.pdf |archive-url=https://web.archive.org/web/20170118112538/http://msmemorial.if-legends.org/games.htm/download.php?zzap35_0388_48.pdf |title=Jinxter |archive-date=18 January 2017 |page=48}}</ref> The game was also a commercial success. In 1998, ''[[ACE (games magazine)|ACE]]'' featured it on the list of 100 Top Games as "an odd adventure decorated with beautiful graphics."<ref>{{cite magazine |magazine=ACE |issue=13 |url=http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue13/Pages/ACE1300069.jpg |title=Adventures 87/88 |pages=68–71 |date=October 1988 }}</ref> However, in 1996, ''[[Computer Gaming World]]'' ranked its ending as the 14th least rewarding of all time, as "even when the player won, the protagonist died."<ref>{{cite magazine |magazine =Computer Gaming World| issue=148  |date=November 1996 |title=The 15 Least Rewarding Endings of All Time |page=128 |url=https://archive.org/details/Computer_Gaming_World_Issue_148/page/n131/mode/1up}}</ref>
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* {{moby game|id=/jinxter}}
+* {{WoS game|id=0010842}}
+* {{abime|id=801}}
+* {{IFDB|id=90w2rbztjgfitd9}}
+
+{{Magnetic Scrolls adventure games}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1987 video games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Magnetic Scrolls games]]
+[[Category:Science fantasy video games]]
+[[Category:Single-player video games]]
+[[Category:Telecomsoft games]]
+[[Category:Video games about witchcraft]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

@@ -1,0 +1,56 @@
+Serpentine (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Serpentine_%28video_game%29&oldid=1224118289
+Accessed on: 2024-06-26T16:54:00.405906
+
+
+
+------
+Serpentine (video game)
+{{Infobox video game
+|title = Serpentine
+|image = SerpentineEUBoxShotC64.jpg
+|caption =
+|developer =
+|publisher = [[Broderbund]]<br>Creative Software (VIC)<ref name=creative>{{cite web |title=VIC-20 Serpentine Manual |url=https://archive.org/details/Serpentine_1982_Creative |publisher=Creative Software |date=1982 |website=archive.org}}</ref>
+|programmer =  David Snider<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+|released = 1982
+|genre = [[Maze video game|Maze]]
+|modes = [[Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[VIC-20]]
+}}
+
+'''''Serpentine''''' is a [[maze video game]] written by David Snider for the [[Apple II]] and published by [[Broderbund]] in 1982.<ref name="giantlist"/><ref name = "Retro Times Monthly">{{citation | date = Feb 2007 | author = Alan Hewston | url  = http://retrogamingtimes.com/rtm33/#Many_Faces | periodical = Retrogaming Times | title = The Many Faces of Serpentine  | pages = 1}}</ref> ''Serpentine''{{'}}s gameplay and visuals are similar to the Konami arcade game, ''[[Jungler]]'', released the previous year.  It was ported to the [[Commodore 64]] and [[Atari 8-bit computers]]. A [[VIC-20]] version was licensed to Creative Software.<ref name=creative/>
+
+==Gameplay==
+[[File:Serpentine_Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit screenshot]]
+
+The player controls (rides, by game description <ref name = "Creative Computing Video & Arcade Games Vol. 1, No 2">{{citation | date = Fall 1983 | author = Chris Vogeli | periodical = Creative Computing Video & Arcade Games| url = http://www.atarimagazines.com/cva/v1n2/apple2games.php | title = Five Great Games For The Apple Computer  | pages = 100}}</ref>) a multi-segmented blue 'good' serpent in a maze with the objective of eating all computer-controlled 'evil' (red or orange or green) serpents. Eating the tail segments of serpents makes them shorter, and a red or orange serpent turns green when shorter than the player. Hitting a green serpent headfirst eliminates it, and causes the player's serpent to grow an additional segment. Hitting a red or orange serpent headfirst causes the player's serpent to die. A frog appears at random intervals and gives any serpent eating it an additional segment. Once all opponents have been eliminated, the player's serpent automatically returns to a protected area.
+
+As the game progresses, opposing serpents are faster and longer, increasing the difficulty, and each advancing level the existing players serpent gets slower. If the player's serpent dies, the replacement regains its original speed, but loses any additional segments gained by the previous incarnation.
+
+One unique aspect of the game is how extra lives are gained. The playing serpent will lay an egg (losing a segment in the process) and, if the egg is still on screen when the player re-enters the protected area at the end of a level, the egg hatches into another serpent, which hurries to the protected area. Enemy serpents will also lay eggs; if one hatches, a new two-segment opponent appears. It is possible to lose the last segment to an egg, resulting in the death of that serpent, but this can only happen to the player's serpent. If a frog happens to appear while an egg is on the map, it will head towards the egg and eat it as well. This will occur even at the end of a level when the player's serpent is operating on autopilot, making the choice of position where the last enemy serpent is killed tactically important.
+
+Most versions of the game include 20 different mazes, but the Atari cartridge version only has 5.
+
+==Reception==
+''Serpentine'' ranked #13 for most popular game of 1982 according to ''[[Softalk]]'' magazine.<ref name="Softalk">{{citation | date = April 1983 | periodical = Softalk | url = http://apple2history.org/history/appy/aha82.html | title = It's Choplifter in '82 | pages = 76–82 | url-status = dead | archiveurl = https://web.archive.org/web/20100710043857/http://apple2history.org/history/appy/aha82.html | archivedate = 2010-07-10 }}</ref><ref name="Compute">{{cite news | url=https://archive.org/details/1983-08-computegazette| title= Games, Games, Games | work=Compute! Gazette | date=August 1983 | accessdate=4 December 2013 | author=Broderbund Software, Inc | pages=102}}</ref>
+
+''[[Softline (magazine)|Softline]]'' in 1982 called ''Serpentine'' "devilishly addicting, being endowed with the qualities that make arcade games worth the bother".<ref name="softline198209">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=6&id=7 | title=Serpentine | work=Softline | date=September 1982 | accessdate=27 July 2014 |author1=Ferris, Michael |author2=Albert, Dave | pages=22}}</ref> Michael Cranford reviewed the game for ''[[Computer Gaming World]]'', and stated that "in my opinion, ''Serpentine'' is far better than the sum of its inspirations".<ref name="CGW8">{{cite magazine |last=Cranford |first=Michael |title=The Twists and Turns of Serpentine |magazine=Computer Gaming World |date=Jan–Feb 1983 |volume=1 |issue=8 |pages=20}}</ref> ''The Commodore 64 Home Companion'' in 1984 said that "it's easy to get hooked on this one".<ref name=C64HC>{{cite web|url=https://archive.org/stream/The_Commodore_64_Home_Companion#page/n167/mode/2up|title=Broderbund Software|work=The Commodore 64 Home Companion|year=1984|access-date=August 19, 2016|pages=166–167}}</ref>
+
+Karl Westerholm reviewed ''Serpentine'' in ''[[Space Gamer]]'' No. 65.<ref name="SG">{{cite journal|last=Westerholm |first=Karl |date=September–October 1983 |title=Capsule Reviews|journal=[[Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=65|pages=36–37}}</ref> Westerholm commented that "''Serpentine'' is unquestionably a game worth owning, and if there are any weaknesses or bugs, I have yet to find them. I definitely recommend this game, as it promises to provide fun and excitement for a very long time".<ref name="SG"/>
+
+==References==
+{{Reflist}}
+
+[[Category:1982 video games]]
+[[Category:Maze games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Broderbund games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:Video game clones]]
+[[Category:Video games about reptiles]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Creative Software games]]

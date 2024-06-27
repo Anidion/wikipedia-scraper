@@ -1,0 +1,59 @@
+Avalanche (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Avalanche_%28video_game%29&oldid=1227733628
+Accessed on: 2024-06-26T16:47:50.632062
+
+
+
+------
+Avalanche (video game)
+{{Short description|1978 video game}}
+{{more citations needed|date=October 2017}}
+{{Infobox video game
+|title = Avalanche
+|image = Avalanche-arcadegame.jpg
+|caption = Promotional flyer
+|developer = [[Atari, Inc.]]
+|publisher = [[Atari, Inc.]]
+|designer = Dennis Koble<ref name="giantlist">{{cite web|url=https://dadgum.com/giantlist/|title=The Giant List of Classic Game Programmers |last1=Hague |first1=James}}</ref>
+|released = {{unbulleted list|'''1978:''' Arcade | '''1981:''' Atari 8-bit<ref name=apx/>}}
+|platforms = {{cslist | [[Arcade video game|Arcade]] | [[Atari 8-bit]]}}
+|genre = [[Action game|Action]]
+|modes = [[Single-player]]
+}}
+
+'''''Avalanche''''' is an [[arcade video game]] designed by Dennis Koble and released by [[Atari, Inc.]] in 1978.<ref name="giantlist"/> The object is to catch falling [[rock (geology)|rocks]] with a controllable set of [[paddle (game controller)|paddles]] that diminish in number and size as the rocks fall faster and faster.<ref name="avalanche flyer">{{cite press release | title = Avalanche dealer flyer | publisher = [[Atari, Inc.]] | date = 1978 | url = http://www.arcadeflyers.com/?page=flyer&db=videodb&id=87&image=2 | accessdate = 2008-01-25}}</ref>
+The concept gained a much wider audience after [[Activision]] released an unauthorized adaptation in 1981 as ''[[Kaboom! (video game)|Kaboom!]]'' for the [[Atari 2600]].<ref name="Kaboom AtariAge">{{cite web | last = Yarusso | first = Albert | title = Kaboom! | publisher = [[Atari Age]] | url = http://www.atariage.com/software_page.html?SoftwareLabelID=257 | accessdate = 2006-01-25 | archiveurl= https://web.archive.org/web/20060202095855/http://www.atariage.com/software_page.html?SoftwareLabelID=257 | archivedate= 2 February 2006 | url-status= live}}</ref> The only official home port of ''Avalanche'' is for [[Atari 8-bit computers]].
+
+==Gameplay==
+''Avalanche'' is for 1 or 2 players, alternating turns. There are six rows of rocks at the top of the screen. The game starts with a six-storied platform and the player loses one platform per row of [[rock (geology)|rocks]] cleared. The player scores points for those rocks they prevent from reaching the ground. The farther the row of rocks, the smaller and faster they become. The ultimate goal is to get enough points so that the player can continue the game should they lose their first one.
+
+==Development==
+According to the manual for the Atari home computer version, ''Avalanche'' started out as a game about [[egg]]s and [[basket]]s called ''Catch''.<ref name=apx/> The game tested poorly, but was better received when the theme was changed to falling rocks.
+
+''Avalanche'' is housed in a custom cabinet that includes two large lit start buttons and a rotary controller. The side art and [[bezel (screen)|bezel]] feature groupings of rocks with extending lines meant to convey the motion of falling rocks. The screen is black and white with two colored strips to provide colored rows of graphics as in ''[[Breakout (video game)|Breakout]]''.
+
+The circuit board is based on the [[MOS Technology 6502|6502]] CPU, with game code stored in multiple [[Read-only memory|ROMs]].<ref name="system16">
+{{cite web | title = System 16 - 6502 Black & White Raster Hardware (Atari) | url=http://www.system16.com/hardware.php?id=757 | accessdate = 2008-01-25}}</ref> All game text is selectable to 4 different languages: English, French, German, or Spanish. ''Avalanche'' also includes a built-in self-test diagnostic program that displays all microprocessor and memory functions, including all operator switches and functions.<ref name="avalanche flyer" />
+
+==Ports==
+Dennis Koble's official port of ''Avalanche'' for [[Atari 8-bit computers]] was published through the [[Atari Program Exchange]] in 1981 instead of official Atari channels.<ref name="apx">{{cite web |title=Avalanche Manual |url=https://archive.org/details/AvalancheAPXVer4 |website=archive.org |publisher=Atari Program Exchange |date=1981}}</ref> It requires the [[paddle (game controller)|paddle]] controller.
+
+==Legacy==
+''Avalanche'' inspired many similar games including ''[[Kaboom! (video game)|Kaboom!]]'' by [[Activision]], ''[[Lost Luggage (video game)|Lost Luggage]]'', and ''[[Eggomania]]'', all for the Atari 2600. ''[[Chicken (video game)|Chicken]]'' for the Atari 8-bit computers and ''Popcorn'' for the [[TRS-80 Color Computer]] are others.<ref>{{cite web|last1=Boyle|first1=L. Curtis|title=Popcorn|url=http://www.lcurtisboyle.com/nitros9/popcorn.html|website=The Tandy Color Computer Games List}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=6976|name=Avalanche}}
+* {{atarimania|id=441}}
+
+{{1970s Atari arcade games}}
+
+[[Category:1978 video games]]
+[[Category:Action games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari Program Exchange software]]
+[[Category:Video games developed in the United States]]

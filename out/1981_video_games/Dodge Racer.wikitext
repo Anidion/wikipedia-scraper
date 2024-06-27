@@ -1,0 +1,63 @@
+Dodge Racer
+Permalink: //en.wikipedia.org/w/index.php?title=Dodge_Racer&oldid=1227740067
+Accessed on: 2024-06-26T16:52:14.298766
+
+
+
+------
+Dodge Racer
+{{short description|1981 video game}}
+{{Infobox video game
+| title = Dodge Racer
+| image = Dodge Racer cover.jpg
+| caption = Cover art by Tim Boxell
+| released = 1981
+| designer = Rob Re<ref name=giantlist/>
+| programmer = 
+| developer = [[Synapse Software]]
+| publisher = Synapse Software
+| platforms = [[Atari 8-bit]]
+| genre = [[Maze video game|Maze]]
+| modes = 1-4 players alternating turns<br>2 player competitive
+}}
+
+'''''Dodge Racer''''' (also shown in the manual as '''''Dodge-Racer''''' and '''''DodgeRacer''''')<ref name=manual/> is a [[maze video game]] programmed by Rob Re for [[Atari 8-bit computers]] and published by [[Synapse Software]] in 1981.<ref name=giantlist/> It is a clone of the 1979 arcade video game ''[[Head On (video game)|Head On]]'',<ref name=atari83/> where the player drives around a rectangular track, divided into lanes, collecting dots and avoiding collisions. ''Dodge Racer'' was the second release from Synapse and the company's first game.
+
+==Gameplay==
+A player-controlled car and enemy car move in opposite directions through a course of concentric rectangles. When a car passes through gaps in each of the four cardinal directions, it can change lanes. The goal is to collect all the dots without crashing into the other vehicle.<ref name=manual/>
+
+Up to four players can take turns or there's a there's a mode for two players to alternate between controlling the player and enemy car.<ref name=manual/> There are options for whether the level fully resets after a crash, adding a second enemy car starting in round 3, having two cars from the start of the game, and enabling an automatic speed increase partway through a round.<ref name=manual/>
+
+The ''Dodge Racer'' track has six lanes, while ''Head On'' has five<ref name="eg-march82"/> and  ''[[Dodge 'Em]]'' for the Atari VCS has four.<ref>{{cite web |title=Atari 2600 VCS Dodge 'Em |url=http://www.atarimania.com/game-atari-2600-vcs-dodge--em_s6844.html |website=Atari Mania}}</ref>
+
+==Development==
+Synapse Software co-founders Ihor Wolosenko and Ken Grant met Rob Re at an Atari computer user group. They had already been working on the database File Manager 800 and asked Re if they could sell ''Dodge Racer''.<ref name=wolosenko/> It became the second release from Synapse, following File Manager 800, and the company's first game.
+
+''Dodge Racer'' is written in Assembly Language with set up in Basic. The BASIC cartridge needs to be inserted on the Atari 400 and 800 computers.<ref name=manual/>
+
+==Reception==
+''Book of Atari Software 1983'' gave an overall letter grade of C: "It is an addicting game, although I think it is a bit too fast and frustrating for beginners. It has decent graphics, presents a challenge, and the price is right".<ref name=atari83/> ''[[ANALOG Computing]]'' reviewer Tony Messina echoed parts of that, labeling the game "frustratingly addictive" and giving an 8 out of 10 for graphics and sound.<ref name=analog/> [[Bill Kunkel (journalist)|Bill Kunkel]] compared the game to another clone of ''Head On'' in the March 1982 issue of ''[[Electronic Games]]'':
+
+{{blockquote|text=Though obviously inspired by Atari's ''Dodge 'Em'', this version is clearly an improvement on its inspiration. By increasing the number of lanes to six, ''Dodge Racer'' greatly reduces the chance that the gamer will develop a system. Once the arcader has a pre-planned route that covers the entire field in the shortest possible time, it takes a lot out of programs of this type.<ref name="eg-march82"/>}}
+
+==References==
+{{reflist|refs=
+<ref name=manual>{{cite web |title=Dodge Racer Manual |url=https://archive.org/details/DodgeRacer/mode/2up |website=archive.org |publisher=Synapse Software |date=1981}}</ref>
+<ref name=giantlist>{{cite web|url=https://dadgum.com/giantlist|title=The Giant List of Classic Game Programmers|last1=Hague|first1=James}}</ref>
+<ref name=atari83>{{cite book |title=Book of Atari Software 1983 |date=1983 |publisher=The Book Company |page=136 |url=https://archive.org/details/ataribooks-the-book-of-atari-software-1983/page/n137/mode/2up}}</ref>
+<ref name=wolosenko>{{cite magazine |magazine=Antic |url=https://archive.org/details/1983-04-anticmagazine/page/n19/mode/2up |last=DeWitt |first=Robert |title=Profile: Ihor Wolosenko |date=April 1983 |volume=2 |issue=1} |page=21}}</ref>
+<ref name="eg-march82">{{cite magazine |magazine=Electronic Games |date=March 1982 |title=Computer Playland |page=55 |last=Kunkel |first=Bill|url=https://archive.org/details/Electronic_Games_Volume_01_Number_02_1982-03_Reese_Communications_US/page/n53/mode/2up |volume=1 |issue=2}}</ref>
+<ref name=analog>{{cite magazine |magazine=ANALOG Computing |title=Software Review: Dodge Racer |last=Messina |first=Tony |url=https://archive.org/details/analog-computing-magazine-06/page/n59/mode/2up |issue=6 |pages=57–58 |date=May 1982}}</ref>
+}}
+
+==External links==
+* {{atarimania|id=1655}}
+* [https://www.youtube.com/watch?v=iDnAWsv8Bww Gameplay video]
+
+[[Category:1981 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Maze games]]
+[[Category:Synapse Software games]]
+[[Category:Video game clones]]
+[[Category:Multiplayer and single-player video games]]

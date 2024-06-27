@@ -1,0 +1,430 @@
+Gain Ground
+Permalink: //en.wikipedia.org/w/index.php?title=Gain_Ground&oldid=1219052995
+Accessed on: 2024-06-26T17:04:16.325201
+
+
+
+------
+Gain Ground
+{{distinguish|gain-ground}}
+{{lead too short|date=August 2015}}
+{{Infobox video game
+| title = Gain Ground
+| image = Gain Ground (leaflet).png
+| developer = [[Sega]]<br>[[Sanritsu Denki|Sanritsu]] (Genesis, Master System)
+| publisher = Sega<br>[[Telenet Japan|Renovation Products]] (Genesis)
+| designer = Mac Austin <br/> Yang Watt
+| programmer = Yoshiki Ōoka 
+| artist = Max Nelson
+| composer = You Takada<br/>Katsuhiro Hayashi
+| platforms = [[Arcade video game|Arcade]], [[Master System]], [[Sega Genesis|Mega Drive/Genesis]], [[TurboGrafx-CD]]
+| released = '''Arcade''' {{vgrelease|JP|October 22, 1988<ref>{{cite web |title=Gain Ground (Registration Number PA0000409803) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=15 July 2021}}</ref>|WW|Late 1988}} '''Master System'''<br/>{{Video game release|PAL|1990}}'''Mega Drive/Genesis'''<br/>{{Video game release|JP|January 3, 1991|NA|May 1991<ref>{{cite web |title=MegaPlay_US_04.pdf |url=https://retrocdn.net/images/7/73/MegaPlay_US_04.pdf}}</ref>|PAL|1991}}
+| genre = [[Action game|Action]], [[Strategy video game|strategy]]
+| modes = [[Single-player]], [[multiplayer]]
+| arcade system = [[Sega System 24]]
+}}
+
+{{nihongo foot|'''''Gain Ground'''''|ゲイングランド|Gein Gurando|lead=yes|group=lower-alpha}} is an [[action game]] with [[Strategy video game|strategy]] elements released as an [[arcade video game]] by [[Sega]] in 1988. It was ported to  the [[Master System]], [[Sega Genesis|Mega Drive/Genesis]], and [[TurboGrafx-CD]].
+
+==Gameplay==
+[[File:ARC Gain Ground.png|thumb|left|Arcade version screenshot]]
+In ''Gain Ground'', players control one of a set of characters at a time, each with different weapons. To beat a level, players must reach the exit point with at least one character or destroy all enemies on the level before time runs out. There are forty levels in the arcade version of the game. The Master System and the Genesis/Mega Drive have fifty levels in the game.
+
+Normal mode starts with three players. There are captive characters littered across all levels, which can be rescued by walking over, then escorting the controlled character to the exit point. If a player controlled character is killed, that character turns into a captive, except that they will disappear if the next active player controlled character dies, exits the level without them, or the player has no characters left in their party. In Hard mode, the player starts the game with all twenty characters, but all the captive characters are removed from the levels.
+
+The game is over when all controlled characters in the party are killed without any reaching the exit. However, there are three continues which allow a player to restart the level with their original three characters.
+
+The game consists out of four rounds, each having ten stages, where the tenth stage is a boss level. There are also ten completely new levels added to the Genesis/Mega Drive version, this Modern Epoch takes place in the streets of the city. The Master System version also has 10 newly themed levels, placed after other versions' final Round "Future," ostensibly taking place within the "Gain Ground Main System" itself according to its opening stage.
+
+* Round 1: [[Dark Ages (historiography)|Dark Ages]]
+* Round 2: [[Middle Ages]]
+* Round 3: [[History of China|Pre-Revolutionary China]]
+* Round 4: [[Present day]] (Mega Drive/Genesis version)
+* Round 5: [[Future]]
+* Round 6: [[Global catastrophic risk|The Final Era]] (Master System version)
+
+==Characters==
+There are twenty [[player character|playable characters]] in ''Gain Ground'', each with their own strengths and weaknesses. Each character has a minor, weak weapon which can be fired in any direction, and a special weapon which has different capabilities from the normal attack and which varies between characters.
+
+The characters in ''Gain Ground'' also vary in which hand they hold their weapons, making it easier for some characters to shoot around certain walls and obstacles than others. When selecting a character for a situation, one must consider the character's speed, weapon type and range, and with which hands they hold their weapons.
+
+In the Master System release, instead of named characters there are unnamed class-like "fighters." Player 1's fighters are blue and male while Player 2's are red and female; they play exactly the same but have different sprites and character portraits. The fighters fill the same roles as their more powerful arcade/console counterparts, but are simplified to better suit the lower specs of the Master System hardware. There is one unique exception; the "Ninja" class. This Master System exclusive class can leave a trap on the ground at their feet for enemies to walk into and take damage; this trap functions differently than the Fire Knight's special attack, as it is persistent on the playing field until an enemy walks into it, while the special attack that the Fire Knight can use disappears quite quickly and can only be shot upwards.
+
+{| class="wikitable"
+
+|-
+
+! Name
+
+! Hand, walking speed
+
+! Normal weapon
+
+! Special weapon
+
+|-
+
+|'''Athra'''
+
+(アスラ ''Asura'')
+
+|Right-handed, quick
+
+|Spear, short range
+
+|Arcing spear, short range
+
+All directions
+
+|-
+
+|'''Betty'''
+
+(ベティ ''Beti'')
+
+|Ambidextrous, average
+
+|Pistol, short range (left hand)
+
+|Grenade, short range
+
+North only (right hand)
+
+|-
+
+|'''Cyber'''
+
+(サイバー ''Saibaa'')
+
+|Ambidextrous, slow
+
+|Pistol, medium range (right hand)
+
+|Spread missiles, long range
+
+North only (left hand)
+
+|-
+
+|'''Fire Knight'''
+
+(ファイアーナイト ''Faiaanaito'')
+
+|Center, average
+
+|Magic missile, medium range
+
+|Fireball, short range
+
+North only
+
+|-
+
+|'''Gascon'''
+
+(ガスコン ''Gasucon'')
+
+|Right-handed, quick
+
+|Spear, short range
+
+|Arcing spear, short range
+
+North only
+
+|-
+
+|'''General'''
+
+(ジェネラル ''Jeneraru'')
+
+|Ambidextrous, slow
+
+|Pistol, medium range
+
+(right hand)
+
+|Flamethrower, short range
+
+All directions (left hand)
+
+|-
+
+|'''Glow Knight'''
+
+(グロウナイト ''Guronaito'')
+
+|Center, average
+
+|Magic missile, medium range
+
+|Orbiting balls of light
+
+|-
+
+|'''Honey'''
+
+(ハニー ''Hanii'')
+
+|Ambidextrous, average
+
+|Pistol, medium range
+
+(left hand)
+
+|Grenades, short range
+
+All directions (right hand)
+
+|-
+
+|'''Johnny'''
+
+(ジョニー ''Jonii'')
+
+|Right-handed, quick
+
+|Rifle, medium range
+
+|Rifle, medium range
+
+North only
+
+|-
+
+|'''Kid'''
+
+(キッド ''Kiddo'')
+
+|Left-handed, average
+
+|SMG, medium range
+
+|SMG, medium range
+
+East/West simultaneously
+
+|-
+
+|'''Kou'''
+
+(コウ ''Kou'')
+
+|Left-handed, average
+
+|SMG, medium range
+
+|SMG, medium range
+
+North only
+
+|-
+
+|'''Mam'''
+
+(マム ''Mamu'')
+
+|Ambidextrous, quick
+
+|Pistol, medium range
+
+(left hand)
+
+|Boomerang, medium range
+
+North only (right hand)
+
+|-
+
+|'''Mars'''
+
+(マース ''Maasu'')
+
+|Right-handed, quick
+
+|Arrow, medium range
+
+|Arcing arrow, medium range
+
+North only
+
+|-
+
+|'''Mud Puppy'''
+
+(マッドパピー ''Maddopapii'')
+
+|Ambidextrous, slow
+
+|Pistol, medium range
+
+(right hand)
+
+|Laser cannon, long range
+
+North only (left hand)
+
+|-
+
+|'''Professor'''
+
+(教授 ''Kyoju'')
+
+|Left-handed, quick
+
+|Rifle, long range
+
+|Rifle, long range
+
+East/West simultaneously
+
+|-
+
+|'''Robby'''
+
+(ロビー ''Robii'')
+
+|Ambidextrous, slow
+
+|Pistol, medium range
+
+(right hand)
+
+|[[Surface-to-air missile|SAM]], long range
+
+All directions (left hand)
+
+|-
+
+|'''Valkyrie'''
+
+(バルキリー ''Barukirii'')
+
+|Ambidextrous, quick
+
+|Pistol, medium range
+
+(left hand)
+
+|Boomerang, medium range
+
+All directions (right hand)
+
+|-
+
+|'''Verbal'''
+
+(バーバル ''Baabaru'')
+
+|Right-handed, quick
+
+|Arrow, medium range
+
+|Arcing arrow, medium range
+
+All directions
+
+|-
+
+|'''Water Knight'''
+
+(ウォーターナイト ''Wootaanaito'')
+
+|Center, average
+
+|Magic missile, medium range
+
+|Water spout, short range
+
+All directions (stuns enemies)
+
+|-
+
+|'''Zaemon'''
+
+(ザエモン ''Zaemon'')
+
+|Center, average
+
+|Magic missile, medium range
+
+|Tornado, short range
+
+(Spirals outward, bounces off enemies & walls)
+
+|}
+
+* "Cyber" seems to be directly inspired by the titular hero of ''[[Robocop]]'' (1987), but instead of being silver, he has the same color-scheme as [[Iron Man]] from the [[Marvel Comics]].
+
+* Johnny appears to be based on [[Max Rockatansky]] from [[Mad Max 2: The Road Warrior]] (1981). This includes his similar jacket and [[sawed-off shotgun]].
+
+* Mars' appearance and use of a bow and arrow have drawn comparisons to [[John Rambo]]'s appearance from the ''[[Rambo (franchise)|First Blood]]'' sequels, and also could be inspired by [[Hercules]].
+
+* "Robby the Robot" is a subtle reference to the character from the vintage TV show, ''[[Lost in Space]]''.
+
+* The "General" has been noted by players to bear more than a passing resemblance to [[M. Bison]] from [[Street Fighter II: The World Warrior]] (1991), although the final boss didn't appear until three years after this game's release. Players have nicknamed the character "Bison" due to the name "General" being rather generic.
+
+==Plot==
+From a ''Gain Ground'' flyer:
+
+<blockquote>A long period of peace has deprived the earthlings of their instinct to wage war. The Federated Government, greatly concerned regarding this ever increasing dangerous situation, developed a Gain Ground simulation system in the year 2348 in an effort to instigate their ever waning fighting spirit. However, suddenly without warning, the Supercomputer went berserk and took many of the citizens as hostages. In order to rescue the POWs, three of the bravest warriors were urgently dispatched to go forth into the deadly Gain Ground.</blockquote>
+
+==Release==
+''Gain Ground'' started off as an arcade game. Released in Japan, the United States and Canada in 1988, ''Gain Ground'' ran on the [[Sega System 24]] architecture. The developers have stated that their original inspiration was ''[[Gauntlet (1985 video game)|Gauntlet]]''.<ref>{{Cite web |url=http://www.hardcoregaming101.net/gainground/gainground.htm |title=Hardcore Gaming 101 |access-date=2015-03-28 |archive-url=https://web.archive.org/web/20150408170618/http://www.hardcoregaming101.net/gainground/gainground.htm |archive-date=2015-04-08 |url-status=live }}</ref> ''Gain Ground'' was ported to the [[Master System|Sega Master System]] in 1990 and the [[Sega Genesis|Sega Mega Drive/Genesis]] in 1991. [[Telenet Japan|Renovation Products]] released the Genesis version in North America. Both conversions were handled by [[Sanritsu Denki|Sanritsu]]. In 1992, a [[PC Engine|PC Engine Super CD-ROM²]] version (''Gain Ground SX'') was released by [[NEC Avenue]].
+
+It was re-released in [[Radica Games]]' ''TVPlay Legends Vol. II [[TV Games]]'' compilation. In 2004, the game was remade for the [[PlayStation 2]] as part of [[Sega]]'s Japan-only ''[[Sega Ages|Sega Ages 2500]]'' series as ''Sega Ages 2500 Series Vol. 9: Gain Ground''.<ref>[http://uk.ps2.ign.com/articles/531/531748p1.html Sega Ages: Gain Ground]  {{Webarchive|url=https://web.archive.org/web/20110513042004/http://uk.ps2.ign.com/articles/531/531748p1.html |date=2011-05-13 }}, [[IGN]], July 20, 2004.</ref> This version has additional new levels that must be unlocked, with new music to accompany them. The Mega Drive/Genesis version was released on the European and Australian [[Wii]] [[Virtual Console]] on February 2, 2007, and was made available in North America on February 5, 2007. ''Gain Ground'' was included in ''[[Sega Genesis Collection]]'' on the [[PlayStation 2]] and the [[PlayStation Portable|PSP]] in 2006 and in ''[[Sonic's Ultimate Genesis Collection]]'' for [[Xbox 360]] and [[PlayStation 3]] in 2009. On June 1, 2010, the game became available on [[Steam (service)|Steam]] as part of ''Sega Mega Drive Classics Pack'' (''Sega Genesis Classics'' in the United States). On May 29, 2018, it was included in the console version of the Mega Drive/Genesis Classics Pack.
+
+As a tribute to the game, Chapter 15 and 17 of the crossover game ''[[Project X Zone]]'' are stages directly pulled from ''Gain Ground''. Chapter 15's title is "Gain Ground System" and both stages even have the party rescuing three of their companions (two in the first and one in the second) in true fashion to the original game. Incidentally, no characters from ''Gain Ground'' actually appear in the crossover.
+
+==Reception==
+{{Video game reviews
+| SMD = true
+| SMS = true
+| IGN_SMD = 7.5/10<ref>{{Cite web |url=http://ign.com/articles/2007/02/09/gain-ground-review |title=Gain Ground Review |access-date=2015-10-08 |archive-url=https://web.archive.org/web/20151020063829/http://www.ign.com/articles/2007/02/09/gain-ground-review |archive-date=2015-10-20 |url-status=dead |date=2007-02-08 }}</ref>
+| Raze_SMD = 92%<ref>{{Cite web |url=http://segaretro.org/index.php?title=File:Raze_UK_07.pdf&page=64 |title=File:Raze UK 07.pdf - Sega Retro |access-date=2015-10-08 |archive-url=https://web.archive.org/web/20151208041825/http://segaretro.org/index.php?title=File:Raze_UK_07.pdf&page=64 |archive-date=2015-12-08 |url-status=live }}</ref>
+| Raze_SMS = 71%<ref>{{Cite web |url=http://segaretro.org/index.php?title=File:Raze_UK_08.pdf&page=34 |title=File:Raze UK 08.pdf - Sega Retro |access-date=2015-10-08 |archive-url=https://web.archive.org/web/20151208062956/http://segaretro.org/index.php?title=File:Raze_UK_08.pdf&page=34 |archive-date=2015-12-08 |url-status=live }}</ref>
+| rev1 = ''[[Console XS]]''
+| rev1_SMS = 82%<ref>{{cite magazine |title=Software A-Z: Master System |magazine=[[Console XS]] |date=23 April 1992 |issue=1 (June/July 1992) |publisher=[[Paragon Publishing]] |location=United Kingdom |pages=137–47 |url=https://archive.org/details/console-xs-01/page/137}}</ref>
+| rev2 = ''[[MegaTech]]''
+| rev2_SMD = 43%<ref>MegaTech rating, [[EMAP]], issue 6, page 78, June 1992</ref>
+| rev3 = ''Sega-16''
+| rev3_SMD = 10/10<ref>{{Cite web |url=http://www.sega-16.com/2004/12/gain-ground/ |title=Sega-16 – Gain Ground |access-date=2015-10-08 |archive-url=https://web.archive.org/web/20151208063445/http://www.sega-16.com/2004/12/gain-ground/ |archive-date=2015-12-08 |url-status=dead }}</ref>
+| rev4 = ''[[Sega Pro]]''
+| rev4_SMD = 89%<ref name="SegaPro">{{Cite web | url=http://segaretro.org/index.php?title=File:SegaPro_UK_03.pdf&page=18 |title = File:SegaPro UK 03.pdf - Sega Retro| date=2 February 2023 }}</ref>
+| rev4_SMS = 81%<ref name="SegaPro"/>
+}}
+{{expand section|date=August 2015}}
+
+''Game Machine'' reports that ''Gain Ground'' was among the most popular arcade games of February 1989.<ref>{{cite magazine |title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos) |magazine=Game Machine |issue=349 |publisher=Amusement Press |date=1 February 1989 |page=25 |lang=ja}}</ref>
+
+[[IGN]]'s Levi Buchanan ranked ''Gain Ground'' as the fifth top Renovation game.<ref>[http://uk.retro.ign.com/articles/882/882363p1.html Top 10 Renovation Games] {{Webarchive|url=https://web.archive.org/web/20120214174123/http://uk.retro.ign.com/articles/882/882363p1.html |date=2012-02-14 }}, [[IGN]], June 17, 2008.</ref> [[Complex Networks|Complex]] ranked Gain Ground 88th on their "The 100 Best Sega Genesis Games."<ref>{{Cite web|last=Concepcion|first=Miguel|date=April 11, 2018|title=The 100 Best Sega Genesis Games|url=https://www.complex.com/pop-culture/the-100-best-sega-genesis-games/|access-date=2022-01-01|website=Complex|language=en}}</ref>
+
+{{Clear}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.mobygames.com/game/gain-ground ''Gain Ground''] at [[MobyGames]]
+*{{KLOV game|id=7878}}
+*[https://web.archive.org/web/20031001161643/http://www.classicgaming.com/japangaming/bonus_dir/trans/gainground/index.htm Translation of an interview] with Yoshiki Ohka, one of the programmers for ''Gain Ground'', via the [[Internet Archive]].
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gain Ground}}
+[[Category:1988 video games]]
+[[Category:Arcade video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Sanritsu Denki games]]
+[[Category:Sega arcade games]]
+[[Category:Sega video games]]
+[[Category:Master System games]]
+[[Category:Sega Genesis games]]
+[[Category:TurboGrafx-CD games]]
+[[Category:Video games featuring female protagonists]]
+[[Category:Virtual Console games]]
+[[Category:Video games developed in Japan]]
+[[Category:Action-strategy video games]]

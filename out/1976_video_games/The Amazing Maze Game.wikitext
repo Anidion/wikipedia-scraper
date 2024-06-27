@@ -1,0 +1,62 @@
+The Amazing Maze Game
+Permalink: //en.wikipedia.org/w/index.php?title=The_Amazing_Maze_Game&oldid=1218008760
+Accessed on: 2024-06-26T16:47:33.711382
+
+
+
+------
+The Amazing Maze Game
+{{Short description|1976 video game}}
+{{Infobox video game
+| title = The Amazing Maze Game
+| image = TheAmazingMaze flyer.jpg
+| caption = Arcade flyer
+| developer = [[Midway Games|Midway]]
+| publisher = Midway
+| designer = 
+| released = 1976
+| genre = [[Maze game|Maze]]
+| modes = Single-player, 2 player competitive
+| platforms = [[Arcade video game|Arcade]]
+| arcade system = [[Intel 8080|Intel 8080-based hardware]]
+| alt = 
+}}
+
+'''''The Amazing Maze Game''''' is an [[arcade video game]]<ref name=":0">{{Cite web |date=2022-02-22 |title=Amazing Maze |url=http://strategywiki.org/wiki/Amazing_Maze |access-date=2023-10-15 |website=StrategyWiki |language=en}}</ref> developed by [[Midway Games|Midway]] and released in 1976. Consisting of a black and white [[Cathode-ray tube|CRT]] screen running on an [[Intel 8080]] CPU, It is considered one of the earliest maze games produced,<ref name=":0" /> and also displays an early example of the phrase "game over."<ref name=":1">{{Cite web |title=Amazing Maze - TheAlmightyGuru |url=http://www.thealmightyguru.com/Wiki/index.php?title=Amazing_Maze |access-date=2023-10-15 |website=www.thealmightyguru.com}}</ref>
+
+==Gameplay==
+[[File:Amazing Maze.png|thumb|A game in progress]]
+
+The game is centered around a top-down maze, [[Maze generation algorithm|randomly generated]] each time the game is played. In the maze there are openings on both the left and righthand sides, where the second and first player will start from respectively. The goal of the game is for each player to find their way through the maze to reach the other player's starting position, before the other player makes it to theirs. The game can be played by two players,<ref name=":2">{{Cite web |title=Amazing Maze - Videogame by Midway Manufacturing Co. |url=https://www.arcade-museum.com/game_detail.php?game_id=6875 |access-date=2023-10-15 |website=www.arcade-museum.com}}</ref> or can be played solo against a computer, where the player will always start on the righthand side.
+
+Upon starting the game, a random maze is generated using [[Prim's algorithm|Prim's Algorithm]],<ref name=":1" /> and each player (or only player when against the computer) is given 5 seconds of time to look over the maze to find the fastest path through. After this delay, the players are allowed to move their respective players using the two joysticks on the [[arcade cabinet]]. Once a player has reached their goal position, the game will then display the fastest possible route from one side to the other, which is also the exact [[Pathfinding|route]] that the computer would take when playing solo.<ref>{{Cite web |title=Amazing Maze - Arcade - Games Database |url=https://www.gamesdatabase.org/game/arcade/amazing-maze |access-date=2023-10-15 |website=www.gamesdatabase.org}}</ref> A point is then added to the winning player's score.
+
+=== Screen ===
+At the top of the screen, the text ''MAZES TO PLAY'' is displayed followed by the number of mazes left before a winner is determined. If the game is against a computer, this text will be replaced with ''KEEP PLAYING'' if the player ends up winning.<ref>{{Citation |title=MiSTer Arcade 🕹 The Amazing Maze Game {{!}} No commentary, 1940p 60FPS |url=https://www.youtube.com/watch?v=_dW83JMTiso |access-date=2023-10-15 |language=en}}</ref> On the bottom left of the screen is a timer showing the time spent in the current maze though while the 5 second delay is present, it will show the number of seconds left to study the maze. The bottom right shows either a counter with the number of mazes completed when playing solo, or a countdown timer from 6 minutes that persists between mazes when playing against another player. Additionally, when playing with two players, the left and right sides of the screen will show the current scores for the second and first player respectively.<ref name=":2" />
+
+==See also==
+*''[[Maze Craze]]''
+
+== Trivia ==
+
+* The game has some inconsistency in its name, since the screen names it as "The Amazing Maze Game," while the [[Arcade cabinet|bezel]] names it as "Amazing Maze," while the rest of the cabinet just says "Maze."<ref name=":1" />
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.arcade-history.com/index.php?page=detail&id=75 ''The Amazing Maze Game''] at Arcade History
+*{{KLOV game|id=6875}}
+
+{{DEFAULTSORT:Amazing Game, The}}
+[[Category:1976 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Maze games]]
+[[Category:Midway video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]
+
+
+{{maze-videogame-stub}}
+{{arcade-stub}}

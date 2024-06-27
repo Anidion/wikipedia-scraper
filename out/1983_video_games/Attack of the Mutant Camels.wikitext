@@ -1,0 +1,60 @@
+Attack of the Mutant Camels
+Permalink: //en.wikipedia.org/w/index.php?title=Attack_of_the_Mutant_Camels&oldid=1224492739
+Accessed on: 2024-06-26T16:54:32.378634
+
+
+
+------
+Attack of the Mutant Camels
+{{distinguish|text=an entirely different game in Minter's [[Gridrunner]] series which was released under this title in the US}}
+{{refimprove|date=March 2010}}
+{{Infobox video game
+|title = Attack of the Mutant Camels
+|image = Attack_of_the_Mutant_Camels_Cover_Art.jpg
+|caption = 
+|developer = [[Llamasoft]]
+|publisher = Llamasoft
+|designer = [[Jeff Minter]]
+|released = 1983
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64]], [[Atari 8-bit]]
+}}
+
+'''''Attack of the Mutant Camels''''' is a [[surrealism|surrealist]] [[video game]] written by [[Jeff Minter]] and released for the [[Commodore 64]] and [[Atari 8-bit computers]] in 1983 by Minter's [[Llamasoft]]. The horizontally [[scrolling shooter]] is similar to the [[Atari 2600]] game ''[[Star Wars: The Empire Strikes Back (1982 video game)|The Empire Strikes Back]]'' (1982), with [[AT-AT]] walkers replaced by giant camels.<ref>{{Cite web|url=https://llamasoftarchive.org/8bitgames/attack-of-the-mutant-camels/|title = Attack of the Mutant Camels – Llamasoft Baachive}}</ref> Confusingly, a very different game from Jeff Minter's ''[[Gridrunner]]'' series was also released in the US under the name ''Attack of the Mutant Camels''.
+
+Llamasoft released a sequel, ''[[Revenge of the Mutant Camels]]'', in 1984.
+
+==Gameplay==
+[[File:Attack_of_the_mutant_camels_atari_800.png|thumb|left|Atari 8-bit version]]
+
+The player controls a small jet plane and has the task of killing giant yellow [[camel]]s before they reach the home base. Doing so requires several dozens of shots. The camels retaliate by shooting fireballs from their mouths. If a camel reaches the base, the game is lost. Once all camels on a level are killed, the player has to survive a "hyperspace" sequence which requires avoiding high-speed missiles. Upon successful completion, the next level presents a new wave of camels, with slightly harder gameplay.
+
+==Legacy==
+In 2011, ''Attack of the Mutant Camels'' was chosen to be featured in the [[Smithsonian Institution]]'s "[[The Art of Video Games]]" exhibit.<ref>{{cite web | url = http://americanart.si.edu/exhibitions/archive/2012/games/winninggames.pdf | title = The Art of Video Games Exhibition Checklist | accessdate = 2011-05-22| archiveurl= https://web.archive.org/web/20110523075002/http://americanart.si.edu/exhibitions/archive/2012/games/winninggames.pdf| archivedate= 23 May 2011 | url-status= live}}</ref>
+
+In 2012 the [[assembly language]] [[source code]] of the [[Konix]] version of the game was released on [[GitHub]].<ref>[http://www.retrocollect.com/News/jeff-minters-unreleased-konix-multisystem-port-of-attack-of-the-mutant-camels-preserved-a-due-for-release.html jeff-minters-unreleased-konix-multisystem-port-of-attack-of-the-mutant-camels-preserved-a-due-for-release] {{Webarchive|url=https://web.archive.org/web/20160429063624/http://www.retrocollect.com/News/jeff-minters-unreleased-konix-multisystem-port-of-attack-of-the-mutant-camels-preserved-a-due-for-release.html |date=2016-04-29 }} on retrocollect.com (2012)</ref><ref>[https://github.com/SavourySnaX/AOTMC89 AOTMC89] ''"Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code"'' on github.com</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{atarimania|id=6006}}
+* {{lemon64 game|id=172|name=Attack of the Mutant Camels}}
+* [http://www.llamasoft.co.uk/lc-8bit.php Llamasoft's 8-bit games, from which AMC is downloadable]
+* [https://web.archive.org/web/20120319051045/http://c64s.com/game/94/attack_of_the_mutant_camels/ https://web.archive.org/web/20120319051045/http://c64s.com/game/94/attack_of_the_mutant_camels/]
+* {{IAg|Attack_of_the_Mutant_Camels_1983_Llamasoft}}
+
+{{Jeff Minter}}
+[[Category:1983 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Llamasoft games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games about animals]]
+[[Category:Fictional camelids]]
+
+{{scroll-shooter-videogame-stub}}

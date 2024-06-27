@@ -1,0 +1,60 @@
+The Dungeon Revealed
+Permalink: //en.wikipedia.org/w/index.php?title=The_Dungeon_Revealed&oldid=1230501832
+Accessed on: 2024-06-26T16:58:24.287141
+
+
+
+------
+The Dungeon Revealed
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = The Dungeon Revealed 
+|image = DungeonOfDoomSplash.png
+|developer = John Raymonds
+|publisher = Woodrose Editions
+|designer = John Morgan
+|engine = 
+|programmer = John Raymonds, David Russo
+|artist = Dan Ferguson
+|released = 1985–1987
+|genre = [[Roguelike]], [[dungeon crawl]]
+|modes = [[Single-player]]
+|platforms = [[Mac OS]]
+}}
+'''''The Dungeon Revealed''''' is a [[dungeon crawl]] [[PC game]] created by John Raymonds and published by Woodrose Editions in 1987. The game is an enhanced commercial release of Raymonds' previous game '''''The Dungeon of Doom''''', released as [[shareware]] in 1985. A final version of ''The Dungeon of Doom'' was released as a free [[game demo|demo]] for ''The Dungeon Revealed'' in 1987. Both games were released for [[Mac OS]] and were compatible with versions as late as [[System 7 (Macintosh)|System 7]].
+
+==Objective==
+The player controls a single character trapped in an underground [[dungeon]]. If the character attempts to take the stairs from the dungeon, a message appears: "A force prevents you from escaping to the surface. Maybe the Orb will set you free..." Like this message, much of the game's story and mechanics are vague or undocumented. Most of the player's information comes from a window called ''Rumors'', which contains 26 short, cryptic statements.
+
+The dungeon is divided into 40 floors, each with one staircase going up and one going down. The [[floor plan]] of each level is randomly generated but remains unchanged throughout a single game. Though each level is about the same size, the complexity of the floor plans becomes more [[Maze|maze-like]] as the character descends to deeper dungeon levels. There are also items, including [[weapon]]s, [[armour|armor]], magical rings, [[Scroll (parchment)|scrolls]], [[potion]]s, [[wand]]s, food items, and [[Gemstone|jewels]] placed randomly throughout the dungeon's floors.
+
+Progress through the dungeon is hindered by monsters who, depending on the circumstances, have varying levels of hostility towards the character. The character must also eat periodically to avoid starvation. The monsters become more powerful and resistant to attack as the player progresses deeper into the dungeon.
+
+==Characters==
+[[Image:TheDungeonRevealedScreenshot.png|thumb|250px|right|Screenshot from ''The Dungeon Revealed'']]
+The player begins the game by creating a new character from one of seven classes: [[knight]], [[Fighter (character class)|fighter]], [[Wise Old Man|sage]], [[Wizard (character class)|wizard]], [[Alchemy|alchemist]], [[jeweler]], and jones. Each class has a different set of attributes, parameterized similarly to [[Dungeons & Dragons]], although the physical classes of knight and fighter are best as players will constantly have to fight to stay alive, whereas the ability to assess a potion, scroll, ring etc. is not especially useful and the nature of multiple items can be discovered using the very common identify scroll. Each attribute affects the character's abilities in a number of ways, many of which are undocumented. Characters with a high intelligence attribute, for example, have a higher probability of success when casting magic spells from a scroll as well as an improved ability to map the dungeon. In addition, each class has an increased likelihood of being able to identify a certain type of item. Characters can improve their ability scores throughout the game, both temporarily and permanently, through the use of potions and scrolls.
+
+Each class, with the exception of "Jones", also has the unique ability to assess one type of object. Alchemists, for example, can accurately identify the potions they find in the dungeon and therefore avoid drinking those with harmful effects; wizards wield wands more effectively; and so forth. All classes can reach the highest levels in each ability by obtaining a variety of scrolls and potions that raise strength, intelligence, wisdom, dexterity, constitution, and charisma. Strength controls a character's ability to attack; intelligence and wisdom the ability to read and understand scrolls successfully; dexterity the ability to wield weapons and throw objects; constitution the ability to withstand attack; and charisma the odds a defeated monster will leave behind a useful item.
+
+The main objective of the game is to retrieve the orb of Carnos, located on the 40th level and guarded by a powerful boss monster called "The Dark Wizard". The Wizard can be beaten with relative ease by standing in a staircase, which will reflect all spell attacks. The 40th level also contains a second orb, made of plastic, which can only be identified using an identify scroll.
+
+==Release history==
+John Raymonds wrote ''The Dungeon of Doom'' to teach himself [[C (programming language)|C]] and because he was disappointed with the Macintosh port of ''[[Ultima II: The Revenge of the Enchantress|Ultima II]]''.<ref name="macuser" /> He originally released ''The Dungeon of Doom'' as shareware in 1985, but he had received virtually no payments by 1987 despite the game's popularity.<ref>{{cite magazine | title = Honorware's falling foul of dishonesty | date = November 1987 | url =https://archive.org/details/AppleUserV7n9Sept1987/Apple%20User%20v7n11%20Nov%201987/page/n3/mode/2up | magazine = Apple User | publisher = [[Database Publications]] | page = 5}}</ref> Raymonds abandoned the shareware model and released an upgraded commercial version of the game published by Woodrose Editions in 1987, retitled ''The Dungeon Revealed''. The gameplay was largely unchanged, but enhancements included new digitized sounds, hidden vaults, gatekeepers guarding stairs, and new items. Woodrose also made the game's source code available to purchase for registered buyers.<ref>{{cite magazine | last = Valiulis | first = Dave | title = The Dungeon Goes Legit | date = February 1988 | url=https://archive.org/details/MacUser8802February1988/page/n59/mode/2up | magazine = MacUser | volume=4 | number = 2 | publisher = Ziff-Davis Publishing Co. | pages = 56–57}}</ref> Raymonds released a final version 5.4 of ''The Dungeon of Doom'' in 1987 that changed no code from the previous version 4.0 released in 1986 but reclassified ''The Dungeon of Doom'' as a free demo for ''The Dungeon Revealed''.
+
+==Reception==
+''[[Macworld]]'' inducted ''The Dungeon of Doom'' into the 1987 ''Macworld'' Game Hall of Fame in the Role-Playing Game category, ahead of runner-up ''[[The Seven Cities of Gold (video game)|The Seven Cities of Gold]]''.<ref>{{cite magazine | last = Levy | first = Steven | authorlink = Steven Levy | title = The Game Hall of Fame Annex | date = December 1987 | url =https://archive.org/details/MacWorld_8712_December_1987/page/n133/mode/2up | magazine = Macworld | publisher = Mac Publishing | page = 125}}</ref> ''Macworld'' also named ''The Dungeon of Doom'' the "Best Implementation of ''[[Rogue (video game)|Rogue]]'' and 2-D Maze Game" as part of its Shareware and Public Domain Game Awards in 1987.<ref>{{cite magazine | last = DeMaria | first = Rusel | title = Shareware and Public Domain Game Awards | date = November 1987 | url = https://archive.org/details/MacWorld_8711_November_1987 | magazine = Macworld | publisher = Mac Publishing | page = [https://archive.org/details/MacWorld_8711_November_1987/page/n165 164]-165}}</ref> ''[[MacUser]]'' rated ''The Dungeon of Doom'' 4 out of 5, calling it a "standard adventure in the ''Ultima''-series genre".<ref name="macuser">{{cite magazine | last = Valiulis | first = Dave | title = Sharing the Dungeon | date = January 1987 | url=
+https://vintageapple.org/macuser/pdf/MacUser_8701_January_1987.pdf#page=122 | magazine = MacUser | volume = 3 | number = 1 | publisher = MacUser Publications, Inc. | pages = 118–122, 178}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://archive.org/details/DungeonOfDoomRevealed ''The Dungeon of Doom'' and ''The Dungeon Revealed''] are playable in browser at Archive.org
+
+{{DEFAULTSORT:Dungeon Revealed, The}}
+[[Category:1985 video games]]
+[[Category:Classic Mac OS games]]
+[[Category:Classic Mac OS-only games]]
+[[Category:Roguelike video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games using procedural generation]]

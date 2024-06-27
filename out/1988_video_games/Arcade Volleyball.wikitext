@@ -1,0 +1,67 @@
+Arcade Volleyball
+Permalink: //en.wikipedia.org/w/index.php?title=Arcade_Volleyball&oldid=1184529410
+Accessed on: 2024-06-26T17:03:41.240306
+
+
+
+------
+Arcade Volleyball
+{{multiple issues|
+{{Primary sources|date=February 2019}}
+{{more citations needed|date=October 2017}}
+}}
+
+{{Infobox video game
+|title=Arcade Volleyball
+|image= ArcadeVolleyball promo.png
+|designer=Rhett Anderson
+|publisher=''[[COMPUTE!'s Gazette]]''
+|released='''1988:''' C64<br>'''1989:''' Amiga, MS-DOS
+|genre=[[Sports video game|Sports]]
+|modes=[[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]] 
+|platforms=[[Commodore 64]], [[Amiga]], [[MS-DOS]]
+|caption = 
+|alt = 
+|programmer = Rhett Anderson<br>Randy Thompson (Amiga)
+}}
+
+'''''Arcade Volleyball''''' is a [[sports video game]] written by Rhett Anderson for the [[Commodore 64]] and published as a [[type-in program]] in the June 1988 issue of ''[[COMPUTE!'s Gazette]]''. It was ported to [[Amiga]] and [[MS-DOS]] by different programmers and was included in a 12-game collection called ''Best Gazette Games''.<ref>COMPUTE! #142 (July 1992), page G-13</ref> The author released the game later into the [[public domain]].<ref>[https://www.classicdosgames.com/game/Arcade_Volleyball.html Arcade_Volleyball] on classicdosgames.com</ref>
+
+==Gameplay==
+[[File:Arcade Volleyball.png|thumb|left|alt=Arcade Volleyball for Commodore 64|Original Commodore 64 version]]
+
+The game features teams of one or two players (depending on the platform) shaped like balls with legs who hit the volleyball with their heads. The game is played from a side-view perspective, and the ball can be bounced off of the walls and ceiling without penalty. Scoring is based on the original volleyball scoring rules, where only the serving team can score on each volley, and 15 points are required to win the game. The same head is permitted to hit the ball multiple times, but the team may only hit the ball three times while the ball is on their side.
+
+== Development==
+''Arcade Volleyball'' was originally published as a hexadecimal [[type-in program]] for [[MLX (software)|MLX]] in the June 1988 edition of Commodore 64 magazine ''[[COMPUTE!'s Gazette]]''. The article was written by Rhett Anderson and David Hensley, Jr., who had also published a similar game called ''Basketball Sam & Ed'' in the July 1987 issue. The game featured two heads per team, controlled by a single player, which moved and jumped together. It was not necessary to win the game by 2 points; when either side reached 15 points, the game would pause and ask if the user wanted to play again.
+
+By default the game was played between two human players, but it was possible to modify the game so that one player could play against the computer by typing "[[PEEK and POKE|POKE]] 2065,1" to type the number 1 into the memory address that controlled the number of players. The authors referred to this as an optional practice mode or warm up mode and warned that the computer opponent was not very challenging.<ref>COMPUTE!'s Gazette #60 (June 1988), page 33</ref> The game was inspired by ''[[Pong]]'' (actually, the two-paddle "Hockey" variant of ''Pong'') and programmed by Rhett Anderson.
+
+==Ports==
+[[File:Arcade Volleyball (Amiga).png|thumb|alt=Arcade Volleyball for Amiga|Amiga version]]
+
+Rhett Anderson and Randy Thompson wrote an [[Amiga]] version of ''Arcade Volleyball'' from scratch. It was included as an executable program, with [[source code]], on the [[covermount|cover disk]] of the Fall 1989 edition of ''Compute!'s Amiga Resource''. The Amiga version differs from the Commodore 64 version by only having one player per team (a green head versus a red head), requires a 2-point margin of victory, it is no longer possible for the ball to go under the net, and playing against the computer is a standard option.* <ref>Amiga Power #30 (October 1993), page 102</ref>
+
+[[Image:Arcade Volleyball (gameplay).gif|thumb|alt=Arcade Volleyball for MS-DOS gameplay animation|MS-DOS version]]
+
+The [[MS-DOS]] version was sold in a 9-game collection called ''COMPUTE!'s Best PC Games''.<ref>COMPUTE! #115 (December 1989), page 56</ref> It was written with [[Borland Turbo C]] and has the same physics and gameplay as the Amiga version, but uses 4-color [[Color Graphics Adapter|CGA]] graphics and PC speaker sound.<ref>[https://www.classicdosgames.com/game/Arcade_Volleyball.html RGB Classic Games]</ref>
+
+==Reception==
+{{Empty section|date=October 2018}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.gamebase64.com/game.php?id=366&d=18&h=0 ''Arcade Volleyball''] at Gamebase 64
+*{{moby game|id=/arcade-volleyball|name=''Arcade Volleyball''}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Volleyball video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Public-domain software with source code]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video games developed in the United States]]

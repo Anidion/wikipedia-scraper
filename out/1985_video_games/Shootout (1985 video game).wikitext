@@ -1,0 +1,74 @@
+Shootout (1985 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Shootout_%281985_video_game%29&oldid=1161839931
+Accessed on: 2024-06-26T16:59:09.736049
+
+
+
+------
+Shootout (1985 video game)
+{{Infobox video game
+|title = Shootout
+|image = ShootOut arcadeflyer.png
+|image_size = 256px
+|caption = North American arcade flyer of ''Shootout''.
+|developer = [[Data East]]
+|publisher = Data East
+|released = {{vgrelease|JP|[[1985 in video gaming|July 1985]]<ref>{{cite web |title=シュートアウト |trans-title=Shootout |url=https://mediaarts-db.bunka.go.jp/id/M732378 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=9 May 2021}}</ref>|NA|September 16, 1985<ref>{{cite web |title=Shootout (Registration Number PA0000278564) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=9 May 2021}}</ref>|EU|October 1985<ref name="CG7"/>}}
+|platforms= [[Arcade game|Arcade]]
+|genre = [[Shooting gallery game|Target shooting]]<ref name="CG7"/>
+|modes = [[Single player]], up to 2 players, alternating turns
+}}
+
+{{nihongo foot|'''''Shootout'''''|シュートアウト|Shūtoauto|lead=yes|group=lower-alpha}} is a [[1985 in video gaming|1985]] [[Arcade game|arcade]] [[Shooting gallery game|target shooting game]] developed and published by [[Data East]].<ref name="CG7"/><ref>“The Arcade Flyer Archive - Video Game Flyers: Shootout, Data East (DECO).” Web. 12 Nov. 2012. < http://flyers.arcade-museum.com></ref><ref name="archive.org">[https://archive.org/details/shootoutenglish “Shootout &#91;English&#93; by Data East : Free Download & Streaming : Internet Archive.”] Web. 12 Nov. 2012.</ref>
+
+==Gameplay==
+Player controls with two buttons and an 8-way joystick.<ref name="archive.org"/> One button shoots the gun, the other allows the player to jump enemy bullets and other attacks. The 8-way joystick is used to specify the direction of movement, pointing down to crouch and the different up directions to indicate angle of the shot.
+
+At the start of the game, the player is given an option to practice in the target practice room,<ref name="CG7"/><ref>“Shoot Out - Arcade - Games Database.” Web. 12 Nov. 2012.< http://gamesdbase.com></ref> which is similar to a standard [[shooting gallery game]] with targets that don't fire back.<ref name="CG7"/> They then play through the main game, consisting of 7 stages to beat the game. In the main game, the player faces human enemies who fire back at the player, often while taking [[Cover system|cover]] behind objects/buildings and popping out from behind cover to fire at the player.<ref name="CG7"/>
+
+The game will loop after the 7th stage is completed. In stages 1 through 8, the object is to shoot a certain number of criminals and avoid shooting civilians. If the player is hit by an enemy or if the player shoots a civilian, the player will lose a life.<ref>“Shoot Out Arcade Game, Shootout Arcade Game, Shoot Out Video Game, Shoot Out Video Game - Ilovethe80s.com.” Web. 12 Nov. 2012.< http://www.ilovethe80s.com></ref> When all lives are lost, the game ends. Besides criminals and civilians, some objects in the backgrounds of the seven stages can be shot to earn extra points, such as amusement park rides and signs.
+
+==Technical specifications==
+The following are the technical specifications for the game's arcade hardware.<ref>“[http://www.arcade-history.com Shoot Out coin-op Arcade Video Game, Data East Corp]. (1985).” Web. 12 Nov. 2012.</ref>
+
+* Main CPU : M6502 (@ 2&nbsp;MHz)
+* Sound CPU : M6502 (@ 1.5&nbsp;MHz)
+* Sound Chips : YM2203 (@ 1.5&nbsp;MHz)
+* Screen orientation : Horizontal
+* Video resolution : 256 x 240 pixels
+* Screen refresh : 60.00&nbsp;Hz
+* Palette Colors : 256
+* Players : 2
+* Control : 8-way joystick
+* Buttons : 2
+
+== Reception ==
+In Japan, ''Game Machine'' listed ''Shootout'' on their August 15, 1985 issue as being the tenth most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=266|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 August 1985|page=21|lang=ja}}</ref>
+
+Mike Roberts and Steve Phipps of ''[[Computer Gamer]]'' magazine reviewed the game, giving it a positive review, calling it "a target shooting game with a difference." They noted that, in contrast to a standard shooting gallery with targets that don't fire back, the enemies in ''Shoutout'' fire back at the player while often taking cover and popping out from cover.<ref name="CG7">{{cite magazine |last1=Roberts |first1=Mike |last2=Phipps |first2=Steve |title=Coin-Op Connection |magazine=[[Computer Gamer]] |date=October 1985 |issue=7 |publisher=[[Argus Press]] |location=United Kingdom |pages=18–9 |url=https://archive.org/details/Computer_Gamer_Issue_07_1985-10_Argus_Press_GB/page/n17/mode/2up}}</ref>
+
+Clare Edgeley of ''[[Computer and Video Games]]'' magazine gave it a positive review. She noted the enemies "crop up in the most unexpected places" and said it was "as much fun as" [[Sega]]'s ''[[Bank Panic]]'' (1984) and [[Nintendo]]'s ''[[Hogan's Alley (video game)|Hogan's Alley]]'' (1984). She concluded, "Take your pick, all three are great fun."<ref>{{cite magazine |last1=Edgeley |first1=Clare |title=Arcade Action |magazine=[[Computer and Video Games]] |date=16 December 1985 |issue=51 (January 1986) |pages=54–5 |url=https://archive.org/details/cvg-magazine-051/page/n53/mode/2up}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.arcade-history.com/?n=shoot-out&page=detail&id=2425 ''Shootout''] at [http://www.arcade-history.com/index.php?page=news Arcade History]
+* {{KLOV game|id=9530}}
+* [http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=2336&image=1 ''Shootout'' Flyer] at [http://flyers.arcade-museum.com/ Arcade Flyer’s Museum]
+* [https://archive.org/details/shootoutenglish ''Shootout'' Manual] at The [[Internet Archive]]
+
+[[Category:1985 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Cabal shooters]]
+[[Category:Data East arcade games]]
+[[Category:Data East video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Organized crime video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games set in the 1930s]]

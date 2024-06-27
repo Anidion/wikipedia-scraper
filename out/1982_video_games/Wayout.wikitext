@@ -1,0 +1,89 @@
+Wayout
+Permalink: //en.wikipedia.org/w/index.php?title=Wayout&oldid=1224490372
+Accessed on: 2024-06-26T16:54:22.036327
+
+
+
+------
+Wayout
+{{Short description|1982 video game}}
+{{Other uses|Way Out (disambiguation){{!}}Way Out}}
+{{Infobox video game
+| title          = Wayout
+| image          = Wayout_Atari_8-bit_Cover_Art.jpg
+| caption        = 
+| developer      = [[Sirius Software]]
+| publisher      = [[Sirius Software]]
+| designer       = Paul Allen Edelstein<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+| series         = 
+| engine         =
+| released       =  '''1982:''' Apple, Atari<br/>'''1983:''' C64
+| genre          = [[List of maze video games|Maze]]
+| modes          = [[Single-player]]
+| platforms      = [[Atari 8-bit computers|Atari 8-bit]], [[Apple II]], [[Commodore 64]]
+}}
+
+'''''Wayout''''' is a 3D [[First-person (video games)|first-person perspective]] [[video game]] programmed by Paul Allen Edelstein and  published for the [[Atari 8-bit computers]] in 1982. It was released for the [[Apple II]] and [[Commodore 64]] in 1983. ''Wayout'' is among the first [[maze game]]s to offer full 360 degree 3D perspective and movement, and its graphics were considered state-of-the-art upon its release.<ref name="Duberman">{{cite journal
+| last        = Duberman
+| first       = David
+| date        = February 1983
+| title       = WAYOUT
+| journal     = Antic |volume=1 |issue=6 |page=83
+| url         = http://www.atarimagazines.com/v1n6/productreviews.html
+}}</ref> There were many pseudo-3D maze games at the time (such as ''[[3D Monster Maze]]'', ''[[Phantom Slayer (video game)|Phantom Slayer]]'', and ''3-Demon''), but they used a fixed perspective and limited the player to four orientations.
+
+''[[Capture the Flag (video game)|Capture the Flag]]'' was published as a follow-up in 1983. It allows two players to compete at once with a split-screen view and adds dynamic music.
+
+==Gameplay==
+{{Unreferenced section|date=October 2019}}
+[[image:440478-wayout-atari-8-bit-screenshot-moving-along-the-walls.png|thumb|The view from inside the maze]]
+
+The game can be played with either a [[joystick]], [[paddle (game controller)|paddles]] or the [[Computer keyboard|keyboard]], allowing the player to move forward and turn left or right (but not backwards).
+
+The player is trapped inside one of 26 mazes and must find the exit with the use of a compass and a map-making kit. The game automatically maps the areas that the player explores and records how many movement units the player uses up, saving the best scores to the game disk.
+
+There is also a computer controlled opponent called the "Cleptangle" who appears as a spinning rectangular form which moves around the maze and will render the player's compass and mapmaker useless by 'stealing' them if it comes into contact with the player.
+
+In addition, there is a 'wind' within each maze, which blows in a constant direction, and is visualised by the presence of 'Fireflies' (represented by single pixels, moving through the maze). The 'wind' can sometimes be too strong for the player to push against, but it can also help the player locate the exit of the maze.
+
+In the lower portion of the screen is a top-down, 2D view, of the maze the player inhabits and draws itself as the player moves around, in a very similar way to the [[automap]] feature which became prevalent in many later [[first-person shooter]]s such as ''[[Doom (1993 video game)|Doom]]''.
+
+==Reception==
+''[[Creative Computing]]'' in 1983 described ''Wayout'' as "deliciously addictive"; reviewer Chris Vogeli admitted to being frustrated until he realised the exit could be anywhere on the map, and not just at the edge.<ref>
+{{cite magazine
+| last        = Vogeli
+| first       = Chris
+| date        = February 1983
+| title       = WAYOUT
+| magazine     = Creative Computing |volume=9 |issue=2 |page=88
+| url         = http://www.atarimagazines.com/creative/v9n2/88_Apple_arcade_games.php
+}}</ref> ''[[Antic (magazine)|Antic]]''{{'}}s David Duberman wrote, "The graphics that appear before you as you move through the maze are more life-like and dramatic than I have ever seen. The 3-D animation... makes this game the last word in alternate-reality simulation".<ref name="Duberman"/> ''[[Softline (magazine)|Softline]]'' stated that ''Wayout'' "features smooth-scrolling, truly three-dimensional mazes ... to torture your mind", and was "not recommended for vertigo sufferers".<ref name="shore198303">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 | title=Wayout | work=Softline | date=March 1983 | accessdate=28 July 2014 | author=Shore, Howard A. | pages=36–37}}</ref> In a review for ''[[ANALOG Computing]]'', [[Brian Moriarty]] concluded, "Paul Edelstein deserves stardom for his masterful programming effort. When I'm showing off my ATARI to friends, I don't automatically reach for ''[[Star Raiders]]'' any more".<ref>{{cite magazine |magazine=ANALOG Compuing |last=Moriarty |first=Brian |issue=10 |date=March 1983 |title=Software Review: Wayout |page=18 |url=https://archive.org/details/analog-computing-magazine-10/page/n19/mode/2up}}</ref>
+
+Allen Doum of ''[[Computer Gaming World]]'' wrote that "Wayout has the best '[[attract mode]]' I've ever seen. The program actually solves the INTRO maze, while demonstrating all game features except the reference points".<ref name="CGW10">{{cite magazine |last=Doum |first=Allen |title=The Atari Arena |magazine=Computer Gaming World |date=May–Jun 1983 |volume=1 |issue=10 |pages=28–29}}</ref> ''[[Electronic Fun with Computers & Games]]'' described ''Wayout'' as having "superb 3-D graphics", but criticised it for the lack of variety in the colors of each maze, which could lead the player to become "very disoriented".<ref>
+{{cite magazine
+| date        = June 1983
+| title       = Wayout
+| magazine     = Electronic Fun
+| url         = http://www.atarimania.com/game-atari-400-800-xl-xe-wayout_5738.html
+}}</ref> ''[[Ahoy!]]''{{'}}s reviewer stated that "Maze games generally leave me cold. To my surprise, I found ''Wayout'' a complete delight" and superior to ''[[Tunnel Runner]]'' and ''[[Escape from the Mindmaster]]''. He concluded, "Maze game fans—pounce on this one".<ref name="hallassey198403">{{cite news | url=https://archive.org/stream/Ahoy_Issue_03_1984-03_Ion_International_US#page/n59/mode/2up | title=Congo Bongo | work=Wayout | date=March 1984| accessdate=27 June 2014 | author=Hallassey, Dan | pages=60}}</ref>
+
+==See also==
+*''[[MIDI Maze]]''
+
+==References==
+{{Reflist}}
+<!--- After listing your sources please cite them using inline citations and place them after the information they cite. Please see http://en.wikipedia.org/wiki/Wikipedia:REFB for instructions on how to add citations. --->
+
+== External links ==
+* {{atarimania|id=5738}}
+*{{MobyGames|id=/wayout}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:First-person video games]]
+[[Category:Maze games]]
+[[Category:Sirius Software games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

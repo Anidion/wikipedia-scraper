@@ -1,0 +1,53 @@
+Bolo (Breakout clone)
+Permalink: //en.wikipedia.org/w/index.php?title=Bolo_%28Breakout_clone%29&oldid=1224494382
+Accessed on: 2024-06-26T17:01:44.093898
+
+
+
+------
+Bolo (Breakout clone)
+{{For|other games named Bolo|Bolo (disambiguation)#Games{{!}}Bolo#Games}}
+{{One source|date=October 2021}}
+{{Infobox video game
+|title          =Bolo
+|collapsible    =
+|state          =
+|image          =Bolo Breakout.jpg
+|caption        =
+|programmer     =Meinolf Schneider
+|publisher      =Application Systems Heidelberg<br>Dongleware Verlags GmbH
+|engine         =
+|released       ='''Atari ST'''<br>{{Video game release|DE|1987}}'''Mac, MS-DOS'''<br>{{Video game release|WW|1995}}
+|genre          =[[Breakout clone|Breakout]]
+|modes          =[[Single-player]]
+|platforms      =[[Atari ST]], [[Macintosh]], [[MS-DOS]]
+}}
+
+'''''Bolo''''' is a 1987 [[Breakout clone|''Breakout'' clone]] written for the [[Atari ST]] with the high resolution [[monochrome monitor]]. It was later remade for [[Macintosh]] and [[MS-DOS]]. ''Bolo'' was written by Meinolf Schneider,<ref name="atarimania"/> who wrote the ''[[Oxyd]]'' games. ''Bolo'' is in the same vein as Taito's ''[[Arkanoid]]'' with numerous additions such as gravity, exploding bricks, and tunneling.
+
+==References==
+{{reflist|refs=
+<ref name="atarimania">{{cite web|title=Bolo|url=http://www.atarimania.com/game-atari-st-bolo_8775.html|website=Atari Mania}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=8775}}
+*{{cite web|url=http://theodor.lauppert.ws/games/bolo.htm |title=Bolo (Meinolf Schneider, 1987) |accessdate=2014-12-11 |url-status=dead |archiveurl=https://web.archive.org/web/20130815081733/http://theodor.lauppert.ws/games/bolo.htm |archivedate=2013-08-15 }}
+
+{{DEFAULTSORT:Bolo (Breakout clone)}}
+[[Category:1987 video games]]
+[[Category:Application Systems Heidelberg games]]
+[[Category:Atari ST games]]
+[[Category:Breakout clones]]
+[[Category:Classic Mac OS games]]
+[[Category:Dongleware Verlags games]]
+[[Category:DOS games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in Germany]]
+
+
+{{AtariST-game-stub}}
+{{MSDOS-game-stub}}
+{{Macintosh-game-stub}}
+{{paddle-videogame-stub}}

@@ -1,0 +1,90 @@
+Gumball (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Gumball_%28video_game%29&oldid=1224117305
+Accessed on: 2024-06-26T16:55:05.394115
+
+
+
+------
+Gumball (video game)
+{{Short description|1983 video game}}
+{{Use American English|date=June 2016}}
+{{Use mdy dates|date=June 2016}}
+{{Infobox video game
+| title = Gumball
+| image = Gumball - 1983 video game - box art.jpg
+| caption = Apple II box art
+| designer = [[Veda Hlubinka-Cook]]
+| developer =
+| publisher = [[Broderbund]]
+| platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]]
+| released = 1983
+| genre = [[Action game|Action]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Gumball''''' is a [[video game]] written for the [[Apple II]] by [[Veda Hlubinka-Cook]] (credited as Robert Cook) and published by [[Broderbund]] in 1983. It was ported to the [[Atari 8-bit computers]], and [[Commodore 64]]. The player controls the valves of a maze-like machine to sort gumballs by color.
+
+Broderbund co-founder [[Doug Carlston]] conceived of the machine-sorting concept and Cook added the gumball concept and built the core gameplay within a week. Reviewers separately noted the difficulty of the game's later stages, praised its comical elements, and commented on the social role of simulating mundane work. An [[Easter egg (media)|Easter egg]] was found three decades after the game's release.
+
+== Gameplay ==
+[[Image:Gumball - 1983 video game - screenshot.png|left|thumb|Players sort gumballs by color.]]
+''Gumball'' is an [[action video game]] in which the player works in a factory as a [[chewing gum|gumball]] sorter and sorts gumballs by color as they flow through a maze-like processing machine.<ref name="Software Reviews on File: Gumball"/><ref name="Datamation: Young"/> The player controls valves in the machine to divert the flow of individual gumballs towards bins of corresponding colors.<ref name="Compute"/> If the player sorts incorrectly, the foreman walks onscreen and dumps the gumballs out of the bin.<ref name="Datamation: Young"/> The player has a daily quota to meet by the end of the [[Level (video games)|level]]'s time limit.<ref name="Software Reviews on File: Gumball"/> If successful, the player character receives a promotion; the player watches an animation of a worker walking home from the factory, and progresses to a more complex level, with more color options to sort and defective, explosive gumballs to deactivate.<ref name="Datamation: Young"/> If unsuccessful in meeting the daily quota, the [[game over|game ends]] and the player is left to restart from the beginning.<ref name="Compute"/>
+
+The game requires a color television or monitor, and optionally works with a [[joystick]] or [[paddle (game controller)|paddle controller]].<ref name="Software Reviews on File: Gumball"/>
+
+== Development ==
+[[Veda Hlubinka-Cook]] wrote ''Gumball'' for publication by [[Broderbund]] in 1983.<ref name="Software Reviews on File: Gumball"/> Co-founder [[Doug Carlston]] conceived the core concept of a machine that sorts based on color, and Veda Hlubinka-Cook expanded the concept with the gumball conceit. She spent a week designing the main processing machine, with its pipes and valves. Though she later returned to add more background detail, the original pipe design did not change. Most of Cook's time was spent programming the game's functions, such as the how individual gumballs move through the pipes.<ref name="Datamation: Young"/>
+
+To make the game more interesting, Cook added the gumball bombs and tweaked the mechanism that caught them. She iterated through prototypes including a player-controlled claw and an item that traversed the pipes before finally deciding on crosshairs for the player to fire. Cook also added the game's time limit and the differences between [[Level (video gaming)|levels]]. Closer to the end, Cook coded ''Gumball''{{'s}} title page and the animated transitions between levels.<ref name="Datamation: Young"/>
+
+The game debuted at the June 1983 [[Consumer Electronics Show]].<ref name="Billboard: CES"/>
+
+[[File:Gumballs (8739287019).jpg|thumb|[[Chewing gum]] gumballs in a [[gumball machine]]]]
+
+== Reception ==
+John Besnard reviewed the game for ''[[Computer Gaming World]]'', and stated that "The graphics of ''Gumball'' are delightful. Objects move smoothly in front of and behind each other, as if you just plugged a special graphics board into your Apple. In fact, it's worth catching a few gumballs in the wrong bins just to watch them tip over."<ref name="CGW14">{{cite magazine |last=Besnard |first=John |title=Micro-Reviews |magazine=Computer Gaming World |date=February 1984 |volume=1 |issue=14 |pages=42}}</ref> David Stone reviewed the game for ''[[Computer Gaming World]]'', and stated that "''Gumball'' is fun for many of the same reasons as Spare Change Arcade: it has levels of increasing difficulty, it rewards you for mastering each level, and it requires some amount of strategy as well as timing to open and close the gates to fill the bins and meet your quota."<ref name="CGW18">{{cite magazine |last=Stone |first=David |title=Atari Playfield |magazine=Computer Gaming World |date=October 1984 |volume=1 |issue=18 |pages=24–25}}</ref>
+
+Chris Browning of the [[Eugene, Oregon]]-based ''Atari Computer Enthusiasts'' wrote that ''Gumball'' was a good interlude between shoot-em-up games, but found that he lost interest when tasked with sorting four or more colors of gumballs.<ref name="ACE"/> ''[[Compute!'s Gazette]]'' thought that ''Gumball'' was fun, and highlighted its "comical" elements, such as the factory manager emptying the player's bin when the player incorrectly sorts the wrong color into it. The magazine described ''Gumball'' as a "strategy-action" game and considered it a useful aid in developing faculties of [[logic]] and [[hand-eye coordination]].<ref name="Compute"/> David Hunter of ''[[Softalk]]'' asked whether the game was satirical commentary "on the Great [[American Dream]] of climbing the [[career ladder|corporate ladder]]" depending on whether the factory work inculcated "good work habits" or "Disney-esque automatons". He wrote that the game had what corporate trainers would want: an introduction to repetitive tasks and a sense of nervous energy.<ref name="Softalk"/> Three decades later, Jason Koebler of ''[[Vice Motherboard|Motherboard]]'' summarized that the game never became popular and that copies of it became rare.<ref name="Vice: Someone"/>
+
+==Legacy==
+[[Image:Veda_Hlubinka-Cook.jpg|left|thumb|[[Veda Hlubinka-Cook]] in 2018]]
+In 2016, an Apple II [[software cracking|software cracker]] team found an [[Easter egg (media)|Easter egg]] hidden by the game's creator 33 years prior. Cook had hidden a secret congratulations screen in the game for players who entered a specific keyboard key combination at a particular time and solved the resulting series of [[substitution cipher]]ed clues. Cook congratulated the cracker team on [[Twitter]]. The crackers found the secret while working to preserve the game for the [[Internet Archive]] by removing its digital copyright protections. One of the crackers said that while most 1980s games could be cracked by automation, ''Gumball''{{'s}} protections, coded by Roland Gustafsson, were exceptional.<ref name="Vice: Someone"/>
+{{-}}
+
+== References ==
+
+{{reflist|refs=
+
+<ref name="ACE">{{Cite journal |last1=Browning |first1=Chris |title=Gumball review |journal=Atari Computer Enthusiasts |postscript=, cited in {{Harvard citation no brackets|Lathrop|1985}}. |page=15 |date=September 1984 }}</ref>
+
+<ref name="Billboard: CES">{{Cite magazine |last1=Golden |first1=Marcia |title=Summer CES: Video Game Consoles Evolving Into Home Computers |magazine=[[Billboard (magazine)|Billboard]] |volume=95 |issue=24 |pages=50, 54 |date=1983-06-11 |url=https://www.proquest.com/docview/1286391135/citation/7E61F5B19C6240A2PQ/1 |issn=0006-2510 |via=[[ProQuest]] |df=mdy-all }} {{closed access}}</ref>
+
+<ref name="Compute">{{Cite journal |author=<!--not in source--> |title=Gumball review |journal=[[Compute!'s Gazette]] |page=112 |date=November 1984 |issue=17 |issn=0737-3716 |url=https://archive.org/stream/1984-11-computegazette/Compute_Gazette_Issue_17_1984_Nov#page/n113/mode/1up }}</ref>
+
+<ref name="Datamation: Young">{{Cite news |last1=Kosak |first1=C. |title=Well, I Was Young... |work=[[Datamation]] |volume=30 |issue=5 |pages=118–120 |date=1984-04-15 |url=http://link.galegroup.com/apps/doc/A544571/GPS?sid=wikipedia |issn=0011-6963 |via=[[General OneFile]] |df=mdy-all }} {{closed access}}</ref>
+
+<ref name="Softalk">{{Cite journal |last1=Hunter |first1=David |title=Gumball review |journal=[[Softalk]] |pages=338–339 |date=December 1983 |volume=4 |number=4 |issn=0274-9629 |url=https://archive.org/stream/softalkv4n04dec1983#page/338/mode/2up }}</ref>
+
+<ref name="Software Reviews on File: Gumball">{{Cite journal |editor-last1=Lathrop |editor-first1=Ann |title=Gumball |journal=[[Software Reviews on File]] |volume=1 |issue=1 |pages=40–41 |date=December 1985 |issn=8755-7169 |df=mdy-all }} {{closed access}}</ref>
+
+<ref name="Vice: Someone">{{Cite web |last1=Koebler |first1=Jason |title=It Took 33 Years For Someone to Find the Easter Egg in This Apple II Game |work=[[Vice Motherboard]] |date=2016-06-10 |url=http://motherboard.vice.com/read/it-took-33-years-for-someone-to-find-the-easter-egg-in-this-apple-ii-game-gumball |access-date=2016-06-17 |df=mdy-all }}</ref>
+
+}}
+
+== External links ==
+* {{Internet Archive game|Gumball4amCrack|platform=Apple II}}<!-- but the game was uploaded in 2014 too? a2_Gumball_1983_Broderbund OR a2_Gumball_1983_Broderbund_a OR a2_asimov_gumball -->
+*[https://archive.org/details/games-58-1984-december/page/56/mode/2up Review] in [[GAMES Magazine]]
+
+{{Good article}}
+
+{{Portal bar|Video games}}
+
+[[Category:1983 video games]]
+[[Category:Broderbund games]]
+[[Category:Apple II games]]
+[[Category:Action games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Single-player video games]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]

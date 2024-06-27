@@ -1,0 +1,56 @@
+Bug Off!
+Permalink: //en.wikipedia.org/w/index.php?title=Bug_Off%21&oldid=1224580130
+Accessed on: 2024-06-26T16:53:05.334144
+
+
+
+------
+Bug Off!
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Bug Off!
+| image = Bug-off-atari-8-bit-front-cover-FAIR-USE.jpg
+| caption=
+| designer = Sparky Starks
+| publisher = [[Adventure International]]<br>QuelleSoft<ref name=am_kampf/>
+| engine =
+| released = '''1982:''' Adventure International<br>'''1984:''' QuelleSoft
+| genre = [[Fixed shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Atari 8-bit]]
+}}
+
+'''''Bug Off!''''' is a single screen [[fixed shooter]] for [[Atari 8-bit computers]] written by Sparky Starks<ref name=giantlist/> and published by [[Adventure International]] in 1982.<ref name="atarimania"/> QuelleSoft released the game in Germany as '''''Kampf dem Ungeziefer''''' ("Fight the Bugs") in 1984.<ref name="am_kampf">{{cite web |title=Kampf dem Ungeziefer |url=http://www.atarimania.com/game-atari-400-800-xl-xe-kampf-dem-ungeziefer_15743.html |website=Atari Mania}}</ref>
+
+==Gameplay==
+The object of ''Bug Off!'' is to control a variety of bugs that swarm out of a Florida sinkhole and endanger the player's garden.
+
+[[Image:Bug-off-atari-8-bit-screenshot-fair-use.png|thumb|left|Atari 8-bit screenshot]]
+
+The player controls a chemical sprayer, which can be moved on all four outer edges of the gameplay window. The sprayer will always point towards the center of the screen, where the garden resides. Only the wasps and spiders are dangerous to the player. They eat all the player's DDT supplies and thus end the game. The player tries to hold out until nightfall, when the butterflies appear, which reward the player bonus points for every corner that has remained free and also the army will drop in a new supply of the DDT.
+
+When the player is hit, he will lose his current can of DDT from his sprayer, and a second can will be thrown to the center of the garden, destroying all bugs on the map. When all lives are lost, it's game over.
+
+==Reception==
+''The [[Addison-Wesley]] Book of Atari Software 1984'' concluded: "The sound and graphics are poor in ''Bug Off!''; then again, it isn't the type of game that needed better graphics. Game play is instinctively reflex rather than strategy oriented. It is a lightening fast repetitive game, but that doesn't mean it leaves you with a feeling of accomplishment". Overall ''Bug Off!'' received a D+ review.<ref name=wesley/>
+
+== References ==
+{{Reflist|refs=
+<ref name=wesley>{{cite book |editor1-last=Wells |editor1-first=Robert P. |editor2-last=Rochowansky |editor2-first=Sandra |editor3-last=Mellin |editor3-first=Michael F. |editor4-last=Stanton |editor4-first=Jeffrey |date=1984|title=Addison Wesley Book Of Atari Software 1984 |publisher=[[Addison-Wesley]] |isbn=((0-201-16465-X)) |page=112 |chapter-url=https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n111/mode/2up |chapter=Shoot 'Em-Up Arcade Games}}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/#S |last1=Hague |first1=James}}</ref>
+<ref name="atarimania">{{Cite web|title=Bug Off!|url=http://www.atarimania.com/game-atari-400-800-xl-xe-bug-off_818.html|access-date=2021-01-22|website=Atari Mania}}</ref>
+}}
+
+==External links==
+* {{atarimania|id=818}}
+* {{Internet Archive game|id=a8b_Bug_Off_1982_Adventure_International_US}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Fixed shooters]]
+[[Category:Video games about insects]]
+[[Category:Video games about plants]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Florida]]
+[[Category:Single-player video games]]

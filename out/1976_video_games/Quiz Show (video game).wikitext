@@ -1,0 +1,53 @@
+Quiz Show (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Quiz_Show_%28video_game%29&oldid=1198755205
+Accessed on: 2024-06-26T16:47:38.806899
+
+
+
+------
+Quiz Show (video game)
+{{short description|1976 video game}}
+{{Infobox video game
+|title= Quiz Show
+|image= File:Quiz_Show_1976_Arcade_Flyer.jpg
+|caption= Arcade flyer
+|developer= [[Kee Games]]
+|released= {{vgrelease|NA|1976}}
+|genre= Quiz
+|platforms=Arcade
+}}
+'''''Quiz Show''''' (onscreen title: "The Kee Games Quiz Show") is a two-player [[arcade game]] by [[Kee Games]], a company originally established by [[Atari, Inc.]] The game was originally released in 1976. A computerized version of a quiz show, the game presents multiple choice answers to questions from a range of categories.<ref name="klov">
+{{cite web
+  | title = Quiz Show Killer List of Video Games Entry
+  | url=http://www.klov.com/game_detail.php?game_id=9211
+  | access-date = 2008-11-28 }}</ref>
+
+==Gameplay==
+The game asks the player questions, with the player pressing the corresponding button to answer. Questions are multiple choice, chosen from a pool of 1000 questions in four categories: people, sports, movie, and potpourri. Categories are chosen prior to the game's start. Points are awarded for a correct answer, with point deductions for incorrect answers. Bonus points are also awarded, and are based on the length of time it takes to answer the question. At the end of game play, the player is given a rating of Dunce, Lucky, Smart, or Genius based on their score.<ref name="klov" /><ref name="manual"/>
+
+==Technology==
+The game is housed in a custom cabinet that includes two sets (one set per player) of four buttons  on each side of the monitor. The game [[Printed circuit board|PCB]] uses a [[Signetics 2650]] CPU, with all questions and answers stored on a removable 8-track audio cassette tape that is streamed to the game.<ref name="manual">
+{{citation 
+  | title = Quiz Show Operation, Maintenance, and Service Information Manual
+  | author= Atari, Inc
+  | publisher = Atari, Inc 
+  }}</ref>
+
+''Quiz Show'' is believed to be the first game to utilize the now well-known "arcade font". The 8×8 [[Monospaced font|monospaced]] typeface was later used in ''[[Sprint 2]]'', as well as in many arcade games by other manufacturers.<ref>{{cite web |url=https://www.youtube.com/watch?v=C5NiAoT3xsY |title=The 8-bit arcade font, deconstructed |work=Vox |publisher=YouTube |date=April 6, 2020 }}</ref><ref>{{cite web |url=https://www.arcade-history.com/?n=quiz-show&page=detail&id=3345 |title=Quiz Show © 1976 Kee Games |website=Gaming History }}</ref>
+
+==References==
+{{reflist}}
+
+{{1970s Atari arcade games}}
+
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Quiz video games]]
+[[Category:1976 video games]]
+[[Category:Atari arcade games]]
+[[Category:Video games developed in the United States]]
+[[Category:Kee Games games]]
+
+
+{{atari-stub}}
+{{arcade-stub}}

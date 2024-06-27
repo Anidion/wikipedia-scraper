@@ -1,0 +1,140 @@
+Shanghai (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Shanghai_%28video_game%29&oldid=1224500919
+Accessed on: 2024-06-26T17:00:54.646059
+
+
+
+------
+Shanghai (video game)
+{{short description|1986 video game}}
+{{Use mdy dates|date=April 2022}}
+{{Infobox video game
+| title = Shanghai
+| image = Shanghai video game cover.jpg
+| developer = [[Activision]] <br>[[HAL Laboratory]] (Game Boy)<br> [[Sunsoft]] (arcade)
+| publisher = Activision <br> Sunsoft (arcade)
+| series = ''Shanghai''
+| engine = 
+| programmer = Brodie Lockard
+| composer = Tomotsune Maeno ([[PC Engine|PCE]])
+| platforms = [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Apple IIGS]], [[Arcade video game|Arcade]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[FM Towns]], [[Game Boy]], [[Classic Mac OS|Mac]], [[MSX]], [[NEC PC-8801]], [[NEC PC-9801]], [[Nintendo Entertainment System|NES]], [[Master System]], [[PC Engine]], [[Sharp X1]], [[X68000]], [[TRS-80 Color Computer]], [[TurboGrafx-16]], [[Atari Lynx|Lynx]]
+| released = July 1986
+| genre = [[Mahjong solitaire]]
+| modes = [[Single-player]], [[multiplayer]]
+}}
+
+'''''Shanghai''''' is a computerized version of [[mahjong solitaire]] published by [[Activision]] in 1986 for the [[Amiga]], [[Atari ST]], [[Atari 8-bit computers]], [[Commodore 64]], [[MS-DOS]], [[classic Mac OS]], [[Apple IIGS]], and [[Master System]]. ''Shanghai'' was originally programmed by Brodie Lockard.<ref name="Dragon138"/> It was released as an [[arcade video game]] by [[Sunsoft]] in 1988.
+
+==Gameplay== 
+The game uses a full set of 144 mahjong tiles, divided as follows:
+
+* Dots (1 through 9)
+* Bamboos (1 through 9)
+* Characters (1 through 9)
+* Winds (north, east, south, west)
+* Dragons (red, green, white)
+* Seasons (spring, summer, autumn, winter)
+* Flowers (bamboo, plum, orchid, chrysanthemum)
+
+There are four of every tile except for the seasons and flowers, which have only one tile each.
+
+The object of the game is to remove all the tiles from the board by matching pairs, but only tiles with at least one free vertical edge may be matched on a turn. Any two seasons can form a pair, as can any two flowers. The game ends if no legal moves can be made.
+
+After winning a game, a portion of the screen collapses to reveal a dragon blinking an eye.<ref name="Dragon138"/> The Macintosh and Master System versions show an animated dragon spitting fire.{{citation needed|date=January 2017}}
+
+==Reception==
+{{Video game reviews
+|AMI = true
+|AST = true
+|C64 = true
+|LYNX = true
+|SMS = true
+|Allgame_LYNX = {{Rating|3|5}}<ref>{{cite web |last1=Knight |first1=Kyle |title=Shanghai (Atari Lynx) – Review |url=http://www.allgame.com/game.php?id=388&tab=review |website=[[AllGame]] |url-status=dead |archive-url=https://web.archive.org/web/20141114131934/www.allgame.com/game.php?id=388&tab=review |archive-date=November 14, 2014 |access-date=August 5, 2021}}</ref>
+|Allgame_SMS = {{Rating|3|5}}<ref>{{cite news |last1=Sutyak |first1=Jonathan |title=Shanghai (Sega Master System) – Review |url=http://www.allgame.com/game.php?id=12071&tab=review |work=[[All Game Guide]] |year=1998 |url-status=dead |archive-url=https://web.archive.org/web/20141115044630/www.allgame.com/game.php?id=12071&tab=review |archive-date=November 15, 2014 |access-date=August 5, 2021}}</ref>
+|ASM_AMI = 36/60<ref name="ASM">{{cite magazine |title=Denk(-)mal |magazine=[[Aktueller Software Markt]] |date=March 1987 |pages=66–7 |url=https://archive.org/details/asm_magazine-1987-03/page/n65/mode/2up?view=theater |lang=de}}</ref>
+|ASM_AST = 36/60<ref name="ASM"/>
+|CVG_LYNX = 84%<ref name="CVG112"/>
+|CVG_SMS = 81%<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=October 16, 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+|Dragon_AMI = {{Rating|5|5}}<ref name="Dragon138"/>
+|Dragon_LYNX = {{Rating|5|5}}<ref name="Dragon181"/>
+|IGN_LYNX = 10/10<ref name="IGN"/>
+|rev1 = ''[[Commodore User]]''
+|rev1_C64 = 7/10<ref>{{cite magazine |last1=Hetherington |first1=Tony |title=Shanghai |magazine=[[Commodore User]] |date=March 1987 |page=50 |url=http://amr.abime.net/amr_popup_picture.php?src=cu_amiga/magscans/cu_1987_03/050.jpg&c=14764}}</ref>
+|rev2 = ''[[Mean Machines]]''
+|rev2_SMS = 48%<ref>{{cite magazine |title=Mean Machines |magazine=[[Computer and Video Games]] |issue=87 |date=January 1989 |pages=140–1 |url=https://archive.org/details/cvg-magazine-087/page/n139/mode/2up?view=theater}}</ref>
+}}
+
+''Shanghai'' sold more than 500,000 copies by 1991.<ref name="emrich199102">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=79 | title=A Good Deal, Better / Activision's Shanghai II | magazine=Computer Gaming World | date=February 1991 | accessdate=November 17, 2013 | author=Emrich, Alan | pages=10}}</ref> In Japan, ''Game Machine'' listed Sunsoft's version of ''Shanghai'' on their May 1, 1988, issue as being the fourth most-successful table arcade unit of the month;<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 – テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=331|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=May 1, 1988|page=23|lang=ja}}</ref> it ended the year as Japan's ninth highest-grossing arcade [[1988 in video games|conversion kit of 1988]].<ref>{{cite magazine |title=Game Machine's Best Hit Games 25: '88 ''/ "Game of the Year '88" By Game Machine'' |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=348 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=January 15, 1989 |pages=10–1, 26 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19890115p.pdf#page=6}}</ref>
+
+In 1996, ''[[Computer Gaming World]]'' declared ''Shanghai'' the 146th-best computer game ever released.<ref name=cgw150>{{cite magazine | author=Staff | title=150 Best (and 50 Worst) Games of All Time | magazine=[[Computer Gaming World]] | date=November 1996 | issue=148 | pages=63–65, 68, 72, 74, 76, 78, 80, 84, 88, 90, 94, 98}}</ref>
+
+===Critical reviews===
+''[[Computer Gaming World]]'' in December 1986 published varying opinions. Gregg Williams stated, "I couldn't believe [Activision] had wasted their resources on putting it out",<ref name="williams198612">{{cite news | title=Hacker II | magazine=Computer Gaming World | date=December 1986 | author=Williams, Gregg | pages=18}}</ref> while [[Charles Ardai]] called it "probably the best game of the year".<ref name="ardai198612">{{cite news | title=Year in Review | magazine=Computer Gaming World | date=December 1986 | last=Ardai | first=Charles | authorlink=Charles Ardai | pages=20}}</ref> Roy Wagner reviewed the game for ''Computer Gaming World'', and stated that "on the C64, the patterns and stacks are hard to discern (soon your eyes match the screen). On the Amiga the display is outstanding with the pieces actually looking very much like colorful, ivory tiles".<ref name="CGW34">{{cite magazine |last=Wagner |first=Roy |title=Commodore Key |magazine=Computer Gaming World |date=January–February 1987 |volume=1 |issue=34 |pages=39}}</ref> ''[[Info (magazine)|Info]]'' gave the Amiga version four-plus stars out of five, stating "this program ought to be illegal. It is impossible to play 'just one game'". Describing gameplay as "swift and deceptively simple", the magazine warned "plan on spending a LOT of time with this one".<ref name="info198701amiga">{{Cite magazine |last1=Dunnington |first1=Benn |last2=Brown |first2=Mark R. |last3=Malcolm |first3=Tom |date=January–February 1987 |title=Amiga Gallery |url=https://archive.org/stream/info-magazine-13/Info_Issue_13_1987_Jan-Feb#page/n89/mode/2up |magazine=Info |pages=90–95}}</ref> It gave the Commodore 64 version three-plus stars out of five, describing ''Shanghai'' as "fanatically addictive". While criticizing the user interface and graphics, the magazine concluded that the players will find it hard to quit.<ref name="info198701">{{Cite magazine |last1=Dunnington |first1=Benn |last2=Brown |first2=Mark R. |last3=Malcolm |first3=Tom |date=January–February 1987 |title=64/128 Gallery |url=https://archive.org/stream/info-magazine-13/Info_Issue_13_1987_Jan-Feb#page/n13/mode/2up |magazine=Info |pages=14–21}}</ref> ''[[Compute!]]'' reviewed the game favorably, reporting that "our ''Shanghai'' mania is of such proportions that I am beginning to fear for our health".<ref name="bobo198702">{{cite news | url=https://archive.org/stream/1987-02-compute-magazine/Compute_Issue_081_1987_Feb#page/n33/mode/2up | title=Shanghai | work=Compute! | date=February 1987 | accessdate=November 9, 2013 | author=Bobo, Ervin | pages=32}}</ref> In 1988, ''[[Dragon (magazine)|Dragon]]'' gave the game 5 out of 5 stars.<ref name="Dragon138">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk|journal=Dragon|issue=138|date=October 1988|pages=70–75|url=https://annarchive.com/files/Drmg138.pdf#page=72}}</ref>
+
+===Atari Lynx===
+''[[Dragon (magazine)|Dragon]]'' magazine gave the [[Atari Lynx]] version 5 stars in their May 1992 issue.<ref name="Dragon181">{{cite journal |title=The Role of Computers |last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk |journal=Dragon |issue=181 |date=May 1992|pages=57–62}}</ref> Robert Jung of ''[[IGN]]'' gave the game a score of 10 out of 10 in his review.<ref name="IGN">{{cite web |url=http://www.ign.com/articles/1999/07/07/shanghai |website=IGN |date=July 6, 1999 |accessdate=March 28, 2018 |author=Jung, Robert A. |title=An excellent version of Shanghai, preserving all of the charm of the original game – and more.}}</ref> ''[[Computer and Video Games]]'' magazine reviewed the game in their March 1991 issue giving an 84% score.<ref name="CVG112">{{cite magazine |title=Bytesize Atari Lynx |magazine=CVG Magazine |issue=112 |date=March 1991 |page=71 |url=https://archive.org/stream/cvg-magazine-112/ |accessdate=March 28, 2018}}</ref>
+
+==Reviews==
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #44<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-44/page/84/mode/2up | title=Jeux & stratégie 44 | date=April 1987}}</ref>
+
+==Legacy==
+A sequel, ''Shanghai II'', was released by Sun Electronics ([[Sunsoft]]) for Japanese [[Arcade game|arcades]] in March 1989. It was Japan's twelfth highest-grossing [[arcade conversion]] kit [[1992 in video games|of 1992]].<ref>{{cite magazine |title=Overseas Readers Column: "SF II", "Exhaust Note" Top Videos '92 |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=441 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=January 1–15, 1993 |page=36 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19930101p.pdf#page=19}}</ref>
+
+''[[Shanghai II: Dragon's Eye]]'' was published in 1990 for MS-DOS.<ref name="cgw199408">{{Cite magazine
+ |date=August 1994
+ |title=These Just In
+ |department=Now Playing
+|url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=121
+ |magazine=Computer Gaming World
+ |pages=152–156}}</ref> Ports were released for Macintosh, Apple IIGS, FM Towns, MSX, PC-98, Sharp X68000, Windows, Sega Genesis, and Super NES. The Genesis version was re-released on the [[Wii]] [[Virtual Console]] in the PAL regions on November 27, 2009, and in North America on January 11, 2010, which was later delisted at the end of 2013.
+
+Other sequels include:
+
+* ''Shanghai III'' – released by [[Sunsoft]] for arcades in 1993. In Japan, it was the fifth highest-grossing arcade [[printed circuit board]] (PCB) software [[1994 in video games|in 1994]],<ref>{{cite magazine |title=Best Videos '94: "Puyo Puyo", "Ridge Racer" DX |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=487 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=January 1–15, 1995 |page=36 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19950101p.pdf#page=19}}</ref> and sixth [[1995 in video games|in 1995]].<ref>{{cite magazine|title="Virtua Fighter 2" and "Virtua Cop" Top Videos|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=511|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=February 1, 1996|page=22|lang=ja|url=https://onitama.tv/gamemachine/pdf/19960201p.pdf#page=12}}</ref>
+* ''[[Shanghai: Triple-Threat]]''
+* ''[[Shanghai: Great Moments]]''
+* ''[[Shanghai: True Valor]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=33217}}
+* [http://www.mobygames.com/game/shanghai ''Shanghai''] at [[MobyGames]]
+* [https://archive.org/details/1987-02-compute-magazine/page/n33/mode/2up Review] in ''[[Compute!]]''
+* [https://archive.org/details/1987-12-anticmagazine/page/n69/mode/2up Review] in ''[[Antic (magazine)|Antic]]''
+* [https://archive.org/details/rainbowmagazine-1988-03/page/n137/mode/2up Review] in ''[[The Rainbow (magazine)|The Rainbow]]''
+* [https://archive.org/details/Page6-42-Feb90/page/40/mode/2up Review] in ''[[Page 6]]''
+
+[[Category:1986 video games]]
+[[Category:Activision games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade Archives games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari Lynx games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:FM Towns games]]
+[[Category:Game Boy games]]
+[[Category:Hamster Corporation games]]
+[[Category:Master System games]]
+[[Category:MSX games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:Sharp X1 games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:TurboGrafx-16 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Alex Rudis]]
+[[Category:Video games scored by Naoki Kodaka]]
+[[Category:Video games scored by Russell Lieblich]]
+[[Category:Virtual Console games]]
+[[Category:X68000 games]]

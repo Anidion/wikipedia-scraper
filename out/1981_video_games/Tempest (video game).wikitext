@@ -1,0 +1,122 @@
+Tempest (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Tempest_%28video_game%29&oldid=1229348793
+Accessed on: 2024-06-26T16:52:42.708972
+
+
+
+------
+Tempest (video game)
+{{Short description|1981 video game}}
+{{Infobox video game
+|title=Tempest
+|image=Tempest arcade.png
+|caption=North American arcade flyer
+|developer=[[Atari, Inc.]]
+|publisher=Atari, Inc.
+|designer=[[Dave Theurer]]<ref>{{cite web |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist |last=Hague |first=James |year=1992 |access-date=16 April 2019}}</ref>
+|programmer=Dave Theurer
+|released ='''{{Start date|1981|10}}: '''Arcade<ref name="amuseum">{{cite web |last=Vendel |first=Curt |title=ATARI Coin-Op/Arcade Systems |year=1980–1982 |url=http://www.atarimuseum.com/videogames/arcade/arcade80.html |access-date=9 May 2007 |work=Atari Museum}}</ref><br>'''1985:''' Spectrum, BBC<br>'''1987:''' Amstrad<br>'''1989:''' Atari ST
+|genre=[[Tube shooter]]
+|modes=1-2 players alternating turns
+|platforms=[[Arcade video game|Arcade]], [[Atari ST]], [[Amstrad CPC]], [[BBC Micro]], [[ZX Spectrum]]
+}}
+
+'''''Tempest''''' is a 1981 [[arcade video game]] by [[Atari, Inc.]], designed and programmed by [[Dave Theurer]]. It takes place on a three-dimensional surface divided into lanes, sometimes as a closed tube, and viewed from one end. The player controls a claw-shaped "blaster" that sits on the edge of the surface, snapping from segment to segment as a rotary knob is turned, and can fire blaster shots to destroy enemies and obstacles by pressing a button.
+
+''Tempest'' was one of the first games to use Atari's Color-[[QuadraScan]] [[vector graphics|vector]] display technology. It was also the first to let players choose their starting level (a system Atari called "SkillStep"). This feature increases the preferred starting level, which therefore could also be used to allowing the player to [[Continue (video games)|continue]] the previous game if they wished. ''Tempest'' was one of the first video games with a progressive [[level design]] where the levels themselves varied rather than giving the player the same layout with increasing difficulty.
+
+==Gameplay==
+{{Unreferenced section|date=October 2020}}
+[[File:Arcade-atari-tempest1.png|thumb|left|220px|The arcade version with the player's lane in yellow and three red flippers moving along the rim]]
+The goal in ''Tempest'' is to survive for as long as possible, and score as many points as possible, by clearing the screen of enemies that appear on the playing field. The player controls a blaster at the near end of the field, moving it left and right using a rotary knob. The player's blaster can rapid-fire shots down individual lanes of the field, destroying any enemies within the same lane. The blaster is also equipped with a "Superzapper" which, once per level, destroys all enemies currently on the field, a second use of the Superzapper in the same level destroys one random enemy. The Superzapper is recharged between each level.
+
+The game features sixteen unique levels of different shapes, including simple geometric shapes, a flat line, and the [[infinity symbol|symbol for infinity]]. Some levels are closed tubes that allow the player to loop throughout it continuously, while others have definite left and right endpoints. When all sixteen levels have been played, the sequence repeats with a different color scheme and higher difficulty. One set of levels (65 through 80) is "invisible" (black). After reaching Stage 99, the level counter stops increasing and each successive level shape is picked randomly.
+
+Enemies first appear on the screen as swirling dots beyond the far end of the field, appearing on the field one at a time. There are seven types of enemies in the game, each with their own behavior pattern. Flippers attempt to catch the player's blaster and drag it to the far end of the playfield. Pulsars periodically electrify the lane that they occupy—if the blaster is in that lane at that moment, it is destroyed. Fuseballs jump forward and back unpredictably along the edges of each lane, moving slowly between them to give the player a brief opportunity to shoot them. Spikers roll toward the player and extend spikes into a lane, which the player can wear down by shooting it. After the first few levels, each level starts with short spikes at the far end of the field. Later levels also feature Fuseball and Pulsar Tankers, which split into two Fuseballs or two Pulsars when hit, respectively. Most enemies can shoot bullets at the blaster, destroying it upon impact.
+
+When all enemies on the field have been destroyed, the player "warps" to the next level by traveling down the field and into the space beyond it. The player must avoid or destroy any spikes that are in the way; hitting one will destroy the blaster and force the player to try the warp again.
+
+The player loses a life when their blaster is destroyed or captured, and the game ends when all lives are lost. Bonus blasters (up to six at a time) are awarded at certain score intervals.
+
+==Development==
+The game was initially meant to be a [[First-person (video games)|first-person]] [[Video game remake|remake]] of ''[[Space Invaders]]'',<ref name=EGM103>{{cite magazine |title=Bad Dreams, Man|magazine=[[Electronic Gaming Monthly]] |publisher=Ziff Davis |issue=103 |date=February 1998 |page=86}}</ref> but early versions had many problems, so a new design was used. Theurer says the design came from a [[nightmare]] where monsters crawled out of a hole in the ground.<ref name=EGM103/><ref name="KLOV">[http://www.arcade-museum.com/game_detail.php?game_id=10065 Tempest - Videogame by Atari], The International Arcade Museum</ref> This led to him coming up with the design concept, stating he "basically just took ''Space Invaders'' and wrapped the surface into a circle," while monsters "come down the tunnel at you, out of the hole, and you [try] to kill them before they [get] out."<ref name=missile-command>{{cite web|url=http://www.polygon.com/features/2013/8/15/4528228/missile-command-dave-theurer |title=The Creation of Missile Command and the haunting of its creator, Dave Theurer |publisher=polygon.com |date=2013-08-15 |access-date=2014-06-05}}</ref> During the prototype stages the game was called ''Aliens'', then ''Vortex'', and finally ''Tempest''.<ref name="KLOV"/>
+
+Three different cabinet designs exist for ''Tempest''. The most common is an upright cabinet that, viewed from the side, is in the shape of a [[Special right triangles|right triangle]] sitting on a rectangle. This cabinet sported colorful side art. A shorter, less flashy cabaret-style cabinet was also released with optional side art. A cocktail-style table cabinet allowed two players to play at opposite ends of the table; the screen automatically flipped for each player.
+
+In the first games Atari shipped there were glitches in one or more of the ROM chips. The problem code allowed a player to do unintended things when ending their score in certain two-digit combinations. According to ''Joystik'' magazine, which detailed these combinations, the most useful were the ones that earned the player 40 free credits (06, 11, 12, 16, 17, 18) and the "jump to green" trick (46).<ref>{{cite magazine |magazine=Joystik |title=Tricks of the Trade |date=September 1983 |publisher=Publications International, Ltd |location=Skokie, IL |page=60 |volume=2 |number=1 |url=https://archive.org/details/joystik_magazine-1983-09/page/n61/mode/2up}}</ref> Another useful combination mentioned was 05 which allowed the player to play the game in the attract mode. In this scenario pausing at one the combinations would cause the effect to take place immediately without losing the balance of the player's lives. Also, in the attract mode, pausing at an end score of 48 gave the player 255 extra lives. After this issue was discovered, Atari corrected the problem so that further shipping machines were incapable of allowing the end score tricks. It was also noted in ''Joystik'' that Atari shipped updated chips to be replaced in the field.
+
+==Ports==
+An official port was released for the [[Atari ST]]. An official port that bears the Atari logo was released by [[Superior Software]] for the [[BBC Micro]] and [[Acorn Electron]] in 1985, and another by [[Electric Dreams Software|Electric Dreams]] for the [[ZX Spectrum]] and [[Amstrad CPC]] in 1987.{{Citation needed|date=July 2019}} Versions for the [[Atari 2600]]<ref>{{cite web |url=http://www.atariprotos.com/2600/software/tempest/tempest.htm |title=Tempest (Atari 2600) |last=Reichert |first=Matt |work=AtariProtos.com |access-date=2013-02-08}}</ref> and [[Atari 5200|5200]]<ref>{{cite web |url=http://www.atariprotos.com/5200/software/tempest/tempest.htm |title=Tempest (Atari 5200) |last=Reichert |first=Matt |work=AtariProtos.com |access-date=2013-02-08}}</ref> were in the works in Atari, Inc. during 1984, and unfinished [[prototype]]s exist for both of them.{{Citation needed|date=July 2019}} The game was released for [[Microsoft Windows]] 3.x as part of the ''[[Microsoft Arcade]]'' package. It has 14 [[secret level]]s.<ref name="cgw199406">{{Cite magazine |date=June 1994 |title=Microsoft Security Leak! |department=Read.Me |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118  |magazine=Computer Gaming World |pages=15 }}</ref> The original ''Tempest'' was included as part of '' [[Arcade's Greatest Hits: The Atari Collection 1]]'' for the [[PlayStation (console)|PlayStation]], [[Sega Saturn]], and [[Super NES]].<ref name=EGMnw>{{cite magazine |title=Arcade's Greatest Hits: The Greatest Hits of the '80s on WEGM|magazine=[[Electronic Gaming Monthly]]|issue=91 |publisher=[[Ziff Davis]] |date=February 1997|pages=132–3}}</ref> In 2001, [[Infogrames]] and [[Digital Eclipse]] ported 12 Atari arcade games (one of them being the original ''Tempest'') under the compilation title ''[[Atari Anniversary Edition]]'', released for [[Personal computer|PC]] and [[Dreamcast]]. A PlayStation compilation titled ''[[Atari Anniversary Edition Redux]]'' was also released with the same number of games plus two exclusives to the Redux edition.{{Citation needed|date=July 2019}} A handheld compilation, titled ''[[Atari Anniversary Advance]]'', was released in 2002 for the [[Game Boy Advance]] with half the games of the console compilation, including ''Tempest''.{{Citation needed|date=July 2019}} In 2005, the original ''Tempest'' is part of ''[[Atari Anthology]]'' for the [[Xbox (console)|Xbox]] and [[PlayStation 2]]; the PC version also includes the Atari 2600 prototype. The 2600 port was also released as part of the ''[[Atari Greatest Hits]]'' compilation for [[Nintendo DS]] and [[iOS]] devices.{{Citation needed|date=July 2019}} Also in 2005, a port and graphical "remix" of the original ''Tempest'' was included as part of ''[[Retro Atari Classics]]'' for the [[Nintendo DS]]. This version deviates significantly from the basic rules and experience of the original game.{{Citation needed|date=July 2019}} ''Tempest'' was released for [[Xbox 360]] on December 19, 2007, which was available for purchase through [[Xbox Live Arcade]] for 400 MS Points. This version includes the original arcade game (emulated) and an "evolved" version with updated graphics.{{Citation needed|date=July 2019}}
+
+After the unfinished Atari 5200 prototype was found in 1999, its original programmer, Keithen Hayenga, resumed work on finishing the port. It was published by [[AtariAge]] in 2013 for US$50.<ref>{{cite web |url=http://www.atariage.com/store/index.php?l=product_detail&p=1014 |title=Tempest - Atari 5200 |last=Yarusso |first=Albert |work=AtariAge.com |date=2013-02-07 |access-date=2013-02-08}}</ref>
+
+==Reception==
+{{expand section|date=August 2017}}
+{{Video game reviews
+ | Allgame = {{Rating|5|5}}<ref>{{cite web|url=http://www.allgame.com/game.php?id=446&tab=review|archive-url=https://web.archive.org/web/20141114111053/http://www.allgame.com/game.php?id=446&tab=review|title=Tempest|archive-date=14 November 2014|publisher=Rovi Corporation|accessdate=June 18, 2023}}</ref>
+}}
+
+[[Chris Crawford (game designer)|Chris Crawford]] wrote in 1982 that unlike ''[[Pac-Man]]'', ''Tempest'' "intimidates many beginners because [[game balance|it appears to be unwinnable]]"; its smoothly increasing difficulty, however, encourages players to continue playing.<ref name="crawford198212">{{cite magazine | url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n97/mode/2up | title=Design Techniques and Ideas for Computer Games | magazine=BYTE | date=December 1982 | access-date=19 October 2013 |last=Crawford |first=Chris | pages=96}}</ref> In 1995, [[Flux (magazine)|Flux]] magazine ranked the game 6th on their Top 100 Video Games.  They lauded the game saying: "The best vector coin-up machine for white knuckle intensity, bar none, was Tempest."<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n25/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=26}}</ref> In 1996, ''[[Next Generation (magazine)|Next Generation]]'' listed the arcade version as number 74 on their "Top 100 Games of All Time", commenting that "it's very fast, it has abstract, color vector graphics that remain unequaled to this day, and its novel 'paddle' controller makes playing ''Tempest'' effortless. The game's difficulty advances smoothly, and the play is extremely well balanced".<ref>{{cite magazine|title=Top 100 Games of All Time |magazine=[[Next Generation (magazine)|Next Generation]]|issue=21 |publisher=[[Imagine Media]] |date=September 1996|page=44}}</ref> ''Tempest'' is #10 on the [[Killer List of Videogames|KLOV's]] list of most popular games, tied with ''[[Centipede (video game)|Centipede]]''.
+
+The game has been cited as an influence on the careers of video game designers [[Jeff Minter]] and [[John O'Neill (video game designer)|John O'Neill]].<ref>Forman, Tracie. "Inside Gaming - John O'Neill: The Dali of Computer Gaming." ''[[Electronic Games]]''. Vol.2, No.13. Pp.64-65. July 1984. {{ISSN|0730-6687}}.</ref> Atari co-founder Nolan Bushnell has said it is his favorite game to be published by the company.<ref>{{cite web | url=https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/ | title="Atari Was Very, Very Hard" Nolan Bushnell on Atari, 50 Years Later | date=27 June 2022 }}</ref>
+
+==Legacy==
+Shortly after the original game was released, an arcade owner named Duncan Brown hacked the level data and made an altered, more difficult version: ''Tempest Tubes''. It was eventually included with ''Tempest'' in the Hasbro compilation ''Atari Arcade Hits: Volume 1'' for Microsoft Windows in 1999.
+
+===Sequels===
+[[Jeff Minter]] created two authorized games, released long after the original: ''[[Tempest 2000]]'' (1994) for the [[Atari Jaguar]] (renamed ''Tempest X3'' for the [[PlayStation]] port), and ''[[Tempest 3000]]'' (2000) for [[Nuon (DVD technology)|Nuon]] enhanced DVD players. In July 2018, ''[[Tempest 4000]]'' was released for multiple platforms.<ref>{{cite news |url=https://arstechnica.com/gaming/2018/07/tempest-4000-finally-lives-after-delays-legal-threats-but-whats-up-on-pc/ |title=Tempest 4000 finally lives after delays, legal threats—but what's up on PC? |first=Sam |last=Machkovech |date=17 July 2018 |access-date=19 April 2019 |work=[[Ars Technica]] |publisher=[[Condé Nast]]}}</ref> Minter also wrote two games inspired by ''Tempest'': ''[[Space Giraffe]]'' (2007) and ''[[TxK]]'' (2014). After ''TxK'' was released for the [[PlayStation Vita]], the current incarnation of Atari blocked release of the game for additional platforms<ref>{{cite news |title=Atari blocks Jeff Minter from releasing new versions of TxK |url=http://www.mcvuk.com/news/read/atari-blocks-jeff-minter-from-releasing-new-versions-of-txk/0146828 |magazine=[[MCV/Develop]] |access-date=March 18, 2015 |first=Ben |last=Parfitt |date=18 March 2015 |publisher=[[NewBay Media]] |archive-url=https://web.archive.org/web/20160619220052/http://www.mcvuk.com/news/read/atari-blocks-jeff-minter-from-releasing-new-versions-of-txk/0146828 |archive-date=19 June 2016}}</ref> until it was reworked as ''[[Tempest 4000]]'' some years later.
+
+==={{Anchor|other-versions}}Clones===
+<!-- linked from redirect [[Arashi (video game)]] -->
+1980s home computer clones include ''Web War'' for the Acorn Electron and BBC Micro published by [[Artic Computing]] in 1985,<ref>{{cite web|title="Web War" review, A&B Computing|url=http://www.acornelectron.co.uk/mags/aab/revs/artic/r-webw.html|website=Acorn Electron World}}</ref> ''[[Tubeway (video game)|Tubeway]]'' (1982) for the Apple II, ''Storm'' (1984) for the Tandy Color Computer,<ref>{{cite web |last1=Boyle |first1=L. Curtis |title=Storm |url=http://www.lcurtisboyle.com/nitros9/storm.html |website=Tandy Color Computer Games}}</ref> and ''Livewire!'', a type-in game for [[Atari 8-bit computers]] printed in ''[[ANALOG Computing]]'' in 1983.<ref>{{cite web|title=Atari 400 800 XL XE Livewire!|url=http://www.atarimania.com/game-atari-400-800-xl-xe-livewire_3011.html|website=Atari Mania}}</ref> The ''Tempest''-inspired ''[[Axis Assassin]]'' (1983) was one of the first five releases from Electronic Arts.<ref>{{cite web|last1=Corriea|first1=Alexa Ray|title=30 years ago Electronic Arts shipped its first batch of five games|url=https://www.origin.com/usa/en-us/us/news/halls-of-ea-30th-anniversary-edition|website=Polygon|date=May 21, 2013}}</ref>
+
+''Arashi'' is a 1992 [[freeware]] clone for [[classic Mac OS]].<ref>{{cite web|title=Arashi Source Code|url=https://github.com/pulkomandy/Arashi|website=[[GitHub]]|date=14 October 2021 }}</ref> ''Whirlwind'' (1994) is a commercial game that ''[[Computer Gaming World]]'' described as "a clone of ''Tempest''".<ref name="cgw199405">{{Cite magazine |date=May 1994 |title=Taking A Peek |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118  |magazine=Computer Gaming World |pages=174–180 }}</ref>
+
+===In popular culture===
+*''Tempest'' is part of a plot thread in the 1984 film ''[[Night of the Comet]]''.<ref name="comet">{{cite web| last = Wright| first = Rob| publisher = Tom's Games| date =2007-04-11| title = The Top Video Game Scenes in Movie History - 12. Night of the Comet (1984): Hot Tempest Nights|url= http://www.tomsgames.com/us/2007/04/11/the_top_video_game_scenes_in_movie_history/page4.html|archive-url= https://web.archive.org/web/20080411042547/http://www.tomsgames.com/us/2007/04/11/the_top_video_game_scenes_in_movie_history/page4.html|archive-date= 2008-04-11| access-date = 2008-01-03 }}</ref>
+*''Tempest'' is featured prominently in the music video for [[Rush (band)|Rush]]'s 1982 song "[[Subdivisions (song)|Subdivisions]]".
+* Parzival must beat Anorak's high score of 728,329 on ''Tempest'' (1980 cabinet) in the first part of the final challenge inside the Crystal Gate in the book ''[[Ready Player One]]''.
+* In the [[Pilot (Numbers)|pilot episode]] of the television series ''[[Numbers (TV series)|Numbers]]'', [[Larry Fleinhardt]] plays ''Tempest'' while advising someone on a mathematical problem. Larry is later seen playing the game in the season four episode "End Game".
+* Tempest is one of the video games in the TV comedy ''[[Silver Spoons]]''.
+* Tempest is seen in "[[Twilight Zone: The Movie]]" played by [[Jeremy Licht]] as Anthony in the Segment 3 remake of the original Episode "[[It's a Good Life (The Twilight Zone)|It's A Good Life]]" and later, the game's sounds can be heard when Anthony's powers fully manifest.
+* Tempest is referenced by, and is believed to be{{citation needed|date=June 2022}} a partial inspiration for the urban legend [[Polybius (urban legend)|Polybius]].
+
+==See also==
+{{Portal|Video games}}
+* [[Golden age of video arcade games]]
+* [[History of video games]]
+* [[List of video games in the Museum of Modern Art]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*{{KLOV game|id=10065|name=Tempest}}
+*[http://www.arcade-history.com/?page=detail&id=2865 ''Tempest''] at the Arcade History database
+*{{webarchive |url=https://web.archive.org/web/20080614091132/http://www.geocities.com/tempestauthorinterview/ |date=June 14, 2008 |title=Interview with Dave Theurer }}
+*[http://ionpool.net/arcade/tempest_code_project/tempest_code_project.html ''Tempest'' Code Project] {{Webarchive|url=https://web.archive.org/web/20170704084629/http://ionpool.net/arcade/tempest_code_project/tempest_code_project.html |date=2017-07-04 }} to [[Reverse engineering|reconstruct]] and document an [[Assembly language|assembly]] [[source code]] version of the game
+
+{{Authority control}}
+
+{{Tempest series}}
+
+{{DEFAULTSORT:Tempest (Arcade Game)}}
+[[Category:1981 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Cancelled Atari 5200 games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Electric Dreams Software games]]
+[[Category:Fixed shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Superior Software games]]
+[[Category:Third-person shooters]]
+[[Category:Vector arcade video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:ZX Spectrum games]]

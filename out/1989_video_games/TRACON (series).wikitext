@@ -1,0 +1,104 @@
+TRACON (series)
+Permalink: //en.wikipedia.org/w/index.php?title=TRACON_%28series%29&oldid=1161691043
+Accessed on: 2024-06-26T17:07:43.291383
+
+
+
+------
+TRACON (series)
+{{Short description|Air traffic control software}}
+{{Refimprove|date=March 2009}}
+{{Infobox video game series
+|title = TRACON
+|image = TraconII cover.png
+|image_size = 220px
+|caption = Cover art for ''Tracon II''
+|developer = Wesson International
+|publisher = Wesson International
+|genre = [[Simulation video game|Simulation]]
+|platforms = [[MS-DOS]], [[Classic Mac OS]], [[Amiga]], [[Microsoft Windows|Windows]]
+}}
+'''''TRACON''''' is a series of game software programs that simulate an [[air traffic control]] environment on a personal computer. The games were originally sold by [[Texas]]-based Wesson International as an offshoot to their line of professional air traffic control simulation products. '''''TRACON''''' and '''''RAPCON''''' were released in 1989, and '''''TRACON II''''' was released in 1990. Wesson was merged into [[Adacel]] in 2001.<ref>{{cite web|url=https://www.aviationtoday.com/2002/08/01/atc-simulation-usaf-takes-a-giant-step/ |title=ATC Simulation: USAF Takes a Giant Step |date=August 1, 2002 |last=Jensen |first=David |work=Aviation Today |access-date=July 18, 2021}}</ref>
+
+==Gameplay==
+
+Over its life, the software has evolved from a [[DOS]] to a [[Microsoft Windows]] environment. It included graphics that simulate a [[TRACON]] air traffic controller's situation. At periodic screen updates, [[aircraft]] [[Icon (computing)|icons]] move slowly across the controller's sector. The player sees an aircraft icon with its identifier (AA34) and the aircraft's [[altitude]] or flight level (110).
+
+The game familiarizes a player with the difficulty of tracking many events simultaneously. Every aircraft is moving in a dynamic environment. The player must develop a feel for three-dimensional space represented in two dimensions on the screen. Generally, aircraft must be kept separated by 1,000 vertical feet and three miles horizontal separation. A series of alarms sound if adequate space between aircraft is not maintained. A few separation  conflicts can quickly wipe out the player's entire accrued point value. The closer aircraft get, the more severe the warnings. A mid-air crash ends the game.
+
+There are two ways to run ATC simulation scenarios : a) random ones created by the program itself, or b) your own ones which you may edit with a simple text editor (file extension *.sim), following all the syntax rules and geographical sector details .
+
+In case (a) the player selects traffic density to control (aircraft / time) and one from the available geographical sectors and then the game issues random start and end points within this sector at random altitudes and activation times. It juggles aircraft types, some being commercial airline traffic while others are slow-moving [[general aviation]] aircraft. Each game sees a different mix of aircraft, callsigns, start- and end-points, unless the user elects to "repeat the last simulation." Aircraft types have profiles: an airliner might cruise at 250 knots while general aviation craft may cruise as slowly as 90 knots. The player can slow an airliner to 170 knots in order to space aircraft in an approach pattern. If the aircraft is ordered to fly below its minimum speed, the game says, "That's below my minimum." Aircraft identify as ''heavy'' where appropriate. Flight plans can either transit a sector or involve takeoffs and landings. Users receive point credit for successfully getting aircraft through their respective flight plans. Points are continually deducted for each command issued to a pilot and for time delays. Shorter flights mean higher point counts. Each turn or change in speed the player orders costs points.
+
+Aircraft arriving at the edge of the player's TRACON will call. "AA34 with you at one one thousand," the status line will display this in text, voice of the calling pilot will play, and the icon will persistently flash. If ignored, the aircraft will circle and hold at the radio fix identified as the beginning-point in the player's sector.
+
+In case (b) the player selects his own simulation (*.sim) file to run and the scenario unfolds exactly as described by the designer. In this case the possibilities to use TRACON II as a more realistic ATC simulator are many, adding to it the fact that a user may also design his entirely own airspace-sectors (file extension *.sec) to work with. Thus a large number of fans all over the world appeared offering sectors and simulation files well beyond the standard ones coming with this package. There are of course some limitations. The maximum altitude one may use is restricted by the maximum binary number (8bit) used in this program to below 31000 feet which, however, is enough for Terminal Area Control, although insufficient for higher airspaces. The aircraft performance can be varied but not with all necessary parameters, although still almost realistic for aircraft approaching - departing aerodromes at below 10000 feet. The sector creation needs careful design for its syntax but it is otherwise simple. The positioning on points demands a conversion of geographical coordinates to a X,Y grid centered on a point selected by the user which is allocated the 0,0 coordinates.
+
+Plenty of explanations for the syntax and files details were provided with the initial version.
+
+==DOS==
+<!-- Deleted image removed: [[Image:TRACON 1 5 manual cover.png|thumb|right|240px|TRACON 1.5 for DOS user manual cover, (circa 1988).]] -->One example, version 1.5 of the software, was shipped on three 5.25-inch, 360K floppy disks. It ran on an 8088-based PC with a single 5.25-inch floppy disk drive, DOS 2, 256KB RAM, and an EGA or 640x480 VGA display. This version would also run on a Hercules-type monochrome 720x348 graphics card. A series of submenus allowed configuration changes to the game. A running dialog appeared in text near the bottom of the screen. Changes to aircraft status were displayed by standardized text phrases such as, "AA34 is landing."
+
+Simulated paper strips allowed the player to see pending flight plans and aircraft within your sector. Just before an aircraft called to make a first request, their paper strip would appear on the screen. It showed their requested altitude, aircraft type, start and end points. After an aircraft was handed off to an approach or another sector, its paper strip would disappear.
+
+Users could choose crosswind directions and speeds, whether pilots were talented or sometimes missed instructions, and how many aircraft were present over what length of time. The [[degree of difficulty]] was varied by these settings. For example, the user could choose perfect pilots, no crosswinds, and 10 aircraft over 20 minutes. The system randomized the aircraft behavior. Sometimes, four aircraft would call within seconds, requesting the player's attention. Other times the player would have time to concentrate on getting an aircraft cleanly handed off to a tower for an approach.
+
+Time was a central theme. If a player ignored an aircraft's request to take off, the game would begin to nag, "AA34 running out of fuel." The game could be paused, but with a cost of thousands of deducted points. The game documentation suggested that real air traffic could not be paused.
+
+Colors were adjustable and changed based on the aircraft's status. For example, the icon of an aircraft requesting to enter the controller's sector would flash as it approached. This indicated the pilot was calling, requesting to enter sector airspace. The text at the bottom of the display might read, "AA34 (American thirty four) with you at one one thousand." An option for voice, which came out of the PCs speaker (no sound card required), was available. Sound was a resource hog: while sounds played, the rest of the PC's functions froze. If sound was turned off, the PC speaker would chirp to alert the player that a new aircraft request was in their queue. Sounds could be set to off, play aircraft calls only, or play aircraft and controllers. In the latter, the game simulates the voice radio calls a player would speak to vector aircraft in the simulation.
+
+The game shipped with three sectors: San Francisco, Boston, and Los Angeles. These are simplified but spatially accurate models of regions. Wesson sold additional packs of sectors simulating other parts of the US.
+
+In the game, aircraft with a flight plan involving a landing must be vectored to a proper altitude at the start of the approach pattern. For example, if the approach started at 1,700 feet on a heading of 170 degrees, the player needed to get the aircraft near that altitude and heading. At that point, the aircraft is handed off to the approach controller. The aircraft responds, "aa34 switching to tower frequency." This changes the aircraft's icon to flash in a different color. If successful, the icon would change to, "AA34 is landing." Its altitude display would tick downward until it disappeared off the radar. Failure to get the aircraft lined up at a reasonable altitude got the response, "AA34 executing missed approach." The player would have to vector the aircraft back around into the approach pattern.
+
+[[Image:TRACON cassette.png|200px|right]]Mid-air crashes end the game and pop a dialog box with one of a group of several messages. Most messages tell the player their employment is terminated. One says the player can apply for the job of custodian. Another suggests the player pick up the pieces of their life.
+
+An external text file allows many of the internal program settings to be adjusted.
+
+A cassette tape was included with the program. It provided an audio track for a demonstration scenario taking place in the Los Angeles Sector.
+
+==RAPCON==
+
+At the same time with ''TRACON 1.5'', another version appeared that simulated in particular the military precision approach phase from the same producer and with the same file and simulation syntax, under the title RAPCON . This version, remained the unique ever PC simulator for this type of approach known as well under the term GCA for Ground Control Approach. Although it starts as a normal Terminal Area Control, at the moment a flight is put on its final track, by pressing the F2 key, the aircraft was transferred to the GCA position and the screen was changed to the equivalent Precision Approach Radar one, while the rest of the traffic was actually 'frozen', meaning that you could continue control this single aircraft and after landing, you could then move over to the previous Terminal Area Control to keep on with the rest of the traffic that had stayed at the moment you moved to the GCA position. All the commands for this particular type of control were available additionally to the standard ones for TRACON. There was apparently no other update of this version ever since.
+
+The DOS versions do not seem to function properly with the recent windows versions
+
+==Windows==
+Windows versions of the game were an evolution of the DOS versions.
+
+In addition to more sector charts, sound became more seamless than in DOS versions. It was easy to turn on sound without being distracted by the game freezing as each sound played.
+
+Another addition to the program was the existence of VFR general aviation pilots in simulations. In many simulations, a number of VFR icons criss-cross the screen. Occasionally, one would call, "Cherokee five five zulu with you at three thousand five hundred." The player would have to ask the VFR pilot to squawk their transponder, making the VFR craft's icon bloom on the screen. This separated the calling aircraft's icon from other identical VFR icons on the screen. Within a short time frame, the player had to attach the correct ''ident'' (55Z) to the VFR aircraft. The squawked icon would only bloom for a few seconds. If too much time passed, the player had to repeat the request and try again. It becomes essential to have the sound working properly if you want to handle this VFR traffic, else it becomes necessary to scroll up/down your dialogue window to see the calls made by any VFR entering so that you may call them with their proper call sign or you can not identify them and consequently control them.
+
+It is worth mentioning that in this ''TRACON'' for Windows version the player is given the option to work in ''TRACON'' or ''RAPCON'' but under ''RAPCON'' we simply see a classic Terminal Area Control over some military sectors, without any apparent possibility of reverting to the Precision Approach Radar position.
+
+The Windows version of ''TRACON'' can be run directly under Linux by means of the ''Wine'' application.
+
+==Reception==
+M. Evan Brooks reviewed the game for ''[[Computer Gaming World]]'', and stated that "this reviewer's initial impression was muted, in that the simulation appeared to be too much simulation and not enough game. However, repeated play has shown that ''TRACON'' can be a very enjoyable pastime. It is definitely not for the arcade set. If one finds intellectual challenge appealing, ''TRACON'' is heartily recommended."<ref name="CGW61">{{cite magazine |last=Brooks |first=M. Evan |title=Can You Handle the Stress? A Detailed Air Traffic Control Simulation |magazine=Computer Gaming World |date=July 1989 |volume=1 |issue=61 |pages=11, 47}}</ref>
+
+In a 1994 survey of wargames ''Computer Gaming World'' gave ''RAPCON'' three stars out of five, describing it as "detailed ... quite interesting", but for "a narrow market".<ref name="brooks199401">{{Cite magazine |last=Brooks |first=M. Evan |date=January 1994 |title=War In Our Time / A Survey Of Wargames From 1950-2000 |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=114 |magazine=Computer Gaming World |pages=194–212}}</ref>
+
+==Sources==
+Wesson International program, manuals, and program diskettes for DOS and Windows versions.
+
+==References==
+<references />
+
+==External links==
+* {{MobyGames|id=-group/traconrapcon-series|name=''TRACON/RAPCON'' series}}
+* {{Internet Archive game|id=msdos_Tracon_Air_Traffic_Control_Simulator_1989|platform=MS-DOS|title=TRACON}}
+* {{Internet Archive game|id=msdos_Tracon_II_1990|platform=MS-DOS|title=TRACON II}}
+* {{Internet Archive game|id=win3_Trac2Win|platform=Windows|title=TRACON}}
+
+[[Category:1989 video games]]
+[[Category:1990 video games]]
+[[Category:Air traffic control simulators]]
+[[Category:Amiga games]]
+[[Category:Classic Mac OS games]]
+[[Category:DOS games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video game franchises introduced in 1989]]
+[[Category:Video game sequels]]
+[[Category:Wesson International games]]
+[[Category:Windows games]]

@@ -1,0 +1,59 @@
+Robot Attack
+Permalink: //en.wikipedia.org/w/index.php?title=Robot_Attack&oldid=1121139160
+Accessed on: 2024-06-26T16:52:32.997593
+
+
+
+------
+Robot Attack
+{{short description|1981 video game}}
+{{redirect|ROBOT Attack|Return Of Bleichenbacher's Oracle Threat (ROBOT)|Adaptive chosen-ciphertext attack}}
+{{Infobox video game
+| collapsible  = 
+| state        = 
+| italic title = 
+| title        = Robot Attack
+| image        = Robot Attack (Cover).gif
+| alt          = 
+| caption      = 
+| developer    = [[Big Five Software]]
+| publisher    = Big Five Software
+| programmer   = Bill Hogue<br />Jeff Konyu<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+| platforms    = [[TRS-80]]
+| released     = [[1981 in video games|1981]]
+| genre        = [[Multidirectional shooter]]
+| modes        = 
+}}
+
+'''''Robot Attack''''' is a clone of the arcade game ''[[Berzerk (video game)|Berzerk]]'' written by Bill Hogue and Jeff Konyu for the [[TRS-80]] and published by [[Big Five Software]] in 1981.<ref name=giantlist/> It was the first game from Big Five to include speech.<ref name="trs80">{{cite web |last1=Reed |first1=Matthew |title=Robot Attack |url=http://www.trs-80.org/robot-attack/ |website=TRS-80.org}}</ref>
+
+==Gameplay==
+''Robot Attack'' is a game in which the player fights against hostile robots aboard a space station.<ref name="SG"/> The player starts in a [[maze]]like room full of robots, and the goal is to destroy the robots and exit the room.<ref name=trs80/> The maze walls, robots, and the robots' shots are all deadly. After a while in each room, an indestructible "flagship" appears which performs the same function as Evil Otto in ''Berzerk''.
+
+==Development==
+Bill Hogue recorded the voice lines on tape and digitized them through the TRS-80 cassette port.<ref name="bigfive">{{cite web |last1=Hogue |first1=Bill |title=TRS-80 Games |url=http://www.bigfivesoftware.com/trs80/trs80main.htm |website=Big Five Software}}</ref>
+
+==Reception==
+Ian Chadwick reviewed ''Robot Attack'' in ''[[Ares (magazine)|Ares Magazine]]'' #12 and commented that "''Robot Attack'' is highly recommended for the nimble fingered arcade buff and even more so for the curious programmer who wishes to discover the secrets behind the usual technique of voice replication used here. Another feather in the cap of Big Five".<ref name="Ares">{{cite journal | last=Chadwick | first=Ian | title=Software | journal=[[Ares (magazine)|Ares Magazine]] | publisher=[[Simulations Publications, Inc.]] | date=January 1982| issue=12 | pages=32–33}}</ref>
+
+Bruce Campbell reviewed ''Robot Attack'' in ''[[The Space Gamer]]'' No. 52.<ref name="SG">{{cite journal|last=Campbell |first=Bruce |date=June 1982 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=52|pages=40}}</ref> Campbell commented that "''Robot Attack'' gets a high recommendation. It will quickly pay for itself by saving you quarters you are spending at the arcade".<ref name="SG"/>
+
+==See also==
+*''[[K-Razy Shoot-Out]]''
+*''[[Robon]]''
+*''[[Thief (Apple II game)|Thief]]''
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://archive.org/details/80-microcomputing-magazine-1982-08/page/n37/mode/2up Review] in [[80 Micro]]
+*[https://archive.org/details/creativecomputing-1982-07/page/n29/mode/2up Review] in [[Creative Computing]]
+
+[[Category:1981 video games]]
+[[Category:Big Five Software games]]
+[[Category:Multidirectional shooters]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80-only games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,87 @@
+Night Driver (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Night_Driver_%28video_game%29&oldid=1227746407
+Accessed on: 2024-06-26T16:47:37.949324
+
+
+
+------
+Night Driver (video game)
+{{more citations needed|date=January 2012}}
+{{Short description|1976 video game}}
+{{Infobox video game
+|title = Night Driver
+|image = Night Driver Cover.jpg
+|caption = Arcade flyer
+|developer = [[Atari, Inc.]]
+|publisher = {{vgrelease|NA/EU|Atari, Inc.|JP|[[Namco]]<ref name="ATVGL:JaO1971-2005">{{cite book|last=Akagi|first=Masumi|url=https://archive.org/stream/ArcadeGameList1971-2005#page/n52/mode/1up|title=ナムコ Namco|work=アーケードTVゲームリスト 国内•海外編 (1971-2005)|edition=1st|publisher=Amusement News Agency|date=13 October 2006|page=51|isbn=978-4990251215|language=ja}}</ref>}}
+|designer = Dave Shepperd s/w<br>Ron Milner<br>Steve Mayer<br>Terry Fowler (hardware)
+|platforms = [[Arcade video game|Arcade]], [[Atari 2600]], [[Commodore 64]]
+|release = '''Arcade'''{{vgrelease|NA|October 1976<ref name="atari_production99"/>|EU|1976<ref>{{cite web |title=Video Game Flyers: Night Driver, Atari, Inc. (Germany) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=3855 |website=The Arcade Flyer Archive |publisher=[[Killer List of Videogames]] |access-date=22 March 2021}}</ref>|JP|April 1977<ref name="ATVGL:JaO1971-2005"/>}} '''Atari 2600'''{{vgrelease|NA|June 22, 1980<ref>{{cite web |title=Night Driver (Registration Number PA0000174628) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=1 June 2021}}</ref>}}'''Commodore 64'''{{vgrelease|NA|1982}}
+|genre = [[Racing video game|Racing]]
+|modes = [[Single-player]]
+|arcade system = [[MOS Technology 6502|6502]] @ 1.008 MHz
+}}
+
+'''''Night Driver''''' is an  [[arcade video game]] developed by [[Atari, Inc.]] and released in the United States in October 1976. It's one of the earliest first-person [[racing video games]] and is commonly believed to be one of the first published video games to feature real-time [[First person (video games)|first-person graphics]]. ''Night Driver'' has a black and white display with the hood of the player's car painted on a plastic overlay. The road is rendered as scaled rectangles representing "pylons" that line the edges.
+
+Two [[arcade cabinet]] styles were manufactured: upright and sit-down. The upright version has a blacklight installed inside the cabinet which illuminated the [[bezel setting|bezel]].<ref name="manual">{{cite web|title=Owner's Manual|year=1978|url=https://archive.org/stream/ArcadeGameManualNightdriver/nightdriver#page/n5/mode/2up|accessdate=7 November 2012}}</ref><ref>{{cite web|title=Arcade Museum|url=http://www.arcade-museum.com/game_detail.php?game_id=8866|accessdate=7 November 2012}}</ref>
+
+Atari published a color version for the [[Atari 2600|Atari Video Computer System]] in 1980.
+
+==Gameplay==
+The player controls a car which must be driven along a road at nighttime without crashing into the sides of the road as indicated by road side reflectors. The game is controlled with a single pedal for the accelerator, a wheel for steering and a four-selection lever for gear shifting. The coin-operated game had a choice of three difficulties (novice, pro and expert), which the player could select at game start. The turns were sharper and more frequent on the more difficult tracks. As play progresses, the road gets narrower and more winding.
+
+The game length is 50, 75, 100 or 125 seconds based on an internal setting.<ref name="manual" /> After 300 points, a player is awarded bonus time equal to game time, but the score wraps around back to zero at 1000 points, so it is possible to reach 300 points more than once.<ref name="Museum">{{cite web|title=Night Driver Museum Entry|url=http://www.arcade-museum.com/game_detail.php?game_id=8866|accessdate=7 November 2012}}</ref> Due to the additional points received for more difficult play, playing on the expert setting is actually the easiest to achieve extra time once a player has mastered the game.<ref name="Museum" />
+
+The car the player is driving is not actually drawn in the game, but is printed on plastic insert in front of the monitor.
+
+==Development==
+When he began working on video games, Atari founder [[Nolan Bushnell]] had originally planned to develop a driving video game inspired by ''Speedway'' (1969),<ref name="BushnellInt">{{cite web |last1=Bushnell |first1=Nolan |author1-link=Nolan Bushnell |last2=Weaver |first2=Christopher |title=Nolan Bushnell: Transcript of an interview conducted by Christopher Weaver |url=https://www.si.edu/media/NMAH/NMAH-AC1498_Transcript_NolanBushnell.pdf |access-date=2021-05-20 |work=[[Lemelson Center for the Study of Invention and Innovation]] |publisher=[[Smithsonian Institution]] |date=2017-11-17 |page=33}}</ref> a first-person driving [[electro-mechanical games|electro-mechanical]] game manufactured by [[Chicago Coin]],<ref>{{cite book |last1=Ramsay |first1=Morgan |title=Gamers at Work: Stories Behind the Games People Play |date=2012-06-08 |publisher=[[Apress]] |location=New York |isbn=978-1-4302-3352-7 |page=24 |url=https://books.google.com/books?id=lESCCXkdy3YC&pg=PA24}}</ref> in turn a licensed version of Kasco's ''Indy 500'' (1968).<ref>{{cite web |title=Kasco Indy 500 coin operated mechanical arcade driving game |url=http://www.pinrepair.com/arcade/k500.htm |website=Pinball Repair |access-date=16 April 2021}}</ref><ref name="Smith">{{cite book |last1=Smith |first1=Alexander |title=They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry, Vol. I: 1971-1982 |date=19 November 2019 |publisher=[[CRC Press]] |isbn=978-0-429-75261-2 |pages=119–20, 188-91 |url=https://books.google.com/books?id=Cxy_DwAAQBAJ&pg=PT119}}</ref> However, Bushnell had concerns that a driving video game might be too complicated for [[Al Alcorn]]'s first game, so they instead decided to develop a simpler game, ''[[Pong]]'' (1972).<ref name="computerspace">{{cite web |url=http://www.salon.com/people/feature/1999/06/12/nolan/index.html |title=The adventures of King Pong |last=Pescovitz |first=David |date=1999-06-12 |work=[[Salon (website)|Salon]] |archive-url=https://web.archive.org/web/20080307161700/http://www.salon.com/people/feature/1999/06/12/nolan/index.html|archive-date=2008-03-07 |url-status=dead |author-link=David Pescovitz}}</ref> ''Night Driver'' has similarities to arcade driving [[electro-mechanical games]], which had a [[scrolling]] road rather than a fixed view.<ref name="Barton">{{cite book |last1=Barton |first1=Matt |title=Vintage Games 2.0: An Insider Look at the Most Influential Games of All Time |date=8 May 2019 |publisher=[[CRC Press]] |isbn=978-1-000-00092-4 |page=73 |url=https://books.google.com/books?id=fU-fDwAAQBAJ&pg=PA73}}</ref>
+
+The development of ''Night Driver'' was led by Dave Shepperd at Atari, who was given an assignment to develop a first-person driving video game. Shepperd said that he "was given a piece of paper with a picture of a game cabinet that had a small portion of the screen visible" which he recalls being possibly "a German game" but "never saw the game play" other than "that there were a few little white squares showing". Shepperd used that concept to develop ''Night Driver''. That the car is driving at night provided an excuse for the minimal graphics, as most features (like the street and buildings) aren't visible in the dark.<ref name="pioneers">{{cite web|title=Racing Game Pioneers|date=11 February 2012|url=http://www.sub5zero.com/o-racing-game-pioneers-night-driver/|accessdate=7 November 2012}}</ref> While he did not know the title of the German game at the time, it was later identified as the coin-op ''[[Nürburgring 1]]'', a first-person driving video game released earlier in 1976.<ref>{{cite web|title=Nuerburg Ring Game|url=http://weltenschule.de/vgames/Nuerburg/Nuerburgring.html|accessdate=7 November 2012}}</ref><ref name="Bomb">{{cite web|title=Game Review|url=http://www.giantbomb.com/night-driver/61-13617/|accessdate=7 November 2012}}</ref>
+
+Atari used some of the leftover arcade cabinets from ''[[Hi-way]]'' (1975), a top-down [[vertically scrolling video game|vertically scrolling]] racing game, for ''Night Driver''.<ref name="Barton"/>
+
+==Release==
+The arcade game began production in October 1976.<ref name="atari_production99">{{cite web|title=Production Numbers|url=http://www.atarigames.com/atarinumbers90s.pdf|publisher=[[Atari]]|accessdate=19 March 2012|year=1999|archive-date=10 May 2013|archive-url=https://web.archive.org/web/20130510143012/http://www.atarigames.com/atarinumbers90s.pdf|url-status=dead}}</ref> Atari demonstrated the game at  the AMOA show in November 1976, where it was one of several driving games demonstrated by Atari along with ''[[Sprint 2]]'' and [[Namco]]'s electro-mechanical ''[[F-1 (arcade game)|F-1]]''; the most talked-about driving game at the show was ''F-1''. ''Night Driver'' also drew comparisons to [[Midway Manufacturing]]'s ''[[Midnight Racer]]'' (later re-branded ''Datsun 280 ZZZAP'') at the same show and an earlier German night driving video game (''Nürburgring 1'') demonstrated at the German IMA show in Spring 1976.<ref name="PM1976">{{cite magazine |title=Sexton Star of MOA Seminar: Video |magazine=[[Play Meter]] |date=December 1976 |volume=2 |issue=14 |pages=20-26 (23-6) |url=https://archive.org/details/play-meter-volume-2-number-14-december-1976-600DPI/Play%20Meter%20-%20Volume%202%2C%20Number%2014%20-%20December%201976/page/n20}}
+</ref>
+
+===Ports===
+[[File:Night_Driver_Atari_2600_Screenshot.png|thumb|right|Atari VCS ''Night Driver'']]
+Atari released a port for the Atari VCS (later renamed to the [[Atari 2600]]) in 1980. It was programmed by [[Rob Fulop]],<ref>[https://www.digitpress.com/library/interviews/interview_rob_fulop.html Interviews. Rob Fulop]</ref> who added color, displaying the player vehicle, additional vehicles the player must avoid, and showing houses and trees along the sides of the road. The [[paddle (game controller)|paddle controller]] steers the vehicle; holding the button accelerates.<ref>[http://www.atarimania.com/2600/boxes/hi_res/night_driver_text_i_3.jpg Night Driver text] Atari Mania</ref> It is not possible to shift gears in this version. There are eight variations, some of which are timed and the player tries to score as much as they can in 90 seconds.<ref>[http://www.atarimania.com/2600/boxes/hi_res/night_driver_text_i_4.jpg Night Driver text] Atari Mania</ref>
+
+Commodore published a version for the [[Commodore 64]] in 1982.<ref>{{cite web | url=https://www.uvlist.net/game-34848-Night+Driver | title=Night Driver (1982) by HAL Laboratory C64 game}}</ref>
+
+==Reception==
+In Japan, it was the tenth highest-grossing [[1976 in video games|arcade video game of 1976]].<ref name="GM65">{{cite magazine|title=本紙アンケー 〜 ト調査の結果|trans-title=Paper Questionnaire: Results of the Survey |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=65|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 February 1977|pages=2–3|lang=ja|url=https://onitama.tv/gamemachine/pdf/19770201p.pdf#page=2}}</ref>
+
+In the United States, according to ''[[Play Meter]]'' magazine, ''Night Driver'' was the sixth highest-earning [[1977 in video games|arcade video game of 1977]].<ref>{{cite journal |title=Top Arcade Games |journal=[[Play Meter]] |date=November 1977}}</ref> According to ''RePlay'' magazine, it was the seventh highest-earning arcade video game of 1977.<ref>{{cite journal |title=Profit Chart |journal=RePlay |date=November 1977}}</ref> ''Play Meter'' later listed it as the ninth highest-grossing [[1978 in video games|arcade game of 1978]],<ref>{{cite magazine |title=The 'Winners' of '78: Top Arcade Games |magazine=[[Play Meter]] |year=1978}}</ref> and the eleventh highest [[1978 in video games|arcade video game of 1979]].<ref>{{cite magazine |title=The Winners of '79: Top Videos |magazine=[[Play Meter]] |year=1979}}</ref>
+
+The Atari VCS version sold 161,352 copies in 1980, becoming one of the top five best-selling Atari VCS [[1980 in video games|games that year]], and went on to sell over 1.9 million copies by 1983.<ref name="Atari">{{cite book |title=Cartridge Sales Since 1980 |publisher=[[Atari Corp.]]}} Via {{cite episode |title=The Agony & The Ecstasy |series=Once Upon Atari |date=August 10, 2003 |number=4 |minutes=23 |publisher=Scott West Productions}}</ref> ''Video Games Player'' magazine reviewed the Atari VCS version, rating the graphics and sound a B, while giving the game an overall A− rating.<ref>{{cite magazine |title=Software Report Card |magazine=Video Games Player |date=September 1982 |volume=1 |issue=1 |publisher=Carnegie Publications |location=United States |pages=62–3 |url=https://archive.org/details/Video_Games_Player_Vol_1_No_1_1982-09_Carnegie_Publications_US/page/n61/mode/2up}}</ref> In 1995, [[Flux (magazine)|Flux]] magazine ranked the arcade version 59th on their "Top 100 Video Games" list.<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=31}}</ref>
+
+==Legacy==
+[[File:Night driver arcade machine.JPG|thumb|right|A ''Night Driver'' arcade machine]]
+Two other first-person racing games were released shortly afterwards: Midway's ''[[Datsun 280 ZZZAP|Midnight Racer]]'' in November 1976 (later branded as ''Datsun 280 ZZZAP'' in March 1977) and Micronetics' ''Night Racer'' in March 1977.<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=124 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n125}}</ref>
+
+[[Bill Budge]] wrote a ''Night Driver'' clone for the [[Apple II]] using the same name as the original.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=8866}}
+* [http://www.arcade-history.com/index.php?page=detail&id=1770 ''Night Driver''] at Arcade-History.com
+* [https://web.archive.org/web/20170331031722/http://www.atariage.com/software_page.html?SoftwareLabelID=325 Atari 2600 ''Night Driver''] at Atari Age
+* [https://archive.org/details/ArcadeGameManualNightdriver Arcade ''Night Driver'' manual]
+
+{{1970s Atari arcade games}}
+
+[[Category:1976 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari arcade games]]
+[[Category:Commodore 64 games]]
+[[Category:Namco arcade games]]
+[[Category:North America-exclusive video games]]
+[[Category:Racing video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,81 @@
+Gossip (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Gossip_%28video_game%29&oldid=1224496778
+Accessed on: 2024-06-26T16:55:04.392850
+
+
+
+------
+Gossip (video game)
+{{More citations needed|date=December 2006}}
+{{Infobox video game
+|title  = Gossip
+|image =
+|caption =
+|developer = [[Atari, Inc.]]
+|publisher = [[Atari Program Exchange]]
+|designer = [[Chris Crawford (game designer)|Chris Crawford]]
+|engine = 
+|released = 1983
+|genre = [[Art game]]
+|modes = 
+|platforms = [[Atari 8-bit]]
+}}
+
+'''''Gossip''''' is a [[video game]] created for [[Atari 8-bit computers]] by then-[[Atari, Inc.]] employee [[Chris Crawford (game designer)|Chris Crawford]]. The documentation indicates that ''Gossip'' is an [[Atari Program Exchange]] title, but it was not listed in any of the published catalogs and may not have been released at all.<ref>{{cite web|title=Atari Program Exchange: Gossip|url=https://www.atariarchives.org/APX/showinfo.php?cat=unknown_gos|website=atariarchives.org}}</ref>
+
+Crawford wished for video games that would simulate aspects of human social interaction via “social challenges.”{{cn|date=March 2018}} He hoped these "[[people game]]s" would appeal to those who were not interested in the more common gaming genres of combat and sports. Although the social interactions in Gossip are relatively simple, Crawford contends that they are comparable to the level of complexity found in ''[[The Sims]]''.{{cn|date=March 2018}}
+
+==Gameplay==
+[[image: gossip1.gif|thumb|upright=2|Screenshot]]
+
+The majority of the screen is taken up with eight characters: You, Val, Jim, Liz, Amy, Dan, Sue and Tom. The player uses a [[joystick]] [[cursor (computers)|cursor]] to select a character to [[telephone]]. That person’s phone rings with a jiggling [[animation]] and ringing [[sound effect]]. He or she picks up the phone and says, “Air-oh?” The player selects a person to gossip about, and then one of five expressive animations (strong positive, slight positive, neutral, slight negative, strong negative). The listener responds with his or her own opinion of the person.
+
+==Development==
+The social interactions he chose for this experimental simulation were declarations of affinity (e.g. “I like Fred,” “I hate Jane”). The theory behind the simulation was that people liked those who shared their opinions of others, and were also influenced positively by their friends’ opinions and negatively by their enemies’ opinions. Such declarations, Crawford said, were implicit in many pieces of gossip. He produced the following mathematical model:
+
+<math>\Delta x_{l,s}=\frac{x_{l,o} x'_{s,o}}{k_1}</math>
+
+<math>\Delta x_{l,o}=\frac{x_{l,s} x'_{s,o}}{k_2}</math>
+
+where ''x<sub>a,b</sub>'' is ''a''’s actual opinion of ''b'',
+''x'<sub>a,b</sub>'' is ''a''’s declared opinion of ''b'', ''l'' is the listener, ''s'' is the speaker, ''o'' is the object (the person being gossiped about), k<sub>1</sub> and k<sub>2</sub> are constants greater than 1 (Crawford gave the hypothetical value of 10, but did not specify the actual values used in the game).
+
+The AI characters did not perform discrete interactions with each other. They instead acted as nodes in a web of springs, trying to reduce the tension around them. The original [[game engine]] was written in [[Atari BASIC]] and took hours to complete the calculations for a single turn. Two major attempts were made to rewrite the system in [[assembler language]], which reduced the calculation time to a few moments.<ref name=pod/>
+
+One issue that was not addressed was [[sincerity]]. Also, it did not account for the fact that repeating the same statement too many times would eventually reduce its effect.
+
+==Legacy==
+Although Crawford was proud of this game, he never developed a structure of goals and never published it. The two developers that worked on the assembler versions had a different opinion, calling it boring. Although they raised this point during development, it was said that Crawford would simply state that if they understood the concept they would know it would be fun. One of the developers quit the project due to this attitude.<ref name=pod>{{cite podcast |title= ANTIC Interview 104 - Aric Wilmunder, Star Raiders II, Temple of Apshai |first=Kevin |last=Savetz |date=10 December 2015 |url=http://ataripodcast.libsyn.com/antic-interview-104-aric-wilmunder-star-raiders-ii-temple-of-apshai}}</ref>
+
+Crawford applied a similar social model in ''[[Excalibur (video game)|Excalibur]]'' for the management of the [[Knights of the Round Table]] and diplomacy with the other kings of England.
+
+In 2013 Crawford publicly released the [[source code]] of several of his games, including ''Gossip''.<ref>{{cite web|url=http://www.erasmatazz.com/library/source-code/index.html| title=Source Code|quote=30 months ago, at the 2011 Game Developers Conference, somebody asked me to release the source code for my old games. I said I would look into it. [...] I have begun the process of preparing my source code for general distribution. |access-date=2017-02-24 |year=2013 |first=Chris |last=Crawford}}</ref>
+
+==References==
+{{Reflist}}
+
+{{cite book
+|title=[[Chris Crawford on Game Design]]
+|isbn=0-88134-117-7
+|last=Crawford
+|first=Chris
+|authorlink=Chris Crawford (game designer)
+|year=2003
+|publisher=New Riders
+|chapter=Chapter 19: Gossip
+}}
+
+==External links==
+*{{atarimania|id=30063}}
+*[http://www.atariarchives.org/APX/showinfo.php?cat=unknown_gos ''Gossip''] at Atari Archives
+
+{{Chris Crawford}}
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Atari Program Exchange software]]
+[[Category:Social simulation video games]]
+[[Category:Chris Crawford (game designer) games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video games developed in the United States]]

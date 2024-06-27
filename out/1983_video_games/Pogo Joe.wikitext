@@ -1,0 +1,66 @@
+Pogo Joe
+Permalink: //en.wikipedia.org/w/index.php?title=Pogo_Joe&oldid=1224117977
+Accessed on: 2024-06-26T16:55:37.563679
+
+
+
+------
+Pogo Joe
+{{Short description|1983 video game}}
+{{refimprove|date=September 2018}}
+
+{{Infobox video game 
+|title= Pogo Joe
+|image= Pogo Joe cover.jpg
+|caption=
+|developer=
+|publisher= Screenplay
+|designer={{ubl|William F. Denman, Jr.|Oliver Steele|Steven Baumrucker}}
+|artist=Michael Haire
+|released=1983
+|genre= [[Action game|Action]]
+|modes= [[Single-player video game|Single-player]]
+|platforms= {{cslist|[[Atari 8-bit]] | [[Commodore 64]]}}
+}}
+
+'''''Pogo Joe''''' is an action video game for the [[Commodore 64]] and [[Atari 8-bit computers]] written by William F. Denman, Jr. Oliver Steele, and Steven Baumrucker and published by Screenplay in 1983. The game is a variant of the 1982 arcade video game ''[[Q*bert]]''. As the title character, the player hops between circular platforms to change the color of each while avoiding monsters.
+
+==Gameplay==
+[[image:Pogo Joe Screenshot.png|thumb|left|Joe is on the left of the level, on a red platform. ]]
+
+The player takes the role of the eponymous Pogo Joe, a boy on a [[pogo stick]]. The game takes place over 65 different levels, each consisting of a different arrangement of [[barrel]]s. To complete a level, Pogo Joe must jump on every barrel. Holding the joystick button lets Pogo Joe jump over a barrel or empty space the width of a barrel.  Falling off is impossible.
+
+To make Pogo Joe's job harder, several enemies inhabit the levels. They first start out as spherical "eggs" of different colours. Colliding with these "eggs" kills the enemy within them, but if left alone for a few seconds, the "eggs" hatch into different sorts of enemies. Most are fatal to Pogo Joe, but a few are not.
+
+The tops of the barrels have different colours depending on their status or functionality:
+*White: The default state.
+*Red: The barrel has been jumped on.
+*Cyan: The barrel has been jumped on twice (required on some levels).
+*Purple: The barrel has been jumped on three times (required on some levels).
+*Flashing Green: A "smart bomb" barrel. Jumping on this kills every enemy on screen and changes the barrel to red.
+*Flashing Black: A [[Teleportation|teleport]]. Pogo Joe falls down into the hole and rises up onto the linked black flashing barrel. This action repeats, going from black topped barrel to black topped barrel until Pogo Joe jumps away.
+
+Some enemies change red barrels back to white when jumping on them. These enemies are not fatal to Pogo Joe.
+
+On some levels, the barrels appear with just their tops, without the body beneath it. Jumping off a barrel makes it disappear, becoming inaccessible for Pogo Joe. Once Pogo Joe becomes trapped and cannot jump anywhere any more, the game advances to the next level. Pogo Joe receives "Shadow Bonus" points if few enough barrels are left on the level. Also, on some levels, the barrels initially appear as invisible, and the player has to guess where the barrels are so Pogo Joe can jump on them.
+
+==Trivia==
+
+The word ''PAX'' appears briefly after finishing screen 10, the heart shaped level. This was used for a contest. In a magazine ad for Pogo Joe it said: "''What's ahead with Pogo Joe is $10,000. Simply tell us what magic word appears after Pogo Joe's tenth screen. If your name is drawn from among the correct answers you'll win $10,000!''"
+
+==Reception==
+''[[Ahoy!]]'' wrote, "Sound like ''Q*Bert''? You bet". It criticized the sluggish controls, but concluded that "excellent" graphics and "the multiple speed variations make it perfect for a home with lots of kids".<ref name="moriarty198405">{{cite news | url=https://archive.org/stream/Ahoy_Issue_05_1984-05_Ion_International_US#page/n57/mode/2up | title=Pogo Joe | work=Ahoy! | date=May 1984 | accessdate=27 June 2014 | author=Moriarty, Tim | pages=59–60}}</ref> Describing it as "a creative variation" on ''Q*bert''-style games, ''The Commodore 64 Home Companion'' stated that ''Pogo Joe'' "has excellent graphics and music".<ref name=C64HC>{{cite web|url=https://archive.org/stream/The_Commodore_64_Home_Companion#page/n173/mode/2up | last = Beekman | title=Screenplay Software |work=The Commodore 64 Home Companion|year=1984|access-date=August 19, 2016|page=173}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://osteele.com/ Oliver Steele]
+*[https://archive.org/details/games-58-1984-december/page/56/mode/2up Review] in ''[[GAMES Magazine|GAMES]]'' magazine
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Action games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,87 @@
+DONKEY.BAS
+Permalink: //en.wikipedia.org/w/index.php?title=DONKEY.BAS&oldid=1218473043
+Accessed on: 2024-06-26T16:52:15.001138
+
+
+
+------
+DONKEY.BAS
+{{Infobox video game
+| title = DONKEY.BAS
+| image = 
+| caption = The ''DONKEY.BAS'' title screen bears the name of the [[IBM Personal Computer]].
+| developer = [[Microsoft]]
+| publisher = 
+| programmer = [[Bill Gates]]<br>[[Neil Konzen]]
+| released = {{Start date and age|1981|08}}
+| genre = [[Racing game|Driving]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[IBM PC DOS]]
+}}
+'''''Donkey''''', often known by its [[filename]] '''''DONKEY.BAS''''', is a [[video game]] written in 1981, and included with early versions of the [[IBM PC DOS]] [[operating system]] distributed with the original [[IBM PC]]. It is a top-down [[driving game]] in which the player must avoid hitting [[donkey]]s. The game was written by [[Microsoft]] co-founder [[Bill Gates]] and early employee [[Neil Konzen]].
+
+Although on the game's title screen it is simply named ''Donkey'', it is often referred to by its filename of ''DONKEY.BAS''. All BASIC programs used the ".BAS" [[filename extension|extension]], and MS-DOS compatible operating systems that came before [[Windows 95]] display file names in [[upper case]]. These conventions are often maintained when the game is referred to in writing.
+
+==Gameplay==
+''DONKEY.BAS'' is a simple [[driving game]] in which the [[Player character|player]] controls a car but cannot steer, accelerate or brake, only changing lanes to avoid a series of [[donkey]]s on the road. There is no goal other than to avoid donkeys.
+
+The game uses the [[Color Graphics Adapter|CGA]] display mode, the only colour graphics mode available on the original IBM PC. The mode allows four colours but in ''DONKEY.BAS'' there are usually only three on screen.
+
+The center of the screen shows a vertical [[scrolling]] road with two lanes; the areas on either side of the road are used for [[Score (game)|scores]] and instructions. The player's car is driving up the road and every few seconds a donkey will appear at random on one side of the road at the top of the screen. As the donkey moves down the screen, the player can press the [[space bar]] to switch between lanes to avoid the donkey. If the car hits the donkey, both car and donkey explode, and parts of the graphics are scattered to the four corners of the screen to the sound of a short [[Monophony|monophonic]] tune played through the [[PC speaker]], with the word "BOOM!" displayed on the left side of the screen. If the player avoids the donkey, it will scroll off the bottom of the screen, with the words "Donkey loses!" displayed on the right side of the screen, and after a few seconds another will appear.  There is never more than one donkey on the screen at any one time.
+
+The game keeps the score between the player and the donkeys. If the car hits a donkey, the donkey gets a point and the player is returned to the start of the road. As the car avoids donkeys, it moves slowly up the screen, giving the player less time to react when donkeys appear. If the car avoids enough donkeys, the player receives a point and the car is moved back to the bottom of the road. The game displays the number of points earned by the player and donkey, but does not end or change when a particular score is reached.
+
+The [[Esc key]] quits the game.
+
+[[Sprite (computer graphics)|Sprites]] are rendered slightly differently between the QBasic interpreter and the original IBM BASICA/GW-BASIC interpreter.
+
+==Development==
+[[File:PC DOS 1.10 screenshot.png|thumb|DONKEY.BAS in IBM PC DOS 1.10]] 
+
+When [[IBM]] was developing its [[personal computer]] in the late 1970s and early 1980, it contracted Microsoft to develop an operating system and a version of the [[BASIC]] programming language to release with the new computer. The operating system was released as [[IBM PC DOS]] when included with IBM PCs and [[MS-DOS]] when sold separately by Microsoft. Both included versions of [[Microsoft BASIC]].
+
+''DONKEY.BAS'' was written by [[Bill Gates]] and [[Neil Konzen]] to demonstrate the IBM PC and the BASIC programming language's capability to produce interactive programs with color [[computer graphics|graphics]] and [[sound]]. The game continues to generate interest, in part because of the involvement of Gates at a time when Microsoft was relatively small and only six years old. According to a speech delivered by Gates in 2001:
+
+{{quote|1=Actually, it was myself and Neil Thompson [sic] at four in the morning with this prototype IBM PC sitting in this small room. IBM insisted that we had to have a lock on the door and we only had this closet that had a lock on it, so we had to do all our development in there and it was always over 100 degrees, but we wrote late at night a little application to show what the Basic built into the IBM PC could do. And so that was ''Donkey.bas''. It was at the time very thrilling.<ref>[http://www.microsoft.com/presspass/exec/billg/speeches/2001/06-19teched.aspx Bill Gates Speech Transcript - Tech Ed 2001] {{webarchive|url=https://web.archive.org/web/20120213015238/http://www.microsoft.com/presspass/exec/billg/speeches/2001/06-19teched.aspx |date=2012-02-13 }}</ref>}}
+
+[[Apple Inc.|Apple]]'s [[Andy Hertzfeld]] mentioned the game in a description of the Macintosh team's reaction to the 1981 IBM PC purchased for them by Steve Jobs "to dissect and evaluate," noting that the new computer shipped with "some games written in BASIC that were especially embarrassing:"{{long quote|date=October 2020}}
+
+{{quote|1=The most embarrassing game was a lo-res graphics driving game called "Donkey". The player was supposed to be driving a car down a slowly scrolling, poorly rendered "road", and could hit the space bar to toggle the jerky motion. Every once in a while, a brown blob would fill the screen, which was supposed to be a donkey manifesting in the middle of the road. If you didn't hit the space bar in time, you would crash into the donkey and lose the game.
+
+We thought the concept of the game was as bad as the crude graphics that it used. Since the game was written in BASIC, you could list it out and see how it was written. We were surprised to see that the comments at the top of the game proudly proclaimed the authors: Bill Gates and Neil Konzen. Neil was a bright teenage hacker who I knew from his work on the Apple II (who would later become Microsoft's technical lead on the Mac project) but we were amazed that such a thoroughly bad game could be co-authored by Microsoft's co-founder, and that he would actually want to take credit for it in the comments.<ref>{{Cite web |url=http://www.folklore.org/StoryView.py?project=Macintosh&story=Donkey.txt |title=Donkey - Folklore.org |access-date=2009-02-23 |archive-date=2006-09-01 |archive-url=https://web.archive.org/web/20060901190907/http://www.folklore.org/StoryView.py?project=Macintosh&story=Donkey.txt |url-status=live }}</ref>}}
+
+The first version of ''DONKEY.BAS'' was released in 1981, followed by version 1.10 in 1982. The operating systems with which the game was first distributed still work on modern computers with compatible [[BIOS]] and 5.25-inch floppy drives; however, [[IBM BASICA]] which ran the program under PC DOS 1.x requires [[Read-only memory|ROM]]-based [[IBM Cassette BASIC]], which modern computers do not have. The [[source code]] is still available. The game may be played with the [[GW-BASIC]] (original code) or [[QBasic]] (adapted code) interpreters or in [[compiler|compiled]] form (see "[[#External links|external links]]" below).
+
+==Legacy==
+[[File:DONKEY-GB.png|thumb|Screenshot of the free software remake of DONKEY.BAS for the [[Gambas|Gambas programming language]]]]
+
+As a programming example for the new [[{{not a typo|.NET}} Framework|{{not a typo|.NET}}]] platform and [[Visual Basic {{not a typo|.NET}}]] programming language, in 2001 Microsoft developed a game called {{Proper name|''Donkey .NET''}} in [[Homage (arts)|homage]] to ''DONKEY.BAS''. It is a three-dimensional driving game in which the aim is to hit donkeys. The game demonstrates to programmers how a {{Proper name|Visual Basic .NET}} application can be structured and how to use various features of the {{not a typo|.NET}} platform.<ref>{{cite web|url=https://blog.codinghorror.com/bill-gates-and-donkey-bas/|title=Bill Gates and DONKEY.BAS|publisher=CODING HORROR|date=2007-03-17|accessdate=2016-03-21|author=Jeff Atwood|author-link=Jeff Atwood|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304044040/http://blog.codinghorror.com/bill-gates-and-donkey-bas/|url-status=live}}</ref><ref>{{cite web|url=http://donkey-net.software.informer.com/|title=Donkey.NET - Software Informer. Donkey .NET is a three-dimensional driving simulator game.|date=2015-03-21|accessdate=2016-03-21|archive-date=2016-04-03|archive-url=https://web.archive.org/web/20160403164140/http://donkey-net.software.informer.com/|url-status=live}}</ref> A version was also included as part of [[Google]]'s [[wwwBASIC]] browser based interpreter.<ref>{{cite web|url=https://hackaday.com/2018/09/17/its-the-web-basically/|website=[[Hackaday]]|title=It's The Web, Basically|first=Al|last=Williams|date=2018-09-17|access-date=2023-09-28}}</ref>
+
+==See also==
+* [[Gorillas (video game)|GORILLA.BAS]]
+* [[Nibbles (video game)|NIBBLES.BAS]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web|url=http://www.codinghorror.com/blog/files/donkey.bas.txt |title=Source code |accessdate=July 24, 2009 |url-status=unfit |archiveurl=https://web.archive.org/web/20130918210121/http://www.codinghorror.com/blog/files/donkey.bas.txt |archivedate=September 18, 2013 }} 
+* [https://web.archive.org/web/20120213015238/http://www.microsoft.com/presspass/exec/billg/speeches/2001/06-19teched.aspx Speech in which Bill Gates and Ari Bixhorn discuss ''DONKEY.BAS'' and ''Donkey .NET'']
+* [https://web.archive.org/web/20060901190907/http://www.folklore.org/StoryView.py?project=Macintosh&story=Donkey.txt Story about Macintosh developers discovering ''DONKEY.BAS'']
+* [http://blog.codinghorror.com/bill-gates-and-donkey-bas/ Article on ''Donkey.bas'' with animation showing program running]
+* {{Internet Archive game|donkey-v1.1.0}}
+
+{{Microsoft FOSS}}
+
+[[Category:1981 video games]]
+[[Category:BASIC software]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:DOS games]]
+[[Category:IOS games]]
+[[Category:Linux games]]
+[[Category:Microsoft games]]
+[[Category:Video games developed in the United States]]
+[[Category:Windows games]]
+[[Category:Works by Bill Gates]]
+[[Category:Single-player video games]]
+[[Category:DOS files]]

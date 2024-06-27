@@ -1,0 +1,116 @@
+Taipan!
+Permalink: //en.wikipedia.org/w/index.php?title=Taipan%21&oldid=1212225267
+Accessed on: 2024-06-26T16:54:14.117929
+
+
+
+------
+Taipan!
+{{Short description|1979 video game}}
+{{More citations needed|date=January 2007}}
+
+{{Infobox video game
+| title          = Taipan!
+| image          = TaipanGameTitle.png
+| caption        = Title screen
+| developer      = Mega Micro Computers<ref name="moby" />
+| publisher      = Avalanche Productions<ref name="moby" />
+| designer       = Art Canfil<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+| released       = 1979<ref name="moby" /> for [[TRS-80]], 1982 for [[Apple II]]
+| genre          = [[Turn-based strategy]]
+| modes          = [[Single-player video game|Single-player]]
+| platforms      = TRS-80, Apple II<ref name="moby" /> 
+}}
+
+'''''Taipan!''''' is a 1979 [[turn-based strategy]] [[computer game]] written for the [[TRS-80]] and ported to the [[Apple II]] in 1982.<ref name="moby" /> It was created by Art Canfil and the company Mega Micro Computers, and published by Avalanche Productions.<ref name="moby">{{MobyGames|id=/Taipan}}</ref><ref name="originalhis">{{cite web |title=About Taipan! |url=https://taipangame.com/about |website=taipangame.com |accessdate=2021-07-29}}</ref>
+
+The game ''Taipan!'' was inspired by the novel ''[[Tai-Pan (novel)|Tai-Pan]]'' by [[James Clavell]]. The player is in the role of a trader in the [[Far East]]. The goal of the game is for the player to accumulate wealth through trade and possibly also through booty won in battles against [[Pirate|pirates]]. As soon as the player's net worth reaches one million pounds, the player has the option to retire.
+
+A companion book about the game was co-authored by Canfil and illustrated by [[Chrisann Brennan]].<ref name="originalhis" />
+
+== Gameplay ==
+[[File:Taipan_map.svg|thumb|Map of the ports in ''Taipan!'']]
+The player begins the game with a ship. At the beginning, he has the option to either start without any cash but five guns, or with some cash and a debt.
+
+The basic strategy of the game is to buy goods ([[opium]], [[silk]], [[firearms|arms]], and general cargo) at a low price and sell them at a higher price. Silk, arms, and general cargo have no special features; opium is special in that it can be confiscated at random points by the local authorities, resulting in a fine for the player. This makes dealing in opium riskier than dealing in the other goods; however, it is also generally the most profitable item for trade.
+
+At various times when arriving at a port, a message will pop up indicating a special price has occurred for one of the commodities. In this case, either the commodity's price falls or rises significantly.
+<!-- Deleted image removed: 
+<div class="infobox" style="float:right; width:200px;"><div style="overflow:hidden; margin-bottom:-3ex;"><div style="margin:-240px -110px 0 0;">
+{{Location map many | Asia
+| relief   = yes
+| width    = 600
+| lat1_deg = 22
+| lon1_deg = 114
+| label1   = <big>'''Hong&nbsp;Kong'''</big>
+| lat2_deg = 31
+| lon2_deg = 121
+| label2   = '''Shanghai'''
+| pos2     = right
+| lat3_deg = 33
+| lon3_deg = 130
+| label3   = '''Nagasaki'''
+| lat4_deg = 11
+| lon4_deg = 107
+| label4   = '''Saigon'''
+| lat5_deg = 15
+| lon5_deg = 121
+| label5   = '''Manila'''
+| lat6_deg = 1
+| lon6_deg = 104
+| label6   = '''Singapore'''
+| lat7_deg = -6
+| lon7_deg = 107
+| label7   = '''Batavia'''
+}}
+</div></div>&nbsp;Locations of ports in ''Taipan!''</div>
+[[File:TaipanGameTrading.png|right|thumb|300px|Trading screen]] -->
+The player may trade at any of seven historically named ports: [[Hong Kong]], [[Shanghai]], [[Nagasaki, Nagasaki|Nagasaki]], [[Ho Chi Minh City|Saigon]], [[Manila]], [[Singapore]], and [[Jakarta|Batavia]].
+
+The port at Hong Kong is the player's home port. Here, the player has access to ship repair, a money lender, a warehouse, and a bank. Often in Hong Kong, the local extortionist Li Yuen asks if the player would like to "donate" money to the [[Mazu|Sea Goddess]]. If the player refuses to donate, Li Yuen eventually sends a fleet of hostile ships after the player (which are much more difficult to fight than ordinary pirates). On the other hand, if one chooses to pay Li Yuen, he will occasionally drive off hostile ships for you. The money he asks depends on the amount of cash the player carries. It is not advisable to carry too much excessive cash; the donations asked from Li Yuen, the fines for dealing with opium and the amount stolen from oneself after occasionally getting "beaten up and robbed" always depend on how much you have.
+
+Money may be transferred into your bank account for some interest. The player also has the option of borrowing money from Elder Brother Wu, the moneylender, although this amount is limited to twice the amount the player already has on hand (if the player has zero, he cannot borrow anything). 
+Goods may be stored in the warehouse in Hong Kong, while waiting for prices to rise. However, purchases left in the warehouse may be stolen if left too long. Rates of theft are higher with higher-end commodities such as opium or silk.
+
+Note: A bug in the original game allows the player to overpay the moneylender, acquiring "negative debt". This "negative debt" will accumulate interest very quickly, and will count towards the player's net worth. As the game's vocabulary of number words ends at "[[1000000000000 (number)|trillion]]", this can cause the game to display garbage instead of the player's correct net worth. This has been fixed in the online "for browsers" version of the game.
+
+Runner's Gambit: When attacked by ships an effective escape strategy is to do nothing and wait until the crew asks, "Taipan, what shall we do??" and then immediately pressing 'R' for run. This strategy which usually results in a quick escape may only work on the Apple II version.
+
+Throughout the game, the player is sometimes offered the opportunity to purchase ship upgrades. When this happens, the player can trade their old ship for a larger one with fifty extra units of cargo space by paying some money.
+Guns are also occasionally offered to the player for varying prices, when arriving in a harbor. More guns mean more firepower (and subsequently also larger fleets attacking), but also require 10 units of valuable cargo-space in the hold.
+
+When being attacked by hostile ships, the player may decide to either "run" or "fight".  Dropping cargo overboard increases the chance of escaping if the player decides to run.  In order to fight, the ship must be equipped with guns. When hit by enemy fire, the ship gets damaged, and occasionally a gun is lost. If the ship's condition reaches zero percent, it will sink, and the game ends. But if the player succeeds in sinking all hostile ships, he earns some booty (cash).
+
+==Reception==
+J. Mishcon reviewed ''Taipan'' in ''[[The Space Gamer]]'' No. 32.<ref name="SG">{{cite journal|last=Mishcon|first=J. |date=October 1980 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=32|pages=28}}</ref> Mishcon commented that "This game is so much fun that I must recommend it [...] It will be a constant delight for older children."<ref name="SG"/>
+
+Upon meeting the creator at a 1982 [[Electronic Arts]] founding party, Apple co-founder [[Steve Wozniak]] declared that ''Taipan'' was "my favorite game!"  The game creator stated that this was one of the high points of his life.<ref name="originalhis" />
+
+==Reviews==
+*''[[People's Computers / Recreational Computing]]'' (May, 1979)<ref>{{cite news|url=https://archive.computerhistory.org/resources/access/text/2017/09/102661095/102661095-05-v7-n6-acc.pdf#page=30|title=Reviews. RC Vol 7 No 6 Issue 39|access-date=18 April 2023|website=computerhistory.org}}</ref>
+*''[[Moves (magazine)|Moves]]'' #56, p27<ref>{{cite news|url=https://strategyandtacticspress.com/library-files/Moves%20Issue56.pdf|title=Moves Issue 56|access-date=18 April 2023|website=strategyandtacticspress.com}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://taipangame.com Taipan! for web browsers]
+*[http://noname.c64.org/csdb/release/?id=97459 C64 port]
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:North America-exclusive video games]]
+[[Category:Trade simulation games]]
+[[Category:TRS-80 games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games based on novels]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Hong Kong]]
+[[Category:Video games set in Indonesia]]
+[[Category:Video games set in Japan]]
+[[Category:Video games set in the Philippines]]
+[[Category:Video games set in Shanghai]]
+[[Category:Video games set in Singapore]]
+[[Category:Video games set in Vietnam]]
+[[Category:Video games set in the 19th century]]
+[[Category:Naval video games]]

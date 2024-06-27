@@ -1,0 +1,45 @@
+Hunter's Moon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Hunter%27s_Moon_%28video_game%29&oldid=1080625842
+Accessed on: 2024-06-26T17:02:21.413948
+
+
+
+------
+Hunter's Moon (video game)
+{{Infobox video game
+|title = Hunter's Moon
+|image = HuntersMoonBoxShotC64.jpg
+|caption = 
+|programmer = Martin Walker<ref name=giantlist/>
+|composer= Matt Gray
+|publisher = Thalamus
+|released = [[1987 in video gaming|1987]]
+|genre = [[Shoot 'em up]]
+|platforms = [[Commodore 64]]
+}}
+
+'''''Hunter's Moon''''' is a [[shoot 'em up]] programmed by Martin Walker for the [[Commodore 64]] and published by [[Thalamus Ltd|Thalamus]] in 1987.<ref name="giantlist"/> The music was composed by Matt Gray.
+
+==Summary==
+Despite the game being a single ~64kb binary, the game world is large: there are 128 levels divided to 32 star systems. It is an example of [[procedural content generation]] in early computer games.{{fact|date=September 2017}}
+
+Each level takes place in a void with two dimensional cities appearing as they are being built by "worker cells". The worker cells are indestructible but the bricks dropped by them can be temporarily destroyed using the ship's weapon. The goal of the game is to collect enough star cells contained inside the cities to get to the next level. By collecting enough star cells within a strict time limit (displayed in the lower score table) it is possible to skip the remaining levels in current star system and pass on to the next, allowing skilled players to advance the game quicker.
+
+According to the game's creator Martin Walker, ''Hunter's Moon'' was inspired by the children's toy [[Spirograph]].{{fact|date=September 2017}}
+
+==Reception==
+''Hunter's Moon'' received a score of 92% in computer games magazine ''[[Zzap!64]]'', earning its '''''Sizzler''''' accolade for games rated 90-95% overall.<ref>{{Cite web|url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=34&page=69|title=Redirecting}}</ref> The magazine also went on to chronicle the production of Martin Walker's next game, ''Citadel'', in a diary column named ''Walker's Way''.
+
+==References==
+{{Reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+*[http://www.yewtreemagic.co.uk/interviews.php Interview with the creator]
+
+[[Category:1987 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Shoot 'em ups]]
+[[Category:Video games developed in the United Kingdom]]

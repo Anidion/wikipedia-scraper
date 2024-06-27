@@ -1,0 +1,61 @@
+Paratrooper (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Paratrooper_%28video_game%29&oldid=1226450416
+Accessed on: 2024-06-26T16:53:48.058156
+
+
+
+------
+Paratrooper (video game)
+{{short description|1982 video game}}
+{{Infobox video game
+|title = Paratrooper
+|image = Paratrooper video game cover.jpg
+|caption = 
+|developer = [[Greg Kuperberg]]
+|publisher = Orion Software
+|designer =
+|engine =
+|released = {{Start date and age|1982}}
+|genre = [[Fixed shooter]]
+|modes = [[Single-player]]
+|platforms = [[IBM PC]]
+|alt = 
+
+}}'''''Paratrooper''''' is a 1982 [[fixed shooter]] written by [[Greg Kuperberg]] and published by Orion Software as a [[self-booting disk]] for [[IBM PC compatible]]s. It is based on a 1981 [[Apple II]] game called ''[[Sabotage (video game)|Sabotage]]'' developed by [[Mark Allen (software developer)|Mark Allen]].<ref>{{cite web|url= http://members.chello.at/theodor.lauppert/games/ptrooper.htm|title= Paratrooper (DOS, 1982)|date= 2007-08-30|accessdate= 2008-01-06 |url-status= dead|archiveurl= https://web.archive.org/web/20071223142620/http://members.chello.at/theodor.lauppert/games/ptrooper.htm|archivedate= 2007-12-23}}</ref>
+
+==Gameplay==
+The player controls a gun turret at the bottom of the screen. The turret can swivel to cover a large area of the screen, but cannot move from its base. Helicopters fly across the screen at varying heights, dropping paratroopers. The gun may fire multiple shots at once, and the shots may destroy helicopters or shoot paratroopers. Paratroopers may be disintegrated by a direct hit, or their parachutes may be shot, in which case they will plummet to earth (splattering and dying, killing any paratrooper onto whom they fall). Periodically, jets may fly by and drop bombs; the jets and bombs may be shot as well.
+
+The player earns points by shooting helicopters, paratroopers, jets, and bombs. Firing a shell costs the player one point, so if one is playing for score, there is an incentive to conserve ammo.
+
+The game ends when the player's turret is hit by a bomb, or when four paratroopers safely land on either the left or right of the turret (that is four on one side, not four total). Once this happens, they are able to build a [[human pyramid]] and climb up to the turret and blow it up.
+
+{{listen
+|header = Paratrooper
+|type = music
+|filename = Paratrooper (video game intro music).ogg
+|title = "Paratrooper intro"
+|description = Paratrooper video game intro music, as played through the PC Speakers.
+}}
+
+The game's intro music is an interpretation of a brief section of [[Johann Sebastian Bach]]'s [[Toccata and Fugue in D minor, BWV 565]], played through the [[PC speaker]].<ref name="pcmag83">{{cite magazine | url=https://books.google.com/books?id=V2588uIxmAQC&pg=PA449 | title=Fun With Frogs And Flippers | magazine=[[PC Magazine]] | date=July 1983 | accessdate=19 January 2015 | author=Sandler, Corey | volume=2 | issue=2 | pages=447 | quote=The graphics (with very pretty explosions and cute little parachutes) and sound (including the stirring strains of Bach's Toccata and Fugue in D Minor at boot-up) are quite nice...}}</ref>
+
+==Reception==
+''[[PC Magazine]]'' gave ''Paratrooper'' 10 points out of 18. The magazine described it as "a well-executed but unexceptional game [which] quickly loses its appeal after a dozen or so plays".{{r|pcmag83}} In 1984 ''Softline'' readers named ''Paratrooper'' the worst IBM program of 1983.<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | accessdate=28 July 2014 | pages=49}}</ref>
+
+==Legacy==
+In 1992, Software Creations released a remake of the game called ''Night Raid'' for [[MS-DOS]].<ref>{{cite web|url= http://blastmagazine.com/the-magazine/technology/2008/11/the-old-shoebox-night-raid/|title= Night Raid (DOS, 1992)|date= 16 November 2008}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/paratrooper|name=Paratrooper}}
+*{{Internet Archive game|msdos_Paratrooper_1982}}
+
+[[Category:1982 video games]]
+[[Category:Fixed shooters]]
+[[Category:Video game clones]]
+[[Category:Video games scored by Bobby Prince]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

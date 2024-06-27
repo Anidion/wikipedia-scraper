@@ -1,0 +1,312 @@
+Slap Fight
+Permalink: //en.wikipedia.org/w/index.php?title=Slap_Fight&oldid=1231109559
+Accessed on: 2024-06-26T17:00:57.844552
+
+
+
+------
+Slap Fight
+{{About|the arcade game|the form of striking a person|Slapping (disambiguation){{!}}Slap}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox video game
+|title     = Slap Fight
+|image     = Slap Fight arcade flyer.jpg
+|caption   = Arcade flyer
+|developer = [[Toaplan]]
+|publisher = [[Taito]]
+|composer  = Masahiro Yuge
+|platforms = [[Amstrad CPC]], [[Arcade video game|Arcade]], [[Atari ST]], [[Commodore 64]], [[Sega Mega Drive|Mega Drive]], [[Thomson MO5]], [[Thomson TO8]], [[ZX Spectrum]]
+|released  = {{vgrelease|JP|July 1986<ref name="ATVGL:JaO1971-2005">{{cite book|last=Akagi|first=Masumi|url=https://archive.org/stream/ArcadeGameList1971-2005#page/n44/mode/1up|title=タイトー (Taito); 東亜プラン (Toa Plan); Taito America; A|work=アーケードTVゲームリスト 国内•海外編 (1971-2005)|edition=1st|publisher=[[:ja:アミューズメント通信社|Amusement News Agency]]|date=13 October 2006|pages=43, 50, 137, 145|isbn=978-4990251215|language=ja}}</ref>|NA|September 1986<ref name="ATVGL:JaO1971-2005"/>|EU|1986}}
+|genre     = [[Scrolling shooter]]
+|modes     = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+}}
+
+{{nihongo foot|'''''Slap Fight'''''|スラップファイト|''Surappu Faito''|also known as '''''Alcon''''' in North America|lead=yes|group=lower-alpha}} is a 1986 [[scrolling shooter|vertically scrolling shooter]] [[arcade video game]] developed by [[Toaplan]] and published by [[Taito]]. Set on the colonized fictional planet of Theron in the future, where an alien race led by Gaudy have invaded the human-controlled location, players assume the role of an Allied League of Cosmic Nations (ALCON) fighter pilot taking control of the SW475 [[List of fictional spacecraft#Space fighters|space fighter]] craft in an effort to counterattack the invaders. Initially launched for the arcades, the game was later [[Porting#Porting in gaming|ported]] to other [[microcomputer]] and [[Home video game console|console]] platforms by various [[third-party developer]]s, with each one featuring several changes or additions compared to the original release.
+
+''Slap Fight'' proved to be popular with arcade players despite a low number of arcade boards manufactured in Japan, but it was met with mixed reception from video game magazines across western regions, specifically the home [[Video game conversion|conversion]]s. Although it never received a direct sequel, the game's ideas and weapon system were later inherited by both ''[[Truxton (video game)|Truxton]]'' and ''[[Grind Stormer]]'', with the latter being regarded as its [[spiritual successor]]. The rights to the title are owned by Tatsujin, a Japanese company formed by Masahiro Yuge.
+
+== Gameplay ==
+[[File:ARC Slap Fight (Alcon).png|thumb|left|Arcade version screenshot]]
+''Slap Fight'' is a [[science fiction]]-themed vertically scrolling [[shoot 'em up]] game reminiscent of ''[[B-Wings]]'', where players assume the role of an Allied League of Cosmic Nations (ALCON) fighter pilot taking control of the SW475 space fighter craft in a counterattack effort to defeat an invading alien race led by Gaudy on planet Theron as the main objective.<ref name="SFMDmanual">''Slap Fight MD'' manual (Sega Mega Drive, JP)</ref><ref name="SFALCONhg101">{{cite web|last=Kalata|first=Kurt|url=http://www.hardcoregaming101.net/slap-fight-alcon/|title=Slap Fight / ALCON|publisher=Hardcore Gaming 101|date=3 July 2011|access-date=2020-04-24}}</ref><ref name="SFss">{{cite web|url=http://shootingstar.game.coocan.jp/slap_fight.html|title=SLAP FIGHT|publisher=Shooting Star|access-date=2020-04-24|language=ja}}</ref> Besides some stationary [[helicopter]]s with blades spinning, there are no flying enemies in the entire game. As far as vertical scrolling shooters go, the title initially appears to be very standard, as players control their craft over a constantly scrolling background and the scenery never stops moving until a [[Boss (video gaming)|boss]] at the end that must be fought before progressing any further is reached. Players have only two weapons at their disposal: the standard and side shots that travel a max distance of half the screen's height and length.<ref name="SFALCONhg101"/><ref name="SFss"/>
+
+The game's weapon [[power-up]] system takes inspiration from ''[[Gradius]]'';<ref name="SFMDmanual"/><ref name="SFALCONhg101"/><ref name="SFss"/> certain enemies spawn a [[star]]-shaped [[Item (gaming)|item]] upon destruction to be collected, activating an upgrade menu at the bottom of the screen that moves a lit cursor through the list of weapon power-ups described below.<ref name="SFMDmanual"/><ref name="SFALCONhg101"/><ref name="SFss"/> However, activating any weapon power-up increases the ship's [[Collision detection#Hitbox|hitbox]], making it a bigger target for enemy fire and difficult to keep successive lives in the heat of battle.<ref name="SFALCONhg101"/> If any power-up is lit but the player's ship is destroyed before a power-up could be selected, the star item is "carried over" and the speed power-up is lit on the next life. A number of hidden bonus secrets to be found are hosted, which is also crucial for reaching high-scores to obtain extra lives, as firing on determined locations and certain [[setpiece]]s within the scenery in some stages reveals a bonus secret.
+
+Major weapons affect the enemies and terrain differently. For example, certain enemy towers can only be destroyed with laser or homing missile shots; other enemies are destroyed much faster with specific weapons to match. If [[bomb]] or homing missile shots are equipped, certain bonus targets will appear or parts of the landscape may be destroyed to reveal bonuses. If laser is active, certain plants in the landscape can be shot repeatedly to grow and earn extra points until they scroll off-screen.<ref name="SFss"/> It has been reported that a bug in the game enabled the player to obtain all power-ups, simply by allowing themselves to be killed by the first enemy appearing upon starting the game without touching the controls. If this occurred, the next time the player's ship appears, it has all the power-ups equipped.<ref>{{cite web|author=smac|url=https://www.rllmukforum.com/index.php?/topic/76529-best-trick-cheat-or-bug-in-an-arcade-game/&do=findComment&comment=1735599|title=Best Trick, Cheat Or Bug In An Arcade Game.. (Page 2)|website=rllmukforum.com|date=16 March 2005|access-date=2020-04-26}}</ref>
+
+The game employs a [[Saved game#Checkpoints|checkpoint]] system in which a downed single player will start off at the beginning of the checkpoint they managed to reach before dying.<ref name="SFALCONhg101"/> Getting hit by enemy fire will result in losing a live, as well as a penalty of decreasing the ship's [[firepower]] to its original state and once all lives are lost, the [[Game over|game is over]] unless the player inserts more credits into the arcade machine to [[Continue (video games)|continue]] playing. After completing the last stage, the game begins again with the second loop increasing in difficulty and enemies fire denser [[bullet]] patterns. The title does not support continues with extra credits and is believed to loop endlessly.
+
+== Plot ==
+The plot of ''Slap Fight'' varies between each region and version.<ref name="SFMDmanual"/><ref name="SFALCONhg101"/><ref name="SFss"/><ref name="ALCONflyer">''Alcon'' arcade flyer (Taito, US)</ref> The game takes place in the year 2059 on another galaxy, mankind has colonized an alien planet called Theon after evacuating a previously colonized planet Orac. Five years ago, the colony on Orac was attacked by alien invaders and the war was so intense that the colonists were forced to leave. Theon is now under attack by the same alien fleet, but the humans are ready. The player assumes the role of an Allied League of Cosmic Nations (ALCON) fighter pilot in the SW475 space fighter craft to stop the invaders from taking over Theon.
+
+== Development ==
+=== Arcade version ===
+[[File:Slap Fight art design.jpg|thumb|right|Most of the artwork were hand-drawn sketches created by the development team before being transposed to [[pixel art]] graphics.]]
+''Slap Fight''{{'}}s development team had a concept for a game that featured secrets, while its main appeal was to keep players investing in long play sessions that revolved around hidden items and the weapon power-up system, as then-Toaplan [[Video game composer|composer]] Masahiro Yuge stated that the team's idea for the game was to add as many secrets as they could such as an alien that resembled one from ''[[Space Invaders]]'', which they included as an homage to Taito, with Yuge citing his affinity for titles with hidden secrets and characters.<ref name="PSGv10">{{cite magazine|last=Abeto|first=Kobatsu|title=東亜プランインタビュー|magazine=PSG|volume=10|publisher=F.S.G Club|date=September 1989|lang=ja}} ([http://shmuplations.com/toaplan-psg/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20170531193430/http://shmuplations.com/toaplan-psg/|date=2017-05-31}}).</ref><ref name="G49">{{cite magazine|url=https://archive.org/stream/gamest0049#page/69/mode/2up|title=東亜プラン|magazine=[[Gamest]]|issue=49|publisher=[[Shinseisha]]|date=September 1990|pages=68–69|lang=ja}} ([http://shmuplations.com/toaplan-gamest/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20191107033548/http://shmuplations.com/toaplan-gamest/|date=2019-11-07}}).</ref><ref name="TSCb">{{cite web|url=https://sweeprecord.com/toaplan-shooting-toku/|title=東亜プラン シューティングクロニクル 特設ページ|work=SweepRecord|publisher=SuperSweep|date=27 October 2011|access-date=2020-04-24|language=ja|archive-url=https://web.archive.org/web/20200215231114/https://sweeprecord.com/toaplan-shooting-toku/|archive-date=2020-02-15|url-status=live}} ([http://shmuplations.com/toaplan-chronicleqa/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20191002072400/http://shmuplations.com/toaplan-chronicleqa/|date=2019-10-02}}).</ref><ref name="STGv4b">{{cite magazine|last1=Kiyoshi|first1=Tane|author2=hally (VORC)|last3=Yūsaku|first3=Yamamoto|title=東亜プラン特集 - 元・東亜プラン 開発者インタビュー: 弓削雅稔|magazine=Shooting Gameside|volume=4|publisher=Micro Magazine|date=3 February 2012|pages=41–48|lang=ja|isbn=978-4896373844}} ([http://shmuplations.com/toaplan-yuge1/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20190906023744/http://shmuplations.com/toaplan-yuge1/|date=2019-09-06}}).</ref> ''Slap Fight'' was also one of the earliest projects Toaplan made using [[game design document]]s, though Yuge claimed that these were added after development as postscripts, since the team "needed some written records".<ref name="TSCa">{{cite web|url=https://sweeprecord.com/srin-1100/|title=東亜プラン シューティングクロニクル|work=SweepRecord|publisher=SuperSweep|date=14 November 2011|access-date=2020-04-24|language=ja|archive-url=https://web.archive.org/web/20191021030143/https://sweeprecord.com/srin-1100/|archive-date=2019-10-21|url-status=live}} ([http://shmuplations.com/toaplan-chronicle/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20180711134859/http://shmuplations.com/toaplan-chronicle/|date=2018-07-11}}).</ref>
+
+Yuge stated that the weapon change mechanism was intended to be a strategic element in ''Slap Fight'', as the player's ship is rendered invincible.<ref name="TSCb"/> The weapon power-up system was implemented early during the creation process, since the development team wanted to make "that kind of game", while each of the weapons' functionality and roles were decided to be good for certain sections in the title.<ref name="TSCb"/> All of the secrets were planned from the beginning of development and the team kept adding to the idea during the creation process such as secrets that required certain weapons.<ref name="TSCb"/> Another secret, the ship's satellite "option", was an idea suggested by Osamu "Lee" Ōta as a way to give the second player on an [[Arcade cabinet#Cocktail or table cabinets|cocktail cabinet]] a purpose.<ref name="TSCb"/>
+
+=== Mega Drive version ===
+{{Quote box|quote=The ports we did in-house at Toaplan I oversaw completely, but with the ones we licensed out, it was pretty much "do what you like."|source=Former Toaplan composer [[Tatsuya Uemura]] gave ''Slap Fight MD'' its ''{{wiktang|raison d'être}}'' when responding about the conversion's [[soundtrack]] by [[Yuzo Koshiro]].<ref name="STGv4a">{{cite magazine|last1=Kiyoshi|first1=Tane|author2=hally (VORC)|last3=Yūsaku|first3=Yamamoto|title=東亜プラン特集 - 元・東亜プラン 開発者インタビュー: 上村建也|magazine=Shooting Gameside|volume=4|publisher=Micro Magazine|date=3 February 2012|pages=33–40|lang=ja|isbn=978-4896373844}} ([http://shmuplations.com/toaplan-uemura1/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20190906023755/http://shmuplations.com/toaplan-uemura1/|date=2019-09-06}}).</ref>|width=23em|quoted=1}}
+The [[Sega Mega Drive]] conversion titled ''Slap Fight MD'' was developed by M.N.M Software, a Japanese game development company founded by former Dempa Micomsoft member Mikito Ichikawa.<ref name="EuroGSFMD">{{cite web|last=Massey|first=Tom|url=https://www.eurogamer.net/articles/2015-05-12-death-from-above-the-making-of-slap-fight-md|title=Death from Above: The making of Slap Fight MD - Mikito Ichikawa takes us behind the doors of a forgotten classic|work=[[Eurogamer]]|publisher=[[Gamer Network]]|date=5 May 2015|access-date=2019-11-18|archive-url=https://web.archive.org/web/20170320144329/http://www.eurogamer.net/articles/2015-05-12-death-from-above-the-making-of-slap-fight-md|archive-date=20 March 2017|url-status=live}}</ref> Ichikawa met then-Toaplan composer [[Tatsuya Uemura]] at the home of late ''[[Bubble Bobble]]'' [[Video game designer|designer]] [[Fukio Mitsuji]], exchanging business cards before Ichikawa found the offices of Toaplan two weeks later.<ref name="EuroGSFMD"/> Being a fan of ''[[Twin Cobra]]'', Ichikawa wanted to make a console port but Uemura told him the game was already being converted by another team. Uemura then asked if Ichikawa could port ''Slap Fight'' instead, which surprised Ichikawa, as the arcade original displayed Taito's logo. He accepted the offer since he was a big fan of the arcade version.<ref name="EuroGSFMD"/>
+
+''Slap Fight MD'', which was created under subcontract from Toaplan, was developed concurrently over the course of one year alongside four other projects at M.N.M Software, including ''[[Streets of Rage 2]]'' and an unreleased Mega Drive conversion of ''[[Rally Bike|Dash Yarō]]'', affecting both development of the port and Ichikawa's health greatly due to increasing overtime to the point of working at home on his [[Personal computer|PC]] while his health condition deteriorated, prompting him with including version information in the project during development as a result.<ref name="EuroGSFMD"/><ref name="Beep21">{{cite web|url=https://note.com/beep21/n/ncd94d6b47320|title=「スラップファイト3671」開発日誌 Beep21出張版 #0|work=Beep21|publisher=note|date=January 28, 2022|access-date=2022-01-29|language=ja|archive-url=https://web.archive.org/web/20220129135650/https://note.com/beep21/n/ncd94d6b47320|archive-date=2022-01-29|url-status=live}}</ref> Uemura served as [[Video game producer|producer]], while [[Video game programmer|programmer]] Jun Shimizu did the coding process entirely by himself and also served as [[level designer]].<ref name="EuroGSFMD"/> ''[[Streets of Rage]]'' composer [[Yuzo Koshiro]] was recruited by Ichikawa to score the music due to his experience with M.N.M, while voicework was done by a friend of Koshiro serving at a US military base.<ref name="EuroGSFMD"/> Ichikawa arranged the original arcade music and claimed that M.N.M originally did not have plans to arrange the arcade's music, however Uemura requested it and after positive feedback from him, led Ichikawa to committing to the task.<ref name="EuroGSFMD"/> Toaplan also provided reference materials used during development of the arcade original to the team at M.N.M.<ref name="EuroGSFMD"/> The cover art was drawn by Parsley Promotion.<ref name="EuroGSFMD"/>
+
+The special mode in ''Slap Fight MD'' was developed by M.N.M due to the fact that their conversion would have not featured as much content if they had followed Toaplan's basic contract of just porting the straight arcade version of ''Slap Fight'' to the Mega Drive.<ref name="EuroGSFMD"/> Ichikawa stated that the special mode was conceived as the "ultimate version" and featured a wider range of strategic play, as the team felt the original arcade release did not offer as many gameplay strategies and depth.<ref name="EuroGSFMD"/> Both Toaplan and M.N.M wanted the port to be catered towards casual and hardcore players.<ref name="EuroGSFMD"/>
+
+== Release ==
+[[File:MD Slap Fight MD.png|thumb|right|The "Slap Fight MD" mode of the Mega Drive version]]
+''Slap Fight'' was first released in arcades across Japan in July 1986 and later in North America on September of the same year, as well as in Europe by Taito.<ref name="ATVGL:JaO1971-2005"/>{{Citation needed|date=April 2020}} Known commercial ports of the game released across European and North American markets include: [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[Thomson MO5]], [[Thomson TO8]] and [[ZX Spectrum]]. Almost all microcomputer versions of the game would later be re-released as budget titles by [[Ocean Software|The Hit Squad]].<ref name="AAACPCsf2"/><ref name="CFC64sf1"/><ref name="CVGC64ZXSsf"/>
+
+A Sega Mega Drive conversion titled ''Slap Fight MD'' was published in Japan by [[Tengen (company)|Tengen]] on 11 June 1993 and South Korea by [[Samsung]] on the same year.<ref name="EuroGSFMD"/>{{Citation needed|date=April 2020}} Tengen produced an estimated run of 5000 copies for the Mega Drive port.<ref name="EuroGSFMD"/> "Slap Fight MD" itself is a new special game mode with new levels, graphics, weapons and music, plus a new "bomb" feature at the cost of wing power-ups and new music composed and arranged by Yuzo Koshiro, which is presented on the title screen.<ref name="SFALCONhg101"/> The original game was also included, but with changes such as configuration for the shield's timer and a in-game announcer.<ref name="SFALCONhg101"/> It was later included on the Japanese version of the [[Sega Genesis Mini]] in 2019.<ref>{{cite web|last=Cabrera|first=David|url=https://www.polygon.com/reviews/2019/9/29/20886869/japanese-sega-genesis-mini-mega-drive-mini-review-import-game-list|title=The Japanese Sega Genesis Mini: How American players are missing out - The Genesis Mini is a great machine, but the import includes magic|work=[[Polygon (website)|Polygon]]|publisher=[[Vox Media]]|date=September 29, 2019|access-date=2020-10-17|archive-url=https://web.archive.org/web/20191208210514/https://www.polygon.com/reviews/2019/9/29/20886869/japanese-sega-genesis-mini-mega-drive-mini-review-import-game-list|archive-date=2019-12-08|url-status=live}}</ref>
+
+In ''[[Let's! TV Play Classic#Taito Nostalgia 2|Taito Nostalgia 2]]'' for the ''[[Let's! TV Play Classic]]'' [[Handheld TV game|plug and play game]] series by [[Bandai]], the original Japanese version and a new version titled ''Slap Fight Tiger'' were included.<ref name="SFALCONhg101"/><ref name=":0">{{cite web|url=http://www.changevworld.com/letsplay/letsplay.htm|title=Let's! TV play classic|website=www.changevworld.com|publisher=Change-V's Anime and Game collection|access-date=2017-03-15|archive-url=https://web.archive.org/web/20170424215620/http://www.changevworld.com/letsplay/letsplay.htm|archive-date=24 April 2017|url-status=live}}</ref> In this version, players control the titular attack helicopter from ''[[Tiger-Heli]]'' instead of the SW475, while the laser is changed to fire a three-way spread shot and new enemies such as the aliens from ''Space Invaders'' are introduced.<ref name="SFALCONhg101"/><ref name=":0"/> ''Slap Fight'' is planned to be included as part of the ''Toaplan Arcade 1'' compilation for [[Evercade]].<ref>{{cite web|last=McFerran|first=Damien|url=https://www.nintendolife.com/news/2022/05/evercade-is-getting-an-exp-upgrade-complete-with-irem-and-toaplan-collections|title=Evercade Is Getting An "EXP" Upgrade, Complete With Irem And Toaplan Collections|work=[[Nintendo Life]]|publisher=Nlife Media|date=May 31, 2022|access-date=2022-05-31}}</ref>
+
+== Reception ==
+{| class="wikitable collapsible" style="float:right; font-size:80%; text-align:center; margin:1em; margin-top:0; padding:0; background:none;" cellpadding="0"
+! colspan=10 style="font-size: 100%" | Reception
+|-
+! colspan=7 | Review scores
+|-
+! rowspan=2 | Publication
+! colspan=7 | Scores
+|-
+! [[Amstrad CPC|CPC]]
+! [[Commodore 64|C64]]
+! [[Thomson computers|Thomson]]
+! [[ZX Spectrum|ZXS]]
+! [[Atari ST|ST]]
+! [[Sega Mega Drive|SMD]]
+|-
+| ''[[ACE (magazine)|ACE]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 568/1000<ref name="ACESTsf">{{cite magazine|url=https://archive.org/stream/ace-magazine-08/ACE_Issue_08_1988_May#page/n67/mode/1up|title=Screen Test Update: Atari ST - Slap Fight|magazine=[[ACE (magazine)|ACE]]|issue=8|publisher=[[Future Publishing]]|date=May 1988|page=68|access-date=24 April 2020|archive-url=https://web.archive.org/web/20160613112120/https://archive.org/stream/ace-magazine-08/ACE_Issue_08_1988_May#page/n67/mode/1up|archive-date=13 June 2016|url-status=live}}</ref>
+| {{N/A}}
+|-
+| ''[[Aktueller Software Markt|ASM]]''
+| {{N/A}}
+| 10/12<ref name="ASMC64sf">{{cite magazine|last=Kus|first=Philipp|url=https://www.kultboy.com/index.php?site=t&id=19770|title=Action Games - Coin-Op in Perfektion!|magazine=[[Aktueller Software Markt]]|issue=15|publisher=Tronic Verlag|date=October 1987|page=45|lang=de}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:fr:Amstar (magazine de jeu vidéo)|Amstar]]''
+| 12/20<ref name="AmstarACPCsf">{{cite magazine|url=http://download.abandonware.org/magazines/Amstar/amstar_numero24/ams24_027.jpg|title=Arcade - Slap Fight|magazine=[[:fr:Amstar (magazine de jeu vidéo)|Amstar]]|issue=24|publisher=Soracom Editions|date=August–September 1988|page=27|lang=fr}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Amstrad Action]]''
+| 76%<ref name="AAACPCsf1">{{cite magazine|last=Wade|first=Bob|url=https://archive.org/stream/amstrad-action-024#page/n47/mode/1up|title=Action Test - Slap Fight|magazine=[[Amstrad Action]]|issue=24|publisher=[[Future Publishing]]|date=September 1987|page=48}}</ref><br />69%<ref name="AAACPCsf2">{{cite magazine|last=Webb|first=Trenton|url=https://archive.org/stream/amstrad-action-058#page/n54/mode/1up|title=Action Test - Slapfight|magazine=[[Amstrad Action]]|issue=58|publisher=[[Future Publishing]]|date=July 1990|page=55}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''Arcades''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 15/20<ref name="ArcadesSTsf">{{cite magazine|url=http://download.abandonware.org/magazines/Arcades/arcades_numero08/Arcades%20-%2008%20-%20page%20034.jpg|title=Slap Fight (Testé sur Atari ST)|magazine=Arcades|issue=8|publisher=Faurez-Mellet|date=May 1988|page=34|lang=fr}}</ref>
+| {{N/A}}
+|-
+| ''[[Atari ST User]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 5/10<ref name="ASTUSTsf">{{cite magazine|last1=Lester|first1=David|last2=Richards|first2=Andy|url=http://www.atarimania.com/mags/hi_res/atari-st-user-vol-03-issue-04_51.jpg|title=Software: Slap Fight - Slap but not tickle|magazine=[[Atari ST User]]|issue=28|publisher=[[Europress]]|date=June 1988|page=51|access-date=24 April 2020|archive-url=https://web.archive.org/web/20180927003102/http://www.atarimania.com/mags/hi_res/atari-st-user-vol-03-issue-04_51.jpg|archive-date=27 September 2018|url-status=live}}</ref>
+| {{N/A}}
+|-
+| ''[[Gemaga|Beep! Mega Drive]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 29/40<ref name="B!MDSMDsfmd">{{cite magazine|url=https://retrocdn.net/index.php?title=File:BeepMD_JP_1993-07.pdf&page=20|title=BEメガドッグレース (Be Mega Dog Race) – スラップファイト|magazine=[[Gemaga|Beep! Mega Drive]]|issue=46|publisher=[[SB Creative|SoftBank Creative]]|date=July 1993|page=18|lang=ja}}</ref>
+|-
+| ''[[Commodore Force]]''
+| {{N/A}}
+| 60%<ref name="CFC64sf1">{{cite magazine|last=Hayward|first=Chris|url=https://archive.org/stream/zzap64-magazine-093#page/n20/mode/1up|title=Round-Up!: Shoot To Thrill - Slap Fight (Imagitec/Hit Squad)|magazine=[[Commodore Force]]|issue=3|publisher=[[Europress Impact]]|date=March 1993|page=21}}</ref><br />76%<ref name="CFC642">{{cite magazine|last=Guttery|first=Miles|url=https://archive.org/stream/zzap64-magazine-098#page/n19/mode/1up|title=Round-Up!: Slots Of Fun! Part Two - Slap Fight (The Hit Squad)|magazine=[[Commodore Force]]|issue=8|publisher=[[Europress Impact]]|date=August 1993|page=20}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Commodore User|CU]]''
+| {{N/A}}
+| 5/10<ref name="CUserC64sf">{{cite magazine|last=Lacey|first=Eugene|url=https://archive.org/stream/commodore-user-magazine-46#page/n65/mode/1up|title=Screen Scene - Slap Fight|magazine=[[Commodore User]]|issue=46|publisher=[[EMAP]]|date=July 1987|page=65}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Computer and Video Games|CVG]]''
+| {{N/A}}
+| 10/10<ref name="CVGC64sf">{{cite magazine|last=Boughton|first=Paul|url=https://archive.org/stream/cvg-magazine-070/CVG_070_Aug_1987#page/n17/mode/1up|title=CVG Reviews - Slap Fight (CBM 64)|magazine=[[Computer and Video Games]]|issue=70|publisher=[[EMAP]]|date=August 1987|page=18|access-date=24 April 2020|archive-url=https://web.archive.org/web/20160502130637/https://archive.org/stream/cvg-magazine-070/CVG_070_Aug_1987#page/n17/mode/1up|archive-date=2 May 2016|url-status=live}}</ref><br />81%<ref name="CVGC64ZXSsf">{{cite magazine|url=https://archive.org/stream/cvg-magazine-104/CVG_104_Jul_1990#page/n65/mode/2up|title=Budget - Slap Fight (Spectrum/C64)|magazine=[[Computer and Video Games]]|issue=104|publisher=[[EMAP]]|date=July 1990|pages=66–67}}</ref>
+| {{N/A}}
+| 60%<ref name="CVGC64ZXSsf"/>
+| 4/10<ref name="CVGSTsf">{{cite magazine|last=Paddon|first=Lee|url=https://archive.org/stream/cvg-magazine-079/CVG_079_May_1988#page/n68/mode/1up|title=CVG Reviews - Slap Fight (ST)|magazine=[[Computer and Video Games]]|issue=79|publisher=[[EMAP]]|date=May 1988|page=69|access-date=24 April 2020|archive-url=https://web.archive.org/web/20161008140312/https://archive.org/stream/cvg-magazine-079/CVG_079_May_1988#page/n68/mode/1up|archive-date=8 October 2016|url-status=live}}</ref>
+| {{N/A}}
+|-
+| ''[[Crash (magazine)|Crash]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 72%<ref name="CrashZXSsf1">{{cite magazine|last1=Eddy|first1=Richard|last2=Sumner|first2=Paul|last3=Dunn|first3=Mike|url=https://archive.org/stream/crash-magazine-43#page/n19/mode/1up|title=Reviews - Slap Fight|magazine=[[Crash (magazine)|Crash]]|issue=43|publisher=[[Newsfield Publications]]|date=August 1987|page=20}}</ref><br />41%<ref name="CrashZXSsf2">{{cite magazine|last=Roberts|first=Nick|url=https://archive.org/stream/crash-magazine-80#page/n46/mode/1up|title=Reviews - Slap Fight (The Hit Squad)|magazine=[[Crash (magazine)|Crash]]|issue=80|publisher=[[Newsfield Publications]]|date=September 1990|page=47}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Famitsu]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 26/40<ref name="FamSMDsfmd">{{cite magazine|url=https://archive.org/details/weekly-famitsu-no.-235-june-18th-1993/page/38/mode/1up|title=NEW GAMES CROSS REVIEW: スラップファイト|magazine=[[Famitsu]]|issue=235|publisher=[[ASCII Corporation|ASCII]]|date=18 June 1993|page=38|lang=ja}}</ref>
+|-
+| ''[[The Games Machine]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 75%<ref name="TGMSTsf">{{cite magazine|url=https://archive.org/stream/thegamesmachine-magazine-06/TheGamesMachine_06#page/n69/mode/1up|title=Reviews (Version Update): Flap Night - Slap Fight|magazine=[[The Games Machine]]|issue=6|publisher=[[Newsfield Publications]]|date=May 1988|page=70|access-date=24 April 2020|archive-url=https://web.archive.org/web/20151211234305/https://archive.org/stream/thegamesmachine-magazine-06/TheGamesMachine_06#page/n69/mode/1up|archive-date=11 December 2015|url-status=live}}</ref>
+| {{N/A}}
+|-
+| ''[[:de:Happy Computer|Happy Computer]]''
+| {{N/A}}
+| 80/100<ref name="HappyCC64sf">{{cite magazine|last=Lenhardt|first=Heinrich|url=https://www.kultboy.com/index.php?site=t&id=2891|title=Slap Fight|magazine=[[:de:Happy Computer|Happy Computer]]|issue=21 Sondeheft|publisher=[[:de:Markt+Technik Verlag|Markt+Technik Verlag]]|lang=de}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Mean Machines Sega]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 76/100<ref name="MMSSMDsfmd">{{cite magazine|author1=Paul|author2=Gus|url=https://archive.org/stream/mean-machines-sega-magazine-11#page/n91/mode/2up|title=Megadrive Review - Slap Fight MD|magazine=[[Mean Machines Sega]]|issue=11|publisher=[[EMAP]]|date=September 1993|pages=92–94}}</ref>
+|-
+| ''[[MegaTech]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 83%<ref name="MegaTSMDsfmd">{{cite magazine|title=Review – Slap Fight MD|magazine=[[MegaTech]]|issue=20|publisher=[[Maverick Magazines]]|date=August 1993|pages=68–70}}</ref>
+|-
+| ''[[:ja:PlayStation Magazine|PlayStation Magazine]] (JP)''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 19.8/30<ref name="PSMjpMDsfmd">{{cite book|title=超絶 大技林 '98年春版: メガドライブ - スラップファイトMD|work=[[:ja:PlayStation Magazine|PlayStation Magazine]]|volume=42|type=Special|publisher=[[Tokuma Shoten Intermedia]]|date=15 April 1998|page=853|language=ja|id={{ASIN|B00J16900U|country=jp}}}}</ref>
+|-
+| ''[[:de:Power Play (Zeitschrift)|Power Play]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 70%<ref name="PPSTsf">{{cite magazine|last=Lenhardt|first=Heinrich|url=https://www.kultboy.com/index.php?site=t&id=7909&s=3|title=Power Computerspiele-Tests — Slap Fight (ST)|magazine=[[:de:Power Play (Zeitschrift)|Power Play]]|issue=5|publisher=Future Verlag|date=May 1988|page=78|lang=de}}</ref>
+| {{N/A}}
+|-
+| ''[[Sinclair User]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 7/10<ref name="SUZXSsf1">{{cite magazine|last=Taylor|first=Graham|url=https://archive.org/stream/sinclair-user-magazine-065#page/n77/mode/2up|title=Arcade Review - Slap Fight|magazine=[[Sinclair User]]|issue=65|publisher=[[EMAP]]|date=August 1987|pages=78–79}}</ref><br />89%<ref name="SUZXS2">{{cite magazine|last=Jenkins|first=Chris|url=https://archive.org/stream/sinclair-user-magazine-101#page/n61/mode/2up|title=Review - Slap Fight|magazine=[[Sinclair User]]|issue=101|publisher=[[EMAP]]|date=July 1990|pages=62–63}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[ST Action]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 61%<ref name="STASTsf">{{cite magazine|url=https://archive.org/stream/ST_Action_Volume_1_Issue_1_1988-05_Gollner_Publishing_GB#page/n17/mode/1up|title=Shoot-Em Up - Slap Fight, Imagine|magazine=[[ST Action]]|issue=1|publisher=Gollner Publishing|date=May 1988|page=16}}</ref>
+| {{N/A}}
+|-
+| ''[[:pt:Super Game|Super Game]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 90/100<ref name="SGSMDsfmd">{{cite magazine|url=https://archive.org/stream/Supergame_Ano_2_No._25_1993-08_Nova_Cultural_BR_pt#page/n17/mode/1up|title=Saiu No Japão: a geladeira desde 86, clássico sai do arcade e vem para Mega - Slap Fight|magazine=[[:pt:Super Game|Super Game]]|issue=25|publisher=[[:pt:Editora Nova Cultural|Nova Cultural]]|date=August 1993|page=18|lang=pt}}</ref>
+|-
+| ''[[Tilt (French magazine)|Tilt]]''
+| {{N/A}}
+| 15/20<ref name="TiltC64sf1">{{cite magazine|last=Brisou|first=Mathieu|url=http://download.abandonware.org/magazines/Tilt/tilt_numero046/TILT%20-%20n%b046%20-%20octobre%201987%20-%20page052%20et%20page053.jpg|title=Tubes: Slap Fight - L'humanité en péril (Disquette Imagine pour C64/128)|magazine=[[Tilt (French magazine)|Tilt]]|issue=46|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=October 1987|page=53|lang=fr}}</ref><br />15/20<ref name="TiltC64sf2">{{cite magazine|url=http://download.abandonware.org/magazines/Tilt/tilt_numero049/TILT%20-%20n%b049%20-%20decembre%201987%20-%20page092%20et%20page093.jpg|title=Dossier: 41 <<spaces invaders>> au Tiltoscope - Slap Fight|magazine=[[Tilt (French magazine)|Tilt]]|issue=49|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=December 1987|pages=92–93|lang=fr}}</ref>
+| 13/20<ref name="TiltThomsonSTsf">{{cite magazine|last=Huyghues-Lacour|first=Alain|url=http://download.abandonware.org/magazines/Tilt/tilt_numero055/TILT%20-%20n%b0%2055%20-%20juin%201988%20-%20page052%20et%20page053.jpg|title=Tubes: Slapfight - Les envahisseurs (Disquette Imagine pour Atari ST) / Version Thomson|magazine=[[Tilt (French magazine)|Tilt]]|issue=55|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=June 1988|pages=52–53|lang=fr}}</ref>
+| {{N/A}}
+| 14/20<ref name="TiltThomsonSTsf"/>
+| {{N/A}}
+|-
+| ''[[Your Sinclair]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 9/10<ref name="YSZXSsf1">{{cite magazine|last=Gerrard|first=Mike|url=https://archive.org/stream/your-sinclair-21#page/n65/mode/1up|title=Screen Shots - Part 2: Slap Fight|magazine=[[Your Sinclair]]|issue=21|publisher=[[Dennis Publishing]]|date=September 1987|page=66}}</ref><br />82°/100°<ref name="YSZXSsf2">{{cite magazine|last=Berkmann|first=Markus|url=http://live.worldofspectrum.org/infoseek/magazines/your-sinclair/56#76|title=Bargain Basement - Slapfight|magazine=[[Your Sinclair]]|issue=56|publisher=[[Future Publishing]]|date=August 1990|page=76|access-date=24 April 2020|archive-url=https://web.archive.org/web/20191017013155/http://live.worldofspectrum.org/infoseek/magazines/your-sinclair/56#76|archive-date=17 October 2019|url-status=live}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Zzap!64]]''
+| {{N/A}}
+| 80%<ref name="Z!64C64sf1">{{cite magazine|last1=Sumner|first1=Paul|last2=Brennan|first2=Ciarán|last3=Jarratt|first3=Steve|author-link3=Steve Jarratt|url=https://archive.org/stream/zzapp_64_issue_028_600dpi/Zzap640028Hi#page/n89/mode/2up|title=Zzap! Test - Slap Fight|magazine=[[Zzap!64]]|issue=28|publisher=[[Newsfield Publications]]|date=August 1987|pages=90–91}}</ref><br />60%<ref name="Z!64C64sf2">{{cite magazine|url=https://archive.org/stream/zzap64-magazine-062#page/n47/mode/1up|title=Zzap! Budget: Cor Blimey! The Budget Bit! - Slapfight|magazine=[[Zzap!64]]|issue=62|publisher=[[Newsfield Publications]]|date=June 1990|page=46}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|}
+
+According to Tatsuya Uemura, not many arcade boards were produced for ''Slap Fight'' in Japan but proved to be popular among players.<ref name="G49"/> Japanese magazine ''Game Machine'' listed it on their 1 September 1986 issue as being the seventh most-successful table arcade unit of the month, outperforming titles such as ''[[Ikari Warriors]]'' and ''[[Gradius (video game)|Gradius]]''.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=291|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 September 1986|page=23|lang=ja}}</ref> [[Den of Geek]] noted its weapon system and multiple ways to kill enemies.<ref name="T-Hdog">{{cite web|last=Lambie|first=Ryan|url=https://www.denofgeek.com/uk/games/58480/toaplan-the-rise-and-fall-of-japans-greatest-shooting-game-company|title=Toaplan: the rise and fall of Japan's greatest shooting game company|work=[[Den of Geek]]|publisher=[[Dennis Publishing]]|date=21 June 2018|access-date=2020-04-24|archive-url=https://web.archive.org/web/20180621073806/http://www.denofgeek.com/uk/games/58480/toaplan-the-rise-and-fall-of-japans-greatest-shooting-game-company|archive-date=21 June 2018|url-status=live}}</ref>
+
+== Legacy ==
+According to Masahiro Yuge, some of the ideas implemented in ''Slap Fight'' would later go on to influence development of ''Truxton''.<ref name="TSCb"/> A spiritual successor, ''Grind Stormer'' (1993), uses a weapon power-up system reminiscent of ''Slap Fight''.<ref>{{cite web|author=blackoak|url=http://shmuplations.com/toaplan-vv/|title=1993 V-V Toaplan Interview|website=shmuplations.com|access-date=2020-04-24|archive-url=https://web.archive.org/web/20191107034510/http://shmuplations.com/toaplan-vv/|archive-date=2019-11-07|url-status=live}}</ref><ref>{{cite web|last=Zverloff|first=Nick|url=http://www.hardcoregaming101.net/v-five-grind-stormer/|title=V-Five / Grind Stormer|publisher=Hardcore Gaming 101|date=29 June 2011|access-date=2020-04-24|archive-url=https://web.archive.org/web/20190403000300/http://www.hardcoregaming101.net/v-five-grind-stormer/|archive-date=3 April 2019|url-status=live}}</ref><ref>{{cite web|last=Joscelyne|first=Svend|url=https://spong.com/feature/10110562/Interview-All-Your-Base-Cave-CCO-Tsuneki-Ikeda|title=Interviews// All Your Base: Cave CCO Tsuneki Ikeda|work=SPOnG|publisher=SPOnG.com Limited|date=8 December 2011|access-date=2020-04-24|archive-url=https://web.archive.org/web/20171003230713/http://spong.com/feature/10110562/Interview-All-Your-Base-Cave-CCO-Tsuneki-Ikeda|archive-date=3 October 2017|url-status=live}}</ref> In more recent years, the rights to the game and many other IPs from Toaplan are now owned by Tatsujin, a company named after ''Truxton''{{'}}s Japanese title that was founded in 2017 by Yuge, who are affiliated with arcade manufacturer exA-Arcadia.<ref>{{cite web|url=http://tatsujin.tokyo/custom.html|title=ライセンス事業|publisher=TATSUJIN Co., Ltd.|date=2019|access-date=2020-04-24|language=ja|archive-url=https://web.archive.org/web/20181225203847/http://tatsujin.tokyo/custom.html|archive-date=2018-12-25|url-status=live}}</ref><ref>{{cite web|last=Bravo|first=Roberto|url=https://www.gamercafe.cl/2018/09/12/nueva-compania-tatsujin-asegura-tener-gran-parte-de-las-ips-de-la-extinta-toaplan/|title=Nueva compañía "Tatsujin" asegura tener gran parte de las IPs de la extinta Toaplan|publisher=Gamercafe|date=12 September 2018|access-date=2020-04-24|language=es|archive-url=https://web.archive.org/web/20191021030437/https://www.gamercafe.cl/2018/09/12/nueva-compania-tatsujin-asegura-tener-gran-parte-de-las-ips-de-la-extinta-toaplan/|archive-date=2019-10-21|url-status=live}}</ref><ref>{{cite web|url=https://exa.ac/en/editors/tatsujin/|title=Tatsujin|publisher=exA-Arcadia|date=2019|access-date=2020-04-24|archive-url=https://web.archive.org/web/20191021030706/https://exa.ac/en/editors/tatsujin/?v=a99877f71bd9|archive-date=2019-10-21|url-status=live}}</ref><ref>{{cite web|last=Bravo|first=Roberto|url=https://www.gamercafe.cl/2019/01/25/tatsujin-los-duenos-de-toaplan-anuncian-que-estan-trabajando-para-exa-arcadia/|title=Tatsujin, los dueños de Toaplan, anuncian que están trabajando para exA-Arcadia|publisher=Gamercafe|date=25 January 2019|access-date=2020-04-24|language=es|archive-url=https://web.archive.org/web/20191021031057/https://www.gamercafe.cl/2019/01/25/tatsujin-los-duenos-de-toaplan-anuncian-que-estan-trabajando-para-exa-arcadia/|archive-date=2019-10-21|url-status=live}}</ref><ref>{{cite web|url=https://www.4gamer.net/games/408/G040821/20190125146/|title=［JAEPO2019］TATSUJINやナツメアタリの参入が発表されたexA-Arcadia。出展コーナーの模様を紹介|work=[[4Gamer.net]]|publisher=Aetas Inc.|date=26 January 2019|access-date=2020-04-24|language=ja|archive-url=https://web.archive.org/web/20191021031252/https://www.4gamer.net/games/408/G040821/20190125146/|archive-date=2019-10-21|url-status=live}}</ref>
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://gamefaqs.gamespot.com/arcade/584094-alcon ''Alcon''] at [[GameFAQs]]
+* [https://www.giantbomb.com/alcon/3030-11840/ ''Alcon''] at [[Giant Bomb]]
+* [https://www.arcade-museum.com/game_detail.php?game_id=6843 ''Alcon''] at [[Killer List of Videogames]]
+* [https://www.mobygames.com/game/alcon ''Alcon''] at [[MobyGames]]
+* [http://privat.bahnhof.se/wb831590/toaplansite/allyourbase/slapfight/index.html ''Slap Fight''] {{Webarchive|url=https://web.archive.org/web/20191001055445/http://privat.bahnhof.se/wb831590/toaplansite/allyourbase/slapfight/index.html |date=1 October 2019}} at The Toaplan Museum
+
+{{Toaplan}}
+{{Portal bar|1980s|Japan|Video games}}
+
+{{DEFAULTSORT:Slap Fight}}
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Science fiction video games]]
+[[Category:Sega Genesis games]]
+[[Category:Sega Genesis-only games]]
+[[Category:Shoot 'em ups]]
+[[Category:Tengen (company) games]]
+[[Category:Toaplan games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Video games scored by Martin Galway]]
+[[Category:Video games scored by Masahiro Yuge]]
+[[Category:Video games scored by Yuzo Koshiro]]
+[[Category:Video games set in the 2050s]]
+[[Category:ZX Spectrum games]]

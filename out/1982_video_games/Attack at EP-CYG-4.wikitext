@@ -1,0 +1,61 @@
+Attack at EP-CYG-4
+Permalink: //en.wikipedia.org/w/index.php?title=Attack_at_EP-CYG-4&oldid=1224490708
+Accessed on: 2024-06-26T16:52:58.262545
+
+
+
+------
+Attack at EP-CYG-4
+{{more citations needed|date=October 2017}}
+{{Short description|1982 video game}}
+{{Infobox video game
+|title= Attack at EP-CYG-4
+|image= Attack at EP-CYG-4.jpg
+|developer= BRAM
+|publisher= BRAM<br/>Romox
+|designer= Mike Edwards<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+|released= 1982
+|genre= [[Shoot 'em up]]
+|modes= [[Single-player video game|Single-player]]<br>Two-player cooperative
+|platforms= [[Atari 8-bit computers|Atari 8-bit]]
+|caption = 
+|alt = 
+}}
+
+'''''Attack at EP-CYG-4''''' is a [[shoot 'em up]] video game created by Mike Edwards for [[Atari 8-bit computers]] and published by his company BRAM, Inc. in 1982.<ref name="giantlist"/> It allows two players to cooperatively control the action against a computer enemy, in a fashion similar to [[Synapse Software]]'s ''[[Survivor (1982 video game)|Survivor]]'', also released in 1982. ''EP-CYG-4'' was the first of Edwards' game efforts, and its success led to the creation of ''Zombies'', which was published by [[Electronic Arts]] as ''[[Realm of Impossibility]]''.
+
+==Gameplay==
+The player's ship, looking like a [[flying saucer]], moves in the eight cardinal directions of the Atari joystick. Moving along with the saucer is a targeting crosshairs. When the fire button is pressed, the saucer stops moving and the joystick instead controls the location of the crosshair, allowing it to be moved about the screen while the ship rapidly fires the "lyso-blast" weapon in that direction. The ship is also equipped with shields that protect it from enemy fire, which are active whenever the weapon is not being fired. In two-player mode the first player controls the motion and the shields, which are no longer continuous, while the second controls the crosshairs, allowing simultaneous movement and firing in different directions.{{sfn|Manual|pp=2-3}}
+
+The ship appears on the right side of the display and is normally moved by the player toward the left. When the ship reaches the left side of the screen, the action stops and the display is redrawn to show another "sector", placing the ship at the right side again (a style of game later referred to as [[flip screen]]). Moving off the right side causes the ship to wrap around to the left again, as opposed to returning to the previous sector.{{sfn|Manual|p=2}}
+
+The sectors normally contain a number of island-like landforms at the bottom of the screen, which may support various emplacements of the enemy tartillians. Some of these are active, shooting at the player's ship, while others are inactive but can be shot for points. Enemies also appear and approach the ship in order to collide with it. All of the active targets, if any, must be destroyed before the ship will advance to the next sector when it reaches the left side of the screen. There are three "missions," each of which can be played in one of three difficulty levels, C as the easiest and A the hardest. At the end of the game the player is given a ranking, similar to the system in ''[[Star Raiders]]''.{{sfn|Manual|p=2}}
+
+==Development==
+Edwards worked at [[Boeing]] and programmed for them for some time. When his job changed and he was no longer programming, he became interested in the home computer market. He purchased an Atari after seeing ''[[Star Raiders]]''. After having the machine for a while he began programming on it, and at the suggestion of a long time friend, wrote a simple program in [[Atari BASIC]] to sell locally as a [[tax dodge]].<ref name="ellison"/> He then wrote ''Attack at EP-CYG-4'' and was surprised at its success, which led to the company becoming a for-profit publisher. He then worked on a maze game, which became ''Zombies'' after adding in 3D effects at the prompting of his partner.<ref name="ellison"/> A cartridge version of ''EP-CYG-4'' was published by Romox.
+
+==Reception==
+Allen Doum reviewed the game for ''[[Computer Gaming World]]'', and stated that "EP-CYG-4 is a good game overall, and I have a feeling that the pilot/gunner concept will be around for a while."<ref name="CGW7">{{cite magazine |last=Doum |first=Allen |title=Four for the Atari |magazine=Computer Gaming World |date=Nov–Dec 1982 |volume=1 |issue=7 |pages=20}}</ref>
+
+''The Addison-Wesley Book of Atari Software 1983'' gave ''Attack at EP-CYG-4'' an overall rating of "D," calling it "a game of mindless, systematic destruction requiring little thought or skill."<ref name=aw>{{cite book |title=The Addison-Wesley Book of Atari Software 1983 |date=1983 |publisher=Addison-Wesley |page=94 |url=http://www.atarimania.com/documents/The-Book-of-Atari-Software-1983.pdf}}</ref>
+
+In a review for ''[[Creative Computing]]'', Arthur Leyeberger called it a mix of ''[[Missile Command]]'' and ''[[Protector II]]''. He found the single-player mode overwhelming, but enjoyed the two-player game: "Teamwork is definitely called for, and the coordination of effort is half the fun."<ref name="leyenberger">{{cite journal |last1=Leyeberger |first1=Arthur |title=A Gaggle of Games for Atari: Attack at EP-CYG-4 |journal=Creative Computing |date=September 1983 |volume=9 |issue=9 |pages=102, 106 |url=https://archive.org/details/creativecomputing-1983-09/page/n105/mode/2up}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="ellison">{{cite journal |last1=Ellison |first1=Peter |title=Interview: Mike Edwards |journal=ROM |issue=4|date=February 1984 |page=12 |url=http://www.atarimagazines.com/rom/issue4/interview.php}}</ref>
+}}
+
+===Sources===
+* {{cite book |title=Attack at EP-CYG-4 manual |date=1982 |url=https://archive.org/details/Attack_at_EP-CYG-4_1982_Romox_US |publisher=Romox |via=[[Internet Archive]] |ref=CITEREFManual}}
+
+==External links==
+*{{atarimania|id=6005}}
+*[https://www.youtube.com/watch?v=p_N4qaMDrUc ''Attack at EP-CYG-4''] playthrough video
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Cooperative video games]]
+[[Category:Shoot 'em ups]]
+[[Category:Video games developed in the United States]]

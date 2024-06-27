@@ -1,0 +1,47 @@
+Amegas
+Permalink: //en.wikipedia.org/w/index.php?title=Amegas&oldid=1224476512
+Accessed on: 2024-06-26T17:01:33.022590
+
+
+
+------
+Amegas
+{{one source|date=July 2010}}
+{{Infobox video game
+| title = 
+| collapsible = 
+| state = 
+| image = Amegas Cover.jpg
+| caption = 
+| developer = Guido Bartels
+| publisher = [[reLINE Software]]
+| series = 
+| engine = 
+| released = [[1987 in video gaming|1987]]
+| genre = 
+| modes = 
+| platforms = [[Amiga]]
+}}
+
+'''Amegas''' is a [[Video game clone|clone]] of ''[[Arkanoid]]'' written by Guido Bartels for the [[Amiga]] and published by [[reLINE Software]] in 1987. In Australia the game was published by [[Ozisoft]].<ref>{{cite web|first=Phil|last=Campbell|url=https://www.newspapers.com/clip/90171158/the-sydney-morning-herald/|title=The simple games in life are so often the best!|newspaper=[[The Sydney Morning Herald]]|page=17|date=April 18, 1988|accessdate=December 7, 2021|via=[[Newspapers.com]]}}</ref>
+
+==Gameplay==
+The player controls a paddle, situated at the bottom of the screen.  The paddle can only be moved horizontally, and is used to stop the ball leaving the bottom of the screen.  Should the ball leave the bottom of the screen, the player loses a life, and the ball is reset on the paddle.  Every time the ball hits a brick, the brick disappears.  When the player has destroyed all the bricks in a round, he or she will progress to the next round, and a new wall of bricks will be produced.  The patterns the bricks are laid out in varies from round to round.  Sometimes, upon the ball colliding with a brick, the brick will fall and can be collected by the paddle to produce a bonus for the player.  The bonus the player receives depends upon the color of the brick which has fallen.
+
+The game varies from its inspiration, [[Arkanoid]], in a couple of ways.  Firstly, the screen is much larger, and on most levels, there are a significantly increased number of bricks to destroy.  Secondly, the bricks do not fall randomly; a small black dot on a brick denotes that it will fall if hit by the ball.
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{abime|id=3258}}
+*[https://archive.org/details/info-magazine-20/page/n11/mode/2up Review] in [[.info (magazine)|Info]]
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Amiga-only games]]
+[[Category:Breakout clones]]
+[[Category:Video games developed in Germany]]
+
+
+{{paddle-videogame-stub}}

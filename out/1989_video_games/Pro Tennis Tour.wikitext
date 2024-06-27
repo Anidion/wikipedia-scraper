@@ -1,0 +1,75 @@
+Pro Tennis Tour
+Permalink: //en.wikipedia.org/w/index.php?title=Pro_Tennis_Tour&oldid=1224582913
+Accessed on: 2024-06-26T17:07:06.918835
+
+
+
+------
+Pro Tennis Tour
+{{Short description|1989 video game}}
+{{use dmy dates|date=June 2023}}
+{{For|the 1993 video game|Jimmy Connors Pro Tennis Tour}}
+{{Infobox video game
+| title         = Pro Tennis Tour
+| image         = Pro Tennis Tour cover.jpg
+| developer     = [[Blue Byte]]<ref name="ASM"/><br>ESP (C64)<ref name="Z64-2"/>
+| publisher     = [[Ubi Soft]]
+| producer      = 
+| designer      = 
+| programmer    = 
+| artist        = 
+| writer        = 
+| composer      = 
+| engine        = 
+| series        = 
+| platforms     = [[Amiga]], [[Atari ST]], [[MS-DOS]], [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]]
+| released      = 1989<ref name="gamedisk">{{cite journal |title=Game disk 1 (Atari ST) |journal=Great Courts |url=https://www.mobygames.com/game/12590/pro-tennis-tour/cover/group-97987/cover-267220/ |publisher=[[Ubi Soft]] |quote=© 1989 UBI Soft ™}}</ref>
+| genre         = [[Sports game|Sports]]
+| modes         = [[Single-player]], [[multiplayer]]
+}}
+
+'''''Pro Tennis Tour''''' (known in Germany and France as '''''Great Courts'''''<ref name="ASM"/><ref name="ACE"/>) is a 1989 [[sports video game]] developed by [[Blue Byte]] and published by [[Ubi Soft]] for the [[Amiga]], [[Atari ST]] and [[MS-DOS]]. [[8-bit]] ports for the [[Amstrad CPC]], [[Commodore 64]], and [[ZX Spectrum]] were released later. [[Electronic Arts]] distributed the game in North America.<ref name="amigaworld"/> A sequel, ''[[Pro Tennis Tour 2]]'', was released in 1991.
+
+==Gameplay==
+The game offers a pseudo three-dimensional view of the court. The joystick or keyboard controls the movement. Shots are played by pressing the fire button and releasing it to hit the ball. Positioning is important, since the player character can't be moved while swinging. A crosshair appears on the ground when the opponent hits the ball, to mark where to hit the ball. The crosshair can be switched off in higher [[Difficulty level|difficulties]].  Tournament play is the main part of the game. The player begins ranked 64th and plays computer-controlled opponents in succession. Tournaments have different surfaces: grass at [[Wimbledon Championships|Wimbledon]], clay at the [[French Open]], cement at the [[Australian Open]] and the [[US Open (tennis)|US Open]]. In practice mode, skills can be worked on against computer-controlled opponents or the ball machine. In two-player mode, the foreground views are alternated between the players after a round is over.<ref name="ACE"/><ref name="amigaworld"/>
+
+==Reception==
+{{Video game reviews
+| ACE = 900/1000 (Amiga)<ref name="ACE">{{cite magazine |last1=Scotford |first1=Laurence |title=Screentest - Pro Tennis Tour |journal=[[ACE (magazine)|ACE]] |date=March 1990 |issue=30 |page=52 |url=https://archive.org/details/ace-magazine-30/page/n51/mode/2up |publisher=[[EMAP]]}}</ref><br>850/1000 (DOS)<ref name="ACE"/>
+| ASM = 41/60 (Amiga)<ref name="ASM">{{cite magazine |last1=Suck |first1=Michael |title=Sport-Kaleidoskop - Auf Heiligem Rasen |journal=[[Aktueller Software Markt]] |date=October 1989 |volume=4 |issue=10 |page=103 |url=https://retrocdn.net/images/7/78/ASM_DE_1989-10.pdf#page=103 |publisher=Tronic-Verlag |language=German |quote=Animation: 10/12, Sound: 8/12, Realitätsnähe: 7/12, Spaß/Spannung: 8/12, Preis/Leistung: 8/12}}</ref>
+| YSinclair = 85% (ZX)<ref name="yoursinclair">{{cite magazine |title=Reviews - Pro Tennis Tour |journal=[[Your Sinclair]] |date=February 1990 |issue=50 |page=44 |url=https://archive.org/details/your-sinclair-50/page/n43/mode/2up |publisher=[[Dennis Publishing]]}}</ref>
+| Z64 = 88% (Amiga)<ref name="Z64-1">{{cite magazine |last1=King |first1=Phil |last2=Wynne |first2=Stuart |title=Test - Pro Tennis Tour [Amiga] |journal=[[Zzap!64]] |date=November 1989 |issue=55 |page=74 |url=https://archive.org/details/zzap64-magazine-055/page/n73/mode/2up |publisher=[[Newsfield Publications Ltd]]}}</ref><br>82% (C64)<ref name="Z64-2">{{cite magazine |last1=King |first1=Phil |last2=Scorelord |title=Test - Pro Tennis Tour [C64] |journal=[[Zzap!64]] |date=May 1990 |issue=61 |page=72 |url=https://archive.org/details/zzap64-magazine-061/page/n71/mode/2up |publisher=[[Newsfield Publications Ltd]]}}</ref>
+| rev1 = ''{{ill|Amstar (magazine)|lt=Amstar Informatique|fr}}''
+| rev1Score = 16/20 (CPC)<ref name="amstar">{{cite magazine |title=Amstrad - Pro Tennis |journal=Amstar Informatique |date=January 1991 |issue=53 |page=25 |url=https://www.abandonware-magazines.org/affiche_mag.php?mag=24&num=13605 |language=French}}</ref>
+| rev2 = ''[[The One (magazine)|The One]]''
+| rev2Score = 83% (ST)<ref name="one">{{cite magazine |last1=Brennan |first1=Ciarán |title=Review - Pro Tennis Tour |journal=[[The One (magazine)|The One]] |date=November 1989 |issue=14 |pages=79–80 |url=https://archive.org/details/theone-magazine-14/page/n77/mode/2up |publisher=[[EMAP]]}}</ref>
+}}
+''[[ACE (magazine)|ACE]]'' said "What really makes this particular tennis simulation stand out is attention to detail." and "This is easily the best tennis simulation to date [...]"<ref name="ACE"/> ''[[Zzap!64]]'' noted that "[t]he difficulty of hitting the ball is disconcerting at first, but once mastered the novel hitting technique works really well." The game was summarized as "[u]ndoubtedly the best tennis sim yet."<ref name="Z64-1"/> ''Zzap!64'' also reviewed the Commodore 64 port: "This is a really good conversion [...], retaining the Amiga game's simple playability and featuring some very good, large player sprites. The game plays almost identically to the original with a high speed of play that makes hitting the ball a difficult task at first."<ref name="Z64-2"/> ''[[Amiga World]]'' concluded: "While its graphics are gorgeous and the sound very life-like, Pro Tennis Tour is below the usual quality of the Electronic Arts sports line. Sit out this match."<ref name="amigaworld">{{cite magazine |last1=Teverbaugh |first1=Rick |title=Game Preserve - Pro Tennis Tour |journal=[[Amiga World]] |date=April 1990 |issue=43 |pages=74–76 |url=https://archive.org/details/amiga-world-1990-04/page/n75/mode/2up |publisher=[[IDG Publishing]]}}</ref> ''{{ill|Amstar (magazine)|lt=Amstar Informatique|fr}}'' called the game "a must have".<ref name="amstar"/> ''[[Your Sinclair]]'' called the game "The best tennis sim on the Speccy so far."<ref name="yoursinclair"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/12590/pro-tennis-tour}}
+*{{abime|id=1159}}
+*{{atarimania|id=21213}}
+*[https://www.lemon64.com/game/pro-tennis-tour ''Pro Tennis Tour''] at Lemon64
+*[https://spectrumcomputing.co.uk/entry/3891/ZX-Spectrum/Pro_Tennis_Tour ''Pro Tennis Tour''] at Spectrum Computing
+
+{{Ubisoft Blue Byte}}
+
+[[Category:1989 video games]]
+[[Category:Blue Byte games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Tennis video games]]
+[[Category:Ubisoft games]]
+[[Category:Video games developed in Germany]]
+[[Category:Video games set in Australia]]
+[[Category:Video games set in London]]
+[[Category:Video games set in New York City]]
+[[Category:Video games set in Paris]]
+[[Category:ZX Spectrum games]]

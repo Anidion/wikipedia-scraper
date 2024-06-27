@@ -1,0 +1,43 @@
+DND (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=DND_%28video_game%29&oldid=1211539631
+Accessed on: 2024-06-26T16:47:43.697382
+
+
+
+------
+DND (video game)
+{{short description|1977 video game}}
+{{About|DND|the Gary Whisenhunt and Ray Wood video game|dnd (1975 video game)}}
+{{Infobox video game
+| title = DND
+| image = 
+| caption = 
+| genre = [[Role-playing video game]]
+| released = 1977
+| platforms = [[PDP-10]]
+| developer = Daniel M. Lawrence
+}}
+
+'''''DND''''' is a [[role-playing video game]]s developed by [[Purdue University]] student Daniel Lawrence in 1977 for the [[Digital Equipment Corporation]] (DEC) [[PDP-10]] [[mainframe computer]]. The name ''DND'' is derived from the abbreviation "D&D" from the original [[tabletop role-playing game]] ''[[Dungeons & Dragons]]''. It was later ported to several other computer systems and languages. After Lawrence re-used code from the game in the 1982 role-playing game ''[[Telengard]]'', DEC ordered ''DND'' be removed from their computers to avoid litigation by ''Telengard''{{'}}s publisher. ''DND'' was one of the earliest role-playing video games, as part of a set of games developed in the 1970s based on the 1974 ''Dungeons & Dragons''.
+
+==Development==
+''DND'' was written in [[BASIC]] for the [[TOPS-10]] time-share operating system by Daniel Lawrence, a student at [[Purdue University]], for the [[Digital Equipment Corporation]] [[PDP-10]] [[mainframe computer]] and released around 1977.<ref name="DNDhistory">[https://web.archive.org/web/20070704062317/http://dnd.lunaticsworld.com/ dnd.lunaticsworld.com] (archived)</ref><ref>[http://crpgaddict.blogspot.de/2015/03/game-180-dnd-1984.html Game 180: DND (1984)] (March 18, 2015)</ref><ref name="DnD44">{{cite book |title=Dungeons and Desktops: The History of Computer Role-Playing Games |edition=2nd |last1=Barton |first1=Matt |last2=Stacks |first2=Shane |date=2019 |publisher=[[CRC Press]] |isbn=978-1-138-57464-9 |page=44}}</ref> It was one of several freeware games based on ''[[Dungeons & Dragons]]'' in the 1970s.<ref name="DnD44"/> Later the game found its way to [[Digital Equipment Corporation|DEC]] and was there rewritten in 1983 to [[Pascal (programming language)|Pascal]].<ref>[https://www.facebook.com/notes/jim-burrows/the-story-of-the-dnd-ban-at-dec/10150195644192850/ the-story-of-the-dnd-ban-at-dec] by jim-burrows</ref><ref>[http://www.digital-eel.com/files/dndpage_files/classic_mainframe_games.htm mainframe games] on digital eel</ref>
+
+==Legacy==
+''DND'' was one of the earliest [[role-playing video game]]s, which began to appear around 1975, and like ''DND'' were largely based on ''Dungeons & Dragons'' (1974).<ref name="DnD44"/> Lawrence re-used some of the code for the game for the 1982 role-playing game ''[[Telengard]]''.<ref name="barton">{{cite web|url=http://www.armchairarcade.com/neo/node/1366|title=Interview with Daniel M. Lawrence, CRPG Pioneer and Author of ''Telengard''|publisher=Armchair Arcade, Inc|date=June 22, 2007|author=Barton, Matt|access-date=April 16, 2016|archive-url=https://web.archive.org/web/20120213225551/http://www.armchairarcade.com/neo/node/1366|archive-date=February 13, 2012|url-status=dead}}</ref> This led to DEC ordering ''DND'' to be removed from all DEC computers in September 1983 to avoid litigation from ''Telengard''{{'}}s publisher, [[Avalon Hill]].<ref name="DnD44"/> Due to the BASIC [[source code]] availability, the game was later ported and adapted to newer systems and [[programming language]]s.<ref name="DNDhistory"/> One such port was to [[MS-DOS]] in 1984 by R.O. Software, which sold the game under a US$25 [[shareware]] license without first seeking permission from Avalon Hill or Lawrence.<ref name="DnD44"/>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{official webpage|http://www.aquest.com/telen.htm|Webpage of the game's author}}
+* {{official webpage|https://web.archive.org/web/20070704062317/http://dnd.lunaticsworld.com/|Official webpage as declared by the game's author}}<ref>[http://www.aquest.com/telen.htm Telengard] by Daniel Lawrence {{cite web|title=''The Unofficial DND Home Page at dnd.lunaticsworld.com|url=http://dnd.lunaticsworld.com/|url-status=dead|archive-url=https://web.archive.org/web/20070704062317/http://dnd.lunaticsworld.com/|archive-date=2007-07-04|access-date=2007-07-04}} A very detailed history of the game. BTW, since I can, I am declaring their site The Official DND Home Page!''"''</ref>
+
+{{Dungeons & Dragons video games}}
+
+[[Category:1977 video games]]
+[[Category:BASIC software]]
+[[Category:Dungeons & Dragons video games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with available source code]]

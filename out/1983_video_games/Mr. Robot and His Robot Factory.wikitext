@@ -1,0 +1,67 @@
+Mr. Robot and His Robot Factory
+Permalink: //en.wikipedia.org/w/index.php?title=Mr._Robot_and_His_Robot_Factory&oldid=1224635993
+Accessed on: 2024-06-26T16:55:25.576919
+
+
+
+------
+Mr. Robot and His Robot Factory
+{{Short description|1983 video game}}
+{{Infobox video game
+|title = Mr. Robot and His Robot Factory
+|image = Mr._Robot_and_His_Robot_Factory_Cover_Art.jpg
+|caption = 
+|designer = Ron Rosen<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+|programmer = Ron Rosen (Atari)<br>Robert McNally (Apple)
+|publisher = [[Datamost]]
+|composer = Gary Gilbertson
+|released = 1983
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit computers|Atari 8-bit]], [[Apple II]], [[Commodore 64]]
+}}
+
+'''''Mr. Robot and His Robot Factory''''' is a [[platform game]] created for [[Atari 8-bit computers]] by Ron Rosen and published in 1983 by [[Datamost]]. The music was composed by Gary Gilbertson using Philip Price's ''Advanced Music Processor'', while the title screen was drawn by Art Huff.<ref>{{cite podcast |last1=Evans |first1=Sean |last2=Bolton |first2=Syd |title=Episode 9: Mr. Robot and His Robot Factory |website=Lost Treasures of Gaming |date=2015-09-10 |publisher=OMGNexus.com |time=9:21-9:38 |url=http://omgnexus.com/2015/09/episode-9-mr-robot-and-his-robot-factory/ |access-date=2018-11-21}}</ref> It was ported to the [[Apple II]] by Robert McNally<ref name=giantlist/> and to the [[Commodore 64]].
+
+The gameplay is similar to that of ''[[Miner 2049er]]'' (1982).<ref name=video/> The player controls a humanoid robot that must traverse all of the platforms in a factory filled with ladders, conveyor belts, and other gadgetry. There are 22 levels, plus a built-in level editor.
+
+==Gameplay==
+[[File:MrRobot ingame.png|left|thumb|An explosive level (Atari 8-bit)]]
+[[File:Mr. Robot Screenshot.png|left|thumb|Commodore 64 version]]
+The robot is moved with either the keyboard or a joystick, and can make it walk side to side, climb up and down, and jump, collecting the white power pills from the platforms in the process. The player begins with four robots, and loses one if it falls too much or touches any of the fireball enemies. When one of the pulsing white rings scattered around the level is collected, the robot becomes temporarily invulnerable and can safely touch the fireballs, destroying them.
+
+In each level the player begins with 100 units of energy and loses units at a rate of about one per second, making quick completion of each level important. When the energy runs out, the player loses a robot.
+
+Points are granted in 10 point increments as the robot advances through the level. Collecting a ring earns 100 points, as does collecting the small musical note at the beginning of the level that turns off the game's sound effects. Dispatching a fireball is worth 500 points. Completing a level earns 100 points per unit of energy remaining on the screen.
+
+Later levels include bombs and magnets. There are a total of 22 levels, not counting the 26 customized levels.
+
+==Reception==
+''Mr. Robot and His Robot Factory'' was reviewed by ''[[Video (magazine)|Video]]'' magazine in its "Arcade Alley" column where it was compared to ''Miner 2049er'' and described as "sufficiently different [...] to represent an enthralling new test of skill". The reviewers praised the efforts of programmer Ron Rosen, noting that "the programming skill evidenced in the preparation of ''Mr. Robot'' is awesome" and concluding "what this game lacks in stark originality, it more than makes up for with polish".<ref name=video>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= March 1984 |title= Arcade Alley: We Still Want Action |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 12|page= 23|issn= 0147-8907}}</ref>
+
+In 1984 it received a positive review in the German magazine ''Happy Computer''.<ref>Mr. Robot and his Robot Factory review in Happy Computer 04/1984, p. 137, ISSN 0344-8843 [https://archive.org/details/Happy.Computer.N06.1984.04-Cartman/page/n135 here] (german)</ref>
+
+==See also==
+Other games by Ron Rosen:
+*''[[Pacific Coast Highway (video game)|Pacific Coast Highway]]''
+*''[[Rosen's Brigade]]''
+*''[[Nuclear Nick]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=3575}}
+* {{Lemon64 game|id=1738}}
+
+{{DEFAULTSORT:Mister Robot and His Robot Factory}}
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Datamost games]]
+[[Category:Platformers]]
+[[Category:Video games about robots]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

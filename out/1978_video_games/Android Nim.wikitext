@@ -1,0 +1,64 @@
+Android Nim
+Permalink: //en.wikipedia.org/w/index.php?title=Android_Nim&oldid=1194517341
+Accessed on: 2024-06-26T16:47:50.136634
+
+
+
+------
+Android Nim
+{{short description|1978 video game}}
+{{more citations needed|date=October 2017}}
+
+{{Infobox video game
+| title = Android Nim
+| image = Android Nim (Cover).jpg
+| programmer = Leo Christopherson (TRS)<br>Don Dennis (PET)
+| publisher = 80-NW Publishing
+| released = '''1978:''' TRS-80<br>'''July 1979:''' PET<br>'''1980:''' Apple II
+| genre = Strategy
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Apple II]], [[Commodore PET|PET]], [[TRS-80]]
+| caption = 
+| alt = Intro screen of the PET version of Android Nim
+}}
+
+'''''Android Nim''''' is a computerized version of the strategy game [[Nim]] programmed by Leo Christopherson for the [[TRS-80]] and published in 1978 by 80-NW Publishing. A port to the [[Commodore PET]] by Don Dennis was released in July 1979, followed by an [[Apple II]] version in 1980.
+
+''Android Nim'' is played versus the computer. The stones or other objects of traditional Nim are replaced by androids; their animation was considered impressive in 1978.<ref>{{cite journal|last1=Crawford|first1=Chris|title=A Grain of Sand, A Gust of Wind|journal=The Journal of Computer Game Design|volume=5|url=http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-5/a-grain-of-sand-a-gust-of.html}}</ref>
+
+==Gameplay==
+The object of the game is to remove the last [[android (robot)|android]] from three rows of androids. The game's premise is simple, but its animation is impressive given the limitations of the TRS-80's display. Throughout the game androids are animated to face different directions, as if bored or engaging in conversation with one another.
+{{thumb|content=[[File:Android Nim Commodore PET.png|200px]]|align=left|caption=Intro screen}}
+The game starts with three rows of androids which contain 7, 5, and 3 androids respectively. An [[animation|animated]] android asks the player if they would like to go first. The player chooses a row and types in how many droids to remove. An animated droid at the head of the row then nods its head and raises a gun and the other androids turn to look at the selected row. The specified number of androids are then zapped with a [[laser]] beam. It is then the computer's turn—with similar effect—and play continues until the last android is removed.
+
+If the human wins, the computer is an amusingly poor sport and displays astonishment; if it wins, the computer displays a huge "I WIN!". If the computer is about to lose, it pretends to seek futile ways to avoid losing (i.e., by selecting more androids than are available in a given row) before giving up.
+{{clear}}
+
+==Reception==
+The game was reviewed in ''[[Dragon (magazine)|The Dragon]]'' #44 by Mark Herro. Herro stated, "if you want a good 'demo' program or just a little light entertainment — I think you could do worse than to try out this game. I like ''Android Nim''."<ref name="Dragon44">{{cite journal
+|title=The Electric Eye
+|author=Herro, Mark
+|journal=The Dragon
+|issue=44
+|date=December 1980
+|pages=86–87}}</ref>
+
+==References==
+<references />
+
+==External links==
+* [https://www.youtube.com/watch?v=osPYppC33OI PET gameplay video] at [[YouTube]]
+* [https://web.archive.org/web/20071214214026/http://www.leochristopherson.com/android_nim.htm Windows version] by Leo Christopherson
+*[https://archive.org/details/80-U.S._Volume_II_Number_3_1979-05_80-NW_Publishing_US/page/n21/mode/2up review]
+*[https://archive.org/details/creativecomputing-1981-10/page/n51/mode/2up Review] in [[Creative Computing]]
+*[https://archive.org/details/80-microcomputing-magazine-1980-02/page/n59/mode/2up Review] in [[80 Micro]]
+*[https://archive.org/details/80-microcomputing-magazine-1980-02/page/n97/mode/2up Review] in [[80 Micro]]
+
+[[Category:1978 video games]]
+[[Category:Apple II games]]
+[[Category:Commodore PET games]]
+[[Category:SoftSide games]]
+[[Category:TRS-80 games]]
+[[Category:Public-domain software with source code]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,79 @@
+Dark Side (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dark_Side_%28video_game%29&oldid=1224503068
+Accessed on: 2024-06-26T17:03:59.221104
+
+
+
+------
+Dark Side (video game)
+{{Infobox video game
+|title = Dark Side
+|image = Dark-side-inlay.jpg
+|caption =
+|developer = Major Developments
+|publisher = [[Incentive Software]]
+|designer = Sean Ellis<br>Chris Andrew<br>Ian Andrew<br>Paul Gregory 
+|engine = [[Freescape]]
+|released = 1988
+|genre = [[First-person shooter]]<ref>{{cite web|url=https://www.allgame.com/game.php?id=29349|title=Dark Side|archive-url=https://web.archive.org/web/20140101010101/https://www.allgame.com/game.php?id=29349|archive-date=2014-01-01|url-status=dead|website=[[All Media Network#AllGame|AllGame]]}}</ref>
+|modes = [[Single-player]]
+|platforms = [[Amiga]], [[Atari ST]], [[Amstrad CPC]], [[Commodore 64]], [[IBM PC]], [[ZX Spectrum]]
+}}
+
+'''''Dark Side''''' is a 1988 [[video game]] published by [[Incentive Software]] for the [[Amiga]], [[Atari ST]], [[Amstrad CPC]], [[Commodore 64]], [[IBM PC compatible]]s, [[ZX Spectrum]], and [[Sharp MZ|Sharp MZ-800]]. The game is a sequel to ''[[Driller (video game)|Driller]]'', set in the Evath system but this time on Evath's second moon Tricuspid.
+
+==Plot==
+[[Image:Dark-side-title.gif|thumb|Intro screen (IBM PC)]]
+
+The game is set on the alien moon Tricuspid orbiting the planet Evath. Terrorists (the Ketars, the villains of the previous game ''[[Driller (video game)|Driller]]'') hijacked the moon's facilities and built Zephyr One, an immense beam weapon on the moon's dark side with the purpose of destroying Evath. The player is a government agent, sent secretly to the moon's surface with the mission of deactivating the weapon before it becomes fully charged. This is accomplished by destroying a power network in the form of ECD (Energy Collection Device) columns, dotted around the moon and connected with power lines all the way to the beam weapon.
+
+==Gameplay==
+[[Image:DarkSide-Ecd-column.gif|thumb|left|An Energy Collection Device column. To destroy the ECD, the player needs to shoot the top part of the column.]]
+
+To complete the mission, the player has an arsenal of beam weapons mounted on a jetpack-equipped pressure suit. The aim is to destroy all ECDs in a specific order and avoid capture or death by the traps left by the terrorists. ECDs are connected to power lines and can only be destroyed when all preceding ECDs have been deactivated, otherwise they will instantly regenerate.  The player has a limited amount of time available to complete the game, based on the energy accumulated in Zephyr One. When the weapon is fully charged, the beam is fired, destroying Evath, and the game ends. As the player destroys ECDs, the charge accumulation rate is reduced, allowing more time for the player to complete the mission.
+
+The game's environment is displayed in [[First person (video games)|first person view]] with the player seeing the world through the suit's helmet. A targeting crosshair displayed in the helmet's [[HUD (video gaming)|HUD]] allows the player to fire the suit's weapon at specific locations. The player can move in all directions by walking or activating the jetpack. The suit is powered by an energy source that is depleted with every movement and it is allocated between "shields" and "fuel". When the shield's charge is depleted, the player is vulnerable to enemy fire and simply bumping into walls can end the game. Fuel is vital for horizontal and vertical movement and the game ends as soon as it is depleted. There are a number of "recharge" points (in the form of columns) hidden in the game where the player can replenish the suit's energy supply. There are also a number of energy conversion devices that allow the player to transform shield energy to fuel and vice versa.
+
+===Enemies===
+A number of enemies exist in the game in the form of tanks and flying turrets. Their purpose is to slow down the player and deplete the energy resources of the suit. Most enemies can be dealt quickly without causing much damage, however the flying turrets tend to appear more often when the player is running out of energy.
+
+==Development==
+''Dark Side'' was the second game to use the [[Freescape]] engine, which allowed the production of full three-dimensional environments using filled polygons in which the player could move around freely. It also gave the player the ability to look up and down,<ref>{{cite web|title=Dark Side Manual at ''Lemon Amiga''|url=http://www.lemonamiga.com/games/docs.php?id=427|accessdate=2 November 2011}}</ref> as well as rotate left and right, something which was rare amongst 3D games of the time. The same engine was used for ''[[Total Eclipse (1988 video game)|Total Eclipse]]'', ''The Sphinx Jinx'', ''[[Castle Master]]'' and ''Castle Master II: The Crypt''.
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Your Sinclair''
+| award3 = Megagame 
+| award4Pub = ''Amstrad Action''
+| award4 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 34, July 1988</ref>
+}}
+The [[ZX Spectrum]] version of ''Dark Side'' was awarded 9/10 by ''Sinclair User''.<ref name=sinclairuser>[http://www.ysrnry.co.uk/articles/thedarkside.htm Sinclair User review] {{webarchive|url=https://web.archive.org/web/20080514030704/http://www.ysrnry.co.uk/articles/thedarkside.htm |date=2008-05-14 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{lemon64 game|id=633|name=Dark Side}}
+*{{atarimania|id=9072}}
+*{{abime|id=275}}
+
+{{Incentive Software}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:First-person shooters]]
+[[Category:Freescape games]]
+[[Category:Incentive Software games]]
+[[Category:ScummVM-supported games]]
+[[Category:Sharp MZ games]]
+[[Category:Single-player video games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

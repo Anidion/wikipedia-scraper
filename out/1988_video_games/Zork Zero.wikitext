@@ -1,0 +1,103 @@
+Zork Zero
+Permalink: //en.wikipedia.org/w/index.php?title=Zork_Zero&oldid=1188654723
+Accessed on: 2024-06-26T17:05:28.028315
+
+
+
+------
+Zork Zero
+{{Short description|1988 text adventure game}}{{Infobox video game
+|title = Zork Zero
+|image = Zork Zero Coverart.png
+|caption = Cover art
+|developer = [[Infocom]]
+|publisher = Infocom
+|designer = [[Steve Meretzky]]
+|artist= James Shook
+|engine = [[Z-machine|Z-code]] version 6
+|released = Mac: October 19, 1988<br>Amiga: March 23, 1989<br>Apple II: June 2, 1989<br>DOS: July 14, 1989
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Apple II]], [[DOS]], [[Macintosh]]
+}}
+
+'''''Zork Zero: The Revenge of Megaboz''''' is an [[interactive fiction]] [[computer game]], written by [[Steve Meretzky]] over nearly 18 months<ref name="TSL">{{cite journal | title=Zork Zero takes you back to the beginning |journal=The Status Line |volume=VII |issue=3 |date=Fall 1988 |pages=1, 6 |publisher=Infocom |url=http://infodoc.plover.net/nzt/NZT7.3.pdf}}</ref> and published by [[Infocom]] in 1988.<ref name="TSL" /> Although it is the ninth and last ''[[Zork]]'' game released by Infocom before the company's closure, ''Zork Zero'' takes place before the previous eight games (''[[Zork I]]'', ''[[Zork II]]'', ''[[Zork III]]'', ''[[Enchanter (video game)|Enchanter]]'', ''[[Sorcerer (video game)|Sorcerer]]'', ''[[Wishbringer]]'', ''[[Spellbreaker]]'' and ''[[Beyond Zork]]''). Unlike its predecessors, ''Zork Zero'' is a vast game, featuring a [[graphical user interface|graphical interface]] with scene-based colors and borders, an interactive map, menus, an in-game hints system, an interactive Encyclopedia Frobozzica, and playable graphical [[mini-game]]s. The graphics were created by computer artist James Shook.<ref name="TSL" /> It is Infocom's thirty-second game.
+
+Previous games by Infocom used a parser evolved from the one in ''Zork I'', but for ''Zork Zero'', they designed a new [[LALR parser]] from scratch.<ref name="TSL81">{{cite journal |first=Stu|last=Galley |title=PARSER ?? |journal=The Status Line |volume=VIII |issue=1 |date=Spring 1989 |pages=2 |publisher=Infocom |url=http://infodoc.plover.net/nzt/NZT8.1.pdf}}</ref> ''Zork Zero'''s parser has some innovative features. If it notices if a player is having trouble with it, it offers helpful suggestions, such as sample commands.<ref name="TSL81" />
+
+Three of the four graphical mini-games are based on older logic puzzles. Peggleboz is a version of [[peg solitaire]], Snarfem is [[Nim]], and the Tower of Bozbar is [[Towers of Hanoi]]. Other puzzles based on established logic puzzle types include a [[river-crossing puzzle]] with a fox, a rooster, and a worm, and a [[Knights and Knaves]] puzzle in which violently xenophobic Veritassi and Prevaricons are truth-tellers and liars respectively, and peaceful Wishyfoo are alternators.
+
+==Plot==
+Lord Dimwit Flathead the Excessive certainly earned his nickname. Never one to do things on a small scale, when Dimwit decided in 789 GUE to have a statue erected in his honor, it ''had'' to be the largest statue ever. This angered a local resident of Fublio Valley (where the statue was built), Megaboz the Magnificent, who cast a deadly curse over Dimwit, the royal family, and the entire Empire before disappearing. The king's conjurers employed their most powerful magic in an effort to counteract the curse, but they were unable to save Dimwit and his eleven siblings; they only managed to delay the kingdom's destruction temporarily.
+
+[[File:Zork Zero gameplay introduction.png|thumb|right|''Zork Zero'' prelude (in Windows Frotz interpreter). The compass rose at the top highlights available exits. Some room descriptions had icons, also used in dynamic maps.]]
+The game begins with a brief prelude in which the player is a humble servant in Lord Dimwit's [[scullery (room)|scullery]]. Present when Megaboz appears and casts his fateful curse, the player manages to grab a small piece of parchment left behind in the chaos.
+
+94 years later, the strength of the counter-curse is rapidly fading. If the curse can't be lifted by Curse Day, the anniversary of Dimwit's death, the Empire will surely fall. The reigning monarch, Wurb Flathead, has sent out a call in desperation: anyone who can save the Empire will be given half its riches! Predictably, this results in an avalanche of crackpot treasure seekers, none of whom have any more luck than did the royal sorcerers.
+
+As the game begins in earnest, it is Mumberbur 14: Curse Day. The erstwhile curse-breakers have fled, along with everyone else in Flathead Castle. The player, a descendant of the servant from the prelude, awakes on the floor of the castle armed only with the scrap of parchment. The only other person around is the court's jester, who alternately helps and opposes the player in the quest to lift the curse.
+
+Two items belonging to each of the "accursed twelve" (that is, Dimwit Flathead and his eleven siblings) must be placed into the cauldron and the magic word must be spoken. The game revolves around gathering these twenty-four objects and discovering the magic word. To accomplish this, the player will play the legendary game of Double Fanucci, travel to every corner of the Empire, solve a collection of riddles and logic puzzles, and visit the enormous statue that started all this trouble. There are even visits to locations such as the top of the world, and under the world (from which the player can fall). [[Flamingos]], magic, bottomless pits and a unique sense of humor all feature along the way.
+
+What happens when the curse is finally lifted is the game's final surprise. If you leave the castle and pass the perimeter wall, you arrive at the opening scene of [[Zork 1]].
+
+==Feelies==
+Like most other Infocom games, ''Zork Zero'' comes with [[feelie]]s: a printed calendar titled "The Flathead Calendar 883" with portraits and biographies of the Twelve Flatheads (also usable as a 1989 calendar,{{refn|group=note|Also usable as a 2023, 2034, or 2045 calendar.{{update after|2024|1|1}}}} folded blueprints with a yellow [[Post-it note]] attached, and a scrap of parchment. Since completing the game requires information revealed only in these feelies, they serve to discourage [[Copy protection|unauthorized copying]].
+
+==Double Fanucci==
+[[File:Zork Zero Double Fanucci.png|thumb|right|''Zork Zero'' Double Fanucci mini-game (in Windows Frotz interpreter) in progress.]]
+''Zork Zero'' includes a mini-game to play Double Fanucci against the jester. Double Fanucci is a fictional card game mentioned throughout the Zork series. As the in-game Encyclopedia Frobozzica describes it,
+
+{{quote|Legend has it that Double Fanucci (or Fannucci) was invented by the deposed Zilbo III in the late seventh century. A game of tremendous complexity and almost infinite rules, King Mumberthrax proclaimed it the national sport of the Empire in 757 GUE. The annual Double Fanucci Championships, held in Borphee during early autumn, frequently leave thousands homeless.}}
+
+It is immensely complicated, parodying card games with complex rules in a manner similar to [[List of games in Star Trek#Fizzbin|Fizzbin]] or [[Mornington Crescent (game)|Mornington Crescent]].
+
+As played in ''Zork Zero'',{{refn|group=note|Many other rule sets are implied: "We'll be playing according to Revised Miznian Rules, Seventh-Level Amendments, with these exceptions: no side-handling after an underfunded discard, two draws after a Skybreaker, and an extra muttonation if the conditions of Rule 17.4.1.B are met. Oh, also all the house rules adopted by the Fanucci Casino Rebuilding Act of 817."}} cards appear in 15 numbered suits (Books, Bugs, Ears, Faces, Fromps, Hives, Inkblots, Lamps, Mazes, Plungers, Rain, Scythes, Time, Tops and Zurfs) with ranks from 0 (called "Naught"), 1 ("Singled"), 2 ("Doubled"), 3 ("Trebled"), up to 9, and infinity ("Infinite"). There are nine additional cards, like [[Major Arcana]] or "Trumps" in [[Tarot]], which are unranked: Granola, the Lobster, the Snail, the Jester, Time, Light, Beauty, Death, and the [[Grue (monster)|Grue]].{{refn|group=note|Other suits and ranks are mentioned in {{cite journal | title=Kob on Double Fanucci |journal=The Status Line |volume=V |issue=3 |date=Summer 1986 |page=8 |publisher=Infocom |url=http://infodoc.plover.net/nzt/NZT5.3.pdf}} The article recounts the fictional 904 annual championships at Borphee. That game used Scythes, Books, Zurfs, Fromps, and three other suits identified only by symbol, and included such cards as the 77 of Fromps, the Q of Fromps, the Black of Zurfs, and the Hydronium Ion of Books. For the 72nd year in a row, the tournament ended without a clear winner, but fans nevertheless swept onto the field for a traditional eating of the goalposts.}} It is possible to get four copies of the same card in a four-card hand.
+
+To win the Double Fanucci mini-game, the player must use an unbeatable strategy mentioned only in the calendar feelie's biography of Babe Flathead.
+
+{{quote|Try as he might, Babe could not master Double Fanucci. Even the unexplained disappearance of the 339 leading Double Fanucci players failed to get Babe into the championships. Fanucci experts believe that Babe's difficulty with the game could be traced to one weakness: his failure to remember that three undertrumps after an opponent's discard of a Trebled Fromp is an indefensible gambit.}}
+
+Otherwise, the mini-game will continue until when the score of the player or the jester exceeds 1241 points, but "by Rules Committee Amendment #493, the game is suspended and must be replayed in its entirety, except during a Frotz Moon or in a six-player game where at least three of the players are of Mithican ancestry."
+
+Double Fanucci cards were featured prominently in the browser-based game ''[[Legends of Zork]]'', drawn by artist Greg Brown and colored by Jim "Zubby" Zubkavich.<ref>{{cite web
+|first=Jim |last=Zubkavich |title=Zork- Fanucci Suit Icons |work=Zub's Art Refuge |date=April 6, 2009 |access-date=September 3, 2010 |url=http://jimzub.blogspot.com/2009/04/zork-fanuci-suit-icons.html}}</ref><ref>{{cite web |first=Greg |last=Brown |title=Double Fanucci Face-Cards |work=The Cornflake Box |date=April 7, 2009 |access-date=September 3, 2010 |url=http://cornflakebox.blogspot.com/2009/04/double-fanucci-face-cards.html |url-status=dead |archive-url=https://web.archive.org/web/20110708031854/http://cornflakebox.blogspot.com/2009/04/double-fanucci-face-cards.html |archive-date=July 8, 2011 }}</ref> Dave Howell has created a [https://www.thegamecrafter.com/games/deluxe-fanucci-deck physical deck] of "Deluxe" Fanucci cards<ref>{{cite web |first=Dave |last=Howell |title=The Fanucci Deck |access-date=March 2, 2011 |url=http://howell.seattle.wa.us/games/Fanucci/}}</ref> along with some other (playable) games to go with them.
+
+==Reception==
+[[Dave Arneson]] gave ''Zork Zero'' a favorable review in ''[[Computer Gaming World]]'', calling it the best of the series to date. He praised the in-game map and help system,<ref name = "CGW">{{Cite magazine | date = Jan 1989 | last = Arneson | first = Dave | author-link=Dave Arneson | magazine = [[Computer Gaming World]] | title = When Is A Zero Not A Zero? | pages = 24–25 }}</ref> and later described the game as superior to Infocom's ''[[James Clavell's Shōgun]]''.<ref name="arneson198008">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1989&pub=2&id=62 | author-link=Dave Arneson | author=Arneson, Dave | title=Shōgun | magazine=Computer Gaming World | date=August 1989 | access-date=4 November 2013 | pages=12–13}}</ref>
+
+==Reviews==
+*''[[Games (magazine)|Games]]'' #97<ref>{{cite web | url=https://archive.org/details/games-magazine-97/page/n53/mode/2up | title=GAMES Magazine #97 | date=April 1989 }}</ref>
+
+==Notes==
+{{reflist|group=note}}
+''Zork Zero'' was also included in the 1991 collection ''[[The Lost Treasures of Infocom]]'', and in the 1996 collection ''[[Classic Text Adventure Masterpieces of Infocom]]'', released by [[Activision]] under the Infocom brand.
+
+The jester in Zork Zero will sometimes say ''So long, and thanks for all the fish'', a reference to ''[[The Hitchhiker's Guide to the Galaxy]]'', which was also adapted as an [[The Hitchhiker's Guide to the Galaxy (video game)|eponymous Infocom video game]].
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{moby game|id=/zork-zero-the-revenge-of-megaboz|name=''Zork Zero: The Revenge of Megaboz''}}
+* [https://web.archive.org/web/20160308212302/http://vaxdungeon.com/infocom/zork0.asp ''Zork Zero'' information and overview (archived)]
+* [https://archive.org/details/InfocomCabinetZorkZero Infocom Cabinet: Zork Zero]
+* {{IFDB|id=17coplfu323xif76}}
+
+{{Infocom games}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1988 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Classic Mac OS games]]
+[[Category:DOS games]]
+[[Category:Fantasy video games]]
+[[Category:Games commercially released with DOSBox]]
+[[Category:Infocom games]]
+[[Category:Single-player video games]]
+[[Category:Steve Meretzky games]]
+[[Category:Video game prequels]]
+[[Category:Video games developed in the United States]]
+[[Category:Zork]]

@@ -1,0 +1,61 @@
+Brain Breaker
+Permalink: //en.wikipedia.org/w/index.php?title=Brain_Breaker&oldid=1230335296
+Accessed on: 2024-06-26T16:58:10.188107
+
+
+
+------
+Brain Breaker
+{{Short description|Sharp X1 action-adventure game}}
+{{Infobox video game
+|image = Brain Breaker.jpg
+|caption = Cover art by Shintaro Majima
+|developer = Hiroshi Ishikawa
+|publisher = [[Enix]]
+|released = {{vgrelease|JP|November 1985<ref name="LOGiN">{{cite magazine | author=''LOGiN'' staff | date=December 1985 | title=ブレインブレイカースー パーリアリズムロールプレイン グ ゲー | trans-title=''Brain Breaker'': Super Realism Role-Playing Game | url=https://archive.org/details/logi-n-december-1985-raw-scans/LOGiN%20-%20December%201985/page/73/mode/1up | magazine=[[:ja:ログイン (雑誌)|LOGiN]] | publisher=[[ASCII Media Works]] | language=ja | page=73}}</ref>}}
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Sharp X1]]
+}}
+{{nihongo|'''''Brain Breaker'''''|ブレインブレイカー}} is an [[action-adventure game|action-adventure]]/[[platform game]] released for the [[Sharp X1]] exclusively in Japan by [[Enix]] in November 1985. The game follows protagonist Sayaka, who [[emergency landing|crash lands]] and becomes trapped on an alien planet by a rogue, computer defense system. The game is a [[side-scrolling video game|side-scroller]] taking place in a large, interconnected world and requires the player to acquire ability-expanding items to progress.
+
+''Brain Breaker'' was created by Hiroshi Ishikawa, who had previously programmed the Enix-published X1 title ''[[Kagirinaki Tatakai]]''. Development on ''Brain Breaker'' took substantially more time and [[computer memory]] than Ishikawa's last title. ''Brain Breaker'' is now considered an early example within the [[Metroidvania]] genre. The game earned praise for its isolated setting and lonely atmosphere.
+
+==Gameplay==
+[[File:BrainBreakerGameplay.jpg|thumb|left|The player rides elevators to reach portions of the world. Various commands are displayed at the bottom of the screen.]]
+''Brain Breaker'' is a [[side-scrolling video game|side-scrolling]], [[action-adventure game|action-adventure]]/[[platform game]]. The player takes on the role of female protagonist Sayaka, whose spaceship Zeppelin [[emergency landing|crash lands]] on a mysterious and seemingly uninhabited alien planet that is in fact controlled by a computer defense system gone rogue.<ref name="Oh!MZ">{{cite magazine | author=''Oh!'' staff | date=February 1986 | title=The Softouch ブレインブレイカー| trans-title=The Softouch: ''Brain Breaker''| url=https://archive.org/details/OhMZOhx19861989/Oh%21MZ_1986-02/page/n28/mode/2up | magazine=[[:ja:Oh!X|Oh!MZ]] | publisher=[[SB Creative]] | language=ja | pages=27–8}}</ref> Starting with no possessions other than a radio, the player must find more equipment and items in order to disable the computer and escape.<ref name="HCG101">{{cite web | author=Szczepaniak, John | date=September 4, 2010 | title=''Brain Breaker'' | url=http://www.hardcoregaming101.net/brainbreaker/bbreaker.htm | archive-url=https://web.archive.org/web/20170827000806/http://www.hardcoregaming101.net/brainbreaker/bbreaker.htm | archive-date=August 27, 2017 | website=[[Hardcore Gaming 101]] | accessdate=May 18, 2024}}</ref>
+
+At the beginning of the game, the player can do little but run, jump, and contact Sayaka's ship for clues. Buildings can be explored and elevators can be ridden to access different levels. By exploring the planet, they will find new items that will expand their abilities, such as a laser rifle, a [[jet pack]], wall-melting [[psychic]] powers, and the eponymous Brain Breaker, which [[Electromagnetic pulse|disables]] electronic devices. The player can jump or the jet pack with the up-key; attack with the space bar; pick up and drop items with the Z-key; and use special options with the F-keys including calling one's ship with an ASK command and creating a [[saved game|save state]] at the current position.<ref name="HCG101"/>
+
+==Development==
+''Brain Breaker'' was created by programmer Hiroshi Ishikawa, who was just 18 years old at the time of its release.<ref name="Oh!MZ"/> He started programming games on a [[VIC-20|VIC-1001]] and purchased a [[Sharp X1]] as a freshman in high school in May 1983. Ishikawa wrote his first commercial product ''[[Kagirinaki Tatakai]]'' in a single month and it a won a contest held by publisher [[Enix]]. After converting the game to the [[PC-8800 series|PC-8801]], he went back to the X1 and started working on ''Brain Breaker'' in the spring of 1984. Built in [[assembly language]] and using the X1's full 64KB of [[random access memory|RAM]], it took Ishikawa over 18 months and 20 times the amount of code as ''Kagirinaki Tatakai''. He completed ''Brain Breaker'' by November 1985 just before he took his [[National Center Test for University Admissions|college entrance exam]]s.<ref name="interview">{{cite web|author=Szczepaniak, John | date=September 4, 2010 | url=https://hg101.kontek.net/ishikawa/ishikawa.htm|archive-url=https://web.archive.org/web/20240322080201/https://hg101.kontek.net/ishikawa/ishikawa.htm | archive-date=March 22, 2024| title=Professor Hiroshi Ishikawa 石川 博 | website=[[Hardcore Gaming 101]]| accessdate=April 21, 2024}}</ref> The game was released in Japan late that same month.<ref name="LOGiN"/>
+
+Enix once again signed on as the game's publisher. Its package was illustrated by [[:ja:眞島真太郎|Shintaro Majima]], who had contributed art to other Enix titles including ''[[List of Enix home computer games|Savior]]'', ''[[List of Enix home computer games|Phalanx]]'', ''[[The Earth Fighter Rayieza]]'', and the [[Nintendo Entertainment System|Famicom]] version of ''[[The Portopia Serial Murder Case]]''.<ref>{{cite magazine | author=Enix Editorial Department | date=January 1986 | title=地球戦士「ライーザ」大特集! プレゼント付だぜ! | trans-title=Special Feature on ''The Earth Fighter Rayieza''! Present Included! | url=https://archive.org/details/Io19861/page/n489/mode/1up | magazine=[[:ja:I/O (雑誌)|I/O]] | publisher=[[:ja:工学社|Kogakusha]] | language=ja | volume=11 | issue=1 | page=488}}</ref> The background music in ''Brain Breaker'' is a rendition of "[[Union of the Snake]]" by [[Duran Duran]].<ref name="LOGiN"/><ref name="Oh!MZ"/> Ishikawa is a self-professed fan of the group along with many other musical acts. The game's title is shared with a song by Japanese metal band Dementia while the game's mothership takes part of the name of the rock band [[Led Zeppelin]]. ''Kagirinaki Tatakai'' itself is a Japanese translation of the Led Zeppelin track "[[The Battle of Evermore]]". However, Ishikawa has implied that this was all coincidence.<ref name="interview"/> After the release of ''Brain Breaker'', he stopped programming for two years before doing the [[MSX]] port of ''[[Kid Niki: Radical Ninja|Kaiketsu Yanchamaru]]''. He then left the gaming industry to teach [[natural science]] as a university professor.<ref name="interview"/>
+
+==Reception and legacy==
+The February 1986 issue of Japan's ''[[:ja:Oh!X|Oh!MZ]]'' labeled ''Brain Breaker'' as an [[action role-playing game]] with a unique feel. The magazine lauded the game's depiction of a chaotic, futuristic setting; its sense of scale; and its cold, lonely atmosphere complimented by its strange background music.<ref name="Oh!MZ"/> In more recent years, the gameplay structure has been reinterpreted as an early example of a [[Metroidvania]] that predates both of the genre's namesakes ''[[Metroid]]'' and ''[[Castlevania]]''.<ref>{{cite magazine|author=Szczepaniak, John | date=December 2011 |title=Backtracking: The History of Metroidvania|magazine=[[GamesTM]]|issue=116|publisher=[[Imagine Publishing]]|page=152|issn=1478-5889}}</ref><ref>{{cite magazine | author=Barros, Alexei | date=2015 | title=''Metroid'' | url=https://archive.org/details/revista-oldgamer-21/Revista%20Oldgamer%2028/page/n18/mode/1up | magazine=[[:pt:OLD!Gamer|OLD!Gamer]] | publisher=[[:pt:Editora Europa|Editora Europa]] | language=pt | issue=28 | page=19 | isbn=978-85-7960-310-5}}</ref><ref>{{cite magazine | author1=Siemens, Sönke | author2=Plass-Flessenkämper, Bekedikt | author3=Lohmüller, Sascha | date=August 2021 | title=Als die Spiele hüpfen lernten: Die Evolution des Platforming-Genres | trans-title=When Games Learned to Jump: The Evolution of the Platforming Genre | url=https://archive.org/details/play5-play5-germany-magazine-202012-202202/2021/play5_0821/page/88/mode/1up | magazine=[[:de:play 5|play 5]] | publisher=[[Computec]] | language=de | page=88 | issn=2199-451X}}</ref><ref>{{cite magazine | author=Tiersma, Jurjen | date=December 2022 | title=Games Die Genres Werden | trans-title=Games That Became Genres | url=https://archive.org/details/338_20231030/341/page/63/mode/1up | magazine=[[Power Unlimited]] | publisher=Reshift Digital | language=Dutch | issue=341 | page=63 | issn=0929-760X}}</ref> Like ''Oh!MZ'',  John Szczepaniak of ''[[Hardcore Gaming 101]]'' praised its "haunting sense of loneliness" aiding by its music, likening the feeling to the game ''[[Damocles (video game)|Damocles]]''. He stated, "Structurally it plays like an [[overworld]] version of ''Metroid'' crossed with ''[[Elevator Action]]'' and maybe ''[[Impossible Mission]]'' - though in terms of mechanics it's considerably more complex than all of these." Szczepaniak went on to praise it for containing obfuscated progression design found in titles like ''[[Legacy of the Wizard]]'' and ''[[Castlevania II: Simon's Quest]]'', challenging the player in ways most modern games fail to do.<ref name="HCG101"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MobyGames|/brain-breaker}}
+* [https://www.giantbomb.com/brain-breaker/3030-13733/ ''Brain Breaker''] at [[Giant Bomb]]
+
+[[Category:1985 video games]]
+[[Category:Action-adventure games]]
+[[Category:Enix games]]
+[[Category:Japan-exclusive video games]]
+[[Category:Metroidvania games]]
+[[Category:Platformers]]
+[[Category:Post-apocalyptic video games]]
+[[Category:Science fiction video games]]
+[[Category:Side-scrolling video games]]
+[[Category:Sharp X1 games]]
+[[Category:Sharp X1-only games]]
+[[Category:Video games about artificial intelligence]]
+[[Category:Video games about psychic powers]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games featuring female protagonists]]
+[[Category:Video games set on fictional planets]]
+[[Category:Single-player video games]]

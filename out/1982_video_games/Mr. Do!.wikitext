@@ -1,0 +1,109 @@
+Mr. Do!
+Permalink: //en.wikipedia.org/w/index.php?title=Mr._Do%21&oldid=1224483197
+Accessed on: 2024-06-26T16:53:44.141607
+
+
+
+------
+Mr. Do!
+{{Infobox video game
+| title = Mr. Do!
+| image = Mr do arcade.png
+| caption = North American arcade flyer
+| developer = [[Universal Entertainment|Universal]]
+| publisher = {{vgrelease|WW|Universal|JP|[[Taito]]<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=15 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n16}}</ref>}}
+| designer = Kazutoshi Ueda
+| platforms = [[Arcade video game|Arcade]], [[Apple II]], [[Atari 2600]], [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]], [[Game Boy]], [[Game Boy Color]], [[MSX]], [[Super Nintendo Entertainment System|Super NES]], [[Tomy Tutor]]
+| released = {{vgrelease|JP|September 1982|NA|December 1982|EU|Late 1982<ref>{{cite web |title=Video Game Flyers: Mr. Do! (EU) |url=https://flyers.arcade-museum.com/?page=flyer&db=videodb&id=6456&image=1 |website=The Arcade Flyer Archive |access-date=25 April 2021}}</ref>}}
+| genre = [[Maze video game|Maze]]
+| series = ''Mr. Do!''
+| modes = [[Single-player]]
+}}
+
+{{nihongo foot|'''''Mr. Do!'''''|ミスタードゥ|Misutā Du|lead=yes|group=lower-alpha}} is a 1982 [[maze video game]] developed by [[Universal Entertainment|Universal]]. It is the first [[arcade video game]] to be released as a [[Arcade conversion|conversion kit]] for other cabinets; [[Taito]] published the conversion kit in Japan. The game was inspired by Namco's ''[[Dig Dug]]'' released earlier in 1982. ''Mr. Do!'' was a commercial success in Japan and North America, selling 30,000 arcade units in the US, and it was followed by several arcade sequels.
+
+==Gameplay==
+{{More citations needed|section|date=August 2021}}
+The object of ''Mr. Do!'' is to score as many points as possible by digging tunnels through the ground and collecting cherries. The title character, Mr. Do (a circus clown—except for the original Japanese version of the game, in which he is a snowman), is constantly chased by red dinosaur-like monsters called creeps,<ref>{{cite magazine|title=Mr. Do!: The Do Dude Returns |magazine=[[Electronic Gaming Monthly]]|issue=88 |publisher=[[Ziff Davis]]|date=November 1996 |page=252}}</ref> and the player loses a life if Mr. Do is caught by one. The game ends when the last life is lost.
+
+[[Image:Mrdo.png|thumb|left|Mr. Do collecting cherries while avoiding creeps]]
+
+Cherries are distributed throughout the level in groups of eight, and collecting all the cherries in one group without a pause awards bonus points. A level is complete either when all cherries are removed, all creeps are destroyed, "EXTRA" is spelled, or a diamond is found.
+
+Mr. Do can defeat creeps by hitting them with his bouncing "power ball" or by dropping large apples on them. While the power ball is bouncing toward a creep, Mr. Do is defenseless. If the ball bounces into an area where there are no creeps to hit (such as behind a fallen apple), Mr. Do cannot use it again until he has retrieved it. When the power ball hits a creep, it then reforms in Mr. Do's hands after a delay that increases with each use.
+
+Mr. Do or the creeps can push an apple off the edge of a vertical tunnel and crush one or more creeps. If an apple falls more than its own height, it breaks and disappears. Mr. Do can also be crushed by a falling apple, causing a loss of life.
+
+Occasionally, the creeps transform briefly into more powerful multicolored monsters that can tunnel through the ground. If one of these digs through a cherry, it leaves fewer cherries for Mr. Do to collect. When it digs under an apple, it often crushes itself, other creeps, and/or Mr. Do.
+
+As the game progresses, a display at the top of the screen cycles through the letters in the word EXTRA. Every time the player's score reaches a multiple of 5,000 points, the highlighted letter enters the playfield as an Alphamonster, which can be defeated in the same manner as a creep. Defeating the Alphamonster awards its letter; collecting all five letters ends the level, plays a cut scene accompanied by the theme to ''[[Astro Boy]]'', and awards the player an extra life. Alphamonsters attempt to eat any apples they encounter, which makes them difficult to crush.
+
+The creeps spawn at the center of the screen. After they have all appeared, the generator will turn into a food item; picking this up scores bonus points, freezes all the creeps, and calls out an Alphamonster (if one is not already on the field) and three large blue monsters. The latter can eat apples as well. The creeps stay frozen until the player either defeats all three blue monsters, defeats the Alphamonster (in which case any remaining blue monsters are turned into apples), loses a life, or completes the stage.
+
+Rarely, dropping an apple reveals a diamond which, if collected, completes the level and awards a bonus credit to the player.
+
+==Development==
+{{Expand section|date=August 2020}}
+''Mr. Do!'' was created by Kazutoshi Ueda.<ref name="G34">{{cite magazine|last=Mitsuji|first=Fukio|author-link=Fukio Mitsuji|url=https://archive.org/stream/gamest0034#page/n74/mode/2up|title=コーナー - 水谷潤のゲームデザイナー入門 5|magazine=[[Gamest]]|issue=34|publisher=[[Shinseisha]]|date=July 1989|pages=70–72|lang=ja}} ([http://shmuplations.com/mtjdesign/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20191230190344/http://shmuplations.com/mtjdesign/|date=2019-12-30}}).</ref><ref name="AKIBAPCH!1">{{cite web|last=Masuda|first=Atsushi|url=https://akiba-pc.watch.impress.co.jp/docs/column/masudaretro/1103437.html|title=『Mr.Do!』の生みの親、上田和敏氏に開発秘話を聞く！～『Mr.Do!』対談編 前編～|work=AKIBA PC Hotline!|publisher=Impress Corporation|date=3 January 2018|access-date=2020-08-23|language=ja|archive-url=https://web.archive.org/web/20191208160038/https://akiba-pc.watch.impress.co.jp/docs/column/masudaretro/1103437.html|archive-date=2019-12-08|url-status=live}} ([https://sourcegaming.info/2020/01/14/mrdo/ Translation] by Source Gaming. {{Webarchive|url=https://web.archive.org/web/20200823201055/https://sourcegaming.info/2020/01/14/mrdo/|date=2020-08-23}}).</ref><ref name="AKIBAPCH!2">{{cite web|last=Masuda|first=Atsushi|url=https://akiba-pc.watch.impress.co.jp/docs/column/masudaretro/1104739.html|title=『Mr.Do!』の制作がきっかけで開発者の上田和敏氏はユニバーサルを退社!？ ～『Mr.Do!』対談編 中編～|work=AKIBA PC Hotline!|publisher=Impress Corporation|date=6 February 2018|access-date=2020-08-23|language=ja|archive-url=https://web.archive.org/web/20191209024353/https://akiba-pc.watch.impress.co.jp/docs/column/masudaretro/1104739.html|archive-date=2019-12-09|url-status=live}}</ref><ref name="AKIBAPCH!3">{{cite web|last=Masuda|first=Atsushi|url=https://akiba-pc.watch.impress.co.jp/docs/column/masudaretro/1105816.html|title=『Mr.Do』から『スターフォース』、『ギャラクシーウォーズ』まで……開発者の上田和敏氏が語る裏話～『Mr.Do!』対談編 後編～|work=AKIBA PC Hotline!|publisher=Impress Corporation|date=13 February 2018|access-date=2020-08-23|language=ja|archive-url=https://web.archive.org/web/20190513165342/https://akiba-pc.watch.impress.co.jp/docs/column/masudaretro/1105816.html|archive-date=2019-05-13|url-status=live}}</ref> It was inspired by the gameplay in Namco's ''[[Dig Dug]]'' game, similar to how many of Universal's other games took license from other companies' more successful games, e.g. ''[[Lady Bug (video game)|Lady Bug]]'' (also designed by Ueda) being similar to ''[[Pac-Man]]''. The idea for the power ball came from Mr. Ueda observing a [[Super Ball]] stuck on the roof of a home near the Universal office in Japan.
+
+==Ports==
+''Mr. Do!'' was ported to the [[Atari 2600]], [[Atari 8-bit computers]], [[ColecoVision]], [[Apple II]], [[MSX]], [[Neo Geo]], [[Tomy Tutor]], and [[Commodore 64]]. A handheld [[Liquid crystal display|LCD]] version was released by [[Tomy]] in 1983.
+
+In the ColecoVision adaptation, the Alphamonster and sidekicks are unable to eat apples, making them easier to crush, but the blue monsters eat the shrubbery and cherries. Also, if an Alphamonster is over a letter that has already been acquired, the dinosaur monsters just freeze for a few seconds.
+
+The Apple II and Atari 8-bit computer versions were released in May 1985.<ref name="CE1985">{{cite magazine |title=1985 Index |magazine=[[Computer Entertainer]] |date=January 1986 |volume=4 |issue=10 |page=6 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf#page=6}}</ref>
+
+==Reception==
+{{expand section|date=September 2012}}
+
+In Japan, ''Mr. Do!'' was one of the top ten highest-grossing [[1982 in video games|arcade games of 1982]], on the annual ''[[:ja:ゲームマシン|Game Machine]]'' chart.<ref>{{cite magazine|title="Pole Position" No. 1 Video Game: ''Game Machine''{{'}}s "The Year's Best Three AM Machines" Survey Results|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=207|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 March 1983|page=30|url=https://onitama.tv/gamemachine/pdf/19830301p.pdf#page=16}}</ref> ''Game Machine'' later listed ''Mr. Do!'' on their June 15, 1983 issue as being the 21st highest-earning [[table arcade cabinet]] of the month.<ref>{{cite magazine|date=15 June 1983|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|url=https://archive.org/details/game-machine-magazine-19830615p/page/n13/mode/2up|magazine=Game Machine|publisher=Amusement Press|issue=214|page=27|lang=ja}}</ref>
+
+The arcade game was also a commercial success in North America, where it became the best-selling conversion kit up until 1984,<ref>{{cite magazine |title=1984—Even Orwell Couldn't Predict How Bad It Was |magazine=[[Play Meter]] |date=December 1984 |volume=10 |issue=23 |pages=23–8 |url=https://archive.org/details/play-meter-volume-10-number-23-december-15th-1984/Play%20Meter%20-%20Volume%2010%2C%20Number%2023%20-%20December%2015th%201984/page/23}}</ref> selling approximately 30,000 arcade units in the United States.<ref name="Kent">{{citation|title=[[The ultimate history of video games: from Pong to Pokémon and beyond: the story behind the craze that touched our lives and changed the world]]|authorlink=Steve L. Kent|first=Steven L.|last=Kent|publisher=[[Prima Games|Prima]]|year=2001|isbn=0-7615-3643-4|page=352|quote=In 1982, Universal Sales made arcade history with a game called ''Mr Do!'' Instead of selling dedicated ''Mr Do!'' machines, Universal sold the game as a kit. The kit came with a customized control panel, a computer board with ''Mr Do!'' read-only memory (ROM) chips, stickers that could be placed on the side of stand-up arcade machines for art, and a plastic marquee. It was the first game ever sold as a conversion only. According to former Universal Sales western regional sales manager Joe Morici, the company sold approximately 30000 copies of the game in the United States alone.}}</ref> On the ''[[Play Meter]]'' arcade charts, it topped the street locations chart in May 1983.<ref name="May">{{cite magazine |title=Play Meter's Equipment Poll: Top Videos |magazine=[[Play Meter]] |date=May 1, 1983 |volume=9 |issue=8 |page=16 |url=https://archive.org/details/play-meter-volume-9-number-8-may-1st-1983-600dpi/Play%20Meter%20-%20Volume%209%2C%20Number%208%20-%20May%201st%2C%201983%20%28Compressed%29/page/16/mode/1up}}</ref><ref>{{cite magazine |title=The Top 12 Arcade Games: May 15, 1983 |magazine=Video Games |date=July 1983 |volume=1 |issue=10 |page=82 |url=https://archive.org/details/Video_Games_Volume_1_Number_10_1983-07_Pumpkin_Press_US/page/n81}}</ref> On the ''RePlay'' arcade charts, it topped the software conversion kit charts for five months in 1983, in June<ref>{{cite magazine |title=RePlay: The Players' Choice |magazine=RePlay |date=June 1983}}</ref> and then from August<ref>{{cite magazine |title=RePlay: The Players' Choice |magazine=RePlay |date=August 1983}}</ref><ref>{{cite magazine |title=RePlay: The Players' Choice |magazine=RePlay |date=September 1983}}</ref> through November.<ref>{{cite magazine |title=RePlay: The Players' Choice |magazine=RePlay |date=October 1983}}</ref><ref>{{cite magazine |title=RePlay: The Players' Choice |magazine=RePlay |date=November 1983}}</ref> It was among the thirteen highest-earning [[1983 in video games|arcade games of 1983]] in the United States, according to the Amusement & Music Operators Association (AMOA).<ref>{{cite magazine |title=AMOA Votes On Annual Game Awards |magazine=[[Cash Box]] |date=October 29, 1983 |page=60 |url=https://archive.org/details/cashbox45unse_20/page/68}}</ref>
+
+''[[Computer and Video Games]]'' magazine gave the arcade original a positive review, stating that it "takes the best from" ''Dig Dug'' and said that improves on it.<ref>{{cite journal |title=Have a Ball Down Below: Mr Do |journal=[[Computer and Video Games]] |date=16 February 1983 |issue=17 (March 1983) |page=31 |url=https://www.solvalou.com/arcade/reviews/174/232}}</ref> ''Computer and Video Games'' later rated the ColecoVision version 81% and [[Atari VCS]] version 77% in 1989.<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref> ''Computer Games'' magazine gave the ColecoVision and [[Coleco Adam]] conversions a B+ rating in 1985.<ref name="CG1985">{{cite magazine |title=1985 Software Buyer's Guide |magazine=Computer Games |date=February 1985 |volume=3 |issue=5 |publisher=Carnegie Publications |location=United States |pages=11–8, 51–8 |url=https://archive.org/details/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US/page/n13/mode/2up}}</ref>
+
+''[[Famicom Tsūshin]]'' awarded the Super Famicom version of the game 25 out of 40.<ref>{{cite magazine|title=NEW GAMES CROSS REVIEW: Mr. Do!|magazine=Weekly Famicom Tsūshin|issue=341|date=30 June 1995|page=29}}</ref> The four reviewers of ''[[Electronic Gaming Monthly]]'' gave it 4.875 out of 10. All but Dan Hsu felt that ''Mr. Do!'' has fun gameplay, but they criticized the lack of enhancements to what was by then over a decade old game, and recommended that players only get it if it were released at significantly less than the normal retail price for an SNES cartridge.<ref>{{cite magazine|date=November 1996|title=Review Crew: Mr. Do!|url=https://retrocdn.net/images/8/89/EGM_US_088.pdf|magazine=[[Electronic Gaming Monthly]]|publisher=[[Ziff Davis]]|issue=88|page=90}}</ref> Their later feature on 16-bit games reported that, contrary to their hopes, the game was priced at over $50.<ref>{{cite magazine|date=December 1996|title=16-Bit's Last Stand|url=https://retrocdn.net/images/9/9e/EGM_US_089.pdf|magazine=[[Electronic Gaming Monthly]]|publisher=[[Ziff Davis]]|issue=89|page=188}}</ref> In 1995, [[Flux (magazine)|Flux]] magazine ranked the arcade version  67th on their "Top 100 Video Games".<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=31}}</ref>
+
+==Legacy==
+''Mr. Do!'' was followed by three sequels: ''[[Mr. Do's Castle]]'' in 1983, ''[[Mr. Do's Wild Ride]]'', and ''[[Do! Run Run]]'' both in 1984. An expanded 99-level version of ''Mr. Do!'' was released in arcades by Electrocoin in 1988.<ref>{{cite magazine|first=Lacey|last=Eugene|title=Arcade Action: Mr Do|magazine=[[Computer and Video Games]]|issue=87 (January 1989)|date=16 December 1988|edition=1st|publisher=Terry Pratt|page=127|url=https://www.solvalou.com/arcade/reviews/32/232}}</ref>
+
+''Neo Mr. Do!'', was developed by [[Visco Corporation|Visco]] and licensed by Universal for [[SNK]]'s [[Neo Geo (console)|Neo Geo]] system in 1997.<ref>{{cite web|url=http://www.neo-geo.com/reviews/neo-reviews/neomrdo/neomrdo.html|title=Neo Mr. Do! Review|publisher=neo-geo.com|access-date=2008-05-09}}</ref> ''Mr. Do!'' was adapted to Nintendo's [[Game Boy]] and [[Super Nintendo Entertainment System|Super NES]] with some new gameplay features. A [[rebranded]] adaptation of the game was released for the [[Game Boy Color]] in 1999 as ''Quest: Fantasy Challenge'' (''Holy Magic Century'' in Europe). It was developed by [[Imagineer (Japanese company)|Imagineer]].
+
+The arcade version was released for the [[Wii]] [[Virtual Console]] in Japan on April 27, 2010.<ref>[http://vc.nintendolife.com/news/2010/03/japanese_virtual_console_list_april_2010 Virtual Console releases April 2010]</ref>
+
+===Impact===
+''Mr. Do!'' is credited as the first arcade game to be released as a [[Arcade conversion|conversion kit]].<ref name="Kent"/><ref>{{cite magazine |title=Cover Story: "This Is the Good Time" – Capcom's CPS system brings success to the firm... and offers direction for a troubled video market |magazine=RePlay |date=April 1990 |volume=15 |issue=7 |publisher=RePlay Publishing |pages=183–5 |url=https://archive.org/details/re-play-volume-14-issue-no.-7-april-1990-600dpi/RePlay%20-%20Volume%2014%2C%20Issue%20No.%207%20-%20April%201990/page/183}}</ref> Multiple clones of ''Mr. Do!'' were released for home systems, including ''[[Magic Meanies]]'' (ZX Spectrum), ''Henri'' (Atari 8-bit),<ref>{{cite web |title=Henri |url=http://www.atarimania.com/game-atari-400-800-xl-xe-henri_2432.html |website=Atari Mania}}</ref> ''[[Fruity Frank]]'' (Amstrad CPC, MSX),  ''[[Mr. Dig]]'' (TRS-80 Color Computer, Atari 8-bit).<ref>{{cite web |last1=Boyle |first1=L. Curtis |title=Mr. Dig |url=http://www.lcurtisboyle.com/nitros9/mrdig.html |website=Tandy Color Computer Games}}</ref> and Mr Ee for the BBC Micro.
+
+The game's creator Kazutoshi Ueda went on to work at [[Tehkan]] (now Tecmo) and then became a co-founder of [[Atlus]], where he worked on the ''[[Megami Tensei]]'' series. Ueda's work at Universal, particularly ''Mr. Do!'', inspired the game design style of Tehkan's Michitaka Tsuruta, who went on to create ''[[Guzzler]]'' (1983), ''[[Bomb Jack]]'' (1984), ''[[Solomon's Key]]'' (1986), and the ''[[Captain Tsubasa]]'' game series.<ref>{{cite news |last1=Szczepaniak |first1=John |title=Michitaka Tsuruta - a history of Tecmo and classic platform-puzzlers |url=https://www.gamasutra.com/blogs/JohnSzczepaniak/20150610/245663/Michitaka_Tsuruta__a_history_of_Tecmo_and_classic_platformpuzzlers.php |access-date=26 April 2021 |work=[[Gamasutra]] |date=June 10, 2015}}</ref>
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=8767}}
+
+{{Mr. Do}}
+
+[[Category:Mr. Do!| ]]
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Apple II games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:MSX games]]
+[[Category:Game Boy games]]
+[[Category:Game Boy Color games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:X68000 games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games about clowns]]
+[[Category:Video games developed in Japan]]
+[[Category:Virtual Console games]]
+[[Category:Universal Entertainment games]]
+[[Category:Single-player video games]]
+[[Category:Taito arcade games]]

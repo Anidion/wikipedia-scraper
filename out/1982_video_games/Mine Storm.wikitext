@@ -1,0 +1,49 @@
+Mine Storm
+Permalink: //en.wikipedia.org/w/index.php?title=Mine_Storm&oldid=1224260497
+Accessed on: 2024-06-26T16:53:42.111040
+
+
+
+------
+Mine Storm
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Mine Storm
+| image = Mine Storm cover.jpg
+| developer = 
+| publisher = General Consumer Electronics
+| programmer = John Hall<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+| platforms = [[Vectrex]]
+| released = <!-- {{Video game release|| {{Start date|}} }} -->1982
+| genre = [[Multidirectional shooter]]
+}}
+'''''Mine Storm''''' (also written as '''''MineStorm''''') is a [[multidirectional shooter]] similar to [[Atari, Inc.]]'s 1979 ''[[Asteroids (game)|Asteroids]]'' arcade game. Designed and programmed by John Hall,<ref name="giantlist"/> it was published in 1982 by General Consumer Electronics as the [[pack-in game|built-in game]]<ref name="clark198212">{{cite news | url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n93/mode/2up | title=The Vectrex Arcade System | work=BYTE | date=December 1982 | accessdate=19 October 2013 | author=Clark, Pamela | pages=92–93}}</ref> for the [[Vectrex]] system. Although not provided on a physical cartridge, a Mine Storm screen overlay and manual were included with each system to support the built-in game.
+
+==Gameplay==
+Mine Storm's gameplay is very similar to that of Atari's ''[[Asteroids (game)|Asteroids]]''.{{r|ahl1983spring}} The game begins with an ominous musical jingle, as a large enemy mine-layer ship moves from the top to the bottom of the screen, dropping mines onto the field (which appear as randomly scattered dots), and then disappears. The player's ship starts in the middle of the field with 5 lives. As game play commences, four mines pop up, growing out of the stationary dots on the field and begin drifting about. As each floating mine is destroyed, two smaller mine pops up to replace it, and then two even smaller, requiring seven hits to completely eliminate a mine-type. Mines are destroyed with one shot, and the player must destroy all mines in order to progress to the next minefield. If the player's ship collides with a mine (or is hit by a flying projectile) it not only costs the player a life, but the level is restarted with all mines restored. A bonus life is rewarded each time 4 fields are cleared.
+
+There are 4 types of mines, and each visually different: Floating Mines (1st level) simply drift, Fireballs Mines (2nd level) shoot back a fireball when destroyed, Magnetic Mines (3rd level) follow and attempt to collide with the player's ship, and Magnetic Fireball Mines (4th level) both follow and shot a fireball back when destroyed. In later levels two different mine types appear on the play field simultaneously. The player can use the 'escape' button to teleport to a random area of the screen, or 'Thrust' to move the ship, and the joystick to rotate left or right, 360 degrees. When nearly all of the mines are cleared, the enemy mine-layer ship reappears as a small saucer that zig-zags and drops new mines, unless immediately shot and destroyed. The game supports two players, with each taking a separate turn, and dual point scoring displayed on screen.
+
+==Mine Storm II and 3D==
+The original version that was built-in to the Vectrex system inadvertently included a bug causing the game to crash on the thirteenth level. Players who called GCE ([[Milton Bradley Company|Milton Bradley]] in the UK) and reported the bug received a ''MineStorm II'' cartridge free of charge in the mail.<ref name="MinestormCrash">{{cite web |url=http://classicgaming.gamespy.com/View.php?view=ConsoleMuseum.Detail&id=20&game=12 |title=Vectrex - 1982-1984 - Classic Gaming |accessdate=2009-10-30 |publisher=Classic Gaming |url-status=dead |archiveurl=https://web.archive.org/web/20091017091430/http://classicgaming.gamespy.com/View.php?view=ConsoleMuseum.Detail&id=20&game=12 |archivedate=2009-10-17 }}</ref> Only a few people did this, making the game extremely rare.<ref>[http://www.rarityguide.com/vectrex_view.php GCE Vectrex Rarity Guide]</ref> The game and its coding was identical to the original, apart from removal of the bug (the bug-fix update was only distributed on physical cartridge due to technological limitations of the period). Later factory releases of the Vectrex shipped with the bug-fix version built-in.
+
+The following year, ''3D Mine Storm''–a modified version of the game, was released as a pack-in cartridge with 3D imager headset. While game play remained relatively the same as its predecessor, mines appeared visually different (primarily to showcase the 3D effect) and sound-effects differed as well. In this version, the enemy ship drops all mines pre-expanded and on screen at once, rather than scattered dots. 3D Mine Storm was one of only three original games for the system that supported the 3D headset accessory.
+
+==Reception==
+''MineStorm'' was reviewed in 1982 by ''[[Video (magazine)|Video]]'' in its "Arcade Alley" column, where it was described as "a fast-moving contest, more than slightly similar to ''Asteroids''".<ref name=kunkel>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= October 1982 |title= Arcade Alley: The First Portable Video Game System |journal= Video| publisher= Reese Communications|volume= 6|issue= 7|pages= 32, 118–120|issn= 0147-8907}}</ref> [[David H. Ahl]] of ''[[Creative Computing]] Video & Arcade Games'' praised the controls' "excellent" responsiveness, and the "simply magnificent" graphics and sound. He recommended the game to ''Asteroids'' fans who were disappointed by other home versions.<ref name=ahl1983spring>{{Cite magazine |last=Ahl |first=David H. |author-link=David H. Ahl |date=Spring 1983 |title=The Vectrex Arcade System |url=http://www.atarimagazines.com/cva/v1n1/vectrex.php |magazine=Creative Computing Video & Arcade Games |page=56}}</ref>
+
+==Reviews==
+*''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n51/mode/2up | title=GAMES Magazine #34 | date=December 1982 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.gamasutra.com/view/feature/3117/a_history_of_gaming_platforms_the_.php?print=1|A History of Gaming Platforms: The Vectrex]
+
+[[Category:1982 video games]]
+[[Category:Vectrex games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Multidirectional shooters]]
+[[Category:Vectrex-only games]]

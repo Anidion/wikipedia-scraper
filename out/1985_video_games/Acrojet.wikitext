@@ -1,0 +1,80 @@
+Acrojet
+Permalink: //en.wikipedia.org/w/index.php?title=Acrojet&oldid=1194519297
+Accessed on: 2024-06-26T16:57:58.882953
+
+
+
+------
+Acrojet
+{{Short description|1985 video game}}
+{{more citations needed|date=October 2017}}
+
+{{Infobox video game
+| title      = Acrojet
+| image      = Acrojet cover 1988.jpg
+| developer  = [[MicroProse]]
+| publisher  = [[U.S. Gold]]<ref name=lemon/>
+| programmer = William F. Denman Jr.<br>Edward N. Hill Jr.
+| artist     = Michael Haire
+| released   = 1985<ref name=lemon/>
+| genre      = [[Amateur flight simulation|Flight simulator]]
+| modes      = [[Single-player video game|Single-player]]
+| platforms  = [[Commodore 64]], [[Amstrad CPC]], [[MSX]], [[ZX Spectrum]], [[NEC PC-8801]], [[NEC PC-9801]]
+}}
+
+'''''Acrojet''''' is a [[Amateur flight simulation|flight simulator]] [[video game]] developed by [[MicroProse]] for the [[Commodore 64]] and published in 1985.  It was ported to [[Amstrad CPC]], [[MSX]], [[ZX Spectrum]], [[NEC PC-8801]], and  [[NEC PC-9801]]. It emphasizes aerial acrobatic flying and maneuverability.
+
+==Gameplay==
+The player flies a [[Bede BD-5|BD5J]], a small agile [[Jet aircraft|jet]] using a [[joystick]], while controlling the throttle, speed brakes, flaps and landing gear using keys. In addition to standard maneuvers such as nose up, bank left etc., the plane is also capable of complex movements like slips and rolls.<ref name="Zzap">{{Cite magazine|date=July 1986|title=Acrojet|url=https://archive.org/details/zzapp_64_issue_015_600dpi/page/n31/mode/2up|magazine=[[Zzap!64]]|page=64}}</ref>
+
+The [[cockpit]] controls and dials are shown on the bottom of the screen to display [[altitude]], [[artificial horizon]], airspeed, vertical velocity and a [[Radar altimeter|radar]] readout. Unlike most flight simulators of the time, this cockpit view was couple with a 3D style "behind the plane" view, rather than the typical [[First-person (video games)|first-person]] view.<ref name="Zzap" /><ref name="ComFormat">{{Cite magazine|date=May 1993|title=Acrojet|url=https://archive.org/details/CommodoreFormatIssue32/page/n61/mode/2up|magazine=[[Commodore Format]]|page=62}}</ref>
+
+Players can select whether they want to participate in a single event, a [[pentathlon]] event, a [[decathlon]] event or an unlimited event. The unlimited event allows for a custom aerobatics display or course.<ref name="Zzap" />
+
+The player has to complete a series of events/maneuvers with the jet. For example, in one set, the player has to fly the plane around a series of pylons.  In another, the player must fly a figure eight. Stunts get harder as play progresses. Some game parameters, such as weather, and "pylon lethality" are configurable.<ref name="manual" /><ref name="Zzap" />
+
+The game has a points system, with small number of points being awarded simply for taking off and flying, and a larger number of points for stringing together multiple stunts. While you are technically competing against other pilots you never see them on-screen, but only a summary point comparison after the events are completed.<ref name="ComFormat" />
+
+=== Events/Maneuvers ===
+There are ten acrobatic events which can be played by up to four players at four levels of difficulty. In all ten events the player must fly over a series of obstacles.<ref name="Zzap" />
+
+* In the Pylon Race, the player has to fly around pylons and land safely.
+* In the Slalom Race, the player has to fly a 'figure 8'.
+* In the Ribbon Cut, the player has to break two ribbons.
+* In the Inverted Ribbon Cut, the player has to perform the same stunt, flying the plane upside down.
+* In the Ribbon Roll, there are two ribbons in a row and the player has to fly under one and complete a full roll and then fly under the second ribbon.
+* In the Under Ribbon Race, the player has to perform a slalom by flying in sequence under three ribbons.
+* In the Under Ribbon Loop, the player has to fly under a ribbon, which is then followed by a loop and a pass over the same ribbon upside down.
+* In the Spot Landing event, the player has to fly up to {{convert|2000|ft|m}} and land as close as possible to a marked spot on the runway.
+* In the Flame-Out Landing event, the player must perform the same stunt without the engines running.
+* In the tenth and final event, the Cuban Eight, the player needs to make a half-loop over a ribbon, followed by a half-role, a second half-loop, and must finish up by flying under the first ribbon again.  An instrument panel at the bottom of the screen contains several read-outs, these include an altitude meter, a compass, an artificial horizon and a vertical velocity meter.
+
+==Development==
+The original Commodore 64 version was programmed by William "Mike" Denman and Edward Hill Jr.<ref name=manual/>   Michael Haire is credited with the artwork.<ref name=lemon/> The sound was done by [[Sid Meier]], who also researched the science, along with Denman. "Stunts" were by [[Bill Stealey]], actually a retired [[United States Air Force]] [[Lieutenant colonel (United States)|Lt. Colonel]] and [[Aviator|Command Pilot]].
+
+==Reception==
+''[[Compute!]]'' called ''Acrojet'' "a realistic simulation that's also fun to play", stating that the game, like other MicroProse products, emphasized accurate details and controls.<ref name="bateman198610">{{cite news | url=https://archive.org/stream/1986-10-compute-magazine/Compute_Issue_077_1986_Oct#page/n19/mode/2up | title=A Great Year For Games | work=Compute! | date=October 1986 | access-date=9 November 2013 | author=Bateman, Selby | pages=18}}</ref>
+
+''[[Zzap!64]]'' praised the presentation of the game and also its lastability in terms of having many events and stunts to try out, however were not impressed with the sound, giving that particular metric only 29%. They summarised that it was "An exciting flight simulator which has plenty to offer", giving it an overall 83% rating.<ref name="Zzap" />
+
+''[[Commodore Format]]'' criticised the "jumpy" graphics and poor sound but overall stated that "it does what it sets out to do" and gave it a rating of 75%.<ref name="ComFormat" />
+
+==References==
+{{reflist|refs=
+<ref name=lemon>{{lemon64 game|id=47|name=Acrojet}}</ref>
+<ref name="manual">{{cite web |last1=Hendrick |first1=Arnold |title=Commodore 64 Acrojet Manual |url=https://archive.org/details/Acrojet_1985_Microprose_Software |website=archive.org |publisher=MicroProse |date=September 1985}}</ref>
+}}
+
+==External links==
+*[https://www.mobygames.com/game/acrojet ''Acrojet''] at [[MobyGames]]
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:MSX games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

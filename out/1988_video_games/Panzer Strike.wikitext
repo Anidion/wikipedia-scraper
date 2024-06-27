@@ -1,0 +1,59 @@
+Panzer Strike
+Permalink: //en.wikipedia.org/w/index.php?title=Panzer_Strike&oldid=1187857572
+Accessed on: 2024-06-26T17:04:49.756099
+
+
+
+------
+Panzer Strike
+{{Expand French|Panzer Strike|topic=|date=October 2020}}
+
+{{Infobox video game
+| title       = Panzer Strike
+| image       = Panzer Strike Coverart.png
+| developer   = [[Strategic Simulations]]
+| publisher   = Strategic Simulations
+| designer    = [[Gary Grigsby]]
+| released    = {{vgrelease|NA|1988}}
+| genre       = [[Computer wargame]]
+| platforms   = [[Apple II]], [[Commodore 64]]
+}}
+
+'''''Panzer Strike''''' is a 1988 [[tactical wargame]] that simulates small unit actions during [[World War II]]. It was made for [[Apple II]] and [[Commodore 64]] and was released by [[Strategic Simulations]]. 
+
+''Panzer Strike'' spawned the follow-up titles ''[[Typhoon of Steel (video game)|Typhoon of Steel]]'' and ''[[Overrun!]]'', which reuse the game's [[Game engine|engine]] and mechanics. In 1995, Grigsby released ''[[Steel Panthers (video game)|Steel Panthers]]'' to revisit design concepts from his earlier titles like ''Panzer Strike''. 
+
+==Gameplay==
+''Panzer Strike'' is a [[computer wargame]] that simulates combat scenarios during [[World War II]], ranging from the [[Western Front (World War II)|Western]] and [[Eastern Front (World War II)|Eastern]] fronts to the [[North African campaign]]. It takes place at a small scale: one [[Counter (board wargames)|counter]] is used to represent one vehicle, and turns represent single minutes.<ref name=vgce>{{cite journal | author=Katz, Arnie | title=Waging World War II: Military Simulations for Computers and Video Games | date=February 1989 | journal=[[VideoGames & Computer Entertainment]] | pages=76–82 }}</ref> The game included an editor as well as over 250 weapon types; single scenarios can last up to two hours. The game comes on two double-sided diskettes, and includes a campaign editor along with scenarios of three fronts of the war: East, West and North Africa.
+
+==Development==
+''Panzer Strike'' was designed by [[Gary Grigsby]] and was released in 1988, the same year he debuted ''[[Typhoon of Steel (video game)|Typhoon of Steel]]''.<ref name=guru>{{cite magazine | author=Emrich, Alan | title=The Pioneering Spirit of a Wargame Guru | date=September 1995 | issue=134 | magazine=[[Computer Gaming World]] | pages=201, 202, 204 }}</ref> 
+
+==Reception==
+{{Video game reviews
+| rev1 = ''Computer Play''
+| rev1Score = 8.38/10<ref name=computerplay>{{cite journal | author=Miller, J. L. | title=The Wargamer's Desk Reference | date=January 1989 | journal=Computer Play | pages=34, 36, 37, 39, 40, 42 }}</ref>
+}}
+
+In his 1989 computer wargame survey, J. L. Miller of ''Computer Play'' offered ''Panzer Strike'' a positive score and wrote, "Historically accurate and design-your-own scenarios offer a lesson in World War II tactics."<ref name=computerplay /> A review in ''[[Computer Gaming World]]'' compared the game favorably to [[Avalon Hill]]'s ''[[Squad Leader]]'' game, noting both as small unit combat games with interesting detail and variety. The scenario editor was described as able to quickly create maps to play. Additionally, carrying over units from scenario to scenario in the Campaign mode was described as the best part of the game. Complaints were directed at the lack of US units and the sometimes unintelligible terrain icons.<ref name = "CGWreview">{{citation | date = May 1988 | last = Proctor | first = Bob | magazine = [[Computer Gaming World]] | title = Panzer Strike! | pages = 22–23, 53}}</ref> The magazine would later award it "Strategy Game of the Year" for 1988.<ref name = "CGWaward">{{citation | date = October 1988 | magazine = [[Computer Gaming World]] | title = Computer Gaming World's 1988 Game of the Year Awards  | pages = 54}}</ref> A 1993 survey in the magazine of wargames gave the game two stars out of five, criticizing the slow play and lack of a battlefield view.<ref name="brooks199309">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=110 | title=Brooks' Book of Wargames: 1900-1950, A-P | magazine=Computer Gaming World | date=September 1993 | accessdate=30 July 2014 | author=Brooks, M. Evan | pages=118}}</ref>
+
+==Legacy==
+Gary Grigsby modified and reused ''Panzer Strike''{{'}}s [[game engine]] and mechanics for his later titles ''[[Typhoon of Steel (video game)|Typhoon of Steel]]'' (1988) and ''[[Overrun!]]'' (1989).<ref name=zzap>{{cite journal | author=Hogg, Robin | title=''Overrun!'' | date=July 1989 | journal=[[Zzap!64|Zzap!]] | issue=51 | page=61 }}</ref><ref name=guru /> According to Terry Coleman of ''[[Computer Gaming World]]'', Grigsby later conceived his game ''[[Steel Panthers (video game)|Steel Panthers]]'' as a way to revisit and update earlier wargame designs such as ''Panzer Strike''.<ref name=panther>{{cite magazine | author=Coleman, Terry Lee | title=Preview; Panther General | date=September 1995 | issue=134 | magazine=[[Computer Gaming World]] | pages=206, 208 }}</ref> In 1992, Grigsby had publicly discussed his plan to make another tactical wargame "similar in scope to ''Panzer Strike''", which dealt with ground-based conflicts in Europe during World War II. He told ''[[Electronic Games]]'' at the time that he was "waiting on a new graphics system from SSI" before he began.<ref name=egint>{{cite journal | author=Dille, Ed | title=War in the Pacific | journal=[[Electronic Games]] | volume=1 | issue=3 | date=December 1992 | pages=54–56, 58 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MobyGames|/panzer-strike}}
+*{{lemon64 game|id=3722|name=Panzer Strike}}
+
+{{Gary Grigsby}}
+
+[[Category:1988 video games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:Strategic Simulations games]]
+[[Category:World War II video games]]
+[[Category:Turn-based tactics video games]]
+[[Category:Computer wargames]]
+[[Category:Video games developed in the United States]]

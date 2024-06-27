@@ -1,0 +1,129 @@
+Super Contra
+Permalink: //en.wikipedia.org/w/index.php?title=Super_Contra&oldid=1222788257
+Accessed on: 2024-06-26T17:03:16.700672
+
+
+
+------
+Super Contra
+{{short description|1988 video game}}
+{{Infobox video game
+| title = Super Contra
+| image = Super contra.jpg
+| alt = European arcade flyer
+| caption = European arcade flyer
+| developer = [[Konami]]
+| publisher = Konami
+| series = ''[[Contra (series)|Contra]]''
+| director = Hideyuki Tsujimoto, K. Wada, S. Fujiwara, Takashi Kondo (arcade)
+| producer = Koji Hiroshita
+| programmer = Eric Freytag (DOS)<br/>[[Shigeharu Umezaki]] (NES)
+| artist = Kengo Nakamura<br/>Setsu Muraki (NES)
+| writer = Hideyuki Tsujimoto
+| composer = Kazuki Muraoka, Motoaki Furukawa (Arcade)<br/>Kris Hatlelid, Michael J. Sokyrka (DOS)<br/>Hidenori Maezawa, Yūichi Sakakura (NES)
+| platforms = [[Arcade video game|Arcade]], [[Nintendo Entertainment System]], [[Xbox 360]], [[Amiga]], [[IBM Personal Computer|IBM PC]], [[MS-DOS]]
+| released = {{Collapsible list
+ | title=January 28, 1988
+ | '''Arcade'''<br />{{vgrelease|JP|January 28, 1988<ref name="USCO">{{cite web |title=Super Contra (Registration Number PA0000350303) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=22 September 2021}}</ref>|WW|[[1988 in video gaming|March 1988]]<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=121–2 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n123}}</ref>}}'''NES/Famicom'''<br />{{vgrelease|JP|February 2, 1990|NA|April 1990<ref name="NintendoList">{{cite web |url=https://www.nintendo.com/consumer/downloads/nes_games.pdf |publisher=[[Nintendo]] |access-date=August 9, 2015 |title=All NES Games |url-status=dead |archive-url=https://web.archive.org/web/20140611225644/http://www.nintendo.com/consumer/downloads/nes_games.pdf |archive-date=June 11, 2014 }}</ref>|EU|1992}}'''Amiga'''<br />{{vgrelease|NA|1990}}'''MS-DOS'''<br />{{vgrelease|NA|1990}}'''Microsoft Windows'''<br />{{vgrelease|NA|November 16, 2002}}<!-- per VG infobox template, do not list emulated releases, i.e. Virtual Console, Xbox 360 -->
+ }}
+| genre = [[Run and gun video game|Run and gun]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| arcade system = Konami GX775,<ref>{{cite web|url=http://www.nmisystems.com/konami/|title=Konami board numbers|accessdate=2017-08-05}}{{Dead link|date=May 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> [[PlayChoice-10]]
+}}
+
+'''''Super Contra''''', known as {{nihongo foot|'''''Super Contra: The Alien Strikes Back'''''|スーパー魂斗羅 エイリアンの逆襲|Sūpā Kontora: Eirian no Gyakushū||lead=yes|group=lower-alpha}} in Japan, is a [[run and gun video game]] by [[Konami]], originally released as a coin-operated [[arcade video game]] in January 1988.<ref name="USCO"/> It is the sequel to the original ''[[Contra (video game)|Contra]]'' and part of the [[Contra (series)|''Contra'' series]]. The game stars Bill Rizer and Lance Bean as they are sent to thwart another alien invasion from the vicious Red Falcon.
+
+It was ported to the [[Nintendo Entertainment System]] under the shortened title of '''''Super C''''' in North America and as '''''Probotector II: Return of the Evil Forces''''' in Europe. Both the arcade version and the NES version have been re-released for various other platforms since their original releases.
+
+==Plot==
+A year after the battle with the Red Falcon Organization,{{efn|The game takes place on December 2634 according to the opening sequence of the Japanese version, although this detail was removed from the international version.}} Bill and Lance are sent on another mission. This time, the alien forces have taken over an allied military base, possessing most of its troops. Bill and Lance must not only fight against their former comrades-in-arms, but also a new mutated form of the same alien creatures they fought during their previous mission.
+
+==Gameplay==
+{{More citations needed section|date=September 2019}}
+[[Image:Super contra (gameplay).png|left|thumb|upright|The first level in ''Super Contra''. Inclined surfaces, as shown here, were not present in the original ''Contra''.]]
+Like in the original ''Contra'', the game can be played by up to two players simultaneously. The left player controls Bill (who wears green in this installment), while the right player controls Lance (who wears purple). The game retains the side-scrolling format from the previous game, discarding only the pseudo-3D and fixed screen segments. Instead, ''Super Contra'' features vertically-scrolling stages played from an overhead perspective, in which the player can move in eight directions. The controls remain mostly the same during the side-scrolling segments, with the only difference is that the player can now control the height of their jump by holding the joystick upwards or downwards while pressing the jump button.
+
+The player can replace their default gun with one of four possible weapons by destroying the flying item capsules that appear throughout each stage. The available weapons include a machine gun, a spread gun, a bomb gun and a laser gun. This time, weapons can be upgraded by picking up the same power-up twice in a row, resulting in greater destructive power. The power-ups in ''Super Contra'' are represented by the actual guns the player's character wields instead of the Falcon-shaped letter icons from the previous game. During overhead stages, the player can also pick up a "hyper shell" item that destroys all on-screen enemies, which can be launched at any time during these stages by pressing the jump button. The player can store more than one hyper shell at a time and the count is carried over between overhead stages.
+
+The game consists of five stages, which are set in a military base, a jungle and the alien's lair. Stages 1, 3 and 4 are played from the standard side-scrolling perspective, while Stages 2 and 5 employ the top-down perspective. Throughout each stage, the player must fight their way through the enemy's line of defense (including a few mid-bosses) until they reach the final target waiting at the end.
+
+After running out of lives, the player is allowed to continue up to five times before the game is entirely over; this depends on the DIP switch settings. Unlike the predecessor, each player can now continue at any time, with no need to wait until the other player runs out of lives.<ref name=ac_superc_manual>{{cite web|url=http://www.theboneyardpdflibrary.com/Arcadex5w2y6g9lp3sManuals/arcademanuals_s/Super%20Contra%20%28Operators%20Manual%29.pdf|title=Super Contra arcade bilingual manual}}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref>
+
+==Version differences==
+Two versions of the ''Super Contra'' arcade game were produced: an English version (which was distributed not just in [[North America]], but also in [[Europe]], where the game retained its original title,<ref>{{cite web|url=http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=1121&image=1|title=Promotional brochure published by Konami LTD. in Europe|access-date=2014-09-06|archive-url=https://web.archive.org/web/20140708235748/http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=1121&image=1|archive-date=2014-07-08|url-status=live}}</ref><ref>{{cite journal |last1=O'Connor |first1=Frank |last2=Boone |first2=Tim |date=May 1992 |title=Contra Spirits review |journal=[[Computer and Video Games]] |issue=126 |pages=38–39 |url=ftp://ftp.worldofspectrum.org/pub/sinclair/magazines/C+VG/Issue126/Pages/CVG12600039.jpg |quote=Arcade fans might remember the original ''Gryzor'' coin-op. It was called ''Contra'' everywhere else except Europe. The reason for this was the political conflict in Nicaragua was considered too sensitive. This was a bit daft considering that the sequel was allowed to retain its original name. ''Super Contra''. Confused? Don't worry - everyone else is as well. }}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref><ref>{{cite journal |last=Kelly |first=Nick |date=March 1988 |title= Arcades |journal= [[Commodore User]] |issue=54|pages=107 |url=http://amr.abime.net/amr_popup_picture.php?src=cu_amiga/magscans/cu_1988_03/107.jpg&c=34353 }}</ref><ref>{{cite journal|last=Brennan|first=Ciarán|date=April 1988|title=Slots of Fun|journal=[[Your Sinclair]]|issue=52|pages=78|url=http://solvalou.com/subpage/arcade_reviews/56/340/super_contra_review.html|archive-url=https://web.archive.org/web/20150403203353/http://www.solvalou.com/subpage/arcade_reviews/56/340/super_contra_review.html|archive-date=2015-04-03|url-status=live}}</ref> in contrast to the ''Gryzor'' variant of the first arcade game) and a Japanese version. The two versions of the game are almost identical aside from the language of the text shown during the intro sequence. However, the English version ends the game after the player has cleared the final stage, whereas the Japanese version restarts the game from the first stage after the end credits are shown. On the second loop, the player's score, lives and weapons (including hyper shells) will be carried over from the previous playthrough and the game's difficulty will be set to its highest level (regardless of the machine's actual setting), but the continuation feature will cease to be available. This means the game will be completely over when the player completes the final stage again or runs out of lives.
+
+==Ports==
+
+===Nintendo Entertainment System===
+A home version of ''Super Contra'' was released for the [[Nintendo Entertainment System]] on February 2, 1990, in Japan and in April 1990 in North America, where it was retitled ''Super C''. A PAL version of the NES game, titled ''Probotector II: Return of the Evil Forces'', was released in [[1992 in video gaming|1992]].
+
+The gameplay and graphics of ''Super C'' are similar to the port of the first Contra game. There are three stages unique to the NES version: a high-tech base, a mountain and an alien nest, all vertically-scrolling stages. The order of the latter stages and bosses are also slightly different, with new bosses featured in this version (including a new final boss). The NES version uses the same power-ups as the original NES game, but changes the function of the "fire ball" power-up from a gun that fires small fireballs that travel in a [[corkscrew]] pattern to a large projectile that spreads fire after hitting its target. The player can charge this gun by holding down the B button and then releasing it, shooting an even larger projectile that passes through most fodder enemies and causes an even bigger explosion (with 8 sparks) when it hits a large target. The Rapid Bullets, Barrier and Special power-ups from the first NES game are also included in this game.
+
+The [[Konami Code]] from the original ''Contra'' was not included in this game. A different code was added which gives out thirty lives in the Famicom version and ten lives in the NES versions. Like in the Famicom version of ''Contra'', the Japanese ''Super Contra'' has a stage select code that was removed from its NES counterparts. All three versions contain a sound test mode. Like the first NES game, ''Probotector II'' (the PAL version), replaced the main characters and some of the enemies with [[robot]]s.
+
+The original arcade soundtrack was rearranged for the Japanese and North American versions by Hidenori Maezawa. Because the soundtrack used DPCM samples of orchestra hits, Yuichi Sakakura altered the sound driver for ''Probotector II'' to avoid playing the samples out of tune (a common occurrence in previous NTSC-to-PAL conversions).<ref>{{Cite web |url=http://www.vgmuseum.com/end/nes/b/probo2.htm |title=Ending for Probotector II(NES / Famicom) |access-date=2015-10-18 |archive-url=https://web.archive.org/web/20150918182741/http://www.vgmuseum.com/end/nes/b/probo2.htm |archive-date=2015-09-18 |url-status=bot: unknown }}</ref>
+
+=== Other platforms ===
+A pair of computer versions of ''Super C'' developed by [[Distinctive Software]] were released in North America for the [[Amiga]] and [[IBM PC compatible]]s by Konami in 1990. Despite bearing the NES version's title of ''Super C'', the computer ports are based on the original arcade game.
+
+A direct emulation of the arcade ''Super Contra'' was released on [[Xbox Live Arcade]] for the [[Xbox 360]] on July 25, 2007,<ref>{{cite web |url=http://www.xbox.com/en-US/games/s/supercontraxboxlivearcade/default.htm|title=Xbox.com : Super Contra - Game Detail Page|accessdate=2007-12-23 |archive-url = https://web.archive.org/web/20071130141750/http://www.xbox.com/en-US/games/s/supercontraxboxlivearcade/default.htm <!-- Bot retrieved archive --> |archive-date = 2007-11-30}}</ref> and features enhanced graphics, remixed music and [[Cooperative video game|cooperative gameplay]] via [[Xbox Live]]. The arcade version was rereleased on June 12, 2019 on the ''Contra Anniversary Collection'' for the [[PlayStation 4]], [[Xbox One]], [[Microsoft Windows]], and [[Nintendo Switch]].<ref name="Anniversary Collection">{{Cite web|url=https://www.konami.com/games/50th/ac/contra/us/en/|title = Anniversary Collection}}</ref>
+
+The NES version also saw several rereleases. The 2002 Windows compilation ''Konami Collectors' Series: Castlevania and Contra'' features ''Super C'' along with the NES version of the original game, as well as the first three ''[[Castlevania]]'' games for the system. ''Super C'' was later released as a [[Virtual Console]] title in North America in [[2007 in video gaming|2007]].<ref>{{cite web|url=http://wii.nintendo.com/vc_gamepage.jsp?title=super_c|title=Wii.Nintendo.com - Wii Virtual Console games - Super C}}</ref> A corresponding release for ''Probotector 2: Return of the Evil Forces'' was made for the European and Australian Virtual Console.<ref>{{cite web|url=http://wii.nintendo.co.uk/23642.html|title=Nintendo Wii: Info|access-date=2007-12-22}}{{dead link|date=July 2019|bot=medic}}{{cbignore|bot=medic}}</ref> The Famicom ''Super Contra'' was released for the Japanese Virtual Console on February 12, 2008.<ref>{{cite web|url=https://www.nintendo.co.jp/wii/vc/vc_scr/index.html|title=VC スーパー魂斗羅|language=ja|access-date=2016-07-24|archive-url=https://web.archive.org/web/20160306152607/https://www.nintendo.co.jp/wii/vc/vc_scr/index.html|archive-date=2016-03-06|url-status=live}}</ref> Both the NES versions of ''Contra'' and ''Super C'' are also included as unlockable bonuses in the [[Nintendo DS]] game ''[[Contra 4]]'', also released in 2007. The NES version of ''Super C'' is also released on the Virtual Console for 3DS and Wii U as well as the [[NES Classic Edition]] compilation; released in 2013, 2014 and 2016, respectively.<ref>{{Cite web|url=https://www.nintendo.com/games/detail/super-c-3ds/|title = Super C for Nintendo 3DS - Nintendo Game Details}}</ref><ref>{{Cite web|url=https://www.nintendo.com/games/detail/super-c-wii-u/|title = Super C for Wii U - Nintendo Game Details}}</ref><ref>{{Cite web|url=https://www.polygon.com/2016/11/11/13587912/nintendo-nes-classic-edition-review|title = Nintendo NES Classic Edition review|website = [[Polygon (website)|Polygon]]|date = 11 November 2016}}</ref> Like its arcade counterpart, the NES game is included on the ''Contra Anniversary Collection'' compilation from 2019.<ref name="Anniversary Collection"/>
+
+A [[mobile phone]] version of ''Super Contra'' was released in Japan and China (''Super Contra 2'') on March 5, 2008, coinciding with the release of ''Contra: Dual Spirits'' (the Japanese localization of ''Contra 4''). This version features the stages from the NES version, but with graphics similar to the arcade game (including the opening intro).<ref>{{cite web|url=http://www.konami.jp/products/appli_supercontra/|title=【コナミネットDX】スーパー魂斗羅|language=ja|access-date=2008-03-15|archive-url=https://web.archive.org/web/20080320022036/http://www.konami.jp/products/appli_supercontra/|archive-date=2008-03-20|url-status=live}}</ref>
+
+==Reception==
+{{Expand section|date=June 2013}}
+{{Video game reviews
+| GR = NES: 75%<ref>{{cite web |url=https://www.gamerankings.com/nes/563463-super-c/index.html |title=Super C for NES |website=[[GameRankings]] |publisher=[[CBS Interactive]] |accessdate=2018-09-13 |archive-url=https://web.archive.org/web/20171123132754/http://www.gamerankings.com/nes/563463-super-c/index.html |archive-date=2017-11-23 |url-status=live }}</ref>
+| MC = X360: 61/100<ref>{{cite web |url=https://www.metacritic.com/game/super-contra/critic-reviews/?platform=xbox-360 |title=Super Contra for Xbox 360 Reviews |website=[[Metacritic]] |publisher=[[CBS Interactive]] |accessdate=2018-09-13 |archive-url=https://web.archive.org/web/20170923065447/http://www.metacritic.com/game/xbox-360/super-contra |archive-date=2017-09-23 |url-status=live }}</ref>
+| Allgame = {{Rating|4|5}} (NES)<ref name="allgamereview">{{cite web |url = http://www.allgame.com/game.php?id=1319&tab=review |title = Super C (NES) - Review| author = Aaron Kosydar|publisher = [[AllGame]] |accessdate =10 February 2019 |archive-url=https://web.archive.org/web/20141115214528/http://www.allgame.com/game.php?id=1319&tab=review |archive-date=15 November 2014}}</ref>
+| Fam = 25/40 (Famicom)<ref name=":0" />
+| IGN = 7.5/10<ref>{{cite web |url=http://wii.ign.com/articles/815/815984p1.html |title=Super C Review - IGN |publisher=Wii.ign.com |accessdate=2013-06-18 |archive-url=https://web.archive.org/web/20120323154246/http://wii.ign.com/articles/815/815984p1.html |archive-date=2012-03-23 |url-status=dead }}</ref>
+| NLife = {{rating|8|10}}<ref>{{cite web |url=http://www.nintendolife.com/reviews/vc/super_c_nes |title=Super C (Wii Virtual Console / NES) Review |date=28 August 2007 |publisher=Nintendo Life |accessdate=2013-06-18 |archive-url=https://web.archive.org/web/20130129073113/http://www.nintendolife.com/reviews/vc/super_c_nes |archive-date=2013-01-29 |url-status=live }}</ref>
+| NP = 4/5<ref>{{cite magazine|title=Super C|magazine=Nintendo Power|date=March 1990|issue= 11|page=49}}</ref>
+| rev1 = ''[[Total!]]''
+| rev1Score = 91%<ref>{{cite journal|title=Probotector II|journal=[[Total!]]|date=February 1993|issue= 14|pages=48–49}}</ref>
+}}
+
+In Japan, ''Game Machine'' listed ''Super Contra'' on their March 1, 1988 issue as being the fourth most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=327|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 March 1988|page=29|lang=ja}}</ref>
+
+''Super Contra'' received positive reviews. [[Allgame]] editor Aaron Kosydar described Super C as "an excellent game that a lot of hardcore gamers will never forget".<ref name="allgamereview">{{cite web |url = http://www.allgame.com/game.php?id=1319&tab=review |title = Super C (NES) - Review| author = Aaron Kosydar|publisher = [[AllGame]] |accessdate =10 February 2019 |archive-url=https://web.archive.org/web/20141115214528/http://www.allgame.com/game.php?id=1319&tab=review |archive-date=15 November 2014}}</ref> Japanese game magazine ''[[Famitsu]]'' gave the Famicom (NES) version of the game a score of 25 out of 40.<ref name=":0">{{cite magazine|url=https://archive.org/stream/bi-weekly-famitsu-no.-94-february-16th-1990/Bi-Weekly%20Famitsu%20-%20No.%2094%20February%2016th%201990%20%28Compressed%29#page/n11/mode/1up|title=NEW GAMES CROSS REVIEW: スーパー魂斗羅 (ファミコン)|magazine=[[Famitsu]]|issue=94|publisher=[[ASCII Corporation]]|date=February 16, 1990|page=12|lang=ja}}</ref>
+
+In 1997, ''[[Electronic Gaming Monthly]]'' listed it as the 9th best arcade game of all time.<ref>{{cite magazine |title=The 10 Best Arcade Games of All Time |magazine=[[Electronic Gaming Monthly]]|issue=100 |publisher=[[Ziff Davis]] |date=November 1997|page=130}}</ref>
+
+{{Clear}}
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{KLOV game|id=9884}}
+
+{{Contra series|state=expanded}}
+{{Portal bar|Video games|1980s}}
+
+[[Category:1987 video games]]
+[[Category:1988 video games]]
+[[Category:Arcade video games]]
+[[Category:Contra (series)]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:PlayChoice-10 games]]
+[[Category:DOS games]]
+[[Category:Run and gun games]]
+[[Category:Video game sequels]]
+[[Category:Video games set in the 27th century]]
+[[Category:Virtual Console games]]
+[[Category:Virtual Console games for Wii U]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:Windows games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Cooperative video games]]
+[[Category:Video games with isometric graphics]]
+[[Category:Konami games]]
+[[Category:Konami arcade games]]
+[[Category:Video games developed in Japan]]
+[[Category:Distinctive Software games]]

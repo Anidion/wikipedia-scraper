@@ -1,0 +1,58 @@
+Artillery Duel
+Permalink: //en.wikipedia.org/w/index.php?title=Artillery_Duel&oldid=1225309309
+Accessed on: 2024-06-26T16:52:56.896545
+
+
+
+------
+Artillery Duel
+{{Short description|1982 video game}}
+{{more citations needed|date=October 2017}}
+{{Infobox video game
+| title     = Artillery Duel
+| image     = Artillery Duel cover.jpg
+| caption   = 
+| developer = Perkins Engineering
+| publisher = [[Xonox]]
+| programmer = '''Astrocade'''<br>John Perkins<ref name="AstroBASIC">{{cite book |last1=Ainsworth |first1=Dick |title=Astro BASIC |date=1982 |publisher=Astrocade, Inc. |page=95}}</ref><br>'''Atari 2600'''<br>Mike Schwartz<ref name=giantlist/><br>'''VIC-20'''<br>Jerry Brinson<ref name=giantlist/>
+| released  = '''Astrocade'''<br>1982<br>'''Atari 2600'''<br>{{vgrelease|NA|1983|EU|1983<ref>{{cite web | title = Release date information | website = GameFAQs | url = http://www.gamefaqs.com/atari2600/584554-artillery-duel/data | accessdate =2010-07-06}}</ref>}}
+| genre     = [[Artillery game]]
+| modes     = [[Single-player video game|Single-player]]
+| platforms = [[Bally Astrocade|Astrocade]], [[Atari 2600]], [[ColecoVision]], [[Commodore 64]], [[VIC-20]].
+|alt = 
+}}
+'''''Artillery Duel''''' is an [[artillery game]] originally written for the [[Bally Astrocade]] by Perkins Engineering and published by Bally in 1982. John Perkins wrote the game first in [[Astro BASIC]], submitting it to ''The Arcadian'' [[fanzine]], from which it was adapted for the Astro BASIC manual.{{ref|AstroBASIC|p=95}} Perkins subsequently developed the Astrocade cartridge.
+
+[[Xonox]] published ports for the [[Atari 2600]], [[ColecoVision]], [[Commodore 64]], and [[VIC-20]]. ''Artillery Duel'' was featured in several double-ended cartridges – with one game on each end – as well as in a single cartridge.
+
+==Gameplay==
+[[File:ArtilleryDuel-2600.png|thumb]]
+The game consists of dueling [[cannon]]s on either side of a hill or mountain of varying height and shape. Each player has control of the incline and force behind the shell launched, the objective being to score a direct hit on the opposing target. Where many versions gave the player a few tries on the same course, ''Artillery Duel'' switches to a new mountain after each turn. When the player does manage to hit the opposing cannon, the reward is a brief animation of comically marching soldiers at the bottom of the screen.
+
+==Reception==
+[[Danny Goodman]] of ''[[Creative Computing (magazine)|Creative Computing]] Video & Arcade Games'' said after visiting the summer 1982 [[Consumer Electronics Show]] that "the cleverest graphics award goes to ''Artillery Duel''" for the [[Bally Astrocade]], describing it as "really a graphics showpiece with a little bit of player interaction thrown in".<ref name="goodman1983spring">{{Cite magazine |last=Goodman |first=Danny |author-link=Danny Goodman |date=Spring 1983 |title=Home Video Games: Video Games Update |url=http://www.atarimagazines.com/cva/v1n1/vgupdate.php |magazine=Creative Computing Video & Arcade Games |page=32}}</ref>
+
+== See also ==
+* ''[[Chuck Norris Superkicks]]''
+* ''[[Ghost Manor]]''
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+* {{atarimania|id=8371}}
+
+[[Category:1982 video games]]
+[[Category:Artillery video games]]
+[[Category:Atari 2600 games]]
+[[Category:Bally Astrocade games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Xonox games]]
+
+{{artillery-videogame-stub}}
+{{Atari-console-stub}}

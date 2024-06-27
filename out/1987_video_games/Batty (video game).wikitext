@@ -1,0 +1,59 @@
+Batty (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Batty_%28video_game%29&oldid=1217872854
+Accessed on: 2024-06-26T17:01:40.783984
+
+
+
+------
+Batty (video game)
+{{Infobox video game
+| title = Batty
+| image = BattyEUBoxShotC64.jpg
+| developer = [[Elite Systems]]
+| publisher = Elite Systems
+| composer  = Robert Westgate<ref name="frgcb">{{cite web|title=Batty (HitPak/Elite, 1987)|url=http://frgcb.blogspot.com/2013/09/batty-hitpakelite-1987.html|website=Finnish Retro Game Comparison Blog|date=8 September 2013}}</ref>
+| released = '''ZX Spectrum''' {{vgrelease|EU|September 10, 1987<ref name='ysbattynextmonth'>{{cite magazine |title=Next Month|magazine=Your Sinclair|issue=21|publisher=Dennis Publishing|date=10 July 1987|page=97|url=https://spectrumcomputing.co.uk/page.php?issue_id=242&page=97|access-date=16 December 2022}}</ref>}}'''CPC, C64, ZX Spectrum''' {{vgrelease|EU|September 14, 1987<ref name='cvg_ad_0987' />}}
+
+| genre = [[Breakout clone]]
+| modes = [[Single-player video game|1]] or [[Multiplayer video game|2]] players
+| platforms = [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]]
+}}
+
+'''''Batty''''' is a bat-and-ball, ''[[Breakout clone]]''-style video game, published by [[Elite Systems]] in [[1987 in video gaming|1987]]. The game was published in September 1987 for the [[ZX Spectrum]], [[Commodore 64]] and [[Amstrad CPC]] as part of the ''6-Pak Vol. 2'' compilation.<ref name='cvg_ad_0987'>{{cite journal|url=https://spectrumcomputing.co.uk/page.php?issue_id=1523&page=3|access-date=2014-02-14|journal=Computer and Video Games|issue=71|date=September 1987|title=Six of the Best from Hit Pack (advertisement)}}</ref> The ZX Spectrum version was released several days earlier on a free cover-mounted cassette with the October 1987 issue of ''[[Your Sinclair]]'' magazine. In April 1989 it was published as standalone commercial release in its own right on Elite's budget "Encore" label .<ref name='ace20'>{{cite magazine |title=On The Horizon|magazine=ACE|issue=20|publisher=Future Publishing|date=May 1989|page=66|url=https://spectrumcomputing.co.uk/page.php?issue_id=1746&page=66|access-date=6 February 2023}}</ref>
+
+==Gameplay==
+[[File:Batty Screenshot.png|thumb|left|Screenshot of the Commodore 64 version]]
+The basic premise is the same as that of ''[[Arkanoid]]'' and similar games: destroying square blocks by hitting them with a ball, which is controlled by deflecting it with a player-controlled bat. The process is made harder by "Aliens" in the shape of a UFO or a bird which hover over the screen, dropping bombs. Although the aliens can be dispatched by striking them with the ball or even, if they work their way down the screen, by running them over with the bat, they can deflect the ball and present an extra challenge for the player who has to dodge their bombs while trying to keep the ball going.
+
+Some blocks, when struck, contain special power-ups which then fall and can be collected by the player's bat to give certain abilities.
+
+The special power-ups available include:
+* The Hand - which makes the ball stick to the bat until the player chooses to fire it again.
+* "Slow" - which slows down the ball to make it easier for the player to hit.
+* "Kill Aliens" - which stops the aliens from appearing until another power-up is collected or a life is lost.
+* Extra life.
+* 5000 points.
+* Smash shot - which makes the ball smash through blocks rather than bounce off the first one it strikes.
+* Long bat - which enlarges the bat to make hitting the ball easier.
+* Triple-ball - which splits the on-screen ball into three.
+* Laser - which allows the player to shoot the blocks with a laser mounted on the bat.
+* Rocket pack - which thrusts the player up to the next level.
+
+The game allows three modes of play, one and two player "turn-taking" and a two-player simultaneous play by allowing each player's bat to only move in "their half" of the screen, which requires co-operation between the two players to keep the ball going, especially if Aliens are present as then even the idle player (the one who does not have the ball on their side) has to avoid any dropped bombs and the aliens themselves.
+
+Different levels present different obstacles through which the ball has to be navigated to destroy all the breakable blocks, and some incorporate a "gravity" device which alters the path of a ball if it strays near while it is activated.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WoS game|id=0000472|name=Batty}}
+
+[[Category:1987 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:ZX Spectrum games]]
+[[Category:Breakout clones]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Elite Systems games]]

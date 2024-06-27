@@ -1,0 +1,194 @@
+Sokoban
+Permalink: //en.wikipedia.org/w/index.php?title=Sokoban&oldid=1231106932
+Accessed on: 2024-06-26T16:54:04.487075
+
+
+
+------
+Sokoban
+{{italic}}
+{{Short description|1981 video game}}
+[[Image:Sokoban_ani.gif|frame|right|A ''Sokoban'' puzzle being solved]]
+
+{{nihongo|'''''Sokoban'''''|倉庫番|''Sōko-ban''|extra={{lit|warehouse keeper}}<ref>{{cite book |author1=Yoshio Murase |author2=Hitoshi Matsubara |author3=Yuzuru Hiraga |title=Automatic Making of Sokoban Problems |editor1=Norman Foo |editor2=Randy Goebel |date=1996 |publisher=Springer Science & Business Media |isbn=978-3-540-61532-3 |page=592 |url=https://books.google.com/books?id=j2QrFVEd2GUC&dq=sokoban+meaning+warehouse&pg=PA592 |language=en }}</ref>}} is a [[puzzle video game]] in which the player pushes boxes around in a [[warehouse]], trying to get them to storage locations. The game was designed in 1981 by Hiroyuki Imabayashi, and first published in December 1982.
+
+==Gameplay==
+The warehouse is depicted as a grid of [[square|squares]], each one representing either a floor section or a wall section. Some floor squares contain boxes and some are marked as storage locations. The player, often represented as a worker character, can move one square at a time horizontally or vertically onto empty floor squares, but cannot pass through walls or boxes.
+
+To move a box, the player walks up to it and pushes it to the square beyond. Boxes cannot be pushed to squares with walls or other boxes, and they cannot be pulled. The number of boxes matches the number of storage locations. The puzzle is solved when all boxes occupy the storage locations.
+
+==Challenges and strategy==
+Progressing through the game often requires meticulous planning and strategic maneuvering. A single misstep, like pushing a box into a corner or blocking others, can create unsolvable scenarios, forcing the player to backtrack or restart the puzzle. Anticipating the consequences of each push, and considering the overall layout of the puzzle are crucial to avoid these deadlocks.<ref>{{cite conference |author1=Jean-Noël Demaret |author2=François Van Lishout |author3=Pascal Gribomont |title=Hierarchical Planning and Learning for Automatic Solving of Sokoban Problems |date=2008 |url=https://orbi.uliege.be/bitstream/2268/5895/1/bnaic2008.pdf |pages=1,2,5 }}</ref>
+
+==Selected official releases==
+{| class="wikitable" style="white-space:nowrap;"
+!Year
+!Title
+!Country
+!Platform
+!Publisher
+!Media
+|-
+|1982
+|{{nihongo|''Sokoban''|倉庫番}}
+|Japan
+|[[NEC PC-8801]]
+|[[Thinking Rabbit]]
+|[[Cassette tape]]
+|-
+|1983
+|{{nihongo|''Sokoban [Extra Edition]''|倉庫番[番外編]<ref>{{cite magazine |date=August 1983 |title=今回はこのゲームを開発した THINKING RABBIT さんにお願いして, 市販品とは別に10の倉庫をつくってもらいましたので |language=ja |trans-title=This time, we asked THINKING RABBIT, who developed this game, to build 10 warehouses separately from commercial products |magazine=[[:ja:PCマガジン|PCマガジン]] |pages=52–56}}</ref><ref>{{cite magazine |date=August 1983 |title=題して『倉庫番』PCマガジン番外編 (このプログラムは, PC-8801/9801 で使えます) |language=ja |trans-title=Titled "Sokoban" PC Magazine Extra Edition (this program can be used with PC-8801 / 9801)|magazine=[[:ja:PCマガジン|PCマガジン]]|pages=52–56}}</ref>}}
+|Japan
+|[[NEC PC-8801]]
+|[[:ja:PCマガジン|PCマガジン]]
+|[[Type-in program]]
+|-
+|1984
+|{{nihongo|''Sokoban 2''|倉庫番2}}
+|Japan
+|[[NEC PC-8801]]
+|[[Thinking Rabbit]]
+|[[Cassette tape]]
+|-
+|1986
+|{{nihongo|''Namida No Sokoban Special''|涙の倉庫番スペシャル}}
+|Japan
+|[[Family Computer]]
+|[[ASCII Corporation|ASCII]]
+|[[Floppy disk|Floppy]]
+|-
+|1988
+|''[[Soko-Ban]]''
+|US
+|[[IBM Personal Computer|IBM PC]], [[IBM Personal Computer XT|XT]], and [[IBM Personal Computer AT|AT]]
+|[[Spectrum HoloByte]]
+|[[Floppy disk|Floppy]]
+|-
+|1989
+|{{nihongo|''Soko-ban Perfect''|倉庫番Perfect}}
+|Japan
+|[[NEC PC-9801]]
+|[[Thinking Rabbit]]
+|[[Floppy disk|Floppy]]
+|-
+|1990
+|''[[Boxyboy]]''
+|US
+|[[TurboGrafx-16]]
+|[[NEC]]
+|[[HuCard]]
+|-
+|1990
+|''Shove It! ...The Warehouse Game''
+|US
+|[[Sega Genesis]]
+|DreamWorks
+|[[ROM cartridge]]
+|-
+|1991
+|{{nihongo|''Soko-ban Revenge''|倉庫番Revenge}}
+|Japan
+|[[NEC PC-9801]]
+|[[Thinking Rabbit]]
+|[[Floppy disk|Floppy]]
+|-
+|2016
+|{{nihongo|''Sokoban Touch''|倉庫番Touch}}
+|Japan, US
+|[[Android (operating system)|Android]] and [[iOS|Apple iOS]]
+|[[Thinking Rabbit]]
+|[[Digital distribution of video games|Digital distribution]]
+|-
+|2018
+|{{nihongo|''Sokoban Smart''|倉庫番スマート}}
+|Japan
+|[[Microsoft Windows|Windows]]
+|[[Thinking Rabbit]]
+|[[Digital distribution of video games|Digital distribution]]
+|-
+|2019
+|{{nihongo|''Minna No Sokoban''|みんなの倉庫番}}
+|Japan
+|[[Nintendo Switch]] and [[PlayStation 4]]
+|[[:ja:UNBALANCE_(ゲーム会社)|Unbalance]]
+|[[Digital distribution of video games|Digital distribution]]
+|-
+|2021
+|''The Sokoban''
+|US
+|[[Nintendo Switch]] and [[PlayStation 4]]
+|[[:ja:UNBALANCE_(ゲーム会社)|Unbalance]]
+|[[Digital distribution of video games|Digital distribution]]
+|}
+
+==Development==
+''Sokoban'' was created in 1981 by Hiroyuki Imabayashi.<ref>{{cite web |title=Thinking Rabbit - 1983 Developer Interview |url=https://shmuplations.com/thinkingrabbit/ }}</ref><ref>{{cite web |title=My conversation with Mr Hiroyuki Imabayashi |url=https://sokoboxes.com/articles/my-conversation-with-mr-hiroyuki }}</ref> The first commercial game was published in December 1982 by [[Thinking Rabbit]], a [[software company|software house]] based in [[Takarazuka, Hyōgo|Takarazuka]], [[Japan]]. ''Sokoban'' was a hit in Japan, selling more than 400,000 copies before being released in the United States.<ref>{{cite magazine |author=Lafe Low |magazine=[[inCider]] |title=News Line; Made in Japan |date=November 1988 |page=14 }}</ref> In 1988, ''Sokoban'' was published in US by [[Spectrum HoloByte]] for the [[IBM PC]], [[Commodore 64]], and [[Apple II]] as ''[[Soko-Ban]]''.<ref>{{cite conference |author1=Austin Barr |author2=Calvin Chung |author3=Aaron Williams |title=Block Dude Puzzles are NP-Hard (and the Rugs Really Tie the Reductions Together) |page=1 |year=2021 |conference=CCCG (2021) |url=https://www.cs.ucf.edu/courses/cot6410/Spring2022/SampleTopics/Games/CLAIMED_JesseChehal_BlackDudePuzzles.pdf#page=2 }}</ref>
+
+==Implementations==
+Implementations of ''Sokoban'' have been written for almost all [[home computer]] and [[personal computer]] systems. Different versions also exist for [[video game console]]s, [[mobile phone]]s, [[graphing calculator]]s, [[digital camera]]s<ref>{{Cite web |title=CHDK 1.5 User Manual |url=https://chdk.fandom.com/wiki/CHDK_1.5_User_Manual |access-date=2023-07-13 |website=CHDK Wiki |language=en }}</ref> and [[electronic organizer]]s.
+
+==Scientific research==
+''Sokoban'' has been studied using the theory of [[Computational complexity theory|computational complexity]]. The computational problem of solving ''Sokoban'' puzzles was first shown to be [[NP-hardness|NP-hard]].<ref>{{cite journal |author1=Michael Fryers |author2=Michael Greene |title= Sokoban |journal=Eureka |issue=54 |year=1995 |pages=25-32 |url=https://www.archim.org.uk/eureka/archive/Eureka-54.pdf#page=28 }}</ref><ref>{{cite journal |author1=Dorit Dor |author1-link= Dorit Dor |author2=Uri Zwick |author2-link=Uri Zwick |title=SOKOBAN and other motion planning problems |journal=[[Computational Geometry (journal)|Computational Geometry]] |volume=13 |issue=4 |year=1999 |pages=215–228 |doi=10.1016/S0925-7721(99)00017-6 |doi-access=free}}</ref> Further work proved it is also [[PSPACE-complete]].<ref>{{cite journal |author=Joseph C. Culberson |title=Sokoban is PSPACE-complete |journal=Technical Report TR 97-02, Dept. of Computing Science, University of Alberta |year=1997 |url=http://cl-informatik.uibk.ac.at/teaching/ss07/alth/material/culberson97sokoban.pdf }}</ref><ref>{{cite thesis |author=Robert Aubrey Hearn |title=Games, Puzzles, and Computation |degree=PhD |pages=98-100 |publisher=Massachusetts Institute of Technology |year=2006 |url=https://erikdemaine.org/theses/bhearn.pdf#page=98 }}</ref>
+
+Search for a solution to a ''Sokoban'' puzzle is difficult for computers due to the many possible legal pushes at each turn ([[branching factor]]) and the possibly long sequence of moves needed to reach a solution ([[search tree]] depth).<ref>{{cite conference |author1=Andreas Junghanns |author2=Jonathan Schaeffer |title=Sokoban: Improving the Search with Relevance Cuts |date=2001 |url=https://webdocs.cs.ualberta.ca/~jonathan/publications/ai_publications/tcs.pdf#page=5 |page=5 |doi=10.1016/S0304-3975(00)00080-3 |doi-access=free}}</ref><ref>{{cite web |author=Yaron Shoham |title=FESS Draft |page=3 |year=2020 |url=https://festival-solver.site/wp-content/uploads/2020/08/FESS_draft.pdf#page=3 }}</ref> Even small puzzles can require lengthy solutions.<ref>{{cite web |author1=David Holland |author2=Yaron Shoham |title=Theoretical analysis on Picokosmos 17 |url=http://membres.lycos.fr/nabokos/analysis.html |archive-url=https://web.archive.org/web/20160607071224/http://www.abelmartin.com/rj/sokobanJS/sokoban-jd.blogspot/sokoban_lessons/picokosmos17/analysis.htm |archive-date=2016-06-07 }}</ref>
+
+The ''Sokoban'' game provides a challenging testbed for developing and evaluating [[automated planning|planning]] techniques. <ref>{{cite conference |author1=Andreas Junghanns |author2=Jonathan Schaeffer |title=Sokoban: Evaluating standard single-agent search techniques in the presence of deadlock |date=1998 |url=https://webdocs.cs.ualberta.ca/~jonathan/publications/ai_publications/ai98_soko.pdf#page=4 |page=4 }}</ref><ref>{{cite thesis |author=Timo Virkkala |title=Solving Sokoban |degree=MSc |page=1 |publisher=University of Helsinki |year=2011 |url=https://weetu.net/Timo-Virkkala-Solving-Sokoban-Masters-Thesis.pdf#page=5 }}</ref> The first documented automated solver was ''Rolling Stone'', developed at the [[University of Alberta]]. Its core principles laid the groundwork for many newer solvers. It employed a conventional search algorithm enhanced with domain-specific knowledge.<ref>{{cite journal |author1=Andreas Junghanns |author2=Jonathan Schaeffer |title=Sokoban: Enhancing general single-agent search methods using domain knowledge |journal=Artificial Intelligence |volume=129 |issue=1-2 |year=2001 |pages=219-251 |doi=10.1016/S0004-3702(01)00109-6 |doi-access=free }}</ref> ''Festival'', utilizing its FESS algorithm, was the first automatic solver to complete all 90 puzzles in the widely used XSokoban test suite.<ref>{{cite conference |author1=Yaron Shoham |author2=Jonathan Shaeffer |title=The FESS Algorithm: A Feature Based Approach to Single-Agent Search |date=2020 |url=https://ieee-cog.org/2020/papers/paper_44.pdf |conference=2020 IEEE Conference on Games (CoG) |location=Osaka, Japan |doi=10.1109/CoG47356.2020.9231929 |publisher=IEEE}}</ref><ref>{{cite web |author=Yaron Shoham |title=FESS presentation at the CoG conference (17.5 minutes) |url=https://archive.org/details/fess-algorithm |website=archive.org |language=en |format=video |date=2020}}</ref> However, even the best automated solvers cannot solve many of the more challenging puzzles that humans can solve with time and effort.<ref>{{cite web |url=https://archive.org/download/lets-logic-bots-statistics/lets-logic-bots-statistics-2024-apr-19.pdf |title=Let's Logic Bots Statistics |access-date=19 April 2024 }}</ref><ref>{{cite web |url=https://sokoban-solver-statistics.sourceforge.io/statistics/LargeTestSuite/ |title=Sokoban Solver Statistics - Large Test Suite |access-date=14 April 2024 }}</ref>
+
+==Variants==
+Several puzzles can be considered variants of the original ''Sokoban'' game in the sense that they all make use of a controllable character pushing boxes around in a [[maze]].
+
+* '''Alternative tilings''': In the standard game, the mazes are laid out on a [[square tiling|square grid]]. Several variants apply the rules of ''Sokoban'' to mazes laid out on other tilings. ''Hexoban'' uses [[hexagonal tiling|regular hexagons]], and ''Trioban'' uses [[triangular tiling|equilateral triangles]].
+* '''Multiple pushers''': In the variant ''Multiban'', the puzzle contains more than one pusher. In the game ''Sokoboxes Duo'', strictly two pushers collaborate to solve the puzzle.
+* '''Designated storage locations''': In ''Sokomind Plus'', some boxes and target squares are uniquely numbered. In ''Block-o-Mania'', the boxes have different colours, and the goal is to push them onto squares with matching colours. 
+* '''Alternative game objectives''': Several variants feature different objectives from the traditional Sokoban gameplay. For instance, in ''Interlock'' and ''Sokolor'', the boxes have different colours, but the objective is to move them so that similarly coloured boxes are adjacent. In ''CyberBox'', each level has a designated exit square, and the objective is to reach that exit by pushing boxes, potentially more than one simultaneously. In a variant called ''Beanstalk'', the objective is to push the elements of the level onto a target square in a fixed sequence.
+* '''Additional game elements''': ''Push Crate'', ''Sokonex'', ''Xsok'', ''Cyberbox'' and ''Block-o-Mania'' all add new elements to the basic puzzle. Examples include holes, teleports, moving blocks and one-way passages.
+* '''Character actions''': In ''Pukoban'', the character can pull boxes in addition to pushing them.
+* '''Reverse mode''': In this variant, the player solves the standard puzzle backward, starting with all boxes on goal squares. Then the player pulls the boxes to reach the initial position. Solutions obtained in reverse mode can be directly applied to solve the standard puzzle by reversing the order of the moves. This makes reverse mode a useful tool for players, allowing them to develop strategies for solving puzzles in the standard game.<ref>{{cite web |author=Frank Takes |title=Sokoban: Reversed Solving |year=2008 |url=https://liacs.leidenuniv.nl/~takesfw/pdf/sokoban.pdf }}</ref>
+
+==See also==
+{{Portal|Japan|Video games}}
+* [[Logic puzzle]]
+* [[Sliding puzzle]]
+* [[Transport puzzle]]
+* [[Motion planning]]
+
+==External links==
+* [http://www.sokoban.jp/ Official Sokoban site] (in Japanese)
+* [http://www.cs.ualberta.ca/~games/Sokoban/ The University of Alberta Sokoban page]
+
+==References==
+{{reflist}}
+<!-- NB: References are *not* the same thing as external links; they are resources used to write, or useful in verifying the article's content -->
+
+{{Video game genre}}
+
+{{DEFAULTSORT:Sokoban}}
+[[Category:1982 video games]]
+[[Category:ASCII Corporation games]]
+[[Category:Cancelled Atari Jaguar games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:FM-7 games]]
+[[Category:GP2X games]]
+[[Category:Japanese inventions]]
+[[Category:Linux games]]
+[[Category:Logic puzzles]]
+[[Category:MacOS games]]
+[[Category:Maze games]]
+[[Category:MSX games]]
+[[Category:NEC PC-6001 games]]
+[[Category:NEC PC-8001 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:PSPACE-complete problems]]
+[[Category:Puzzle video games]]
+[[Category:SG-1000 games]]
+[[Category:Sharp MZ games]]
+[[Category:Sharp X1 games]]
+[[Category:X68000 games]]
+[[Category:Single-player video games]]
+[[Category:Thinking Rabbit games]]
+[[Category:Video games developed in Japan]]
+[[Category:Windows games]]
+[[Category:Windows Mobile Professional games]]
+[[Category:ZX Spectrum games]]

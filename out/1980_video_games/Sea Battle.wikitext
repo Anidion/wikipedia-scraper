@@ -1,0 +1,62 @@
+Sea Battle
+Permalink: //en.wikipedia.org/w/index.php?title=Sea_Battle&oldid=1193233654
+Accessed on: 2024-06-26T16:51:52.191517
+
+
+
+------
+Sea Battle
+{{about|the 1980 video game|the article on ship-to-ship combat|Naval warfare}}
+{{Infobox video game
+| title = Sea Battle 
+| image = Sea Battle cover.jpg
+| caption= Cover art
+| developer = [[Mattel]]
+| publisher = Mattel
+| designer = Ken Smith<ref name="INTVlives">{{cite web|url=http://intellivisiongames.com/gamepage.php?gameId=81|title=Sea Battle|work=IntellivisionLives.com|access-date=2010-05-24}}</ref>
+| engine =
+| released = {{vgrelease|NA|[[1980 in video gaming|1980]]}}
+| genre = [[Real-time strategy]]<ref>{{cite web|url=https://www.allgame.com/game.php?id=12239|title=Sea Battle|archive-url=https://web.archive.org/web/20140101010101/https://www.allgame.com/game.php?id=12239|archive-date=2014-01-01|url-status=dead|website=[[All Media Network#AllGame|AllGame]]}}</ref>
+| modes = [[Multiplayer video game|Multiplayer]]
+| platforms = [[Intellivision]]
+}}
+
+'''''Sea Battle''''' is a multiplayer strategy game released by [[Mattel]] for its [[Intellivision]] [[gaming console|video game system]] in 1980. In the game, players command fleets of naval vessels attempting to invade the harbor of their opponent.
+
+==Gameplay==
+In ''Sea Battle'', players must successfully invade the home port of their opponent while protecting their own ports from invasion. Game play takes place in an island-dotted ocean, with one player's home port at the lower-left corner of the screen and the other player's home port at the upper-right corner. Each player has access to thirteen naval vessels representing eight different ship types.<ref name="SBInst">{{cite web|url=http://www.intellivisiongames.com/bluesky/games/instructions/action/seabttle.txt|title=Sea Battle instructions|work=IntellivisionLives.com|access-date=2010-05-24}}</ref> The player may organize these ships into smaller fleets, with a maximum of three ships per fleet and four fleets active at one time. Single-ship fleets are permitted, while larger fleets may not have two ships of the same type in one fleet. When fleets are deployed, the first ship selected as part of the fleet becomes its flagship.
+
+During the game's "strategy phase," players can only see the location of enemy fleets on the screen, and not what ships are within them. Players may only direct one fleet at a time, and may cycle through them at any time. Players move the fleets by directing them on the desired heading, with the fleet moving in that direction until ordered to stop or until encountering land or another fleet. Should two opposing fleets approach each other, all action stops and the two fleets begin to flash rapidly. Either player may choose to engage in battle, or if neither player engages, the two fleets will continue moving their separate ways after a few moments.
+
+When two fleets engage, ''Sea Battle'' enters the "combat phase." The action zooms into the section of the ocean where the fleets are located, and both fleets become visible. Players take control of their respective flagships and attempt to sink the ship(s) in the opponent's fleet. Ships can be damaged by enemy fire or by colliding with land, and sink when they have taken too much damage for that particular ship type. If the player's flagship sinks, control shifts to the next ship in that player's fleet. Combat ends and the game returns to the strategy phase when all ships in one player's fleet are destroyed. A player may also choose to retreat from battle, but must survive for 15 seconds after sounding the retreat in order to successfully escape.
+
+Ships that have been damaged can be repaired by directing them back to the player's home port. Also, fleets may be disbanded and re-assembled while in the home port. However, the player may only do so a combined total of three times per game. Gameplay continues in this fashion until one of the players directs their [[aircraft carrier]] or [[Troopship|troop transport]] into the opponent's home port, thus successfully invading it and winning the game. Should the player lose both ships during battle, any remaining ship in their fleets may invade the port.
+
+===Ship types===
+Each player's overall fleet contains eight different types of naval vessels, each with its own specific characteristics. [[Aircraft carrier]]s and [[Troopship|troop transport]]s are slow to move and weakly armed, but are well armored and are necessary to capture the opponent's home port. [[Battleship]]s and [[destroyer]]s are well-rounded escort vessels, while [[submarine]]s and [[PT boat]]s trade armor strength for speed and attack power.
+
+Each player's [[minelayer]] can place up to four minefields at strategic locations in the ocean. Minefields are invisible to both players and are live immediately after being placed. The mines are harmless to fleets belonging to the player that placed them, but will damage, or potentially sink, the flagship of an enemy fleet. However, if a player's fleet contains one of their [[Minesweeper (ship)|minesweeper]]s, the fleet will survive if the player commands the fleet to begin sweeping operations prior to entering the suspected minefield. Fleets are only vulnerable to minefields during the game's strategy phase.
+
+==Legacy==
+An [[Atari 2600]] port to be published by Mattel's [[M Network]] brand was never released.<ref name="INTVlives"/>
+
+''Sea Battle'' is included as part of the ''[[Intellivision Lives!]]'' compilation for computers and other video game consoles.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://intellivisiongames.com/gamepage.php?gameId=81 ''Sea Battle''] at IntellivisionLives
+* [http://www.gamefaqs.com/intellivision/565864-sea-battle ''Sea Battle''] at GameFAQs
+
+[[Category:1980 video games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Intellivision games]]
+[[Category:Intellivision-only games]]
+[[Category:Mattel video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Real-time strategy video games]]
+[[Category:Strategy video games]]
+[[Category:Submarine simulation video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer video games]]

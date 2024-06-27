@@ -1,0 +1,68 @@
+The Scrolls of Abadon
+Permalink: //en.wikipedia.org/w/index.php?title=The_Scrolls_of_Abadon&oldid=1224118262
+Accessed on: 2024-06-26T16:57:32.563798
+
+
+
+------
+The Scrolls of Abadon
+{{short description|1984 video game}}
+
+{{Infobox video game
+| title = The Scrolls of Abadon
+| image = The_Scrolls_of_Abadon_Cover_Art.jpg
+| caption = 
+| released = 1984
+| designer = Frank Cohen
+| programmer = 
+| composer = 
+| publisher = [[Access Software]]<br>Americana
+| developer =  Fanda
+| platforms = [[Atari 8-bit]], [[Commodore 64]]
+| genre = [[Maze video game|Maze]]
+}}
+
+'''''The Scrolls of Abadon''''' is a [[maze video game]] designed by Frank Cohen and published in 1984 by [[Access Software]] for [[Atari 8-bit computers]] and [[Commodore 64]].<ref name="giantlist"/>
+
+==Gameplay==
+[[File:The_Scrolls_of_Abadon_Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit gameplay]]
+
+The object of ''The Scrolls of Abadon'' is to collect all sixteen pieces of magic "amulate", which are spread over four levels of increasing difficulty. The game takes place in an [[isometric view]] on a scrolling platform filled with gems, spells, or pieces of "amulate" for the taking. All gems in a location must be collected to activate the "Power Disk", which the player can then use to change the location. Each time the player collects a jewel, an arrow is left behind to indicate the direction they came from, preventing movement in the opposite direction. To complicate matters, a variety of deadly creatures occasionally appear in the maze. Fortunately, there are various spells available in the game that the player can collect. The spell is activated by typing the correct word on the keyboard (provided the player has the corresponding spell). 
+
+Points are awarded for collecting gems, a spell, or a piece of "amulate," and extra lives are awarded every 20 000 points.
+
+==Development==
+A pre-release version of the game was titled ''Hocus Pocus''.<ref name="atarimania"/>
+
+==Reception==
+The game received mediocre reviews. [[Bill_Kunkel_(journalist)|Bill Kunkel]] reviewed the game for ''[[Electronic Games]]'' and was not impressed: "there is no excuse, in this day and age, for a piece of software this poorly conceived and executed."<ref name="eg"/> ''[[Zzap!64]]'' was similarly critical in its review and gave the game an overall very poor 28%.<ref name="zzap"/> Steve Panak was more lenient in his review for ''[[ANALOG Computing]]'' and stated: "Overall, the Scrolls of Abadon is an interesting game which you can play for a fair amount of time before mastering, the main problem being that there is little motivation to do so."<ref name="analog"/>
+
+==See also==
+{{Portal|Video games}}
+Other games written by Frank Cohen:
+* ''[[Clowns and Balloons]]'' (1982)
+* ''[[Cohen's Towers]]'' (1983)
+* ''[[Ghost Chaser]]'' (1984)
+* ''[[Ollie's Follies]]'' (1984)
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="atarimania">{{cite web |title=Hocus Pocus |url=http://www.atarimania.com/game-atari-400-800-xl-xe-game-atari-400-800-xl-xe-hocus-pocus_37693.html |website=Atari Mania}}</ref>
+<ref name="zzap">{{cite journal |title=Scrolls of Abadon Review |journal=Zzap!64 |date=July 1986 |page=109 |url=https://archive.org/details/zzapp_64_issue_015_600dpi/page/n107/mode/2up}}</ref>
+<ref name="analog">{{cite journal |title=Panak Strikes!: The Scrolls of Abadon |journal=ANALOG Computing |date=May 1985 |page=70 |url=https://archive.org/details/analog-computing-magazine-30/page/n71/mode/2up}}</ref>
+<ref name="eg">{{cite journal |title=Computer Gaming: The Scrolls of Abadon |journal=Electronic Games |date=March 1985 |page=41 |url=https://archive.org/details/Electronic_Games_Volume_03_Number_03_1985-03_Reese_Communications_US/page/n39/mode/2up}}</ref>
+}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-400-800-xl-xe-scrolls-of-abadon-_s4555.html ''The Scrolls of Abadon''] at Atari Mania
+*{{Lemon64 game|id=2242}}
+
+{{DEFAULTSORT:Scrolls of Abadon}}
+[[Category:1984 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Maze games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with isometric graphics]]
+[[Category:Access Software games]]

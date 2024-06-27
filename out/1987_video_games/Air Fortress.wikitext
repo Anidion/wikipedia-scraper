@@ -1,0 +1,74 @@
+Air Fortress
+Permalink: //en.wikipedia.org/w/index.php?title=Air_Fortress&oldid=1193987843
+Accessed on: 2024-06-26T17:01:30.702982
+
+
+
+------
+Air Fortress
+{{Infobox video game
+| title = Air Fortress
+| image = Air Fortress Cover.png
+| caption = Box art of ''Air Fortress'' NES version
+| developer = [[HAL Laboratory]]
+| publisher = HAL Laboratory
+| designer = Hiroaki Suga
+| composer = Hideki Kanazashi
+| platforms = [[Nintendo Entertainment System]]
+| released = {{vgrelease|JP|August 17, 1987}}{{vgrelease|NA|September 1989}}{{vgrelease|AU|1989}}
+| genre = [[Run and gun (video game)|Run and gun]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+{{Nihongo|'''''Air Fortress'''''|エアー・フォートレス Eā Fōtoresu|lit. "Air Fortress"}} is a [[Run and gun (video game)|run-and-gun]] [[video game]] developed and published by [[HAL Laboratory]] for the [[Nintendo Entertainment System]]. It was released in Japan in August 1987, in North America in September 1989 after an initial test release of 385 copies in 1987,<ref>{{cite web|title=Game review: Hal's Air Fortress for #Nintendo #NES|url=http://8-bitcentral.com/reviews/nesAirFortress.html|website=8-bitcentral.com|publisher=8-Bit Central|accessdate=11 December 2015}}</ref> and an Australian release in 1989.<ref>{{cite web|title=Air Fortress Release Information for NES - GameFAQs|url=http://www.gamefaqs.com/nes/587079-air-fortress/data|website=gamefaqs.com|publisher=CBS Interactive Inc.|accessdate=11 December 2015}}</ref>
+
+== Story ==
+The people of the planet Farmel, having recently gained the technology for space travel, eagerly explored the galaxy only to find a herd of monstrous "Air Fortresses" moving in their direction. They quickly discovered that the Fortresses behaved like interstellar locusts, consuming all of the resources and living things in their path. The Space Federation sent their mightiest fleet, which was quickly eliminated by the powerful Fortresses. In a final gambit they send a single warrior named Hal Bailman, outfitted with a shielded spacesuit, powerful weapons, and small "lightship" to infiltrate the Fortresses and destroy them from the inside out.<ref>{{cite web|title=Air Fortress for NES (1987) - MobyGames|url=https://www.mobygames.com/game/air-fortress|website=mobygames.com|publisher=Blue Flame Labs.|accessdate=11 December 2015}}</ref>
+
+== Gameplay ==
+[[Image:AirFortress.png|thumb|left|Inside the Air Fortress]]
+As Hal Bailman, the player infiltrates the progressively more challenging Air Fortresses. Each Air Fortress has two levels: the Air Base and the Fortress itself.
+
+=== Air Base ===
+On approach to the Air Fortress, Hal Bailman battles the enemy from his lightship. The gameplay is that of a [[Shoot 'em up#Scrolling shooters|side-scrolling shooter]]. During this phase, the player has three attempts to successfully reach the [[airlock|Air Lock]] that grants access to the Air Fortress. Along the way, the player must dodge a variety of flying enemies and space station parts. The player also has a chance during this phase to collect energy and "crash beam bullets," a more powerful ammunition that is limited in supply, that can be used inside the Fortress.
+
+In this mode of play, a single hit will destroy the player's ship.  In the Japanese version, if Hal collides with an enemy while on his lightship he must restart the approach sequence from the beginning; however, in the American version the player will automatically be respawned from the same point at which his ship was destroyed, provided that they have extra lives.
+
+=== Air Fortress ===
+Inside the Fortress, the game becomes an [[action-adventure game]]. The player now has more control over where they go, and finding one's way through the massive Fortresses is one of the major challenges of the game. The player must navigate through the maze, fight off enemy robots, security devices, and spacemen with their beam weapon, locate and destroy the central core of the Fortress, and find their ship to escape. The last is perhaps the most difficult part, since the Fortress explodes shortly after the core is destroyed and the player only has a short window of time in which to escape, with the exit never situated in the same place as where the player entered the maze.
+
+== Development and release ==
+''Air Fortress'' was developed by [[Japan]]ese video game maker [[HAL Laboratory]]. "SUGA," the password for the final air fortress, is a reference to Air Fortress director, game designer, and programmer Hiroaki Suga. While the US version credits sound composer Hideki Kanazashi as "Rodeo Kanagushi", the Japanese version credits him as "Jumper Kanagushi".{{cn|date=February 2021}}
+
+HAL America offered ''Air Fortress'' by mail order through a national advertising campaign. Players who purchased the game through HAL received a free ''Air Fortress'' T-shirt.
+
+== Reception ==
+{{Video game reviews
+|Allgame = {{Rating|2.5|5}}<ref name="AGaf">{{cite web|last=Babb|first=Shelby|url=http://www.allgame.com/game.php?id=11645&tab=review|title=Air Fortress - Review|work=[[AllGame]]|publisher=[[All Media Network]]|date=1998|access-date=2022-12-11|archive-url=https://web.archive.org/web/20141115035928/http://www.allgame.com/game.php?id=11645&tab=review|archive-date=2014-11-15|url-status=live}}</ref>
+|JXV = 16/20<ref name="JXVaf">{{cite web|author=Goten67|url=https://www.jeuxvideo.com/articles/0001/00016810-air-fortress-test.htm|title=Test de Air Fortress sur NES par jeuxvideo.com|work=[[Jeuxvideo.com]]|publisher=[[Webedia]]|date=March 23, 2012|access-date=2022-12-11|language=fr|archive-url=https://web.archive.org/web/20120411050549/https://www.jeuxvideo.com/articles/0001/00016810-air-fortress-test.htm|archive-date=2012-04-11|url-status=live}}</ref>
+|NP = 3.5/5<ref name="NPaf">{{cite magazine|title=Video Shorts: Air Fortress from Hal|magazine=[[Nintendo Power]]|issue=8|publisher=[[Nintendo of America]]|date=September–October 1989|page=78}}</ref>
+|rev1      = ''Computer Entertainer''
+|rev1Score = {{Rating|5.5|8}}<ref name="CEaf">{{cite magazine|url=https://retrocdn.net/index.php?title=File:ComputerEntertainer_US_Vol.8_08.pdf&page=11|title=Gaming's Heartbeat — The Video Game Update: Nintendo Software - Air Fortress|magazine=[[Computer Entertainer]]|volume=8|issue=8|date=November 1989|page=11}}</ref>
+|rev2 = ''[[Hardcore Gaming 101]]''
+|rev2Score = 8/10<ref name="HG101af">{{cite web|last=King|first=Adam|url=http://www.hardcoregaming101.net/nes/airfort.htm|title=Classic Review Archive - Air Fortress|work=[[Hardcore Gaming 101]]|date=2010|access-date=2022-12-11|archive-url=https://web.archive.org/web/20100619012403/http://www.hardcoregaming101.net/nes/airfort.htm|archive-date=2010-06-19|url-status=live}}</ref>
+|rev3 = ''Play Time''
+|rev3Score = 69%<ref name="PTaf">{{cite magazine|last=Menne|first=Oliver|url=https://retrocdn.net/index.php?title=File:PlayTime_DE_1992-07.pdf&page=88|title=Marios Magic: Air Fortress|magazine={{ill|Play Time (magazine)|lt=Play Time|de|Play Time}}|issue=14|publisher=[[Computec]]|date=July 1992|page=88|language=de}}</ref>
+}}
+
+''Air Fortress'' garnered average reviews from critics. ''[[VideoGames & Computer Entertainment]]''{{'}}s [[Andy Eddy]] remarked that the game offered "a great deal" of originally with its mixture of arcade and adventure aspects, but found the music to be repetitive and felt that the overall design could have used more color.<ref name="VGCEaf">{{cite magazine|last=Eddy|first=Andy|author-link=Andy Eddy|url=https://archive.org/details/video-games-and-computer-entertainment-issue-7-august-1989/page/n35/mode/1up|title=Video Game Reviews - Air Fortress (HAL America) For the Nintendo Entertainment System|magazine=[[VideoGames & Computer Entertainment]]|issue=7|publisher=[[Larry Flynt Publications]]|date=August 1989|page=36}}</ref> ''[[Nintendo Power]]'' gave the game positive ratings to its audiovisual presentation, control, challenge and fun factor.<ref name="NPaf"/> ''Computer Entertainer'' commended the visuals but noted that the game's difficulty increased quickly after the first fortress, and found the shooter sequences less interesting than the fortresses.<ref name="CEaf"/> ''Play Time''{{'}}s Oliver Menne highlighted its smooth scrolling and lack of flickering, while praising [[HAL Laboratory|HAL]] for their work with the graphics and music.<ref name="PTaf"/>
+
+Retrospective reviews for ''Air Fortess'' have been more mixed.<ref name="CHVG1985">{{cite book|last=Weiss|first=Brett|title=Nintendo NES - Air Fortress|work=Classic Home Video Games, 1985-1988: A Complete Reference Guide|edition=1st|publisher=[[McFarland & Company]]|date=2009|page=35|isbn=978-0-7864-3660-6}}</ref><ref name="UN:GttNESL">{{cite book|last=Conti|first=Pat|title=Banana Prince|work=Ultimate Nintendo: Guide to the NES Library|publisher=Contri Code Productions|date=May 15, 2016|isbn=978-0-9973283-0-1}}</ref> ''[[AllGame]]''{{'}}s Shelby Babb expressed that the game "does a good job at combining levels of side-scrolling shooting with exploration-style adventure."<ref name="AGaf"/> ''Game Freaks 365''{{'}}s Stan Stepanic praised the music but felt mixed with the visuals, while criticizing its gameplay and difficulty level.<ref name="GF365af">{{cite web|last=Stepanic|first=Stan|url=http://www.gamefreaks365.com/review.php?artid=1434|title=Air Fortress Review|work=Game Freaks 365|date=2005|access-date=2022-12-11|archive-url=https://web.archive.org/web/20080623183330/http://www.gamefreaks365.com/review.php?artid=1434|archive-date=2008-06-23|url-status=live}}</ref> ''[[Hardcore Gaming 101]]''{{'}}s Adam King felt overall mixed about the audiovisual presentation but commended the controls.<ref name="HG101af"/> A writer for ''[[Jeuxvideo.com]]'' gave the title a positive outlook.<ref name="JXVaf"/>
+
+== References ==
+{{Reflist}}
+{{Use dmy dates|date=June 2017}}
+
+[[Category:1987 video games]]
+[[Category:HAL Laboratory games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo Entertainment System-only games]]
+[[Category:Run and gun games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games set in outer space]]
+[[Category:Single-player video games]]

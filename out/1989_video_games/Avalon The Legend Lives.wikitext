@@ -1,0 +1,138 @@
+Avalon: The Legend Lives
+Permalink: //en.wikipedia.org/w/index.php?title=Avalon%3A_The_Legend_Lives&oldid=1211927208
+Accessed on: 2024-06-26T17:05:38.703680
+
+
+
+------
+Avalon: The Legend Lives
+{{short description|Fantasy multi-player role-playing game}}
+{{Infobox video game
+| title     = Avalon: The Legend Lives
+| developer = Yehuda Simmons
+| engine    = Hourglass
+| platforms = [[Cross-platform|Platform independent]]
+| released  = 1989
+| genre     = Fantasy [[Multi-user dungeon|MUD]]
+| modes     = [[Multiplayer]]
+| image     = Avalon The Legend Lives.jpg
+| caption   =
+| alt       =
+| publisher = Yehuda Simmons
+}}
+'''''Avalon: The Legend Lives''''' is a [[Text-based game|text-based]] online multi-player role-playing [[Virtual world|game world]] that was first released on 28 October 1989 at the gaming convention Adventure 89. It has maintained a near-continuous on-line presence with consistent and intact persona files and player history since the late 1980s. Until regular outages began occurring in 2023, it was the longest continuously running online role-playing game in history.{{R|BartleMud}}{{R|Koster}}{{R|IHIR2}}
+
+While it follows closely in the tradition of many early [[multi-user dungeon]]s,<ref>{{cite magazine|author=Brad King |url=https://www.wired.com/gaming/gamingreviews/news/2002/07/53765 |title=Games Started Off Without a Bang |magazine=Wired |date= |access-date=2012-06-22}}</ref> ''Avalon'' offered many features that have since become signature components of the role-playing game genre: real economies, distinct ecosystems and weather effects, gods with followers and priests, player housing and autonomous governments, and skill-based real time player vs player (PvP) combat, and a warfare system.
+
+Within ''Avalon'', players are offered the opportunity to "live another life"; to fully immerse themselves in the gameworld—a world of merchants, thieves, princes, gods, dragons, and more. It is a game where its history and narrative can be decided, in part, by the players themselves.
+
+==Technical information and history==
+The first non-public incarnation of '' Avalon'' was written as a four- to eight-player MUD called ''Lands of the Crown'' on the BBC Micro Model B 32K in 6502 assembly language during 1988 to early 1989. It was superseded by the fledgling ''Avalon'' coded in the bespoke language Hourglass in ARM Assembler, written by Yehuda Simmons and then joined circa May 1990 by Daniel James,{{R|Bartle2}} run on the [[Acorn Archimedes]] A440. It debuted at the last of the Mega Meets, Adventure 89, and initially ran on the IOWA system from 11 November 1989 until it went independent during May 1990. It opened its first 'Hostplay' in [[Camden, London]], which hosted ten 2400-[[baud]]-modem–based dial-in lines and six onsite machines.
+
+''Avalon'' arrived on the internet via Avalon.co.uk on 14 October 1994, transitioning from the Archimedes to an [[Intel Pentium]] PC running [[Debian]] Linux. It was subsequently transferred to a dedicated managed server on [[Red Hat Linux]] where, other than shifting to [[Ubuntu (operating system)|Ubuntu]], it has remained ever since.
+
+A second iteration of ''Avalon'' opened in [[Sheffield]] on 1 May 1992, primarily to circumvent the exorbitant cost of online play at national UK call rates. This remained open until Sunday, 7 May 1995 at ''Avalon'' version '87, when its players transferred onto the now global ''Avalon''.
+
+A further iteration of ''Avalon'' named ''Avalon: The First Age'' went online 7 November 1999. It was created to represent a lost era of ''Avalon'' that lacked many of the evolutions that the main iteration of ''Avalon'' had implemented since its inception. It continued until 31 December 2014, when its final players took the 'Voyage of Apotheosis' and transferred to ''Avalon: The Legend Never Dies'', continuing the game's stance of continuous character development.
+
+==Character skills and creation==
+''Avalon'' was the first text-based multi-user role-playing game to offer a developed profession and skills system.{{R|BartleMud}} ''Avalon'' differed in that one could choose from one of three cities, each of which had guild variations of iconic professions, such as Mage, Knight, and Bard amongst many others. Choosing a profession then conveyed a bank of general, and guild-specific, skills each containing a ladder of skills that could be invested-in via lessons. Initially, there were around 30 such skills with approximately 17 abilities in each, including Riding, Perception, Thievery, or Demonology. As of 2015, ''Avalon'' possesses 66 skills with 2194 distinct abilities developed over its first 26 years.
+
+==Business model==
+''Avalon''{{'}}s virtual business model was also noted as being the first of its kind. [[Richard Bartle]] highlighted the system by which Avalon rewarded players with lessons and thus skill advancement based on how long they remained logged in.{{R|Bartle3}} It achieved early commercial success in an era of no internet and prohibitive telephone call rates.{{R|IHIR1}} This system has remained in place through all variations of hourly charge and monthly subscription, together with purchasable lessons for faster character progression and a life-time subscription option for dedicated players. While the game's engine began an overhaul starting in the mid-2010s, ''Avalon'' became free-to-play via a "sponsored" mechanism where cities could host a player, that came with a modest economic cost to the sponsoring city.
+
+The game also implemented an optional tiered subscription model that still allowed for expedited character progression, using a similar monthly pricing scheme as before. Sponsored players had all the same access as subscribed players, and there was no distinction made by the game on how far sponsored-status players were able to progress their characters.  Starting around 2015, the marketing manager, Mathew Abonyi, implemented a complex "trinket" system where players could purchase powerful in-game items including "Fireflies" that provide automated healing of afflictions, special equipment that grants improved health or mana caps and/or faster-than-normal regeneration, and even forms of transportation that could instantly bring the player to any other player in the game, with the exception of only a few special 'protected' locations. The more powerful items range in cost from hundreds to even thousands of real USD.
+
+==Gameplay innovations==
+''Avalon''{{'}}s gameplay innovations are numerous, but is generally recognized for a number of landmarks in multiplayer text-based role-play: professions and skills; a banking, commodity and trade system; Item ownership; purchasable real estate,{{R|Koster}} which resulted in the first virtual transaction for housing in 1989 with first-born player Gniblik purchasing and then selling for profit a house in Avalon's first city Mercinae. This prompted the opening of the first bank and subsequent first deposit by Gniblik of the princely sum of 4000 gold.{{R|AvalonRPG}}
+
+==Gods and player ordinations==
+Departing from the traditional end point of a player becoming a [[Wizard (MUD)|Wizard]], ''Avalon'' was amongst the first to use the term [[God (MUD)|God]] alongside another 1989 launch, 'Lap of the Gods' by author Ben Laurie.{{R|BartleMud}} Ordination in ''Avalon'' also comes not from amassing points via treasure or experience but by one of two routes: appointment through merit, or the arduous task of competitive ordination which often featured heavy elements of ''Avalon''{{'}}s pivotal PVP combat system fought in team battles often over many months as the eligible players are whittled down to the final one who wins the right of a divine gemstone and a Gods soul. Typically this is in the style of Greco/Roman competition. To date there have been 10 competitive ordinations.  Particular realms the Gods hold control over, however, is not necessarily confined to one player. In some instances, other players would take on the role of a God when the original player was long absent.
+
+Winning ordination is not the end. ''Avalon'' is an open-ended and ongoing game, a developed divinity system in which other mortal players can side with Gods whose sphere they identify with. Systems of offering and worship exist, as well as the rarer divine battles, when opposing gods contest their power. In many cases, Gods were driven off or banished, and almost always to the whim of the higher God administrator, Genesis, the God of Time. The complexity of this aspect was pioneered by ''Avalon'' as the gods, rather than becoming external to the game world, remain within the world's role-play as benevolent, malevolent or indifferent—the key phrase being: ''Gods do not exist because of the mortals; they exist despite them''.{{R|AvalonGods}}{{R|AvalonGods1}}
+
+==Gameworld==
+''Avalon''{{'}}s gameworld features over 21,000 unique locations encompassing 60 individual areas, the majority of which are land-connected. Several areas are accessible only by special means. Most locations have their own unique description and may be one of many different atmospheric types including "forest", "city", "road", and "snow". The four cities are the largest single areas in the world, each boasting around a thousand locations spread out among various streets, homes, shops, marketplaces, combat arenas, and the like.
+
+==Reception==
+{{expand section|date=June 2018}}
+M. Woods of RPGamer stated that ''Avalon'' was one of the few online game he considered to be a real [[Role-playing video game|role playing game]].<ref>{{cite web|url=http://www.rpgamer.com/editor/1998/q4/120398mw.html|title=RPGamer Editorials - What are Role Playing Players Coming To?|date=|publisher=Rpgamer.com|access-date=2012-06-22|archive-url=https://web.archive.org/web/20151028234816/http://www.rpgamer.com/editor/1998/q4/120398mw.html|archive-date=2015-10-28|url-status=dead}}</ref>
+
+==References==
+{{Reflist|colwidth=40em|refs=
+<ref name="BartleMud">{{cite web
+ | last = Bartle | first = Richard
+ | title = Legacy Reviews of MUA and MUDS
+ | date = 2015-12-15
+ | url = http://mud.co.uk/richard/imucg4.htm
+ | access-date = 2015-12-14
+}}</ref>
+<ref name="Bartle2">{{cite web
+ | last = Bartle | first = Richard | author-link = Richard Bartle
+ | url = http://mud.co.uk/dvw/index.html
+ | title = Designing Virtual Worlds.
+ | date = 2003-07-17
+ | quote = “P.50 In 1998, Steve Nichols signed up as lead designer of Middle Earth Online, along with Janus Anderson (also of The Realm), Daniel James (from a topnotch commercial text-based virtual world called Avalon)”
+}}</ref>
+<ref name="Bartle3">{{cite web
+ | last = Bartle | first = Richard | author-link = Richard Bartle
+ | url = http://mud.co.uk/dvw/index.html
+ | title = Designing Virtual Worlds.
+ | date = 2003-07-17
+ | quote = “P.390 In 1998, This was first done implicitly in the early 1990s by Avalon, which allocated skill improvement points to characters depending on how long their players stayed logged in”
+}}</ref>
+<ref name="Koster">{{cite web
+| last = Koster | first = Raph
+| title = The Online World Timeline
+| date = 2015-12-15
+| quote = "The character/persona file predates and is continuous from that day to this surprisingly so one could literally grab the data from the file used in early October 1989 and drop it into the equivalent file used June 2015 and the character continuity would be in tact. [sic] Guinness Book favourable to the notion this makes “Zaphod” the oldest non-admin character in an online game."
+| url = http://www.raphkoster.com/games/the-online-world-timeline/
+| access-date = 2015-12-14
+}}</ref>
+<ref name="AvalonRPG">{{cite web
+| title = Avalon: The Legend Lives Firstborn Document
+| url = http://www.avalon-rpg.com/help/pages/firstborn
+| access-date = 2015-12-14
+}}</ref>
+<ref name="AvalonGods">{{cite journal
+| last = Bartle | first = Richard | author-link = Richard Bartle
+| title = Why Governments aren't Gods and God's aren't Governments
+| journal = First Monday | year = 2006 | doi = 10.5210/fm.v0i0.1612 | url = http://firstmonday.org/ojs/index.php/fm/article/view/1612/1527
+| access-date = 2015-12-16
+| doi-access =  free}}</ref>
+<ref name="AvalonGods1">{{cite web
+| title = Souls for Sale
+| url = http://terranova.blogs.com/terra_nova/2004/07/souls_for_sale.html
+| access-date = 2015-12-16
+ | quote = “I should also mention that we are -not- the first virtual world to implement in-game religion. We did it in 1997, but I know it's existed in virtual worlds since at LEAST 1990. I know Avalon had an in-game virtual religion system before we did, for instance. Matt Mihaly IRE in conversation with Richard Bartle”
+}}</ref>
+<ref name="IHIR1">{{cite book
+ | last = Bartle | first = Richard | editor1-first = Jeremy | editor1-last = Hunsinger | editor2-first = Lisbeth | editor2-last = Klastrup | editor3-first = Matthew | editor3-last = Allen | author-link = Richard Bartle
+ | title = Bartle, Richard A.: From MUDs to MMORPGs: The History of Virtual Worlds. In Hunsinger, Jeremy; Klastrup, Lisbeth; Allen, Matthew (eds.): International Handbook of Internet Research. Springer, 2010.
+ | date = 2010
+ | quote = “P26 Some degree of commercial success came to MUD1, Shades, Gods, Avalon (Simmons, James, Baber, & Evans, 1989) and Federation II 8 (Lenton, 1989).”
+| doi = 10.1007/978-1-4020-9789-8 | isbn = 978-1-4020-9788-1 }}</ref>
+<ref name="IHIR2">{{cite book
+ | last = Bartle | first = Richard | editor1-first = Jeremy | editor1-last = Hunsinger | editor2-first = Lisbeth | editor2-last = Klastrup | editor3-first = Matthew | editor3-last = Allen | author-link = Richard Bartle
+ | title = Bartle, Richard A.: From MUDs to MMORPGs: The History of Virtual Worlds. In Hunsinger, Jeremy; Klastrup, Lisbeth; Allen, Matthew (eds.): International Handbook of Internet Research. Springer, 2010.
+ | date = 2010
+ | quote = "p 35 32 Daniel James has long experience in virtual world design: he was a player of MUD1 for which he wrote the wizards’ guide in 1984 and was one of the designers of Avalon in 1989"
+| doi = 10.1007/978-1-4020-9789-8 | isbn = 978-1-4020-9788-1 }}</ref>
+}}
+
+==External links==
+* {{official website|url=http://www.avalon-rpg.com/}}
+* [https://www.facebook.com/AvalonGameWorld/ Facebook Page]
+
+{{MUDs}}
+{{Authority control}}
+{{Use dmy dates|date=December 2020}}
+
+[[Category:MUD games]]
+[[Category:Java platform games]]
+[[Category:1989 video games]]
+[[Category:Virtual economies]]
+[[Category:Multiplayer online games]]
+[[Category:Online games]]
+[[Category:Browser games]]
+[[Category:Video games developed in the United Kingdom]]

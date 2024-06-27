@@ -1,0 +1,108 @@
+Choplifter
+Permalink: //en.wikipedia.org/w/index.php?title=Choplifter&oldid=1225909970
+Accessed on: 2024-06-26T16:53:09.616661
+
+
+
+------
+Choplifter
+{{short description|Video game first made in 1982 for the Apple II computer}}
+{{Infobox video game
+| title = Choplifter
+| image = Choplifter Cover.jpg
+| caption = Atari 5200 box cover
+| developer = [[Dan Gorlin]]<br />[[Sega]] (arcade remake)
+| publisher = [[Broderbund]] {{vgrelease|EU|[[Ariolasoft]] (C64)}} [[Atari, Inc.]] (5200)<br />[[Atari Corporation|Atari Corp.]] (7800, 8-bit)<br>Sega (arcade, consoles)
+| designer = 
+| released = '''Original''' {{vgrelease|NA|May 21, 1982{{r|lombardy1982sepoct}}<ref>{{cite web |title=Choplifter (Registration Number PA0000170265) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=1 June 2021}}</ref>}} '''Arcade remake''' {{vgrelease|JP|September 25, 1985<ref>{{cite web |title=Choplifter (Registration Number PA0000280077) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=1 June 2021}}</ref>|EU|Late 1985<ref>{{cite web |title=Video Game Flyers: Choplifter, Sega (EU) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=203 |website=The Arcade Flyer Archive |access-date=1 June 2021}}</ref>|NA|December 1985<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |lang=ja |location=Japan |isbn=978-4990251215 |page=131 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n132}}</ref>}}
+| genre = [[Scrolling shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Apple II]], [[Arcade video game|Arcade]], [[Atari 8-bit]], [[Atari 5200]], [[Atari 7800]], [[ColecoVision]], [[Commodore 64]], [[Nintendo Entertainment System|Famicom]], [[Fujitsu FM-7]], [[Master System]], [[MSX]], [[SG-1000]], [[Thomson MO5]], [[Thomson TO7/70]], [[VIC-20]]
+}}
+
+'''''Choplifter''''' (stylized as '''''Choplifter!''''') is a military themed [[scrolling shooter]] developed by [[Dan Gorlin]] for the  [[Apple II series|Apple II]] and published by [[Broderbund]] in 1982. It was ported to [[Atari 8-bit computers]] the same year and also to the [[VIC-20]], [[Commodore 64]], [[Atari 5200]] (released in February 1984),<ref name="CE">{{cite magazine |title=Year-End Index |magazine=[[Computer Entertainer]] |date=January 1985 |volume=3 |issue=10 |page=156 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan85.pdf#page=12}}</ref> [[ColecoVision]], [[MSX]], and [[Thomson computers]].
+
+In 1985, [[Sega]] released a coin-operated [[arcade video game|arcade]] [[Video game remake|remake]], which in turn was ported to the [[Master System]] and [[Nintendo Entertainment System|Famicom]] in 1986. ''Choplifter'' is one of the few games that first appeared on a home system and was ported to the arcades. Graphically enhanced versions for the Atari 8-bit computers and [[Atari 7800]] were also published in 1988 by [[Atari Corporation]].<ref>{{cite web|title=Choplifter!|url=http://www.atarimania.com/game-atari-400-800-xl-xe-choplifter_17338.html|website=Atari Mania}}</ref>
+
+==Gameplay==
+In ''Choplifter'', the player assumes the role of a combat [[helicopter]] [[aviator|pilot]]. The player attempts to save hostages being held in barracks in territory ruled by the evil Bungeling Empire. The player must collect the hostages (described in the backstory as "delegates to the United Nations Conference on Peace and Child Rearing") and transport them safely to the nearby U.S. Postal Service building, all the while fighting off hostile [[tank]]s and other enemy combatants.<ref name="game-box">{{cite video game |title=Choplifter |developer=Broderbund |year=1982 |platform=Apple II, Atari 8-bit computers, Commodore 64 |scene=game packaging}}</ref><ref name="book">{{cite book|last1=Mott|first1=Tony|title=1001 videos games you must play before you die|date=2013|publisher=Cassell Illustrated|location=London|isbn=9781844037667|edition=Revised and updated}}</ref> According to the backstory, the helicopter parts were smuggled into the country, disguised as a "mail-sorting machine".
+
+The helicopter can face three directions: left, right, or forward (facing the player). It may shoot at enemies in any of these directions and need not fly in the same direction it is facing. The forward-facing mode is used primarily to shoot tanks. The player must be careful to protect the hostages from enemy fire as well as avoid hitting the hostages with his own fire.
+
+The player rescues the prisoners by first shooting one of the hostage buildings to release them, landing to allow the prisoners to board the [[sortie]], and returning them to the player's starting point. Each of the four buildings holds 16 hostages, and only 16 passengers can be carried at a time, so several trips must be made. When the chopper is full, no more hostages will attempt to board; they will wave the helicopter off and wait for its return. Usually, each trip back is riskier than the last, since the enemy is alerted and has deployed a counter-attack.
+
+If the player lands directly on top of a hostage, or completely blocks the building exit, the hostages will be killed. In the Apple II and Atari 7800 versions, hostages also die if the vehicle is not landed correctly (it is slightly tilted), being crushed as they attempt to board the chopper. While grounded, the helicopter may be attacked by enemy tanks, which it can shoot at only by returning to the air. Also, the enemy scrambles jet fighters which can attack the vehicle in the air with [[air-to-air missile]]s or on the ground with bombs.
+
+==Development==
+Coming off a stint working for the [[Rand Corporation]], Dan Gorlin initially developed ''Choplifter'' using an Apple II loaned to him by his grandfather.<ref name="Gamasutra">{{Cite web|url=https://www.gamasutra.com/view/feature/134956/choplifter_from_1982_to_2012.php?print=1|title=Choplifter: From 1982 to 2012|author=Frank Cifaldi|date=January 13, 2012|accessdate=June 15, 2018|work=Gamasutra|author-link=Frank Cifaldi}}</ref> At first Gorlin imagined ''Choplifter'' as a 3D game, but switched to a traditional 2D game environment due to technical limitations.
+
+The game was developed in six months. After Gorlin began experimenting with animating a helicopter on the Apple II, he added scenery, tanks, and planes, with the hostages added last. He stated that, as a story developed, "movie camera techniques seemed appropriate", including the final message "The End" instead of "Game Over". Gorlin's first demonstration to Broderbund was "too realistic, too much a helicopter simulation", and the company helped him make it easier to fly.{{r|salmons198207}} The concept of rescuing hostages came about after Gorlin learned about ''[[Defender (1981 video game)|Defender]]'', in which the player must protect people on the ground. Although the [[Iran hostage crisis]] ended the year before the game was released, Gorlin said "the tie-in with current events was something that never really crossed my mind until we published".<ref name=halcyon>{{cite web|url=https://dadgum.com/halcyon/BOOK/GORLIN.HTM |title=Halcyon Days |date=1997 |last1=Hague |first1=James}}</ref>
+
+Gorlin would later revisit the 3D concept in a failed attempt to remake the game in the 1990s.<ref name="Gamasutra" />
+
+==Reception==
+Debuting in May 1982, the game sold 9,000 copies by June, appearing on ''Computer Gaming World''{{'}}s list of top sellers.<ref name="lombardy1982sepoct">{{cite magazine |title=Inside the Industry |url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=6 |format=PDF |magazine=[[Computer Gaming World]] |page=2 |date=September–October 1982 |accessdate= 2016-03-28}}</ref> ''II Computing'' listed ''Choplifter'' seventh on the magazine's list of top Apple II games as of late 1985, based on sales and market-share data.<ref name="ciraolo198510_11">{{cite news | url=https://archive.org/stream/II_Computing_Vol_1_No_1_Oct_Nov_85_Premiere#page/n51/mode/2up | title=Top Software / A List of Favorites | work=II Computing | date=Oct–Nov 1985 | accessdate=28 January 2015 | author=Ciraolo, Michael | pages=51}}</ref>
+
+In Japan, ''Game Machine'' listed Sega's arcade version of ''Choplifter'' in the November 1, 1985, issue as being the most successful table arcade unit on the bi-weekly chart.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=271|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 November 1985|page=23|lang=ja|url=https://onitama.tv/gamemachine/pdf/19851101p.pdf#page=12}}</ref> After being dethroned by [[Taito]]'s ''[[The Legend of Kage]]'' on November 15,<ref>{{cite magazine|title=Best Hit Games 25|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=270|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 November 1985|page=23|lang=ja|url=https://onitama.tv/gamemachine/pdf/19851101p.pdf#page=12}}</ref> ''Choplifter'' returned to the top of the chart on December 1, 1985.<ref>{{cite magazine|title=Best Hit Games 25|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=272|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 December 1985|page=23|lang=ja|url=https://onitama.tv/gamemachine/pdf/19851201p.pdf#page=12}}</ref>
+
+===Reviews===
+''[[Softline (magazine)|Softline]]'' in 1982 called the game "what may well be the first Interactive Computer-Assisted Animated Movie. A fusion of arcade gaming, simulation, and filmic visual aesthetics, ''Choplifter'' is destined to occupy a place in the software Hall of Fame". The magazine praised the animation and the helicopter's "subtle flight control", and concluded that seeing the hostages' "hope and excitement, their faith in you" made the game "hard to play. It hurts to see one of those lively people killed".<ref name="salmons198207">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=6&id=6 | title=The Choppers of Mercy | work=Softline | date=July 1982 | accessdate=17 July 2014 | author=Salmons, Jim | pages=18}}</ref> In 1983 its readers named ''Choplifter'' fourth on the magazine's Top Thirty list of Atari 8-bit programs by popularity.<ref name="softline198303">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 | title=The Most Popular Atari Program Ever | work=Softline | date=March 1983 | accessdate=28 July 2014 | pages=44}}</ref> ''[[BYTE]]'' called ''Choplifter'' "great fun".<ref name="byte198212">{{cite news | url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n85/mode/2up | title=The Coinless Arcade - Rediscovered | work=BYTE | date=December 1982 | accessdate=19 October 2013 | author1=Clark, Pamela | author2=Williams, Gregg | pages=84}}</ref> ''[[Computer Gaming World]]'',<ref>{{citation | date = July–August 1982 | last = Greenlaw | first = Stanley | magazine = [[Computer Gaming World]] | title = Choplifter! Rescue the Hostages | pages = 30, 38}}</ref> ''[[Creative Computing]] Video & Arcade Games'',<ref name="ccvag1983spring">{{Cite magazine |last1=Ahl |first1=David H. |last2=Brill |first2=Andrew |last3=Lubar |first3=David |author-link3=David Lubar |last4=Coffey |first4=Michael |last5=Archibald |first5=Dale |date=Spring 1983 |title=Apple Computer Games |url=http://www.atarimagazines.com/cva/v1n1/applegames.php |magazine=Creative Computing Video & Arcade Games |volume=1 |issue=1 |page=86}}</ref> and ''The Commodore 64 Home Companion''<ref name=C64HC>{{cite web|url=https://archive.org/stream/The_Commodore_64_Home_Companion#page/n167/mode/2up|title=Broderbund Software|work=The Commodore 64 Home Companion|year=1984|access-date=August 19, 2016|pages=166–167}}</ref> praised the graphics and animation, the latter stating that "the little captives running across the desert almost seem alive".
+
+The Apple II version of the game received a Certificate of Merit in the category of "Best Computer Audiovisual Effects" at the 4th annual [[Arkie Awards]],<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= March 1983 |title= Arcade Alley: The Best Computer Games |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 12|pages= 32–33|issn= 0147-8907}}</ref>{{rp|33}} and shortly afterward ''[[Billboard (magazine)|Billboard]]'' named it Computer Game of the Year.<ref name="kleiner19830708">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=12 | title=Billboard Conference | work=Softline | date=Jul–Aug 1983 | accessdate=28 July 2014 | author=Kleiner, Karen | pages=44–45}}</ref> ''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the game an overall A+ rating, calling it "a masterpiece". The book concluded that "the concept, graphics, and animation make this a delightful game".<ref name="aw1984">{{cite book | url=https://archive.org/stream/Atari_Software_1984#page/n73/mode/2up | title=The Addison-Wesley Book of Atari Software | publisher=Addison-Wesley | year=1984 | pages=74 | isbn=0-201-16454-X |editor1=Stanton, Jeffrey |editor2=Wells, Robert P. |editor3=Rochowansky, Sandra |editor4=Mellid, Michael}}</ref>
+
+''[[Console XS]]'' magazine reviewed the Sega Master System version, giving it an 85% score.<ref>{{cite magazine |title=Software A-Z: Master System |magazine=[[Console XS]] |date=23 April 1992 |issue=1 (June/July 1992) |publisher=[[Paragon Publishing]] |location=United Kingdom |pages=137–47 |url=https://archive.org/details/console-xs-01/page/137}}</ref> ''[[Computer and Video Games]]'' magazine reviewed the Master System version in 1989, giving it an 87% score. They also reviewed the ColecoVision and Atari 7800 versions, giving them 81% and 84% scores, respectively.<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+
+==Legacy==
+''[[Choplifter II]]'', subtitled "Rescue Survive", was released for the [[Game Boy]] in 1991, then remade for both the Game Boy and [[Game Gear]] as ''[[Choplifter III]]'' in 1994. An unrelated ''[[Choplifter III]]'' was released for [[Super NES]].
+
+In late 1997, Gorlin and his development team, Ariok Entertainment, were working on a ''Choplifter'' game for IBM PC compatibles which would be in 3D and have multiplayer functionality.<ref>{{cite magazine |title=In the Studio |magazine=[[Next Generation (magazine)|Next Generation]] |issue=38 |publisher=[[Imagine Media]] |date=February 1998|page=28}}</ref> The game was never released.
+
+Sega released a pair of [[spiritual successor]]s without the ''Choplifter'' brand:
+* ''[[Air Rescue]]'' (1991) for the [[Sega System 32]] arcade hardware is a first-person, [[pseudo-3D]] take on the concept. 
+* ''[[Air Rescue]]'' (1992) for [[Master System]] more closely resembles 2D ''Choplifter'', but has stages that scroll in all directions.
+
+Programmer Will Botti cited ''Choplifter'' as a major inspiration for his 1996 game ''[[Black Dawn (video game)|Black Dawn]]''.<ref>{{cite magazine|title=Behind the Screens|magazine=[[Electronic Gaming Monthly]]|issue=87 |publisher=[[Ziff Davis]] |date=October 1996|page=158}}</ref>
+
+In 2004, [[Xicat Interactive]] published ''ChopLifter: Crisis Shield'' only in Europe.<ref>{{Cite web|url=https://www.unseen64.net/2008/04/15/choplifter/|title = ChopLifter &#91;PS2 - Cancelled?&#93; - Unseen64|date = 15 April 2008}}</ref><ref>{{Cite web|url=https://gamefaqs.gamespot.com/ps2/589384-choplifter-crisis-shield/data|title = ChopLifter: Crisis Shield Release Information for PlayStation 2 - GameFAQs}}</ref>
+
+[[inXile Entertainment]] released ''[[Choplifter HD]]'' for [[Xbox Live Arcade]], [[PlayStation Network]], and [[Microsoft Windows]] in January 2012, and [[Ouya]] in August 2013.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MobyGames|id=/choplifter}}
+*{{KLOV game|id=7333}}
+*{{Internet Archive game|id=Choplifter1982Broderbund}}
+
+{{Choplifter series}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Arcade video games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 7800 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Broderbund games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:FM-7 games]]
+[[Category:Helicopter video games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Jaleco games]]
+[[Category:Master System games]]
+[[Category:MSX games]]
+[[Category:NEC PC-6001 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Sega arcade games]]
+[[Category:Sega video games]]
+[[Category:Sega System 1 games]]
+[[Category:SG-1000 games]]
+[[Category:Sharp X1 games]]
+[[Category:Tose (company) games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Ariolasoft games]]

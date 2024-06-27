@@ -1,0 +1,47 @@
+Space Defender
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Defender&oldid=1149758161
+Accessed on: 2024-06-26T16:54:05.178532
+
+
+
+------
+Space Defender
+{{refimprove|date=February 2018}}
+
+{{Infobox VG
+|title = Space Defender
+|image = Space Defender-small.jpg
+|caption =
+|developer =
+|publisher = Bel-Air Software
+|designer = Dan Schuyler<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+|released = [[1982 in video gaming|1982]]
+|genre = [[Fixed shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]]
+}}
+
+'''''Space Defender''''' is a [[fixed shooter]] [[video game]] for the [[Apple II]] written by Dan Schuyler and published by Bel-Air Software in 1982.<ref name=giantlist/> It requires an Apple II with a minimum of 48K [[Random-access memory|RAM]].
+
+==Gameplay==
+Players play as the Space Defender. Their mission is to protect the Star Base from attacking aliens, fireballs and start pods.  If any of these objects collide with the Star Base, it will be destroyed. 
+
+Players start their mission with three ships; each time they sustain a hit they will lose 20% of their energy.  An alarm will sound when a ship has only 20% energy remaining. At different point levels shields will automatically be recharged by drawing power out of the alien ships. Laser will also fire behind the ships in case an alien gets past.
+
+The aliens are stronger than they seem. Each alien ship must be hit by a laser 5 times to be destroyed. 
+
+Missions get harder as the number of alien attack ways increases. The attackers' speed will increase and there will also be times when aliens are only visible when fired on!
+
+*'''Aliens''', Alien ships that try to impact the Star Base
+*'''Fireballs''', are very defenseless. Their job is to impact and destroy the Star Base.
+*'''Star Pods''', small destructive pods that move quickly. The most dangerous of all the enemy attackers. Their laser is so powerful that one hit will destroy a ship.
+
+==References==
+{{reflist}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Fixed shooters]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

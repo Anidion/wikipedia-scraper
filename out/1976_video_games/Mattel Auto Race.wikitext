@@ -1,0 +1,92 @@
+Mattel Auto Race
+Permalink: //en.wikipedia.org/w/index.php?title=Mattel_Auto_Race&oldid=1228469546
+Accessed on: 2024-06-26T16:47:37.347321
+
+
+
+------
+Mattel Auto Race
+{{italic title}}
+{{Short description|First fully digital handheld video game}}
+{{Infobox video game
+|title       = Mattel Electronics Auto Race
+|image       = Mattel Electronics Auto Race, No. 9879, Red LED, Made In Hong Kong, Copyright 1976 (LED Handheld Electronic Game).jpg
+| caption    = 
+|developer   = [[Mattel]]<br>[[Rockwell International]]
+|publisher   = [[Mattel Electronics]]
+|director    = 
+|designer    = George J. Klose
+|programmer  = [[Mark Lesser]]
+|released    = 1976
+|genre       = [[Racing video game|Racing]]
+|modes       = [[Single-player video game|Single-player]]
+|platforms   = [[Handheld electronic game|Handheld]]
+}}
+
+'''''Mattel Electronics Auto Race''''' was released in 1976 by [[Mattel Electronics]] as the first [[handheld electronic game]] to use only [[solid-state electronics]]; it has no mechanical elements except the controls and on/off switch.<ref>{{cite book|last1=Demaria|first1=Rusel|first2=Johnny L.|last2=Wilson|title=High Score! The Illustrated History of Video games|url=https://books.google.com/books?id=HJNvZLvpCEQC|publisher=[[McGraw-Hill]]|year=2002|page=30|isbn=978-0-07-222428-3}}</ref><ref name=":0" /> Using hardware designed for calculators and powered by a [[nine-volt battery]], the cars are represented by red [[LED]]s on a playfield which covers only a small portion of the case. The audio consists of beeps. George J. Klose based the game on 1970s racing [[arcade video game]]s and designed the hardware, with some hardware features added by [[Mark Lesser]] who also wrote the 512 bytes of program code.
+
+From a top-down perspective, the player controls a car on a three-lane track and moves between them with a switch. Opponent vehicles move toward the player, in an effect similar to [[vertically scrolling video game|vertical scrolling]], and the player must avoid them. A second control shifts gears from 1-4, with the speed increasing for each.
+
+''Auto Race'' was followed by other successful handheld sports games from Mattel, including ''Football'' and ''Baseball'' which were both programmed by Lesser.<ref name=giantlist/> The design was tweaked into multiple other handhelds, including ''Missile Attack'' (1976), which became ''Battlestar Galactica Space Alert'' (1978) as a tie-in with the ''[[Battlestar Galactica (1978 TV series)|Battlestar Galactica]]'' TV series, and ''Ski Slalom'' (1980). ''Auto Race'' was cloned in the [[Soviet Union]] as ''Elektronika IER-01''.
+
+==Gameplay==
+The player's car is represented by a bright blip (a vertical dash sign) on the bottom of the screen. The player must make it to the top of the screen 4 times (4 laps) to win, but, while making it towards the top, the player must swerve past other cars using the switch at the bottom of the system to toggle among three lanes. If hit by a car, the player's vehicle keeps moving back towards the bottom of the screen until it gets out of the other car's way. The goal is to beat the game with the shortest time possible before the 99 seconds given (as high as the two-digit timer can show) are up. The player's car has four gears and the higher the gear, the faster the other cars come at it.
+
+The manual assigns ratings to completion times:<ref name=manual/>
+
+{| class="wikitable"
+|-
+! Time in seconds !! Rating
+|-
+| Under 30 || World Champion Driver
+|-
+| 30-45 || Professional Driver
+|-
+| 45-55 || Showing Potential
+|-
+| 55-65 || Still an Amateur
+|-
+| 65-75 || Stick To The Highways
+|-
+| 75 or more || Leave Car In Garage
+|}
+
+==Development==
+George J. Klose, a product development engineer at Mattel, came up with the concept of repurposing standard [[calculator]] hardware to create a handheld electronic game using individual display segments as blips that would move on the display. He designed the gameplay for ''Mattel Auto Race'', inspired by auto racing games found in [[video arcades]] in the 1970s. He built a proof of concept with a blip moving on an LED display without using a [[microprocessor]] to get approval from Mattel for further development. He then looked for a manufacturer to provide a [[circuit board]] that would fit into a compact package. Klose and his manager Richard Cheng approached the Microelectronics Division of [[Rockwell International]], a leader in designing handheld calculator chips, to supply Mattel with the hardware and provide technical support.
+
+Mark Lesser, a circuit design engineer at Rockwell International, modified the B5000 calculator chip, adding a display driver multiplexing scheme to the hardware and a custom sound driver for a piezo-ceramic speaker, resulting in the B6000 chip used in ''Auto Race''.<ref name=Derene>{{cite news |last1=Derene |first1=Glenn |title=Remembering the First Handheld Games |url=https://www.popularmechanics.com/culture/gaming/a9459/game-boys-grandfather-remembering-the-first-handheld-games-15987495/ |access-date=19 May 2022 |work=Popular Mechanics |date=1 October 2013}}</ref> Sound is produced by toggling the speaker in embedded timing loops from within the program itself.<ref>{{cite web|url=http://www.digitpress.com/library/interviews/interview_mark_lesser.html|title=DP Interviews... Mark Lesser|author=Scott Stilphen|work=Digital Press|accessdate=July 17, 2016}}</ref> Without prior programming experience, Lesser wrote the game in [[assembly language]] for the 512 bytes of [[Read-only memory|ROM]]. He spent eighteen months getting the code to fit.<ref name=Derene/>
+
+==Reception==
+Sales of ''Mattel Auto Race'' exceeded expectations. Mattel in the 1970s, known mostly for [[Barbie]] dolls and [[Hot Wheels]], was at first skeptical of products based on electronics, especially at what was considered an expensive retail price at the time: {{USD|24.99|1976|round=-1}}.<ref>{{cite web|url=https://news.google.com/newspapers?nid=1955&dat=19771106&id=mMktAAAAIBAJ&sjid=xaAFAAAAIBAJ&pg=2512,2834835|title=Mattel Newspaper Publicity|work=Reading Eagle|date=November 6, 1977|accessdate=July 17, 2016}}</ref> The success of ''Auto Race'' convinced Mattel to proceed with the development of ''Mattel Football'' which was often sold out and in short supply,<ref>{{cite web|url=https://news.google.com/newspapers?nid=1499&dat=19780529&id=aG8aAAAAIBAJ&sjid=jykEAAAAIBAJ&pg=2458,6830499|work=The Milwaukee Journal|date=May 29, 1978|author=Douglas D. Armstrong|title=Football Calculator Scoring Well|accessdate=July 17, 2016|archive-date=May 22, 2016|archive-url=https://web.archive.org/web/20160522082201/https://news.google.com/newspapers?nid=1499&dat=19780529&id=aG8aAAAAIBAJ&sjid=jykEAAAAIBAJ&pg=2458,6830499|url-status=dead}}</ref> and this led to the creation of a new Mattel Electronics Division in 1978, which for a time was extremely profitable.
+
+==Legacy==
+Mattel pioneered the category of handheld electronic video games when it released ''Auto Race'' in 1976.<ref name=":0">{{cite web|last1=Loguidice|first1=Bill|first2=Matt|last2=Barton|title=A History of Gaming Platforms: Mattel Intellivision|work=Gamasutra|date=August 15, 2008|url=http://www.gamasutra.com/php-bin/news_index.php?story=18518|accessdate=July 16, 2016}}</ref><ref>{{cite web|url=https://news.google.com/newspapers?nid=1454&dat=19791130&id=v9ZQAAAAIBAJ&sjid=ORMEAAAAIBAJ&pg=3631,6648335|work=Wilmington Morning Star|date=November 30, 1979|title=Even toy industry is bedazzled|accessdate=July 17, 2016}}</ref><ref>{{cite news |last1=Katz |first1=Brigit |title=The Hottest Place to Play Retro Handheld Computer Games? Try the Internet Archive |url=https://www.smithsonianmag.com/smart-news/internet-archive-preserving-playable-versions-retro-handheld-games-180968762/ |access-date=19 May 2022 |work=Smithsonian Magazine |language=en}}</ref> It was the first in a line of sports handhelds including ''Football'', ''Baseball'', ''Basketball'', ''Soccer'', and ''Hockey'', as well as non-sports games.
+
+[[File:Battlestar Galactica by Mattel Electronics, No. 2448-0310, Made In Hong Kong, Copyright 1978 (LED Electronic Handheld Game).jpg|thumb|In ''Battlestar Galactica Space Alert'', the gear switch of ''Auto Race'' is replaced with a red fire button.]]
+
+''Auto Race'' was reworked into ''Missile Attack'', also released in 1976. [[NBC]] refused to air the ''Missile Attack'' commercial because of the dark theme of the game, and Mattel removed it from the market.<ref>{{cite web |title=Mattel Missile Attack |url=https://www.handheldmuseum.com/Mattel/MissileAttack.htm |website=Handheld Museum}}</ref> It was reintroduced in 1978 based on the ''[[Battlestar Galactica]]'' TV series as ''Battlestar Galactica Space Alert''.<ref>{{Cite web|title=Mattel Battlestar Galactica|url=https://www.handheldmuseum.com/Mattel/Battlestar.htm|access-date=2020-07-21|website=Handheld Museum}}</ref> The player remains at the bottom of the playfield, and a fire button is used to shoot and destroy adversaries. If one reaches the center-bottom space on the playing field, the ''Galactica'' is considered destroyed and the game over.<ref>{{Cite web|title=Mattel Electronics Battlestar Galactica - Space Alert|url=http://herculesworkshop.com/cgi-bin/p/awtp-product.cgi?d=hercules-workshop&item=62818|access-date=2020-07-21|website=herculesworkshop.com}}</ref> The 1980 ''Flash Gordon'' handheld is the same game with a different science fiction license, but was not released.<ref name=lesser/><ref>{{cite web |title=Mattel Flash Gordon |url=https://handheldmuseum.com/Mattel/FlashGordon.htm |website=Handheld Museum}}</ref>
+
+[[File:Elektronika IER-01.jpg|thumb|''Elektronika IER-01'', a Soviet-made clone of ''Auto Race'']]
+
+In 1980, a reskinned ''Auto Race'' was released as ''Mattel Ski Slalom'' outside the US.<ref>{{cite web |title=Mattel Ski Slalom |url=https://www.handheldmuseum.com/Mattel/SkiSlalom.htm |website=Handheld Museum}}</ref> The four gears are labeled ''SLALOM'', ''BRONZE'', ''SILVER'', and ''GOLD''.
+
+In 1983, a clone of ''Auto Race'' developed by the Ministry of Electronic Industry of Soviet Union was released as ''Elektronika IER-01''.<ref name=ussr>{{Cite web|url=http://zx-pk.ru/threads/17648-elektronnaya-igra-quot-elektronika-ier-01-avtogonki-quot.html?p=449195&viewfull=1#post449195|title = Электронная игра "Электроника ИЭР 01 Автогонки" - Страница 2}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="manual">{{cite web |title=Mattel Auto Race Manual |url=https://ia800704.us.archive.org/5/items/manuals-handheld-games-Mattel-AutoRace/Mattel-AutoRace_text.pdf |website=archive.org |publisher=Mattel, Inc. |date=1976}}</ref>
+<ref name=giantlist>{{cite web|url=https://dadgum.com/giantlist|title=The Giant List of Classic GameProgrammers|last1=Hague|first1=James}}</ref>
+ <ref name="lesser">{{cite web |last1=Lesser |first1=Mark |title=Mattel Electronics Battlestar Galactica Space Alert |url=https://www.marklesser.online/#h.yfeq5f2cdd1i |website=Mark Lesser Games}}</ref>
+}}
+
+== External links ==
+* [https://www.youtube.com/watch?v=Krh_RQoLLZI Gameplay video]
+* [https://en.battlestarwikiclone.org/wiki/Battlestar_Galactica_Space_Alert ''Battlestar Galactica Space Alert''] on the Battlestar Wiki
+
+{{Mattel}}
+
+[[Category:1970s toys]]
+[[Category:1976 video games]]
+[[Category:Handheld electronic games]]
+[[Category:Video games developed in the United States]]
+[[Category:Racing video games]]

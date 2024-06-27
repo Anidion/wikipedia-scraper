@@ -1,0 +1,60 @@
+The Arcade Machine
+Permalink: //en.wikipedia.org/w/index.php?title=The_Arcade_Machine&oldid=1224116443
+Accessed on: 2024-06-26T16:52:56.060680
+
+
+
+------
+The Arcade Machine
+{{Short description|1982 video game}}
+{{Infobox video game
+| title = The Arcade Machine
+| image = The Arcade Machine cover.jpg
+| designer = [[Doug Carlston]]<br/>Chris Jochumson
+| programmer = Louis Ewens (Atari)
+| publisher = [[Broderbund]]
+| platforms = [[Apple II]], [[Atari 8-bit]]
+| released = 1982
+| genre = [[Game creation system]], [[fixed shooter]]
+}}
+
+'''''The Arcade Machine''''' is a [[game creation system]] written by Chris Jochumson and [[Doug Carlston]] for the [[Apple II]] and published by [[Broderbund]] in 1982.<ref name=giantlist/> Louis Ewens ported it to [[Atari 8-bit computers]].<ref name=giantlist/> Broderbund ran a contest from January–June 1984 where the best user-created game was awarded a prize of $1,500 in hardware and software.<ref name="auto">{{cite web|url=https://books.google.com/books?id=fi4EAAAAMBAJ |title=InfoWorld |date=30 January 1984| publisher=InfoWorld Media Group, Inc. |via=Google Books}}</ref> Jochumson also wrote ''[[Track Attack]]'' for Broderbund.
+
+==Gameplay==
+The game allows players to create alien attacks like those seen in ''[[Galaxian]]''. The inbuilt editor allows players to: design/animate enemies, players and explosions; give enemies instructions on moving/firing; drawing backgrounds/title screens, creating sound effects/music, and setting various gameplay rules. Finished games can be saved to a [[self-booting disk]] to allow them to run without this program.<ref name="manual">{{cite book |title=The Arcade Machine Manual |date=1982 |publisher=Broderbund |url=http://www.digitpress.com/library/manuals/atari8bit/arcade_machine.pdf}}</ref>
+
+==Reception==
+John F. Besnard reviewed the game for ''[[Computer Gaming World]]'', and stated that "The product itself provides a tremendous amount of power to the user. Try a few of the demo games supplied on the back of the disk to see the versatility potential of the product."<ref name="CGW8">{{cite magazine |last=Besnard |first=John F. |title=The Arcade Machine |magazine=Computer Gaming World |date=Jan–Feb 1983 |volume=1 |issue=8 |pages=32, 45}}</ref>
+
+''[[The New York Times]]'' described the game as a "hierophant" due to giving non-programmers the ability to create games; furthermore, the publication suggested that with a bit of aesthetic improvement, ''The Arcade Machine'' would "be a game one can play almost forever".<ref>{{cite web|url=https://www.nytimes.com/1983/05/24/science/personal-computers-the-imaginative-path-to-designing-games.html|title=THE IMAGINATIVE PATH TO DESIGNING GAMES|date=24 May 1983|work=The New York Times}}</ref>
+
+In 1984, ''[[InfoWorld]]'' deemed it a "fabulous program," and compared it favourably to ''[[Pinball Construction Set]]''.<ref name="auto"/>
+
+Steve Panak of ''[[ANALOG Computing]]'' wrote, "''The Arcade Machine'' is not for the weak of stomach, nor for the weak of mind. Complexity is a key word here. However, despite its complexity, the program is surprisingly user-friendly, thanks to excellent documentation." In the conclusion he warned, "Many, many, many hours are needed to create and hone your game to perfection-and that's if you're not a perfectionist."<ref name=panak>{{cite journal|title=The Season's Software Sampler |issue=25 |date=December 1984 |last1=Panak |first=Steve |journal=ANALOG Computing |url=http://www.cyberroach.com/analog/an25/seasonsoftware.htm}}</ref>
+
+The game was "a best seller", according to the September 1984 issue of ''[[Creative Computing]]''.<ref>{{cite journal|journal=Creative Computing |last1=Uston |first1=Ken |date=September 1984 |url=http://www.atarimagazines.com/creative/v10n9/157_A_family_affair_behind_t.php|title=A family affair; behind the scenes at Broderbund. |volume=10 | issue=9 |page=157}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+* [http://download.abandonware.org/magazines/Micro%207/micro7_numero12/Micro%207%20N12%20(Janvier%201984)%20-%20Page%20077.jpg French review by Jeux]
+* [http://www.atarimania.com/list_games_atari-400-800-xl-xe-arcade-machine_devlanguage_1_8_G.html List of games created using The Arcade Machine]
+* [https://books.google.com/books?id=fi4EAAAAMBAJ&dq=%22The+Arcade+Machine%22+broderbund&pg=PA54 InfoWorld 30 Jan 1984]
+* [https://books.google.com/books?id=8y8EAAAAMBAJ&dq=%22The+Arcade+Machine%22+broderbund&pg=PA4 InfoWorld 4 Apr 1983]
+* [https://books.google.com/books?id=DjAEAAAAMBAJ&dq=%22Arcade+Machine%22+%22broderbund%22&pg=PA30 InfoWorld 25 Oct 1982]
+* [https://books.google.com/books?id=nQQEAAAAMBAJ&dq=%22The+Arcade+Machine%22+broderbund&pg=PA78 Kiplinger's Personal Finance]
+
+{{DEFAULTSORT:Arcade Machine}}
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Broderbund games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video game engines]]
+[[Category:Video game IDE]]
+
+
+{{videogame-software-stub}}

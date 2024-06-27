@@ -1,0 +1,46 @@
+System 15000
+Permalink: //en.wikipedia.org/w/index.php?title=System_15000&oldid=1194895549
+Accessed on: 2024-06-26T16:57:42.574694
+
+
+
+------
+System 15000
+{{One source|date=September 2014}}
+{{Infobox video game
+|title  = System 15000
+|image = File:System_15000_1984_ZX_Spectrum_Cover_Art.jpg
+|developer = A.V.S.
+|publisher = Craig Communications
+|designer = Lee Kristofferson
+|released = [[1984 in video gaming|1984]]
+|genre = [[Puzzle game|Puzzle]]
+|modes = [[Single player]]
+|platforms = [[Commodore 64]], [[ZX Spectrum]], [[BBC Micro]]
+}}
+'''''System 15000''''' is a [[1984 in video gaming|1984]] [[video game]] by A.V.S.  It was originally [[video game design|designed]], and programmed by Lee Kristofferson (born John Wagstaff) in assembly language for the [[Commodore 64]]. Versions were later ported to the [[ZX Spectrum]] and [[BBC Micro]], both written in [[BASIC]].  This was the first game to simulate [[Security hacker|computer hacking]].<ref name=sinc>{{cite journal | last = Bourne | first = Chris |date=February 1985 | title = Hit Squad: Confessions of a hacker | journal = [[Sinclair User]] | issue = 35 | pages = 58–59, 61}}</ref>
+
+A sequel was planned by Lee Kristofferson but never released.<ref name=sinc/>
+
+==Plot==
+The game box includes a letter which provides background information to establish the premise of the game. Written to the main character from the perspective of a friend "Mike", it outlines how (a presumed mutual friend) Richard's company, Comdata, has had $1.5 million stolen by a rival company named Realco. Furthermore, the police are unable to retrieve the money, so the player is required to hack into a computer system and retrieve the funds. The letter provides a single phone number and entry code, part of the game's simulation of dialing into databases and bulletin boards. The player has to figure out how to get into the proper database to take back the cash.<ref name=your_commodore>{{cite journal | date=November 1984 | title = Software reviews | journal = [[Your Commodore]] | issue = 2 | pages = 37 |url=https://archive.org/stream/02-your-commodore-magazine/Your_Commodore_Issue_02_1984_Nov#page/n35/mode/2up}}</ref>
+
+==See also==
+*''[[Hacker (video game)|Hacker]]''
+*''[[Neuromancer (video game)|Neuromancer]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WoS game|id=0005106}}
+* {{lemon64 game|name=System 15000|id=3827}}
+
+[[Category:1984 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Hacking video games]]
+[[Category:Puzzle video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

@@ -1,0 +1,55 @@
+Entombed (Atari 2600)
+Permalink: //en.wikipedia.org/w/index.php?title=Entombed_%28Atari_2600%29&oldid=1224507107
+Accessed on: 2024-06-26T16:53:20.863801
+
+
+
+------
+Entombed (Atari 2600)
+{{short description|1982 video game}}
+{{About|the 1982 video game by U.S. Games|the 1985 video game by Ultimate Play the Game|Entombed (video game)}}
+{{Infobox video game
+| title = Entombed
+| image = Entombed Coverart.png
+| developer = Western Technologies<ref name=stilphen/>
+| publisher = [[US Games]]
+| designer = Tom Sloper<ref name="stilphen">{{cite web|last1=Stilphen|first1=Scott|title=DP Interviews Paul Allen Newell|url=http://www.digitpress.com/library/interviews/interview_paul_allen_newell.html|website=Digital Press}}</ref><ref name="giantlist"/>
+| programmer = Steven Sidley<ref name="EntombedArxiv"/>{{rp|17}}
+| released = [[1982 in video gaming|1982]]
+| genre = [[List of maze video games|Maze]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[Atari 2600]]
+}}
+
+'''''Entombed''''' is an [[Atari 2600]] game designed by Tom Sloper and programmed by Steven Sidley. It was released in 1982 by [[U.S. Games]]. It involves a player moving through a maze and avoiding enemies. The game's perplexing maze generation algorithm has attracted academic study.<ref name="EntombedArxiv"/>
+
+==Gameplay==
+The player moves downward through a continuously vertically-scrolling maze with vertical symmetry, trying to get as far as possible while avoiding enemies that move across the screen; if the player contacts a monster, they die and the game is over. The maze will continually scroll upwards on the screen, and while the player can move in any direction, this scrolling action may leave the player stuck in a dead-end; if the player's position scrolls off-screen, then the game is also over. The player can collect a "make-break" item, represented by a large dot, that can remove a wall space and allow the player to proceed out of a dead-end.<ref name=manual/> In two-player mode, both players are in the maze at once.
+
+==Legacy==
+[[File:Entombed-maze-generation-paper-figure7.png|thumb|A representation of the maze generation scheme for two rows of a typical maze from ''Entombed''.<ref name="EntombedArxiv"/> The algorithm uses five neighboring squares (bold outline) that are either open (white) or a wall (grey) to generate the state of the next square (bold 0 or 1) in a semi-random manner.]]
+The mechanics of how ''Entombed'' generated its mazes have been the subject of academic research and some legend, as the maze data itself, if stored directly, was too large to fit within the hardware limitations of the console, even with the left/right symmetry of the mazes. Researchers evaluated the game's ROM and discovered that the mazes were generated on-the-fly by the game using the state of five adjacent squares of the maze (wall or open) already generated to determine the next part of the maze through a [[lookup table]], including potentially a random state. Sometimes the table generates mazes that would be unsolvable without the "make-break" item. The researchers spoke to Sidley, who said the algorithm came from another unnamed programmer, but Sidley himself could not decipher why it worked. Sidley said to the researchers of this programmer, "He told me it came upon him when he was drunk and whacked out of his brain."<ref>{{cite web | url = http://www.bbc.com/future/story/20190919-the-maze-puzzle-hidden-within-an-early-video-game | title = The Mysterious Origins of an Uncrackable Video Game | first = Chris | last = Baraniuk | date = September 23, 2019 | accessdate = September 24, 2019 | publisher = [[BBC]] }}</ref><ref name="EntombedArxiv">{{cite journal | title= Entombed: An archaeological examination of an Atari 2600 game | first1 = John | last1= Aycock | first2= Tara |last2= Copplestone |date= November 7, 2018 | journal = [[The Art, Science, and Engineering of Programming]] | volume = 3 | issue = 2  |doi = 10.22152/programming-journal.org/2019/3/4 | arxiv = 1811.02035 | bibcode = 2018arXiv181102035A | s2cid = 53223419 }}</ref> Later research, however, suggests that although the original programmer and his mathematical collaborator did devise the algorithm at a bar, they may have suggested or encouraged the drunken blackout story merely to avoid having to explain or assign intellectual property rights for the algorithm.<ref>{{cite serial |title=Unearthing Entombed |url=https://www.wnycstudios.org/podcasts/tnyradiohour/segments/unearthing-entombed |series=The New Yorker Radio Hour |first1=Simon |last1=Parker |first2=Alex |last2=Barron |date=January 22, 2021}}</ref> A 2021 paper described the algorithm for generating this lookup table and a generalization to three-dimensional mazes.<ref>{{cite arXiv|last1=Mächler|first1=Leon|last2=Naccache|first2=David|date=2021-04-21|title=Explaining the Entombed Algorithm|class=cs.CG|eprint=2104.09982}}</ref> A 2022 publication co-authored by Paul Allen Newell, a first-hand participant in the game development, has come closer to settling the debate about the mysteries of the maze algorithm.<ref>{{cite journal|doi=10.11141/ia.59.3 | issue=59 | title=Still Entombed After All These Years: The continuing twists and turns of a maze game | year=2022 | journal=Internet Archaeology | last1 = Newell | first1 = Paul Allen| last2 = Aycock| first2 = John | last3 = Biittner | first3 = Katie | doi-access= }}</ref>
+
+==See also==
+*[[Maze generation algorithm]]
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite web |title=Entombed Manual |url=http://www.gamesdatabase.org/Media/SYSTEM/Atari_2600/Manual/formated/Entombed_-_1982_-_U.S._Games.pdf |publisher=U.S. Games |date=1982}}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+*[https://prism.ucalgary.ca/handle/1880/51724 Interview with Steven Boykey Sidley re: ''Entombed'']
+*{{atarimania|id=8195}}
+*{{AtariAge software|id=165}}
+*{{internet archive game|atari_2600_entombed_maze_chase_1982_u.s._games_corporation_paul_allen_newell_stev}}
+
+[[Category:1982 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Maze games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games about zombies]]
+[[Category:U.S. Games games]]

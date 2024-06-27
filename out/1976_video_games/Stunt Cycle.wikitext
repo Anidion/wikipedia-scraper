@@ -1,0 +1,69 @@
+Stunt Cycle
+Permalink: //en.wikipedia.org/w/index.php?title=Stunt_Cycle&oldid=1162805177
+Accessed on: 2024-06-26T16:47:39.532167
+
+
+
+------
+Stunt Cycle
+{{Short description|1976 video game}}
+{{More citations needed|date=May 2015}}
+{{Infobox video game
+|title= Stunt Cycle
+|image= Stunt Cycle cover.jpg
+|caption= 
+|developer= [[Atari, Inc.]]
+|released= {{vgrelease|NA|1976}}
+|genre= [[Simulation video game|Simulation]]
+|platforms=[[Arcade game|Arcade]]
+}}
+
+'''''Stunt Cycle''''' is an [[arcade video game]] by [[Atari, Inc.]], originally released in 1976.<ref name="klov"/> In the style of the [[Evel Knievel]] craze of the mid-1970s, the game allows the player to perform simulated motorcycle jumping stunts. The arcade cabinet is modeled like a real motorcycle handlebar, and the player twists the right side for acceleration. The monitor is a 19-inch black and white [[cathode-ray tube]] with a black and white overlay. It accommodates 1 player or 2 players alternating.
+
+==Gameplay==
+The screen is divided into three horizontal platforms connected by tubes on the monitor overlay. The player can only accelerate and brake, with no steering. The motorcycle automatically drives across each platform in sequence: left to right, right to left, then left to right again. The bottom platform has a line of parked buses between two ramps, and the goal is to repeatedly jump the buses and land safely.
+
+Upon starting, the player must jump over 8 buses. If successful, another bus is added and at 23 buses, one additional credit or crash is added. Otherwise, crashing thrice or jumping over 27 buses ends game.
+
+Accelerating too quickly results in a wheelie and, if speed is not decreased, flipping over backward and crashing. Speed carries over from one platform to the next. On the third platform & hereafter, the cycle must reach the landing ramp to avoid a crash.
+
+==Home versions==
+[[File:Stuntcycle-cropped.jpg|thumb|Atari's ''Stunt Cycle'' console]]
+Two [[dedicated console]] versions were released by Atari in 1977. Atari's own branded ''Stunt Cycle'' version plays four games: a version of the original and three variants (''Motocross'', ''Enduro'', and ''DragRace'') based on the AY-3-8760 chip by [[General Instrument]]. Handlebar grips on the unit allow players to whip, wheelie, and jump up to 32 onscreen buses. The unit provides digital on-screen scoring and color graphics.<ref name=kaplan/>{{rp|26}}<ref name="BackNTime"/> The Sears Tele-Games version called ''Motocross Sports Center IV'' includes the same ''Stunt Cycle'' variants and 16 ''Pong'' games played with detachable ''Pong'' controllers (based on Atari C010765 chip for the ''Pong'' games and the GI chip AY-3-8760).<ref name=kaplan/>{{rp|26}}{{citation needed|reason=We need to source the claim that the Sears unit is in fact a clone. The Kaplan source only verifies the technical specs.|date=May 2015}}
+
+In 1980, Atari programmer Bob Polaro began to develop a ''Stunt Cycle'' [[Port (video gaming)|port]] for the [[Atari 2600]] using full color graphics. By the time it was completed, Atari had decided to turn it into a [[The Dukes of Hazzard (video game)#Cancelled Atari versions|television tie-in game]] for the ''[[Dukes of Hazzard]]'' franchise instead. This game never progressed beyond the [[Software prototyping|prototype stage]] and was not officially released. Bob Polaro independently released 50 copies of ''Stunt Cycle'' in 2003.<ref name="AtariProtos"/>
+
+==References==
+{{reflist|refs=
+<ref name=klov>{{KLOV game|id=9854}}</ref>
+<ref name=kaplan>{{cite journal |date= Winter 1978 |editor-last=Kaplan| editor-first=Deeny|title= The Video Games |journal= Video (Buyer's Guide)|publisher= Reese Communications|volume= 1|issue= 1|pages= 17–30|issn= 0147-8907}}</ref>
+<ref name="AtariProtos">
+{{cite web
+  | last = Reichert
+  | first = Matt
+  | title = Stunt Cycle
+  | url=http://www.atariprotos.com/2600/software/stuntcycle/stuntcycle.htm
+  | publisher = Atariprotos.com
+  | accessdate = July 14, 2007 }}</ref>
+<ref name="BackNTime">
+{{cite web
+  | last = Stulir
+  | first = Mike
+  | title = Atari Stunt Cycle
+  | url=http://www.backntime.net/Atari%20Games/Other/Stunt%20Cycle/FrameSS.html
+  | publisher = Backntime.net
+  | accessdate = July 14, 2007 |archiveurl = https://web.archive.org/web/20071008085729/http://www.backntime.net/Atari%20Games/Other/Stunt%20Cycle/FrameSS.html <!-- Bot retrieved archive --> |archivedate = October 8, 2007}}</ref>
+}}
+
+{{1970s Atari arcade games}}
+{{Atari hardware}}
+{{Other generation game consoles}}
+{{Dedicated consoles}}
+
+[[Category:Arcade video games]]
+[[Category:1976 video games]]
+[[Category:Atari arcade games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Discrete video arcade games]]
+[[Category:Dedicated consoles]]
+[[Category:Video games developed in the United States]]

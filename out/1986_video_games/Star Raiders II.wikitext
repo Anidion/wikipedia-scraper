@@ -1,0 +1,90 @@
+Star Raiders II
+Permalink: //en.wikipedia.org/w/index.php?title=Star_Raiders_II&oldid=1224491459
+Accessed on: 2024-06-26T17:01:02.269594
+
+
+
+------
+Star Raiders II
+{{more citations|date=November 2019}}
+{{Infobox video game
+|title          =Star Raiders II
+|collapsible    =
+|state          =
+|image          = Star Raiders II box art.jpg
+|caption        = Cover art
+|developer      =[[Atari Corporation]]
+|publisher      =[[Atari Corporation]]<br>[[Electric Dreams Software|Electric Dreams]] (C64)
+|programmer     = Gary Stark<br>Bruce Poehlman<ref name=giantlist/>
+|series         = ''Star Raiders''
+|engine         =
+|released       = '''1986:''' Atari 8-bit<br>'''1987:''' Amstrad, C64, Spectrum
+|genre          = [[Space combat simulator|Space combat]]
+|modes          = [[Single-player]]
+|platforms      = [[Atari 8-bit]], [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Star Raiders II''''' is a [[space combat simulator]] released in 1986 for [[Atari 8-bit computers]] as a sequel to 1979's ''[[Star Raiders]]'', which was the [[killer application|killer app]] for the system. The game was originally developed as part of a [[tie-in]] with the movie ''[[The Last Starfighter]]'', which featured an [[arcade game]] of the same name as part of its plotline.<ref name=D>{{cite web|title=Denofgeek.com|date=9 April 2018 |url=https://www.denofgeek.com/us/movies/the-last-starfighter/271531/the-last-starfighter-the-atari-arcade-game-that-never-was}}</ref> Versions for the [[Atari 5200]] and the Atari 8-bit computers were developed in 1984, although those were never released.<ref>{{cite web |url=http://www.atariprotos.com/5200/software/tlsf/tlsf.htm |title=The Last Starfighter (Atari 5200) |last=Reichert |first=Matt |work=AtariProtos.com |access-date=2011-03-05}}</ref><ref>{{cite web |url=http://www.atariprotos.com/8bit/software/tlsf/tlsf.htm |title=The Last Starfighter (Atari 8-bit) |last=Reichert |first=Matt |work=AtariProtos.com |access-date=2011-03-05}}</ref> Later the tie-in was dropped, and the game converted into a sequel to ''[[Star Raiders]]'' by changing a number of gameplay elements. The gameplay remained different from the original ''Star Raiders''.
+
+Conversions for the [[ZX Spectrum]],<ref>{{WoS game|id=0004828}}</ref> [[Amstrad CPC]],<ref>[http://www.cpczone.net/game/1961 Star Raiders 2] at CPC Zone</ref> and [[Commodore 64]]<ref>[http://www.lemon64.com/?game_id=3725 Star Raiders 2] at Lemon64</ref> were published under license by [[Electric Dreams Software]] in [[1987 in video gaming|1987]].
+
+In 2015 it was revealed that a true sequel, also called ''Star Raiders II'', had been under development for some time by Atari programmer Aric Wilmunder. It was nearing completion when he was laid off during the massive downsizing of the company in early 1984. Although the programmer continued talks with Atari after its takeover by [[Jack Tramiel]], no deal was ever forthcoming. The [[source code]], largely complete but not polished for release, was posted publicly in December the same year. This version is far more faithful to the original version in terms of gameplay.<ref>{{citation |title=The Authoritative Star Raiders II v0.3.pdf |first=Aric |last=Wilmunder |date=2015 |publisher=atariage.com |url=http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=424438}}</ref>
+
+==Gameplay==
+===Movie concept===
+The plot of ''The Last Starfighter'' revolves around the latest outbreak in a long-running war between two races. In the past, the Rylan Star League protected themselves from the warlike Ko-Dan through their fleet of advanced "Gunstar" fighters, and the "Frontier", a space-based energy field. Their protection is removed when a member of the League defects to the Ko-Dan cause, destroying the Gunstar base and showing the Ko-Dan how to pass through the Frontier. The movie follows the protagonist Alex Rogan as he crews the remaining Gunstar fighter and defeats the Ko-Dan fleet. Rogan was discovered by the Rylans by his high scores in an [[arcade game]] that was actually a Gunstar simulator.
+
+===Last Starfighter===
+The original videogame remained faithful to this basic plotline, standing in for the arcade game in the movie. It expanded on the movie's action by having multiple Ko-Dan fleets attacking the League. Each fleet contained a group of Deckfighters for protection, Destroyers that attacked the cities on League planets, and a single command ship that was responsible for breaching the Frontier. The command ship left the fleet once the Frontier was breached, leaving the Destroyers and Deckfighters to attack.
+
+The game opened with the player in orbit above Rylos, being attacked by the fighters. After defeating this initial force, pressing space opened a display of the local solar system, showing the multiple planets, the Frontier, and any attacking fleets. The joystick is used to move between the various objects on the screen, which can be selected in order to warp to them. Fleets could be attacked at any point, but there was an advantage to attacking them while they were attempting to breach the Frontier; in this case the player immediately faced the command ship in a defenceless state, and destroying it before it burned its way through the Frontier would leave the rest of the fleet stranded on the other side.
+
+In the upper left of the map display was an icon representing a wormhole linking to the Ko-Dan solar system. Selecting this icon as a warp point flew the player to the Ko-Dan system. Ko-Dan fleets were generated by industrial sites on the planets, and flying here allowed attacks on the factories. As these were destroyed the spawn rate of new fleets was reduced, and when all of these were destroyed, the player won the game.
+
+Damage to the ship and energy use were replenished by flying to the local star and orbiting it. This also heated the ship up, to the point where it was possible to melt it. Several trips to and from the star might be needed to fully repair the Gunstar.
+
+This version was never published under this title, although copies did [[Software leak|leak out]].
+
+===Star Raiders II===
+[[Image:Star Raiders II A800 ingame.png|thumb|Initial attack by fighters.]]
+The original ''[[Star Raiders]]'' was a graphical version of the classic text-based [[Star Trek (text game)|''Star Trek'']] game from the 1970s. The basic outline of ''Star Trek'' was to fly between the various "quadrants" in the galaxy and defeat the Klingon ships within. Damage could be repaired and energy topped off at the handful of starbases scattered around the map. This basic outline remained intact in ''Star Raiders'', although updated with graphics, and with the names changed to avoid any tie-in with ''Star Trek''. Combat was vastly improved with a complete 3D flying simulation and real-time combat with the enemy ships.
+
+The modifications from ''Starfighter'' to the ''Star Raiders'' universe was relatively limited; starbases were added as the only way to repair damage, as well as a secondary source of energy (the star remained as a primary fueling point). The Frontier was removed, and the command ships that were originally intended to attack it became additional powerful enemies. Shields were added to the player's ship, and a new "tactical scanner" was added that displayed status information about the fighter in a single overview. Names of the ships and planets were changed, with most of them names from the original ''Star Raiders'' being used or adapted. The original animated introduction, similar to one seen in the movie, was removed, and a simple "Star Raiders II" [[copyright]] splash-screen was put in its place.
+
+With those exceptions, the two versions are very similar in both gameplay and presentation. ''Star Raiders II'' thus has much less in common with its namesake than the game it was adapted from.
+
+This version was published in 1986.
+
+===Original Star Raiders II===
+In 2015, Kevin Savetz, host of the [http://ataripodcast.libsyn.com ANTIC Podcast], was contacted by former Atari programmer Aric Wilmunder. Wilmunder mentioned that he had been working on a true sequel to ''Star Raiders'', also known as ''Star Raiders II''. Wilmunder joined Atari after working at [[Epyx]], where he worked on Atari ports of their games, notably the various ''[[Temple of Apshai]]'' series and ''[[Crush, Crumble and Chomp]]''. After working for a time with [[Chris Crawford (game designer)|Chris Crawford]], Wilmunder moved to a secret team within the coin-op division that was working on games for the 8-bit, and had decided to make a sequel to ''Star Raiders''.<ref name=pod>{{cite podcast |title=ANTIC Interview 104 - Aric Wilmunder, Star Raiders II, Temple of Apshai |first=Kevin |last=Savetz |date=10 December 2015 |url=http://ataripodcast.libsyn.com/antic-interview-104-aric-wilmunder-star-raiders-ii-temple-of-apshai}}</ref>
+
+This version of ''Star Raiders II'' was faithful to the original in gameplay terms, but was designed to make use of new 32&nbsp;kB cartridges that allowed the game code to be greatly expanded over the original 8&nbsp;kB version. The most notable change in gameplay terms was the replacement of the torpedoes with a laser-like weapon that could be aimed semi-independently of the ship's motion, allowing for snap shots against the rapidly moving enemies. The enemies were now drawn as 3D wireframe ships instead of their former 2D sprites. Strategically the game also changed, removing the gridded galactic map and replacing it with a free-form version. In this version, the player's home planet is in the upper left of the map, and the enemy ships are ultimately attempting to attack it. A number of planets can also be attacked in a view based on the over-surface scene in the Atari [[arcade game]] ''[[Star Wars (1983 video game)|Star Wars]]'', which was being developed down the hall from Wilmunder's office.<ref name=pod/>
+
+The main part of the game was completed by early 1984, but it still needed polishing before release. But by this time Atari was in disarray and undergoing a continual downsizing that Wilmunder described as a sort of mine field - to go into work every day to see the latest "crater", another employee that had been laid off. Eventually it was his turn to be laid off, but he kept the development code with him when he left. He continued to tweak it, and approached the "new" Atari once things had settled in the summer of 1984. In spite of several positive meetings, Atari would not commit to supporting a release, and the effort was forgotten when Wilmunder moved to [[Lucasfilm Games]].<ref name=pod/>
+
+The game remained unknown until Wilmunder contacted Savetz, who managed to convince Wilmunder to compile a version for disk and release it. The game is in an untuned state, but functionally complete and completely playable. This appeared on the [[Internet Archive]] along with a basic user manual and Wilmunder's telling of the history of the game.<ref>{{cite web |url=https://archive.org/details/StarRaidersII_Wilmunder |title=Star Raiders II |website=Internet Archive |date=December 2015}}</ref>
+
+==Reception==
+''[[Computer Gaming World]]'' wrote that "if ''Star Raiders'' for the Atari rated 6 out of 10 for graphics and 8.5 for design, ''Star Raiders II'' rates an 8.5 for graphics and a 4.5 for game design ... gets repetitious after a while".<ref name="williams198610">{{cite magazine | title=The Atari Playfield | magazine=[[Computer Gaming World]] | date=Sep–Oct 1986 | author=Williams, Gregg | pages=35}}</ref>
+
+The ZX Spectrum version received mixed reviews; ''[[Your Sinclair]]'' awarded 8 out of 10,<ref>{{cite journal |last=Lee |first=Tony |date=June 1987 |title=Star Raiders 2 review |journal=Your Sinclair |issue=18 |url=http://www.ysrnry.co.uk/articles/starraidersii.htm |access-date= 2007-11-09 |quote=It's a good game, all in all, but limited - there's not a lot of variety, so anyone other than shoot 'em up freaks may get bored.}}</ref> ''[[Sinclair User]]'' awarded 5 out of 5 stars,<ref>{{cite journal |last=Taylor |first=Graham |date=May 1987 |title=Star Raiders 2 review |journal=Sinclair User |issue=62 |quote=One of the more entertaining space games. Despite its rather simple graphics, it's incredibly entertaining.}}</ref> but ''[[CRASH (magazine)|CRASH]]'' only awarded 52%, feeling it did not compare favourably with the similar ''[[Codename MAT]]''.<ref>{{cite journal |date=May 1987 |title=Star Raiders 2 review |journal=CRASH |issue=40 |quote=A dated arcade conversion of the 'left, right and fire' variety.}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+* {{atarimania|id=12445}}
+
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:First-person shooters]]
+[[Category:Science fiction video games]]
+[[Category:Space combat simulators]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Electric Dreams Software games]]

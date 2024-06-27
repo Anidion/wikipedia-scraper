@@ -1,0 +1,59 @@
+Galactic Attack
+Permalink: //en.wikipedia.org/w/index.php?title=Galactic_Attack&oldid=1169152919
+Accessed on: 2024-06-26T16:51:38.564623
+
+
+
+------
+Galactic Attack
+{{About|the 1980 [[video game]] by Siro-Tech|the 1995 video game by Taito|RayForce}}
+
+{{Infobox video game
+| title = Galactic Attack
+| image = File:Galactic Attack (Cover).jpg
+| caption =
+| developer = Siro-Tech
+| publisher = Siro-Tech
+| designer = [[Robert Woodhead]]<ref name=giantlist/>
+| released = 1980
+| modes = [[Single-player video game|Single-player]]
+| genre = [[Space combat simulator]]
+| platforms = [[Apple II series|Apple II]]
+| engine = 
+}}
+
+'''''Galactic Attack''''' is a 1980 [[space combat simulator]] video game written by [[Robert Woodhead]] for the [[Apple II series|Apple II]] and published by the company he co-founded, Siro-Tech. It is a single-player adaptation of the game ''[[Empire (1973 video game)|Empire]]'' from the [[PLATO (computer system)|PLATO]] mainframe network.
+
+Siro-Tech was renamed to [[Sir-Tech]] and followed-up ''Galactic Attack'' with the more commercially successful ''[[Wizardry]]'' which was inspired by the PLATO system dungeon crawl games ''Oubliette'' and ''[[Moria (1975 video game)|Moria]]''.
+
+==Gameplay==
+{{Unreferenced section|date=December 2019}}
+
+In ''Galactic Attack'', the player's job is to liberate the solar system from the dreaded Kazanta invaders by destroying the Kzanta's ships and bombarding the Kzanta's forces on the planets of the solar system and then beaming down armies to secure the planets. The game's framing uses the same loose ''[[Star Trek]]'' framing as Empire; the universe is [[Plane (mathematics)|two dimensional]], with the user's starship placed in the center of their tactical screen. Ships have phasers which fire in a cone, with damage proportionate to distance, a limited number of torpedoes that can be in flight at any given time and which proceed in a straight line until they hit a target or time out, deflector shields, a range of warp speeds, and a limited energy supply that slowly automatically regenerates. Weapons were fired on compass bearings by typing in degree headings.
+
+==Development==
+''Galactic Attack'' was written with [[UCSD Pascal]].{{citation needed|date=September 2017}}
+
+==Reception==
+Bruce F. Webster reviewed ''Galactic Attack'' in ''[[The Space Gamer]]'' No. 43.<ref name="SG">{{cite journal|last=Webster |first=Bruce F. |date=September 1981 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=43|pages=34}}</ref> Webster commented that "I recommend ''Galactic Attack'' with few reservations. If gives you far more for your money than a lot of other games costing the same. Because the difficulty level can be adjusted to a very high point, it will be a long time before you master this game."<ref name="SG"/>
+
+Dick Richards reviewed the game for ''[[Computer Gaming World]]'', and stated that "As this is a real time game, it demands quick thinking — indecision can be fatal — because the computer controlled Kzinti never hesitates."<ref name="CGW10">{{cite magazine |last=Richards |first=Dick |title=Galactic Attack! Sir-tech's Space Combat Game |magazine=Computer Gaming World |date=May–Jun 1983 |volume=1 |issue=10 |pages=19, 42}}</ref>
+
+==Reviews==
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #19 (Feb 1984)<ref>[https://www.rpggeek.com/rpgissuearticle/142560/ludotique Ludotique | Article | RPGGeek<!-- Bot generated title -->]</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+* [http://mocagh.org/sir-tech/sirtech-catalog2.pdf Sir-Tech's catalog] from mocagh.org
+* [https://venturebeat.com/2010/12/20/forgotten-ruins-the-roots-of-computer-role-playing-games-sir-tech/ Forgotten ruins: The roots of computer role-playing games: Sir-tech] from https://venturebeat.com/
+
+[[Category:1980 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Sir-Tech games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,89 @@
+Starglider
+Permalink: //en.wikipedia.org/w/index.php?title=Starglider&oldid=1224444312
+Accessed on: 2024-06-26T17:01:03.593432
+
+
+
+------
+Starglider
+{{Short description|1986 video game}}
+{{more citations needed|date=July 2011}}
+{{Infobox video game
+| title = Starglider
+| image = Starglider.jpg
+| developer = [[Argonaut Games|Argonaut Software]]
+| publisher = [[Rainbird (software company)|Rainbird]]
+| designer = [[Jez San]]<br>Rick Clucas
+| engine = 
+| released = {{ubl|1986 (Atari ST)|1987 (ports)}}
+| genre = [[Space flight simulator]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Amiga]], [[Atari ST]], [[Amstrad CPC]], [[Amstrad PCW]], [[Apple II]], [[ZX Spectrum]], [[MS-DOS]], [[Commodore 64]]
+}}
+
+'''''Starglider''''' is a [[3D computer graphics|3D]] [[video game]] published in 1986 by [[Telecomsoft#Rainbird|Rainbird]]. It was developed by [[Jez San]] under his company name [[Argonaut Games|Argonaut Software]]. The game is a fast-moving, first-person combat flight simulator, rendered with colourful [[Wire-frame model|wireframe]] [[vector graphics]] inspired by San's love of the 1983 Atari coin-op ''[[Star Wars (1983 video game)|Star Wars]]''.<ref name="Bird Sanctuary">{{cite web|url=http://birdsanctuary.co.uk/starglider/|title=Starglider - Rainbird|website=Birdsanctuary.co.uk|access-date=7 July 2018}}</ref>
+
+''Starglider'' was originally developed for the 16-bit [[Amiga]] and [[Atari ST]]. Rainbird commissioned [[Realtime Games Software|Realtime Games]] to produce 8-bit versions for the [[Amstrad CPC]], [[Amstrad PCW]], and [[ZX Spectrum]] (128K, with a cut-down 48K version without sampled speech or special missions), and for the [[IBM PC compatible]] with [[Color Graphics Adapter|CGA]]. Solid Images were commissioned to produce versions for the [[Commodore 64]] and [[Apple IIGS]].
+
+It was followed in 1988 by a sequel, ''[[Starglider 2]]'', which uses filled-polygon graphics. The series inspired Argonaut to partner with [[Nintendo]] in creating the [[Super FX]] chip for Super NES in order to power the ''[[Star Fox]]'' series of hit games.
+
+== Story ==
+The game takes over the surface of the occupied planet Novenia, and it is the player's goal to rid the world of the mechanised Egron invaders.
+[[File:Starglider screenshot.png|thumb|right|Cockpit view. A walker robot is on-screen. Amiga version.]]
+
+''Starglider'' was packaged with a [[sci-fi]] novella by [[James Follett]], describing the game's background story, in which the Egrons effortlessly blitz Novenia despite the planet possessing a previously impenetrable network of utterly deadly defense satellites. The Egrons defeat the system by disguising their battleships as a flock of intergalactic migratory birds, the Stargliders. The defense satellites had been programmed not to fire on these birds (which migrated between planets regularly) and hence did not recognise the Egron battleships as enemies, allowing the Egrons to reach the surface unopposed. The player pilots the only existing example of a prototype fighter craft, initially armed only with lasers, as the TV-guided missiles require an enormous amount of energy to launch and control, which can only be gained by induction as the craft skims over areas with high-tension power conduits.
+
+==Audio==
+Most versions contain sampled speech from Rainbird employee Clare Edgeley.<ref name="Bird Sanctuary"/>
+
+The Amiga version has title music by [[David Lowe (video game composer)|Dave Lowe]] using digitized samples as instrument sounds, predating [[tracker music]]. The Atari ST and Amiga versions also have about 15-second long song&mdash;a single [[PCM]] sound file&mdash;with real vocals and synthesizers. A male voice sings: "''Starglider'' ... from Rainbird".
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Amstrad Action''
+| award3 = Mastergame<ref>Game review, Amstrad June magazine, [[Future Publishing]], issue 17, February 1987</ref>
+}}
+''Starglider'' was Firebird's third best-selling Commodore game as of late 1987.<ref name="ferrell198712">{{cite news | url=https://archive.org/stream/1987-12-computegazette/Compute_Gazette_Issue_54_1987_Dec#page/n17/mode/2up | title=The Commodore Games That Live On And On | work=COMPUTE!'s Gazette | date=December 1987 | access-date=24 January 2015 | author=Ferrell, Keith | pages=18–22}}</ref> ''[[Compute!|COMPUTE!]]'' called it "a visually smooth concoction that is so realistic in its feel that you'll duck and squirm in your seat", especially praising the Atari ST version's graphics and sound.<ref name="eddy198705">{{cite news | url=https://archive.org/stream/1987-05-compute-magazine/Compute_Issue_084_1987_May#page/n47/mode/2up | title=Starglider | work=COMPUTE! | date=May 1987 | access-date=9 November 2013 | last=Eddy | first=Andy | page=46}}</ref> The game won the award for Game Of The Year 1986 in ''[[Crash magazine|Crash]]''.<ref>{{cite web|url=http://www.crashonline.org.uk/38/awards.htm|title=CRASH 38 - Readers' Awards|website=Crashonline.org.uk|access-date=7 July 2018}}</ref>
+
+The game sold close to 200,000 copies.<ref>{{cite web|first=Margaret|last=Park|url=https://www.newspapers.com/article/the-daily-telegraph/137880411/|archiveurl=https://web.archive.org/web/20240102140732/https://www.newspapers.com/article/the-daily-telegraph/137880411/|title=Nintendo makes a killing with its British flying ace|newspaper=[[The Daily Telegraph]]|page=9|archivedate=January 2, 2024|date=May 24, 1993|accessdate=January 2, 2024|via=[[Newspapers.com]]}}</ref>
+
+==Legacy==
+A prototype version of ''Starglider'', [[codename]]d ''NESGlider'',<ref>{{Cite web|last=Machkovech|first=Sam|date=2017-10-03|title=Original Star Fox staffer tells story of sequel's shelving, surprise launch|url=https://arstechnica.com/gaming/2017/10/exclusive-legendary-star-fox-coder-on-series-history-surprise-sequel-launch/|access-date=2020-09-01|website=Ars Technica|language=en-us}}</ref> was developed for the [[Nintendo Entertainment System]] utilizing a similar method to accelerate graphics as the future Super FX chip for the SNES would. Argonaut showed the prototype to Nintendo in 1990 but were advised to instead develop the game for the as yet unreleased [[Super Famicom]]. They ported the demo to the Super Famicom prototype which took approximately one week.<ref>{{cite magazine|last1=Brookes|first1=Jason|last2=Bielby|first2=Matt|date=May 1993|title=Superplay interview: Jez San, Argonaut|url=https://archive.org/details/Superplay_Issue_07_1993-05_Future_Publishing_GB/page/n25/mode/2up|magazine=[[Super Play]]|location=United Kingdom|publisher=[[Future Publishing]]|issue=7|page=26}}</ref>
+
+The game was never released; nonetheless, it spawned a sequel, entitled ''[[Starglider 2]]''. The series inspired [[Argonaut Games|Argonaut Software]] to partner with [[Nintendo]] in creating the [[Super FX]] enhancement chip for [[Super NES]] in order to enable the ''[[StarFox]]'' series.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Atarimania|id=11388}}
+*{{Lemon Amiga game|id=1238}}
+*{{WoS game|id=0004863}}
+*[http://www.c64sets.com/set.html?id=53 Images of ''Starglider'' package, manual and screenshots] at C64Sets.com
+*{{MobyGames|id=/starglider}}
+
+{{Argonaut Games}}
+{{Authority control}}
+{{Star Fox}}
+
+[[Category:1986 video games]]
+[[Category:Science fiction video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Atari ST games]]
+[[Category:Apple II games]]
+[[Category:Argonaut Games games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Telecomsoft games]]
+[[Category:Tank simulation video games]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games scored by David Lowe]]
+[[Category:Video games set on fictional planets]]
+[[Category:Single-player video games]]

@@ -1,0 +1,156 @@
+River Raid
+Permalink: //en.wikipedia.org/w/index.php?title=River_Raid&oldid=1229938727
+Accessed on: 2024-06-26T16:53:57.669662
+
+
+
+------
+River Raid
+{{Short description|1982 video game}}
+{{Infobox video game
+| title = River Raid
+| image = River Raid cover.jpg
+| alt = 
+| caption = Atari 2600 cover art
+| developer = [[Activision]]{{sfn|Weiss|2014|p=180}}
+| publisher = Activision{{sfn|Weiss|2014|p=180}}
+| series = ''River Raid''
+| platforms = [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]], [[ColecoVision]], [[IBM PCjr]], [[Intellivision]], [[MSX]], [[ZX Spectrum]]
+| released = {{Collapsible list|
+| title= {{nobold|December 1982}}
+|'''Atari 2600'''
+|December 1982
+|'''Atari 800'''
+|September 1983
+|'''ColecoVision'''
+|December 1983
+|'''Atari 5200'''
+|December 1983
+}}
+| genre = [[Shoot 'em up]]{{sfn|Buchanan|2008}}
+| modes = 1-2 players alternating turns
+| designer = [[Carol Shaw]]
+}}
+
+'''''River Raid''''' is a [[video game]] developed by [[Carol Shaw]] for the Atari Video Computer System (later renamed [[Atari 2600]]) and released in 1982 by [[Activision]]. The player controls a [[fighter jet]] over the River of No Return in a [[Raid (military)|raid]] behind enemy lines. The goal is to navigate the flight by destroying enemy tankers, helicopters, fuel depots and bridges without running out of fuel or crashing.
+
+Shaw had made games for [[Atari, Inc.]] before joining Activision and before working on ''River Raid''. Inspired by the game ''[[Scramble (video game)|Scramble]]'' (1981), she set out to make a game that had a continuously scrolling screen. She had programmed and designed the game herself, occasionally getting advice from other Activision staff. 
+
+''River Raid'' was one of the best selling-games of 1983, and the second [[List of best-selling Atari 2600 video games|best-selling Atari 2600 video game]] of the year after ''[[Ms. Pac-Man]]''. It received year-end rewards from [[Computer Entertainer|''The Video Game Update'']] and the [[Arkie Awards]]. The game was ported to several other consoles and computers and received a sequel in 1988. It has continued to receive praise as one of the best games for the Atari 2600 from various publications.
+
+==Gameplay==
+[[Image:River raid2600.png|thumb|left|Atari 2600 gameplay. The player controls the plane at the bottom of the screen across a river canyon.]]
+
+In ''River Raid'' the player is in a B1 StratoWing Assault Jet that is retrofitted with rapid-fire guided missiles and had the ability to both accelerate and slow down easily. The jet is going down the "River of No Return" where it is on a mission to break the enemy blockades and halt troop advances.{{sfn|Activision|1982a|ref=BackCov}} The river in the game has no actual ending and scrolls infinitely.{{sfn|Hacker|1983|p=80}}
+
+''River Raid'' is played with the joystick. The player can control movement left and right on the screen and forward and backwards to accelerate and slow down respectively. Players can shoot missiles with the joy stick's button to destroy enemy tankers, helicopters, fuel depots and bridges. The goal in ''River Raid'' is to collect as many points as possible before crashing or running out of fuel. Fuel can be collected from flying over a fuel depot to fill up the gauge that is displayed at the bottom of the screen. As the river progresses, there will be less fuel tanks. The player loses one of their jets if they collide with the river bank or enemy objects. If they have remaining jets, the player restarts play at the same section of the river they crashed. If the player has managed to destroy a bridge at the end of a section, the player will restart at that bridge on losing a life.{{sfn|Activision|1982|ref=manual}} 
+
+In the Atari 2600 version, Switch A has the player's missiles shoot straight, while Switch B gives the player guided missiles.{{sfn|Weiss|2014|p=182}}
+
+The port to [[Atari 8-bit computers|Atari 8-bit computers]] adds the ability to select what bridge to start at, bonus points if the player shoots a bridge with tanks on it, and more hazards such as helicopters firing back at the player.{{sfn|Hacker|1983|p=80}}
+
+==Development==
+''River Raid'' was designed by [[Carol Shaw]].{{sfn|The Video Game Update includes Computer Entertainer|1983|ref=VGU1983int}} Shaw had started programming in High School coding in [[BASIC]] which led her to pursue a career in computers.{{sfn|Hacker|1983|p=77}} She received her Bachelor's degree in Electrical Engineering and Computer Science at the [[University of California, Berkeley]]. While at university, she was in a work-study program that allowed her to work at various computer companies including a six-month position at [[Atari]].{{sfn|The Video Game Update includes Computer Entertainer|1983|ref=VGU1983int}} She worked at Atari after graduation developing ''[[Video Checkers]]'' and ''[[3D_tic-tac-toe#Computer_implementations|3-D Tic-Tac-Toe]]'', which she described later as not being "top-sellers".{{sfn|Hacker|1983|p=78}} Shaw later accepted an offer to work on developing games for [[Activision]].{{sfn|The Video Game Update includes Computer Entertainer|1983|ref=VGU1983int}}
+
+Shaw programmed the game. She said the idea of the game was mostly her own, with some feedback from other designers.{{sfn|Hacker|1983|p=78}} Shaw recalled that there were a lot of video games with scrolling and thought it would be a good thing to do on the Atari 2600 as there had not been many that have done that.{{sfn|Hacker|1983|p=79}} She was initially inspired by the game ''[[Scramble (video game)|Scramble]]'' (1981) and approached [[Alan Miller (game designer)|Alan Miller]] of Activision to develop a space-themed game. Miller responded that there were too many outer space-themed games, suggesting her to come up with a different theme.{{sfn|Weiss|2014|p=181}} 
+
+Shaw created a game where objects scroll down the screen.{{sfn|Hacker|1983|p=78}} She began drawing the game on graph paper and found that creating a game that scrolled horizontally would not work well and would appear "very jerky", leading the game to be designed to scroll vertically.{{sfn|Weiss|2014|p=181}} While doodling on graph paper, she found that she could design the game with a mirror image looking like a river with islands in the middle of it.{{sfn|Weiss|2014|p=181}}{{sfn|Hacker|1983|p=78}} Initially, the players would be controlling a boat which Shaw felt did not look good.{{sfn|Weiss|2014|p=181}}{{sfn|Weiss|2014|p=182}} She recalled that Activision programmer [[David Crane (programmer)|David Crane]] had potentially suggested to her a jet would appear better, and began designing one that appeared to be flying up a canyon.{{sfn|Weiss|2014|p=181}}{{sfn|Hacker|1983|p=78}}{{sfn|Weiss|2014|p=182}}
+
+Some input came from either David Crane or [[Steve Cartwright]] to add fuel tanks that the player could either fly over for fuel or shoot and destroy for points. Other gameplay elements followed after, such as how far apart bridges were in the game.{{sfn|Hacker|1983|p=78}} While developing the sound effects in the game, she asked other Activision developers on appropriate [[Vehicle_horn#Klaxon|Klaxon]]-styled sounds to warn the player when their fuel was running low. According to Crane, he thought for a moment and recited some lines of [[assembly code]] that created the effect.{{sfn|Montfort|Bogost|2009|p=104}}
+
+Shaw coded the version of the game for the Atari 800, a game which was eight [[kilobytes]] in size over the Atari VCS version which was four kilobytes.{{sfn|Hacker|1983|p=80}} Shaw said the game was harder to develop for home computers in a version she described as a "whole new game".{{sfn|The Video Game Update includes Computer Entertainer|1983|ref=VGU1983int}}{{sfn|Hacker|1983|p=80}} Most of the code for ''River Raid'' had to be re-written for the Atari computer version. Shaw said that she has "pretty much mastered playing the game" and thought it would be more fun to be able to start at a higher level. This led to her to adding the ability to restart the game from a bridge further down the river.{{sfn|The Video Game Update includes Computer Entertainer|1983|ref=VGU1983int}} Shaw also designed more detailed graphics such as the canyon's river and walls.{{sfn|Hacker|1983|p=80}}
+
+==Release==
+''River Raid'' was released for the Atari 2600 in December 1982.<ref>{{cite web |title=River Raid (Registration Number PA0000188573) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=5 August 2021}}</ref> It was released for the Atari 800 line of computers on September 1983, and both the [[Atari 5200]] and [[Intellivision]] in December 1983.{{sfn|The Video Game Update includes Computer Entertainer|1984|ref=VGU1984year|p=148}}{{sfn|The Video Game Update includes Computer Entertainer|1984b|ref=VGU1984update}} The game was also ported to other home computers such as the [[Commodore 64]], [[ZX Spectrum]], [[MSX]] and [[IBM PCjr]].{{sfn|Fox|2013|p=241}}{{sfn|Loguidice|Barton|2014|p=96}}
+
+In West Germany, the "law for protection of the youth" was updated in 1985 to ban arcade games from public spaces open to youth. This led to the ''Bundesprüfstelle für jugendgefährdende Schriften'' (Federal Department for Works Harmful to Young Persons, now called the [[Federal Department for Media Harmful to Young Persons]]) to monitor video games, leading to ''River Raid'' to be banned due to its military-themed content.{{sfn|Wolf|2012|p=254}}
+
+''River Raid'' has been re-released on several compilation packages for consoles such as '' Activision Classics'' (1998) for [[PlayStation (console)|PlayStation]], ''[[Activision Anthology]]'' (2002) for [[PlayStation 2]] and portable systems such as [[Gameboy Advance]] and [[PlayStation Portable]].{{sfn|Weiss|2014|p=182}} It was released for PC in ''Activision's Atari 2600 Action Pack'' in 1995.<ref>{{cite web|url=https://www.ign.com/games/activisions-atari-2600-action-pack|work=IGN|title=Activision's Atari 2600 Action Pack|accessdate=November 6, 2023}}</ref>
+
+==Reception==
+[[File:Carol Shaw Holding Gold River Raid Cartridge.jpg|thumb|left|Carol Shaw in 1983 with her award plaque for selling over 500,000 copies of ''River Raid''.]]
+''River Raid'' was the top-selling Activision game of 1983, and the second best-selling game for the Atari 2600 in 1983, only being beaten by ''[[Ms. Pac-Man]]''.{{sfn|The Video Game Update includes Computer Entertainer|1984|ref=VGU1984top|p=145}} Shaw responded to the sales stating "I knew it was a good game, but I didn't expect to hit Number one. Of course I was happy when it did!"{{sfn|The Video Game Update includes Computer Entertainer|1983|ref=VGU1983int}}
+
+Early reviews from video game publications generally found the game fun with varying takes on the quality of graphics and how it compared to similar games for home consoles. E.C. Meade of ''Videogaming Illustrated'' praised the games for its exciting themes, fast-paced gameplay and high quality graphics, finding it superior to the similar ColecoVision game ''[[Zaxxon]]'' while Jim Clarke of the same publication declared it a "top-notch" game but found it "surprisingly flat" after playing ''[[B-17 Bomber (video game)|B-17 Bomber]]'' on Intellvision.{{sfn|Meade|Clark|1983|p=37}} Clarke wrote that he desired more complexity as "blasting away at things [...] becomes redundant. There is no sense of pacing: it's one shot, one course correction, one potential collision after another."{{sfn|Meade|Clark|1983|p=37}} Michael Blanchet of ''[[Electronic Fun with Computers & Games]]'' wrote that the game similar to many other games  the market, but stood out due to its everchanging scenery and constant shift in strategy.{{sfn|Blanchet|1983|pp=64-65}} A reviewer in ''[[Computer Entertainer|The Video Game Update]]'' complimented the game as "very easy game to learn, but a difficult one to master completely" writing that the "graphics are good, but not dazzling"{{sfn|The Video Game Update|1983|ref=VGU1983crit}} Phil Wiswell of ''Video Games'' echoed similar statements, writing that the game was "fun to play" and was "demanding of your concentration" while its graphics were not as appealing as other Activision titles.{{sfn|Wiswell|1983|pp=63-64}}
+
+For the games various ports, ''The Video Game Update'' praised the Intellivision version of the game, noting it's "beautiful, brightly colored graphics and exciting game play", feeling that the game plays most like the Atari 2600 game, with superior graphics.{{sfn|The Video Game Update includes Computer Entertainer|1984|ref=VGU1984crit}} Scott Mace of ''[[InfoWorld]]'' found the Atari home computer version of the game more challenging than the Atari 2600 version and that it outshined other similar games such as ''[[Caverns of Mars]]''.{{sfn|Mace|1983|pp=73-74}} Mace found the biggest flaw was the lack of a dial-like device to turn the controller, as the Atari joystick made for "a lousy steering device."{{sfn|Mace|1983|p=74}} Craig Holyoak of ''[[Deseret News]]'' praised ''River Raid'' on the ColecoVision as "one of the most playable and entertaining of all war games."{{sfn|Holyoak|1984}}
+
+''River Raid'' received the award for "1984 Best Action Videogame" and a Certificate of Merit in the category of "1984 Best Computer Action Game" at the 5th annual [[Arkie Awards]].{{sfn|Kunkel|Katz|1984a|p=42}}{{sfn|Kunkel|Katz|1984b|pp=28-29}} The judges [[Bill Kunkel (journalist)|Bill Kunkel]] and Arnie Katz described it as "provid[ing] the brand of non-stop excitement the [[hardcore gamers|blast brigaders]] adore".{{sfn|Kunkel|Katz|1984a|p=42}} ''The Video Game Update'' awarded ''River Raid'' as the Game of the Year for the Atari 2600 in their ''Awards of Excellence 1983''.{{sfn|The Video Game Update includes Computer Entertainer|1984c|ref=VGU1984award}}
+
+===Retrospective reviews===
+From retrospective reviews, Brett Weiss included the game in his book ''The 100 Greatest Console Video Games, 1977-1987'' (2014), noting it's sharp non-flickering graphics and smooth difficulty progression with "intense, challenging gameplay".{{sfn|Weiss|2014|p=181}} Weiss commented that some reviewers have found the game has not aged well with the release of such games as ''[[Ikaruga]]'' (2003), but found that ''River Raid'' still remained fun, charming, and elegant.{{sfn|Weiss|2014|p=181}} Writing for ''[[IGN]]'', Levi Buchanan placed the game at number two on their list of the "Top 10 Classic Shoot 'Em Ups", noting the high quality pacing, stating that "the game never grew boring in 1982. And it retains its fresh, frantic feeling in 2008."{{sfn|Buchanan|2008}} Weiss found Atari 5200's controls "a little loosey goosey" and that the ColecoVision was faster-paced than other versions, but had a slightly delay in controls, while declaring both games "great nevertheless."{{sfn|Weiss|2014|p=182}} He wrote that the Intellivision port had poor controls and was the lesser of the four console ports.{{sfn|Weiss|2014|p=182}}
+
+Both Weiss and Buchanan stated that it was one of the best games for the Atari 2600.{{sfn|Weiss|2014|p=181}}{{sfn|Buchanan|2008}}  In their list of the top 25 Atari 2600 games, Stuart Hunt and Darran Jones (from ''[[Retro Gamer]]'' magazine) listed ''River Raid'' at third spot, stating it was the best of the shooter games on the Atari 2600, noting "smooth scrolling and surprisingly detailed scenery."{{sfn|Jones|Hunt|p=32}} Other publications have placed it among the best video games of all time, such as ''[[Flux (magazine)|Flux]]'' magazine ranked ''River Raid'' #87 on their list of "Top 100 Video Games", noting the seemingly infinite scenery and amount of enemies.{{sfn|Amrich|Barbagallo|East|Hudak|1995|p=32}} In 1996, ''[[Next Generation (magazine)|Next Generation]]'' listed the [[Atari 2600]] version as number 81 on their "Top 100 Games of All Time" praising the games level design.<ref>{{cite magazine|title=Top 100 Games of All Time |magazine=[[Next Generation (magazine)|Next Generation]]|issue=21  |date=September 1996|page=43}}</ref>  Mat Allen of ''[[Retro Gamer]]'' referred to the ''River Raid'', along with ''[[Kaboom! (video game)|Kaboom!]]'' (1981), ''[[Pitfall II: Lost Caverns]]'' (1984), ''[[Ghostbusters (1984 video game)|Ghostbusters]]'' (1984), ''[[Little Computer People]]'' (1985) and ''[[Alter Ego (1986 video game)|Alter Ego]]'' (1986),  as one of the best games from Activision's classic period.{{sfn|Allen|2006|p=84}}
+
+==Legacy==
+[[File:Carol Shaw and Her Video Game Awards-cropped.jpg|thumb|Carol Shaw won several awards for ''River Raid''. In 2017, Shaw won [[The Game Awards|The Game Awards]] Industry Icon Award decades after she made ''River Raid''.{{sfn|Bjørn|Rosner|2022|p=375}}
+]]
+Shaw left Activision and the video game industry after programming the game ''Happy Trails'' (1983) for the Intellivision and releasing ports of ''River Raid'' for the Atari 5200 and 800 computer system.{{sfn|Symonds|2017}} In 2017, Shaw won [[The Game Awards|The Game Awards]] Industry Icon Award for her contributions to the video game industry.{{sfn|Bjørn|Rosner|2022|p=375}}
+
+''River Raid'' popularized vertically-scrolling shooters among the home console audiences.{{sfn|Cassidy|2002|ref=page1}} The Atari 2600 was experiencing what video game historian Brett Weiss described as "a resurgence of sorts" after [[Nintendo]] had success in the marketplace with the [[Nintendo Entertainment System]].{{sfn|Weiss|2014|p=119}} Atari had just re-released the system a smaller budget-priced revision in 1986.<ref name="Atari50">{{cite video game |title=Atari 50 |developer=[[Digital Eclipse]] |publisher=[[Atari SA|Atari]] |date=November 11, 2022 |platform=Nintendo Switch |quote='''Highs and Lows: The 2600 "Jr."''': In addition to the 7800, Atari also rolled out a smaller, budget-priced revision of the 2600. Retailing for just $49.99, it was a very affordable alternative, and Atari began to put more 2600 games on the shelves.}}</ref> Atari had convinced Activision to develop more games for the Atari 2600, starting with a port of Crane's best-selling game ''[[Ghostbusters (1984 video game)|Ghostbusters]]''.{{sfn|Hawken|p=44}} Activision released ''River Raid II'', which was designed by [[Dan Kitchen]] and coded by [[David Lubar]].{{sfn|Hawken|p=45}}{{sfn|Armstrong|1988}} Kitchen explained that at this period, Activision wanted to focus on licenses and brands over original concepts and as ''River Raid'' was one of those top-selling games, they wanted a sequel to capitalize on it.{{sfn|Hickey, Jr.|2021|p=72}} Lubar had previously coded games for 20th Century Fox and [[Spectravideo]].{{sfn|Hawken|p=45}}{{sfn|Armstrong|1988}} Lubrar recalled that making the game was "tough, really tough. Since I knew how good the original ''River Raid'' was and assumed people would make comparisons."{{sfn|Hawken|p=44}} ''River Raid II'' uses the same polynomial algorithm Shaw used to create the scrolling playfield to have the sequel resemble the original game.{{sfn|Hickey, Jr.|2021|p=73}} The game was developed in about five months and sold over 501,000 copies.{{sfn|Hickey, Jr.|2021|p=74}}
+
+A third game, ''River Raid: The Mission of No Return'' was shown as the 1991 Summer [[Consumer Electronics Show]] for the [[Super Nintendo Entertainment System]] but was never released.{{sfn|McFerran|2015}} As of 2021, there have been no further official sequels to the game.{{sfn|Hickey, Jr.|2021|p=75}}
+
+==See also==
+{{Portal|Video games|1980s}}
+*[[List of Atari 2600 games]]
+*[[List of Activision games: 1980–1999]]
+
+==References==
+{{Reflist}}
+
+===Sources===
+* {{Cite AV media notes |title=Rive Raid |date=1982a |type=Back cover |publisher=Activision|ref=BackCov}}
+* {{cite book|title=Activision: River Raid: Plan of Operation|year=1982|id=AX-020-03|publisher=[[Activision]]|ref=manual}}
+* {{cite book | title=River Raid II | publisher=Activision | year=1988|last=Armstrong|first=Liz|id=AK-048-03}}
+* {{cite magazine|magazine=[[Retro Gamer]]|title=Activisionaries|last=Allen|first=Mat|issue=25|year=2006|ISSN=1742-3155|publisher=Imagine Publishing}}
+* {{Cite magazine |date=April 1995 |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |magazine=[[Flux (magazine)|Flux]]|title=The Top 100 Video Games|publisher=Harris Publications |issue=4 |issn=1074-5602|last1=Amrich|first1=Dan|last2=Barbagallo|first2=Ralph|last3=East|first3=Mark|last4=Hudak|first4=Chris|last5=Kitts|first5=Jeff|last6=Meston|first6=Zach|last7=Yang|first7=Jeff|authorlink1=Dan Amrich}}
+* {{cite journal|last1=Bjørn|first1=Pernille|last2=Rosner|first2=Daniela K.|DOI=10.1080/07370024.2020.1861947|title=Intertextual Design: The Hidden Stories of Atari Women|journal=Human-Computer Interaction|volume=37|issue=4|year=2022}}
+* {{cite magazine|title=River Raid|magazine=[[Electronic Fun with Computers & Games]]|date=March 1983|volume=1|issue=5|last=Blanchet|first=Michael}}
+* {{cite web|url=https://www.ign.com/articles/2008/04/08/top-10-classic-shoot-em-ups|publisher=[[IGN]]|title=Top 10 Classic Shoot 'Em Ups|last=Buchanan|first=Levi|date=April 8, 2008|accessdate=November 6, 2023}}
+* {{cite web|url=http://www.gamespy.com/articles/491/491726p1.html|archiveurl=https://web.archive.org/web/20040616045628/http://www.gamespy.com/articles/491/491726p1.html|title=River Raid|last=Cassidy|first=William|work=[[GameSpy]]|date=April 8, 2002|accessdate=February 19, 2024|archivedate=June 16, 2004|ref=page1}}
+* {{cite book |first= Matt |last=Fox |title= The Video Games Guide |publisher= McFarland & Company, Inc. |year= 2013|edition=2|ISBN=978-0-7864-7257-4}}
+* {{cite news|newspaper=[[Deseret News]]|title=Here are ColecoVision's Jewels|last=Holyoak|first=Craig|date=May 30, 1984|page=4 WV|url=https://news.google.com/newspapers?id=PqZNAAAAIBAJ&pg=7081%2C6575510|via=[[Google News]]}}
+* {{cite magazine|title=Designing Woman|magazine=Electronic Fun with Computers & Games|date=September 1983|volume=1|issue=11|last=Hacker|first=Randi}}
+* {{cite magazine|title=Atari 2600 Jr.|first=Kieren|last=Hawken|issue=161|magazine=Retro Gamer}}
+* {{cite book|title=The Minds Behind Shooter Games: Interviews with Cult and Classic Video Game Developers|last=Hickey, Jr.|first=Patrick|isbn=978-1-4766-8273-0|year=2021|publisher=[[McFarland & Company, Inc.]]}}
+* {{cite magazine|title=Top 25 Atari 2600 Games|first1=Darran|last1=Jones|first2=Stuart|last2=Hunt|page=27|issue=46|magazine=Retro Gamer}}
+* {{cite magazine |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= January 1984a |title= Arcade Alley: The Arcade Awards, Part 1 |magazine= [[Video (magazine)|Video]]|volume= 7|issue= 10|issn= 0147-8907}}
+* {{cite magazine |last1= Kunkel |first1= Bill |last2= Katz |first2= Arnie |date= February 1984b |title= Arcade Alley: The 1984 Arcade Awards, Part II |magazine= Video|volume= 7|issue= 11|issn= 0147-8907}} 
+* {{cite magazine|magazine=[[InfoWorld]]|title=Electronic Antics|last=Mace|first=Scott|volume=5|issue=45|date=November 7, 1983}}
+* {{cite book|title=Vintage Game Consoles|last1=Loguidice|first1=Bill|last2=Barton|first2=Matt|publisher=Focal Press|year=2014|ISBN=978-0-415-85600-3}}
+* {{cite web|url=https://www.nintendolife.com/news/2015/04/activision_almost_rebooted_the_atari_2600_classic_river_raid_on_the_snes|last=McFerran|first=Damien|date=April 1, 2015|title=Activision Almost Rebooted the Atari 2600 Classic River Raid on The SNES|accessdate=November 6, 2023|work=NintendoLife}}
+* {{cite magazine|magazine=Videogaming Illustrated|date=April 1983|publisher=Ion International|last1=Meade|first1=E.C.|last2=Clark|first2=Jim|title=Preview}}
+* {{cite book|last1=Montfort|first1=Nick|last2=Bogost|first2=Ian|title=Racing the Beam|publisher=[[MIT Press]]|year=2009|isbn=978-0-262-01257-7|title-link=Racing the Beam|authorlink1=Nick Montfort|authorlink2=Ian Bogost}}
+* {{cite book|title=A Brief History of Video Games|last=Stanton|first=Richard|year=2015|isbn=978-1-47211-880-6|location=United Kingdom|publisher=[[Running Press]]}}
+* {{cite web|url=https://www.museumofplay.org/blog/preserving-carol-shaws-trailblazing-video-game-career/|work=[[The Strong]]|title=Preserving Carol Shaw's Trailblazing Video Game Career|accessdate=November 6, 2023|date=July 19, 2017|last=Symonds|first=Shannon}}
+* {{cite book|title=The 100 Greatest Console Video Games 1977-1987|last=Weiss|first=Brett|year=2014|isbn=978-0-7643-4618-7|publisher=[[Schiffer Publishing]]}}
+* {{cite magazine|magazine=Video Games|volume=1|issue=7|title=Soft Spot|last=Wiswell|first=Phil|date=April 1983|publisher=Pumpkin Press}}
+* {{cite book| title=Encyclopedia of Video Games|volume=1|last=Wolf|first=Mark J. P.|year=2012|publisher=[[Bloomsbury Academic]]|ISBN=031337936X}}
+* {{cite magazine|title=Critically Speaking..Atari 2600-Compatible|magazine=The Video Game Update|date=January 1983|volume=1|issue=10|ref=VGU1983crit}}
+* {{cite magazine|title=Update One on One|page=111|magazine=The Video Game Update includes Computer Entertainer|date=October 1983|volume=2|issue=7|ref=VGU1983int}}
+* {{cite magazine|title=The Top Sellers of 1983|page=145|magazine=The Video Game Update includes Computer Entertainer|date=January 1984|volume=2|issue=10|ref=VGU1984top}}
+* {{cite magazine|title=The Year in Review|page=145|magazine=The Video Game Update includes Computer Entertainer|date=January 1984|volume=2|issue=10|ref=VGU1984year}}
+* {{cite magazine|title=Critically Speaking..ColecoVision-Compatible|page=149|magazine=The Video Game Update includes Computer Entertainer|date=January 1984|volume=2|issue=10|ref=VGU1984crit}}
+* {{cite magazine|title=Awards of Excellence 1983|magazine=The Video Game Update includes Computer Entertainer|date=January 1984c|volume=2|issue=10|ref=VGU1984award}}
+* {{cite magazine|title=Availability Update|magazine=The Video Game Update includes Computer Entertainer|date=January 1984b|volume=2|issue=10|ref=VGU1984update|page=160}}
+
+==External links==
+* {{MobyGames|/6947}}
+* [http://www.atarimania.com/game-atari-2600-vcs-river-raid_s6826.html ''River Raid''] for Atari 2600 at Atari Mania
+* {{atarimania|id=4388}}
+* {{lemon64 game|id=2143|name=River Raid}}
+{{Atari 2600}}
+
+[[Category:1982 video games]]
+[[Category:Activision games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Intellivision games]]
+[[Category:MSX games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Video games developed in the United States]]

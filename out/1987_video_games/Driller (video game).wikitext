@@ -1,0 +1,88 @@
+Driller (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Driller_%28video_game%29&oldid=1228429009
+Accessed on: 2024-06-26T17:01:59.416018
+
+
+
+------
+Driller (video game)
+{{Short description|1987 video game}}
+{{Infobox video game
+|title = Driller
+|image = Driller inlay.png
+|developer = Major Developments
+|publisher = [[Incentive Software]]
+|designer = {{ubl|Chris Andrew|Ian Andrew}}
+|engine = [[Freescape]]
+|released = 1987
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[ZX Spectrum]]
+}}
+'''''Driller''''' (known as '''''Space Station Oblivion''''' in the United States) is a 1987 [[puzzle video game]]. It was written by British developers Major Developments and published by [[Incentive Software]] for the [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]], [[Amiga]], [[Atari ST]], and [[MS-DOS]]. It uses the [[Freescape]] [[3D computer graphics|3D]] [[game engine]].
+
+==Plot==
+In the far future, the human race has abandoned Earth for the reaches of outer space, having ruined the planet in the relentless quest for resources and in endless conflict. In a desperate search to find a new home, they found Evath, a life-sustaining planet with two moons, Mitral and Tricuspid. They sent a ship, named "Exodus" to colonize this new planet with explorers, embryos and supplies. Generations passed, and the colony on Evath was formed. Without the [[rule of law]], the oldest members of the Exodus' crew, the Elders, were forced to take control, form an army and bring the rule of law to Evath.
+
+Lesleigh Skerrit aspired to work for the Driller Federation. His grandfather had been a member of the Federation, but he was falsely accused of murder and banished as a Ketar. Only later did the evidence contesting his guilt surface, but it was too late - the law did not allow someone banished as a Ketar to return to Evath. Lesleigh was not bitter and did not seek retribution. He wanted to study law to prevent this kind of mistake happening again.
+
+Called in by his superior, Montigue Yarbro, he is offered a lifetime opportunity - to complete his training and gain a promotion to Elite within the Driller Federation in one fell swoop. His experience on Mitral bore him well - he was to go to Mitral and attempt to avert the coming catastrophe. Mitral, having been abandoned in its unstable state by the Ketars, was going to explode within four hours, and the explosion would take Evath with it. Skerrit's mission was to use the excavation probe "Last Hope" to place eighteen drilling rigs around Mitral to allow the gas to dissipate harmlessly into space and prevent this disaster. Things are not so simple though, with the security systems activated prior to the Ketars' departure.
+
+==Gameplay==
+{{unreferenced section|date=April 2017}}
+The game requires the player to maneuver the excavation probe, through a [[first person (video games)|first-person view]], through eighteen regions (in the shape of a [[rhombicuboctahedron]]) of the moon Mitral, and place a drilling rig in each of them to allow a minimum of 50% of the gas to escape.<ref name=":0" /> The position is established by a mixture of clues from the landscape (including an "X marks the spot" in the first zone) and trial and error. The security systems will attack Lesleigh upon sight, and he must disable or avoid them by any means possible. Only a few can be destroyed by shooting, while the rest must be dispatched by mechanical means through switches or similar.
+
+The eighteen regions are actually platforms above the true surface of Mitral; the excavation probe cannot fly or hover (although it can rise and lower itself slightly on hydraulics), and moving off a platform causes the player to fall onto the surface and become marooned. However, in one area the player can find a garage containing a hovering vehicle that can be used to explore and attack security systems, though not to place drilling rigs.
+
+==Development==
+''Driller'' was the first game to use the [[Freescape]] [[First-person shooter engine|engine]], which allowed the production of full three-dimensional environments using filled polygons in which the player could move around freely. It also gave the player the ability to look up and down, as well as rotate left and right, something which was rare amongst 3D games of the time.<ref>{{cite web|url=http://www.ign.com/articles/2008/10/22/exploring-the-freescape|title=Exploring the Freescape|first=Travis|last=Fahs|date=22 October 2008|publisher=|access-date=30 August 2017}}</ref> The same engine was used for ''Driller's'' sequel, ''[[Dark Side (video game)|Dark Side]]'', as well as ''[[Total Eclipse (1988 video game)|Total Eclipse]]'', ''The Sphinx Jinx'', ''[[Castle Master]]'' and ''Castle Master II: The Crypt''.
+
+==Reception==
+{{Video game reviews
+| AAction = 96%<ref>Amstrad Action magazine, issue 28, Future Publishing</ref>
+| CVG = 34/40<ref name="CVG">{{cite journal | url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue075/Pages/CVG07500024.jpg | title=Reviews: Driller | journal=Computer and Video Games | issue=75 | pages=24}}</ref>
+| CRASH = 97%<ref name="Crash">{{cite journal | url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue47/Pages/Crash4700025.jpg | title=Driller | journal=CRASH! | issue=47 | pages=25}}</ref>
+| SUser = {{Rating|9|10}}<ref>{{cite journal | url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue069/Pages/SinclairUser06900061.jpg | title=Arcade Review: Driller | journal=Sinclair User | issue=69 | pages=61}}</ref>
+| YSinclair = 9/10<ref>{{cite journal | url=http://www.ysrnry.co.uk/articles/driller.htm | title=Driller | author=South, Phil | journal=Your Sinclair | date=January 1988 | pages=25 | url-status=dead | archive-url=https://web.archive.org/web/20120427115951/http://www.ysrnry.co.uk/articles/driller.htm | archive-date=2012-04-27}}</ref>
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 96%<ref name="Zzap">{{cite web | url=http://www.zzap64.co.uk/zzap100/100thspec5.html | title=Zzap!64 100th Issue Pull-Out Special | access-date=2012-02-25 | pages=5}}</ref>
+| rev2 = ''[[ACE (games magazine)|ACE]]''
+| rev2Score = 956<ref>{{cite journal | url=http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue04/Pages/ACE0400076.jpg | title=Driller | journal=ACE | issue=4 | pages=76}}</ref>
+| rev3 = ''[[The Games Machine]]''
+| rev3Score = 95%<ref>{{cite journal | url=http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue02/Pages/TheGamesMachine0200039.jpg | title=Driller | journal=The Games Machine | issue=2 | pages=39}}</ref>
+| award1Pub = Zzap!64
+| award1 = Gold Medal<ref name="Zzap"/>
+| award2Pub = C+VG
+| award2 = C+VG Hit<ref name="CVG"/>
+| award3Pub = Crash
+| award3 = Crash Smash<ref name="Crash"/>
+| award4Pub = Amstrad Action
+| award4 = 4th best game of all time <ref>{{cite web|url=http://retroactionmagazine.com/retroactionextra/amstrad-action-all-time-top-10-games/|title=Amstrad Action All Time Top 10 Games • Retroaction|website=retroactionmagazine.com|access-date=30 August 2017|archive-date=16 December 2012|archive-url=https://archive.today/20121216102004/http://retroactionmagazine.com/retroactionextra/amstrad-action-all-time-top-10-games/|url-status=dead}}</ref>
+}}
+The game received positive reviews from several sources. ''[[CRASH (magazine)|CRASH]]'' awarded the game 97%, praising its use of 3D graphics, "challenging" gameplay, and the exploration of game's world.<ref name = "Crashrev">{{cite web | url = http://www.crashonline.org.uk/47/driller.htm | title = CRASH review of Driller from 1987 | access-date = 2007-01-27}}</ref> The magazine's readers voted it the best overall game of 1987.<ref>{{cite web | url=http://www.crashonline.org.uk/51/awards.htm | title=THE 1987 CRASH Readers' Awards | access-date=February 25, 2012}}</ref> ''[[Your Sinclair]]'' gave ''Driller'' 9/10 with reviewer Phil South stating that "the game took a year to build, and it shows in the quality of the workmanship and the gameplay. I can tell that people are going to be sending in tips for this for months to come. Superb!"<ref name="YSrev">{{cite web | url = http://www.ysrnry.co.uk/articles/driller.htm | title = Your Sinclair review of Driller, Jan 1988 | access-date = 2007-01-27 | url-status = dead | archive-url = https://web.archive.org/web/20120427115951/http://www.ysrnry.co.uk/articles/driller.htm | archive-date = 2012-04-27}}</ref> ''[[Zzap!64]]'' awarded the game 96%.<ref>{{cite web | url = http://www.lemon64.com/?game_id=783 | title = Lemon64 ''Driller'' entry | access-date = 2007-01-29}}</ref> ''[[Amstrad Action]]'' reviewed the game in the January 1988 issue with an overall rating of 96% and earned the ''AA'' 'Mastergame' accolade.<ref name=":0">'Amstrad Action', issue 28, January 1988, pages 50-51</ref> [[Orson Scott Card]] wrote in ''[[Compute!]]'' that "the lame science fiction story ... is a thinly veiled excuse for what's really a programmer's exercise in 3-D graphics. But once you stop expecting the story to make sense, this is a ''fun'' game, as you explore a strange world ... a fascinating experience".<ref name="card198906">{{cite news | url=https://archive.org/stream/1989-06-compute-magazine/Compute_Issue_109_1989_Jun#page/n29/mode/2up | title=Light-years and Lasers / Science Fiction Inside Your Computer | work=Compute! | date=June 1989 | access-date=11 November 2013 | author=Card, Orson Scott | pages=29}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{moby game|id=/space-station-oblivion |name= ''Driller''}}
+* {{WoS game|id=0001521|name=Driller}}
+* {{Lemon64 game|id=783|name=Driller}}
+
+{{Incentive Software}}
+
+{{DEFAULTSORT:Driller (Video Game)}}
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Crash Smash! award winners]]
+[[Category:DOS games]]
+[[Category:Freescape games]]
+[[Category:Incentive Software games]]
+[[Category:ScummVM-supported games]]
+[[Category:Single-player video games]]
+[[Category:Tank simulation video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

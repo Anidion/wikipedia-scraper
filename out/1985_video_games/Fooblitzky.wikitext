@@ -1,0 +1,57 @@
+Fooblitzky
+Permalink: //en.wikipedia.org/w/index.php?title=Fooblitzky&oldid=1230715755
+Accessed on: 2024-06-26T16:58:28.912143
+
+
+
+------
+Fooblitzky
+{{Short description|1985 video game}}
+{{Infobox video game
+|title  = Fooblitzky
+|image = Fooblitzky cover.jpg
+|developer = [[Infocom]]
+|publisher = Infocom
+|designer = [[Marc Blank]]<br>[[Michael Berlyn]]<br>Poh C. Lim<br>Paula Maxwell
+|engine = GZIP - Graphical Zork Interpreter Program
+|released = 1985
+|genre = [[Board game]]
+|modes = [[Multiplayer video game|Multiplayer]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[MS-DOS]]
+}}
+
+'''''Fooblitzky''''' is a [[board game]]-style [[video game]] published by [[Infocom]] in 1985 and designed by a team which included [[interactive fiction]] authors [[Marc Blank]] and [[Michael Berlyn]]. It is unique among Infocom titles for not being interactive fiction and for being the first to incorporate graphics beyond [[ASCII]] characters. Unlike most Infocom games, it was only released for the [[Apple II]], [[Atari 8-bit computers]], and [[IBM PC compatible]]s.
+
+==Gameplay==
+Infocom marketed ''Fooblitzky'' as a "Graphic Strategy Game", and gameplay was compared to that of ''[[Clue (board game)|Clue]]'' and ''[[Mastermind (board game)|Mastermind]]''. Two to four players travel around the virtual city of Fooblitzky, spending "foobles" and attempt to deduce what four objects are needed to win the game (and then obtain them).
+
+Players purchase objects in stores and can visit City Hall to have their possessions evaluated. Much in the same style as Mastermind, the player is told ''how many'' of their objects are correct, but not ''which ones''.
+
+==Release==
+Each box contained four sets of laminated game boards and erasable markers which could be used to track the progress of a game. Two sets of documentation were also included: a set of "quick-start" guidelines ("The Bare Essentials") and a more detailed set ("Official Ordinances").
+
+==Reception==
+As a test, for the first six months ''Fooblitzky'' was only advertised to those on Infocom's mailing list, although others could order it from the company.<ref name="williams198602">{{cite magazine | title=Atari Playfield | magazine=[[Computer Gaming World]] | issue=25 | date=January–February 1986 | url=http://www.cgwmuseum.org/galleries/issues/cgw_25.pdf | access-date=23 April 2016 | last=William | first=Gregg | pages=40}}</ref>{{r|williams198604}} It sold very poorly; Infocom sold only 8,225 copies through 1986, the fewest of the five titles introduced in 1985, and from 1987 to 1989 the number of copies returned exceeded those sold.<ref name="carless20080920">{{cite web | url=http://www.gamesetwatch.com/2008/09/great_scott_infocoms_alltime_s.php | title=Great Scott: Infocom's All-Time Sales Numbers Revealed | publisher=GameSetWatch | date=2008-09-20 | access-date=18 October 2013 | author=Carless, Simon}}</ref>
+
+''[[Computer Gaming World]]'' called ''Fooblitzky'' "a fun way to spend time with a few friends", stating that the advertising comparing it to ''Mastermind'' and ''Clue'' was correct. It noted that the game began as an Infocom project to see if graphical games could be written for easy [[porting]] between computers like the company's [[Z-machine|text adventures]], and criticized the Atari version's resulting graphics as "jerky and slow".<ref name="williams198604">{{cite magazine | title=Atari Playfield | magazine=[[Computer Gaming World]] | issue=27 | date=April 1986 | url=http://www.cgwmuseum.org/galleries/issues/cgw_27.pdf | access-date=23 April 2016| last=Williams |first=Gregg | pages=36}}</ref> ''[[Compute!|COMPUTE!]]'' stated "probably no game on the computer software market today gives one the feel of playing a board game as much as does ''Fooblitzky''", adding that the principles ''Fooblitzky'' used were the same ones that made ''Monopoly'' popular. Cautioning that because it was so different from other computer games that "it probably isn't for everyone's tastes", the magazine recommended ''Fooblitzky'' for those seeking a game for families to enjoy.<ref name="trunzo198610">{{cite news | url=https://archive.org/stream/1986-10-compute-magazine/Compute_Issue_077_1986_Oct#page/n69/mode/2up | title=Fooblitzky | work=Compute! | date=October 1986 | access-date=9 November 2013 | author=Trunzo, James V. | pages=68}}</ref>
+
+==Legacy==
+In ''[[Zork Zero]]'' one of the possible magic words needed to win the game is ''fublitskee''.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Internet Archive game|msdos_Fooblitzky_1985}}
+*[http://www.infocom-if.org/games/fooblitzky/fooblitzky.html Infocom-if.org's entry for ''Fooblitzky'']
+
+{{Infocom games}}
+
+[[Category:1985 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Digital board games]]
+[[Category:DOS games]]
+[[Category:Infocom games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer video games]]

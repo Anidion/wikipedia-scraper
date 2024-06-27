@@ -1,0 +1,69 @@
+Pepper II
+Permalink: //en.wikipedia.org/w/index.php?title=Pepper_II&oldid=1221026780
+Accessed on: 2024-06-26T16:53:49.833495
+
+
+
+------
+Pepper II
+{{Short description|1982 video game}}
+{{More citations needed|date=May 2023}}
+{{Infobox VG
+|title       = Pepper II
+ |image       = Pepper II cover.jpg
+|developer   = [[Exidy]]
+|publisher   = [[Exidy]]<br>[[Coleco]] (ColecoVision)
+|director    = 
+ |designer    = Larry Hutcherson<ref name=giantlist>{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game |url=https://dadgum.com/giantlist/}}</ref>
+ |programmer  = Larry Hutcherson
+ |composer    = 
+ |engine      = 
+ |released    = 1982
+ |genre       = [[List of maze video games|Maze]]
+ |modes       = [[Single-player video game|Single-player]]
+ |platforms   = {{cslist|[[Arcade video game|Arcade]]|[[ColecoVision]]}}
+|caption = 
+|alt = 
+}}
+
+'''''Pepper II''''' is an [[arcade video game]] developed by [[Exidy]] and published in 1982. Despite its name, there was no predecessor named ''Pepper'' or ''Pepper I.''<ref name="Weiss2007">{{cite book|last=Weiss|first=Brett|title=Classic home video games, 1972-1984: a complete reference guide|url=https://books.google.com/books?id=BzxTtml8Jq4C&pg=PA188|accessdate=21 May 2013|year=2007|publisher=McFarland|isbn=9780786487554|pages=188–}}</ref><ref>{{cite news|url=http://www.atarimagazines.com/cva/v1n1/newarcadegames.php|title=Arcade Games: New Coin-Op Arcade Games|date=Spring 1983|work=Creative Computing Video & Arcade Games|accessdate=21 May 2013}}</ref> As in ''[[Amidar]]'' by Konami and Stern Electronics, the goal is to color the lines on a grid; each rectangle is filled-in after being completely surrounded. Coleco published a port of ''Pepper II'' for its [[ColecoVision]] home system.<ref name=Weiss2007/>
+
+The game plays Gounod's "[[Funeral March of a Marionette]]" when gameplay starts.
+
+==Gameplay==
+There are four [[maze]]s per level in ''Pepper II''. Each maze has exits leading to three other mazes. All four mazes must be filled to advance to the next level. To fill in a maze, the player maneuvers "Pepper" around different segments of the maze. As Pepper travels, he leaves a "zipper". Once he encloses or "zips" a segment, it fills in and points are awarded. If Pepper backtracks on an uncompleted segment, it unzips.
+
+The character "Pepper" is an [[angel]]. There are two types of enemies that must be avoided: Roaming Eyes and the Whippersnapper (Zipper Ripper on the ColecoVision version) who unzips all uncompleted, zipped segments by moving over them. Pepper's one defense is to enclose an area containing a [[pitchfork]], which turns him into a [[devil]] for approximately four seconds. At that time he can go after all Roaming Eyes for points while the Whippersnapper freezes. There are four pitchforks in the corners of every maze. A deluxe energizer is located in the center of each maze. This energizer alternates between being a pitchfork and a [[halo (religious iconography)|halo]] symbol. If Pepper encloses the middle area when the energizer is a halo, the Whippersnapper disappears from the maze.
+
+Points are made for enclosing a segment, consuming a pair of roaming [[eye]]s when energized by the pitchfork (similar to ''[[Pac-Man]]''), obtaining prizes, completing a maze, and completing four mazes. A bonus turn is awarded at 40,000, 50,000, 70,000 or 90,000 points, depending on the dip switch settings.  When a full screen (of the four) has been completely filled, "[[Zip-a-Dee-Doo-Dah]]" is briefly heard (the same excerpt heard in the middle of the intro of [[The Wonderful World of Disney]] in the 70s and 80s). When four full screens are completed, a small cube appears at the bottom of the screen to mark your progress at completing cubes.
+
+Each maze also contains a prize in one of the segments. The player must enclose the area it appears in to gain the prize and points, and then the prize is shown beneath the maze.
+
+==Reviews==
+*''[[Games (magazine)|Games]]'' #44<ref>{{cite web | url=https://archive.org/details/games-44-1983-october/page/n59/mode/2up | title=GAMES Magazine #44 | date=October 1983 }}</ref>
+
+==See also==
+*''[[Triple Punch]]''
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+* [https://archive.org/details/pepperiioperationandservicemanual2ndedition Arcade manual] at the [[Internet Archive]]
+* {{KLOV game|id=8992|name=Pepper II}}
+
+[[Category:1982 video games]]
+[[Category:Amidar clones]]
+[[Category:Arcade video games]]
+[[Category:Coleco games]]
+[[Category:ColecoVision games]]
+[[Category:Exidy games]]
+[[Category:Fiction about the Devil]]
+[[Category:Maze games]]
+[[Category:Single-player video games]]
+[[Category:Video games about demons]]
+[[Category:Video games developed in the United States]]
+
+
+{{arcade-stub}}

@@ -1,0 +1,70 @@
+Fairlight (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Fairlight_%28video_game%29&oldid=1230715613
+Accessed on: 2024-06-26T16:58:26.826640
+
+
+
+------
+Fairlight (video game)
+{{Short description|1985 video game}}
+{{other uses|Fairlight (disambiguation)}}
+{{Infobox video game
+|title = Fairlight
+|image = Fairlight Coverart.png
+|image_size = 250px
+|caption = 
+|developer = [[Edge Games|The Edge]]
+|publisher = The Edge
+|designer = [[Bo Jangeborg]]
+|programmer = [[Bo Jangeborg]] (Spectrum)<br>[[Trevor Inns]] (C64, Amstrad)
+|artist = Jack Wilkes
+|composer = Mark Alexander<ref name='gargoyleyoursinclair'>{{cite magazine |title=Heavy on the Mockery|magazine=Your Sinclair|issue=7|publisher=Dennis Publishing|date=July 1986|page=55|url=https://spectrumcomputing.co.uk/page.php?issue_id=228&page=55|access-date=11 November 2022}}</ref><ref name='markalexander'>{{cite web |title=Games, Utilities and Music written by Mark Alexander for the Sinclair ZX Spectrum|archive-url=https://web.archive.org/web/20120605114319/www.atowers.u-net.com/mark/spectrum/spectrum.htm|url=http://www.atowers.u-net.com/mark/spectrum/spectrum.htm|archive-date=5 June 2012}}</ref><ref name='scmarkalexander'>{{cite web |title=Mark Alexander|url=https://spectrumcomputing.co.uk/list?label_id=9138|access-date=12 November 2022|website=Spectrum Computing}}</ref>
+|released = 20 August 1985: Spectrum<ref name='crashfairlight'>{{cite magazine |title=Coming Close to The Edge|magazine=Crash|issue=20|publisher=Newsfield|date=29 August 1985|page=36|url=https://spectrumcomputing.co.uk/page.php?issue_id=987&page=36|access-date=7 February 2022}}</ref><br>1986: C64, Amstrad
+|genre = [[Action-adventure game|Arcade adventure]]
+|modes = [[Single player]]
+|platforms = [[ZX Spectrum]], [[Amstrad CPC]], [[Amstrad PCW]], [[Commodore 64]]
+}}
+'''''Fairlight''''' is an [[Isometric video game graphics|isometric projection]] [[Action-adventure game|arcade adventure]] [[video game]] developed by [[Bo Jangeborg]] and Jack Wilkes and released in [[1985 in video gaming|1985]] on Softek's [[Edge Games|The Edge]] label. Developed in seven months, Jangeborg created the "Worldmaker" graphic development system<ref name=crashfairlight /> to replicate the [[Filmation (game engine)|Filmation]] system used by [[Ultimate Play The Game|Ultimate's]] ''[[Knight Lore]]''.<ref name='retrogamer126'>{{cite magazine |title=Knight Lore – A 30 Year Legacy|magazine=Retro Gamer|issue=126|publisher=Imagine|date=4 March 2014|page=20-27}}</ref> The game used code from a graphics utility he had developed in 1983, called ''Grax'', which had also been the foundation of graphics package ''The Artist'', published on Softek's SofTechnics label.<ref name='retrogamer127'>{{cite magazine |title=Fairlight I and II|magazine=Retro Gamer|issue=127|publisher=Imagine|date=27 March 2014|page=74-77}}</ref> Jack Wilkes contributed art assets towards the game, including enemy sprites and the title screen.  A sequel, ''[[Fairlight II (video game)|Fairlight II]]'', was released in [[1986 in video gaming|1986]].
+
+==Gameplay==
+The player controls an adventurer named Isvar, on his quest to find the Book of Light to escape from Castle Avars which is displayed in an isometric view. Each object has its own physical properties and resultant characteristics in terms of how much else can be carried alongside it. Certain objects have special uses (e.g. keys open certain doors), and there is a puzzle element to the game to discover how some of these objects relate to the world in order to help the player solve the game.
+
+In addition to carrying objects, they could also be stacked on top of each other to enable Isvar to climb up to rooms above him or to reach objects otherwise out of reach. There are also a number of secret areas in the castle that are not visually obvious to the player and can only be discovered through exploration.
+
+During Isvar's exploration of the castle he is accosted by its guards and monsters - trolls, monks, guards, tornadoes, man-eating plants, bubbles, etc. all of which drain Isvar's energy. The castle also contains food and magical potions which will restore his health. In addition, certain game objects can affect the enemies by either killing, distracting, or freezing them - depending on the object and the type of enemy they are used upon.
+
+Once defeated, a guard disappears leaving only his helmet behind. Helmets can be picked up and carried by Isvar, and placed out of harm's way or into the path of a tornado, that destroys any object it touches. Should Isvar leave and re-enter the room, the guard will regenerate from the helmet.
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Your Sinclair''
+| award3 = Megagame 
+}}
+The game was well received critically and commercially, selling over 50,000 copies{{cn|date=February 2022}} and reaching the number one position on the ZX Spectrum charts.<ref name='ys1'>{{cite magazine |title=The Hit List|magazine=Your Sinclair|issue=1|publisher=|date=6 December 1985|page=14|url=https://spectrumcomputing.co.uk/page.php?issue_id=222&page=14|access-date=7 February 2022}}</ref> ''[[Sinclair User]]'' gave the game a ''SU Classic'' award. The game won the 1985 awards for best arcade adventure, graphics, music and the "state of the art" award according to the readers of [[Crash (magazine)|''Crash'' magazine]].<ref>{{Cite web|url=http://www.crashonline.org.uk/27/awards.htm|title = CRASH 27 - Readers' Awards}}</ref>
+
+Jangeborg claimed Softek withheld royalty payments for ''Fairlight'' unless he signed up to produce further titles.<ref name='retrogamer127' /> Continuing legal disputes led to the sequel, ''Fairlight II'', being released without Jangeborg's approval and in an unfinished state with a number of bugs, one of which meant the game could not be completed.<ref name='retrogamer127' />
+
+''[[Inside Outing]]'' (also known as ''Raffles''<ref name='crash65'>{{cite magazine |title=Change Yer Name|website=Crash|publisher=Newsfield|date=25 May 1989|url=https://spectrumcomputing.co.uk/page.php?issue_id=1032&page=32|access-date=8 February 2022}}</ref>), released in 1988, also used Worldmaker as a game engine, but without Jangeborg's input.<ref name=insideoutinginlay>{{Cite AV media notes|title=Inside Outing back cover|date=1988|publisher=The Edge|url=https://worldofspectrum.org//pub/sinclair/games-inlays/i/InsideOuting.jpg|access-date=8 February 2022}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{WoS game|id=0001712|name=Fairlight}}
+*{{moby game|id=/fairlight|name=Fairlight}}
+* [https://web.archive.org/web/20010429050538/http://www.geocities.com/TimesSquare/Portal/6986/bo.htm  Bo Jangeborg interview]
+
+[[Category:1985 video games]]
+[[Category:Action-adventure games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Commodore 64 games]]
+[[Category:The Edge games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in Sweden]]
+[[Category:Video games set in castles]]
+[[Category:ZX Spectrum games]]

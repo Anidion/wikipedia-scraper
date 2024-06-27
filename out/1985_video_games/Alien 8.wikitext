@@ -1,0 +1,90 @@
+Alien 8
+Permalink: //en.wikipedia.org/w/index.php?title=Alien_8&oldid=1223511463
+Accessed on: 2024-06-26T16:57:59.809323
+
+
+
+------
+Alien 8
+{{short description|1985 video game}}
+{{Use British English|date=August 2022}}
+{{Use dmy dates|date=August 2022}}
+{{Good article}}
+{{Infobox video game
+| title = Alien 8
+| image = Alien 8 Coverart.png
+| caption = Cover art
+| developer = [[Tim and Chris Stamper]]
+| publisher = [[Ultimate Play the Game]]
+| designer = 
+| engine = [[Filmation engine|Filmation]]
+| released = ZX Spectrum{{vgrelease|UK|1985}}BBC Micro{{vgrelease|UK|1985}}Amstrad CPC{{vgrelease|UK|1985}}MSX{{vgrelease|UK|1985}}
+| genre = [[Action-adventure game|Action-adventure]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = {{cslist|[[ZX Spectrum]]|[[BBC Micro]]|[[Amstrad CPC]]|[[MSX]]}}
+}}
+
+'''''Alien 8''''' is an [[action-adventure game|action-adventure]] video game developed and published by [[Ultimate Play the Game]]. It was released for the [[ZX Spectrum]], [[BBC Micro]], [[Amstrad CPC]] and [[MSX]] in 1985.{{efn|The game was first released for the [[ZX Spectrum]], and was ported to the other formats later in 1985.}} The game is a [[spiritual successor]] to the best-selling ''[[Knight Lore]]'', which was lauded by critics for its [[Isometric graphics in video games and pixel art|isometric graphics]]. In the game, the player takes control of a robot, Alien 8, whose job is to ensure that all of the [[cryogenics|cryogenically]] frozen passengers on board a starship remain viable during the ship's voyage.
+
+The game was written by Chris Stamper, and graphics were designed by Tim Stamper. ''Alien 8'' uses the same [[image masking]] technique as ''Knight Lore'', which allows the developers to create composite structures out of stacked images without visual overlay. The technique was copyrighted by Ultimate as the [[Filmation engine|Filmation]] game engine. As with its spiritual predecessor, the game is rendered [[isometric projection]].<ref>{{cite web | url=http://www.crashonline.org.uk/51/runagain.htm | title=Looking For An Old Angle | publisher=Newsfield | work=Crash Magazine, Issue 51 | access-date=2006-10-03| archive-url= https://web.archive.org/web/20060924030425/http://www.crashonline.org.uk/51/runagain.htm| archive-date= 24 September 2006 | url-status= live}}</ref> The game was critically acclaimed upon release. Reviewers praised the game's graphics and innovation, while minor criticism was directed at its similarities to ''Knight Lore''.
+
+==Plot==
+On a dying planet in a distant galaxy, the last of the creatures known as the "guardians" stored all of their libraries, records, and knowledge on a single starship together with [[Cryopreservation|cryogenically preserved]] members of their race. A single robot, Alien 8, is tasked with keeping the occupants of the vessel alive for the duration of its journey.
+
+The ship is launched towards a new solar system and Alien 8 performs his task for thousands of years during the journey. However, as the ship nears its destination, it is attacked and boarded by hostile aliens. The cryogenic life support systems were damaged during the attack and Alien 8 must restore them to an operational status before the ship's automatic thrusting systems manoeuvre it into planetary orbit.
+
+==Gameplay==
+[[File:Alien 8 3.gif|thumb|left|The interface displays how many [[light year]]s the starship is from its destination (ZX Spectrum).]]
+
+The game is presented in an [[Isometric graphics in video games and pixel art|isometric]] format and set on board a [[starship]]. Taking on the role of the [[robot]], ''Alien 8'', the player must explore the large starship in order to ensure that the cryogenic [[life support system]]s preserving the biological crew are re-activated.<ref name=retro/> The core of this system is a series of [[geometry|geometrically]]-shaped [[Electrical network|circuits]]. However, the circuits have been removed by the invading aliens and distributed around the starship. The main objective of the game is to collect the correct circuits and return them to their respective locations before the starship reaches its destination. The circuits are variously shaped as cubes, pyramids, domes or cylinders.
+
+As with its spiritual predecessor, the environment of the game takes the form of a series of isometric [[flip-screen]] rooms (which trace the outline of a large starship). There are a total of 129 rooms<ref name=crash/> and most are filled with various objects, such as moveable platforms, static hazards such as spikes and hostile aliens.<ref name=SU/> As well as executing well-timed manoeuvres and jumps, the player is able to use starship props to block or defend themselves. Another feature is the use of [[remote control]]led drones, which can be directed by Alien 8 into inaccessible or dangerous areas.<ref name=PC/>
+
+==Development==
+Development of ''Alien 8'' began immediately after the release of ''[[Knight Lore]]'', in which the Stamper brothers predicted that publishers would attempt to copy ''Knight Lore''{{'s}} [[Filmation (game engine)|Filmation]] technology in other games.<ref name=retro>{{cite journal|title=The Ultimate Hero: A History of Sabreman|journal=[[Retro Gamer]]|date=March 2009|issue=73|pages=24–28|url=http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_073.pdf|access-date=3 October 2015|publisher=[[Future plc]]|url-status=dead|archive-url=https://web.archive.org/web/20151004151212/http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_073.pdf|archive-date=4 October 2015|df=dmy-all}}</ref> As with its predecessor, the Stamper brothers developed the game in [[monochrome]] to avoid visual overlay and [[attribute clash]], as it was a common processing limitation in early [[8-bit]] home computers.<ref name=retro/><ref>{{Cite journal |title=Games Index – Knight Lore |journal=[[Amtix]] |issue=1 |date = November 1985|page=102 |ref={{harvid|Amtix|1985}} |url=https://archive.org/stream/amtix-magazine-01/Amtix_01_Nov_1985#page/n101/mode/1up}}</ref> However, the Amstrad release exclusively displayed dual-colours.<ref name=amtix/>
+In 2019 an unofficial Commodore port was released.<ref>{{Cite web|url=https://csdb.dk/release/?id=192175|title = Alien 8 V1.20}}</ref>
+
+==Reception==
+{{Video game reviews
+| CRASH= 95%<ref name=crash/>
+| rev1 = ''[[Amstrad Action]]''
+| rev1Score = 96%<ref name=action/>
+| rev2 = ''[[Amtix!]]''
+| rev2Score = 92%<ref name=amtix/>
+| award1Pub = ''Crash''
+| award1 = Crash Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 15, April 1985, page 16</ref>
+| award2Pub = ''C+VG''
+| award2 = Star Game<ref>Game review, C+VG magazine, issue 42, April 1985, page 84</ref>
+}}
+
+''Alien 8'' entered the Gallup Top 30 sales chart at number one for the week ending 19 February 1985, replacing [[Ghostbusters (1984 video game)|''Ghostbusters'']] after 13 weeks.<ref name='gallupchart19feb85'>{{cite magazine |title=Top 20 Software Compiled By Gallup|magazine=Home Computing Weekly|issue=102|publisher=Argus Specialist Publications|date=5 March 1985|page=51|url=https://archive.org/details/home-computing-weekly-102/page/n49/mode/2up|access-date=4 October 2023}}</ref> After a second week at the top,<ref name='gallupchart26feb85'>{{cite magazine |title=Top 20 Software Compiled By Gallup|magazine=Home Computing Weekly|issue=103|publisher=Argus Specialist Publications|date=12 March 1985|page=43|url=https://archive.org/details/home-computing-weekly-103/page/n41/mode/2up?view=theater|access-date=4 October 2023}}</ref> it was replaced by ''[[Football_Manager_(1982_video_game)|Football Manager]]''.<ref name='gallupchart5mar85'>{{cite magazine |title=Top 20 Software Compiled By Gallup|magazine=Home Computing Weekly|issue=105|publisher=Argus Specialist Publications|date=19 March 1985|page=42|url=https://archive.org/details/home-computing-weekly-104/page/n41/mode/2up?view=theater|access-date=4 October 2023}}</ref>
+
+The game was critically acclaimed upon release. A reviewer of ''[[Crash (magazine)|Crash]]'' praised its graphics and presentation, stating them to be "excellent" and more "imaginative and pleasing" compared to its predecessor, despite regarding it as "only having a slight difference".<ref name=crash>{{cite web|title=Alien 8 review - Crash 15|url=http://www.crashonline.org.uk/15/alien8.htm|website=Crash|publisher=Future plc|access-date=2 October 2015|date=15 April 1985}}</ref> ''[[Amstrad Action]]'' similarly praised the graphics, citing them as "amazing", "brilliant" and having "great" colour combinations.{{efn|The Amstrad version of ''Alien 8'' was not released in [[monochrome]].}}<ref name=action>{{cite journal|title=Alien 8 and Knight Lore review|journal=[[Amstrad Action]]|date=October 1985|issue=1|page=55|url=https://archive.org/stream/amstrad-action-001/Amstrad_Action_001#page/n55/mode/2up|access-date=2 October 2015|publisher=Future plc}}</ref> A reviewer of ''[[Amtix!]]'' stated that the visuals were "breathtakingly stunning" and improves on its predecessor.<ref name=amtix>{{cite journal|title=Alien 8 review|journal=[[Amtix!]]|date=November 1985|issue=1|page=26|url=https://archive.org/stream/amtix-magazine-01/Amtix_01_Nov_1985#page/n26/mode/1up|access-date=2 October 2015}}</ref> David Kelly of ''Popular Computing Weekly'' stated the game was a "little" disappointing due to its similarities to ''Knight Lore'', but asserted that the graphics were of superior quality to its predecessor.<ref name=PC>{{cite journal|last1=Kelly|first1=David|title=Alien 8 review|journal=Popular Computing Weekly|date=21 February 1985|volume=4|issue=8|page=47|url=https://archive.org/stream/popular-computing-weekly-1985-02-21/PopularComputing_Weekly_Issue_1985-02-21#page/n45/mode/2up/search/alien+8|access-date=2 October 2015}}</ref> Chris Bourne of ''[[Sinclair User]]'' stated that the general quality of graphics were "higher" than its predecessor, although it used an identical system.<ref name=SU>{{cite web|last1=Bourne|first1=Chris|title=Alien 8|url=http://www.sincuser.f9.co.uk/037/sftwre.htm|publisher=Sinclair User|access-date=2 October 2015|archive-url=https://web.archive.org/web/20130324040207/http://www.sincuser.f9.co.uk/037/sftwre.htm|archive-date=24 March 2013}}</ref>
+
+''Crash'' praised the new additions to the game, in particular the time limit and various collectable items. The reviewer wrote that the new features were "compelling and exciting", as it differs from its predecessor.<ref name=crash/> A reviewer of ''Amstrad Action'' similarly praised its innovation, stating that it has "wonderfully" original ideas, despite criticising it similarities to ''Knight Lore''.<ref name=action/> Kelly praised the game's extra puzzles and the animation of enemies, heralding them as "brilliant".<ref name=PC/> Bourne similarly praised the 3D animation, writing that every extension of the game improved over ''Knight Lore''.<ref name=SU/>
+
+==Notes==
+{{notes}}
+
+==References==
+{{reflist|2}}
+
+== External links ==
+* [https://web.archive.org/web/20041220232406/http://ultimate-wurlde.com/games/alien8intro.shtml ''Alien 8''] at Ultimate Wurlde
+*{{WoS_game|id=0009302}}
+* {{moby game|id=/alien-8|name=''Alien 8''}}
+* [http://www.crashonline.org.uk/15/alien8.htm ''Alien 8'' review] at [[CRASH (magazine)|''CRASH'' magazine]]
+
+{{Ultimate Play the Game}}
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:MSX games]]
+[[Category:Rare (company) games]]
+[[Category:Science fiction video games]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games with isometric graphics]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

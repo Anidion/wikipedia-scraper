@@ -1,0 +1,104 @@
+North & South (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=North_%26_South_%28video_game%29&oldid=1220358585
+Accessed on: 2024-06-26T17:06:57.979282
+
+
+
+------
+North & South (video game)
+{{Other uses|North and South (disambiguation){{!}}North and South}}
+{{Infobox video game
+| title        = North & South
+| image        = North & South Coverart.png
+| caption      = 
+| developer    = [[Infogrames Entertainment, SA|Infogrames]]
+| publisher    = Infogrames<br>[[Kemco]] (NES)
+| artist       = '''NES'''<br>Y. Shintaku<br>Kiminari Sueda
+| designer     = 
+| composer = '''Amiga'''<br>Charles Callet<br>'''Commodore 64'''<br>[[Jeroen Tel]]<br> '''NES'''<br>Hiroyuki Masuno, Y. Kawakami
+| programmer   = '''NES'''<br>Tomoharu Aihara<br>Fumio Tono<br>Koichi Shindo<br>Minori Shinagawa<br>Hiroyuki Masuno<br>Shinobu Michiura
+| released     = '''September 1989:''' Amiga, Atari ST<br>'''1990:''' NES<br>'''1991:''' Other ports
+| genre        = [[Strategy video game|Strategy]], [[action game|action]]
+| modes        = [[Single-player]], [[two player]]
+| platforms    = [[Amiga]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[MSX]], [[Nintendo Entertainment System|NES]], [[ZX Spectrum]], [[Amstrad CPC]]
+}}
+'''''North & South''''' is a [[strategy game|strategy]] [[action game]] released in 1989 for the [[Amiga]], and [[Atari ST]] and ported to the [[Nintendo Entertainment System]], [[Amstrad CPC]], [[MSX]], [[MS-DOS]], Commodore 64 and [[ZX Spectrum]]. It was developed and published by [[Infogrames Entertainment, SA|Infogrames]].
+
+''North & South'' is an offshoot of the [[Belgian comics|Belgian comic series]] ''[[Les Tuniques Bleues]]'' (by [[Raoul Cauvin]] and [[Louis Salverius]]/[[Willy Lambillotte]], from [[Dupuis]]) which is based on the [[American Civil War]]. The player basically acts out the Civil War, choosing to play as either [[Union (American Civil War)|the North]] or [[Confederate States of America|the South]]. The player may choose to start the game year from 1861 (the year the Civil War erupted) to 1864.  Each year has a different array of armies and states that each side starts with.
+
+''North & South'' contains humorous elements, such as [[parody|parodies]] of [[national anthem]]s, which are accessible when the player selects one of the different languages supported by the game: ([[English language|English]], [[French language|French]], [[Spanish language|Spanish]], [[German language|German]] or [[Italian language|Italian]]).
+
+== Gameplay ==
+Taking a simplified board interface, the game features a strategic map of the [[United States]] separated into states and territories, where army units are moved around. In each state which has a railway station, there is a [[fort]], the capture of which leads to the player overtaking the whole state. Otherwise, capturing a state involves simple movement, unless there is an enemy army present on the state's title. Armies can be reinforced in two ways.  By turning on an option at the main menu the player controlling the state of [[North Carolina]] will get periodic reinforcements by ship. Also, railways generate money which in turn generates soldiers. Moving their army units, the player may expand westwards into unoccupied territory. If two antagonistic armies clash, it will result in a battle.
+
+Normally, battle is resolved in a real time action element. However, there is an option on the main menu where the player can turn off in-game missions and battles so that game-play is as in a [[board game]].  Whenever opposing armies meet in board-game mode, the results of the battles are left to chance, with the outcome weighted towards the larger army. Either army may retreat from these battles.  Whenever a side attempts to capture an enemy fort or rob a train, the result is also randomised.
+
+=== Battle ===
+The battle screen, one of the action elements in the game, is different from the strategic map. Each player starts on opposite sides of the screen and controls an army consisting of [[infantry]], [[cavalry]] and [[artillery]].  A standard army consists of six infantry, three cavalry and one cannon.  Armies can be increased by up to three times their standard size by merging them together.  Each team can only have six infantry, three cavalry and three cannons on the battlefield at one time.  A human player can only control one class of units at any one time (although once the cavalry starts a charge, they can be left moving automatically forward in a straight line while the player focuses on either the cannon or infantry).  A computer-controlled opponent can move all three classes of units at once, but their infantry and cavalry are not very aggressive.  All units in the same class move and fire simultaneously. The infantry can move in any direction including backwards and have a short-range weapon.
+
+Cavalry are melee units that are much faster than infantry, but can not move backwards.  Cavalry, will instead return to the battle field every time they reach the end of it after a few seconds.  Cavalry that returns in this way will stop moving when returning to their start position on the left-right axis, unhindered by any movement on the up-down axis.  It is to note that Cavalry, once movement has started, will not stop moving forwards unless the player actively pulls the horse reigns by pushing backwards with the control method of choice.  Cannons can only move vertically and not sideways.  Each cannon can only be fired nine times in a battle before they automatically withdraw from battle.  If an army wins after their cannons have withdrawn from battle, their cannons will be available for the next battle.  If however, the rest of the army is killed after the cannons have withdrawn, the cannons will be also lost.  In the middle of the battle map, there may be a river or a chasm, in which case a bridge serves as a [[choke point]] where the fighters are likely to meet.  The bridge can be destroyed by cannons.  One hit will leave a hole in the bridge where units can fall in and die instantly, while two hits on a bridge will destroy it.
+
+In every battlefield where there is either a river or canyon, there is a narrow, indestructible passage across. The cannons are long-range weapons, but aiming – or rather determining the exact range – is not always easy.  Care has to be taken when firing cannons to avoid [[friendly fire]].  A battle usually is a [[deathmatch (gaming)|deathmatch]], although a player may retreat.  If the attacking army retreats, they will return to the state that were in at the beginning of that turn.  If the defending army decides to retreat, they will move to an adjacent state that is still under their control, surrendering that state the battle was on to their enemy.  The defenders can not retreat if there are no adjacent states that they own.  Retreating will result in the loss of any cannons that the army has.  The army of the computer-controlled opponent will retreat if all of its cannons have been destroyed and its enemy has more than three times the units than it has.
+
+=== Events ===
+On the states that have a train station, the player must do a short [[side-scrolling]] mission through a fort to capture that state. Here, the player controls a single soldier who runs towards the goal (before the clock reaches the end) while meeting obstacles such as enemy soldiers, [[dynamite]] crates or dogs, with only the help of knives or punches that send enemies towards the sky, [[Asterix]] style. On occasions, the player also gets the opportunity to capture an enemy train in a similar manner, but an attacker running alongside a train too long will just see it leave; it is possible to climb on the train. Successfully capturing an enemy train gets its gold.
+
+If an option is turned on, a storm cloud will sit on one state each turn.  The cloud will move to an adjacent state twice each month, once before each player's turn.  Any army on the state with the cloud will not be able to move on that turn.
+
+If the option on the main menu is turned on, there will be two [[Non-player character|non-player]] sides that pose a threat to the player's armies. A [[Indigenous peoples of the Americas|Native American]] who lives to the west of the territory might hurl a giant [[Tomahawk (axe)|tomahawk]] randomly at one of the westernmost states ([[Kansas]] or [[Nebraska]]), destroying the army unfortunate enough to be garrisoned there. Similarly, a [[sombrero]]-clad [[Mexican people|Mexican]] living to the southwest might suddenly wake up from his [[siesta]] and toss a bomb into [[Texas]], result being the same.
+
+If the option is turned on, the side that controls [[North Carolina]] has a chance each turn that free reinforcements will arrive at the state via ship.
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Your Sinclair''
+| award2 = Megagame
+| award3Pub = ''Amstrad Action''
+| award3 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 66, March 1991</ref>
+}}
+''[[Computer Gaming World]]'' gave ''North & South'' one-plus stars out of five for wargamers and three out of five for arcade gamers.<ref name="brooks199010">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=75 | title=Computer Strategy and Wargames: Pre-20th Century | magazine=Computer Gaming World | date=October 1990 | accessdate=16 November 2013 | author=Brooks, M. Evan | pages=11}}</ref><ref name="brooks199306">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=107 | title=An Annotated Listing of Pre-20th Century Wargames | magazine=Computer Gaming World | date=June 1993 | accessdate=7 July 2014 | author=Brooks, M. Evan | pages=136}}</ref> In 2011, [[Wirtualna Polska]] ranked it as the tenth best Amiga game.<ref>[http://gry.wp.pl/galeria/30-najlepszych-gier-na-amige,179431/22.html 10. North and South – 30 najlepszych gier na Amigę – Imperium gier], WP.PL {{in lang|pl}}</ref>
+
+==Remakes==
+In June 2012, [[Microïds]] ([[Anuman Interactive]]’s adventure game label) released '''''The Bluecoats: North vs South''''',<ref>[http://ifanzine.com/the-bluecoats-north-vs-south-review/ The Bluecoats: North vs. South Review on iFanzine]</ref> a [[Video game remake|remake]] for iOS and Android compatible devices<ref>[http://www.ign.com/games/the-bluecoats-north-vs-south/iphone-134401 The Bluecoats: North vs. South on IGN.com]</ref> and for Windows.<ref>[http://www.gamespot.com/the-bluecoats-north-and-south/platform/pc/ The Bluecoats: North & South for PC on ''GameSpot'']</ref>
+The iOS version received a metascore of 60 on [[Metacritic]].<ref>[https://archive.today/20130129154831/http://www.metacritic.com/game/ios/the-bluecoats---north-vs-south/critic-reviews The Bluecoats – North vs South iOS on metacritic.com]</ref>
+<br />The [[Steam (service)|Steam]] PC and the console versions were delisted in first half 2023<ref name="2012Remake_SteamDB">{{Cite web |title=SteamDB info for ''The Bluecoats: North vs South'' (2012) |website=steamdb.info |publisher=SteamDB |date=May 30, 2023 |url=https://steamdb.info/app/347030/history/ |accessdate=January 8, 2024 }}</ref> and after July 2024, respectively.<ref name="X360Games-delisted">{{Cite web |title=Analysis: More than 220 digital games will disappear when the Xbox 360 Store closes |website=[[Video Game Chronicle]] |publisher=1981 Media |date=August 17, 2023 |url=https://www.videogameschronicle.com/news/analysis-more-than-220-digital-games-will-disappear-when-the-xbox-360-store-closes/ |accessdate=January 8, 2024 |author=Chris Scullion |archive-url=https://web.archive.org/web/20231026172555/https://www.videogameschronicle.com/news/analysis-more-than-220-digital-games-will-disappear-when-the-xbox-360-store-closes/ |archive-date=October 26, 2023 }}</ref>
+
+Another remake, titled '''''North & South: The Game''''', was released for iOS on November 6, 2012 by bitComposer Entertainment AG<ref>[https://itunes.apple.com/us/app/north-south-the-game/id512958666?mt=8 North & South: The Game for iOS on iTunes]</ref>
+
+In 27 October 2020 '''''The Bluecoats: North & South''''' released firstly for [[Nintendo Switch]] by Microïds.
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/north-south|name=''North & South''}}
+*{{WoS game|id=0003460|name=North & South}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:North and South (Video Game)}}
+[[Category:1989 video games]]
+[[Category:Infogrames games]]
+[[Category:American Civil War video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:MSX games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Platformers]]
+[[Category:Real-time strategy video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games based on comics]]
+[[Category:Video games scored by Alberto Jose González]]
+[[Category:Video games scored by Jeroen Tel]]
+[[Category:Video games scored by Yasuhiro Kawakami]]
+[[Category:Video games developed in France]]
+[[Category:Video games set in the United States]]
+[[Category:ZX Spectrum games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Kemco games]]
+[[Category:Action-strategy video games]]

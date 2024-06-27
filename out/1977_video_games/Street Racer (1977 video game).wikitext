@@ -1,0 +1,121 @@
+Street Racer (1977 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Street_Racer_%281977_video_game%29&oldid=1195555830
+Accessed on: 2024-06-26T16:47:45.886027
+
+
+
+------
+Street Racer (1977 video game)
+{{Short description|1977 video game}}
+{{Infobox video game
+|title = Street Racer
+|image = [[File:Street Racer Box Art.jpg|frameless|Street Racer]]
+|caption = 
+|developer = [[Atari, Inc.]]
+|publisher = [[Atari, Inc.]]
+|designer = [[Larry Kaplan]]<ref name="giantlist">{{cite web |title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+|released = {{vgrelease|NA|September 11, 1977}}
+|genre = [[Racing video game|Racing]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|Multiplayer]] <small>(up to four players)</small>
+|platforms = [[Atari 2600]]
+}}
+
+'''''Street Racer''''' is a [[racing video game]] developed for the Atari Video Computer System, later known as the [[Atari 2600]]. It was programmed by [[Larry Kaplan]]<ref name="giantlist"/> and released by [[Atari, Inc.]] in September 1977 as one of the nine Atari VCS launch titles.<ref
+name="AtariAgeLaunch"/><ref name="RacingTheBeam"/> The game was also published by [[Sears]] for their Tele-Games product line as '''''Speedway II'''''.<ref name="AAStreetRacer"/>
+
+== Gameplay ==
+[[Image:Street Racer Atari 2600 game 21.png|thumb|right|Gameplay screenshot]]
+
+''Street Racer'' was one of the two launch titles programmed by Kaplan; ''[[Air-Sea Battle]]'' was the other. ''Street Racer'' offered 27 game variations, grouped into the following sub-games:<ref name="AAStreetRacer" />
+* '''1–6''': Street racer
+* '''7–12''': Slalom
+* '''13–16''': Dodgem
+* '''17–20''': Jet shooter
+* '''21–24''': Number cruncher
+* '''25–27''': Scoop ball
+
+Each of the sub-games has roughly the same gameplay: the player controls a vehicle that must avoid or collect certain objects as they scroll down the screen. Between one and four players can compete simultaneously by using the paddle controllers,<ref>{{cite web | url=https://atariage.com/manual_page.php?SystemID=2600&ItemTypeID=&SoftwareLabelID=513&currentPage=0&maxPages=12&currentPage=1 | title=AtariAge - Atari 2600 Manuals - Street Racer (Atari) }}</ref> which allow the vehicle to move left and right along the bottom of the screen. If a one-player game is selected, the player competes with a static computer opponent that allows objects to collide with it or pass by.{{citation needed|date=May 2016}}
+
+==Development==
+As one of the earliest games written for the platform, ''Street Racer'' suffered from unattractive, blocky graphics.{{citation needed|date=May 2016}} According to Kaplan himself, later racing games released for the Atari, such as [[Activision]]'s 1982 games ''[[Barnstorming (video game)|Barnstorming]]'' and ''[[Grand Prix (video game)|Grand Prix]]'', were able to offer improved graphics and gameplay.<ref name="AAKaplan"/>
+In a 2007 interview with ''Digital Press'', Kaplan was asked what he would change about any of the games he had written:
+{{quote|''Street Racer'' is the game that lacks good game play. I took out the moving playfield because it didn't flow right (it tended to flicker). If I could change the game to have a smooth-scrolling playfield, it would make the game play better<ref name="DPinterview"/>}}
+
+Kaplan went on to become one of the founders of Activision where he developed ''[[Kaboom! (video game)|Kaboom!]]'', one of the 10 top-selling games for the Atari 2600.<ref name="IGNTopGames"/>
+
+== Reception ==
+''Street Racer'' was reviewed in ''[[Video (magazine)|Video]]'' magazine as part of a general review of the [[Atari 2600|Atari VCS]] where it was given a review score of 5.5 out of 10.<ref name=kaplan/>{{rp|33}} The game did not age well and modern critics have given it poor reviews as well. [[Gamasutra]] have described the "Number cruncher" sub-game as a highlight of the game.<ref name="Gamasutra" />
+
+== References ==
+{{reflist|refs=
+<ref name="AtariAgeLaunch">{{cite web
+ | url   = http://www.atariage.com/label_page.html?LabelID=3
+| title = Atari 2600 - Atari - Text # Label Variation
+ | first = Albert
+ | last  = Yarusso
+ | work  = [[AtariAge]]
+ | access-date = December 5, 2010 }}</ref>
+<ref name="RacingTheBeam">{{cite book
+ | first1        = Ian
+ | last1         = Bogost
+ | authorlink   = Ian Bogost
+ | first2       = Nick
+ | last2        = Montfort
+ | author2-link = Nick Montfort
+| title = Racing the Beam: The Atari Video Computer System
+ | year         = 2009
+ | pages         = 123, 163
+| publisher = [[MIT Press]]
+ | isbn         = 978-0-262-01257-7 | title-link = Racing the Beam: The Atari Video Computer System
+ }}</ref>
+<ref name="AAStreetRacer">{{cite web
+ | url   = http://www.atariage.com/software_page.html?SoftwareLabelID=515
+| title = Atari 2600 - Street Racer (Atari)
+ | first = Albert
+ | last  = Yarusso
+ | work  = [[AtariAge]]
+ | access-date = December 5, 2010 }}</ref>
+<ref name="AAKaplan">{{cite web
+ | url   = http://www.atariage.com/forums/topic/166916-halo-for-the-2600-released-at-cge-download-the-game-here/page__view__findpost__p__2067210
+| title = Larry Kaplan forum post on AtariAge
+ | date  = August 6, 2010
+ | access-date = December 5, 2010 }}</ref>
+<ref name="DPinterview">{{cite web
+ | url   = http://www.digitpress.com/library/interviews/interview_larry_kaplan.html
+| title = Larry Kaplan interview
+ | first = Scott
+ | last  = Stilphen
+ | work  = Digital Press
+ | access-date = December 5, 2010 }}</ref>
+<ref name="Gamasutra">{{cite web
+ | url   = http://www.gamasutra.com/view/feature/2000/the_history_of_atari_19711977.php?print=1
+| title = The History of Atari: 1971-1977
+ | first = Steve
+ | last  = Fulton
+ | work  = [[Gamasutra]]
+ | date  = November 6, 2007
+ | access-date = December 5, 2010 }}</ref>
+<ref name="IGNTopGames">{{cite web
+ | url        = http://retro.ign.com/articles/903/903024p1.html
+| title = Top 10 Best-Selling Atari 2600 Games
+ | first      = Levi
+ | last       = Buchanan
+ | work       = [[IGN]]
+ | date       = August 26, 2008
+ | access-date = August 31, 2010 }}</ref>
+<ref name=kaplan>{{cite journal |date= Winter 1979 |editor-last=Kaplan | editor-first=Deeny |title= VideoTest Report Number 18: Atari Video Computer |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 1|issue= 5|pages= 30–34|issn= 0147-8907}}</ref>
+}}
+
+== External links ==
+* {{Internet Archive game| id=atari_2600_street_racer_-_speedway_ii_wheels_paddle_1977_atari_larry_kaplan_-_sea/v2 }}
+
+{{Atari 2600}}
+
+[[Category:1977 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari games]]
+[[Category:North America-exclusive video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Top-down racing video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Sears video games]]

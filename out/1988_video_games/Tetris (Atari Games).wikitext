@@ -1,0 +1,65 @@
+Tetris (Atari Games)
+Permalink: //en.wikipedia.org/w/index.php?title=Tetris_%28Atari_Games%29&oldid=1193993282
+Accessed on: 2024-06-26T17:05:14.933039
+
+
+
+------
+Tetris (Atari Games)
+{{short description|1988 video game}}
+{{use dmy dates |date=April 2023}}
+{{Infobox video game
+|title=Tetris
+|image= Tetris (Atari) cover.jpg
+|caption=North American console game cover. Illustration by Marc Ericksen.
+|developer= [[Atari Games]]
+|publisher= Atari Games (arcade), [[Tengen (company)|Tengen]] (NES)
+|designer= [[Ed Logg]], Kelly Turner, Norm Avellar
+|programmer= Ed Logg, Kelly Turner, Norm Avellar
+|artist=Kris Moser
+|composer= [[Brad Fuller (composer)|Brad Fuller]]
+|series= ''[[Tetris]]''
+|released= '''Arcade'''{{vgrelease|NA|1988}} '''NES'''{{vgrelease|NA|May 1989}}
+|genre= [[Puzzle game|Puzzle]]
+|modes= [[Single-player video game|Single-player]] <br> [[Multiplayer video game|Multiplayer]] <small>(up to two players)</small>
+|platforms= [[Arcade game|Arcade]], [[Nintendo Entertainment System]] (NES)
+}}
+
+'''''Tetris''''' (styled '''''TETЯIS''''') is a [[puzzle game]] developed by [[Atari Games]] and originally released for arcades in 1988. Based on [[Alexey Pajitnov]]'s ''[[Tetris]]'', Atari Games' version features the same gameplay as the computer editions of the game, as players must stack differently shaped falling blocks to form and eliminate horizontal lines from the playing field. The game features several [[difficulty levels]] and two-player simultaneous play.
+
+In 1989, Atari Games released a [[porting|port]] of their arcade version under their [[Tengen (company)|Tengen]] label for the [[Nintendo Entertainment System]], despite it not being licensed by Nintendo for the system. There were also issues with the publishing rights for ''Tetris'', and after much legal wrangling, [[Nintendo]] itself ended up with the rights to publish console versions, leaving Atari with only the rights to arcade versions. As a result, the Tengen game was only on the shelf for four weeks before Atari was legally required to recall the game and destroy any remaining inventory of its NES version.
+
+Nintendo produced [[Tetris (NES video game)|its own version]] for the NES as well as [[Tetris (Game Boy)|a version]] for the [[Game Boy]]. Both versions were commercially successful and Nintendo held the ''Tetris'' license for many years. With fewer than 100,000 copies known to exist, the Tengen release has since become a collector's item, due to its short time on the market. Various publications have since noted that Tengen's ''Tetris'' was in some ways superior to the official NES release, especially since the Tengen game featured a two-player simultaneous mode not available in Nintendo's version.
+
+==Development and history==
+[[File:TETЯIS The Soviet Mind Game.png|thumb|right|Tengen's ''Tetris'' for the NES in one-player mode. The two-player mode replaces the statistics display with another playfield.]][[File:Tetris_(Tengen)_Cooperative_mode.png|thumb|right|Tengen's ''Tetris'' for the NES in Cooperative mode. Two players or one player and the computer attempt to form lines in the same playing field, which is wider than usual.]]
+In 1987, [[Soviet Academy of Sciences]] researcher [[Alexey Pajitnov]] (who invented the original game in 1984-85) alongside Dmitry Pavlovsky and [[Vadim Gerasimov]] developed a new version of ''[[Tetris]]'' out of a desire to create a two-player puzzle game.<ref name="vadim">{{cite web|author=Gerasimov, Vadim|url=http://vadim.oversigma.com/Tetris.htm|title=Original Tetris: Story and Download|access-date=2009-06-14}}</ref> Andromeda Software executive Robert Stein approached Pajitnov with an offer to distribute ''Tetris'' worldwide, and secured the rights to license the title. He in turn sub-licensed the rights to [[Mirrorsoft]] for the European market and [[Spectrum HoloByte]] for the North American market.<ref name="highscore"/> After seeing the game run on an [[Atari ST]], programmer [[Ed Logg]] petitioned [[Atari Games]] to license it for an arcade version, and approached Stein.<ref name="edlogg">{{cite web|author=Gifford, Kevin|url=http://www.atarihq.com/tsr/special/el/el.html|title=Ed Logg interview|access-date=2009-06-14|publisher=AtariHQ}}</ref> With the rights secured, Atari Games produced an arcade version of ''Tetris'',<ref name="gd">{{cite web|url=https://www.gamedeveloper.com/design/game-design-essentials-20-atari-games |date=May 30, 2008 |title=Game Design Essentials: 20 Atari Games |work=[[Game Developer (website)|Game Developer]] |last=Harris |first=John |access-date=2009-06-21}}</ref> and under their [[Tengen (company)|Tengen]] subsidiary began development to port the title to the [[Nintendo Entertainment System]] (NES) in June 1988.<ref>{{cite web|url=https://nintendotimes.com/1988/06/26/june-1988-computer-entertainer/|title=Computer Entertainer June 1988 issue|publisher=[[Computer Entertainer]]|date=June 1988}}</ref> The port was released in May 1989.<ref name="allgame"/><ref name="news"/>
+
+Mirrorsoft later sub-licensed the rights to [[Henk Rogers]] of [[Bullet-Proof Software]] to distribute ''Tetris'' in Japan. Around this same time, Nintendo was asked by Bullet-Proof Software with the prospect of developing a [[Tetris (Game Boy)|version of ''Tetris'' for the Game Boy]], and Rogers traveled to Moscow to secure permission to distribute ''Tetris'' with the Game Boy.<ref name="highscore"/> However, because Stein had secured the rights from Pajitnov directly and not from the Russian authorities,<ref name="highscore"/> the [[USSR]]'s [[Elektronorgtechnica|Ministry of Software and Hardware Export]] stated that the console rights to ''Tetris'' had been licensed to nobody, and that Atari Games had only been licensed the rights to produce arcade games with the property.<ref>{{cite web|url=http://www.gamingtarget.com/article.php?artid=9935|title=Tetris is 25: A Look Back at the Greatest Game Ever|publisher=[[UGO Networks]]|work=Gaming Target|date=2009-06-06|access-date=2009-06-14|author=Scalzo, John}}</ref> In April 1989, Tengen, who had previously filed an anti-trust suit against Nintendo, sued Nintendo again claiming rights to distribute ''Tetris'' on the NES, and Nintendo counter-sued citing infringement of trademark.<ref name="highscore">{{cite book|title=High Score! The Illustrated History of Electronic Video Games|first=Rusel|last=DeMaria|author2=Johnny L. Wilson|edition=2|publisher=McGraw-Hill Professional|year=2003|isbn=0-07-223172-6}}</ref><ref name="news2">{{cite news|title=Nintendo sues Atari Games over rights to Tetris|work=New Straits Times Malaysia|page=11|date=1989-06-01}}</ref> In June 1989, a month after the release of Tengen's ''Tetris'', U.S. District Court Judge [[Fern Smith]] issued an injunction barring Tengen from further distributing the game, and further ordered all existing copies of the game be destroyed.<ref name="news">{{cite news |title=Nintendo Wins Battle Over Soviet Video Game |work=San Jose Mercury News |page=2C |date=1989-06-22}}</ref> As a result, 268,000 ''Tetris'' cartridges were recalled and destroyed after only four weeks on shelves.<ref name="allgame">{{cite web |url=http://www.allgame.com/game.php?id=14911 |title=Tetris [Tengen] |publisher=[[All Media Group]] |work=[[Allgame]] |access-date=2009-06-14 |archive-date=16 February 2010 |archive-url=https://web.archive.org/web/20100216035625/http://allgame.com/game.php?id=14911 |url-status=dead }}</ref>
+
+The art which was featured on the Tengen cover was an airbrush painting by well known illustrator Marc Ericksen featuring St. Basil's Cathedral in Red Square, Moscow, and featuring at its base a falling stone concept that mirrored the gameplay. Atari made use of the same art when advertising the new release, as seen in the Atari inset above right, adding a fireworks motif that was not a part of the original art.
+
+In an interview, Ed Logg notes that the Tengen version of ''Tetris'' was built completely from scratch, using no source code or material from the original game. After presenting the title at the [[Consumer Electronics Show]] in [[Las Vegas, Nevada|Las Vegas]], Tengen president Randy Broweleit requested improvements in the game. Originally portrayed solely in black and white, Broweleit requested that the pieces be portrayed in color, and Logg altered the game accordingly prior to the next Consumer Electronics Show. When asked which version of ''Tetris'' he liked the most, Logg stated the Nintendo version of Tetris for the NES "wasn't tuned right", citing a lack of [[logarithmic growth|logarithmic]] speed adjustment as the source of that version's overly steep increases in difficulty.<ref name="edlogg"/>
+
+==Reception==
+By the time of court order demanding [[Tengen (company)|Tengen]] cease distribution of the game and destroy all remaining copies, roughly 100,000 copies of the game had been sold,<ref name="news2"/> and it has since become a collector's item.<ref>{{cite news|first=Elaine|last=Viets|title=Collectibles May Lurk In Basement Clutter|work=St. Louis Post-Dispatch|page=3E|date=1992-07-02}}</ref> The game has been noted as superior to [[Nintendo]]'s own release for the [[Nintendo Entertainment System|NES]],<ref name=gd/> with [[1UP.com]] noting its removal as a loss for players, citing its gameplay and two-player mode.<ref>{{cite web|url=http://www.1up.com/do/feature?cId=3130201|title=The Essential 50 Part 23 - Tetris|publisher=[[UGO Networks]]|work=[[1UP.com]]|access-date=2009-06-14|url-status=dead|archive-url=https://web.archive.org/web/20060323080054/http://www.1up.com/do/feature?cId=3130201|archive-date=2006-03-23}}</ref> However, in another article, they noted that if it were not for the hype surrounding the game during the lawsuit, Tengen's ''Tetris'' would have more likely than not been forgotten.<ref>{{cite web|url=http://www.1up.com/do/feature?cId=3160354|title=Platform Agnostics: The Most Whored-Out Games|author=Edwards, Benj|date=2007-06-19|access-date=2009-06-14|work=[[1UP.com]]|publisher=[[UGO Networks]]|url-status=dead|archive-url=https://web.archive.org/web/20090326020755/http://www.1up.com/do/feature?cId=3160354|archive-date=2009-03-26}}</ref> [[GamesRadar]] stated similar sentiments, praising Tengen's version and noting that the [[Tetris (Game Boy)|Game Boy ''Tetris'' version]] was superior to Nintendo's licensed NES version as well.<ref>{{cite web|url=http://www.gamesradar.com/f/the-top-7-best-ports-on-inferior-systems/a-2009011293337807004/p-2|title=The Top 7...Best ports on inferior systems|publisher=[[GamesRadar]]|access-date=2009-06-14|author=Patterson, Shane|date=12 January 2009 }}</ref> [[IGN]] placed the Tengen version at #48 on their list of the Top 100 NES games, noting its superiority to the official Nintendo version, which did not make the list.<ref name=IGN>{{cite web|url=http://www.ign.com/top-100-nes-games/48.html|title=48. Tetris (Tengen) - Top 100 NES Games|publisher=IGN|first=Sam|last=Claiborn|access-date=February 14, 2013}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{KLOV game|id=10081|name=Tetris}}
+
+{{Atari Games}}
+{{Tetris}}
+
+[[Category:1988 video games]]
+[[Category:Atari arcade games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Tetris games]]
+[[Category:North America-exclusive video games]]
+[[Category:Tengen (company) games]]
+[[Category:Unauthorized video games]]
+[[Category:Video games scored by Brad Fuller]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

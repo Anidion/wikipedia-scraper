@@ -1,0 +1,80 @@
+Desert Falcon
+Permalink: //en.wikipedia.org/w/index.php?title=Desert_Falcon&oldid=1224580052
+Accessed on: 2024-06-26T17:01:56.273126
+
+
+
+------
+Desert Falcon
+{{Short description|1987 video game}}
+{{Infobox video game
+| title = Desert Falcon
+| image = Desert Falcon cover.jpg
+| caption =
+| released = '''1987:''' 2600, 7800<br>'''1988:''' Atari 8-bit
+| designer = Bob Polaro
+| programmer = '''Atari 7800'''<ref name=atariprotos/><br>Mike Feinstein<br>Bob Kakura<br>John Mracek<br>Chris Fitch'''<br>Atari 2600'''<ref name=giantlist/><br>Bob Polaro<br>'''Atari 8-bit'''<ref name=giantlist/><br>Ken Rose
+| publisher = [[Atari Corporation]]
+| developer = [[General Computer Corporation]]
+| platforms = [[Atari 2600]], [[Atari 7800]], [[Atari 8-bit]]
+| genre = [[Scrolling shooter]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Desert Falcon''''' is a [[scrolling shooter]] developed by [[General Computer Corporation]] for the [[Atari 7800]] and [[Atari 2600]] and published by [[Atari Corporation]] in 1987. It was initially announced in 1984, prior to being named ''Desert Falcon'', as one of the planned launch titles for the 7800. A cartridge version for [[Atari 8-bit computers]], with [[Atari XEGS|XEGS]]-styled packaging, followed in 1988.
+
+Designed by Bob Polaro, who also programmed the Atari 2600 version, ''Desert Falcon'' is loosely based on ancient Egyptian mythology. The diagonally-scrolling [[isometric projection|isometric graphics]] had reviewers comparing it to Sega's ''[[Zaxxon]]'' from 1982.<ref name=analog/><ref name=nau/>
+
+==Plot==
+Players take on the role of a [[falcon]], striving to collect the [[Pharaoh]]'s scattered treasures in the desert to earn points.
+
+==Gameplay==
+The game uses a scrolling, isometric perspective. Vultures, warriors, flying fish, and other creatures guard treasures and try to stop the player. At the end of each level, the player faces a large, howling [[sphinx]] before moving forward. The falcon can shoot arrows to eliminate foes and defeat the sphinx.
+
+Throughout the game are [[Egyptian hieroglyphs|hieroglyphs]] in the sand. Landing and hopping over three hieroglyphs unlock what are labeled "super powers" in the manual.<ref name=manual/> The specific combination of collected hieroglyphs determines the acquired ability, including invincibility, teleportation to a level's end, bonus points, a decoy to mislead enemies, and an air bomb that annihilates all airborne opponents.<ref name=eg_gameplay/>
+
+==Development==
+The game was revealed in 1984 as part of the Atari 7800 announcement. It was referred to as both ''Sphinx'' and ''Nile Flyer''.<ref name=eg_intro/>
+
+==Reception==
+Reviewing the Atari 8-bit version for ''[[ANALOG Computing]]'' in 1989, Matthew J.W. Ratcliff wrote, "''Desert Falcon'' has good graphics, cute sound effects, and a tired, boring theme."<ref name=analog/> He cited ''Zaxxon'' several times, calling ''Desert Falcon'' a visually different spin on the same gameplay. ''[[Page 6|New Atari User]]'' wrote, "The scrolling in ''Desert Falcon'' isn't quite as smooth as it could be," but complimented the animation of the falcon and the use of shadows.<ref name=nau/> In ''[[Antic (magazine)|Antic]]'', David Plotkin wrote, "The manual describes a wide variety of enemies. Unfortunately, except for some flying triangles, they all looked pretty much alike".<ref name=antic/> He still concluded with "It has excellent graphics and is very playable."<ref name=antic/>
+
+After playing the 7800 cartridge, Len Poggiali of ''Current Notes'' described it as "an average arcade game with a below average plot and above average visual appeal."<ref name=current/>
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|url=https://dadgum.com/giantlist|title=The Giant List of Classic Game Programmers|last1=Hague|first1=James}}</ref>
+<ref name=analog>{{cite journal |last1=Ratcliff |first1=Matthew J.W. |title=Review: Desert Falcon |journal=ANALOG Computing |date=June 1989 |issue=73 |page=73 |url=https://archive.org/details/analog-computing-magazine-73/page/n71/mode/2up}}</ref>
+<ref name=nau>{{cite journal |last1=Rixon |first1=Paul |title=Fly Me to the Pyramids |journal=New Atari User |date=December 1989 |issue=41 |page=36 |url=https://archive.org/details/Page6-41-Dec89/page/36/mode/2up}}</ref>
+<ref name=current>{{cite journal |last1=Poggiali |first1=Len |title=The 7800 Game Cart: Desert Falcon |journal=Current Notes |date=July 1989 |pages=62–63 |url=https://archive.org/details/Current_Notes_1989-07/page/n61/mode/2up}}</ref>
+<ref name=eg_intro>{{cite journal |last1=Davidson |first1=Steve |title=Introducing the Atari 7800 |journal=Electronic Games |date=September 1984 |volume=2 |issue=14 |pages=28–29 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_14_1984-09_Reese_Communications_US/page/n27/mode/2up}}</ref>
+<ref name=eg_gameplay>
+{{cite web
+| url          = https://atarionline.org/atari-2600/desert-falcon
+| title        = Desert Falcon
+| website      = AtariOnline.org
+| access-date  = March 29, 2023 
+}}</ref>
+<ref name=antic>{{cite journal |last1=Plotkin |first1=David |title=Newest Game Cartridges from Atari |journal=Antic |date=April 1989 |volume=7 |issue=12 |pages=10–11 |url=https://archive.org/details/1989-04-anticmagazine/page/n11/mode/2up}}</ref>
+<ref name=atariprotos>{{cite web |website=Atari Protos |title=Desert Falcon |url=https://www.atariprotos.com/7800/software/desertfalcon/desertfalcon.htm}}</ref>
+<ref name=manual>{{cite web |title=Atari XE Desert Falcon Manual |url=https://ia804502.us.archive.org/19/items/stx_Atari_Desert_Falcon_manual/Atari_Desert_Falcon_manual.pdf |website=archive.org |publisher=Atari Corporation}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=11576}}
+*{{atarimania|id=1590}}
+*[https://i.redd.it/mxfwh9fd9n161.jpg Review] of the 7800 version from ''[[GamePro]]'' issue 1
+*[https://archive.org/details/Power.Play.N06.1988.06-kultpower/page/n93/mode/2up Review] in Power Play (German)
+
+[[Category:1987 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 7800 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:General Computer Corporation games]]
+[[Category:Scrolling shooters]]
+[[Category:Single-player video games]]
+[[Category:Video games about birds]]
+[[Category:Video games based on Egyptian mythology]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in ancient Egypt]]
+[[Category:Video games with isometric graphics]]

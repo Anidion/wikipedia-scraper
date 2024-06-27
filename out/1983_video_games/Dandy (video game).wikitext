@@ -1,0 +1,107 @@
+Dandy (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dandy_%28video_game%29&oldid=1224256310
+Accessed on: 2024-06-26T16:54:50.910956
+
+
+
+------
+Dandy (video game)
+{{short description|1983 video game}}
+{{Infobox video game
+|title = Dandy
+|image = Dandy_APX_Cover_Art.jpg
+|designer = John Howard Palevich<ref name=giantlist>{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref><br>Joel Gluck<ref name=giantlist/>
+|programmer = John Howard Palevich
+|publisher = [[Atari Program Exchange]]<ref name="am-apx">{{cite web|title=Dandy (APX)|url=http://www.atarimania.com/game-atari-400-800-xl-xe-dandy_1494.html|website=Atari Mania}}</ref><br>[[Antic Software]]<ref name="am-antic">{{cite web|title=Dandy (Antic Software)|url=http://www.atarimania.com/game-atari-400-800-xl-xe-dandy_6500.html|website=Atari Mania}}</ref><br>[[Electric Dreams Software|Electric Dreams]]
+|released = '''1983:''' Atari 8-bit / APX<br>'''1985:''' Atari 8-bit / Antic<br>'''1986:''' C64, Amstrad, Spectrum
+|genre = [[Dungeon crawl]], [[Maze video game|maze]]<ref>{{cite web |title=Dandy |url=https://worldofspectrum.org/archive/software/games/dandy-electric-dreams-software |website=World of Spectrum |access-date=12 May 2021}}</ref>
+|modes = 1-4 players simultaneously
+|platforms = [[Atari 8-bit]], [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Dandy''''' (later '''''Dandy Dungeon''''') is a [[dungeon crawl]] [[maze video game]] for [[Atari 8-bit computers]] published by the [[Atari Program Exchange]] in 1983. It is one of the first video games with four-player, simultaneous [[cooperative play]]. Players equipped with bows and unlimited arrows fight through a maze containing monsters, monster spawners, keys, locked doors, food, and bombs in search of the exit leading to the next level. If a player dies, they can be revived by finding and shooting a heart. The game includes an [[level editor|editor]] for making new dungeons.
+
+''Dandy'' was written by John Howard Palevich for his undergraduate thesis while attending [[Massachusetts Institute of Technology|MIT]], drawing inspiration from ''[[Dungeons & Dragons]]'', ''[[Defender (1981 video game)|Defender]]'', and [[Arcade video game|arcade]] maze games. Some of the levels, and level design elements which have become standard in dungeon crawls, were developed by fellow student Joel Gluck.
+ 
+The 1985 [[Atari Games]] arcade video game ''[[Gauntlet (1985 video game)|Gauntlet]]'' built upon the core design of ''Dandy'', and a lawsuit from Palevich was settled out of court. ''Gauntlet'' designer Ed Logg later called ''Dandy'' a direct influence.<ref name=edlogg>{{cite web|title=GDC 2012 - Gauntlet Post Mortem with Ed Logg|url=http://www.gamespot.com/gauntlet-1985/videos/gdc-2012-gauntlet-post-mortem-with-ed-logg-6365123/|accessdate=7 March 2012}}</ref> [[Electric Dreams Software]] published versions of ''Dandy'' for the [[ZX Spectrum]], [[Commodore 64]], and [[Amstrad CPC]] in 1986.
+''Dandy'' was reworked into '''''Dark Chambers''''', without Palevich's direct involvement, and published by [[Atari Corporation]] for the [[Atari 2600]], [[Atari 7800]], and [[Atari 8-bit computers]].
+
+The name ''Dandy'' is a play on D&D, the common abbreviation for ''[[Dungeons & Dragons]]''.
+
+==Gameplay==
+''Dandy'' takes place in a maze-like dungeon, seen from an overhead view. The goal is to reach the exit in each dungeon and warp to the next. Dungeons are labeled "A" (the first) through "Z". Portions of the mazes are blocked by locked doors, which can be opened with keys found throughout each level.
+
+[[Image:Dandy opening.png|thumb|left|Atari 8-bit screenshot]]
+
+Each player is armed with a [[bow and arrow]] which can be shot in eight directions. Monsters come in several varieties, though the differences are strictly graphical. When hit, the monsters "devolve" to the next less-powerful state, before eventually being killed and disappearing. Some monsters are placed in the maze during its pre-game creation and appear as soon as that level is entered, while others are produced in skull-shaped monster generators.
+
+Monsters touching the player reduce the player's health, which can be improved by eating food scattered around the dungeon. Potions destroy all monsters on the screen when activated. Potions can be either shot with an arrow, or picked up and carried for later use. A special "heart of gold" can also be collected to revive dead party members.
+
+Players move and shoot via the [[joystick]] and use keypresses to eat food and activate bombs. With two or more players, the screen scrolls according to the average location of the group.
+
+==Development==
+===''Thesis of Terror''===
+The game that eventually became ''Dandy'' had was written in the fall of 1982 as ''Thesis of Terror'', Jack Palevich's [[Massachusetts Institute of Technology|MIT]] bachelor's thesis.<ref>{{cite web|url=http://www.atariarchives.org/APX/showinfo.php?cat=20210 |title=Dandy |publisher=atariarchives.org |date= |accessdate=2010-08-25}}</ref> The concept was for a five-person game: four players using an Atari computer as graphical terminal, and a fifth player acting as [[dungeon master]] controlling the action from a separate computer.<ref name=Palevich/> The machines would communicate via serial ports. Time constraints prevented the dungeon master role from being implemented. The second machine, a Hewlett-Packard Pascal Workstation in the [[HP 9000]] family, was used as a file server, sending new maps to the Atari on demand.
+
+The gameplay design of ''Thesis of Terror'' was heavily influenced by ''[[Dungeons & Dragons]]''; Palevich had never played ''D&D'', but he had read through the manuals and watched campaigns in the lounge of MIT's New House II dormitory.  It was also influenced by the arcade video game ''[[Defender (1981 video game)|Defender]]'' (1981), which contributed the idea of the smart bomb (potions), and by several "half-forgotten" [[List of maze video games|maze-exploration arcade games]], which contributed the idea of using keys to unlock doors.<ref name="Palevich"/> ''Dandy'' was not influenced by any of the [[roguelike]] games, as Palevich was unaware of ''[[Rogue (video game)|Rogue]]'' at the time.<ref name="Palevich"/>
+
+''Thesis of Terror'''s gameplay was designed with help from MIT freshman Joel Gluck. Gluck designed several of the levels and invented dungeon crawl idioms such as the "funnel trap", where treasure is placed in such a way that the players run to it, causing a wall of monsters placed just off screen to activate and charge the party.
+
+Early versions of the game let players shoot each other. This was removed after testing showed that the game quickly degenerated into a free-for-all. Dead players originally had to sit out the rest of the game, but playtesters would start the game over when one member died. To keep the game going, the revival heart was added.
+
+===Creation of ''Dandy''===
+After graduating from MIT, Palevich went to work for [[Atari, Inc.]] in the Atari Research division. He helped design the operating system for the unreleased [[Atari Sierra]] personal computer. He worked on the [[Atari AMY]] sound chip which was never used in a shipping product.<ref>[http://www.atarimuseum.com/computers/8bits/xe/xe_protos/65xem.html "Atari 65XEM"] {{Webarchive|url=https://wayback.archive-it.org/all/20110913013745/http://www.atarimuseum.com/computers/8bits/xe/xe_protos/65xem.html |date=2011-09-13}}, see "''One of the original programmers of the AMY chips software was John Palevich...''"</ref>
+
+While working at Atari, Palevich continued developing the game. During the period from February to May 1983, the original was cleaned-up for release. The new name, ''Dandy'', is a play on the phonetic pronunciation of ''D and D'', which at the time was a generic term for dungeon adventure role-playing games.<ref name="Palevich">{{cite web |last=Palevich |first=Jack |url=https://jacks-hacks.appspot.com/dandy/history.html |title=A History of Dandy Dungeon |accessdate=2013-11-02 |url-status=dead |archiveurl=https://web.archive.org/web/20131104190048/http://jacks-hacks.appspot.com/dandy/history.html |archivedate=2013-11-04}}</ref> According to Palevich, the file server was removed. 
+
+Another change was to remove the ability to return to higher levels of the dungeon, after playtesting revealed that nobody ever went up to previous levels, except by mistake. Removing this feature sped up level changes, because the maze state no longer had to be written out to disk before the next level was loaded. It also enabled the game to work on [[cassette tape]] as well as on disk; on the tape version the cassette tape was stopped between levels, and then started again to load the next level.
+
+Palevich programmed the game on an Atari 800 with an AXLON RAMPOWER 128K memory expansion card and the SynAssembler from [[Synapse Software]].<ref name=man/>
+
+==Release==
+[[Atari Program Exchange]] advertised ''Dandy'' as "the great new team game ... Bring up to three friends! Work as a team to battle monsters!", with a cartoon of four children exploring a dungeon.<ref name="softline19831112">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=14 | title=It's Dandy! | work=Softline | date=Nov–Dec 1983 | accessdate=29 July 2014 | pages=56 | type=advertisement}}</ref> After APX folded, [[Antic Software]] published the game as ''Dandy Dungeon'' in 1985.
+
+[[Image:Gauntlet screenshot.png|thumb|Typical ''Gauntlet'' scene, with treasure, monsters, and two monster generators.]]
+
+In the fall of 1985, [[Atari Games]] released ''[[Gauntlet (1985 video game)|Gauntlet]]'', a project led by [[Ed Logg]], with the same fundamental gameplay as ''Dandy''. A lawsuit from John Palevich was settled out of court. <ref>{{cite web |title=Dark Chambers |url=https://www.atariprotos.com/7800/software/darkchambers/darkchambers.htm |website=AtariProtos.com}}</ref> During a speech given at the 2012 [[Game Developers Conference]], Ed Logg said that ''Dandy'' served as a direct inspiration for ''Gauntlet''.<ref name=edlogg />
+
+==Ports==
+{{Video game reviews
+| award1Pub = ''Sinclair User''
+| award1 = SU Classic
+| award2Pub = ''Your Sinclair''
+| award2 = Megagame
+}}
+In 1986, [[Electric Dreams Software]], having failed to secure the ''Gauntlet'' license,<ref name='crash43'>{{cite magazine |title=Run It Again: Dynamic Dungeons|magazine=Crash |issue=33 |publisher=Newsfield|date=August 1987|page=40|url=https://spectrumcomputing.co.uk/page.php?issue_id=1010&page=40|access-date=15 May 2021}}</ref> acquired the rights to produce the home computer ports of ''Dandy''. Their intent to release their game as ''Dauntless'' led to a dispute with [[U.S. Gold]] who were publishing the computer versions of ''Gauntlet'' at the same time.<ref name='pcw180986'>{{cite magazine |title=Gauntlet vs Dauntless dispute|magazine=Popular Computing Weekly |volume=5|issue=38 |publisher=Sunshine Publications |date=18 September 1986|page=6|url=https://spectrumcomputing.co.uk/page.php?issue_id=2926&page=6|access-date=15 May 2021}}</ref> Electric Dreams published the game as ''Dandy'' for the [[ZX Spectrum]], [[Commodore 64]], and [[Amstrad CPC]].<ref name='yc8701'>{{cite magazine |title=Dandy|magazine=Your Computer |issue=78 |publisher=Focus Magazines|date=January 1987|page=50|url=https://spectrumcomputing.co.uk/page.php?issue_id=206&page=50|access-date=15 May 2021}}</ref> It received a [[Your Sinclair]] Megagame award.<ref>Your Sinclair magazine, Reviews section, issue 13, page 50</ref>
+
+In 1988, [[Atari Corporation]] released a ''Dandy''-like game named ''Dark Chambers'' for the [[Atari 2600]], [[Atari 7800]], and [[Atari 8-bit computers]] (with the packaging in the style of [[Atari XEGS]] games). The manual states "Copyright 1983 John Howard Palevich. All rights reserved".<ref>{{cite web |url=http://www.atariage.com/manual_html_page.html?SoftwareLabelID=682 |title=Atari 7800 Manuals (HTML) - Dark Chambers (Atari) |publisher=AtariAge |date= |accessdate=2010-08-25 |archive-date=2012-10-15 |archive-url=https://web.archive.org/web/20121015045040/http://www.atariage.com/manual_html_page.html?SoftwareLabelID=682 |url-status=dead}}</ref> It supports one or two players and has many fewer on-screen enemies than either ''Dandy'' or ''Gauntlet''.
+
+==References==
+{{reflist|refs=
+<ref name="man">{{cite book |last1=Palevich |first1=John Howard |title=Dandy Manual |date=1983 |publisher=Atari Program Exchange |url=https://archive.org/details/dandy-version-5-apx/}}</ref>
+}}
+
+==External links==
+* [http://www.atarimania.com/game-atari-400-800-xl-xe-dandy_1494.html ''Dandy''] at Atari Mania
+* {{lemon64 game|id=621lname=Dandy}}
+* [https://drive.google.com/file/d/1TPvHW65WrrlPiufbmUP2nuBds5cX5U6P/view?usp=sharing ''Dandy -- an Expandable Real Time Adventure''] MIT Bachelor Thesis
+* [https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-atari-8-bit Atari 8-bit source code]
+* [http://www.atarimania.com/game-atari-400-800-xl-xe-dark-chambers_1507.html ''Dark Chambers''] for the Atari 8-bit family at Atari Mania
+* [http://www.atarimania.com/game-atari-2600-vcs-dark-chambers_7275.html ''Dark Chambers''] for the Atari 2600 at Atari Mania
+
+[[Category:1983 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari Program Exchange software]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Maze games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Software using the Apache license]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with user-generated gameplay content]]
+[[Category:ZX Spectrum games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Formerly proprietary software]]
+[[Category:Open-source video games]]
+[[Category:Video games with available source code]]
+[[Category:Electric Dreams Software games]]

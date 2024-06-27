@@ -1,0 +1,76 @@
+Santa Paravia en Fiumaccio
+Permalink: //en.wikipedia.org/w/index.php?title=Santa_Paravia_en_Fiumaccio&oldid=1224118237
+Accessed on: 2024-06-26T16:47:57.393115
+
+
+
+------
+Santa Paravia en Fiumaccio
+{{short description|1978 video game}}
+{{refimprove|date=December 2013}}
+{{Infobox video game
+|image          = Santa Paravia en Fiumaccio cover.png
+|caption        = 
+|designer       = George Blank
+|released       = 1978
+|genre          = [[City-building game|City-building]]
+|modes          = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms      = [[TRS-80]], [[TI-99/4A]], [[Apple II]], [[Commodore PET]], [[Atari 8-bit]],<ref name=mania/> [[Amiga]], [[Atari ST]], [[Commodore 64]]/[[Commodore 128|128]], [[MS-DOS]]
+}}
+
+'''''Santa Paravia en Fiumaccio''''' is a [[video game]] in which each player becomes the ruler of a fledgling [[Italian city-state]] around the year 1400. The goal of the game is to become king or queen;<ref>{{cite book |title=The Software Catalog |year=1983 |publisher=Elsevier |isbn=978-0-444-00745-2 |pages=172 |url=https://books.google.com/books?id=1VdVAAAAMAAJ&q=%22Santa+Paravia%22 |access-date=2008-09-13}}</ref> to do so the player must manage their city-state so that it may grow.
+
+The game, by [[George Blank]],<ref>{{cite book |title=Genesis II, Creation and Recreation with Computers |last=Peterson |first=Dale |year=1983 |publisher=Reston Pub. Co. |isbn=978-0-8359-2434-4 |pages=182 |url=https://books.google.com/books?id=DL1YAAAAMAAJ&q=%22Santa+Paravia%22 |access-date=2008-09-13}}</ref> first appeared in the December 1978 issue of '' [[SoftSide]]'' magazine,<ref>{{Cite journal|url = https://archive.org/stream/softside-magazine-03/SoftSide_03_Vol_1-03_1978-12_Santa_Parvia#page/n7/mode/2up|title = Santa Paravia en Fiumaccio|last = Blank|first = George|date = December 1978|journal = SoftSide|access-date = November 15, 2014}}</ref> ([[Milford, New Hampshire|Milford, NH]]), and was published for sale on tape cassette as a computer game by [[Instant Software]] ([[Peterborough, New Hampshire|Peterborough, NH]]) for the [[Radio Shack]] [[TRS-80]], [[Apple II]], [[TI-99/4A]], and [[Commodore PET]].<ref>{{cite book |title=The Software Encyclopedia |year=1985 |publisher=Bowker |pages=343 |url=https://books.google.com/books?id=5-w6AAAAMAAJ&q=%22Santa+Paravia%22 |access-date=2008-09-13}}</ref> It has been translated into many languages, such as [[ANSI C]],<ref>{{Cite web|url = http://planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=7183&lngWId=3|archive-url=https://web.archive.org/web/20141129011448/http://planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=7183&lngWId=3|title = paravia.c|date = November 29, 2003 <!-- 5:26:43 PM --> |access-date = November 15, 2014|archive-date=November 29, 2014|website = PlanetSourceCode|last = Knox|first = Thomas}}</ref> and has been ported to the [[Palm Pilot]].
+
+==Gameplay==
+The game consists of yearly turns, beginning in 1400; each turn involves the allocation of [[grain]], counted in [[stere]]s, and funds, counted in [[florin]]s, attempting to grow the colony in both population and size. A ruler must ensure that sufficient grain supplies are available to feed his people; by distributing excess grain, a ruler can encourage more citizens to move into his city-state. However, often [[famine]] and [[rat]]s cause grain reserves to diminish.
+
+Funds can be spent to purchase more land, military forces, or various types of structures. These structures include revenue producing mills and markets as well as prestigious [[palace]]s and [[cathedral]]s. (The 'SoftSide' version had a [[Glitch|code error]] that allowed you to keep all your grain, even when you went bankrupt.)
+
+The different social classes present in this game are [[serf]]s, [[clergy]], [[merchant]]s and [[nobility]].
+
+Based loosely on the text game ''[[Hamurabi (video game)|Hamurabi]]'', ''Santa Paravia and Fiumaccio'' was an early [[god game]]. It combined '[[guns and butter]]' economic tradeoffs with graphic development of a kingdom with buildings being constructed and shown on the screen as well as character development, shown as progressive promotions<ref>{{cite book |title=The Naked Serviceman |last=Engel |first=George M. |year=2007 |publisher=Lulu.com |isbn=978-1-4303-1785-2 |pages=47 |url=https://books.google.com/books?id=6oXg8el9WdsC&q=%22Santa+Paravia%22&pg=PA47 |access-date=2008-09-13}}</ref> from baron to king.
+
+==Reviews==
+*''[[Moves (magazine)|Moves]]'' #56, p27<ref>[https://strategyandtacticspress.com/library-files/Moves%20Issue56.pdf ''Moves'' Issue 56] Strategy and Tactics Press</ref>
+
+== See also ==
+* [[Dukedom (game)|''Dukedom'']], a 1976 [[fief]] management game
+* [[Dynasty (computer game)|''Dynasty'']], a 1978 province management game set in the [[Hunan]] under the [[Yuan dynasty]]
+* ''[[Hamurabi (video game)|Hamurabi]]'', a 1968 city management game
+
+==References==
+{{reflist|refs=
+<ref name="mania">{{cite web |title=Santa Paravia and Fiumaccio |url=http://www.atarimania.com/game-atari-400-800-xl-xe-santa-paravia-and-fiumaccio_4498.html |website=Atari Mania}}</ref>
+}}
+
+== External links ==
+*{{Cite web|url = http://1drv.ms/1Sd2m9V|title = Santa Paravia – 2015|publisher = Versão Java desenvolvida por Manuel Afonso.}}
+*{{Cite web|url = http://mmreference.com/product/santa-paravia/|title = Santa Paravia|access-date = November 29, 2014|publisher = MMReference}} ([[Source code]] of the game)
+*{{Cite web|url = http://www.apple2.org.za/gswv/a2zine/Sel/SP.html|title = SantaParavia andFiumaccio 2003!|date = 2003|access-date = November 15, 2014|website = GS.WorldView}}
+*[http://gb64.com/game.php?id=6561&d=18&h=0 ''Santa Paravia en Fiumaccio''] at Gamebase 64
+
+{{DEFAULTSORT:Santa Paravia En Fiumaccio}}
+[[Category:1978 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:BASIC software]]
+[[Category:City-building games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 128 games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore PET games]]
+[[Category:DOS games]]
+[[Category:Instant Software games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Public-domain software with source code]]
+[[Category:Strategy video games]]
+[[Category:TI-99/4A games]]
+[[Category:TRS-80 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Italy]]
+[[Category:Video games set in the 15th century]]
+[[Category:Video games set in the Middle Ages]]
+[[Category:Video games with textual graphics]]

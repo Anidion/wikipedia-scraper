@@ -1,0 +1,63 @@
+Breakers (1986 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Breakers_%281986_video_game%29&oldid=1191401455
+Accessed on: 2024-06-26T16:59:45.189245
+
+
+
+------
+Breakers (1986 video game)
+{{Infobox video game
+| image = File:Breakers-dos-front-cover.jpg
+| title = Breakers
+| developer  = [[Synapse Software]]
+| publisher  = [[Broderbund]]
+| writer     = Rodney Smith
+| programmer = {{unbulleted list|Joe Vierra|[[Cathryn Mataga]]}}
+| release    = 1986
+| platforms  = {{unbulleted list|[[Apple II series|Apple II]]|[[Atari ST]]|[[Commodore 64]]|[[MS-DOS]]}}
+| engine     = BTZ
+| genre      = [[Interactive fiction]]
+}}
+
+'''''Breakers''''' is a [[science fiction]]-themed [[interactive fiction]] video game published in 1986 by [[Synapse Software]], which was then a division of [[Broderbund]]. It was released for the [[Apple II series]], [[Atari ST]], [[Commodore 64]], and [[MS-DOS]]. The game was the last of Broderbund's "Electronic Novels" series, and was not a commercial success. Critics complimented the complex storyline,  but found the game's parser had not kept pace with other game developers.
+
+==Plot==
+The planet Borg is threatened by a telepathic collision with a mysterious twin planet, a collision that cannot be proven using scientific methods. The planet's inhabitants, the Lau, will not survive the collision unless one of them performs a ritual requiring several artifacts called "elements". The seven Lau who are supposed to perform the ritual are attacked on the surface of Borg by "Breakers"{{snd}}intergalactic smugglers who conduct their business through an orbiting space station operated by the United Mining Combine. The Breakers kill six of the seven Lau, but are then surprised by a squad of Gaks, the security forces of the United Mining Combine. In the course of the fighting, the surviving seventh Lau{{snd}}the character controlled by the player{{snd}}loses consciousness and wakes up in orbit on the space station.
+
+The game starts from this point. The Lau is considered a Breaker by the Gaks and is confined to a single bar on the space station. The other Breakers in the bar also consider the Lau one of their own.<ref name="computist">{{cite journal | journal=Computist | title=Breakers | date=March 1987 | issue=41 | pages=24 | url=https://archive.org/stream/computist-scan-41/issue41#page/n25/mode/2up|access-date=2020-01-23}}</ref>
+
+The player must first become familiar with the social network of the residents of the space station, take sides in a dispute between enemy smugglers and uncover cases of drug and human trafficking. The player also has to deal with the question of why United Mining Combine operates the space station in orbit at Borg, sometimes in high secrecy, even though all raw material deposits from the planet have already been depleted. The object of the game is to recover the ritual "elements", return to the planet Borg and successfully perform the ritual.<ref name=maher1 />
+
+==Development==
+Successful independent game developer Synapse Software ran into financial difficulties in 1984 and was bought by Broderbund. Broderbund subsequently used Synapse to produce games for a short-lived trend called "Bookware". This synthesis of analog books and computer games reached its height of popularity between 1984 and 1986 with the release of numerous literary text adventures such as ''[[Amnesia (1986 video game)|Amnesia]]'', ''[[Dragonriders of Pern (video game)|Dragonriders of Pern]]'', and ''[[The Hitchhiker's Guide to the Galaxy (video game)|The Hitchhiker's Guide to the Galaxy]]''.<ref name="maher1">{{cite web | url =https://www.filfre.net/2013/09/bookware/ | title =Bookware  | last =Maher | first =Jimmy | date =2013-09-10| website =The Digital Antiquarian | access-date =2020-01-23}}</ref> By 1986, with the trend already subsiding, Broderbund no longer used the term "electronic novel" when marketing ''Breakers''.<ref name="maher2">{{cite web | url =https://www.filfre.net/2014/12/bookwares-sunset-2/ | title =Bookware's Sunset| last =Maher | first =Jimmy | date =2014-12-04| website =The Digital Antiquarian | access-date =2020-01-23}}</ref>
+
+Unlike other literary text adventures, ''Breakers'' was not based on the work of a well-known author, but on a 40-page novella written by Rodney Smith, an acquaintance of several Synapse employees.<ref name=maher2 /> A booklet containing Smith's novella was included with the game, and served as an introduction to the game. It also provided the copy protection for the game — at various points during the game, the player would be asked for a specific word from the novella.
+
+When ''Breakers'' was released in 1986, there was little media coverage of the game, and sales were disappointing. Following this, Broderbund decided to leave the "bookware" genre, and Synapse Software was closed. Several games under development by Synapse remained unpublished.<ref name=maher2 />
+
+===Technology===
+Like its Synapse Software predecessors ''Brimstone'', ''Essex'', and ''Mindwheel'', ''Breakers'' used the BTZ ("Better Than Zork ") engine, which had been developed in 1982 by Synapse programmers [[Cathryn Mataga]] and Steve Hales. This engine's parser understood about 1200 words,<ref name=maher2 /> almost twice as many as [[Infocom]]'s 1980 game ''[[Zork]]'', hence the name "Better Than Zork". However, by 1986 Infocom had spent considerable resources improving their parser technology, while Synapse had not made any significant improvements to BTZ. The result was that Infocom's ''[[Trinity (video game)|Trinity]]'', released at the same time as ''Breakers'', was able to parse over 2100 words, significantly more than BTZ's outmoded parser.<ref name="nelson">{{cite book | last=Nelson |first=Graham  | author-link=Graham Nelson| title=The Inform Designer's Manual | publisher=Placet Solutions | date=2001 | isbn=978-0971311909|edition=4th }}</ref>
+
+==Reception==
+American computer game magazine ''Computist'' stated that this game's "labyrinthine" plot offered a very puzzling and difficult opening scene, but that the game was enjoyable thanks to the advanced parser, communicative NPCs, and its writing style that was clearer than previous games. The magazine gave the game an average rating of 7 out of 10 points.<ref name="computist" />
+
+In the video game journal ''Questbusters'', Shay Adams highlighted the high level of difficulty of the game. Adams praised the game's story, calling Rodney Smith's humorous writing a successful mix of object and communication-related puzzles. He noted that while other companies had made giant advances in their game parsers, the BTZ parser showed no improvement from previous games; Adams was critical of this, saying that two years after its development, the BTZ parser still required precise inputs instead of analyzing intuitive player behavior. He also criticized the frequent copy protection query as "annoying".<ref name="QB">{{cite journal | journal=Questbusters | title=Breakers: Borg under a Bad Sign | last=Addams | first=Shay | date=September 1986 | volume=3 | issue=9 | pages=1 | url=http://mocagh.org/questbusters/qbustersIII9.pdf}}</ref>
+
+Neil Randall, English professor at the [[University of Waterloo]] and director of the university's Games Institute, analyzed the literary content of ''Breakers'' and saw in the 40-page printed introduction of the game an "allusive, thought-provoking (...) invitation to science fiction myth formation," giving the player an immersive insight into the myths of a fictional people.<ref name="randall">{{cite journal | journal=Computers and the Humanities | title=Determining Literariness in Interactive Fiction | last=Randall | first=Neil  | year=1988 | issue=22 | pages=186 | url=https://slideheaven.com/determining-literariness-in-interactive-fiction.html}}</ref>
+
+[[Graham Nelson]], inventor of the interactive fiction programming language [[Inform]], called ''Breakers'' a "story about identity work", and said the technique of communicating with NPCs was reminiscent of interrogations.<ref name="nelson" />
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IFDB|id=gq5nw1khbrjo3vu}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1986 video games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:science fiction video games]]
+[[Category:video games developed in the United States]]

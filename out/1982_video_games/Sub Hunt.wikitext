@@ -1,0 +1,47 @@
+Sub Hunt
+Permalink: //en.wikipedia.org/w/index.php?title=Sub_Hunt&oldid=1193233881
+Accessed on: 2024-06-26T16:54:10.528293
+
+
+
+------
+Sub Hunt
+{{Infobox video game
+| title = Sub Hunt 
+| image = Sub Hunt cover.jpg
+| caption= 
+| developer = [[Mattel]]
+| publisher = Mattel
+| designer = Tom Loughry
+| engine =
+| released = {{vgrelease|NA|May 6, 1982<ref>{{Cite web|url=https://history.blueskyrangers.com/mattelelectronics/games/subhunt.html|title = Sub Hunt}}</ref>}}
+| genre = [[Submarine simulator]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Intellivision]]
+}}
+
+'''''Sub Hunt''''' is a [[submarine simulator]] [[video game]] released by [[Mattel]] for its [[Intellivision]] [[gaming console|video game system]] in 1982.<ref>{{cite web|url=http://www.gamefaqs.com/intellivision/567619-sub-hunt/data|title=Sub Hunt Release Information|work=GameFAQs.com|accessdate=2010-08-06}}</ref> Players take control of a [[Wolfpack (naval tactic)|wolfpack]] of submarines attempting to stop an enemy invasion.
+
+==Gameplay==
+In ''Sub Hunt'', the player commands a fleet of four submarines. An enemy nation is preparing an invasion fleet to attack the player's home island, and it is up to the player to either destroy the convoys arriving to build the invasion fleet or, failing that, to destroy the invasion fleet itself before it reaches the player's island.<ref name="SHInst">{{cite web|url=http://www.intellivisiongames.com/bluesky/games/instructions/action/subhunt.txt|title=Sub Hunt instructions|work=IntellivisionLives.com|accessdate=2010-08-06}}</ref>
+
+After selecting from one of five skill levels, the "deployment" mode game map appears, showing the player's island on the far right side of the screen and an enemy-controlled harbor at the top of the screen. The first of six convoys, each with six ships, begin arriving from the far left of the screen, on a course to the enemy staging harbor. All four of the player's submarines are active, but only one can be controlled at any one time. The player dispatches submarines to intercept the convoys as they make their way across the ocean; the submarines will move in a straight line on their last heading until ordered to stop or until they reach an enemy convoy.<ref name="SHInst"/>
+
+When a submarine encounters a convoy, the game switches to the "battle" mode. Here, the player is presented with a simulated [[periscope]] view and a [[sonar]] map of the immediate area. The player controls the depth, speed and rudder position of the submarine as they attempt to hunt down and sink each ship in the convoy. The convoy is defended by a [[destroyer]] (two destroyers in higher difficulty levels) equipped with surface cannons and [[depth charge]]s that will seek out the player's submarine if it is detected. The player's submarines are armed with a pair of [[torpedo tube]]s and an unlimited supply of torpedoes, and the player may turn off the submarine's sonar and engines in order to [[silent running (submarine)|run silent]] and avoid detection. If the player's submarine takes too much damage, it will sink (indicated by the screen turning blue, as if being flooded) and the deployment map screen will reappear. Similarly, if the player destroys all six ships, or if the player's submarine is far enough away from the enemy convoy, play switches back to the map screen.<ref name="SHInst"/>
+
+If enough convoys reach the staging harbor, the enemy's invasion fleet, made up of three destroyers and three [[Troopship|troop transport]]s, will be launched toward the player's home. The player must stop the fleet before it reaches their home, otherwise the game is over. However, if the player successfully destroys all six convoys (36 ships in total), or too few ships reach the staging harbor such that an invasion fleet cannot be formed, the player wins.<ref name="SHInst"/>
+
+==Legacy==
+''Sub Hunt'' was re-released as part of the ''[[Intellivision Lives!]]'' collection for computers and other video game consoles.
+
+==References==
+{{reflist}}
+
+[[Category:1982 video games]]
+[[Category:Intellivision games]]
+[[Category:Intellivision-only games]]
+[[Category:Mattel video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Submarine simulation video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,54 @@
+Snapper (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Snapper_%28video_game%29&oldid=1186718882
+Accessed on: 2024-06-26T16:54:03.599793
+
+
+
+------
+Snapper (video game)
+{{Infobox video game
+|title  = Snapper
+| image = Acornsoft-SnapperV1.jpg
+| caption = Original version with ''Pac-Man'' type characters
+| developer =
+| publisher = [[Acornsoft]]
+| designer = Jonathan Griffiths
+| engine =
+| released = 1982
+| genre = [[List of maze video games|Maze]]
+| modes = [[Single player]]
+| platforms = [[BBC Micro]], [[Acorn Electron]]
+}}
+
+'''''Snapper''''' is a clone of the [[Namco]] arcade game ''[[Pac-Man]]'' <ref>
+{{cite web|url=http://myweb.tiscali.co.uk/themicrouser/reviews/games/snapper.htm|title=The Micro User Games Software Review: Snapper ''Acornsoft''|quote=SNAPPER is an attractive and incredibly frustrating version of Pacman.|accessdate=2010-10-03|publisher=[[The Micro User]] (Issue 1-10)|date=December 1983|last=Jackson|first=Jane}}
+</ref> programmed by Jonathan Griffiths for the [[BBC Micro]] and released as one of the launch titles for [[Acornsoft]] in 1982. It was also one of Acornsoft's launch titles for the [[Acorn Electron]] in 1983.<ref>{{cite web|url=http://www.acornelectron.co.uk/roms/cats/rom_carts.html#snap|title=Snapper|first=Dave A|last=Edwards|accessdate=2010-10-03|quote=1983: SNAPPER, Acornsoft, £9.20 (Tape), £16.50 (ROM Cart)}}</ref><ref>{{cite web|url=http://www.8bs.com/elecgame/play_it_again_sam_07.htm|title=Electron Games Reviews: Play it Again Sam 7|quote=SNAPPER, Acornsoft's implementation of the ever-popular Pac Man, was one of the first games ever released for the Electron.|first=Martin|last=Reed|publisher=[[Electron User]] (Issue 6.9)|accessdate=2010-10-03}}</ref>
+
+Snapper started the BBC Micro tradition of controlling arcade games using the Z, X, : and / keys for horizontal and vertical motion, since  on most BBC models the arrow keys were not conveniently placed for gaming.<ref>{{Cite journal|title=Paradox|volume=10|issue=10|journal=Beebug|publisher=RISC Developments Ltd.|date=April 1992|page=17|quote=Keys are the usual 'Snapper' ones|author=Peter Rochford}}</ref>
+
+==Gameplay==
+As in ''Pac-Man'', bonus items such as fruit sometimes appear in the centre of the screen. The highest-scoring bonus item is an [[acorn]], a reference to the publishers. When Snapper is killed, it shrinks and turns into small lines pointing in all directions.
+
+The main difference in gameplay between ''Pac-Man'' and ''Snapper'' is the behaviour of the ghosts (or monsters). In ''Pac-Man'', each ghost has its own personality and follows set patterns for each level. The red ghost also travels at double speed after a certain number of dots are eaten. In ''Snapper'', the monsters begin each level by patrolling their corners a set number of times before breaking from their route to chase the Snapper. The time before breaking the route is reduced for each level until on later levels, the monsters chase Snapper almost immediately. The only real difference between the monsters is the corner they patrol and how soon they break from their route (e.g. the red ghost is always the first). Also, in ''Pac-Man'', the main character slows when eating dots (so ghosts can catch up to him) but this does not happen in ''Snapper''. These changes lead to a game which is much easier in the early levels but gets progressively more difficult<ref>
+{{cite web|url=http://www.acornelectron.co.uk/info/acornsoft/i-snap.html|title=Acornsoft Snapper|quote=The game gets progressively harder, and with higher scores as the fruit increase in value.|first=Dave A|last=Edwards|accessdate=2010-10-03}}
+</ref> so games tend to last longer.
+
+==Development==
+[[Image:Snapper Electron.gif|thumb|Acorn Electron version showing the redesigned characters]]
+In development, the game was titled ''Puc Man'' (the first Japanese title of the arcade game was ''Puck Man'') but the name was changed before release to avoid legal action. However, the initial release of the game was so close to ''Pac-Man'' (including the design of the game's characters) that this version had to be withdrawn and re-released with the characters changed.<ref>{{cite web|title=Only the Best BBC Micro Games|url=http://www.bbcmicrogames.com/acornsoft.html|first=Oliver|last=Robinson|accessdate=2010-10-03|quote=Snapper was one of the first Video Arcade Conversions made for the BBC by AcornSoft.}}
+</ref><ref>{{cite web|title=Classic Retro Games|url=http://www.retrogamer.net/show_image.php?imageID=3715|first=Alex|last=Reeves|publisher=[[Retro Gamer]]|access-date=2010-10-03|quote=This is one of the many quality arcade conversions that Acornsoft created for the BBC Micro, being a very faithful example of Pac Man.|url-status=dead|archive-url=https://web.archive.org/web/20100616042504/http://retrogamer.net/show_image.php?imageID=3715|archive-date=2010-06-16}}</ref> The player's character became a round yellow face with very short legs wearing a green [[cowboy hat]] and the ghosts became skinny humanoid monsters.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.youtube.com/watch?v=KT1C8aYKYfY&watch_response Video clip] of BBC Micro version (running at double speed)
+
+{{Acornsoft}}
+
+[[Category:1982 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Acornsoft games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

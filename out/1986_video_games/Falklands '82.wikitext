@@ -1,0 +1,74 @@
+Falklands '82
+Permalink: //en.wikipedia.org/w/index.php?title=Falklands_%2782&oldid=1162902424
+Accessed on: 2024-06-26T16:59:58.302815
+
+
+
+------
+Falklands '82
+{{short description|1986 video game}}
+{{Good article}}
+{{Infobox video game
+|title = Falklands '82
+|image = Falklands 82 cover.jpg
+|caption = Commodore 64 cover art
+|developer = [[Personal Software Services]]
+|publisher = Personal Software Services
+|series = ''Strategic Wargames''
+|designer = John Bethell
+|released = {{vgrelease|UK|1986}}
+|genre = [[Turn-based strategy]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[ZX Spectrum]], [[Commodore 64]]
+}}
+
+'''''Falklands '82''''' (released as '''''Malvinas '82''''' in Spanish markets) is a 1986 [[turn-based strategy]] video game developed and published by [[Personal Software Services]] for the [[ZX Spectrum]] and [[Commodore 64]]. It is the fifth instalment of the ''Strategic Wargames'' series. The game is set during the 1982 [[Falklands War]] and revolves around the Argentine [[Occupation of the Falkland Islands|occupation]] and subsequent British re-capture of the [[Falkland Islands]]. The player controls the [[British logistics in the Falklands War|British Task Force]] as they must either defeat all Argentine forces on the archipelago or re-capture every settlement.
+
+A port for the [[Amstrad CPC]] was advertised but never released. During development, the developers obtained information and statistics of the war from [[NATO]]. The game met with mixed reviews and controversy: critics praised the detailed graphics, but some were divided over the gameplay and authenticity; others criticised the in-game potential of an Argentine "victory".
+
+==Gameplay==
+[[File:Falklands gameplay.gif|thumb|left|A map showing the battles in northern [[East Falkland]]]]
+''Falklands '82'' is a [[turn-based strategy]] game focusing on land battles during the [[Falklands War]]. The player commands the [[British logistics in the Falklands War|British Task Force]] against the [[Argentine ground forces in the Falklands War|Argentine ground forces]], who are occupying the islands. The game begins by allocating fifteen [[Royal Navy]] ships for the task force; a proportionate amount must be devoted for attack and defence purposes.<ref name=crash/> The player must then choose one of four landing spots in northern [[East Falkland]]<ref name=zap/> to begin the invasion: Port Stanley, [[Berkeley Sound]], Cow Bay and [[San Carlos Water|San Carlos Bay]].<ref name=CG/> The [[Special Air Service|SAS]] or [[Special Boat Service|SBS]] are available throughout the game to provide intelligence on Argentine movements; however, intelligence is limited and may only be collected a certain number of times.<ref name=YS/> At any time, the player may request reinforcements from either one of the two aircraft carriers, [[HMS Hermes (R12)|HMS ''Hermes'']] or [[HMS Invincible (R05)|HMS ''Invincible'']].<ref name=YS/>
+
+The main objective of the game is to either defeat all occupying Argentine forces in the archipelago, or to capture and hold all ten settlements of the Falklands simultaneously.<ref name=crash/><ref name="zap">{{cite journal|title=Falklands '82 review|journal=Zzap!64|date=February 1986|issue=10|pages=104, 105|url=https://archive.org/stream/zzap64-magazine-010/ZZap_64_Issue_010_1986_Feb#page/n103/mode/2up|access-date=13 June 2016}}</ref> Depending on the difficulty setting, the game lasts 25 or 30 turns; if every settlement has not been occupied or any Argentine forces remain by the end of the last turn, the game will end.<ref name=CG/> The capital of the Falklands, [[Stanley, Falkland Islands|Stanley]], has the highest concentration of Argentine forces.<ref name=YS/> There are a total of four choices for combat: attack, move, pass, and "[[reconnaissance|recce]]".<ref name=crash/> The game includes a weather system that changes from every turn and provides obstructions for various forces. For example, stormy seas will temporarily render [[British naval forces in the Falklands War|naval vessels]] and troop reinforcements unavailable, while [[fog]] will render both naval and [[British air services in the Falklands War|air forces]] unavailable.<ref name=YS/>
+
+[[File:Falklands 82 screenshot.png|thumb|right|250px|Text alerting the player that one of the Royal Navy ships has been sunk]]
+
+During the course of the game, Argentine airstrikes will frequently sink Royal Navy ships, depending on how many of them were initially allocated to defensive positions.<ref name=rock/> In addition, [[Argentine air forces in the Falklands War|Argentine air forces]] will occasionally bomb and destroy British forces on the ground, which are represented as animated sprites on the map.<ref name=rock/> The map also displays terrain details, including rivers and mountains. If troops are situated on top of a mountain, they will receive a defensive bonus once attacked; however, due to the steep terrain, they will move more slowly. If the player chooses to enter an enemy-controlled zone, the move will instantly end, leaving the unit vulnerable to an Argentine attack.<ref name=rock/>
+
+==Background and release==
+{{Quote box|quote=In ''Falklands '82'', we were attacked for having a game where the Argies could win - but it could have happened.|source=Richard Cockayne in an interview with ''Your Computer'' magazine in 1986<ref name=PSS>{{cite journal|title=History of PSS|journal=Your Computer|date=13 June 1986|volume=6|issue=6|pages=84–85|url=https://archive.org/stream/your-computer-magazine-1986-06/YourComputer_1986_06#page/n83/mode/2up|access-date=3 October 2015}}</ref> |width=30em |quoted=1}}
+During development of both games, Cockayne and Mays obtained statistics for both the [[Cold War]] and Falklands War from [[NATO]] and the Soviet embassy in London. In an interview with ''Your Computer'' magazine, Richard Cockayne stated that both ''Theatre Europe'' and ''Falklands '82'' received heavy criticism from the [[Campaign for Nuclear Disarmament]] and ''[[The Sun (United Kingdom)|The Sun]]'' newspaper, respectively.<ref name=PSS/> An editor from ''[[The Sunday Press]]'' suggested that ''Falklands '82'' was "distasteful" because of the game's possibility of an Argentine victory.<ref name=zap/> The game was planned for an [[Amstrad CPC]] port, but was never released for that computer.<ref>{{cite web|title=Falklands 82 for Amstrad|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0001721|publisher=World of Spectrum|access-date=4 October 2015}}</ref>  In Spanish markets, the game was released as ''Malvinas '82'', the Spanish name for the Falkland Islands.<ref name=rock/>
+
+==Reception==
+{{Video game reviews
+| CRASH = 3/10<ref name=crash/>
+| rev1 = ''[[Your Sinclair]]''
+| rev1Score = 8/10<ref name=YS/>
+| rev2 = ''[[Sinclair User]]'' 
+| rev2Score = {{Rating|4|5}}<ref name=SU/>
+| rev3 = ''[[Zzap!64]]''
+| rev3Score = 34%<ref name=zap/>
+}}
+''The Sun'' newspaper criticised ''Falklands '82'' for including a scenario where "Argentina could win," but Cockayne maintained that his company's video games did not trivialise the war.<ref name=PSS/> The game received mostly positive reviews from critics upon release. Rachael Smith of ''[[Your Sinclair]]'' praised the overall experience of the gameplay, stating that it was "ideal" for newcomers and plays "smooth"; however, she criticised it for being "annoyingly slow" at times.<ref name=YS>{{cite magazine|last1=Smith|first1=Rachael|title=Falklands '82 review|url=http://www.ysrnry.co.uk/articles/falklands82.htm|journal=Your Sinclair|access-date=3 October 2015|issue=5|date=May 1986|url-status=dead|archive-url=https://web.archive.org/web/20151004121300/http://www.ysrnry.co.uk/articles/falklands82.htm|archive-date=4 October 2015}}</ref> Sean Masterson of ''[[Crash (magazine)|Crash]]'' criticised the gameplay, stating that it fails to "offer a serious challenge" and prohibits the player from experimenting with choices the real commanders never had, such as planning tactical air strikes.<ref name=crash>{{cite journal|last1=Bethall|first1=John|title=Falklands '82 review - ZX Spectrum|journal=Crash|date=April 1986|issue=27|url=http://www.zxspectrumreviews.co.uk/review.aspx?gid=1906&rid=6012|access-date=3 October 2015|archive-url=https://web.archive.org/web/20171108210151/http://www.zxspectrumreviews.co.uk/review.aspx?gid=1906&rid=6012|archive-date=8 November 2017|url-status=dead}}</ref> A reviewer from ''[[Sinclair User]]'' praised the gameplay, stating that it was "swift" and had "nice touches" for beginners to the wargame genre. He sarcastically remarked that the inability to play on the Argentine side would help improve [[Argentina–United Kingdom relations|Anglo-Argentinian relations]].<ref name=SU>{{cite journal|title=Falklands '82 review|journal=Sinclair User|date=May 1986|issue=50|page=53|url=http://wos.meulie.net/pub/sinclair/magazines/SinclairUser/Issue050/Pages/SinclairUser05000053.jpg|access-date=3 October 2015}}</ref> A reviewer from ''[[Zzap!64]]'' criticised the game's lack of authenticity and strategy, stating that the developer's previous games had more credence if the player "played them with their eyes shut".<ref name=zap/>
+
+M. Evan Brooks reviewed the game for ''[[Computer Gaming World]]'', and stated that "While Iwo/Falklands may not be to the taste of the experienced wargamer, they may prove just the ticket to gaining another convert to computer conflict simulations."<ref name="CGW34">{{cite magazine |last=Brooks |first=M. Evan |title=Iwo Jima - 1945; Falklands 82 |magazine=Computer Gaming World |date=January–February 1987 |volume=1 |issue=34 |pages=40–41}}</ref>
+
+A reviewer from ''ZX Computing'' heralded the graphics and details of the map but suggested that "hardened wargamers" would not be interested in graphical advancements.<ref name=ZX>{{cite journal|title=Falklands '82 review|journal=ZX Computing|date=May 1986|issue=5|page=13|url=http://wos.meulie.net/pub/sinclair/magazines/ZXComputing/Issue8605/Pages/ZXComputing860500013.jpg|access-date=3 October 2015}}</ref> A reviewer from ''Computer Gamer'' praised its simplicity, stating that it was a "simple game" and would prove to be an "excellent" introduction to the wargame strategy genre.<ref name=CG>{{cite journal|title=Falklands 82 review|journal=Computer Gamer|date=May 1986|issue=13|url=http://wos.meulie.net/pub/sinclair/magazines/ComputerGamer/Issue13/Pages/ComputerGamer1300070.jpg|access-date=3 October 2015}}</ref> In a 1994 survey of wargames ''[[Computer Gaming World]]'' gave the title one star out of five, stating that "it has aged poorly".<ref name="brooks199401">{{Cite magazine |last=Brooks |first=M. Evan |date=January 1994 |title=War In Our Time / A Survey Of Wargames From 1950-2000 |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=114 |magazine=Computer Gaming World |pages=194–212}}</ref>
+
+In a retrospective review, Tim Stone of ''[[Rock, Paper, Shotgun]]'' praised the game's ability to display the war in a neutral manner; however, he questioned the inability to play on the Argentine side. Stone concluded that the game had "greater significance" over other war strategy games at the time and had an "undeniable quality".<ref name=rock>{{cite web|last1=Stone|first1=Tim|title=The Flare Path: Longing For The Short Form|url=http://www.rockpapershotgun.com/2013/04/12/the-flare-path-longing-for-the-short-form/#more-149358|website=Rock, Paper, Shotgun|publisher=VG247|access-date=3 October 2015|date=12 April 2013}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Personal Software Services}}
+{{Falklands War|style=wide}}
+
+[[Category:1986 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Falklands War video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Personal Software Services games]]
+[[Category:Single-player video games]]

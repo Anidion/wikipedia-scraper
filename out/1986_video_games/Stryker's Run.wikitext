@@ -1,0 +1,62 @@
+Stryker's Run
+Permalink: //en.wikipedia.org/w/index.php?title=Stryker%27s_Run&oldid=1218431530
+Accessed on: 2024-06-26T17:01:05.053812
+
+
+
+------
+Stryker's Run
+{{Infobox video game
+|title = Stryker's Run
+|image = StrykersRun-cover.png
+|caption = BBC Micro cover art
+|developer = [[Chris Roberts (video game developer)|Chris Roberts]] <br> Philip Meller <br> Nick Elms<ref name="moby">[http://www.mobygames.com/game/bbc-micro_/strykers-run/credits ''Stryker's Run''] at MobyGames</ref> <br> [[Reflections Interactive|Martin Edmondson and Nicholas Chamberlain]]<ref name="profile">[http://www.stairwaytohell.com/authors/edmondsonchamberlain/PRO-EdmondsonChamberlain.html Profile], A&B Computing, October 1988</ref>
+|publisher = [[Superior Software]]/[[Acornsoft]]
+|designer = Chris Roberts <br> Philip Meller
+|released = '''BBC Micro:'''{{vgrelease|EU|1986<ref name="moby"/>}} '''Acorn Electron:'''{{vgrelease|EU|1987}}
+|genre = [[Action game|Action]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Acorn Electron]], [[BBC Micro]]<ref name="moby"/>
+}}
+
+'''''Stryker's Run''''' is a [[video game]] designed by [[Chris Roberts (video game developer)|Chris Roberts]] and Philip Meller for the [[BBC Micro]] and [[BBC Master]] which was published by [[Superior Software]] in 1986. It was also later converted to the [[Acorn Electron]]. It is a 2D side-scrolling [[action game]]. It was well received, particularly for its [[Video game graphics|graphics]].
+
+==Gameplay==
+[[Image:StrykersRun-electron.png|thumb|left|Acorn Electron screenshot. The start of the game at the enemy HQ.]]
+
+''Stryker's Run'' is a 2D side-scrolling action game. The game is set during a futuristic war. The player takes the role of Commander John Stryker of the Allied Nations who has obtained plans of an attack by the enemy Volgans.
+
+The objective of the game is to escape with the plans and reach the Allied headquarters. Stryker is armed with a [[Raygun|laser pistol]] and [[grenade]]s. He can also commandeer aircraft that can be used until the fuel runs out. The Volgans have a wide variety of weapons including [[rifle]]s, pistols, grenades, [[machine gun]]s, [[Mortar (weapon)|mortars]], [[Land mine|mines]], [[Armed helicopter|helicopter gunships]], [[rocket launcher]]s and [[Surface-to-air missile|SAM missiles]].<ref>Original inlay, Superior Software</ref>
+
+As well as enemies, the game features allied soldiers who will fire at the enemies but can get caught in [[Crossfire#"Caught in the crossfire"|crossfire]]. The game takes place entirely on one level on a scrolling landscape.
+
+==Development and release==
+The game was originally developed and coded by Chris Roberts and Philip Meller on the BBC Micro with additional graphics by Nick Elms.<ref name="moby"/> As the game pushed the limits of the hardware, certain elements had to be left out of the standard version and ''Stryker's Run'' became the first game released to include an enhanced version for the newly released BBC Master. As well as extra in-game graphics, this version adds a title screen with music, a high score table, on-screen instructions and user-defined controls. The music, a version of the [[Yellow Magic Orchestra]]'s "[[Solid State Survivor|Rydeen]]", was created by [[Martin Galway]].<ref name="sampled">[http://www.whosampled.com/cover/view/105713/Martin%20Galway-Stryker's%20Run_Yellow%20Magic%20Orchestra-Rydeen/ ''Stryker's Run''] at ''Who Sampled Who''</ref> The standard version could only fit in a plain screen with minimal text. The BBC Micro version of the game (also containing the Master enhanced version) was released by Superior Software in 1986<ref name="moby"/> on [[Compact Cassette|cassette]] and [[floppy disk]].
+
+Unlike the majority of Superior Software's BBC Micro games, it was thought that it would not be possible to convert to the Acorn Electron as the game already used up the memory of the BBC Micro and the Electron lacks hardware scrolling capability. After completing the sequel to the game, [[Reflections Interactive|Martin Edmondson and Nicholas Chamberlain]] did create an Electron version.<ref name="profile"/> The main difference is that instead of one long, scrolling screen, the playing area is broken up into single screen sections. The front end of the game is even more limited than the standard BBC Micro version as the game starts as soon as the game is loaded and there is only a plain screen displaying the score when the player dies. The Electron version was released in 1987 (on cassette only) at the same time as the sequel.
+
+The game was included on the first ''Play It Again Sam'' compilation released for Christmas 1987. This included the Electron version on disk for the first time.
+
+==Legacy==
+The game spawned a sequel, titled ''Codename: Droid - Stryker's Run part 2'', which was released in 1987. This took place in a multi-level underground base with many added moves and features. It is an early example of the [[Metroidvania]] genre.<ref name="Szczepaniak 148–53">{{cite news|last=Szczepaniak |first=John |title=Backtracking: The History of Metroidvania|work=[[GamesTM]]|issue=116|publisher=[[Imagine Publishing]]|pages=148–53}}</ref> A third game was in development for the [[RiscPC]] in the mid 1990s but was never completed.<ref name="strykers run 3">[http://www.acorn-gaming.org.uk/index.php3?p=Features/Old/Previews/SR3 ''Stryker's Run III''] at ''Acorn Gaming''</ref> A [[Video game remake|remake]] of the original game for [[Microsoft Windows]] by the original publishers has been in development since 2007 but has no set release date.<ref name="interactive">[http://superiorinteractive.blogspot.com/2007/04/strykers-run-and-quest.html ''Stryker's Run'' and ''Quest''], Superior Interactive blog, 2007-04-05</ref>
+
+==Critical reception==
+BBC Micro magazine A&B Computing said: "This game will impress you... the graphics are stunning... this should be in every collection".<ref name="PIAS">[http://8bs.com/elecgame/play_it_again_sam.htm ''Play It Again Sam'' inlay], reproduced at 8bs.com (accessed 2011-12-03)</ref>
+[[Electron User]], in a dual review for ''Stryker's Run'' and its sequel, gave a score of 10/10 but while they praised the "beautifully drawn" backdrops, it was noted that the "animation is a bit flickery at times".<ref name="electron user">[http://8bs.com/elecgame/strykers_run.htm "Dynamic Duo"], Roland Waddilove, Electron User #4.12, September 1987</ref> In their review of the ''Play It Again Sam'' compilation, they also stated that "the scenery is breathtaking and what it lacks in playability is made up for by sheer fun".<ref name="PIAS"/>
+
+==References==
+{{reflist}}
+
+{{Superior Software}}
+{{Ubisoft Reflections}}
+
+[[Category:1986 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Superior Software games]]
+[[Category:Video games scored by Martin Galway]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Metroidvania games]]
+[[Category:Single-player video games]]
+[[Category:Acornsoft games]]

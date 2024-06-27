@@ -1,0 +1,60 @@
+Dunzhin
+Permalink: //en.wikipedia.org/w/index.php?title=Dunzhin&oldid=1224500531
+Accessed on: 2024-06-26T16:53:19.748040
+
+
+
+------
+Dunzhin
+{{Short description|1982 video game}}
+{{Infobox video game
+| image          = Dunzhin.jpg
+| developer      = 
+| publisher      = [[Med Systems Software|Med Systems]] (TRS-80)<br>[[Screenplay (game publisher)|Screenplay]]
+| designer       = Randall Don Masteller<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+| series         = ''Warrior of Ras''
+| engine         = 
+| released       = '''1982:''' TRS-80, Apple II, Atari 8-bit, IBM PC<br>'''1983:''' C64
+| genre          = [[Role-playing video game|Role-playing]]
+| modes          = [[Single-player]]
+| platforms      = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[TRS-80]]
+}}
+
+'''''Warrior of Ras: Volume I - Dunzhin''''' is a [[fantasy]] [[role-playing video game]] developed by [[Med Systems Software]]. It was released on the [[TRS-80]] in 1982, then ported to the [[Apple II]], [[Atari 8-bit computers]], and [[Commodore 64]]. A [[self-booting disk|self-booting]] [[IBM Personal Computer|IBM PC]] port added digitized speech.
+
+==Gameplay==
+''Dunzhin'' is a game in which the player explores a new, randomly generated dungeon each time the game is played. The fighter player character encounters monsters and human enemies, and the character earns experience points based on the disparity comparing their statistics with those of the monster. The player is in search of a well-guarded treasure located on the deepest level of the dungeon.<ref name="Dragon71"/>
+
+==Development==
+{{Unreferenced section|date=August 2016}}
+The IBM PC port performs all disk access via IN/OUT instructions to the floppy controller instead of using the BIOS (this was done both to improve performance and as a copy protection). It also was not completely rewritten from the ground up, but instead contained the original [[Zilog Z80|Z80]] code from the TRS-80 with an interpreter to convert it to x86 assembly language.
+
+==Reception==
+''Dunzhin'' was reviewed in ''[[Dragon (magazine)|Dragon]]'' magazine #71 by John Warren. The reviewer noted that while this game was able to accept more complex commands than other games of its time, the extra typing involved slowed the game down.<ref name="Dragon71">{{cite journal
+|title=Dunzhin Cures Terminal Boredom
+|author=Warren, John
+|journal=Dragon
+|issue=71
+|date=March 1983
+|pages=70–72}}</ref> Describing ''Warriors of Ras'' as "yet another ''Dungeons-and-Dragons'' style game series", ''The Commodore 64 Home Companion'' wrote that ''Dunzhin'' "is the first—and easiest—in the series".<ref name=C64HC>{{cite web|url=https://archive.org/stream/The_Commodore_64_Home_Companion#page/n173/mode/2up | last = Beekman | title=Screenplay Software (HesWare)|work=The Commodore 64 Home Companion|year=1984|access-date=August 19, 2016|page=173}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{atarimania|id=5723}}
+*{{lemon64 game|id=3042|name=Dunzhin}}
+*[https://archive.org/details/80-U.S._Volume_V_Number_12_1982-12_80-Northwest_Publishing_US/page/n105/mode/2up Review] in ''80 U.S.''
+*[https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n19/mode/2up Review] in ''Addison Wesley Book Of Atari Software 1984''
+*[https://archive.org/details/softside-magazine-56/page/n41/mode/2up Review] in ''[[SoftSide]]''
+*[https://archive.org/details/family-computing-13/page/n123/mode/2up Review] in ''[[Family Computing]]''
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Med Systems Software games]]
+[[Category:Role-playing video games]]
+[[Category:Single-player video games]]
+[[Category:TRS-80 games]]
+[[Category:Video games developed in the United States]]

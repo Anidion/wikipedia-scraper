@@ -1,0 +1,56 @@
+Quadrun
+Permalink: //en.wikipedia.org/w/index.php?title=Quadrun&oldid=1224505975
+Accessed on: 2024-06-26T16:55:41.256591
+
+
+
+------
+Quadrun
+{{Short description|1983 video game}}
+{{More citations needed|date=September 2015}}
+{{Infobox video game
+| title = Quadrun
+| image = Quadrun cover art.jpg
+| caption = 
+| developer = [[Atari, Inc.]]
+| publisher = Atari, Inc.
+| designer = Steve Woita<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+| engine = 
+| released = [[1983 in video gaming|1983]]
+| genre = [[Shoot 'em up]]
+| modes = [[Single-player]]
+| platforms = [[Atari 2600]]
+}}
+'''''Quadrun''''' is a video game for the [[Atari 2600]] developed by Steve Woita and published in 1983 by [[Atari, Inc.]]<ref name=giantlist/> One of the four Atari Club games available exclusively via mail order, this title may have been available later in stores in very limited quantities. Only approximately 10,000 cartridges were initially made. ''Quadrun'' is the first Atari 2600 game with [[Speech synthesis|voice synthesis]] ("Quadrun! Quadrun! Quadrun!"); the only other is ''Open Sesame'', made by [[Bit Corporation|Bit Corp]].<ref>{{cite web  | title=Quadrun | website = Atari Protos| url=http://www.atariprotos.com/2600/software/quadrun/quadrun.htm}}</ref><ref>{{cite web | title=Quadrun - Silver Label | url=http://www.atariage.com/software_page.html?SoftwareLabelID=381}}</ref><ref>{{cite web | first=Earl | last=Green | title=Quadrun | url=http://gamervision.com/games/quadrun-for-atari-video-computer-system}}</ref>
+
+==Gameplay==
+[[image:Quadrun.gif|thumb|left|Gameplay screenshot]]
+
+The object of ''Quadrun'' is to destroy enemies ("captors") and rescue friendly characters ("runts") who are attempting to escape from the arena's central building. The player character is invincible, but has only a limited supply of their weapon, an energy ball that destroys the enemies on contact.
+
+The game is a series of waves of enemy characters. In a given wave, enemies appear one at a time in the vertical section of the arena. Enemies come in different shapes and attack with different patterns, although all the enemies in a single wave will be of the same type. Some captors proceed straight through the arena, while others split in half, zig-zag or reverse direction. The player must launch the energy ball at the enemy character, then switch to the other side of the arena in order to catch it again. If the player does not catch the ball on the other side, it is lost.
+
+At random times during a wave, a runt will attempt to escape and run through the horizontal section of the arena. The player must move into that section and touch the runt before it collides with the ends of the arena, which are deadly to the touch. If the runt is not rescued, an energy meter at the top of the screen will shrink. It will shrink again if an enemy character is not destroyed during its pass through the arena. If the bar disappears, the game ends. The game also ends if the player loses all energy balls, either through failing to catch them or through a collision with an enemy character.
+
+After the player completes five waves, the player faces a random attack wave where the enemies can be of any type at any time. Prior to the start of the random wave, the energy meter returns to full length and the player receives bonus points for their remaining stock of energy balls. Points are also scored for each enemy destroyed and each runt rescued.
+
+==Development==
+According to programmer Steve Woita, the game was playtested by a group of young girls who kept saying, "It's not like ''[[Ms. Pac-Man]]''." Based on this Atari decided to only produce 10,000 carts, assuming it would be a flop.{{citation needed|date=November 2015}}
+
+==Legacy==
+''Quadrun'' was part of the 2005 ''[[Atari Anthology]]'', a collection of classic games for the then-current [[Xbox (console)|Xbox]] and [[PlayStation 2]] consoles. It was also included on the plug-and-play [[Atari Flashback 2]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-2600-vcs-quadrun_s10412.html ''Quadrun''] at Atari Mania
+*{{AtariAge software|id=381}}
+
+[[Category:1983 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Atari games]]
+[[Category:Shoot 'em ups]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

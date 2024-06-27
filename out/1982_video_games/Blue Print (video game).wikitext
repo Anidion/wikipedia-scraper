@@ -1,0 +1,48 @@
+Blue Print (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Blue_Print_%28video_game%29&oldid=1193599140
+Accessed on: 2024-06-26T16:53:03.974596
+
+
+
+------
+Blue Print (video game)
+{{Infobox video game
+|title=Blue Print
+|image = Blue Print.jpg
+|caption =
+|developer = [[Stamper brothers]] (at Zilec Electronics)
+|publisher = [[Bally Midway]]<br>[[CBS Electronics]]<ref name="Arcade Museum">{{cite web|title=Blue Print|url=http://www.arcade-museum.com/game_detail.php?game_id=7172|work=International Arcade Museum|publisher=International Arcade Museum Library|accessdate=5 December 2012}}</ref><ref name="Blue Print review">{{cite web|title=CBS Electronics Blue Print|url=http://www.8-bitcentral.com/reviews/5200blueprint.html|work=8-Bit Central|accessdate=5 December 2012}}</ref> 
+|released = '''Sept 1982''': Arcade<ref name="Cash Box Magazine">{{cite web|title=Blue Print Advert|url=https://archive.org/details/cashbox44unse_14/page/n45/mode/2up?view=theater|work=Cash Box Newspaper Sept. 18th 1982| date=18 September 1982 |publisher=Cash Box Pub. Co.|accessdate=11 October 2022}}</ref><br>'''1983:''' 2600, 5200, C64
+|designer = Tim Stamper<br>John Lathbury<br>Chris Stamper
+|genre = [[List of maze video games|Maze]]
+|modes = [[Single-player]], [[multiplayer]]
+|platforms = [[Arcade game|Arcade]]. [[Atari 2600]], [[Atari 5200]], [[Commodore 64]]
+}}
+'''''Blue Print''''' is an arcade maze game released in September 1982.<ref name="Cash Box Magazine"/> It was developed by the [[Stamper brothers]] (of Zilec Electronics at the time) and licensed to [[Midway Games|Bally Midway]]. Ports of ''Blue Print'' were published by [[CBS Electronics]] for the  [[Atari 2600]], [[Atari 5200]], and [[Commodore 64]] in 1983.
+
+==Gameplay==
+The player controls J.J., a man whose girlfriend Daisy is being chased by Ollie Ogre. To defeat Ollie, J.J. must find all the parts of a machine he has designed, assemble it, and use it to shoot Ollie. Controls consist of a joystick and a button.<ref name="Blue Print review"/>
+
+The screen is divided into three sections. At the top is a ledge on which Ollie chases the girl, occasionally knocking down flowerpots that may hit J.J. The center portion is a maze of 10 houses. The bottom contains the machine's blueprint, a "start button", and a pit. Eight of the houses contain one machine part each, while the other two contain bombs; the contents of a house are only revealed when J.J. enters it. If a part is found, the player must move it into the proper position on the blueprint. If a bomb is found, the player must carry it to the pit before it explodes. The player will always find a bomb in any previously visited house. Holding the button down allows faster movement, but speed can be used only for a limited time as shown by an on-screen gauge. The gauge is partially refilled when setting a newly found part on the blueprint.<ref name="Arcade Museum"/>
+
+Once the machine is fully assembled, J.J. must step on the start button and then climb aboard the machine. The player must now use the joystick to maneuver left and right as it shoots balls upward. If Ollie is hit, he falls down and the level is complete, with bonus points awarded for each flowerpot remaining on the ledge. A new level then begins, with the houses in a different configuration.<ref name="Blue Print review"/> The first three levels are unique, but the fourth level and beyond use the same level layout.
+
+J.J. must avoid falling flowerpots, bouncing flowers that emerge from the flowerpots, and a creature named Fuzzy Wuzzy who roams the maze (on the C64 version it is known as 'Maze Monster' and appears starting at level 2). A monster named Sneaky Pete (Weird Willie on the C64 version) occasionally climbs out of the pit and wanders across to the start button, stomping on it, which causes the parts of the machine to fall off of the blueprint. J.J. must drag Pete back to the pit and then set the fallen parts in place again.
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{KLOV game|id=7172|name=Blue Print}}
+*[http://www.atarimania.com/game-atari-5200-blue-print_s12957.html ''Blue Print''] for the Atari 5200 at Atari Mania
+
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:CBS Electronics games]]
+[[Category:Commodore 64 games]]
+[[Category:Maze games]]
+[[Category:Midway video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United Kingdom]]

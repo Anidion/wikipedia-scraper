@@ -1,0 +1,109 @@
+F-16 Combat Pilot
+Permalink: //en.wikipedia.org/w/index.php?title=F-16_Combat_Pilot&oldid=1225951145
+Accessed on: 2024-06-26T17:06:20.190149
+
+
+
+------
+F-16 Combat Pilot
+{{Short description|1989 video game}}
+{{Infobox video game
+| title = F-16 Combat Pilot
+| image = F-16 Combat Pilot Cover.jpg
+| caption = European cover art
+| developer = Digital Integration
+| publisher = {{vgrelease|EU|Digital Integration|NA|[[Electronic Arts]]}}
+| designer = David K. Marshall
+| programmer = 
+| artist = 
+| series = 
+| engine = 
+| released = 1989<br>1990 (C64)<br>1991 (CPC, Spectrum)
+| genre = [[Combat flight simulator]]
+| modes = [[Single-player]], [[multiplayer]]
+| platforms = [[Amiga]], [[Atari ST]], [[DOS]], [[Commodore 64]], [[Amstrad CPC]], [[ZX Spectrum]]
+}}
+
+'''''F-16 Combat Pilot''''' is a 1989 F-16 fighter [[flight simulator]] created by British software company Digital Integration Ltd. for [[Amiga]], [[Atari ST]], [[DOS]], [[Commodore 64]], [[Amstrad CPC]] and [[ZX Spectrum]]. It is considered{{by whomst|date=November 2021}} as one of the first [[combat flight simulator]]s to have a dynamic campaign environment. While the graphics, scenery and audio are quite sparse and basic, the instruments and flight dynamics of a [[F-16C Fighting Falcon]] are fully featured and modeled.
+
+==Gameplay==
+===Opposition & player===
+The airborne opposition is made up from MiGs: [[MiG-31|Mikoyan MIG-31 Foxhound]], [[MiG-27|Mikoyan MIG-27 Flogger]] and [[MiG-29|Mikoyan MIG-29 Fulcrum]]. Most of the missions start with the player inside a hangar, from which the player enters an IFF code, initiate engine start up, taxi without over-speeding, getting on the runway and takeoff - which adds to the tension if the base is under attack. On the ground, there are tank battalions (which moved to different locations as war progressed), radar & missiles installations and [[Anti-aircraft warfare|Triple-A]] guns around enemy airfields. It is possible to shoot down friendly aircraft by gunfire, but friendly aircraft can not be designated or tracked by player's radar.
+
+The simulation keeps a flying log of all the player's time on F-16 and "callsign", which also appears in the game when the player contacts the control tower at airfields (for its time, this was a very advanced feature). If the pilot "dies" in combat, this log is erased, and a new "pilot" is created. Any training missions that were previously completed successfully (using the old "pilot") will have to be repeated because the player is now playing as new pilot.
+
+===Weapons===
+The weapons that can be used in the game include: [[AIM-120A|AIM-120A AMRAAM]], [[AIM-9M|AIM-9M Sidewinder]], [[Mk82]] (slicks and snakes), [[Mk83]] slicks, [[Mk84]] slicks, [[AGM-88|AGM-88A HARM]], [[BLU-107|BLU-107 Durandal]], [[AGM-65|AGM-65 Maverick]] (IR guided "D" and laser guided"E"), [[M61A1|M61A1 20mm cannon]], [[LANTIRN|LANTIRN Targeting pod]], ATARS pod, and the external fuel tanks. The [[LANTIRN]] pod is possibly the first to appear in a combat flight simulation. All weapons behave as accurately as possible, missiles can miss if used incorrectly, fired at extreme angles in relation to the enemy fighter or the enemies used countermeasures; the missiles don't make impossible maneuvers to its target as prevalent in other combat simulations of its time.
+
+===Flight dynamics===
+Dave Marshall of Digital Integration used to program real military flight simulators and had built up a huge library of the technical specifications for the F-16C and knew whom to ask for some of the less readily available information, and this clearly shows in the complexity and realism of ''F-16 Combat Pilot''.
+
+The flight dynamics is one of the most accurate for its time. The landing is accurately difficult, the player has to master the AoA (Angle of Attack) and vertical velocity during approach, unlike other combat simulations of its time. For example, ''[[F-15 Strike Eagle II]]'' had extremely unrealistic landings where all the player had to do is simply just aim the plane at the runway at any angle or speed. Being not properly lined up would cause [[autoland]] (used in conjunction with [[Instrument landing system|ILS]]) to disengage if activated, and hard landings beyond certain parameters would damage the landing gear, or even cause a crash. Not following proper speed guidelines while taxiing or going too fast on the runway without lifting off would also damage the aircraft. Unlike other simulations of its time, landing on the nose-wheel would result in a crash due to gear collapse as in real life. A crash is represented with a full screen showing mini explosions, after which the debriefing screen would show up indicating whether or not the player survived. Hard crashes are usually unsurvivable, but the player may walk away from nose-wheel collapses and other minor crashes. The simulation allows the player to perform a wheels-up (belly) landing if the landing gear is damaged and not extendable, but landing has to be precise and smooth with a very low vertical velocity.
+
+The airframe also has [[g-force]] limitations depending on whether the aircraft was fully loaded as the real [[F-16]] has stores configuration categories. When fully loaded, the player can only pull 5.5G's, instead of the 9G's a clean F-16 is capable of. Airspeed & Mach speed would be lower when fully laden as well. The player can even jettison the fuel and weapons to enable the aircraft to pull higher G's, such as in the event of an emergency or in combat or an aborted mission. Spins and ground effect are not simulated, as is with other simulations of its time, although another rare feature, [[turbulence]] is a user selectable option at Briefing & Weather screen. Turbulence in the simulation causes random and slight variations in the aircraft's bank angle and heading, making it a little bit more difficult to land, but it never affects the altitude.
+
+The damage system is extensively modeled on ''F-16 Combat Pilot''. Each system on board the player's aircraft can be damaged in combat, from radar, landing gear, flaps to ASPJ,<ref>[http://www.fas.org/man/dod-101/sys/ac/equip/an-alq-165.htm Aircraft Self Protection Jammer]</ref> oxygen/cabin pressure systems, weapons, communications, navigation system or [[Head-up display|HUD]], etc. If the player successfully returns to base with a damaged aircraft, the aircraft can be repaired and reused before the debrief screen, provided that given airfield has the necessary components and spare parts. This is indicated by color-coded status in radio communications. The aircraft can survive near missile hits or enemy [[Anti-aircraft warfare|AAA]] fire at times, but not a direct hit. When there is an onboard fire, the aircraft will be damaged and explode subsequently (if the player does not [[ejection seat|eject]] immediately). It is not uncommon for players to have many "dead stick" landings with engine failure when returning damaged from combat, out of chaff and flare, and even out of fuel, being chased and fired upon by enemies.
+
+===Weather and environment===
+Players fly in a large battlefield. A typical flight from one end of the battlefield to the other usually takes about forty minutes, depending on the player's flight speed. Faster flight also consumes more fuel due to the use of afterburners, especially at low altitude, so some fuel conservation, careful planning and flying is required to come out alive. This battlefield is dotted with two sides of factories, towns, airports, power stations, radar installations and tank battalions. This map can be viewed in the Mission Room. Once near the enemy border, any flights above 500 feet will cause enemy radars to track the player and MiGs to scramble and vector into the players' position, so this requires flying at low altitude to infiltrate enemy territory for strike missions.
+
+Mountains are represented by same-sized pyramids. There are also rivers, bridges (which the player can fly under), SAM sites and roads which makes navigation easier. Although game manual mentions the bridges as supply choke points and calls attention to the importance of destroying them, bombing these bridges has no effect on the progress of the war. In the [[Amiga]] version of the game, successfully hitting bridges causes the deck of the bridge to disappear while its suspenders and towers remain intact. The simulation has been thoroughly thought out - the surprise is that landing on an enemy airfield means that the player has "defected", and this shows in the debriefing screen. It is also possible to land on roads - which are much narrower and trickier to land on - but this also has the same effect of landing at an enemy airport, and the simulation shows that the player has "defected" to the enemy country.
+
+When flying over towns, one can easily spot the various buildings representing churches, hospitals, and various other buildings. Flying over power stations, one can make out the cooling towers, and so on. It is fairly easy to distinguish visually in between which area you are flying over based on recognizing the landmarks, but such navigation is not really necessary due to the waypoint computer which shows the target waypoint, distance and estimated time to reach it within the cockpit, assuming that this was set in the Mission Room.
+
+It is not possible to fly into a "wall" when flying out of the map. The player can fly out of the map fuel runs out, but upon doing so there will be no more scenery, just flat land to fly in. The simulation also has a weather system (fog and low clouds down to 500 feet AGL) and the combat can even be in the middle of the night.
+
+In night flights, there are no outside visual references except for the green thermal image projected onto the HUD by the LANTIRN pods. There was however, lights on the ground though from towns and military installations, which gives very limited orientation from within the cockpit.
+
+The programmers claimed that ''F-16 Combat Pilot''{{'}}s cockpit views were based on the latest version of the F-16 at that time. The game manual states: "Following the trend in all modern aircraft towards the "glass cockpit", the instrument panel has been modified and updated many times since its first design. This latest version includes the 3 multi-function digital displays introduced as part of the MSIP avionics update programme. This layout was first evaluated in the AFTI F-16 technology demonstrator". As the game was only viewable on 4 angles from within the cockpit, there is no "outside" look of the player's aircraft, increasing the realism. Many players rely on instruments to fly with, especially in low cloud covers or night missions, which add to the realism of the simulation, but can also be boring for those looking for a quick dogfight. There is an option for a "Quickstart" but even that will require reading through the manual. Weather is random and cannot be manipulated except in the training sessions. It can be said this sim is not for the ordinary "arcade" style gamer, as the sheer depth of cockpit and campaign but relatively sparse environment are more suited for the simulator enthusiast.
+
+===Dynamic campaign===
+This was the first flight simulator with a dynamic campaign. After becoming player a Mission Commander (via achieving success on all five other missions without dying or failing the mission) the player can control a squadron of other pilots which could be assigned missions by the player to help win the war, and attack targets such as power stations, factories, radar installations and SAM sites.
+
+The player can jump into the F-16 as well and perform custom mission objectives - this can be anything the player sets on the mission map, such as destroying a target destination or simply flying patrol and shooting down enemies, although it is not possible to communicate with squadron while in-flight. The AI aircraft are up to the task and do a pretty good job, but at the same time, the enemy aircraft AI are also doing a pretty good job attacking the allies.
+
+As the war progresses, missions become simpler or more complex as both sides inflict damage, and strategy (such as targeting factories and radar installations first) is required to win. Weapons and parts may even become unavailable as time goes by.
+
+===Known bugs===
+When the radar is on, the target cue will light up in the HUD (looking out front) where the enemy aircraft is located on the screen for a brief moment, immediately after looking out left, right or rear angles. This gives a clue where the enemy is, and the player can use this advantage to track where the target is effectively regardless of the enemy's position. This appears in the DOS version, but it is not known whether it also happens in any other version.
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Amstrad Action''
+| award1 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 68, May 1991</ref>
+}}
+''F-16 Combat Pilot'', although a good simulator, did not receive much popularity as the DOS version was released a year later than [[Spectrum Holobyte]]'s ''[[Falcon (video game)|Falcon]]'', which was more popular and had much more advanced graphics and audio for its time, and by 1991, the popular ''[[Falcon 3.0]]'' was released. ''F-16 Combat Pilot'' was never released with VGA graphics and soon looked dated.
+
+''[[Computer Gaming World]]'' approved of the game's graphics and performance, even on the original IBM PC with [[Color Graphics Adapter|CGA]] video, and the modem play.<ref name="archibald199003">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=69 | title=Falcon Vs. Falcon / Electronic Arts' "F-16 Combat Pilot" | magazine=Computer Gaming World | date=March 1990 | accessdate=15 November 2013 | author=Archibald, Dale | pages=24 | issue=69}}</ref> ''F-16 Combat Pilot'' was voted "best flight simulator" by the European Computer Leisure Awards 1990.
+
+Digital Integration repackaged and released the game in 1994 under Action Sixteen publishing label after fixing the compatibility issue with [[Amiga 1200]] computers, but the 14-MHz processor of the system ran the game faster than real-time.
+
+==Reviews==
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #57<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-57/page/70/mode/2up | title=Jeux & stratégie 57 | date=April 1989}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+* [https://www.mobygames.com/game/f-16-combat-pilot ''F-16 Combat Pilot''] at [[MobyGames]]
+* {{abime|id=475}}
+;Reviews
+* [https://web.archive.org/web/20090616051532/http://www.ysrnry.co.uk/articles/f16combatpilot.htm Your Sinclair] 92%
+* [http://www.lemon64.com/reviews/view.php?id=145 Lemon 64]  9/10
+* [http://www.atarimagazines.com/startv4n3/forthefunofit.html Atari Magazine]
+* [http://www.amigareviews.leveluphost.com/f16falco.htm Amiga Reviews] {{Webarchive|url=https://web.archive.org/web/20110713202640/http://www.amigareviews.leveluphost.com/f16falco.htm |date=2011-07-13}}
+* [http://www.atarimagazines.com/compute/issue123/P221_1_REVIEWS_F-16_COMBAT_PILOT.php COMPUTE! Magazine]
+* [http://amr.abime.net/amr_search.php?search=f-16+combat+pilot&mag_id=0&action=Find Amiga Magazine Rack Review Collection]
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Combat flight simulators]]
+[[Category:Commodore 64 games]]
+[[Category:Digital Integration games]]
+[[Category:DOS games]]
+[[Category:Electronic Arts games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

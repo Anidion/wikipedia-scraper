@@ -1,0 +1,50 @@
+Escape from the Dungeons of the Gods
+Permalink: //en.wikipedia.org/w/index.php?title=Escape_from_the_Dungeons_of_the_Gods&oldid=1224257711
+Accessed on: 2024-06-26T16:53:21.869312
+
+
+
+------
+Escape from the Dungeons of the Gods
+{{Infobox video game
+|title    = 
+|image    = [[Image:Escape from the Dungeons of the Gods title.png|252px|Title block for ''Escape from the Dungeons of the Gods'' from ''Best of SoftSide''.]]
+|designer = Ray Sato
+|programmer = Ray Sato (TRS-80)<br>Alex Lee (Apple)<br>Rich Bouchard (Atari)<ref name=original/>
+|publisher = [[SoftSide]]
+|engine = 
+|released = August 1982
+|genre = [[Interactive fiction]]
+|modes = [[Single-player]]
+|platforms = [[Apple II series|Apple II]], [[Atari 8-bit]], [[TRS-80]]
+}}
+
+'''''Escape from the Dungeons of the Gods''''' is a single-player [[interactive fiction|text adventure]] written by Ray Sato for the [[TRS-80]].<ref name=original/> The original and versions for the [[Atari 8-bit computers]] and [[Apple II series|Apple II]] were published in the August 1982 issue of ''[[SoftSide]]''.<ref name=original/>  It was subsequently republished in ''The Best of SoftSide'' (1983) and released on accompanying [[floppy disk|5¼-inch floppy disks]].<ref name=bss/>
+
+==References==
+{{reflist|refs=
+<ref name="original">{{cite journal |last1=Sato |first1=Ray |title=Escape from the Dungeon of the |journal=SoftSide |date=August 1982 |volume=5 |issue=9 |url=https://archive.org/details/softside-magazine-45/page/n27}}</ref>
+<ref name="bss">{{cite book
+|editor=Fred Condo
+|title=The Best of SoftSide
+|year=1983
+|publisher=SoftSide Publications, Inc.
+|location=Milford, New Hampshire
+|chapter=Escape from the Dungeons of the Gods
+}}</ref>
+}}
+
+== External links ==
+* {{IFDB|id=7jhe3ab8xm6jc8jb}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:SoftSide games]]
+[[Category:TRS-80 games]]
+[[Category:Video games developed in the United States]]
+
+
+{{8bitcomputer-game-stub}}

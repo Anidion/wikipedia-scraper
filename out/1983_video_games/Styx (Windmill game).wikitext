@@ -1,0 +1,45 @@
+Styx (Windmill game)
+Permalink: //en.wikipedia.org/w/index.php?title=Styx_%28Windmill_game%29&oldid=1220863901
+Accessed on: 2024-06-26T16:55:58.850986
+
+
+
+------
+Styx (Windmill game)
+{{Short description|1983 video game}}
+{{Infobox video game
+|title = Styx
+|image = Styx cover.jpg
+|caption =
+|developer = [[Windmill Software]]
+|publisher = [[Windmill Software]]
+|released = 1983
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = {{hlist | [[IBM XT]] | [[IBM PC]]}}
+}}
+'''''Styx''''' is a [[video game]] released by [[Windmill Software]] in 1983 as a [[Copy protection|copy-protected]], bootable 5.25" floppy disk for the [[IBM PC/XT]]. It is a clone of the [[1981 in video gaming|1981]] arcade game ''[[Qix]]''. In September 2004 the [[source code]] of the game became available "for historical interest" (with other Windmill Software games such as ''[[Digger (video game)|Digger]]'').<ref>[https://www.digger.org/styxsrc_orig.zip styxsrc_orig.zip]</ref><ref>[https://www.digger.org/whatsnew.html whatsnew.html] on Digger.org</ref> Also, there is a [[Reverse Engineering|reverse engineered]] variant from Andrew Jenner, called ''Styx Remastered''.<ref>[https://www.digger.org/download.html download] on digger.org</ref>[[Image:Styx_game_screenshot.gif|thumb|upright=2|Screenshot]]
+
+==Development==
+{{Original research|section|date=June 2020}}
+
+''Styx'' uses the same game engine as two other Windmill Software games, ''The Exterminator'' and ''Moonbugs'', and these were some of the few programs to make use of the [[Color Graphics Adapter#160×100 16 color mode|16-color quasi-graphics CGA mode]] (normally the CGA could only use 4 or 2 color graphics). However, it was possible to play on a [[monochrome monitor]] as long as the graphics card also supported color graphics (e.g. a Genoa Color Graphics Card).
+
+''Styx'', ''The Exterminator'', and ''Moonbugs'' set CGA 320x200x4 mode on the title screen by directly manipulating the video registers; this causes them to display a screen full of garbage on later video cards. The in-game graphics also will only occupy half the screen due to technical differences between CGA and EGA/VGA, however the games can be [[Patch (software)|patched]] to work correctly on VGA.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*{{moby game|id=/styx|name=''Styx''}}
+
+{{Windmill Software Games}}
+
+[[Category:1983 video games]]
+[[Category:Video games developed in Canada]]
+[[Category:Puzzle video games]]
+[[Category:Action games]]
+[[Category:Qix clones]]
+[[Category:Windmill Software games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Single-player video games]]

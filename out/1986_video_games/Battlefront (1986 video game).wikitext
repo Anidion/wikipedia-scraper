@@ -1,0 +1,66 @@
+Battlefront (1986 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Battlefront_%281986_video_game%29&oldid=1194516571
+Accessed on: 2024-06-26T16:59:41.939207
+
+
+
+------
+Battlefront (1986 video game)
+{{short description|1987 video game}}
+{{Infobox video game
+|title = Battlefront
+|image = Battlefront_1986_cover_art.jpg
+|caption = Apple II box cover
+|developer = [[Strategic Studies Group]] 
+|publisher = [[Strategic Studies Group]] 
+|designer =  [[Ian Trout]], [[Roger Keating]]
+|released = 1986
+|genre = [[Wargame (video games)|Wargame]], [[Turn-based strategy]]
+|modes = [[Single-player video game|Single-player]], [[multiplayer]]
+|platforms = [[Apple II series|Apple II]], [[Commodore 64]]
+}}
+
+'''''Battlefront ''''' is a [[Wargame (video games)|computer wargame]] developed and published by [[Strategic Studies Group]] for the [[Apple II series|Apple II]] and [[Commodore 64]] in 1986. The game is a turn-based strategy set in [[World War II]].
+
+== Gameplay ==
+''Battlefront'' is a [[corps]]-level simulation wargame. Upon starting the game, player chooses from one of four scenarios that depict battles of World War II. The scenarios are based on [[Battle of Crete]], [[Operation Winter Storm]], [[Battle of Saipan]], and [[Siege of Bastogne]].<ref name=CVG>{{cite journal|title=Battlefront review|journal=Computer and Video Games|date=January 1987|issue=63|pages=118–120|url=https://archive.org/stream/computer-video-games-magazine-063/CVG063_Jan_1987#page/n117/mode/2up|accessdate=22 January 2018}}</ref>
+
+== Development ==
+The game was designed, programmed and finished in 14 weeks. [[Roger Keating]] created a dedicated disc operating system for the game that allowed rapid access to the data stored on the disc with subsequent reloading of the game screen. Additionally, Keating wrote a novel pathfinding routine that helped to minimize memory usage.<ref name="Chatteur">
+{{cite conference 
+| url = https://www.academia.edu/7719113
+| title = Computer Graphics Through the Screen of Strategic Studies Group 
+| last1 = Chatteur
+| first1 = Fiona
+| date = 19 June 2014
+| publisher = Play it Again
+| conference = Born Digital and Cultural Heritage
+| pages = 
+| location = Melbourne 
+| id = 
+}}</ref>
+
+== Reception ==
+Jay Selover reviewed the game for ''[[Computer Gaming World]]'', and stated that "''Battlefront'' is a very good game which does an excellent job of putting the player into an authentic combat role: that of a Corps commander."<ref name="CGW32">{{cite magazine |last=Selover |first=Jay |title=Battlefront: Corps Level Command in World War II |magazine=Computer Gaming World |date=November 1986 |volume=1 |issue=32 |pages=28–29, 50–51}}</ref>
+
+A reviewer of ''[[Computer and Video Games]]'' praised the game's historical accuracy and the possibility to create custom scenarios, but criticised the graphics. He stated that ''Battlefront'' "is a very good attempt, but it is not the perfect game that it might have been".<ref name=CVG/>
+
+The game was nominated by ''[[Computer Gaming World]]'' for Strategy Game of the Year in 1987, but lost to ''[[Gettysburg: The Turning Point]]'' by [[Chuck Kroegel]].<ref name=CGW87>{{cite magazine|title=CGW meets Dragon Con 87|magazine=[[Computer Gaming World]]|date=December 1987|issue=42|page=62}}</ref> Bruce Geryk in his article "Innovation Wars", published in 2006 in ''Computer Gaming World'' described ''Battlefront'' as legendary and said that "its landmark gameplay revolutionized the genre".<ref name=CGW06>{{cite magazine| last1 = Geryk | first1 = Bruce |title=Innovation Wars|magazine=[[Computer Gaming World]]|date=September 2006|issue=266|page=97}}</ref>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #47<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-47/page/66/mode/2up | title=Jeux & stratégie 47 | date=October 1987 }}</ref>
+
+==References==
+{{reflist}}
+
+{{Strategic Studies Group}}
+
+[[Category:1986 video games]]
+[[Category:Strategic Studies Group games]]
+[[Category:Commodore 64 games]]
+[[Category:Apple II games]]
+[[Category:Computer wargames]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in Australia]]
+[[Category:World War II video games]]
+[[Category:Multiplayer and single-player video games]]

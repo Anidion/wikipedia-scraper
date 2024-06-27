@@ -1,0 +1,51 @@
+Astro Invader
+Permalink: //en.wikipedia.org/w/index.php?title=Astro_Invader&oldid=1110011224
+Accessed on: 2024-06-26T16:51:09.811307
+
+
+
+------
+Astro Invader
+{{Short description|Arcade shooter by Konami}}
+{{More citations needed|date=August 2022}}
+{{Infobox video game
+|title = Astro Invader
+|image = Astroinvader-arcadegame.jpg
+|caption = Promotional flyer
+|developer = [[Konami]]
+|publisher = {{vgrelease|JP|[[Konami|Lejiac]]|NA|[[Stern (game company)|Stern Electronics]]}}
+|release = {{vgrelease|JP|1979}}{{Citation needed|date=April 2019}}<br>{{vgrelease|NA|June 1980}}
+|genre = [[Fixed shooter]]
+|modes = 1-2 players alternating
+|arcade system =
+|platforms = [[Arcade game|Arcade]], [[Arcadia 2001]]
+}}
+
+'''''Astro Invader''''', originally released in Japan as {{nihongo|'''''Kamikaze'''''|カミカゼ|Kamikaze}} lit. '' Divine Wind'', is an arcade [[fixed shooter]] developed by [[Konami]], and the first [[arcade game]] published by [[Stern (game company)|Stern Electronics]]. ''Astro Invader'' was ported to the Emerson [[Arcadia 2001]] in 1982.<ref>{{cite web | url=https://www.gamesdatabase.org/game/arcade/astro-invader | title=Astro Invader - Arcade - Games Database }}</ref>
+
+==Gameplay==
+[[Image:Astro Invader.png|thumb|left|Screenshot]]
+
+The player controls a small spaceship at the bottom of the screen. Like most ''[[Space Invaders]]''-type games of the period, the ship can move left and right (but not up or down), and can fire one [[bullet]] at a time. The ship may not fire again until its previous shot has detonated.
+
+The playfield above the player's ship contains 13 columns. Three of them, on the far left, far right, and in the center, are wide columns. The other 10, five on either side of the center, are much narrower. At the beginning of each wave, a [[flying saucer]] enters at the top of the screen and begins dropping small [[extraterrestrial life|aliens]] into the ten narrow columns. The columns are open on the bottom, allowing the player to shoot the aliens as they descend. Each column holds a maximum of four aliens. If a column is full, the next alien dropped into it will release the bottommost alien, which falls straight down. Aliens can also be dropped into either of the two wide columns on the far left and right, in which case they fall straight down immediately. If the alien reaches the bottom of the screen without being shot by the player, it explodes - the explosion extends slightly to each side of the alien. Collision with a falling alien or its explosion destroys the player's ship. The small aliens are worth 20 points when moving (falling into or out of a column), and 10 points at rest. Aliens remain in their columns until shot or released; any aliens at rest in a column, either at the end of a wave or when the player's ship is destroyed, are still there when play resumes.
+
+At regular intervals, a small flying saucer descends from one of the three wide columns. Unlike the small aliens, the saucer absolutely must be killed - if it is allowed to reach the bottom of the screen, the player's ship is immediately destroyed. Saucers are worth anywhere from 100 to 400 points.
+
+A counter on the large saucer tells the player how many aliens it has left to drop for that wave. When the counter reaches 000 the wave is over. Everything freezes at this point, including the player's ship and bullets and all descending saucers and aliens, and the large saucer flies away. A new large saucer carrying more aliens then flies in to take its place and begin the next wave. When the new saucer reaches the top-center, the game unfreezes and everything resumes exactly as it was before play was interrupted, with the new saucer continuing the job of dropping aliens.
+
+==Legacy==
+An ''Astro Invader'' machine appears in the music video for the 1982 [[Tom Petty and the Heartbreakers]] song "[[You Got Lucky]]". The band finds a working one buried under some junk in an old barn, and eventually Petty knocks the machine over.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=6948}}
+
+[[Category:Arcade video games]]
+[[Category:Fixed shooters]]
+[[Category:Stern video games]]
+[[Category:1979 video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games developed in Japan]]

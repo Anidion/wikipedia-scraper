@@ -1,0 +1,75 @@
+10th Frame
+Permalink: //en.wikipedia.org/w/index.php?title=10th_Frame&oldid=1224503100
+Accessed on: 2024-06-26T16:59:31.556341
+
+
+
+------
+10th Frame
+{{refimprove|date=October 2017}}
+
+{{Infobox video game
+|title = 10th Frame
+| image = 10th frame Cover.jpg
+| image_size = 256
+|caption =
+|developer = [[Access Software]]
+|publisher = [[U.S. Gold]]
+|released = {{Video game release|NA|1986}}
+|genre = [[Sports game|Sports]]
+|modes = [[Single-player]]
+|platforms = [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[DOS]], [[MSX]], [[ZX Spectrum]]
+}}
+
+'''''10th Frame''''' is a [[ten-pin bowling]] [[simulation game]] published by [[Access Software]] in 1986. Up to eight players can take part in open bowling or a tournament. It was released for the [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[IBM PC compatible]]s, [[MSX]], and [[ZX Spectrum]].
+ 
+==Gameplay==
+[[File:10th_Frame_Atari_ST_screenshot.png|thumb|left|Gameplay screenshot (Atari ST)]]
+The lane is viewed from behind the bowler, with the pins towards the top of the screen in a 3D perspective.<ref name="10thFrame-Zzap">{{Cite web|title = Test: Tenth Frame|url = http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=022&page=130&thumbstart=0&magazine=zzap|website = ZZap! 64|access-date = February 21, 2016|date = February 1987|page = 130|series = Issue 22}}</ref>
+
+The scorecard for the current player is displayed above the lane. The player can move left or right on the lane before starting the run-up by holding fire. A target cursor can be moved by pushing up and then moving it left or right (pressing down returned control to moving the onscreen player's position).<ref name="10thFrame-Zzap"/>
+
+Once the fire button is held, a power meter similar to ''[[Leader Board]]''{{'}}s is used. The [[speed]] of the shot is determined by how long the button is held down. A small zone at the top determines if the player makes an error, exaggerating any spin.<ref name="10thFrame-Zzap"/>
+
+When the meter starts to descend on the right, it is stopped in the hook zone to determine how much hook/spin is applied—from straight at the top of the zone to full hook at the bottom. Play is completed after the usual ten frames and any bonus balls.<ref name="10thFrame-Zzap"/>
+
+Players can print out a scorecard at the end of a match.
+
+There is a choice of three [[difficulty levels]]: Kids (in which the ball always goes straight), Amateur, and Professional.
+
+==Reception==
+{{Video game reviews
+<!-- Reviewers -->
+ | rev1 = ''[[C&VG]]''
+ | rev1Score = 9/10<ref name="10thFrame-C&VG">{{Cite web|title = C+VG Reviews: 10th Frame|url = https://archive.org/stream/computer-video-games-magazine-065/CVG065_Mar_1987#page/n13/mode/2up|website = Computer and Video Games Magazine|access-date = February 21, 2016|series = Issue 65|pages = 14–15|date = March 1987}}</ref>
+ | rev2 = ''[[Zzap!64]]''
+ | rev2Score = 85%<ref name="10thFrame-Zzap"/>
+ | rev3 = ''[[Your Sinclair]]''
+ | rev3Score = 7/10<ref name="10thFrame-YSinclair">{{Cite web|title = 10th Frame|url = http://www.ysrnry.co.uk/articles/10thframe.htm|website = Your Sinclair|access-date = February 21, 2016|last = Robson|first = Rick|date = April 1987|series = Issue 16|archive-url = https://web.archive.org/web/20160301131730/http://www.ysrnry.co.uk/articles/10thframe.htm|archive-date = 2016-03-01|url-status = dead}}</ref>
+}}
+
+''[[Computer and Video Games]]'' reviewed the Commodore 64 version in issue 65 and called it a Game of the Month with a 9/10 score. ''[[Zzap!64]]'' awarded the game 85% in issue 22, calling it "another slick and extremely well programmed Access sport simulation".<ref name="10thFrame-Zzap"/> ''[[Your Sinclair]]'' gave the ZX Spectrum conversion 7 out of 10, stating that "''10th Frame'' requires a lot of skill and is a pretty good simulation".<ref name="10thFrame-YSinclair"/>
+
+Rick Teverbaugh reviewed the game for ''[[Computer Gaming World]]'', and stated that "Tenth Frame is on my top 10 sports games list of all-time and I think it will be on yours also."<ref name="CGW33">{{cite magazine |last=Teverbaugh |first=Rick |title=Sports Scoreboard |magazine=Computer Gaming World |date=December 1986 |volume=1 |issue=33 |pages=52}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MobyGames|/15116/10th-frame/}}
+* {{atarimania|id=10945}}
+* {{WoS game|id=0000011}}
+* {{Lemon64 game|id=8}}
+
+{{Access Software}}
+
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Bowling video games]]
+[[Category:Commodore 64 games]]
+[[Category:MSX games]]
+[[Category:U.S. Gold games]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United States]]
+[[Category:Access Software games]]

@@ -1,0 +1,111 @@
+Final Legacy
+Permalink: //en.wikipedia.org/w/index.php?title=Final_Legacy&oldid=1224582575
+Accessed on: 2024-06-26T16:58:27.996790
+
+
+
+------
+Final Legacy
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = Final Legacy
+|image = Final Legacy cover.jpg
+|caption = 
+|developer = [[Atari, Inc.]]
+|publisher = [[Atari Corporation]]
+|designer = 
+|programmer = '''Atari 8-bit'''<br>Chris Horseman<br>Dan Oliver<ref name="mania">{{cite web |title=Final Legacy |url=http://www.atarimania.com/game-atari-400-800-xl-xe-final-legacy_s1970.html |website=Atari Mania}}</ref>
+|engine =
+|released = '''November 1985:''' Atari 8-bit<br>'''1988:''' Atari ST
+|genre = [[Shoot 'em up]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit computers|Atari 8-bit]], [[Atari ST]]
+}}
+
+'''''Final Legacy''''' is a [[shoot 'em up]] [[video game]] released on cartridge by [[Atari Corporation]] for [[Atari 8-bit computers]] in November 1985. The game takes place in 2051 with the player in control of a highly advanced ship, attempting to fend off an attack by a nuclear-armed doomsday computer. The game was developed by [[Atari, Inc.]], and completed in 1984, but was not released until late 1985 due to the ongoing turmoil within the company. A third party [[Atari ST]] port was published in 1988.
+
+==Plot==
+After a [[nuclear war]] in 2001 turned much of the planet into the "dead zone", the surviving portions of the world are controlled by the Patriarchs in [[Antarctica]]. In 2051 they learn that the Warmonger, a war computer, has activated itself and is planning to attack the remaining undamaged cities. The player commands the newly launched [[battleship]] ''Legacy'' with the mission to destroy the Warmonger's mobile ICBM bases hiding in the dead zone.{{sfn|Persidsky|1985|p=76}}
+
+==Gameplay==
+''Final Legacy'' consists of a series of three mini-games connected together through the main Navigation screen. This is a color map of the world with the dead zone on the left. The position of the Legacy is indicated by a black dot that is moved around the display by the player's joystick or trackball controller. A dotted-outline circle around the Legacy's location indicates the area within which the Legacy can attack targets and the enemy can detect the ship. Also seen on the map are the eight friendly cities, the enemy missile launchers, and a number of enemy ships that roam the oceans attempting to sink the Legacy.{{sfn|Persidsky|1985|p=76}}
+
+The main goal of the game is to attack the enemy missile launchers. This takes place in one of the mini-games, Sea-to-Land. This mode is started by approaching one of the black dots representing the missile sites close enough that it lies within the dotted circle. This brings up a 3D display that shows the four launchers in the squadron moving about on an isometric grid representing the ground. Pressing the fire button fires the E-beam, which will destroy the launcher if it is in the center of the display.{{sfn|Persidsky|1985|p=76}}
+
+Attacking a launcher squadron will also cause the launchers to immediately fire their missiles. These can be intercepted by switching to the Sea-to-Air mode. This shows a view looking upward from the ship, with the warheads falling towards the user. In this mode, the direction of the E-beam can be moved about the screen to track the pattern of movement of the warheads. If the player takes too long, or misses some of them, the action will "zoom out" to give a second, and then third, chance to attack them.{{sfn|Persidsky|1985|p=76}}
+
+The final mode is Torpedo, which occurs when one of the computer ships approaches the Legacy. This shows a view forward over the bow of the Legacy, which can move side-to-side and close the distance with the enemy by moving forward. The enemy fires shells at the Legacy which can be dodged, and the Legacy fires torpedos back. A single hit will sink the enemy, while several hits are required to sink the Legacy.{{sfn|Persidsky|1985|p=76}}
+
+One interesting feature of the game is that the action occurs in realtime no matter what mode the player is in. For instance, if the player starts Sea-to-Land mode, they may find themselves under attack by a computer ship, which will be indicated by the sound of the falling shells and the damage animation when they are hit. Additionally, the ICBMs fly fast enough that the player may have to abandon an attack on the launchers in order to shoot down the warheads before they land.{{sfn|Persidsky|1985|p=76}}
+
+There are six skill levels which speed up the action, the number of enemies and the complexity of their movement, and adds other limitations. For instance, at higher levels the ship has a finite amount of fuel and has to periodically approach friendly cities to refuel. It also adds hidden launcher sites which can only be located by finding and sinking one of the enemy intelligence ships, which are found near the friendly cities.{{sfn|Persidsky|1985|p=78}}
+
+==Development==
+The game was developed under a series of names: ''Sea Protector'', ''Sea Sentinel'', ''Sub Sentinel'', ''Sub-Mariner'', and ''The Legacy''. It was completed during a period of turmoil at Atari, Inc., which led to its purchase in July 1985 by [[Jack Tramiel]].<ref>{{cite web |title =Time Warner Companies Inc, et al. SC 13D/A |publisher=SEC | date=29 March 1994 |url =http://www.secinfo.com/dMESy.bd.htm |access-date = December 6, 2007 }}</ref> During this period, the company saw mass layoffs and practically every ongoing effort either stalled or was cancelled outright. ''Final Legacy'' was caught up in this process, and although it was apparently complete at the time, it was not launched until November 1985.{{sfn|Persidsky|1985|p=76}}
+
+==Ports==
+A port to the [[Atari 5200]], a system which shares the internal architecture of the Atari 8-bit computers, was advertised, but never released. A prototype cartridge was found in 1998.<ref>{{cite web |url=http://www.atariprotos.com/5200/software/finallegacy/finallegacy.htm |title=Final Legacy for the Atari 5200 prototype}}</ref> The 5200 version was later used as the basis for the version found in [[Atari Flashback]] volume 3.<ref>{{cite web |title=Atari Flashback Volume III |website=Atari |url=https://atari.com/products/atari-flashback-classics-vol-3 |quote=Includes some hard to find Atari 5200 titles, including ... Final Legacy}}</ref>
+
+An [[Atari ST]] conversion from Paradox Software was sold by Atari in UK in 1988. It was later described as a "dodgy, janky port".<ref>{{cite web 
+ |first=Pete |last=Davidson
+ |title=Atari Flashback Classics: Final Legacy
+ |date=9 May 2020
+ |url=https://moegamer.net/2020/05/09/atari-a-to-z-flashback-final-legacy/ 
+}}</ref>
+
+==Reception==
+A capsule review in ''[[Antic (magazine)|Antic]]'' described the game in some depth and praised its graphics and sound effects. It was critical of the gameplay, stating it "lacks strategy and tends to become a little repetitious." It nevertheless concluded that it was "quite entertaining" and "a worthy successor to the great tradition of Atari action games."{{sfn|Persidsky|1985|p=78}}
+
+''[[ANALOG Computing]]'' rated it highly, praising the graphics which they stated was "much better than most Atari cartridges" and the ease of control and switching between the different game modes. It concluded "The Final Legacy is one of the most original games I've seen in a long time... I recommend it highly."{{sfn|Panak|1985|p=49}}
+
+''TeleMatch'' a German magazine, rated it highly, concluding "Anyone who has seen and played Final Legacy once will not be able to escape the fascination of this program for a long time. An excellent achievement!"{{sfn|Huff|1984|p=59}}
+
+Retrospective reviews are less kind. Video Game Critic gave it a D rating. The description stated "''Final Legacy'' tries to be a sophisticated war epic with strategic implications, but under the surface it's just a series of mediocre shooting mini-games."{{sfn|VGC|2007}}
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite magazine
+ |first=Andre |last=Persidsky
+ |title=Final Legacy
+ |magazine=Antic
+ |date=November 1985
+ |pages=76, 78
+ |url=https://archive.org/details/1985-11-anticmagazine
+}}
+* {{cite magazine
+ |first=Steve |last=Panak
+ |title=The Final Legacy
+ |magazine=Analog
+ |date=December 1985
+ |pages=47–48
+ |url=https://archive.org/details/analog-computing-magazine-37/page/n47/mode/2up
+}}
+* {{cite magazine
+ |first=Harmut |last=Huff
+ |title=Final Legacy
+ |magazine=TeleMatch Computer
+ |date=August 1984
+ |page=59
+ |url=https://www.kultpower.de/archiv/heft_telematch_1984-07_seite59
+}}
+* {{cite web
+ |website=Video Game Critic
+ |url=https://videogamecritic.com/xefg.htm?e=95834#rev634
+ |title=Final Legacy
+ |date=23 September 2007
+ |ref=CITEREFVGC2007
+}}
+
+==External links==
+* [http://www.atarimania.com/game-atari-400-800-xl-xe-final-legacy_s1970.html ''Final Legacy''] for the Atari 8-bit family at Atari Mania
+* {{atarimania|id=9320}}
+* [https://www.youtube.com/watch?v=yXZSAC2y4Co Playthrough video]
+
+[[Category:1985 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Cancelled Atari 5200 games]]
+[[Category:Single-player video games]]
+[[Category:Shoot 'em ups]]

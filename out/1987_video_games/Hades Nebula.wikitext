@@ -1,0 +1,62 @@
+Hades Nebula
+Permalink: //en.wikipedia.org/w/index.php?title=Hades_Nebula&oldid=1230634133
+Accessed on: 2024-06-26T17:02:17.968715
+
+
+
+------
+Hades Nebula
+{{Infobox video game
+|title = Hades Nebula
+|image = Hades Nebula coverart.jpeg
+|caption = C64 box cover
+|developer = Paranoid Software
+|publisher = Nexus Productions
+|designer = 
+|series = 
+|engine = 
+|released = 30 April 1987 (C64), 21 May 1987 (Atari ST/Spectrum)<ref name=screenseen>{{cite magazine|magazine=[[Computer and Video Games]]|title=Screen Seen|page=117|issue=68|date=June 1987|url=https://archive.org/details/Computer_Video_Games_Issue_068_1987-06_EMAP_Publishing_GB/page/n115/mode/2up/}}</ref>
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari ST]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+'''''Hades Nebula''''' is a 1987 [[scrolling shooter|vertically scrolling shooter]] for the [[Commodore 64]], [[ZX Spectrum]] and [[Atari ST]] by Paranoid Software and published by Nexus Productions. The player controls an upgradable fighter that must battle its way through thousands of enemy ships before it confronts the final boss, Emperor Hades. There are fifteen levels.
+
+==Gameplay==
+[[Image:Hades Nebula gameplay.png|thumb|left|Gameplay screenshot]]
+Enemies are face-like ships or bug-like ships that materialise at certain points in the game. Upon appearance they immediately seek out the player's ship and collide with it unless evasive action is taken. Also, every one or two levels or so, 'mother ship' bosses are encountered that take a considerable amount of bullet dodging and incisive shots to destroy.
+
+There are two sound options while playing the game: either sound effects or the musical soundtrack by [[Ben Daglish]]. The latter is the default mode, and changes depending on whether you are fighting a [[Boss (video games)|boss]] or charging through a level.
+
+==Development==
+''Hades Nebula'' was developed by Paranoid Software: Darren Melbourne, Mark Greenshields and Ned Langman.<ref name=retro>{{cite magazine|title=From The Archives: Nexus Productions|first=Richard|last=Hewison|journal=[[Retro Gamer]]|date=10 June 2021|issue=222|url=https://www.pressreader.com/uk/retro-gamer/20210610/281578063589940|access-date=5 October 2023|publisher=[[Future plc]]}}</ref> Ben Daglish provided the music for the [[Commodore 64]] version, while John Brozovski made the sound effects for the [[Atari ST]].<ref name=screenseen />
+
+==Reception==
+{{VG Reviews
+|CRASH = 51%<ref>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Reviews|page=32|issue=43|date=August 1987|url=https://archive.org/details/Crash_No._43_1987-08_Newsfield_GB/page/n31/mode/2up/}}</ref>
+|CVG =  35/40 (C64/Spectrum)<ref>{{cite magazine|magazine=[[Computer and Video Games]]|title=Reviews|last=Metcalfe|first=Tim|page=36|issue=70|date=August 1987|url=https://archive.org/details/Computer_Video_Games_Issue_070_1987-08_EMAP_Publishing_GB/page/n35/mode/2up/}}</ref><br/> 28/40 (ST)<ref>{{cite magazine|magazine=[[Computer and Video Games]]|title=Reviews|pages=84–85|issue=72|date=October 1987|url=https://archive.org/details/ComputerAndVideoGamesIssue072Oct87/page/n83/mode/2up/}}</ref>
+|SUser = {{rating|7|10}}<ref>{{cite magazine|magazine=[[Sinclair User]]|title=Arcade Review|last=Howard|first=Tamara|page=78|issue=65|date=August 1987|url=https://archive.org/details/sinclair-user-magazine-065/page/n77/mode/2up}}</ref>
+|YSinclair = 7/10<ref name=YSinclair>{{citation | periodical=[[Your Sinclair]] | title=Your Sinclar review: Hades Nebula | year=1987}}</ref>
+|Z64 = 55%<ref name = "zzap">{{citation | date = Aug 1987 | periodical = [[Zzap!64]] | title = Zzap! Test: Hades Nebula | pages = 96}}</ref>
+| rev1 = ''[[ST Action]]''
+| rev1Score = 78%<ref>{{cite magazine|magazine=[[ST Action]]|title=Hades Nebula, Nexus|page=18|volume=1|issue=1|date=May 1988|url=https://archive.org/details/ST_Action_Volume_1_Issue_1_1988-05_Gollner_Publishing_GB/page/n19/mode/2up/}}</ref>
+}}
+
+A review of the Commodore 64 version in ''[[Zzap!64]]'' criticized the game's immense difficulty, citing the unwieldy ship as the primary factor. Although the graphics and presentation were considered well done, the game was considered unplayable, receiving a rating of 55% from the magazine.<ref name = "zzap"/> A review of the ZX Spectrum version in ''[[Your Sinclair]]'' described it as "another standard shoot-em-up", giving it a 7 out of 10 rating.<ref name=YSinclair/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Internet Archive game|/Hades_Nebula_1987_Paranoid_Software}}
+* {{WoS game|id=0002204|name=Hades Nebula}}
+* {{lemon64 game|name=Hades Nebula|id=1134}}
+* {{atarimania|id=25201}}
+
+[[Category:1987 video games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:ZX Spectrum games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Video games scored by Ben Daglish]]
+[[Category:Video games developed in the United Kingdom]]

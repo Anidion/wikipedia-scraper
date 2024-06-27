@@ -1,0 +1,106 @@
+Mixed-Up Mother Goose
+Permalink: //en.wikipedia.org/w/index.php?title=Mixed-Up_Mother_Goose&oldid=1228467235
+Accessed on: 2024-06-26T17:02:41.320563
+
+
+
+------
+Mixed-Up Mother Goose
+{{Infobox video game
+|title = Mixed-Up Mother Goose
+|image = SierraOnLine-Box-MixedUpMotherGoose-Original.jpg
+|caption = 1987 version cover art
+|developer = [[Sierra Entertainment|Sierra On-Line]]<br>[[Coktel Vision]]
+|publisher = Sierra On-Line
+|designer = [[Roberta Williams]]
+|programmer = David Slayback
+|artist = Gerald Moore
+|composer = Amenda Lombardo
+|engine = [[Adventure Game Interpreter|AGI]] (1987)<br>SCI (1990/91/95)
+|released = November 1987<ref>{{cite web|url=https://archive.org/details/Sierra_Newsletter_The_Volume_1_Number_2_1987_Sierra_On-Line_US/page/n7/mode/2up?q=%22mother+goose%22 |title=Sierra Newsletter, The - Volume 1 Number 2 (1987) |date=1987 |access-date=2024-02-10}}</ref>
+|genre = [[Educational game|Educational]], [[Adventure game|Adventure]]
+|modes = [[Single-player]]
+|platforms = [[MS-DOS]], [[Amiga]], [[Apple II series|Apple II]], [[Apple IIGS]], [[Atari ST]], [[Microsoft Windows|Windows]], [[Macintosh]], [[FM Towns]]
+}}
+
+'''''Roberta Williams' Mixed-Up Mother Goose''''' is a [[computer game]] first released by [[Sierra Entertainment|Sierra On-Line]] in 1987. It is, in essence, an [[edutainment]] title, directed specifically at young gamers, as well as an [[adventure game]]. It was the first multimedia game released on [[CD-ROM]] in 1991.<ref>{{cite magazine |title=NG Alphas: King's Quest: Mask of Eternity |magazine=[[Next Generation (magazine)|Next Generation]] |issue=30|publisher=[[Imagine Media]] |date=June 1997|page=72 |url=https://archive.org/stream/NextGeneration30Jun1997/Next_Generation_30_Jun_1997#page/n73}}</ref> A second game in the series, ''[[Mixed-Up Fairy Tales]]'', was released in 1991.
+
+The storyline of the game is very simple, as is common in games for children. One night, while preparing for bed, a child (which is the player's avatar) is sent into the dreamlike world of [[Mother Goose]], who desperately needs help. All the [[nursery rhyme]]s in the land have gotten mixed up, with none of the inhabitants possessing the items necessary for their rhyme to exist. And so, the child will find themselves helping [[Humpty Dumpty]] find a ladder to scramble onto a wall, bringing the little lamb back to Mary and seeking out a pail for [[Jack and Jill]], among others.
+
+==Gameplay==
+[[File:Mixed-Up_Mother_Goose_Atari_ST_screenshot.jpg|thumb|left|A little lamb goes back to Mary (Atari ST screenshot)]]
+Gameplay is rather simple. The [[Adventure Game Interpreter|AGI]] system, similar to the one used extensively in previous Sierra games (e.g. the Quest series: ''[[King's Quest]]'', ''[[Police Quest]]'', etc.), is utilized in the 1987 version. The player controls his or her characters using - almost exclusively - the four direction keys on the keyboard. When an item of interest comes into view, it is usually shown very clearly, so that younger gamers would not find it difficult to hunt it down. Walking close to an item is synonymous with picking it up and, as there is only one inventory window in the top-right corner of the screen, the character can only hold one object at a time. Inanimate objects can be found in houses or on the ground throughout the land, whereas living objects can only be found outdoors. In the case of living objects, the person or animal will follow behind the player so that they can be led back to the person or place they need to be to complete the rhyme. Human objects, such as [[Peter Peter Pumpkin Eater]]'s wife, will also explain where they want to go in words and a "thought bubble". Some characters (namely [[Old King Cole]]) require several items brought to them in order to put their rhyme back together. All but one of the items are placed randomly throughout the land. There are 18 nursery rhymes to choose from, 20 items to recover, and many screens in which one can find the lost items. A point is awarded for each fixed rhyme. If a player finds it hard to match the objects with the rhymes, he or she can approach the characters who are in need of a specific part of their story and this item will be displayed above them in the form of a "thought bubble". At the beginning of the game, the player can select the character that will be used during the game, with 8 characters from which to choose. The game can be saved, or more precisely, bookmarked (a feature which became prominent - and somewhat infamous - in some later Sierra games, including ''[[Phantasmagoria (game)|Phantasmagoria]]'' and ''[[King's Quest VII]]''), at any time.
+
+==Other versions==
+''Mixed-Up Mother Goose'' was remade by Sierra three times:
+* In 1990 (Mixed-Up Mother Goose Enhanced), it was remade using the [[Sierra Entertainment#1980s|SCI0]] system, which meant improved graphics.
+* In 1991 (Mixed-Up Mother Goose VGA/Multimedia CD), the game was remade, this time with more significant enhancements and changes. The first was the clearly visible change in graphics, resulting from Sierra's transition to [[Video Graphics Array|VGA]] games. Second, the rhymes were given voices, each of them being sung separately, with the appropriate actions accompanying the music. Third, the interface was updated and became easier and faster to navigate. Finally, the player was given a map of the land, if they should ever feel lost in the nursery rhyme world. This edition came out as a CD version with full digital speech, and as a floppy version in which only the rhymes were digitally recorded. The CD version used Sierra's SCI1 (early). The floppy version used Sierra's SCI1.1. The versions are not absolutely identical. For example, the CD version directly starts with the Mixed-Up Mother Goose main-menu. The floppy version starts with the animated Sierra logo. Main-menu button placements are also different. Some minor changes to gameplay were also made, namely reducing the requirement of bringing Old King Cole three items to just one so there were only eighteen missing items to find instead of twenty. A new, sentient statue character was also added to Banbury Cross who informs the player to bring him a Hobby Horse, whereas in earlier versions of the game it was the only rhyme that did not have a character to give the player advice.
+* In 1995, the final remake was released, entitled ''Mixed-Up Mother Goose Deluxe''. It featured further improved [[Super video graphics array|SVGA]] graphics and a bonus audio CD, as well as the introduction of different melodies and styles of music.
+
+The "Classic's Reillustrated" version was also planned and announced for the [[Atari ST]] line of computers<ref>{{Cite web |title=Staff (Spring 1991). "Atari ST Owners Set To Enjoy Two Brand New Products Plus Reillustrated Versions Of Two Classics In Spring '91", Sierra News Magazine. p. 13,22 |url=http://sierra.gracenroark.net/interaction/010_Sierra_News_Magazine_Volume_4_Number_1_Spring_1991.pdf?tag= |url-status=usurped |archive-url=https://web.archive.org/web/20120216090016/http://sierra.gracenroark.net/interaction/010_Sierra_News_Magazine_Volume_4_Number_1_Spring_1991.pdf?tag= |archive-date=February 16, 2012}}</ref>{{Permanent dead link|date=September 2023|fix-attempted=y}} but was later cancelled. No word on whether a beta version exists or how far development went although this version was unveiled via Sierra Online's magazine: Sierra News Magazine (Spring 1991) and owners were instructed to send disk #1 or the front cover of the manual along with a check or money order for $15 to upgrade their copy to the "Classic's Reillustrated" version.
+
+Two versions of ''Mixed-Up Mother Goose'' are included in ''The Roberta Williams' Anthology'', a collection of games designed by [[Roberta Williams]]. Those are the original 1987 version and the 1991 multimedia CD remake.
+
+==Reception==
+''[[Compute!]]'' stated "I can't think of a better way to teach kids the classical nursery rhymes".<ref name="trivette198804">{{cite news | url=https://archive.org/stream/1988-04-compute-magazine/Compute_Issue_095_1988_Apr#page/n59/mode/2up | title=Mother Goose | work=Compute! | date=April 1988 | access-date=10 November 2013 | author=Trivette, Donald B. | pages=59}}</ref> It won the 1991 [[Software Publishers Association]] Excellence in Software Award for Best Early Education Program.<ref name="cgw199106">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=83 | title=Celebrating Software | magazine=Computer Gaming World | date=June 1991 | access-date=17 November 2013 | pages=64}}</ref>
+
+According to Sierra On-Line, ''Mixed-Up Mother Goose'' sold over 500,000 copies by 1995.<ref name=sales>{{cite journal | author=Sierra On-Line | author-link=Sierra On-Line | journal=[[PC Gamer US]] | title=Advertisement: ''Mixed-Up Mother Goose Deluxe'' |date=December 1995 | volume=2 | issue=12 | pages=62}}</ref>
+
+==List of nursery rhymes and items==
+Below is a list of nursery rhymes used in the game, along with corresponding items in parentheses:
+
+* [[There Was a Crooked Man]] (Crooked Sixpence)
+* [[Hey Diddle Diddle]] (Fiddle)
+* [[Hickory Dickory Dock]] (Mouse)
+* [[Humpty Dumpty]] (Ladder)
+* [[Jack and Jill (nursery rhyme)|Jack and Jill]] (Pail)
+* [[Jack Be Nimble]] (Candlestick)
+* [[Jack Sprat]] (Ham)
+* [[Little Bo Peep]] (Two Sheep)
+* [[Little Jack Horner]] (Pie)
+* [[Little Miss Muffet]] (Miss Muffet; she must be led to the tuffet)
+* [[Little Tommy Tucker]] (Bread Knife)
+* [[Mary Had a Little Lamb]] (Lamb)
+* [[Mary, Mary, Quite Contrary]] (Watering Can)
+* [[Old King Cole]] (Pipe, Bowl, Fiddlers Three in the original game; shortened to just a Pipe in later versions)
+* [[Peter Peter Pumpkin Eater]] (Peter's Wife)
+* [[Ride a cock horse to Banbury Cross]] (Hobby Horse)
+* [[There was an Old Woman Who Lived in a Shoe]] (Bowl of Broth)
+* [[Where, O Where Has My Little Dog Gone?]] (Little Dog)
+
+==See also==
+* [[Nursery rhyme]]
+* [[Mother Goose]]
+* [[List of graphic adventure games]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{moby game|id=/roberta-williams-mixed-up-mother-goose_}}
+* {{moby game|id=/mixed-up-mother-goose-deluxe|name=''Mixed-Up Mother Goose Deluxe''}}
+* [[iarchive:msdos Mixed-Up Mother Goose 1987|''Mixed-Up Mother Goose'']] (1987) at the [[Internet Archive]]
+* [[iarchive:msdos Mixed-Up Mother Goose 1991|''Mixed-Up Mother Goose'']] (1991) at the [[Internet Archive]]
+
+{{Sierra Adventure Games|Discovery}}
+
+[[Category:1987 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:Children's educational video games]]
+[[Category:FM Towns games]]
+[[Category:DOS games]]
+[[Category:Classic Mac OS games]]
+[[Category:North America-exclusive video games]]
+[[Category:ScummVM-supported games]]
+[[Category:Coktel Vision games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Sierra Discovery games]]
+[[Category:Video games about children]]
+[[Category:Video games with gender-selectable protagonists]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Video games designed by Roberta Williams]]

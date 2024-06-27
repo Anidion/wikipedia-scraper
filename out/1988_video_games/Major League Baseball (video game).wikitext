@@ -1,0 +1,74 @@
+Major League Baseball (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Major_League_Baseball_%28video_game%29&oldid=1209475859
+Accessed on: 2024-06-26T17:04:38.031762
+
+
+
+------
+Major League Baseball (video game)
+{{short description|Sports video game released in 1988}}
+{{Use mdy dates|date=October 2011}}
+{{Infobox video game
+| title = Major League Baseball
+| image = MajorLeagueBaseballLJNCover.jpg
+| caption = Cover art
+| developer = [[Atlus]]
+| publisher = [[LJN]]<ref name="Allgame">{{cite web|last = Baker|first = Christopher Michael|title = Major League Baseball- Overview|publisher = [[Allgame]]|url = http://www.allgame.com/game.php?id=1249|access-date = 2019-12-12|archive-url = https://web.archive.org/web/20141114141248/http://www.allgame.com/game.php?id=1249|archive-date = November 14, 2014|url-status = dead}}</ref>
+| composer = Tsukasa Masuko
+| released = {{vgrelease|NA|April 1988<ref name="Allgame"/>}}
+| genre = [[Sports game|Sports]] <small>(with [[3D computer graphics|3D graphics]])</small><ref name="Allgame"/>
+| modes = [[Single-player video game|Single-player]] <br> [[multiplayer video game|Multiplayer]] <small>(up to 2 players)</small>
+| platforms = [[Nintendo Entertainment System]]
+}}
+
+'''''Major League Baseball''''' is a [[sports game|sports]] video game released in 1988 for the [[Nintendo Entertainment System]]. It is notable for being one of the first video games [[licensed]] by [[Major League Baseball]], although it was not endorsed by the [[Major League Baseball Players Association]]. Without the backing of the Players Association, the game could not name the actual players, although it was able to use their numbers, thus accurately portraying the contemporary teams and their rosters. In doing so, it became the first baseball game for the Nintendo Entertainment System to carry official Major League Baseball licensing and lineups.
+
+''Major League Baseball'' was developed by [[Atlus]] and published by [[LJN]]. It featured many facets of realistic gameplay and a focus on managerial details, which stressed the importance of choosing a well-balanced team. Despite its graphical limitations, it was considered a three-dimensional game at the time and was featured in the first issue of ''[[Nintendo Power]]'' as compared the system's other baseball games of the era.
+
+==Development==
+[[File:MLBPlayerSelectionScreen.png|200px|thumb|left|Lineup selection screen.]] 
+In 1988 [[Atlus]] signed on to develop an "official" Major League Baseball game for the Nintendo Entertainment System, which would be a first for that particular console.<ref name="Allgame"/> American company [[LJN]] agreed to be the publisher<ref name="Allgame"/> and David Rolfe was brought on board as the game's programmer. Rolfe had previously worked with [[Activision]] and [[Intellivision]].<ref name="Rolfe">{{Cite web|title = Interview – David Rolfe|publisher = Good Deal Games|year = 2003|url = http://www.gooddealgames.com/interviews/int_rolfe.html|access-date = September 11, 2011|archive-url = https://web.archive.org/web/20110927211244/http://www.gooddealgames.com/interviews/int_rolfe.html|archive-date = September 27, 2011|url-status = live}}</ref>
+
+==Gameplay==
+Officially licensed by Major League Baseball, the game features all twenty-six teams that existed in 1987. Additionally, the lineups and the player numbers are accurate to the team rosters that year. Since the game did not have the endorsement of the [[Major League Baseball Players Association]] at the time, the team members are only listed by number, not name. In addition to their numbers the players are represented by their [[baseball statistics|statistics]], abilities, throwing arm, and even placement in the [[batting order (baseball)|batting order]]. 1988's ''Major League Baseball'' was therefore the first NES game to be officially endorsed by Major League Baseball and to feature accurate contemporary lineups, albeit without the actual player names attached to their numbers.<ref name="Allgame"/> [[File:MLBBunt.png|200px|thumb|right|A [[Toronto Blue Jays]] player prepares to bunt.]]
+
+Managerial decisions are a focus and game players are allowed to select their own lineups, although the game lacks [[Sabermetrics]] statistics due to the limitations of the era. Instead, the "manager" must make their decisions based on data such as player's average and [[home run]] totals.<ref name="Power">{{cite magazine|magazine=[[Nintendo Power]]|title = Baseball Round Up|author=Nintendo Power Staff|issue = 1|date=July–August 1988|pages = 44|publisher=[[Nintendo]]}}</ref> They also have the ability to change and decide who will be a [[pinch-hitter]] and who will be a substitute [[pitcher]].<ref name="Allgame"/> One is even allowed to pick out a [[designated hitter]]. The game prohibits one from putting out more team members in a certain part of the [[baseball field|field]] than would normally be allowed, which makes deciding which player will be used where a part of the experience.
+
+There are three modes that can be played with teams from either the [[American League]] or the [[National League (baseball)|National League]]: regular season games, [[All-star game]]s or the [[World Series]] ([[interleague]]). The World Series rounds, however, are only one match each, which is not accurate to the real World Series. Due to the licensing, the teams even appear complete in their official uniforms and colours and also have all the options that a real baseball player would have, including [[bunt (baseball)|bunting]], [[pitch out|pitching out]], [[base stealing]] and throwing errors.
+
+===Gameplay limitations===
+In ''Major League Baseball'', the pitcher is unable to move around the [[pitcher's mound]] and many are also able to perform the feat of {{convert|100|mi/h|km/h|-1|abbr=on}} pitches. The ball's physics have been called into question, with the ball stopping on a dime after three or less bounces.<ref name="HTWANSG">{{cite book|last = Rovin|first = Jeff|title = How to Win at Nintendo Sports Games|publisher=St Martins Mass Market Paper|date = September 1990|pages = 192|isbn = 0-312-92371-6}}</ref> The game's [[camera system]] does not function properly and, when a ball is hit, the outfield camera follows the ball looking upwards, making it impossible for the game player to see where their fielders are. The ball can also be thrown and get stuck in the well between the stands and the field on an overthrow of a baseman and cause [[Inside-the-park home run|inside the park home run]]s, which would not happen within a real game (in that case a [[ground rule double]] and/or error would be scored instead). Another bug allows players to go into the stands past the wall with the ball if they enter at certain points in foul territory. Each baseman is also controlled individually, allowing for user error in certain situations where a running baseman will be called out if the baseman ahead of them remains at their last base if the player fails to advance them.
+
+There are also gameplay issues when the player takes their turn to bat. The [[Artificial intelligence|AI]] is not developed and, when the player hits a pitch, it nearly always takes the longest possible route to the ball, making [[run (baseball)|runs]] easier to score. It also lacks the capability to throw out a runner who is returning to a base (instead of advancing) or perform a [[double play]] after catching a fly ball. Furthermore, the batter can only move vertically, not horizontally, in the [[batter's box]].
+
+==Technology==
+
+===Graphics===
+[[File:MLBGrandSlam.png|200px|thumb|right|A [[Grand slam (baseball)|grand slam]] does not display any alternate screen from a [[home run]].]]
+The graphics themselves were considered to be [[3D computer graphics|three-dimensional]] given the constraints of the technology at the time.<ref name="Allgame"/> Each player's batting stance is exactly the same. The game view is always top down; when batting or pitching, it is centered above the [[catcher]], behind the batter and with an overhead look of the [[pitcher]]. In the outfield, there is an [[aerial view]] of a portion of the field, with the team members represented by tiny sprites and an inset with red dots representing where the players are on base. Although the official colors are intact, the actual symbols on their uniforms are absent. The crowd is represented by a series of colored dots, while the dugouts are represented by plain white parallelograms.
+
+===Music and sound effects===
+There are a limited number of effects and, aside from brief ballpark [[jingle]]s, there is no real [[background music]] present during the game. For example, the [[charge (fanfare)|charge fanfare]] is played at random points and the introductory screen begins with a different baseball tune while the player is loading up and selecting his team, along with a home run fanfare. Generic sound effects include the bat cracking upon contact with the ball, the sound of the ball flying through the air during a pitch, bouncing and throwing effects, and a stream of crowd noises.
+
+==Reception==
+''Major League Baseball'' was featured in the first issue of ''[[Nintendo Power]]'' and compared to ''[[R.B.I. Baseball]]'' and ''[[Bases Loaded (video game)|Bases Loaded]]'', although the magazine did not pass any judgment on which game was superior.<ref name="Power"/> [[Allgame]] rated it three stars out of five.<ref name="Allgame"/> The Los Angeles Times noted the game was a leading seller.<ref>{{cite web|url=https://www.newspapers.com/image/404326982/|title=Memo:Video Games|date=June 13, 1988|work=Los Angeles Times}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://vimm.net/manual/manual.php?system=NES&title=MajorLeagueBaseball&destDPI=95 Instruction Manual at Vimm's Lair]
+
+{{Atlus}}
+{{LJN video games}}
+
+[[Category:1988 video games]]
+[[Category:Atlus games]]
+[[Category:LJN games]]
+[[Category:Major League Baseball video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo Entertainment System-only games]]
+[[Category:North America-exclusive video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games scored by Tsukasa Masuko]]

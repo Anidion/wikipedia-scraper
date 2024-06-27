@@ -1,0 +1,93 @@
+Quazatron
+Permalink: //en.wikipedia.org/w/index.php?title=Quazatron&oldid=1220282045
+Accessed on: 2024-06-26T17:00:46.290307
+
+
+
+------
+Quazatron
+{{Infobox video game 
+|title = Quazatron
+|image = Quazatron cassette cover.jpg
+|caption = Cassette cover
+|developer = [[Graftgold]]
+|publisher = [[Hewson Consultants]]
+|designer = [[Steve Turner (game programmer)|Steve Turner]]
+|released = {{vgrelease|EU|1986<ref>[http://www.gamefaqs.com/sinclair/947473-quazatron/data ''Quazatron''] at [[GameFAQs]]</ref>}}
+|genre = [[Action game|Action]]
+|modes = [[Single-player]]
+|platforms = [[ZX Spectrum]]
+}}
+
+'''''Quazatron''''' is an [[action game]] developed by [[Graftgold]], and released [[1986 in video gaming|in 1986]] by [[Hewson Consultants]]. It was designed by [[Steve Turner (game programmer)|Steve Turner]] for the [[ZX Spectrum]].<ref>{{cite web|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0003972|title=Quazatron|publisher=World of Spectrum}}</ref>
+
+==Plot==
+In ''Quazatron'', the player-controlled droid (KLP-2 "Klepto", from the [[Classical Greek]] κλεπτω, ''steal'') attempts to destroy all the other robots in the underground citadel of Quazatron and subsequent locations on the planet Quartech. The droid has been sent to deactivate the hostile alien droids there which can be done by shooting them, pushing them off their programmed routes to destruction, ramming them, or taking control of them via the sub-game.<ref>{{cite web |title=The Spectrum Games Database: Quazatron |url=https://worldofspectrum.org/pub/sinclair/games-info/q/Quazatron.txt |access-date=2022-11-13}}</ref>
+
+==Gameplay==
+[[Image:Quazatron.png|thumb|left|Klepto in ''Quazatron''; R8 Repair Drone and B7 Battle Drone patrol nearby.]]
+Klepto is maneuvered across individual levels of Quazatron, which can be navigated between via a system of lifts. Levels may include floors at different heights, ramps, information points, recharge points and patrolling robots. It is Klepto's aim to destroy all the other robots, whereupon the lighting on that level is deactivated. This can be done by damaging them with a ranged weapon, by ramming into them and/or causing them to fall from a height, or by a successful grapple attempt.
+
+Each robot has a two-character identifier which provides information about its parts and role.<ref name="Chart">{{cite web|url=ftp://ftp.worldofspectrum.org/pub/sinclair/games-extras/Quazatron_DroidChart.png|title=Quazatron Droid Chart|author=Steve Turner}}</ref> 'X' denotes a menial robot, 'U' for utility, 'R' for repair, 'B' for battle, 'L' for logic, 'S' for security and 'C' for command. The number is a ranking system, with lower numbers denoting better parts. '9' is a 'device', '8' or '7' for a drone, '6' or '5' for a robot, '4' or '3' for a droid, '2' or '1' for a cyborg. This ranking also determines the robot's security rating from Epsilon to Alpha. Security rating determines the level of access from information points. In addition are several special identifiers: 'OO Medic Droid', 'A1 Automaton', 'ST Programmer' and 'AB Andrewoid' (the last two being plays on [[Steve Turner (game programmer)|Steve Turner]] and [[Andrew Braybrook]]'s names).
+
+[[Image:Quazatrongrapple.png|thumb|right|The grapple system in ''Quazatron'']]
+To grapple another robot, Klepto must make contact with it with the grapple activated. This initiates a [[sub-game]] in which both parties must light sections at the centre of a circuit board using a limit number of power supplies. Should Klepto win, the player may attempt to salvage parts from the destroyed enemy, with a more dominating victory providing less damaged equipment.
+[[Image:Quazatronparts.png|thumb|right|Salvaging robot parts in ''Quazatron'']]
+
+Parts include:<ref name="Chart"/>
+* Power (ranging from the initial Chemifax Mk1 to the Cybonic Mk2), which provides power to all components, but more powerful units weigh more.
+* Drive (ranging from Linear Mk1 to Ultragrav), which consumes power but determines a robots speed. Overall speed is also reduced by the weight of all the parts.
+* Chassis (ranging from Duralite to Coralloy Mk2) which determines a robots ability to take damage, but may consume power and has weight.
+* Weapon (ranging from a Pulse Laser to a Disruptor) which consumes power and has weight.
+* Devices have extra weight and may consume power.
+** Detector displays active levels on the map screen.
+** Overdrive provides extra drive, whilst Powerboost provides extra power.
+** Laser Shields and Disruptor Shields provide extra defence against certain weapons.
+** Ram Thruster causes extra damage when ramming.
+
+If Klepto is sufficiently damaged, it will lose all acquired parts and be left with its default loadout. The player must then seek immediate repairs or risk losing the game completely. Klepto's damage level is denoted by the expression on his face, rather than an energy bar. These facial expressions, including eye blinks and looks, were inspired by Andrew Braybrook's animation techniques for ''[[Gribbly's Day Out]]''.<ref name="Graftgold"/>
+
+When the first location, Quazatron, has been completely cleared, Klepto proceeds to the next citadel, Beebatron (a reference to a rival microcomputer, the [[BBC Model B]] or "Beeb"). Subsequent citadels, Commodo and Amstrados, are also named after microcomputers of the era.<ref>{{Cite book|url=https://books.google.com/books?id=E6saEAAAQBAJ&q=Quazatron+beebatron&pg=PT122|title = The A-Z of Sinclair ZX Spectrum Games: Volume 4|isbn = 9781789824506|last1 = Hawken|first1 = Kieren|date = 16 November 2020}}</ref>
+
+==History==
+''Quazatron'' was a Spectrum version of ''[[Paradroid]]'', which was written by Graftgold partner Andrew Braybrook in 1985. Although a direct conversion was considered, it was felt that the Spectrum could not handle screen-scrolling as smoothly as the Commodore 64. However, Steve Turner had been working on an isometric landscape engine for the Spectrum called ''Ziggurat'' and decided to use this with the ''Paradroid'' game mechanics, control system and patrol paths.<ref name="Graftgold">{{cite web|url=http://www.graftgold.com/ |title=Games |last=Turner |first=Steve |publisher=Graftgold |url-status=dead |archiveurl=https://web.archive.org/web/20061215010300/http://www.graftgold.com/ |archivedate=December 15, 2006}}</ref>
+
+This new isometric perspective (drawing visual comparisons with ''[[Marble Madness]]''<ref name="SU">{{cite journal|url=http://www.sincuser.f9.co.uk/050/quaztrn.htm|title=''Quazatron'' review|journal=Sinclair User|issue= 50|date=May 1986|author=Chris Bourne}}</ref>) also provided an additional gameplay aspect – opposing droids could be pushed off edges in order to damage them.
+
+===Reception===
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Your Sinclair''
+| award3 = Megagame 
+}}
+''[[Your Sinclair]]'' reviewed the game in issue 6, awarding 9 out of 10,<ref>{{cite journal|url=http://www.ysrnry.co.uk/articles/quazatron.htm|title=Quazatron review|journal=Your Sinclair|issue=6|date=June 1986|author=Phil South}}</ref> with reviewer Phil South highlighting the original scenario and combination of strategy and action. ''[[CRASH (magazine)|CRASH]]'' was similarly impressed, awarding 94% in issue 29<ref>{{cite journal|url=http://www.crashonline.org.uk/29/quazatron.htm|title=Quazatron review|journal=CRASH|issue=29|date=June 1986}}</ref> and highlighting the graphics, sound effects, playability and addictiveness. ''[[Sinclair User]]'' awarded the game a 'Sinclair User Classic' award in their May 1986 issue.<ref name="SU"/> In their issue 51 retrospective, CRASH concluded that ''Quazatron'' was a successful fusion of arcade action and strategy, superior to the original ''Paradroid''.<ref>{{cite journal|url=http://www.crashonline.org.uk/51/runagain.htm|title=Looking for an Old Angle|journal=CRASH|issue=51|date=April 1988|author=Will Brooker}}</ref>
+
+One common criticism was with the game's "slow and jerky" screen scrolling, despite Hewson claiming that problem would be fixed by the game's release.<ref name="SU"/>
+
+The ZX Spectrum version was voted number 19 in the ''[[Your Sinclair]] Readers' Top 100 Games of All Time''.<ref>{{cite journal|title=Readers' Top 100 Games of All Time|journal=Your Sinclair|date=September 1993}}</ref>
+
+==Legacy==
+''Quazatron'' was followed by a 1988 sequel, ''Magnetron''.<ref>{{cite web|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0002986|title=Magnetron|publisher=World of Spectrum}}</ref>
+
+The same game concept can be seen in ''[[Ranarama (video game)|Ranarama]]'' (1987), a game from the same author that appeared between ''Quazatron'' and ''Magnetron''.
+
+''Quazatron'' has also provided inspiration for several PC remakes.<ref>{{cite web|url=http://retrospec.sgn.net/game-overview.php?link=quaz|title=Quazatron remakes|publisher=Retrospec}}</ref>
+
+==External links==
+* {{moby game|id=/quazatron|name=''Quazatron''}}
+
+==References==
+{{reflist}}
+
+[[Category:1986 video games]]
+[[Category:Action games]]
+[[Category:Europe-exclusive video games]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]
+[[Category:Graftgold games]]
+[[Category:Hewson Consultants games]]

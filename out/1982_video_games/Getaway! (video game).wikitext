@@ -1,0 +1,77 @@
+Getaway! (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Getaway%21_%28video_game%29&oldid=1224491044
+Accessed on: 2024-06-26T16:53:27.891775
+
+
+
+------
+Getaway! (video game)
+{{Short description|1982 video game}}
+{{Infobox video game
+| title = Getaway!
+| image = Getaway! cover.jpg
+| caption = Manual with a sticker added after winning the Atari Star award.
+| released = 1982
+| designer = Mark Reid<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+| publisher = [[Atari Program Exchange]]
+| platforms = [[Atari 8-bit]]
+| genre = [[Maze video game|Maze]]
+}}
+
+'''''Getaway!''''' is a crime-themed, multidirectional-scrolling maze game for [[Atari 8-bit computers]]. It was designed by Mark Reid and published by the [[Atari Program Exchange]] (APX) in 1982.<ref name="giantlist"/> In ''Getaway!'', the player drives around a large city stealing cash, valuable items, and the contents of armored trucks, then must return the loot to their hideout. Three different police vehicles pursue, getting more aggressive as more crimes are committed.
+
+The game won the 1983 $25,000 [[Atari Star Award]] for best APX submission,<ref name="reid"/><ref name="mace"/> but promotion of the game was affected by the [[video game crash of 1983]]. The Atari Program Exchange also sold {{nowrap|2 × 3}} foot posters of the ''Getaway!'' city map.
+
+==Gameplay==
+[[Image:Getaway!_Atari_8-bit_screenshot.png|thumb|left|The player's green car, between some money ({{key press|$}}) and a pursuing police vehicle]]
+
+''Getaway!'' takes place on multidirectional-scrolling map of a town, 35 screens in size, containing bridges, factories, neighborhoods, and an airport.<ref name=inscore/> The player leaves the hideout and drives around the city using up gasoline in the process. Pausing at a gas station refills the tank. Also in the maze are dollar signs (which give a little money when collected), armored vans (which give a lot of money and immediately alert the police), and three loot items. Completing a level requires collecting all three loot items, then the armored van, and then returning to the hideout.<ref name=manual/> A level must be completed within one day/night cycle.
+
+The more money being carried—displayed as "CASH" below the scrolling maze—the more aggressive the three different police vehicles are. If the player is caught, any cash is lost as well as one of the player's three cars. Cash is locked-in by dropping it off at the hideout, where it becomes part of the permanent ''stash'' (shown at the top of the screen) and causes the police to lose interest.<ref name=manual/> This can be done at any time. As the game progresses, police begin setting up roadblocks and stop signs. Hitting a roadblock (shown as an "X" in the road) puts a hole in the gas tank, causing it to drain quickly until stopping at a gas station. Running into a stop sign (a slowly blinking octagon) causes all of the cash being carried to be lost.
+
+The value of the dollar signs goes up with each level, in addition to there being new loot items to collect. Each level has an associated rating, starting with "Hoodlum", then "Lowlife", with the seventh level being "The Boss".<ref name=manual/> The speed of the player's vehicle increases at level 7.
+
+==Development==
+Mark Reid, a chemical engineer,<ref name="mace"/> had two games published by APX prior to ''Getaway!'': an implementation of [[Klondike Solitaire]], simply titled ''Solitaire'', and the vertically scrolling skiing game ''Downhill''.<ref>{{cite web|url=http://www.atarimania.com/list_games_atari-400-800-xl-xe-reid-mark_team_1100_8_G.html|website=Atari Mania|title=Games by Mark Reid}}</ref>
+
+''Getaway!'' was inspired the scrolling map of ''[[Eastern Front (1941)]]''.<ref name=everything/> He wrote an [[Atari BASIC]] program to let him draw the city.<ref name="reid"/> ''Getaway!'' originally contained music from police-themed TV shows, such as ''[[Dragnet (franchise)|Dragnet]]'', but it was removed before submitting the game to APX because Reid did not have permission to use it.<ref name="reid"/>
+
+==Release==
+In addition to the game, the Atari Program Exchange sold 2 × 3 foot posters of the ''Getaway!'' city map illustrated by Jim M'Guinness. A section of the poster was used for the cover of the Fall 1983 APX catalog.<ref>{{cite web|url=https://archive.org/details/Atari_Program_Exchange_catalog_Fall_1983 |website=archive.org |title=APX Product Catalog |date=Fall 1983}}</ref> Most APX games were sold exclusively via mail order, but ''Getaway'' was included in catalogs from retailers such as [[Sears]].<ref name=everything/>
+
+According to Reid, Atari had "big plans" for the game, then the [[video game crash of 1983]] occurred. When the Atari Program Exchange folded, many games from APX were rereleased by [[Antic Software]], but Reid declined because of the exclusive contract he had signed with Atari, Inc.<ref name=everything/>
+
+==Reception==
+''Getaway!'' won first place in the entertainment category of the quarterly APX awards.<ref name=everything/> It beat three other nominees to win the $25,000 Atari Star award in 1983, following ''[[My First Alphabet]]'' (1981) and ''[[Typo Attack]]'' (1982). It was the final such award given before the Atari Program Exchange shut down.
+
+In a 1983 review for ''[[Compute!|COMPUTE!]]'' magazine, [[Steven Levy]] wrote that he was impressed by the detail of the graphics in the game. He called the game a variation on the maze concept, but said that in ''Getaway!'' there is more variety and detail.<ref name="levy"/> Kyle Peacock of ''[[ANALOG Computing]]'' pointed out the work that must have gone into constructing the city.<ref>{{cite journal |last1=Peacock |first1=Kyle |title=Review: Getaway |journal=ANALOG Computing |date=November 1983 |issue=14 |pages=30–31 |url=https://archive.org/details/analog-computing-magazine-14/page/n31/mode/2up}}</ref> He mentioned the armored car as his favorite feature and noted that as the sun sets, driving becomes more difficult.
+
+[[John J. Anderson]], writing for ''[[Creative Computing]]'', was enamored with the multidirectional scrolling and concluded, "''Getaway'' is lots of fun".<ref>{{cite journal |last1=Anderson |first1=John J. |title=A Gaggle of Games for Atari |journal=Creative Computing |date=September 1983 |page=110 |url=https://archive.org/details/CreativeComputingbetterScan198309/page/n111/mode/2up}}</ref>
+
+==Legacy==
+In January 2017, Reid made available a collection of programming documents from when he was working on the game, as well as correspondence with APX and [[Antic Software]].<ref name="archive">{{cite web|title=Mark Reid - Getaway! archives|url=https://archive.org/details/MarkReidGetawayArchives|website=archive.org|date=6 January 2017}}</ref>
+
+==See also==
+* ''[[Armored Car (video game)|Armored Car]]''
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite book|title=Getaway! Manual|publisher=Atari Program Exchange|url=http://www.atarimania.com/8bit/manuals/APX_Getaway!_v4.pdf|last1=Reid|first1=Mark|date=1982}}</ref>
+<ref name="mace">{{cite journal|last1=Mace|first1=Scott|title=Electronic Antics: Is your game a winner?|journal=InfoWorld|date=February 20, 1984|url=https://books.google.com/books?id=hS4EAAAAMBAJ&pg=PA66}}</ref>
+<ref name="levy">{{cite journal|last1=Levy|first1=Steven|title=Getaway! for the Atari|journal=Compute!|date=September 1983|issue=40|page=180|url=http://www.atarimagazines.com/compute/issue40/review_getaway.php}}</ref>
+<ref name="inscore">{{cite journal |last1=Inscore |first1=Jim |title=The Great Escape Game from APX |journal=The Atari Connection |date=June 1983 |volume=3 |issue=2 |pages=8–9 |url=https://archive.org/details/Atari_Connection_Volume_3_Number_2_1983-06_Atari_US/page/n9}}</ref>
+<ref name="reid">{{citation|title=Reminiscing: Getaway!|url=http://www.qlam.com/atari/s_getaway.html|date=June 1996}}</ref>
+<ref name="everything">{{cite web |title=A Conversation with Mark Reid, Author of Getaway!
+|url=https://www.everythingamiga.com/2021/01/a-conversation-with-mark-reid-author-of-getaway.html |website=Everything Amiga |date=January 7, 2021}}</ref>
+}}
+
+==External links==
+* {{atarimania|id=2193}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Atari Program Exchange software]]
+[[Category:Maze games]]
+[[Category:Video games about crime]]
+[[Category:Video games developed in the United States]]

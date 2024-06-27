@@ -1,0 +1,56 @@
+B.A.T. (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=B.A.T._%28video_game%29&oldid=1197779939
+Accessed on: 2024-06-26T17:05:39.313489
+
+
+
+------
+B.A.T. (video game)
+{{other uses|BAT (disambiguation)}}
+{{Infobox video game
+|title  = B.A.T.
+|image = BAT(videogame cover).jpg
+|developer = Computer's Dream
+|publisher = [[Ubi Soft]]
+|designer = Hervé Lange<br>Olivier Cordoléani
+|engine =
+|released = '''1989:''' Atari ST<br>'''1990:''' Amiga, C64, MS-DOS<br>'''1991:''' Amstrad
+|genre = [[Adventure game|Adventure]], [[role-playing video game|role-playing]]
+|modes = [[Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]]
+}}
+
+'''''B.A.T.''''' ('''''Bureau of Astral Troubleshooters''''') is a futuristic [[point and click]] [[adventure game]] with some [[role-playing video game]] elements. It was first released in 1989 and available on several home computer platforms, mostly in 1990 and 1991. It was developed by Computer's Dream and published by [[Ubisoft]]. A sequel, ''[[B.A.T. II – The Koshan Conspiracy]]'', was released in 1992.
+
+==Atari ST dongle==
+{{Unreferenced section|date=July 2022}}
+The Atari ST version shipped with a [[dongle]] promoted as a 16-channel sound card which was required to play the game. Headphones or external speakers were needed to hear the audio. The card contains a 12-bit DAC, giving the dynamic range for 16 simultaneous 8-bits samples at the expense of the CPU given the lack of DMA. The game audio itself only uses 4 simultaneous samples.
+
+==Reception==
+''[[Computer Gaming World]]'' praised the NPCs and graphics of the Amiga version of ''B.A.T.'', but criticized the combat, puzzles, user interface, and arcade sequences. The magazine advised traditional RPG fans to avoid the game.{{r|cgw199106}}
+
+==Further reading==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' nouvelle formule #2<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-nf-2/page/24/mode/2up | title=Jeux & stratégie NF 2 | date=December 1989 }}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="cgw199106">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=83 | title=Troubleshooting on Selenia | magazine=Computer Gaming World | date=June 1991 | accessdate=17 November 2013 |last1=Bowers |first1=Martin |last2=Wilson |first2=David M. | pages=8, 10 | issue=83}}</ref>}}
+
+==External links==
+* {{moby game|id=/bat}}
+
+[[Category:1989 video games]]
+[[Category:Adventure games]]
+[[Category:Role-playing video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Ubisoft games]]
+[[Category:Cyberpunk video games]]
+[[Category:Video games developed in France]]
+
+{{adventure-videogame-stub}}
+[[Category:Single-player video games]]
+[[Category:Computer's Dream games]]

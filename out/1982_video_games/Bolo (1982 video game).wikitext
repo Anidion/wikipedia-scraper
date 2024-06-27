@@ -1,0 +1,62 @@
+Bolo (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bolo_%281982_video_game%29&oldid=1226588670
+Accessed on: 2024-06-26T16:53:04.202912
+
+
+
+------
+Bolo (1982 video game)
+{{about|the Apple II game|the BBC Micro game (later ported to the Macintosh)|Bolo (1987 video game)}}
+{{Use mdy dates|date=February 2012}}
+{{Infobox video game
+| title = Bolo
+| image = Bolo (1982 video game) (Cover).jpg
+| caption = 
+| developer = [[Synergistic Software]]
+| publisher = [[Synergistic Software]]
+| designer = Jim Lane<ref name=giantlist/>
+| released = [[1982 in video gaming|1982]]
+| genre = [[Multidirectional shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platform = [[Apple II series|Apple II]]
+| alt = 
+}}
+
+'''''Bolo''''' is a video game written by Jim Lane for the [[Apple II series|Apple II]] and published by [[Synergistic Software]] in 1982.<ref name=giantlist/> It was inspired by [[Keith Laumer]]'s 1976 science fiction novel ''[[Bolo: Annals of the Dinochrome Brigade]]'', which featured [[Bolo (tank)|self-aware tanks]].<ref name="PopularComputing" />
+
+== Gameplay ==
+[[File:Bolo 1982 Apple II screenshot 1.png|thumb|Gameplay screenshot]]
+Upon startup ''Bolo'' requests a level number (1–9) and density (1–5);<ref name="Byte"/> the game then generates a random rectangular [[maze]] containing six enemy bases. The higher the density specified, the more walls appear in the maze. The player controls a [[tank]], and must destroy the six enemy bases to advance to the next level. The player can view 1/132 of the maze at one time;<ref name="PopularComputing" /> indicators on the right side of the screen show the player's position within the maze, the direction of the enemy bases and the [[fuel]] remaining.
+
+Enemy tanks constantly emerge from each of the six enemy bases. Different levels feature different types of enemy tanks; some move randomly while others pursue the player. All enemy tanks fire deadly shells. If the player collides with a [[bullet]], an enemy base or tank, or a wall, a turn is lost. A turn is also lost if the player runs out of fuel; destroying an enemy base will replenish the player's fuel supply. The player is provided with four tanks per game, and no opportunity is provided to earn more.
+
+Once all six enemy bases are destroyed, the player is presented with a congratulatory message from the Dinochrome Brigade, and a new maze (with the same level and density) is generated.
+
+The player can turn the tank's gun turret with 1 and 2 keys, a necessity in more advanced levels as enemies give chase as fast as the player's tank can move.
+
+''Bolo'' uses pixel-perfect collision detection.{{Citation needed|date=January 2019}}
+
+== Reception ==
+''[[Softline (magazine)|Softline]]'' in 1983 said that ''Bolo'' "is a hot game. Who ever said that the only good arcade games were in the arcades? ... Animation, graphics, playability—''Bolo'' is in every way a superior 'game' to ''[[Tron (video game)|Tron]]''".<ref name="hunter198303" /> ''[[Electronic Games]]'' called the game's graphics "a bit plain" compared to [[Sir-Tech]]'s ''[[Star Maze]]'', but "''Bolo'''s play-action is, in its way, every bit as entertaining as the earlier game".<ref name="davidson198306">{{cite news | url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n69/mode/2up | title=Bolo | work=Electronic Games | date = June 1983 | accessdate=6 January 2015 | author=Davidson, Steve | pages=72}}</ref> ''Bolo'' tied ''[[Choplifter]]'' for SoftTalk Magazine's #1 game for the year 1982.<ref>[http://www.techipedia.com/2006/revisiting-the-80s-apple-ii-games/#comment-73482 Forum post from James Lane, author of ''Bolo'']</ref>
+
+In 2010, ''[[Time (magazine)|Time]]'' columnist [[Lev Grossman]] ranked ''Bolo'' at number three out of "The 10 Greatest Games for the Apple II".<ref name="Time"/> Grossman praised the game's fast action, smooth scrolling, elegant graphics and [[Artificial intelligence in video games|AI]] enemies.<ref name="Time"/>
+
+== References ==
+{{Reflist|refs=
+<ref name="PopularComputing">{{cite book | title = Popular computing, Volume 2 | publisher = [[McGraw-Hill]] | year = 1983 | page = 42 | url = https://books.google.com/books?id=1epVAAAAMAAJ}}</ref>
+
+<ref name="Time">{{cite magazine | title = The 10 Greatest Games for the Apple II | url = http://techland.time.com/2010/01/06/the-10-greatest-games-for-the-apple-ii/ | first = Lev | last = Grossman | authorlink = Lev Grossman | magazine = [[Time (magazine)|Time]] | date = January 6, 2010 | accessdate = February 8, 2012}}</ref>
+<ref name="Byte">{{cite journal | url=https://archive.org/details/byte-magazine-1983-05/page/n509 | journal = [[Byte (magazine)|Byte]] | title = Software Received | volume = 8 | number = 5 | page = 509 | year = 1983}}</ref>
+
+<ref name="hunter198303">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 | title = Bolo | magazine = Computer Gaming World | date = March 1983 | accessdate = 28 July 2014 | author = Hunter, David | pages = 37}}</ref>
+
+<ref name="giantlist">{{cite web | last1 = Hague | first1 = James | title = The Giant List of Classic Game Programmers | url = https://dadgum.com/giantlist/}}</ref>
+}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Multidirectional shooters]]
+[[Category:Single-player video games]]
+[[Category:Synergistic Software games]]
+[[Category:Video games developed in the United States]]

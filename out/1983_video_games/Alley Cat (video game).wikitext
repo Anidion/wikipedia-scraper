@@ -1,0 +1,86 @@
+Alley Cat (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Alley_Cat_%28video_game%29&oldid=1224500834
+Accessed on: 2024-06-26T16:54:28.008152
+
+
+
+------
+Alley Cat (video game)
+{{Refimprove|date=July 2019}}
+{{Infobox video game
+|title=Alley Cat
+|image=Alley Cat (1983)(Synapse).jpg
+|caption=
+|developer=[[Synapse Software]]
+|publisher=Synapse Software<br />[[IBM]] (IBM PC)
+|designer=[[Bill Williams (game designer)|Bill Williams]]<br />[[John Harris (software developer)|John Harris]] (concept)
+|composer=Bill Williams
+|released='''1983:''' Atari<br />'''1984:''' IBM PC, PCjr
+|genre=[[Action game|Action]]
+|modes=[[Single-player]]
+|platforms=[[Atari 8-bit]], [[IBM PC]], [[IBM PCjr]]
+}}
+
+'''''Alley Cat''''' is a [[video game]] created by [[Bill Williams (game designer)|Bill Williams]] and published by [[Synapse Software]] for [[Atari 8-bit computers]] in 1983. The player controls Freddy the Cat, who enters people's homes through open windows to perform various tasks in order to reach his love, Felicia.<ref>{{cite book |title= The Software Encyclopedia 1996: A Guide for Personal, Professional and Business Users |publisher= R R Bowker Publishing |date=May 1996 |page=34 |isbn= 978-0-8352-3733-8}}</ref> A port for the [[IBM PC]] as a [[self-booting disk]] and the [[IBM PCjr]] were published in 1984 by [[IBM]]. These use four-color [[Color Graphics Adapter|CGA]] graphics.
+
+''Alley Cat'' was based on a one-screen prototype by [[John Harris (software developer)|John Harris]]. Harris had become unhappy with the direction of the game and handed it over to Williams who expanded the concept into a finished game.<ref name="halcyon">{{cite book|last1=Hague|first1=James|title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers|date=2002|url=https://dadgum.com/halcyon/BOOK/HARRIS.HTM}}</ref>
+
+==Gameplay==
+{{Unreferenced|section|date=July 2019}}
+{{listen|header=Alley Cat
+|type=music
+|filename=Alley Cat video game theme song.ogg
+|title="Alley Cat theme song"
+|description=Theme song, as played through the IBM PC speaker
+}}
+
+In the main screen, which is the [[alley]], the player is presented with a tall fence in front of an apartment building with several windows. Each window periodically opens to throw out random objects (a phone, shoe, etc.). Every once in a while a dog may come running along the bottom edge of the screen. If the cat touches this dog, they get into a fight and one life is taken away.
+
+By jumping and climbing trash cans, the fence, and clotheslines, the cat can enter various rooms through the open windows. Each room contains one of several challenges:
+
+*In one room there's a table with a birdcage on it in the middle of the room. Here the objective is to push the birdcage off the table and then catch the [[bird]] which escapes from the broken cage.
+*In another room, there's a fishbowl which the cat can enter and must eat all the fish while dodging [[electric eel]]s and repeatedly coming up for air to avoid drowning.
+*Another room contains a huge chunk of [[cheese]] with a number of holes. In each hole [[mouse|mice]] appear randomly, which the cat must catch.
+*The cat may also find itself in a room with a number of sleeping [[dog]]s, some of which have feeding dishes in front of them. The cat must empty each dish without waking up any of the dogs.
+*In another challenge, the cat must collect three ferns from the top of a bookshelf while avoiding a disproportionately large [[spider]] that may lower itself upon the cat from above.
+
+[[Image:Alleycat.gif|right|thumb|200px|The Atari 8-bit original, with the cat leaving footprints in the room with the fishbowl]]
+[[image:Alleycat.png|thumb|200px|The IBM PC port uses CGA graphics, giving a very different color scheme than the Atari 8-bit version]]
+
+Most rooms have a [[broom]]stick that constantly moves around the screen. The cat can keep the broom busy by making footprints on the ground (at the bottom edge of the screen). When there are no footprints, the broom will constantly chase after the cat.
+
+The broom is harmless in the sense that it never kills the cat, but it pushes the cat around, enough to make it more difficult if it is not kept busy. In particular, the broom might often throw the cat right at the above-mentioned dog or spider, or throw it right back out of the window.
+
+Successful completion of the challenge is awarded with a number of points proportional to the time taken to complete it. The player then returns to the alley where open windows now show a [[female]] cat calling him.
+
+Upon entering such a window, the player encounters a room in which there are several platforms (a bit like shelves) made out of valentine hearts on which other cats walk left and right. The object is to reach the cat at the top while maneuvering around the other cats, which cause the player to fall a level if touched.
+
+Each platform has areas the player can stand on as well as areas where they fall through (the other cats, however, never fall through). These areas are hearts which switch between normal and broken as they are touched by heart-shaped arrows that are constantly shot diagonally across the screen by cherubs on either side of the screen. These arrows also cause the player to fall down a level.
+
+There are also gifts on the bottom row that can be used to eliminate an unfriendly cat for a short period of time. If the player falls from the bottom row, they fail and must return to the alley and complete another task.
+
+If the cat manages to kiss the female cat in the special room, the level advances by one and the player gains an extra life. The game's difficulty level continues to increase until the multiplier reaches level 30, at which point it stays the same. Gameplay at this level can continue indefinitely, but running out of lives means game over.
+
+==Reception==
+Describing ''Alley Cat'' as "a challenging and interesting game with something of a storybook quality to it", ''[[Antic (magazine)|Antic]]'' in 1985 praised its "really superb" graphics. The magazine concluded that it "is simply a lot of fun to play!".<ref name="stanoch198509">{{Cite magazine |last=Stanoch |first=John |date=September 1985 |title=8-Bit Product Reviews: Star SR-10 printer, Trivia Quest, Bank Street Music Writer, Kampfgruppe, Guidebook for Winning Adventurers, Dr. Wacko Presents Atari BASIC, The Home Computer Wars, Computer Title Bout, Battle of Shiloh, Broadsides, Alley Cat |url=https://www.atarimagazines.com/v4n5/productreviews.html |magazine=Antic |access-date=2023-07-08}}</ref>
+
+==Legacy==
+In 2006, the first fan remake ''Alley Cat 2'' made its debut.<ref>[http://asetgames.altervista.org/alleycat2.html Alley Cat 2] - It is an outstanding remake, freely available. It is noteworthy that the author extracted game assets from the original, making them available to enhance future remakes!</ref>
+An unofficial fan remake entitled ''Alley Cat Remeow Edition'' was freely released in 2018.<ref>[http://www.indieretronews.com/2018/03/alley-cat-remeow-edition-remake-with.html Alley Cat Remeow Edition] - A remake with enhanced graphics, playability and new features for the PC!</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{atarimania|id=212}}
+*{{Internet Archive game|alley-cat}}
+
+{{DEFAULTSORT:Alley Cat (video game)}}
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:IBM software]]
+[[Category:Synapse Software games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Video games about cats]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

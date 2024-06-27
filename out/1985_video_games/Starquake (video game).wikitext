@@ -1,0 +1,88 @@
+Starquake (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Starquake_%28video_game%29&oldid=1224427564
+Accessed on: 2024-06-26T16:59:15.136566
+
+
+
+------
+Starquake (video game)
+{{Short description|1984 video game}}
+{{Infobox video game
+|title          =
+|image          =Starquake cover.jpg
+|caption        = 
+|developer      =[[Bubble Bus Software]]
+|publisher      =Bubble Bus Software
+|series         =
+|engine         =
+|released       ='''1985:''' Spectrum, C64, MSX, Amstrad, Atari 8-bit, Einstein<br/>'''1987:''' BBC<br/>'''1988:''' Atari ST, IBM PC<br/>'''2018:''' Amiga
+|genre          =[[Action-adventure game|Action-adventure]]
+|modes          =[[Single-player]]
+|platforms      =[[ZX Spectrum]], [[Amstrad CPC]], [[Atari 8-bit]], [[Atari ST]], [[BBC Micro]], [[Commodore 64]], [[MS-DOS]], [[MSX]], [[Tatung Einstein]], [[Amiga]]
+|programmer=Stephen Crow<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|designer =Stephen Crow
+}}
+
+'''''Starquake''''' is an [[Action-adventure game|action-adventure]] [[platform game|platform]] game written by [[Stephen Crow]] for the [[ZX Spectrum]] and published by [[Bubble Bus Software]] in 1985. It was ported to the [[Commodore 64]], [[MSX]], [[Amstrad CPC]], [[Atari 8-bit computers]], [[Tatung Einstein]] (all 1985), [[BBC Micro]] (1987),<ref>{{cite news | first = Dave | last = Reeder | title = The Arcade: Starquake | date = July 1987 | publisher = [[Argus Specialist Publications]] | work = A & B Computing | pages = 55 | quote = Bubble Bus Software, Model B/Master, Disc/tape £11.95/£9.95}}</ref> and [[IBM compatible]]s and [[Atari ST]] (both 1988).
+
+==Plot==
+The player controls BLOB (Bio-Logically Operated Being), whose mission is to penetrate the unstable core of a [[rogue planet]] which has appeared from a [[black hole]].  If the core is not repaired within the set time limit, it will implode, causing a chain reaction which will destroy the entire universe.  The planet is inhabited by various primitive creatures, all hazardous to the touch, and the remnants of a previous civilisation which provides the items needed to rebuild and stabilise the planet core.
+
+==Gameplay==
+[[File:Game start screen for Bubble Bus' ZX Spectrum game Starquake.png|thumb|right|ZX Spectrum start screen]]
+Within the game, there are multiple ways to get around:
+
+* Running is the default.
+* Hover platforms can be used to fly, but prevent BLOB from picking up items.  BLOB can only mount and dismount hover platforms  at docking stations.
+* BLOB can build his own short-lived platforms to reach high places.
+* BLOB can get through some trap like doors by creating platforms then dropping onto them when they will disappear.
+* There are some tube-shaped lifts which will lift BLOB upwards to the top. BLOB cannot enter these whilst on a hover platform.
+* There are also multiple [[Teleportation|teleport]] booths scattered around the play area, each with its own destination code.
+* Secret passages allow BLOB to take short cuts from one part of the map to another.  An infinite lives cheat printed by [[Your Sinclair]] inadvertently removed this ability.<ref name="YSstar">{{cite journal|last=Wood|first=Chris|date=January 1993|title=Hacking Away|journal=Your Sinclair|page=32}}</ref>
+
+BLOB is able to carry up to four items at once, using a [[FIFO (computing and electronics)|FIFO]] arrangement. Some of the items encountered will be useful to repair the core, while others will need to be exchanged using a Cheops Pyramid for something more useful. There is an [[Access (credit card)|Access credit card]], which can fill in for any of the numbered chips needed to get through security doors, and for using the aforementioned Pyramid. There is also a Key which can be used to open doors.
+
+As well as items needed to repair the core, the Access card and Key, there are items which will top up BLOB's energy, his platform building capacity or his firepower. There is one cylinder like object which will top up whichever level is lowest, and even add a life if BLOB is down to his last. BLOB can also top up his lives by collecting joysticks which represent an extra life.
+
+Points are scored for shooting the various moving hazardous creatures, worth between 80 and 320 points each, and 10,000 points per core item replaced. 250 points are scored each time BLOB enters a new screen. There are also other hazards, dangerous spikes and energy fields that will kill BLOB on contact, as will the mines that move around like the creatures.
+
+The game features play area of 512 screens. The placement of the objects, and the identities of those needed to fix the core are randomized at the start of the game, the map/screens including locations of teleport booths remain fixed as do their destination codes. There are nine core elements to replace in order to complete the game.
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 22, November 1985, page 10</ref>
+| award2Pub = ''C+VG''
+| award2 = Game of the Month<ref>Game review, C+VG magazine, issue 49, November 1985, page 14</ref>
+}}
+The ZX Spectrum version was ranked 27th in the ''[[Your Sinclair]] Official Top 100 Games of All Time''<ref>{{cite journal|title=Readers' Top 100 Games of All Time|journal=Your Sinclair|date=September 1993}} {{cite web |url=http://www.ysrnry.co.uk/articles/letthepeopledecideresults.htm |title=Archived copy |access-date=2012-02-02 |url-status=dead |archive-url=https://web.archive.org/web/20120308212245/http://www.ysrnry.co.uk/articles/letthepeopledecideresults.htm |archive-date=2012-03-08 }}</ref> and 10th in ''[[Retro Gamer]]'' magazine's "Top 25:Spectrum Games".<ref>{{cite journal|title=Top 25:Spectrum Games|journal=Retro Gamer|date=2008|pages=87}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Atarimania|id=5035|name=Starquake}}
+* {{lemon64 game|id=2470|name=Starquake}}
+* {{WoS game|id=0004873|name=Starquake}}
+* [http://www.tatungeinstein.co.uk/games/starquake.htm ''Starquake'']  on the Einstein
+* [http://www.zxsoftware.co.uk/Data/Spectrum/S/instructions/Starquake.txt ZX Spectrum ''Starquake'' instructions] {{Webarchive|url=https://web.archive.org/web/20110717100819/http://www.zxsoftware.co.uk/Data/Spectrum/S/instructions/Starquake.txt |date=2011-07-17 }}
+* [http://maps.speccy.cz/map.php?id=Starquake Map of ''Starquake'']
+
+{{DEFAULTSORT:Starquake (Video Game)}}
+[[Category:1985 video games]]
+[[Category:Action-adventure games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Bubble Bus Software games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:MSX games]]
+[[Category:Fiction about rogue planets]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]
+[[Category:Tatung Einstein games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

@@ -1,0 +1,93 @@
+Labyrinth: The Computer Game
+Permalink: //en.wikipedia.org/w/index.php?title=Labyrinth%3A_The_Computer_Game&oldid=1228477792
+Accessed on: 2024-06-26T17:00:21.351156
+
+
+
+------
+Labyrinth: The Computer Game
+{{Short description|1986 video game}}
+{{Infobox video game
+|title=Labyrinth: The Computer Game
+|image=Labyrinth cover art.jpg
+|developer=[[Lucasfilm Games]]
+|publisher=[[Activision]]
+|designer=[[David Fox (game designer)|David Fox]]<br />[[Douglas Adams]]<ref name=gamemanual>{{cite book | last=Lewis | first=Clovice | year=1986 | title=Labyrinth: The Computer Game Player's Guide | publisher=[[Activision|Activision Entertainment Software]]}}</ref>
+|writer=
+|programmer=David Fox
+|artist=[[Gary Winnick (game developer)|Gary Winnick]]<br />Ken Macklin
+|composer=[[Russell Lieblich]]
+|released={{vgrelease|NA|November [[1986 in video gaming|1986]]<ref>{{cite web|url=https://archive.org/details/computer-entertainer-5-10/page/4/mode/2up |title=Computer Entertainer issue 5-10 |date=January 1987 |access-date=2024-03-12}}</ref>}}
+|genre=[[Graphic adventure game|Graphic adventure]]
+|modes=[[Single-player video game|Single-player]]
+|platforms=[[Apple IIe]] and [[Apple IIc|IIc]]<br />[[Commodore 64]]/[[Commodore 128|128]]<br />[[MSX#MSX2|MSX2]]<br />[[PC-8800 series|PC-88]]
+}}
+
+'''''Labyrinth: The Computer Game''''' is a 1986 [[graphic adventure game]] developed by [[Lucasfilm Games]] and published by [[Activision]]. Based on the fantasy film ''[[Labyrinth (1986 film)|Labyrinth]]'', it tasks the player with navigating a maze while solving puzzles and evading dangers. The player's goal is to find and defeat the main antagonist, [[Jareth]], within 13 [[Real-time computing|real-time]] hours. Unlike other adventure games of the period, ''Labyrinth'' does not feature a [[command-line interface]]. Instead, the player uses two scrolling "word wheel" menus on the screen to construct basic sentences.
+
+''Labyrinth'' was the first [[LucasArts adventure games|adventure game created by Lucasfilm]]. The project was led by designer [[David Fox (game designer)|David Fox]], who invented its word wheels to avoid the [[text parser]]s and [[syntax guessing]] typical of [[Interactive fiction|text-based adventure games]]. Early in development, the team collaborated with author [[Douglas Adams]] in a week-long series of [[brainstorming]] sessions, which inspired much of the final product. ''Labyrinth'' received positive reviews and, in the United States, was a bigger commercial success than the film upon which it was based. Its design influenced Lucasfilm's subsequent adventure title, the critically acclaimed ''[[Maniac Mansion]]''.
+
+This game is entirely different from another game based on the same movie entitled "Labyrinth: Maō no Meikyū" ("Maze of the Goblin King"), released exclusively in Japan for the [[Nintendo Entertainment System|Famicom]] and MSX in 1987, developed by [[Atlus]] and published by [[Tokuma Shoten]].
+
+==Overview==
+[[File:Labyrinth the computer game screenshot.png|thumb|left|A goblin guard corners the player character. The "word wheels" and gray "radar" bar appear in the bottom section of the screen. On the wheels, the player has combined the verb "ask" with the noun "wall", resulting in a comedic message at the top of the screen.]]
+''Labyrinth: The Computer Game'' is a [[graphic adventure game]] in which the player maneuvers a character through a maze while solving puzzles and evading dangers.<ref name=GG /> It is an adaptation of the 1986 film ''[[Labyrinth (1986 film)|Labyrinth]]'', many of whose events and characters are reproduced in the game.<ref name=ignfeature /><ref name=igninterview /> However, it does not follow the plot of the film.<ref name=cvg /> At the beginning, the player enters their name, sex and favorite color: the last two fields determine the appearance of the [[player character]].<ref name=cvg /><ref name=commodoremagazine2>{{cite journal |last=Addams |first=Shay |date=March 1987 |title=Mapping Made Simple: ''Labyrinth'' and ''Amnesia'' |journal=[[Commodore Magazine]] |publisher = Commodore Magazine, Inc. |location=West Chester, PA |pages=80, 98}}</ref> Afterward, a short [[Interactive fiction|text-based adventure]] sequence unfolds, wherein the player enters a [[movie theater]] to watch the film ''Labyrinth''. The game then changes to a graphic adventure format. [[Jareth]], the main antagonist, appears on the [[projection screen]] and transports the protagonist to a labyrinthine prison.<ref name=commodoremagazine2 /><ref name=commodoremagazine />
+
+The player's goal is to locate and destroy Jareth within 13 [[Real-time computing|real-time]] hours; otherwise, the protagonist will be trapped in the maze forever.<ref name=commodoremagazine2 /><ref name=commodoremagazine /> While traveling the maze, the player passes through a series of [[Side-scrolling video game|scrolling]] hallways that contain doors, enemies and other things.<ref name=commodoremagazine2 /> A "radar" bar on the screen allows the player to see each hallway in [[Mini-map|miniature form]]: the locations of all doorways, items and characters in a given hallway are displayed.<ref name=commodoremagazine2 /><ref name=zzap /> Unlike other adventure games of the period, ''Labyrinth'' does not feature a [[command-line interface]]. Instead of typing commands, the player selects them from two scrolling "word wheels", one for verbs and one for nouns.<ref name=gamemanual /><ref name=cvg /><ref name=history /> For example, the verb "congratulate" may be selected in one wheel, and the noun "Jareth" in the other: this inputs the command "congratulate Jareth".<ref name=gamemanual /> Based on the player's items and location, the available verbs and nouns change [[Context-sensitive user interface|context-sensitively]].<ref name=cvg />
+
+== Development ==
+[[Lucasfilm Games]] began to design ''Labyrinth: The Computer Game'' in 1985.<ref name=laurel>{{cite book |title=Computers as Theatre: Second Edition |first=Brenda |last=Laurel |authorlink=Brenda Laurel |publisher=[[Addison-Wesley|Addison-Wesley Professional]] |location=[[Boston]] |year=2013 |pages=122, 123 |isbn=978-0321918628}}</ref> Company head [[George Lucas]] had requested a [[tie-in]] video game for [[Labyrinth (1986 film)|the movie of the same name]], which was under production at [[Lucasfilm]].<ref name=history>{{cite web|archive-url=https://web.archive.org/web/20030624215636/http://www.lucasarts.com/20th/history_1.htm |title=20th Anniversary |publisher=[[LucasArts Entertainment Company LLC]] |archive-date=June 24, 2003 |url=http://www.lucasarts.com/20th/history_1.htm |url-status=dead}}</ref> As was common with Lucasfilm Games projects, Lucas himself provided very little direction to the team.<ref name=ewoks>{{cite web | last=Rignall | first=Julian | authorlink=Julian Rignall | date=November 27, 2014 | url=http://www.usgamer.net/articles/i-actually-was-hunting-ewoks-lucasfilm-games-the-early-years | archive-url=https://web.archive.org/web/20150926005157/http://www.usgamer.net/articles/i-actually-was-hunting-ewoks-lucasfilm-games-the-early-years | archive-date=September 26, 2015 | title="I actually was hunting Ewoks". The Original Lucasfilm Games Team Talk About Life at Skywalker Ranch. |work=USgamer |publisher=Gamer Network Ltd.}}</ref> ''Labyrinth'' was the first [[Brand licensing|licensed]] game developed by the company: earlier products, such as ''[[Rescue on Fractalus!]]'' and ''[[The Eidolon]]'', had been original [[Intellectual property|intellectual properties]]. According to project leader [[David Fox (game designer)|David Fox]], working with a license "frees you up in some ways and restricts you, too".<ref name=barton>{{cite book |title=Honoring the Code: Conversations with Great Game Designers |first=Matt |last=Barton |publisher=[[A K Peters, Ltd.]] |location=[[Natick, Massachusetts|Natick, MA]] |year=2013 |pages=144, 145 |isbn=978-1466567535}}</ref> With their adaptation, the team was not pressured to reuse events and characters from the ''Labyrinth'' film, but they "felt obligated" to follow the source material.<ref name=igninterview /><ref name=c64>{{cite web | archive-url=https://web.archive.org/web/20140203113147/http://www.c64.com/gt_display_interview.php?interview=32 | title=Interviews: David Fox / Lucasfilm Games | url=http://www.c64.com/gt_display_interview.php?interview=32 | publisher=C64.com | date=December 28, 2013 | archive-date=February 3, 2014}}</ref> Because they saw the film as an adventure story, they chose to set their adaptation in the [[adventure game]] genre. Fox conversely disliked the genre's then-reliance on [[text parser]]s and [[syntax guessing]], and so he created the word wheel menus as a replacement. They were meant to supply "a limited set of words that still let you do a lot of things", in order to streamline the game without hampering the player's freedom.<ref name=igninterview>{{cite web | last=Andreadis | first=Kosta | date=January 21, 2015 | url=http://www.ign.com/articles/2015/01/22/an-adventure-through-the-early-days-of-lucasarts-with-david-fox | archive-url=https://web.archive.org/web/20150808184444/http://www.ign.com/articles/2015/01/22/an-adventure-through-the-early-days-of-lucasarts-with-david-fox | archive-date=August 8, 2015 | title=An Adventure Through the Early Days of LucasArts with David Fox | work=[[IGN]] | publisher=[[Ziff Davis]]}}</ref> The game's visual design was shared by Lucasfilm's ''[[Habitat (video game)|Habitat]]'', a [[Massively multiplayer online role-playing game|massively multiplayer online game]] under production at the time.<ref name=ewoks /><ref name=cgw />
+
+{{quote box | width = 30% | salign=center | quote=Douglas really liked the word "adumbrate", meaning "to prefigure indistinctly or foreshadow", so it ended up on the verb list[.] ... You had to "adumbrate the elephant" when you were stuck in a prison, and an elephant would come and break a hole in the wall, freeing you. Definitely one of those things that was far funnier in the brainstorming session than in the game.|source=David Fox on the influence of Douglas Adams<ref name=hitchhiker>{{cite book |title=[[Hitchhiker: A Biography of Douglas Adams]] |first=M. J. |last=Simpson |authorlink=M. J. Simpson |publisher=[[Justin, Charles & Co.]] |location=[[Boston]] |year=2003 |pages=[https://archive.org/details/hitchhikerbiogra00simp/page/224 224–226] |isbn=1932112359}}</ref>}}
+
+Early in development, the game's team was screened a [[rough cut]] of the film. Afterward, they were sent to London by Lucasfilm management for a one-week [[brainstorming]] session with [[Douglas Adams]], author of ''[[The Hitchhiker's Guide to the Galaxy]]''.<ref name=igninterview /><ref name=laurel /> Adams had worked previously with [[Infocom]], during the development of his book's [[The Hitchhiker's Guide to the Galaxy (video game)|1984 video game adaptation]].<ref name=hitchhiker /> Also present at the meetings were writer [[Christopher Cerf (musician and television producer)|Christopher Cerf]] (a friend of the film's director, [[Jim Henson]]) and [[Brenda Laurel]] of [[Activision]], the game's publisher.<ref name=barton /> The team worked extensively with Adams during this period. Laurel later wrote: "Every day a fresh blast of his wild and intelligent humor stoked up the creativity of the team". In her view, the pinnacle of the meetings was Adams' idea for the opening sequence.<ref name=laurel /> He suggested a reference to ''[[The Wizard of Oz (1939 film)|The Wizard of Oz]]''{{'}}s famous transition from black-and-white to color: a transition from a text-based format to a graphical one.<ref name=barton />
+
+Fox was given the job of taking notes during the trip. Although he had hoped for a complete design to emerge from the meetings, he returned from London with only "sheets and sheets of ideas", through which he sifted to find usable concepts.<ref name=igninterview /> All of the material influenced the game, and many of Adams' suggestions were used.<ref name=igninterview /><ref name=hitchhiker /> Retrospectively, Fox felt that the opening sequence was a mistake: he called it "tedious" and believed that it alienated potential fans.<ref name=barton /> ''Labyrinth'' was released in 1986 for the [[Commodore 64]], [[Apple II]] and [[MSX]].<ref name=gamemanual /><ref name=GG>{{cite web | title=Backwards Compatible: Classic LucasArts Adventures | work=[[Good Game (TV program)|Good Game]] | url=http://www.abc.net.au/tv/goodgame/stories/s2637374.htm | archive-url=https://web.archive.org/web/20090831145812/http://www.abc.net.au/tv/goodgame/stories/s2637374.htm | archive-date=August 31, 2009 | date=July 27, 2009}}</ref>
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 50%
+| rev2 = ''[[Commodore User]]''
+| rev2Score = {{rating|5|5}}
+| rev3 = ''[[Computer & Video Games]]''
+| rev3Score = 7/8/10/9
+}}
+In the United States, ''Labyrinth'' was more commercially successful than the film upon which it was based.<ref name=laurel /> ''[[Commodore Magazine]]''{{'}}s Mark Cotone lauded the game's puzzle design, detailed graphics and newcomer-friendly interface. He believed that experienced players would enjoy its depth and challenging puzzles.<ref name=commodoremagazine>{{cite journal |last=Cotone |first=Mark |date=June 1987 |title=Software Reviews; ''Labyrinth: The Computer Game'' |journal=[[Commodore Magazine]] |publisher = Commodore Magazine, Inc. |location=West Chester, PA |pages=32, 93}}</ref> Keith Campbell of ''[[Commodore User]]'' praised its animation and dubbed it "a superb game"—which he found unusual, given its status as a tie-in product. Nevertheless, Campbell hesitated to call it an adventure game, and he wrote that the word wheels were "rather tedious" for genre veterans.<ref name=commodoreuser>{{cite journal |last=Campbell |first=Keith |date=January 1987 |title=Into the Valley; ''Labyrinth'' |journal=[[Commodore User]] |publisher=EMAP |location=Peterborough |issue=40 |page=90}}</ref> Roy Wagner of ''[[Computer Gaming World]]'' summarized ''Labyrinth'' as a "very well done [game] with an excellent user interface".<ref name=cgw>{{cite magazine |date=February 1987 |last=Wagner |first=Roy |magazine=[[Computer Gaming World]] |publisher=Golden Empire Publications |location=[[Anaheim, California|Anaheim, CA]] |title=A Preview of ''Habitat'' |issue=34 |pages=39}}</ref>
+
+Writing for ''[[Computer & Video Games]]'', Matthew Woodley praised the game's variety and interface. While he disliked its long [[Loading screen|loading times]], he believed that they were "a small price to pay for such a brilliant game".<ref name=cvg>{{cite journal | last=Woodley | first=Matthew | title=''Labyrinth'' | date=March 1987 | issue=65 | journal=[[Computer and Video Games]] | page=68}}</ref> However, ''Labyrinth'' was criticized by the three reviewers of ''[[Zzap!64]]''. Although he praised its visuals, co-reviewer Paul Sumner called the game too slow-paced for an action title and too simplistic for an adventure. Co-reviewer [[Julian Rignall]] considered it to be boring and "a real disappointment", given Lucasfilm's strong track record.<ref name=zzap>{{cite journal |last1=Summer |first1=Paul |last2=Rignall |first2=Julian |last3=Penn |first3=Gary |authorlink2=Julian Rignall |date=March 1987 | title=''Zzap!'' Test; ''Labyrinth'' |journal=[[Zzap!64]] |publisher = Newsfield Publications |location=Ludlow |issue=23 |pages=18}}</ref>
+
+==Legacy==
+''Labyrinth'' was the first [[LucasArts adventure games|adventure game produced by Lucasfilm]], which became a critically acclaimed and commercially successful developer in the genre.<ref name=GG /><ref name=ignfeature>{{cite web |last=Andreadis |first=Kosta |date=March 16, 2014 |url=http://www.ign.com/articles/2014/03/17/maniac-mansion-revisiting-a-lucasarts-point-and-click-classic |archive-url=https://web.archive.org/web/20140317091650/http://www.ign.com/articles/2014/03/17/maniac-mansion-revisiting-a-lucasarts-point-and-click-classic| archive-date=March 17, 2014 | title=''Maniac Mansion'': Revisiting a LucasArts Point and Click Classic |work=[[IGN]] |publisher=[[Ziff Davis]]}}</ref> The game's technology and [[game mechanics|mechanics]] influenced the company's subsequent title ''[[Maniac Mansion]]'', whose "[[SCUMM]]" engine was reused in many Lucasfilm adventure games.<ref name=ewoks /><ref name="GamesTm-Retro">{{cite journal |journal=[[GamesTM]] |publisher=Imagine Publishing |location=Bournemouth |title=Behind the Scenes: ''Maniac Mansion'' + ''Day of the Tentacle'' |year=2007 |issue=63 |pages=22–27}}</ref> The word wheels were a predecessor to that game's [[point-and-click]] interface.<ref name=ignfeature /><ref name=ewoks /> [[Gary Winnick (game developer)|Gary Winnick]], an artist for ''Labyrinth'', went on to lead the production of ''Maniac Mansion'' with [[Ron Gilbert]].<ref name="RG2011">{{cite journal |last=Hunt |first=Stuart |title=The Making Of ''Maniac Mansion'' |journal=[[Retro Gamer]] |publisher=[[Imagine Publishing]] |location=[[Bournemouth]] |issue=94 |date=September 2011 |pages=24–33}}</ref> Fox contributed to ''Maniac Mansion'' as well, and he later directed Lucasfilm's ''[[Zak McKracken and the Alien Mindbenders]]''.<ref name=igninterview /> A retrospective feature by Australian video game talk show [[Good Game (TV program)|Good Game]] regarded ''Labyrinth'' as a solid first attempt, but as inferior to "the real classics" made afterward by Lucasfilm.<ref name=GG />
+
+==Notes==
+{{reflist}}
+
+== External links ==
+* {{moby game|id=/labyrinth|name=''Labyrinth''}}
+* [https://www.lemon64.com/games/details.php?ID=1472 ''Labyrinth''] at Lemon64
+* [http://www.gamefaqs.com/computer/c64/file/566682/14609 ''Labyrinth''] at [[GameFAQs]]
+* [http://lucasarts.vintagegaming.org/index.php?do=game&gameid=1 ''Labyrinth''] at The LucasArts Museum
+* [https://muppet.fandom.com/wiki/Labyrinth_(video_game) ''Labyrinth: Maō no Meikyū (Labyrinth: Maze of the Goblin King)''] at the Muppets Fandom wiki
+
+{{Labyrinth (franchise)}}
+{{LucasArts adventure games}}
+{{Douglas Adams}}
+{{good article}}
+
+[[Category:Labyrinth (1986 film)]]
+[[Category:1986 video games]]
+[[Category:Activision games]]
+[[Category:Adventure games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:Fantasy video games]]
+[[Category:LucasArts games]]
+[[Category:Metafictional video games]]
+[[Category:MSX2 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Single-player video games]]
+[[Category:Video games based on films]]
+[[Category:Video games by Douglas Adams]]
+[[Category:Video games with gender-selectable protagonists]]
+[[Category:Video games developed in the United States]]

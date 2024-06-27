@@ -1,0 +1,51 @@
+Swashbuckler (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Swashbuckler_%28video_game%29&oldid=1193673883
+Accessed on: 2024-06-26T16:54:12.832762
+
+
+
+------
+Swashbuckler (video game)
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Swashbuckler
+|image = Swashbuckler game title.png
+|caption = Title screen
+|developer = Paul Stephenson<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+|publisher = [[Datamost]]
+|designer = 
+|engine = 
+|released = [[1982 in video gaming|1982]]
+|genre = [[Fighting game|Fighting]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]]
+}}
+
+'''''Swashbuckler''''' is a [[fighting game]] created by Paul Stephenson for the [[Apple II]] and published by [[Datamost]] in 1982.<ref name=giantlist/> The player controls a sword-wielding [[swashbuckler]] who must fight and dispatch various attackers.  Combat occurs in a wooden-beamed ship's hold littered with skeletons and cobwebs, which the player views from the side.
+
+The game was translated into Bulgarian under the name "Авантюрист" (Adventurer).
+
+==Gameplay==
+<!-- Deleted image removed: [[Image:Swashbuckler game.png|thumb|left|The swashbuckler in combat]] -->
+
+The fighter's actions are controlled with the keyboard, and include moving left or right (A and D), turning (S) and swinging the sword high (I), low (M), or lunging straight (L).  The first opponent is a large, lumbering man with a spiked club; once defeated, the second opponent appears, a smaller man armed with a hatchet and a dagger.  After defeating him, both return and attack together.  As play progresses, more opponents are added to the fray, including enormous rats and venomous snakes. Eventually the swashbuckler progresses out of the hold to the sunlit deck, though opponents continue to be a major threat.
+
+For each enemy dispatched, the game awards a point.  The swashbuckler can withstand two hits, but the third kills him and ends the game.  The difficulty steadily increases until he's overwhelmed. After 83 kills, the pattern of enemies keeps repeating and if the player manages to get 256 kills, the [[Integer overflow|counter resets to zero]].<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211210/jnER7vX7yn0 Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20130219140939/https://www.youtube.com/watch?v=jnER7vX7yn0 Wayback Machine]{{cbignore}}: {{cite AV media| url = https://www.youtube.com/watch?v=jnER7vX7yn0| title = Swashbuckler; playthrough; Apple II | website=[[YouTube]]}}{{cbignore}}</ref>
+
+==Reception==
+[[Michael Cranford]] gave ''Swashbuckler'' a positive review in ''[[Computer Gaming World]]'', only lamenting the rollover of the five-digit score at 250 (which was fixed prior to final publication). The review appeared with an editor's note that although the graphics were superb and the concept unusual, the players at CGW grew tired of the lack of variety after a few dozen kills.<ref name="cranford198205">{{Cite magazine |last=Cranford |first=Michael |date=May–June 1982 |title=Swashbuckler: Another Kind of Piracy |url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=4 |magazine=Creative Computing |pages=36–37}}</ref> ''[[Creative Computing]] Video & Arcade Games'' said that "it's a good change of pace" for those tired of space games.<ref name="ccvag1983spring">{{Cite magazine |last=Ahl |first=David H. |last2=Brill |first2=Andrew |last3=Lubar |first3=David |author-link3=David Lubar |last4=Coffey |first4=Michael |last5=Archibald |first5=Dale |date=Spring 1983 |title=Apple Computer Games |url=http://www.atarimagazines.com/cva/v1n1/applegames.php |magazine=Creative Computing Video & Arcade Games |volume=1 |issue=1 |page=86}}</ref>
+
+In 2016, ''PC Mag'' included ''Swashbuckler'' on a list of "7 Forgotten Apple II Gaming Classics."<ref>{{cite web |last1=Edwards |first1=Benji |title=7 Forgotten Apple II Gaming Classics |url=https://www.pcmag.com/feature/348062/7-forgotten-apple-ii-gaming-classics |date=September 22, 2016}}</ref>
+
+==References==
+{{reflist}}
+
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Datamost games]]
+[[Category:Fighting games]]
+[[Category:Video games about pirates]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

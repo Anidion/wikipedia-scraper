@@ -1,0 +1,91 @@
+Tower of Babel (1989 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Tower_of_Babel_%281989_video_game%29&oldid=1193619384
+Accessed on: 2024-06-26T17:07:43.046493
+
+
+
+------
+Tower of Babel (1989 video game)
+{{Short description|1989 video game}}
+{{more citations needed|date=April 2023}}
+{{Infobox video game
+|title=Tower of Babel
+|image = Tower of Babel cover.jpg
+|caption = 
+|developer= [[Rainbird Software]]
+|publisher= [[Microprose Software]]
+|designer=[[Pete Cooke]]
+|released={{vgrelease|EU|1989}}
+|genre=[[Puzzle video game|Puzzle]]
+|modes=[[Single-player video game|Single-player]]
+|platforms=[[Amiga]], [[Atari ST]], [[Acorn Archimedes]]
+|alt = 
+}}'''''Tower of Babel''''' is a [[video game|computer game]] for the [[Amiga]], [[Atari ST]] and [[Acorn Archimedes]] systems programmed by [[Pete Cooke]], developed by [[Rainbird Software]] and released by [[Microprose Software]] in [[1989 in video gaming|1989]]. It is a [[puzzle video game]] played on a three-dimensional [[tower]]-like grid viewed in [[vector graphics]] with filled polygons.
+
+==Background==
+The plot of the game is based on the [[Holy Bible|biblical]] story of the [[Tower of Babel]]. At the height of the tower's construction, while it failed in its original purpose to directly contact [[God]], it caught the attention of a passing Zandorian [[extraterrestrial life|alien]] [[starship|spaceship]]. The Zantorians descended and left three [[spider]]-like [[robot]]s to help the [[Shinar]]ians in constructing the tower. However, distrust broke out among the two species, and the humans betrayed the robots, stealing their energy packs (called "Klondikes"). Playing the robots, it is the player's job to find the energy packs to be able to get back home to Zantor.
+
+==Gameplay==
+[[File:TowerOfBabel Screenshot.png|thumb|Screenshot from the Amiga version.]]
+The game play is purely puzzle-based. The famous Tower of Babel itself does not actually appear; instead there are several differently-configured 8*8*4 towers (four floors of 8*8 squares each).
+
+The Zantorians robots are called the Grabber, the Pusher and the Zapper. Each of these has different abilities. The Grabber can collect Klondikes and operate various devices, the Pusher can push things further away, and the Zapper can destroy things. In a tower, players can be assigned any combination of these robots, depending on the tower's design. In each tower, the player's goal is either to destroy a set number of objects, collect a set number of Klondikes, or both. Towers with Klondikes to collect need the Grabber, but the other robots can sometimes be superfluous, and indeed, the destruction of these robots is sometimes necessary for the completion of a tower.
+
+Everything in the game is viewed in a realistic 3D vector graphics view, but the actual movement in the game is far more contained than in games usually associated with such graphics, only allowing square-by-square movement in rectangular directions and vertical movement using special lifts.
+
+Various devices, sentry mechanisms and autonomous robots also inhabit each tower. Some of these can be used to gain an advantage, while some hinder progress.
+
+===Editor===
+''Tower of Babel'' also includes a [[level editor|construction kit]] where players can design their own towers and save them to disk for later play and distribution. The towers can be [[password]]-protected to avoid spoiling them by looking directly at the design.
+
+One feature of the game is the ability to [[computer programming|program]] the robots. Each robot can be given up to eight orders (for example: Forward, Forward, Left, Fire, Right, Forward). In some levels, programming the robots is mandatory, as they need to coordinate their actions in order to solve the level.
+
+===Game objects===
+; Block : Can be pushed around but cannot be shot.
+; Converter : Changes laser beams into pushing beams and vice versa.
+; Exchanger : When activated by the Grabber, switches places with it and vanishes. Deflects laser beams back to their source.
+; Flag : Does nothing but fly in the wind and get in the way. Its only use is to be destroyed.
+; Force up/down : When activated by the Grabber, moves all lifts not currently holding something either up or down.
+; Freezer : When activated by the Grabber, temporarily freezes everything in the tower except the robots and the lifts. Once used, takes several seconds to recharge.
+; Glass block : Can be pushed around. Shooting at it deflects the laser beam back to its source, destroying whoever shot at it.
+; Hopper : Hops around in a random fashion. Can be destroyed by shooting it.
+; Klondike : The robots' energy pack. Can be collected by the Grabber.
+; Lizard : Constantly moves in a straight line. When changing direction, eats away a floor tile. Cannot be shot.
+; Mine : When it is pushed next to an object, or an object is pushed next to it, it explodes, destroying everything it touches.
+; Prism : Deflects laser beams at a 90° angle. Can be pushed.
+; Pushing cannon : Constantly fires a pushing beam. Comes in two varieties, fixed and rotating. Cannot be shot.
+; Time bomb : When the timer reaches zero, it explodes, destroying everything it touches. Can be pushed.
+; Watcher : Moves around in a random fashion. Cannot be shot.
+; Wiper : When activated by the Grabber, eats away all floor tiles in a cross-shaped pattern with itself at the centre.
+; Worm : Constantly moves in a straight line. Shooting at it makes it reverse direction. When trapped, can be pushed sideways. Moving worms cannot be pushed.
+; Zapping cannon : Constantly fires a lethal laser beam. Comes in two varieties, fixed and rotating. Can be destroyed by shooting it.
+
+==Further reading==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' nouvelle formule #6<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-nf-6/page/22/mode/2up | title=Jeux & stratégie NF 6 | date=April 1990 }}</ref>
+
+==Legacy==
+''[http://www.triogical.com/us/index.php Triogical]'' is a [[Freeware]] puzzle game for [[Microsoft Windows]] inspired by ''Tower of Babel''.
+
+Due to its unique nature and the easily usable editor the game has acquired a small, but very dedicated community of fans. Thanks to emulation software like [[WinUAE]] the game can be played on modern PCs and homemade towers swapped via the Internet. Currently there is one remake in the making.
+
+In July 2015, a remake for iPhone and iPad was released by Laser Point Software Ltd.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/tower-of-babel|name=''Tower of Babel''}}
+*[http://www.tower-of-babel.info/ Tower of Babel Remake Project] and info at tower-of-babel.info
+*{{webarchive |url=https://web.archive.org/web/20090129200414/http://www.tob2.com/ |date=January 29, 2009 |title=Tower of Babel 2 project at tob2.com }}
+*[http://washedashore.com/projects/games/3dgames.html Homage page] with the complete 7-page manual for the game
+*[http://tower-of-babel.co.uk Tower of Babel remake for iPhone, iPad and Android]
+
+[[Category:1989 video games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Puzzle video games]]
+[[Category:Telecomsoft games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

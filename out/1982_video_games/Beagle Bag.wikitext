@@ -1,0 +1,132 @@
+Beagle Bag
+Permalink: //en.wikipedia.org/w/index.php?title=Beagle_Bag&oldid=1211610837
+Accessed on: 2024-06-26T16:53:01.218874
+
+
+
+------
+Beagle Bag
+{{Short description|Apple II game collection}}
+{{more citations needed|date=October 2017}}
+{{Infobox video game
+| title = ''Beagle Bag''
+| image = Beagle Bag cover.png
+| caption = 
+| developer = [[Beagle Bros|Beagle Bros Software]]
+| publisher = Beagle Bros Software
+| released = {{vgrelease|NA|1982}}
+| platforms = [[Apple II series|Apple II]]
+}}
+
+'''''Beagle Bag''''' is a collection of [[video game]]s for the [[Apple II series|Apple II]] family of computers published in 1982 by [[Beagle Bros|Beagle Bros Software]].  In common with their other titles, the ''Beagle Bag'' software was released in unlocked and unprotected form, and is now in the public domain.
+
+==Games==
+[[File:Beagle Bag montage.png|thumb|right|300px|Screenshots from ''Beagle Bag'' titles]]
+''Beagle Bag'', collectively credited to "[[Bert Kersey]] and the Beagle Bros Staff", contains games designed for the [[Apple II]], [[Apple II+]] and [[Apple IIe]] computers.
+
+===''Buzzword!''===
+In ''Buzzword!'', a children's game based on [[Mad Libs]], the computer relates a short story in which certain key words are replaced with blanks.  Each time the story reaches a blank, the user selects a letter and the computer then randomly inserts a word from its vocabulary starting with that letter. ''Buzzword!'' comes with five pre-made stories and also allows users to create their own.
+
+In addition to entering a custom story, the ''Beagle Bag'' manual also includes instructions about how to edit ''Buzzword!'''s vocabulary.{{clear|right}}
+
+===''Elevators''===
+''Elevators'' challenges the player to use four elevators to deliver as many carloads of passengers as possible in a short period of time (5:00 to 5:30).  Passengers appear on any of ten different floors in a high-rise building and must be collected by sending one of four elevator cars to the correct floor and back down again.  The movement of each car can be controlled separately by three rows of keys: {{keypress|1}}, {{keypress|2}}, {{keypress|3}} and {{keypress|4}} to move up, {{keypress|A}}, {{keypress|S}}, {{keypress|D}} and {{keypress|F}} to move down, and {{keypress|Q}}, {{keypress|W}}, {{keypress|E}} and {{keypress|R}} to stop.  Power can also be cut to certain cars, allowing others to move more quickly.
+
+Each carload of passengers delivered to the ground floor earns the player a point.  Points are displayed to the left of the building, the time of day to the right.{{clear|right}}
+
+===''Gas Crunch''===
+This simple game involves taking turns with the computer to remove gas cans from a wall with 21 cans.  Both the player and the computer can choose to remove one, two or three cans each time, with the object of not having to take the last remaining can.  With 21 cans, the first player wins with perfect play.  The computer knows how to play perfectly, so you must win the coin flip to have a chance to win.{{clear|right}}
+
+===''Hang Person''===
+''Hang Person'' is a simple [[hangman (game)|hangman]]-style game in which the player must guess the letters of a word or short phrase.  For each incorrect guess, another piece of the person is drawn in; six incorrect guesses lose the game.  ''Hang Person'' allows a user to play by themselves against the computer, or to enter a word of their own (up to 14 characters) that a second user must guess.  Instructions on how to edit the computer's vocabulary of 150 words are given in the manual.{{clear|right}}
+
+===''Magic Pack''===
+This program acts as an aid to performing four separate magic tricks described in the accompanying manual: "Plenty Questions", in which the computer attempts to guess the object someone's thinking of; "21 Numbers", a number guessing trick; "Next Word", in which the computer and the player create a logical series of words; and "Card Scanner", in which the computer purports to identify a playing card held against the screen.{{clear|right}}
+
+===''Oink!''===
+{{distinguish|Oink! (video game)}}
+''Oink!'' is a two-player [[dice]]-rolling game with each player taking turns rolling to score the sum of the two dice.  After the roll, a point is added to the bonus counter. The player can end their turn and bank their points, or roll again and add the new sum, plus the current bonus counter, which is then incremented after the new roll.  This may be repeated as often as desired.  Rolling doubles (a 1 in 6 chance) ends the turn immediately, forfeits all unbanked points, and clears the bonus counter.  First to 200 points wins the game.
+
+A version of ''Oink!'' was used in experiments conducted in the mid-1980s to test for the existence of [[psychokinesis]], the results of which were published in the ''[[Journal of Parapsychology]]''.<ref>{{cite journal
+|author1=Richard S. Broughton |author2=James R. Perlstrom
+|year=1986
+|title=PK experiments with a competitive video game
+|journal=Journal of Parapsychology
+|volume=50
+|pages=193–211
+|issn=0022-3387
+}}</ref><ref>{{cite journal
+|author1=Richard S. Broughton |author2=James R. Perlstrom
+|date= December 1992
+|title=PK in a competitive video game: a replication
+|journal=Journal of Parapsychology
+|volume=56
+|issue=4
+|pages=291–305
+|issn=0022-3387
+}}</ref>{{clear|right}}
+
+===''Pick-A-Pair''===
+Similar to [[Concentration (card game)|Concentration]] or [[Hūsker Dū?]], ''Pick-A-Pair'' is a two-person memory game played on a 4x4 array of 16 numbers, behind each of which is a symbol.  Players take turns revealing, two at a time, the symbols behind each number; if the two they pick match, the two are removed and the player earns points equal to the sum of the two numbers.  The first player to earn 68 or more points wins the game.{{clear|right}}  Unlike Concentration, making a match does not give the player an extra turn, which also significantly affects strategy.
+
+===''Quick-Draw!''===
+''Quick-Draw!'' is a two-player cowboy shoot-out game.  Each round the computer selects an abstract "firing symbol" which it displays between the two gunmen, then quickly cycles through various random symbols including the one it selected.  If a player fires while the correct symbol is shown and does so quicker than his opponent, he'll win the round.  If he fires while the wrong symbol is shown, his opponent get a free shot.
+
+Points are awarded on how quickly players can make successful shots and are displayed beneath each cowboy.  Scores rounded off to the nearest whole number appear on each cowboy's hat.  First player to 10 points wins.{{clear|right}}
+
+===''Slippery Digits''===
+This game is a [[sliding puzzle]] that challenges the player to sequentially order 15 numbered tiles within a 4x4 playing area using as few moves as possible.  ''Slippery Digits'' has two styles of play: one in which the number of each tile is shown, and another more challenging one in which each number begins hidden and only appears when it's in its proper position.{{clear|right}}
+
+===''Sub Search''===
+In this submarine-hunting game, the player must identify the locations of a random number of submarines hidden within the playing area.  The player moves their ship north, south, east or west, and the areas over which the ship travels light up green.  If a submarine is within the area through which the ship has moved, it will appear as a black silhouette; moving directly over a submarine marks it as found.  To help direct the search, the player can use a sonar-like scanner to faintly reveal where submarines are located.
+
+The player must manage oxygen and fuel supplies, both of which are assigned in random quantities at the beginning of the game and quickly diminish.  An "equalizer" balances the two, and a "jump" function allows the player to jump to a random location in the playing area.  The final score is based on the percentage of subs found multiplied by one thousand, plus the amount of fuel and oxygen remaining.{{clear|right}}
+
+===''TextTrain''===
+''TextTrain'' is a train simulator that uses a word or other series of letter to represent the cars of a train.  The game's object is to couple together a pre-defined series of freight cars and pull them to the Check Station at the top of the track as quickly as possible.  The player can move the train forward or backward around the tracks and onto sidings, open and close switches and couple and uncouple cars.  Coupling a car ahead of the engine or driving into a closed switch will derail the train and end the game.{{clear|right}}
+
+===''Triple Digits''===
+''Triple Digits'' is a numbers game for two players.  Each player is dealt a set of thirteen digits (0, 0, 0, 0, 1, 2, 3, 4, 5, 6, 7 and 8); one plays white, the other black.  Numbers are placed one at a time in the unoccupied squares of a 9x8 board according to the computer's instructions.  Scoring is based on the number that was played and its two adjacent digits, read together as a single number; for instance, a row of 2, 4 and 6 would yield a score of 246.  Rows can be vertical, horizontal or diagonal.  ''TripleDigits'' ends when all the numbers have been played or one of the players resigns.{{clear|right}}
+
+===''Wowzo''===
+The object of ''Wowzo'' is for each player to move their "man" (represented on the board by the first three letters of their name) through the maze and land on each letter of a five-letter keyword before their opponent does.  The letters of the keyword, which is entered by a player at the start of the game, are scattered randomly throughout the maze.  Players can move their men left, right, up or down; the man will continue to move in that direction until it hits a wall or encounters one of the letters of the keyword (which grants a free turn).
+
+Each player on their turn can also open or close one of many "gates" in the maze's walls, represented by letters.  Doing so can open shortcuts to letters or block one's opponent.  The first player to collect all the letters of the keyword wins.{{clear|right}}
+
+==Utilities==
+Included in the ''Beagle Bag'' collection is ''Beagle Menu'', a configurable disk menu program that offers one-key access to select files.
+
+==Other software==
+''Beagle Bag'' also includes several simple programs that according to the manual "have been gathering dust around here for years."<ref>{{cite manual 
+ | author = Bert Kersey
+ | title = Beagle Bag
+ | publisher = Beagle Bros Micro Software Inc.
+ | date = 1982
+ | url = http://beagle.applearchives.com/the_software/other_packages/beagle_bag.html
+ | access-date = 2008-10-29
+}}</ref>
+
+*''Baby Names'' generates semi-random names of five to seven letters.
+*''Cross Word'' insults the user at every keypress.
+*''Date Search'' calculates the number of days between two dates.
+*''Pack My Box'' challenges the user to create a [[pangram]] of less than 32 letters.
+*''Poly-Dice'' simulates the results of rolling dice of a specified number of sides.
+*''Naked City'' is a practical joke program that displays bogus computer errors.
+*''Name Game'' produces variations of a person's name: [[Spoonerisms]], vowelisms, [[Pig Latin]], etc.
+*''Test Patterns'' produces lo-res or hi-res [[test patterns]].
+
+==Reception==
+
+{{Empty section|date=May 2019}}
+
+==References==
+<references />
+
+==External links==
+*[http://beagle.applearchives.com/the_software/other_packages/beagle_bag.html Beagle Bag] at the Beagle Bros Software Repository
+*[http://www.textfiles.com/apple/DOCUMENTATION/t.beagle.bag Beagle Bag Instructions]
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Video games developed in the United States]]

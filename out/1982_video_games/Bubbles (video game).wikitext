@@ -1,0 +1,65 @@
+Bubbles (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bubbles_%28video_game%29&oldid=1195722043
+Accessed on: 2024-06-26T16:53:04.892440
+
+
+
+------
+Bubbles (video game)
+{{Short description|1982 video game}}
+{{Infobox video game
+| title         = Bubbles
+| image         = Bubbles-arcade.jpg
+| alt           = A tan, vertical rectangular poster. The poster depicts two arcade cabinets side-by-side. The left cabinet is blue and taller than the right one, which is brown. Above the cabinets read the text "Williams" and "Bubbles".
+| caption       = Promotional flyer showing the wooden upright and cocktail cabinets
+| developer     = [[WMS Industries|Williams Electronics]]
+| publisher     = Williams Electronics
+| designer      = John Kotlarik <br /> Tim Murphy <br /> [[Python Anghelo]] 
+| release       = [[1982 in video gaming|1982]]
+| genre         = [[Action game|Action]]
+| modes         = Up to 2 players alternating
+| arcade system = 
+| platforms     = [[Arcade game|Arcade]]
+}}
+
+'''''Bubbles''''' is a 2D [[action game]] developed by [[WMS Industries|Williams Electronics]] and released [[arcade game|arcades]] in 1982. The player uses a joystick to control a bubble in a kitchen sink. The object is to progress through levels by cleaning the sink while avoiding enemies.
+
+It was developed by John Kotlarik and [[Python Anghelo]]. Kotlarik wanted to create a [[non-violent game]] inspired by ''[[Pac-Man]]''. Anghelo designed the game's artwork and scenario as well as a special plastic cabinet that saw limited use. The game was later released as a web-based version and on home consoles as part of arcade compilations.
+
+== Gameplay ==
+[[File:Bubbles Game.png|thumb|left|alt=A horizontal rectangular video game screenshot that is an overhead view of a digital representation of a blue sink with a drain in the center. Scattered in the sink are brushes, razors, ants, crumbs, and grease. A small, light blue bubble is located to the right of the drain.|The light blue bubble (center right) avoids brushes and razors to clean up ants, crumbs, and grease within the sink. The score and level number is tracked in the top left corner of the screen.]]
+
+''Bubbles'' is an [[action game]] where the player controls a soap bubble from a [[top-down perspective]]. The object is to clean a kitchen sink by maneuvering over ants, crumbs, and grease spots to absorb them before they slide into the drain. As the bubble absorbs more objects, it grows in size, eventually acquiring first eyes and then a smiling mouth. At the same time, sponges and scrub brushes slowly move around the sink, cleaning it on their own in competition with the player. Touching either of these enemies costs a player one life unless the bubble is large enough to have a complete face. In this case, the enemy will be knocked away and the bubble will shrink. Sponges and brushes can be knocked into the drain for bonus points, eliminating them from play. Two other enemies in the sink are stationary razor blades and roaches that crawl out of the drain. Contact with a blade is always fatal, while the bubble can safely touch the roach only while carrying a broom, which will kill the roach with one hit. The broom can be acquired by running over a cleaning lady who appears in the sink from time to time.<ref name="CVG-49">{{cite journal | journal = [[Computer and Video Games]] | title = Arcade Action | first = Clare | last = Edgeley | publisher = [[Emap International Limited]] | date=November 1985 | issue = 49 | page = 80}}</ref><ref name="Retro-60">{{cite magazine|magazine= [[Retro Gamer]] | publisher = [[Imagine Publishing]] | title = Retrorevival: Bubbles | first = Darran | last = Jones | page = 96 | date=March 2009| issue = 60}}</ref>
+
+A level ends when all of the point-scoring objects are gone - either lost down the drain, cleaned by sponges/brushes, eaten by roaches, or absorbed by the bubble. At this point, if the bubble is large enough to have a complete face, the player moves on to the next level; otherwise, one life is lost and the level must be replayed. In addition, whenever the bubble has a face, the drain flashes green, giving the player a chance to enter it and skip the next level. Entering the drain while the bubble is too small costs one life.<ref name="CVG-49"/><ref name="Retro-60"/>
+
+== Development ==
+The game uses [[monaural]] sound and [[raster graphics]] on a 19&nbsp;inch [[Cathode ray tube|CRT monitor]].<ref name="KLOV">{{cite web | url = http://www.klov.com/game_detail.php?game_id=7226 | title = Bubbles - Videogame by Williams (1982) | publisher = [[Killer List of Videogames]] | access-date = 2009-06-25}}</ref> The initial concept was conceived by John Kotlarik, who aimed to create a non-violent game. Inspired by ''[[Pac-Man]]'', he envisioned similar gameplay in an open playing field rather than in a maze. [[Python Anghelo]] furthered the concept by creating artwork and a scenario. Kotlarik designed the protagonist to have fluid movement like it was traveling on a slick surface. The control scheme allows the digital input to operate similar to an analogue one. He programmed the bubble to accelerate in the direction the joystick is held. Once the joystick returns to its neutral position, the bubble will coast as the velocity slowly decreases.<ref name="Arc-Treasure">{{cite video game | title= [[Midway Arcade Treasures]] | developer= [[Backbone Entertainment|Digital Eclipse]] | publisher= [[Midway Games]] | date= 2003-11-18 | platform= [[PlayStation 2]] | level= The Inside Story On Bubbles}}</ref>
+
+Anghelo designed the artwork for the wooden cabinets as well as a new cylindrical, plastic cabinet. This plastic model was dubbed the "Duramold" unit. Gary Berge, a mechanical engineer, created the new cabinets with a rotational molding process.<ref name="Arc-Treasure"/> Though the plastic cabinets were durable, they would shrink over time, sometimes causing the device to become inoperable. Williams Electronics used this cabinet for only two other games, ''[[Blaster (video game)|Blaster]]''<ref name="Arc-Treasure-2">{{cite video game | title= [[Midway Arcade Treasures]] | developer= [[Backbone Entertainment|Digital Eclipse]] | publisher= [[Midway Games]] | date= 2003-11-18 | platform= [[PlayStation 2]] | level= Blaster Trivia}}</ref> and ''[[Sinistar]]''.<ref name="Nantucket E-Books">{{cite web | url = https://nantucketebooks.com/ebooks/atgonzalez/kengraham_interview/ | title = Ken Graham (Williams Programmer) Interview | publisher = Nantucket E-Books | access-date = 2022-01-26}}</ref>
+
+== Reception ==
+Author John Sellers listed it among the weirder arcade games released.<ref name="Fever">{{cite book| title = Arcade Fever: The Fan's Guide to The Golden Age of Video Games| first = John| last = Sellers| pages = 88–89| publisher = [[Running Press]]|date=August 2001| isbn = 0-7624-0937-1}}</ref> Clare Edgeley of ''[[Computer and Video Games]]'' echoed similar statements. She criticized the game, stating that the constant blue background was dull and the game lacked longevity.<ref name="CVG-49"/> ''[[Retro Gamer]]''{{'}}s Darran Jones described the game as engrossing and obscure. He also expressed disappointment that few people remember it.<ref name="Retro-60"/> ''Bubbles'' arcade cabinets have varying degrees of rarity. The cocktail and cabaret are the rarest, followed by the plastic and upright versions; the plastic models are more valuable among collectors.<ref name="PriceGuide">{{cite book| title = Official Price Guide to Classic Video Games| first = David| last = Ellis| page = [https://archive.org/details/officialpricegui00davi/page/405 405]| chapter = Arcade Classics| publisher = [[Random House]]| isbn = 0-375-72038-3| year = 2004| chapter-url-access = registration| chapter-url = https://archive.org/details/officialpricegui00davi/page/405}}</ref>
+
+== Legacy ==
+In 2000, a web-based version of ''Bubbles'', along with nine other classic arcade games, was published on [[Shockwave.com]].<ref>{{cite web | url = http://www.gamespot.com/articles/midway-coming-back-at-you/1100-2565653/ | title = Midway Coming Back At You | first = Sam | last = Parker | publisher = [[GameSpot]] | date = 2000-05-05 | access-date = 2009-06-25}}</ref> Four years later, [[Midway Games]]<ref group="Note">Williams Electronics purchased Midway in 1988 and later transferred its games to the [[Midway Games]] subsidiary.</ref> launched a website featuring the [[Adobe Shockwave|Shockwave]] versions.<ref>{{cite web | url = http://www.gamespot.com/articles/midway-arcade-treasures-web-site-goes-live/1100-6108563/ | title = Midway Arcade Treasures Web site goes live | first = Chris | last = Kohler | publisher = [[GameSpot]] | date = 2004-09-24 | access-date = 2009-06-25}}</ref> Williams Electronics included ''Bubbles'' in several of its arcade compilations: the 1996 ''[[Williams Arcade's Greatest Hits]]'', the 2000 ''[[Midway's Greatest Arcade Hits]]'' ([[Dreamcast]] version only), the 2003 ''[[Midway Arcade Treasures]]'', the 2012 ''[[Midway Arcade Origins]]'', and the 2022 Midway Legacy Edition [[Arcade1Up]] cabinet.<ref name="Retro-60"/><ref>{{cite web | url = http://www.allgame.com/game.php?id=2356 | title = Williams Arcade's Greatest Hits - Overview | publisher = [[Allgame]] | first = Brett Alan | last = Weiss | access-date = 2009-06-25 | archive-url=https://web.archive.org/web/20090701003623/http://www.allgame.com/game.php?id=2356 | archive-date=2009-07-01}}</ref><ref>{{cite web | url = http://www.allgame.com/game.php?id=24396 | title = Midway's Greatest Arcade Hits: Vol. 1 - Overview | publisher = [[Allgame]] | access-date = 2009-06-25 | archive-url=https://web.archive.org/web/20090820063934/http://www.allgame.com/game.php?id=24396 | archive-date=2009-08-20}}</ref><ref>{{Cite web | url = http://www.ign.com/articles/2003/08/11/midway-arcade-treasures-6 | title = Midway Arcade Treasures | first = Craig | last = Harris | date = 2003-08-11 | publisher = [[IGN]] | access-date = 2009-06-25}}</ref><ref>{{cite web | url = http://www.ign.com/articles/2012/11/14/midway-arcade-origins-review | first = Samuel | last = Claiborn | title = Squeezing 30 fridge-sized games onto a disc proves difficult | publisher = [[IGN]] | date = 2012-11-13 | access-date = 2014-07-20}}</ref><ref>{{cite web | url = https://www.gamespot.com/articles/3-new-arcade1up-cabinets-are-available-for-preorder/1100-6503647/ | first = Steven | last = Petite | first2 = Jon | last2 = Bitner | title = 3 New Arcade1Up Cabinets Are Available For Preorder | publisher = [[GameSpot]] | date = 2022-05-19 | access-date = 2023-05-02}}</ref>
+
+== Notes ==
+{{portal|Video games}}
+<references group="Note" />
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://www.arcade-history.com/index.php?page=detail&id=347 ''Bubbles''] at Arcade History
+
+{{good article}}
+
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Action games]]
+[[Category:Williams video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games about ants]]

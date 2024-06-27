@@ -1,0 +1,73 @@
+Frenzy (1984 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Frenzy_%281984_video_game%29&oldid=1224651232
+Accessed on: 2024-06-26T16:56:49.533511
+
+
+
+------
+Frenzy (1984 video game)
+{{about|the 1984 Qix clone published by Micro Power|the 1982 Bezerk sequel published by Stern Electronics|Frenzy (1982 video game)}}
+
+{{Infobox video game
+| title = Frenzy
+| image = Frenzy (Micro Power) cassette front cover (Acorn Electron).png
+| image_size = 150px
+| caption=[[Acorn Electron]] cassette cover
+| developer =
+| publisher = [[Micro Power]]
+| engine = 
+| released = 1984 (BBC Micro, Acorn Electron), 1985 (Commodore 64)
+| genre = Arcade, [[Qix]] clone
+| modes = [[Single-player]]
+| platforms = [[Acorn Electron]]<br />[[BBC Micro]]<br />[[Commodore 64]]
+}}
+
+'''''Frenzy''''' is an [[8-bit]] computer game published in the UK by [[Micro Power]] in 1984.
+<ref name="inlay-1">{{cite journal|year=1984|title = Acorn Electron cassette inlay|journal=Frenzy|quote=Deadly sub-atomic particles are running free in a scientific research centre}}</ref>
+It is a version of the arcade game ''[[Qix]]''.<ref name="bbcmicrogames-1">{{cite web|url=http://www.bbcmicrogames.com/bestrest.html|title=Only the Best BBC Micro Games|accessdate=2010-10-10|first=Oliver|last=Robinson|publisher=www.bbcmicrogames.com|quote=Frenzy, and Kix were both versions of an arcade game called 'Qix', which unfortunately, is hard to come by these days.}}</ref>
+The game was released for the [[Acorn Electron]]<ref name="retrogames-1">{{cite web|url=http://www.retrogames.co.uk/more/on/details/010208|title=Frenzy by Micro Power from Retrogames|accessdate=2010-10-10|publisher=Retrogames|quote=1984 Arcade action game. For Acorn Electron Computers.}}</ref>
+and [[BBC Micro]]<ref name="gamespot-1">{{cite web|url=http://uk.gamespot.com/bbc/action/frenzy/tech_info.html?tag=tabs%3Bsummary|title=Frenzy for BBC Micro|accessdate=2010-10-10|publisher=[[GameSpot]]|quote=Publisher: Micro Power}}{{dead link|date=October 2019}}</ref>
+in 1984 and for the [[Commodore 64]]<ref name="lemon64-1">{{cite web|url=http://www.lemon64.com/games/details.php?ID=981|title=Frenzy 1985, Micro Power|accessdate=2010-10-10|publisher=www.lemon.com|first=Kim|last=Lemon|quote=Genre: Arcade, Miscellaneous Players: 1 Only}}</ref> in 1985.
+
+==Description==
+[[Image:Frenzy (Micro Power) in-game screenshot (BBC Micro).png|thumb|left|In-game screenshot (BBC Micro)]]
+Although the gameplay is similar to ''[[Qix]]'', the backstory for Frenzy involves the player controlling a robot craft, attempting to capture deadly sub-atomic [[Lepton]]s from inside a scientific research centre.<ref name="inlay-1"/>
+
+In Frenzy, a Lepton is captured if it is trapped in an area enclosed by the player's robot craft or if 95% of the screen area has been filled. The robot craft has two speeds and the score for filling in an area using only the slower speed is subject to a 2x multiplier. ''Chasers'' appear in higher levels which can collide with the player's robot craft, causing a life to be lost. The number of Leptons and Chasers increase as the levels progress, up to a maximum of five of each on the most difficult screens—except for Levels 12 and 14, which have a smaller number of Leptons (and no Chasers) but the Leptons move much faster. The player obtains an extra craft on completing the third, sixth and ninth screens.<ref name="inlay-1"/> It has been found<ref name="youtube-2"/> that after level 14, the last two screens repeat indefinitely.
+
+It is stated in the instructions that a good strategy is to build narrow filled blocks using the faster speed across the centre of an unfilled area, and then finally seal the area off by using only the slower mode.<ref name="inlay-1"/> This maximises the score while reducing the risk of using "slow mode" to a minimum. It can be seen that players of the game tend to stick to this strategy.<ref name="youtube-2">{{cite web|url=https://www.youtube.com/watch?v=vysFhSUQJpA |archive-url=https://ghostarchive.org/varchive/youtube/20211221/vysFhSUQJpA |archive-date=2021-12-21 |url-status=live|title=BBC Micro game Frenzy|accessdate=2010-10-10|publisher=[[YouTube]]|quote=In this video I take a break from Repton and revisit another childhood memory by completing all fourteen unique levels of the game Frenzy. (It turns out that after Level 14, the last two levels repeat indefinitely.)}}{{cbignore}}</ref>
+<ref name="youtube-1">{{cite web|url=https://www.youtube.com/watch?v=u_eJ3gJhvEw |archive-url=https://ghostarchive.org/varchive/youtube/20211221/u_eJ3gJhvEw |archive-date=2021-12-21 |url-status=live|title=BBC Micro game Frenzy|accessdate=2010-10-10|publisher=[[YouTube]]|quote=Simple, but addictive}}{{cbignore}}</ref>
+
+Some players<ref name="youtube-2"/> remark that Frenzy is not an exact ''Qix'' clone. Although the game is clearly derived from ''Qix'', 
+there are crucial differences. In ''Qix'', completing a line fills in the area ''not containing the Qix'' regardless of size, whereas in Frenzy, the smaller area is always coloured, allowing Leptons to be trapped (which kills them). In ''Qix'', filling a set percentage is the only way to complete levels; in Frenzy it is more common to complete levels by killing all the Leptons. Also, in Frenzy, the Leptons move in a regular, completely deterministic pattern, and the player's robot craft is permitted to hesitate, making Frenzy a different playing experience to ''Qix''.<ref name="youtube-1"/>
+
+==Critical reception==
+Generally, the game has received a positive response from both players and reviewers.
+
+Frenzy was reviewed in the August 1984 edition of ''[[Acorn User]]'' (Issue 25)
+<ref name="acornuser-1">{{cite web|url=http://www.computinghistory.org.uk/cgi-bin/sitewise.pl?act=det&p=3981|title=Acorn User Archives: Issue 25 : August 1984|accessdate=2010-10-10|publisher=[[Acorn User]]|quote=Hopper from Acornsoft, Frenzy from Micropower.}}</ref>
+and also in issue 2.06 of ''[[Electron User]]''.<ref name="acornelectron-1">{{cite web|url=http://www.acornelectron.co.uk/mags/eu/revs/micropower/r-fren.html|title=Simplicity Makes A Winner|accessdate=2010-10-10|publisher=[[Electron User]] (Issue 2.06)|first=Adam|last=Young|quote=A cool head, a steady hand and nerves of steel should ensure you a top score in this excellent game.|archive-date=2011-07-17|archive-url=https://web.archive.org/web/20110717131511/http://www.acornelectron.co.uk/mags/eu/revs/micropower/r-fren.html|url-status=dead}}</ref>
+Adam Young in his review entitled "Simplicity Makes a Winner" described the game as "one of the most amusing and compulsive games on the market" and "excellent".
+
+Oliver Robinson enjoyed playing Frenzy by Micropower. Comparing the game to another similar game called ''Kix'' he wrote: "Although, ''Kix'' arguably had better music, ''Frenzy'' had better gameplay".<ref name="bbcmicrogames-1"/> The music to Kix is "[[Scarborough Fair (ballad)|Scarborough Fair]]" and "[[House of the Rising Sun]]"; Frenzy has no music at all.
+
+Other players have described the game as "a great family favourite",<ref name="youtube-2"/> a "favourite game" and 
+"simple, but addictive".<ref name="youtube-1"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{gb64 game|id=2927}}
+
+{{Micro Power}}
+
+{{DEFAULTSORT:Frenzy (Micro Power Video Game)}}
+[[Category:1984 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Micro Power games]]
+[[Category:Single-player video games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Qix clones]]

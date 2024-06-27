@@ -1,0 +1,89 @@
+Star Fire
+Permalink: //en.wikipedia.org/w/index.php?title=Star_Fire&oldid=1224118465
+Accessed on: 2024-06-26T16:47:59.344430
+
+
+
+------
+Star Fire
+{{short description|1978 video game}}
+{{For|articles with similar names|Starfire (disambiguation){{!}}Starfire}}
+{{Infobox video game
+|image=Star fire arcadeflyer.png
+|title=Star Fire
+|caption=Arcade flyer
+|developer=[[Exidy]]
+|publisher={{vgrelease|NA|[[Exidy]]|JP|[[Taito]]/[[Hayao Nakayama|Esco]]<ref name="MAD">{{cite web |title=Star Fire |url=https://mediaarts-db.bunka.go.jp/id/M732672 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=31 May 2021}}</ref>}}
+|platforms= [[Arcade video game|Arcade]], [[Atari 8-bit]], [[Commodore 64]]
+|release={{ubl|'''Arcade'''|{{vgrelease|NA|December 1978|JP|June 1979<ref name="MAD"/>}}|'''Atari 8-bit, C64'''|1983}}
+|designer=Ted Michon
+|programmer=David Rolfe
+|artist=Susan Ogg<ref name=mame/>
+|modes= [[Single-player video game|Single-player]]
+|arcade system=
+|genre=[[Space combat game|Space combat]]
+}}
+
+'''''Star Fire''''' is a first-person arcade coin-operated [[space combat]] video game created by Technical Magic for Midway-Bally and licensed for manufacture
+to [[Exidy]] in December 1978.<ref name="Akagi"/> It was distributed in Japan by [[Taito]] and [[Hayao Nakayama|Esco Trading]] in 1979. Designed by Caltech engineers Ted Michon,<ref name=ah/> and David Rolfe and inspired by the movie ''[[Star Wars (film)|Star Wars]]'', the game is not based on a licensed property.
+
+''Star Fire'' was a major success for Exidy, and became the first arcade video game to use an enclosed sit-down cockpit [[arcade cabinet|cabinet]],<ref> {{KLOV game|id=9758}}</ref>{{r|pearl198306}}, the first to allow a highest scoring player to enter their initials in a [[high score]] table, and one of the first to be built on a reprogrammable microprocessor based game system with full screen color graphics. It was followed by an updated version, '''''Star Fire II''''', with fixes. It was then ported by [[Epyx]] to [[Commodore 64]] and [[Atari 8-bit computers]] in a bundle with ''Fire One'', another Exidy game.
+
+==Gameplay==
+[[File:Star Fire screenshot.png|thumb|left|Arcade screenshot]]
+
+The player flies through starfields, zapping enemy starfighters out of existence. The player controls whether the ship is moving forward or backwards via a lever, and a control yoke translates the player's view left, right, up, or down. The player has a button that fires quad-linked lasers at a targeting reticle.  The lasers travel slowly, taking about two seconds to reach their target, and only one shot can be in the air at once.  Furthermore, each shot the player fires causes heat to build up in his ship.  If the player's rate of fire is too high, the guns will overheat and need to cool down before they will fire again.
+
+If the player can maneuver such that a [[TIE fighter]]-like ship is directly in the targeting reticle, the weapon will "lock on" and any shots fired will automatically hit. When the player successfully shoots an enemy fighter, the screen displays "GOT HIM". Occasionally, a thinner, horizontally oriented ship that looks like a Colonial Viper from ''[[Battlestar Galactica]]'' will be seen. These have "Exidy" written on their tails, and are worth the largest number of points.  If the player successfully shoots this ship, the screen displays "GOT US". These ships can not be locked onto.
+
+The game is timed and the more money is put in, the longer the player can play. As the player shoots enemy ships, they increase in skill, and also in point value. If the player reaches certain point thresholds, more fuel is obtained, extending play. The player's ship can be shot; this simply resets the quality of enemies (and thus their point value) down to the lowest level.
+
+Player high scores are recorded at the end of each game. A novelty for an arcade game, players can input their initials next to their scores to mark the scores as theirs. Entering certain sets of initials into the high score table will cause the game to display certain messages. "DBR" will display "HI DAVE", "SKO" "HI SUSAN", and "TZM" "HI TED"—a reference to the authors' names.<ref name=Gaming-Alexandria/>
+
+==Development==
+Ted Michon, an alumnus of California Technical Institute, was a technician for the arcade company Digital Games/Micronetics. There, he created an early microprocessor game called ''Night Racer'' before leaving the company in 1976 to found his own arcade company called Techni-Cal. He hired David Rolfe, an assembly programmer from the Institute who had no interest in video games, but was willing to solve coding problems.<ref name=Gaming-Alexandria/>
+
+Michon was inspired by the spaceship battles in the film ''Star Wars'', and devised a game that aimed to recreate the sense of freedom of space flight. Michon's girlfriend (and later wife), Susan Ogg,<ref name=mame/> was the game's artist. The assets drawn were heavily borrowed from ''Star Wars'', from the logo and the TIE fighter-like enemy ships to the [[X-wing fighter|X-wing]]-like laser cannons on the player's ship. The developers had hoped that they could secure a ''Star Wars'' license, which would have made their product the first official ''Star Wars'' video game. Michon chose a monitor that could display up to eight colors. To achieve this end, he designed what was probably a "color cell" system that was similarly employed by [[Commodore 64]]. To save memory, compromises were made such as stars possibly changing from white to blue when enemy ships pass in front of them. Next, to create a 3D effect, using a technique called sprite-scaling, Owen would draw different images of the same enemy spacecraft, and Rolfe would switch the sprites with larger versions as they approached the player. The result required an enormous 21 ROM chips to store the graphics and code.<ref name=Gaming-Alexandria/>
+
+The developers entered a deal with [[Midway Manufacturing]] to publish the game, but Midway was unimpressed with the team's project, and its president, Hank Ross, suggested that the team replace the enemy starship with a witch on a bicycle in the style of ''[[The Wizard of Oz (1939 film)|The Wizard of Oz]]''. Even with this change, however, the game was not considered to meet Midway's standards, and so it dropped the publishing deal. With no one to fund their project, Rolfe spent extra time at his second job at APh Technological Consulting, who was working to lay down the programming framework for what would become the [[Mattel Intellivision]]. Michon found and contacted Exidy, a small arcade company based in [[Sunnyvale, California]] who developed titles such as ''[[Death Race (1976 video game)|Death Race]]'' and ''[[Circus (video game)|Circus]]''. Exidy, who sought to push technical boundaries, agreed to publish the game. "Exidy" wordmarks were added, including on the starship that replaced the witch, and the cabinet was designed to be sit-down for enhanced immersion.<ref name=Gaming-Alexandria/> It was released as ''Star Fire'' in December 1978.<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=117 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n118}}</ref>
+
+By March 1980, Exidy was in the stage of selling the last of its ''Star Fire'' cabinets.<ref>{{cite magazine|url=https://archive.org/details/cashbox41unse_41/page/42|title=California Clippings|magazine=[[Cashbox (magazine)|Cashbox]]|date=1980-03-08|access-date=2022-05-30|volume=41|issue=43|page=42}}</ref>
+
+[[Epyx]] [[porting|ported]] ''Star Fire'' and another Exidy game, ''Fire One!'', to the [[Atari 8-bit computers]] and [[Commodore 64]], and released them in 1983 as an arcade classics compilation.<ref>{{cite web|title = Arcade Classics: Star Fire / Fire One!|website = Atari Mania|url=http://www.atarimania.com/game-atari-400-800-xl-xe-arcade-classics-starfire-fire-one_1170.html|accessdate = 2011-02-01 }}</ref>
+
+''Exidy'' created an update called ''Star Fire II'' which improved the high score table.<ref name=mame/>
+
+==Reception==
+Reviewing it at the 1978 Amusement & Music Operators Association Exposition, ''[[Play Meter]]'' praised the game's mostly enclosed cabinet design as providing a sense of actually piloting a ship in space. It compared the game to [[Atari, Inc.|Atari]]'s ''[[Starship 1]]'', but contrasted the two as the former used a color monitor. It further lauded the game's visuals and sound effects, and noted its initials-based high score system and that in-game collisions with enemy fighters cause the entire cabinet to vibrate.<ref>{{cite magazine|url=https://archive.org/details/play-meter-volume-4-number-23-december-15th-1978/page/17|title=Other Theme Games|last=Lally II|first=Ralph C.|magazine=[[Play Meter]]|date=1978-12-15|access-date=2022-05-30|volume=4|issue=23|pages=17–18}}</ref> A 1983 article in ''[[Electronic Games]]'' called ''Star Fire'' a "closet classic ... deserving of a better fate", and "ahead of its time and unable to find a market".<ref name="pearl198306">{{cite news | url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n79/mode/2up | title=Closet Classics | work=Electronic Games | date=June 1983 | accessdate=2015-01-06 | author=Pearl, Rick | pages=82}}</ref>
+
+==Legacy==
+''Star Fire'' is remembered as the first game to allow players to enter their initials next to their high scores.<ref>[http://foe.typepad.com/blog/2003/09/high_score.html "High Score"]</ref><ref>{{cite journal | title = Generations of Game Analytics, Achievements and High Scores   |first = Ben | last = Medler | journal = Eludamos. Journal for Computer Game Culture | volume =3 | issue = 2 | pages=  177–194 | date = 2009 |doi = 10.7557/23.6004 |s2cid = 62097541 | doi-access = free }}</ref> It is also one of the few games where the copyright holder has granted permission to freely run the game in [[MAME]] for non-commercial purposes.<ref name=mame>{{cite web|title=Star Fire|url=http://www.mamedev.com/roms/starfire/|website=MAME}}</ref><ref>{{cite web|url=https://www.gamestar.de/artikel/alle-spiele-per-emulator-teil-1-mame-dosbox-scummvm,1956340,seite2.html|title=Alle Spiele per Emulator - Teil 1: MAME, DOSBox, ScummVM|language=de|trans-title=All games for each emulator - Part 1: MAME, DOSBox, ScummVM|last=Wielselsberger|first=Georg|work=[[GameStar]]|date=2009-05-30|access-date=2022-05-30|page=2|archive-url=https://web.archive.org/web/20220530065639/https://www.gamestar.de/artikel/alle-spiele-per-emulator-teil-1-mame-dosbox-scummvm,1956340,seite2.html|archive-date=2022-05-30|url-status=live}}</ref>
+
+''Star Fire'' appeared as a major plot element in [[Disney Studios]]' ''[[Midnight Madness (1980 film)|Midnight Madness]]'' (1980), in which competing teams of college students hunting for treasure are led to an arcade to try to obtain a high score for this game in exchange for one of the clues to the treasure.<ref>{{cite magazine|url=https://archive.org/details/cashbox41unse_45/page/39|title='Stare Fire' Shines In Disney Movie|magazine=[[Cashbox (magazine)|Cashbox]]|place=[[Sunnyvale, California]]|date=1980-04-05|access-date=2022-05-30|volume=41|issue=47|page=39}}</ref>
+
+The current record for the high score is 9,780 points, set by Laura Curran of [[Las Vegas Valley|Las Vegas]] in January 1982. As of 2010 this was the oldest high score record in the [[Twin Galaxies]] arcade database.<ref>The Denton Arcade Game Examiner: Longest-standing classic arcade video game record revealed, 03 May 2010</ref>
+
+On August 19, 2020, 41 years after its launch, David Rolfe uploaded the source code of the updated version of ''Star Fire'', ''Star Fire II'', to the [[Internet Archive]] under the [[Creative Commons license|Creative Commons Attribution 4.0 license]].<ref name=Gaming-Alexandria/>
+
+==References==
+{{reflist|refs=
+<ref name=ah>{{cite web |title=Star Fire |url=https://www.arcade-history.com/?n=star-fire-upright-model&page=detail&id=2613 |website=Arcade History}}</ref>
+<ref name=Gaming-Alexandria>{{cite web|url=https://www.gamingalexandria.com/wp/2020/08/enter-your-initials-preserving-the-source-code-of-star-fire-a-forty-year-old-arcade-game/|title=Enter Your Initials: Preserving The Source Code of Star Fire, a Forty Year Old Arcade Game|last=Johnson|first=Ethan|work=Gaming Alexandria|date=2020-08-21|access-date=2022-05-30|archive-url=https://web.archive.org/web/20220530070324/https://www.gamingalexandria.com/wp/2020/08/enter-your-initials-preserving-the-source-code-of-star-fire-a-forty-year-old-arcade-game/|archive-date=2022-05-30|url-status=live}}</ref>
+}}
+
+==External links==
+*{{KLOV game|id=9758}}
+*[http://www.gooddealgames.com/interviews/int_rolfe.html Interview with ''Star Fire'' designer David Rolfe].
+
+[[Category:1978 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Epyx games]]
+[[Category:Exidy games]]
+[[Category:Shoot 'em ups]]
+[[Category:Single-player video games]]
+[[Category:Space combat simulators]]
+[[Category:Taito games]]
+[[Category:Video games developed in the United States]]

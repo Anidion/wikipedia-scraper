@@ -1,0 +1,80 @@
+Strontium Dog: The Killing
+Permalink: //en.wikipedia.org/w/index.php?title=Strontium_Dog%3A_The_Killing&oldid=1229807263
+Accessed on: 2024-06-26T16:57:40.867107
+
+
+
+------
+Strontium Dog: The Killing
+{{Short description|1984 video game}}
+{{Infobox video game
+| title        = Strontium Dog: The Killing
+| image        = Strontium Dog The Killing cover.jpg
+| developer    = [[Channel 8 Software]]
+| publisher    = [[Quicksilva]]
+| series       = ''[[Strontium Dog]]''
+| released     = {{Video game release|EU|1984}}
+| genre        = [[Action game|Action]]
+| modes        = Single-player
+| platforms    = [[ZX Spectrum]]
+}}
+'''''Strontium Dog: The Killing''''' is an [[action game]] developed by [[Channel 8 Software]] and published by [[Quicksilva]]. The game was released for the [[ZX Spectrum]] in 1984.
+
+== Plot ==
+The game is based on the story of the same name from the British comic book series "[[Strontium Dog]]", which is published in [[2000 AD (comics)|2000 AD]] magazine.<ref name="cvg">{{Cite magazine |date=February 1985 |title=The Killing |url=https://archive.org/details/cvg-magazine-040/page/n41/mode/1up?view=theater |magazine=[[Computer and Video Games]] |issue=40 |pages=39–41}}</ref> The game stars Johnny Alpha, one of the mutant [[bounty hunter]]s known as "strontium dogs". He undertakes a dangerous mission on the alien planet Zed, located somewhere at the center of the [[Milky Way]] galaxy.<ref name="crash">{{Cite magazine |date=February 1985 |title=Strontium Dog (The Killing)|url=https://archive.org/details/crash-magazine-13/page/n121/mode/1up?view=theater |magazine=[[Crash (magazine)|Crash]] |issue=13 |pages=122–123}}</ref><ref name="bigk">{{Cite magazine |date=November 1984 |title=On the Trail of The Bounty Hunter|first=Richard|last=Burton|url=https://archive.org/details/Big_K_Issue_08_1984_Nov/page/n41/mode/1up?view=theater |magazine=[[Big K (magazine)|Big K]] |issue=8 |pages=40–42}}</ref>
+
+The game begins with an introductory scene showing the dictators of Zed announcing the start of an annual ritual called "The Killing". During this event, the dictators sacrifice a victim and stage a contest between killers from every corner of the galaxy. The participants, who are criminals with bounties on their heads, must fight to the death in a city serving as the killing ground. The sole survivor of the contest is awarded a substantial monetary prize.<ref name="crash" /><ref name="bigk" />
+
+Johnny Alpha enters the contest with the dual objectives of collecting bounties on the criminal participants and ultimately destroying the dictators of Zed to put an end to their brutal ritual.<ref name="cvg" /><ref name="crash" /><ref name="bigk" />
+
+== Gameplay ==
+''Strontium Dog: The Killing'' is an action game set in a large maze consisting of 256 rooms, arranged in a 16x16 grid. The player controls the main character, Johnny Alpha, as he navigates through the maze to find and eliminate alien killers. The rooms, also referred to as sectors, are relatively similar in design. The objective is to explore the maze, locate the enemies, and kill them while avoiding their attacks.<ref name="cvg" /><ref name="sinclairprograms">{{Cite magazine|date=January 1985 |title=Strontium Dog|url=https://archive.org/details/sinclair-programs-27/page/n12/mode/1up?view=theater |magazine=[[Sinclair Programs]] |issue=27 |pages=13}}</ref><ref name="tilt">{{Cite magazine |lang=fr |date=July-August 1985 |title=Strontium, the Killing Dog|url=https://archive.org/details/Tilt023/page/n15/mode/2up |magazine=[[Tilt (French magazine)|Tilt]] |issue=23 |pages=17, 22}}</ref>
+
+The gameplay primarily takes place in two types of rooms: those with central passages and those serving as passageways to other sectors. In rooms with central passages enemies run down the sides of the room and fire energy bolts that bounce and travel in a diamond shape, making tighter loops before expiring. The player must dodge these bolts while attempting to shoot the enemies, which is largely based on chance. Character cannot move while firing.<ref name="crash" /><ref name="sinclairprograms" /><ref name="tilt" />
+
+In passageway rooms, enemies can also appear and ambush Johnny, immediately opening fire upon spotting him. The game features a single difficulty level and is considered challenging due to its size and the ease with which players can become lost. To aid in navigation and ensure all enemies are found, players are encouraged to create their own maps of the maze.<ref name="cvg" /><ref name="crash" />
+
+Johnny Alpha is equipped with a laser gun that has unlimited charges and three electro-flares. The player begins the game with four lives, and losing all lives results in a game over, returning the player to the intro screen.<ref name="cvg" /><ref name="tilt" />
+
+The game's display shows the current room and the main character, with a status panel located in the top left corner. This panel provides information such as the player's score in bounty points, the current sector number, the number of lives remaining, and the count of enemies still alive, which starts at 93.<ref name="cvg" /><ref name="crash" />
+
+== Development ==
+Mark Eyles, a Creative Design Executive at [[Southampton]]-based [[Quicksilva]], was considering the British comic magazine ''2000 AD'' characters for a video game adaptation. Although [[Judge Dredd]] was the first choice, [[Games Workshop]] had already licensed the rights. Consequently, Quicksilva opted for ''Strontium Dog'', a popular and long-running series in the magazine. After securing the license from ''2000 AD'''s publishers, [[IPC Magazines]], Quicksilva developed ''[[Strontium Dog and the Death Gauntlet]]'' for the [[Commodore 64]].<ref name="bigk" />
+
+Concurrently, in April 1984, John Williams, the managing director of [[Channel 8 Software]] and a fan of ''2000 AD'', conceived the idea for a video game based on one of the ''Strontium Dog'' storylines. He assigned the project to Paul Hargreaves, a 15-year-old programmer from [[Leyland, Lancashire|Leyland]] who had previously developed ''[[Borzak]]'', published by Channel 8. Hargreaves worked on the game during evenings, weekends, and school holidays, completing it in August 1984.<ref name="bigk" />
+
+Following the completion of Channel 8's ''Strontium Dog'' game, Williams and Hargreaves traveled to [[London]] to pitch their product to IPC Magazines. The game was evaluated and deemed a solid offering. Upon learning that Quicksilva already held the ''Strontium Dog'' license and had developed their own game, Channel 8 representatives contacted Quicksilva, and the two companies agreed to collaborate, with Quicksilva publishing Channel 8's game.<ref name="bigk" />
+
+== Reception ==
+{{Video game reviews
+| CVG = 27/40<ref name="cvg" />
+| CRASH = 42%<ref name="crash" />
+| TILT = 11/15<ref name="tilt" />
+| rev1 = [[Your Spectrum]]
+| rev1Score = 4/15<ref name="ys" />
+| rev2 = [[Sinclair Programs]]
+| rev2Score = 62%<ref name="sinclairprograms" />
+| rev3 = Home Computing Weekly
+| rev3Score = {{rating|4|5}}<ref name="hcw">{{Cite magazine |date=January 8, 1985 |title=Strontium Dog (The Killing)|url=https://archive.org/details/home-computing-weekly-094/Home_Computing_Weekly_094?view=theater#page/n19/mode/1up |magazine=Home Computing Weekly |issue=94 |pages=20}}</ref>
+}}
+''Strontium Dog: The Killing'' received mixed reviews from critics. ''[[Computer and Video Games]]'' praised the graphics, particularly the well-drawn and animated depiction of the Johnny Alpha character, which was recognizable from the ''2000 AD'' comics. However, the magazine criticized the limited documentation, noting that the instruction manual was very brief and Quicksilva suggested reading back issues of the comic to fill in the gaps. The reviewer found the game entertaining but difficult to play.<ref name="cvg" />
+
+''[[Your Spectrum]]'' reviewers found the gameplay tedious, with the player wandering aimlessly and only occasionally engaging in combat. They lamented that the game, despite its size, lacked substantial content.<ref name="ys">{{Cite magazine |date=March 1985 |first1=Ross|last1=Holman|first2=Dave|last2=Nicholls|first3=Roger|last3=Willis|title=Strontium Dog - The Killing |url=http://www.users.globalnet.co.uk/~jg27paw4/yr12/yr12_27.htm |journal=[[Your Spectrum]] |issue=40 }}</ref>
+
+''[[Crash (magazine)|Crash]]'' magazine's reviewer was critical of the game, stating that it consisted mainly of empty or repetitive rooms with flashing force fields. The reviewer noted the needlessly ruthless opening routine involving human sacrifice and criticized the jerky graphics, poor sound, and lack of animation. The game's confusing layout and unbalanced enemy difficulty were also highlighted as issues. While the use of color was praised, the reviewer found the game lacking in original and appealing elements, ultimately deeming it a disappointment.<ref name="crash" />
+
+''[[Sinclair Programs]]'' described the game's maze as simple to map but intricate, requiring both luck and skill to defeat enemies. The reviewer suggested that the game might not appeal to everyone.<ref name="sinclairprograms" />
+
+''Home Computing Weekly'' praised graphics and sound. The enemies were described as standard but powerful. However, the originality was criticized, with the game structure being compared to [[Atic Atac]].<ref name="hcw" />
+
+== References ==
+{{reflist}}
+
+[[Category:1984 video games]]
+[[Category:Action games]]
+[[Category:Single-player video games]]
+[[Category:Video games based on comics]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set on fictional planets]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

@@ -1,0 +1,60 @@
+Action Quest
+Permalink: //en.wikipedia.org/w/index.php?title=Action_Quest&oldid=1224580259
+Accessed on: 2024-06-26T16:52:51.958735
+
+
+
+------
+Action Quest
+{{Use dmy dates|date=June 2022}}
+{{short description|1982 video game}}
+{{About|the 1982 video game|the organization|ActionQuest}}
+{{Infobox video game
+| title = Action Quest
+| image = File:Action Quest cover.jpg
+| caption =
+| released = {{vgrelease|NA|May 1982<ref name="anderson"/>}}
+| designer = Jack Verson<ref name=giantlist/>
+| programmer = 
+| publisher = JV Software<br>Roklan
+| developer = JV Software
+| platforms = [[Atari 8-bit]]
+| genre = [[Action game|Action]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Action Quest''''' is a video game written by Jack Verson for [[Atari 8-bit computers]].<ref name=giantlist/> It was published in 1982 by his company, JV Software. ''Action Quest'' combines real-time action with puzzle solving as the player explores 30 rooms in an attempt to collect 20 treasures.<ref name=box/> Reviewers found the combination to be different from how puzzles in games—such as [[graphic adventure]]s—worked at the time.
+
+==Gameplay==
+{{Expand section|date=March 2021}}
+[[File:Action Quest gameplay.png|thumb|left|Gameplay screenshot]]
+
+The player takes the role of a gun-carrying ghost exploring a world divided into 5 levels with 6 rooms on each.<ref name=atari83/> Rooms contain monsters or timed-puzzles. The gun is used both to defend against monsters and to aid in puzzle solving.
+
+==Reception==
+''The Creative Atari'' commented on the generic name, but found the real-time aspect to be "a rather radical departure from the format of traditional adventure games."<ref name=ca/> The style was also new to [[John J. Anderson]] of ''[[Computer Gaming World]]''{{'}}s "Atari Arcade" column: "Rather than entering coded text commands, as one would expect with a conventional adventure program, this program is played solely with joystick and trigger."<ref name=anderson/>
+
+In a "B−" review, the ''Book of Atari Software 1983'' stated, "The game's sounds and graphics are fair. The puzzle content is high enough that it will take several hours to retrieve all twenty treasures."<ref name=atari83/> John Anderson agreed about the puzzles: "The play-value of this program won't diminish until you've reached the thirtieth room, which shall take quite some time to accomplish".<ref name=anderson/>
+
+==Legacy==
+''Action Quest'' was followed by a sequel from the same author, ''Ghost Encounters''.<ref>{{cite web |title=Ghost Encounters |url=http://www.atarimania.com/game-atari-400-800-xl-xe-ghost-encounters_2198.html |website=Atari Mania}}</ref> Both games were later combined on a cartridge and published by Roklan as ''Castle Hassle''.<ref>{{cite web |title=Castle Hassle |url=http://www.atarimania.com/game-atari-400-800-xl-xe-castle-hassle_921.html |website=Atari Mania}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|url=https://dadgum.com/giantlist|title=The Giant List of Classic Game Programmers|last1=Hague|first1=James}}</ref>
+<ref name=box>{{cite web |title=Action Quest back of box |url=http://www.atarimania.com/8bit/boxes/hi_res/action_quest_jv_d7_2.jpg |website=Atari Mania}}</ref>
+<ref name=ca>{{cite book |title=The Creative Atari |date=1983 |publisher=Creative Computing Press |pages=177–178 |isbn=9780916688349 |url=https://archive.org/details/ataribooks-the-creative-atari/page/n177/mode/2up}}</ref>
+<ref name=atari83>{{cite book |title=Book of Atari Software 1983 |date=1983 |publisher=The Book Company |page=128 |url=https://archive.org/details/ataribooks-the-book-of-atari-software-1983/page/n129/mode/2up}}</ref>
+<ref name=anderson>{{cite magazine |last1=Anderson |first1=John J. |title=Atari Arcade |magazine=Computer Gaming World |date=May–June 1982 |volume=2 |issue=3 |page=18 |url=https://archive.org/details/Computer_Gaming_World_Issue_2.3/Computer_Gaming_World_Issue_2.3/page/n19/mode/2up}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=71}}
+*[https://archive.org/details/creativecomputing-1982-08/page/n63/mode/2up Review] in ''[[Creative Computing]]''
+
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Video games about ghosts]]
+[[Category:Video games developed in the United States]]

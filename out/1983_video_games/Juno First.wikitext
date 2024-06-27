@@ -1,0 +1,70 @@
+Juno First
+Permalink: //en.wikipedia.org/w/index.php?title=Juno_First&oldid=1224150423
+Accessed on: 2024-06-26T16:55:14.743341
+
+
+
+------
+Juno First
+{{Short description|1983 video game}}
+{{more citations needed|date=January 2011}}
+{{Infobox video game
+|title= Juno First
+|image= JunoFirst.png
+|caption= Arcade flyer
+|developer= [[Konami]]
+|publisher= {{vgrelease|JP|[[Konami]]}}{{vgrelease|JP|[[Sony]] (MSX)}} {{vgrelease|EU|[[Sony]] (MSX)}} {{vgrelease|NA|[[Gottlieb]] (arcade)}} {{vgrelease|NA|[[Datasoft]] (home computers)}}
+|designer= 
+|series= 
+|engine= 
+|released= '''Arcade'''{{vgrelease|WW|1983}}'''MSX'''{{vgrelease|EU|1983}}{{vgrelease|JP|1983}}'''Commodore 64'''{{vgrelease|NA|1983}}'''Atari 8-bit, IBM PC, PCjr'''{{vgrelease|NA|1984}}
+|genre= [[Fixed shooter]]
+|modes= 1-2 players alternating turns
+|platforms= [[Arcade video game|Arcade]], [[Commodore 64]], [[Atari 8-bit]], [[MSX]], [[IBM PC]], [[IBM PCjr]]
+|arcade system= 
+|width= 
+}}
+
+{{nihongo|'''''Juno First'''''|ジュノファースト}} is an [[arcade video game]] developed by [[Konami]] and released in 1983. It was licensed to [[Gottlieb]] in the [[United States]]. ''Juno First'' is a [[fixed shooter]] with a slightly tilted [[2.5D|perspective]], similar to Nintendo's ''[[Radar Scope]]'' from 1980.<ref>[https://archive.today/20120715205325/http://www.1up.com/do/feature?pager.offset=1&cId=3181467 Where Were They Then: The First Games of Nintendo, Konami, and More (Nintendo)], [[1UP.com|1UP]]</ref> The game was ported to the [[Commodore 64]], [[Atari 8-bit computers]], [[MSX]], [[IBM PC]],  and [[IBM PCjr]].
+
+==Gameplay==
+{{confusing section|date=May 2015}}
+
+''Juno First'' presents a set number of enemies per level, but they do not make a gallery formation like ''[[Galaga]]'' or ''[[Space Invaders]]''. Instead, the player's ship can move forward and backward (in addition to left and right) to hunt enemies in an orientation that is vertical, but has some horizon-oriented tilt. This style of gameplay would be re-used in a later Konami shooter, ''[[Axelay]]''.
+
+The player destroys waves of enemies to finish levels. Starting formations vary from stage to stage. In addition, the player can pick up a humanoid, upon which the screen will have a red tint. While this happens, every enemy the player shoots will earn the player 200 more points than the previous enemy destroyed. The original score for shooting an enemy while in humanoid mode depends on the stage.
+
+==Ports==
+''Juno First'' was first ported in the western market to the [[Commodore 64]] in 1983. Conversions for the [[Atari 8-bit computers]] and [[IBM PC]]/[[IBM PCjr|PCjr]] were released in 1984. All of these ports were handled by [[Datasoft]]. The Commodore and Atari ports were programmed by Greg Hiscott. The IBM version was programmed by Scott Titus.
+
+In Japan, [[Sony]] released a conversion of ''Juno First'' in 1983 for [[MSX]] computers. This version soon made its way to other MSX markets as well.
+
+==Legacy==
+An unofficial hobbyist port—with the same name as the original—was made available for the [[Atari 2600]].<ref>{{cite web |title=Juno First - Final Version |url=https://atariage.com/forums/topic/125269-juno-first-final-version-atari-2600/ |website=AtariAge Forums|date=6 May 2008 }}</ref>
+
+==See also==
+*''[[Beamrider]]'' (1983)
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Juno First}}
+* {{KLOV game|id=8261}}
+* [http://www.arcade-history.com/?page=detail&id=1245 ''Juno First''] at Arcade History
+
+[[Category:1983 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Datasoft games]]
+[[Category:Fixed shooters]]
+[[Category:Konami arcade games]]
+[[Category:Konami games]]
+[[Category:MSX games]]
+[[Category:Video games developed in Japan]]
+
+
+{{arcade-stub}}
+{{konami-stub}}
+{{fixed-shooter-videogame-stub}}

@@ -1,0 +1,64 @@
+Casino (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Casino_%28video_game%29&oldid=1230587335
+Accessed on: 2024-06-26T16:51:11.981279
+
+
+
+------
+Casino (video game)
+{{short description|1978 video game}}
+{{about|the Atari 2600 video game|the Apple II video game|Casino (1982 video game)}}
+{{Infobox video game
+|title = Casino
+|image = Casino-atari-2600-cover.jpg
+|caption =
+|developer = [[Atari, Inc.]]
+|designer = [[Bob Whitehead]]<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+|publisher = Atari, Inc.
+|engine =
+|released = March 1979
+|genre = Gambling
+|modes = [[Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Atari 2600]]
+}}
+
+'''''Casino''''' is a collection of card games for the [[Atari 2600|Atari Video Computer System]]  programmed by [[Bob Whitehead]] and published by [[Atari, Inc.]] in 1979.<ref name="atariarchive" /> Supporting up to four players, the game uses the [[paddle (game controller)|paddle]] controllers.<ref name="atariage">{{cite web | url=http://www.atariage.com/software_page.html?SoftwareID=909 | title=Casino (Atari) | work=Atari Age | accessdate=2008-06-30 | archive-url=https://web.archive.org/web/20071217100131/http://www.atariage.com/software_page.html?SoftwareID=909 | archive-date=2007-12-17 | url-status=dead }}</ref>
+
+==Gameplay==
+[[Image:Atari 2600 Casino.png|thumb|left|A blackjack game in progress]]
+
+Displayed from an overhead perspective,<ref name="atariage" /> there are three card games to choose from: [[blackjack]], five-card [[stud poker]], and [[Poker Square|poker solitaire]]. Except for poker solitaire, each game always has the computer as the dealer, and bets are made by rotating the wheel on the controller and then pressing the button.<ref name=manual/>
+
+There are two blackjack games: Game 1 allows for up to two players and hand splitting, and Game 2 allows for up to four players yet there is no hand splitting. There are variations in the game depending on the setting of the difficulty switches. If the left switch is set to "A", the computer will shuffle after 34 hands, and if set to "B", the computer will shuffle after every hand. If the right switch is set to "A", the dealer will stay (not draw anymore cards) after drawing a 17, and if set to "B", the computer will stay after drawing an 18 or better. Furthermore, the player will win if he draws the maximum number of cards; in Game 1, that is three or eight hits, and in Game 2, three hits.<ref name=manual/>
+
+Stud poker allows up to four players. The computer, as the dealer, issues a card to each of the players and itself. Before the first card is dealt, and after each subsequent hand, until five cards have been dealt, each player must either make a bet or fold. If the left difficulty switch is set to "A", the dealer's first card is dealt face down; otherwise, it is dealt face up; likewise for the right difficulty switch for each player.<ref name=manual/>
+
+Poker solitaire is different in that no bets are made and there is no dealer; rather, the goal is to arrange cards to create the best twelve poker hands in 25 cards, with five rows, five columns, and the two diagonals. Points are scored depending on the hands created, with a pair yielding 10 points and a [[Hand rankings#Straight flush|royal flush]] yielding 500 points. The highest possible score is 3340 points.
+
+==Release==
+''Casino'' was released in March 1979.<ref name="atariarchive">{{cite book|title=Atari Archive: Vol.1 1977-1978|last=Bunch|first=Kevin|publisher=[[Limited Run Games|Press Run Books]]|isbn=978-1-955183-21-5|year=2022|page=107}}</ref>
+
+The game was re-released in 2003 as part of the ''Atari - 80 Classic Games in One!'' collection for [[Microsoft Windows]]. It was also part of the 2004 ''[[Atari Anthology]]'' for the [[Xbox]] and [[PlayStation 2]].
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite web |title=Atari VCS Casino Manual |url=https://archive.org/stream/Atari2600manuals_20181215/Atari%202600%20%28Game%20Manuals%29/Casino%20%28USA%29#mode/2up |website=archive.org}}</ref>
+}}
+
+==See also==
+{{Portal|Video games}}
+*[[List of Atari 2600 games]]
+*''[[Blackjack (Atari 2600)|Blackjack]]'', another Atari 2600 card game
+
+==External links==
+* {{atarimania|id=7247}}
+
+[[Category:1979 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Blackjack video games]]
+[[Category:Casino video games]]
+[[Category:Patience video games]]
+[[Category:Poker video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

@@ -1,0 +1,138 @@
+WEC Le Mans
+Permalink: //en.wikipedia.org/w/index.php?title=WEC_Le_Mans&oldid=1216579611
+Accessed on: 2024-06-26T17:01:19.825881
+
+
+
+------
+WEC Le Mans
+{{Infobox video game
+| image = WEC Le Mans Cover.jpg
+| caption = 
+| developer = [[Konami]]<br>[[Banpresto|Technostar/Coreland]]<br>[[Alpha Denshi]]
+| publisher = {{collapsible list|title=Konami|
+'''Arcade'''<br />Konami<br />
+'''C64, CPC, MSX, ZX'''<br />[[Imagine Software|Imagine Studios]]<ref name="gf_c64">{{cite web|url=http://www.gamefaqs.com/c64/572220-wec-le-mans/data|title=WEC Le Mans|access-date=12 June 2015}}</ref><ref name="gf_cpc">{{cite web|url=http://www.gamefaqs.com/cpc/940168-wec-le-mans/data|title=WEC Le Mans|access-date=12 June 2015}}</ref><ref name="gf_zx">{{cite web|url=http://www.gamefaqs.com/sinclair/948380-wec-le-mans/data|title=WEC Le Mans|access-date=12 June 2015}}</ref><ref name="msx">{{cite web|url=http://www.generation-msx.nl/software/imagine/wec-le-mans/3374/|title=WEC Le Mans|author=Generation-MSX.nl|work=Generation MSX|access-date=12 June 2015}}</ref>
+}}
+| series = 
+| engine = 
+| platforms = [[Arcade game|Arcade]], [[Amstrad CPC]], [[Commodore 64]], [[MSX]], [[ZX Spectrum]]
+| released = {{collapsible list|title=September 1986|
+'''Arcade'''<br />September 1986<ref name="cvg65"/><ref name="cvg_rev1"/>
+'''Commodore 64''' {{vgrelease|NA|[[1988 in video gaming|1988]]|EU|1988<ref name="gf_c64"/>}}
+'''Amstrad CPC''' {{vgrelease|EU|1988<ref name="gf_cpc"/>}}
+'''ZX Spectrum''' {{vgrelease|EU|1988<ref name="gf_zx"/>}}
+'''MSX'''<br />1988<ref name="msx"/>
+}}
+| genre = [[Racing simulation]]
+| modes = 
+| arcade system = [[Arcade system board#Konami|Konami Dual 68000]]<ref>{{cite web|url=http://www.system16.com/hardware.php?id=562|title=System 16 - Konami Dual 68000 Based Hardware (Konami)|access-date=12 June 2015}}</ref>
+}}
+
+'''''WEC Le Mans''''', known as {{nihongo foot|'''''WEC Le Mans 24'''''|WECル・マン24|WEC Ru Man 24|lead=yes|group=lower-alpha}} in Japan, is a [[racing simulation]] video game released in [[Arcade game|arcades]] by [[Konami]] in 1986. It was the first [[racing video game]] to depict the [[24 Hours of Le Mans]] World Endurance Championship (WEC). The Lap of Le Mans is split up into three sections, during which the time of day changes from day to dusk, dusk to night, and night to dawn.
+
+==Gameplay==
+The game attempted to realistically simulate car driving, with the car jumping up and down, turning back and forth, and spinning up to 180 degrees, with an emphasis on acceleration, braking, and gear shifting, along with the need for counter-steering to avoid spin-outs. It also featured accurately simulated courses approved by the [[Automobile Club de l'Ouest]], and used [[Haptic technology|force feedback]] to simulate road vibration in the form of a vibrating [[Racing wheel|steering wheel]] that reacts to the driver's acceleration and off-road bumps.<ref>{{KLOV game|10383|WEC Le Mans 24}}</ref>
+
+The game is known as being very difficult to complete: the track's width remains constant at three lanes of racing, and any slight contact with an opposing race car will result in either a spin, or a spectacular flip in the air. Going off the course and running wide at a corner will also end in a spin.
+
+Play continues until timer is depleted and/or four successive laps are completed, which ends the game.
+
+==Arcade cabinet==
+[[Image:WECLeMans24.jpg|thumb|left|WEC Le Mans deluxe arcade unit]]
+
+Konami released three different [[video game arcade cabinet]] versions of the video arcade game, an upright machine, a 'mini' spin where the driver sat in a sit-down cockpit, and the 'big' spin version, the deluxe arcade version that would actually spin the gamer around a 360° spinning base, turning left or right depending on the corner. The front of the 'big' spin arcade machine looked like a real Prototype C Race car.
+
+The arcade cabinet was expensive for its time, with a high price of [[Pound sterling|£]]7000 in 1986,<ref name="su_arc"/> equivalent to £{{Inflation|UK|7000|1986|r=0}} or [[United States dollar|$]]{{Inflation|US|{{To USD|{{inflation|UK|7000|1986|2012|r=2}}|GBR}}|2012|r=0}} in {{currentyear}}.
+
+==Ports==
+The game had several [[Porting|ports]] by [[Imagine Software]] (as Imagine Studios) to [[Amstrad CPC]], [[Commodore 64]], [[MSX]], and [[ZX Spectrum]]. A rumored [[History of video game consoles (fourth generation)|16-bit]] port to the [[Amiga]] and [[Atari ST]] was mentioned, but never came to fruition.
+
+==Reception==
+{| class="wikitable collapsible" style="float: right; font-size: 80%; text-align: center; margin: 1em; margin-top: 0; padding: 0; background: transparent" cellpadding=0 cellspacing=0
+! colspan=4 style="font-size: 120%" | Reception (ports)
+|-
+! colspan=4 | Review scores
+|-
+! rowspan=2 | Publication
+! colspan=3 style="text-align: center" | Scores
+|-
+! [[Commodore 64|C64]]
+! [[Amstrad CPC|CPC]]
+! [[ZX Spectrum|ZX]]
+|-
+| ''[[ACE (games magazine)|ACE]]''
+| 
+| 841/1000<ref name="ace_review">{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue18/Pages/ACE1800043.jpg|title=World of Spectrum - Forced Redirect|access-date=12 June 2015}}</ref>
+| 832/1000<ref name="ace_review"/>
+|-
+| ''[[Computer and Video Games|Computer and<br />Video Games]]''
+| 
+| 82%<ref name="cvg_review">{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue089/Pages/CVG08900023.jpg|title=World of Spectrum - Forced Redirect|access-date=12 June 2015}}</ref>
+| 83%<ref name="cvg_review"/>
+|-
+| ''[[Crash (magazine)|Crash]]''
+| 
+| 
+| 66%<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue62/Pages/Crash6200014.jpg|title=World of Spectrum - Forced Redirect|access-date=12 June 2015}}</ref>
+|-
+| ''[[The Games Machine|The Games<br />Machine]]''
+| 14%<ref name="tgm_review">{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue17/Pages/TheGamesMachine1700048.jpg|title=World of Spectrum - Forced Redirect|access-date=12 June 2015}}</ref>
+| 
+| 61%<ref name="tgm_review"/>
+|-
+| ''[[Sinclair User]]''
+| 
+| 
+| 91%<ref name="suser"/>
+|-
+| ''[[Your Sinclair]]''
+| 
+| 
+| 9/10<ref name="ysinclair"/>
+|-
+! colspan=4 | Awards
+|-
+! colspan=2 | Entity
+! colspan=2 | Award
+|-
+| colspan=2 | ''[[Your Sinclair]]''
+| colspan=2 | Megagame
+|}
+
+The game was commercially successful in arcades. In Japan, ''Game Machine'' listed ''WEC Le Mans'' on their January 15, 1987 issue as being the most-successful upright arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - アップライト, コックピット型TVゲーム機 (Upright/Cockpit Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=300|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 January 1987|page=21|lang=ja}}</ref> The spin cabinet went on to be the fourth highest-grossing upright/cockpit [[1987 in video games|arcade game of 1987]] in Japan, below ''[[Out Run]]'', ''[[Super Hang-On]]'' and ''[[Darius (video game)|Darius]]''.<ref>{{cite magazine |title=Game Machine's Best Hit Games 25: '87 |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=324 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=15 January 1988 |page=20 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19880115p.pdf#page=11}}</ref> On the ''[[Coinslot]]'' dedicated arcade game charts in the United Kingdom, ''WEC Le Mans'' was number-three in July 1988, below ''[[Street Fighter (video game)|Street Fighter]]'' and ''[[Continental Circus]]''.<ref>{{cite magazine |title=Top Five Dedicated Games |magazine=[[Sinclair User]] |date=18 July 1988 |issue=77 (August 1988) |url=https://archive.org/details/sinclair-user-magazine-077/page/n81/mode/1up}}</ref>
+
+The arcade version was critically acclaimed upon release. Following its debut at the Preview '87 show<ref name="cvg_rev1">{{cite web|url=http://www.solvalou.com/subpage/arcade_reviews/27/394/wec_le_mans_review.html|title=Wec Le Mans arcade game review|access-date=12 June 2015}}</ref> in September 1986,<ref name="cvg65">{{cite web|url=http://awesome.commodore.me/downloads/magazine/Computer_And_Video_Games/Computer_And_Video_Games_Issue_065_Mar_87.pdf#page=92|title=Commodore is Awesome|author=Commodore is Awesome|work=Vintage is the New Old|access-date=12 June 2015}}</ref> ''[[Computer and Video Games]]'' gave it a positive review in its January 1987 issue, with Clare Edgeley declaring it her favourite game at show, describing it as a "fast and realistic racing simulation" and praising the rotating cockpit cabinet, concluding it to be the most "{{sic|exhile|rating}} game" she played in months. She gave it "the edge" over ''Out Run'', mainly for better "movement", but noted "many seem to prefer ''Out Run''".<ref name="cvg_rev1"/> At the [[Amusement Trades Exhibition International|ATEI (Amusement Trades Exhibition International)]] show in January 1987, both ''Out Run'' and ''WEC LE Mans'' "stole the January show" according to ''Computer and Video Games''.<ref name="cvg65"/> Clare Edgeley reviewed it again in the February 1987 issue of ''[[Sinclair User]]'', stating it "is far and way the most sophisticated and certainly the most thrilling game I've ever played", describing it as "like ''[[Hang-On]]''" but "with a racing car which you actually sit inside" and a "movement system" that "is entirely different from anything experienced before" where "you really get thrown around" and "which simulates each action, even spinning" and "shakes the whole car" when going off track or skidding on the marked border lines. She stated "there are hazards to avoid, other cars bombing past you", "great graphics and high speed".<ref name="su_arc">{{cite web|url=http://www.solvalou.com/subpage/arcade_reviews/103/394/wec_le_mans_review.html|title=Wec Le Mans arcade game review|access-date=12 June 2015}}</ref> ''Top Score'' newsletter called it a "superb driving simulator that was unfortunately overshadowed" by ''Out Run''.<ref name="Top-Score">{{cite news |title=Hot New Games Debut for the Winter Season: AMOA Expo '86 Previews Sizzling Lineup of Video and Pin Games |work=Top Score |date=Winter 1987 |publisher=Amusement Players Association |url=https://archive.org/details/1987WinterTopScore/page/n2}}</ref>
+
+The Spectrum version of the game also earned critical acclaim.<ref name="suser">http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue083/Pages/SinclairUser08300009.jpg [[Sinclair User]] WEC Le Mans review, Issue 83, page 9, score 91%</ref><ref name="ysinclair">''[[Your Sinclair]]'', [http://www.ysrnry.co.uk/articles/weclemans.htm WEC Le Mans review] {{Webarchive|url=https://web.archive.org/web/20110206004440/http://www.ysrnry.co.uk/articles/weclemans.htm |date=2011-02-06}}, Issue 39, page 55, score 9/10, Megagame award</ref> The Spectrum version was also commercially successful, reaching 4th place on the UK Spectrum chart in May 1989.<ref>UK Spectrum Sales Chart, [http://ysrnry.co.uk/ys41.htm May 1989] {{webarchive|url=https://web.archive.org/web/20140126012022/http://www.ysrnry.co.uk/ys41.htm |date=2014-01-26}}, position #4</ref>
+
+Konami's Tanaka Fumihaki cited ''WEC Le Mans'' as the chief inspiration for Konami's 1995 game ''Speed King''.<ref>{{cite magazine|title=Konami |magazine=[[Next Generation (magazine)|Next Generation]]|issue=19|publisher=[[Imagine Media]] |date=July 1996|page=70}}</ref>
+
+The Spanish magazine Microhobby valued the game with the following scores:<ref>(Spanish) [https://www.soloretro.com/spectrum/wec-le-mans-zx-spectrum-de-imagine-software-1988.php Wec Le Mans - ZX Spectrum de Imagine Software (1988)] - article on Soloretro</ref> Originality: 30% Graphics: 70% Motion: 80% Sound: 50% Difficulty: 80% Addiction: 80%
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+==See also==
+* ''[[Hot Chase]]''
+* ''[[Out Run]]''
+
+{{24 Hours of Le Mans}}
+
+[[Category:1986 video games]]
+[[Category:Works about 24 Hours of Le Mans]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Commodore 64 games]]
+[[Category:Konami games]]
+[[Category:Banpresto games]]
+[[Category:ADK (company) games]]
+[[Category:MSX games]]
+[[Category:Racing simulators]]
+[[Category:ZX Spectrum games]]
+[[Category:Konami arcade games]]
+[[Category:Video games developed in Japan]]
+[[Category:Imagine Software games]]

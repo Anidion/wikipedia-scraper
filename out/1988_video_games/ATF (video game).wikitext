@@ -1,0 +1,78 @@
+ATF (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=ATF_%28video_game%29&oldid=1220427555
+Accessed on: 2024-06-26T17:03:42.298346
+
+
+
+------
+ATF (video game)
+{{short description|1988 video game}}
+{{Infobox video game
+|title = ATF: Advanced Tactical Fighter
+|image=ATF Inlay.jpg
+|developer = Ian Beynon<br>Neil Coxhead<br>Kevin J. Bezant
+|publisher = Digital Integration
+|designer = 
+|engine = 
+|released = 1988
+|genre = [[Shoot 'em up]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]]
+}}
+
+'''ATF: Advanced Tactical Fighter''' is a video game for the [[ZX Spectrum]], [[Commodore 64]], and [[Amstrad CPC]] in 1988 by Digital Integration. The player takes control of Lockheed's YF-22A [[Advanced Tactical Fighter]] (the aircraft which later became the [[F-22 Raptor]]) in a fictional war between two rival factions.  The world is a collection of islands randomly generated for each game.<ref name="CRASH_Review">{{cite magazine|last=Jones|first=Nathan|last2=Evans|first2=Paul|title=ATF Review|magazine=CRASH|date=March 1988}}</ref> The fighter can be armed with a combination of [[Gatling gun|cannon]] rounds (used to destroy enemy aircraft), [[AIM-132 ASRAAM|ASRAAM]] missiles, and [[AGM-65 Maverick|Maverick]] missiles for destroying ground targets, even those out of visual range.<ref name="CRASH_Review" />
+
+== Gameplay ==
+[[Image:ATF (video game - screenshot).gif|left|thumb|ZX Spectrum screenshot]]
+
+The display is a [[Third-person shooter|third-person view]] showing the player's ATF, which remains stationary on screen as the scenery scrolls past it, which takes up most of the screen.  A [[head-up display]] is superimposed on the main screen; this shows engine thrust, the ATF's speed, ground height and altitude, along with the missile system available, direction of flight and a target's range and bearing.
+
+The right-hand side is devoted to the "on-board flight computer" which shows enemy positions on a world map, the status of weapon systems and the ATF itself. Above the flight computer display is a panel which shows the score and number of lives left.
+
+Below the main display is a panel which displays status reports, and below that indicators for fuel level, enemy missile lock on, "terrain following" status, "automatic landing" availability (activated when the ATF enters the catchment area surrounding allied bases), and undercarriage status.<ref name="Inlay">{{Citation|title=ATF Inlay|publisher=Digital Integration Ltd.}}</ref>
+
+The "terrain following RADAR" prevents the ATF from colliding with the ground but reduces the craft's velocity.<ref name="CRASH_Review" />
+
+== Development ==
+When the game was being written, the YF-22A was not even completed (it had its maiden flight on 1990-09-29<ref>{{cite web|url=http://www.f22-raptor.com/about/chronology.html|title=F-22 Chronology|publisher=F-22 Raptor Team Web Site|access-date=2008-03-14|archive-url=https://web.archive.org/web/20080307071916/http://www.f22-raptor.com/about/chronology.html|archive-date=2008-03-07|url-status=dead}}</ref>) and [[Lockheed Corporation|Lockheed]] were reluctant to divulge any confidential information.  Despite this the developers managed to piece together information about the prototype aircraft's "electronic co-pilot" and "automatic terrain following" and decided to concentrate on creating a fast, arcade-like game, with a heavy reliance on strategy, rather than making it technically accurate.<ref name="SU_Feature">{{cite magazine|last=Benyon|first=Ian|title=Background Noise: ATF|magazine=Sinclair User|date=April 1988}}</ref>
+
+Initially the terrain was created by calculating all the visible points for each frame. This system worked but was far too slow to pass as "arcade action".  Instead, a complex co-ordinate referencing system was created, and each frame was drawn into a "dummy" screen, then copied to the display to avoid flicker.<ref name="SU_Feature" />
+
+The developers decided that strategy would play a large part in the game, with no compromises being made and that the 'war model' would appear as realistic and natural as possible.  Five types of ground forces, as well as sea forces, communications emplacements and factories appear in the game, and all interact with each other in ways that affect gameplay.  Factories, for example, supply the military hardware and if destroyed will result in a gradual depletion of forces, since tanks and ships are destroyed but not replaced.<ref name="SU_Feature" />
+
+The type of terrain affects the velocity of land forces; driving over snow, for example, is twice as slow as over green land.  Each object has a unique strength value, which means that if the player does not succeed in completely destroying a target, allied ground forces may be able to "finish it off".<ref name="SU_Feature" />
+
+The code for the Sinclair Spectrum version was written on an [[IBM Personal Computer/AT|IBM AT]]-compatible computer using a [[macro assembler]]. The graphics were designed on an [[Atari ST]], then downloaded onto the IBM AT, before being downloaded to the Spectrum and debugged using a specially developed monitor.<ref name="SU_Feature" />
+
+== Reception ==
+{{Video game reviews
+| CRASH = 89%<ref name="CRASH_Review" />
+| SUser = 10/10<ref name="SU_Review" />
+| YSinclair = 8/10<ref name="YS_Review" />
+| rev1 = ''[[Commodore User]]''
+| rev1Score = 8/10<ref name="CU_Review" />
+| rev2 = ''[[ACE (games magazine)|ACE]]''
+| rev2Score = 956/1000<ref name="ACE_Review" />
+| award1Pub = ''Amstrad Action''
+| award1 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 31, April 1988</ref>
+}}
+
+Reviews were overwhelmingly positive, with ''[[Your Sinclair]]'' and ''[[Commodore User]]'' rating it at 8/10,<ref name="YS_Review">{{cite magazine|last=Davies|first=Jonathan|title=ATF Review|magazine=Your Sinclair|date=April 1988}}</ref><ref name="CU_Review">{{cite magazine|last=Buciak|first=Bohdan|title=ATF Review|magazine=Commodore User|date=April 1988}}</ref>''[[CRASH (magazine)|CRASH]]'' at 89%,<ref name="CRASH_Review" />  ''[[ACE (games magazine)|ACE]]'' giving the game 956/1000<ref name="ACE_Review">{{cite magazine|last=Wilton|first=Andy|title=ATF Review|magazine=ACE|date=April 1988}}</ref> and ''[[Sinclair User]]'' giving top marks of 10/10.<ref name="SU_Review">{{cite magazine|last=Jenkins|first=Chris|title=ATF Review|magazine=Sinclair User|date=March 1988}}</ref>
+
+[[Your Sinclair]]'s Jonathan Davies wrote, "Flying controls are minimal, leaving your hands free for downing baddies and generally enjoying the flight.",<ref name="YS_Review" /> Nathan Jones from ''[[CRASH (magazine)|CRASH]]'' decided that "...the graphics are superb and the landscapes give it a futuristic feel.'<ref name="CRASH_Review" /> and ''[[Sinclair User]]''{{'}}s Chris Jenkins called the game a "rivetting shoot-em-up with some aspects of a simulation".<ref name="SU_Review" />
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{WoS game|id=0000305|name=ATF}}
+
+[[Category:1988 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Digital Integration games]]
+[[Category:Flight simulation video games]]
+[[Category:Shoot 'em ups]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

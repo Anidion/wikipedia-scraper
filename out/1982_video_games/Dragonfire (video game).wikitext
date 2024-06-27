@@ -1,0 +1,63 @@
+Dragonfire (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dragonfire_%28video_game%29&oldid=1224493218
+Accessed on: 2024-06-26T16:53:18.598971
+
+
+
+------
+Dragonfire (video game)
+{{Refimprove|date=July 2015}}
+{{Infobox video game
+|title = Dragonfire
+|image = Dragonfire_Intellivision_Box_Art.jpg
+|caption = Intellivision box art
+|developer = [[Imagic]]
+|publisher = Imagic
+|designer = Bob Smith<ref name="giantlist"/>
+|released = '''May 21, 1982:''' 2600<br>'''1982:''' Intellivision<br>'''1983:''' VIC, Spectrum<br>'''1984:''' Apple, C64, ColecoVision, CoCo
+|genre = [[Action game|Action]]
+|modes = 1-2 players alternating turns
+|platforms = [[Atari 2600]], [[ColecoVision]], [[Commodore 64]], [[VIC-20]], [[Intellivision]], [[TRS-80 Color Computer]], [[Apple II]]
+}}
+
+'''''Dragonfire''''' is a 1982 video game written by Bob Smith and published by [[Imagic]].<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref> The player grabs treasure guarded by a dragon while avoiding fireballs. It was originally released for the [[Atari 2600]] then ported to the [[Intellivision]], [[VIC-20]], [[Commodore 64]], [[Apple II]], [[ZX Spectrum]], [[ColecoVision]], and [[TRS-80 Color Computer]].
+
+The game's [[source code]] was put into the [[public domain software|public domain]] by developer Bob Smith on May 24, 2003.<ref>[http://www.atariage.com/2600/archives/source/Dragonfire_source/ Dragonfire_source]</ref>
+
+==Gameplay==
+[[File:Dragonfire_Screenshot1.png |thumb|left|The player jumping over a fireball on the first stage, the castle bridge]]
+[[File:Dragonfire_Screenshot2.png |thumb|left|The second stage: the treasure room]]
+
+Each level of ''Dragonfire'' has two stages. The first stage is a side view of the character trying to cross a drawbridge to reach a castle. To traverse the bridge, the player must duck under high fireballs and jump over low fireballs. Upon success, the second stage begins, which has a more top-down point of view. The player guides the character around the room collecting treasure and dodging fireballs spewed by a dragon that patrols the bottom of the screen. Collecting every piece of treasure opens a door to the next level.
+
+A single hit from a fireball in either stage takes one of the player's seven initial lives. In each level, the character and fireballs get progressively faster.
+
+==Reception==
+''[[Electronic Games]]'' in 1983 described ''Dragonfire'' as "especially useful as an introduction to fantasy gaming for younger players — while still having enough thrills to please the rest".<ref name="eg198306">{{cite news | url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n45/mode/2up | title=The Players Guide to Fantasy Games | work=Electronic Games | date=June 1983 | accessdate=6 January 2015 | pages=47}}</ref> The game would go on to receive a Certificate of Merit in the category of "1984 Best Videogame Audio-Visual Effects (Less than 16K ROM)" at the 5th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= January 1984 |title= Arcade Alley: The Arcade Awards, Part 1 |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 10|pages= 40–42|issn= 0147-8907}}</ref>{{rp|42}}
+
+==Legacy==
+A remake was announced in 2018 for the [[Intellivision Amico]].<ref>{{cite press release|title=Intellivision® Reveals Initial Details For The Upcoming Amico™ Home Video Game Console!|url=https://www.prnewswire.com/news-releases/intellivision-reveals-initial-details-for-the-upcoming-amico-home-video-game-console-300734998.html|website=PR Newswire}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=7296}}
+* {{IAg|atari_2600_dragonfire_cheese_1982_imagic_bob_smith_720020-1a_ia3611_ia3611c/v2|platform=Atari 2600}}
+* [https://www.youtube.com/watch?v=YLi0b3CM-Qw 1983 ''Dragonfire'' TV commercial]
+
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Atari 2600 games]]
+[[Category:ColecoVision games]]
+[[Category:VIC-20 games]]
+[[Category:Video games about dragons]]
+[[Category:Intellivision games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Imagic games]]
+[[Category:Public-domain software with source code]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in castles]]
+
+{{action-videogame-stub}}

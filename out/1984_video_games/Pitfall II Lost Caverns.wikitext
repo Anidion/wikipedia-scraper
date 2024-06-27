@@ -1,0 +1,148 @@
+Pitfall II: Lost Caverns
+Permalink: //en.wikipedia.org/w/index.php?title=Pitfall_II%3A_Lost_Caverns&oldid=1229966969
+Accessed on: 2024-06-26T16:57:19.373404
+
+
+
+------
+Pitfall II: Lost Caverns
+{{short description|1984 video game}}
+{{Distinguish|text=the arcade title [[Pitfall II: Lost Caverns (arcade game)]]}}
+{{Infobox video game
+| title = Pitfall II: Lost Caverns
+| image = Pitfall2.png
+| alt = 
+| caption = Atari 2600 cover art
+| developer = [[Activision]]{{sfn|Weiss|2014|p=172}}
+| publisher = Activision{{sfn|Weiss|2014|p=172}}
+| series = ''Pitfall''
+| platforms = [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]], [[IBM PCjr]], [[Apple II series|Apple II]],{{sfn|Zuckerman|1984|p=82}} [[MSX]], [[ZX Spectrum]]
+| released = {{Collapsible list|
+| title= {{nobold|February 17, 1984}}
+|'''Atari 2600'''
+|February 17, 1984<ref>{{Cite news |date=February 17, 1984 |title=The Wherehouse - Where You'll Love These Prices |pages=21 |work=[[The Salinas Californian|The Californian]] |url=https://www.newspapers.com/image/520580182/?terms=%22Pitfall%20II%22&match=1 |access-date=December 12, 2023 |quote=Activision//New!//''Pitfall II: Lost Caverns''}}</ref>
+|'''ColecoVision'''
+|October 1984<ref>{{cite magazine|magazine=[[Computer Entertainer|Computer Entertainer includes The Video Game Update]]|volume=3|issue=7|date=October 1984|title=Availability Update|page=112}}</ref>
+|'''Atari 5200'''
+|November 1984
+|'''IBM PCjr'''
+|1984
+|'''Apple II'''
+|December 1984{{sfn|Zuckerman|1984|p=82}}<ref name="Dec1984Avail2">{{cite magazine|magazine=Computer Entertainer includes The Video Game Update|volume=3|issue=9|date=December 1984|title=Availability Update|page=144}}</ref>
+}}
+| genre = [[Platform game|Platform]]{{sfn|Schneider|2023}}
+| modes = [[Single-player]]
+| designer = [[David Crane (programmer)|David Crane]]
+}}
+
+'''''Pitfall II: Lost Caverns''''' is a [[video game]] developed by [[David Crane (programmer)|David Crane]] for the [[Atari 2600]]. It was released in 1984 by [[Activision]]. The player controls Pitfall Harry, who must explore in wilds of Peru to find the Raj Diamond, and rescue his niece Rhonda and their animal friend Quickclaw. The game world is populated by enemies and hazards that variously cause the player to lose points and return to a checkpoint.
+
+The game was a sequel to ''[[Pitfall!]]'' (1982), one of the [[List of best-selling Atari 2600 video games|best-selling Atari 2600 video games]]. Crane said the Atari 2600 hardware was out of date when developing the sequel, which led to him creating a custom [[Integrated circuit chip|computer chip]] called the Display Processor Chip for ''Pitfall II: Lost Caverns''. This allowed for more complex graphics and background music in the game. It became the top selling console game of the year and was ported to other consoles and home computers.
+
+''Pitfall II'' received positive reviews with the expanded gameplay of the game, with the more positive reviews of the game finding it superior to ''Pitfall!''. Retrospective reviews have continued to be positive, with ''[[Retro Gamer]]'' listing it as the best game on the Atari 2600 and other critics noting its gameplay innovations, such as being among the first games to include a [[Glossary of video game terms#checkpoint|checkpoint]] system.
+
+==Gameplay==
+[[Image:Pitfall_II_Lost_Caverns_Screenshot.png|thumb|left|A gameplay screenshot of ''Pitfall II''. The mid-point red cross can be seen as well as Quick Claw, who is required to be interacted with to win the game.]]
+''Pitfall II: Lost Caverns'' is a video game set in Machu Pichu, Peru where the player controls Pitfall Harry.{{sfn|Activision|1984|ref=manual}} The goal is to get Harry to find and rescue Quick Claw the cat, his niece Rhonda, and recover the Raj diamond.{{sfn|Activision|1982|ref=manual}}
+
+Pitfall Harry moves left and right and can jump over and onto objects, can climb up and down ladders, ascend via balloons and swim to seek treasure and his cohorts.{{sfn|Activision|1982|ref=manual}} The player can additionally collect further gold bars scattered throughout the playfield for more points.{{sfn|Weiss|2014|p=172}}{{sfn|Activision|1982|ref=manual}}  Unlike the original ''Pitfall!'', there is no swinging on vines, time limits, or [[Life (video games)|lives]].{{sfn|Weiss|2014|p=172}} Accidentally falling or interacting with traps and enemies causes the player's score to diminish. The player can find red crosses across the ground that act as check points. When the player is hit by an enemy, Harry returns to the last red cross he found.{{sfn|Activision|1982|ref=manual}}
+
+==Development==
+[[File:Pitfall II printed circuit board.jpg|thumb|''Pitfall II: Lost Caverns'' [[printed circuit board]] with Crane's custom Display Processor Chip at the bottom.]]
+The release of [[David Crane (programmer)|David Crane]]'s previous game ''[[Pitfall!]]'' (1982) was a major success for [[Activision]] and was the company's best selling release at the time.{{sfn|Hunt|p=83}} It led to large amounts of merchandizing including board games, jigsaw puzzles and few episodes of the cartoon show ''[[Saturday Supercade]]'' to feature Pitfall Harry and new characters such as Harry's niece Rhonda and the cowardly mountain lion Quick Claw.{{sfn|Hunt|p=83}}{{sfn|Weiss|2014|p=173}} These characters introduced on the television series would later appear the sequel ''Pitfall II: Lost Caverns''.{{sfn|Weiss|2014|p=173}}
+
+Crane stated he made the sequel to ''Pitfall!'' "at a time when the Atari 2600 should have been replaced by a new gaming system." 
+He had training as an electronics engineer and felt that the Atari 2600 "needed a boost" and designed a custom [[Integrated circuit chip|computer chip]] called the Display Processor Chip that was unique to ''Pitfall II: Lost Caverns''.{{sfn|Hunt|p=83}}{{sfn|Weiss|2014|p=172}}{{sfn|Mercer|2004|p=11}} The chip allowed for additional graphic capabilities for the Atari 2600 and a music circuit. The chip contained special indexing registers that reduced the processing time for graphics operation by over 40%.{{sfn|Mercer|2004|p=11}} Crane spoke about the developing the game and its graphics for the Atari 2600 at the Winter Consumers Electronics Show, stating that he would "stack ''Pitfall II'' against software in any other computer under $10,000. I might be able to make the boulders look more like bounders [on any other machine], but I could not make the game any better."{{sfn|Levy|1984|p=8}}
+
+The chip allowed the game to play music that included a melody track, a harmony track, a base track and percussion. This made the game the first Atari 2600 game with a full scored polyphonic musical track.{{sfn|Mercer|2004|p=11}} The score features a four-part musical score composed by Crane. It features a central "heroic" theme that plays before becoming a loop of more atmospheric music. The main theme in the game plays the bass through one channel, two channels play the melody and harmony while the last channel plays percussion sounds. The song "[[Sobre las olas]]" plays when Harry ascends using a balloon.{{sfn|Hopkins|2022|p=72}}
+
+Crane said when they made one game for another system, another game programmer was assigned to convert assets and rewrite the code as it was not a good use of his time to re-do a game he had already designed. The ports of the game for the Atari 800 and [[Atari 5200]] were written by Mike Lorenzen, using Crane's original code with new graphics routines for the Atari hardware.{{sfn|Schneider|2023}} The [[ColecoVision]] port was written from scratch by Robert Rutowski,{{sfn|Weiss|2014|p=173}}{{sfn|Pembrey|2023|p=35}} and the Commodore 64 version was written from scratch by Tim Shotter.{{sfn|Schneider|2023}}
+
+Both the Atari 800 and Atari 5200 versions of the game included more areas to explore than the original Atari 2600 version.{{sfn|Schneider|2023}}<ref name="CritDec1984">{{cite magazine|magazine=Computer Entertainer includes The Video Game Update|volume=3|issue=9|date=December 1984|title=Critically Speaking...|page=130}}</ref><ref name="YearInReview2" /> Lorenzen found time during production to create new levels that appear after the first game was completed. He explained he made the extra levels as he did not just want to recreate Crane's work, he wanted to "do something and make it better."{{sfn|Schneider|2023}} This version is subtitled "The Adventurer’s Edition" on the title screen.{{sfn|Schneider|2023}}
+
+==Release==
+''Pitfall II: Lost Caverns'' was released in February 1984.{{sfn|Itow|1984}}<ref name="YearInReview" /> The game debuted at 9th place on ''[[Billboard (magazine)|Billboard]]'''s list of top 20 selling video games. Activision's national sales manager stated that the sales of the game exceeded the company's expectations by 25% to 30%.{{sfn|Itow|1984}} The game had a higher retail price ($34.95) than the usual game for the system due to Display Processor Chip.{{sfn|Kunkel|1984|p=68}}
+
+[[Activision]] had reported slumping sales with operating loss of $4.1 million on $13.2 million in sales in the second quarter of 1984 and sought to remedy this with the release of ''Pitfall II: Lost Caverns''.{{sfn|Itow|1984a|p=D8}} By the end of the 1984, the game became the highest selling console game of year.<ref name="YearInReview">{{cite magazine|magazine=Computer Entertainer includes The Video Game Update|volume=3|issue=9|date=December 1984|title=The Year in Review|page=129}}</ref>
+
+At the June 1984 Consumer Electronics Show, Activision did not reveal any new games for Atari 2600 or Intellivision and showed older games in new formats, including ''Pitfall II: Lost Caverns'' for [[Commodore 64]], [[Atari 8-bit computers]], ColecoVision, [[IBM PCjr]], and the [[Coleco Adam]].{{sfn|Stovall|1984|p=4C}} The game was released for [[Atari 5200]] in November 1984.<ref name="YearInReview2">{{cite magazine|magazine=Computer Entertainer includes The Video Game Update|volume=3|issue=9|date=December 1984|title=Year in Review|page=143}}</ref> The versions for the IBM PC Jr. were released in the fourth quarter of 1984.<ref name="CritDec1984" /><ref>{{cite magazine|magazine=Computer Entertainer includes The Video Game Update|volume=3|issue=8|date=November 1984|title=Availability Update|page=128}}</ref>
+
+''Pitfall II: Lost Caverns'' was included in various video games collections. These include ''[[Activision Anthology]]'' (2002) for [[PlayStation 2]], and for portable devices as ''Activision Hits Remixed'' (2006) for the [[PlayStation Portable]].{{sfn|Weiss|2014|p=173}} The game is available hidden feature in both ''[[Pitfall: The Lost Expedition]]'' (2004) and ''[[Call of Duty: World War 2]]'' (2017).{{sfn|Hegarty|2017}}{{sfn|Xavier Lopez|2004}} It was released digitally as a downloadable title on the Xbox [[Game Room]] in 2010.{{sfn|Weiss|2014|p=173}}
+
+==Reception==
+===Contemporary===
+''Pitfall II: Lost Caverns'' received positive reception from Lou Hudson of the ''[[Fort Worth Star-Telegram]]'', [[Bill Kunkel (journalist)|Bill Kunkel]] of ''[[Electronic Games]]'', and the publication [[Computer Entertainer|''The Video Game Update'']]. All three reviews felt it was superior to ''Pitfall!'', which Hudson and Kunkel felt grew repetitive with repeat play sessions.{{sfn|Kunkel|1984|p=68}}{{sfn|Hudson|1984|p=14E}}<ref name="VGU-Atr2600">{{cite magazine|magazine=The Video Game Update includes Computer Entertainer|title=Critically Speaking..Atari 2600-Compatible|date=February 1984|volume=2|issue=11|page=162}}</ref> The three complimented the graphics, with Kunkel stating that it was "the kind of videogame that would be impressive if presented on a 48K computer. On the [Atari 2600], it's simply beyond belief."{{sfn|Kunkel|1984|p=68}}{{sfn|Hudson|1984|p=14E}}<ref name="VGU-Atr2600" /> The reviewers also wrote about the gameplay, with Hudson describing it as "immensely improved action formula", while ''The Video Game Update'' enjoyed that the player could not die in the game, giving them more opportunity to explore the world.{{sfn|Kunkel|1984|p=68}}{{sfn|Hudson|1984|p=14E}}<ref name="VGU-Atr2600" /> Kunkel concluded that the game "offers the most remarkable breadth of any 2600 video game yet produced." while ''The Video Game Update'' stated that "We have the opportunity to play and review hundreds of games every year, and there are very few that we feel ''must'' become part of your personal collection. ''Pitfall II'' is one of those."{{sfn|Kunkel|1984|p=68}}<ref name="VGU-Atr2600" />
+
+Michael Blanchet, author of ''How to Beat the Video Games'' (1982), found that the game improved on the original with more enemies and obstacles to avoid and that it had a grander playing field than the original game, but concluded that the storyline for the game was sappy and the lack of having the character die made you lose incentive to play the game.{{sfn|Blanchet|1984}} Blanchet also noted that the games score was annoying as it never stopped.{{sfn|Blanchet|1984b}}
+
+In January 1985, ''Pitfall II'' won the award for Program of the Year for the Atari 2600 from ''Computer Entertainer'' magazine in their 1984 Awards of Excellence.<ref name="CompEnt1984">{{cite magazine|magazine=Computer Entertainere|volume=3|issue=10|date=January 1985|title=Computer Entertainer Awards of Excellence 1984|page=147}}</ref>
+
+===Retrospective===
+Skyler Miller of [[AllGame]] awarded the game 4 1/2 stars out of 5, stating that the game was not as innovative as the original game, but that it expanded upon the original to create one of the systems most accomplished game. Miller specifically praised the graphics and music.{{sfn|Miller}} Brett Weiss included the game in his book ''The 100 Greatest Console Video Games, 1977-1987'' (2014) stating the game was even better than ''Pitfall!'' noting that it offered a variety of fresh features.{{sfn|Weiss|2014|p=172}}{{sfn|Weiss|2014|p=173}}
+
+John Harris of [[Game Developer (website)|Game Developer]] wrote found the game was not quite as fun to play in 2007 as it was when it was first developed, but declared it to be one of the most advanced games for the Atari 2600, comparing its gameplay to the later Nintendo game ''[[Metroid (video game)|Metroid]]'' (1986). Harris noted innovative elements such as being among the first games to include a [[Glossary of video game terms#checkpoint|checkpoint]] system.{{sfn|Weiss|2014|p=172}}{{sfn|Harris|2007}} Writing for ''[[Gamer Network#Editorial websites|USgamer]]'', Jeremy Parish echoed the ''Metroid'' comparison, stating that ''Pitfall II'' was the turning point in [[platform games]]. Parish said it led to games within the genre to have exploring, stating that "In the style of non-linear platformers to come, such as ''Metroid'', there was no such thing as death by falling; dropping into a pit simply led Harry to another screen, and a vast underground lake lined the bottom of the game world. In many ways, it was a game years ahead of its time."{{sfn|Parish|2014}}
+
+In their list of the top 25 Atari 2600 games, Stuart Hunt and Darran Jones of ''[[Retro Gamer]]'' magazine listed ''Pitfall II: Lost Caverns'' in the number one spot.{{sfn|Jones|Hunt}} The two wrote that the game far more ambitious than the original and that the game was "as playable today as it ever was."{{sfn|Jones|Hunt}} In the same publication, Mat Allen included the game along with ''[[Kaboom! (video game)|Kaboom!]]'' (1981), ''[[River Raid]]'' (1982), ''[[Ghostbusters (1984 video game)|Ghostbusters]]'' (1984), ''[[Little Computer People]]'' (1985) and ''[[Alter Ego (1986 video game)|Alter Ego]]'' (1986),  as one of the best games from Activision's classic period.{{sfn|Allen|2006|p=84}}
+
+==Legacy==
+[[File:David Crane RGE 2011.jpg|thumb|left|David Crane at the Retro Gaming Expo in 2011. Crane said that the ''Pitfall!'' games following ''Pitfall II: Lost Caverns'' were not "''Pitfall!'' sequels as much as other games with the name ''Pitfall'' placed on them."{{sfn|Hunt|p=84}}]]
+Following the release of ''Pitfall II: Lost Caverns'', the Atari 2600 was at the end of its first lifecycle as a system for new games and no other games for it were developed using Crane's Display Processor Chip.{{sfn|Hunt|p=83}} Crane was often asked if he would develop at third ''Pitfall'' game, he stated that "after one sequel, I was happy to move on to other ideas."{{sfn|Hunt|pp=82-83}} Following work on ''Pitfall II'', Crane began work developing games for the Commodore 64, starting with ''[[Ghostbusters (1984 video game)|Ghostbusters]]'' (1984).<ref>{{cite magazine|magazine=[[Edge (magazine)|Edge]]|title=The Making Of... Ghostbusters|date=May 2007|publisher=Future Publishing|page=102}}</ref> Crane stayed with Activision until 1987.{{sfn|Hunt|p=83}}
+
+[[Sega]] developed an arcade game titled ''[[Pitfall II: Lost Caverns (arcade game)|Pitfall II: The Lost Caverns]]'' (1985) which featured gameplay elements from both of Crane's ''Pitfall'' games.{{sfn|Weiss|2014|p=171}} The Japanese company [[Micronics]] developed ''[[Super Pitfall]]'' for the [[Nintendo Entertainment System]] was described Stuart Hunt of ''[[Retro Gamer]]'' as a "loose port" of Crane's ''Pitfall II''.{{sfn|Hunt|p=84}} ''Super Pitfall'' similar storyline to ''Pitfall II'' involving Pitfall Harry exploring caves to seek the Raj diamond and rescue his niece Rhonda and Quickclaw the lion who have become trapped in the cave depths.<ref>{{cite magazine|magazine=Computer Entertainer includes The Video Game Update|volume=7|issue=2|date=May 1988|title=Nintendo Software|page=10}}</ref> Crane stated he had seen all of the later ''Pitfall!'' games and has played a few of them, stating he felt they were not "''Pitfall'' sequels as much as other games with the name ''Pitfall'' placed on them."{{sfn|Hunt|p=84}}
+{{Clear}}
+
+==See also==
+* [[List of Activision games: 1980–1999]]
+* [[List of Atari 2600 games]]
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite book | title=Pitfall Harry's Diary | publisher=[[Activision]] | year=1984 | ref=manual|id=G-942-02}}
+* {{cite magazine|magazine=[[Retro Gamer]]|title=Activisionaries|last=Allen|first=Mat|issue=25|year=2006|ISSN=1742-3155|publisher=Imagine Publishing}}
+* {{cite news|newspaper=[[The Arizona Republic]]|page=E10|title='Improvements' included in Pitfall II Turn Out to be Bothersome Gimmicks|last=Blanchet|first=Michael|date=March 31, 1984}}
+* {{cite news|newspaper=[[The Salt Lake Tribune]]|page=12EV|title=Pitfall II Has Some Pitfalls; Sappy Storyline, Gimmicks|last=Blanchet|first=Michael|date=March 31, 1984b}}
+* {{cite web|url=https://www.gamedeveloper.com/design/game-design-essentials-20-open-world-games|work=[[Game Developer (website)|Game Developer]]|title=Game Design Essentials: 20 Open World Games|last=Harris|first=John|date=September 26, 2007|access-date=October 28, 2023}}
+* {{cite web|url=https://www.digitalspy.com/tech/a842792/call-of-duty-world-war-2-retro-mini-games/|work=[[Digital Spy]]|date=November 10, 2017|title=Call of Duty: World War 2 Lets You Play Loads of Retro Mini-games|access-date=October 28, 2023|last=Hegarty|first=Tasha|archive-url=https://web.archive.org/web/20211104212516/https://www.digitalspy.com/tech/a842792/call-of-duty-world-war-2-retro-mini-games/|archive-date=November 4, 2021}}
+* {{cite book|title=Video Game Audio: A History, 1972-2020|last=Hopkins|first=Christopher|year=2022|publisher=[[McFarland & Company]]|isbn=978-1-4766-7435-3}}
+* {{cite magazine|title=Top 25 Atari 2600 Games|first1=Darran|last1=Jones|first2=Stuart|last2=Hunt|page=33|issue=46|magazine=Retro Gamer}}
+* {{cite news|last=Hudson|first=Lou|newspaper=[[Fort Worth Star-Telegram]]|title=Videoplay|date=February 25, 1984}}
+* {{cite magazine|magazine=Retro Gamer|title=The History of Pitfall!|first=Stuart|last=Hunt|issue=107}}
+* {{cite magazine|magazine=[[Electronic Games]]|date=July 1984|issn=0730-6687|publisher=Reese Communications|title=Programming Parade|last=Kunkel|first=Bill|author-link=Bill Kunkel (journalist)}}
+* {{cite news|newspaper=[[The San Francisco Examiner]]|title=Brainstorming with the 'Creatives'|last=Itow|first=Laurie|date=April 2, 1984a|page=D8}}
+* {{cite news|newspaper=The San Francisco Examiner|title=Pitfall II Hits No. 9 on Charts; TV Ad Undergoes Revisions|last=Itow|first=Laurie|date=April 4, 1984|page=C5}}
+* {{cite news|newspaper=[[Quad-City Times]]|date=March 29, 1984|last=Levy|first=Steven|title=Aud/Vid}}
+* {{cite magazine|magazine=Manci Games|date=May 2004|volume=1|issue=1|last=Mercer|first=Jaysen|title=David Crane - Then: Console Guru}}
+* {{cite web|work=[[AllGame]]|title=Pitfall II: Lost Caverns|access-date=October 28, 2023|last=Miller|first=Skyler|archive-date=November 14, 2014|archive-url=https://web.archive.org/web/20141114100132/http://www.allgame.com/game.php?id=8218|url=http://www.allgame.com/game.php?id=8218}}
+* {{cite web|url=http://www.usgamer.net/articles/five-critical-moments-in-platform-game-history|title=Five Critical Moments in Platform Game History|last=Parish|first=Jeremy|date=July 25, 2014|access-date=October 30, 2023|archive-url=https://web.archive.org/web/20140727003513/http://www.usgamer.net/articles/five-critical-moments-in-platform-game-history|archive-date=July 27, 2014|work=[[Gamer Network#Editorial websites|USgamer]]}}
+* {{cite magazine|magazine=[[Retro Gamer]]|title=The Making of Golf|last=Pembrey|first=Graham|issue=252|year=2023|issn=1742-3155|publisher=Future Publishing Limited}}
+* {{cite web|url=https://nordic.ign.com/pitfall-working-title/73297/opinion/pitfall-iis-secret-sequel|work=[[IGN]]|title=Pitfall II's Secret Sequel|last=Schneider|first=Peer|date=September 25, 2023|archive-url=https://web.archive.org/web/20230926031212/https://nordic.ign.com/pitfall-working-title/73297/opinion/pitfall-iis-secret-sequel|archive-date=September 26, 2023}}
+* {{cite news|newspaper=[[Waco Tribune-Herald]]|date=August 11, 1984|title=Activision Taking Different Direction|last=Stovall|first=Rawson}}
+* {{cite book|title=The 100 Greatest Console Video Games 1977-1987|last=Weiss|first=Brett|year=2014|isbn=978-0-7643-4618-7|publisher=[[Schiffer Publishing]]}}
+* {{cite magazine|magazine=[[Scout Life|Boy's Life]]|volume=94|issue=12|date=December 2004|last=Xavier Lopez|first=Tobias|page=50|title=Games}}
+* {{cite magazine|magazine=[[Billboard (magazine)|Billboard]]|title=Now Playing|page=82|date=December 22, 1984|last=Zuckerman|first=Faye|volume=96|issue=51|issn=0006-2510|publisher=Nielsen Business Media, Inc.}}
+
+==External links==
+* {{atarimania|id=11583}}
+* {{lemon64 game|id=1945|name=Pitfall II: Lost Caverns}}
+* {{WoS game|id=0003741}}
+
+{{Pitfall!}}
+
+{{DEFAULTSORT:Pitfall 02: Lost Caverns}}
+[[Category:1984 video games]]
+[[Category:Activision games]]
+[[Category:Apple II games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Open-world video games]]
+[[Category:Pitfall (series)]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Peru]]
+[[Category:Single-player video games]]
+[[Category:Video games designed by David Crane (programmer)]]

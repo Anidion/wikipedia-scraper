@@ -1,0 +1,63 @@
+Rigel's Revenge
+Permalink: //en.wikipedia.org/w/index.php?title=Rigel%27s_Revenge&oldid=1220452667
+Accessed on: 2024-06-26T17:02:59.058143
+
+
+
+------
+Rigel's Revenge
+{{Infobox video game
+|title     = Rigel's Revenge
+|image     =
+|developer = Smart Egg Software
+|publisher = [[Mastertronic]]
+|designer = Ron Harris
+|programmer = Nigel Brooks<br>Said Hassan
+|artist = 
+|engine =
+|released = 1987
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Rigel's Revenge''''' is a [[interactive fiction|text adventure]] published in 1987 for the [[Amstrad CPC]], [[Commodore 64]], and [[ZX Spectrum]] home computers by [[Mastertronic]] on their "Bulldog" label. It was written by British studio Smart Egg Software using a heavily modified version of ''[[The Quill (software)|The Quill]]'', an adventure-authoring package.{{Citation needed|date=October 2020}}
+
+== Plot ==
+
+Harper and Elliot, two 23rd-century [[investigative journalist]]s, have joined an organisation called the Alterian Corps in order to further their careers.  They have been sent on a mission to the planet Rigel V which is in a state of war with one region holding out against the Federation troops attempting to conquer it.  The Rigellians claim to possess a Doomsday Machine which will enact a terrible revenge if the Federation refuse to withdraw from the planet. Elliot has been smuggled in by the Alterian Corps in the guise of a Rigellian trooper with a mission to locate the whereabouts of the Doomsday Machine and report to Harper who is to follow one week later. Harper has instructions to meet Elliot at night in a certain backstreet in the occupied sector of the town.[ftp://ftp.worldofspectrum.org/pub/sinclair/games-info/r/RigelsRevenge.txt]
+
+== Gameplay ==
+
+The player takes control of Harper.  The parser accepts standard text adventure commands and can understand simple sentences such as THROW RUBBLE AT THE TANK and LOOK INSIDE THE SATCHEL.
+The game's interaction with the player is mainly through text output, but occasionally during the game static graphics are displayed.
+
+== Development ==
+{{Empty section|date=October 2020}}
+
+== Reception ==
+{{VG Reviews
+|CRASH = 88%<ref>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Rigel's Revenge|page=42|date=December 1987|url=https://archive.org/details/Crash_Magazine_047/page/42/}}</ref>
+|SUser = {{rating|3|10}}<ref>{{cite magazine|magazine=[[Sinclair User]]|title=Twilight|last=Dillon|first=Tony|page=48|date=December 1987|issue=69|url=https://archive.org/stream/sinclair-user-magazine-069/SinclairUser_069_Dec_1987#page/n47/mode/1up}}</ref>
+|YSinclair = 8/10<ref>{{cite magazine|magazine=[[Your Sinclair]]|title=YS Adventures|page=86|date=January 1988|issue=25|url=https://archive.org/stream/YourSinclair37Jan89/YourSinclair/YourSinclair25-Jan88#page/n85/mode/1up}}</ref>
+|Z64 = 75%<ref>{{cite magazine|magazine=[[Zzap!64]]|title=Rigel's Revenge|page=43|date=February 1988|issue=34|url=https://archive.org/details/ZZap64Issue0341988Feb/page/n41/}}</ref>
+| award1Pub = C+VG
+| award1 = Hit<ref>Front cover artwork</ref>
+}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{WoS_game|id=0006893}}
+* {{moby game|id=/rigels-revenge}}
+* {{IFDB|id=dfu3wifz0lspp1ky}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1987 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Fiction set around Rigel]]
+[[Category:Mastertronic games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

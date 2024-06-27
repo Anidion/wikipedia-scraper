@@ -1,0 +1,56 @@
+Night Mission Pinball
+Permalink: //en.wikipedia.org/w/index.php?title=Night_Mission_Pinball&oldid=1224682472
+Accessed on: 2024-06-26T16:53:46.258073
+
+
+
+------
+Night Mission Pinball
+{{Infobox video game
+| title = Night Mission Pinball
+| image = Night Mission Pinball cover.jpg
+| alt = 
+| designer = [[Bruce Artwick]]
+| developer = [[Sublogic]]
+| publisher = Sublogic
+| series = 
+| engine = 
+| platforms = [[Apple II]], [[Atari 8-bit]], [[IBM Personal Computer|IBM PC]], [[Commodore 64]]
+| released = '''May 1982:''' Apple, Atari<br>'''1983:''' C64, IBM PC
+| genre = [[Pinball]]
+| modes = 1-4 players alternating turns
+}}
+
+'''''Night Mission Pinball''''' (originally released as '''''A2-PB1 Pinball: Night Mission''''') is a [[Pinball#Computer pinball simulation|pinball simulation video game]] published by [[Sublogic]] in 1982. It was developed by [[Bruce Artwick]] for the [[Apple II]], then ported to the [[Atari 8-bit computers]], [[Commodore 64]], and [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]).
+
+== Gameplay ==
+''Night Mission Pinball'' simulates a pinball machine.  Players can tweak dozens of settings in the simulator, including the number of balls in play, velocity of the balls, strength of the [[flipper (pinball)|flippers]], sensitivity to tilting, bounciness of the surfaces, and gravitational force exerted on the balls.<ref name=pcmag>{{cite magazine|title=Fun With Frogs and Flippers|last=Sandler|first=Corey|magazine=[[PC Magazine]]|volume=2|issue=2|date=July 1983|page=450|url=https://books.google.com/books?id=V2588uIxmAQC&pg=PA450}}</ref>  Up to four players can compete for a high score.
+
+The Atari version uses high resolution monochrome graphics.<ref>{{cite magazine|title=Night Mission Pinball|last=Rixon|first=Paul|magazine=[[New Atari User]]|issue=65|date=December 1993|page=48|url=https://archive.org/details/New_Atari_User_Issue_065_1993-12_Page_6_Publishing/page/n47}}</ref>
+
+== Release ==
+The game was initially marketed as ''A2-PB1 Pinball'' and subtitled "Night Mission".<ref name=softline>{{cite magazine|title=Gameline|author=<!-- Staff -->|magazine=[[Softline (magazine)|Softline]]|volume=1|issue=5|date=May 1982|pages=15–16}}</ref>  The Apple version was released in May 1982.<ref>{{cite magazine|title=Fastalk|author=<!-- Staff -->|magazine=[[Softalk]]|volume=3|issue=7|date=March 1983|page=22|url=https://archive.org/details/softalkv3n07mar1983/page/22}}</ref> The Commodore 64 version was released in late 1983.<ref>{{cite magazine|title=New Arrivals|author=<!-- Staff -->|magazine=[[Softline (magazine)|Softline]]|volume=3|issue=1|date=September–October 1983|page=3|url=https://archive.org/details/Softline_Magazine_Issue_3.1/page/n3}}</ref>
+
+== Reception ==
+Robert C. Gray of ''[[SoftSide]]'' wrote that the IBM PC version's configurability changes pinball from being a game of chance to "a game of intellectual choice".<ref>{{cite magazine|title=Night Mission Pinball|last=Gray|first=Robert C.|magazine=[[SoftSide]]|issue=59|page=56|url=https://archive.org/details/softside-magazine-59/page/n59}}</ref> In a ''[[PC Magazine]]'' review, Corey Sandler called it "a strange combination of game and graduate physics lesson" that could have appeal to tinkerers and those who wish to learn how physics impacts game design.<ref name=pcmag/>  ''[[Softline (magazine)|Softline]]'' highlighted the Apple version's tweakability as having "a modest educational purpose" and making it "a programmer's tour de force".<ref name=softline/>
+
+Some reviewers compared it to other arcade games released around the same time.  John J. Anderson of ''Video & Arcade Games'' called the Atari version's realism "obsessive" and praised its configurability, even though one can not design one's own pinball machine, as in the ''[[Pinball Construction Set]]''.<ref>{{cite magazine|title=Micro Pinball Wizardry|last=Anderson|first=John J.|magazine=Video & Arcade Games|volume=1|issue=2|date=December 1983|page=96|url=https://archive.org/details/Video_Arcade_Games_Vol_1_No_2_1983-12_Creative_Computing_US/page/n97}}</ref>  ''[[Computer Games Magazine]]'' rated it A+ and called it "the best computerized pinball game", as it has some features missing from the ''PCS'', such as a "tilt" mechanic.<ref>{{cite magazine|title=1985 Software Buyer's Guide|author=<!-- Staff -->|magazine=[[Computer Games Magazine]]|volume=3|issue=5|date=February 1985|page=51|url=https://archive.org/details/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US/page/n49}}</ref>  Comparing it to ''[[Raster Blaster]]'' and ''[[David's Midnight Magic]]'', ''[[Computer Gaming World]]''{{'}}s reviewers determined that ''Night Mission'' had the best ball physics and fastest balls, making it the best choice.<ref>{{cite magazine|title=Micro-Reviews|last1=Rhodes|first1=Mark|last2=Gittleman|first2=Barry|magazine=[[Computer Gaming World]]|volume=3|issue=1|date=January–February 1983|pages=42–43|url=http://www.cgwmuseum.org/galleries/issues/cgw_3.1.pdf}}</ref>  Rick Teverbaugh of ''[[Electronic Games]]'' called it "easily the most complex" of the pinball games released in 1983.<ref>{{cite magazine|title=Video Pinball Flips Out!|last=Teverbaugh|first=Rick|magazine=[[Electronic Games]]|volume=2|issue=9|date=November 1983|pages=48–54|url=https://archive.org/details/Electronic_Games_Volume_02_Number_09_1983-11_Reese_Communications_US/page/n47}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{atarimania|id=3698}}
+*[http://gb64.com/game.php?id=5212&d=18&h=0 ''Night Mission Pinball''] at Gamebase 64
+*{{IAg|wozaday_Night_Mission_Pinball}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Pinball video games]]
+[[Category:Simulation video games]]
+[[Category:Sublogic games]]
+[[Category:Video games developed in the United States]]

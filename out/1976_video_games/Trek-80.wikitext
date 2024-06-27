@@ -1,0 +1,75 @@
+Trek-80
+Permalink: //en.wikipedia.org/w/index.php?title=Trek-80&oldid=1041371379
+Accessed on: 2024-06-26T16:47:40.182984
+
+
+
+------
+Trek-80
+{{Short description|1976 video game}}
+{{Infobox video game
+| title        = Trek-80
+| image        = 
+| caption      = 
+| developer    = Steve Dompier
+| publisher    = [[Processor Technology]], [[Judges Guild]], [[Tandy Computers|Tandy]]
+| designer     = 
+| series       = 
+| engine       = 
+| released     = 1976
+| genre        = 
+| modes        = 
+| platforms    = [[S-100 bus]], [[TRS-80]]
+}}
+
+'''''Trek-80''''' is a [[Text-based (computing)|text-based]] video game written by Steve Dompier in 1976 and sold by [[Processor Technology]] for their [[Sol-20]] computer and suitable [[S-100 bus]] machines.
+
+''Trek-80'' combines features of the seminal [[Star Trek (1971 video game)|''Star Trek'']] game by Mike Mayfield with the unrelated ''[[Trek73]]''. In contrast to the originals, which were designed to run on [[teleprinter|teletypes]], Trek-80 used the [[VDM-1]] [[video card]] to produce a character-based real-time display.
+
+Compatible 3rd party versions of the VDM-1 became the ''de facto'' display for most early [[S-100 bus]] machines, as well as the [[TRS-80]]. A version known as '''''Invasion Force''''' was sold by [[Tandy Computers|Tandy]] for the TRS-80.
+
+An unrelated ''[[Trek-80 (Judges Guild)|Trek-80]]'' for the TRS-80 was sold by [[Judges Guild]], but this was a port of the original Mayfield game with few changes.<ref name="Dragon36">{{cite journal
+|title=The Dragon's Augury
+|author=Dodge, Michael
+|journal=The Dragon
+|issue=36
+|date=April 1980
+|pages=64–65}}</ref>
+
+==Gameplay==
+
+
+Dompier's ''Trek-80'' was mostly based on Mike Mayfield's original version, with only minor changes in the underlying gameplay concepts. The game took place in a section of the galaxy divided into "quadrants", each of which held a particular number of stars, enemy ships and starbases where the player could repair and refuel. The main difference in layout was that ''Trek-80''{{'}}s quadrants had 10-by-10 sectors within them,{{sfn|North|1977|p=43}} compared to the original 8-by-8 layout.
+
+In the original ''Star Trek'', the display was linear and turn-based.{{sfn|North|1977|p=43}} Players would normally start the game by issuing the <code>LRS</code> (long range scan) command to scan the immediate surrounding quadrants and then fly to a selected one using the <code>WAR</code>p drive. On arrival, they would use the <code>SRS</code> (short range scan) to display the sectors in the quadrant and begin moving and firing at any targets. <code>SRS</code> was normally used multiple times in combat as the ships maneuvered.
+
+The basic action is the same in ''Trek-80'', but the display is no longer linear and takes place in real-time. The LRS and SRS displays are always visible and update as the game proceeds. Other displays, like the status of the ship and various help texts, were displayed around the screen, eliminating the need to constantly issue commands related to inquiring about basic status. Instead of, for instance, warping to another quadrant by specifying a range, in ''Trek-80'' one simply starts warping in a selected direction, watches the display until they arrive, and then presses <code>ESC</code>cape to end movement. Likewise, when one fired a torpedo, the other ships continued to move while it flew, and it could be detonated early by the player pressing ESC.{{sfn|North|1977|p=43}}
+
+Other changes to the original game included two types of Klingon ships. One was the traditional ship which the player would shoot at, while the Battle Cruiser could only be destroyed by dropping an antimatter pod in the quadrant and then manually detonating it when it approached the Cruiser. It also added space mines that destroy everything in a quadrant if hit, and "unknown" objects that could be explored.{{sfn|North|1977|p=43}} Dompier also added basic sound effects which could be heard by placing an AM radio near the computer, a technique he had pioneered during demonstrations for the [[Homebrew Computer Club]].{{sfn|Levy|2010|p=171}}
+
+''Invasion Force'' differs only in minor ways from the original; the player is in command of the USS ''Hephaestus'' and battles the "Jovians", but the game is otherwise similar.
+
+==Development==
+Dompier began development of Trek-80 while the first commercial versions of [[VDM-1]] were being developed at the newly-created [[Processor Technology]], which had formed to sell add-in cards for the recently released [[Altair 8800]] computer.<ref>{{cite web |url=http://www.leefelsenstein.com/?page_id=53 |title=The Social History of the VDM-1 |first=Lee |last=Felsenstein}}</ref> Dompier was familiar with ''Trek73'', and had purchased a [[teleprinter]] so he could play a copy running on the DECISION computer at the [[Lawrence Hall of Science]] from home.{{sfn|Levy|2010|p=162}}
+
+==Reception==
+Steve North reviewed ''Trek-80'' and an S-100 version of ''[[Spacewar!]]'' in the August 1977 issue of ''[[Creative Computing]]''. He noted that ''Trek-80'' was far less demanding in terms of system requirements, needing only a VDM-1, while ''Spacewar!'' required a [[Cromemco Dazzler]] with two [[joystick]]s and an I/O card to run them. On the other hand he found the graphics of ''Spacewar'' more striking. He mentions that [[David H. Ahl|David Ahl]] was playing ''Trek-80'' and "seemed bent on blowing up as many objects as possible without regard for what they were." The game sold for $9.50 on [[Compact Cassette|cassette]], or $14.50 on [[punched tape]].{{sfn|North|1977|p=44}}
+
+Glenn Mai reviewed ''Invasion Force'' in ''[[The Space Gamer]]'' No. 36.<ref name="SG">{{cite journal|last=Mai |first=Glenn |date=February 1981 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=36|pages=27}}</ref> Mai commented that "If you don't have a ''Star Trek'' game and want one, get ''Invasion Force''."<ref name="SG"/>
+
+==References==
+{{reflist|30em}}
+
+===Bibliography===
+* {{cite magazine |title=Two Space Games (With Graphics!) For Your Home Computer |magazine=Creative Computing |date=August 1977 |pages=43, 44 |first=Steve |last=North |url=https://archive.org/stream/CreativeComputingv03n04JulyAug1977/Creative_Computing_v03n04_July_Aug_1977#page/n45/mode/2up }}
+* {{cite book |title=Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition |first=Steven |last=Levy |publisher=O'Reilly Media |date=2010 |page=1622 |isbn=9781449393748 |url=https://books.google.com/books?id=mShXzzKtpmEC&pg=PA162 }}
+
+===Further reading===
+* {{cite book |url=https://www.sol20.org/manuals/trek80.pdf |title=Trek-80 User's Manual |publisher=Processor Technology |first=Steve |last=Dompier |date=1976}}
+
+
+[[Category:1976 video games]]
+[[Category:Judges Guild publications]]
+[[Category:TRS-80 games]]
+[[Category:Video games based on Star Trek]]
+[[Category:Video games developed in the United States]]

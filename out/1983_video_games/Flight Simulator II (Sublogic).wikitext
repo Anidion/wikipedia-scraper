@@ -1,0 +1,54 @@
+Flight Simulator II (Sublogic)
+Permalink: //en.wikipedia.org/w/index.php?title=Flight_Simulator_II_%28Sublogic%29&oldid=1224117167
+Accessed on: 2024-06-26T16:55:00.658302
+
+
+
+------
+Flight Simulator II (Sublogic)
+{{for|the Flight Simulator game for IBM PC and compatibles|Microsoft Flight Simulator 2.0}}
+{{Infobox video game
+| title = Flight Simulator II
+| image = Flight Simulator II cover.jpg
+| developer = [[Sublogic]]
+| publisher = Sublogic<br>[[Atari Corporation]]
+| designer = [[Bruce Artwick]]
+| released = {{Unbulleted list|'''Apple II'''|[[North America|NA]]: 1983|'''Atari 8-bit, C64'''|[[North America|NA]]: 1984|'''PC-98'''|[[Japan|JP]]: 1986|'''Amiga, Atari ST, TCC 3'''|[[North America|NA]]: 1987}}
+| genre = [[Amateur flight simulation]]
+| platforms = [[Apple II]], [[Atari 8-bit computers|Atari 8-bit]], [[Commodore 64]], [[PC-98]], [[Amiga]], [[Atari ST]], [[Tandy Color Computer 3]]
+| modes = [[Single-player]]
+}}
+
+'''''Flight Simulator II'''''<ref>{{Cite web|url=https://fshistory.simflight.com/fsh/fsii.htm|title=Flight Simulator History - FS-II (1983)|website=fshistory.simflight.com|access-date=2022-08-29|archive-date=2022-08-29|archive-url=https://web.archive.org/web/20220829154144/https://fshistory.simflight.com/fsh/fsii.htm|url-status=live}}</ref><ref>{{Cite web |title=Flight Simulator II (1984) |url=https://www.mobygames.com/game/14094/flight-simulator-ii/ |access-date=2023-08-02 |website=MobyGames |language=en |archive-date=2023-03-21 |archive-url=https://web.archive.org/web/20230321144753/https://www.mobygames.com/game/14094/flight-simulator-ii/ |url-status=live }}</ref> is a [[video game]] developed by [[Bruce Artwick]] and published by [[Sublogic (company)|Sublogic]] as the sequel to ''[[FS1 Flight Simulator]]''. It was released in December 1983 for the [[Apple II]],<ref name="hockman198704">{{Cite magazine |last=Hockman |first=Daniel |date=April 1987 |title=Bruce Artwick's Flight Simulator / You've Come A Long Way, Baby! / The History of an Epic Program |pages=32–34 |magazine=Computer Gaming World |issue=36 |url=https://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=36}}</ref><ref>{{Cite news |date=March 1984 |title=Fastalk - Strategy |pages=24 |work=Softalk |url=https://archive.org/details/softalkv4n07mar1984}}</ref><ref name=":0">{{Cite web|url=https://fshistory.simflight.com/fsh/timeline.htm|title=Flight Simulator History - Timeline|website=fshistory.simflight.com|access-date=2022-08-29|archive-date=2022-08-29|archive-url=https://web.archive.org/web/20220829154050/https://fshistory.simflight.com/fsh/timeline.htm|url-status=live}}</ref> in 1984 for [[Atari 8-bit computers]]<ref>{{Cite news |last=Haney |first=Jim |date=February 1985 |title=FLIGHT SIMULATOR II |pages=58–59 |work=Analog Computing |issue=27 |url=https://archive.org/details/analog-computing-magazine-27/page/n59/mode/2up}}</ref><ref name=":0" /> and [[Commodore 64]],<ref>{{Cite news |last=Florance |first=David |date=October 1984 |title=Two Flight Simulators For The 64 |pages=100–106 |work=Compute!'s Gazette |issue=16 |url=https://archive.org/details/1984-10-computegazette/page/n103/mode/2up}}</ref><ref name=":0" /><ref>{{Cite news |last=Lechner |first=Jack |date=December 1984 |title=FLIGHT SIMULATOR II |pages=51 |work=GAMES Magazine |issue=58 |url=https://archive.org/details/games-58-1984-december/page/50/mode/2up}}</ref> in 1986 for the [[Amiga]]<ref>{{Cite web |date=1987 |title=Info Magazine Issue 13 |url=https://archive.org/details/info-magazine-13/page/n91/mode/2up}}</ref><ref>{{Cite web|url=https://www.lemonamiga.com/games/details.php?id=417|title=Flight Simulator II|website=Lemon Amiga|access-date=2022-08-29|archive-date=2022-08-29|archive-url=https://web.archive.org/web/20220829153707/https://www.lemonamiga.com/games/details.php?id=417|url-status=live}}</ref><ref name=":0" /> and [[Atari ST]],<ref>{{Cite web |date=1986 |title=Page 6 - Issue 21 (1986-05)(ABACUS)(GB) |url=https://archive.org/details/Page_6_Issue_21_1986-05_ABACUS_GB/page/n29/mode/2up}}</ref><ref>{{Cite web |date=1987 |title=Page 6 - Issue 28 (1987-07)(ABACUS)(GB) |url=https://archive.org/details/Page_6_Issue_28_1987-07_ABACUS_GB/page/n41/mode/2up}}</ref><ref name=":0" /> the [[Atari XEGS]] as a pack-in title in 1987,<ref>{{Cite web |title=Editorial: Ever-Changing Atari Marketplace |url=https://www.atarimagazines.com/v7n1/marketplace.html |access-date=2023-03-14 |website=www.atarimagazines.com |archive-date=2018-12-12 |archive-url=https://web.archive.org/web/20181212195001/https://www.atarimagazines.com/v7n1/marketplace.html |url-status=live }}</ref> and in August 1988 for the [[TRS-80 Color Computer|Color Computer 3]].<ref>{{Cite web|url=http://archive.org/details/rainbowmagazine-1988-08|title=The Rainbow Magazine (Radio Shack Color Computer) (August 1988)|date=August 29, 1988|via=Internet Archive}}</ref>
+
+==Development==
+[[Image:Sublogic Flight Simulator II.png|thumb|Flying over the southern end of [[Meigs Field]] in [[Chicago]], Apple II version]]
+
+After the release of [[Microsoft Flight Simulator 1.0|''Flight Simulator'' for the IBM PC]], Sublogic backported its improvements to other computers as ''Flight Simulator II''.{{r|hockman198704}} This version, like the Microsoft release, does away with [[Wire-frame model|wireframe]] graphics for solid colors, and uses real-world scenery (although limited to a few areas in the United States). It includes the ability to load additional scenery from [[Floppy disk|floppy disks]].<ref>{{Cite news |last=Davidson |first=John |date=February 1990 |title=Surrealism in the Sky |pages=54 |work=New Atari User |issue=42 |url=https://archive.org/details/Page6-42-Feb90/page/54/mode/2up}}</ref>
+
+==Reception==
+''[[InfoWorld]]'' in 1984 praised ''Flight Simulator II'' for the Apple as "a complicated but exhilarating game ... Bruce Artwick has really done it all", and stated that it was superior to Microsoft's version.<ref name="mace19840507">{{cite news | url=https://books.google.com/books?id=ti4EAAAAMBAJ&pg=PA56 | title=In Praise of Classics | work=InfoWorld | date=1984-05-07 | accessdate=6 February 2015 | author=Mace, Scott | pages=56 | archive-date=2023-08-02 | archive-url=https://web.archive.org/web/20230802164511/https://books.google.com/books?id=ti4EAAAAMBAJ&pg=PA56 | url-status=live }}</ref>
+
+Roy Wagner reviewed and compared ''[[Solo Flight (video game)|Solo Flight]]'' and ''Flight Simulator II'' for ''[[Computer Gaming World]]'', and stated that "This program is outstanding and certainly one of the best examples of excellent programming, documentation, and a full use of the capabilities of a microcomputer."<ref name="CGW17">{{cite magazine |last=Wagner |first=Roy |title=Two Flight Simulators |magazine=Computer Gaming World |date=August 1984 |volume=1 |issue=17 |pages=28–29, 39}}</ref>
+
+''II Computing'' listed it ninth on the magazine's list of top Apple II games as of late 1985, based on sales and market-share data,<ref name="ciraolo198510_11">{{cite news | url=https://archive.org/stream/II_Computing_Vol_1_No_1_Oct_Nov_85_Premiere#page/n51/mode/2up | title=Top Software / A List of Favorites | work=II Computing | date=Oct–Nov 1985 | accessdate=28 January 2015 | author=Ciraolo, Michael | pages=51}}</ref> and it was Sublogic's best-selling Commodore game as of late 1987.<ref name="ferrell198712">{{cite news | url=https://archive.org/stream/1987-12-computegazette/Compute_Gazette_Issue_54_1987_Dec#page/n17/mode/2up | title=The Commodore Games That Live On And On | work=Compute's Gazette | date=December 1987 | accessdate=24 January 2015 | author=Ferrell, Keith | pages=18–22}}</ref>
+
+In 1996, ''[[Computer Gaming World]]'' declared ''Flight Simulator II'' the 79th-best computer game ever released.<ref name="cgw150">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | accessdate=25 March 2016 | pages=64–80}}</ref>
+
+==References==
+{{reflist}}{{Microsoft Flight Simulator}}
+
+[[Category:1983 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Flight simulation video games]]
+[[Category:General flight simulators]]
+[[Category:NEC PC-9801 games]]
+[[Category:Single-player video games]]
+[[Category:Sublogic games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,66 @@
+Cosmic Tunnels
+Permalink: //en.wikipedia.org/w/index.php?title=Cosmic_Tunnels&oldid=1224580219
+Accessed on: 2024-06-26T16:54:48.638485
+
+
+
+------
+Cosmic Tunnels
+{{short description|1983 video game}}
+
+{{Infobox video game
+| title = Cosmic Tunnels
+| image = Cosmic_Tunnels_Cover_Art.jpg
+| caption = 
+| released = '''1983:''' Atari 8-bit<br>'''1984:''' C64
+| designer = Tim Ferris
+| publisher = [[Datamost]]<br>Databyte
+| programmer = '''Atari 8-bit'''<br>Tim Ferris<br>'''Commodore 64'''<br>Jay Ford
+| developer = 
+| platforms = [[Atari 8-bit computers|Atari 8-bit]], [[Commodore 64]]
+| genre = [[Action_game|Action]]
+}}
+
+'''''Cosmic Tunnels''''' is a space-themed [[action game]] written by Tim Ferris<ref name="giantlist"/> and published by [[Datamost]] in 1983 for [[Atari 8-bit computers]]<ref name="atarimania1"/> and in 1984 for the [[Commodore 64]]. Datamost also sold the game with ''[[Cohen's Towers]]'' as a "twin pack".<ref name="atarimania2"/> It was re-released in 1986 by Databyte in the [[United Kingdom]].<ref name="atarimania2"/>
+
+==Gameplay==
+{{multiple image|perrow = 2|total_width=400|image_style = border:none;
+| image1 = Cosmic_Tunnels_Atari_8-bit_PAL_screenshot_1.png
+| image2 = Cosmic_Tunnels_Atari_8-bit_PAL_screenshot_Stage_2.png
+| image3 = Cosmic_Tunnels_Atari_8-bit_PAL_screenshot_Stage_4.png
+| image4 = Cosmic_Tunnels_Atari_8-bit_PAL_screenshot_Stage_3.png
+| footer = Stages clockwise from upper left (Atari 8-bit)
+}}
+The object of the game is to collect energy bars from four different asteroids. To do this the player needs to complete four different stages. The first stage expects the player to maneuver his spacecraft from its home base to one of the four gates at the top of the screen, while avoiding falling meteors. Once through the gate, the ship enters a space warp, where the player is confronted with mines that must be shot, or they will drain the ship's energy. This stage of the game lasts 25 seconds, with the mines progressively moving faster.
+
+After leaving the tunnel, the player must successfully land on the asteroid's landing platform, while avoiding missiles fired by the enemy bases. Once on the asteroid the last stage begins: the player must navigate enemy creatures to collect energy bars and place them in the ship. When energy bars are safely stored in the ship, the player can start his journey back to his base. 
+
+The player starts with three astronauts and a full tank of energy, but if he runs out of either the game ends. 
+
+==Reception==
+David H. Ahl writing for the ''[[Creative Computing (magazine)|Creative Computing]]'' concluded his 1984 review: "The graphics of ''Cosmic Tunnels'' are stunning, but the sound effects are mediocre. Nevertheless, the game is a real challenge that will keep you coming back for more, and more, and more."<ref name="cc"/> Tracie Forman agreed in a review for ''[[Electronic Games]]'' : "''Cosmic Tunnels'' is a well-planned, enjoyable game with a cohesive plot line, nice visuals and sound, and varied play-action."<ref name="eg"/> 
+
+Steve Panak wrote in his column in the 1984 ''[[ANALOG Computing]]'' holiday issue, "I found the entire game juvenile and insulting to anyone of above average intelligence. I cannot recommend this game to anyone who is not my enemy."<ref name="analog"/>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="atarimania2">{{cite web |title=Twin Pack - Cohen's Towers / Cosmic Tunnels |url=http://www.atarimania.com/game-atari-400-800-xl-xe-twin-pack-cohen-s-towers-cosmic-tunnels_6057.html |website=Atari Mania}}</ref>
+<ref name="atarimania1">{{cite web |title=Cosmic Tunnels |url=http://www.atarimania.com/game-atari-400-800-xl-xe-cosmic-tunnels_1356.html |website=Atari Mania}}</ref>
+<ref name="cc">{{cite journal |title=Thirteen Great New Games |journal=Creative Computing |date=May 1984 |page=116 |last1=Ahl |first1=David H.|url=https://archive.org/details/Creative_Computing_1984-05/page/n117/mode/2up}}</ref>
+<ref name="eg">{{cite journal |title=Cosmic Tunnels |journal=Electronic Games |date=November 1984 |page=40 |last1=Forman |first1=Tracie |url=https://archive.org/details/Electronic_Games_Volume_02_Number_16_1984-11_Reese_Communications_US/page/n41/mode/2up}}</ref>
+<ref name="analog">{{cite journal |last1=Panak |first1=Steve |title=Panak Strikes: Cosmic Tunnels |journal=ANALOG Computing |date=December 1984 |issue=25 |pages=55 |url=https://archive.org/details/analog-computing-magazine-25/page/n59/mode/2up}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=1356}}
+*[http://gb64.com/game.php?id=1704&d=18&h=0 ''Cosmic Tunnels''] at Gamebase 64
+*{{Internet Archive game|id=Cosmic_Tunnels_The_1983_Datamost}}
+
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Datamost games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in outer space]]

@@ -1,0 +1,56 @@
+Track Attack
+Permalink: //en.wikipedia.org/w/index.php?title=Track_Attack&oldid=1224118653
+Accessed on: 2024-06-26T16:54:17.040877
+
+
+
+------
+Track Attack
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Track Attack
+|image = Track_Attack!_Cover_Art.jpg
+|caption = 
+|developer =
+|designer = Chris Jochumson<ref name=giantlist/>
+|programmer = '''Apple II'''<br>Chris Jochumson<br>'''Atari 8-bit'''<br>Bill Hooper<ref name=giantlist/>
+|publisher = [[Broderbund]]
+|released = 1982
+|genre = [[Maze video game|Maze]], [[Platform game|platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]]
+|alt = 
+}}
+
+'''''Track Attack''''' (stylized as '''''Track Attack!''''') is a train-themed action game written by Chris Jochumson for the [[Apple II]].<ref name=giantlist/> It was published in 1982 by [[Broderbund]], as was a port for [[Atari 8-bit computers]] by Bill Hooper.<ref name=mania/> ''Track Attack'' contains both overhead [[maze video game|maze]] levels and side-scrolling [[platform game]] levels. In the latter, the player controls a character who runs along the top of a train, performing acrobatic leaps between the cars. Jochumson co-authored ''[[The Arcade Machine]]'' which was released the same year.
+
+==Gameplay==
+[[File:Track_Attack!_Atari_8-bit_PAL_screenshot.png|thumb|left|First stage (Atari 8-bit). The player's blue car is at center.]]
+
+There are three distinct levels with unique gameplay.<ref name=rom/> The first shows a top-down view of overlapping mazes of roads and train tracks. The player drives a car attempting to—at places where the tracks and road intersect—jump through boxcars and to steal the gold contained within. The second level shows a side view of the train, and the player runs along the top, making aerial somersaults between the cars as the train scrolls horizontally. Reaching the [[locomotive]] ends the level. In the third segment the overhead maze returns, but the player now controls the train, picking up gold along the tracks while avoiding vehicles on the road.
+
+==Reception==
+''ROM'' magazine liked the visuals, commenting "The second level of this game are [sic] really impressive. The movement of the little man is smooth and the train is very colorful with fine details."<ref name=rom/> The reviewer disliked the minimal sound, blaming it on the game being ported from the Apple II. It received an overall rating of 8.2 out of 10, with 10s for both playability and graphics.
+
+Reviewing the Atari translation for ''Softline'', Marcia and Gary Rose concluded, "''Track Attack'' is an original game that makes good use of the cops and robbers theme, an area that has sadly been overlooked in these times of extraterrestrial warfare and adventure."<ref name=rose/> In a "D+" review, ''Addison Wesley Book of Atari Software 1984'' called the controls "somewhat crazy" and found there to be too many random factors in the game.<ref>{{cite book |title=Addison Wesley Book of Atari Software 1984 |date=1984 |publisher=Addison Wesley |page=180 |url=https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n179/mode/2up |via=archive.org}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name=mania>{{cite web |title=Track Attack! |url=http://www.atarimania.com/game-atari-400-800-xl-xe-track-attack_5453.html |website=Atari Mania}}</ref>
+<ref name=giantlist>{{cite web |title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+<ref name=rose>{{cite journal |last1=Rose |first1=Gary & Marcia |title=Gameline: Track Attack |journal=Softline |date=January 1983 |pages=44–45 |url=https://archive.org/details/Softline_1983_01/page/n45/mode/2up}}</ref>
+<ref name=rom>{{cite journal |title=Reviews: Track Attack |journal=ROM |date=September 1983 |issue=1 |page=23 |url=https://www.atarimagazines.com/rom/issue1/track_attack.php}}</ref>
+}}
+
+==External links==
+*[https://archive.org/details/creativecomputing-1982-12/page/n65/mode/2up Review] in ''[[Creative Computing]]''
+*[https://archive.org/details/softside-magazine-50/page/n113/mode/2up Review] in ''[[SoftSide]]''
+*[https://archive.org/details/softalkv2n08apr1982/page/114/mode/2up Review] in ''[[Softalk]]''
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Broderbund games]]
+[[Category:Maze games]]
+[[Category:Platformers]]
+[[Category:Video games developed in the United States]]

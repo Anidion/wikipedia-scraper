@@ -1,0 +1,77 @@
+Astro Chase
+Permalink: //en.wikipedia.org/w/index.php?title=Astro_Chase&oldid=1224491168
+Accessed on: 2024-06-26T16:52:57.338833
+
+
+
+------
+Astro Chase
+{{short description|1982 video game}}
+{{Infobox video game
+|title = Astro Chase
+|image = Astro Chase Cover.jpg
+|caption= Atari 5200 box cover
+|developer = [[First Star Software]]
+|publisher = [[First Star Software]]<br/>[[Parker Brothers]]<br/>[[Exidy]] (arcade)
+|designer = Fernando Hererra<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|released = '''1982:''' Atari 8-bit<br/>'''1983:''' Atari 5200<ref name="mania5200">{{cite web |title=Atari 5200 Astro Chase |url=http://www.atarimania.com/game-atari-5200-astro-chase_13523.html |website=Atari Mania}}</ref><br/>'''1984:''' C64,<ref>{{lemon64 game|id=163|name=Astro Chase}}</ref> arcade<ref name=klov>{{KLOV game|id=6944|name=Astro Chase}}</ref>
+|platforms=  [[Atari 8-bit computers|Atari 8-bit]], [[Arcade video game|Arcade]], [[Atari 5200]], [[Commodore 64]]
+|genre = [[Multidirectional shooter]]
+|modes = [[Single-player video game|Single-player]]
+|arcade system = Max-A-Flex
+}}
+
+'''''Astro Chase''''' is a [[multidirectional shooter]] written by Fernando Herrera for [[Atari 8-bit computers]]. It was published by [[First Star Software]] in 1982 as the company's first game. [[Parker Brothers]] licensed it, releasing cartridge versions for the Atari 8-bit family and [[Atari 5200]] console in 1983 and a [[Commodore 64]] version in 1984. [[Exidy]] licensed it for arcade use with its Max-A-Flex cabinet.<ref name=chase/>
+
+Gameplay takes place on a 2D scrolling map of space around Earth, which the player has to defend from an alien force. The primary target is a number of Mega-Mines, which approach the Earth and must be destroyed. Contemporaneous reviewers were impressed by the graphics, but retrospective evaluations have called the game simplistic.
+
+==Gameplay==
+{{Unreferenced section|date=March 2023}}
+
+The game opens with the player looking at a scene at a spaceport, in a simulated 3D view. A [[flying saucer]] is hovering just to the right of center, and the player's character is seen exiting a terminal building on the left, walking to the spaceship, waving goodbye, and then beaming aboard.
+
+[[Image:Astro Chase-fair-use.png|thumb|left|Atari 8-bit screenshot]]
+
+The view then cuts to space, where the player uses the [[joystick]] to cause the screen to rapidly scroll in the selected direction, creating the illusion of flight. The screen is filled with planets and other objects. When the user presses the fire button on the joystick, the stick stops causing the ship to move, and instead fires its weapon in the chosen direction. The ship can simultaneously move and fire in different directions.
+
+The enemy aliens attack the player with an endless supply of attack saucers; however, they not the player's main opponent. The real threat is the 16 Megamines that start at the end of the universe and slowly make their way towards planet Earth, displayed in the center of the game map. If a single Megamine manages to reach Earth, the planet explodes.
+
+The game's music is an endless loop of the ''[[1812 Overture]]''. After destroying all 16 Megamines in a given level, the player is able to move to the next of the 36 levels. Every four levels, the ship returns to Earth, where a [[cutscene]] animation is shown.
+
+==Development==
+In 1981, [[Atari, Inc.]] introduced the [[Atari Star Award]] for the best new program distributed though their [[Atari Program Exchange]]. The winner of the first $25,000 grand prize was Fernando Herrera for ''[[My First Alphabet]]'', a children's game.<ref>Will Richardson, [http://www.atarihq.com/othersec/library/herrera.html "First Star in the Atari Universe"], ''Electronic Games''</ref>
+
+Fernando was working at a computer retail store owned by Billy Blake who was also partners with [[Richard Spitalny]] at the time. Billy and Richard, then feature film producers, decided to start and fund an interactive software company to showcase Fernado's talents. Richard and Billy funded the company, naming it First Star Software. ''Astro Chase'' was the first title from the new company,<ref name=chase>{{cite web| url=https://firststarsoftware.com/astro-chase/ |title=Astro Chase|website=First Star Software}}</ref> released on 7 December 1982.
+
+A version of ''Astro Chase'' for the [[Atari 2600]] was completed in 1983, but not published.<ref>{{cite web |title=Astro Chase |url=https://www.atariprotos.com/2600/software/astrochase/astrochase.htm |website=Atari Protos}}</ref>
+
+==Reception==
+''Astro Chase'' spent three months in ''Popular Computer World'''s top-ten list and became the first game to be awarded "Computer Game of the Month" by ''Dealerscope''.{{Citation needed|date=January 2019}} The game was awarded "1984 Best Science Fiction/Fantasy Computer Game" at the 5th annual [[Arkie Awards]], where judges described it as "slam-bang space battle" and praised its animated intermissions.<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|28}}
+
+The Atari computer system version of ''Astro Chase'' was reviewed by ''[[Video (magazine)|Video]]'' magazine in its "Arcade Alley" column where it was described as "a state-of-the-art space shoot-out" and as "a revolutionary game with graphic achievements of stunning virtuosity". Reviewers specifically praised the game's innovative "single thrust propulsion" mechanic.<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= May 1983 |title= Arcade Alley: Zapping for Truth and Justice |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 2|pages= 26–28|issn= 0147-8907}}</ref>{{rp|28}}
+
+Allen Doum reviewed the game for ''[[Computer Gaming World]]'', and stated that "What qualifies Astro Chase as "state of the art" is the graphics presentation. The full scrolling playfield is not only drawn beautifully, but changes with each chase."<ref name="CGW10">{{cite magazine |last=Doum |first=Allen |title=The Atari Arena |magazine=Computer Gaming World |date=May–Jun 1983 |volume=1 |issue=10 |pages=28–29}}</ref> ''[[Softline (magazine)|Softline]]'' stated that "''Astro Chase'' is just about all you could ask for in an arcade game ... an exercise in class and style", citing its "Tremendous graphics".<ref name="lynch19830708">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=12 | title=Astro Chase | work=Softline | date=Jul–Aug 1983 | accessdate=28 July 2014 | author=Lynch, Don | pages=26}}</ref>
+
+In a retrospective review of the Atari 5200 version, Keita Iida wrote, "the gorgeous 3-D starfield is just another 2-D maze&mdash;with round obstructions instead of walls." He concluded, "''Astro Chase'' is one big letdown and serves as a reminder that graphics are only skin deep."<ref>{{cite web|last1=Iida|first1=Keita|title=Atari 5200 Review: ASTRO CHASE|url=http://www.atarihq.com/reviews/5200/astro_chase.html|website=Atari HQ}}</ref> The Video Game Critic gave a letter grade of F: "all style and no substance".<ref>{{cite web |title=Astrochase |url=https://videogamecritic.com/5200ab.htm?e=77768#rev492 |website=The Video Game Critic}}</ref>
+
+==Legacy==
+In 1994, [[MacPlay]] released a first-person reworking of the game for the [[Macintosh]] as ''Astro Chase 3D''.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{atarimania|id=356}}
+*[http://www.arcade-history.com/?n=astro-chase&page=detail&id=3744 Astro Chase] at ''Arcade History''
+
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 5200 games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Commodore 64 games]]
+[[Category:Exidy games]]
+[[Category:Single-player video games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video games developed in the United States]]
+[[Category:First Star Software games]]

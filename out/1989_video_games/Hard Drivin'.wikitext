@@ -1,0 +1,118 @@
+Hard Drivin'
+Permalink: //en.wikipedia.org/w/index.php?title=Hard_Drivin%27&oldid=1227226942
+Accessed on: 2024-06-26T17:06:31.937126
+
+
+
+------
+Hard Drivin'
+{{Short description|1989 arcade game}}
+{{Use mdy dates|date=November 2023}}
+{{Infobox video game
+| title = Hard Drivin'
+| image = Hard Drivin arcade flyer.jpg
+| alt = Flyer
+| developer = [[Atari Games|Atari Games Applied Research Group]]<br>
+'''Ports'''<br>[[Tengen (company)|Tengen]]<br>[[Domark]]<br>Sterling Silver<br>[[NuFX]]
+| publisher = {{vgrelease|NA|Atari Games|JP|Namco}}
+| designer = Rick Moncrief
+| programmer = Stephanie Mott<br>Max Behensky
+| artist = Sam Comstock<br>Kris Moser<br>Deborah Short
+| composer = Don Diekneite
+| platforms = [[Arcade game|Arcade]], [[Amiga]], [[Amstrad CPC]], [[Atari Lynx|Lynx]], [[Atari ST]], [[Commodore 64]], [[DOS]], [[Sega Genesis|Genesis]], [[ZX Spectrum]]
+| released = '''Arcade''' {{vgrelease|NA|February 12, 1989<ref>{{cite web |title=Hard Drivin' (Registration Number PA0000441184) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=May 25, 2021}}</ref>|EU|February 1989<ref name="atari_production"/>|JP|June 1989<ref name="GM"/>|HK|November 1989<ref name="RePlay148"/>}} '''Amiga, CPC, ST, C64'''<br>1989<br>'''MS-DOS, Spectrum'''<br>1990<br>'''Genesis''' {{vgrelease|JP|December 21, 1990|NA|1991|EU|1991}} '''Lynx''' {{vgrelease|WW|1991}}
+| genre = [[Sim racing|Driving simulation]]<ref name="CU"/>
+| modes = 2 players (alternating)
+| arcade system = [[Namco System 21|Atari Hard Drivin']]
+}}
+
+'''''Hard Drivin{{'}}''''' is a [[sim racing]] [[arcade video game]] developed by [[Atari Games]] in [[1989 in video games|1989]].<ref name="CU"/> Players test drive a [[sports car]] on courses that emphasize stunts and speed. It features one of the first [[3D computer graphics|3D]] [[Polygon (computer graphics)|polygon]] driving environments<ref name=allgame>{{cite web |url=http://www.allgame.com/game.php?id=25766 |title=allgame - Hard Drivin' |access-date=June 22, 2008 |archive-date=November 14, 2014 |archive-url=https://web.archive.org/web/20141114132021/http://www.allgame.com/game.php?id=25766 |url-status=dead }}</ref> via a [[Arcade cabinet#Cockpit or environmental cabinets|simulator cabinet]] with a [[Haptic technology|haptic vibrating]] steering wheel and a custom rendering architecture.<ref name="system16">{{cite web|url=http://www.system16.com/hardware.php?id=770|title=system16.com|access-date=July 10, 2008}}</ref>
+
+==Gameplay==
+[[File:Hard Drivin' in-game screenshot (Arcade).png|thumb|left|Arcade version screenshot]]
+Players drive a sports car in a [[first-person (video games)|first-person]] perspective, navigating one to two laps around a stunt track for their best time while avoiding hazards such as vehicles and obstacles. If scoring in the top 10 during certain modes, the player races against the computer-controlled Phantom Photon car. A manual transmission mode includes a clutch pedal and the possibility of stalling the car, along with a vibrating [[haptic technology|haptic vibrating]] steering wheel.
+
+The player's driving progress is tracked by invisible waypoints, denoted by flags on the course map when the game ends due to time running out. Passing the waypoint half-way through the track grants the player extra time.
+
+After crashing (either into another vehicle or missing an airborne landing), a ten second [[instant replay]] shows a wide aerial view of the player's movement and surrounding vehicles leading up to the crash. Following the replay, the player's car is placed back on the track at the last waypoint passed, which may be a significant distance from the point of collision. If the player's car goes off-road, a ten second countdown begins to return to the track, or else they will be stopped and returned, at a standstill, to the previous waypoint.
+
+==Development==
+Development of the [[3D computer graphics]] arcade hardware that was eventually used for ''Hard Drivin{{'}}'' began in the mid-1980s, several years before the game was released. At the time, Atari Games was owned by [[Namco]], and the two companies began working on a 3D arcade system. After Atari and Namco separated, each company developed its own arcade system in the late 1980s, based on the same prototype. Atari used an earlier version of the hardware for ''Hard Drivin{{'}}'', and Namco developed a more advanced version of the hardware called the [[Namco System 21]], used for ''[[Winning Run]]'' (1988).<ref>{{cite magazine |last1=Harrison |first1=Phil |author1-link=Phil Harrison |title=Arcades: Namco's Winning Streak |magazine=[[Commodore User]] |date=August 1989 |issue=72 (September 1989) |pages=90–1 |url=https://archive.org/details/commodore-user-magazine-72/page/n89/mode/2up?view=theater}}</ref>
+
+The development of ''Hard Drivin{{'}}'' began in 1988. Atari originally intended a 1988 release, but according to one of Atari's engineers and designers, it was delayed due to the dispute from its vice president claiming that no one would buy an arcade cabinet for {{US$|10000|1988|round=-3}} after ''[[The Last Starfighter]]'' arcade game was canceled for that reason a few years earlier. Weeks of research concluded that this price was acceptable.<ref>{{cite web|url=http://www.arcade-history.com/?n=the-last-starfighter&page=detail&id=4815|title=the last starfighter [coin-op] arcade video game, atari, inc. (1984)|access-date=March 10, 2015}}</ref><ref>{{cite web |url=http://www.retroarcade1.com/TheLastStarFighter/tabid/9170/Default.aspx |url-status=dead |archive-url=https://web.archive.org/web/20080328120525/http://www.retroarcade1.com/TheLastStarFighter/tabid/9170/Default.aspx |archive-date=March 28, 2008 |title=The Last StarFighter article}}</ref>
+
+In addition to the main [[Central processing unit|CPU]], ''Hard Drivin{{'}}'' uses two [[TMS34010]] 32-bit graphics-oriented processors and a [[digital signal processor]].<ref name="system16" />
+
+===Physics===
+The engine, transmission control, suspension, and tire physics were modeled in conjunction with Doug Milliken<ref>{{cite web|author=Jed Margolin |url=http://jmargolin.com/schem/schems.htm |title=Hard Drivin'/Race Drivin' Schematics |publisher=Jmargolin.com |access-date=August 26, 2014}}</ref> who is listed as a test driver in the game credits. In the 1950s, his father [[William F. Milliken Jr.|William Milliken]] of Milliken Research led a team at [[Calspan Corporation|Cornell Aeronautical Laboratory]] in [[Buffalo, New York]] (later Calspan) that converted aircraft equations of motion to equations of motion for the automobile, and became one of the world's leading experts in car modeling.<ref>{{cite web|url=http://www.bentleypublishers.com/ludvigsen/aq-milliken-biography.htm |title=Karl Ludvigsen - Mister Supernatural - Bill Milliken |publisher=Bentleypublishers.com |access-date=August 26, 2014}}</ref>
+
+==Ports==
+The contemporary home systems ''Hard Drivin{{'}}'' was ported to have tremendously less computing power than the arcade machine. These include the [[Amstrad CPC]], [[Mega Drive|Mega Drive / Genesis]], and [[Atari Lynx]]. The [[Commodore 64]] version was only released as part of the ''Wheels of Fire'' compilation. A version for the [[Nintendo Entertainment System|NES]] was programmed by Mark Morris, but was unreleased.
+
+==Reception==
+{{Video game reviews
+|ACE = 937/1000 (Atari ST)<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue28/Pages/ACE2800046.jpg |title=Archive - Magazine viewer |publisher=World of Spectrum |access-date=August 26, 2014}}</ref> <br/>921/1000 (Spectrum)<ref>{{cite web |url=https://archive.org/stream/ACEIssue28Jan90/C%3A%5CUsers%5Cgarcia%5Cprojects%5Ccia-site%5Cdownloads%5Cmagazine%5CACE%5CACE_Issue_28_Jan_90#page/n45 |via=archive.org |publisher=ACE Magazine |page=47 |issue=28 |date=January 1990 |access-date=August 13, 2018 |title=Hard Drivin' Domark put the hammer down}}</ref>
+|CRASH = 92% (Spectrum)<ref name="Crash">{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue72/Pages/Crash7200049.jpg |title=Archive - Magazine viewer |publisher=World of Spectrum |access-date=August 26, 2014}}</ref>
+|GamePro = 21/25 (Genesis)<ref>{{cite magazine |url=https://retrocdn.net/images/b/bc/GamePro_US_018.pdf |title=Genesis ProView: ''Hard Drivin'' |author=Doctor Dave |magazine=[[GamePro]] |date=January 1991 |page=87}}</ref>
+|IGN = 6/10 (Lynx)<ref name=lynxreviewign>{{cite web |url=http://uk.ign.com/articles/1999/07/07/hard-drivin |publisher=IGN Entertainment |author=Robert A. Jung |date=July 6, 1999 |access-date=August 13, 2018 |title=Hard Drivin' Atari's arcade port reviewed.}}</ref>
+|SUser = 78% (Spectrum)<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue094/Pages/SinclairUser09400036.jpg |title=Archive - Magazine viewer |publisher=World of Spectrum |access-date=August 26, 2014}}</ref>
+|YSinclair = 90% (Spectrum)<ref>{{cite web |url=http://www.ysrnry.co.uk/articles/harddrivin.htm |title=Hard Drivin' |publisher=Ysrnry.co.uk |access-date=August 26, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20150402164410/http://www.ysrnry.co.uk/articles/harddrivin.htm |archive-date=April 2, 2015}}</ref>
+|rev1 = ''[[Commodore User]]''
+|rev1Score = 8/10 (arcade)<ref name="CU">{{cite magazine |last1=Kelly |first1=Nick |title=Arcades - Hard Drivin' |journal=[[Commodore User]] |publisher=[[EMAP]] |date=March 1989 |pages=78–79}}</ref>
+|rev2 = ''[[MegaTech]]''
+|rev2Score = 89% (Mega Drive)<ref>MegaTech rating, [[EMAP]], issue 6, page 80, June 1992</ref>
+| award1Pub = ''Crash''
+| award1 = Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 72, January 1990</ref>
+}}
+
+Atari sold 3,318 ''Hard Drivin{{'}}'' [[arcade cabinet]]s.<ref name="atari_production">{{cite web |date=January 4, 2010 |title=Atari Production Numbers Memo |url=http://www.atarigames.com/index.php?option=com_content&view=article&id=47:atari-production-numbers-memo&catid=5:atari-inter-office-memos&Itemid=5 |url-status=dead |archive-url=https://web.archive.org/web/20130120084806/http://www.atarigames.com/index.php?option=com_content&view=article&id=47:atari-production-numbers-memo&catid=5:atari-inter-office-memos&Itemid=5 |archive-date=January 20, 2013 |access-date=March 18, 2012 |publisher=[[Atari Games]]}}</ref> In Japan, ''Game Machine'' listed ''Hard Drivin{{'}}'' in its June 1, 1989, issue as the second most successful upright/cockpit arcade cabinet of the month.<ref name="GM">{{cite magazine|title=Game Machine's Best Hit Games 25 - アップライト, コックピット型TVゲーム機 (Upright/Cockpit Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=357|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=June 1, 1989|page=21|lang=ja}}</ref> It became Japan's sixth highest-grossing dedicated [[1990 in video games|arcade game of 1990]].<ref>{{cite magazine |title="Tetris" Has Still Earned More Than "Final Fight" |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=396 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=February 1, 1991 |page=22 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19910201p.pdf#page=12}}</ref> On Hong Kong's Bondeal charts, it topped the dedicated arcade cabinet chart in November 1989.<ref name="RePlay148">{{cite magazine |title=The Bondeal Chart |magazine=RePlay |date=January 1990 |volume=15 |issue=4 |page=148 |url=https://archive.org/details/re-play-volume-14-issue-no.-4-january-1990-600DPI/RePlay%20-%20Volume%2014%2C%20Issue%20No.%204%20-%20January%201990/page/148}}</ref> The Spectrum version rose to number 2 in the UK sales charts, behind ''[[Gazza's Superstar Soccer]]''.<ref>{{cite web |url=http://ysrnry.co.uk/ys51.htm |title=The YS Rock'n'Roll Years - Issue 51 |publisher=Ysrnry.co.uk |access-date=August 26, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140620190654/http://ysrnry.co.uk/ys51.htm |archive-date=June 20, 2014}}</ref>
+
+Nick Kelly of ''[[Commodore User]]'' reviewed the arcade version and said: "''Hard Drivin{{'}}'' is exactly what its name suggests — difficult. You won't master this quickly, and if you aren't used to driving a car it's going to be very tough for you indeed. But Atari can be proud of themselves for producing a coin-op which really does put you in the driving seat, and that is undeniably a major first".<ref name="CU"/>
+
+''[[Zzap!64]]'' magazine regarded the Commodore 64 port as one of the worst C64 games of all time—criticizing the monochrome graphics, painful slowdown, and the lack of instant replays in the other 8-bit conversions. The magazine gave the game 20%.<ref name="ZZap64">{{cite magazine | magazine=Zzap!64 | title=Hard Drivin' | url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=068&page=086&thumbstart=0&magazine=zzap | page=86 | issue=68 | date=December 1990 | access-date=March 10, 2015}}</ref> In Japan, the Mega Drive version received a score of 30 out of 40 from a panel of four reviewers.<ref>"30 Point Plus - ハードドライビン". ''[[Famicom Tsūshin|Shūkan Famicom Tsūshin]]''. No.362. Pg.32. November 24, 1995.</ref>
+
+===Accolades===
+''[[Your Sinclair]]'' listed it as the best [[1989 in video games|arcade game of 1989]].<ref name="YS">{{cite news |title=Your Sinclair's Top of the Slots '89 |url=https://www.solvalou.com/arcade/reviews/69/398 |date=March 1990 |publisher=Your Sinclair}}</ref> ''[[Computer and Video Games]]'' listed it as the fourth best arcade game of 1989.<ref name="CVG98">{{Cite magazine|date=December 16, 1989|title=The C+VG Top Arcade Games of 1989|url=https://archive.org/stream/cvg-magazine-098/CVG_098_Jan_1990#page/n7/mode/2up|magazine=[[Computer and Video Games]]|issue=98 (January 1990)|page=9}}</ref> The home computer ports received the Best Coin-Op Conversion prize at the 1989 [[Golden Joystick Awards]].<ref>{{cite magazine|title=High Society|url=https://archive.org/stream/ACEIssue33Jun90/ACE_Issue_33_Jun_90#page/n9/mode/1up|magazine=[[ACE (games magazine)|ACE]]|publisher=[[EMAP]]|issue=33 | date=June 1990|page=10}}</ref> ''[[Crash (magazine)|Crash]]'' gave it a Crash Smash award.<ref name="Crash"/> ''[[The Games Machine]]'' gave it a Star Player award.<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue26/Pages/TheGamesMachine2600025.jpg |title=Archive - Magazine viewer |publisher=World of Spectrum |access-date=August 26, 2014}}</ref>
+
+==Legacy==
+In 2004, ''Hard Drivin{{'}}'' was released for the [[GameCube]], [[PlayStation 2]], and [[Xbox (console)|Xbox]] as part of the ''[[Midway Arcade Treasures 2]]'' collection.
+
+===Sequels===
+''[[Race Drivin']]'' (1990) is an arcade system sequel. ''Hard Drivin' II - Drive Harder'' (1991) is for [[Atari ST]], [[Amiga]], and [[MS-DOS]].<ref>{{cite web |title=Atari ST Hard Drivin' II - Drive Harder |url=http://www.atarimania.com/game-atari-st-hard-drivin--ii-drive-harder_9517.html |website=Atari Mania}}</ref> ''Hard Drivin's Airborne'' (1993) and ''Street Drivin{{'}}'' (1993) were unreleased.<ref>{{cite web|url=http://ign.com/articles/2008/05/05/beta-blues-vol-1?page=2 |title=Beta Blues, Vol. 1 - IGN |publisher=ign.com |date=May 5, 2008 |access-date=August 26, 2014}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{KLOV game|8072}}
+* [http://www.arcade-history.com/?n=hard-drivin'&page=detail&id=1083 ''Hard Drivin''] at [http://www.arcade-history.com/ Arcade History]
+* {{atarimania|id=9516}}
+* {{WoS game|id=0002233}}
+* {{mobygames|/4813}}
+
+{{Atari Games}}
+{{Authority control}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Atari Lynx games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Domark games]]
+[[Category:DOS games]]
+[[Category:Crash Smash! award winners]]
+[[Category:Golden Joystick Award winners]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:NuFX games]]
+[[Category:Racing simulators]]
+[[Category:Sega Genesis games]]
+[[Category:Tengen (company) games]]
+[[Category:Video games developed in Ireland]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Alex Rudis]]
+[[Category:ZX Spectrum games]]

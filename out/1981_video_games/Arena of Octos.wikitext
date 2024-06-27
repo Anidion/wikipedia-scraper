@@ -1,0 +1,68 @@
+Arena of Octos
+Permalink: //en.wikipedia.org/w/index.php?title=Arena_of_Octos&oldid=1075166045
+Accessed on: 2024-06-26T16:52:04.733059
+
+
+
+------
+Arena of Octos
+{{refimprove|date=October 2017}}
+
+{{Infobox video game
+|title  = Arena of Octos
+|image = Arena of Octos title.png
+|developer = 
+|publisher = ''[[SoftSide]]''
+|designer =
+|programmer = Steve Kropinak (Apple)<br>Al Johnston (TRS-80)
+|released = [[1981 in video gaming|1981]]
+|genre = [[Strategy video game|Strategy]]
+|modes = [[Single-player]]
+|platforms = [[Apple II]], [[TRS-80]]
+}}
+'''''Arena of Octos''''' is a single-player, turn-based combat [[video game]] for the [[Apple II]] and [[TRS-80]] computer families. It was created by Steve Kropinak and Al Johnson<ref>{{cite web
+|url=https://dadgum.com/giantlist/
+|title=The Giant List of Classic Game Programmers
+|last1=Hague
+|first1=James
+|access-date=2018-01-02
+}}</ref> in 1981 and published by ''[[SoftSide]]'' magazine. The player assumes the role of a human space pilot, captured by an aggressive race of green-skinned aliens known as Octons after straying into their space.  To win freedom, the human must become a gladiator and engage in physical combat with numerous Octon warriors.<ref name="bss">{{cite book
+|editor=Fred Condo
+|title=The Best of SoftSide
+|year=1983
+|publisher=SoftSide Publications, Inc.
+|location=Milford, New Hampshire
+|chapter=Arena of Octos
+}}</ref>
+
+==Gameplay==
+Combat takes place in an octagonal arena, with eight stones littering the ground and a fire pit at its center.  The first round pits the player against a single Octon warrior named Ziuf-Basi, whom the player must defeat using a sword and shield. (The Octon is similarly equipped.)  Subsequent rounds of combat may add additional opponents.
+
+Combat is handled in turn fashion: the player makes a series of actions, then the opponents respond.  Actions include swinging the sword, raising the shield, moving in one of eight directions, or standing up.  The player can shove an opponent by moving into him, which may cause him to stumble over a rock or fall into the fire pit.  In the first round, both the player and the Octon can perform four actions in a turn, but this increases in subsequent rounds.
+
+Damage is tracked using strength points.  The player begins with 16 points and each direct blow removes one point, as does stumbling.  Falling into the fire pit removes one or more points.
+
+The game's display has an eight-pointed direction selector to choose which way to move, and a stats area showing the player's condition and that of the opponents.<ref name="bss" />
+
+==Development==
+
+In response to offers in computing magazines promising "up to $1000 for your programs," friends Steve Kropinak and Al Johnston created ''Arena of Octos'' and submitted it in 1981 to ''SoftSide'', a magazine which published user-submitted programs for the TRS-80, Apple II, and Atari 8-bit platforms.  Having worked out the premise of the game together, Johnston wrote the TRS-80 version and Kropinak the Apple II version.  ''SoftSide'' paid Johnston and Kropinak $90 each for first publishing rights of the game's [[BASIC]] [[Listing (computer)|listing]], and a further $90 to acquire the full rights.
+
+==Reception==
+{{empty section|date=April 2018}}
+
+==Legacy==
+''Arena of Octos'' was reprinted in ''The Best of SoftSide'' (1983).<ref name="bss" />
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.gamefaqs.com/appleii/917210-arena-of-octos/faqs/49371 GameFAQs: Arena of Octos]
+
+[[Category:Apple II games]]
+[[Category:TRS-80 games]]
+[[Category:1981 video games]]
+[[Category:SoftSide games]]
+[[Category:Video games developed in the United States]]
+[[Category:Commercial video games with freely available source code]]

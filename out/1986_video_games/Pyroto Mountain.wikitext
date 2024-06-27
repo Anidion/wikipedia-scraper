@@ -1,0 +1,37 @@
+Pyroto Mountain
+Permalink: //en.wikipedia.org/w/index.php?title=Pyroto_Mountain&oldid=1136963164
+Accessed on: 2024-06-26T17:00:45.732459
+
+
+
+------
+Pyroto Mountain
+{{notability|date=September 2022}}
+'''''Pyroto Mountain''''' is an online game based on answering trivia and skill-testing questions. It was originally developed to run as a stand-alone [[bulletin board system]] (BBS), later as a [[BBS door]], and more recently as a [[World Wide Web|web]] application.
+
+==History==
+
+''Pyroto'' was originally designed in January 1986 in [[Turbo Pascal]] by the late Timothy Campbell of Pinnacle Software in the [[Montreal]] suburb Cartierville; Timothy later moved to Mount Royal. At the time, it was a complete BBS system that replaced the standard "forums" concept with a similar system hosted in a fantasy setting. Users took on the persona of characters climbing the mountain, talking to each other through "spells" as opposed to conventional messaging commands. In order to gain access to these spells, the user had to climb the mountain levels by answering trivia questions asked by the various "guardians", the computer itself. Players started able to answer only one question a day, and successful answers increased the player's rank, or position on the Mountain.<ref>[http://software.bbsdocumentary.com/IBM/DOS/PYROTO/manual.txt Pyroto Mountain Manual]</ref> Eventually they would grow to gain magical powers,<ref>[http://www.yip.org/pyroto/pyrobs/tpo5773.html The Pyroto Observer], 'wizzy busy' section</ref> allowing them to interact with other players, notably using the dreaded "REDUCE" command which would send the target down the mountain.
+
+The new system first went online in February 1986, running on an original 4.77 MHz PC clone. One odd feature of the software is that it made a clicking sound on the server machine for every user keystroke, allowing the sysop (Campbell) to keep track of the activity by listening to the system. In mid-1986 the product was re-packaged as a BBS "door", allowing it to run as a stand-alone program "within" an existing BBS system. The first sale occurred in autumn of 1986. As the BBS world started to saturate in the late 1980s the system became more popular, although generally limited to a few specific markets; Montreal, Toronto and Phoenix. Campbell also wrote a spin-off version in 1988 known as '''Sapphire''', which replaced the fantasy setting with more traditional commands. It was marketed to users who needed a small zero-maintenance system. By the time the BBS market was being eroded by the [[internet]] in the mid-1990s, about 200 officially licensed copies of Pyroto had been sold. The last copy of Pyroto sold as a BBS was in 1995.  
+
+An interview with Timothy Campbell, in which he discussed Pyroto Mountain, can be seen on the [[BBS: The Documentary|BBS Documentary]].<ref>[http://software.bbsdocumentary.com The BBS Documentary]</ref>
+
+In 1999 Campbell sold all rights for Pyroto Mountain to James Ludwick, who created the company '''Pyroto, Inc''' to market it. Campbell continued working with the system in an effort to adapt it to the web, including the ability to scale out to multiple "mountains". In its web-based version, users could also submit new questions into the system. Based upon how well these articles were received, the users grew in stature. Users could then use their stature to assist, impede or attack other users. Ludwick also adapted the basic system into a new game known as '''MultiMegaCorp''', replacing the mountain setting with a business one.<ref name=pyroto>[http://www.pyrotoinc.com/pyinc/consumer.aspx Game Server Platforms], roll over "Pyroto Mountain"</ref>
+
+As of December 2022, there is still one Pyroto Mountain BBS in existence that you can connect to using [[telnet]] (pyroto.mysticmountain.us:8086) or through a web interface provided by the Telnet BBS Guide.<ref>{{cite web |title=Mystic Mountain BBS |url=https://www.telnetbbsguide.com/bbs/mystic-mountain-bbs/|website=Telnet BBS Guide |date=26 July 2020 |accessdate=20 December 2022}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://software.bbsdocumentary.com/IBM/DOS/PYROTO/ The BBS Software Directory]
+*[http://www.yip.org/pyroto  Pyroto resource full of links ]
+*[https://www.pyrotomountain.com  Pyroto Mountain online ] 
+*[https://www.ankhet.com Pyroto Mountain successor ]
+
+[[Category:1986 video games]]
+[[Category:Bulletin board system software]]
+[[Category:Browser-based multiplayer online games]]
+[[Category:Door games]]
+[[Category:Video games developed in Canada]]

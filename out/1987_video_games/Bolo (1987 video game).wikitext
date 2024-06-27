@@ -1,0 +1,75 @@
+Bolo (1987 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bolo_%281987_video_game%29&oldid=1199840836
+Accessed on: 2024-06-26T17:01:44.326364
+
+
+
+------
+Bolo (1987 video game)
+{{more citations needed|date=June 2020}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox video game
+| title = Bolo
+|image = Bolo (1987 video game).jpeg
+|developer = Various
+|publisher = Various
+|designer =
+|engine =
+|released = [[1987 in video gaming|1987]]
+|genre = [[Tactical shooter]]
+|modes = [[Single player]], [[Multiplayer video game|Multiplayer]]
+|platforms = [[BBC Micro]], [[Mac OS]], [[Mac OS X]], [[Linux]], [[Microsoft Windows|Windows]]
+}}
+
+'''''Bolo''''' is a [[video game]] initially created for the [[BBC Micro]] computer by [[Stuart Cheshire]] in 1987, and was later ported by Cheshire to the Apple [[Classic Mac OS|Macintosh]].<ref name="BoloManual">{{cite web
+| url = http://bishop.mc.duke.edu/bolo/guides/bolomanual/
+| title = MacBolo Instructions
+| accessdate = 27 May 2007
+| archive-url = https://web.archive.org/web/20070518053532/http://bishop.mc.duke.edu/bolo/guides/bolomanual/
+| archive-date = 18 May 2007
+| url-status = dead}}</ref> Although offered for sale for the BBC Micro,<ref name="acornuser198901">{{cite news | url=https://archive.org/details/AcornUser078-Jan89/page/n131/mode/1up | title=Bolo! | work=Acorn User | author=go-dax | date=January 1989 | access-date=30 April 2021 | pages=139}}</ref><ref name="worldinpixels-2020">{{cite web | url=https://www.idesine.com/blogs/news/the-mysterious-delos-d-harriman-talks-about-the-unreleased-bolo-in-an-extended-excerpt-from-acorn-a-world-in-pixels | title= Delos D.Harriman talks about unreleased Bolo | work=World in Pixels | author=idesine | date=November 2020}}</ref> this version is now regarded as lost.<ref name="sth">{{cite web | url=https://www.stairwaytohell.com/lostandfound/homepage.html | title=Lost and Found | website=Stairway to Hell | access-date=30 April 2021}}</ref> It is a networked multiplayer game that simulates a [[tank]] battlefield. Currently, a Windows version known as Winbolo remains in operation and continues to have a small but active player base.<ref>{{Cite web |title=WinBolo.com: Downloads |url=http://www.winbolo.com/downloads.php |access-date=2023-07-10 |website=www.winbolo.com}}</ref> <ref>{{Cite web |title=WinBolo.net: Index |url=http://winbolo.net/ |access-date=2023-07-10 |website=winbolo.net}}</ref>
+
+==Name==
+According to the Bolo Frequently Asked Questions page, "Bolo is the Hindi word for communication. Bolo is about computers communicating on the network, and more importantly about humans communicating with each other, as they argue, negotiate, form alliances, agree strategies, etc."<ref name="Bolo FAQ">{{cite web
+| url = http://bishop.mc.duke.edu/bolo/guides/stuartfaq.html
+| title = Frequently Asked Questions
+| accessdate = 27 May 2007
+| archive-url = https://web.archive.org/web/20070518233700/http://bishop.mc.duke.edu/bolo/guides/stuartfaq.html
+| archive-date = 18 May 2007
+| url-status = dead}}</ref>
+
+Another [[Bolo (1982 video game)|tank game with the same name]] was created for the Apple II in 1982. In the user manual, Cheshire wrote that this was "an unfortunate coincidence".<ref name="BoloManual" />
+
+== Description ==
+[[File:pillwar.png|thumb|left|Screenshot from the game.]]
+
+== Networking ==
+The Macintosh version of Bolo supported up to sixteen concurrent networked players,
+using [[AppleTalk]] over a [[Local_area_network|Local Area Network]],
+or [[User_Datagram_Protocol|UDP]] over the [[Internet]].<ref name="faq1">{{cite web | url=http://bolo.net/rgb-faq1.txt | title= rec.games.bolo Frequently Asked Questions (FAQ) - Part 1 | author=Cory L. Scott | date=May 1995}}</ref><ref name="faq2">{{cite web | url=http://bolo.net/rgb-faq2.txt | title= rec.games.bolo Frequently Asked Questions (FAQ) - Part 2 | author=Cory L. Scott | date=May 1995}}</ref><ref name="VirtualCommunity">{{cite journal |last1=Moore |first1=Eric |title=The Bolo Game: Exploration of a High-Tech Virtual Community |journal=Advances in Consumer Research |date=1996 |volume=23 |pages=167–171 |url=https://www.acrwebsite.org/volumes/7937/volumes/v23/NA-23/full |access-date=1 November 2021}}</ref> All AppleTalk network connection types were supported, including [[LocalTalk]], [[AppleTalk#EtherTalk, TokenTalk and AppleShare|EtherTalk]], TokenTalk, and [[AppleTalk Remote Access]].<ref name="BoloManual" /> The current Windows version continues to support 16 players, who join via an active games page or the game's Discord channel.<ref>{{Cite web |title=WinBolo.net: Active Games |url=http://winbolo.net/activegames.php |access-date=2023-07-10 |website=winbolo.net}}</ref><ref>{{Cite web |title=Join the WinBolo Discord Server! |url=https://discord.com/invite/hkxKS3r |access-date=2023-07-10 |website=Discord}}</ref>
+
+== References ==
+{{reflist}}
+
+==Further reading==
+{{refbegin}}
+* Andrew Wilson and Stephen Intille, [http://web.media.mit.edu/~intille/II/inducting_indy.html "Programming a Bolo Robot: Recognizing Actions By Example"], MIT Media Lab Fall 1995 - this paper describes using Bolo as a system for developing a [[programming by example]] system.<!--Did this paper appear in a peer-reviewed journal, or has it been cited by other papers a significant number of times?-->
+* Silberman, S. (1995). [https://web.archive.org/web/20200605182242/http://www.bolo.net/O%20Bolo%20Mio,%20Steve%20Silberman,%20NetGuide%20Magazine,%20May%201995.pdf O Bolo Mio]. NetGuide Magazine, May issue. Archived from on 5 June 2020.
+{{refend}}
+
+== External links ==
+*[http://www.bolo.net/ Bolo home page]
+*[http://www.stuartcheshire.org/ Stuart Cheshire], the author of ''Bolo''
+*[http://www.winbolo.com/downloads.php Winbolo game download page]
+*[http://winbolo.net/index.php Winbolo player hub website]
+
+{{DEFAULTSORT:Bolo (Video Game)}}
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Classic Mac OS games]]
+[[Category:MacOS games]]
+[[Category:1987 video games]]
+[[Category:Linux games]]
+[[Category:Windows games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Military science fiction video games]]

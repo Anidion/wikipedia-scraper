@@ -1,0 +1,96 @@
+RobotWar
+Permalink: //en.wikipedia.org/w/index.php?title=RobotWar&oldid=1226496784
+Accessed on: 2024-06-26T16:52:33.217280
+
+
+
+------
+RobotWar
+{{Short description|1981 video game}}
+{{distinguish|Robot Wars (disambiguation){{!}}Robot Wars}}
+{{Infobox video game
+| title = RobotWar
+| image = RobotWar (Cover).png
+| caption = 
+| collapsible = 
+| designer = 
+| programmer = [[Silas Warner]]
+| developer = 
+| publisher = [[Muse Software]]
+| released = 1981
+| platform = [[Apple II]], [[PLATO (computer system)|PLATO]]
+| genre = [[Programming game|Programming]]
+}}
+
+'''''RobotWar''''' is a [[programming game]] written by [[Silas Warner]].  This game, along with the companion program '''''RobotWrite''''', was originally developed in the [[TUTOR]] [[programming language]] on the [[PLATO (computer system)|PLATO system]] in the 1970s. Later the game was commercialized and adapted for the [[Apple II]] and published by [[Muse Software]] in 1981. The premise is that in the distant future of 2002, war was declared hazardous to human health, and now countries settled their differences in a battle arena full of combat [[robot]]s. As the manual states, "The task set before you is: to program a robot, that no other robot can destroy!"<ref>
+{{Citation| title      = RobotWar
+| publisher  = Muse Software
+| publication-place = Baltimore, MD
+| page       = 1
+| year       = 1981
+| url        = https://corewar.co.uk/robotwar/robotwar.txt
+}}</ref>
+
+The main activity of the game is to write a [[computer program]] that operates a (simulated) robot. The player selects multiple robots which do battle in an arena until only one is left standing. The robots do not have direct knowledge of the location or velocity of any of the other robots; they only use radar pulses to deduce distance, and perhaps use clever [[computer programming|programming]] techniques to deduce velocity. There is no way for the player to actually take part in the battle.
+
+==Robot programming==
+The robots' language is similar to [[BASIC]]. There are 34 [[processor register|registers]] that can be used as variables or for the robots' [[I/O]] functions. An example program from the game manual is:
+
+ SCAN
+   AIM + 5 TO AIM                    ; MOVE GUN
+   AIM TO RADAR                      ; SEND RADAR PULSE
+ LOOP
+   IF RADAR < 0 GOSUB FIRE           ; TEST RADAR
+   GOTO SCAN
+ FIRE
+   0 - RADAR TO SHOT                 ; FIRE THE GUN
+   ENDSUB
+
+The robot with this program sweeps its radar in a circle, firing off radar pulses, and when it detects another robot, fires a projectile set to explode at the correct distance as estimated by the radar pulse. This particular robot stands still throughout the entire battle, as it never assigns any number to its movement registers.
+
+==Reception==
+Harry White reviewed ''RobotWar'' in ''[[The Space Gamer]]'' No. 45.<ref name="SG">{{cite journal|last=White |first=Harry |date=November 1981 |title=Featured Review: RobotWar|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=45|pages=4}}</ref> White commented that "''RobotWar'' is worth [...] the price. And if you don't have an Apple, but do own some other brand of personal computer, just wait - there'll be a similar game for you soon. It has to happen."<ref name="SG"/>
+
+In its first issue ''[[Computer Gaming World]]'' praised ''RobotWar''{{'}}s language as easy to learn,<ref>{{Citation
+  | last = Edmunds
+  | first = William
+  | title = RobotWar: A wargame for all programmers
+  | magazine = [[Computer Gaming World]]
+  | pages = 13–17
+  | date = November–December 1981
+  }}</ref> and for several years hosted contests for robot programs.<ref name="brooks199405">{{Cite magazine
+ |last=Brooks
+ |first=M. Evan
+ |date=May 1994
+ |title=Never Trust A Gazfluvian Flingschnogger!
+ |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118 
+ |magazine=Computer Gaming World
+ |pages=42–58}}</ref> In 1996, the magazine named it the 85th best game ever.<ref name="cgw199611best">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | access-date=25 March 2016 | pages=64–80}}</ref> ''[[Byte (magazine)|BYTE]]'' also praised Battle Language and its potential for teaching programming, as well as the sophisticated editor and debugger, but noted that the language's slow performance caused robots to [[race condition|sometimes behave in unexpected ways]].<ref name="feigel198112">{{cite news | url=https://archive.org/stream/byte-magazine-1981-12/1981_12_BYTE_06-12_Computer_Games#page/n25/mode/2up | title=Robotwar | work=BYTE | date=December 1981 | access-date=19 October 2013 | author=Feigel, Craig | pages=24}}</ref>
+
+In a 2020 interview, [[Stewart Cheifet]], the host and producer of ''[[Computer Chronicles]]'' told ZDNET that RobotWar was one of his favorite games, telling them "you didn't fight and shoot, you programmed your robot, it was a battle between the software, the robot you designed, and the robot the other guy designed,...it was brilliant."<ref>{{Citation |title=Looking back: Famous tech breakthroughs and failures |url=https://www.youtube.com/watch?v=MJmMzHmKSzQ |access-date=2023-07-22 |language=en}}</ref>
+
+==See also==
+*''[[Color Robot Battle]]'' is a similar game for the [[TRS-80 Color Computer]] released in the same year.
+*''[[RoboWar]]'' is a similar game that was released later on the [[Mac (computer)|Macintosh]].
+*''[[Crobots]]'' uses a simplified version of the 'C' programming language to program the robots.  
+*''[[MindRover]]'' is a 2000 implementation of concepts taken from ''RobotWar'' and ''[[Robot Odyssey]]''.
+
+==References==
+{{Reflist}}
+* https://books.google.com/books?id=0o5qBAAAQBAJ&lpg=PA358
+
+==External links==
+*[https://corewar.co.uk/robotwar.htm RobotWar: a brief history]
+*{{IAg|wozaday_Robotwar}}
+
+{{Muse Software}}
+
+{{DEFAULTSORT:Robotwar}}
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Muse Software games]]
+[[Category:Programming games]]
+[[Category:Video games about robots]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in 2002]]

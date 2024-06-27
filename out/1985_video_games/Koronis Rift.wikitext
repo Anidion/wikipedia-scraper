@@ -1,0 +1,78 @@
+Koronis Rift
+Permalink: //en.wikipedia.org/w/index.php?title=Koronis_Rift&oldid=1230642986
+Accessed on: 2024-06-26T16:58:43.648204
+
+
+
+------
+Koronis Rift
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = Koronis Rift
+|image = Koronis Rift cover.jpg
+|caption = Cover art by Terry Hoff
+|developer = [[Lucasfilm Games]]
+|publisher = {{vgrelease|NA|[[Epyx]]|EU|[[Activision]]<ref name='act_release'>{{cite web|url=http://www.atarimania.com/game-atari-400-800-xl-xe-koronis-rift_6632.html|title=Koronis Rift [Activision UK release]|website=Atarimania|accessdate=21 September 2019}}</ref>}}
+|designer = [[Noah Falstein]]
+|programmer = Charlie Kellner<br>Aric Wilmunder<br>[[Ron Gilbert]]<br>Ken Rogoway (CoCo)<ref name=boyle/>
+|artist = [[Gary Winnick (game developer)|Gary Winnick]]<br>James St. Louis
+|composer = [[Douglas Crockford]]
+|released = '''1985:''' Atari 8-bit, C64<br>'''1987:''' CoCo<ref name=boyle/>
+|genre = [[Strategy video game|Strategy]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]], [[Amstrad CPC]], [[Apple II]], [[MSX2]], [[ZX Spectrum]], [[TRS-80 Color Computer|Color Computer 3]]
+}}
+
+'''''Koronis Rift''''' is a [[video game]] from [[Lucasfilm Games]], [[Game producer|produced]] and [[Video game design|designed]] by [[Noah Falstein]].<ref name=zzap33>{{cite web|url=http://www.zzap64.co.uk/cgi-bin/displayfeature.pl?featureid=33|title=Lucasfilm Interviews - Part 1|website=Zzap64.co.uk|accessdate=1 November 2017}}</ref> Originally developed for the [[Atari 8-bit computers]] and the [[Commodore 64]], ''Koronis Rift'' was published in 1984. It was ported to the [[Amstrad CPC]], [[Apple II]], [[MSX2]], [[TRS-80 Color Computer|Tandy Color Computer 3]],<ref name=boyle/> and [[ZX Spectrum]].
+
+The Atari and C64 version shipped on a [[flippy disk]], with one version of the game on each side. A cassette version was also released for the Commodore 64.<ref name=zzap33/> The Atari version requires computers with the [[CTIA and GTIA|GTIA]] chip installed in order to display properly.
+
+''Koronis Rift'' was one of two games in Lucasfilm Games' second wave (December 1985). The other was ''[[The Eidolon]]''. Both enhanced the [[fractal]] technology developed for ''[[Rescue on Fractalus!]]''. In ''Koronis Rift'', the Atari 8-bit computer's additional colors (over those of the [[Commodore 64]]) allowed the [[game programmer|programmers]] to gradually fade in the background rather than it suddenly popping in as in ''Rescue'', an early example of depth cueing in a computer game.
+
+==Gameplay==
+[[Image:Koronis Rift A800 ingame.png|thumb|left|An enemy saucer and a hulk (Atari 8-bit).]]
+The player controls a surface rover vehicle to enter several "rifts" on an alien planet which are effectively fractal mazes. A lost civilisation known as the Ancients<ref name=atarimania>{{cite web | url=http://www.atarimania.com/game-atari-400-800-xl-xe-koronis-rift_s2837.html | title=Koronis Rift | website=Atari Mania | accessdate=1 November 2017}}</ref> has left strange machinery, so-called "hulks",<ref>{{Cite web | url=https://archive.org/details/commodore-user-magazine-29/page/n18/mode/1up?view=theater | title=Commodore User Magazine Issue 29 | date=February 1986}}</ref> within these rifts which are guarded by armed flying saucers of different design and color. Depending on their respective color, shields and gunshots of both the rover and the saucers are of varying effectiveness against each other; part of the game is figuring out which shield and weapon modules work best where.
+
+By means of a drone robot, the rover can retrieve modules with various functions (which are not immediately obvious) from nearby hulks. It can only be deployed when all attacking Guardian Saucers have been destroyed.<ref name=atarimania/> The modules can then be installed in the rover, analyzed aboard the player's space ship, or sold; the rover can carry up to six different modules at a time which can be activated and de-activated as the player sees fit.<ref name=atarimania/> A large variety of modules is available: different weapon and shield modules with varying power levels and color codes, modules that increase the rover's power output, a mapper (activating an extra screen on the rover), and even one module that turns the retrieval probe into a bomb, destroying any hulks the probe is sent to investigate instead of retrieving modules.
+
+Conversely, different types of hulks exist including one that simply "swallows" the probe without yielding a module, requiring the player to purchase a new probe (and possibly sell useful modules to raise the required funds).
+
+The goal of the game is to find and destroy the saucer control base hulk which is located in the 20th rift.<ref name=zzap33/> To this end, the player must explore the rifts, find hulks, retrieve and analyze modules and understand the color-coding of weapons and shields to overcome the increasingly aggressive and dangerous saucers. The game can be solved in several ways; the quickest is to acquire the bomb module and send the probe into the saucer base with the bomb module activated.
+
+==Reception==
+''[[Info (magazine)|Info]]'' rated ''Koronis Rift'' four stars out of five, stating that it was the best of Epyx's four Lucasfilm games.<ref name="info198601">{{Cite magazine | last1=Dunnington | first1=Benn | last2=Brown | first2=Mark R. | date=December 1985 – January 1986 | url=https://archive.org/stream/info-magazine-09/Info_Issue_09_1985_Dec-Jan_1986#page/n5/mode/2up | title=C-64/128 Gallery | magazine=Info | pages=4–5, 88–93 | access-date=2019-03-19}}</ref> ''[[Computer Gaming World]]'' stated that "if KR is a game, it is also a puzzle ... arcade skill alone isn't enough". The reviewer did not enjoy the game because it was so difficult that he spent too much time [[savescumming]], but praised the graphics and sound.{{r|williams198603}} ''[[Zzap!64]]'' thought that the game was an improvement on its predecessor, ''Rescue on Fractalus'', with superior graphics and gameplay. It was given an overall rating of 96%.<ref>{{cite web|url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=009&page=010&magazine=zzap|title=View a Scan|website=Zzap64.co.uk|accessdate=1 November 2017}}</ref>
+
+==Reviews==
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #41<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-41/page/56/mode/2up | title=Jeux & stratégie 41 | date=October 1986}}</ref>
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' HS #3<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-hs-3/page/74/mode/2up | title=Jeux & stratégie HS 3 | year=1986}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="williams198603">{{cite magazine | title=Atari Playfield | magazine=[[Computer Gaming World]] | issue=26 | date=March 1986 | url=http://www.cgwmuseum.org/galleries/index.php?year=1986&pub=2&id=26 | accessdate=24 April 2016 | last=Williams | first=Gregg | pages=30}}</ref>
+<ref name="boyle">{{cite web |last1=Boyle |first1=L. Curtis |title=Koronis Rift |url=http://www.lcurtisboyle.com/nitros9/koronisrift.html |website=Tandy Color Computer Games}}</ref>
+}}
+
+==External links==
+* {{Atarimania|id=2836}}
+* [http://gb64.com/game.php?id=4186&d=18&h=0 ''Koronis Rift''] at Gamebase 64
+* {{WoS game|id=0002747}}
+* [http://www.c64sets.com/set.html?id=65 ''Koronis Rift'' manual] at C64Sets.com
+* [https://web.archive.org/web/20060428061222/http://www.lucasarts.com/20th/history_1.htm LucasArts' 20th anniversary retrospective]
+
+[[Category:1985 video games]]
+[[Category:Action-adventure games]]
+[[Category:Activision games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Epyx games]]
+[[Category:LucasArts games]]
+[[Category:MSX2 games]]
+[[Category:Science fiction video games]]
+[[Category:Tank simulation video games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games set on fictional planets]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

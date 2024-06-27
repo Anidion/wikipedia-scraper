@@ -1,0 +1,79 @@
+Cauldron (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Cauldron_%28video_game%29&oldid=1227619017
+Accessed on: 2024-06-26T16:58:12.920485
+
+
+
+------
+Cauldron (video game)
+{{Short description|1985 video game}}
+{{Infobox video game
+| title = Cauldron
+| image = Cauldron Cover.jpg
+|alt = Artwork of a vertical rectangular box. The top portion reads "Cauldron" and the bottom portion reads "Commodore 64/128". Depicted behind a black background is a witch with long green hair and a long pointed nose. The witch uses a stick to stir a liquid in a black cauldron.
+| caption = The box art depicts the main protagonist, a witch. Artwork by Steve Brown.
+| developer = [[Palace Software]]
+| publisher = Palace Software
+| designer = Steve Brown
+| programmer = Richard Leinfellner
+| composer = Keith Miller
+| released = 1985
+| genre = [[Platform game|Platform]], [[scrolling shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]], [[Enterprise (computer)|Enterprise 128]]
+}}
+
+'''''Cauldron''''' is a video game developed and published by [[United Kingdom|British]] developer [[Palace Software]] in 1985 for the [[ZX Spectrum]], [[Commodore 64]], and [[Amstrad CPC]] home computers. It contains both [[platform game]] and horizontally [[scrolling shooter]] sections. Players control a witch who aims to become the "Witch Queen" by defeating an enemy called the "Pumpking".
+
+Designed by Steve Brown and Richard Leinfellner, ''Cauldron'' originated as a licensed game of the horror film ''[[Halloween (1978 film)|Halloween]]''. Brown eventually altered the game to use a theme based on the [[Halloween]] holiday. The mix of two genres resulted from Brown and Leinfellner wanting to make a shoot 'em up and platform game, respectively. The developers realized that there were no technical limitations preventing the genres from being combined.
+
+The game received praise from [[Video game journalism|video game magazines]], who focused on the graphics and two different modes of play. A common complaint was ''Cauldron''{{'}}s excessive difficulty. The following year, Palace released a direct sequel titled ''[[Cauldron II: The Pumpkin Strikes Back]]''.
+
+== Gameplay ==
+[[File:Cauldron-Gameplay.png|thumb|left|alt=Horizontal rectangle video game screenshot that is a digital representation of a forest. A witch flies on a broomstick in the top left corner above trees while bats flap their wings in her path.|The witch (top left) flies along the landscape and shoots enemies. Game statistics (points obtained, magic points, and remaining lives) are tracked at the top. The ZX Spectrum version is pictured.]]
+
+Players navigate the witch protagonist through the 2D game world from a side-view perspective. ''Cauldron'' is divided into two modes of play: [[scrolling shooter|shooting while flying]] and [[Platform game|jumping along platforms]]. Areas of the game world set on the surface feature the witch flying on a broomstick, while underground segments require the witch to run and jump in caverns. In the flying segments, players must search for randomly scattered coloured keys to access underground areas that contain six ingredients. The objective is to collect the ingredients and return them to the witch's cottage to complete a spell that can defeat the Pumpking. While traversing the game world, the witch encounters [[Halloween]]-themed enemies such as pumpkins, ghosts, skulls, and bats, as well as other creatures like sharks and seagulls. A collision with an enemy causes the witch's [[Magic (gaming)|magic meter]] (which is also used to fire offensive projectiles at enemies) to decrease. The character dies once the meter is depleted. After dying, the character reappears on the screen and the meter is refilled. Players are given limited opportunities for this to occur, and the game ends once the number of lives reaches zero.<ref name="RG-35">{{cite journal | journal = [[Retro Gamer]] | publisher = [[Imagine Publishing]] | title = The Making of Cauldron and Cauldron II | issue = 35 | pages = 48–51 | first = Craig | last = Grannell}}</ref><ref name="SinclairUser-40">{{cite journal | journal = [[Sinclair User]] | publisher = [[EMAP]] | title = Spectrum Software Scene: Cauldron | date = July 1985 | page = 22 | issue = 40 | first = Clare | last = Edgeley}}</ref><ref name="Zzap-1">{{cite journal | journal = [[Zzap!64]] | publisher = [[Newsfield Publications]] | title = Cauldron | date = May 1985 | issue = 1 | pages = 110–111}}</ref><ref name="CVG-42">{{cite journal | journal = [[Computer and Video Games]] | publisher = [[EMAP]] | title = Hot Gossip | date = April 1985 | page = 16 | first = Tony | last = Takoushi | issue = 42}}</ref>
+
+== Development ==
+''Cauldron'' began development as a game based on the 1978 slasher film ''[[Halloween (1978 film)|Halloween]]''. [[Palace Software|Palace]] obtained the video game rights and assigned Steve Brown to the project. Unable to develop a concept he was happy with, Brown took the game in a new direction. Inspired by the Halloween holiday, he envisioned a game featuring witches and pumpkins.<ref name="RG-35"/> Stuart Hunt of ''[[Retro Gamer]]'', however, attributed the switch to [[Mary Whitehouse]]'s campaign against [[Video nasty|violent horror films]] in the 1980s.<ref name="RG-57">{{cite journal | journal = [[Retro Gamer]] | publisher = [[Imagine Publishing]] | title = The History of Videogame Nasties | issue = 57 | page = 48 | first = Stuart | last = Hunt}}</ref>
+
+Brown submitted concept drawings to Palace co-founder Pete Stone, who approved further development. Influenced by what he deemed a "classical witch", Brown designed the witch with a long nose and a broomstick. He created a [[plasticine]] model of the character as a reference for a painting that was used for the game's box art. Brown was joined by Richard Leinfellner, who served as the lead programmer. The two enjoyed different video game genres—Brown liked [[platform game]]s, while Leinfellner preferred [[shoot 'em up]]s—and decided to create a game engine that could handle both methods of playing. Both developers [[Video game development#Testing|play tested]] the game, but only played the segments individually rather than in a sequence. In retrospect, Brown attributes the game's excess difficulty to this along with the fact that the two played with unlimited game lives.<ref name="RG-35"/> The game was released on three home computers: [[Amstrad CPC]], [[Commodore 64]], and [[ZX Spectrum]].<ref>{{cite web | url = http://www.mobygames.com/game/cauldron | title = Cauldron | publisher = [[MobyGames]] | access-date = 2010-02-19}}</ref> The Spectrum and Amstrad versions lack [[scrolling]] graphics in the shoot 'em up levels and use [[Flip-screen|flick-screening]] to approximate it.<ref name="RG-35"/><ref name="Crash-18">{{cite journal | journal = [[Crash (magazine)|Crash]] | publisher = [[Newsfield Publications]] | title = Cauldron | date = July 1985 | page = 34 | issue = 18}}</ref> A [[Porting|port]] of Palace's 1984 game ''[[The Evil Dead (video game)|The Evil Dead]]'', originally programmed for the Commodore 64 by Leinfellner, was included on the second side of the Spectrum cassette.<ref name="SinclairUser-40"/><ref name="CVG-42"/><ref name="CG-5">{{cite journal | journal = [[Computer Gamer]] | publisher = [[Argus Press|Argus Specialist Publications]] | title = Reviews: Cauldron | date = August 1985 | page = 67 | issue = 5 | author = CJ}}</ref> Retailers feared a parental backlash, resulting in a limited release for the game. Palace chose to include ''The Evil Dead'' to distribute the game to a wider audience.<ref name="RG-57"/>
+
+== Reception ==
+{{Video game reviews
+| CRASH = 91%<ref name="Crash-18"/>
+| SUser = 5 out of 5<ref name="SinclairUser-40"/>
+| rev1 = ''ZX Computing''
+| rev1Score = 4 out of 5<ref name="ZXComp"/>
+| award1Pub = ''Crash''
+| award1 = Smash<ref name="Crash-18"/>
+}}
+
+The game was well-received by the [[Video game journalism|video game press]], who focused on the graphical quality and game design. Tony Takoushi of ''[[Computer and Video Games]]'' described the game as a "quality arcade-adventure" and called the graphics stunning.<ref name="CVG-42"/> Reviewers from ''[[Crash (magazine)|Crash]]'' magazine praised the animation and detail of the graphics, as well as the gameplay.<ref name="Crash-18"/> Three of ''[[Zzap!64]]''{{'}}s reviewers—[[Julian Rignall]], Bob Wade, and [[Gary Penn]]—echoed similar statements about the graphics. The group complimented the gameplay, specifically the adventure aspects, and considered the large game world a positive component.<ref name="Zzap-1"/> A ''[[Computer Gamer]]'' reviewer praised the flying portions of the game, calling the gameplay enjoyable. While he praised the platforming portions, the reviewer commented that design flaws made the game more difficult than it should have been.<ref name="CG-5"/> Clare Edgeley of ''[[Sinclair User]]'' praised the graphical quality of the ZX Spectrum version, but commented that the colors occasionally overlap and the screen [[Flicker (screen)|flickers]].<ref name="SinclairUser-40"/> ''ZX Computing''{{'}}s reviewer praised the ZX Spectrum conversion, calling it superior to the Commodore 64 release. The reviewer lauded the graphics and gameplay of the flying segments, but bemoaned the platforming aspect and described it as a ''[[Jet Set Willy]]'' clone.<ref name="ZXComp">{{cite journal | journal = ZX Computing | title = Review: Cauldron | date = August–September 1985 | publisher = [[Argus Press|Argus Specialist Publications]] | pages = 78–79}}</ref>
+
+Publications dedicated to the ZX Spectrum platform considered the inclusion of ''The Evil Dead'' with the ZX Spectrum release a positive aspect that added value to the overall package.<ref name="SinclairUser-40"/><ref name="Crash-18"/><ref name="ZXComp"/> The game's difficulty was a common complaint. ''Computer Gamer'', ''Crash'', and ''ZX Computing'' commented that playing the game with limited lives was very challenging.<ref name="Crash-18"/><ref name="CG-5"/><ref name="ZXComp"/> ''Retro Gamer''{{'}}s Craig Grannell described the game as "unforgiving", citing difficulty landing and excessive precision required in the flying and platforming segments respectively.
+
+== Legacy ==
+Following the success of ''Cauldron'', Palace released a direct sequel, ''[[Cauldron II: The Pumpkin Strikes Back]]'', in 1986. The game is set after the events of the first game and features a bouncing pumpkin that survived the witch's ascension to power. Players navigate the pumpkin around a castle in search of the Witch Queen to enact revenge.<ref name="RG-35"/> ''Cauldron'' was later re-released along with its sequel as a compilation title on Amstrad CPC and ZX Spectrum computers.<ref name="YS-62">{{cite journal | journal = [[Your Sinclair]] | publisher = [[Dennis Publishing]] | title = Bargain Basement: Cauldron I & II | issue = 62 | page = 52 | date = February 1991 | first1 = Rich | last1 = Pelley | first2 = Jon | last2 = Pillar}}</ref><ref>{{cite web | url = http://www.gamespot.com/cpc/puzzle/cauldroniii/tech_info.html | title = Cauldron I & II Tech Info | publisher = [[GameSpot]] | access-date = 2010-05-24}}</ref> The commercial success of the two ''Cauldron'' games prompted Palace to give Brown more creative freedom for his next project, ''[[Barbarian: The Ultimate Warrior]]''.<ref name="RG-23">{{cite journal | last = Carroll | first = Martyn | date = 30 March 2006 | title = Company Profile: Palace Software | journal = Retro Gamer | issue = 23 | pages = 66–69 | publisher = Imagine Publishing}}</ref>
+
+== References ==
+{{reflist}}
+{{good article}}
+
+== External links ==
+* {{MobyGames|id=/cauldron|name=''Cauldron''}}
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games featuring female protagonists]]
+[[Category:ZX Spectrum games]]
+[[Category:Halloween video games]]
+[[Category:Video games about old age]]
+[[Category:Video games about witchcraft]]
+[[Category:Single-player video games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Platformers]]
+[[Category:Palace Software games]]

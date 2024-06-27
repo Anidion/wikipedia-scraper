@@ -1,0 +1,74 @@
+Up'n Down
+Permalink: //en.wikipedia.org/w/index.php?title=Up%27n_Down&oldid=1224118724
+Accessed on: 2024-06-26T16:56:07.102818
+
+
+
+------
+Up'n Down
+{{about|the video game|the song|Femme Fatale (Britney Spears album)}}
+{{Infobox video game
+|title = Up'n Down
+|image = Up'n Down cover.jpg
+|caption = 
+|developer = [[Sega]]
+|publisher = {{Vgrelease|JP|[[Sega]]|NA|[[Bally Midway]]<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=124–5 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n125/mode/2up}}</ref>}}
+|designer =
+|release = 1983
+|genre = [[Maze video game|Maze]]
+|modes = 1-2 players, alternating turns
+|arcade system = 
+|platforms = [[Arcade video game|Arcade]], [[Apple II]], [[Atari 2600]], [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]]
+|alt = 
+}}
+
+'''''Up'n Down''''' is an [[arcade video game]] developed by [[Sega]] and released in 1983.<ref>{{cite web |url =http://www.arcade-museum.com/game_detail.php?game_id=10273 |title =Up'n Down |publisher =The International Arcade Museum |access-date =9 Nov 2013 }}</ref> It was ported to the [[Atari 2600]], [[ColecoVision]], [[Atari 8-bit computers]], and [[Commodore 64]]. In ''Up'n Down'', the player drives a car forward and backward along a branching, vertically scrolling track, collecting flags and jumping on other cars to destroy them.
+
+== Gameplay ==
+[[Image:Up'n Down arcade version screenshot 0012.png|thumb|left|Arcade original]]
+
+''Up'n Down'' is a vertically scrolling game that employs a [[pseudo-3D]] perspective. The player controls a purple [[dune buggy]] that resembles a [[Volkswagen Beetle]]. The buggy moves forward along a single-lane path; pressing up or down on the joystick causes the buggy to speed up or slow down, pressing right or left causes the buggy to switch lanes at an intersection, and pressing the "Jump" button causes the buggy to jump in the air. Jumping is required to avoid other cars on the road; the player can either jump all the way over them, or land on them for points.
+
+To complete a round, the player must collect 10 colored flags by running over them with the buggy. If the player passes by a flag without picking it up, it will appear again later in the round. The roads feature inclines and descents that affect the buggy's speed, and bridges that must be jumped. A player loses a turn whenever the buggy either collides with another vehicle without jumping on it, or jumps off the road and into the grass or water.
+
+== Atari 2600 port ==
+[[Image:Up 'n Down (1984) (Sega) 4.png|thumb|right|upright=1.5|Atari 2600 port]]
+
+Sega released a port for the Atari 2600 in 1984 with jarring background music. According to ''Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design'' by Karen Collins, the arcade version's "bluesy F-sharp minor groove" was transformed into "a very unsettling version based in C minor with a flattened melodic second" because of limitations of the 2600 sound hardware.<ref name="CollinsGameSound" />
+
+== Reception ==
+In Japan, ''Game Machine'' listed ''Up'n Down'' on their November 1, 1983 issue as being the second most-successful new table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型新製品 (New Videos-Table Type)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=223|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 November 1983|page=33|lang=ja}}</ref>
+
+== See also ==
+*''[[Bump 'n' Jump]]''
+
+== References ==
+{{reflist|refs=
+<ref name="CollinsGameSound">{{cite book
+ | title = Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design
+ | first = Karen
+ | last  = Collins
+ | page  = 23
+ | publisher = [[MIT Press]]
+ | date = October 31, 2008
+ | isbn = 978-0-262-03378-7
+ | url  = https://books.google.com/books?id=gnw0Zb4St-wC&q=+%22up%27n+down%22++%22sega%22&pg=PA23 }}
+</ref>
+}}
+
+== External links ==
+*{{KLOV game|id= 10273}}
+* {{IAg|atari_2600_up_n_down_1984_sega_phat_ho_-_bally_midway_-_beck-tech_009-01|platform=Atari 2600}}
+
+[[Category:1983 video games]]
+[[Category:Sega video games]]
+[[Category:Sega System 1 games]]
+[[Category:Sega arcade games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Cancelled ZX Spectrum games]]
+[[Category:Maze games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in Japan]]

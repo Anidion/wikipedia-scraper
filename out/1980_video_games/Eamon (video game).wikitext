@@ -1,0 +1,151 @@
+Eamon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Eamon_%28video_game%29&oldid=1211226098
+Accessed on: 2024-06-26T16:51:38.038639
+
+
+
+------
+Eamon (video game)
+{{short description|1980 video game}}
+{{Infobox video game
+|title  = Eamon
+|image = Eamon-splashscreen.jpg
+|caption = Splash screen
+|developer = [[Donald Brown (programmer)|Donald Brown]]
+|publisher = Public domain
+|designer =
+|engine =
+|released = 1980
+|genre = [[Role-playing video game]], [[game creation system]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari ST]]
+}}
+'''''Eamon''''', sometimes known as '''''The Wonderful World of Eamon''''', is a [[game creation system]] and a [[Role-playing video game|role-playing]] [[adventure game]] series created by [[Donald Brown (programmer)|Donald Brown]] and released for the [[Apple II]] in 1980. The game is a [[text adventure]] similar to other early titles like ''[[Colossal Cave Adventure|Adventure]]'' (1976) or ''[[Zork]]'' (1980) and to later text-based [[Multi-user dungeon|multi-user dungeons (MUDs)]], though with many [[Role-playing game|role-playing]] elements not available in other [[interactive fiction]].<ref name="Montfort">{{cite book
+|last=Montfort
+|first=Nick
+|title=Twisty Little Passages: An Approach to Interactive Fiction
+|origyear=2004
+|year=2005
+|publisher=The MIT Press
+|location=Cambridge, Massachusetts
+|isbn=978-0-262-13436-1
+|page=196
+|chapter=The Independents
+|quote=Some special-purpose interactive fiction development systems were used by the ordinary home computer owner of the 1980s. An important early one was Donald Brown's 1980 freeware system Eamon, a system for creating text-based role-playing games... Eamon was used to create more than 240 games.
+|ref=Montfort
+}}</ref>  ''Eamon'' software is non-commercial<ref name="Brown">{{cite web
+|first1      = Donald
+|last1       = Brown
+|first2      = Tom
+|last2       = Zuchowski
+|authorlink  = Donald Brown (programmer)
+|title       = Eamon Player's Manual, Revised
+|url         = https://eamon.wiki/Source:Eamon_Player%27s_Manual_(revised)
+|website     = Eamon Wiki
+|date        = 1989-02-09
+|accessdate  = 2019-11-27
+|quote       =
+}}</ref> and is freely available in the [[public domain]].
+
+== Premise ==
+''Eamon'' casts the player in the role of a free-wheeling [[fantasy]] adventurer who undertakes dangerous quests against numerous enemies to earn riches and experience. Home base is the Guild of Free Adventurers, an association of heroes on the mystical world of Eamon, a vaguely [[Medieval]] place awash in [[magic in fiction|magic]] and populated with strange creatures. Most adventures take place in the dungeons, castles and forests of Eamon, though some occur on other worlds or in different eras.<ref name="Brown" /> Eamon creator [[Donald Brown (programmer)|Donald Brown]] described Eamon as "a world at the center of another galaxy—instead of revolving around any star, all of the stars revolve around it! Those huge bodies exert strange effects on the world of Eamon, bending light, gravity, time, even the laws of nature themselves!"{{r|brown198007}}
+
+Though influenced by such fantasy environments as ''[[Dungeons & Dragons]]''<ref name="brown198007">{{cite news | url=https://archive.org/stream/1980-07-recreational-computing#page/n31/mode/2up | title=The Wonderful World of Eamon | work=Recreational Computing | date=July 1980 | accessdate=18 August 2014 | author=Brown, Donald | pages=33 | via=Internet Archive}}</ref> and ''[[The Lord of the Rings]]'', ''Eamon'' generally avoids stories, situations or other game elements that are particularly serious or complex, instead seeking to create an engaging, genial mood through quick play and in-jokes.  [[List of Eamon Adventures|Individual adventures]], created by a wide range of authors, vary from the artful to the campy.<ref name="Reviews">{{cite web
+|editor-first = Matthew |editor-last=Clark
+|title       = Eamon Adventure Reviews
+|url         = http://www.eamonag.org/columns/reviews-all.html
+|publisher   = Eamon Adventurer's Guild Online
+|date        = 2005-06-07
+|accessdate  = 2009-07-26
+}}</ref>
+
+[[Robert Clardy]]'s ''[[Odyssey: The Compleat Apventure]]'' displays the same dragon artwork on its title screen as ''Eamon''.
+
+== Gameplay ==
+Brown encouraged players to [[video game modding|modify and add to]] ''Eamon'', and published technical information on the game to assist them.{{r|brown198007}} ''Eamon'' is notable for being one of the first [[adventure game]]s designed to be modular, with [[expansion pack]]s written by users forming an integral part of the game experience. A master disk called the "Main Hall" is used to manage player characters and to facilitate their transfer between individual adventures. The character retains his or her attributes and statistics from adventure to adventure, as well as up to four weapons.
+
+<!-- Deleted image removed: [[File:Eamon Beginners Cave.png|thumb|250px|right|Near the start of the first ''Eamon'' adventure, "Beginners Cave".]] -->
+The game's interface is similar to that of most other text adventures — the game presents the player with descriptions of the character's surroundings, including events, artifacts, monsters and exits, then prompts the player to enter a command. These commands include such things as moving in certain directions (NORTH, EAST, UP, etc.), readying weapons, attacking, getting or dropping items, interacting with characters, casting magical spells or checking inventory.{{Citation needed|date=January 2023}}
+
+=== Players ===
+All player characters in ''Eamon'' possess a name, plus the three physical attributes of hardiness, agility and charisma in varying quantities. Hardiness affects how much a player can carry and how much damage he can both inflict and withstand. A strength of 12, for instance, allows the player to absorb 12 points of damage and lift 120 {{not a typo|gronds}} (a fictional unit of weight used in the game). Agility influences the player's success using certain weapons and avoiding attacks, while charisma determines his ability to make friends and influences the prices he pays for supplies. Common attribute values for player characters are generally between 10 and 20.
+
+Players also have varying abilities with five classes of weapons — axe, bow, club, spear or sword — expressed as a percentage. Scoring a hit in battle may increase the skill in the appropriate weapon class. An additional ability, "armor expertise", determines the extent to which the player's armor affects his chance to score a hit. The greater the expertise, the less the armor encumbers the player in combat. Players may wear leather, chain or plate armor, and can supplement this with a shield.
+
+The final set of abilities describes the player's aptitude with magic. A player can hire a wizard to teach him four magic spells: "Blast" (which damages enemies), "Heal" (which helps to restore health), "Speed" (which temporarily doubles agility) and "Power" (a spell with unpredictable results). Various other spells are sometimes available in particular adventures, but cannot be used outside them.
+
+All players begin with 200 gold pieces, which can be used to purchase weapons, armor, spells or other supplies, or can be stored in the bank. One earns more by collecting treasure during adventures.
+
+A player character may die while on an adventure, either as the result of losing a battle or from some other poor decision or mishap. Though death generally spells the end of the character and all his skills and possessions, there are utilities one can use to "resurrect" the player.
+
+=== Monsters ===
+All non-player characters in ''Eamon'', regardless of their form or disposition, are referred to as "monsters". The monsters that players must face depend on the style of the adventure and range from the conventional fantasy staples of [[dragon]]s, [[goblin]]s, [[orc]]s and [[Magician (fantasy)|wizards]], to wild animals, [[zombie]]s, [[mummy|mummies]], [[ghost]]s, machines, other humans (both friendly and hostile) and many more.
+
+Monsters share most of the same attributes as player characters. A key exception is that monsters have "friendliness" rather than charisma, a rating that along with the encountering player's charisma determines how the monster will behave toward the player. Friendly monsters may accompany the player through the adventure and fight on the player's behalf, while unfriendly ones may ignore or attack the player. Monsters also possess a "courage" attribute that determines how likely they are to flee from combat or pursue the player.
+
+[[File:Castle of Doom (Eamon).png|thumb|250px|right|A player-created map of adventure #5, "The Castle of Doom".]]
+
+=== Adventures ===
+{{main|List of Eamon adventures}}
+At least 280 individual ''Eamon'' adventures have been written by various authors to work with the ''Eamon'' system.<ref name="Clark">{{cite web
+|first       = Matthew
+|last        = Clark
+|title       = Eamon Adventure List
+|url         = http://www.eamonag.org/lists/list-master.htm
+|publisher   = Eamon Adventurer's Guild Online
+|date        = 2009-03-13
+|accessdate  = 2009-07-26
+}}</ref>  These adventures range from very simple, 20-room outings to complex works spanning multiple diskettes. With few exceptions, each adventure stands alone and does not depend on the user completing any others. Although a majority of the adventures are [[fantasy]]-themed, some adventures occupy contemporary or [[science fiction]]al settings. Most adventures include some degree of customization, adding new commands or other special game features above and beyond those included in the base ''Eamon'' program.
+
+== History ==
+Creator Don Brown first released ''Eamon'' for non-commercial distribution on the Apple II in 1980,<ref name="Montfort" /> encouraging others to share and expand the game. All of ''Eamon'''s fundamentals, including the original Main Hall, the first adventure design utilities and two manuals, were created by Brown, as were eight complete adventures. Brown subsequently left ''Eamon'' to develop a commercial version of the game entitled ''[[SwordThrust]]'', but users continued creating and sharing adventures for the system.
+
+=== Conversion to PC ===
+In 1985, Jon Walker from [[Marshfield, Wisconsin]] converted Eamon to the PC and released several converted and new adventures. Eventually the disks were released through various shareware organizations and garnered a minor following. While the adventures attracted some modest interest, the direct conversion of the adventure creation program prompted much criticism among PC users for being too difficult to use and poorly written (the latter in later years by people who were probably never constrained by early versions of the BASIC language). By the time a serious attempt was made to upgrade the Eamon system to Foxbase, other adventures containing graphics and real time action were becoming popular and the project was scrapped. In 1997, an attempt was made to bring Eamon to the [[World Wide Web]]; however, the project never got beyond a beta version because of the rapid pace at which the web and content distribution was developing. The original PC GW-BASIC [[source code]] is almost impossible to find online anymore, and the author has only a few of the original disks archived on CD.{{fact|date=December 2021}}
+
+=== National Eamon User's Club ===
+[[File:Eamon Adventurer's Log NEUC.png|thumb|right|250px|The logo of the NEUC's newsletter, ''Eamon Adventurer's Log'']]
+After Don Brown's departure, several ''Eamon'' enthusiasts in the [[Des Moines, Iowa]] area formed the [[National Eamon User's Club]] (NEUC) which in March 1984 released the first issue of the club newsletter, named ''Eamon Adventurer's Log''. Published by ''Eamon'' author [[John Nelson (programmer)|John Nelson]], this newsletter supported the game community by providing information ranging from adventure reviews to programming design help.
+
+In late 1987, the operations of the NEUC had slowed down to the point that only three newsletters were published in a two-year period. Nelson was interested in other pursuits including writing a PC version of ''Eamon''. ''Eamon'' author [[Thomas Zuchowski]] assumed the responsibility of publishing an ''Eamon'' newsletter and started the [[Eamon Adventurer's Guild]] (EAG). The NEUC shut down operations and transferred its assets to the EAG.
+
+=== Eamon Adventurer's Guild ===
+Zuchowski published the ''Eamon Adventurer's Guild Newsletter'' four times a year from June 1988 to January 2001. During this time, 94 additional games were published and the entire ''Eamon'' library was properly reviewed and documented.
+
+The last ''Eamon'' adventure to be published with the EAG was announced in December 1997. By January 2001, Zuchowski had run out of new source material for his newsletter. The last issue of the EAG newsletter was published in January 2001. Efforts were made to ensure that ''Eamon'' would not disappear. Zuchowski created the "Eamon CD" which contains the entirety of ''Eamon'' resources available at the time. This CD was made available to the members of the EAG and the general public.
+
+In April 2003, the [http://www.eamonag.org/ Eamon Adventurer's Guild Online] website officially opened. This website provides the entire archive of ''Eamon'' resources including adventures, newsletters, maps, news articles, and documentation for the system, as well as a disk image of the "Eamon CD". The existence of the website sparked a small revival in ''Eamon'' as ten new adventures have been published since the website was established.
+
+=== Eamon Deluxe ===
+In 1997, programmer [[Frank Black (programmer)|Frank Black]] began work on ''Eamon Deluxe'',<ref>{{cite web|title=Eamon Deluxe|url=http://www.eamonag.org/pages/eamondx.htm|publisher=Matthew Clark|accessdate=3 April 2011}}</ref> an [[MS-DOS]]-based conversion of ''Eamon'' designed to add various enhancements and a more user-friendly interface for adventurers and creators alike while also retaining the flavor of the original Apple game. Black converted over half<ref>{{cite web|title=Eamon Deluxe conversion listing|date=26 January 2012 |url=http://eamon-guild.blogspot.com/2012/01/eamon-deluxe-beta-98-ready-to-go-and.html|publisher=Frank Black|accessdate=26 January 2012}}</ref> of the classic ''Eamon'' adventures to the ''Eamon Deluxe'' system and announced in 2012<ref>{{cite web |url= http://eamon-guild.blogspot.co.uk/2012/01/eamon-deluxe-50-beta-sent-out-to.html |title=Eamon Deluxe 5.0 Beta sent out to playtesters! |first=Frank |last=Black |work=Eamon Adventurer's Guild Online |date=January 27, 2012 |accessdate=July 29, 2014}}</ref> that version 5.0 had been sent out for testing.
+
+Version 5.0 is compatible with modern operating systems such as [[Windows 7]] and [[Mac OS X]] using emulation software such as [[DOSBox]] and also includes a VI compatibility mode to make it more accessible to screen-reader programs used by visually impaired players.  The converted adventures and latest updates remain non-commercial [[freeware]] and can be downloaded from the Eamon Adventurers Guild Online.
+
+=== Eamon Remastered ===
+In February 2017 the browser-based Eamon Remastered was released,<ref>{{Cite web|title=Eamon Remastered - Eamon Wiki|url=https://eamon.wiki/Eamon_Remastered|access-date=2021-09-18|website=eamon.wiki}}</ref> making it possible to play Eamon online and save your progress between adventures. Currently, 39 adventures are available.<ref>{{Cite web|title=The Wonderful World of Eamon|url=https://eamon-remastered.com/adventure-list|access-date=2021-09-18|website=eamon-remastered.com|language=en}}</ref>
+
+=== Eamon CS ===
+In April 2017 Eamon CS was released by developer and adventure author Michael Penner.<ref>{{Cite web|title=Eamon CS - Eamon Wiki|url=https://eamon.wiki/Eamon_CS|access-date=2021-09-18|website=eamon.wiki}}</ref> It is a version of Eamon ported to the C# programming language. It is playable on Windows, Android and Unix and continues to be developed and expanded. An iOS port is also planned.<ref>{{Cite web|title=GitHub - TheRealEamonCS/Eamon-CS: The Wonderful World of Eamon (C# Branch)|url=https://github.com/TheRealEamonCS/Eamon-CS|access-date=2021-09-18|website=GitHub|language=en}}</ref>
+
+== See also ==
+* [[List of Eamon adventures|List of ''Eamon'' adventures]]
+* ''[[SwordThrust]]'', the commercial successor to ''Eamon''.
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+*{{Internet Archive game|msdos_Eamon_1988|Eamon}}
+* [http://www.eamonag.org/ Eamon Adventurer's Guild Online]
+* [https://eamon.wiki/ Eamon Wiki]
+* [https://eamon-remastered.com/ Eamon Remastered]
+* [https://github.com/TheRealEamonCS/Eamon-CS Eamon CS]
+
+[[Category:1980 video games]]
+[[Category:1980s interactive fiction]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:IOS games]]
+[[Category:Public-domain software with source code]]
+[[Category:Video games developed in the United States]]

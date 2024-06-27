@@ -1,0 +1,46 @@
+Mindtrap
+Permalink: //en.wikipedia.org/w/index.php?title=Mindtrap&oldid=1194852889
+Accessed on: 2024-06-26T17:06:52.979980
+
+
+
+------
+Mindtrap
+{{short description|1989 video game}}
+{{otheruses}}
+{{Infobox VG
+| title        =
+| image        = Mindtrap Coverart.png
+| caption      =
+| developer    =
+| publisher    = [[Mastertronic]]
+| designer     = [[Predrag Beciric]]<br>[[Andela Tomic]]<br>[[David Selakovic]]<br>[[Aleksandar Petrovic (video game developer)|Aleksandar Petrovic]]<br>[[Vojislav Mihajlovic]]<br>[[Predrag Milicevic]]
+| programmer   = '''Commodore 64'''<br>Andjela Tomic
+| series       =
+| released     = 1989
+| genre        = [[Puzzle video game|Puzzle]]
+| modes        = [[Single-player video game|Single-player]]
+| platforms    = [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]]
+}}'''''Mindtrap''''' is a [[puzzle video game]] for the [[ZX Spectrum]] released in 1989 by [[Mastertronic]].<ref>{{Cite web |title=Mindtrap - Software - Game - Computing History |url=https://www.computinghistory.org.uk/det/42023/Mindtrap/# |access-date=2024-01-11 |website=[[The Centre for Computing History]]}}</ref> Ports followed for the [[Commodore 64]] and the [[Amstrad CPC]]. With 999,999 levels, the object is to rearrange grids of coloured dice so that they are all aligned, before running out of time or available moves. 
+
+==Gameplay==
+Each screen (called a floor), has a set of dice of different colours ([[blue]], [[red]], [[magenta]], [[green]], [[cyan]] and [[white]]). The player shuffles the dice around the play area, using a frame surrounding 4 of the dice at a time. Dice within this frame can be rotated 90° around a central axis, with the ultimate aim of lining up the dice in the correct colour before the time and move limit expired.
+
+Later levels introduce a third dimension of the dice scattered between 2 and 5 floors. Players then have to rearrange the dice both on the floor they are on and between the floors to finish the level. The number of moves and time allowed increase with the subsequent number of floors. Some areas of the floor are blocked off to the frame, so different routes are needed to move the dice.
+
+The game creates a 32-digit alphanumeric password after successful completion of a level, which is tied to the player name, to allow later resumption.
+
+== References ==
+<references />
+
+==External links==
+*{{WoS game|id=0003211}}
+
+[[Category:1989 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Mastertronic games]]
+[[Category:Puzzle video games]]
+[[Category:Video games developed in Serbia]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

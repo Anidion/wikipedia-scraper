@@ -1,0 +1,143 @@
+Stargate (1981 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Stargate_%281981_video_game%29&oldid=1224119646
+Accessed on: 2024-06-26T16:52:39.771978
+
+
+
+------
+Stargate (1981 video game)
+{{Short description|1981 video game}}
+{{About|the 1980s Stargate video game|the game based on the film|Stargate (1995 console video game)|other uses|Stargate (disambiguation)}}
+{{More citations needed|date=July 2008}}
+{{Infobox video game
+|title     = Stargate
+|image     = Stargate flyer.png
+|caption   = North American arcade flyer
+|developer = [[Vid Kidz]] (arcade)<br>[[HAL Laboratory]] (NES)
+|publisher = [[WMS Industries|Williams Electronics]] (arcade)<br>HAL Laboratory (NES)
+|designer  = [[Eugene Jarvis]]<br>[[Larry DeMar]]
+|platforms = [[Arcade video game|Arcade]], [[Apple II]], [[Atari 2600]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[Nintendo Entertainment System|NES]]
+|release   = {{vgrelease|NA|October 21, 1981}}
+|genre     = [[Scrolling shooter]]
+|modes     = Up to 2 players, alternating turns
+|arcade system = 
+}}
+
+'''''Stargate''''' is a horizontally [[scrolling shooter]] released as an  [[arcade video game]] in 1981 by [[WMS Industries|Williams Electronics]]. Created by [[Eugene Jarvis]] and [[Larry DeMar]], it is a sequel to ''[[Defender (1981 video game)|Defender]]'' which was released earlier in the year. It was the first of only three productions from [[Vid Kidz]], an independent development house formed by Jarvis and DeMar. Some home ports of ''Stargate'' were renamed to '''''Defender II''''' for legal reasons.
+
+This sequel adds new ships to the alien fleet, including Firebombers, Yllabian Space Guppies, Dynamos, Phreds, Big Reds, Munchies and Space Hums. The Defender ship is now equipped with an Inviso cloaking device, which renders the ship invulnerable when activated, but has a limited charge. A Stargate transports the ship to any humanoid in trouble. There are two special stages: the Yllabian Dogfight, first appearing at wave 5 and recurring every 10 waves; and the Firebomber Showdown, first appearing at wave 10 and also recurring every 10 waves.
+
+==Gameplay==
+{{Unreferenced section|date=November 2019}}
+The player flies a small spaceship above a scrolling, [[mountain]]ous landscape which [[wraparound (video games)|wraps around]], so flying constantly in one direction will eventually return to the starting point. The player's ship flies in front of the landscape and does not contact it.
+
+The terrain is inhabited by a small number of humanoids. Enemy ships fly overhead. The goal is to destroy the enemies to prevent the humans from being captured.
+
+The player is armed with a beam-like weapon which can be fired rapidly in a long horizontal line ahead of the spaceship, and also has a limited supply of smart bombs, which can destroy every enemy on the screen. The player also has a limited supply of "Inviso" cloaking energy, which makes the ship invisible, and able to destroy any ships it comes in contact with.
+
+At the top of the screen is a [[mini-map]], which displays the positions of all aliens and humans on the landscape.
+
+===Aliens===
+[[Image:Stargate-enemies.jpg|thumb|right|The names of most of the new alien types are inside jokes.{{clarification needed |date=July 2023}}{{citation needed |date=July 2023}}]]
+
+There are fifteen types of aliens:
+* '''Lander''' - the primary enemy on every level. Landers teleport into the level in staggered waves, and attempt to capture humanoids by descending upon them and dragging them into the air; if they make it to the top of the screen with a human, the two fuse together into a more dangerous Mutant. Landers can fire projectiles at the player.
+* '''Mutant''' - a mutated Lander. Mutants home in on the player at constant speed, firing projectiles. They move erratically, making them difficult to shoot.
+* '''Baiter''' - a flat, iridescent spacecraft that teleports in if the player is taking too long to complete a level. Homes in on the player and attempts to match their speed, while firing accurate projectiles. A difficult opponent due to its unbeatable speed and tiny horizontal cross-section, which makes it very hard to shoot.
+* '''Bomber''' - a box-shaped alien that lays stationary [[Naval mine|mine]]s in the air.
+* '''Pod''' - a star-like alien that bursts into a number of Swarmers when shot.
+* '''Swarmer''' - a tiny teardrop-shaped alien that moves very quickly in an undulating fashion. Difficult to shoot.
+* '''Firebomber''' - a rotating variation on the Bomber, which shoots high speed '''Fireballs''' at the player.
+* '''Yllabian Space Guppie''' - an undulating attacker, which attacks in swarms and homes in on the ship.
+* '''Phreds''' and '''Big Reds''' - square aliens which look like they are constantly opening and closing their mouths. Similar to the Firebombers, they launch tiny versions of themselves called '''Munchies'''.
+* '''Dynamos''' - diamond-shaped ships composed of clusters of '''Space Hums''', which periodically break off to attack the ship independently. Once all aliens (except Fireballs, Space Hums, Baiters, Phreds, Big Reds, and Munchies) are destroyed, the player progresses to the next level.
+
+===Humanoids===
+The game starts with ten Humanoids inhabiting the planet. Landers will attempt to capture and fuse with them during play.
+
+To rescue a Humanoid from capture, the player must kill the Lander holding it while it is in the air, causing the Humanoid to drop. At low height Humanoids can survive the drop on their own, but if the Lander is killed at too high an altitude, the player must catch the Humanoid with their ship and return him to the ground, otherwise he will not survive the drop. A player's ship can carry as many Humanoids as are alive on that level.
+
+The Humanoids can be killed by the player's weapon just as easily as the aliens can, so careful aim is required when firing near them.
+
+If all Humanoids are killed, the entire planet explodes, leaving the player in empty space. This also has the unfortunate effect of turning every Lander into a Mutant, making the player's job very difficult.
+
+Every time the player completes 5 waves of enemies (i.e. at wave 6, 11, 16 and so forth), the planet (and all its 10 Humanoids) is restored.
+
+===Scoring===
+As well as the points gained by killing aliens, scores are also awarded as follows:
+* Humanoid falling back to the ground without dying: 250 points
+* Catching a falling humanoid: 500, 1000, 1,500, and 2,000 points, depending on number of humanoids carried at the time.
+* Returning a humanoid to the ground: 500 points
+* Humanoid surviving the level: 100 points per humanoid for 1st wave, 200 per humanoid on 2nd wave, up to a maximum of 500 points from 5th wave onwards
+* End-of-wave humanoid bonus: If all enemies are destroyed and a humanoid is falling to the ground, the player receives a 2,000 point bonus if the ship is positioned at ground level directly under the humanoid, so as to simultaneously catch the humanoid and place it back on the ground. If the player simply catches the humanoid in mid-air while above the ground, the wave ends with the player only receiving the 500 points for catching the humanoid.
+* If the player accumulates 999 ships and gets awarded another ship, the counter wraps around, eliminating all ships but the one being awarded, and the one currently being played with.
+
+By default, the player receives an extra life, smart bomb, and Inviso energy every 10,000 points. This amount can be overridden when the machine is in maintenance mode. As in ''Defender'', at 9,990,000, those bonuses are given for every enemy destroyed.
+
+===Controls===
+The control system of ''Stargate'' expands on that of ''[[Defender (video game)|Defender]]''. The game has a joystick to move up and down, a Reverse button to toggle the player's horizontal direction, and a Thrust button to move in that direction. There is also a Fire button for shooting, a button to activate a Smart Bomb, a button to turn on the Inviso cloaking device, and a Hyperspace button which teleports the player to a random position in the level, at the risk of either exploding upon rematerialization, or materializing onto an enemy or enemy projectile, and then exploding.
+
+===The Stargate===
+A central feature of the gamefield is the Stargate itself, represented by a series of concentric rectangles. The operation of the Stargate depends on the current game conditions.
+
+If a Lander is in the process of abducting a Humanoid, flying into the Stargate will teleport the ship to where the Humanoid is under attack. If more than one Humanoid is being captured, the ship will be taken to the Lander that is closest to the top of the screen. If a Humanoid is being captured while a Humanoid is falling to the ground, the ship will be taken to the Humanoid that is falling to the ground. Otherwise, entering the Stargate will teleport the ship to the opposite side of the planet.
+
+If the ship is carrying at least four humanoids, entering the Stargate will "warp" the game ahead three levels. This allows more advanced players to skip the easier lower levels and also get a great number of points, extra lives, smart bombs, and inviso energy. Warping is only allowed in the first 10 levels, and can be avoided (if desired) by flying into the Stargate in reverse, allowing a player to continue on the current level.
+
+==Ports==
+Ports of ''Stargate'' were being developed for the [[Atari 5200]] console<ref>{{cite web |last=Reichert |first=Matt |title=Stargate (Atari 5200) |website=AtariProtos.com |url=http://www.atariprotos.com/5200/software/stargate/stargate.htm |accessdate=September 19, 2014}}</ref> and the [[Atari 8-bit computers]]<ref>{{cite web |last=Reichert |first=Matt |title=Stargate (Atari 8-bit) |website=AtariProtos.com |url=http://www.atariprotos.com/8bit/software/stargate/stargate.htm |accessdate=September 19, 2014}}</ref> by [[Atari, Inc.]] programmer Steve Baker in 1984, but were not released. The game was also ported to the [[Commodore 64]], [[Apple II]], and [[IBM PC]].
+
+The [[Family Computer]] port developed by [[HAL Laboratory|HAL]] (renamed ''Star Gate'', and later named ''Defender II'' for U.S. release) has some elements in common with their ''[[Millipede (video game)|Millipede]]'' (renamed ''Milli-Pede'', later named back to ''Millipede'' for U.S. release) and ''[[Joust (video game)|Joust]]'' ports, as well as ''[[Punch-Out!! (NES)|Mike Tyson's Punch-Out!!]]'', all of which were released around the same time. In particular, the title jingles for ''Milli-Pede,'' ''Star Gate, and'' ''Joust'' are almost identical, the music played when ''Star Gate'' begins is a longer version of the opponent entrance music from ''Punch-Out!!'', and the music played during ''Star Gate''<nowiki>'</nowiki>s intermission screen between waves is the same as the screen after a loss in ''Punch-Out!!''.
+
+=== Name change ===
+The ''Defender II'' name was used in some home releases, due to legal issues (according to the bonus material for ''[[Midway Arcade Treasures]]'', Williams wanted to "make sure they could own the trademark" on the ''Defender'' name). The name ''Defender II'' has been used on many home ports and game compilation appearances, but not in arcades. The [[Atari 2600]] port was originally sold as ''Stargate'', but was renamed to ''Defender II'' for a later re-release.<ref>{{cite web|url=https://www.atariage.com/software_page.php?SoftwareLabelID=130|title=AtariAge - Atari 2600 - Defender II (Atari)|website=www.atariage.com}}</ref>
+
+==Reception==
+''[[Computer and Video Games]]'' scored the Atari VCS version 89% in 1989.<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref> In 1996, [[GamesMaster (magazine)|GamesMaster]] ranked the arcade version 82nd on their "Top 100 Games of All Time" list.<ref>{{Cite journal |date=July 1996 |title=Top 100 Games of All Time |url=https://retrocdn.net/images/c/cf/GamesMaster_UK_044.pdf |journal=GamesMaster |issue=44 |pages=75}}</ref>
+
+==Legacy==
+{{Unreferenced section|date=December 2017}}
+In July 2000, [[Midway Games|Midway]] licensed ''Defender II'', along with other [[WMS Industries|Williams Electronics]] games, to [[Adobe Shockwave|Shockwave]] for use in an online applet entitled ''Shockwave Arcade Collection'', to demonstrate the power of the Shockwave web content platform. The conversion was created by [[Backbone Entertainment|Digital Eclipse]]. This port is no longer available.
+
+As with ''Defender II'', the game is included in the 2012 compilation ''[[Midway Arcade Origins]]''.<ref>{{cite web|url=http://www.ign.com/articles/2012/11/14/midway-arcade-origins-review|title=Midway Arcade Origins Review|first=Samuel|last=Claiborn|date=13 November 2012|publisher=}}</ref>
+
+===In popular culture===
+A ''Stargate'' machine is featured in the 3rd-season episode "Arcade" of the TV comedy series ''[[NewsRadio]]'', in which it was referred to as "Stargate Defender". Eugene Jarvis, the game's creator, had a cameo role on the episode as "Delivery Guy #3".<ref>NewsRadio 3rd season DVD commentary for the episode "Arcade", and the ending credits of the episode itself (also on the DVD).</ref>
+
+''Stargate'' and its predecessor ''[[Defender (1981 video game)|Defender]]'' are featured as plot points in the podcast ''Rabbits''.
+
+''Stargate'' also appeared in the 1983 film ''[[Strange Invaders]]''.
+
+==See also==
+{{portal|Video games}}
+* ''[[Williams Arcade's Greatest Hits]]''
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{KLOV game|id=9780|name=Stargate}}
+* [http://www.coinop.org/Game/100181/''Stargate''] on Coinop.org
+* [https://web.archive.org/web/20040814112126/http://www.daylongraphics.com/products/defcon/ Defence Condition - open source GDI-based ''Stargate'' clone for Win32]
+* [http://www.twingalaxies.com/index.aspx?c=22&pi=2&gi=3944&vi=1502 Twin Galaxies high score rankings for ''Stargate'']
+
+{{Defender series}}
+
+{{DEFAULTSORT:Stargate (Video Game)}}
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Cancelled Atari 5200 games]]
+[[Category:Cancelled Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:HAL Laboratory games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Midway video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Vid Kidz games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United States]]
+[[Category:Williams video games]]

@@ -1,0 +1,54 @@
+Private Eye (1984 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Private_Eye_%281984_video_game%29&oldid=1224506722
+Accessed on: 2024-06-26T16:57:22.069613
+
+
+
+------
+Private Eye (1984 video game)
+{{Short description|1983 video game}}
+{{Infobox video game
+| title = Private Eye
+| image = [[File:PrivateEyeUSBoxShotAtari2600.jpg|200px|Private Eye]]
+| caption = Cover art
+| developer = [[Activision]]
+| publisher = [[Activision]]
+| designer = [[Bob Whitehead]]<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+| released = {{vgrelease|NA|February 1984<ref name="vgupdate"/>}}
+| genre = [[Action game|Action]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Atari 2600]]
+}}
+
+'''''Private Eye''''' is an [[action video game]] developed and published by [[Activision]] and released in 1984 for the [[Atari 2600]] [[gaming console|video game system]].<ref name="vgupdate">{{cite magazine |date=March 1984 |title=Availability Update |url=https://archive.org/details/computer-entertainer-2-12/page/n15 |access-date=2024-05-02 |magazine=[[Video Game Update]] |volume=2 |number=12 |publication-place=Hollywood, California |page=192}}</ref> Designed by [[Bob Whitehead]], who also wrote ''[[Chopper Command]]'',<ref name="giantlist"/> ''Private Eye'' requires players to track down clues and recover items stolen by a master criminal, ultimately leading to his capture and arrest.
+
+During the game's original release, players who successfully completed the game's third case could photograph their scores on their TV screens and send the pictures to Activision in exchange for a "Super Sleuth" patch.<ref name="PEInst"/>
+
+==Gameplay==
+In ''Private Eye'', players assume the role of Pierre Touché, a [[private investigator]] who has been assigned the task of capturing the criminal mastermind, Henri Le Fiend. Le Fiend is implicated in a number of crimes across the city, and the player must find the clues and the stolen property in order to successfully arrest Le Fiend.<ref name="PEInst">{{cite web|url=http://www.atariage.com/manual_page.html?SystemID=2600&SoftwareLabelID=376&ItemTypeID=&currentPage=0&maxPages=2|title=Atari 2600 Manuals - Private Eye (Activision)|author=AtariAge.com|access-date=2010-09-29}}</ref>
+
+The game consists of four separate cases. Using a specially-built [[Ford Model A (1927–1931)|Model A]] that can jump over obstacles, players must search the city for a specific clue to the crime and for the object stolen in the crime. Each item must then be returned to its point of origin; the clue is taken to a business to verify it came from there, and the stolen object is returned to its rightful owner. These items may be discovered in any order, but players may carry only one item at a time. When both items have been located and returned, then the player must locate and capture Le Fiend, and finally take him to jail, successfully closing the case.<ref name="PEInst"/>
+
+However, the city is full of street thugs who will attack the player. If the player is hit while carrying an item (either the clue or the stolen property), the item is lost and must be re-located. Further, each case has a [[statute of limitations]], which serves as the game's time limit of 2, 3, 4, 5, 10, 12, 20, and 25 minutes. To win the game, the player must locate and verify the clue, locate and return the stolen property, and lastly locate Le Fiend and take him to jail within the time allotted.<ref name="PEInst"/>
+
+The player starts with 1000 "merit points.” Points are lost whenever the player hits an obstacle or is attacked by a thug, and are awarded whenever an item is located, subsequently returned, and when a thug (or Le Fiend himself) is nabbed. Each case represents a separate game variation, when the case is solved or time runs out, the game ends. A fifth variation requires the player to solve all four crimes at the same time.<ref name="PEInst"/>
+
+==Legacy==
+''Private Eye'' was included as part of the ''[[Activision Anthology]]'' collection, released in 2002 for [[PlayStation 2]], [[Game Boy Advance]], and other systems.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=7435}}
+* {{AtariAge software|id=376}}
+
+[[Category:1984 video games]]
+[[Category:Activision games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Detective video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Video games set in the United States]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

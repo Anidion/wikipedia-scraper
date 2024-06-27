@@ -1,0 +1,194 @@
+Missile Command
+Permalink: //en.wikipedia.org/w/index.php?title=Missile_Command&oldid=1230548985
+Accessed on: 2024-06-26T16:51:43.672446
+
+
+
+------
+Missile Command
+{{about|the 1980 video game||Missile Command (disambiguation)}}
+{{Short description|1980 video game}}
+{{Infobox video game
+| title = Missile Command
+| image = Missile Command flyer.jpg
+| caption = North American arcade flyer
+| developer = [[Atari, Inc.]]
+| publisher = '''Arcade''' {{vgrelease|NA|Atari Inc.|JP/EU|[[Sega]]|JP|[[Taito]]}} '''Game Boy''' {{vgrelease|NA|[[Nintendo]]}}
+| designer = [[Dave Theurer]]<ref name="giantlist"/>
+| programmer = Rich Adam<br />Dave Theurer
+| composer = Rich Adam
+| released = '''Arcade'''{{vgrelease|NA|July 1980|JP|July 1980<ref>{{cite web |url=https://mediaarts-db.bunka.go.jp/id/M731137 |title=ミサイルコマンドコックピット筺体版 |trans-title=Missile Command cockpit cabinet version |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=19 May 2021}}</ref>|EU|1980}}'''Atari 2600'''{{vgrelease|NA|April 1981}}'''Atari 8-bit'''{{vgrelease|NA|1981}}'''Atari 5200'''{{vgrelease|NA|1982}}'''Atari ST'''{{vgrelease|NA|1987}}'''Game Boy'''{{vgrelease|NA|1995}}{{vgrelease|EU|1995}}'''
+| genre = [[Shoot 'em up]]
+| modes = 1-2 players alternating turns
+| platforms = [[Arcade video game|Arcade]], [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]], [[Atari ST]], [[Game Boy]], [[Atari Lynx|Lynx]]
+}}
+
+'''''Missile Command''''' is a 1980 [[shoot 'em up]] [[arcade video game]] developed and published by [[Atari, Inc.]] and later licensed to [[Sega]] for Japanese and European releases. It was designed by [[Dave Theurer]], who also designed Atari's vector graphics game ''[[Tempest (video game)|Tempest]]'' from the same year.<ref name="giantlist"/> The game was released during the [[Cold War]], and the player uses a [[trackball]] to defend six cities from [[intercontinental ballistic missiles]] by launching anti-ballistic missiles from three bases.
+
+Atari brought the game to its home systems beginning with the 1981 [[Atari 2600|Atari VCS]] conversion by [[Rob Fulop]].<ref name="giantlist"/> Numerous contemporaneous clones and modern remakes followed. Atari's 1981 port to the [[Atari 8-bit computers]] was reused for the [[Atari 5200]] (1982) and built into the [[Atari XEGS]] (1987).
+
+==Plot==
+The player's six cities are being attacked by an endless hail of [[ballistic missile]]s, some of which split like [[multiple independently targetable reentry vehicle]]s. New weapons are introduced in later levels: smart bombs that can evade a less-than-perfectly targeted missile, and bomber planes and satellites that fly across the screen launching missiles of their own. As a regional commander of three anti-missile batteries, the player must defend six cities in their zone from being destroyed.
+
+==Gameplay==
+The game is played by moving a [[crosshair]] across the sky background via a [[trackball]] and pressing one of three buttons to launch a counter-missile from the appropriate battery. Counter-missiles explode upon reaching the crosshair, leaving a fireball that persists for several seconds and destroys any enemy missiles that enter it. There are three batteries, each with ten missiles; a battery becomes useless when all its missiles have been launched or if it is destroyed by enemy fire, whichever occurs first. The missiles of the central battery fly to their targets at much greater speed; only these missiles can effectively kill a smart bomb at a distance.
+
+The game is staged as a series of levels of increasing difficulty; each level contains a set number of incoming enemy weapons. The weapons attack both the cities and the missile batteries and can destroy any target with one hit. Enemy weapons are only able to destroy three cities during one level. A level ends when all enemy weaponry is destroyed or reaches its target. A player who runs out of missiles no longer has control over the remainder of the level. At the conclusion of a level, the player receives bonus points for all remaining missiles and cities; at preset score intervals, the player earns a bonus city that can be used to replace a destroyed one at the end of the current level. These bonus cities can be kept in reserve and are automatically deployed as needed. The scoring multiplier begins at 1x and advances by 1x after every second level, to a maximum of 6x; this multiplier affects both target and bonus values. 
+
+The game inevitably ends once all six cities are destroyed and the player neither has any in reserve nor earns one during the current level. Like most early arcade games, there is no way to "win"; the enemy weapons become faster and more prolific with each new level. The game, then, is just a contest in seeing how long the player can survive. On conclusion of the game, the screen displays "The End", rather than "Game Over", signifying that "in the end, all is lost. There is no winner".<ref name=missile-command /> This conclusion is skipped, however, if the player makes the high score list and the game prompts the player to enter their initials.
+
+==Development==
+
+Having found a picture of a radar screen in a magazine, [[Gene Lipkin]], then president of Atari's Coin-Op division, tasked [[Steve Calfee]], department head, to "Make me a game like this"<ref name="8-bit-apocalypse">{{cite book |last1=Rubens |first1=Alex |title=8-Bit apocalypse: the untold story of Atari's Missile Command |date=2019 |publisher=Abrams Press |location=New York |isbn=978-1-4197-3893-7 |url=https://www.abramsbooks.com/product/8-bit-apocalypse_9781468316445/ |page=83 |access-date=23 June 2024}}</ref>. At this time, games were usually developed by a single programmer with a deadline of 6 months. If the project was high-profile, this programmer could be assigned a junior programmer as an extra resource. [[Dave Theurer]], who was free after finishing [[Atari Soccer]] as a junior programmer, was offered the project, loosely defined as "radar screen showing missiles fired from the USSR toward the US, which is defended by the player".<ref name="8-bit-apocalypse" /> Because the project was requested by a boss, it was considered "high profile" and a junior programmer, [[Rich Adam]], was assigned to Theurer.
+
+Calfee, Theurer and Adam then worked on refining the game concept. In early iterations the six cities were meant to represent six cities in [[California]]: [[Eureka, California|Eureka]], [[San Francisco]], [[San Luis Obispo, California|San Luis Obispo]], [[Santa Barbara, California|Santa Barbara]], [[Los Angeles]], and [[San Diego]]<ref name=missile-command>{{cite web|url=http://www.polygon.com/features/2013/8/15/4528228/missile-command-dave-theurer |title=The Creation of Missile Command and the haunting of its creator, Dave Theurer |publisher=polygon.com |date=2013-08-15 |access-date=2014-06-05}}</ref>. While Theurer understood the assignment of making a patriotic game, the current [[McCarthyism|political climate]] made Theurer hesitant about the possible violent incitations. While enthusiast about his first project, Theurer put conditions to his work:<ref name="8-bit-apocalypse"/>
+
+# there would be no names of countries attached to either the attacking force or the defending force
+# the game would be purely defensive and never put players in situations where they would be the aggressor
+
+Thus city names were removed completely. Also players would not be able to retaliate, which would have be a scenario of [[mutual assured destruction]] which Theurer didn't find noble: "I did not want to put the player in a position of being a genocidal maniac. Only a crazy person would sling nuclear weapons without context, right?"<ref name="8-bit-apocalypse"/>. Removing mentions of countries and cities would also leave the story's details to the player's imagination. The only possible game outcome of total destruction was also a message on the futility of war.
+
+To make the game fast-paced, Theurer opted for a [[trackball]] as a control, faster than a joystick. The game would also be the first color game made by Atari<ref name="8-bit-apocalypse"/>. Both features ensured the game would stand out compared to the competition of the time. The [[cabinet]] would also be innovative, featuring an extra panel of light indicators tied to events in the game.
+
+As the deadline was approaching, the programmers started [[Crunch (video games)|crunching]] heavily and Theurer suffered from nightmares of being destroyed by a nuclear blast.<ref>''[[Blue Wizard Is About To Die!]]'', Pg. 140, Seth Flynn Barkan, {{ISBN|0-9741000-0-5}}</ref><ref>[https://www.youtube.com/watch?v=JQJA5YjvHDU Extra Credits: Narrative Mechanics]</ref> A common observation at Atari at the time was that no programmer ever succeeded at having their first game released. This common occurrence was seen as a part of a programmer's learning curve but was putting extra pressure on Theurer. (This rule was later named "Theurer's law" for being a famous exception)<ref name="8-bit-apocalypse"/>
+
+Coin-op games had to go through early "field tests" where Atari would pay an arcade owner to place their prototype in the arcade for a few days so that the developers could observe player behaviour and reaction, find bugs and ensure the players were understanding the game and having fun. The game was an instant hit but the extra indicator panel was distracting the player and taking their attention from the screen, thus was scrapped entirely<ref name="8-bit-apocalypse"/>.
+
+==Reception==
+
+The game was an instant hit, hailed for its uniqueness, color graphics and challenging score-based gameplay, which were massive draws for arcade games at the time<ref name="8-bit-apocalypse"/>.
+
+{{Video game reviews
+| Allgame = {{Rating|5|5}} (Arcade)<ref name="allgamereview">{{cite web |url=http://www.allgame.com/game.php?id=4148&tab=review |title=Missile Command - Review |last=Weiss |first=Brett Alan |publisher=[[AllGame]] |access-date=August 18, 2017 |archive-url=https://web.archive.org/web/20141114095235/http://www.allgame.com/game.php?id=4148&tab=review |archive-date=November 14, 2014}}</ref><br>{{rating|4|5}} (Atari 5200)<ref>{{Cite web |last=Irwin |first=Jeff |title=Missile Command (Atari 5200) Review |url=http://www.allgame.com/game.php?id=15641&tab=review |url-status=dead |archive-url=https://web.archive.org/web/20141114124728/http://www.allgame.com/game.php?id=15641&tab=review |archive-date=November 14, 2014 |access-date=August 9, 2022 |website=Allgame}}</ref><br>{{rating|3.5|5}} (GBC)<ref>{{Cite web |last=Cook |first=Brad |title=Missile Command (Game Boy Color) Review |url=http://www.allgame.com/game.php?id=18985&tab=review |url-status=dead |archive-url=https://web.archive.org/web/20141114124722/http://www.allgame.com/game.php?id=18985&tab=review |archive-date=November 14, 2014 |access-date=August 9, 2022 |website=Allgame}}</ref>
+}}
+
+''Missile Command'' is considered one of the great classic video games from the [[Golden Age of Arcade Games]]. The game is also interesting in its manifestation of the [[Cold War]]'s effects on popular culture,<ref>{{cite web | url=https://openlettersreview.com/posts/8-bit-apocalypse-by-alex-rubens | title=8 Bit Apocalypse by Alex Rubens | date=13 November 2018}}</ref> in that the game features an implementation of [[National Missile Defense]] and parallels real-life nuclear war.
+
+The game sold nearly 20,000 [[arcade cabinet]]s.<ref>{{cite book |last1=Fulton |first1=Jeff |last2=Fulton |first2=Steve |year=2010 |chapter=A short history of Missile Command |chapter-url=https://books.google.com/books?id=VCR7XYUncEsC&pg=PA138 |title=The essential guide to Flash games: building interactive entertainment with ActionScript 3.0 |access-date=February 7, 2012 |edition=New |location=[[Berkeley, California]] |publisher=Friends of ED |page=138 |isbn=978-1-4302-2614-7 |quote=While certainly not the size of ''Asteroids'', the game was still a huge hit with almost 20,000 units sold.}}</ref> ''Missile Command'' was a commercial success for Sega in Japan, where it was among the top-ten highest-grossing [[1980 in video games|arcade video games of 1980]].<ref name="GM159">{{cite magazine |date=15 February 1981 |title=ベストスリー 本紙調査 (調査対象1980年) 〜 アーケードゲーム機 |trans-title=Best Three Book Survey (Survey Target 1980) ~ Arcade Game Machines |url=https://onitama.tv/gamemachine/pdf/19810215p.pdf#page=2 |magazine=[[:ja:ゲームマシン|Game Machine]] |lang=ja |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |issue=159 |page=2}}</ref>
+
+In 1983, ''[[Softline (magazine)|Softline]]'' readers named ''Missile Command'' for the Atari 8-bit computers eighth on the magazine's Top Thirty list of Atari programs by popularity.<ref name="softline198303">{{cite news |date=March 1983 |title=The Most Popular Atari Program Ever |url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 |work=Softline |pages=44 |access-date=July 28, 2014}}</ref> In a retrospective review, Brett Weiss of Allgame gave the arcade version a perfect score of 5 out of 5, in terms of controls, frenetic gameplay, sound effects, theme, and strategic aiming and firing.<ref name="allgamereview"/>
+
+In 1995, ''[[Flux (magazine)|Flux]]'' magazine ranked the arcade version 24th on their "Top 100 Video Games".<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n25/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=27}}</ref>
+
+==Reviews==
+* ''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n51/mode/2up | title=GAMES Magazine #34 | date=December 1982}}</ref>
+
+==Ports==
+{{more citations needed|section|date=December 2011}}
+[[Image:A5200 Missile Command.png|thumb|right|Atari 5200 version]]
+''Missile Command'' was ported to the [[Atari 2600]] in 1981.<ref>[http://www.arcade-history.com/?n=missile-command&page=detail&id=1644 Missile Command arcade video game by Atari, Inc. (1980)]</ref> The game's instruction manual describes a war between two planets: Zardon (the defending player) and Krytol. The original arcade game contains no reference to these worlds. On level 13, if the player uses all of his or her missiles without scoring any points, at the end of the game the city on the right will turn into "RF" – the initials of the programmer [[Rob Fulop]]. This [[Easter egg (media)|Easter egg]] is originally documented in ''[[Atari Age]]'' (Volume 1, issue #2) in a letter to the editor by Joseph Nickischer, and is the second one publicly acknowledged by [[Atari]]. In an interview with ''Paleotronic Magazine'', Fulop stated that Atari paid him for his work by giving him a [[Safeway]] coupon for a free turkey, which motivated him to leave the company and co-found competing developer [[Imagic]].<ref name="Paleotronic 2019">{{cite web |title=An Interview with Atari 2600 developer and Imagic Co-Founder Rob Fulop |url=https://paleotronic.com/2019/03/29/an-interview-with-atari-2600-developer-and-imagic-co-founder-rob-fulop/ |website=Paleotronic Magazine |access-date=5 February 2024 |ref=Paleotronic 2019 |date=29 March 2019}}</ref>
+
+''Missile Command'' was released for [[Atari 8-bit computers]] in 1981 and an identical version for the [[Atari 5200]] in 1982. The same Atari 8-bit port was later used in the 1987 [[Atari XEGS]] as a built-in game that boots up if there isn't a cartridge or keyboard in the console.
+
+==Legacy==
+===Re-releases===
+''Missile Command'' has seen many re-releases in many Atari compilation titles:
+* The game is included in ''[[Arcade Classics]]'' for the Sega Genesis and Game Gear and a similar [[Master System]] compilation titled ''[[Arcade Smash Hits]]''.
+* The game was released for Microsoft Windows 3.x as part of the ''[[Microsoft Arcade]]'' package in 1993.
+* [[Accolade (company)|Accolade]] released a version for the [[Game Boy]] in 1995, as part of their ''Arcade Classics'' series. It was later re-released in a double-pack with the Game Boy version of ''[[Asteroids (video game)|Asteroids]]'', which was licensed by Accolade to [[Nintendo]] for publishing.
+* The game is included in the [[Midway Games]] published  ''[[Arcade's Greatest Hits: The Atari Collection 1]]'' for the [[Sega Saturn]], [[Super Nintendo Entertainment System]], and the [[PlayStation]].
+* It is also included in ''Atari Arcade Hits 1'', ''Atari Greatest Hits'', ''[[Atari Anniversary Edition]]'' and ''[[Atari: 80 Classic Games in One!]]''.
+* The game appears as a bonus unlockable minigame in the PlayStation 2 and Xbox versions of ''[[Terminator 3: Rise of the Machines (video game)|Terminator 3: Rise of the Machines]]'', that can be unlocked once it has been played on a hidden computer in one of the levels.
+* The game has also been made available for the [[Xbox (console)|Xbox]] and [[PlayStation 2]] (in both arcade and Atari 2600 versions) as part of ''[[Atari Anthology]]'' in 2004.
+* The game is included in ''[[Retro Atari Classics]]'' and ''[[Atari Greatest Hits]] Volume 1'' for the Nintendo DS. The former title also includes a remixed art version.
+* Both the arcade and 2600 versions are part of ''[[Atari Vault]]'' (2016).
+* Both the Atari 2600 and Atari 7800 version was released on the [[Evercade]] as part of Arcade Collection 1 and 2 in 2020.
+
+===Sequels===
+In late 1980, a two-player sequel ''Missile Command 2'' was field tested but never released,<ref>[http://www.arcade-museum.com/game_detail.php?game_id=8716 Missile Command 2 - Videogame by Atari], arcade-museum.com</ref> although at least one prototype appeared in an arcade in [[Santa Clara, California]]. This game was similar to the original except that each player had their own set of cities and missile batteries and the players could cooperate to save each other's cities from the onslaught. 
+
+In 1992, Atari developed a prototype of an arcade game called ''Arcade Classics'' for their 20th anniversary, which included ''Missile Command 2'' and ''Super Centipede''. Despite its name, however, this version was not the unreleased sequel, but an enhanced remake of the first game. 
+
+In 1981, an enhancement kit was made by [[General Computer Corporation|General Computer Corp.]] to convert ''Missile Command'' into ''Super Missile Attack''. This made the game even harder, and added a [[UFO]] to the player's enemies.
+
+In 1982, Atari released a game called ''[[Liberator (video game)|Liberator]]'', which was seen by some as being a sequel to ''Missile Command'' with the situation essentially reversed; in ''Liberator'', the player is the one attacking planetary bases from orbit.<ref>[http://www.arcade-museum.com/game_detail.php?game_id=8425 Liberator - Videogame by Atari], arcade-museum.com</ref>
+
+===Updated versions===
+[[Image:Missilecommand360.jpg|thumb|right|''Missile Command'' for the [[Xbox 360]]]]
+Enhanced versions of ''Missile Command'' were released for the [[Atari Lynx]] and [[Game Boy]].
+
+An updated version called ''[[Missile Command 3D]]'' was released for the [[Atari Jaguar]] in 1995. It contains three versions of the game: Classic (a straight port of the arcade game), 3D (graphically upgraded and with a rotating viewpoint), and Virtual.<ref>{{cite magazine|title=Next Wave: Missile Command 3D |magazine=[[Electronic Gaming Monthly]]|issue=78|publisher=Sendai Publishing|date=January 1996|page=132}}</ref> It is the only game that works with the virtual reality helmet from [[Virtuality (product)|Virtuality]].
+
+[[Hasbro Interactive]] released a 3D remake of ''Missile Command'' for [[Microsoft Windows]] and [[PlayStation (console)|PlayStation]] in 1999.
+
+''Missile Command: Recharged'' with high-definition graphics was released via [[Xbox Live Arcade]] for the [[Xbox 360]] on July 4, 2007.
+
+''Missile Command'' was released for the [[iPhone]] and [[iPod Touch]] for US$5 on September 23, 2008. It includes two gameplay modes ("Ultra" and "Classic").
+
+In March 2020, Atari released a new remake, ''Missile Command: Recharged'', on mobile platforms.<ref>{{YouTube|id=KCf0Qa0U94Y|title=Atari Missile Command Recharged Review}}</ref> On May 27, the remake also made it to [[Nintendo Switch]] as well as home computers via [[Steam (service)|Steam]],<ref>{{cite web |url=http://www.nintendoworldreport.com/review/53851/missile-command-recharged-switch-review |title=Missile Command: Recharged (Switch) Review |last=Ronaghan |first=Neal |date=2020-05-27 |access-date=2020-07-25}}</ref> later on released as a launch title on the [[Atari VCS (2020 console)|Atari VCS]].<ref>{{cite magazine |last=Shea |first=Brian |date=July 1, 2020 |title=Atari's New Console, The VCS, Launches This Fall |url=https://www.gameinformer.com/2020/07/01/ataris-new-console-the-vcs-launches-this-fall |magazine=[[Game Informer]] |publisher=[[GameStop]] |access-date=October 18, 2021}}</ref>
+
+An updated version of the game was announced in 2018 for the [[Intellivision Amico]].<ref>{{cite press release |url=https://www.prnewswire.com/news-releases/intellivision-reveals-initial-details-for-the-upcoming-amico-home-video-game-console-300734998.html |title=Intellivision Reveals Initial Details For The Upcoming Amico Home Video Game Console! |date=October 22, 2018 |website=PR Newswire}}</ref> While neither the Intellivision Amico version of ''Missile Command'' nor the Amico console itself have yet released, a mobile version was announced in late 2023, as part of Intellivision's ''Amico Home'' initiative. This version was released for Android the same year, with an iOS version being announced for a later release.<ref>{{cite web |url=https://www.eurogamer.net/intellivision-launches-app-version-of-amico-console-as-hardware-remains-distant |title=Intellivision launches app version of Amico console, as hardware remains distant |date=2023-11-23 |website=[[Eurogamer]] |access-date=2024-02-09}}</ref>
+
+===Clones===
+Contemporary ''Missile Command'' clones include ''Missile Defense'' (1981) for the Apple II, ''Stratos'' (1982) for the TRS-80, ''Missile Control'' (1983) for the BBC Micro, ''[[Repulsar]]'' (1983) for the ZX Spectrum, and ''Barrage'' (1983) for the TI-99/4A. Silas Warner programmed the 1980 clone ''[[ABM (video game)|ABM]]'' for the Apple II several years before writing ''[[Castle Wolfenstein]]''.<ref name="giantlist"/> Similarly, John Field programmed the ''Missile Command''-like game ''ICBM'' (1981), then went on to create ''[[Axis Assassin]]'',<ref name="giantlist"/> one of the first five games published by Electronic Arts.
+
+''Atomic Command'', a clone of Missile Command, is playable on the Pip-Boy interface in the ''[[Fallout 4]]'' video game.<ref>[https://www.youtube.com/watch?v=ShFmTYpCr-M Atomic Command (Missile Command) Retro Game in Fallout 4 Gameplay], Youtube</ref>
+
+===In popular culture===
+* ''Missile Command'' was referenced in the 1980 episode "Call Girl" of the TV [[sitcom]] ''[[Barney Miller]]'', which features a detective who is hooked on the game.<ref>{{Cite episode |title=Call Girl|series=[[Barney Miller]]|date=December 18, 1980|season=7|number=6}}</ref>
+* In the 1991 film ''[[Terminator 2: Judgment Day]]'', John Connor plays the game in an arcade, echoing the film's theme of a future global nuclear war.
+* The documentary ''High Score'' (2006) follows William Carlton, a [[Portland, Oregon]] gamer, on his quest to beat the ''Missile Command'' high score record for Marathon settings.<ref>{{cite web|url=http://www.highscoremovie.com |title=High Score |publisher=Highscoremovie.com |archive-url=https://web.archive.org/web/20160411004340/http://highscoremovie.com/ |archive-date=April 11, 2016 |url-status=dead}}</ref>
+* In the 2010 open world [[survival horror]] video game, ''[[Deadly Premonition]]'', the game is mentioned by the protagonist Francis York Morgan, while driving.
+* In the 2008 episode "[[Chuck Versus Tom Sawyer]]" of the [[NBC]] show ''[[Chuck (TV series)|Chuck]]'', a weapons satellite access code is hidden in the (fictitious) [[kill screen]] of ''Missile Command'' by its programmer, Mr. Morimoto ([[Clyde Kusatsu]]).<ref>{{cite web |url=http://www.tv.com/chuck/chuck-versus-tom-sawyer/episode/1220455/summary.html |title=Chuck Versus Tom Sawyer Season Episode Guide on |publisher=Tv.com |access-date=2010-06-02 |archive-date=2010-04-12 |archive-url=https://web.archive.org/web/20100412115838/http://www.tv.com/chuck/chuck-versus-tom-sawyer/episode/1220455/summary.html |url-status=dead}}</ref>
+* In the 1982 film ''[[Fast Times at Ridgemont High]]'', ''Missile Command''{{'}}s "The End" screen is used to help illustrate the film's ending.<ref>{{cite news|url=http://latimesblogs.latimes.com/movies/missile-command/ |title=Atari's Missile Command, a potential Hollywood franchise |work=[[Los Angeles Times]]|date= 2010-02-18|access-date=2010-06-26}}</ref>
+* The game is shown in the opening title sequence of the 2013 FX television series ''[[The Americans]]''.
+
+===Film connection and adaptation===
+The gameplay of ''Missile Command'', specifically, the [[contrail]]s left by incoming [[ICBM]]s, and the visuals of cities being destroyed by nuclear warheads on a video display screen, strongly resembles the opening nuclear war scenes from the 1977 film, ''[[Damnation_Alley_(film)|Damnation Alley]]''.
+
+In February 2010, Atari was talking with several studios to turn ''Missile Command'' into a film.<ref>{{cite news | url=http://latimesblogs.latimes.com/movies/2010/02/missile-command-movie-fox-hollywood-videogame.html | work=Los Angeles Times | title=24 Frames}}</ref> 20th Century Fox acquired the rights to bring ''Missile Command'' to film the following year.<ref>{{cite news | url=https://www.variety.com/article/VR1118030089 | work=Variety | first=Marc | last=Graser | title=Atari arms 'Missile Command' for bigscreen | date=2011-01-11}}</ref> In May 2016, Emmett/Furla/Oasis Films closed a deal to partner with Atari to produce and finance both ''Centipede'' and ''Missile Command''.<ref>{{cite magazine|url=https://deadline.com/2016/05/centipede-missile-command-atari-movie-emmett-furla-oasis-1201754686/|title=Atari Classic Arcade Games Centipede & Missile Command Headed for Big Screen|magazine=Deadline|last=Fleming |first=Mike Jr. |date=May 12, 2016}}</ref>
+
+==World records==
+Two types of world records are monitored for the arcade version of ''Missile Command'': Marathon and Tournament settings. Both settings allow the player to start with six cities. Marathon settings award bonus cities, while in tournament mode bonus cities are not awarded at any point in the game.
+
+===Marathon settings===
+In 1981, Floridian Jody Bowles played a ''Missile Command'' arcade game for 30 hours at The Filling Station Eatery in Pensacola. Bowles scored 41,399,845 points with one quarter using Marathon settings, besting the previous known record, according to Atari spokesman Mike Fournell.<ref>[https://news.google.com/newspapers?id=ydUTAAAAIBAJ&sjid=KwYEAAAAIBAJ&pg=4104,1725781&dq=missile-command+game&hl=en Man Plays Video Game 30 Hours To Win Record With One Quarter.] ''Ocala Star-Banner''. 4 May 1981.</ref> The record was broken when Victor Ali of the United States scored 80,364,995 points in 1982.
+
+Beginning on March 15, 2013, Victor Sandberg of Sweden scored 81,796,035 points live on [[Twitch (service)|Twitch]] after 56 hours of play.<ref name="DiskborsteMC's Twitch channel">[http://sv.twitch.tv/diskborstemc DiskborsteMC's Twitch.tv channel]</ref> On December 27 of the same year, Sandberg started a 71-hour and 41 minute game with a score of 103,809,990—10 points short of getting an additional 176 cities.<ref name="DiskborsteMC's Twitch channel"/>
+
+===Tournament settings===
+On July 3, 1985, Roy Shildt of [[Los Angeles]] set a [[world record]] in tournament-set Missile Command, with a score of 1,695,265, as verified by [[Twin Galaxies]]. This score, as well it earning his induction into the Video Game Hall of Fame, were published in the 1986 [[Guinness Book of World Records]].<ref>{{cite book|title=1986 Guinness Book of World Records|date=1986|publisher=Bantam Books|page=559}}</ref>
+
+After more than 20 years, on March 9, 2006, [[United Kingdom|UK]]-based gamer Tony Temple set a new world record of 1,967,830 points, also with Tournament settings as confirmed by Twin Galaxies. Temple's score was published in the 2008 [[Guinness World Records Gamer's Edition|Guinness Book of World Records Gamer's Edition]], although Guinness noted that the score was controversial due to Temple playing on game settings that increased cursor speed and was therefore easier than those of Roy Shildt, the previous record holder.<ref>{{cite book|title=2008 Guinness Book of World Records|date=2008|publisher=Little Brown Books|page=234|quote="On March 9, 2006, Tony Temple (UK) scores 1,967,830 on Missile Command under Twin Galaxies tournament settings. This has caused much controversy; previous record holder Roy Shildt (USA) scores 1,695,265 in 1985 using a harder setting that decreases cursor speed"}}</ref> Tony Temple increased his world record on two occasions, culminating in a score of 4,472,570{{Citation needed|date=August 2022}} in 2 hours and 57 minutes–verified on September 9, 2010. This is the first verified time that a player passed wave 256 under tournament settings; the game difficulty starts over at wave 1 again.
+
+==See also==
+* [[Golden age of video arcade games]]
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last=Hague|first=James}}</ref>
+}}
+
+
+==External links==
+{{Commons category|Missile Command}}
+* {{KLOV game|id=8715}}
+* [http://www.arcade-history.com/?page=detail&id=1644 ''Missile Command''] at the Arcade History database
+* [https://6502disassembly.com/va-missile-command/ ''Missile Command'' software disassembly and analysis]
+
+{{Missile Command}}
+{{Atari 2600}}
+{{Portal bar|1980s|Video games}}
+{{Authority control}}
+
+[[Category:1980 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari arcade games]]
+[[Category:Atari Lynx games]]
+[[Category:Cold War video games]]
+[[Category:Game Boy Color games]]
+[[Category:Game Boy games]]
+[[Category:IOS games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Nintendo games]]
+[[Category:PlayStation (console) games]]
+[[Category:PlayStation Network games]]
+[[Category:Trackball video games]]
+[[Category:Video games about nuclear war and weapons]]
+[[Category:Video games developed in the United States]]
+[[Category:Windows games]]
+[[Category:Xbox 360 Live Arcade games]]

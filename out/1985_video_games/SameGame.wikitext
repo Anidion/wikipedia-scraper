@@ -1,0 +1,374 @@
+SameGame
+Permalink: //en.wikipedia.org/w/index.php?title=SameGame&oldid=1231034740
+Accessed on: 2024-06-26T16:59:06.151615
+
+
+
+------
+SameGame
+{{Short description|1985 video game}}
+{{More citations needed|date=November 2010}}
+
+[[File:Samegame-macos9.png|thumb|upright=1.3|''SameGame'' for Mac, by Takahiro Sumiya]]
+{{Nihongo|'''''SameGame'''''|さめがめ}} is a [[Tile-matching video game|tile-matching]] [[puzzle video game]] originally released under the name '''''CHAIN SHOT''''' in 1985 by Kuniaki "Morisuke" Moribe.<ref>{{Cite web |title=「CHAINSHOT」誕生まで (The Birth of CHAINSHOT) [uses Shift-JIS Text Encoding]|url=https://www.asahi-net.or.jp/~ky6k-mrb/cs031122.htm |access-date=2023-04-18 |website=www.asahi-net.or.jp}}</ref> It has since been ported to numerous computer platforms, handheld devices, and even TiVo,<ref>{{Cite web |url=http://myaccount.mytivo.com.au/tivoservice/samegame |title=Samegame &#124; My Account &#124; myTiVo.com.au |access-date=2013-10-29 |archive-date=2015-03-10 |archive-url=https://web.archive.org/web/20150310181416/http://myaccount.mytivo.com.au/tivoservice/samegame |url-status=dead }}</ref> with new versions as of 2016.
+
+==History==
+''SameGame'' was originally created as ''Chain Shot!'' in 1985 by Kuniaki Moribe. It was distributed for [[Fujitsu]]'s [[FM-8]] and [[FM-7]] platforms in a Japanese monthly [[personal computer]] magazine called ''[[List of magazines published by ASCII Media Works|Gekkan ASCII]]''. In 1992, the game was ported as ''SameGame'' to [[Unix]] platforms by Eiji Fukumoto, to the NEC [[PC-9801]] series by Wataru Yoshioka, and to Macintosh as ''ChainShot!'' by Eiichiro Mawatari.<ref>{{Cite web |title=ChainShotの詳細情報 : Vector ソフトを探す！ |url=https://www.vector.co.jp/soft/mac/game/se034256.html |access-date=2023-05-09 |website=www.vector.co.jp}}</ref> In 1993, it was ported to [[Windows 3.1]] by Ikuo Hirohata. This version was translated into English by Hitoshi Ozawa, and is still available from his software archive.<ref>{{cite web
+	| url = http://www.nurs.or.jp/~h_ozawa/english/soft/free/game.html
+	| title = ISOFT - Home of Japanese software
+	| last = Ozawa
+	| first = Hitoshi
+	| access-date = 2010-11-28
+	| archive-date = 2011-07-18
+	| archive-url = https://web.archive.org/web/20110718030814/http://www.nurs.or.jp/~h_ozawa/english/soft/free/game.html
+	| url-status = dead
+	}}</ref>
+In 1994, Takahiro Sumiya ported it to [[Classic Mac OS|Macintosh]]. This version has some gameplay differences—a choice of between two and five colors—and is probably the most widely distributed of the original series. It was the basis for the ''Same Gnome'' and ''KSame'' variations created for [[Linux]].
+
+In 2001, Biedl et al. proved that deciding the solvability (whether all blocks can be removed) of 1-column (or 1-row) 2-colour Clickomania can be done in [[linear time]]. Deciding the solvability of 2-column, 5-colour Clickomania is [[NP-Complete]]. Deciding the solvability of 5-column 3-colour Clickomania is also NP-Complete.<ref>{{cite journal|last1=Biedl|first1=Therese|author1-link=Therese Biedl|last2=Demaine|first2=Erik|author2-link=Erik Demaine|title=The Complexity of Clickomania|journal=More Games of No Chance|date=2001|arxiv=cs/0107031|bibcode=2001cs........7031B}}</ref> Follow-up work in 2015 by Adler et al. proved that deciding the solvability of Clickomania is hard even in the 2-column 2-colour case, as well as [[Parameterized complexity]] results on determining whether an instance of size ''n'' is solvable in ''k'' or fewer clicks.<ref>{{cite conference |url=https://erikdemaine.org/papers/Clickomania_MOVES2015/paper.pdf |title=Clickomania is Hard, even with 2 Colors and Columns |year=2015 |conference=The Mathematics of Various Entertaining Subjects (MOVES) |conference-url=https://momath.org/moves-conference/}}</ref>
+
+==Gameplay==
+
+===Game mechanics===
+[[File:Ksame.png|thumb|An initial playing field for ''KSame'', part of kdegames]]
+''SameGame'' is played on a rectangular field, typically initially filled with four or five kinds of blocks placed at random. By selecting a group of adjoining blocks of the same color, a player may remove them from the screen. Blocks that are no longer supported will fall down, and a column without any blocks will be trimmed away by other columns always sliding to one side (often the left). The goal of the game is to remove as many blocks from the playing field as possible.
+
+In most versions, there are no time constraints during the game. However, some implementations gradually push the rows upward or drop blocks from above. Sometimes the player can control the number and timing of blocks that drop from above in certain ways. For example, on some implementations for the [[iOS (Apple)|iOS]], this can be done by shaking the device. The game ends if a timer runs out or if no more blocks can be removed. Some versions, including some versions for [[Windows Mobile]], include both portrait and landscape [[Screen orientation|orientations]].
+
+==== Variations ====
+In one variation, the game starts with no blocks on the field. Blocks fall down to the playing field, and must be removed before they reach the top. If they reach the top and overflow, the game is over. In some variations, such as ''Bubble Bang'', circles or balls are used instead of blocks—which alters the gameplay, as the balls form different shapes than square blocks.
+
+In three-dimensional variants, the playing field is a cube (containing smaller cubes) instead of a rectangle, and the player has the ability to rotate the cube. "Cubes" for iPhone OS uses this approach.
+
+Some versions allow the player to rotate the playing field 90&nbsp;degrees clockwise or counter-clockwise, which causes one of two things to happen:
+# The left and right sides become the bottom and the top, and the blocks fall to the new bottom. The orientation switches between portrait and landscape. ''NeoSameGame'' for iPhone OS uses this approach.
+# The blocks fall to the left or right side, but the player must rotate the field back to portrait orientation (which is fixed). ''Bubblets Tilt'' for iPhone OS uses this approach.
+
+In some variations, blocks can be removed when connected to blocks of the same color diagonally, not just horizontally and vertically. Some versions introduce new types of blocks. The different types of blocks interact in various ways with the play field; for example, one type might remove all the blocks in a row. An example of this is the "Revenge mode" in ''PocketPop Revenge'' (''[[PocketFun]]'') for iPhone OS.
+
+==== Rules variations ====
+# The game ends when the playing field is cleared, or if the remaining blocks cannot be removed. At the end of play, the player receives a score.
+# When the playing field is cleared, instead of ending the game, a new level appears—usually harder, with more block types or lower time limits, or both. The condition for winning may vary between levels. Instead of clearing the whole level, for example, a certain score or a certain number of removed blocks must be reached. When the needed score is reached, in most versions the player is allowed to clear the rest of the level. If the player cannot reach the needed score—or if the timer runs out—the game ends, and the player receives a final score.{{Citation needed|date=February 2009}}
+# In an "endless" variant, the game starts with an empty field. The blocks or balls start falling down; but if they reach the top, new blocks stop falling, so they do not overflow—thus, the game never ends. The player can end the game at any time by waiting for blocks to reach the top, then performing a special action (for example, right-click instead of left-click).
+# Some versions have [[life (gaming)|player lives]].{{Citation needed|date=February 2009}} If a player reaches a losing condition one time, the game does not end; instead, a life is lost. If all lives are lost, the game ends.
+# In the "continuous" variant, whenever a vertical set of blocks has been cleared and the remaining blocks have shifted to one side, a new, randomly selected column of blocks will pop up on the other side, thereby allowing a game to be played for an extended amount of time.{{Citation needed|date=February 2009}}
+# In the "shift" variant, when a set of blocks has been cleared, all remaining blocks to the top and left will shift down and to the right.{{Citation needed|date=February 2009}}
+# The "megashift" variant is a combination of the rules of the "continuous" and "shift" variations.{{Citation needed|date=February 2009}}
+
+=== Scoring ===
+[[File:Swell Foot 3.11.92.png|thumb|''Swell-Foop'', part of [[GNOME Games]], with a score of 1 after move has been made that removed three blocks]]
+
+Most versions of the game give <math>(n-k)^2</math> points for removing <math>n</math> tiles at once, where <math>k = 1</math> or <math>2</math>, depending on the implementation. For instance, ''Insane Game'' for [[Texas Instruments]] [[Comparison of Texas Instruments graphing calculators|calculators]] uses <math>(n-1)^2</math>; Ikuo Hirohata's implementation uses the formula <math>n^2-3n+4</math>. The ''Bubble Breaker'' implementation for Windows Mobile uses the <math>n (n - 1)</math> formula. The 2001 version released by Jeff Reno uses the formula <math>n (n - 2)</math>.
+
+Some versions also offer a large bonus for removing all blocks from the screen, or leaving no more than a certain number of blocks. Others reduce the final score based on the number of blocks remaining at the end of the game. Some game versions award bonus points for clearing the field quickly, encouraging faster play. The faster the player finishes the level, the bigger the bonus. Still others offer combination, or ''chain'', bonuses for clearing the same color of blocks two or more times in succession.
+
+Another scoring technique awards bonus points for each chain of a certain color that has a certain number of blocks (for example, two red blocks or 11 blue blocks). After receiving the bonus once, sometimes the bonus condition changes. ''BPop'' uses this scoring variation.
+
+Some versions have a simple scoring system: each block removed is worth one point, and there is no bonus for removing more than two blocks at a time. This is seen in the ''Same Pets'' and ''Same Hearths'' variants.
+
+====Goal-based scoring====
+Some versions award scores based on the attainment of goals. This is typically seen in multi-level versions of the game. There are four primary scoring systems for such games.
+
+In one variation, each level has a target score. The player's score starts at zero, and the player must reach the target score. At the beginning of each level, the player's score is reset to zero; the target score increases with each level.
+
+Other versions have a cumulative target score. In these versions, the player's score carries over from level to level. As a result, if the player substantially exceeds the target score on a given level, they may enter the subsequent level having already met that level's target score, as well. ''BPop'' has a cumulative target score.
+
+Some versions maintain the same target score for each level; such variations can be played indefinitely.  In such games, the player typically loses due to poor planning or a lapse in concentration. Examples of such games are ''Same Pets'' and ''Same Hearths''.
+
+In games without a goal score, like ''Bonkers for iPhone'' and SameGameBros for iPhone, the goal is to clear the level completely. The game ends when the player fails to do so.
+
+== Visuals ==
+[[Image:SameGame.jpg|thumb|Example of blocks with a [[color gradient]] design]]
+Blocks typically appear as colored squares, circles, or spheres. Some variations use gradient shading to give the illusion of dimensionality. Other tile themes, or ''[[Skin (computing)|skins]]'', include animals, hearts, stars, faces, [[Lego]] blocks, and jelly bears. Designs may follow a theme, such as Christmas or monochrome. Most games have only one skin, but others allow choosing from multiple skins.
+
+There is a special visual aspect in some versions; instead of separate blocks, games like ''iDrops'' and ''SameGameManiak'' feature bordered areas for adjacent blocks of the same color. Some have elaborate tile graphics, featuring pictures or patterns inside the tile, like ''KSame'' and ''Same GNOME''.
+
+===Variations===
+;Reveal the picture
+: The SameGame concept can be extended to a "Reveal the picture" game. A picture or photo is behind the blocks; it becomes increasingly visible as blocks are removed, until it is completely revealed. Examples include ''Same Pets'', ''Same Hearts'' and the [[Nissan Cube]] promotional app for iPhone.
+;Animation
+: Some games feature animation of one or more game events, such as cleared tiles bursting or exploding, or scoring animations (''BPop'', ''Bubblets Tilt'').
+; Block highlighting
+: Some versions display which blocks are selected with a border around them (''BPop''), jittering of the blocks (''BPop''), or an increase of the size of the selected blocks (''Bubblets Tilt''). If the blocks are deselected (usually by dragging away from them, or tapping another block chain or a single block), the highlight is removed.
+
+==Versions==
+{| class="wikitable sortable"
+|+ Versions of ''SameGame''
+|-
+! scope="col" |Name
+! scope="col" |Author
+! scope="col" align="center"|Release Date
+! scope="col" |Platforms
+! scope="col" class="unsortable"|Notes
+|-
+|''Chain Shot!''
+|Kuniaki&nbsp;Moribe
+| align="center"| 1985
+|Fujitsu&nbsp;FM&nbsp;8/7{{dot}}[[PC-8801]]{{dot}}[[PC-9800]]{{dot}}N5200&nbsp;(1988){{dot}}Macintosh&nbsp;(1992)
+|The original iteration of the game had a 20×10 playing field and four colors.
+|-
+|''Same Game''
+|Eiji&nbsp;Fukumoto
+| align="center"|1992
+|[[Unix]]
+| The first version titled ''Same Game''; it increased the number of colors to five.
+|-
+|''Same Game''
+|Wataru&nbsp;Yoshioka (W.&nbsp;Yossi)
+|
+|PC-9801
+|
+|-
+|''Same Game''
+| Ikuo&nbsp;Hirohata&nbsp;(Japanese)<br />Hitoshi&nbsp;Ozawa&nbsp;(tr.&nbsp;English)
+| align="center"| 1993
+| [[Windows 3.1]]
+|Added an optional large field of 25×15. The large field requires an 800×600 desktop resolution.
+|-
+|''KSame''<br />''Same&nbsp;Gnome''<br />''Swell&nbsp;Foop''
+|
+|
+|
+| Based on Takahiro Sumiya's Macintosh version.
+|-
+|''Undake&nbsp;30:&nbsp;Same&nbsp;Game''
+|
+| align="center"| 1995
+| [[Super Nintendo Entertainment System|SNES]]
+| Featured [[Mario (franchise)|Mario]] franchise-related icons: Mario's head, coins, Super Mushrooms, Fire Flowers, and Yoshi eggs.
+|-
+|''Same Game Plus''
+| Yuuki
+|align="center"|1995
+| X68000
+| For ''SX-WINDOW'' system software. As featured in the December 1995 issue of ''Oh! X''.<ref>{{Cite web |title=SXSAME_GAME_Pulsの詳細情報 : Vector ソフトを探す！ |url=https://www.vector.co.jp/soft/x68/game/se031950.html |access-date=2023-10-17 |website=www.vector.co.jp}}</ref><ref>{{Cite web |title=GW特別企画 X68000をエミュレータで体験しよう！ |url=https://pc.watch.impress.co.jp/docs/article/20000501/x68000.htm |access-date=2023-10-17 |website=pc.watch.impress.co.jp}}</ref>
+|-
+|''Same&nbsp;Game''
+|Shimada Kikaku
+| align="center"| 1997
+| [[Game Boy]]
+| Published by [[Hudson Soft|Hudson]].<ref>{{Cite web|url=https://gamefaqs.gamespot.com/gameboy/570011-same-game|title=Same Game for Game Boy - GameFAQs}}</ref>
+|-
+|''ChainShot Gold''
+|Kuniaki&nbsp;Moribe
+| align="center"|1997
+| [[Windows 3.1/Windows 95]]
+| A remake of ChainShot (1985).<ref>{{Cite web|url=https://web.archive.org/web/19990218190357/http://www.asahi-net.or.jp/%7Eky6k-mrb/cshot.htm|title=ChainShot Gold (Archive)}}</ref>
+|-
+|''ColorFall''
+|Michael&nbsp;LaLena
+| align="center"|1998
+|[[Java (programming language)|Java]]/Browser based
+|Added the concept of levels. Clear levels by removing a fixed number of colors. New colors are added every level. Five different versions are available.
+|-
+|''Clickomania!''
+|Matthias&nbsp;Schüssler
+| align="center"|1998
+|Windows
+|Board size and number of colors are configurable. Originally the goal was only to clear the playing field, the number of blocks removed in one turn did not affect the score. This is still the default setting.
+|-
+|''SameGame''
+|Ronald&nbsp;van&nbsp;Dijk
+| align="center"| 1999
+|[[Amiga]]
+|It has a 15×10 playing field and three colors.
+|-
+|''[[Sega Swirl]]''
+|Scott&nbsp;Hawkins ([[Sega]])
+| align="center"|1999
+|[[Dreamcast]]{{dot}}[[Adobe Shockwave|Adobe&nbsp;Shockwave]]{{dot}}[[Palm OS|Palm&nbsp;OS]]
+|
+|-
+|''MacStones''
+|Craig&nbsp;Landrum
+| align="center"|1999
+|
+|Based on ''Same&nbsp;Gnome''.
+|-
+|''Cascade''
+|
+| align="center"| 1999
+| [[Psion Revo]]
+|
+|-
+|-
+|''Mahki''
+|
+| align="center"|1999
+|[[Arcade game]], [[Nintendo DS]], [[Wii]], Web browser
+|Included in the Touch Master countertop cabinet arcade game starting with the Touch Master 7000. Re-released with modifications in 2008 as part of [[TouchMaster|TouchMaster 2]] for the [[Nintendo DS]], and online as part of "Midway Arcade."
+|-
+|''Flux''
+|MasterWorks
+|2000
+|Puzzle/Arcade game, PC
+|Made using [[DirectX|Direct X]].
+|-
+|''Spore Cubes''
+|René Boutin / Spore Productions
+|align="center"|2000
+|Web browser, Windows, [[ActionScript|ActionScript 3]], [[Palm OS|Palm&nbsp;OS]], [[Pocket PC]], [[iOS (Apple)|iOS]], [[Android (operating system)]]
+|Inspired by the addictiveness of ''Clickomania!'' (see above), this game featured two skill levels which varied the number of colors in the playfield, consisting of 10 x 13 cubes. The original version of the game had randomly selected images behind the cubes, such that when the playfield was cleared, the player could see the entire image.
+|-
+|''Maki''
+|Christopher G. Stach II
+| align="center"|December 2000
+|[[Java applet]]/Browser based
+|Based on Mahki. Three difficulty levels, five colors, <math>(n - 2)^2</math> scoring, cleared board bonus, online high scoring.
+|-
+|''PocketPop''
+|PocketFun
+| align="center"|2001
+|[[Pocket PC]]
+|Won a number of awards, including Best Game, in ''Pocket PC Magazine'' 2001.<ref>{{cite web|url=http://www.pocketfun.co.uk/|title=pocketfun|publisher=pocketfun.co.uk|access-date=2009-03-16|archive-date=2019-10-18|archive-url=https://web.archive.org/web/20191018132436/http://www.pocketfun.co.uk/|url-status=dead}}</ref>{{Failed verification|date=November 2010}}
+|-
+|''[[Bomberman 64 (2001 video game)|Bomberman 64]]''
+|[[Racjin]]/[[Hudson Soft]]
+| align="center"|2001
+|[[Nintendo 64]]
+|Includes a ''SameGame'' minigame that uses colored Bomberman heads as blocks.
+|-
+|''[[Jawbreaker (Pocket PC game)|Jawbreaker]]''
+|
+| align="center"| 2003
+| [[Pocket PC]]
+|
+|-
+|''Bubble Shot''
+|FingerFriendlySoft
+|
+|[[iOS (Apple)|iOS]]
+|A Bubble Breaker–compatible game where adjacent bubbles visually melt into larger bubbles. Includes additional "Folding" and "Black Hole" modes and static challenges.
+|-
+|''Sega Swirl 2''
+|Scott Hawkins (Sega)
+| align="center"|2006
+|Windows
+|The sequel to Sega Swirl, which was only available through [[GameTap]].
+|-
+|''bubbles.el''
+|Ulf Jasper
+| align="center"|February&nbsp;2007
+|[[Gnu emacs|GNU emacs]]
+|Can display using graphics or text, according to availability
+|-
+|''[https://sjbaker.org/samegame/samegame.html SameGame]''
+|Steve&nbsp;and Oliver&nbsp;Baker
+| align="center"|2008
+|JavaScript
+|Online version that allows configuration of board size, number of colors and offers a range of alternative tile themes to play with.
+|-
+|''Bubble Bang''
+|Decane
+| align="center"|January&nbsp;2009
+|Web browser and [[iOS (Apple)|iOS]]
+|Three-dimensional game using balls instead of blocks. The iOS version uses [[Nvidia PhysX]] for realistic physics. The web browser version requires [[Unity (game engine)|Unity]].
+|-
+|''SameGame''
+|Alan Alpert
+| align="center"|July&nbsp;2009<ref>{{cite news|title=Qt Declarative UI SameGame|url=https://blog.qt.digia.com/blog/2009/07/28/qt-declarative-ui-samegame/|publisher=Nokia|date=2009-07-28|access-date=2014-03-24|url-status=dead|archive-url=https://web.archive.org/web/20140325091542/http://blog.qt.digia.com/blog/2009/07/28/qt-declarative-ui-samegame/|archive-date=2014-03-25}}</ref>
+|All supported [[Qt (software)|Qt]] platforms
+|Written as a [[QML]]/QtQuick demo.
+|-
+|''Pop'Em Drop'Em SAMEGAME''
+|[[Hudson Soft]]
+| align="center"|March&nbsp;23,&nbsp;2009<ref>{{cite news|title=One WiiWare Game and Two Virtual Console Games Added to Wii Shop Channel|url=https://www.nintendo.com/whatsnew/detail/EoYSYHFf5AKsH0a2x8DzVCG9Tx8Mu1M2|publisher=Nintendo|date=2009-03-23|access-date=2009-03-25|archive-date=2009-03-26|archive-url=https://web.archive.org/web/20090326080213/http://www.nintendo.com/whatsnew/detail/EoYSYHFf5AKsH0a2x8DzVCG9Tx8Mu1M2|url-status=dead}}</ref>
+|[[WiiWare]]
+|
+|-
+|''SameGame''
+|Torbjörn Gustafsson
+| align="center"|February&nbsp;2009
+|[[Android (operating system)]]
+|
+|-
+|''Bubble Drop!''
+| Gizmobuddy.com
+|
+| [[S60 (software platform)|Symbian S60]]
+| Includes the ability to selectively remove obstructing bubbles by using "tools", "acid", "fire", or "bomb", and with eight different gameplay modes of three and six colors. Players can submit high scores to a website.
+|-
+|''ColorBalls''
+|Pistooli
+| align="center"|March&nbsp;2010
+|[[Haiku (operating system)|Haiku OS]]
+|
+|-
+|''Click-o-mania HTML''
+|Bugaco
+| align="center"|January&nbsp;2011
+| [[JavaScript]]
+| Written in GWT<ref>{{cite web |url=http://games.bugaco.com/games/clickomania/ |title=Click-o-mania - bugaco.com |access-date=2011-01-19 |url-status=dead |archive-url=https://web.archive.org/web/20110708103911/http://games.bugaco.com/games/clickomania/ |archive-date=2011-07-08 }}</ref>
+|-
+|''Cube Crush''
+|Gregor Haag
+| align="center"|June 2011<br />2015<br />2016
+|[[ActionScript|ActionScript 3]]<br />[[Html5]]<br />[[Android (operating system)]]
+|Written in [[OpenFL]] to be [[Cross-platform software|cross-platform]]. Online Highscores. 3 and 4 color mode.<ref>{{cite web |last1=Haag |first1=Gregor |title=Games Developed by Gregor Haag |url=http://gregorhaag.com |access-date=30 August 2022}}</ref>
+|-
+|''Maki''
+|appsburgers
+| align="center"|September 2011
+|[[Android (operating system)]]
+|
+|-
+|''Bubblet''
+|Edouard Thiel
+| align="center"|October 2011
+|[[Linux]], [[Mac OS X]], [[Windows]]
+| Written in C and included in EZ-Draw<ref>{{Cite web|url=http://pageperso.lif.univ-mrs.fr/~edouard.thiel/ez-draw/index.html|title=EZ-Draw}}</ref>
+|-
+|''Bubblet-js''
+|Benoit Favre
+| align="center"|October 2011
+|[[JavaScript]]
+| Online version, translated from C using EZ-Draw-js<ref>{{Cite web|url=http://pageperso.lif.univ-mrs.fr/~benoit.favre/EZ-Draw-js/jeu-bubblet/jeu-bubblet.html|title = EZ-draw-js}}</ref>
+|-
+|''Tapotron''
+|Demura Games
+| align="center"|October 2013
+|[[iOS]]
+|
+|-
+|''One More SameGame''
+|Dušan Saiko
+| align="center"|October 2014
+|QT5
+| Online score synchronization, multilanguage, installation packages for Android, Windows, Linux<ref>{{Cite web |url=http://samegame.saiko.cz/ |title=Archived copy |access-date=2022-01-25 |archive-date=2021-02-28 |archive-url=https://web.archive.org/web/20210228115048/http://samegame.saiko.cz/ |url-status=dead }}</ref>
+|-
+|''SCRUSH''
+|Zafar Iqbal
+| align="centre"|December 2016
+|[[Scratch (programming language)]]
+| Online, Multi-platform, Highscore<ref>{{cite web |last1=Iqbal |first1=Zafar |title=SCRUSH (game) |url=https://scratch.mit.edu/projects/136505698/ |website=Scratch (MIT) |access-date=30 August 2022}}</ref>
+|-
+|''samegame1k''
+|Gábor Bata
+| align="center"|February 2017
+|[[JavaScript]]
+| Online version, in 1024 bytes of JavaScript. An entry for the JS1k 2017 code golfing competition<ref>{{Cite web|url=https://gaborbata.github.io/samegame1k/|title=Samegame1k - SameGame puzzle game in 1024 bytes of JavaScript}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+*[http://www.asahi-net.or.jp/~ky6k-mrb/chainsht.htm ''Chain Shot!''] {{Webarchive|url=https://web.archive.org/web/20110607072753/http://www.asahi-net.or.jp/~ky6k-mrb/chainsht.htm |date=2011-06-07 }} on Kuniaki Moribe's homepage
+
+{{DEFAULTSORT:Samegame}}
+[[Category:1985 video games]]
+[[Category:Game Boy games]]
+[[Category:Android (operating system) games]]
+[[Category:IOS games]]
+[[Category:Classic Mac OS games]]
+[[Category:NEC PC-9801 games]]
+[[Category:NP-complete problems]]
+[[Category:Tile-matching video games]]
+[[Category:Satellaview games]]
+[[Category:Unix games]]
+[[Category:Linux games]]
+[[Category:Video games developed in Japan]]
+[[Category:WiiWare games]]
+[[Category:Windows games]]
+[[Category:Wii games]]

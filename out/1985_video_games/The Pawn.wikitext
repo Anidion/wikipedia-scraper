@@ -1,0 +1,89 @@
+The Pawn
+Permalink: //en.wikipedia.org/w/index.php?title=The_Pawn&oldid=1224117897
+Accessed on: 2024-06-26T16:58:55.484067
+
+
+
+------
+The Pawn
+{{Short description|1985 video game}}
+{{Other uses|Pawn (disambiguation){{!}}Pawn}}
+{{Infobox video game
+|title     = The Pawn
+|image     = Cover_art_of_The_Pawn_1987.jpg
+|caption   = C64 cover art
+|developer = [[Magnetic Scrolls]]
+|publisher = [[Sinclair Research]], 
+ [[Rainbird Software]]
+|designer  = Rob Steggles
+|engine    = 
+|released  = '''1985:''' Sinclair QL<br>'''1986:''' Apple II, Amiga, Atari ST, C64<br>'''1987:''' Spectrum
+|genre     = [[Interactive fiction]]
+|modes     = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Amstrad PCW]], [[Apple II]], [[Acorn Archimedes|Archimedes]], [[Atari ST]], [[Atari 8-bit]], [[Commodore 64]], [[MS-DOS]], [[Mac (computer)|Mac]], [[Sinclair QL]], [[ZX Spectrum]]<ref>{{cite web | url=http://www.ifarchive.org/if-archive/magnetic-scrolls/info/msfact.txt | first=Stefan| last=Meier | title=Magnetic Scrolls Fact Sheet | access-date=17 June 2015}}</ref>
+}}
+
+'''''The Pawn''''' is an [[interactive fiction]] game for the [[Sinclair QL]] written by Rob Steggles of [[Magnetic Scrolls]] and published by [[Sinclair Research]] in 1985. In 1986, graphics were added and the game was released for additional home computers by [[Telecomsoft#Rainbird|Rainbird]].
+
+==Plot==
+[[Image:Opening_screen_of_The_Pawn.jpg|thumb|left|Opening screen (C64)]][[Image:Graphical_screen_from_The_Pawn_1987.jpg|thumb|First graphical screen (C64)]]
+
+The player's character is knocked unconscious and awakens in the fairyland of Kerovnia, a silver bracelet around their wrist that cannot be removed.<ref name=cm /> A general election is about to be held to decide whether King Erik will be replaced by a dwarf whose campaign promise is to "rid dungeons of mazes of any sort." The character must interact with others and perform tasks for them, gathering objects that will be needed for later tasks in order to escape from Kerovnia and return to reality.<ref name=cm />
+
+==Development==
+''The Pawn'' was written by Rob Steggles at Magnetic Scrolls in 1985, and a text-only version was first published for the [[Sinclair QL]] in [[1985 in video gaming|1985]].<ref>{{cite magazine|title=Adventure Corner|magazine=Personal Computer Weekly|page=28|publisher=Sunshine Publications|date=10 October 1985|issue=66|url=https://archive.org/stream/popular-computing-weekly-1985-10-10/PopularComputing_Weekly_Issue_1985-10-10#page/n27/mode/1up|access-date=17 June 2015}}</ref> After Magnetic Scrolls secured a publication deal with Rainbird, a graphical version of the game was then released for other platforms in 1986.<ref>{{cite magazine|title=The Pawnbrokers|journal=ZX Computing|pages=54–55|publisher=[[Argus Press]]|date=August 1986|url=https://archive.org/stream/zxcomputing-magazine-1986-08/ZXComputing_1986_08#page/n53/mode/2up|access-date=17 June 2015}}</ref>
+
+The game is written in [[Motorola 68000|68000]] assembler. Later versions use a cut-down 68000 [[virtual machine]] even on less powerful machines like the [[Zilog Z80|Z80]]-based Sinclair Spectrum. The [[Amiga]] version uses digitized instrument [[Sampling (music)|samples]] in its title music early in that computer's lifecycle.  The peaceful title music was composed by John Molloy and it features guitar and flute sounds.<ref>{{cite web | url=http://www.filfre.net/2015/05/the-pawns-second-life-or-when-tony-met-anita/ | title=The Pawn's Second Life (or, When Tony Met Anita) | last=Maher | first=Jimmy}}</ref>
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+}}
+By late 1987, ''The Pawn'' was Firebird's second best-selling [[Amiga]] game in the United States.<ref name="ferrell198712">{{cite magazine | url=https://archive.org/stream/1987-12-computegazette/Compute_Gazette_Issue_54_1987_Dec#page/n17/mode/2up | title=The Commodore Games That Live On And On | magazine=Compute's Gazette | date=December 1987 | access-date=24 January 2015 | last=Ferrell |first=Keith | pages=18–22}}</ref>  Reviewers complimented it for its excellent graphics (on some versions) and the opening music available in some game versions. The game itself–story and parser–got mostly positive reviews.
+
+* In the October 1986 edition of ''[[Compute!]]'', Neil Randall described ''The Pawn'' as "parod[ying] the entire genre of interactive fiction, showing us that much of it — even the serious stuff — has its shortcomings", giving as example a character campaigning to eliminate mazes in text adventures. Randall commented that some of the Atari ST version's graphics were "superb" but wished that the pictures contributed to solving the game instead of being optional. He concluded that "Firebird has given us a good adventure, one that bodes well for the company and for all of us adventurers".<ref name="randall198610">{{cite news | url=https://archive.org/stream/1986-10-compute-magazine/Compute_Issue_077_1986_Oct#page/n61/mode/2up | title=The Pawn For Atari ST | work=Compute! | date=October 1986 | access-date=9 November 2013 | author=Randall, Neil | pages=60}}</ref> 
+* In the December 1986 edition of ''[[Computer Gaming World]]'', Roy Wagner stated that ''The Pawn'' "shows how well something can be done for the Amiga when one KNOWS the machine".<ref name="wagner198612">{{cite magazine | title=Amiga Preferences | magazine=Computer Gaming World | date=December 1986 | access-date=1 November 2013 | last=Wagner |first=Roy | issue=33 | pages=45 | url=http://www.cgwmuseum.org/galleries/index.php?year=1986&pub=2&id=33}}</ref> Roy Wagner reviewed the game for ''Computer Gaming World'', and stated that "Both humor and challenge are present here, two of the key elements of any good adventure (along with an excellent parser and outstanding presentation)."<ref name="CGW34">{{cite magazine |last=Wagner |first=Roy |title=Amiga Preferences |magazine=Computer Gaming World |date=January–February 1987 |volume=1 |issue=34 |pages=42, 55 |url=https://archive.org/details/Computer_Gaming_World_Issue_34/page/n41/mode/1up }}</ref>
+* In the January–February 1987 edition of ''[[.info (magazine)|Info]]'', Benn Dunnington gave the Amiga version four-plus stars out of five, praising the "excellent graphics" and [[text parser]]. Dunnington concluded, "The Pawn's story is good, the characters are interesting, and the play is entertaining".<ref name="info198701amiga">{{Cite magazine |last1=Dunnington |first1=Benn |last2=Brown |first2=Mark R. |last3=Malcolm |first3=Tom |date=January–February 1987 |title=Amiga Gallery |url=https://archive.org/stream/info-magazine-13/Info_Issue_13_1987_Jan-Feb#page/n89/mode/2up |magazine=Info |pages=90–95}}</ref> 
+* In the July 1987 edition of ''Commodore Magazine'', Shay Adams thought the game's sophisticated parser "handily parses circles around every American counterpart  except Infocom's - and it's not far behind that one." Adams was highly impressed by the game plot as well, saying, "The Pawn also delivers well-honed prose, vivid graphics, innovative visual effects, and dozens of puzzles - some diabolically difficult, others deceptively simple - in an imaginative story." He concluded with a strong recommendation: "Technically and creatively, this is England's all-time best adventure game. For advanced players, ''The Pawn'' is a must whether you prefer text or graphic adventures."<ref name=cm>{{cite magazine | last =Adams | first =Shay | title =The Pawn: England's Finest Hour | magazine =Commodore Magazine | volume =8 | issue =7 | pages =47 | date =June 1987 | url =https://archive.org/details/07-commodore-magazine/page/n47/mode/2up | access-date = 2020-05-26}}
+</ref>
+
+Two reviews of the game appeared in ''[[Dragon (magazine)|Dragon]]'':
+*In the October 1986 edition, Hartley and Pattie Lesser stated that the Atari ST version's "'painted' scenes will leave you in awe". They also praised the "sophisticated language parser" and thought "the intriguing plot" would be "extremely appealing to all gamers."<ref name="Dragon114">{{cite magazine|last1=Lesser|first1=Hartley|last2=Lesser|first2=Pattie|date=October 1986|title=The Role of Computers|url=https://archive.org/stream/DragonMagazine260_201801/DragonMagazine114#page/n73/mode/2up|magazine=[[Dragon (magazine)|Dragon]]|issue=114|pages=72–76}}</ref>
+*In the June 1988 edition, Hartley, Patricia, and Kirk Lesser reviewed the IBM PC and PC compatible version, commenting that since their previous review ''The Pawn'' "is steadily pushing toward the status of becoming a classic adventure." The Lessers thought highly of the game, saying, "The Pawn is not only great for experienced adventurers, but because of the interactivity of the scenario’s characters, it also enables novice gamers to learn as they progress through the land of Kerovnia. This is certainly one offering that any computer-game library should contain." They gave the game an above average rating of 4 out of 5 stars if played on an IBM PC or compatible equipped with an [[Enhanced Graphics Adapter]] EGA board, but only 2½ stars for systems without an EGA board.<ref name="Dragon134">{{cite magazine|last1=Lesser|first1=Hartley|last2=Lesser|first2=Patricia|last3=Lesser|first3=Kirk|date=June 1988|title=The Role of Computers|url=https://archive.org/stream/DragonMagazine260_201801/DragonMagazine134#page/n81/mode/2up|magazine=Dragon|issue=134|pages=80–86}}</ref>
+
+===Awards===
+In 1988, readers of ''[[Crash (magazine)|Crash]]'' voted ''The Pawn'' "Best Adventure Game of the Year".<ref name="crash51">{{cite magazine | title=The 1987 CRASH Readers' Awards | publisher=[[Newsfield Publications]] | magazine=[[crash (magazine)|CRASH]] | date= April 1988 | issue=51 | pages=57–58 | url=https://archive.org/stream/Crash_No._51_1988-04_Newsfield_GB#page/n56/mode/1up }} [http://www.crashonline.org.uk/51/awards.htm Alt URL]</ref>
+
+It was also "Best Adventure Game of the Year" at the 1987 [[Golden Joystick Awards]].<ref>{{cite magazine|title=Golden Joystick Awards|magazine=[[Computer and Video Games]]|date=April 1987|issue=66|url=https://archive.org/stream/Computer_Video_Games_Issue_066_1987-04_EMAP_Publishing_GB/Computer__Video_Games_Issue_066_1987-04_EMAP_Publishing_GB#page/n99/mode/2up|access-date=13 January 2012|page=101|publisher=[[Future Publishing]]}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IFDB|id=a3ege93gjofe5q0m}}
+
+{{Magnetic Scrolls adventure games}}
+{{Authority control}}
+{{DEFAULTSORT:Pawn, The}}
+[[Category:1980s interactive fiction]]
+[[Category:1985 video games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:Magnetic Scrolls games]]
+[[Category:Single-player video games]]
+[[Category:Telecomsoft games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Sinclair QL games]]

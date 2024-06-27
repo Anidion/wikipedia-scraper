@@ -1,0 +1,69 @@
+Kick (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Kick_%28video_game%29&oldid=1224077936
+Accessed on: 2024-06-26T16:52:22.653674
+
+
+
+------
+Kick (video game)
+{{short description|1981 video game}}
+{{Infobox video game
+|title=Kick / Kick Man
+|image=Kickman cover.jpg
+|caption=The C64 port uses an alternate spelling.
+|developer=[[Midway Games|Midway]]
+|publisher=[[Midway Games|Midway]] (Arcade)<br>[[Commodore International|Commodore]] (C64)
+|designer=John Pasierb
+|composer=Earl Vickers
+|released={{Vgrelease|NA|December 1981}}1982: C64
+|genre=[[Action game|Action]]
+|modes= [[Single-player video game|Single-player]]
+|platforms=[[Arcade video game|Arcade]], [[Commodore 64]]
+|arcade system=Midway MCR-I<ref>{{Citation|last=Old Classic Retro Gaming|title=Arcade Game: Kick (1981 Midway)|date=2014-12-07|url=https://www.youtube.com/watch?v=uBbIRGcQXOc |archive-url=https://ghostarchive.org/varchive/youtube/20211214/uBbIRGcQXOc |archive-date=2021-12-14 |url-status=live|access-date=2016-11-02}}{{cbignore}}</ref>
+}}
+
+'''''Kick''''' is an action [[video game]] where the player controls a clown on a unicycle catching falling balloons and ''[[Pac-Man]]'' characters on the clown's hat. It was released in arcades by [[Midway Games|Midway]] in 1981. The game was later renamed '''''Kick Man''''' (sometimes written as '''''Kick-Man'''''). Commodore published a [[Commodore 64]] port in 1982 without the space in the title as '''''Kickman'''''.<ref>{{lemon64 game|id=2992}}</ref>
+
+== Gameplay ==
+The player controls a clown on a unicycle who moves left and right along the bottom of the screen. Balloons dislodge from several rows at the top and fall. The goal is to catch them on the clown's hat. As the stack of caught balloons grows taller, it becomes more difficult to catch them on the first try. If a balloon falls below the top of the stack, pressing the "kick" button when near the clown's feet launches it back into the air. The main character and ghosts from ''Pac-Man'' sometimes stand-in for balloons, having different effects. If an object hits the ground, then the player loses a life.
+
+''Kick'' also has a [[bonus stage]].<ref>{{cite web |url=http://www.arcade-museum.com/game_detail.php?game_id=8298 |title=Kick-Man |work=Museum of the Game®}}</ref>
+
+== Development ==
+
+The development of ''Kick'' was described in a 1982 ''[[Time (magazine)|Time]]'' magazine article. The game started out as a 1978 black-and-white prototype called ''Catch 40'', where a little man ran back and forth trying to catch falling objects on his head. However, early tests showed that the game grew too difficult too quickly, as the objects fell faster than the player could catch them. The game then went through a period of stagnation. 
+
+Eventually, the little man character was redesigned as a clown on a unicycle. Hank Ross, one of Midway's founders, introduced a mechanic where the clown could kick missed balloons back into the air. The stages were also differentiated: on the first rack, the clown could pop balloons with a spike on his hat, whereas on subsequent levels, balloons would accumulate on his head, reducing the distance they needed to fall and increasing the game's speed. Additionally, hazardous objects thrown at the player character were added: these were initially anvils, but as the idea of thrown anvils was deemed unrealistic, they were replaced with bombs. According to the ''Time'' article, in later stages the balloons would be replaced by other falling objects such as flowers, hats and beach balls (however, these objects do not actually appear in the final game). At Hank Ross's suggestion, the characters from ''Pac-Man'' were added as collectable objects in the game, to give ''Kick'' a memorable quirk. 
+
+A sneak preview at a local arcade indicated that the game took too long to play and did not generate sufficient revenue. To remedy this, the development team slightly increased the fall speed of the balloons.<ref>{{cite magazine | magazine=Time|date=1982-01-18|department=Living|title=Beating the Game Game |url=https://content.time.com/time/subscriber/article/0,33009,949467,00.html}}</ref>
+
+== Ports ==
+In 1982, an [[Atari 2600]] version of the game was commissioned by Midway as part of a planned attempt at entering the home video game market. Ultimately deciding against it, Midway sold the port to [[CBS Electronics]], where, despite being nearly complete, it was cancelled for unknown reasons. In 2019, a prototype cartridge was discovered and the ROM was released online.<ref>{{cite web| url = http://www.atariprotos.com/2600/software/kickman/kickman.htm| title = Kickman| publisher = AtariProtos}}</ref>
+
+==Reception==
+''[[Electronic Games]]'' wrote in 1983 that the game had been unsuccessful despite "top-notch background graphics and special sounds for effects. Can you imagine a game featuring Pac-Man that ''didn't'' make it? ''Kick Man'' is it."<ref name="pearl198306">{{cite news | url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n79/mode/2up | title=Closet Classics | work=Electronic Games | date=June 1983 | access-date=6 January 2015 | author=Pearl, Rick | pages=82}}</ref> The Commodore 64 version was somewhat better received, gaining a Certificate of Merit in the category of "1984 Best Arcade-to-Home Video Game/Computer Game Translation" at the 5th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|29}}
+
+==Legacy==
+Utopia Software published a clone called ''Pinhead'' for the Atari 8-bit family in 1982.<ref>{{cite web |title=Atari 800 800 XL XE Pinhead |url=http://www.atarimania.com/game-atari-400-800-xl-xe-pinhead_3971.html |website=Atari Mania}}</ref>
+
+==References==
+{{Reflist}}
+*{{cite magazine |title=Living: Beating the Game Game |magazine=[[Time (magazine)|Time]] |date=January 18, 1982 |volume=119 |number=3 |url=http://content.time.com/time/magazine/article/0,9171,949467,00.html |url-access=subscription}}
+
+==External links==
+*{{KLOV game|id=8294|name=Kick}}
+
+{{Pac-Man series}}
+
+{{DEFAULTSORT:Kick (Arcade Game)}}
+[[Category:1981 video games]]
+[[Category:Action games]]
+[[Category:Arcade video games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Commodore 64 games]]
+[[Category:Midway video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Trackball video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games about clowns]]
+[[Category:Single-player video games]]

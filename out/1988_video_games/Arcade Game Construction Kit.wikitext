@@ -1,0 +1,49 @@
+Arcade Game Construction Kit
+Permalink: //en.wikipedia.org/w/index.php?title=Arcade_Game_Construction_Kit&oldid=1228921362
+Accessed on: 2024-06-26T17:03:41.017378
+
+
+
+------
+Arcade Game Construction Kit
+{{Short description|1988 game creation system}}
+{{Refimprove|date=December 2009}}
+{{Infobox video game
+| title          = Arcade Game Construction Kit
+| image          = adv-game-con-kit-box.png
+| caption        = 
+| developer      = Livesay Technologies
+| publisher      = [[Broderbund]]
+| designer       = Mike Livesay
+| platforms      = [[Commodore 64]]
+| release        = 1988
+| genre           = [[Game creation system]]
+}}
+
+'''''Arcade Game Construction Kit''''' is a 1988 [[game creation system]] for making [[action game|action video games]].<ref>{{lemon64 game|id=3795|title=Arcade Game Construction Kit}}</ref><ref>{{cite web |title=Arcade Game Construction Kit (AGCK) |website=GB64.com |url=http://www.gamebase64.com/game.php?id=363&d=45}}</ref> It was developed by Mike Livesay and published by [[Broderbund]] for the [[Commodore 64]] on four [[floppy disk]]s. The program uses a [[joystick]]-driven menu system and includes six pre-made games to learn from and play.
+
+==Included games==
+{{Unreferenced|section|date=December 2018}}
+
+*''AGCK TUTORIAL GAME -- ''This is a simple variation on classic arcade shooters such as ''[[Galaxian]]''.
+*''KANGARANG ''(designed by Gregory Hammond) -- The player is a kangaroo mother looking to rescue its baby and return to safety. Hazards include falling boulders, jumping fish, monkeys and natives.
+*''ISLE QUEST'' (designed by Greg Johnson and Paul Reiche III) -- The player is a brave explorer in search of new lands and riches.  Hazards include pirate ships, hostile natives.
+*''MUSASHI ''(designed by Greg Johnson and Paul Reiche III) -- The player is an ancient samurai warrior looking to rescue his princess. The player must fight  through a fortress, collecting gold, sushi, and the mighty Sword of the Samurai.
+*''GERG'S ADVENTURE''  (designed by Gregory Hammond) -- The player is Gerg, a tiny creature who wants to get back to his home. Gerg must pick up a variety of orbs to power up, and to clear each level.
+*''SPACE WORRIES'' (designed by Paul Reiche III and Greg Johnson) -- The player controls a space ship, looking to collect mysterious metallic cylinders to destroy an enemy that has taken control of your planet.
+
+== See also ==
+* ''[[The Arcade Machine]]''
+* ''[[Garry Kitchen's GameMaker]]''
+* ''[[Shoot'Em-Up Construction Kit]]''
+
+== References ==
+{{Reflist}}
+
+[[Category:1988 video games]]
+[[Category:Broderbund games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Video game engines]]
+[[Category:Video game development software]]
+[[Category:Video games developed in the United States]]

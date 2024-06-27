@@ -1,0 +1,71 @@
+Midway Campaign
+Permalink: //en.wikipedia.org/w/index.php?title=Midway_Campaign&oldid=1229296077
+Accessed on: 2024-06-26T16:51:43.403791
+
+
+
+------
+Midway Campaign
+{{Short description|1980 video game}}
+{{Infobox video game
+| title = Midway Campaign
+| image = Midway Campaign (Cover).jpg
+| developer = [[Avalon Hill]]
+| publisher = Microcomputer Games
+| designer = 
+| engine = 
+| released = 1980
+| genre = [[Computer wargame]]
+| modes = [[Single-player]]
+| platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[Commodore PET]], [[TRS-80]], [[VIC-20]], [[MS-DOS]]
+}}
+
+'''''Midway Campaign''''' is a [[computer wargame]] released by [[Avalon Hill]] in 1980. It is a [[text-based game]] written in [[BASIC]].
+
+==Gameplay==
+The game reenacts the events between June 4 and June 7, 1942, during the [[Battle of Midway]], which was the turning point for Allied Forces in the Pacific Theater. 
+
+Gameplay is turn-based with each turn representing one hour of the battle. Players control Task Force 16, comprising the [[USS Enterprise (CV-6)|Enterprise]] and [[USS Hornet (CV-8)|Hornet]] aircraft carriers, and Task Force 17 comprising [[USS Yorktown (CV-5)|Yorktown]], and [[Midway Island]]. 
+
+Each task force may be moved on a map in any direction by providing a direction in degrees. During each turn [[Consolidated PBY Catalina|Consolidated PBY Catalinas]] scout out the location of the enemy task force comprising [[Japanese aircraft carrier Akagi|Akagi]], [[Japanese aircraft carrier Kaga|Kaga]], [[Japanese aircraft carrier Sōryū|Soryu]], and [[Japanese aircraft carrier Hiryū|Hiryu]].
+
+Once a Task Force has been identified and are within range a strike group may be launched from neighboring ships. Planes are generally in three conditions throughout the game. They can be below deck (protected from enemy strikes), on deck arming for a strike, or in the air moving towards or away from a target. Fighters ([[F4F Wildcat]]s or [[A6M Zero]] 'Zekes') can also be established in a combat air patrol (CAP) to protect their carrier.
+
+The game ends when either sides carriers are all lost, or if one of the task forces leave the map.
+
+==Reception==
+Glenn Mai reviewed ''Midway Campaign'' in ''[[The Space Gamer]]'' No. 45.<ref name="SG">{{cite journal|last= Mai |first= Glenn |date=November 1981 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=45|pages=34–35}}</ref> Mai commented that "Overall this is a very good game, and I highly recommend it for anyone who likes matching wits with the computer."<ref name="SG"/>
+
+==Reviews==
+*''[[PC Magazine]]'' (Dec, 1982)<ref>{{Cite web|url=https://archive.org/details/PC-Mag-1982-12/page/n115/mode/2up|title = PC Mag 1982-12|date = December 1982}}</ref>
+*''[[Moves (magazine)|Moves]]'' #56, p26<ref>{{cite web|url=https://strategyandtacticspress.com/library-files/Moves%20Issue56.pdf|title=Moves Issue 56|website=strategyandtacticspress.com|access-date=19 September 2023}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MobyGames|id=/midway-campaign}}
+*[https://archive.org/details/80-microcomputing-magazine-1981-06/page/n29/mode/2up Review] in ''[[80 Micro]]''
+
+{{Avalon Hill}}
+
+[[Category:1980 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Avalon Hill video games]]
+[[Category:BASIC software]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore PET games]]
+[[Category:DOS games]]
+[[Category:FM-7 games]]
+[[Category:Games about the Battle of Midway]]
+[[Category:Single-player video games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:TRS-80 games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the 1940s]]
+[[Category:Video games set in the United States]]
+
+
+{{videogame-stub}}

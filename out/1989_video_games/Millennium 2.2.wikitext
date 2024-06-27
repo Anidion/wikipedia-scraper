@@ -1,0 +1,71 @@
+Millennium 2.2
+Permalink: //en.wikipedia.org/w/index.php?title=Millennium_2.2&oldid=1187857378
+Accessed on: 2024-06-26T17:06:52.725214
+
+
+
+------
+Millennium 2.2
+{{Short description|1989 video game}}
+{{Infobox video game
+|title = Millennium 2.2
+|image = Millennium 2.2 cover.jpg
+|caption = 
+|developer = Ian Bird
+|publisher = Electric Dreams
+|designer = [[Ian Bird (software developer)|Ian Bird]]
+|series = 
+|engine = 
+|released = 1989
+|genre = [[Strategy]]
+|modes = [[Single player]]
+|platforms = [[Amiga]], [[Atari ST]], [[MS-DOS]]
+|alt = 
+}}
+'''''Millennium 2.2''''' is a [[resource management]] [[computer game]] by [[Ian Bird (software developer)|Ian Bird]], released in 1989 for [[Atari ST]], [[Amiga]] and [[MS-DOS]]. The MS-DOS version of the game was released as ''Millennium: Return to Earth''. It is the forerunner to Bird's ''[[Deuteros]]'', which is in a similar resource management game but many times larger and more difficult.
+
+==Gameplay==
+[[Image:Millennium 2.2 Title screenshot.png|thumb|250px|Title screen]]
+In the game, [[World population|humanity]] has [[Space colonization|colonized]] the [[Moon]] and [[Mars]]. However, a 20 trillion ton [[asteroid]] has collided with [[Earth]], making it uninhabitable. All that is left of humanity is a small, self-sufficient colony on the surface of the [[Moon]], and a race of mutant humans on Mars. As the commander of Moonbase, it is your job to ensure the survival of mankind by exploring the [[Solar System]] for other habitable planets and moons, and ultimately re-establish life on Earth. However, the [[Martian]] mutants consider themselves the superior race and want Earth for themselves, meaning a war is inevitable.
+
+The core of the game is spent in resource management and researching new technologies for space ships and base improvements. At first it is possible only to [[asteroid mining|mine asteroids]] before a suitable planetary colony can be discovered and established. A typical game involves manufacturing probes, maintain defenses to fend off the Martian attacks, managing each colony's solar power energy generation, mining for resources on various planets and their moons and control the traffic to and from the Moon. Out of fifteen ingame resources, only silver, uranium, and chromium cannot be obtained by mining the Moon or Asteroid Belt.
+
+The only break from the resource management simulation comes when the player is under attack by Martians. Combat is represented with a space ship fighting mini-game with basic [[3D computer graphics|3D]] graphics. Initially the game is a [[wikt:race against time|race against time]] as each attack is heavier than the previous. The player eventually must find the necessary technology to attack Mars to make the attacks cease, establish a base there, and while there discover the [[Terraforming|terraform]]ing technology.
+
+The player needs to balance manufacturing output with the available solar power, and many minerals are only available from certain planets or asteroids. Depending on planetary orbits, colony ships and probes can take longer to reach their destinations. As time progresses, colonists will adapt to different atmospheres, and after Earth is terraformed, secede from the player's control (this event will also strand any of player's ships that may be docked on those planets).
+
+In the PC version, resources are largely randomized for different planets, as is atmosphere determining if mutations occur, with notable exceptions of Earth, Mars and Moon.
+
+== Reception ==
+{{Video game reviews
+| rev1 = ''Zzap!''
+| rev1Score = 90%<ref name="zzapreview"/>
+|rev2=''Games International''|rev2Score=4/5}}
+In the July 1989 edition of ''[[Zzap!64|Zzap!]]'', Robin Hogg called this "an exceptionally compelling game." He did think the game could be completed relatively easily in about 20 hours, but nevertheless found it addictive. He concluded, "A little slow to start with, ''Millennium'' quickly becomes engrossing with interesting problems all the way and is easily the best looking strategy cum adventure game for a long while."<ref name="zzapreview">Millennium 2.2 in ''Zzap!'' issue 51, July 1989, p. 71, ISSN 0954-867X [http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=51&page=071&magazine=zzap here]</ref>
+
+In the September–October 1989 edition of ''[[Games International]]'' (Issue #9), Kevin Warne called this "an incredibly addictive game." He gave both the game and its graphics above average ratings of 4 out of 5, saying, "It remains, after ''[[Dungeon Master (video game)|Dungeon Master]]'', the best game I've purchased in a long stretch, and I thoroughly recommend it."<ref name=gi>{{cite magazine|last=Warne|first=Kevin| date=August 1989 |title=Computer Games|journal=[[Games International]]| issue=9|pages=52}}</ref>
+
+[[Alan Emrich]] reviewed the game for ''[[Computer Gaming World]]'', and stated that "Of course, some people also find golf to be a boring sport, because the same thing must be done by an individual over and over again. Still, like golf, this reviewer went back for several "rounds" of play in an effort to improve his score (read: efficiency). Call me a cad(dy), but when Alan Shepard hit the first golf ball on the moon, he was prescient in forecasting the game of Millennium. Fore!"<ref name="CGW93">{{cite magazine |last=Emrich |first=Alan |authorlink=Alan Emrich |title=Give or Take a Thousand Years: A Review of Millennium |magazine=Computer Gaming World |date=April 1992 |volume=1 |issue=93 |pages=64, 66}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/millennium-return-to-earth-|name=''Millennium 2.2''}}
+*[http://oscomp.hu/?details/Millennium_2.2_res._Amiga_112 The planet's resource table (contains the amounts for each mineral and each planet)]
+
+{{Authority control}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:Fiction about impact events]]
+[[Category:Fiction about main-belt asteroids]]
+[[Category:Strategy video games]]
+[[Category:Video games scored by David Whittaker]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set on Mars]]
+[[Category:Video games set on the Moon]]
+[[Category:Single-player video games]]
+[[Category:Electric Dreams Software games]]

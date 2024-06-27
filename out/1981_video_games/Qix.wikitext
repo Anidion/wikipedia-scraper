@@ -1,0 +1,145 @@
+Qix
+Permalink: //en.wikipedia.org/w/index.php?title=Qix&oldid=1224118066
+Accessed on: 2024-06-26T16:52:30.047929
+
+
+
+------
+Qix
+{{Short description|1981 video game}}
+{{Infobox video game
+| title = Qix
+| image = Qix Poster.png
+| caption = North American arcade flyer
+| developer = [[Taito|Taito America]]
+| publisher = Taito<br>[[Atari, Inc.]] (Atari 8-bit, 5200)<br>[[Atari Corporation]] (Lynx)<br>[[Nintendo]] (Game Boy)
+| designer = Randy Pfeiffer<br>Sandy Pfeiffer
+| platforms = [[Arcade video game|Arcade]], [[Amiga]], [[Apple II]], [[Apple IIGS]], [[Atari 8-bit]], [[Atari 5200]], [[Atari Lynx|Lynx]], [[Commodore 64]], [[MS-DOS]], [[FM-7]], [[Game Boy]], [[Nintendo Entertainment System|NES]], [[Mobile phone]]
+| released = {{vgrelease|NA|October 1981|JP|November 1981<ref>{{cite web |title=クイックスアップライト筺体版 |trans-title=Qix upright cabinet version |url=https://mediaarts-db.bunka.go.jp/id/M731810 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |language=ja|access-date=26 May 2021}}</ref><ref>{{cite web |title=クイックス TT テーブル筺体版 |trans-title=Qix TT table cabinet version |url=https://mediaarts-db.bunka.go.jp/id/M731811 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |language=ja|access-date=26 May 2021}}</ref>|UK|November 1981|AU|January 1982}}
+| genre = [[Puzzle video game|Puzzle]]
+| series = ''Qix''
+| modes = 1-2 players alternating turns
+}}
+
+{{nihongo foot|'''''Qix'''''|クイックス|Kuikkusu|lead=yes|group=lower-alpha}} ({{IPAc-en|'|k|I|k|s}} {{Respell|KIKS}}{{efn|As seen on the North American promotional flyer.<ref name="Flyer">{{cite book |title=Qix North American promotional flyer |date=October 1981 |publisher=[[Taito|Taito America Corporation]] |location=United States of America |url=https://flyers.arcade-museum.com/?page=flyer&db=videodb&id=837&image=1 |access-date=3 June 2020 |archive-url=https://web.archive.org/web/20190325041316/https://flyers.arcade-museum.com/?page=flyer&db=videodb&id=837&image=1 |archive-date=25 March 2019}}</ref>}}) is a 1981 [[puzzle video game]] developed by husband and wife team Randy and Sandy Pfeiffer and published in arcades by [[Taito|Taito America]]. ''Qix'' is one of a handful of games made by [[Taito]]'s American division (another is ''[[Zoo Keeper (1982 video game)|Zoo Keeper]]'').<ref>{{Cite web|title=MobyGames: Game Browser: Games Developed By: Taito America Corporation|url=https://www.mobygames.com/browse/games/taito-america-corporation/developed-by/|access-date=2020-09-09|website=MobyGames|archive-date=2021-10-31|archive-url=https://web.archive.org/web/20211031043840/https://www.mobygames.com/browse/games/taito-america-corporation/developed-by/|url-status=dead}}</ref> At the start of each level, the playing field is a large, empty rectangle, containing the ''Qix'', an abstract stick-like entity that performs graceful but unpredictable motions within the confines of the rectangle. The objective is to draw lines that close off parts of the rectangle to fill in a set amount of the playfield.
+
+''Qix'' was ported to the contemporary [[Atari 5200]] (1982), [[Atari 8-bit computers]] (1983),<ref>[https://books.google.com/books?id=ti8EAAAAMBAJ&dq=qix+Taito+America+Corporation&pg=PA23 I Break for Arcadians: Good news, bad news - new games, joystick reviewed: Qix], By Joaquin Boaz, InfoWorld, 8 Aug 1983, Page 23</ref> and [[Commodore 64]] (1983), then was brought to a wide variety of systems in the late 1980s and early 1990s: [[MS-DOS]] (1989), [[Amiga]] (1989), another version for the C64 (1989), [[Apple IIGS]] (1990), [[Game Boy]] (1990), [[Nintendo Entertainment System]] (1991), and [[Atari Lynx]] (1991).
+
+Multiple home and arcade sequels followed and the concept was widely cloned. In the ''Gals Panic'' series from [[Kaneko]], each captured area is not filled with a color, but reveals part of an image of a woman.
+
+==Gameplay==
+[[File:Qixingame.png|thumb|left|57% of the screen captured, mostly with Fast Draw (blue). The Qix is just below the center, and the player's marker above and to the left. One Sparx is directly below the marker, another above on the right side of the map.]]
+
+Controls consist of a four-direction [[joystick]] and two buttons: "Slow Draw" and "Fast Draw".
+
+The player controls a diamond-shaped marker that initially moves along the edges of the playfield. Holding down one of the draw buttons allows the marker to draw a line (''Stix'') in unclaimed territory in an attempt to create a closed shape. Once an area is captured, it is filled with color and points are awarded based on the area claimed and drawing speed. Areas captured entirely with Slow Draw (orange-red in the screenshot) are worth double. The titular ''Qix'' is a colorful geometric figure in constant and random motion. The Qix will not actively seek out the marker, and it will not harm the marker if it collides with it while the marker is traversing the edge of the playfield or of any captured area. However, if the Qix collides with the marker as it is drawing a Stix before a new area is captured (or it touches the exposed Stix), one life is lost.
+
+The marker cannot cross or backtrack along the line being drawn. If the marker stops while drawing, a fuse appears and burns along the line toward the marker; if it reaches the marker, the player loses one life. The fuse disappears once the marker is moved. If the player draws into a position where it cannot proceed any further, the fuse is triggered. The [[attract mode]] calls this a "Spiral Death Trap".
+
+''Sparx'' are enemies that traverse all playfield edges except unfinished Stix. A life is lost if one hits the marker. A meter at the top of the screen counts down to the release of additional Sparx and the mutation of all Sparx into Super Sparx, which can chase the marker along uncompleted Stix.
+
+To complete a level, the player must claim a 75% percentage of the playfield (adjustable to be between 50% and 90%). If a level is completed by exceeding the minimum area percentage, a bonus is awarded for every 1% beyond the threshold.
+
+Starting in level three, the player faces two Qixes. Splitting the playfield into two regions, each containing one Qix, ends the level. No immediate bonus is awarded for this, but a bonus multiplier is applied to the scoring in all subsequent levels. This multiplier starts at one before the first time that the Qix are split and increases by one for every additional splitting of the Qix, to a maximum of nine. Levels also add additional Sparx and the eventual appearance of only Super Sparx.
+
+==Reception==
+{{Video game reviews
+| Allgame = {{rating|4|5}}<ref name="Allgame">{{cite web |last1=Alan Weiss |first1=Brett |title=Qix - Review |url=http://www.allgame.com/game.php?id=435&tab=review |website=[[AllGame]] |publisher=All Media |access-date=3 June 2020 |archive-url=https://web.archive.org/web/20141115035054/http://www.allgame.com/game.php?id=435&tab=review |archive-date=15 November 2014 |date=1998}}</ref>
+| rev1 = ''Electronic Fun''
+| rev1Score = {{rating|4|4}}<ref name="EFun">{{cite news |last1=Michael Brown |first1=William |title=Qix - Atari/Atari 5200 |url=https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_08_1983-06_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_08_1983-06_Fun__Games_Publishing_US#page/n53/mode/2up |access-date=3 June 2020 |agency=Electronic Fun with Computer & Games |issue=8 |publisher=Fun & Games Publishing |date=June 1983 |volume=1 |page=55}}</ref>
+}}
+
+Upon release, ''Qix'' was a commercial hit. In 1983, ''[[Electronic Games]]'' reported that the game exceeded Taito's expectations, quickly rising to being one of the most popular titles of the year. The magazine attributes the game's success to it being unlike any other game at the time, specifically for its unique premise and gameplay mechanics. A year after its debut, its popularity declined and the game became largely forgotten. Keith Egging, Taito's "Director of Creativity",<ref>{{cite web |website=Giant List of Classic Game Programmers |title=The Story of Zoo Keeper |first= John |last= Morgan |date=1 January 2001 |url=https://dadgum.com/giantlist/archive/zookeeper.html}}</ref> told ''Electronic Games'': "''Qix'' was conceptually too mystifying for gamers. [...] It was impossible to master and once the novelty wore off, the game faded".<ref name="pearl198306">{{cite news |url=https://archive.org/details/Electronic_Games_Volume_01_Number_16_1983-06_Reese_Communications_US/page/n81 |title=Closet Classics |work=Electronic Games |date=June 1983 |access-date=2015-01-06 |author=Pearl, Rick |pages=82}}</ref> In Japan, it was the fifth highest-grossing [[1981 in video games|arcade game of 1981]].<ref>{{cite magazine|title="Donkey Kong" No.1 Of '81 — ''Game Machine's Survey Of "The Year's Best Three AM Machines"'' —|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=182|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1982|page=30|url=https://onitama.tv/gamemachine/pdf/19820215p.pdf#page=16}}</ref> The game has since been dubbed a [[sleeper hit]].<ref name="Video"/>
+
+''Qix'' and its home conversions have received largely positive reviews. The game was praised for its original concept and ideas, and has been described as a [[cult video game|cultural phenomenon]].<ref name="Video">{{cite journal |last1=Kunkel |first1=Bill |author-link1=Bill Kunkel (journalist) |last2=Katz |first2=Arnie |date=November 1983 |title=Arcade Alley: Wintertime Winners |journal=Video |publisher=Reese Communications |volume=7 |issue=8 |pages=38–39 |issn=0147-8907}}</ref> ''[[Video (magazine)|Video]]'', who reviewed the [[Atari 5200]] release, applauded its gameplay and bizarre yet interesting premise. They reported similar reactions from players, who enjoyed its mechanics and gameplay.<ref name="Video"/> ''Video'' staff described the game as being a "[[cult video game|cult phenomenon]] loved by a few and ignored by" more hardcore gamers. The home computer versions of ''Qix'' were praised by Russel Sipe of ''[[Computer Gaming World]]'' for its fascinating gameplay and for welcoming newcomers.<ref name="sipe198911">{{cite news |title=What Do You Do For Qix |magazine=Computer Gaming World |date=October 1989 |author=Sipe, Russell |pages=39 | issue=64}}</ref> In ''How to Beat the Video Games'' Michael Blanchet said that '''Qix'' is probably the most complicated video game to emerge in years, yet its simplicity is beautiful. I think of it as electronic real estate. [...] ''Qix'' is a state of the art "[[Etch A Sketch|Etch a Sketch]]."'<ref name="blanchet_1982">{{cite book
+ |last=Blanchet
+ |first=Michael
+ |author-link=
+ |date=1982
+ |title=How to Beat the Video Games
+ |location=New York
+ |publisher=Simon and Schuster
+ |pages=54–60
+ |isbn=0671453750
+ |quote=''Qix'' is probably the most complicated video game to emerge in years, yet its simplicity is beautiful. I think of it as electronic real estate. It may remind some of you of the old "connect the dots and claim the squares" game. ''Qix'' is a state of the art "Etch a Sketch."
+ |quote-page=54
+}}</ref>
+
+Retrospective coverage of ''Qix'' has also been positive. ''[[AllGame]]''{{'}}s Brett Alan Weiss commended ''Qix'' for its addictive gameplay, technological accomplishments, and responsive controls. While he believed the graphics and sound effects were overly simplistic and crude, he said the game as a whole is "abstract minimalism at its videogame best".<ref name="Allgame"/> ''[[Retro Gamer]]'' staff enjoyed ''Qix'' particularly for its addictive nature. They also compared its concept to that of the Etch A Sketch, a toy that allowed its user to draw straight lines across a small screen. The staff believed the game's simplicity was also one of its strong points, alongside its sound effects for being satisfying to hear.<ref name="RGamer">{{cite web |author1=Retro Gamer Staff |title=Qix |url=https://www.retrogamer.net/retro_games80/qix-2/ |website=[[Retro Gamer]] |publisher=[[Imagine Publishing]] |access-date=3 June 2020 |archive-url=https://web.archive.org/web/20200603171828/https://www.retrogamer.net/retro_games80/wonder-boy/ |archive-date=3 June 2020 |date=2 July 2009}}</ref>
+
+=== Accolades ===
+At the 5th annual [[Arkie Awards]] in 1984, ''Qix'' received the Certificate of Merit in the category of "1984 Best Videogame Audio-Visual Effects (16K or more ROM)".<ref>{{cite journal |last1=Kunkel |first1=Bill |author-link1=Bill Kunkel (journalist) |last2=Katz |first2=Arnie |date=January 1984 |title=Arcade Alley: The Arcade Awards, Part 1 |journal=Video |publisher=Reese Communications |volume=7 |issue=10 |pages=40–42 |issn=0147-8907}}</ref> In 1995, [[Flux (magazine)|Flux]] magazine ranked the game 94th on their "Top 100 Video Games."<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n31/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=32}}</ref> In 1997, the staff at ''[[Electronic Gaming Monthly]]'' listed the Nintendo Entertainment System version at #100 on their "100 Best Games of All Time" for its risk-versus-reward system and scoring.<ref>{{cite magazine |date=November 1997 |title=100 Best Games of All Time |magazine=[[Electronic Gaming Monthly]] |publisher=[[Ziff Davis]] |issue=100 |page=102}} Note: Contrary to the title, the intro to the article explicitly states that the list covers console video games only, meaning PC games and arcade games were not eligible.</ref> The [[Killer List of Videogames]] listed it as #27 in their "Top 100 Video Games" list.<ref>{{cite web |last1=McLemore |first1=Greg |last2=Staff |first2=KLOV |title=The Top Coin-Operated Videogames of All Time |url=https://www.arcade-museum.com/TOP100.php |website=[[Killer List of Videogames]] |access-date=14 July 2019 |archive-url=https://web.archive.org/web/20190531011708/https://www.arcade-museum.com/TOP100.php |archive-date=31 May 2019 |date=2010}}</ref>
+
+==Legacy==
+===Sequels===
+''Qix II: Tournament'' (1982) is a version of the original ''Qix'' with a new color scheme and which awards an extra life when 90% or more of the screen is enclosed.<ref name="OSGM">{{cite news |last1=Thomasson |first1=Michael |title=Get Your Kicks From QIX |url=https://archive.org/details/old-school-gamer-001/page/n19/mode/2up?q=Twin+Qix |access-date=3 June 2020 |agency=Old School Gamer Magazine |issue=1 |date=November 2017 |pages=20–21}}</ref> ''Super Qix'' was released in 1987. Another sequel, ''Twin Qix'', reached a prototype stage in 1995, but was never commercially released.<ref name="OSGM"/><ref name="KLOV TQ">{{cite web |title=Twin Qix - Videogame by Taito |url=https://www.arcade-museum.com/game_detail.php?game_id=10236 |website=[[Killer List of Videogames]] |publisher=International Arcade Museum |access-date=3 June 2020 |archive-url=https://web.archive.org/web/20190325041441/https://www.arcade-museum.com/game_detail.php?game_id=10236 |archive-date=25 March 2019}}</ref> The later game ''[[Volfied]]'', also known as ''Ultimate Qix'' on Sega Genesis or ''Qix Neo'' on PlayStation, was also released on several [[mobile phone]]s.
+
+The 1990 Game Boy port of ''Qix'' was published by [[Nintendo]] with intermissions in which [[Mario]] is involved. In one, he is seen in a desert wearing [[Mexico|Mexican]] clothing and playing a guitar with a vulture looking on.<ref name="Strange Career Path - Qix">{{cite web|url=http://www.1up.com/features/strange-career-path-super-mario?pager.offset=17|archive-url=https://web.archive.org/web/20111011080345/http://www.1up.com/features/strange-career-path-super-mario?pager.offset=17|title=The Strange Career Path of Super Mario|first=Kyle|last=Orland|work=[[1UP.com]]|publisher=[[IGN]]|page=18|date=February 4, 2011|access-date=March 1, 2016|archive-date=October 11, 2011|url-status=dead}}</ref> The outfit later appears as a costume that Mario can wear in ''[[Super Mario Odyssey]]''.<ref>{{cite news|last1=Plunkett|first1=Luke|title=Super Mario Odyssey's Outfits Are A Nice Throwback|url=http://kotaku.com/super-mario-odysseys-outfits-are-a-nice-throwback-1796076020|access-date=June 14, 2017|work=Kotaku|date=June 13, 2017}}</ref> The Game Boy port was released as a [[Nintendo 3DS]] [[Virtual Console]] title in Japan on June 15, 2011,<ref name="Japan eShop Roundup June 15, 2011">{{cite web|url=http://www.nintendoworldreport.com/feature/26840/japan-eshop-round-up-06152011|archive-url=https://web.archive.org/web/20171107014343/http://www.nintendoworldreport.com/feature/26840/japan-eshop-round-up-06152011|title=Japan eShop Round-Up (06/15/2011)|first=Danny|last=Bivens|work=Nintendo World Report|date=June 15, 2011|access-date=March 1, 2016|archive-date=November 7, 2017|url-status=live}}</ref> and in North America and Europe on July 7.<ref name="GSW NA eShop">{{cite web|url=http://www.gamesetwatch.com/2011/07/na_nintendo_update_-_fortified.php|archive-url=https://web.archive.org/web/20110713225042/http://www.gamesetwatch.com/2011/07/na_nintendo_update_-_fortified.php|title=NA Nintendo Update - ''Fortified Zone'', ''QIX'', ''Roller Angels'' And More|first=Ryan|last=Langley|work=[[GameSetWatch]]|publisher=[[UBM plc]]|date=July 7, 2011|access-date=March 1, 2016|archive-date=July 13, 2011|url-status=live}}</ref><ref name="GSW EU eShop">{{cite web|url=http://www.gamesetwatch.com/2011/07/eu_nintendo_update_-_qix_forti.php|archive-url=https://web.archive.org/web/20171107021836/http://www.gamesetwatch.com/2011/07/eu_nintendo_update_-_qix_forti.php|title=EU Nintendo Update - ''QIX'', ''Fortified Zone'', ''ANIMA: Ark of Sinners'' And More|first=Ryan|last=Langley|work=[[GameSetWatch]]|publisher=[[UBM plc]]|date=July 7, 2011|access-date=March 1, 2016|archive-date=November 7, 2017|url-status=live}}</ref>
+
+In 1999, a remake for the [[Game Boy Color]] was released called ''[[Qix Adventure]]''. The player travels on a map screen, taking on opponents which appear on the playing field. Although optional, enclosing an opponent in the box opens a treasure chest, which can also be enclosed, giving the player an item.<ref>{{cite web |author1=IGN Staff |title=Qix Adventure |url=https://www.ign.com/articles/2000/11/17/qix-adventure |publisher=[[IGN]] |access-date=3 June 2020 |archive-url=https://web.archive.org/web/20200603174330/https://www.ign.com/articles/2000/11/17/qix-adventure |archive-date=3 June 2020 |date=16 November 2000}}</ref> ''Battle Qix'' was released for the [[PlayStation (console)|PlayStation]] in 2002 by [[Success (company)|Success]], under their ''Super 1500 Lite'' budget title series. It includes a remake of the original ''Qix'' alongside a competitive multiplayer mode.<ref>{{cite magazine |title=SuperLite 1500 シリーズ バトルクイックス (PS) |url=https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=19653&redirect=no |magazine=[[Famitsu]] |publisher=[[Kadokawa Corporation]] |access-date=4 June 2020 |archive-url=https://web.archive.org/web/20200604051541/https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=19653&redirect=no |archive-date=4 June 2020 |language=ja}}</ref> Taito released a new version of ''Qix'' for the [[Xbox Live Arcade]] and [[PlayStation Portable]] ''[[Qix++]]'' in December 2009.<ref>{{cite web |last1=Hatfield |first1=Daemon |title=Qix++ Review |url=https://www.ign.com/articles/2009/12/09/qix-review-2 |publisher=[[IGN]] |access-date=3 June 2020 |archive-url=https://web.archive.org/web/20190330170859/https://www.ign.com/articles/2009/12/09/qix-review-2 |archive-date=30 March 2019 |date=9 December 2009}}</ref>
+
+===Clones===
+* ''Fill 'Er Up'' (1983, Atari 8-bit, ''[[ANALOG Computing]]'')<ref>{{cite journal|last1=Hudson|first1=Tom|title=Fill 'Er Up|journal=ANALOG Computing|date=March 1983|issue=10|page=100}}</ref>
+* ''Stix'' (1983, Commodore 64)<ref>{{Cite book|last=Dillon|first=Roberto|year=2014|title=Ready: A Commodore 64 Retrospective|publisher=[[Springer Science+Business Media|Springer]]|page=141}}</ref>
+* ''[[Styx (Windmill game)|Styx]]'' (1983, IBM PC, [[Windmill Software]])
+* ''[[Frenzy (1984 video game)|Frenzy]]'' (1984, Acorn Electron and BBC Micro, [[Micro Power]])
+* ''[[Xonix]]'' (1984, MS-DOS)
+* ''Qiks'' (1984, Tandy Color Computer, Spectral Associates)<ref>{{cite web|last1=Boyle|first1=L. Curtis|title=Qiks|url=http://www.lcurtisboyle.com/nitros9/qiks.html}}</ref>
+* ''Quix'' (1984, Tandy Color Computer, Tom Mix Software)<ref>{{cite web|last1=Boyle|first1=L. Curtis|title=Quix|url=http://www.lcurtisboyle.com/nitros9/quix.html}}</ref>
+* ''Torch 2081'' (1986, Amiga, Digital Concepts)<ref>{{cite web|title=Torch 2081|url=https://www.lemonamiga.com/games/details.php?id=1071|website=Lemon Amiga}}</ref>
+* ''Zolyx'' (1987, Commodore 64, Commodore 16/Plus-4, Amstrad CPC, and ZX Spectrum, [[Firebird Software|Firebird]])<ref>{{cite web|title=Zolyx|url=https://www.lemon64.com/games/details.php?ID=2948|website=Lemon64}}</ref>
+* ''Maniax'' (1988, Atari ST, Kingsoft)
+* ''[[Gals Panic]]'' (1990, arcade, [[Kaneko]]), which started a subgenre of [[eroge|adult-themed]] "uncover the image" games.
+* ''[[Cacoma Knight in Bizyland]]'' (1992-1993, Super NES/Famicom, Datam Polystar/Seta USA)
+* ''Super Xonix'' (1996, IBM PC), a 2 player version
+* ''[[Dancing Eyes]]'' (1996, arcade, [[Namco]]), a 3D version of the eroge subgenre, similar to the above ''Gals Panic''
+* ''Prometheus/Qrax'' (1997, MacOS, Quarter Note Software)
+* ''AirXonix'' (2000-2001, Microsoft Windows, AxySoft)
+* ''Qyx'' (2022, Atari 2600, Champ Games)<ref>{{cite web | url=https://www.gamedeveloper.com/programming/how-champ-games-tricks-old-hardware-with-new-cartridges-on-the-atari-2600 | title=How Champ Games tricks old hardware with new cartridges on the Atari 2600 }}</ref><ref>{{cite web | url=https://champ.games/qyx | title=Champ Games }}</ref>
+
+In 2011, ''Den of Geek'' included ''Qix'' on a list of the top 10 most cloned video games.<ref>{{cite web|last1=Lambie|first1=Ryan|title=The top 10 most cloned video games |url=https://www.denofgeek.com/games/the-top-10-most-cloned-videogames/|website=Den of Geek|date=May 6, 2011}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|tt1909334}}
+* {{MobyGames|/qix}}
+
+{{Qix}}
+{{Square Enix franchises}}
+
+[[Category:Qix]]
+[[Category:1981 video games]]
+[[Category:Action games]]
+[[Category:Amiga games]]
+[[Category:Apple IIGS games]]
+[[Category:Arcade video games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari Lynx games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:FM-7 games]]
+[[Category:Game Boy games]]
+[[Category:Mobile games]]
+[[Category:NEC PC-8001 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:Square Enix franchises]]
+[[Category:Telegames games]]
+[[Category:Virtual Console games]]
+[[Category:Video games scored by Tim Follin]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Atari games]]
+[[Category:Nintendo games]]
+[[Category:Takara video games]]
+[[Category:Taito arcade games]]
+[[Category:Arcade Archives games]]
+[[Category:Hamster Corporation games]]
+[[Category:Multiplayer hotseat games]]

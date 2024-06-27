@@ -1,0 +1,42 @@
+Time-Gate
+Permalink: //en.wikipedia.org/w/index.php?title=Time-Gate&oldid=1151962933
+Accessed on: 2024-06-26T16:54:16.570166
+
+
+
+------
+Time-Gate
+{{other uses|Timegate (disambiguation)}}
+{{Infobox video game
+|title = Time-Gate
+|image = TimeGateSpectrumBoxArt.jpg
+|developer = John Hollis
+|publisher = [[Quicksilva]]
+|released = 1982<ref name='pcw301282'>{{cite magazine |title=Top 10|magazine=Popular Computing Weekly |volume=1|issue=36 |publisher=Sunshine Publications |date=30 December 1982|page=31|url=https://spectrumcomputing.co.uk/page.php?issue_id=2735&page=31|access-date=15 May 2021}}</ref>
+|genre = [[Action game|Action]]
+|modes = [[Single-player]]
+|platforms = [[ZX Spectrum]]
+}}
+
+'''''Time-Gate''''' (also known as '''''Timegate''''', '''''4D Time-Gate''''' or '''''4D Defender''''') is a [[ZX Spectrum]] game from [[Quicksilva]], and one of the first 3D combat games.{{citation needed|date=July 2016}} The name is derived from its treatment of time as a [[dimension]], in which one could travel (albeit backwards only). The first press launch in the UK games industry was for this title.<ref>{{cite journal|doi=10.1080/23311983.2016.1190441 | volume=3 | title=A first-hand account of Quicksilva and its part in the birth of the UK games industry, 1981–1982 | year=2016 | journal=Cogent Arts & Humanities | page=1190441 | last1 = Eyles | first1 = Mark | last2 = Wade | first2 = Alex| doi-access=free }}</ref>
+
+==Plot==
+''Time-Gate'' had one embarking on a perilous mission to repel the Squarm invaders who have conquered Earth, by fighting through hordes of same, thus finding and locating the time-gates (hence the name) and using the gates to travel back through time to an earlier era, where one fought through more Squarm to find another gate.  Eventually, if one hadn’t been killed by the enemy, one got back to the year before the Squarm invaded, located their home planet, and locked onto it with one’s meson RAM (48K), thereby destroying it and retroactively preventing its inhabitants from ever having invaded in the first place.
+
+==Development==
+''Time-Gate'', due to its intense use of machine-code-driven sound, placed more stress on the Spectrum's sound capabilities than previous games,<ref>Letter from Quicksilva to ''ZX Computing'' magazine, April–May 1983 — http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8304/Pages/ZXComputing830400009.jpg</ref> and thereby inadvertently revealed a design flaw in early machines, whereby the ''Time-Gate'' sound effects would crash those machines.  This resulted in some people buying the game to stress-test their Spectrums{{Citation needed|date=June 2008}}.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{WoS game|id=0005286|name=Time-Gate}}
+
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Single-player video games]]
+[[Category:Video games about time travel]]
+[[Category:Quicksilva games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

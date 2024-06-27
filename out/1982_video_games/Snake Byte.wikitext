@@ -1,0 +1,51 @@
+Snake Byte
+Permalink: //en.wikipedia.org/w/index.php?title=Snake_Byte&oldid=1224118338
+Accessed on: 2024-06-26T16:54:03.376461
+
+
+
+------
+Snake Byte
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Snake Byte
+|image = Snake Byte cover.jpg
+|caption = 
+|developer =
+|publisher = [[Sirius Software]]
+|designer = Chuck Sommerville<ref name="giantlist">{{citation|url=https://dadgum.com/giantlist/|title=The Giant List of Classic Game Programmers |last1=Hague |first1=James}}</ref>
+|programmer = '''Apple II'''<br>Chuck Sommerville<br>'''Atari 8-bit'''<br>Dan Thompson<ref name=mania/><br>'''VIC-20, C64'''<br>Dan Stanfield<ref name=giantlist/>
+|released = '''1982:''' Apple, Atari, VIC-20<br>'''1983:''' C64
+|genre = [[Snake (video game genre)|Snake]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[VIC-20]]
+}}
+
+'''''Snake Byte''''' is video game written by Chuck Sommerville for the [[Apple II]] and published by [[Sirius Software]] in 1982.<ref name="giantlist"/> The game is a single-player variant of the [[Snake (video game genre)|snake]] concept. It was released the same year for [[Atari 8-bit computers]]<ref name=mania/> and on cartridge for the [[VIC-20]]. A [[Commodore 64]] version followed in 1983.<ref name=gb64/>
+
+==Gameplay==
+The player controls a snake, crawling into a rectangular area. At the start of the game the snake has three lives and gains a life when it successfully exits a level. The goal is to eat 10 apples in each of the 28 levels.<ref>{{citation|url=https://archive.org/stream/sirius_snakebyte_manual/sirius_snakebyte_manual_djvu.txt|title=Text of Snake Byte manual at archive.org}}</ref> If an apple is not eaten during the given deadline, three extra apples are to be eaten. The snake becomes longer and moves more quickly with each apple eaten. The snake loses a life when crashing into a fence, the wall or itself. After the last apple in each round is eaten the snake must exit the area through a gate which appears. Higher levels have more complicated fences, making the area trickier to navigate. 
+
+Levels are increasingly difficult and the last ones allow almost no mistakes at all. Level 29 wraps back to level 1, but the counter does not reset. After completing enough levels the display will go from 99 to 00.
+
+The game can be played in two modes: two-key (left/right) or four-key (left/right/up/down), with 0, 1 or 2 bouncing plums. Plums bounce around within the area and kill the snake when they hit its head.
+
+==Reception==
+''[[Ahoy!]]'' gave ''Snake Byte'' grades of B− for graphics and A for gameplay. It stated that the game "is one of the most engaging and challenging programs you can buy... you can't hope to do better in terms of entertainment."<ref name="meade198401">{{cite news | url=https://archive.org/stream/Ahoy_Issue_01_1984-01_Ion_International_US#page/n55/mode/2up | title=Snake Byte | work=Ahoy! | date=1984 | accessdate=27 June 2014 | author=Meade, E. C. | pages=57}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="mania">{{cite web |title=Snake Byte |url=http://www.atarimania.com/game-atari-400-800-xl-xe-snake-byte_4752.html |website=Atari Mania}}</ref>
+<ref name="gb64">{{cite web |title=Snake Byte |url=http://gb64.com/game.php?id=6955&d=18&h=0 |website=Gamebase 64}}</ref>
+}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:Sirius Software games]]
+[[Category:Snake video games]]
+[[Category:Video games about reptiles]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

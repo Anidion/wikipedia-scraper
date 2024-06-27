@@ -1,0 +1,77 @@
+Bristles (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bristles_%28video_game%29&oldid=1224579802
+Accessed on: 2024-06-26T16:54:40.338086
+
+
+
+------
+Bristles (video game)
+{{Short description|1983 video game}}
+{{Infobox video game
+|title = Bristles
+|image = Bristles.jpg
+|caption = 
+|developer = [[First Star Software]]
+|designer = Fernando Herrera
+|programmer = '''Atari 8-bit'''<br>Fernando Herrera<br>Robert Diaz<ref name=manual/><br>'''Commodore 64'''<br>Adam Bellin<ref name=giantlist/><br>'''ZX Spectrum'''<br>Richard Huddy<ref name=spec/>
+|composer = Jerry White<ref name=manual/>
+|publisher = [[First Star Software]]<br>Statesoft (Spectrum)<ref name=spec/>
+|released = '''1983:''' Atari, C64<br>'''1984:''' Arcade, Spectrum
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]<br>2-4 player [[Multiplayer video game|multiplayer]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]], [[Arcade video game|Arcade]], [[ZX Spectrum]]
+}}
+
+'''''Bristles''''' is a video game by Fernando Herrera for [[Atari 8-bit computers]] and published by the company he co-founded, [[First Star Software]], in 1983.<ref name=giantlist/> It was ported to the [[Commodore 64]],<ref name=lemon/> [[ZX Spectrum]],<ref name=spec/> and [[Exidy]]'s Max-A-Flex arcade system.<ref name=ah/> As Peter the Painter, the player uses ladders and elevators move through a cutaway view of a house to paint all the walls.
+
+==Gameplay==
+[[File:Bristles_Atari_8-bit_PAL_screenshot.png|thumb|left|A level in progress, with Peter on the lowest floor of the house (Atari 8-bit)]]
+
+The player controls Peter the Painter with the goal of painting the walls of eight different houses within a time limit.  To move between the different floors Peter can ride an elevator or climb a ladder. If he gets caught in an open elevator shaft, Peter is sent to the bottom of the building.
+
+Dangerous objects that hinder Peter's task include "flying half pints" that knock him down and "dumb buckets" that steal Peter's brush.<ref name=manual/> Later levels add "Brenda the Brat", who leaves handprints all over the freshly painted walls, and the "Bucket Chucker" who never stops chasing Peter. Brenda can be pacified with a candy cane and Bucket Chucker can be temporarily trapped in a paint mixer. 
+
+The player starts with 10 brushes serving as lives and additional two brushes are added after finishing the paint job on every level.
+
+===Music===
+{{listen|header=
+|type=music
+|filename=Bristles_Atari_8-bit_Russian_Dance.ogg
+|title=Tchaikovsky's Russian Dance (Atari 8-bit)
+|description=
+}}
+''Bristles'' soundtrack uses arrangements of different pieces from [[Pyotr_Ilyich_Tchaikovsky|Tchaikovsky's]] [[The_Nutcracker#Tchaikovsky:_The_Nutcracker_Suite,_Op._71a|The Nutcracker Suite, Op. 71a]]. The main theme is ''II. Danses caractéristiques - a. Marche''. When the player is knocked down, the game reacts with a IIc piece: ''Russian Dance''. When Brenda is ruining freshly painted walls, piece IIe ''Chinese Dance'' is played.
+
+==Reception==
+In a review for ''[[Antic (magazine)|Antic]]'' in 1984, George Adamson wrote: "The game's action is fast and furious. It doesn't get faster in higher levels, though. Instead, ''Bristles'' offers more novel challenges".<ref name=antic/> ''Video Games'' magazine wrote: "As excellent and colorful as the visuals are, the melodies throughout this contest are the real show stoppers."<ref name="vg">{{cite journal |last1=Salamone |first1=Ted |title=Computer Corner: Bristles |journal=Video Games |date=May 1984 |volume=2 |issue=8 |page=80 |url=https://archive.org/details/Video_Games_Volume_2_Number_08_1984-05_Pumpkin_Press_US/page/n79/mode/2up |publisher=Pumpkin Press}}</ref> In a brief review, ''GAMES'' magazine concluded: "There's so much going on, and the action is so fast, that it's easy to get confused; but everything occurs strictly according to patterns that can be memorized. It may take a while to get the hang of this game, but it's a real charmer".<ref>{{cite magazine |magazine=GAMES |date=December 1984 |issue=58 |page=56 |title=Computer Capers: Bristles |first=Burt |last1=Hochburg |url=https://archive.org/details/games-58-1984-december/page/56/mode/2up |publisher=Playboy Enterprises}}</ref>
+
+In a 1985 ''[[ANALOG Computing]]'' review of reduced price games, [[Andy Eddy]] cautioned, "Many users will find ''Bristles'' too difficult and demanding, as it's a very hard game to master."<ref>{{cite journal |last1=Eddy |first1=Andy |title=Bargain Bin |journal=ANALOG Computing |date=November 1985 |issue=36 |page=19 |url=https://archive.org/details/analog-computing-magazine-36/page/n19/mode/2up}}</ref>
+
+==Legacy==
+In 2004, an authorized modification of the Atari 8-bit computer version was released as an [[Atari 5200]] cartridge.<ref>{{cite web |title=Atari 5200 Bristles (First Star Software) |url=https://atariage.com/software_page.php?SystemID=5200&SoftwareID=4048 |website=AtariAge}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name=lemon>{{lemon64 game|id=4072}}</ref>
+<ref name=ah>{{cite web |title=Exidy Max-A-Flex System |url=https://www.classicarcademuseum.org/exidy-max-a-flex-system |website=American Classic Arcade Museum |last1=Stulir |first1=Mike}}</ref>
+<ref name=antic>{{cite journal |last1=Adamson |first1=George |title=Product Reviews: Bristles |journal=Antic |date=April 1984 |volume=3 |issue=1 |page=93 |url=https://archive.org/details/1984-04-anticmagazine/page/n91/mode/2up}}</ref>
+<ref name="spec">{{cite web |title=Bristles |url=https://www.spectrumcomputing.co.uk/entry/709/ZX-Spectrum/Bristles |website=Spectrum Computing }}{{Dead link|date=October 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+<ref name=manual>{{cite web |title=Atari Bristles Manual |website=archive.org |url=https://archive.org/details/bristles-first-star-software/mode/2up |date=1983 }}</ref>
+}}
+
+==External links==
+*{{atarimania|id=794}}
+*[https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_02_No_05_1984-03_Fun_Games_Publishing_US/page/n53/mode/2up Review] in ''[[Electronic Fun with Computers & Games]]''
+*[https://archive.org/details/commodore-user-magazine-15/page/n69/mode/2up Review] in ''[[Commodore User]]''
+
+[[Category:1983 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:First Star Software games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Platformers]]
+[[Category:Video games developed in the United States]]
+[[Category:Works about painting]]
+[[Category:ZX Spectrum games]]

@@ -1,0 +1,75 @@
+Sargon II (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sargon_II_%28video_game%29&oldid=1224118239
+Accessed on: 2024-06-26T16:51:22.184786
+
+
+
+------
+Sargon II (video game)
+{{short description|1979 video game}}
+{{Infobox video game
+| title = Sargon II
+| image = Sargon_II_Chess.jpg
+| caption = VIC-20 cover art
+| developer = Dan Spracklen, Kathe Spracklen
+| publisher = [[Hayden Software]], [[Spinnaker Software]], [[Commodore International]]
+| series = Sargon
+| engine = 
+| platforms = [[Apple II]], [[Atari 8-bit]], [[CP/M]], [[Commodore 64]], [[TRS-80]], [[VIC-20]]
+| released = 1979
+| genre = [[Strategy video game|Strategy]]
+| modes = 
+}}
+
+'''''Sargon II''''' is a sequel to ''[[Sargon (chess)|Sargon]]''. Both are computer chess programs for home computers.
+
+==Development==
+The Spracklens made significant improvements on the original program and released ''Sargon II''.<ref name='CHM Interview'/> In 1978 it tied for third at the ninth [[North American Computer Chess Championship]] despite being seeded ninth of 12 entries. ''Sargon'' finished only behind [[Belle (chess machine)|Belle]] and [[Chess (Northwestern University)|Chess 4.7]], and defeated AWIT—running on a $5 million [[Amdahl Corporation|Amdahl]] mainframe—amazing the audience.<ref name="mj19781210">{{cite news | url=https://news.google.com/newspapers?id=xFoaAAAAIBAJ&pg=1667%2C6712093 | title=Tiny Computer Sends Chess Foe Down Tube | work=Milwaukee Journal | date=1978-12-10 | agency=Washington Post Service | accessdate=21 January 2015 | pages=Discover 1}}</ref>{{r|harding1985}}<ref name='CHM Interview'>
+{{cite news
+  | last = Hendrie
+  | first = Gardner
+  | title = Oral History of Kathe and Dan Spracklen
+  | publisher = Computer History Museum
+  | date = 2005-03-02
+  | url = http://archive.computerhistory.org/projects/chess/related_materials/oral-history/spacklen.oral_history.2005.102630821/spracklen.oral_history_transcript.2005.102630821.pdf
+  | accessdate = 2007-02-11 }}
+</ref> That year they published a series of articles in ''BYTE'' on computer chess programming,<ref name="spracklen197810">{{cite news | url=https://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n87/mode/2up | title=First Steps in Computer Chess Programming | work=BYTE | date=October 1978 | accessdate=17 October 2013 | author=Spracklen, Kathy and Dan | pages=86}}</ref><ref name="spracklen197811">{{cite news | url=https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n17/mode/2up | title=An Exchange Evaluator for Computer Chess | work=BYTE | date=November 1978 | accessdate=17 October 2013 | author=Spracklen, Dan and Kathy | pages=16}}</ref> stating "we think it would be nice if not everyone had to reinvent the wheel".{{r|mj19781210}}
+
+''Sargon II'' was [[porting|ported]] to a variety of personal computers popular in the early 1980s.<ref name = '6809 Flex'>It was even ported to the 6809 variety of the [[FLEX (operating system)|FLEX]] operating system by Brian N. Baily and Charles B. Blish in August 1981, and that port may still be found within this [http://www.blackbeltsystems.com/flexem.html 6809 FLEX emulation]</ref> The game engine has multiple levels of [[Combinatorial search#Lookahead|lookahead]] to make it more accessible to beginning chess players. ''BYTE'' in 1980 estimated that ''Sargon II'' had a 1500 rating at the highest tournament-time difficulty level, and speculated that it was the best chess program for sale, including dedicated devices.<ref name="martellaro198012">{{cite news | url=https://archive.org/stream/byte-magazine-1980-12/1980_12_BYTE_05-12_Adventure#page/n115/mode/2up | title=Sargon II / An Improved Chess-Playing Program for the Apple II | work=BYTE | date=December 1980 | accessdate=18 October 2013 | author=Martellaro, John | pages=114}}</ref>
+
+''Sargon 2.5'', sold as a ROM module for the Chafitz Modular Game System, is identical to ''Sargon II'' but adds [[Permanent brain|pondering]].<ref name="martellaro198101">{{cite news | url=https://archive.org/stream/byte-magazine-1981-01/1981_01_BYTE_06-01_Hand-held_Computers#page/n209/mode/2up | title=The Newest Sargon - 2.5 | work=BYTE | date=January 1981 | accessdate=18 October 2013 | author=Martellaro, John | pages=208–212}}</ref> It received a 1641 rating at the [[Paul Masson]] tournament in June–July 1979, and 1736 at the San Jose City College Open in January 1980.{{r|harding1985}}
+
+==Reception==
+J. Mishcon reviewed The Software Exchange's ''Sargon II'' for the TRS-80 and Apple II in ''[[The Space Gamer]]'' No. 32 (1980). Mishcon commented that "This effort stands strongly in the small group of programs that set industry standards. It is a competent computer opponent in the incredibly complex world of chess. Highly recommended for everyone short of the chess master".<ref name="SG">{{cite journal|last=Mishcon|first=J. |date=October 1980 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=32|pages=28}}</ref> John Martarello in ''BYTE'' that year stated "buy it. Sargon II is everything Sargon I should have been ... Nearly every deficiency of Sargon has been corrected". While vulnerable to the [[fried liver attack]] and other human strategies, and unable to recognize a two-king [[draw (chess)|draw]], ''Sargon II'' was the first computer program that he found able to [[trap (chess)|trap]] the opponent. Martarello concluded that the game "is about all we computer chess players could wish for".{{r|martellaro198012}} He also favorably reviewed the Sargon 2.5 for the Chafitz Modular Gaming System, stating that its faster performance and addition of pondering resulted in "small yet definite" chess improvement. Martarello nonetheless advised Sargon II owners to "wait for Sargon 3" because of the cost of the Chafitz system.<ref name="martellaro198101">{{cite news | url=https://archive.org/stream/byte-magazine-1981-01/1981_01_BYTE_06-01_Hand-held_Computers#page/n209/mode/2up | title=The Newest Sargon - 2.5 | work=BYTE | date=January 1981 | accessdate=18 October 2013 | author=Martellaro, John | pages=208–212}}</ref>
+
+''[[Ahoy!]]'' in 1984 stated that the VIC-20 version of ''Sargon II''{{'}}s "chess-playing capability is excellent" and a bargain compared to dedicated chess computers,<ref name="salm198403">{{cite news | url=https://archive.org/stream/Ahoy_Issue_03_1984-03_Ion_International_US#page/n47/mode/2up | title=VIC Game Buyer's Guide | work=Ahoy! | date=March 1984 | accessdate=27 June 2014 | author=Salm, Walter | pages=49}}</ref> and gave a similarly favorable review of the Commodore 64 version.<ref name="herring198409">{{cite news | url=https://archive.org/stream/Ahoy_Issue_09_1984-09_Ion_International_US#page/n37/mode/2up | title=Sargon II | work=Ahoy! | date=September 1984 | accessdate=27 June 2014 | author=Herring, Richard | pages=39–40}}</ref> ''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the game an overall A− rating, stating that only ''[[Chess 7.0]]'' was superior on a microcomputer and concluding that it "is a very worthy opponent for any chess enthusiast".<ref name="aw1984">{{cite book | url=https://archive.org/stream/Atari_Software_1984#page/n39/mode/2up | title=The Addison-Wesley Book of Atari Software | publisher=Addison-Wesley | year=1984 | pages=40 | isbn=0-201-16454-X |editor1=Stanton, Jeffrey |editor2=Wells, Robert P. |editor3=Rochowansky, Sandra |editor4=Mellid, Michael }}</ref> [[Tim Harding (chess player)|Tim Harding]] in 1985 called ''Sargon II'' the first "halfway competent chess program" for home computers. He stated that "in early 1984 the VIC/Sargon II combination was still among the strongest home computer chess programs" despite its age, with "many features superior to today's weaker amateur programs".<ref name="harding1985">{{cite book | authorlink=Tim Harding (chess player) | url=https://books.google.com/books?id=pECeBQAAQBAJ&pg=PA24 | title=The New Chess Computer Book | publisher=Pergamon Press | author=Harding, T. D. | year=1985 | edition=2nd | pages=24,25,155,164 | isbn=9781483140322 |editor1=Price, Jill |editor2=Levy, David N. L. | series=Pergamon Chess Series}}</ref>
+
+Ian Chadwick for ''[[Moves (magazine)|Moves]]'' issue #56 said that "If you want to see what the fuss is all about, and try your hand at a game which must be considered state-of-the-art in computer programming, then ''Sargon II'' is the programme to get."<ref>{{cite web|url=https://strategyandtacticspress.com/library-files/Moves%20Issue56.pdf|title=Moves. Issue 56|publisher=Strategy and Tactics Press|page=29}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20041022182730/http://www.chessbase.com/games/2003/sargon1.htm Four games played by Sargon II]
+*[https://archive.org/details/80_Microcomputing_Issue_24_1981-12_1001001_US/page/n79/mode/2up Review] in ''[[80 Micro]]''
+*[https://archive.org/details/1982-10-compute-magazine/page/n135/mode/2up Review] in ''[[Compute!]]''
+*[https://archive.org/details/CreativeComputingbetterScan198302/page/n113/mode/2up Review] in ''[[Creative Computing (magazine)|Creative Computing]]''
+*[https://archive.org/details/Commodore_MicroComputer_Issue_42_1986_Jul_Aug/page/n37/mode/2up Review] in ''[[Commodore Microcomputers]]''
+*[https://archive.org/details/analog-computing-magazine-35/page/n19/mode/2up Review] in ''[[ANALOG Computing]]''
+*[https://archive.org/details/InCider198305/page/n187/mode/2up Review] in ''[[InCider]]''
+
+{{Sargon series}}
+
+{{DEFAULTSORT:Sargon 02}}
+[[Category:1979 video games]]
+[[Category:Apple II games]]
+[[Category:Assembly language software]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Chess software]]
+[[Category:Commodore 64 games]]
+[[Category:CP/M games]]
+[[Category:Hayden Software games]]
+[[Category:Sargon (chess)]]
+[[Category:TRS-80 games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,53 @@
+Ghost Hunters (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Ghost_Hunters_%28video_game%29&oldid=1227577595
+Accessed on: 2024-06-26T17:00:04.607270
+
+
+
+------
+Ghost Hunters (video game)
+{{For|2003 video game|Ghosthunter (video game)}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox video game
+| title = Ghost Hunters
+| image = Ghost Hunters cover art.jpg
+| caption = Amstrad CPC cover art
+| developer = [[Oliver twins|The Oliver Twins]]
+| publisher = [[Codemasters]]
+| composer = Jon Paul Eldridge
+| released = {{vgrelease|EU|1987}}
+| genre = [[platform game|Platform]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+'''''Ghost Hunters''''' is a [[platform game]] written by the [[Oliver twins]] for the [[Amstrad CPC]] and published by [[Codemasters]] in January 1987.<ref>{{cite web|url=http://www.olivertwins.com/GhostHunters|title=Ghost Hunters|publisher=The Oliver Twins|access-date=1 May 2020|archive-date=28 January 2020|archive-url=https://web.archive.org/web/20200128111407/http://www.olivertwins.com/GhostHunters|url-status=dead}}</ref> It was also converted and released for the [[ZX Spectrum]] (1987) and [[Commodore 64]] (1989) platforms. The game combines platform-style action with [[shooting game|shooting]] [[gameplay]] similar to that found in the game ''[[Operation Wolf]]''. It was conceived as a sequel to ''[[Super Robin Hood]]'', although it has little to do with this game other than using a modified version of its [[game engine|engine]]. The twins have credited the film ''[[Ghostbusters]]'' and the [[cartoon series]] ''[[Scooby-Doo]]'' for influencing the game.
+<!-- Deleted image removed: [[Image:Ghost-hunter-screenshot.jpg|thumb|200px|left|Screenshot of ''Ghost Hunters''.]] -->
+
+==Gameplay==
+Like their previous game, ''[[Super Robin Hood]]'', the player controls a character (named Hunk Studbuckle) around the platform style screen using the keyboard or joystick. Uniquely, to attack the enemy, the player must temporarily use the cursor keys to move targeting cross-hairs to shoot ghosts and demons (in a similar manner to ''[[Operation Wolf]]''), causing the character to stand still. This results in the player requiring to shoot the targets quickly and operate their character to move around the screen before more would appear. In addition to being able to walk, the character can also jump and climb ladders. In addition to enemies to be killed, the environment contains items that can be collected, including 'macho energy' top-ups and 'key' items that unlock further areas. The game is one of few available on the CPC and ZX Spectrum platforms to feature low resolution clips of human speech, although playing them was so CPU-intensive that the game was required to freeze for their duration.
+
+==Development==
+Codemasters paid the Oliver brothers £10,000 for the Amstrad CPC release and were offered another £10,000 for a ZX Spectrum release, but the twins did not wish to produce a port by actually coding on the Spectrum, so to save time, they hired their friend Ivan Link to build a cable that links the Spectrum and the Amstrad. The twins produced the only software for the Spectrum they ever wrote called SPLINK (SPectrum and LINK) that enabled the code to be altered for the Amstrad and ported to the Spectrum.
+
+{{cquote|''This enabled us to write Spectrum games on our Amstrad, making the most of the benefits of its on-board source code and graphics, its very fast and reliable disk drive and a leading Assembler/Machine Code compiler called MAXAM. That way SPLINK gave us an enormous advantage over our competitors who were trying to write Spectrum games - using a Spectrum!''|author=Philip and Andrew Oliver<ref>{{cite web|url=http://www.blitzgames.com/olivertwins/|title=Oliver Twins|website=www.blitzgames.com|access-date=25 August 2005|archive-date=14 September 2008|archive-url=https://web.archive.org/web/20080914013842/http://www.blitzgames.com/olivertwins/|url-status=dead}}</ref>}}
+
+==Reception==
+After being released, the Amstrad version went to No. 1 in the Amstrad sales chart.<ref name='acu34'>{{cite magazine |title=Gallup Software Chart|magazine=Amstrad Computer User|issue=34|publisher=Amsoft|date=September 1987|page=10}}</ref>
+
+==References==
+{{Reflist}}
+* [http://www.blitzgames.com/olivertwins/ Oliver twins website] {{Webarchive|url=https://web.archive.org/web/20080914013842/http://www.blitzgames.com/olivertwins/ |date=14 September 2008 }}
+
+==External links==
+* {{WoS game|id=0009350|name=Ghost Hunters}}
+* {{lemon64 game|id=1047|name=Ghost Hunters}}
+
+[[Category:1986 video games]]
+[[Category:Action games]]
+[[Category:Amstrad CPC games]]
+[[Category:Codemasters games]]
+[[Category:Commodore 64 games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Platformers]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United Kingdom]]

@@ -1,0 +1,87 @@
+Bomberman (1983 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bomberman_%281983_video_game%29&oldid=1220322535
+Accessed on: 2024-06-26T16:54:39.335466
+
+
+
+------
+Bomberman (1983 video game)
+{{Use mdy dates|date=December 2020}}
+{{Infobox video game
+| title = Bomberman
+| image = BombermanCover.jpg
+| caption = North American NES box art
+| developer = [[Hudson Soft]]
+| publisher = {{vgrelease|JP/NA|Hudson Soft<br><small>(home computers, NES)</small>|EU|[[Sinclair Research]] <small>(Spectrum, UK)</small>|AUS|[[Mattel]]|WW|[[Nintendo]] <small>(Game Boy Advance)</small>}}
+| released = {{collapsible list|title=July 1983|'''MSX'''{{vgrelease|JP|July 1983|EU|1984|JP|1986 <small>(''Special'' version)</small>}}'''NEC PC-6001 mkII'''{{vgrelease|JP|1983}}'''NEC PC-8801'''{{vgrelease|JP|July 1983}}'''Fujitsu FM-7'''{{vgrelease|JP|1983}}'''Sharp MZ-700'''{{vgrelease|JP|1983}}'''Sharp MZ-2000'''{{vgrelease|JP|1983}}'''Sharp X1'''{{vgrelease|JP|1983}}'''ZX Spectrum'''{{vgrelease|EU|1984}}'''NES'''{{vgrelease|JP|December 20, 1985|NA|January 1989<ref>[https://web.archive.org/web/20101221005931/http://www.nintendo.com/consumer/gameslist/manuals/nes_games.pdf NES Games] (Internet Archive: Wayback Machine)</ref>}}'''Famicom Disk System'''{{vgrelease|JP|April 2, 1990}}'''Game Boy Advance'''{{vgrelease|JP|February 14, 2004|NA|June 2, 2004|EU|July 9, 2004}}'''N-Gage'''{{vgrelease|EU|July 23, 2004|NA|August 4, 2004}}}}
+| composer = [[Jun Chikuma]] (NES)<ref name="HG 101 (Bomberman 1985)">{{Cite web|url=http://www.hardcoregaming101.net/bomberman-1985/|title=Bomberman (1985) – Hardcore Gaming 101}}</ref>
+| series = ''[[Bomberman]]''
+| genre = [[Arcade game|Arcade]], [[List of maze video games|maze]], [[Strategy video game|strategy]]
+| modes = [[Single-player video game|Single player]]
+| platforms = [[PC-8800 series|NEC PC-8801]], [[PC-6000 series|NEC PC-6001 mkII]], [[FM-7|Fujitsu FM-7]], [[Sharp MZ|Sharp MZ-700]], [[Sharp MZ-2000]], [[X1 (computer)|Sharp X1]], [[MSX]], [[ZX Spectrum]], [[Nintendo Entertainment System]], [[Family Computer Disk System]], [[Game Boy]], [[Game Boy Advance]]
+| programmer = Yuji Tanaka (home computers)<br/>Shinichi Nakamoto (NES)
+}}
+
+{{Nihongo foot|'''''Bomberman'''''|ボンバーマン|Bonbāman|group=lower-alpha|lead=yes}} is a [[List of maze video games|maze]] [[video game]] developed and published by [[Hudson Soft]]. The original home computer game {{Nihongo foot|'''''Bomber Man'''''|爆弾男|Bakudan Otoko|group=lower-alpha|lead=yes}} was released in July 1983 for the [[PC-8800 series|NEC PC-8801]], [[PC-6000 series|NEC PC-6001 mkII]], [[FM-7|Fujitsu FM-7]], [[Sharp MZ|Sharp MZ-700]], [[Sharp MZ-2000]], [[X1 (computer)|Sharp X1]] and [[MSX]] in Japan, and a graphically modified version for the MSX and [[ZX Spectrum]] in Europe as '''''Eric and the Floaters'''''.<ref>[[Retro Gamer]] magazine, issue 66. "From the archives: Hudson Soft", pages 68–73</ref><ref>{{cite web|url=http://randomhoohaas.flyingomelette.com/bomb/msx-1/|title=BOMBER MAN MSX (information) .:. Ragey's Totally Bombastic Bomberman Shrine Place|website=Randomhoohaas.flyingomelette.com|access-date=November 9, 2017}}</ref> A sequel, ''[[3-D Bomberman]],'' was produced.<ref>{{Cite web|url=http://www.hardcoregaming101.net/3-d-bomberman/|title=3-D Bomberman – Hardcore Gaming 101}}</ref> In 1985, ''Bomberman'' was released for the [[Nintendo Entertainment System]].<ref name="HG 101 (Bomberman 1985)"/> It spawned the [[Bomberman|''Bomberman'' series]] with many installments building on its basic gameplay.
+
+==Gameplay==
+[[Image:Bomberman (NES) gameplay.png|256px|left|thumb|Bomberman in action on the [[Nintendo Entertainment System|NES]]]]
+In the NES/Famicom release, the [[eponym]]ous character, [[Bomberman#Characters|Bomberman]], is a robot that must find his way through a maze while avoiding or destroying enemies. He can set bombs to attack enemies and destroy rocks that block his path; initially, the bombs explode after a short delay. Doors leading to further maze rooms are hidden under rocks, as are power-up items that grant abilities such as placing multiple bombs at once, increasing their blast radius, and being able to set them off at any desired moment.
+
+Bomberman will turn human when he escapes and reaches the surface. Each game has 50 levels in total. The original home computer games are more basic and have some different rules. Notably, completing the NES and Famicom version reveals that the game is a [[prequel]] to Hudson Soft's NES port of [[Broderbund|Broderbund Software]]'s 1983 game ''[[Lode Runner]]''. Upon clearing the final screen, Bomberman is shown turning into Lode Runner's unnamed protagonist. In the Japanese version of the game, the player is explicitly told that Bomberman will 'See [them] in ''Lode Runner''', while in the international version, they are instead asked if they can recognise the protagonist from another Hudson game.<ref>{{Cite web|url=https://tcrf.net/Bomberman_(NES)#Version_Differences|title=Bomberman (NES) - The Cutting Room Floor|website=tcrf.net}}</ref>
+
+==Development==
+''Bomberman'' was written in 1980 to serve as a [[technology demonstration|tech demo]] for [[Hudson Soft]]'s [[BASIC]] compiler.<ref name="NGen3">{{cite journal|title=Hudson Soft |journal=[[Next Generation (magazine)|Next Generation]]|issue=3|publisher=[[Imagine Media]]|date=March 1995|pages=78–81}}</ref> This very basic version of the game was given a small-scale release for Japanese PCs in 1983 and the European PCs the following year.<ref name="NGen3"/><ref>{{Cite web|url=https://www.mobygames.com/game/eric-and-the-floaters/release-info|title = Eric and the Floaters (1983) release dates}}</ref>
+The Famicom version was developed (ported) by Shinichi Nakamoto,<ref>『Super Bomberman Official Guidebook (スーパーボンバーマン 公式ガイドブック(小学館))』 (only in Japan) pp.104-105</ref> who reputedly completed the task alone over a 72 hour period.<ref>{{cite web|url=http://kotaku.com/5739680/marathon-programming-session-resulted-in-smash-hit-game |title=Marathon Programming Session Resulted in Smash Hit Game |date=January 21, 2011 |publisher=Kotaku.com |access-date=January 21, 2011}}</ref>
+According to ''[[Zero (video game magazine)|Zero]]'' magazine, ''Bomberman'' adopted gameplay elements from the [[Coreland]]/[[Sega]] arcade hit ''[[Pengo (video game)|Pengo]]'' (1982).<ref name="Zero">{{cite magazine |last1=Stokes |first1=Doris |title=Dosh Eaters |magazine=[[Zero (video game magazine)|Zero]] |date=December 1991 |issue=26 |publisher=[[Dennis Publishing]] |location=United Kingdom |pages=91–92 |url=https://archive.org/details/zero-magazine-26/page/n90}}</ref>
+
+The European home computer versions were released as ''Eric and the Floaters'' to avoid any association with a series of terrorist bombings carried out by the [[Irish Republican Army]] during [[The Troubles]].<ref name="troubles">{{Cite book |last=Hawken |first=Kieren |url=https://books.google.com/books?id=MBWMDwAAQBAJ&q=Eric%2520and%2520the%2520Floaters%2520ira&pg=PT38 |title=The A-Z of MSX Games: Volume 1 |date=2019-02-27 |publisher=Andrews UK Limited |isbn=978-1-78982-059-1 |language=en}}</ref>
+
+==Enhanced ports and re-releases==
+''Bomberman'' is most known for the [[Nintendo Entertainment System|NES]] version released in Japan on December 19, 1985 and in North America in January 1989. Hudson Soft's director of [[research and development]], Shinichi Nakamoto, commented in a 1995 interview that "I personally believe that the Famicom version of ''Bomberman'' is the one and only version of the game."<ref name="NGen3"/> This version was ported back to the MSX the following year as ''Bomberman Special''. Bomberman's appearance in this game ([[Hudson Soft]] re-used an enemy graphic taken from their own 1984 NES/Famicom port of [[Broderbund]]'s ''[[Lode Runner]]'') is an early version of Bomberman's more famous design, a robotic anime-like character with a pink antenna. The game was also released on [[Game Boy]] as a "Game B" mode of the game ''[[Atomic Punk]]''. In 2004, this version of ''Bomberman'' was re-released for the [[Game Boy Advance]] as part of the Famicom Mini series in Japan and the [[Classic NES Series]] in North America and Europe. It was released in the same year for the [[N-Gage (device)|N-Gage]].
+
+A remake/update was released for the PlayStation, titled ''Bomberman'' in Japan and Europe, and renamed ''[[Bomberman Party Edition]]'' in North America. This release features a port of the original version of the single-player game as well as a revised and updated version with pre-rendered 3D graphics and contemporary audio. The updated graphics and audio were also used for the multiplayer aspect of the game.
+
+==See also==
+* [[List of Bomberman video games|List of ''Bomberman'' video games]]
+* [[Last man standing (video games)]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Other sources==
+*Top Secret Passwords Nintendo Player's Guide
+*Bomberman Operation Manual, NES-BM-USA, Hudson Soft USA
+
+==External links==
+* {{WoS game|id=0001639|name=Eric and the Floaters}}
+* [https://web.archive.org/web/20040804112837/http://www.hudson.co.jp/gamenavi/gamedb/index.cgi?mode=info&f=BombermanFC Bomberman (Family Computer) - Hudson Game Navi] - Hudson Soft (Japanese) on Wayback Machine
+
+{{Bomberman series|state=expanded}}
+
+[[Category:1983 video games]]
+[[Category:Bomberman]]
+[[Category:Famicom Disk System games]]
+[[Category:FM-7 games]]
+[[Category:Game Boy Advance games]]
+[[Category:Mobile games]]
+[[Category:MSX games]]
+[[Category:NEC PC-6001 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:PlayStation Portable games]]
+[[Category:Puzzle video games]]
+[[Category:Sharp MZ games]]
+[[Category:Sharp X1 games]]
+[[Category:Video games about slavery]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games scored by Jun Chikuma]]
+[[Category:ZX Spectrum games]]
+[[Category:N-Gage games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Strategy video games]]
+[[Category:Single-player video games]]
+[[Category:Hudson Soft games]]

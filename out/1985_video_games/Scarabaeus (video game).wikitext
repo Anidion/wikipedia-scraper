@@ -1,0 +1,73 @@
+Scarabaeus (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Scarabaeus_%28video_game%29&oldid=1230498298
+Accessed on: 2024-06-26T16:59:06.679714
+
+
+
+------
+Scarabaeus (video game)
+{{Short description|1985 video game}}
+{{About|the computer game|the insect|Scarabaeus}}
+{{ref improve|date=December 2013}}
+{{Infobox VG 
+|title = Scarabaeus <br> Invaders of the Lost Tomb
+|image = [[File:ScarabaeusBoxArt.jpg|250px|Scarabaeus]]
+|caption = Box art
+|developer = Andromeda Software
+|publisher = [[Ariolasoft]]
+|designer = Andromeda Software
+|released = {{vgrelease|NA|1985<ref name="gamefaqs">{{cite web| url = http://www.gamefaqs.com/c64/564047-scarabaeus/data| title = Release information | publisher = [[GameFAQs]]| date = | accessdate = 2010-06-19}}</ref>|EU|1985<ref name="gamefaqs"/>}}
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64]]
+}}
+
+'''''Scarabaeus''''', known in America as '''''Invaders of the Lost Tomb''''', is a computer game released for the Commodore 64 in 1985. It was written in [[Hungary]] by Andromeda Software and distributed in the UK by [[Ariolasoft]]. The storyline features an astronaut and his dog who explore an Egyptian tomb (as revealed in the opening sequence) and need to find the Pharaoh's Jewel by solving puzzles spread over three levels. The game is played in 1st person view. A sequel was said to be in development in 1986 but was never released.<ref>{{Cite web|url=https://www.gamesthatwerent.com/gtw64/scarabaeus-2/|title=Scarabaeus 2 (C64) - 1986 Ariolasoft - GTW64|year=1986 }}</ref>
+
+==Genre==
+While earlier first-person maze-exploration games date as far back to the 1976 Commodore PET, Scarabaeus was considerably smoother and in color. The 3D effect was somewhat undermined by the odd-looking ghosts due to the sprites using expanded mode. 
+
+==Audio==
+While the music was not as level-aware as the groundbreaking soundtrack in Cosmi's Forbidden Forest game, the in-game music is still very impressive, given the era. Pressing the M or space keys will toggle between the soundtrack and sounds of your own breathing inside of the spacesuit.  JavaScript-compatible browsers can play 4 Scarabaeus audio segments via the DeepSID site. DeepSID's Remix tab for the Scarabaeus theme reveals two modern re-interpretations, with one being orchestral:
+
+https://deepsid.chordian.net/?file=/GAMES/S-Z/Scarabaeus.sid 
+
+
+==Gameplay==
+The three levels are linked by an elevator, and each is a maze of different size.
+
+===Level 1===
+The first level sees the astronaut trying to catch nine ghosts, each of which yields up a tablet with a hieroglyph on it (e.g., a snake, a bird, a hand); these hieroglyphs are needed on the next level.
+
+Exiting the level (which can be done at any time, not just after the ninth hieroglyph is taken) takes the astronaut to an elevator. This is operated by a crank, and the player needs to rotate the joystick through all directions in order to move the elevator down to the next level. If the player misses a direction during the rotation, then the elevator plummets down to the next level with significant loss of energy. The player may also proceed directly to the third level without completing, or even visiting, the second level.
+
+===Level 2===
+The second level has a bigger maze with 13 alcoves. Walking past an alcove will cause a spider to come out and follow the astronaut's route, although at a slower pace than him. While the alcove is vacant, the astronaut is able to look inside the alcove. The aim is thus to take the spider on a long journey around the maze, giving the astronaut enough time to study the alcove and solve the puzzles within.
+
+12 of the 13 alcoves contain two puzzles, one on the left and one on the right. The left-hand ones are made by a 4x5 grid of hieroglyphs like the ones collected on the previous level, linked to a bottle of potion, who can be medicine or poison. By carefully studying the grid, it is necessary to see if the nine hieroglyphs collected on the first level appear (in any order) in a 3x3 block within the 4x5 grid. If it's so, it means the bottle contains medicine, otherwise it contains poison. The player can activate it to mark it down as medicine but its true nature can only be found by trying it on the third level. The right-hand puzzles are identicals and can be solved in the same way, but they are linked to a mask instead. If the nine hieroglyphs fit in those grids, taking the mask will give the player a zombie trap, otherwise a loss of energy will occur. 
+
+The thirteenth alcove contains a tile-flipping puzzle. Initially some tiles are turned over while others not, and it is necessary to turn them all face up. Buttons around the tiles allow the player to flip rows, columns or diagonals, but not individual tiles. Success with this puzzle leads to the award of the Pharaoh's key which allows the astronaut to walk through walls on the third level.
+
+===Level 3===
+Medicines, zombie traps and the Pharaon's key can be used on the next level where the player must use the correct medicines in order to open clues to the puzzle in the center of the level containing the Jewel (medicine bottles believed to be correct from level 2 are on the bottom of the map). Walking into an alcove releases a zombie which must be trapped with the zombie traps. (indicated by masks at the bottom of the map) After all the medicine is taken, the player can then solve the puzzle in the middle of the map. The clues indicate where the hieroglyphs are to be lined up. The player must line them up in conjunction with the clues given in a limited number of moves otherwise the puzzle will lock and he will have to try again on another part. Successful completion opens the puzzle to access the inner sanctum where the Sacred jewel Scarabaeus lies winning the game.
+
+At the end of the game the player's score is tallied.
+
+==Reception==
+''Scarabaeus'' was awarded an overall mark of 96% in issue 8 of ''Zzap!64'' magazine, earning it a Sizzler award.
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{lemon64 game|id=2229|name=Scarabaeus}}
+
+[[Category:1985 video games]]
+[[Category:Action-adventure games]]
+[[Category:Andromeda Software games]]
+[[Category:Ariolasoft games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in Hungary]]
+[[Category:Video games set in Egypt]]

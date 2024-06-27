@@ -1,0 +1,68 @@
+Legacy of the Ancients
+Permalink: //en.wikipedia.org/w/index.php?title=Legacy_of_the_Ancients&oldid=1181156911
+Accessed on: 2024-06-26T17:02:31.680807
+
+
+
+------
+Legacy of the Ancients
+{{Infobox VG| title = Legacy of the Ancients
+|image = Legacy of the Ancients.jpg
+|image_size = 256px
+|developer = Quest Software, Inc.
+|publisher = [[Electronic Arts]]
+|released = 1987
+|genre = [[Role-playing video game]]
+|modes = [[Single-player]]
+|platforms = [[Apple II series|Apple II]], [[Commodore 64]], [[DOS]]
+}}
+
+'''''Legacy of the Ancients''''' is a [[fantasy]] [[role-playing video game]] published by [[Electronic Arts]] in 1987.
+
+==Gameplay==
+The player takes on the role of a young shepherd who finds and loots a recently dead body while on a first trip to the city, taking a black disk, a bracelet, and a leather scroll. The Galactic Museum mysteriously appears to the player after collecting these items. The player learns that by taking these items, he has become the next in a line of adventurers attempting to destroy the Wizard's Compendium, the leather scroll the player picked up.
+
+The museum has various display cases that require the insertion of special coins of various types to access. Some coins can be bought in random encounters with [[non-player character|NPCs]], some can be found as loot after combat, and some coins can only be found at the bottom level of various dungeons, meaning the player cannot proceed beyond a certain point until that dungeon is finished.
+
+Unlike many RPGs, the game does not use an [[experience point]] system. The player gains levels only through the successful completion of various quests.
+
+The game is mostly in [[Top-down perspective|top-down]] style for the world maps, towns, and castles, but switches to a [[3-D computer graphics|3D]] style in the dungeons and in the museum.
+
+Several different areas of the game, like games in towns and certain museum displays, allow the character to play in special [[mini-games]], which, if done successfully, will permanently increase attributes. Also, various casinos about the towns let players gamble to win money. It is also possible to rob banks in cities, but this attracts the attention of the town guards, who will remember the robbery until the player enters another town.
+
+==Copy protection==
+The game makes use of a [[code wheel]] copy protection that requires the player to match a gemstone and the name of a world on which another branch of the Galactic Museum exists. The player then has to enter a six-digit number to proceed. One of the worlds on the disk, Bantross, became the setting for the sequel, ''[[The Legend of Blacksilver]]''.
+
+Another part of the copy protection involves an attempt by the program to modify the program disk itself on startup and render it unusable. On authentic game disks, this operation fails since the disks are write-protected. When playing the game using an emulator, it is advisable to set the [[Filesystem permissions|read-only]] attribute for each disk image to avoid this modification.
+
+==Development==
+''Legacy of the Ancients'' shares a similar design to ''[[Questron]]''. Although not a sequel, it uses an updated engine shared by ''[[Questron (video game)|Questron]]'' and ''[[Questron II]]'',<ref>[http://www.mobygames.com/game/legacy-of-the-ancients Legacy of the Ancients - Moby Games]</ref> and the same developers worked on the games.<ref name="scorpia199110">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=87 | title=C*R*P*G*S / Computer Role-Playing Game Survey | magazine=Computer Gaming World | date=October 1991 | accessdate=18 November 2013 | author=Scorpia | pages=16}}</ref>
+
+==Reception==
+''[[Computer Gaming World]]'' in 1987 described ''Legacy of the Ancients'' as "an advancement by the design team that created Questron", with "more lavish use of color than its predecessor".<ref name="cgw198711">{{cite magazine | title=Christmas Buyers Guide | magazine=[[Computer Gaming World]] | date=November 1987 | pages=20 |url=https://archive.org/details/Computer_Gaming_World_Issue_41/page/n19/mode/2up |issue=41}}</ref> The magazine's [[Scorpia (journalist)|Scorpia]] in 1988 enjoyed the museum setting of the game, but noted there was very little interacting with the world. The game's difficulty was described as "suitable for beginner and intermediate-level play".<ref name = "CGW">{{Cite magazine | date = January 1988 | author = Scorpia | magazine = [[Computer Gaming World]] | url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=43 | title = Legacy of the Ancients | pages = 46–47, 50}}</ref> In 1993 she called the game "a hack'n'slash of moderate interest".<ref name="scorpia199310">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=111 | title=Scorpia's Magic Scroll Of Games | magazine=Computer Gaming World | date=October 1993 | accessdate=25 March 2016 | author=Scorpia | pages=34–50}}</ref>
+
+The game was reviewed in 1988 in ''[[Dragon (magazine)|Dragon]]'' #131 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 3½ stars.<ref name="Dragon131">{{cite journal
+|title=The Role of Computers
+|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk
+|journal=Dragon
+|issue=131
+|date=March 1988
+|pages=78–86}}</ref>
+
+==Reviews==
+* ''[[Isaac Asimov's Science Fiction Magazine]]'' v12 n6 (1988 06)<ref>{{cite web | url=https://archive.org/details/Asimovs_v12n06_1988-06/page/n57/mode/2up | title=Asimov's v12n06 (1988 06)}}</ref>
+
+==References==
+<references/>
+
+==External links==
+* {{Internet Archive game|msdos_Legacy_of_the_Ancients_1989|Legacy of the Ancients}}
+* [http://www.c64sets.com/legacy_ancients.html Images of ''Legacy of the Ancients'' package, manual, and screen]
+
+[[Category:1987 video games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Electronic Arts games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,89 @@
+TAC (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=TAC_%28video_game%29&oldid=1224682868
+Accessed on: 2024-06-26T16:56:01.263202
+
+
+
+------
+TAC (video game)
+{{short description|1983 video game}}
+{{italic title}}
+{{Infobox video game
+|title     = TAC
+|image     = Box_cover_of_TAC_videogame_1983.jpg
+|caption   =
+|developer = [[Microcomputer Games]]
+|publisher = [[Avalon Hill]]
+|designer  = Ralph Bosson
+|engine    = 
+|released  = 1983
+|genre     = [[Computer wargame|Wargame]]
+|modes     = [[Single-player video game|Single-player]], [[Multiplayer|two-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[IBM PC]]
+}}
+
+'''''T.A.C.''''' (Tactical Armor Command) is a [[top-down shooter|top-down]] tactical combat [[computer wargame]] published by [[Avalon Hill]] in 1983 for [[Apple II]], [[Atari 8-bit computers]], [[Commodore 64]], and [[IBM PC]]. The game takes place during the [[Second World War]] and simulates clashes involving the United States, the USSR, Germany and the United Kingdom.<ref name=CGW3.7>{{Cite magazine|title = Taking a Peek: TAC |magazine = [[Computer Gaming World]]|volume=3|number = 4|date= July–August 1983|pages = 6|issn = 0744-6667}}</ref>
+
+==Publication history==
+''TAC'' is a wargame designed by Ralph Bosson of Microcomputer Games, a division of Avalon Hill. The game was originally released for Apple II in 1983.<ref name=CGW3.5 /> It was later ported to Atari 8-bit, Commodore 64 and IBM PC.<ref name="CGW111" />
+
+==Description and gameplay==
+[[File:TAC_(video_game)_Atari_8-bit_PAL_screenshot.png|thumb|right|268px|Gameplay screenshot (Atari 8-bit)]]
+''TAC'' simulates, on a tactical scale, armored vehicle combat during the Second World War.<ref name="CGW111">{{Cite magazine|last= Brooks|first=Evan|title=Brooks' Book of Wargames: 1900-1950, A-P |magazine=[[Computer Gaming World]]|issue=111|date=September 1993|pages=146|issn = 0744-6667}}</ref> It can be played by a single player against the computer at four different difficulty levels, or against another player simultaneously on the same computer.
+
+===Scenarios===
+The game offers five different scenarios:
+# A standard engagement between the two forces. 
+# An attack against a defensive position that is protected by a minefield which can only be removed by infantry units.
+# An attack against a defensive position unguarded by mines, where the defender must successfully escape along a given route.
+# The player faces a continuous stream of Russian tanks and tries to destroy as many as possible. 
+# The two forces are initially separated by a minefield which they must clear in order to engage.
+
+===Set-up===
+Each player chooses which nation to play: United States, Soviet Union, Germany or the United Kingdom. For each nation, eight types of armored vehicles are available. After choosing a scenario, each player is allocated a certain number of points with which to buy different units, including infantry, tanks and anti-tank guns.<ref name=CGW3.5>{{Cite magazine|last= Richards|first= Dick|title = TAC: Review & Analysis |magazine = [[Computer Gaming World]]|volume=3|number = 5|date= October 1983|pages = 21, 49|issn = 0744-6667|url=http://pdf.textfiles.com/zines/CGW/1983_0910_issue12.pdf|access-date=2020-05-26}}</ref> For example, a player choosing the Americans can choose armored vehicles like the [[M4 Sherman]], the [[M10 Wolverine]], the [[M26 Pershing]], the [[M3 Lee]] or the [[M8 Greyhound]].<ref name=EGRev />
+
+===Map===
+The game takes place on a map representing a 1,800 × 2,000 meter section of a plain in northern Germany. The map is divided into fifteen sectors, identified by a letter (for the vertical axis) and a number (for the horizontal axis) and consisting of plain or forest. Each side can control up to eight units via the keyboard. Direction of movement, for example, on the Apple II and Commodore 64 is controlled with keys U, H, J and N, and on the IBM PC with the 8, 6, 2, and 4 keys on the number pad. (On the Atari 8-bit, all input is done with the joystick.)
+
+===Movement: Armor===
+When the movement phase begins, an armored unit advances in a straight line as far as possible, unless the player orders it to turn or turn around.
+
+===Movement: Infantry and artillery===
+Each unit of infantry and artillery units has a transport vehicle. When the unit is loaded on to the transport, it is in transport mode and cannot engage in combat. The unit becomes one with the transport vehicle, and if it is destroyed, the unit is also destroyed. When the infantry or artillery unit is unloaded, it is in combat mode and can fight. The unit is now independent of its transport vehicle and if the transport vehicle is destroyed, the unit can continue to fight.
+
+Without a transportation vehicle, infantry units can only move one square per player directional input. Artillery cannot move at all without a transportation vehicle.<ref name=CGW3.5 />
+
+===Combat===
+Combat can take five different forms:
+# Apart from infantry, most units can attempt [[indirect fire]] against unseen enemies in suspected locations. 
+# Armored combat vehicles can also overrun infantry or artillery units. 
+# Infantry can storm armored vehicles
+# Infantry units can engage in a firefight with another infantry unit. 
+# Artillery pieces can aim direct fire at any type of target.<ref name=CGW3.5 />
+
+==Reception==
+In the August 1983 edition of ''[[Softalk]]'' (Vol. 3, No. 12), Ralph Bosson was impressed  by the game, calling the graphics "first rate" and the attention to detail "awe inspiring." He concluded, "''TAC'' is a superb entry from Avalon Hill. It is a carefully researched and designed game of impressive sophistication, yet it's surprisingly easy to play and even a little addicting."<ref>{{cite journal | last =Bosson | first =Ralph | title =Marketalk Reviews | journal =Softalk | volume =3 | issue =12 | pages =173–174 | publisher =Softalk Publishing | date =August 1983 | url =https://archive.org/details/softalkv3n12aug1983/page/172/mode/2up | access-date =2020-08-14 }}</ref>  
+
+In the October 1983 edition of ''[[Computer Gaming World]]'', Dick Richards saw it as a fun and relatively realistic simulation of tactical combat between armored vehicles, and thought it retained its replayability over time. He did think that the game could have been even better had it incorporated a greater variety of different terrains, such as roads, rivers and ravines. Richards concluded "My overall reaction to ''TAC'' is positive. The graphics and sound effects are good."<ref name=CGW3.5 />
+
+A review in the November–December 1983 issue of ''Softline'' highlighted the superior graphics and sound effects of the game as well as its addictive game system.<ref name=Softline3.2>{{Cite journal
+|title= TAC|journal = Softline|volume=3|number = 2|date= November–December 1983|pages = 4}}</ref>
+
+Alex Pournelle, son of [[Jerry Pournelle]] of ''[[BYTE (magazine)|BYTE]]'', reviewed ''TAC'' in February 1984. He stated that it well replicated Avalon Hill board games while adding computer assistance to rules and data. While criticizing the documentation as insufficient and advising Avalon Hill to provide more scenarios, Alex said that ''TAC'' "is fun and refreshingly different". While naming it as his game of the month, the absence of the German [[Flak 88]] disappointed Jerry.<ref name="pournelle198402">{{cite news | url=https://archive.org/stream/byte-magazine-1984-02/1984_02_BYTE_09-02_Benchmarks#page/n113/mode/2up | title=Chaos Manor Gets Its Long-Awaited IBM PC | work=Byte | date=February 1984 | access-date=8 February 2015 | author=Pournelle, Jerry | page=113 | author-link=Jerry Pournelle}}</ref>
+
+In the May 1984 edition of ''[[Electronic Games]]'', Neil Shapiro was enthusiastic, calling the game "the best simulation of tank warfare this reviewer has seen on or off a computer screen." He called the sound quality "fantastic" and the quality of the graphics "beautifully executed." His only criticism was the lack of varied terrain, saying, "While the simulated "wooded plain" does have groves of trees in which to hide, such things as gullies and hills would have enriched the contest." Shapiro concluded, "From the high-resolution display of the battlefield to the canny, computer opponent, just about every aspect of both simulation and play is tops."<ref  name=EGRev>{{Cite journal|last= Shapiro|first= Neil|title = Articles of War : T.A.C.|journal = [[Electronic Games]]|volume=2|number= 12|date= May 1984|pages = 48–51|issn = 0730-6687}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:Computer wargames]]
+[[Category:DOS games]]
+[[Category:Microcomputer Games games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Tank simulation video games]]
+[[Category:Video games about Nazi Germany]]
+[[Category:Video games developed in the United States]]
+[[Category:World War II video games]]

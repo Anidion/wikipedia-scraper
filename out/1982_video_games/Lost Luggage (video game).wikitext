@@ -1,0 +1,71 @@
+Lost Luggage (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Lost_Luggage_%28video_game%29&oldid=1221205395
+Accessed on: 2024-06-26T16:53:38.057490
+
+
+
+------
+Lost Luggage (video game)
+{{short description|1982 action game}}
+{{featured article}}
+{{Infobox video game
+| title = Lost Luggage
+| image = Lost Luggage box.jpg
+| caption = 
+| designer =Ed Salvo<ref>{{cite web|url=https://dadgum.com/giantlist/|title=The Giant List of Classic Game Programmers |last1=Hague |first1=James}}</ref>
+| developer =[[Games by Apollo]]
+| publisher =Games by Apollo
+| released =September 1982
+| genre =[[Action game|Action]]
+| modes =[[Single-player video game|Single-player]]<br />Two-player simultaneous
+| platforms =[[Atari 2600]]
+}}
+
+'''''Lost Luggage''''' is a 1982 [[action game|action video game]] developed and published by [[Games by Apollo]] for the [[Atari 2600]]. The player controls [[skycap]]s working at an airport and tries to collect pieces of luggage that fall overhead from a frantic [[luggage carousel]]. A two-player mode, in which the second player controls the direction the luggage falls, is also available.
+
+Programmer Ed Salvo was inspired to make ''Lost Luggage'' when he was waiting for his luggage at the [[Dallas/Fort Worth International Airport]], and the game took around four weeks to produce. Reviewers criticized the game's similarity to [[Activision]]'s ''[[Kaboom! (video game)|Kaboom!]]''—which itself is based on the arcade game ''[[Avalanche (video game)|Avalanche]]''—believing ''Lost Luggage'' to be an inferior clone.
+
+==Gameplay==
+[[File:Lost Luggage gameplay.png|thumb|left|The two skycaps collecting luggage]]
+
+''Lost Luggage'' is an [[action game]] in which the player controls [[skycap]] [[Porter (carrier)|porters]] who are attempting to collect falling luggage from a wildly unpredictable [[baggage carousel]].<ref name=promocat>{{cite book|title=Lost Luggage promotional catalog|date=1982|publisher=[[Games by Apollo]]|page=2|url=http://www.atarimania.com/catalogues/hi_res/cat262082.jpg|access-date=June 6, 2014}}</ref> The objective is to collect all the suitcases that fall from the carousel before they hit the ground. The player starts with three suitcases, which act as [[life (gaming)|lives]], and whenever a suitcase hits the floor, the player loses one. If all of the player's suitcases are lost, the game ends.<ref name=manual>{{cite web|title=Lost Luggage Manual|url=https://atariage.com/manual_html_page.html?SoftwareLabelID=277|publisher=[[Games by Apollo]]|date=September 1982|access-date=June 6, 2014|archive-url=https://web.archive.org/web/20140714180053/https://atariage.com/manual_html_page.html?SoftwareLabelID=277|archive-date=July 14, 2014|url-status=dead}}</ref>
+
+There are two difficulty levels, and depending on the difficulty selected, players can control one skycap or two at once. There is also a two-player competitive mode where the second player controls the direction of the flying baggage.<ref name=Rovi>{{cite web|last1=Weiss|first1=Brett Alan|title=Lost Luggage&nbsp;– Overview|url=http://www.allgame.com/game.php?id=8347|website=[[AllGame]]|date=February 18, 2003|archive-url=https://web.archive.org/web/20141114105225/http://www.allgame.com/game.php?id=8347 |archive-date=November 14, 2014 |url-status=dead}}</ref> Another mode, featuring "terrorist suitcases", is available; enabling this mode will cause black suitcases to appear mixed with the regular baggage.<ref name=manual/><ref name=Rovi/> These black suitcases will cause the game to instantly end if they touch the floor, regardless of the player's current number of collected suitcases.<ref name=manual/>
+
+==Development==
+''Lost Luggage'' was developed by [[Games by Apollo]], a video game studio based in [[Richardson, Texas]],<ref>{{cite book|last1=Herman|first1=Leonard|last2=Feinstein|first2=Keith|title=Phoenix: The Fall & Rise of Videogames|url=https://books.google.com/books?id=duITAQAAIAAJ|date=September 1, 1997|publisher=Rolenta Press|isbn=978-0-9643848-2-8|page=55}}</ref> which targeted the game at people who traveled regularly, believing that they would like its content.<ref>{{cite book|last1=Herman|first1=Leonard |last2=Feinstein|first2=Keith |title=Phoenix: The Fall & Rise of Videogames|url=https://books.google.com/books?id=duITAQAAIAAJ |date=September 1, 1997 |publisher=Rolenta Press|isbn=978-0-9643848-2-8|page=78}}</ref> At the time of ''Lost Luggage''{{'}}s development, the company employed five people.<ref name=runv>{{cite web|last1=Stilphen|first1=Scott|title=DP Interviews... Ernie Runyon|url=http://www.2600connection.com/interviews/ernie_runyon/interview_ernie_runyon.html|website=2600 Connection|date=March 17, 2013|access-date=June 7, 2014|url-status=dead|archive-url=https://web.archive.org/web/20140701200404/http://www.2600connection.com/interviews/ernie_runyon/interview_ernie_runyon.html|archive-date=July 1, 2014}}</ref> The game was conceived by programmer Ed Salvo. He had been at the [[Dallas/Fort Worth International Airport]] after a meeting with Apollo founder Pat Roper and was waiting at the carousel for his luggage to arrive.<ref name=salv>{{cite web|last1=Stilphen|first1=Scott|title=DP Interviews... Ed Salvo|url=http://www.digitpress.com/library/interviews/interview_ed_salvo.html|website=Digital Press|access-date=June 7, 2014|date=December 5, 2010}}</ref> Later, Salvo discussed the concept of the game with Roper, and they came up with the idea to have the carousel "spewing unmentionables."<ref name=runv/>
+
+Afterwards, Salvo presented artist Ernie Runyon with a rough sketch of his ideas for the game. The crew of Apollo [[brainstorming|brainstormed]] titles for half an hour before deciding on ''Lost Luggage''; Runyon later remembered one of the proposed titles was "Airport Mayhem". Runyon programmed the game with help from Salvo. He has stated he would have liked to include a luggage train, but there was not enough room in the 4-[[kilobyte]] cartridge. Salvo had difficulties with [[collision detection]] and synchronizing the character movements with the joystick, which took one week to fix. Due to a hardware issue, a graphical bug would also occur whenever a suitcase was captured, which was solved by compiling the game on another computer.<ref name=runv/>
+
+The sound effects and music for ''Lost Luggage'' were created by Larry Minor. According to Runyon, the game was the first to integrate music on the 2600 as opposed to only sound effects.<ref name=runv/> Salvo estimated that ''Lost Luggage'' took a total of four weeks to complete.<ref name=salv/> A four-minute advertising jingle was made by Byron Parks for the game. Apollo founder Pat Roper was "fishing for ad material", and Parks belonged to a sound studio which Roper also owned. The jingle was never used, and in a 2013 interview Runyon recalled that he did not "know or remember where it was intended for use."<ref name=runv/>
+
+Following the release of ''Lost Luggage'', Runyon departed Games by Apollo, making it the only game he worked on at the studio.<ref name=runv/> Salvo eventually left as well.<ref name=salv/> The studio filed for [[Chapter 11 bankruptcy]] on November 12, 1982, due to pressure from its advertising agency [[Benton & Bowles]], to which Apollo owed $2.5 million (out of a $5 million total debt). Although Roper expected the company to return in a "smaller form",<ref>{{cite magazine|title=Vid Game Firm Apollo Files Chapter XI|url=https://books.google.com/books?id=WiQEAAAAMBAJ&pg=PT62|access-date=June 30, 2014|magazine=[[Billboard (magazine)|Billboard]]|date=December 4, 1982|volume=94|number=48|issn=0006-2510}}</ref> Apollo closed in 1983 after reorganization attempts failed.<ref>{{cite web|title=AGH&nbsp;– Third Party Profile: Apollo|url=http://www.atarihq.com/2678/3party/apollo.html|website=Atari Gaming Headquarters|access-date=June 30, 2014|date=January 23, 2005}}</ref>
+
+==Release==
+Games by Apollo released ''Lost Luggage'' in September 1982.<ref name=LT>{{cite journal|title=Low Talk|journal=[[Texas Monthly]]|date=September 1982|page=112|url=https://books.google.com/books?id=GC4EAAAAMBAJ&pg=PA112|access-date=June 7, 2014|volume=10|number=9|last1=Communications|first1=Emmis}}</ref> Two versions were released, differentiated by the color of the label. Cartridges with blue labels feature an opening sequence in which the character takes out the three starting suitcases. In the green-labeled version, the game may be restarted by pressing the fire button, which does nothing in the blue-labeled version. Neither Salvo nor Runyon were aware of the existence of this version. Runyon speculated that Salvo may have found more space after [[tweaking]] the game and added the features,<ref name=runv/> while Salvo did not "remember doing any of this and I can't conceive of anyone at Apollo messing with the game after it went to production."<ref name=salv/>
+
+==Reception==
+{{Video game reviews
+| Allgame = 2/5<ref name=Rovi/>
+| rev1 = Atari HQ
+| rev1Score = 4/10<ref name=Iida/>
+}}
+''Lost Luggage'' received mixed reviews upon release.  [[Bill Kunkel (gaming)|Bill Kunkel]] and Arnie Katz wrote in a 1982 issue of the magazine ''[[Electronic Games]]'' that ''Lost Luggage'' did not have "the spark of greatness". While they praised the game for shifting away from "the typical SF shoot-out" and said that it was "solid" and "playable", they remarked on its plain-looking graphics and said that "even the greatest concept cannot make a great game when it isn't blended with an outstanding type of play action."<ref>{{cite journal|title=Lost Luggage|journal=[[Electronic Games]]|date=November 1982|page=36|url=https://archive.org/stream/Electronic_Games_Volume_01_Number_09_1982-11_Reese_Communications_US#page/n35/mode/2up|access-date=June 7, 2014|volume=1|number=9}}</ref> Writing for ''Video'', Kunkel and Katz commented on the game's "incredibly cute touches", but suggested that Apollo may have better "scrimp[ed] on the frills" in favor of additional gameplay challenges.<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= November 1982 |title= Arcade Alley: Beyond Science Fiction–A New Breed of Games |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 8|pages= 40, 110|issn= 0147-8907}}</ref> [[Danny Goodman]] of ''[[Creative Computing]] Video & Arcade Games'' wrote that "graphics are fun to watch, but the game play for experienced players gets old fast".<ref name="goodman1983spring">{{Cite magazine |last=Goodman |first=Danny |author-link=Danny Goodman |date=Spring 1983 |title=Home Video Games: Video Games Update |url=http://www.atarimagazines.com/cva/v1n1/vgupdate.php |magazine=Creative Computing Video & Arcade Games |page=32}}</ref> A reviewer for the magazine ''TV Gamer'' recommended the game for children, but felt that seasoned video game players would enjoy ''[[Kaboom! (video game)|Kaboom!]]'' more.<ref>{{cite journal|title=Lost Luggage|journal=TV Gamer|publisher=Boytonbrook|date=June 1983|page=28|url=https://archive.org/stream/TV_Gamer_1983-06_Boytonbrook_GB#page/n27/mode/2up|access-date=June 7, 2014}}</ref> More positive opinions were from ''[[Videogaming Illustrated]]'', which described the game as the most charming of Apollo's releases,<ref>{{cite journal|title=Apollo, Like Its Namesake, Shoots For The Videogame Stars|journal=Videogaming Illustrated|date=August 1982|page=8|url=https://archive.org/stream/Videogaming_Illustrated_1982-08_Ion_International_US#page/n7/mode/2up|access-date=June 7, 2014}}</ref> and ''[[Texas Monthly]]'', which described it as a "fiendish little amusement."<ref name=LT/>
+
+Modern reviews have been largely critical&nbsp;– Brett Alan Weiss, writing for [[AllGame]], considered the game to be a "slower, less intense, less enjoyable" version of ''Kaboom!''. He criticized the lack of support for the [[Paddle (game controller)|paddle]] controller, and stated that not even the two-player and terrorist modes made the game enjoyable.<ref name=Rovi/> In his book ''Classic Home Video Games'', Weiss wrote that ''Lost Luggage'' was a "fleeting pleasure", opining that "the airplanes flying overhead look nice, but the rest of the game is ordinary in appearance" and that the difficulty curve and action were poor.<ref>{{cite book|author=Weiss, Brett|title=Classic Home Video Games, 1972–1984: A Complete Reference Guide|url=https://books.google.com/books?id=BzxTtml8Jq4C&pg=PA76|date=March 7, 2012|publisher=McFarland & Company|isbn=978-0-7864-8755-4|pages=76}}</ref> Writing for Atari HQ, Keita Iida commented that "there are good ''Kaboom!'' clones (''[[Eggomania]]'') and then there are bad ones (this one)." Iida believed that if the game was not as similar to ''Kaboom!'' then it would be "mildly amusing", but that the better alternatives hampered it.<ref name=Iida>{{cite web|last1=Iida|first1=Keita|title=AGH Atari 2600 Review&nbsp;– Lost Luggage|url=http://www.atarihq.com/reviews/2600/lost_luggage.html|website=Atari HQ|date=January 25, 2005|access-date=June 7, 2014|ref=Iida}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Internet Archive game|atari_2600_lost_luggage_1981_apollo_-_games_by_apollo_ernie_runyon_ed_salvo_ap-20}}
+
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Fiction about airports]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Games by Apollo]]
+[[Category:Video games developed in the United States]]
+[[Category:Video game clones]]
+[[Category:Multiplayer and single-player video games]]

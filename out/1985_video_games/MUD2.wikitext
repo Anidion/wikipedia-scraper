@@ -1,0 +1,83 @@
+MUD2
+Permalink: //en.wikipedia.org/w/index.php?title=MUD2&oldid=1226385682
+Accessed on: 2024-06-26T16:58:50.791496
+
+
+
+------
+MUD2
+{{Infobox video game
+| title = MUD2
+| image = MUD2 Logo.png
+| developer = [[Multi-User Entertainment]] {{plainlist|
+* Roy Trubshaw
+* [[Richard Bartle]]
+* Simon Dally}}<ref name="background">{{Cite web |title=MUSE Ltd.: Background |url=https://mud.co.uk/muse/backgrnd.htm |access-date=2024-05-29 |website=mud.co.uk}}</ref>
+| engine = [[MUDDLE (programming language)|MUDDLE]]<ref>{{Cite web |title=MUSE Ltd.: MUDDLE |url=https://mud.co.uk/muse/muddle_.htm |access-date=2024-05-29 |website=mud.co.uk}}</ref>
+| released = 1985
+| genre = [[Fantasy]] [[Multi-user dungeon|MUD]]
+| modes = [[Multiplayer video game|Multiplayer]]
+| platforms = [[Cross-platform|Platform independent]]
+}}
+
+'''''MUD2''''' is the successor of ''[[MUD1]]'', [[Richard Bartle]]'s pioneering [[Multi-user dungeon|Multi-User Dungeon]]. ''MUD2'' is not a sequel to ''MUD1'', instead being a heavily updated version of ''MUD1'' (''MUD1'' is officially version 3 of the codebase, ''MUD2'' is version 4) - with the engine being implemented in [[C (programming language)|C]], featuring significantly more content than ''MUD1'', and uses a flexible object-oriented scripting language (''MUDDLE'') to define content as opposed to ''MUD1'''s 'glorified table lookup system' (''MUDDL'').<ref>{{Cite web |title=MUSE Ltd.: MUD2 |url=https://mud.co.uk/muse/muse/muse/mud_2.htm |access-date=2024-05-29 |website=mud.co.uk}}</ref><ref>{{Cite web |title=History - MUD2 |url=https://www.mud2.com/CMS/index.php/about/history |access-date=2024-05-29 |website=www.mud2.com}}</ref>
+
+The game is nominally a [[roleplaying game]], with a very strict set of rules, character classes and levels. Characters progress up a ladder of 11 levels until they reach the traditional [[Multi-user dungeon|MUD]] goal of wiz ([[Wizard (character class)|wizard]] or [[witch]]).
+
+Characters move between locations, or game rooms, using compass directions, and basic commands such as <code>GET LONGSWORD</code>, <code>GET DIAMOND</code>, <code>KILL DWARF WITH LONGSWORD</code>. Points are scored by dropping treasure in the room known as the swamp, performing certain actions, killing an [[non-player character|NPC]], or killing another player. The game also includes magical powers, which are gained through a mystical artifact known as The Touchstone. The small side effect of this is that touching the Touchstone may kill you, with the likelihood of death decreasing as you get higher in level - but death is always possible.<ref>{{Cite web |title=Your persona - MUD2 |url=https://mud2.com/CMS/help/library/?view=article&id=43 |access-date=2024-05-29 |website=mud2.com}}</ref> In order to make Wiz, one must also complete seven of eight tasks (in addition to reaching the point threshold and surviving the touchstone). Wizzes are effectively granted limitless power over the world itself, with powers including the ability to add more content to the world (areas, mobiles, items, etc), freely manipulate objects in the world (including the personae of logged-in players), and can freely destroy anything (or anyone!) if they so desire - of course, this does come with the responsibility to use one's acquired Wizdom to assist with managing the game.<ref>{{Cite web |title=Wizards and witches - MUD2 |url=https://mud2.com/CMS/help/library/?view=article&id=51 |access-date=2024-05-29 |website=mud2.com}}</ref> 
+
+Just like its predecessor, ''MUD2'' features [[permadeath]], with one's persona being deleted if killed in combat (whether by a [[Mob (video games)|mobile]] or another player) - however, most environmental deaths (besides some such as the aforementioned Touchstone) merely cause one's persona to lose points and return the player to the title screen.<ref>{{Cite web |title=Fighting - MUD2 |url=https://mud2.com/CMS/help/library/?view=article&id=46 |access-date=2024-05-29 |website=mud2.com}}</ref> If one wishes to play without being killed by other players, it's possible for one to make their persona a 'Protected Persona' (PP) by using the <code>VOW</code> command in the tearoom (the starting room). However, Protected Personae ''cannot'' obtain Wizdom, can still be killed by anything besides a player, and un-protecting a PP (willingly via <code>UNVOW</code> in the tearoom, or automatically upon reaching 102,400 points) costs 2/3 of one's points.<ref>{{Cite web |title=How do I stop being attacked? - MUD2 |url=https://mud2.com/CMS/help/library/?view=article&id=80 |access-date=2024-05-29 |website=mud2.com}}</ref>
+
+The game's levels are laid out as follows:
+
+{| class="wikitable"
+|-----
+| '''Level''' || '''Magical''' || '''Points'''
+|-----
+| Novice || - || 0
+|-----
+| Protector || Seer || 200
+|-----
+| Yeoman || Soothsayer || 400
+|-----
+| Warrior || Cabalist || 800
+|-----
+| Swordsman || Magician || 1,600
+|-----
+| Hero || Enchanter || 3,200
+|-----
+| Superhero || Spellbinder || 6,400
+|-----
+| Champion || Sorcerer || 12,800
+|-----
+| Guardian || Necromancer || 25,600
+|-----
+| Legend || Warlock || 51,200
+|-----
+| Sir || Mage || 102,400
+|-----
+| - || Wizard || 204,800
+|}
+
+It is generally acknowledged that the biggest challenge in the game is other players, and highly skilled players that have made wiz will actively test "mortal" players to ensure they have the required level of skill to complete, and then manage the game.
+
+Much of MUD2's long-running appeal comes from its much-celebrated depth, and its wide-ranging gameplay, as it contains large elements of puzzle-solving and exploration, as well as elements of skill, chance, and humour.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.mudii.co.uk Version of MUD2 based in England]
+*[https://www.mud2.com Version of MUD2 based in Canada]
+*[https://www.mud.co.uk/richard Richard Bartle's site, containing a wealth of MUD information]
+*[https://mud2.net/muddledtimes/site/index.html Muddled Times, a MUD2 magazine]
+*[https://gamefaqs.gamespot.com/pc/359386-multi-user-dungeon-2-mud2/faqs MUD2 GameFAQs Information Repository]
+*[https://mudii.glitch.me Unofficial in-browser client for the mudii.co.uk instance of MUD2]
+
+{{MUDs}}
+
+[[Category:1985 video games]]
+[[Category:Role-playing video games]]
+[[Category:MUD games]]
+[[Category:Mainframe games]]
+[[Category:Video games developed in the United Kingdom]]

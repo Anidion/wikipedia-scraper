@@ -1,0 +1,74 @@
+Anacreon: Reconstruction 4021
+Permalink: //en.wikipedia.org/w/index.php?title=Anacreon%3A_Reconstruction_4021&oldid=1219486933
+Accessed on: 2024-06-26T17:01:33.287510
+
+
+
+------
+Anacreon: Reconstruction 4021
+{{refimprove|date=January 2017}}
+{{Infobox video game
+|title = Anacreon: Reconstruction 4021
+|image = Anacreon - Reconstruction 4021 Coverart.png
+|caption =
+|developer = Thinking Machine Associates
+|publisher = Thinking Machine Associates
+|designer = George Moromisato
+|series = ''Anacreon''
+|engine =
+|released = 1987
+|genre = Strategy
+|modes =
+|platforms = [[MS-DOS]]
+}}
+'''''Anacreon: Reconstruction 4021''''' is a video game written by George Moromisato for [[MS-DOS]]  and published by Thinking Machine Associates in 1987. ''Anacreon'' is a turn-based game in which human and computer players explore the galaxy, conquering worlds and putting them to use to fuel their war machines. The game resembles ''[[Stellar Conquest]]'' and ''[[Hamurabi (video game)|Hamurabi]]''.{{r|pournelle198901}} It was inspired by [[Isaac Asimov]]'s ''[[Foundation series|Foundation]]'' series of novels.
+
+A [[Microsoft Windows|Windows]] [[Video game remake|remake]], ''Anacreon: Imperial Conquest in the Far Future'', was released by George Moromisato in 2004. [[Beta (software)|Beta]]-testing for ''Anacreon 3'', a new web-based version, started in late 2012.
+
+==Gameplay==
+The gameplay focuses on optimizing resource management on a network of conquered worlds in order to fuel further conquest. As worlds are discovered and (hopefully) conquered, they are put to uses that best suit their climates, natural resource bases, and technology levels, with networks of transport fleets relaying various types of material from world to world. These captured worlds and vulnerable transport fleets must be protected against incursions from competing players, both human- and computer-controlled. Success in Anacreon requires a good grasp of [[Micromanagement (computer gaming)|micromanagement]] strategy.
+
+Combat, both fleet versus fleet and planetary invasions, is handled in a simple tactical display, with the defender's ships and/or planetary defenses arranged in distinct orbits. Only the attacker has any control over the course of combat. The defender may send an empire-wide allocation of ships into various orbits, but defending forces are handled automatically by the computer. Unlike many games in similar genres, combat is almost entirely a matter of numbers. Though movement between orbits and the kind of ships targeted are left up to the attacker, combat is resolved automatically with very little chance involved. The player with the more powerful fleet will almost certainly win, though if the odds are close enough, it is possible for an attacker to lose due to mismanagement.
+
+Many features now commonplace in science-fiction 4X games – ''[[Master of Orion]]'', ''[[Pax Imperia]]'', ''[[Galactic Civilizations]]'' – can be found, arguably, originally in ''Anacreon''. The game includes four different kinds of planetary defense, each with different ranges and potencies, five kinds of warship, two transport classes, and two grades of ground troops. Ships range in speed from slow warp drives (one sector per turn) to fast jump drives (ten sectors per turn), and making the best use of the different ship classes is one of the more important features of the game.
+
+Basic resources consist of chemicals, metals, supplies, and "trillum", the latter of which serves as fuel for the game's interstellar ships. Chemicals, metals, and supplies may be produced [[ad infinitum]], but each world comes with trillum deposits of a fixed value which, once depleted, cannot be restored. For this reason, the control and distribution of trillum resources becomes of essential importance, especially late in the game. The game also includes a resource called "ambrosia", a performance-enhancing drug used to both boost planetary production and produce higher quality soldiers.
+
+A variety of space [[megastructure]]s can be built, ranging from minefields and simple [[space station]]s to [[wormhole|star gates]] and artificial [[planet]]s.
+
+==Development==
+Released in 1987/1988, the game was later with version 1.3 released as [[freeware]].<ref name="hotu">[https://web.archive.org/web/20031113223008/http://www.the-underdogs.org/game.php?id=55 Anacreon] on [[Home of the Underdogs]] (archived)</ref> It is written in [[Turbo Pascal]].{{Citation needed|date=July 2022}} The [[source code]] was released for the [[MS-DOS]] version.{{Citation needed|date=July 2022}}
+
+==Reception==
+[[Jerry Pournelle]] of ''[[BYTE]]'' stated in January 1989 that ''Anacreon'' "is filled with excellent ideas, mostly well implemented, and then spoiled by inattention to some vital detail". While admitting that he had "just spent the last 2 days (and nights) playing" the game—"really a darned good implementation of the [[Stellar Conquest]] idea"—Pournelle cited the "annoyingly buggy [and] incomplete" user interface, inability to easily select a planet, need to micromanage units unlike ''[[Empire: Wargame of the Century]]'', and other issues that he stated showed a lack of proper [[playtesting]] and were common to products from small startup companies. He nonetheless named ''Anacreon'' as his game of the month, concluding that "despite its problems, it's playable and the flavor is good, much like [[H. Beam Piper|Beam Piper]]'s old ''[[Space Viking]]'' series. Also, the author is busily fixing bugs even as I write this".<ref name="pournelle198901">{{Cite journal |last=Pournelle |first=Jerry |author-link=Jerry Pournelle |date = January 1989 |title=To the Stars |url=https://archive.org/stream/byte-magazine-1989-01/1989_01_BYTE_14-01_PC_Communications_and_Annual_Awards_and_Digitizing_Tablets#page/n137/mode/2up |journal=[[Byte (magazine)|BYTE]] |page=109}}</ref>
+
+==Legacy==
+In 2004, George Moromisato released an update to the game making it run natively in a [[Windows 9x]] environment. Some of the changes were largely functional, e.g. the ability to use the mouse, bug fixes, graphical updates, etc. But one change radically altered the gameplay, namely the ability to store more than 9999 of a given ship or resource type in a single fleet or planet, something not allowed by the mechanics of the original 1987 release and its patches. This corrected a major problem with resource distribution, as no single planet could produce more than 9999 of anything in a single turn, creating critical resource bottlenecks. It also significantly affected strategy and tactics, as it makes it possible to assemble enough cheaper, weaker ships in a single fleet to defeat a smaller number of more expensive, stronger ships, something previously only possible on a very small scale.
+
+In late 2012 George Moromisato revealed that he would be revamping his oldest game and releasing a beta-test version of ''Anacreon 3'' written for web browsers making it accessible from mobile devices and tablets.
+
+==See also==
+* [[List of 4X video games]]
+
+==References==
+{{Reflist}}
+
+==External links==
+Official material:
+* [http://www.neurohack.com/anacreon/ Anacreon 2.x home page], maintained by George Moromisato.
+* [https://anacreon.kronosaur.com/ New browser-based Anacreon], developed by George Moromisato.
+Reviews
+* {{Mobygames|id=/anacreon-imperial-conquest-in-the-far-future}}
+* [http://trollitc.com/2009/03/anacreon-the-best-video-game-ever/ Anacreon: The Best Video Game Ever]
+Re-implementation projects:
+* [http://www.sourceforge.net/projects/ardreil Project page for ArdReil] an [[Open-source video game|open-source]] [[Video game remake|reimplementation]] of Anacreon 1.x.
+
+{{DEFAULTSORT:Anacreon}}
+[[Category:1987 video games]]
+[[Category:DOS games]]
+[[Category:Windows games]]
+[[Category:4X video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Freeware games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video games developed in the United States]]

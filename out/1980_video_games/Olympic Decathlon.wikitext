@@ -1,0 +1,61 @@
+Olympic Decathlon
+Permalink: //en.wikipedia.org/w/index.php?title=Olympic_Decathlon&oldid=1154816319
+Accessed on: 2024-06-26T16:51:47.581603
+
+
+
+------
+Olympic Decathlon
+{{Short description|1980 video game}}
+{{about|the 1980 computer game|the track and field event|decathlon}}
+{{Italic title}}
+{{Infobox VG
+ |title       = Olympic Decathlon
+ |image       = Microsoft Decathlon cover.jpg
+ |developer   = Timothy W. Smith<ref name="giantlist"/>
+ |publisher   = [[Microsoft|Microsoft Consumer Products]]<br>[[IBM]] (PC)
+ |director    = 
+ |designer    = 
+ |composer    = 
+ |engine      = 
+ |released    = '''1980:''' TRS-80<br>'''1981:''' Apple II<br>'''1982:''' IBM PC
+ |genre       = [[Sports game|Sports]]
+ |modes       = 1-6 players alternating<ref name="retro"/>
+ |platforms   = [[TRS-80]], [[Apple II]], [[IBM Personal Computer|IBM PC]]
+}}
+'''''Olympic Decathlon''''' is a [[sports video game]] written by Timothy W. Smith for the [[TRS-80]] and published in 1980 by [[Microsoft]].<ref name="giantlist"/> In the game, the player competes in ten track and field events. The gold medalist for decathlon in the [[Montreal]] [[1976 Summer Olympics]], [[Caitlyn Jenner]] (then known as ''Bruce Jenner'')<!-- Please see [[MOS:DEADNAME]]. -->, is a character. It was ported to the [[Apple II]] in 1981. The 1982 version for the [[IBM Personal Computer|IBM PC]] was renamed '''''Microsoft Decathlon'''''.
+
+==Gameplay==
+The ten events in the game are the [[100 metres|100m]] run, [[long jump]], [[shot put]], [[high jump]], [[400 metres|400m]] run, [[100 metres hurdles|100m hurdles]], [[discus throw|discus]], [[pole vault]], [[javelin throw|javelin]], and [[1500 metres|1500m]] run.<ref name="reed"/> The running events involve alternately pressing the 1 and 2 keys.<ref name="retro"/> Other events have more-complex controls, with the pole vault using five different keys.<ref name="reed"/>
+
+==Reception==
+''Decathlon'' received the ''Creative Computing'' Game of the Year Award at the 1980 [[West Coast Computer Faire]].{{r|kater198112}} ''[[Byte (magazine)|BYTE]]'' in 1981 called ''Decathlon'' "a great party game"<ref name="wiliams198112">{{cite news | url=https://archive.org/stream/byte-magazine-1981-12/1981_12_BYTE_06-12_Computer_Games#page/n7/mode/2up | title=New Games New Directions | work=BYTE | date=December 1981 | accessdate=19 October 2016 | author=Williams, Gregg | pages=6–10}}</ref> and "a remarkable simulation ... challenging and entertaining", praising the adherence to the real decathlon's rules and the TRS-80 and Apple II versions' graphics.<ref name="kater198112">{{cite news | url=https://archive.org/stream/byte-magazine-1981-12/1981_12_BYTE_06-12_Computer_Games#page/n75/mode/2up | title=Olympic Decathlon | work=BYTE | date=December 1981 | accessdate=19 October 2013 | author=Kater, David A | pages=74}}</ref> ''[[Computer Gaming World]]'' stated in 1982 that ''Decathlon'' "has all the characteristics that are required of a long-lasting, quality game". It described the game as having "superb graphics and sound", and concluded that "it is an important contribution to the computer gaming hobby".<ref name="sipe19820506">{{cite magazine | title=Olympic Decathlon: A Classic Computer Game | magazine=Computer Gaming World | date=May–June 1982 | author=Sipe, Russell | pages=32–33}}</ref>
+
+Former decathlete Douglas Cobb wrote in ''[[PC Magazine]]'' in 1983 that "this impressive, realistic game brings back vivid memories and provides exciting entertainment through all ten events. The jumping and throwing events are particularly authentic, applying theories used in actual competition. Strategies combining speed, timing, and direction are authentic enough to help an Olympic hopeful train on the basic principles behind the individual events".<ref name="cobb198312">{{cite news | url=https://books.google.com/books?id=vy3cBZkjbZgC&pg=RA2-PA139 | title=Running, Reptiles, and 'Rithmetic | work=PC Magazine | date=December 1983 | accessdate=21 October 2013 | author=Cobb, Douglas | pages=139}}</ref> In 1984 ''[[InfoWorld]]'' wrote that "no one's topped it yet. If I were Microsoft, I'd market the heck out of [''Decathlon''] [[1984 Summer Olympics|this summer]]".<ref name="mace19840227">{{cite news | url=https://books.google.com/books?id=gy4EAAAAMBAJ&pg=PA66 | title=Olympic games on the way | work=InfoWorld | date=1984-02-27 | accessdate=18 January 2015 | author=Mace, Scott | pages=66}}</ref>
+
+==Reviews==
+* ''[[Moves (magazine)|Moves]]'' #56, p29<ref>[https://strategyandtacticspress.com/library-files/Moves%20Issue56.pdf ''Moves'' issue 56] Strategy and Tactics Press</ref>
+* ''[[Moves (magazine)|Moves]]'' #58, p29-30<ref>[https://strategyandtacticspress.com/library-files/Moves%20Issue58.pdf ''Moves'' issue 58] Strategy and Tactics Press</ref>
+
+==Legacy==
+''Olympic Decathlon'' was one of first sports-related programs to mix game and simulation elements, with its Olympic track-and-field gameplay preceding [[Konami]]'s ''[[Track & Field (video game)|Track & Field]]'' (1983) by several years,<ref name="reed"/> as well as ''[[The Activision Decathlon]]'' (1983).
+
+== References ==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+<ref name="retro">{{cite web|title=Retro Game Retrospective: Olympic Decathlon/Microsoft Decathlon|url=http://www.retrogamenetwork.com/2012/08/11/retro-game-retrospective-olympic-decathlonmicrosoft-decathlon/|website=Retro Game Network}}</ref>
+<ref name="reed">{{cite web|last1=Reed|first1=Matthew|title=Olympic Decathlon|url=http://www.trs-80.org/olympic-decathlon/|website=TRS-80.org}}</ref>
+}}
+
+==External links==
+* [https://www.mobygames.com/game/olympic-decathlon ''Olympic Decathlon''] at [[MobyGames]]
+
+[[Category:1980 video games]]
+[[Category:Apple II games]]
+[[Category:Athletics video games]]
+[[Category:TRS-80 games]]
+[[Category:Jenner family]]
+[[Category:Microsoft games|Decathlon, Microsoft]]
+[[Category:Multiple-stage competition video games]]
+[[Category:Summer Olympic video games]]
+[[Category:Video games developed in the United States]]

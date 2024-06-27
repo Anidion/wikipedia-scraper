@@ -1,0 +1,69 @@
+K.C. Munchkin!
+Permalink: //en.wikipedia.org/w/index.php?title=K.C._Munchkin%21&oldid=1193612986
+Accessed on: 2024-06-26T16:52:22.139196
+
+
+
+------
+K.C. Munchkin!
+{{More footnotes|date=December 2009}}
+{{Infobox video game
+|title = K.C. Munchkin!
+|image = Munchkin Coverart.png
+|caption = European cover
+|developer = 
+|publisher = [[Philips]], [[Magnavox]]
+|designer = [[Ed Averett]]
+|series = 
+|engine = 
+|released = [[1981 in video gaming|1981]]
+|genre = [[List of maze video games|Maze]]
+|modes = 
+|platforms = [[Magnavox Odyssey 2]]
+}}
+
+'''''K.C. Munchkin!''''', released in Europe as '''''Munchkin''''', is a [[maze game]] for the [[Magnavox Odyssey 2]]. Its North American title is an inside reference to then president of Philips Consumer Electronics, Kenneth C. Menkin.
+
+Designed and programmed by Ed Averett, ''Munchkin'' is very heavily based on [[Namco|Namco's]] 1980 arcade game ''[[Pac-Man]]'', but not a direct clone. It was, however, similar enough for [[Atari, Inc.|Atari]] to [[Atari, Inc. v. North American Philips Consumer Electronics Corp.|sue Philips]] and force them to cease production of ''Munchkin''. Atari was exclusively licensed to produce the first play-at-home version of ''Pac-Man'', but ''Munchkin'' hit store shelves in 1981, a year before [[Pac-Man (Atari 2600)|Atari's game]] was ready. Atari initially failed to convince a U.S. district court to halt the sale of ''Munchkin'', but ultimately won its case on appeal. In 1982, the appellate court found that Philips had copied ''Pac-Man'' and made alterations that "only tend to emphasize the extent to which it deliberately copied the Plaintiff's work." The ruling was one of the first to establish how [[copyright]] law would apply to the [[look and feel]] of computer software.<ref>[https://books.google.com/books?id=c6IS3RnN6qAC&dq=KC+Munchkin&pg=PA28 Legal Battles that Shaped the Computer Industry], by Lawrence D. Graham; published 1999 by Quorum Books; via [[Google Books]]</ref>
+
+== Pac-Man dispute ==
+
+Atari sued Philips for copyright infringement, arguing that ''Munchkin'' copied ''Pac-Man'' with its substantial similarities as evidence. In ''[[Atari, Inc. v. North American Philips Consumer Electronics Corp.]]'', the court noted twenty-two similarities, but also nine differences:''<ref name=":4">{{Cite web|title=Atari, Inc. v. North American Philips Consumer Electronics Corp., 672 F.2d 607 (7th Cir. 1982)|url=https://law.justia.com/cases/federal/appellate-courts/F2/672/607/331150/|access-date=2021-05-30|website=Justia Law|language=en}}</ref><ref name=":1">{{Cite journal|last=Hemnes|first=Thomas M. S.|date=1982|title=The Adaptation of Copyright Law to Video Games|url=https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=4669&context=penn_law_review|journal=University of Pennsylvania Law Review|volume=131:171|issue=1|pages=171–233|doi=10.2307/3311832|jstor=3311832}}</ref>'' 
+
+* There are only 12 pills (called ''munchies'') in each maze, which begin in four groups of three but move through the maze independently and at speeds that increase as each one is eaten. The final munchie moves at the same speed as the Munchkin and must be intercepted rather than followed.
+* The super-pills are called ''blinking munchies'' because they flash and change colour.
+* Some of the mazes become invisible as soon as the player starts moving.
+* It has a programmable mode, where the player can create mazes.
+* It has a random mode, where a new map is generated each time the game is played.
+* The box where eaten ghosts regenerate rotates, so the ghosts may exit from any side. Also, the player character is free to enter the box and, if powered up, can consume new monsters at the moment they regenerate. Although the box is always at the center of any maze, the maze design allows walls to be placed against the box so it doubles as a revolving door and danger zone to pass through.
+* The ghosts are called ''munchers'', and the player's character is called ''Munchkin''.
+* There are three munchers rather than four ghosts.
+* Compared with the Atari 2600 version of ''Pac-Man'', ''Munchkin'' has fewer objects on the game board but renders them with more color and animation.
+* When the Munchkin is killed by the munchers, the score resets itself back to zero.
+
+After ''Munchkin'' was forced off the market, Philips released a sequel called ''[[K.C.'s Krazy Chase!]]''<ref name="goodman1983spring">{{Cite magazine |last=Goodman |first=Danny |author-link=Danny Goodman |date=Spring 1983 |title=Home Video Games: Video Games Update |url=http://www.atarimagazines.com/cva/v1n1/vgupdate.php |magazine=Creative Computing Video & Arcade Games |page=32}}</ref> (''Crazy Chase'' outside the U.S.) which implicitly depicts the conflict between Phillips and Atari by pitting the Munchkin character against an insectoid, tree-eating opponent called the Dratapillar, which very strongly resembles the antagonist of Atari's ''[[Centipede (video game)|Centipede]]''. In ''Crazy Chase'''s maze, the Munchkin character powers up and advances not by eating pills, but by devouring the Dratapillar's segmented body. Redesigned to avoid another copyright dispute, the Munchkin character rolls through Crazy Chase's mazes without the continuous chomping motion characteristic of Pac-Man.
+
+== See also ==
+* [[List of Magnavox Odyssey² games]]
+* ''[[Stern Electronics Inc. v. Kaufman]]'', in which the 2nd Circuit reached the same decision
+* [[List of Pac-Man clones]]
+
+==References==
+{{reflist}}
+==Sources==
+* Schwarz, Haller (1982) ''Pac-Mania''. Publications International, Ltd. {{ISBN|0-517-38915-0}}
+
+==External links==
+*[http://www.videopac.org/database/index.php?id=43 Videopac Database Entry at Videopac.org] {{Webarchive|url=https://web.archive.org/web/20110405021859/http://videopac.org/database/index.php?id=43 |date=2011-04-05 }}
+*[https://web.archive.org/web/20050308143510/http://www.gamespy.com/articles/488/488692p1.html GameSpy review of Munchkin]
+*[http://www.patentarcade.com/2005/04/case-atari-v-north-american-phillips.html Summary of Atari lawsuit]
+*[https://dadgum.com/halcyon/BOOK/AVERETT.HTM Interview with programmer Ed Averett]
+*[https://web.archive.org/web/20130114074707/http://classicgaming.gamespy.com/View.php?view=GameMuseum.Detail&id=285 Review of K.C. Munchkin at Gamespy]
+
+[[Category:1981 video games]]
+[[Category:Pac-Man clones]]
+[[Category:Magnavox Odyssey 2 games]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games involved in plagiarism controversies]]
+[[Category:Magnavox Odyssey 2-only games]]

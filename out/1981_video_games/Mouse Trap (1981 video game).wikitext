@@ -1,0 +1,87 @@
+Mouse Trap (1981 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Mouse_Trap_%281981_video_game%29&oldid=1224486832
+Accessed on: 2024-06-26T16:52:25.844592
+
+
+
+------
+Mouse Trap (1981 video game)
+{{Short description|1981 video game}}
+{{More citations needed|date=February 2008}}
+{{Infobox video game
+|title         = Mouse Trap
+|image         = Mouse Trap arcade flyer.jpg
+|caption       = Arcade flyer
+|developer     = [[Exidy]]<br>[[Coleco]] <small>(CV/INTV)</small><br>James Wickstead Design Associates <small>(2600)</small>
+|publisher     = Exidy<br>Coleco<br>[[CBS#CBS Toys Division|CBS Electronics]]<br><small>(2600/CV/INTV)</small>
+|designer      = Howell Ivy (hardware)<br>Larry W. Hutcherson (game)<ref name="tglocgp">{{cite web|last=Hague|first=James|url=https://dadgum.com/giantlist/#H|title=The Giant List of Classic Game Programmers|website=dadgum.com|date=2019|accessdate=2018-10-04}}</ref>
+|programmer    = Larry Hutcherson
+|platforms     = [[Arcade video game|Arcade]], [[Atari 2600]], [[ColecoVision]], [[Intellivision]]
+|released      = {{collapsible list|title=1981|titlestyle=font-weight:normal;font-size:inherit;background:transparent;text-align:left|'''Arcade'''{{vgrelease|NA|December 1981<ref name="ah">{{cite web|url=https://www.arcade-history.com/?n=mousetrap&page=detail&id=1682|title=Mousetrap|website=arcade-history.com|accessdate=2018-10-04}}</ref>}} '''2600'''{{vgrelease|NA|[[1982 in video gaming|1982]]|EU|[[1983 in video gaming|1983]]}} '''ColecoVision'''{{vgrelease|NA|1982|EU|1983}} '''Intellivision'''{{vgrelease|NA|1982|EU|1982}}}}
+|genre         = [[List of maze video games|Maze]]
+|modes         = {{cslist
+ |[[Single-player video game|Single-player]]
+ |[[Multiplayer video game|multiplayer]]}}
+|arcade system = Universal Game Board V2<ref>{{cite web|url=https://www.mikesarcade.com/cgi-bin/spies.cgi?action=url&type=info&page=ExidyBoardList.txt|title=Exidy Game List|website=mikesarcade.com|accessdate=2018-10-04}}</ref>
+}}
+
+'''''Mouse Trap''''' is a maze video game developed by [[Exidy]] and released in arcades in 1981. It is similar to ''[[Pac-Man]]'', with the main character replaced by a mouse, the dots with cheese, the ghosts with cats, and the energizers with bones. After collecting a bone, pressing a button turns the mouse into a dog for a brief period of time. Color-coded doors in the maze can be toggled by pressing a button of the same color. A hawk periodically flies across the maze, unrestricted by walls.
+
+Coleco ported ''Mouse Trap'' to [[ColecoVision]] as a 1982 launch title, then later to the [[Intellivision]] and [[Atari 2600]].
+
+==Gameplay==
+[[File:ARC Mouse Trap.png|thumb|left|A new maze full of cheese (arcade)]]
+
+The player uses a four-position joystick to maneuver a [[mouse]] throughout a maze and eat pieces of [[cheese]] scattered along the paths. Six [[cat]]s patrol the maze and chase the player, with two present at the outset and four more being released one at a time. The maze has three sets of color-coded doors, which the player can open or close by pressing the corresponding buttons in order to block the cats' approach. The player can also escape the cats by entering the "IN" box at the center of the screen, which will teleport the mouse to one of the four corners at random. Contact between the mouse and a cat costs the player one life.
+
+The player can pick up bones from the corners of the maze, then use them later by pressing a fourth button. Doing so turns the mouse into a [[dog]] for a short time, during which it can eat the cats for bonus points and temporarily remove them from the maze. However, the cats will move at a faster speed when they re-spawn into the maze. Unused bones carry over from one level to the next and from one life to the next.
+
+At times, a [[hawk]] will fly through the maze, trying to catch the player. The hawk can eat both the mouse and the dog, costing the player one life, and it can fly over the walls. It can only be foiled by using the "IN" box, which causes it to fly randomly and then leave the maze.
+
+At any given time, a bonus object is present in the maze and can be eaten for points, causing a more valuable object to appear elsewhere. The bonus sequence restarts when the player either loses a life or eats the most valuable object in the sequence. When all of the cheese has been eaten, the player earns a bonus and moves to the next level.
+
+==Ports==
+[[Coleco]] ported ''Mouse Trap'' to its own [[ColecoVision]] console, with 15 prizes instead of 32, an option to leave the hawk out, and different sound effects. Coleco's [[Intellivision]] port adds an audio warning when a cat is about to enter the maze. The score differs: cheese is worth 
+90 points and, cats are worth 100, 300, 500, 700, 900 and 1100 points.<ref>[http://gamesdbase.com/Media/SYSTEM/Coleco_Vision/manual/Formated/Mouse_Trap_-_1982_-_Coleco.pdf GamesDBase: manual Mouse Trap for Coleco Vision]</ref>
+
+Coleco also ported ''Mouse Trap'' to the [[Atari 2600]], simplifying graphics and gameplay. The maze is more squat with brighter walls, and doors form a single-colored set that flickers. Gameplay basics are the same, but the hawk, the "IN" area, and the bonus prizes are missing, there are three cats instead of six, and all doors move at once. Additionally, pressing the single joystick button will switch the doors' positions or activate a stored bone, depending on if the player does a long press or a quick tap. Scoring is also reduced significantly: cheese is worth 1 point instead of 10 points, cats are worth 10 points and do not increase in value, and clearing a maze awards only 100 points.<ref>{{Cite web |url=http://www.atariage.com/manual_page.html?SystemID=2600&SoftwareLabelID=316&ItemTypeID=&currentPage=3&maxPages=4 |title=AtariAge - Atari 2600 Manuals - Mouse Trap (Atari)<!-- Bot generated title --> |access-date=2007-06-17 |archive-date=2007-09-29 |archive-url=https://web.archive.org/web/20070929091841/http://www.atariage.com/manual_page.html?SystemID=2600&SoftwareLabelID=316&ItemTypeID=&currentPage=3&maxPages=4 |url-status=dead}}</ref>
+
+==Reception==
+In his 1982 book ''How to Beat the Video Games'' Michael Blanchet said that ''Mousetrap'''s gameplay "closely resembles that of ''Pac-Man'' with a couple of very interesting twists".<ref>{{cite book | last=Blanchet | first=Michael | author-link= | date=1982 | title=How to Beat the Video Games | location=New York | publisher=Simon and Schuster | page=68 | isbn=0671453750}}</ref>
+According to ''[[Electronic Games]]'' in 1983, ''Mouse Trap'' was unsuccessful because arcade owners viewed it as another "basic" maze game.<ref name="pearl198306">{{cite news | url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n79/mode/2up | title=Closet Classics | work=Electronic Games | date=June 1983 | accessdate=6 January 2015 | author=Pearl, Rick | pages=82}}</ref>
+
+===Reviews===
+* ''[[Games (magazine)|Games]]'' #44<ref>{{cite web | url=https://archive.org/details/games-44-1983-october/page/n59/mode/2up | title=GAMES Magazine #44 | date=October 1983}}</ref>
+
+==Legacy==
+In 1982, [[Buckner & Garcia]] recorded the song "Mousetrap" using sound effects from the game and released it on the album ''[[Pac-Man Fever (album)|Pac-Man Fever]]''. When they re-recorded the album in 1999, they were unable to find a machine and instead used dog and cat sounds recorded in a pet store.{{citation needed|date=December 2016}}
+
+==See also==
+* ''[[Lady Bug (arcade game)|Lady Bug]]''
+* ''[[Lock 'n' Chase]]''
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://www.giantbomb.com/mouse-trap/3030-2276/ ''Mouse Trap''] at [[Giant Bomb]]
+* [https://www.arcade-museum.com/game_detail.php?game_id=8765 ''Mouse Trap''] at [[Killer List of Videogames]]
+
+{{Portal bar|1980s|United States|Video games}}
+
+{{DEFAULTSORT:Mouse Trap (video game)}}
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:ColecoVision games]]
+[[Category:Exidy games]]
+[[Category:Intellivision games]]
+[[Category:Pac-Man clones]]
+[[Category:Video games about cats]]
+[[Category:Video games about food and drink]]
+[[Category:Video games about mice and rats]]
+[[Category:Video games developed in the United States]]
+[[Category:Maze games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Coleco games]]
+[[Category:CBS Electronics games]]

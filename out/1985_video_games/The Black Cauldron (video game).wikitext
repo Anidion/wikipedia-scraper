@@ -1,0 +1,85 @@
+The Black Cauldron (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Black_Cauldron_%28video_game%29&oldid=1228185764
+Accessed on: 2024-06-26T16:58:07.437529
+
+
+
+------
+The Black Cauldron (video game)
+{{More citations needed|date=September 2022}}
+{{Short description|1985 video game}}
+{{Infobox video game
+|qid=Q1670993
+|title = The Black Cauldron
+|image = Blackcauldron9.jpg
+|developer = [[Sierra Entertainment|Sierra On-Line]]
+|publisher = Sierra On-Line
+|engine = [[Adventure Game Interpreter]]
+|designer = [[Al Lowe]] <br> [[Roberta Williams]]
+|producer = Joe Hale
+|programmer = [[Scott Murphy (video game designer)|Scott Murphy]] <br> [[Ken Williams (game developer)|Ken Williams]] <br> Al Lowe <br> Sol Ackerman
+|artist = [[Mark Crowe]]
+|released = December 1985<ref>{{cite web | url=https://archive.org/details/creativecomputing-1985-12/page/n11/mode/2up?q=%22Black+Cauldron%22 | title=Creative Computing Magazine (December 1985) | access-date=2024-02-10}}</ref>
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Apple II]], [[Apple IIGS]], [[Atari ST]], [[MS-DOS]], [[Tandy 1000]]
+|series = <!--Wikidata-->
+}}
+
+'''''The Black Cauldron''''' is an [[adventure game]] designed by [[Al Lowe]] of [[Sierra Entertainment|Sierra On-Line]] and published in 1985. The game is based on the [[The Walt Disney Company|Disney]] film ''[[The Black Cauldron (film)|The Black Cauldron]]'', which was itself based on the ''[[Chronicles of Prydain]]'' novel [[The Black Cauldron (novel)|of the same name]] by [[Lloyd Alexander]]. It was made shortly after the first ''[[King's Quest]]'' game, so it resembles that game in many ways. Along with ''[[The Dark Crystal (video game)|The Dark Crystal]]'' it remains one of only a few adventure games by Sierra to be based on films.
+
+== Plot ==
+[[File:The_Black_Cauldron_(video_game)_Atari_ST_screenshot.png|thumb|left|Atari ST screenshot]]
+
+The [[player character]] is a young assistant pig-keeper named [[Taran (character)|Taran]], who undertakes a quest to stop the evil Horned King, who seeks for [[Hen Wen]], the magical pig of the wizard [[Dallben]], for her [[Vision (religion)|visionary]] abilities. With these abilities, the Horned King would be able to discover the Black Cauldron and rule the land.
+
+Taran's first mission is to lead her to the [[Fairy|Fair Folk]] while the Horned King's dragons are looking for them. Should the pig be captured (the game allows either possibility), Taran can go to the Horned King's castle and rescue her. As soon as he is inside, Taran will meet [[Princess Eilonwy]] with her magic bauble and may rescue [[Fflewddur Fflam]], as well as discover a Magic Sword.
+
+The Cauldron is in the possession of three [[Orddu, Orwen and Orgoch|witches]] of Morva who will trade it for the Sword. A dragon grasps the cauldron and Taran goes back to encounter the evil man himself.
+
+There are plot branches and multiple endings depending on many variables, such as whether Hen Wen the pig was saved, how the cauldron was destroyed, and what reward was chosen afterward.
+
+== Gameplay ==
+{{Original research|section|date=September 2022}}
+In order to make the game more accessible to [[child]]ren, Sierra used an innovative idea that would not reappear in the genre for the next 10 years: the [[text parser]] was removed in favor of the [[function key]]s that performed various actions: <code>F3</code> would choose an inventory item, <code>F4</code> would use it, <code>F6</code> would perform "Use" near the character's location, and <code>F8</code> would "look". The simplification of the two actions "Look" and "Use" was not reused in Sierra's later games. However, it somewhat resembles the control system of other later simpler [[point-and-click]] adventure games, such as the ''[[King's Quest VII]]'' or ''[[The Dig (video game)|The Dig]]'' whose interfaces only consisted of "Look" and "Use". Being based on a Disney film, the graphics present some relative 'flexibility', compared to the monolithic and straight sceneries of previous and later games.
+
+== Reception ==
+''[[Antic (magazine)|Antic]]'' in 1987 criticized the Atari ST version of ''The Black Cauldron'' as "typical of early software for newer computers. It doesn't fully utilize the ST's capabilities", citing the "chunky low-resolution" graphics "obviously ported from another make of computer". However, the magazine concluded that fans of other Sierra adventures would enjoy the game.<ref name="loveless198704">{{Cite magazine |last=Loveless |first=Matthew |date=April 1987 |title=Black Cauldron |url=https://www.atarimagazines.com/v5n12/STProductNews.html |magazine=Antic}}</ref>
+
+== Reviews ==
+* ''[[Aktueller Software Markt|ASM (Aktueller Software Markt)]]'' - August 1986<ref>{{cite web|url=https://www.kultboy.com/index.php?site=t&id=1937|title=ST und der Zauberkessel|website=kultboy.com|access-date=19 September 2023}}</ref>
+* ''[[Computer and Video Games]]'' - August 1986<ref>{{Cite web|url=https://archive.org/details/Computer_Video_Games_Issue_058_1986-08_EMAP_Publishing_GB/page/n73/mode/2up|title = Computer & Video Games - Issue 058 (1986-08) (EMAP Publishing) (GB)|date = August 1986}}</ref>
+
+== See also ==
+{{Portal|Children's literature}}
+* [[List of Disney video games]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Lemon Amiga game|id=164}}
+* [https://archive.org/details/info-magazine-23/page/n47/mode/2up Review] in [[.info (magazine)|Info]]
+* [https://archive.org/details/Page_6_Issue_23_1986-09_ABACUS_GB/page/n29/mode/2up Review] in [[Page 6]]
+
+{{The Chronicles of Prydain}}
+{{Sierra Adventure Games}}
+
+{{DEFAULTSORT:Black Cauldron}}
+[[Category:1985 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:Disney video games]]
+[[Category:DOS games]]
+[[Category:Fantasy video games]]
+[[Category:ScummVM-supported games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Single-player video games]]
+[[Category:The Chronicles of Prydain]]
+[[Category:Video games based on animated films]]
+[[Category:Video games based on Celtic mythology]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in castles]]

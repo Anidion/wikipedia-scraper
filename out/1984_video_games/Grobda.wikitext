@@ -1,0 +1,71 @@
+Grobda
+Permalink: //en.wikipedia.org/w/index.php?title=Grobda&oldid=1216473368
+Accessed on: 2024-06-26T16:56:54.416137
+
+
+
+------
+Grobda
+{{Infobox video game
+| title         = Grobda
+| image         = Grobda arcade flyer.png
+| caption       = Japanese flyer
+| developer     = [[Namco]]
+| publisher     = {{vgrelease|JP|Namco|NA|Magic Electronics}}
+| designer      = [[Masanobu Endō]]
+| platforms     = [[Arcade video game|Arcade]], [[NEC PC-6001]], [[NEC PC-8801]], [[Sharp MZ]], [[Sharp X1]]
+| released      = {{vgrelease|JP|October 3, 1984<ref>{{cite web |title=Grobda (Registration Number PA0001616297) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=1 June 2021}}</ref>|WW|September 1985<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=123–4 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n124}}</ref>}}
+| genre         = [[Multidirectional shooter]]
+| modes         = [[Single-player video game|Single-player]], [[multiplayer]]
+| series        = ''[[List of Xevious media|Xevious]]''
+}}
+{{nihongo foot|'''''Grobda'''''|グロブダー|Gurobudā|lead=yes|group=lower-alpha}} is a 1984 [[multidirectional shooter]] [[arcade video game]] developed and published by [[Namco]].<ref>{{Cite web|title=Grobda - Videogame by Namco|url=https://www.arcade-museum.com/game_detail.php?game_id=8015|access-date=2020-12-27|website=www.arcade-museum.com}}</ref> It is a spin-off from ''[[Xevious]]'', as the player's tank first appeared in that game as an enemy. It runs on [[Namco Super Pac-Man]] hardware but with a video system like that used in ''[[Mappy]]'' and ''[[The Tower of Druaga]]'', and it also uses a [[Digital-to-analog converter|DAC]] for the "Get Ready" speech sample at the start of each round.
+
+==Gameplay==
+[[Image:Grobda.gif|left|thumb|The player avoiding collision from enemy projectiles.]]
+''Grobda'' is a [[shoot 'em up|multi-directional shooter]] similar to the classic [[Atari 2600]] game ''[[Combat (1977 video game)|Combat]]'' (1977).<ref name="Allgame"/><ref name="Edge">{{cite news |title=Retroview - Namco Museum Volume 2 |url=https://archive.org/details/edgeuk032?q=Grobda |accessdate=13 June 2020 |agency=[[Edge (magazine)|Edge]] |issue=32 |publisher=[[Future Publishing]] |date=April 1996 |page=88}}</ref> The plot involves humans using powerful, laser-emitting vehicles in a dangerous competitive sport known as "battling", thousands of years in the future. In the game, the player assumes control of the Grobda, a [[screw-propelled vehicle|screw-propelled]] tank capable of firing laser beams at enemies. The objective of each level, known in-game as "battlings", is to destroy all of the enemies while dodging their projectiles as quickly as possible.<ref name="HG101"/> There are 99 levels total, each becoming progressively more difficult.<ref>{{cite news |title=Namco Museum Vol. 2 |url=https://archive.org/details/Edge_UK_029?q=grobda |accessdate=13 June 2020 |agency=[[Edge (magazine)|Edge]] |issue=29 |publisher=[[Future Publishing]] |date=February 1995 |page=89}}</ref>
+
+Grobda's laser weapon is capable of destroying most enemies in one hit, although some carry shields that require additional shots to destroy.<ref>{{cite news |title=Special Oldies - Back to the Future |url=https://archive.org/details/MegaFun0696?q=Grobda |accessdate=13 June 2020 |agency=MegaFun |date=June 1996 |pages=93–92 |language=German}}</ref> When an enemy is destroyed, it causes an explosion that will destroy any other enemies in its blast radius, including Grobda.<ref name="HG101"/> The remains of the enemy are left in its place, which cause the Grobda to slow down if they move over them. Grobda has its own shield that briefly protects them from enemy fire, indicated by the meter at the bottom of the screen.<ref name="HG101"/> The shield disappears if it is inflicted with enough damage, and does not refill until the next round.
+
+==Development==
+[[File:Grobda_comparison.png|thumb|The eponymous Grobda was originally an enemy in ''[[Xevious]]'' (1983), where it evaded the player's air-to-surface bombs.]]
+''Grobda'' was designed by [[Masanobu Endo]] and a small team of developers within [[Namco]]. Endo is best known as the creator of ''[[Xevious]]'' (1983) and ''[[The Tower of Druaga]]'' (1984), two widely-successful arcade games from the 1980s; most of the developers behind ''Grobda'' had worked on both titles.<ref name="AAN"/> The Grobda was originally a defenseless enemy in ''Xevious'' that attempted to evade the player's air-to-surface bombs. Endo believed that the idea of giving Grobda powerful weapons and attacks was a humorous idea, and made for an interesting game concept.<ref name="AAN">{{cite book |author1=Microcomputer BASIC Editorial Department |title=All About Namco |date=December 1986 |publisher=Dempa Shimbun |isbn=978-4885541070 |language=Japanese}}</ref> The game was planned and completed in three months, one of the shortest development times for a Namco game, and was developed on a small budget.<ref name="AAN"/> The soundtrack was composed by Yuriko Keino, known for her work on games such as ''[[Dig Dug]]'' (1982).<ref>{{cite news |title=『ディグダグ』の音楽はBGMでなく歩行音。慶野由利子さんが語る80年代ナムコのゲームサウンド（動画あり） - ライブドアニュース |url=http://news.livedoor.com/article/detail/5808176/ |accessdate=11 May 2019 |work=[[Livedoor|Livedoor News]] |date=24 August 2011 |archiveurl=https://web.archive.org/web/20151222103427/http://news.livedoor.com/article/detail/5808176/ |archivedate=22 December 2015 |language=ja}}</ref> She envisioned the tempo for the background humming to become faster as the Grobda moved faster around the playfield. The current-sound hardware was unable to accomplish this, so Keino wrote a custom program that enabled it.<ref name="STG">{{cite news |title=シューティングゲームサイドvol.5 慶野由利子インタビュー |agency=Shooting Gameside |volume=5 |publisher=Micro Magazine |date=7 June 2012 |language=Japanese}}</ref>
+
+==Release==
+''Grobda'' was published in December 1984, running on the [[Namco Super Pac-Man]] arcade system board.<ref name="TV Book">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |location=Japan |isbn=978-4990251215 |edition=First |url=https://archive.org/details/ArcadeGameList1971-2005/page/n51 |accessdate=16 August 2019}}</ref> In promotional material, Namco used the tagline "Grobda has awakened its combat instinct". The game was distributed in North America by Magic Electronics in September 1985.<ref name="TV Book"/> ''Grobda'' was ported to the [[PC-8801]] home computer in Japan the same year, developed by Dempa Software.<ref>{{cite magazine |url=https://archive.org/stream/micomBASIC_1988-09#page/n221/mode/1up|title=Super Soft Corner: マイコンソフト - Grobda (グロブダー)|magazine=Micom BASIC|issue=75|publisher=[[:ja:電波新聞社|The Dempa Shimbunsha Corporation]]|date=September 1988|page=234|lang=ja}}</ref> ''Grobda'' has been included in multiple ''[[Namco Museum]]'' collections such as ''[[Namco Museum|Namco Museum Vol. 2]]'' (1996),<ref name="Edge"/> ''[[Namco Museum|Namco Museum Battle Collection]]'' (2005),<ref>{{cite web |author1=Nix |title=Namco Museum Battle Collection |url=https://www.ign.com/articles/2005/08/25/namco-museum-battle-collection |publisher=[[IGN]] |accessdate=4 August 2019 |archiveurl=https://web.archive.org/web/20190517201838/https://www.ign.com/articles/2005/08/25/namco-museum-battle-collection |archivedate=17 May 2019 |date=25 August 2005}}</ref> ''[[Namco Museum|Namco Museum Virtual Arcade]]'' (2008),<ref>{{cite web |last1=Geddes |first1=Ryan |title=Namco Museum: Virtual Arcade Review |url=https://www.ign.com/articles/2008/11/06/namco-museum-virtual-arcade-review |website=[[IGN]] |accessdate=13 July 2019 |archiveurl=https://web.archive.org/web/20190616231512/https://www.ign.com/articles/2008/11/06/namco-museum-virtual-arcade-review |archivedate=16 June 2019 |date=6 November 2008}}</ref> and ''[[Namco Museum Remix|Namco Museum Megamix]]'' (2010).<ref>{{cite web |last1=Buchanan |first1=Levi |title=Namco Museum Megamix Review |url=https://www.ign.com/articles/2010/11/22/namco-museum-megamix-review |website=[[IGN]] |accessdate=14 July 2019 |archiveurl=https://web.archive.org/web/20190216185805/https://www.ign.com/articles/2010/11/22/namco-museum-megamix-review |archivedate=16 February 2019 |date=22 November 2010}}</ref> The latter also includes a minigame based on ''Grobda'' titled ''Grobda Remix'', where players control [[Pac-Man (character)|Pac-Man]] as he must destroy as many enemies possible under a time limit. ''Grobda'' was added to the [[Wii Virtual Console]] in Japan on November 16, 2009, alongside dozens of other Namco arcade games.<ref>{{cite web |title=「バーチャルコンソール」「バーチャルコンソールアーケード」11月10日配信作品 |url=https://www.inside-games.jp/article/2009/11/09/38669.html |website=Inside-Games |publisher=IID |accessdate=13 June 2020 |archiveurl=https://web.archive.org/web/20191207082554/https://www.inside-games.jp/article/2009/11/09/38669.html |archivedate=7 December 2019 |language=Japanese |date=9 November 2009}}</ref>
+
+==Reception and legacy==
+{{Video game reviews
+| Allgame = {{rating|3.5|5}}<ref name="Allgame">{{cite web |last1=Allan Weiss |first1=Brett |title=Grobda - Review |url=http://www.allgame.com/game.php?id=10201&tab=review |website=[[Allgame]] |publisher=Allmedia |accessdate=23 February 2020 |archiveurl=https://web.archive.org/web/20141116012705/http://www.allgame.com/game.php?id=10201&tab=review |archivedate=16 November 2014 |date=1998}}</ref>
+}}
+
+According to the arcade game magazine ''Game Machine'', ''Grobda'' was Japan's top-grossing arcade game of [[1984 in video games|December 1984]] by revenue.<ref>{{cite news |title=Game Machine's Best Hit Games 25 |url=https://onitama.tv/gamemachine/pdf/19841201p.pdf |accessdate=13 June 2020 |agency=Game Machine |issue=249 |publisher=Amusement Press |date=1 December 1984 |archiveurl=https://web.archive.org/web/20200131231437/https://onitama.tv/gamemachine/pdf/19841201p.pdf |archivedate=31 January 2020 |page=31 |language=Japanese}}</ref><ref>{{cite news |title=Game Machine's Best Hit Games |url=https://onitama.tv/gamemachine/pdf/19841215p.pdf |accessdate=13 June 2020 |agency=Game Machine |issue=250 |publisher=Amusement Press |date=15 December 1984 |archiveurl=https://web.archive.org/web/20191201074836/https://onitama.tv/gamemachine/pdf/19841215p.pdf |archivedate=1 December 2019 |language=Japanese}}</ref> In 1998, [[AllGame]] labeled ''Grobda'' as "a refreshing departure from slower, more methodical tank shooters such as ''[[Combat (1977 video game)|Combat]]'' and ''[[Armor Ambush]]''", praising its fast-paced gameplay but criticizing its high difficulty.<ref name="Allgame"/> In a 2014 retrospective review, ''Hardcore Gaming 101'' said that the game was a lot simpler in gameplay compared to ''[[Xevious]]'', and felt mixed towards the game's difficulty level.<ref name="HG101">{{cite web |last1=Savorelli |first1=Carlo |title=Grobda |url=http://www.hardcoregaming101.net/grobda/ |website=Hardcore Gaming 101 |accessdate=23 February 2020 |archiveurl=https://web.archive.org/web/20190714111906/http://www.hardcoregaming101.net/grobda/ |archivedate=14 July 2019 |date=10 December 2014}}</ref> According to former [[Wolf Team]] designer Kazuyoshi Inoue, ''Grobda'' was an influence for ''[[Granada (video game)|Granada]]'' alongside ''[[Assault (1988 video game)|Assault]]'', as co-designer Toshio Toyota was a fan of arcade games.<ref>{{cite magazine|last=Keisuke|first=Sakuma|url=https://archive.org/stream/micomBASIC_1990-07#page/n217/mode/2up|title=ウルフチームの最新作『グラナダ』の魅力に迫る!!|magazine=[[:ja:マイコンBASICマガジン|Micom BASIC Magazine]]|issue=97|publisher=[[:ja:電波新聞社|The Dempa Shimbunsha Corporation]]|date=July 1990|pages=220–224|lang=ja}} ([http://shmuplations.com/wolfteam/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20190629073436/http://shmuplations.com/wolfteam/|date=2019-06-29}}).</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=8015}}
+
+{{Xevious}}
+
+[[Category:1984 video games]]
+[[Category:Arcade Archives games]]
+[[Category:Arcade video games]]
+[[Category:Namco games]]
+[[Category:Namco arcade games]]
+[[Category:Multidirectional shooters]]
+[[Category:Virtual Console games]]
+[[Category:Xevious]]
+[[Category:Sharp MZ games]]
+[[Category:Sharp X1 games]]
+[[Category:NEC PC-6001 games]]
+[[Category:NEC PC-8001 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Tank simulation video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video game spin-offs]]
+[[Category:Multiplayer and single-player video games]]

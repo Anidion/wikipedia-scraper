@@ -1,0 +1,54 @@
+Armor Attack
+Permalink: //en.wikipedia.org/w/index.php?title=Armor_Attack&oldid=1219033718
+Accessed on: 2024-06-26T16:51:30.629430
+
+
+
+------
+Armor Attack
+{{short description|1980 video game}}
+{{Infobox video game
+|title     = Armor Attack
+|image     = Armor Attack Rock-Ola arcade machine.jpg
+|caption   = Rock-Ola arcade machine
+|designer  = [[Tim Skelly]]<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+|developer = [[Cinematronics]]
+|publisher = Cinematronics<br>[[Rock-Ola]]<br>[[Sega]] (Japan)
+|release   = '''1980:''' Arcade<br>'''1982:''' Vectrex
+|platforms = [[Arcade game|Arcade]], [[Vectrex]]
+|genre     = [[Multidirectional shooter]]
+|modes     = [[Single-player]], 2-player [[Cooperative video game|co-op]]
+}}
+
+'''''Armor Attack''''' is a [[multidirectional shooter]] designed by [[Tim Skelly]] and released as an [[arcade video game]] by [[Cinematronics]] in 1980.<ref name="giantlist"/> It was licensed to [[Sega]] for release in [[Japan]] and also to [[Rock-Ola]]. The [[vector graphics]] of ''Armor Attack'' present combat between the player's jeep and enemy vehicles in an overhead, maze-like view of a town. The buildings are not drawn in the game, but are an overlay that sits on top of the monitor.<ref>{{cite web|title=Armor Attack |url=http://www.outerworldarcade.com/arcade/armor_attack/index.html |website=Outerworld Arcade |url-status=dead |archiveurl=https://web.archive.org/web/20151231032353/http://www.outerworldarcade.com/arcade/armor_attack/index.html |archivedate=2015-12-31 }}</ref> The overlay also tints the vectors green.
+
+''Armor Attack'' was released for the [[Vectrex]] in 1982.<ref>{{cite web|last1=Foot|first1=Daniel|title=Armor Attack|url=http://www.vectrexworld.com/#!armor--attack/cqwd|website=Vectrex World|access-date=2015-11-22|archive-url=https://web.archive.org/web/20190515060100/http://www.vectrexworld.com/#!armor--attack/cqwd|archive-date=2019-05-15|url-status=dead}}</ref>
+
+==Gameplay==
+[[Image:Armor Attack.png|thumb|left|The visuals are stark without the monitor overlay.]]
+
+One button rotates the jeep clockwise, while a second button rotates counterclockwise. A third button simulates the gas pedal and moves the jeep forward. A fourth button is used for firing a [[rocket launcher]] that shoots straight ahead. The player can have two rockets in the air at a time. 
+
+[[Tank]]s periodically spawn from different locations on the edge of the screen and drive towards the player. The tanks always travel along horizontal or vertical lines, unlike the freely moving jeep. Tank turrets move to track the player, allowing them to shoot in any direction. Tanks normally take two hits to kill, and the player can have only two rockets on the screen at a time. The [[helicopter]] spawns from any point, and approaches the player in looping paths flying over the jeep and periodically firing. If hit, the helicopter spirals in. Destroying the helicopter rewards the player with an extra life.
+
+The player can be killed by being shot by either the tanks or helicopter, or by colliding with the tanks. In two-player mode, the players can not kill each other. Gameplay periodically speeds up to increase the difficulty.
+
+==Reception==
+[[David H. Ahl]] of ''[[Creative Computing]] Video & Arcade Games'' praised the  "amazing realism" of the enemy helicopter in the Vectrex version.<ref name=ahl1983spring>{{Cite magazine |last=Ahl |first=David H. |author-link=David H. Ahl |date=Spring 1983 |title=The Vectrex Arcade System |url=http://www.atarimagazines.com/cva/v1n1/vectrex.php |magazine=Creative Computing Video & Arcade Games |page=56}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=6925}}
+*[https://www.arcade-history.com/?n=armor-attack&page=detail&id=113 ''Armor Attack''] at Arcade History
+
+[[Category:1980 video games]]
+[[Category:Arcade video games]]
+[[Category:Cinematronics games]]
+[[Category:Multidirectional shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Vector arcade video games]]
+[[Category:Vectrex games]]
+[[Category:Video games developed in the United States]]
+[[Category:Rock-Ola games]]

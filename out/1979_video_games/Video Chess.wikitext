@@ -1,0 +1,51 @@
+Video Chess
+Permalink: //en.wikipedia.org/w/index.php?title=Video_Chess&oldid=1221232400
+Accessed on: 2024-06-26T16:51:27.838982
+
+
+
+------
+Video Chess
+{{Use mdy dates|date=October 2023}}
+{{Infobox video game
+| title = Video Chess
+| developer = Larry Wagner<br>Bob Whitehead
+| publisher = [[Atari, Inc.|Atari]]
+| platforms = [[Atari 2600]]
+| released = 1979
+| genre = Chess
+|image = Video Chess Special Edition cover.jpg
+|caption = ''Special Edition'' cover
+|alt = ''Video Chess Special Edition'' cover
+}}
+'''''Video Chess''''' is a [[chess]] game for the Atari VCS (renamed [[Atari 2600]] in 1982) programmed by Larry Wagner and [[Bob Whitehead]] and released by [[Atari, Inc.|Atari]] in 1979.<ref name=giantlist/><ref>{{cite web|title=Venetian Blinds Demo|url=https://www.atariage.com/software_page.html?SoftwareLabelID=2701|website=AtariAge|access-date=April 23, 2017|archive-date=June 1, 2018|archive-url=https://web.archive.org/web/20180601100701/https://atariage.com/software_page.html?SoftwareLabelID=2701|url-status=dead}}</ref> Both programmers later developed games for [[Activision]].<ref name="giantlist"/>
+
+==Gameplay==
+[[File:Videochess.png|thumb|A chess game is in progress.]]
+The game is played from an [[Video game graphics#Top-down perspective|overhead perspective]]. The player uses a cursor to select and move pieces, rather than using [[Algebraic notation (chess)|chess notation]]. If an attempted move is illegal, the move is blocked with a warning sound. If the right-most switch is set to ''A'', the computer plays as white; setting it to ''B'' lets the player play as white. With the left switch, selecting ''A'' allows the board to be set as the player pleases, whereas selecting ''B'' sets up the board for a regulation chess game.<ref name="manual">{{cite web|title=Video Chess Manual|url=https://archive.org/details/Video_Chess_1978_Atari|website=archive.org|year=1978 }}</ref> Eight different difficulty levels have the computer-player take a variable amount of time to determine its moves, ranging from a few seconds to ten hours.
+
+==Development==
+The box art of the first production run of the Atari Video Computer System features a chess piece, though Atari was not yet contemplating designing a chess game. A man from Florida supposedly sued Atari over the box art.<ref name="atariage">{{cite web | url=http://www.atariage.com/software_page.php?SoftwareID=1429 | title=Video Chess (Atari) | publisher=AtariAge | access-date=April 28, 2024}}</ref> ''Video Chess'' programmer [[Bob Whitehead]] said he was not aware of such a lawsuit.<ref name="interview-bw">{{cite web | url=http://www.digitpress.com/library/interviews/interview_bob_whitehead.html | title=DP Interviews Bob Whitehead | publisher=Digital Press | access-date=August 28, 2007 }}</ref>
+
+At first, the console's strict hardware limitations seemed to preclude it hosting a chess program. The console's [[Television Interface Adaptor]] chip can only display three [[Sprite (computer graphics)|sprites]] in each [[scanline]], or six (such as in ''[[Space Invaders]]'') with the right programming. The eight-piece-wide chess board exceeds this limitation. Whitehead developed a technique he called [[Venetian blinds]], in which a sprite's horizontal position is alternated between two values at every scanline, while the hardware outputs video signal. This results in one sprite being displayed as two objects, each composed of horizontal stripes. This technique allowed to display eight chess pieces in each row while using only four sprites.
+
+Atari developed a [[bank switching]] [[Read-only memory|ROM]] cartridge to allow ''Video Chess'' prototypes to exceed four [[kilobyte]]s, the maximum without bank switching. The released version is 4KB<ref name="atariage"/> at a time when most games were 2KB,<ref>{{cite web |url=https://forums.atariage.com/topic/97812-info-on-ks/#comment-1185744 |title=Info on "K"s |author=<!--Not stated--> |date=November 30, 2006 |website=atariage.com |access-date=October 2, 2023}}</ref> and the bank switching technology from the prototype was later used for other Atari VCS games. It was one of six games labeled as "Special Edition" on the box,<ref>{{cite web |url=https://gamefaqs.gamespot.com/atari2600/916365-atari-2600/faqs/9482 |title=The Giant List of 2600 Label Variations: Version 6.0 |last=Earney |first=John |date=1997 |website=gamespot.com |access-date=2024-04-01}}</ref> and some speculate that this designation on these games refers to a combination of the 4KB ROM size and other factors.<ref>{{cite web |url=https://forums.atariage.com/topic/310705-special-edition-carts-whats-so-special/#comment-4620528 |title=Special Edition carts - What's so special? |last=Are |first=Jay |date=2020-08-29 |website=atariage.com |access-date=2024-04-01}}</ref>
+
+==Reception==
+''[[Video (magazine)|Video]]'' magazine praised it as "a reward for Atari owners" which even basic chess players "should find rewarding for many hours of enjoyment". The reviewers were surprised that the gameplay was limited to a single player, and noted the high retail price of {{US$|40|1979|round=-1}}, but they praised the programming which prevents illegal moves, and which includes more advanced chess concepts like [[castling]] and ''[[en passant]]'' capturing which had not yet become standard in all [[computer chess|chess video games]].<ref name=kunkel>{{cite magazine |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Laney |first2= Frank |author-link2= Arnie Katz|date= April 1980 |title= Arcade Alley: Faster Than A Bullet - Atari's Super Game |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|pages= 18, 76, and 77 |issn= 0147-8907}}</ref>{{rp|77}}
+
+==See also==
+{{Portal|Video games|1980s|Chess}}
+*[[List of Atari 2600 games]]
+*''[[Video Checkers]]''
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+[[Category:1979 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Chess software]]
+[[Category:Video games developed in the United States]]

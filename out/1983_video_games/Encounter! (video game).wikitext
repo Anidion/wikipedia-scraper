@@ -1,0 +1,59 @@
+Encounter! (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Encounter%21_%28video_game%29&oldid=1224427461
+Accessed on: 2024-06-26T16:54:57.303666
+
+
+
+------
+Encounter! (video game)
+{{Infobox video game
+| title     = Encounter!
+| image     = Encounter! Coverart.png
+| genre     = [[Shoot 'em up]]
+| platforms = [[Atari 8-bit]], [[Commodore 64]], [[Amiga]], [[Atari ST]]
+| released  = {{vgrelease|NA|1983|WW|1984}}
+| designer  = Paul Woakes
+| publisher = {{ubl|[[Novagen Software]]|[[Synapse Software]]|[[Atlantis Software]]}}
+}}
+
+'''''Encounter!''''' is a first person [[shoot 'em up]] video game released in 1983 for [[Atari 8-bit computers]] and [[Commodore 64]] programmed by Paul Woakes for [[Novagen Software]]. It was published by Novagen in the UK and Europe and by [[Synapse Software]] in North America. The gameplay is similar to that of [[Atari, Inc.]]'s 1980 arcade game ''[[Battlezone (1980 video game)|Battlezone]]'', but with large, sometimes screen-filling, scaled bitmaps instead of wireframe models.<ref>{{cite web|last1=Coles|first1=Tony|title=Mercenary Retrospective|url=http://www.eurogamer.net/articles/2014-06-15-mercenary-retrospective|website=Eurogamer.net|date=June 15, 2015}}</ref>
+
+Versions for the [[Amiga]] and [[Atari ST]] computers followed much later, in 1991.<ref name="ajreview" /><ref>[http://www.atarimania.com/game-atari-st-encounter_21861.html ''Encounter!'' (ST version) on Atarimania]. Retrieved on 2014-05-27.</ref> It was also re-released by [[Atlantis Software]] for the Atari 8-bit and Commodore 64 as a cassette budget title.
+
+==Gameplay==
+[[Image:Encounter A800 ingame.png|thumb|left|Enemy saucer fired]]
+The goal of ''Encounter!'' is to eliminate all of the enemy saucers and [[kamikaze]] drones in a flat level. Enemies appear one at a time, highlighted on the radar below the main view, and a counter shows how many remain to complete the level. Pillars block shots and can be used for protection from enemy projectiles. When the enemy counter reaches zero, a portal opens containing obstacles to avoid reaching the next level. There are three difficulty settings.<ref name="ycreview">{{cite journal|last=S.L.F.P.|date=October 1984|title=''Encounter!'' Review|journal=Your Commodore|volume=1|issue=1|page=30|publisher=[[Argus Specialist Publications]]|url=https://archive.org/stream/01-your-commodore-magazine/Your_Commodore_Issue_01_1984_Oct#page/n29/mode/2up|accessdate=2016-04-23}}</ref><ref name='atarimania16k'>{{Atarimania|id=1839|name=Encounter!}}</ref>
+
+==Development==
+''Encounter!'' was the first game written by Paul Woakes. With his own company [[Novagen Software]] not founded yet, he was looking for a publisher. In 1983, he called Bruce Jordan who was owner of the Birmingham Atari Centre and asked him he would be interested in helping him publish ''Encounter!''. Bruce Jordan agreed, and Novagen Software was formed (initially as Paul Woakes's own company and Bruce Jordan's company was engaged on a 'percentage' for publication, sales and distribution on Novagen's behalf). ''Encounter!'' was released early 1984, and it did sell well, with the Atari version charted higher and longer than the Commodore 64 version, although C64 did extremely well in Germany.<ref>{{cite web|last1=Jordan|first1=Bruce|title=The Beginning of Novagen Software|url=http://mercenarysite.free.fr/mnovagen_story_bruce_jordan.htm|website=The Mercenary Site}}</ref>
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[Your Commodore]]''
+| rev1Score = {{Rating|4|5}}<ref name="ycreview"/>
+| rev2 = ''Amiga Joker''
+| rev2Score = 57%<ref name="ajreview">Amiga Joker issue 9/91, p. 66. Joker Verlag, Haar.</ref>
+}}
+''[[Your Commodore]]'' gave the game four out of five stars praising the game's level of difficulty and available environments along with appreciating the sound effects which indicate when difficult enemies are going to attack.<ref name="ycreview"/> In 1991, the game was converted to the Amiga.<ref name="ajreview"/><ref>[http://hol.abime.net/3262 Amiga ''Encounter!'' on the Hall of Light]. Retrieved on 2009-08-24.</ref> However, the gameplay was outdated, and ''Amiga Joker'' gave it a mediocre score of 57%, stating that it was good enough for a short play from time to time.
+
+A retrospective review in ''Retro Gamer'' stated: "Playing out the mechanics of ''Battlezone'' at what seems like a thousand miles per hour, and with filled, solid objects zooming in and out of the screen, ''Encounter!'' was (and still is) a technical marvel".<ref>{{Cite web|url=https://www.retrogamer.net/retro_games80/encounter/|title=''Encounter!'' &#124; Retro Gamer|date=October 2008}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MobyGames|id=/encounter-}}
+* {{Internet Archive game|id=a8b_Encounter_1983_Synapse_Software_US_req_OSb_k_file}}
+
+{{Battlezone}}
+
+[[Category:1983 video games]]
+[[Category:Amiga games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:First-person shooters]]
+[[Category:Novagen Software games]]
+[[Category:Synapse Software games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Atlantis Software games]]

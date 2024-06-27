@@ -1,0 +1,56 @@
+Pyramid of Doom
+Permalink: //en.wikipedia.org/w/index.php?title=Pyramid_of_Doom&oldid=1224118044
+Accessed on: 2024-06-26T16:51:21.703139
+
+
+
+------
+Pyramid of Doom
+{{About|the game|the coding problem|Pyramid of doom (programming)}}
+{{Short description|1979 video game}}
+{{Infobox video game
+|title=
+|image= Pyramid of Doom.jpg
+|caption= 
+|developer= [[Adventure International]] 
+|publisher= Adventure International
+|designer= [[Scott Adams (game designer)|Scott Adams]]<br>Alvin Files
+|series= ''[[List of Scott Adams Adventure video games|Adventure]]''
+|engine= 
+|released= 1979
+|genre= [[Interactive fiction]]
+|modes= 
+|platforms= [[Acorn Electron]], [[Apple II]], [[Atari 8-bit]], [[BBC Micro]], [[Dragon 32/64]], [[Commodore PET|PET]], [[TI-99/4A]], [[TRS-80]], [[TRS-80 Color Computer]], [[VIC-20]]
+}}
+
+'''''Pyramid of Doom''''' is a [[text adventure]] game written by Alvin Files and published by [[Adventure International]] in 1979.<ref>{{cite web|url=http://www.trs-80.com/wordpress/emulation-scott-adams/software-adventures-08/|website=trs-80.com|title=TRS-80 Software: Scott Adams Adventure 08 – "Pyramid of Doom"}}</ref> It is the eighth in the [[Scott Adams (game designer)|Scott Adams]]' ''Adventure'' series.<ref name=package>{{cite web |url=https://archive.org/details/PyramidOfDoom/page/n1 |title=Pyramid of Doom packaging |website=archive.org|year=1981 }}</ref> Files independently [[reverse engineering|reverse engineered]] Adams' ''Adventure'' engine, wrote a new game, and submitted it to Adams, who then tweaked it for release as part of the series.
+
+== Gameplay ==
+Gameplay involves moving from location to location, picking up any objects found there, and using them somewhere else to unlock puzzles. Commands are of the form [[verb]] and [[noun]], e.g. "Take Shovel". Movement from location to location is limited to North, South, East, West, Up, and Down.
+
+The object of the game is to enter an Egyptian pyramid and plunder its treasures.<ref name=package/> The player faces a variety of challenges, such as an angry [[mummy]], a purple worm, and an irate desert [[nomad]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://archive.org/details/PersonalComputerWorld1982-05/page/82/mode/2up Review] in ''[[Personal Computer World]]''
+
+{{Adventure International}}
+
+[[Category:1979 video games]]
+[[Category:1970s horror video games]]
+[[Category:Adventure games]]
+[[Category:Adventure International games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore PET games]]
+[[Category:VIC-20 games]]
+[[Category:Dragon 32 games]]
+[[Category:TI-99/4A games]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games based on Egyptian mythology]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Egypt]]

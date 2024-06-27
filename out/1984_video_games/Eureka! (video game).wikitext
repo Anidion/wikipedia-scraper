@@ -1,0 +1,86 @@
+Eureka! (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Eureka%21_%28video_game%29&oldid=1230498351
+Accessed on: 2024-06-26T16:56:44.858453
+
+
+
+------
+Eureka! (video game)
+{{Short description|1984 video game}}
+{{Infobox video game
+|title = Eureka!
+|image = Eureka by Ian Livingstone.jpg
+|image_size = 256px
+|developer = Andromeda Software<br>[[Appaloosa Interactive|Novotrade]]
+|publisher = [[Domark]]
+|engine = 
+|platforms = [[Commodore 64]], [[ZX Spectrum]]
+|released = 1984
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|designer = 
+| writer = [[Ian Livingstone]]
+}}
+
+'''''Eureka!''''' is a [[video game]] for the [[Commodore 64]] and [[ZX Spectrum]] computers, written by [[Ian Livingstone]], developed by [[Appaloosa Interactive|Novotrade]]<ref>{{Cite web|url=http://game-chronicle.blogspot.hu/2013/03/az-eureka-projekt-novotrade-nagydobasa.html|title=Az Eureka! projekt - A Novotrade nagydobása|website=game-chronicle.blogspot.hu|access-date=2017-04-12}}</ref><ref>{{Cite news|url=http://articles.latimes.com/1985-02-10/business/fi-3565_1_video-games-market|title=Hungary's Video-Game Industry Is Winning a Place in Western Markets|agency=Reuters|date=1985-02-10|work=Los Angeles Times|access-date=2017-04-12|language=en-US|issn=0458-3035}}</ref> for Andromeda Software and published by [[Domark]] in 1984.
+
+== Gameplay ==
+''Eureka!'' is a [[text adventure]] set in [[Europe]]an history. It consists of five parts, each of which has to be loaded and played separately. The first four parts can be played in any order, but the fifth part can only be played after all the other parts have been completed.
+
+The parts are:
+# ''Prehistoric Europe'': Set in a valley somewhere in the [[Jurassic period]]. You have to escape from the valley and avoid hungry [[dinosaur]]s.
+# ''Ancient Rome'': Set in [[ancient Rome]] somewhere around the 1st or 2nd century BC. You have to escape from [[slavery]] and win a horse race at the [[Circus Maximus]].
+# ''Arthurian Britain'': Set in [[medieval]] [[England|Britain]] during [[King Arthur]]'s time. You have to foil the evil [[Mordred]]'s plans.
+# ''Wartime Germany'': Set in [[Germany]] during [[World War II]]. You have to escape a [[prisoner of war]] camp back to your own country.
+# ''Modern Caribbean'': Set in the [[Caribbean]] in the 1980s. You finally confront your nemesis in his island-based stronghold and have to stop him from conquering the world.
+At the start of ''Modern Caribbean'', the game asks questions from each of the first four parts. You have to answer every question correctly to start the fifth part of the game.
+
+The plots in ''Eureka!'' are somewhat [[cliché]]d and the [[parser]] is very simplistic, usually limited to one verb and one object per command. Some rooms in the game have pictures representing them and sometime small animations.
+
+Unusually for text adventures, ''Eureka!'' maintains [[Role-playing video game|RPG]]-style [[hit point]]s for your character. These hit points are lowered when your character is injured or raised when he gets something to eat. If the hit points reach 0, your character dies.
+
+Another feature of the game, was the rooms that had a time limit, which meant the player had to act quickly to complete a task or to quickly exit the area.
+
+The main text adventure was also accompanied by "[[arcade game]]" versions of the five parts. These were very simple affairs, where your character ran around a [[Pac-Man]]-style [[maze]] avoiding enemies. Apart from the maze layout and the graphics, all five parts were pretty much identical.
+
+At the start of ''Arthurian Britain'' the wind blows a theme from [[Franz Liszt]]'s ''Les Préludes''.
+
+== Prize challenge ==
+When the game was originally published, Domark promised a prize of [[pound sterling|£]]25,000 to the first player to solve the entire game before December 31, 1985. The prize was eventually won by Matthew Woodley, a teenager from the UK.<ref>{{Cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue21/Pages/Crash2100020.jpg|title=News Input |date=October 1985 |page=20 |publisher=[[Crash (magazine)|Crash]] }}</ref> Woodley would eventually go on to work for Domark.<ref>[http://funambulism.com/2012/01/17/interview-matt-woodley-of-domark-on-championship-manager-and-football-manager/ Interview: Matt Woodley of Domark, on Championship Manager and Football Manager. January 17th, 2012]</ref>
+
+==Reception==
+Kath Bilgora reviewed ''Eureka!'' for ''[[White Dwarf (magazine)|White Dwarf]]'' #60, giving it an overall rating of 9 out of 10, and stated that "Without having seen the full package, my impression is that this should provide a sustained challenge for the experienced adventure gamer, and a complex and absorbing introduction to the complete novice."<ref name="WD60">{{cite journal  | last =Bilgora | first =Kath | title =Microview  | journal =[[White Dwarf (magazine)|White Dwarf]]  | issue = 60  | pages =30–31  | publisher =[[Games Workshop]]  | date = December 1984  }}</ref>
+
+==Sales figures==
+About 50,000 copies of both versions of the game (Commodore 64 and ZX Spectrum) were sold.<ref>[https://www.youtube.com/watch?v=nV0ZqBFf9ak Molesman 4]</ref>
+
+==Reviews==
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #24 (Feb 1985)<ref>{{Cite web|url=https://rpggeek.com/rpgissuearticle/165638/ludotique|title = Ludotique &#124; Article &#124; RPGGeek}}</ref>
+*''[[Computer and Video Games]]'' (Dec, 1984)<ref>{{cite web | url=https://archive.org/details/cvg-magazine-038/page/n45/mode/2up | title=CVG Magazine Issue 038 | date=December 1984 }}</ref>
+*''[[Sinclair User]]'' (Jan, 1985)<ref>{{cite web | url=https://archive.org/details/sinclair-user-magazine-034/page/n41/mode/2up | title=Sinclair User Magazine Issue 034 | date=January 1985 }}</ref>
+*''[[Crash (magazine)|Crash!]]'' (Jan, 1985)<ref>{{cite web | url=https://archive.org/details/Crash_No._12_1985-01_Newsfield_GB/page/n127/mode/2up | title=Crash - No. 12 (1985-01)(Newsfield)(GB) | date=January 1985 }}</ref>
+*''[[Your Computer (British magazine)|Your Computer]]'' (Dec, 1987)<ref>{{cite web | url=https://archive.org/details/your-computer-magazine-1984-12/page/n60/mode/2up | title=Your Computer Magazine (December 1984) | date=December 1984 }}</ref>
+*''Micro Adventurer'' #15 - 1985/Jan<ref>{{cite web | url=https://archive.org/details/micro-adventurer-15/page/n34/mode/2up | title=Micro Adventurer Issue 15 | date=January 1985 }}</ref>
+*''[[Personal Computer Games]]'' #14 - 1985/Jan<ref>{{cite web | url=https://archive.org/details/personalcomputergames-magazine-14/page/n114/mode/2up | title=Personal Computer Games Magazine Issue 14 }}</ref>
+*''Sinclair Answers'' #2 - 1985/Jan<ref>{{cite web | url=https://archive.org/details/Sinclair_Answers_Issue_02/page/39/mode/2up | title=Sinclair Answers Issue 02 }}</ref>
+*''[[Sinclair Programs]]'' #27 - 1985/Jan<ref>{{cite web | url=https://archive.org/details/sinclair-programs-27/page/n15/mode/2up | title=Sinclair Programs 27 | date=January 1985 }}</ref>
+*''[[Your Computer (British magazine)|Your Computer]]'' v.4 #12 - 1984/Dec<ref>{{cite web | url=https://archive.org/details/your-computer-magazine-1984-12/page/n59/mode/2up | title=Your Computer Magazine (December 1984) | date=December 1984 }}</ref>
+*''[[Your Spectrum]]'' #10 - 1984/Dec<ref>{{cite web | url=https://archive.org/details/your-spectrum-magazine-10/page/n68/mode/2up | title=Your Spectrum Magazine Issue 10 | date=December 1984 }}</ref>
+
+==References==
+<references />
+
+==External links==
+*{{WoS game|id=0001661|name=Eureka!}}
+*{{Lemon64 game|id=856|name=Eureka!}}
+*[http://www.c64sets.com/set.html?id=1 Package, manual, screenshots]
+
+{{DEFAULTSORT:Eureka! (Video Game)}}
+[[Category:1984 video games]]
+[[Category:Adventure games]]
+[[Category:Andromeda Software games]]
+[[Category:Commodore 64 games]]
+[[Category:Domark games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

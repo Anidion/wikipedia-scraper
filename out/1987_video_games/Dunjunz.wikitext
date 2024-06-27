@@ -1,0 +1,50 @@
+Dunjunz
+Permalink: //en.wikipedia.org/w/index.php?title=Dunjunz&oldid=1231178303
+Accessed on: 2024-06-26T17:02:00.214945
+
+
+
+------
+Dunjunz
+{{Infobox video game
+| title = Dunjunz
+| image = BugByte-Dunjunz-elk.jpg
+| caption = Electron cover art
+| publisher = [[Bug-Byte]]
+| designer = Julian Avis
+| released = 1987
+| genre = [[Action game|Action]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|4-player multiplayer]]
+| platforms = [[Acorn Electron]], [[BBC Micro]]
+}}
+'''''Dunjunz''''' is an [[action game]] made for the [[BBC Micro]] and [[Acorn Electron]] home computers and released by [[Bug-Byte]] in 1987. It is essentially a clone of the popular video game ''[[Gauntlet (1985 video game)|Gauntlet]]'' where players controlled fantasy characters from a top down view. Unlike ''Gauntlet'', each of the characters is given their own viewport onto the dungeon and can explore independently.
+
+==Gameplay==
+[[File:Dunjunz-Level-1-BBC-Micro-01.png|thumb|left|''Dunjunz'' on the [[BBC Micro]]]]
+
+Up to four players are able to play simultaneously, sharing the keyboard to control their characters (ranger, wizard, barbarian, and female warrior). Each player views their character's progress via one of four viewports that divide the screen. As their character leaves a room, the viewport changes to show the new room.<ref name="electronuser198706_dunjunz">{{ cite magazine | url=https://archive.org/details/ElectronUserVolume4/Electron-User-04-09/page/n16/mode/1up | title=Super dungeon | magazine=Electron User | last1=Riddell | first1=James | date=June 1987 | access-date=27 June 2024 | volume=4 | issue=9 | pages=17 }}</ref>
+
+The objective is to reach the exit on each level, or the chalice on level 25, avoiding or killing enemies, collecting treasure and upgrades, and opening doors with the appropriate keys. Additionally, items of food can be collected to restore health, potions can be used to either increase or diminish health, and crucifixes will reanimate the most recently killed character, making it possible for players knocked out of the game to rejoin the action. If at least one character leaves the current level via the exit then all characters will be restored on the next level, but those that died will return with their initial attributes.
+
+As in Gauntlet, each of the characters starts with their own particular strengths and weaknesses. For example, the barbarian can initially fire only one axe at a time, but it carries the maximum amount of damage a projectile can have. During the course of the game, the characters will achieve parity in armour, damage and number of projectiles. However, only the ranger and wizard are able to cast a spell to destroy all enemies on screen, and the per-use cost of this in health is fixed throughout the game.
+
+On the [[Acorn Electron]], a screen mode with a reduced colour palette was used, enabling the game to run as quickly as the [[BBC Micro]] version. Graphical niceties, such as the character status displays and the exit animations, are not present in this version. As with other Electron games, sound effects are limited by the capabilities of the Electron but are generally similar to those of the BBC Micro version. The BBC Micro disk version also includes a level editor that allows existing levels to be edited and new levels to be created.
+
+==Reception==
+''[[Computer Gamer]]'' awarded this "very playable" game an overall score of 75%.<ref>''Computer Gamer'' 22 (1987-01), p. 43.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.mocagh.org/loadpage.php?getgame=dunjunz ''Dunjunz''] at the Museum of Computer Adventure Game History
+
+[[Category:1987 video games]]
+[[Category:Action games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Fantasy video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games featuring female protagonists]]
+[[Category:Bug-Byte Software games]]

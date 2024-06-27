@@ -1,0 +1,73 @@
+Under the Ice
+Permalink: //en.wikipedia.org/w/index.php?title=Under_the_Ice&oldid=1163635554
+Accessed on: 2024-06-26T17:03:25.592126
+
+
+
+------
+Under the Ice
+{{other uses}}
+{{Infobox video game
+| title = Under the Ice
+| image = Under the Ice splash screen.png
+| alt = 
+| caption = Splash screen
+| developer = John Almberg/Lyric Software
+| publisher =
+| series = 
+| engine = 
+| platforms = [[Atari ST]], [[IBM PC]] (GEM)
+| released = 1987
+| genre = [[Simulation video game|Simulation]]
+}}
+'''''Under the Ice''''' is a [[submarine warfare]] [[video game]] for the [[Atari ST]] and [[IBM PC compatible]]s running [[GEM (desktop environment)|GEM]]. It simulates one of three battles between [[NATO]] and [[Soviet Union|Soviet]] submarines in the area around [[Iceland]]. A key element of the game was an accurate simulation of the performance of [[sonar]], the various classes of submarines, and their weapons.
+
+==Gameplay==
+[[File:Under the Ice screenshot.png|thumb|Screenshot of the opening scene in the "wolfpacks" scenario when played by the NATO side.]]
+
+The game takes place in an analog of the [[GIUK gap]], with [[Iceland]] roughly centered in the upper half of the map. Clicking anywhere on the map zooms in on that area, a button in the upper left zooms out again.
+
+Submarines appear on the map as large icons, which sometimes obscure other nearby boats unless zoomed in. Player-side boats are selected by clicking on them, causing a rectangle to appear around it and various details appear in a separate display area at the bottom of the screen. Three sections of the lower display allow the user to select and activate the various sensors, fire weapons, and launch acoustic decoys.
+
+A separate Plot button allows one or more waypoints to be entered. When clicked, the cursor changes to a crosshair while over the map and another section of buttons appears on the left. The user can click on the map to set the location of a waypoint and use the buttons on the left to select the speed and depth. Numbers appear at the waypoints indicating when the boat will reach that location at its selected speed. As these are often on the order of tens of minutes or even hours, the user can speed up the game to as much as one hour of game time for every minute of real time.
+
+Sonar modeling is an important aspect of the game. Targets do not appear as plots on a map, at least not at first, but only as an arrow pointing in the direction of the sound. The target can be more precisely located as the submarines move about, allowing the sounds to be triangulated. Active sonar is also supported, normally used in short bursts to quickly determine the exact location of a target. Once found, they can be targeted by selecting them and then selecting one of the weapons on the boat.
+
+There are three missions to select from, which can be played on either the NATO or USSR sides. The missions are "Ambush" which is the smallest scenario with two NATO submarines facing three Soviet, "Wolfpacks" where two NATO boats attempt to stop a group of Soviet boats, and "Missile Boats" where the Soviets win if enough of their [[ballistic missile submarine]]s escape under the polar ice cap.
+
+NATO units include the US [[Permit-class submarine|''Permit'']], [[Sturgeon-class submarine|''Sturgeon'']] and [[Los Angeles-class submarine|''Los Angeles'']] classes, and the British  [[Trafalgar-class submarine|''Trafalgar'']] class. Soviet boats include the [[Victor-class submarine|''Victor'']] and [[Alfa-class submarine|''Alpha'']] class [[attack submarines]] and the [[Yankee-class submarine|''Yankee'']] and [[Delta-class submarine|''Delta'']] class [[ballistic missile submarine]]s.
+
+==Reception==
+''[[Computer Gaming World]]'' reviewed the PC version in their May 1989 edition. They were relatively happy with the quality of the simulation itself, and its realism, although they cautioned that this was a game that would appeal to the "true submarine buff and not to the general gaming public." Their main concerns were "the paucity of documentation and the resulting slow learning curve" due to the manual not explaining many of the underlying concepts that the player would have to discover through trial and error.{{sfn|Brooks|1989}}
+
+ST-Log reviewed the game in their July 1989 edition. The author was a naval officer with ten years in submarines, and was fairly critical of the game in many of its technical details. More of his concern was aimed at the game's interface, noting the annoyance of needing to delete waypoints in order to change their speed or depth, and how slightly missing a click on an icon will cause an inadvertent zoom. But his largest complaint was the speed of the display, "If you're used to animation that moves smoothly, or even semi-smoothly, the complete redraw of the screen every two seconds will annoy you. Having to wait for the program to accept commands may also drive you nuts."{{sfn|Goff|1989}}
+
+==References==
+===Citations===
+{{reflist}}
+
+===Bibliography===
+* {{cite magazine
+ |magazine=ST-Log
+ |title=Under the Ice
+ |first=Robert |last=Goff
+ |date=July 1989
+ |page=92
+ |url=https://www.atarimagazines.com/st-log/issue34/92_1_REVIEW_UNDER_THE_ICE.php
+}}
+* {{cite magazine
+ |magazine=Computer Gaming World
+ |title=Under the Ice
+ |first=M. Evan |last=Brooks
+ |date=May 1989
+ |pages=39,42
+ |url=http://www.cgwmuseum.org/galleries/issues/cgw_59.pdf
+ |issue=59
+}}
+
+[[Category:1987 video games]]
+[[Category:Atari ST games]]
+[[Category:Cold War video games]]
+[[Category:DOS games]]
+[[Category:Submarine simulation video games]]
+[[Category:Video games developed in the United States]]

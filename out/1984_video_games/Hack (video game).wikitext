@@ -1,0 +1,172 @@
+Hack (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Hack_%28video_game%29&oldid=1212483731
+Accessed on: 2024-06-26T16:56:55.777657
+
+
+
+------
+Hack (video game)
+{{Short description|1984 roguelike video game}}
+{{About|the roguelike game|the series of PlayStation 2 role-playing games|.hack (video game series){{!}}''.hack'' (video game series)}}
+{{More citations needed|date=August 2007}}
+{{Infobox software
+| title                  = ''Hack''
+| screenshot             = <!-- Image name is enough -->
+| caption                = 
+| screenshot_size        = 
+| screenshot_alt         = 
+| author                 = 
+| developer              = 
+| released               = {{Start date and age|1984|01|17|df=yes}}
+| discontinued           = 
+| latest release version = 1.0.3
+| latest release date    = {{Start date and age|1985|07|23|df=yes}}<ref>{{cite web | title=''Hack'' | url=http://roguebasin.roguelikedevelopment.org/index.php?title=Hack | archive-url=https://web.archive.org/web/20060830193639/http://roguebasin.roguelikedevelopment.org/index.php?title=Hack | archive-date=30 August 2006 | url-status=live | work=RogueBasin | access-date=19 July 2013}}</ref> 
+| replaced_by            = [[NetHack]]
+| programming language   = [[C (programming language)|C]]<ref>{{cite web|title=Index of games/hack/|url=http://gitweb.dragonflybsd.org/dragonfly.git/tree/HEAD:/games/hack|work=DragonFly BSD [[Revision control|revision-control]] system|accessdate=19 July 2013}}</ref>
+| operating system       = 
+| platform               = 
+| size                   = 
+| language               = English
+| genre                  = [[Roguelike]] [[video game]]
+| license                = [[3-clause BSD license]]<ref>{{cite web | title = ''Hack'' | url = http://homepages.cwi.nl/~aeb/games/hack/hack.html | archive-url = https://web.archive.org/web/20030804074930/http://homepages.cwi.nl/~aeb/games/hack/hack.html | archive-date = 4 August 2003 | url-status = live | access-date = 19 July 2013}}</ref>
+| website                = <!-- {{URL|example.org}} -->
+| AsOf                   = 
+}}
+
+'''''Hack''''' is a 1984 [[roguelike]] [[video game]] that introduced shops as gameplay elements and expanded available monsters, items, and spells. It later became the basis for ''[[NetHack]]''.
+
+==History and development==
+''Hack'' was created in 1982 by Jay Fenlason with the assistance of Kenny Woodland, Mike Thome, and Jonathan Payne, while students at [[Lincoln-Sudbury Regional High School]].<ref>
+{{Citation
+|title = A Case Study: The Lincoln-Sudbury Regional High School
+|last  = Harvey
+|first = Brian
+|access-date = December 19, 2018
+|url    = http://www.cs.berkeley.edu/~bh/lsrhs.html
+|archive-url = https://web.archive.org/web/20160601085931/https://people.eecs.berkeley.edu/~bh/lsrhs.html
+|archive-date = June 1, 2016
+|url-status = live}}</ref> A greatly extended version was first released on [[Usenet]] in 1984 by [[Andries Brouwer]]. Brouwer continued to work on ''Hack'' until July 1985. Don Kneller ported the game to [[MS-DOS]] and continued development there.<ref name="1.0.3">{{cite web
+|title=''Hack'' 1.0.3
+|url=http://nethackwiki.com/wiki/Hack_1.0.3
+|archive-url=https://web.archive.org/web/20110512172135/http://nethackwiki.com/wiki/Hack_1.0.3
+|archive-date=12 May 2011
+|url-status=live
+|work=NetHackWiki
+|access-date=19 July 2013}}</ref> Development on all ''Hack'' versions ended within a few years. ''Hack'' descendant ''[[NetHack]]'' was released in 1987.<ref>{{cite web
+|title=Game history 1.0.3
+|url=http://nethackwiki.com/wiki/Game_history
+|archive-url=https://web.archive.org/web/20101117223607/http://nethackwiki.com/wiki/Game_history
+|archive-date=17 November 2010
+|url-status=live
+|work=NetHackWiki
+|access-date=19 July 2013}}</ref><ref>{{cite web
+|title=''NetHack'' 1.3d
+|url=http://nethackwiki.com/wiki/NetHack_1.3d
+|archive-url=https://web.archive.org/web/20110529010618/http://nethackwiki.com/wiki/NetHack_1.3d
+|archive-date=29 May 2011
+|url-status=live
+|work=NetHackWiki
+|access-date=19 July 2013
+}}</ref>
+
+''Hack'' is still available for Unix, and is distributed alongside many modern Unix-like OSes,<ref name="1.0.3" /> including [[Debian]], [[Ubuntu (operating system)|Ubuntu]], [[Berkeley Software Distribution#Significant BSD descendants|the BSDs]],<ref name="1.0.3" /> [[Fedora (operating system)|Fedora]],<ref>
+{{cite web
+|title=bsd-games.spec
+|url=http://pkgs.fedoraproject.org/cgit/bsd-games.git/tree/bsd-games.spec?id=20f2956e400443ef2667a80fc2d5fe216875fd68#n162
+|work=Fedora Project Packages GIT repositories » bsd-games.git
+|accessdate=19 July 2013
+|at=Line 162}}</ref> and others. ''Hack'' has also been ported to a variety of non-Unix-based platforms. ''NetHack'' is available for almost all platforms which run ''Hack''. There is one exception: ''Hack'' is available,<ref>
+{{cite web
+|title=List of handheld roguelikes
+|url=http://roguebasin.com/index.php?title=List_of_handheld_roguelikes#Game_Boy_Advance
+|archive-url = https://web.archive.org/web/20181219164236/http://roguebasin.com/index.php?title=List_of_handheld_roguelikes
+|archive-date = December 19, 2018
+|url-status = live
+|work=RogueBasin
+|access-date=19 July 2013}}</ref> but ''NetHack'' is unavailable, for the [[Game Boy Advance]].
+
+==Gameplay==
+{{review|date=August 2023}}
+This describes Brouwer's version 1.0.3, which is the most canonical version, being the one installed by package managers on Linux systems.
+
+Being developed by one man means the game is more balanced. Even when the player has discovered all properties of monsters, wands, potions, and has fathomed the role of "luck", the game remains as playable as ever. It may take ages before the player reaches that stage. The player will be helped by rumors: cryptic hints, hidden in fortune cookies.
+
+The object of the game is to delve into a dungeon to retrieve the Amulet of Yendor, and perish with as many game points as possible. The player can start out with a different ability set, such as Wizard or Cave(wo)man. The player confronts various monsters: hobgoblins, leprechauns, acid blobs, bats, centaurs, chameleons, dragons, ghosts, imps, trolls, and has weapons, armor, potions, wands, rings and special items to aid in this, e.g. related to fire there is a scroll, a ring, a monster and a wand, and their interplay is to be discovered.
+
+There is time pressure because the player dies if their food runs out, though food is scattered around the dungeon. There is a limit to how much the player can carry, forcing them to leave valuable items behind. The amount of gold and gems the player possesses when they die increases their score, but holding them comes with a burden of more weight.
+
+The player must enter Hell to recover the Amulet. Entering Hell for the uninitiated just means that "you burn to a crisp". In ''NetHack'', Hell is renamed.
+
+The player encounters special rooms such as shops, crypts, and vaults. Other spatial elements in the game are traps and swamps. As the player's experience grows, so do their abilities, score and the need for food.
+
+==Interface==
+''Hack'' implements a [[graphical user interface]] using arrangements of [[ASCII]] or [[Extended ASCII]] glyphs to represent game elements. Some later [[porting|port]]s of ''Hack'', on [[AmigaOS]] for example, use [[Tile-based game|graphical tile]]s in place of these letters and symbols.
+
+===Typical ''Hack'' session===
+{| style="background: transparent; border: none"
+|<pre>You hear some noises in the distance.
+&nbsp;
+&nbsp; 
+&nbsp;#
+                                                                  ------
+                                                                  |....|
+                       -----                                    ##+....|
+                       |..$+#                                     |...<|
+                       +...|#                                     |....|
+                       |...|###############                       ------
+                       |...|#             #-----+-----
+                       |..%|##            #|.........|
+                  #    -----#             #|.<nowiki>[</nowiki>......%L
+       -+----  ##############             #|.........|
+       |....|   #                         #+@........|
+       |....+####                        ##-----------
+       |....|
+       |....+
+       ------
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+Level 1    Hp  15(15)   Ac 9    Str 16      Exp  1          
+</pre>
+|}
+{|class="wikitable"
+|+ Key:
+|-
+| {{samp|@}}
+| the [[player character]]
+|-
+| {{samp|+}}
+| a door
+|-
+| {{samp|$}}
+| gold
+|-
+| {{samp|%}}
+| food
+|-
+| {{samp|L}}
+| monster; a leprechaun
+|-
+| {{samp|<nowiki>[</nowiki>}}
+| armor
+|-
+| {{samp|#}}
+| corridor
+|-
+| {{samp|<}}
+| stairway leading upwards
+|}
+
+==References==
+<references />
+
+==External links==
+* {{moby game|id=/dos/hack|name=''Hack''}}
+
+{{DEFAULTSORT:Hack (Video Game)}}
+[[Category:1984 video games]]
+[[Category:Unix games]]
+[[Category:Open-source video games]]
+[[Category:Roguelike video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,62 @@
+Murder off Miami
+Permalink: //en.wikipedia.org/w/index.php?title=Murder_off_Miami&oldid=1197964208
+Accessed on: 2024-06-26T17:00:34.244305
+
+
+
+------
+Murder off Miami
+{{Short description|1986 video game}}
+{{Infobox video game
+| image = Murder Off Miami cover.jpg
+| developer = [[Delta 4 Software]]
+| publisher = CRL Group
+| platforms = [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]]
+| released = 1987
+| genre = [[Interactive fiction]]
+| designer = Jason Somerville<br />[[Fergus McNeill]]
+}}
+
+'''''Murder off Miami''''' is a 1987 whodunnit adventure video game based on the book of the same name by British thriller novelist [[Dennis Wheatley]]. Players take the role of Detective Officer Kettering, who is inspecting the supposed suicide of a British financier on a cruise ship in the waters near Miami. His job is to unravel the mystery. 
+
+== Gameplay ==
+Players progress by collecting clues, interrogating people, and interacting with the environment. The interface is largely text-based, with occasional images to set the scene. Commands are given to complete actions.<ref name=sinclairuser>{{Cite magazine|url=https://spectrumcomputing.co.uk/page.php?issue_id=61&page=92|magazine=Sinclair User|issue=65|title=Murder off Miami|date=August 1987|publisher=EMAP}}</ref> Gameplay is split into three parts which represent the three days of investigation.<ref name=zzap>{{cite magazine|url=https://archive.org/details/zzap64-magazine-024/page/n69/|magazine=ZZap!64|issue=24|title=Murder off Miami|date=1 April 1987|publisher=Newsfield}}</ref>
+
+== Development ==
+The game was co-written by Fergus McNeill, who had previously authored ''[[The Hobbit]]'' and ''[[The Lord of the Rings|Lord of the Rings]]'' parody games ''[[The Boggit]]'' and ''[[Bored of the Rings (video game)|Bored of the Rings]]''.<ref name="archive.org">{{cite web|url=https://archive.org/details/Computer_Gamer_Issue_25_1987-04_Argus_Press_GB|title=Computer Gamer - Issue 25 (1987-04)(Argus Press)(GB)|date=1 April 1987|publisher=|via=Internet Archive}}</ref> It is based on a novel of the same name by Dennis Wheatley; this text already had some interactivity through the use of physical clues provided with the book such as a blood-stained curtain and cigarette butts, plus an envelope at the end cover to reveal the answer.<ref>{{Cite book|url=https://archive.org/details/Computer_Gaming_World_Issue_76|title=Computer Gaming World Issue 76|date=November 1990 }}</ref>
+
+There was a fatal bug in the first batch of Spectrum units, resulting in the game restarting each time the player tried to get out of their chair at the beginning of the game.<ref>{{Cite book|url=https://archive.org/details/your-computer-magazine-1988-04|title=Your Computer Magazine (April 1988)|date=April 1988}}</ref>
+
+== Reception ==
+{{Video game reviews
+|rev1=''[[ZZap!64]]''
+|rev1Score=81%<ref name=zzap />
+|rev2=''[[Aktueller Software Markt]]''
+|rev2Score=8/10<ref>{{cite web|url=https://archive.org/details/asm_magazine-1987-04|title=Aktueller Software Markt (ASM) Magazine (April 1987)|date=1 April 1987|publisher=|via=Internet Archive}}</ref>
+|rev3=''[[Computer Gamer]]''
+|rev3Score=60%<ref name="archive.org"/>
+|rev4= ''[[Your Commodore]]''
+|rev4Score=7/10<ref>{{cite web|url=https://archive.org/details/32-your-commodore-magazine|title=Your Commodore Magazine Issue 32|date=1 May 1987|publisher=|via=Internet Archive}}</ref>
+|rev5=''[[Commodore User]]''
+|rev5Score=2/5 stars<ref>{{cite web|url=https://archive.org/details/commodore-user-magazine-43|title=Commodore User Magazine Issue 43|date=1 April 1987|publisher=|via=Internet Archive}}</ref>
+}}
+
+''[[Sinclair User]]'' thought the game would have used a packaging style similar to that of Weatley's novel.<ref name=sinclairuser /> Meanwhile, ''ZX Computing'''s review was cut short due to the bug, but the reviewer was impressed with what they experienced and looked forward to reviewing it again the following month.<ref>{{cite web|url=https://archive.org/details/ZX-computing-1987-05|title=ZX Computing Magazine (May 1987)|date=1 May 1987|publisher=|via=Internet Archive}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{IFDB|id=d2m3ypvs09f7qfg3}}
+
+[[Category:1980s interactive fiction]]
+[[Category:Interactive fiction based on works]]
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games about police officers]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games set in Miami]]
+[[Category:CRL Group games]]
+[[Category:Delta 4 games]]

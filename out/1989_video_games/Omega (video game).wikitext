@@ -1,0 +1,104 @@
+Omega (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Omega_%28video_game%29&oldid=1217347834
+Accessed on: 2024-06-26T17:06:59.446549
+
+
+
+------
+Omega (video game)
+{{Infobox video game
+|title = Omega
+|image = OmegaBoxShotAmiga.jpg
+|developer = [[Origin Systems]]
+|publisher = Origin Systems
+|director = Stuart B. Marks
+|released = {{Video game release|NA|1989|JP|1992 (PC-98)}}
+|genre = [[Programming game|Programming]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Apple IIGS]], [[Commodore 64]], [[MS-DOS]], [[Amiga]], [[Atari ST]], [[Mac OS]], [[PC-98]]
+}}
+
+'''''Omega''''' is a video game developed and published by [[Origin Systems]] in 1989. It was directed by Stuart B. Marks.
+
+The player assumes the role of a cyber-tank designer and programmer, with the objective of creating tanks to defeat increasingly difficult opponents. The game emphasizes programming the tank, using a built-in text editor with artificial intelligence script commands similar to [[BASIC]]. Tanks can communicate and coordinate actions, and successful designs tend to be automated. Code is cross-platform, allowing Apple, [[Commodore 64|Commodore]], and IBM users to compete against each other.
+
+The game received positive reviews, with [[Compute!]] praising its ease of use for newcomers to programming. [[Computer Gaming World]] acknowledged its similarities to [[RobotWar]], while noting its improvements. [[Computer Games Magazine|Games International]] magazine awarded it 4 stars out of 5, highlighting its unique gameplay and requirement for strategic thinking.
+
+==Gameplay==
+The game puts the player in the role of a cyber-tank designer and programmer. Given a limited budget, the player must design a tank that can defeat a series of ever more challenging opponent tanks. Each successful design yields a higher security clearance and a larger budget, ultimately resulting in an OMEGA clearance and an unlimited budget. The focus of the game is not on the combat but on [[game programming]] the tank itself.
+
+Tanks are programmed using a built-in [[text editor]] that allows the player to use various [[artificial intelligence]] [[Scripting language|script]] commands, similar in structure to BASIC. These commands permit control of various aspects of the tank, and also allows teams of tanks to communicate and coordinate actions. While commands exist that enable a range of control over the tank, successful designs tend to be automated. Decision making is an important part of the design process, as the programming must reflect the equipment placed on the tank.
+
+Code was [[cross-platform]], so Apple, Commodore, and IBM users could compete against each other. Origin operated a [[bulletin board system]] for ''Omega'' owners.{{r|compute198910}}
+
+==Reception==
+{{Video game reviews
+| CGW = {{rating|2|5}}{{r|brooks199405}}
+}}
+
+''[[Compute!]]'' praised ''Omega'', stating that it made writing code for tanks easy and fun for those new to programming.<ref name="compute198910">{{cite news | url=https://archive.org/stream/1989-10-compute-magazine/Compute_Issue_113_1989_Oct#page/n101/mode/2up | title=Omega | work=Compute! | date=October 1989 | access-date=11 November 2013 |author1=Scisco, Peter |author2=Ferrell, Keith | pages=100}}</ref>
+Russell Sipe of ''[[Computer Gaming World]]'' in 1989 gave the game a positive review, noting its similarities and improvements over ''[[RobotWar]]''.<ref name = "CGW"/> In a 1992 survey of science fiction games the magazine gave the title two of five stars, stating that "Programmers loved this 'simulation' [but] it's all Geek to me".<ref name="brooks199211">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Strategy & Wargames: The Future (2000-....) | magazine=Computer Gaming World | date=November 1992 | access-date=4 July 2014 | author=Brooks, M. Evan | pages=99}}</ref><ref name="brooks199405">{{Cite magazine
+ | last = Brooks
+ | first = M. Evan
+ | date = May 1994
+ | title = Never Trust A Gazfluvian Flingschnogger!
+ | url = http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118 
+ | magazine = Computer Gaming World
+ | pages = 52}}</ref>
+
+John Inglis reviewed ''Omega'' for ''[[Games International]]'' magazine, and gave it 4 stars out of 5, and stated that "In summary I would say that ''Omega'' is a unique game that has had a considerable amount of thought lavished on it. It is not a game for the shoot-em-up enthusiast, as you must put considerable though in before you get anywhere."<ref name="gi11">{{cite journal 
+  | last = Inglis
+  | first = John
+  | date = December 1989
+  | title = Computer Games 
+  | journal = [[Games International]] 
+  | issue = 11 
+  | pages = 49–50}}</ref>
+
+==References==
+{{reflist | refs= <ref name = "CGW">
+{{citation 
+  | last = Sipe
+  | first = Russell
+  | date = November 1989
+  | title = The Ploys of Thunder: Cybernetic Combat in Origin's "Omega"
+  | url = https://www.cgwmuseum.org/galleries/index.php?year=1989&pub=2&id=65
+  | magazine = [[Computer Gaming World]]
+  | issue = 65
+  | pages = 86, 90}}</ref> }}
+
+==See also==
+* ''[[Armored Core: Formula Front]]''
+* ''[[Armored_Core:_Verdict_Day#Gameplay|Armored Core: Verdict Day]]'', featuring UNACs, AI controlled Armored Cores which players can create and customize
+* ''[[Artdink#Games|BASIC STUDIO Powerful Game Koubou]]'', a 2001 PS2 [[Game_creation_system|game creation title]] by Artdink featuring a sample game based on their title ''[[Carnage Heart]]''
+* ''[[List_of_Famicom_Disk_System_games#B|Breeder]]'', a 1986 Famicom algorithm-based simulation combat game by SoftPro
+* ''[[ChipWits]]''
+* ''[[Technosoft#Releases|COMSIGHT]]'', a 1987 PC88, X1 , and X68000 algorithm-based simulation combat game by Technosoft
+* ''[[MindRover]]''
+* ''[[List_of_PlayStation_games_(M–Z)#P|Pandora Project: The Logic Master]]'', a 1996 PS1 algorithm-based simulation combat game by Team Bughouse very similar to ''Carnage Heart''
+* ''[[Robot Odyssey]]''
+* ''[[List_of_PlayStation_games_(M–Z)#R|Robot X Robot]]'', a 1999 PS1 algorithm-based simulation combat game by Nemesys
+* ''[[RoboSport]]''
+* [[Logic simulation]]
+
+==External links==
+{{Portal|Video games}}
+
+*{{moby game|id=/omega_}}
+*{{Internet Archive game|msdos_Omega_1989}}
+*[http://corewar.co.uk/omega/docs/index.htm Omega Game Documentation]
+
+{{Origin Systems}}
+
+{{DEFAULTSORT:Omega (1989 Computer Game)}}
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Classic Mac OS games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Programming games]]
+[[Category:Video games developed in the United States]]

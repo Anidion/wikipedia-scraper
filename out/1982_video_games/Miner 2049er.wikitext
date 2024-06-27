@@ -1,0 +1,158 @@
+Miner 2049er
+Permalink: //en.wikipedia.org/w/index.php?title=Miner_2049er&oldid=1230335268
+Accessed on: 2024-06-26T16:53:42.336367
+
+
+
+------
+Miner 2049er
+{{Short description|1982 video game}}
+{{use mdy dates|date=August 2023}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Miner 2049er
+| image = Miner2049er-Atari800-game-cover.jpg
+| alt = 
+| caption = Atari 8-bit cover
+| developer = [[Big Five Software]]
+| publisher = Big Five Software
+| series = 
+| engine = 
+| platforms = [[Atari 8-bit computers]], [[Atari 2600]], [[Atari 5200]], [[ColecoVision]], [[Super Cassette Vision]], [[Commodore 64]],{{sfn|Buchanan|2007}} [[TI-99/4A]], [[IBM Personal Computer|IBM PC]], [[Apple II]], [[VIC-20]]
+| released = {{unbulleted list|
+|'''December 1982:''' Atari 8-bit
+|'''May 1983:''' Atari 2600
+|'''July 1983:''' Atari 5200
+|'''October 1983:''' TI-99/4A
+|'''November 1983:''' IBM PC
+}}
+| genre = [[Platform game|Platform]]
+| modes = 
+| arcade system = 
+| director = 
+| producer = 
+| designer = 
+| programmer = Bill Hogue{{sfn|Big Five Software||ref=manual}}
+| artist = 
+| writer = 
+| composer = 
+}}
+
+'''''Miner 2049er''''' is a [[platform game]] developed for [[Atari 8-bit computers]] by Bill Hogue and released by his company, [[Big Five Software]], in 1982. The player controls Bounty Bob through multiple levels of a mine, with the goal of traversing all of the platforms while avoiding or defeating enemy mutants. At a time when "climbing games" such as ''[[Donkey Kong (arcade game)|Donkey Kong]]'' had four screens, ''Miner 2049er'' had ten.
+
+The game was Hogue's first for the Atari 8-bit line, and his first in color, following a string of games for the black-and-white [[TRS-80]]. It shipped on a custom 16 [[kilobyte]] [[ROM cartridge]] compared to the standard 8 kilobyte Atari computer cartridges. The game was ported to the [[TI-99/4A]], [[IBM PC compatible]]s, [[Apple II]], [[Commodore 64]], and [[VIC-20]] computers as well the [[Atari 2600]], [[Atari 5200]], [[ColecoVision]], and [[Super Cassette Vision]] consoles. The Atari 2600 version was split into two separate releases, each containing three levels.
+
+''Miner 2049er'' received positive press throughout 1983, appearing on best-of lists, with critics complimenting its colors, game design, and originality. The game influenced other [[platform game]]s of the 1980s, such as ''[[Manic Miner]]''. ''[[Video (magazine)|Video]]'' magazine's editors commented on the game's popularity in January 1984, declaring it "the most widely played home electronic game of all time" and that "no home-arcade title has had the impact" that ''Miner 2049er'' had.{{sfn|Kunkel|Katz|1984}} While the game received positive reviews in retrospectives from [[IGN]] and [[AllGame]], Richard Stanton, in his book ''A Brief History of Video Games'' (2015), stated that ''Miner 2049er'' ended up mostly forgotten in the wake of  ''[[Super Mario Bros.]]'' (1985).
+
+==Gameplay==
+[[Image:Miner2049er-Atari800-gameplay.gif|thumb|left|The first level. Each piece of the floor changes as Bob walks over it.]]
+
+''Miner 2049er'' features Bounty Bob, who has chased an evil miner into a series of uranium mines. To complete a stage, Bob must survey the mine by moving left and right across every part of the floor of each level. The levels are full of hazards, including gaps in platforms, slides, radioactive waste, and mutants. The mutants can kill Bob by touching him, but they can be defeated if Bob collects prospecting gear, such as candles and drills, and then touches the mutants.{{sfn|Buchanan|2007}} Other game elements include lifts, cannons, and transporters, which can rapidly move Bob to different parts of the screen.{{sfn|Big Five Software||ref=manual}}
+
+The original and Atari 5200 versions of the game have ten levels, but this varies in the ports. The Atari 2600 version has three (and there is a ''Volume II'' cartridge with three more), ColecoVision has eleven, and the TI-99/4A has eight.<ref name="Atr481200" /><ref name="TI-rev">{{cite magazine|magazine=[[Computer Entertainer|The Video Game Update includes Computer Entertainer]]|volume=2|issue=10|date=January 1984|title=Critically Speaking..Apple-Compatible|page=155}}</ref><ref name="atr5200" />
+{{-}}
+
+==Development==
+''Miner 2049er'' was programmed by Bill Hogue of Big Five Software of Van Nuys, California.{{sfn|Boaz|1983|p=20}}<ref name="Atari50-1">{{cite video game |title=Atari 50 |developer=[[Digital Eclipse]] |publisher=[[Atari SA|Atari]] |date=November 11, 2022 |platform=Nintendo Switch |quote='''The Dawn of PCs: Miner 2049er''': Another breakout hit for the 400/800 computers, Miner 2049er was a platform game created by Bill Hogue, which he published through his company Big Five Software. The recipient of Game of the Year in the 1984 Arkie Awards, Miner 2049er was one of the best-selling computer games of the era.}}</ref>
+The game was Hogue's first for Atari computers, following games he developed for [[TRS-80]] computers.<ref>{{cite magazine|magazine=Compute!|date=November 1982|issn=0194-357X|publisher=Small System Services|title=A Seasonal Serving of ROM Cartridges for Your Atari 400/800}}</ref> His team chose to develop for the Atari system, as they felt it was the best combination of graphics and sound.<ref name="Min2049History" /> The graphics and audio in the game are credited to Curtis A. Mikolyski, Jeff Konyu, Kelly Bakst, and Hogue.{{sfn|Big Five Software||ref=manual}} It was the group's first color computer game.<ref name="Min2049History">{{cite web|archiveurl=https://web.archive.org/web/20040202071850/http://www.bigfivesoftware.com/atari/Miner/History/history.htm|title=Miner 2049er History|accessdate=June 15, 2023|archivedate=February 2, 2004|work=Big Five Software|url=http://www.bigfivesoftware.com/atari/Miner/History/history.htm}}</ref> Hogue stated that he was obsessed with the advanced color capabilities of the Atari computers: 15 different colors on the screen at any one time.<ref name="Min2049Tech">{{cite web|archiveurl=https://web.archive.org/web/20040223010201/http://www.bigfivesoftware.com/atari/Miner/Technical/technical.html|title=Miner 2049er Technical Information|accessdate=June 15, 2023|archivedate=February 23, 2004|work=Big Five Software|url=http://www.bigfivesoftware.com/atari/Miner/Technical/technical.html}}</ref> A black-and-white version was developed for TRS-80 computers, but it was never released.<ref name="Min2049History" /> The game was released on a 16-[[kilobyte]] [[ROM cartridge]]—a large amount of storage at the time, with other games for the Atari 400 and 800 computers such as ''[[Star Raiders]]'' and ''[[Missile Command]]'' requiring only 8-kilobyte ROMs.{{sfn|Hudson|1982|p=14}} The group designed their own circuit boards to store the game at this size.<ref name="Min2049History" /> The game was written in [[assembly language]] on an Atari computer.<ref name="Min2049History" /> Hogue wanted to blend together the elements he found fun from different arcade games; specifically, the climbing from ''[[Donkey Kong (arcade game)|Donkey Kong]]'' (1981) and both traversing the entire screen and enemies who can be made vulnerable from ''[[Pac-Man]]'' (1980). He recollected that "I was never very good at ''Pac-Man'', so I'm not sure why I borrowed any elements from the game."{{sfn|Grannell|2007|p=37}} The gameplay was developed first, followed later by the mining theme and narrative.{{sfn|Grannell|2007|p=37}}  Some versions of the game feature the song "[[Oh My Darling, Clementine|Clementine]]" while others do not.<ref name="Atr481200" /><ref name="atr5200" />
+
+Mike Livesay designed the adaptations of the game for the Apple II computer and for [[Colecovision]].<ref>{{cite magazine|magazine=[[Computer Entertainer|The Video Game Update includes Computer Entertainer]]|volume=2|issue=11|date=February 1984|title=Update on Scraper Caper|page=172}}</ref> Livesay initially approached Micro Fun about adapting the game for Colecovision but was turned down by the company, which stated that they did not want third-party games. Despite this, Livesay reverse-engineered the Colecovision and developed his own kit for it based on the [[Apple II]]. Livesay eventually got Micro Fun to agree to do the Colecovision version of the game, allowing him time to make more levels for it. He later recalled that "six months later I was making $15,000 a month in royalties, which was a huge amount for a single, 24-year-old kid in the early '80s."{{sfn|Weiss|2014|p=139}}
+
+==Release==
+{{multiple image
+ | align = right
+ | direction = vertical
+ | width = 200
+ | footer_align=left
+ | footer = ''Miner2049er'' was the first independently produced game released for the [[ColecoVision]] and the Atari 5200.
+ | image1 = ColecoVision-wController-L.jpg
+ | alt1 = =A ColecoVision video game console
+ | caption1 = ColecoVision
+ | image2 = Atari-5200-4-Port-wController-L.jpg
+ | alt2 = An Atari 5200 video game console
+ | caption2 = Atari 5200
+}}
+''Miner 2049er'' was released for Atari computers in December 1982. This version of the game sold well, with one review stating that it sold in similar quantities to the highly publicized ''[[Ultima II: The Revenge of the Enchantress|Ultima II]]''.{{sfn|MTY|1983|p=36}} In 1983, the game was released for various systems, including the Atari 2600 in May, the Atari 5200 in July, the Colecovision in August, the [[TI-99/4A]] for October, and the [[IBM PC]] by November.<ref>{{cite magazine|magazine=The Video Game Update|volume=2|issue=2|date=June 1983|title=Availability Update|page=48}}</ref><ref name="AvailUpAug83">{{cite magazine|magazine=The Video Game Update includes Computer Entertainer|volume=2|issue=5|date=August 1983|title=Availability Update|page=80}}</ref><ref name="AvailUpSep83">{{cite magazine|magazine=The Video Game Update includes Computer Entertainer|volume=2|issue=6|date=September 1983|title=Availability Update|page=96}}</ref><ref name="InBrief">{{cite magazine|magazine=The Video Game Update includes Computer Entertainer|volume=2|issue=8|date=November 1983|title=In Brief...|page=119}}</ref><ref>{{cite magazine|magazine=The Video Game Update includes Computer Entertainer|volume=2|issue=8|date=November 1983|title=Availability Guide|page=128}}</ref> The game was the first independently produced game released for the Atari 5200 and the [[ColecoVision]].<ref name="Atr481200">{{cite magazine|magazine=The Video Game Update|volume=2|issue=2|date=June 1983|title=Critically Speaking..Atari 4/8/1200|page=62}}</ref><ref name="atr5200">{{cite magazine|magazine=The Video Game Update|volume=2|issue=2|date=June 1983|title=Critically Speaking..Atari 5200-Compatible|page=39}}</ref> The game would be released in Japan for systems like the [[Super Cassette Vision]].<ref>{{cite web|url=http://www.bigfivesoftware.com/atari/Miner/Packages/packages.htm|archiveurl=https://web.archive.org/web/20040223004512/http://www.bigfivesoftware.com/atari/Miner/Packages/packages.htm|title=Miner 2049er Packages|archivedate=February 23, 2004|accessdate=June 15, 2023}}</ref>
+
+Joaquin Boaz said in ''[[InfoWorld]]'' that ''Miner 2049er'' was "selling like crazy".{{sfn|Boaz|1983|p=20}} ''[[Computer Entertainer]]'' reported that the ColecoVision version of the game by Micro Fun was the number-one-selling video game of the year.<ref name="1983Awards">{{cite magazine|title=Computer Entertainer – Master Index/Awards|year=1989|page=14|magazine=Computer Entertainer/The Video Game Update}}</ref> In ''[[Video (magazine)|Video]]''{{'}}s [[Arkie Awards]] from January 1984, the game was described as "the most widely played home electronic game of all time", and the article also said that "no home-arcade title has had the impact" that the game had had to date.{{sfn|Kunkel|Katz|1984}} In a 2007 interview, Hogue reflected on the popularity of the game, saying that it was "a simple game and it's clear at first glance what needs to be done to finish a level. But as you're playing along you discover it wasn't quite as easy as you thought."{{sfn|Weiss|2014|p=139}}
+
+In 2001,{{efn|The first version of the emulator, published in 2001, contains the "20010720" timestamp on its "Help/About..." window.<ref name="big5emu2001">{{cite web |last=Hogue |first=Bill |title=Big Five Software - Emulator |website=Big Five Software |url=http://www.bigfivesoftware.com/Emulator/emulator.htm |archive-url=https://web.archive.org/web/20010909140838/http://www.bigfivesoftware.com/Emulator/emulator.htm |archive-date=9 September 2001}}</ref>}} Hogue released the game and its sequel, ''Bounty Bob Strikes Back!'', for free online with an embedded Atari 8-bit computer emulator.{{sfn|Grannell|2007|p=39}}<ref name="big5emu2007">{{cite web |last=Hogue |first=Bill |title=Big Five Software - Emulator |website=Big Five Software |date=18 January 2007 |orig-date=First published in 2001 |url=http://www.bigfivesoftware.com/Emulator/emulator.htm |archive-url=https://web.archive.org/web/20190914002339/http://www.bigfivesoftware.com/Emulator/emulator.htm |archive-date=14 September 2019}}</ref> Hogue said that he released it this way, as opposed to releasing the games' ROMs, as "I'd spent so much time back in the Eighties tweaking those color registers to achieve perfection and I wanted to see the game that way again."{{sfn|Grannell|2007|p=39}} [[Magmic]] released the game for mobile devices in 2007.{{sfn|Buchanan|2007}} The mobile version of the game featured a new, contemporary version of the game as well as the original, which was coded from scratch.{{sfn|Grannell|2007|p=39}} Both the Atari 800 and Atari 2600 versions of ''Miner2049er'' were included as part of the ''[[Atari 50|Atari 50: The Anniversary Celebration]]'' (2022) compilation for [[Nintendo Switch]], [[PlayStation 4]], [[Steam (service)|Steam]], and [[Xbox One]].{{sfn|Machkovech|2022}}
+
+==Reception==
+{{Video game reviews
+| Allgame = {{rating|4.5|5}} (Atari 5200){{sfn|Weiss}}
+| rev2 = ''[[Computer and Video Games]]''
+| rev2Score = 82% (Colecovision)<ref name="CVG" />
+| IGN = 8/10 (Mobile){{sfn|Buchanan|2007}}
+}}
+[[Tom Hudson (programmer)|Tom Hudson]] in ''[[ANALOG Computing]]'' had trouble believing that the game fit on a 16K cartridge and said that it was "one of those rare games which looks as if it were designed, not just thrown together." He noted that the mine and Bob weren't "just one-color graphics, but detailed multicolor objects" and that "the game itself was not abandoned in favor of graphics".{{sfn|Hudson|1982|p=14}} Boaz declared the game to be a "gourmet's delight that offers many, many levels of challenge" and applied "skillful use of colors" with its randomly generated palettes that broke up the monotony.{{sfn|Boaz|1983|p=20}} A reviewer credited as "MTY" in the magazine ''[[Softalk|Softline]]'' found that despite being similar to ''Donkey Kong'', ''[[Pac-Man]]'', and ''[[Apple Panic]]'', the game was original and that "unlike many arcade games, ''Miner'' doesn't require you to get faster as the pace picks up in order to attain the next level. It requires you to develop the different skills needed to survive."{{sfn|MTY|1983|p=36}}
+
+''Computer Entertainer'' declared Bill Hogue the designer of the year in their 1983 awards listing.<ref name="1983Awards" /> ''Miner 2049er'' was awarded "1984 Electronic [[List of Game of the Year awards|Game of the Year]]" at the 5th annual [[Arkie Awards]].{{sfn|Kunkel|Katz|1984}} Scott Mace listed it as the "best arcade-type computer game" of 1983. ''InfoWorld'' praised its unique gameplay elements, action, and humor, saying that "you won't find anything like Miner in the arcades. That in itself is cause for celebration."  It noted that in a year of "endless adaptation of arcade games, some good, most bad", that the game {{"'}}out-donkey-kongs' ''[[Donkey Kong (arcade game)|Donkey Kong]]''".{{sfn|Mace|1983|p=55}} 
+
+Reviewing the [[VIC-20]] version, [[Computer Entertainer|''The Video Game Update'']] found the game "addictive" with graphics that were "less than outstanding", but said that "there are enough challenges in this game to keep the player busy for many, many hours of frustration and triumph."<ref>{{cite magazine|magazine=The Video Game Update|volume=2|issue=2|date=May 1983|title=Critically Speaking. . . VIC 20}}</ref> The magazine also reviewed the Atari 2600 version, noting that the limitations of the Atari 2600 system meant that the graphics were "sacrificed somewhat" and the game was "considerably slower and less fluid than in the original computer game, but this version is still a very good game in its own right."<ref>{{cite magazine|magazine=The Video Game Update|volume=2|issue=2|date=June 1983|title=Critically Speaking..Atari 2600-Compatible|page=34}}</ref> The publisher declared the Intellivision version to be the "best climbing game yet" for the system.<ref name="Atr481200" />
+
+In retrospective reviews, ''[[Computer and Video Games]]'' gave the Colecovision version an 82% rating in 1989, recommending it for fans of traditional platform games as one of the best on the system.<ref name="CVG">{{cite magazine |title=Complete Games Guide |magazine=[[Computer and Video Games]] |date=October 16, 1989 |issue=Complete Guide to Consoles |page=61 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf|accessdate=June 10, 2023|location=United Kingdom}}</ref> Brett Alan Weiss reviewed the Atari 5200 version, declaring it "one of the best games of the early 1980s", noting that it was fast-paced, intricately designed, and a very long and diverse game. He said that unlike those in ''Donkey Kong'', pathways were not immediately obvious, and this made the game fun and more challenging.{{sfn|Weiss}} Levi Buchanan of [[IGN]] declared the mobile version to be "a pixel-perfect recreation of the original", finding the controls responsive for a mobile game.{{sfn|Buchanan|2007}} He found that the game was fun in 1984 and was also fun in 2007, and that the game merited a new audience. He recommended it for fans of games like ''Donkey Kong'' and ''[[BurgerTime]]''.{{sfn|Buchanan|2007}} The mobile version was later released for [[iOS]].{{sfn|Patterson|2011}}
+
+==Legacy==
+{{Quote box
+|quote = Wonder if kids today think of ''Miner'' like we do. ''Miner'' returns us to a simpler time and perhaps that's why people like to play it again.
+|source = — ''Miner 2049er'' programmer Bill Hogue in 2007{{sfn|Weiss|2014|p=139}}
+|width = 40%
+}}
+Multiple games were directly influenced by ''Miner 2049er'', such as ''[[Manic Miner]]'', with its underground setting and oxygen levels measured with a timer.{{sfn|McAlpine|2019|p=50}} Matthew Smith, the creator of ''Manic Miner'' said that ''Miner 2049er'' was a major influence on his games and that Big Five Software made the best games on the Tandy.
+{{sfn|Jones|2008|p=56}} A follow-up titled ''Scraper Caper'' was announced in 1983 but never released.<ref name="Atari50-2">{{cite video game |title=Atari 50 |developer=Digital Eclipse |publisher=Atari |date=November 11, 2022 |platform=Nintendo Switch |quote='''The Dawn of PCs: Miner 2049er''': Although it was touted in this November 1983 two-page advertisement spread, Bill Hogue's planned follow-up to Miner 2049er, called Scraper Caper, never actually came out. (Bounty Bob would make his return in a different game, called Bounty Bob Strikes Back!, in 1985.}}</ref> Hogue later claimed to have thrown away the disks and tapes containing ''Scraper Caper''.{{sfn|Weiss|2014|p=139}}
+
+Livesay was working on a game for Micro Fun titled ''Miner 2049er II'', a title unrelated to ''Scraper Caper''. It was set to be released for the Apple II, [[Commodore 64]], Colecovision, and IBM PC.<ref>{{cite magazine|magazine=Computer Entertainer|volume=3|issue=3|date=June 1984|title=Lotsa Fun at Micro Fun|page=36}}</ref> It was released for the [[Apple II]] in the fourth quarter of 1984.<ref>{{cite magazine|magazine=Computer Entertainer|volume=3|issue=10|date=January 1985|title=Availability Update|page=36}}</ref>
+
+The next game in the series was ''[[Bounty Bob Strikes Back!]]'', released in 1985.<ref name="Atari50-2" /><ref name="Atari50-3">{{cite video game |title=Atari 50 |developer=Digital Eclipse |publisher=Atari |date=November 11, 2022 |platform=Nintendo Switch |quote='''The Dawn of PCs: Bounty Bob Strikes Back!''': Bill Hogue followed up Miner 2049er with Bounty Bob Strikes Back! While the gameplay was similar to the original, the graphics now had an appealing pseudo-3D look.}}</ref> Hogue stated that following the [[video game crash of 1983]] and the release of ''Bounty Bob Strikes Back!'', Big Five Software started scaling back their company operations until it was run out of Hogue's home; he eventually closed the company.{{sfn|Weiss|2014|p=35}}
+
+Richard Stanton, in his book ''A Brief History of Video Games'' (2015), stated that ''Miner 2049er'' contributed to the popularity of [[platform game]]s on systems like the [[ZX Spectrum]].{{sfn|Stanton|2015|p=73}} [[Mindscape (company)|Mindscape]] released a version of the game for the [[Game Boy]] in the early 1990s. Hogue recalled that the Game Boy version was "a really poor sales performer".{{sfn|Grannell|2007|p=37}} Following the release of ''[[Super Mario Bros.]]'' (1985), Stanton said that ''Miner 2049er'' was "forgotten" and that Nintendo's game made it "look like a fossil".{{sfn|Stanton|2015|p=73}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite book | title=Miner 2049er for Atari 400/800/1200 | publisher=[[Big Five Software]] | ref=manual}}
+* {{cite magazine|magazine=[[InfoWorld]]|title=Miners' Actions From the Core of New Atari Games|last=Boaz|first=Joaquin|page=20|date=September 26, 1983|volume=5|issue=39|issn=0199-6649|publisher=InfoWorld Media Group, Inc.}}
+* {{cite web|archiveurl=https://web.archive.org/web/20070827215845/http://wireless.ign.com/articles/794/794351p1.html|url=http://wireless.ign.com/articles/794/794351p1.html|title=Miner 2049er Review|last=Buchanan|first=Levi|date=June 5, 2007|work=[[IGN]]|archivedate=August 27, 2007|accessdate=June 15, 2023}}
+* {{cite magazine|magazine=[[Retro Gamer]]|last=Grannell|first=Craig|title=The Making of...Miner 2049er|issue=41|ISSN=1742-3155|year=2007}} 
+* {{cite magazine|magazine=[[ANALOG Computing]]|title=Software Review: Miner 2049er|issue=9|last=Hudson|first=Tom|issn=0744-9917|year=1982}}
+* {{cite magazine|magazine=Retro Gamer|title=In the Chair with...Matthew Smith|issue=48|year=2008|editor-last=Jones|editor-first=Darran}}
+* {{cite magazine |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |date= January 1984 |title= Arcade Alley: The Arcade Awards, Part 1 |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 10|pages= 40–42|issn= 0147-8907}}
+* {{cite magazine|magazine=InfoWorld|title=Electronic Antics|last=Mace|first=Scott|page=55|date=December 26, 1983|volume=6|issue=1|issn=0199-6649|publisher=InfoWorld Media Group, Inc.}}
+* {{cite web|last=Machkovech|first=Sam|url=https://arstechnica.com/gaming/2022/09/the-103-classic-games-that-did-and-didnt-make-the-atari-50-anniversary-cut/|title=The 103 Classic Games That Did, and Didn't, Make the Atari 50 Anniversary Cut — Retailer Leak Suggests Games from Arcade to Jaguar; Surprises Apparently Still Await|work=[[Ars Technica]]|publisher=[[Condé Nast]]|date=September 12, 2022|access-date=May 23, 2023|archive-url=https://web.archive.org/web/20220914101824/https://arstechnica.com/gaming/2022/09/the-103-classic-games-that-did-and-didnt-make-the-atari-50-anniversary-cut/|archive-date=September 14, 2022|url-status=live}}
+* {{cite book|title=Bits and Pieces: A History of Chiptunes|last=McAlpine|first=Kenneth B.|publisher=[[Oxford University Press]]|isbn=9780190496104|year=2019}}
+* {{cite magazine|magazine=[[Softalk|Softline]]|title=Gameline|date=March 1983|author=MTY}}
+* {{cite web|url=https://toucharcade.com/2011/10/18/bounty-bob-tunnels-into-the-app-store-in-miner-2049er/|work=[[TouchArcade]]|title=Bounty Bob Tunnels Into the App Store in 'Miner 2049er'|last=Patterson|first=Blake|date=October 18, 2011|accessdate=June 15, 2023|archivedate=October 20, 2011|archiveurl=https://web.archive.org/web/20111020031318/https://toucharcade.com/2011/10/18/bounty-bob-tunnels-into-the-app-store-in-miner-2049er/}}
+* {{cite book|title=A Brief History of Video Games|last=Stanton|first=Richard|year=2015|isbn=978-1-47211-880-6|location=United Kingdom|publisher=[[Running Press]]}}
+* {{cite web|url=http://www.allgame.com/game.php?id=15772&tab=review|title=Miner 2049er|last=Weiss|first=Brett Alan|accessdate=June 14, 2023|archivedate=November 15, 2014|archiveurl=https://web.archive.org/web/20141115222436/http://www.allgame.com/game.php?id=15772&tab=review|publisher=[[AllGame]]}}
+* {{cite book|title=The 100 Greatest Console Video Games 1977-1987|last=Weiss|first=Brett|year=2014|isbn=978-0-7643-4618-7|publisher=[[Schiffer Publishing]]}}
+
+==External links==
+* [https://www.miner2049er.net/ The Miner2049er Museum]
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Big Five Software games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Fiction about mining]]
+[[Category:Game Boy games]]
+[[Category:iOS games]]
+[[Category:Mindscape games]]
+[[Category:Platformers]]
+[[Category:Single-player video games]]
+[[Category:TI-99/4A games]]
+[[Category:Tigervision games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the 2040s]]
+[[Category:Windows Mobile games]]

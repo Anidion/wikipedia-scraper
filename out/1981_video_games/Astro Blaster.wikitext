@@ -1,0 +1,80 @@
+Astro Blaster
+Permalink: //en.wikipedia.org/w/index.php?title=Astro_Blaster&oldid=1218143048
+Accessed on: 2024-06-26T16:52:05.500997
+
+
+
+------
+Astro Blaster
+{{Short description|1981 video game}}
+{{about||the Disney attraction|Buzz Lightyear Astro Blasters|the educational toy|Galilean cannon}}
+{{distinguish|Astro Fighter}}
+{{more citations needed|date=October 2017}}
+{{Infobox video game
+|title = Astro Blaster
+|image = Astroblaster-arcade.jpg
+|caption=Arcade flyer
+|developer = [[Gremlin Industries]]<ref name="GM175">{{cite magazine|title=Overseas Readers Column - Japan's First Video Copyright Registered|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=175|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=October 15, 1981|page=42|language=ja}}</ref>
+|publisher = [[Sega]]<br>Gremlin/Sega
+|designer = Gary Shannon<ref name=giantlist/><br>Barbara Michalec<ref name=giantlist/>
+|released = {{vgrelease|December 31, 1981}}
+|platforms= [[Arcade video game|Arcade]]
+|genre = [[Fixed shooter]]
+|modes = 1-2 players alternating
+|arcade system = [[Sega G80]]
+}}
+
+'''''Astro Blaster''''' is a space-themed [[fixed shooter]] released in arcades by [[Sega]] in 1981. It was designed and programmed by Gary Shannon and Barbara Michalec.<ref name=giantlist/> The game uses [[speech synthesis]] and during [[attract mode]] a voice says "Fighter pilots needed in sector wars...play ''Astro Blaster''!" It is the first video game to have a copyright registered in Japan.<ref name="GM175"/>
+
+==Gameplay==
+[[File:ARC Astro Blaster.png|thumb|left|In sector 1 with the fuel gauge almost full.]]
+
+The player controls a ship which can fire and move left or right. The player must continuously monitor the onscreen [[temperature]] and [[fuel]] gauges. If the ship's laser overheats, it is disabled until it cools; and if fuel is depleted, the game ends regardless of how many lives the player has left. The player must battle through waves of enemies, which attack with varied formations and flight patterns. When a wave is destroyed, a new one appears. The  Warp function is usable once per sector or life, temporarily slowing all enemy vessels and making them easier to shoot.
+
+At the end of each sector, the player flies through an asteroid belt and can obtain extra fuel by shooting fireballs. Then the mother ship is met, where the player docks and refuels for the next sector.
+
+The player is rewarded for completing each of 25 undisclosed tasks or "secret bonuses", such as shooting all enemies in a specific order or shooting all enemies without missing.<ref name=ah/>
+
+==Reception==
+In his 1981 book ''[[How to Master the Video Games]]'' Tom Hirschfeld wrote that ''Astro Blaster'' challenges the player with 29 different attacks, distributed through six sectors, each succeeding sector getting progressively more difficult.<ref name="hirschfeld_book">{{cite book
+ |last=Hirschfeld
+ |first=Tom
+ |date=1981
+ |title=How to Master the Video Games
+ |location=Toronto, New York, London, Sydney
+ |publisher=Bantam Books
+ |pages=8–12
+ |isbn=0553201646
+ |quote='''a.''' ''ASTRO BLASTER'' challenges the player with an amazing 29 different attacks, distributed through six sectors. Each succeeding sector has more difficult attacks, and more of them.
+ |quote-page=9
+}}</ref>
+
+==Legacy==
+The 1981 [[Apple II]] game ''[[Threshold (1981 video game)|Threshold]]'' was inspired by seeing an ''Astro Blaster'' machine.<ref name=halcyon>{{cite book |title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers |date=1997 |url=https://dadgum.com/halcyon/BOOK/SCHWADER.HTM}}</ref>
+
+An ''Astro Blaster'' cabinet can be seen in ''[[Shenmue (video game)|Shenmue]]''.
+
+''Astro Blaster'' is one of five unlockable games in the [[PlayStation Portable]] version of ''[[Sega Genesis Collection]]''.
+
+The {{as of|2021|alt=current}} [[world record]] high score was set in 1982 and is held by Gus Pappas with 299,100 points.<ref>{{cite web|url=https://twingalaxies.com/game/astro-blaster/arcade|title=Twin Galaxies' Astro Blaster High Score Rankings |accessdate=December 27, 2009 |url-status=live|archive-url=https://web.archive.org/web/20071217165507/http://www.twingalaxies.com/index.aspx?c=22&pi=2&gi=3816&vi=645 |archive-date=December 17, 2007}}</ref><!-- Note: Guinness World Records sources its Arcade world records scores from Twin Galaxies -->
+
+==References==
+{{reflist|refs=
+<ref name="ah">{{cite web|title=Astro Blaster arcade video game by SEGA|url=https://www.arcade-history.com/?n=astro-blaster&page=detail&id=129|website=Arcade History}}</ref>
+<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+* {{KLOV game|id=6943}}
+* [http://www.arcade-history.com/?page=detail&id=129 ''Astro Blaster''] at Arcade History
+* [https://web.archive.org/web/20070311214230/http://www.twingalaxies.com/index.aspx?c=22&pi=2&gi=3816&vi=645 Score rankings] at Twin Galaxies
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Fixed shooters]]
+[[Category:Gremlin Industries games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Sega arcade games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,55 @@
+Parallax (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Parallax_%28video_game%29&oldid=1225953935
+Accessed on: 2024-06-26T17:00:40.520724
+
+
+
+------
+Parallax (video game)
+{{Infobox video game
+| title = Parallax
+| image = Parallax cover.png
+| alt = 
+| caption = European cover art
+| developer = [[Sensible Software]]
+| publisher = {{vgrelease|EU|[[Ocean Software]]|NA|[[Mindscape (company)|Mindscape]]}}
+| producer = D. C. Ward
+| programmer = Chris Yates
+| artist = [[Jon Hare]]
+| composer = [[Martin Galway]]
+| platforms = [[Commodore 64]]
+| released = {{Video game release|WW|October 1986}}
+| genre = [[Shoot 'em up]]
+| modes = [[Single-player]]
+}}
+'''''Parallax''''' is a [[shoot 'em up]] video game developed by British company [[Sensible Software]] for the [[Commodore 64]].  It was released in 1986 by [[Ocean Software]] in Europe and [[Mindscape (company)|Mindscape]] in North America.  The game was named after its primary graphical feature, [[parallax scrolling]], which gives the illusion of depth to [[side-scrolling video game]]s.  On release, reviews praised the game's mix of traditional side-scrolling action and [[adventure game]]-inspired puzzles.
+
+== Gameplay ==
+On a routine exploratory mission, five astronauts discover a friendly-seeming planet run by an artificial intelligence.  The inhabitants drop their pretense of friendship after the astronauts uncover a plan to invade Earth.  Four of the astronauts are captured, and the player takes control of the fifth, who must free his companions and stop the invasion.<ref>''Parallax'' game manual, page 5.  [[Ocean Software]].</ref>  Gameplay is split between two modes.  The main part of the game is a side-scrolling shoot 'em up aboard a spaceship.  The player scores points by destroying enemy ships and turrets.  At hangars, the player can land and exit the spaceship.  In this action-adventure mode, the player drugs enemy scientists and retrieves keycards to unlock the password to advance to the next of five zones (attempting to leave the zone without disabling the system results in instant death).  The first scientist drugged in each zone also counts as a rescued astronaut.  Once the password is unlocked in the fifth zone, the computer controlling the invasion shuts down, and the player wins after a final escape.<ref name=cgw>{{cite magazine|title=The Best Starfighter|last=Wilson|first=David M.|magazine=[[Computer Gaming World]]|date=March 1988|issue=45|page=11}}</ref>
+
+== Development ==
+''Parallax'' was [[Sensible Software]]'s first game.  It was designed after signing an agreement with publisher [[Ocean Software]];<ref>{{cite web|url=http://www.adventuregamers.com/articles/view/27798/page4|title=AdventureX 2014 - Part 2: The People|last=Brown|first=Steve|work=[[Adventure Gamers]]|date=2014-12-19|accessdate=2016-12-14}}</ref> Ocean was the first publisher Sensible approached.<ref>{{cite magazine|title=The Making Of... ''Parallax''|last=Grannell|first=Craig|magazine=[[Retro Gamer]]|issue=39|pages=43–46}}</ref>  The founders, programmer Chris Yates and artist [[Jon Hare]] were 19 years old at the time.<ref>{{cite news|url=https://www.theguardian.com/technology/2014/mar/31/student-network-for-aspiring-games-developers-aims-to-harness-uk-talent|title=Student network for aspiring games developers aims to harness UK talent|last=Boxer|first=Steve|work=[[The Guardian]]|date=2014-03-31|accessdate=2016-12-14}}</ref>  Yates came up with the initial concept of a shoot 'em up game where players could fly above and below platforms.  Hare designed the levels and graphics, and Yates added additional effects, such as sliding walls.  The puzzle elements were planned to be more complex, but the Commodore 64's limited memory did not allow it.<ref>{{cite web|url=http://www.c64.com/interviews/hare_part_2.html|title=Interview with Jon Hare|work=c64.com|accessdate=2016-12-14}}</ref>  The ending of the game, which simply outputs "System Off", was all they could fit in the remaining memory.<ref>{{cite book|title=Honoring the Code: Conversations with Great Game Designers|last=Barton|first=Matt|publisher=[[CRC Press]]|year=2016|isbn=9781466567542|page=114|url=https://books.google.com/books?id=UV7OBQAAQBAJ&pg=PA114}}</ref>  Programming the game took six months, and it was released in October 1986.<ref>{{cite web|title=A SENSIBLE CHAT (Part 1)|url=http://www.zzap64.co.uk/cgi-bin/displayfeature.pl?featureid=37|author=<!-- Staff -->|work=[[Zzap!64]]|date=May 1990|issue=61}}</ref>  The game's score was inspired by [[Jean-Michel Jarre]]'s album ''[[Rendez-Vous (Jean-Michel Jarre album)|Rendez-Vous]]'', which composer [[Martin Galway]] had been listening to during development.<ref>{{cite book|title=Bits and Pieces: A History of Chiptunes|last=McAlpine|first=Kenneth B.|publisher=[[Oxford University Press]]|year=2019|isbn=9780190496104|page=228|url=https://books.google.com/books?id=g9B2DwAAQBAJ&pg=PA228}}</ref>  [[Mindscape (company)|Mindscape]] distributed it in North America.<ref name=cm>{{cite magazine|title=Software reviews: ''Parallax''|last=May|first=Scott A.|magazine=[[Commodore Magazine]]|date=October 1987|volume=8|issue=10|page=22}}</ref>
+
+== Reception ==
+Contemporary reviews were positive and highlighted ''Parallax''{{'}}s combination of shoot 'em up action and adventure-inspired puzzles.<ref name=euro>{{cite magazine|url=http://www.eurogamer.net/articles/parallax-review|title=Parallax|last=Pearson|first=Dan|magazine=[[Eurogamer]]|date=2007-10-26|accessdate=2016-12-14}}</ref>  ''[[Zzap!64]]'' rated the game 93/100 and called it "a neat mix between shoot em up and an arcade adventure, with a few other things thrown in for good measure".<ref>{{cite magazine|title=Zzap Test: ''Parallax''|author=<!-- Staff -->|magazine=[[Zzap!64]]|date=October 1986|issue=18|pages=28–29}}</ref>  Lee Noel, Jr. of ''[[Compute!'s Gazette]]'' wrote that the game has "excellent graphics" and simulates depth and perspective well.  Describing the gameplay, Noel said it initially seems like "just basic components of a fairly good shoot 'em up" but later incorporates elements of adventure games, though stripped of their characterization and complex interactions.  Noel concluded, "Although it's not particularly deep or complex, ''Parallax'' and its arcadelike graphics present an entertaining and incredibly challenging puzzle."<ref>{{cite magazine|title=Reviews: ''Parallax''|last=Noel|first=Lee|magazine=[[Compute!'s Gazette]]|date=June 1987|volume=5|issue=6|pages=52–53}}</ref>  Scott A. May of ''[[Commodore Magazine]]'' called it "state-of-the-art arcade fare you will thoroughly enjoy".<ref name=cm/>  In a 1988 roundup of [[space combat game]]s, David W. Wilson of ''[[Computer Gaming World]]'' praised the mix of genres, calling it the game's "cleverest aspect".<ref name=cgw/>  ''The Australian Commodore and Amiga Review'', in a 1990 roundup of shoot 'em up games, wrote that ''Parallax'' "hasn't mellowed with age and still impresses as much as it did then".  The review called it a "special blend of strategy and action", rating it 90/100.<ref>{{cite magazine|title=Ultimate "Shoot-'em-up" Guide|author=<!-- Staff -->|magazine=The Australian Commodore and Amiga Review (Commodore Annual 1990)|year=1990|number=3|page=59}}</ref>
+
+''[[Eurogamer]]'''s retrospective review from 2006 rated it 7/10 stars and said that it has "intriguing gameplay variety" and "neat parallax effects", though it is not the most technically advanced Commodore 64 game.  The reviewer, Dan Pearson, criticized the game's ending, writing that it must have seemed anticlimactic to anyone who won it.<ref name=euro/>  Author Roberto Dillon wrote that the game's [[chiptune]] score differentiated it from other games and has become popular with retrogamers.<ref>{{cite book|title=Ready: A Commodore 64 Retrospective|last=Dillon|first=Roberto|publisher=[[Springer Science+Business Media]]|year=2014|isbn=9789812873415|page=16|url=https://books.google.com/books?id=ecuoBQAAQBAJ&pg=PA16}}</ref>  Pearson called the main theme "truly demented but utterly mesmerising",<ref name=euro/> and May said it was "both inspirational and unnerving".<ref name=cm/>
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* {{Lemon64 game|id=1889|title=Parallax}}
+* {{moby game|id=/parallax}}
+
+{{Sensible Software}}
+
+[[Category:1986 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Ocean Software games]]
+[[Category:Sensible Software games]]
+[[Category:Video games scored by Martin Galway]]
+[[Category:Mindscape games]]
+[[Category:Video games developed in the United Kingdom]]

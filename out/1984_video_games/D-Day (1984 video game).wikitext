@@ -1,0 +1,63 @@
+D-Day (1984 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=D-Day_%281984_video_game%29&oldid=1223584249
+Accessed on: 2024-06-26T16:56:35.870666
+
+
+
+------
+D-Day (1984 video game)
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = D-Day
+| image = D-Day - 1984 video game.jpg
+| alt = 
+| caption = 
+| developer = [[Games Workshop]]
+| publisher = 
+| series = 
+| engine = 
+| platforms = [[ZX Spectrum]]
+| released = 1984
+| genre = 
+| modes = 
+}}
+'''''D-Day''''' is a turn-based strategy computer game for the [[ZX Spectrum]] released by [[Games Workshop]], a company known primarily for its tabletop wargames, in 1984.
+
+==Gameplay==
+''D-Day'' is a wargame that simulates the [[Normandy landings]] of World War II.<ref name="crash9"/> Focusing on platoon-level warfare, D-Day tasks players with commanding units representing various elements of World War II combat, including tanks, artillery, trucks, landing craft, and infantry groups. The game features four detailed scenarios based on historical events: "The Landing", "Breaking Out", "To Arnhem", and the "Arnhem Invasion".<ref name=":0" />
+
+Players control individual units using a cursor-based order system. Each scenario is designed for two players, requiring opponents to compete against each other.<ref name=":0" />
+
+== Technical implementation ==
+D-Day is written in Basic and lacks anti-copying protection, with the manual providing instructions on how to back up the entire game.<ref name=":0" />
+
+==Reception==
+Roger Kean previewed ''D-Day'' in ''[[Crash (magazine)|Crash]]'' #9 (October 1984), calling it "ideal for play-by-mail" and "a classic strategy war game which requires a deal of skill and judgement against another human opponent".<ref name="crash9">[http://www.crashonline.org.uk/09/gw.htm "From Tin Soldiers to Computer Games"]; ''[[CRASH (magazine)|CRASH]]'' issue 9, October 1984; retrieved from CRASH The Online Edition</ref>
+
+Andrew Miller reviewed ''D-Day'' for ''[[White Dwarf (magazine)|White Dwarf]]'' #60, giving it an overall rating of 9 out of 10, and stated that "The mechanics of the game are so simple anyone can play it, but in terms of strategy, ''D-Day'' is second to none."<ref name="WD60">{{cite magazine  | last =Miller | first =Andrew | title =Microview  | magazine =[[White Dwarf (magazine)|White Dwarf]]  | issue =60  | pages =30  | publisher =[[Games Workshop]]  | date = December 1984  }}</ref>
+
+[[Mike Singleton]] reviewed ''D-Day'' for ''[[Computer and Video Games|Computer & Video Games]]'' #40. The game's presentation is noted to be superb, with a colorful and clear map. The order system was described as easy to use. Mike notes that finding opponents may be difficult, and the length of the game, with each turn taking up to half an hour, may deter some players. Overall, he praises the game for its "high quality".<ref name=":0">{{Cite web|url=https://archive.org/details/ComputerAndVideoGamesIssue040Feb85/page/n13/mode/2up|title = Computer_And_Video_Games_Issue_040_Feb_85}}</ref>
+
+''Home Computing Weekly'' commented: "Certainly not for the arcade freak. A specialist may appreciate it".<ref>{{cite magazine|author1=D.M.|editor1-last=Carlos|editor1-first=Dave|title=Reviews : Tower of Despair|journal=Home Computing Weekly|date=12–18 March 1985|issue=103|pages=17|url=https://archive.org/stream/home-computing-weekly-103/Home_Computing_Weekly_103#page/n16/mode/1up|access-date=24 June 2017|publisher=[[Argus Press]]}}</ref>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #33<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-33/page/44/mode/2up | title=Jeux & stratégie 33 | date=June 1985 }}</ref>
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' HS #3<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-hs-3/page/94/mode/2up | title=Jeux & stratégie HS 3 | year=1986 }}</ref>
+
+==References==
+{{reflist}}
+
+{{Games Workshop}}
+
+[[Category:1984 video games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Games Workshop games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:World War II video games]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]
+
+
+{{simulation-videogame-stub}}

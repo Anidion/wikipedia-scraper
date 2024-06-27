@@ -1,0 +1,86 @@
+Mean Streets (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Mean_Streets_%28video_game%29&oldid=1224451137
+Accessed on: 2024-06-26T17:06:49.298902
+
+
+
+------
+Mean Streets (video game)
+{{refimprove|date=June 2012}}
+{{Infobox video game
+| title = Mean Streets
+| image = MSBoxArtWiki.jpg
+| caption = North American cover art
+| developer = [[Access Software]]<br>[[The Code Monkeys]] (ports)
+| publisher = {{vgrelease|NA|Access Software|EU|[[U.S. Gold]]<ref name="eu"/>}}
+| director = [[Bruce Carver]]
+| producer = Bruce Carver
+| designer = Roger Carver<br>David Curtin<br>[[Brent Erickson]]<br>Kevin Homer
+| writer = [[Brent Erickson]]<br>Brian Ferguson<br>[[Chris Jones (Access Software)|Chris Jones]]
+| artist = Douglas Vandegrift<br>John Berven<br>Jon Clark
+| series = ''[[Tex Murphy]]''
+| engine = 
+| platforms = [[MS-DOS]], [[Commodore 64]], [[Atari ST]], [[Amiga]]
+| released = '''MS-DOS, C64'''<br>{{vgrelease|NA|October 1989<ref>{{Cite news |date=October 15, 1989 |title=October New Releases |url=https://www.newspapers.com/image/439492681 |access-date=April 25, 2024 |work=[[The Boston Globe]] |pages=34 |quote=''Mean Streets'' from Access Software...IBM.}}</ref>|EU|November 1990<ref name="eu">{{Cite news |date=November 23, 1990 |title=Top Christmas Computer Games |url=https://www.newspapers.com/image/819421172 |access-date=April 25, 2024 |work=[[Southport Visiter]] |pages=30 |quote=This week, Input looks at a bundle of new releases on the computer scene, from Birmingham's software giants US Gold..''Mean Streets'' will be available for the following formats: C64 disk, Atari ST, Amiga and IBM PC.}}</ref>}}'''Atari ST, Amiga'''<br>{{vgrelease|EU|November 1990<ref name="eu"/>}}
+| genre = [[Adventure game|Adventure]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Mean Streets''''' is a [[graphic adventure game]] developed and published by [[Access Software]] for [[MS-DOS]] in 1989 exclusively in North America. It was ported to the [[Commodore 64]], [[Atari ST]], and [[Amiga]] in 1989 and 1990 by [[The Code Monkeys]]. Atari ST and Amiga ports were only released in Europe. The game, set in a dystopian [[cyberpunk]] [[neo-noir]] world, is the first in the series of ''[[Tex Murphy]]'' mysteries; its immediate sequel is ''[[Martian Memorandum]]''. In 1998, ''Mean Streets'' was remade as ''[[Tex Murphy: Overseer]]''.
+
+==Plot==
+The player plays the role of Tex Murphy, a down-and-out [[private investigator]] living in post-apocalyptic [[San Francisco]]. Tex is hired by a beautiful young woman named Sylvia Linsky to investigate the death of her father, Dr. Carl Linsky, a professor at the [[University of San Francisco]]. Prior to his death, Carl would not talk to his daughter about the secret project he was working on, and days later, he was seen falling off the [[Golden Gate Bridge]]. Sylvia suspects murder, but the police say it was routine suicide. To help get him started, Tex is given $10,000 and a few leads. The player is referred to the game's manual for a list of their leads.
+
+==Gameplay==
+[[File:Mean Streets screenshot.png|thumb|left|Inside the speeder (DOS version)]]
+The game starts in Tex's speeder flying car, and the player can perform various functions, including moving the speeder backward and forward, raise or lower the altitude, switching between different views, and accessing the on-board computer. The player can also contact Tex's secretary and informant and receive [[fax]]es from them if they ask for information. His informant demands money for information, but there are subjects which his secretary has no information on and his informant does.
+
+Questioning people often results in them giving out information that further deepens the plot or produces new leads. To question people, the player must type in the full name of the person or thing Tex is to ask about. The player has the option of offering them money or threatening them when they appear uncooperative.
+
+In some instances, the player receives an address of the person whom they asked about. These addresses consist of a four-digit code which the player enters into the computer on-board their speeder. Once the code has been entered, the destination is marked by a flashing square, and the player must either guide their speeder to it or enable the autopilot. As a form of [[copy protection]], the player is given no addresses to start with in-game, and must refer to the five addresses provided in the instruction manual.
+
+When arriving in a dangerous area, the game transitions to a side-scrolling shooter stage. The player must navigate Tex from the left side of the screen to the right while an endless supply of enemies emerges from the right side to shoot at Tex. Both Tex and enemies can crouch to hide behind the boxes and other debris which litter the streets, protecting them from gunfire but preventing them from hitting their targets as well. Tex can withstand several shots without dying, and his health is replenished upon completion of the stage. However, his ammunition is limited, and more ammunition can only be acquired by finding one of the caches hidden in buildings or by completing one of the game's bounty hunter sidequests.
+
+There are some situations where Tex has to search buildings to get further leads. The player moves Tex around the area, and can push a button to bring up a list of nearby objects. The player has the options of looking at, getting, opening, moving, turning on and off, and tasting each object, though not every option will yield useful results. Some actions may yield access to a new object (e.g. opening a drawer may reveal a note inside), which the player can apply the same set of actions to. The player's primary objective is to collect information about a scientist, Carl Linsky, and the conspiracy behind his apparent suicide.
+
+The game has seven bounty hunter sidequests which are accessed by landing on black landing strips. These landing strips do not have navigation codes, but the coordinates for them are given in the manual. Each sidequest consists of a side-scrolling shooter stage in the usual format, but with enemies which fire much more rapidly than those found on the main story path. Completing sidequests rewards the player with cash and ammunition.
+
+==Development==
+Following the release of their 3D flight game ''[[Echelon (Access Software)|Echelon]]'', Access wanted to develop another 3D flight game, this time based on the story of a homemade movie that the developers had made in their spare time about a film noir detective.{{Citation needed|date=September 2019}} Eventually, adventure elements eclipsed the flight sim aspects.
+
+''Mean Streets'' incorporates Access Software's [[RealSound]] technology for the IBM PC version.<ref>{{cite web |title=Saturday Crapshoot: Mean Streets |url=https://www.pcgamer.com/saturday-crapshoot-mean-streets/ |website=PC Gamer |accessdate=20 October 2018}}</ref>
+
+==Reception==
+''[[Computer Gaming World]]''{{'}}s [[Charles Ardai]] praised the game's "exhilarating" interactivity, stating that "''Mean Streets'' offers a fully realized environment ... this license, this freedom, is refreshingly adult", with excellent graphics and "authentic [[hardboiled]] attitude and voice". He stated that "mechanical" gameplay, such as repetitive room searches and interrogations, prevented it from being a great game.<ref name="ardai199001">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=67 | title=Popcorn Not Included II / Access Software's "Mean Streets" | magazine=Computer Gaming World | date=January 1990 | accessdate=15 November 2013 | last=Ardai | first=Charles | authorlink=Charles Ardai | pages=39 | issue=67}}</ref> In 1996, the magazine ranked it as the 139th best game of all time, saying that it set a new standard for [[Intel 80286|286]] games and offered tribute to [[Raymond Chandler]]'s novels.<ref name="cgw199611best">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | accessdate=25 March 2016 | pages=64–80}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=24974|name=Mean Streets}}
+* {{lemon64 game|id=1632|name=Mean Streets}}
+* {{Lemon Amiga game|id=2255|name=Mean Streets}}
+* {{moby game|id=/mean-streets|name=''Mean Streets''}}
+
+{{TexMurphy}}
+
+[[Category:1989 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Tex Murphy]]
+[[Category:Video games set in the 2030s]]
+[[Category:Video games with digitized sprites]]
+[[Category:Games commercially released with DOSBox]]
+[[Category:Detective video games]]
+[[Category:Dystopian video games]]
+[[Category:Cyberpunk video games]]
+[[Category:Post-apocalyptic video games]]
+[[Category:Single-player video games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in San Francisco]]
+[[Category:The Code Monkeys games]]
+[[Category:Access Software games]]

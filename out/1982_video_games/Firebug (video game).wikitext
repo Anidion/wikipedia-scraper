@@ -1,0 +1,56 @@
+Firebug (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Firebug_%28video_game%29&oldid=1154908251
+Accessed on: 2024-06-26T16:53:24.039400
+
+
+
+------
+Firebug (video game)
+{{Infobox video game
+|title          =Firebug
+|image          = Firebug video game cover.jpg
+|caption        = 
+|developer      = [[Muse Software]]
+|publisher      = [[Muse Software]]
+|designer       =Silas Warner<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+|series         =
+|engine         =
+|released       ={{Video game release|NA|1982}}
+|genre          =
+|modes          =[[Single-player video game|Single-player]]
+|platforms      =[[Apple II]]
+|alt = 
+}}
+'''''Firebug''''' is an [[Apple II]] game written by Silas Warner and published by  [[Muse Software]] in [[1982 in video gaming|1982]].<ref name=giantlist/>  The game was released on [[cassette tape]] and on [[floppy disk]].<ref name=infoworld/> Warner previously created ''[[Castle Wolfenstein]]'' for the Apple II in 1981.<ref name=giantlist/>
+
+==Gameplay==
+[[Image:firebuggame.png|thumb]]
+The player controls a "firebug," a 3-by-3-[[pixel]] square with a tail stretching behind it.  The player picks up gas cans&mdash;each represented by a single pixel&mdash;and drops a can by pressing the [[joystick]] button. The end of the player's tail glows white, and ignites any gas can that it is adjacent to, including cans the player had dropped. Once a gas can ignites, it burst into colorful flames, which ignites any walls they touch.
+
+The goal is to burn down the highest possible percentage of the walls on the level, and escape down the stairs to the next level without touching any flames with the body of the firebug.  Tail collisions with fire are expected and ignored. As the game progresses, each level features tighter mazes of walls, increasing the penalty for player mistakes; and the player's tail is shortened, causing player-dropped gas cans to explode sooner.
+
+===Visuals===
+''Firebug'' uses the Apple II's lo-res graphics mode, which displays 16 colors but has a resolution of only 40 wide by 48 high. Hence, the game looks more colorful than hi-res Apple games, but the low resolution gives a crude appearance, even by the standards at the time of release.
+
+==Reception==
+Johnny L. Wilson reviewed the game for ''[[Computer Gaming World]]'', and stated that "''Firebug'' seems to have the ingredients necessary for a successful arcade game: interesting graphics, sufficient challenge, moderate strategy, and ample flexibility. Indeed, "ash" far "ash" this reviewer is able to "ash-certain," this game is an "ash-set" to an "ash-tute" arcade lovers "ash-sortment" of games. Unab-''ash''-edly."<ref name="CGW6">{{cite magazine |last=Wilson |first=Johnny L. |title=Micro - Reviews |magazine=Computer Gaming World |date=September–October 1982 |volume=1 |issue=6 |pages=40}}</ref>
+
+In ''Microcomputing'', Jim Hansen wrote "Neither I nor my kid-game testers found ''Firebug'' a game worth playing more than once or twice at most."<ref name=micro/>
+
+In 1982, the city council of [[Kentwood, Michigan]] asked dealers to not to sell the game because they felt it encouraged arson.<ref>{{cite journal |title=Hot Town Bans Bug |journal=Softline |date=November 1982 |volume=2 |issue=2 |page=18 |url=https://archive.org/details/Softline_Magazine_Issue_2.2/page/n19}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name=infoworld>{{cite magazine|magazine=InfoWorld|date=June 1982|title=Software News|publisher=InfoWorld Media Group|page=60}}</ref>
+<ref name=micro>{{cite journal| journal=Microcomputing|year=1982 |last1=Hansen |first1=Jim |page=78 |url=https://archive.org/details/kilobaudmagazine-1982-12/page/n81 |title=The Game Room: Firebug}}</ref>
+}}
+{{Muse Software}}
+
+{{DEFAULTSORT:Firebug (Video Game)}}
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Muse Software games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]

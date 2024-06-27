@@ -1,0 +1,114 @@
+Circus (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Circus_%28video_game%29&oldid=1225899726
+Accessed on: 2024-06-26T16:47:42.350450
+
+
+
+------
+Circus (video game)
+{{short description|1977 arcade game}}
+{{More citations needed|date=September 2019}}
+{{Infobox video game
+| title = Circus
+| image = Circus arcadeflyer.PNG
+| caption = Arcade flyer
+| developer = [[Exidy]]
+| designer = Edward Valeau<br>Howell Ivy<ref name="arcade-history">{{Cite web |date=2008-04-04 |title=circus, video game at arcade-history |url=http://www.arcade-history.com/?n=circus&page=detail&id=464 |publisher=arcade-history.com |accessdate=2008-05-25}}</ref>
+| publisher = {{vgrelease|NA/EU|[[Exidy]]<ref name="Germany">{{Cite web |title=Video Game Flyers: Circus, Exidy, Inc. (Germany) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=6195 |access-date=24 May 2021 |website=The Arcade Flyer Archive}}</ref>|JP|[[Taito]]<ref name="MAD">{{Cite web |title=サーカスタイトー販売 |trans-title=Circus Taito Sales |url=https://mediaarts-db.bunka.go.jp/id/M728988 |access-date=24 May 2021 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |language=ja}}</ref>}}
+| released = {{vgrelease|WW|December 1977<ref>{{Cite magazine |date=December 31, 1977 |title=Coin Machine |url=https://worldradiohistory.com/Archive-All-Music/Cash-Box/70s/1977/CB-1977-12-31.pdf#page=144 |magazine=[[Cash Box]] |page=150}}</ref><ref name="MAD" /><ref name="Germany" />}}
+| genre = [[Block kuzushi|Block breaker]]
+| modes = 1-2 players alternating turns
+| platforms = [[Arcade video game|Arcade]]
+}}
+
+'''''Circus''''' is a [[Block kuzushi|block breaker]] [[arcade video game]] released by [[Exidy]] in [[1977 in video gaming|1977]], and distributed by [[Taito]] in Japan.<ref name="MAD" /> The game is a re-themed variant of [[Atari, Inc.]]'s ''[[Breakout (arcade game)|Breakout]]'', where the player controls a seesaw and clown in order to pop all the balloons in the level. The game has been copied and released under different names by numerous other companies in both the United States and Japan.
+
+==Gameplay==
+Three rows of triangular balloons move along the top part of the screen, each overlaid with blue, green, and yellow (colors used in the original version), counting from the top row. A [[clown]] appears from the edge of the screen where there is a jumping board, and the player must move the [[teeterboard|springboard]] located at the bottom of the screen so that the clown can bounce back off the seesaw once he jumps off from his starting position. However, it is impossible to make contact with the clown with the seesaw in certain locations. The four jumping boards located on the sides of the screen serve to decrease the area where it is impossible to make contact.
+
+If the player successfully gets the clown onto the seesaw, the clown on the other side shoots off into the air towards the three rows of balloons on the top of the screen. The clown may not have enough speed to reach the balloons if the first clown does not land squarely on the seesaw. Clowns bounce off of balloons, walls, and jumping boards, but will pass directly through multiple balloons if they are moving quickly enough. They will only bounce off the jumping boards when they are heading downwards and will pass straight through the boards while moving upwards.
+
+Hitting any of the balloons with the clown causes them to burst, and the player receives 20 points for bursting the yellow balloon, 50 points for the green balloon, and 100 points for the blue balloon.<ref name="arcade-history" /> Bursting the entire row of balloons causes a sound effect and awards the player 10 times the original points as a bonus (i.e. 200 points for the yellow balloon). A new row of balloons instantly replaces the old one when the entire row is destroyed.
+
+Destroying all of the blue balloons causes another sound effect and allows the player to play one more time (one clown) after they have depleted their stock. The words "BONUS PLAY" appear to indicate this bonus, but destroying all of the blue balloons a second time will not allow the player to gain another clown (the bonus can be activated while the player is using the extra clown). This may differ in certain levels like 7 and 8, where all three rows of balloons must be destroyed in order to activate the bonus.
+
+A clown will die if the player fails to receive them with the seesaw at the bottom of the screen, and two measures of the funeral march in [[Frédéric Chopin]]'s [[Piano Sonata No. 2 (Chopin)|Piano Sonata No. 2]] are played as a sound effect. The player can continue if they still have stock remaining, or if they have been rewarded the bonus play. When the player has depleted all of their stock, the screen switches over to the demo screen, where the number of balloons is the same as that of the player's before they lost their final clown. If the player has reached over a certain number of points, they can play one more time like the balloon bonus (the availability of this bonus may differ, as indicated in the list of rules shown after the player enters the credits). The player cannot gain another clown in the same way during this play bonus.
+
+==Development==
+The game was developed by Howell Ivy. He developed the idea for the game when working at the [[Ramtek Corporation]] when he was developing his first video game titled ''Clean Sweep'' which had a similar approach to ''Circus'' with eliminating objects on a screen. Wanting to make something different and appealing, he decided on making a game that was cute and had begun incorporating the tetter-totter and which led to eliminating balloons and then became the idea for ''Circus''.{{sfn|Drury|2022|p=30}} 
+
+''Circus'' was developed at Exidy. Exidy was founded in 1973 and first made video games that were variants on ''[[Pong]]'' and found success with their game ''[[Death Race (1976 video game)|Death Race]]'' (1976). ''Circus'' was the second game for ''Exidy'' to solely use a [[Microprocessor]] as games prior to this had been created in hardware using discrete integrated circuits. This change allowed for much more flexibility with Ivy stating he could add  "more "intelligence": to the game. It was much simpler for you to make the game easier or harder for the playe responding to his or her reactions."{{sfn|Drury|2022|p=30}}
+
+Ivy coded ''Circus'' on a [[MOS Technology 6502|6502 processor]] using a teletype machine. To add colour to the game, Ivy added cellophane to the screen to give the balloons their colors.{{sfn|Drury|2022|pp=30-31}} He reflected on making the game recalling that on July 4, 1977, he was working into the night on it and hearing fireworks outside, saying he wandered outside noticing fireworks going off and thought to himself ""Why am I working on a holiday?"" But I had to get the game done and shipped. That is what you have to do when you own a company."{{sfn|Drury|2022|p=30}}
+
+==Release and reception==
+''Circus'' was released to arcades in 1977.{{sfn|Drury|2022|p=30}} Reflecting on the release, Ivy reflected that the team at Exidy though the game might appeal to a female audience which "was always the Holy Grail. It wasn't violent, it was cute. Even the sound was cute! The game had a warm and fluffy feel to it that we thought woman could relate to."{{sfn|Drury|2022|p=31}}
+
+The game was successful at arcades.{{sfn|Drury|2022|p=31}} Ivy said that "of all the games we did, [''Circus''] was the one that made the most profit. It was the game that let Exidy grow into a mature company."{{sfn|Drury|2022|p=31}} The popularity of the game led to Exidy to manufacture and supply [[printed circuit board]]s several companies including [[Sega]] who renamed the game ''Seesaw Jump'', [[Midway Games|Midway]] who released it as ''[[Clowns (video game)|Clowns]]'' and [[Taito]] who released it as ''Acrobat''.{{sfn|Drury|2022|p=31}} Midway's version added an "Oof" and "Pow" when one of the characters faceplanted into the ground.{{sfn|Drury|2022|p=31}}
+
+The arcade game was a commercial success for Taito in Japan, where ''Circus'' was among the top ten highest-earning [[1977 in video games|arcade games of 1977]] and the year's fourth highest-earning [[arcade video game]], below Taito's own ''[[Speed Race|Speed Race DX]]'', [[Atari, Inc.|Atari]]'s ''Breakout'' (distributed by [[Namco]]) and [[Universal Entertainment|Universal]]'s ''Scratch''.<ref name="GM90">{{Cite magazine |date=15 February 1978 |title=結果ベスト3 |trans-title=Best 3 Results |url=https://onitama.tv/gamemachine/pdf/19780215p.pdf#page=2 |magazine=[[:ja:ゲームマシン|Game Machine]] |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |issue=90 |pages=2–3 |lang=ja}}</ref>
+
+''[[Computer and Video Games]]'' magazine reviewed the Atari VCS version in 1989, giving it an 82% score.<ref name="CVG">{{Cite journal |date=16 October 1989 |title=Complete Games Guide |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46 |journal=[[Computer and Video Games]] |issue=Complete Guide to Consoles |pages=46–77}}</ref>
+
+==Reviews==
+* ''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n45/mode/2up | title=GAMES Magazine #34 | date=December 1982}}</ref>
+
+==Legacy==
+===Arcade clones===
+* ''[[Clowns (video game)|Clowns]]'' (licensed release by [[Midway Games|Midway]])
+* ''Acrobat'' (licensed release by [[Taito]]). It was the seventh highest-earning [[1978 in video games|arcade video game of 1978]] in Japan.<ref name="GM113">{{Cite magazine |date=February 1979 |title=人気マシン・ベスト3 |trans-title=Popular Machines: Best 3 |url=https://onitama.tv/gamemachine/pdf/19790201p.pdf#page=2 |magazine=[[:ja:ゲームマシン|Game Machine]] |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |issue=113 |pages=2–3 |lang=ja}}</ref>
+* ''Circus Circus'' ([[Universal (game company)|Universal]])
+* ''Seesaw Jump'' ([[Sega]])
+* ''Devil Circus'' ([[Banpresto|Hoei]])
+* ''Pierrot'' (Uko)
+* ''Piccolo'' ([[Irem|IPM]])
+* ''Fūsen-wari game'' (lit. "Balloon popping game" [[Data East]])
+* ''Bonpa'' ([[Nichibutsu|Nihon Bussan]])
+* ''Balloon Circus'' (Data East). The screen is changed to a vertical rectangle. A cabinet version titled ''Mini Balloon'' was also released by Data East.
+* ''Nyankoro'' (IPM). The balloons are changed to kittens, and the mother cat appears to prevent the player from progressing after a certain amount of time passes.
+
+===Home clones===
+[[File:Circus_Atari_Screenshot.png|thumb|''Circus Atari'' for the Atari VCS (1980)|alt=Circus Atari screenshot]]
+[[File:Circus Linux screenshot.gif|alt=Circus Linux screenshot|thumb|Circus Linux, a modern rendition of the game]]
+* Atari released ''Circus Atari'' for the Atari VCS on January 10, 1980.<ref>{{Cite web |title=Circus Atari (Registration Number PA0000174636) |url=https://cocatalog.loc.gov |access-date=1 June 2021 |website=[[United States Copyright Office]]}}</ref>
+* [[Datasoft]]'s 1982 ''[[Clowns and Balloons]]'', for the [[Atari 8-bit computers]] and [[TRS-80 Color Computer]], replaces the seesaw with a trampoline.<ref>{{Cite book |last=Small |first=David |url=http://www.atariarchives.org/creativeatari/Clowns_and_Balloons.php |title=The Creative Atari |date=1983 |publisher=Creative Computing Press |isbn=9780916688349}}</ref>
+* ''Seesaw Jump 2005'' was released for the [[i-mode]] network by Sega.
+* ''Circus Linux'', an open source reimplementation developed by New Breed Software, available for various platforms
+
+===Similar games===
+* ''Trapeze'' (Exidy). The character gathers stars by swinging off the trapeze. The same game was also released by Taito with the title ''Trampoline''.
+* ''Gypsy Juggler'' (Meadows Games). This game uses [[otedama]] as a motif, and was also released by Taito.
+* ''Rip Cord'' (Exidy). This game uses [[sky diving]] as a motif, and has sound effects for the start of the game and game over scene ([[The U.S. Air Force (song)]] for the opening and [[Ring a Ring o' Roses]] for game overs.) It was released in Japan by Data East as ''Nice On''.
+* ''Field Goal'' (Taito). This game uses American football as a motif. Though the game uses a normal paddle instead of a seesaw, the game is similar to ''Circus'' in that the objective is to eliminate 3 rows of football players wearing uniforms of different colors. Eliminated rows are refilled along with a similar sound effect to the original game.
+* ''Plump Pop'' (Taito). This game was released as a remake of ''Circus'' in 1987. It was later ported to [[PlayStation 2]]. The seesaw was changed to a trampoline and features cuter characters, new items, levels, and bosses.
+
+===Appearances in other media===
+* In the animated film version of ''[[Ace o Nerae!]]'', the main character, Hiromi Oka, plays arcade games at game centers and cafes in several scenes, and the sound effect for when an entire row of balloons is destroyed is used as part of the background music.
+* Japanese [[electropop]] band [[Yellow Magic Orchestra]] included a track titled "COMPUTER GAME 'Theme From the Circus'" in their [[Yellow Magic Orchestra (Japan Mix)|first album]], where they include some of the sound effects from the game. The sounds were created in semblance of the arcade music using a synthesizer rather than recording directly into the track. Video footage of the game appeared in the music video for ''Tong Poo''.
+* One of [[Akira Toriyama]]'s early works, ''[[Wonder Island 2]]'', includes a scene where ''Circus'' is parodied. This scene is also included in ''Akira Toriyama's Manga Theater Vol.1''.
+
+==See also==
+{{Portal|Video games|1970s}}
+* [[List of Atari 2600 games]]
+
+==References==
+{{Reflist}}
+
+===Sources===
+* {{cite magazine|magazine=[[Retro Gamer]]|title=The Making of Circus|last=Drury|first=Paul|issue=237|year=2022|ISSN=1742-3155|publisher=Future Publishing}}
+
+==External links==
+* [http://www.arcade-history.com/?n=circus&page=detail&id=464 ''Circus'' at Arcade-history]
+* [http://www.klov.com/game_detail.php?letter=C&game_id=7340 ''Circus'' at the Killer List of Video Games]
+
+{{Authority control}}
+
+[[Category:1977 video games]]
+[[Category:Arcade video games]]
+[[Category:Breakout clones]]
+[[Category:Exidy games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Video games about clowns]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in circuses]]

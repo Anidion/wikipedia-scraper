@@ -1,0 +1,49 @@
+Zybex
+Permalink: //en.wikipedia.org/w/index.php?title=Zybex&oldid=1224118854
+Accessed on: 2024-06-26T17:05:28.333030
+
+
+
+------
+Zybex
+{{Infobox video game
+|title = Zybex
+|image = Zybex Cover.png
+|programmer = '''Atari 8-bit'''<br>Brian Jobling<br>'''Commodore 64'''<br>Kevin Franklin
+|publisher = [[Zeppelin Games]]
+|designer = Michael Owens<br>Kevin Franklin<ref name="atarimania"/>
+|composer = Adam Gilmore
+|release = 1988
+|genre = [[Scrolling shooter]]
+|platform = [[Atari 8-bit]], [[Commodore 64]], [[ZX Spectrum]]
+|modes = 1-2 player simultaneous
+}}
+
+'''''Zybex''''' is a 1988 horizontally [[scrolling shooter]] for the [[Commodore 64]], [[Atari 8-bit computers]], and [[ZX Spectrum]]. ''Zybex'' was one of the first games released by [[Eutechnyx|Zeppelin Games]], a UK-based budget game developer.
+
+==Plot==
+The player takes the role of two convicts, Rinser and Cassalana, escaping from an execution in intergalactic prison. To buy their freedom, the convicts must collect tokens to open later levels by destroying the big end of level bosses. There are 16 levels,<ref name=retro>{{Cite web|url=https://www.retrogamer.net/retro_games80/zybex/|title = Zybex &#124; Retro Gamer| date=23 November 2008 }}</ref> with a choice of "open" levels when one is completed. First level, Arcturus, is always the first level to be played. The last level is called ''Zybex''. Two players can play simultaneously in all versions.
+
+==Gameplay==
+[[Image:Zybex ingame.png|left|thumb|Gameplay screenshot]]
+
+Firing is automatic - the fire button changes the current weapon.<ref name=retro/> Collecting a weapon icon increases that weapon's power level, up to the maximum of 4. Dying reduces the current weapon by 1 power level, or removes a weapon if it has only one power level. The players start with level 1 Orbiter (and never lose it), the other four weapons are 8-way (starts as 2-way, upgrades to 4-way, 6-way and then 8-way), Rail-gun (solid beam which gets stronger), Pulse (upgrades to include diagonal fire) and Wall (starts with a narrow field and gets larger).
+
+==References==
+{{reflist|refs=
+<ref name="atarimania">{{cite web|title=Zybex|url=http://www.atarimania.com/game-atari-400-800-xl-xe-zybex_s5955.html|website=Atari Mania}}</ref>
+}}
+
+==External links==
+*{{lemon64 game|id=2964}}
+*{{WoS game|id=0005889}}
+
+{{Eutechnyx games}}
+
+[[Category:1988 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games set in outer space]]

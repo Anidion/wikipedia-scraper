@@ -1,0 +1,60 @@
+Three Mile Island (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Three_Mile_Island_%28video_game%29&oldid=1211528722
+Accessed on: 2024-06-26T16:51:27.376707
+
+
+
+------
+Three Mile Island (video game)
+{{Short description|1979 video game}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Three Mile Island
+| image = Three Mile Island Apple II.jpg
+| alt = 
+| caption = Cover art
+| developer = 
+| publisher = [[Muse Software]]
+| series = 
+| programmer = Richard Orban<ref name="manual"/>
+| platforms = [[Apple II]]
+| released = 1979<br>1980: Special Edition
+| genre = [[Simulation]]
+| modes = 
+}}
+'''''Three Mile Island''''' is an [[Apple II]] game written by Richard Orban and published by [[Muse Software]] in 1979. '''''Three Mile Island: Special Edition''''' is a 1980 update that is written in 6502 assembly language instead of [[Integer BASIC]].<ref name="manual"/>
+
+==Background==
+The game gets its name from the [[Three Mile Island accident]], which occurred the same year as its release. The date the game is set is December 30th, 1978 - which was also the day Unit 2 of the [[Three Mile Island Nuclear Generating Station]] went into commercial operation.
+
+==Contents==
+''Three Mile Island'' is a simulation game set in a nuclear power plant with an impending nuclear meltdown.<ref name="SG"/>
+
+==Reception==
+[[Bruce F. Webster]] reviewed ''Three Mile Island'' in ''[[The Space Gamer]]'' No. 34. Webster commented that "''Three Mile Island'' is not a cheap piece of software, in any sense of the term. But for those of you with the interest and the money, I can recommend it to you without reservations."<ref name="SG">{{cite journal|last=Webster |first=Bruce F. |date=December 1980 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=34|pages=36}}</ref>
+==See also==
+* ''[[Scram (video game)|Scram]]'', a 1981 Atari 8-bit family game with a similar premise
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite web|title=Three Mile Island: Special Edition Manual|url=https://archive.org/stream/ThreeMileIslandAppleIIManual/3_Mile_Island_Manual#page/n1/mode/2up|website=archive.org|date=1980|publisher=MUSE Software, Inc.}}</ref>
+}}
+
+==External links==
+*[https://archive.org/details/CreativeComputingbetterScan198003/page/n41/mode/2up Review] in [[Creative Computing]]
+
+{{Muse Software}}
+
+[[Category:1979 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:BASIC software]]
+[[Category:Muse Software games]]
+[[Category:Simulation video games]]
+[[Category:Video games about nuclear technology]]
+[[Category:Video games developed in the United States]]
+
+
+{{simulation-videogame-stub}}

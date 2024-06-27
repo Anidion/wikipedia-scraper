@@ -1,0 +1,105 @@
+Bruce Lee (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bruce_Lee_%28video_game%29&oldid=1231087110
+Accessed on: 2024-06-26T16:56:27.346413
+
+
+
+------
+Bruce Lee (video game)
+{{Short description|1984 video game}}
+{{other uses|Bruce Lee (disambiguation)}}
+{{Infobox video game
+|title = Bruce Lee
+|image = BruceLee ataricover.jpg
+|caption = 
+|developer = [[Datasoft]]
+|publisher = Datasoft<br>[[U.S. Gold]] (CPC, Spectrum)<br/>Comptiq (MSX)
+|series = 
+|designer = Ron J. Fortier<ref name=giantlist>{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|artist = Kelly Day
+|composer = John A. Fitzpatrick
+|platforms = [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit]], [[BBC Micro]], [[Commodore 64]], [[IBM PC compatible|IBM PC]], [[MSX]], [[NEC PC-8801|PC-88]], [[ZX Spectrum]]
+|released = {{collapsible list
+ | title = April 1984
+ | '''Atari 8-bit''' {{vgrelease|NA|April 1984<ref name="CE">{{cite magazine |title=Year-End Index |magazine=Computer Entertainer |date=January 1985 |volume=3 |issue=10 |page=156 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan85.pdf#page=12}}</ref>}} '''Apple, C64, IBM PC, PC-88''' <br/> 1984 <br/> '''Spectrum, BBC, MSX''' <br/> 1985 <br/> '''Amstrad''' <br/> 1986
+ }}
+|genre = [[Beat 'em up]], [[Platform game|platform]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+}}
+
+'''''Bruce Lee''''' is a [[platform game]] written by Ron J. Fortier for [[Atari 8-bit computers]] and published in 1984 by [[Datasoft]].<ref name=giantlist/> The graphics are by Kelly Day and music by John A. Fitzpatrick. The player takes the role of [[Bruce Lee]], while a second player controls either Yamo or alternates with player one for control of Bruce Lee.
+
+[[Commodore 64]]<ref>{{lemon64 game|id=376}}</ref> and [[Apple II]] versions were released the same year. The game was converted to the [[ZX Spectrum]]<ref>{{WoS game|id=0000718|name=Bruce Lee}}</ref> and [[Amstrad CPC]]<ref>{{cite web |url=http://www.cpczone.net/index.php?game=161 |title=''Bruce Lee'' by US Gold |accessdate=2007-09-26 |work=CPCZone |archive-url=https://web.archive.org/web/20070815193121/http://www.cpczone.net/index.php?game=161 |archive-date=2007-08-15 |url-status=dead}}</ref> and published by [[U.S. Gold]]. It was the first U.S. Gold release featuring a famous individual.<ref>{{cite magazine |title=History in the Making: The First Three Years |magazine=[[Computer and Video Games]] |date=16 August 1988 |issue=83 (September 1988) |page=51 |url=https://archive.org/details/computer-video-games-magazine-083/page/n50/mode/1up}}</ref> An [[MSX]] version was published in 1985 by Comptiq.<ref>{{cite web |url=http://www.generation-msx.nl/msxdb/softwareinfo/629 |title=''Bruce Lee'' (1985, Comptiq) |accessdate=2007-09-26 |work=Generation-MSX}}</ref>
+
+==Gameplay==
+[[Image:Bruceleegame.png|upright=2|left|thumb|Bruce and the Ninja are fighting at the bottom centre. Yamo is preparing to fall from the left-hand platform (ZX Spectrum).]]
+
+The plot involves the eponymous martial artist advancing from chamber to chamber in a wizard's tower, seeking to claim infinite wealth and the secret of immortality. There are twenty chambers, each represented by a single screen with platforms and ladders. To progress, the player must collect a number of lanterns suspended from various points in the chamber.
+
+Most chambers are guarded by two mobile enemies; The [[Ninja]], who attacks with a "[[bokken]] stick"<ref>Bruce Lee game manual</ref> and The Green Yamo, a large unarmed warrior, visually styled as a [[sumo]] wrestler but attacking with punches and "crushing kicks". On platforms with sufficient graphics support, Yamo's skin is actually pictured as green, though in cover art he has a natural human skin tone.
+
+A multiplayer mode allows a second player to control Yamo, or to allow two players to alternately control Bruce. If the player playing Yamo is inactive for a certain time, the computer takes over. The Ninja and Yamo are also vulnerable to the screen's dangers, but have infinite lives so they always return; whereas Yamo is consistently identified as a single person, one version of the manual implies that each reappearance of the ninja is a new individual, replacing the previous one.
+
+Later chambers include more hazards such as mines and moving walls, as well as a "comb-like" surface that has an electric spark racing along it. Skilful walking, climbing, ducking and jumping are required to negotiate them. On the twentieth screen, Lee finally faces the evil Fire Wizard.
+
+Upon completing the game, it "loops" again. From the second loop on, the Ninja and Yamo are replaced as soon as they are killed, and the safe spots in the room with multiple electrified combs are removed.
+[[Image:Bruce lee 01.gif|thumb|left|upright=2|Commodore 64 title screen]]
+
+==Reception==
+{{Video game reviews
+| PC = true
+| ZX = true
+| CRASH_ZX = 91%<ref>{{Cite web|url=https://worldofspectrum.org/archive/magazines/crash/16#28|title=Crash|website=worldofspectrum.org}}</ref>
+| CVG_ZX = 35/40<ref>{{cite magazine |title=Reviews |magazine=[[Computer & Video Games]] |date=16 April 1985 |issue=43 (May 1985) |page=100 |url=https://worldofspectrum.org/archive/magazines/computer--video-games/43#100}}</ref>
+| SUser_ZX = {{Rating|4|5}}<ref>{{Cite web|url=https://worldofspectrum.org/archive/magazines/sinclair-user/38|title=Sinclair User|website=worldofspectrum.org}}</ref>
+| YSinclair_ZX = 44%<ref name="YS"/>
+| rev1 = ''Computer Entertainer''
+| rev1_PC = {{Rating|7|8}} ([[Atari 8-bit|Atari]])<ref>{{cite magazine |title=Bruce Lee |magazine=[[Computer Entertainer|Computer Entertainer: The Video Game Update]] |date=April 1984 |volume=3 |issue=1 |page=3 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_apr84.pdf#page=3}}</ref>
+| rev2 = ''Sinclair Programs''
+| rev2_ZX = 75%<ref>{{Cite web|url=https://worldofspectrum.org/archive/magazines/sinclair-programs/31|title=Sinclair Programs|website=worldofspectrum.org}}</ref>
+| rev3 = ''ZX Computing''
+| rev3_ZX = {{Rating|4|5}}<ref>{{Cite web|url=https://worldofspectrum.org/archive/magazines/zx-computing|title=World of Spectrum - ZX Computing|website=worldofspectrum.org}}</ref>
+| award1Pub = ''[[Crash (magazine)|Crash]]''
+| award1 = Crash Smash
+}}
+
+The game was in the top ten of the UK software charts by May 1985,<ref>{{cite magazine |title=Gallup Chart |magazine=[[Computer Gamer]] |date=May 1985 |issue=2 |page=42 |publisher=[[Argus Press]] |location=United Kingdom |url=https://archive.org/details/Computer_Gamer_Issue_02_1985-05_Argus_Press_GB/page/n41}}</ref> and topped the Atari chart by July 1985.<ref>{{cite magazine |title=Gallup Chart |magazine=[[Computer Gamer]] |date=July 1985 |issue=4 |page=10 |publisher=[[Argus Press]] |location=United Kingdom |url=https://archive.org/details/Computer_Gamer_Issue_04_1985-07_Argus_Press_GB/page/n9}}</ref> The following month, it was number-eight on the all-formats chart and number-one on the Atari chart.<ref>{{cite magazine |title=Gallup Chart |magazine=[[Computer Gamer]] |date=August 1985 |issue=5 |page=10 |publisher=[[Argus Press]] |location=United Kingdom |url=https://archive.org/details/Computer_Gamer_Issue_05_1985-08_Argus_Press_GB/page/n9}}</ref>
+
+''[[Computer Gaming World]]'' stated that the Atari version "delivers all the foot kicking, kick jabbing, quick ducking action-packed adventure you'd expect from a good [[B movie|grade B]], martial arts movie".<ref name="stone198406">{{cite magazine | title=Bruce Lee | magazine=[[Computer Gaming World]] | volume=4 | issue=3 | date=June 1984 | url=http://www.cgwmuseum.org/galleries/issues/cgw_4.3.pdf | accessdate=2016-04-17 | last=Stone | first=David P. | pages=31–32}}</ref> The ZX Spectrum version of Bruce Lee received enthusiastic reviews. ''[[CRASH (magazine)|CRASH]]'' magazine awarded 91%, highlighting zesty graphics, enjoyable fighting action and addictivity.<ref>{{cite journal |date=May 1985 |title=''Bruce Lee'' review |journal=CRASH |issue=16 |url=http://www.crashonline.org.uk/16/brucelee.htm |accessdate= 2007-09-26}}</ref> ''[[Sinclair User]]'' also found the game enjoyable, awarding 4 out of 5 stars, but felt that sound was underused and a larger variety of tasks could have been included.<ref>{{cite journal |last=Edgely |first=Clare |date=May 1985 |title=Spectrum Software Scene 2 |journal=Sinclair User |issue=38 |url=http://www.sincuser.f9.co.uk/038/sftwreb.htm |accessdate=2007-09-26 |url-status=dead |archive-url=https://web.archive.org/web/20071105181811/http://www.sincuser.f9.co.uk/038/sftwreb.htm |archive-date=2007-11-05}}</ref> ''[[Your Spectrum]]'' were more critical, pointing out that it only takes a few games to complete all 20 chambers.<ref>{{cite journal |date=May 1985 |title=Joystick Jury |journal=Your Spectrum |issue=14 |url=http://www.users.globalnet.co.uk/~jg27paw4/yr14/yr14_43.htm |accessdate= 2007-09-26}}</ref> ''Home Computing Weekly'' praised the graphics and movement.<ref>{{Cite web|url=https://worldofspectrum.org/archive/magazines/home-computing-weekly/110|title=Home Computing Weekly|website=worldofspectrum.org}}</ref>
+
+In a 1990 retrospective, ''[[Your Sinclair]]'' found that ''Bruce Lee'' was still too easy to complete and the graphics had not aged well. In addition, it was felt that the fighting moves available to the player lacked impact and were too limited for a beat 'em up. It was described as a historically important game, being the first to combine the platform/collection and beat 'em up genres.<ref name="YS">{{cite journal|date=May 1990|title=The YS Complete Guide To Beat-'em-ups|journal=Your Spectrum|issue=53|url=http://www.ysrnry.co.uk/articles/completeguidetobeatemups.htm|accessdate=2007-09-26|url-status=dead|archive-url=https://web.archive.org/web/20070929083716/http://www.ysrnry.co.uk/articles/completeguidetobeatemups.htm|archive-date=2007-09-29}}</ref>
+
+==Legacy==
+The game was included on the 1986 ZX Spectrum compilation ''They Sold a Million II'',<ref name="worldofspectrum">{{cite web|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0011372|title=They Sold a Million II - World of Spectrum|publisher=worldofspectrum.org|accessdate=2015-09-05}}</ref><ref name="mobygames">{{cite web|url=http://www.mobygames.com/game/they-sold-a-million-ii|title=They Sold a Million II for Amstrad CPC (1986) - MobyGames|publisher=mobygames.com|accessdate=2015-09-05}}</ref> along with ''Match Point'', ''[[Match Day (video game)|Match Day]]'', and ''[[Knight Lore]]''.
+
+==See also==
+* [[Bruceploitation]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.atarimania.com/game-atari-400-800-xl-xe-bruce-lee_s799.html ''Bruce Lee''] at Atari Mania
+* [https://www.youtube.com/watch?v=XpWj7ThCU4M Video]
+
+{{Bruce Lee}}
+
+[[Category:1984 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Bruce Lee video games]]
+[[Category:Commodore 64 games]]
+[[Category:Crash Smash! award winners]]
+[[Category:Datasoft games]]
+[[Category:DOS games]]
+[[Category:FM-7 games]]
+[[Category:MSX games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Platformers]]
+[[Category:U.S. Gold games]]
+[[Category:Video games about ninja]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]

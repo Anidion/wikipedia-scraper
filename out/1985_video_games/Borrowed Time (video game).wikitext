@@ -1,0 +1,63 @@
+Borrowed Time (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Borrowed_Time_%28video_game%29&oldid=1153328877
+Accessed on: 2024-06-26T16:58:08.783726
+
+
+
+------
+Borrowed Time (video game)
+{{Short description|1985 video game}}
+{{more citations needed|date=October 2017}}
+{{Infobox VG
+ |title      = Borrowed Time
+ |image      = Borrowed Time Video Game.jpg
+ |developer  = [[Interplay Entertainment|Interplay]]
+ |publisher  = [[Activision]]<br>[[Mastertronic]]
+ |producer   = Richard Lehrberg
+ |designer   = [[Brian Fargo]]<br>[[Michael Cranford]]
+ |programmer = Ayman Adham<br>Jay Patel<br>Troy P. Worrell<br>[[Rebecca Heineman]]
+ |artist     = David Lowery<br>Curt Toumanian<br>Greg Miller
+ |released   = '''1985:''' Apple II, C64, IBM PC, Mac<br>'''1986:''' Amiga, Atari ST
+ |genre      = [[Interactive fiction]]
+ |modes      = [[Single-player video game|Single-player]]
+ |platforms  = [[Amiga]], [[Apple II series|Apple II]], [[Atari ST]], [[Commodore 64]], [[IBM PC compatible|IBM PC]], [[Macintosh]]
+}}
+
+'''''Borrowed Time''''' is a [[interactive fiction]] game about a detective, who tries to rescue his kidnapped wife. The game was developed by [[Interplay Entertainment|Interplay]] and published by [[Activision]] in 1985. [[Mastertronic]] republished it as a budget title under the name '''''Time to Die'''''.<ref name="ryerson199003">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=69 | title=Time To Buy? | magazine=Computer Gaming World | date=March 1990 | accessdate=15 November 2013 | author=Ryerson, Don | pages=58 | type=letter | archive-url=https://web.archive.org/web/20160405105848/http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=69 | archive-date=5 April 2016 | url-status=dead }}</ref>
+
+== Plot ==
+The plot in the style of a detective story of the noir crime genre is set in the USA of the 1930s. The player takes a role of a private detective, Sam Harlow. His ex-wife Rita Sweeney has been kidnapped, and he tries to free her. In the process, he is pursued by gangsters who are after his life.
+
+== Gameplay ==
+[[File:Borrowed_Time_(video_game)_Atari_ST_screenshot.png|thumb|left|Gameplay screenshot (Atari ST)]]
+''Borrowed Time'' is a text adventure with a complementary graphical user interface. Control is via the keyboard, alternatively, many commands and objects can be selected from a graphical menu with a joystick or a mouse. Moving around is done in the same way - a selection window with cardinal directions is available. The player must interrogate suspects and collect evidence at the various locations in order to achieve the game goal. Some game actions have a time limit for problem-solving.
+
+== Development ==
+''Borrowed Time'' was produced by Interplay for Activision and was part of a $100,000 contract that included a total of three adventure games.<ref name="demaria-2004">Rusel DeMaria, Johnny L. Wilson: ''High Score.'' McGraw-Hill/Osborne: Emeryville, California, 2004. Page 209. ISBN 0-07-223172-6</ref> Interplay founder Fargo already had experience in the adventure genre: his first game was the adventure [[The Demon's Forge]], released for [[Apple II]] in 1981. The parser used by Interplay was developed by Fargo and a collaborator, and at one stage of development had a dictionary of 250 nouns, 200 verbs, and could evaluate input with prepositions and indirect objects.<ref>{{cite journal | journal=Computer Entertainment | title=if yr cmptr cn rd ths... | author=Shay Addams | year=1985 | pages=24 | url=http://www.vaxdungeon.com/Infocom/Articles/parser-war.asp| archive-url=https://web.archive.org/web/20160121112618/http://www.vaxdungeon.com/Infocom/Articles/parser-war.asp | archive-date=2016-01-21 }}</ref> The same engine had been used in the previous games [[Mindshadow (video game)|Mindshadow]] and The Tracer Sanction. The writing and much of the game design were done by Subway Software, a company founded by game journalist [[Bill Kunkel (journalist)|Bill Kunkel]] specifically for ''Borrowed Time''. Fargo outsourced the writing because he felt that no one at Interplay could produce quality prose.<ref name="da">{{cite web|title=Brian Fargo and Interplay|url=https://www.filfre.net/2015/05/brian-fargo-and-interplay/|last1=Maher|first1=Jimmy}}</ref>
+
+== Reception ==
+''[[Info (magazine)|Info]]'' rated ''Borrowed Time'' four stars out of five, describing it as "a big step forward in the realm of 'interactive entertainment' ... a tonic to jaded adventurers", and praising the game's graphics, parser, and humor.<ref name="info198601">{{Cite magazine |last1=Dunnington |first1=Benn | last2=Brown | first2=Mark R. |date=December 1985 – January 1986 |url=https://archive.org/stream/info-magazine-09/Info_Issue_09_1985_Dec-Jan_1986#page/n5/mode/2up | title=C-64/128 Gallery |magazine=Info |pages=4–5, 88–93 |access-date=2019-03-19}}</ref> ''[[Compute!]]'' wrote that "Activision has created a delightful game environment with the look and feel of those classic hardboiled detective movies and novels".<ref name="bateman198605">{{cite news | url=https://archive.org/stream/1986-05-compute-magazine/Compute_Issue_072_1986_May#page/n61/mode/2up | title=Borrowed Time | work=Compute! | date=May 1986 | accessdate=29 July 2014 | author=Bateman, Selby | pages=60}}</ref> ''[[Computer Gaming World]]''{{'}}s [[Charles Ardai]] called ''Borrowed Time'' "a superbly cinematic graphic adventure" that was too brief and deserved a sequel.<ref name="ardai198707">{{cite magazine| title=Titans of the Computer Gaming World / Part Three of Five: Ardai on Activision | magazine=[[Computer Gaming World]] | issue=38 | date=June–July 1987 | url=http://www.cgwmuseum.org/galleries/issues/cgw_38.pdf | accessdate=17 April 2016 | last=Ardai | first=Charles | authorlink=Charles Ardai | pages=36}}</ref> A German reviewer recognized the challenging storyline, the detailed graphics and the comfortable gameplay.<ref>Heinrich Lenhardt: ''Borrowed Time'', ''Happy Computer'', Spiele-Sonderheft 11/1986 (german)</ref> He gave Borrowed Time 82 out of 100.<ref>Heinrich Lenhardt: ''Tatort Computer'', ''Happy Computer'' 4/1986, p.150f. (german)</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{moby game|id=/borrowed-time|name=''Borrowed Time''}}
+* {{IFDB|id=a6s8n66vllgv3bdj}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1985 video games]]
+[[Category:Activision games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:Detective video games]]
+[[Category:Interplay Entertainment games]]
+[[Category:Mastertronic games]]
+[[Category:Single-player video games]]
+[[Category:Subway Software games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the 1930s]]
+[[Category:Video games set in the United States]]

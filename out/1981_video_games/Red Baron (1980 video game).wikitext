@@ -1,0 +1,68 @@
+Red Baron (1980 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Red_Baron_%281980_video_game%29&oldid=1221191735
+Accessed on: 2024-06-26T16:52:32.032048
+
+
+
+------
+Red Baron (1980 video game)
+{{Short description|1981 video game}}
+{{for|the MS-DOS game|Red Baron (1990 video game)}}
+{{More citations needed|date=March 2016}}
+{{Infobox video game
+|title = Red Baron
+|image = Red Baron (Atari Arcade Game Flyer).jpeg
+|developer = [[Atari, Inc.]]
+|publisher = Atari, Inc.
+|designer = 
+|release = May 1981<ref name="Atari">{{cite book |title=Product: Total Build |url=http://www.atarigames.com/atarinumbers90s.pdf |publisher=[[Atari Games]] |year=1999 |access-date=March 2, 2021 |url-status=dead |archivedate=May 10, 2013|archiveurl=https://web.archive.org/web/20130510143012/www.atarigames.com/atarinumbers90s.pdf}}</ref>
+|genre = [[Shoot 'em up]]
+|modes = [[Single-player]]
+|platforms = [[Arcade video game|Arcade]]
+}}
+'''''Red Baron''''' is an [[arcade video game]] developed by [[Atari, Inc.]] and released in 1981.<ref name="Atari"/> A [[first person (video games)|first-person]] [[flight simulator]] game, the player takes the role of a [[World War I]] ace in a [[biplane]] fighting on the side of the [[Allies of World War I|Allies]]. The game is named after the nickname of [[Manfred von Richthofen]], German [[flying ace]]. The game uses the same monochrome [[vector graphics]] and similar hardware as Atari's own ''[[Battlezone (1980 video game)|Battlezone]]''; both were developed at the same time. Like Battlezone, the player is presented with a first-person view of the action. Both ''Battlezone'' and ''Red Baron'' use additional hardware, an "Auxiliary" board, to perform the mathematical computations required for simulating a 3D environment.
+
+==Gameplay==
+{{unreferenced section|date=May 2017}}
+The game is divided up into rounds. Most rounds are divided into air combat (shooting from one to three airplanes in formation) and ground combat (two zeppelins and multiple ground targets). While the game does not feature accurate flight physics (the plane cannot be crashed directly into the ground, for instance), the vector-rendered mountain ranges serve as solid objects and flying into or through them causes the player to crash and lose one [[Life (video games)|life]]. The mountain ranges do not impede attacks, either from the player or the enemies, and can be shot through. Enemies include: formations of enemy [[biplanes]], [[zeppelins]], [[bunker#Pillbox|pillboxes]], turrets, and enemy buildings.
+
+''Red Baron'' adjusts its own game [[Difficulty level|difficulty]] by maintaining a consistent average game time from the last 32 games played. The [[NVRAM]] stores top three [[Score (game)|scores]] as well as average game times. In other words, this game has "adaptive difficulty". The goal of this feature was to adapt to the skill level of the typical player at that location and prevent excessive game times.
+
+The upright versions of ''[[Battlezone (1980 video game)|Battlezone]]'' (1980) and ''Red Baron'' share the same cabinet. In ''Battlezone'', the player looks through a window that was shaped like a tank periscope. Side-view windows were available on both sides for people not playing the game to watch the action. ''Battlezone'' utilizes a two-way mirror to superimpose the monitor display (mounted horizontally) on a tank "interior" background. Although ''Red Baron'' uses the same cabinet as ''Battlezone'', no mirror is used and the monitor is mounted vertically, with the player viewing the display directly.
+
+''Battlezone'' and ''Red Baron'' both used the same "Analog Vector Generator" (AVG) circuit boards and by switching the [[Programmable read-only memory|PROM]]'s they could be interchanged (with very minor [[Jumper (computing)|jumper]] additions). ''Red Baron'' and ''Battlezone'' use different auxiliary boards which are not interchangeable.
+
+==Reception==
+''[[Electronic Games]]'' magazine reported that ''Red Baron'' was not successful in arcades despite "gorgeous [[QuadraScan|quadra-scan]] graphics and magnificent audio frills", and expressed hope that "this marvelous flight simulator with a combat theme will re-emerge in home format some day".<ref name="pearl198306">{{cite news | url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n79/mode/2up | title=Closet Classics | work=Electronic Games | date=June 1983 | accessdate=6 January 2015 | author=Pearl, Rick | pages=82}}</ref>
+
+==Legacy==
+While playing ''Red Baron'' in 1982, [[Bill Stealey]] and [[Sid Meier]] decided to create what became [[MicroProse]]'s first game, ''[[Hellcat Ace]]''. The company later obtained the unit they had played as a memento.<ref name="cgw198806">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=48 | title=MicroProse Captures "Red Baron" as Corporate Momento | magazine=Computer Gaming World | date=June 1988 | accessdate=3 November 2013 | pages=9}}</ref>
+
+''Red Baron'' was released as part of the ''[[Atari: 80 Classic Games in One!]]'' compilation for [[Microsoft Windows]], and later on the [[Xbox]] and [[PlayStation 2]] in ''[[Atari Anthology]]''. This version included parts of the cabinet art surrounding the game screen. The game is also available on ''[[Atari Greatest Hits]] Volume 2'' for the DS. The arcade version of ''Red Baron'' is also available on the AtGames Legends Ultimate Arcade Cabinet.
+
+==See also==
+*[[Red Baron (1990 video game)]] and [[Red Baron II]] by Dynamix 
+*[[Knights of the Sky]] by MicroProse in 1990 for MS-DOS, Amiga, Atari ST
+*[[Master of the Skies: The Red Ace]] (a.k.a. Hunt for the Red Baron) in 2000 by Small Rockets for Windows
+*[[The Red Baron in popular culture#Video_game_references|The Red Baron in popular culture - Video game references]]
+*[https://www.mobygames.com/group/8482/red-baron-games/sort:date List of games featuring von Richthofen] - Mobygames
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=9289|name=Red Baron}}
+* [http://www.arcade-history.com/?page=detail&id=2197 ''Red Baron''] at the Arcade History database
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Atari arcade games]]
+[[Category:Flight simulation video games]]
+[[Category:Shoot 'em ups]]
+[[Category:Vector arcade video games]]
+[[Category:Video games developed in the United States]]
+[[Category:World War I video games]]
+[[Category:Single-player video games]]
+
+[[de:Red Baron]]

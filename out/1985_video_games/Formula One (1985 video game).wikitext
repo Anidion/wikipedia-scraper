@@ -1,0 +1,236 @@
+Formula One (1985 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Formula_One_%281985_video_game%29&oldid=1187347233
+Accessed on: 2024-06-26T16:58:29.154252
+
+
+
+------
+Formula One (1985 video game)
+{{Infobox video game
+| title = Formula One
+| image = Formula One (1985 videogame) cover.jpg
+| caption = ZX Spectrum original cover
+| developer = G.B. Munday<br />B.P. Wheelhouse
+| publisher = [[CRL Group PLC]]
+| designer =
+| engine =
+| released = 1985
+| genre = [[Sports management]]
+| modes = [[Single-player]], [[Hotseat (multiplayer mode)|multiplayer (hotseat)]]
+| platforms = [[ZX Spectrum]], [[Amstrad CPC]]
+}}
+
+'''''Formula One''''' is a [[Formula One]] racing management video game published in 1985 by [[CRL Group PLC]]. It was developed by G.B. Munday and B.P. Wheelhouse for the [[ZX Spectrum]], and converted to [[Amstrad CPC]] by Richard Taylor.
+
+The game sets the player as the Formula One team manager on a team of choice, starting on the season of 1985 and onwards. The player is in charge of all the decisions regarding drivers, sponsors, budget management, chassis and engine improvements, tyres selection, among others, during the sixteen races comprised. The game uses [[Hotseat (multiplayer mode)|hotseat]] multiplayer for up to six players, each managing a different team, and five different levels of difficulty for the CPU-controlled teams.
+
+''Formula One'' was one of the first games of its genre, following its predecessor [[Grand Prix Manager (1984 video game)|Grand Prix Manager]] by [[Silicon Joy]], and was in well received by critics.
+
+==Gameplay==
+The game starts by asking the player to choose a team to manage from the six teams available ([[Brabham]], [[Scuderia Ferrari|Ferrari]], [[Team Lotus|Lotus]], [[WilliamsF1|Williams]], [[McLaren]] and [[Renault F1|Renault]]), and two sponsors, from a list of thirteen, for the whole season which comprises sixteen races. With limited funds, the player is asked to hire up to two drivers (from a list of twenty four available), and prepare the race car(s). After each race the player is awarded a money prize for participation and also an extra sum if its drivers rank in the top places. The sponsors also contribute to the team in varying amounts after each race. The funds have to be managed in order to repair or upgrade the cars, or even hire new drivers for the following race. The goal is to lead the team to win the constructors championship, and if possible the drivers championship too. The game is virtually endless, in the sense that after a season finishes a new one starts again, and the player has to hire new drivers, prepare new cars, and repeat the cycle of management.
+
+===Team management===
+Throughout the season the game focuses on budget management. With limited funds and resources the player has to establish in each race the best ways to invest in its race cars. In each race there is also a possibility that the race car(s) get damaged, destroyed, or even that the driver is injured. Any of these setbacks mean added expenses for repairs or having to hire new drivers.
+
+The game is based on four management points, which are:
+* Driver's skill level
+* Power (engine)
+* Car (chassis)
+* Pit-crew
+
+The driver's skill, unlike the other three management points, is the only one that cannot be improved by applying funds to it (short of hiring a better driver). The driver's skill level changes dynamically during the season, slowly increasing after each successfully finished race, or decreasing in case of accidents that force an early retirement from it. In the event of an accident in which the driver is injured all of the driver's skill level is set back to the minimum value and he is marked as injured until the end of the current season. A new driver must then be hired for the position.
+
+The engine and the car levels determine how fast and how reliable the car will be in race for the driver. Applying more funds into the engine and fewer in the car (chassis) means that the car will be faster and more reliable but with a fragile chassis. Applying the reverse settings will mean that the car might be more resistant in chassis, but slower and more prone to engine failures.
+
+===Race===
+[[Image:Formula One (1985 videogame) race.gif|thumb|175px|alt=In game race animation|During a race the player sees the cars passing by every lap.]]
+During each race the player's task is to watch the race as it goes lap after lap from the starting lane point of view, and react depending on the events that may occur. The blackboard on the top of the screen shows the top six drivers time differences in seconds,<ref name="SinclairUserReview"/> but the player can also tell how well their cars are doing just by watching closely to the cars passing by in each lap. The speed and time differences between the drivers are noticeable in game.
+
+A number of different events happen during every race, the most common being weather changes and accidents. If the weather changes the player can call the cars in for a tyre change, in case the drivers do not do it themselves first. In the case of accidents, if the car is still able to race, the driver will take it immediately to the pits for repairs.
+
+If the cars are damaged beyond the ability to repair in race, or even if they crashed out, the player will have to watch the rest of the race, even if none of their cars is on track.
+
+===Pit stops===
+[[Image:Formula One (1985 videogame) pit stop.gif|thumb|175px|right|alt=Pit stop routine in game|Pit stop routine. The player has to change each tyre on the car before it's ready to go.]]
+The pit-crew also has a deciding factor in each race because the more funds are applied into it, the faster they work when in pit stops. The pit stop events are controlled by the player, when a car has the need to go in for a pit stop the player controls one of the mechanics in the pits, which changes the tyres one by one, and applies any other repairs if necessary. The faster the mechanic moves, the less time is spent in pit stops.<ref name="YourComputerReview"/>
+
+In the demonstration mode of the game, the pit crew includes four extra mechanics placed next to each of the car tyres who make the tyre changes, but they work one at a time until all tyres are replaced and the car is ready to go.
+
+The game features five different kinds of tyres to choose for racing, Slicks (soft, medium and hard compound variants), Intermediates, and Rain tyres. Each kind of tyre is best suited depending on the present weather and track conditions, and the weather conditions can vary during the race.
+
+===Racing circuits===
+''Formula One''{{'}}s play setup is a season comprising 16 races, and all the game's data including racing circuits, number of laps of each race, past season winners, and track record holders is based on the official [[1984 Formula One season]].
+{| class="wikitable"
+|-
+! Round
+! Race
+! Location
+! Laps
+|-
+! 1
+| {{Flagicon|Brazil|1968}} [[Brazilian Grand Prix]]
+| [[Autódromo Internacional Nelson Piquet|Jacarepaguá]]
+| 61
+|-
+! 2
+| {{Flagicon|South Africa|1982}} [[South African Grand Prix]]
+| [[Kyalami]]
+| 75
+|-
+! 3
+| {{Flagicon|Belgium}} [[Belgian Grand Prix]]
+| [[Zolder]]
+| 70
+|-
+! 4
+| {{Flagicon|San Marino|1862}} [[San Marino Grand Prix]]
+| [[Autodromo Enzo e Dino Ferrari|Imola]]
+| 60
+|-
+! 5
+| {{Flagicon|France}} [[French Grand Prix]]
+| [[Dijon-Prenois|Dijon]]
+| 79
+|-
+! 6
+| {{Flagicon|Monaco}} [[Monaco Grand Prix]]
+| [[Circuit de Monaco|Monaco]]
+| 76
+|-
+! 7
+| {{Flagicon|Canada}} [[Canadian Grand Prix]]
+| [[Circuit Gilles Villeneuve]]
+| 70
+|-
+! 8
+| {{Flagicon|United States}} [[Detroit Grand Prix]]
+| [[Detroit street circuit|Detroit]]
+| 63
+|-
+! 9
+| {{Flagicon|United States}} [[Dallas Grand Prix]]
+| [[Fair Park#Formula 1|Dallas]]
+| 67
+|-
+! 10
+| {{Flagicon|UK}} [[British Grand Prix]]
+| [[Brands Hatch]]
+| 71
+|-
+! 11
+| {{Flagicon|Germany}} [[German Grand Prix]]
+| [[Hockenheimring]]
+| 44
+|-
+! 12
+| {{Flagicon|Austria}} [[Austrian Grand Prix]]
+| [[Österreichring]]
+| 51
+|-
+! 13
+| {{Flagicon|Netherlands}} [[Dutch Grand Prix]]
+| [[Circuit Zandvoort|Zandvoort]]
+| 71
+|-
+! 14
+| {{Flagicon|Italy}} [[Italian Grand Prix]]
+| [[Autodromo Nazionale Monza|Monza]]
+| 51
+|-
+! 15
+| {{Flagicon|Germany}} [[European Grand Prix]]
+| [[Nürburgring]]
+| 67
+|-
+! 16
+| {{Flagicon|Portugal}} [[Portuguese Grand Prix]]
+| [[Autódromo do Estoril|Estoril]]
+| 70
+|}
+
+===Gambling===
+A gambling mode is also available in-game, in which the player can bet an amount of money on one or more drivers to win. This is an optional feature of the game, and is only accessible by pressing a specific key before the races.<ref name=GameInstructions>Formula One instructions present in the cassette inlay</ref> The gambling screen presents the list of drivers that are going to participate in the race to follow, as well as their respective winning odds.
+
+===Expert level winning code===
+An uncommon feature of the game was the addition of a special alphanumeric code that was revealed to the player once the game was beaten in expert mode, that served as proof of authentication that the player had mastered the game at its highest level of difficulty. This special code was used as means of entry on a competition held in June 1985 by [[Sinclair User]] magazine.<ref name="SinclairUserContest">{{cite journal |title=Formula One Competition |journal=Sinclair User |issue=39 |date=June 1985 |page=103}}</ref>
+
+==Graphics details==
+Although ''Formula One'' is a management game, several graphics details are included that provide a more realistic and appealing feel to it.
+
+The speed and time differences between drivers is noticeable during the race. The player can tell how fast its cars are going by simply observing and comparing to the other cars as they pass by the screen in each lap. The distance between each two cars is also noticeable as the interval between them is longer or shorter.
+
+The spectators in the benches always move their heads to the right as the cars are coming by, and then to the left after the last car passes by the screen.<ref name="YourComputerReview"/>
+
+In every race a [[Goodyear Blimp|Goodyear blimp]] is located at the top right of the screen.<ref name="YourComputerReview"/> Lap after lap this blimp slowly moves left, and on many occasions it even crosses over to the top left side of the screen.
+
+There is [[in-game advertising]] for a number of companies, including [[Marlboro (cigarette)|Marlboro]], [[Agip]], [[Goodyear Tire and Rubber Company|Goodyear]], [[Mobil]], [[Fiat]], [[Dunlop Tyres|Dunlop]], and references to many of the sports's sponsors of the time, as well as the F1 teams themselves although the game did not have an official tie-in licence with FIA. This did not generate income for the developers but adds to the realistic feel of the game, as all of the brands and companies advertised were involved in Formula 1 competition at the time.
+
+===Version differences===
+[[Image:Formula One (1985 videogame) ZX Spectrum vs Amstrad CPC.png|thumb|150px|alt=Comparison between ZX Spectrum and Amstrad CPC|There are visible differences between the Zx Spectrum (top) and Amstrad CPC (bottom).]]
+Both ZX Spectrum and Amstrad CPC versions are very similar in all aspects, and the gameplay is not altered between ports, but some visual differences exist between them.
+
+Due to the native [[Palette (computing)|color palettes]] that each system uses, the game presents itself very similarly in both versions but with slightly different color tones. The ZX Spectrum [[attribute clash]] problem is also widely visible through the game, whereas in the Amstrad CPC it does not occur.
+
+Some in-game objects though are painted differently in the Amstrad CPC port, for example the pit stop screen shows different colored doors, windows and other objects in the background. Also, on the race screen, the publicity stripe below the spectators is mostly red in the Amstrad CPC port while in the ZX Spectrum version it shows mostly yellow.
+
+A noticeable difference is that in the ZX Spectrum version, in the race screen, there are four rows of spectators on the left side and three rows on the right side. The Amstrad CPC port shows one fewer row of spectators on each side, making it three rows on the left side and only two rows on the right side.
+
+Another difference is that at each race start, in the ZX Spectrum version six cars are visible in the starting line, while in the Amstrad CPC version only four cars are visible.
+
+==Releases and Codemasters copyright controversy==
+The [[ZX Spectrum]] version of the game was developed and first released by [[CRL Group PLC]] in 1985,<ref name="f1wos">[http://www.worldofspectrum.org/infoseekid.cgi?id=0001845 ''Formula One''] on [[World of Spectrum]]</ref> and was subsequently re-released as a budget title by Alternative Software Ltd with the title ''Formula Grand Prix'' in 1988.<ref name="release" /> ''Formula One'' was included in a CRL compilation entitled ''Burning Rubber'' in 1990.<ref name="f1wos" /> The [[porting|port]] to the [[Amstrad CPC]] was completed by CRL in 1988.<ref name="release">{{Cite web|url=http://www.mobygames.com/game/formula-one/release-info|title=Release information for Formula One|publisher=[[MobyGames]]|access-date=2009-12-14}}</ref>
+
+When Alternative Software released ''Formula Grand Prix'' the packaging was the subject of potential legal proceeding by [[Codemasters]]. A spokesperson for the company stated that the artwork for ''Formula Grand Prix'' plagiarises their box art for ''[[Grand Prix Simulator]]''. He said that Codemasters would be issuing a [[writ]] against Alternative for breach of copyright and for [[passing off]].<ref>{{Cite journal|title=Bugeteers in Rip-Off Horror|url=https://archive.org/details/sinclair-user-magazine-082/page/n23/mode/2up|journal=Sinclair User|date=January 1989 |issue=82|pages=24}}</ref>
+
+==Reception==
+{{Video game reviews
+| AAction = 72%<ref name="AmstradActionReview">{{cite journal |last=Wade |first=Bob |title=Formula One |journal=Amstrad Action |issue=2 |date=November 1985 |pages=74–75}}</ref>
+| CVG = 6.5/10 (average)<ref name="CVGReview">{{cite journal |title=Formula One |journal=Computer & Video Games |issue=44 |date=June 1985 |page=16}}</ref>
+| SUser = {{Rating|5.0|5}}<ref name="SinclairUserReview">{{cite journal |last=Bourne |first=Chris |title=Formula One |journal=Sinclair User |issue=38 |date=May 1985 |page=27}}</ref>
+<!-- Custom reviewers -->
+| rev1 = ''[[Computer Gamer]]''
+| rev1Score = {{Rating|4.0|5}}<ref name="ComputerGamerReview">{{cite journal |last=H. |first=G. |title=Formula One |journal=Computer Gamer |issue=2 |date=May 1985 |page=56}}</ref>
+| rev2 = [[Your Computer (British magazine)|Your Computer]]
+| rev2Score = {{Rating|4.0|5}}<ref name="YourComputerReview">{{cite journal |last=Bond |first=Paul |title=Formula One |journal=Your Computer |issue=8505 |date=May 1985 |page=39}}</ref>
+| rev3 = Amstrad Magazine (FR)
+| rev3Score = {{Rating|1.0|5}}<ref name="AmstradMagazineReview">{{cite journal |title=Formula One |journal=Amstrad Magazine |issue=4 |date=November 1985 |page=10}}</ref>
+<!-- Awards -->
+| award1Pub = [[Sinclair User]]
+| award1 = Sinclair User Classic
+}}
+In early 1985 when ''Formula One'' was launched, there were several good references in the market for sports management games, but few in the field of motor sports. As one of the first games of its genre, following ''Grand Prix Manager'' by Silicon Joy in 1984, ''Formula One'' received very positive reviews upon launch from several publications of its time.
+
+The ZX Spectrum version, although not perfect, was in overall highly appraised by reviewers. Chris Bourne, software reviewer for [[Sinclair User]] magazine, awarded it 5 stars, and a "Sinclair User Classic" award, referring to it as "a rare example of a simulation which combines attractive displays, good game structure and an exciting theme".<ref name="SinclairUserReview" /> Other reviews of ''Formula One'' for the same platform also gave it merit. Paul Bond of British magazine [[Your Computer (British magazine)|Your Computer]] awarded 4 stars stating that "the graphics are functional rather than brilliant".<ref name="YourComputerReview"/> Same opinion about the graphics is shared by the [[Amstrad Action]] reviewer for the Amstrad CPC port stating that "the race graphics aren't brilliant but manage to convey some of the tension of real racing".<ref name="AmstradActionReview"/>
+
+''[[Computer and Video Games]]'' magazine review on ''Formula One'' was done with the collaboration of [[Peter Collins (racing team manager)|Peter Collins]], manager of the Formula 1 team [[WilliamsF1|Williams]] at the time. Peter Collins, looking at it from a professional point of view, heavily criticized the game for its general lack of detail in the management part, and lack of documentation provided to the player as well. As a result, ''Computer and Video Games'' awarded it 6.5/10 (average), referring to it as an entertaining strategy game "but Grand Prix enthusiasts will soon find the novelty wearing off!"<ref name="CVGReview"/>
+
+A four stars ranking was also attributed by [[Computer Gamer]] magazine, mentioning that with up to six players simultaneously the game "could get quite exciting". On the negative side, it was also pointed out a simple user interface issue, that if corrected would have proportioned a better experience to the players. The magazine said that it would better to select from the menus using the joystick rather than the keyboard.
+
+When the game was included in the ''Burning Rubber'' compilation for the ZX Spectrum it was received less favourably. David from ''Your Sinclair'' commented that the graphics look rather basic and that decision making is limited. He mentions that the game was not liked when it was first released, and that it has not aged well. He gave it an overall score of 30%.<ref>{{Cite journal|author=David|title=Burning Rubber|journal=Your Sinclair|issue=51|pages=87}}</ref>
+
+==See also==
+{{Portal|Video games}}
+* ''[[Grand Prix Manager (1984 video game)|Grand Prix Manager]]'' (1984 ZX Spectrum game by Silicon Joy)
+* ''[[Grand Prix Manager]]'' (1995 video game by MicroProse)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MobyGames|id=/formula-one|name=''Formula One''}}
+
+{{Formula One games}}
+{{CRL Group}}
+
+{{DEFAULTSORT:Formula One (1985 Video Game)}}
+[[Category:1985 video games]]
+[[Category:Alternative Software games]]
+[[Category:Amstrad CPC games]]
+[[Category:Formula One video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Racing video games]]
+[[Category:Sports management video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:CRL Group games]]

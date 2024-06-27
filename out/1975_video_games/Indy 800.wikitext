@@ -1,0 +1,54 @@
+Indy 800
+Permalink: //en.wikipedia.org/w/index.php?title=Indy_800&oldid=1158253590
+Accessed on: 2024-06-26T16:47:30.780873
+
+
+
+------
+Indy 800
+{{short description|1975 video game}}
+{{Infobox video game
+|title = Indy 800
+|image = Indy 800 arcade game flyer.jpg
+|caption = 
+|developer = [[Atari Inc.]]
+|publisher = {{vgrelease|NA|[[Atari Inc.]]|JP|[[Nakamura Seisakusho]]<ref name="MAD"/>}}
+|platforms = [[Arcade game|Arcade]]
+|released = {{vgr|NA|April 1975<ref name="atari_production99">{{cite web|title=Production Numbers|url=http://www.atarigames.com/atarinumbers90s.pdf|publisher=[[Atari Games]]|date=August 31, 1999|access-date=April 19, 2021|archive-date=June 12, 2017|archive-url=https://web.archive.org/web/20170612044948/http://www.atarigames.com/atarinumbers90s.pdf|url-status=dead}}</ref>|JP|September 1975<ref name="MAD"/>}}
+|genre = [[Racing video game|Racing]]
+|modes = Up to 8 players
+}}
+
+'''''Indy 800''''' is an [[arcade game|arcade]] [[racing video game]] released in 1975 by [[Atari Inc.]]<ref name="klov">{{cite web | title = Indy 800 Killer List of Video Games Entry | url=http://www.klov.com/game_detail.php?letter=I&game_id=8190 | access-date = 2007-07-10}}</ref> It was distributed in Japan by [[Nakamura Seisakusho]] (Namco).<ref name="MAD">{{cite web |title=Indy 800 |url=https://mediaarts-db.bunka.go.jp/id/M730336 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=31 May 2021}}</ref>
+
+==Technology==
+The game is housed in a large custom rectangular cabinet that takes up {{convert|16|sqft|m2}}. Each side of the cabinet has two steering wheels and four pedals. The 25&nbsp;inch monitor is set in to the top face of the cabinet and looked down upon.<ref>{{cite magazine |title=An Interview with Dan Van Elderen |magazine=[[Next Generation (magazine)|Next Generation]]|issue=35 |publisher=[[Imagine Media]] |date=November 1997|page=81}}</ref> The game uses a full color RGB display and does not use color overlays.
+
+The processing electronics consist of a card cage that includes a "Backplane" or "Motherboard", eight identical car function boards, and three unique, common processing boards that the backplane board supports and interconnects. Each of the eleven boards has its own onboard fixed 5 volt regulator IC. All of the logic circuitry is TTL, and no microprocessors are used.
+
+Each game was sold with two spare car boards and one each of the three processing boards, so that the game owner could repair it by simple circuit board substitution. Two "card extender" boards were furnished with each game sold that enabled technicians to probe individual components on suspect boards while they were still operating in the game. A complete set of circuit board logic diagrams was also furnished, as was a set of schematics for the modified GE color monitor.
+
+The cabinet also features overhead mirrors to allow spectators to watch the game while it's being played.
+
+==Gameplay==
+Gameplay is a simulation of an [[Indianapolis 500]] style race, in which players compete by racing each other with simulated [[Indy Racing League|IndyCar]] race cars. The players race blocky cars around a simple track with a top-down overhead view. The player car colors are purple, peach, yellow, green, light blue, white, red and dark blue.
+
+==Reception==
+In March 1976, the first annual ''RePlay'' arcade chart listed ''Indy 800'' as the fourth highest-earning [[1975 in video games|arcade video game of the previous year]] in the United States, below ''[[Tank (video game)|Tank]]'', ''[[Speed Race|Wheels]]'' and ''[[Gun Fight]]''.<ref>{{cite journal |title=The Nation's Top Arcade Games |journal=RePlay |date=March 1976}}</ref> Later in October, ''RePlay'' listed ''Indy 800'' again as the fourth highest-earning [[1976 in video games|arcade video game of 1976]] in the United States, below ''[[Sea Wolf (video game)|Sea Wolf]]'', ''Gun Fight'' and ''Wheels''.<ref>{{cite journal |title=Profit Chart |journal=RePlay |date=October 1976}}</ref> In Japan, it was the tenth highest-grossing arcade video game of 1976.<ref name="GM65">{{cite magazine|title=本紙アンケー 〜 ト調査の結果|trans-title=Paper Questionnaire: Results of the Survey |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=65|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 February 1977|pages=2–3|lang=ja|url=https://onitama.tv/gamemachine/pdf/19770201p.pdf#page=2}}</ref>
+
+==Legacy==
+* A clone of the game, bearing the same name, was released by Atari subsidiary [[Kee Games]].
+* ''Indy 800'' was followed up the following year with a smaller 4 player version entitled ''[[Indy 4 (arcade game)|Indy 4]]''.
+* A scaled down version of ''Indy 800'' was a launch title for the [[Atari 2600]] in 1977, renamed ''[[Indy 500 (1977 video game)|Indy 500]]''.
+
+==References==
+{{Reflist}}
+
+{{1970s Atari arcade games}}
+
+[[Category:1975 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Discrete video arcade games]]
+[[Category:Top-down racing video games]]
+[[Category:Video games developed in the United States]]

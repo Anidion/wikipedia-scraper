@@ -1,0 +1,57 @@
+Castle Adventure
+Permalink: //en.wikipedia.org/w/index.php?title=Castle_Adventure&oldid=1218806127
+Accessed on: 2024-06-26T16:56:28.438559
+
+
+
+------
+Castle Adventure
+{{Short description|Freeware adventure game}}{{more citations needed|date=July 2017}}
+{{Infobox video game
+| title          = Castle Adventure
+| image          = CastleAdventure1.png
+| developer      = Kevin Bales
+| publisher      = [[Freeware]]
+| released       = [[1984 in video gaming|1984]]
+| genre          = [[Adventure game|Adventure]]
+| modes          = [[Single-player]]
+| platforms      = [[MS-DOS]]
+}}
+'''''Castle Adventure''''' is a [[freeware]] [[adventure game]] designed by Kevin Bales and released in [[1984 in video gaming|1984]]. It was also illegally included in Keypunch's ''Swords and Sorcery'' under the title ''Golden Wombat''.<ref name="underdog">{{cite web
+| url = http://www.homeoftheunderdogs.net/game.php?id=3953
+| title = ''Castle Adventure''
+| work = [[Home of the Underdogs]]
+| accessdate = 2010-01-10}}</ref> It uses [[ASCII]] characters to display a castle map and moving creatures.<ref name="moore">{{cite book |last1=Moore |first1=Michael E. |last2=Sward |first2=Jennifer |year=2007 |title=Introduction to the Game Industry: Game design and development |url=https://books.google.com/books?id=_3ohAQAAIAAJ&q=%22Kevin+Bales%22+%22castle+adventure%22+game |publisher=Pearson Prentice Hall |page=4 |isbn=9780131687431}}</ref> It is compiled from [[Microsoft BASIC]]. The [[source code]] has never been released.
+
+==Plot==
+''Castle Adventure'' is a [[dungeon crawl]] with little [[backstory]]. The second screen of the game displays: "You are trapped in a deserted castle and you must escape. It is rumored that the castle is full of treasures. Can you find them all?"
+
+==Gameplay==
+[[Image:Castle Adventure screenshot.png|thumb|left|In the castle courtyard]]
+The player interacts with the environment through a mix of keyboard controls and a [[text parser]]. Items visible on the screen can be picked up by guiding the adventurer over them. For items not on the screen, the player needs to type commands such as: {{mono|get diamond}}.
+
+In order to defeat and defend against monsters, the adventurer must possess a sword. Fighting in ''Castle Adventure'' consists of directing the adventurer into a monster. Though it is not visibly recorded, combatants can sustain only a finite amount of damage, after which either the monster or the adventurer dies (as appropriate).
+
+To complete the game, the adventurer must open a gate in the room from which the game begins, freeing themselves from the castle.
+
+==Development==
+[[Image:Codepage-437.png|thumb|Characters of code page 437]]
+The game uses the [[text mode]] of [[IBM PC compatibles]]. It uses special characters from [[code page 437]] to represent monsters, treasures, weapons, props, castle walls, etc. It could be played on even the earliest IBM PC display equipment, such as the [[IBM Monochrome Display Adapter]] and the [[IBM 5151]] monitor.
+
+==Reception==
+Home of the Underdogs called the game as "one of the most memorable ASCII games of the bygone [[Bulletin board system|BBS]] era".<ref name=underdog /> DOSGames.com noted that the game "is nostalgically remembered by gamers who played it in the DOS era" while giving it 2.5 stars out of five and concluding that "the game itself is rather average, but it does include action and adventure elements, although there is very little plot".<ref name="dosgamescom">{{cite web | url = https://dosgames.com/game/castle-adventure/ | title = ''Castle Adventure at DOSGames.com'' | website = DOSGames.com | accessdate = 2018-09-28}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Internet Archive game| msdos_Castle_Adventure_1984|Castle Adventure}}
+
+[[Category:1984 video games]]
+[[Category:Adventure games]]
+[[Category:DOS games]]
+[[Category:DOS-only freeware games]]
+[[Category:Video games with textual graphics]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in castles]]
+[[Category:Single-player video games]]

@@ -1,0 +1,144 @@
+Ghostbusters (1984 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Ghostbusters_%281984_video_game%29&oldid=1229590692
+Accessed on: 2024-06-26T16:56:52.564334
+
+
+
+------
+Ghostbusters (1984 video game)
+{{Short description|1984 video game}}
+{{Infobox CVG
+|title = Ghostbusters
+|image = gb_box_cover.jpg
+|developer = [[Activision]]<br>James Software <small>(CPC, ZX)</small><br>Bits Laboratory <small>(NES)</small><br>[[Compile (company)|Compile]] <small>(Master System)</small><br>
+|publisher = [[Activision]]<br>[[Tokuma Shoten]] <small>(Famicom)</small><br>[[Sega]] <small>(Master System)</small>
+|designer = [[David Crane (programmer)|David Crane]]
+|programmer = Adam Bellin <small>(C64)</small><br>Robert McNally <small>(Apple)</small><br>[[Glyn Anderson]] <small>(Atari 8-bit)</small><br>Robert Rutkowski <small>(MSX, PCjr/Tandy)</small><br>Dan Kitchen <small>(2600)</small><br>
+|composer = [[Russell Lieblich]] <small>(C64, Apple)</small><br>Tadashi Sou <small>(NES)</small><br>Tohru Nakabayashi <small>(Master System)</small>
+|engine =
+|series = [[List of Ghostbusters video games|''Ghostbusters'']]
+|platforms = [[Commodore 64]], [[Apple II]], [[Atari 8-bit]], [[MSX]], [[IBM PCjr|PCjr]]/[[Tandy 1000]], [[Atari 2600]], [[Amstrad CPC]], [[ZX Spectrum]], [[Nintendo Entertainment System|NES/Famicom]], [[Master System]]
+|released = {{collapsible list
+ | title = October 26, 1984
+ | '''Commodore 64''' {{vgrelease|NA|October 26, 1984<ref>{{cite web |title=Ghostbusters (Registration Number PA0000290824) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=5 May 2021}}</ref>|EU|Late 1984}} '''MSX''' <br> Late 1984 <br> '''Apple II''' {{vgrelease|NA|January 1985<ref name="CE1985">{{cite magazine |title=1985 Index |magazine=[[Computer Entertainer]] |date=January 1986 |volume=4 |issue=10 |page=6 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf#page=6}}</ref>}} '''Atari 8-bit''' {{vgrelease|NA|February 1985<ref name="CE1985"/>}} '''PCjr/Tandy 1000''' {{vgrelease|NA|August 23, 1985<ref>{{cite web |title=Ghostbusters (Registration Number PA0000278161) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=5 May 2021}}</ref>}} '''Atari 2600''' {{vgrelease|NA|October 1985<ref name="CE1985"/>}} '''Amstrad CPC'''<br>{{vgrelease|EU|1985}}'''ZX Spectrum'''<br>{{vgrelease|EU|1984}}'''NES/Famicom'''<br>{{vgrelease|JP|September 22, 1986|NA|October 1988}}'''Master System'''<br>{{vgrelease|NA|May 1987|PAL|October 1989}}
+ }}
+|genre = [[Action game|Action]]
+|modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Ghostbusters''''' is a licensed game by [[Activision]] based on the [[Ghostbusters|film]] of the same name. It was designed by [[David Crane (programmer)|David Crane]] and released for several home computer platforms in 1984, and later for video game console systems, including the [[Atari 2600]], [[Master System]] and [[Nintendo Entertainment System]]. The primary target was the [[Commodore 64]] and the programmer for the initial version of the game was Adam Bellin. All versions of the game were released in the USA except for the [[Amstrad CPC]] and [[ZX Spectrum]] versions, which were released only in Europe, and the [[MSX]] version, which was released only in Europe, South America, and Japan.
+
+In 1984, after the film ''Ghostbusters'' had been launched, John Dolgen VP of Business Development at [[Columbia Pictures]] approached Activision International president [[Gregory Fischbach]] and offered to license the game rights to Activision without specific rules or requests for the design or content of the game, only stipulating that it was to be finished as quickly as possible in order to be released while the movie was at peak popularity. Activision was forced to complete the programming work in only six weeks in contrast to their usual several months of development time for a game. Activision had at the time a rough concept for a driving/maze game to be called "Car Wars", and it was decided to build the ''Ghostbusters'' game from it. Both the movie and the game proved to be huge successes<ref>{{cite web|url=https://www.retrogamer.net/retro_games80/richard-camfield/|title=Richard Camfield - Retro Gamer|website=Retrogamer.net|date=26 March 2014 |access-date=4 January 2019}}</ref> with the game selling over two million copies by 1989.<ref>{{cite web|first=Stephen|last=Advokat|url=https://www.newspapers.com/clip/111968018/detroit-free-press/|title=Movies hit a smaller screen|newspaper=[[Detroit Free Press]]|page=19|date=August 31, 1989|accessdate=October 25, 2022|via=[[Newspapers.com]]}}</ref>
+
+== Gameplay ==
+[[Image:C64_Ghostbusters.png|thumb|left|The city grid (C64)]]
+
+The player sets up a Ghostbusters franchise in a city whose [[psychokinesis|psychokinetic]] (PK) energy levels have begun to rise. At the start of the game, the player is given a set amount of money and must use it to buy a vehicle and equipment for detecting/catching ghosts. They must then move through a grid representing the city, with flashing red blocks indicating sites of ghost activity.
+
+When the player moves to a flashing block, the game shifts to an overhead street view and they must drive to the site, attempting to [[vacuum cleaner|vacuum up]] stray ghosts if the vehicle is equipped to do so. Upon reaching the site, the player must maneuver two Ghostbusters to guide a [[Slimer]] ghost into position to be drawn into a trap. Successfully doing so awards money, but each failure causes the PK energy level to jump and incapacitates one of the player's three team member characters.
+
+The player must return to the Ghostbusters headquarters at intervals to empty the traps and/or revive any incapacitated team members. As the game progresses, the player must also keep free-roaming ghosts from reaching the temple of [[List of Ghostbusters characters#Terror Dogs: Zuul the Gatekeeper and Vinz Clortho the Keymaster|Zuul]] for as long as possible; each one that does so adds to the PK energy level. The ghosts occasionally merge to form the [[Stay Puft Marshmallow Man]], who will attempt to trample a city block. Stopping such an attack earns a bonus, but each failure to do so deducts money.
+
+If the player has not earned more money than the total spent on equipment when the PK energy level reaches its maximum of 9999, the game ends immediately. Otherwise, the player must guide at least two Ghostbusters past Mr. Stay Puft in order to destroy the temple of Zuul. The game ends afterward, with the player earning a reward if successful.
+
+In some versions, including those for the [[Apple IIe]] and [[Commodore 64]], the player is given an account number upon completing the game. Entering this number at the initial screen allows the player to start a [[New Game Plus]] with the cash balance from the end of the previous game, enabling the purchase of more expensive equipment.
+
+==Development==
+Prior to ''Ghostbusters'', [[David Crane (programmer)|David Crane]] was one of the co-founders of [[Activision]], and become a star at the company with games like ''[[Pitfall!]]''.{{sfn|Mott|2007|p=102}} The film was still in production when game development began.{{sfn|Mott|2007|p=102}} Tom Lopez, the Vice President of Activision's product development accquired the license for ''Ghostbusters'' to adapt into a game.{{sfn|Retro Gamer|2006|p=57|ref=RG-MO}}{{sfn|Retro Gamer|2006|p=58|ref=RG-MO}} Lopez went to the game design group{{specify|date=May 2024}} saying the game would have to be made in six weeks, opposed to the normal nine months.{{sfn|Retro Gamer|2006|p=58|ref=RG-MO}}
+
+Crane had been building his own game titled ''Car Wars'' which already featured resource-allocation segments where players could buy different armaments' for their cars based on money the earned on levels. [[Columbia Pictures]] had no specific suggestion of what the game should be, but provided the film's script and some story boards.{{sfn|Retro Gamer|2006|p=58|ref=RG-MO}} Crane applied content from the film into the game, replacing guns, missiles and rocket launchers with more appropriate weapons that the Ghostbusters would use.{{sfn|Retro Gamer|2006|p=58|ref=RG-MO}}
+
+Unlike Crane's earlier games which were predominantly developed by himself, ''Ghostbusters'' was made by a larger game design team, including game art made by Hilary Mills, sound effects and music by Russell Lieblich, and an intro sequence developed by [[Garry Kitchen]], Dan Kitchen and Alex Demeo of Activision's East coast division.{{sfn|Mott|2007|p=102}} Crane would later explain that his philosophy on creating a game on a licensed property would be to work on a game that work within the them of the license and to avoid making a game that borrows the look and feel of the original work, and thus applied this to turning ''Car Wars'' into ''Ghostbusters''.{{sfn|Retro Gamer|2006|p=58|ref=RG-MO}}
+
+The next weeks had the team working around the clock.{{sfn|Retro Gamer|2006|p=58|ref=RG-MO}} Graphics in the game were developed by character artist Hillary Mills after Crane suggested he needed a variety of images, from animals, insects and treasures, and it took a long time to get ghosts that properly resembled ghosts on an 8-bit system.{{sfn|Retro Gamer|2006|p=60|ref=RG-MO}} Midway through development, Crane felt it was important to add digitized speech to the game and decided to add quotes from the film together with a crowd chanting "Ghostbusters!" to capture the spirit of the film.{{sfn|Retro Gamer|2006|p=59|ref=RG-MO}} Crane does not recall who did the digitized voice in the ''Ghostbusters'' game, but had vague memories of walking down the hall from his office getting five or six people to all yell "Ghostbusters!"{{sfn|Retro Gamer|2014|p=63|ref=MovRG}} The music in the game was developed by Russell Lieblich, based on [[Ray Parker, Jr.]]'s "[[Ghostbusters (song)|Ghostbusters]]" theme. and is accompanied by the lyrics to the song in the game. Crane passed the task of creating a bouncing ball sing-a-long to [[Garry Kitchen]] and his game designers, which was added to the game at the very last minute.{{sfn|Retro Gamer|2006|p=60|ref=RG-MO}}{{sfn|Retro Gamer|2006|p=61|ref=RG-MO}} Crane also wanted to have a different victory screen. Crane said "I expected players to be disappointed with it. Sadly, to really beef that one sequence would have taken memory and artists time away from the main game."{{sfn|Retro Gamer|2006|p=60|ref=RG-MO}} The game initially was going to have more elements such as when capturing ghosts, different enemies would show up with different solutions on how to deal with them. The game would also have had more accessories for the vehicle.{{sfn|Retro Gamer|2006|p=61|ref=RG-MO}} 
+
+Crane recalled that it would have been a better game with more development time, but also that it would then not have been such a financial success. Crane spent most of the time ensuring the game had a proper beginning, middle and end and, during final development, predominantly focused on fixing bugs. Crane said, as he does with all his games, he "spent every hour that the schedule allowed tweaking the game, and it came out OK in the end. I could have done a lot more, but in the final analysis it seems to have been enough."{{sfn|Retro Gamer|2006|pp=58-59|ref=RG-MO}}
+
+=== Ports ===
+In 1985, the game was ported to various other systems with little input from Crane. He stated that "By the time a game is being ported to other platforms, the designer of the original game has long since moved on to another original project. This is exactly what happened with ''Ghostbusters''."{{sfn|Retro Gamer|2006|p=58|ref=RG-MO}} In 1985, versions for the [[Amstrad CPC]], [[ZX Spectrum]], [[MSX]], [[Atari 2600]], and [[Atari 8-bit computers]]<ref>{{cite magazine |last=Bernstein |first=Harvey |date=1985-05-01 |title=Product Reviews: Ghostbusters |url=https://archive.org/details/1985-05-anticmagazine/page/n80/mode/1up |magazine=[[Antic (magazine)|Antic]] |access-date=2024-03-03}}</ref> were released.{{sfn|Retro Gamer|2006|p=58|ref=RG-MO}} In a retrospective overview of ''[[Edge (magazine)|Edge]]'', the publication stated that most ports had a "patchy nature".{{sfn|Mott|2007|p=103}} Certain elements of the game are lost in later ports while others add elements. These include the [[Master System]] version which adds on-foot shooting gallery sequences and loses some animations, while the [[Nintendo Entertainment System]] version had different ending and was described by ''Edge'' as having "graphics so primitive it becomes hard to follow most of what's going on."{{sfn|Mott|2007|p=103}}
+
+==Reception==
+{{expand-section|date=May 2024}}
+===Critical response===
+{{Video game reviews
+| A2600 = true
+| SMS = true
+| ZX = true
+|
+| CVG_A2600 = 84%<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+| CVG_SMS = 89%<ref name="CVG"/>
+| CVG_ZX = 33/40<ref>{{cite magazine |title=Software Reviews: Ghostbusters |magazine=[[Computer & Video Games]] |date=16 March 1985 |issue=42 (April 1985) |pages=29–35 (31) |url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue042/Pages/CVG04200031.jpg |access-date=30 October 2014}}</ref>
+| CRASH_ZX = 60%<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue13/Pages/Crash1300111.jpg|title=World of Spectrum - Archive - Magazine viewer|website=Worldofspectrum.org|access-date=30 October 2014}}</ref>
+| SUser_ZX = 7/10<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue036/Pages/SinclairUser03600036.jpg|title=World of Spectrum - Archive - Magazine viewer|website=Worldofspectrum.org|access-date=30 October 2014}}</ref>
+| YSinclair_ZX = 8/10<ref>{{cite web|url=http://www.ysrnry.co.uk/articles/ghostbusters128.htm|title=Ghostbusters|website=Ysrnry.co.uk|access-date=30 October 2014|url-status=dead|archive-url=https://web.archive.org/web/20160101190647/http://www.ysrnry.co.uk/articles/ghostbusters128.htm|archive-date=1 January 2016}}</ref>
+| rev2 = ''Home Computing Weekly''
+| rev2_ZX = {{Rating|5|5}}<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=HomeComputingWeekly/Issue096/Pages/HomeComputingWeekly09600013.jpg|title=World of Spectrum - Archive - Magazine viewer|website=Worldofspectrum.org|access-date=30 October 2014}}</ref>
+| rev3 = ''Sinclair Programs''
+| rev3_ZX = 40%<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairPrograms/Issue8503/Pages/SinclairPrograms850300017.jpg|title=World of Spectrum - Archive - Magazine viewer|website=Worldofspectrum.org|access-date=30 October 2014}}</ref>
+| rev4 = ''ZX Computing''
+| rev4_ZX = 6/10<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8506/Pages/ZXComputing850600032.jpg|title=World of Spectrum - Archive - Magazine viewer|website=Worldofspectrum.org|access-date=30 October 2014}}</ref>
+}}
+
+''[[Antic (magazine)|Antic]]'' in May 1985 called ''Ghostbusters'' the first adaptation to capture both the feel and the theme of the movie on which it is based, calling it enjoyable to play.<ref name="bernstein198505">{{cite news | url=https://archive.org/stream/1985-05-anticmagazine/Antic_Vol_4-01_1985-05_New_Super_Ataris#page/n79/mode/2up | title=Ghostbusters | work=Antic | date=May 1985 | access-date=8 January 2015 | author=Bernstein, Harvey | pages=81}}</ref> 
+
+From retrospective reviews, ''[[Edge (magazine)|Edge]]'' in 2007 called ''Ghostbusters'' "dauntingly good", noting that despite the action sequences expected of a licensed title, the game was a "polished, intelligently-paced", strategic business simulation.{{sfn|Mott|2007|p=101}} ''Retro Gamer'' discussed the original game stating that it remained "an enjoyable (if aged) title to play."{{sfn|Retro Gamer|2006|p=61|ref=RG-MO}} 
+
+Reflecting on the game in 2006, Crane said "The game was a good one, but not my best work ever."{{sfn|Retro Gamer|2006|p=61|ref=RG-MO}} ''Ghostbusters'' actor [[Ernie Hudson]] said that his kids hated the Commodore 64 version of the game, believing that it, "sucked."<ref>{{cite web|url=http://www.eurogamer.net/articles/ghostbusters-ernie-hudson-interview|title=Eurogamer: Ghostbusters' Ernie Hudson Interview|author=Ellie Gibson|date=10 July 2008|work=Eurogamer.net|access-date=30 October 2014}}</ref> The NES port and its gameplay were negatively received.<ref>{{cite web | url=https://bloody-disgusting.com/videos/3599727/fan-made-hack-remasters-improves-original-nes-ghostbusters-game/ | title=Fan-made Hack Remasters and Improves Original NES 'Ghostbusters' Game | date=9 January 2020 }}</ref>
+
+===Sales===
+Mat Allen of ''[[Retro Gamer]]'' described ''Ghostbusters'' as a massive financial success on the [[Commodore 64]].{{sfn|Allen|2006|p=37}} ''Ghostbusters'' topped the monthly UK software sales charts for three months in early 1985, from January to March.<ref>{{cite magazine |title=Software Top 30 |magazine=[[Commodore User]] |date=February 1985 |issue=17 |page=15 |url=https://archive.org/details/commodore-user-magazine-17/page/n14}}</ref><ref>{{cite magazine |title=The Software Top 20: General Chart |magazine=[[Commodore User]] |date=April 1985 |issue=19 |page=48 |url=https://archive.org/details/commodore-user-magazine-19/page/n47}}</ref><ref>{{cite magazine |title=Gallup Chart |magazine=[[Computer Gamer]] |date=April 1985 |issue=1 |page=14 |publisher=[[Argus Press]] |location=United Kingdom |url=https://archive.org/details/Computer_Gamer_Issue_01_1985-04_Argus_Press_GB/page/n14/mode/2up}}</ref> Released before the film in the UK,<ref name="crashxmas8485ghostbusters">{{Cite magazine |series=Christmas Special 1984/85 |title=I'm Afraid of No Ghosts... |url=https://www.crashonline.org.uk/12/news.htm |magazine=Crash |issue=12 |date=13 December 1984}}</ref> it went on to be the UK's fourth best-selling [[1985 in video games|home video game of 1985]].<ref>{{cite magazine |title=News Desk: Exploding Fist tops Gallup 1985 charts |magazine=[[Popular Computing Weekly]] |date=20 March 1986 |page=4 |url=https://archive.org/details/popular-computing-weekly-1986-03-20/page/n3}}</ref>
+
+In 1985, it and ''[[The Print Shop]]'' were reportedly the two most widely [[software piracy|pirated]] Commodore 64 programs.<ref name="peterson198508">{{cite news | url=https://archive.org/stream/Ahoy_Issue_20_1985-08_Ion_International_US#page/n3/mode/2up | title=Editorial | work=Ahoy! | date=August 1985 | access-date=27 June 2014 | author=Peterson, Cheryl | pages=5}}</ref> In ''II Computing'', Michael Ciraolo applied ''[[Billboard (magazine)|Billboard]]'''s charts and the market share of certain computers to compile the most Apple II games by October 1985. ''Ghostbusters'' placed at 8th.{{sfn|Ciraolo|1985|p=51}} By late 1987, it was still  Activision's best-selling Commodore game.<ref name="ferrell198712">{{cite news | url=https://archive.org/stream/1987-12-computegazette/Compute_Gazette_Issue_54_1987_Dec#page/n17/mode/2up | title=The Commodore Games That Live On And On | work=Compute's Gazette | date=December 1987 | access-date=24 January 2015 | author=Ferrell, Keith | pages=18–22}}</ref>
+
+The Amstrad CPC and ZX Spectrum versions of the game were included on the 1986 compilation ''They Sold a Million 3'',<ref name="spectrumcomputing">{{cite web|url=https://spectrumcomputing.co.uk/index.php?cat=96&id=11373|title=They Sold a Million 3|publisher=Spectrum Computing|accessdate=2023-06-16}}</ref><ref>{{cite web|url=http://www.mobygames.com/game/they-sold-a-million-3|title=They Sold a Million 3 for Amstrad CPC (1986) - MobyGames|work=MobyGames|access-date=30 October 2014}}</ref> along with ''Fighter Pilot'', ''[[Rambo (1985 video game)|Rambo]]'' and ''[[Kung-Fu Master (video game)|Kung-Fu Master]]''. The game was also released on ''The Story So Far Volume IV'' in December 1989. It knocked ''[[Daley Thompson's Decathlon]]'' from the top of the UK sales chart.<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue041/Pages/CVG04100062.jpg|title=World of Spectrum - Archive - Magazine viewer|website=Worldofspectrum.org|access-date=30 October 2014}}</ref>
+
+In 1988, [[Mastertronic]] re-released the Amstrad, Commodore, Spectrum and Atari computer versions of ''Ghostbusters'' on their Ricochet label and it went on to become their most successful budget re-release, selling over 450,000 copies.<ref>{{Cite web|title=Mastertronic Style|url=http://www.guter.org/mastertronic/mastertronic_covers4.htm|access-date=2021-01-31|website=www.guter.org|author=Anthony Guter}}</ref>
+
+==Legacy==
+Several film and television licensed games came out for the [[Commodore 64]] following the release of ''Ghostbusters''. A retrospective review noted releases like ''Street Hawk'', ''Knight Rider'', ''Highlander'' and ''Miami Vice'' were described by ''[[Retro Gamer]]'' as "cynical cash-ins" having little to do with their respective shows.{{sfn|Retro Gamer|2006|p=56|ref=RG-MO}}{{sfn|Retro Gamer|2006|p=57|ref=RG-MO}} Crane commented on this stating there is usually no interest in licensing a film until the film itself would generate some actual excitement, and once the film releases, its excitement can only last so long and the all these tasks have to be fit into a compressed schedule, in which a game's programming and design suffers.{{sfn|Retro Gamer|2006|p=57|ref=RG-MO}}
+
+
+== References ==
+{{Reflist}}
+
+===Sources===
+* {{cite magazine|magazine=[[Retro Gamer]]|title=The Making of...Ghostbusters|year=2006|issue=25|ref=RG-MO|ISSN=1742-3155|publisher=Imagine Publishing}}
+* {{cite magazine|magazine=Retro Gamer|title=Movie Licence Awards|year=2014|issue=125|ref=MovRG}}
+* {{cite magazine|magazine=Retro Gamer|title=Activisionaries|last=Allen|first=Mat|issue=25|year=2006|ISSN=1742-3155|publisher=Imagine Publishing}}
+* {{cite magazine|magazine=Retro Gamer|title=Kung Fu Master|issue=140|last=Mason|first=Graeme|year=2015}}
+* {{cite magazine|magazine=[[Edge (magazine)|Edge]]|title=The Making of...Ghostbusters|date=May 2007|publisher=Future Publishing|editor-first=Tony|editor-last=Mott}}
+* {{cite magazine|magazine=II Computing|volume=1|issue=1|title=Top Software: A List of Favorites|last=Ciraolo|first=Michael|date=October 1985}}
+
+== External links ==
+* {{moby game|id=/ghostbusters|name=''Ghostbusters''}}
+* [http://www.the-commodore-zone.com/articlelive/articles/7/1/David-Crane/Page1.html Legends of the C64 article on David Crane (with Ghostbusters info)]
+* [http://www.the-commodore-zone.com/articlelive/articles/1/1/Speech-Box/Page1.html Speech Box - dedicated area to Commodore 64 speech (inc. Ghostbusters)]
+* [http://www.moviegamedatabase.com/pages/g/ghostbusters/ghostbusters.htm All versions of the Ghostbusters games] {{Webarchive|url=https://web.archive.org/web/20070706050602/http://www.moviegamedatabase.com/pages/g/ghostbusters/ghostbusters.htm |date=2007-07-06 }} from [http://www.moviegamedatabase.com The Movie Game Database] {{Webarchive|url=https://web.archive.org/web/20190402144736/https://www.moviegamedatabase.com/ |date=2019-04-02 }}
+* {{WoS game|id=0002025|name=Ghostbusters}}
+*[https://archive.org/details/Computer_Gamer_Issue_03_1985-06_Argus_Press_GB/page/n61/mode/2up Review] in [[Computer Gamer]]
+*[https://archive.org/details/Your_Sinclair_010/page/75/mode/2up Review] in [[Your Sinclair]]
+*[https://archive.org/details/commodore-power-play-15/page/n17/mode/2up?q=ghostbusters Review] in [[Commodore Power/Play]]
+*[https://archive.org/details/analog-computing-magazine-34/page/n51/mode/2up Review] in [[ANALOG Computing]]
+*[https://archive.org/details/Page_6_Issue_16_1985-07_ABACUS_GB/page/n35/mode/2up Review] in [[Page 6]]
+*[https://archive.org/details/Page_6_Issue_24_1986-11_ABACUS_GB/page/n71/mode/2up Review] in [[Page 6]]
+*{{IAg|Ghostbusters_1984_Activision|Ghostbusters|Commodore 64}}
+
+{{Ghostbusters|state=expanded}}
+{{Authority control}}
+
+[[Category:1984 video games]]
+[[Category:Activision games]]
+[[Category:Apple II games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Ghostbusters video games]]
+[[Category:MSX games]]
+[[Category:Master System games]]
+[[Category:Mobile games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Single-player video games]]
+[[Category:Sony mobile games]]
+[[Category:Video games designed by David Crane (programmer)]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]

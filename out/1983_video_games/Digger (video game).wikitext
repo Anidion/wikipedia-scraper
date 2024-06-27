@@ -1,0 +1,63 @@
+Digger (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Digger_%28video_game%29&oldid=1191657121
+Accessed on: 2024-06-26T16:54:52.202762
+
+
+
+------
+Digger (video game)
+{{about|the 1983 video game|the 1979 game released as Digger in North America|Heiankyo Alien|other uses|Digger (disambiguation)}}
+{{short description|1983 video game}}
+{{Infobox video game
+|title = Digger
+|image = Digger video game cover.jpg
+|image_size =
+|developer = [[Windmill Software]]
+|publisher = Windmill Software
+|designer = Rob Sleath
+|released = 1983
+|genre = [[Maze game|Maze]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[IBM Personal Computer|IBM PC]], [[IBM PCjr]]
+|caption = 
+|alt = 
+}}
+
+[[File:Digger.ogg|thumb|250x250px|Game OST]]
+[[File:Digger_Original_PC_Booter_Version_Welcome_Screen.png|thumb|Welcome screen of original 1983 IBM PC version of Digger]]
+[[File:Digger_Original_PC_Booter_Version_Game.png|thumb|The start of a game]]
+
+'''''Digger''''' is a  [[maze game]] released by [[Canada|Canadian]] developer [[Windmill Software]] as a [[self-booting disk]] for [[IBM PC compatibles]]. It is similar to the 1982 arcade game ''[[Mr. Do!]]'' ''Digger'' was developed by Rob Sleath, the primary developer of Windmill games. In 1984, ''Digger'' was converted to run on [[IBM PCjr]] and [[IBM JX]].
+
+==Gameplay==
+Features of ''Digger'' are similar to those in the [[arcade game]]s ''[[Mr. Do!]]'' and ''[[Dig Dug]]''. The player is placed in an underground maze and can dig horizontal and vertical tunnels through it. At least one tunnel already exists at the start of play. At various points on the board are emeralds (usually in clusters) and bags of gold. Monsters (initially in the "nobbin" form) appear at the top-right corner. If earth is excavated from under a gold bag, then the bag will wobble for a few seconds and then drop; if it falls more than one row, it will break open after falling, releasing gold, which can be collected. Bags can be pushed left or right into vertical paths, with similar results. Falling bags will squash monsters, but they will also squash the digger. The digger has a weapon, which fires in a straight line, but takes several seconds to recharge (taking longer as the [[level (video gaming)|levels]] go higher).
+
+Monsters sometimes change from the "nobbin" form to the "hobbin" form, more frequently on higher levels. Hobbins also have the power to excavate and can destroy emeralds and gold bags while doing so.
+
+When a monster is killed, another will appear at the top-right corner of the screen, up to a maximal number, which depends on the level. Once all the monsters for the level have been created, a cherry appears in the top-right corner. If the digger collects this, bonus mode is entered, and for about fifteen seconds (which decreases as the game level gets higher) the digger is able to eat the monsters. Accordingly, the monsters now run away from the digger rather than towards it (similar to ''[[Pac-Man]]'').
+
+A level ends when all the emeralds are gone or all the monsters have been killed.
+
+=== Scoring ===
+The player scores 25 points for collecting an emerald, with a bonus of 250 if eight are collected in immediate succession. Killing a monster by shooting it or dropping a gold bag on it scores 250 points; in bonus mode, the player scores 200 points for eating the first monster, 400 for eating the second, and so on, doubling each time. Collecting gold earns 500 points, and entering bonus mode 1000. A new [[Health (gaming)|life]] is awarded at each multiple of {{val|20000|u=points}}.
+
+== Music ==
+During normal game play "[[Popcorn (instrumental)|Popcorn]]" is used as background music. In bonus mode the ''[[William Tell (opera)|Overture to Wilhelm Tell]]'' by [[Gioachino Rossini]] plays. If the player dies, a rendition of [[Frédéric Chopin]]'s ''[[Piano Sonata No. 2 (Chopin)|Piano Sonata No. 2 in B flat Minor]]'' (also known as ''The Funeral March'') is played, accompanied with a picture of an [[Rest in peace|RIP]] gravestone. Digger used a [[pulse-width modulation]] sound system, which was unusual and advanced for 1983.{{citation needed|date=October 2015}}
+
+==Legacy==
+An [[enhanced remake]] titled ''Digger HD'' was developed by [[Creat Studios]] and released on October 1, 2009 for [[PlayStation 3]].
+
+Multiple unauthorized versions and fan-remakes have been released, most of which still have ''Digger'' in the name. In 1998, Andrew Jenner created a [[free-software]] version under [[GPL]] of the game, ''Digger Remastered'',<ref>{{cite web |title=Digger – Back and Digitally Remastered |url=https://www.digger.org |work=Andrew Jenner |accessdate=15 October 2011}}</ref> by [[reverse engineering]] the original game. In 2000, ''Millennium Digger: The Artful Machine'' was released by Alawar Entertainment. It adds a reimagining of the game with new levels and graphics.<ref>{{Cite web|title=Download Millennium Digger - The Artful Machine 1.5|url=https://millennium-digger-the-artful-machine.soft32.com/|access-date=2021-10-28|website=millennium-digger-the-artful-machine.soft32.com}}</ref><ref>{{Cite web|title=Millennium Digger: The Artful Machine for Windows (2000)|url=https://www.mobygames.com/game/windows/millennium-digger-the-artful-machine|access-date=2021-10-28|website=MobyGames}}</ref> ''Digger Mobile Edition'' runs on mobile phones (or small devices capable of running [[Java Platform, Micro Edition|Java ME]]).<ref>{{cite web |url=https://code.google.com/p/digger-me/ |title=Digger Mobile Edition}}</ref> ''Digger Classic'' is a port of Digger Remastered to [[Android (OS)|Android]].<ref>{{cite web |url=https://play.google.com/store/apps/details?id=com.plasma.digger |title=Digger Classic in the Google Play store}}</ref>
+
+==References==
+{{reflist}}
+
+{{Windmill Software Games}}
+
+[[Category:1983 video games]]
+[[Category:Maze games]]
+[[Category:Video games developed in Canada]]
+[[Category:Video game clones]]
+[[Category:Windows games]]
+[[Category:Windmill Software games]]
+[[Category:Commercial video games with freely available source code]]

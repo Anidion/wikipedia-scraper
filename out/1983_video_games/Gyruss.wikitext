@@ -1,0 +1,126 @@
+Gyruss
+Permalink: //en.wikipedia.org/w/index.php?title=Gyruss&oldid=1224496618
+Accessed on: 2024-06-26T16:55:05.842411
+
+
+
+------
+Gyruss
+{{short description|1983 video game}}
+{{Infobox video game
+|title = Gyruss
+|image = Gyruss arcadeflyer.png
+|caption = European arcade flyer
+|developer = [[Konami]]
+|publisher = {{vgrelease|WW|[[Konami]]|NA|Centuri (arcade)|NA|[[Parker Brothers]] (ports)|NA|[[Ultra Games]] (NES)}}
+|designer = [[Yoshiki Okamoto]]<ref name="giantlist"/>
+|artist = Hideki Ooyama
+|programmer = Toshio Arima
+|composer = '''Arcade'''<br>Masahiro Inoue<br>'''Famicom/NES'''<br>Atsushi Fujio<br>Yuichi Sakakura<br>Harumi Ueko<ref>{{Cite web|url=http://www.vgmpf.com/Wiki/index.php?title=File:Gyruss_-_FDS_-_Credits.png|title=File:Gyruss - FDS - Credits.png - Video Game Music Preservation Foundation Wiki|website=www.vgmpf.com}}</ref>
+|release = {{collapsible list |title=March 1983 |'''Arcade''' {{vgrelease|NA|March 1983<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=27, 113, 121 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n28}}</ref>|JP|June 1983<ref name="Akagi"/>|WW|1983}} '''Atari 2600''', '''Atari 5200''', '''ColecoVision''', '''Atari 8-bit''', '''C64'''
+{{vgrelease|WW|1984}}'''Famicom Disk System'''{{vgrelease|JP|November 18, 1988}}'''NES'''{{vgrelease|NA|February 1989}}<ref>{{cite web | author=Nintendo staff | title=NES Games | url=https://www.nintendo.com/consumer/gameslist/manuals/nes_games.pdf | archive-url=https://web.archive.org/web/20101221005931/http://www.nintendo.com/consumer/gameslist/manuals/nes_games.pdf | publisher=[[Nintendo]] | archive-date=December 21, 2010 | access-date=September 24, 2011}}</ref><br />'''PlayStation'''{{vgrelease|WW|1999}}'''Game Boy Advance'''{{vgrelease|WW|2002}}'''Mobile phones'''{{vgrelease|JP|2004<ref>{{Cite web|url=https://www.konami.com/games/jp/ja/|title=KONAMI コナミ商品・サービス情報サイト|website=KONAMI コナミ商品・サービス情報サイト}}</ref>}}}}
+|genre = [[Shoot 'em up]]
+|modes = [[Single-player]], [[multiplayer]]
+|platforms = [[Arcade video game|Arcade]], [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]], [[Nintendo Entertainment System|NES]], [[Famicom Disk System]], [[PlayStation]], [[Game Boy Advance]], [[Mobile phone]]
+}}
+
+{{nihongo|'''''Gyruss'''''|ジャイラス|Jairasu}} is [[shoot 'em up]] [[arcade video game]] designed by [[Yoshiki Okamoto]] and released by [[Konami]] in 1983.<ref name="giantlist"/> ''Gyruss'' was initially licensed to [[Centuri]] in the [[United States]] for dedicated machines, before Konami released their own self-distributed conversion kits for the game. [[Parker Brothers]] released contemporary ports for home systems. An enhanced version for the [[Family Computer Disk System]] was released in 1988, which was released to the North American [[Nintendo Entertainment System]] in early 1989.
+
+The gameplay is similar to that of ''[[Galaga]]'' in a [[tube shooter]] format, with the player's ship facing into the screen and able to move around the perimeter of an implicit circle. Stars come into view at the centre of the screen and fly outward, giving the impression of the player's ship moving through space.
+
+''Gyruss'' is the second and last game [[Yoshiki Okamoto]] designed for [[Konami]], after ''[[Time Pilot]]''. Due to pay disputes, he was fired after the release of this game, and he soon joined [[Capcom]], where he wrote ''[[1942 (video game)|1942]]'' and produced ''[[Street Fighter II]]''.
+
+==Gameplay==
+[[File:Gyruss Screenshot.png|thumb|left|Commodore 64 version]]
+The graphics are displayed using [[Perspective (graphical)#One-point perspective|one-point perspective]], with the vanishing point in the center of the screen. The player's ship is restricted to a circumference around the edge of the screen and may move in either direction along this path. All shots from the player converge at the vanishing point.
+
+The majority of enemies are spaceships, which must be destroyed to complete a level. They appear either from the centre of the screen or from one of the edges, and move in swirling patterns. They can shoot the player's ship or destroy it by contact. They hover near the centre of the screen after completing their deployment pattern, and occasionally fly outwards and shoot at the player. If not destroyed by the player, the enemy ships gradually fly away one by one.
+
+There are also several other types of enemies: [[satellite]]s, [[asteroid]]s, and [[laser]] beam generators. These appear intermittently and soon disappear of their own accord if not destroyed by the player.
+
+Satellites materialise in a group of three just in front of the player after the ordinary enemy ships have finished deployment. They gyrate in small circles and shoot at the player. If the player has the basic weapon when the satellites appear the middle one will be a sun-like object. If destroyed, the player's ship gets a better weapon. If the better weapon has already been gained then all satellites are identical.
+
+Asteroids fly straight outwards from the centre of the screen at regular intervals. They cannot be destroyed, but a small points bonus is given for shooting at them.
+
+Laser beam generators occasionally fly straight outwards from the centre of the screen. They consist of two generator segments with a laser beam between them; destroying either generator deactivates the beam. The player's ship is destroyed by contact with either the generators or the beam.
+
+The player begins the game "2 WARPS TO [[Neptune|NEPTUNE]]". After completing each level, the player is one warp closer to a planet. Each time a planet is reached, the player's ship is seen flying towards it and then a short [[bonus stage|bonus round]] is played, where the player can shoot enemy ships for bonus points without worrying about being destroyed by them. Each enemy destroyed in the bonus stage scores 100 or 10,000 for all 40. After reaching Neptune, the player is then three warps from [[Uranus]], and progresses through [[Saturn]], [[Jupiter]], [[Mars]], and finally [[Earth]], taking three warps to reach each planet, then repeats thereafter. At stage 1 and every 10th stage thereafter, the enemies do not fire on the player when entering the screen.
+
+After completing Earth's bonus stage, the player must travel through the very fast "3 WARPS TO NEPTUNE" level before he/she can return to the start of the game.
+
+Extra lives will be given at certain point thresholds, varying from one machine to another; but when the player's score is higher than 999,990 points, he/she can no longer obtain score-based extra lives.
+
+==Music==
+The game's background music is an electronic, uptempo arrangement of [[Johann Sebastian Bach|J. S. Bach]]'s ''[[Toccata and Fugue in D minor, BWV 565]]''; this particular track is similar to "Toccata", a [[rock and roll|rock]] arrangement by the UK-based instrumentalist group [[Sky (English/Australian band)|Sky]]. ''Gyruss'' uses [[Stereophonic sound|stereo]] sound, which according to the bonus material for ''[[Konami 80's Arcade Gallery|Konami Arcade Classics]]'', was achieved by utilizing discrete audio circuits.
+
+The audio system consists of five 3-voice [[General_Instrument_AY-3-8910|General Instrument AY-3-8910A]] sound chips.<ref>{{cite web |title=Gyruss |url=https://www.arcade-history.com/?page=detail&id=1063 |website=Arcade History}}</ref>
+
+==Ports==
+[[Parker Brothers]] released contemporary ports for the [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit computers]], [[ColecoVision]], and [[Commodore 64]]. A version for the [[ZX Spectrum]] was coded but never released.
+
+[[Image:Gyruss Title NES.PNG|thumb|right|NES title screen (left) and FDS title screen (right)]]
+
+''Gyruss'' was remade for the [[Family Computer Disk System]] in Japan, and later the [[Nintendo Entertainment System]] in North America, released by Konami's subsidiary [[Ultra Games]]. These versions include several major revisions:
+
+# The player can use a super phaser attack in addition to the normal guns, which cost energy.
+# There are additional enemies, including boss fights when the player reaches each planet.
+# Bonus stages after each planet's boss is defeated, for a chance to gain additional powerups.
+# There is a definite ending to the game. In the NES version, it's a brief text about the Universe being at peace. In the FDS version, there is a full ending sequence with credits.
+# In addition to the satellites providing the usual double guns and bonus points, they can also provide extra phasers, a smart bomb, and even an extra life.
+# Instead of the arcade's 24 stages, there are 39, including [[Venus]], [[Mercury (planet)|Mercury]], and the [[Sun]].
+# The player can enter the [[Konami code]] at the title screen for extra lives, but it must be entered in reverse (A-B-A-B-right-left-right-left-down-down-up-up).
+
+== Reception ==
+In Japan, ''Game Machine'' listed ''Gyruss'' on their July 1, 1983 issue as being the seventh most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=215|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 July 1983|page=29|lang=ja}}</ref> ''Computer Games'' magazine gave the [[ColecoVision]] and [[home computer]] conversions an A− rating, calling it a "very good adaptation of the ''[[Galaga]]''-in-the-round arcade game".<ref name="CG1985">{{cite magazine |title=1985 Software Buyer's Guide |magazine=Computer Games |date=February 1985 |volume=3 |issue=5 |publisher=Carnegie Publications |location=United States |pages=11–8, 51–8 |url=https://archive.org/details/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US/page/n13/mode/2up}}</ref>
+
+==Legacy==
+[[Image:GyrussGBA.PNG|thumb|right|The [[Game Boy Advance|GBA]] port, in ''[[Konami Collector's Series: Arcade Advanced]]'']]
+
+The Famicom version of the game is included in the [[Majesco Entertainment]] TV Game ''Konami Collector's Series: Arcade Advanced'' and was released for Japanese mobile phones in 2004.
+
+''Gyruss'' is included in the compilation ''[[Konami 80's Arcade Gallery]]'', released for both the arcade and [[PlayStation (console)|PlayStation]] (known as ''Konami 80's AC Special'' in western arcades and ''Konami Arcade Classics'' in the North American PlayStation version). It is also part of ''[[Konami Collector's Series: Arcade Advanced]]'' for the [[Game Boy Advance]].<ref name="IGN">{{cite web |last=Harris |first=Craig |title=Arcade Advanced |url=https://www.ign.com/articles/2002/03/26/arcade-advanced |website=[[IGN]] |date=March 26, 2002 |access-date=March 21, 2022}}</ref>
+
+The ''Konami Live!'' Plug and Play PC controller includes an emulated on;ine ''Gyruss'', as well as five other Konami titles.<ref>{{Cite web|url=https://www.gamesindustry.biz/konami-plugs-into-fun-with-konamir-live-online-game-controllers|title=Konami Plugs Into Fun With Konami(R) Live! Online Game Controllers|date=December 8, 2006|website=GamesIndustry.biz}}</ref>
+
+''[[Dance Dance Revolution Ultramix 2]]'' contains a remix of the ''Gyruss'' music as a playable song.
+
+===Clones===
+A bootleg arcade version exists with the name ''Venus''.<ref>{{cite web |title=Venus |url=https://www.arcade-history.com/?n=venus&page=detail&id=3061 |website=Arcade History}}</ref>
+
+''Gyruss'' was cloned as a mini-game in the games ''[[Grand Theft Auto: San Andreas]]'' (named "They Crawled from Uranus") and ''[[Contra: Legacy of War]]''.
+
+===Record===
+The movie "Cannon Arm And the Arcade Quest" follows the current world record holder Kim "Kanonarm" Köbke and friends in Kim's attempt to set a new world record. Kim "Kanonarm" Köbke sets the record of 70,736,950 during a game of 62 hours and 23 minutes in the summer of 2019.<ref>{{cite web |title=Gyruss |url=https://www.twingalaxies.com/scores.php?player=69787 |author=Twin Galaxies |access-date=September 11, 2020}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+}}
+
+==External links==
+* {{KLOV game|id=8060}}
+* [http://www.arcade-history.com/?page=detail&id=1063 ''Gyruss''] at the Arcade History database
+* {{atarimania|id=2361}}
+* [http://gamebase64.com/game.php?id=3370&d=18&h=0 ''Gyruss''] at Gamebase 64
+* [http://www.centuri.net/gyruss.htm ''Gyruss''] at centuri.net
+
+[[Category:1983 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Cancelled ZX Spectrum games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Famicom Disk System games]]
+[[Category:Fixed shooters]]
+[[Category:Game Boy Advance games]]
+[[Category:Konami games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:PlayStation (console) games]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:Ultra Games video games]]
+[[Category:Konami arcade games]]
+[[Category:Video games developed in Japan]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Centuri games]]

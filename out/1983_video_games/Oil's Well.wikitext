@@ -1,0 +1,65 @@
+Oil's Well
+Permalink: //en.wikipedia.org/w/index.php?title=Oil%27s_Well&oldid=1224494419
+Accessed on: 2024-06-26T16:55:31.562267
+
+
+
+------
+Oil's Well
+{{About||the 1929 short film|Oil's Well (film)}}
+{{Infobox video game
+|title= Oil's Well
+|image = Oil's_Well_Cover_Art.jpg
+|image_size =
+|caption = 
+|developer = [[Sierra On-Line]]
+|publisher = Sierra On-Line
+|programmer = '''Atari 8-bit'''<br>Thomas J. Mitchell <ref name=giantlist/><br>'''Apple II'''<br>Ivan Strand <ref name=giantlist/>
+|composer = Ken Allen
+|released = '''1983:''' Apple, Atari, C64<br>'''1984''': ColecoVision, IBM PC<br>'''1985''': MSX, Sharp<br>'''1990:''' MS-DOS
+|genre = [[Maze video game|Maze]]
+|modes = [[Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[ColecoVision]], [[IBM Personal Computer|IBM PC]], [[MS-DOS]], [[MSX]], [[Sharp X1]]
+}}
+
+'''''Oil's Well''''' (a [[pun]] on "all's well") is a video game published by [[Sierra On-Line]] in 1983. The game was written for the [[Atari 8-bit computers]] by Thomas J. Mitchell.<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref> ''Oil's Well'' is similar to the 1982 arcade game ''[[Anteater (video game)|Anteater]]'', re-themed to be about drilling for oil instead of a hungry insectivore. Ports were released in 1983 for the [[Apple II]] and [[Commodore 64]], in 1984 for [[ColecoVision]] and the [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]), then in 1985 for [[MSX]] and the [[Sharp X1]]. A version with improved visuals and without Mitchell's involvement was released for [[MS-DOS]] in 1990.
+
+==Gameplay==
+[[File:Oil's_Well_Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit gameplay]]
+
+The player collects oil for a drilling operation by moving the drill head through a maze using four directional control buttons. The drill bit is trailed by a pipeline connecting it to the base. Subterranean creatures populate the maze; the head can destroy the creatures, but the pipeline is vulnerable. As the player traverses the maze, the pipe grows longer, but pressing a button quickly retracts the head. There are 8 levels to play through.
+
+==Reception==
+''[[ANALOG Computing]]'' said that ''Oil{{'}}s Well'' for the Atari 8-bit was a "truly different and challenging" variant on the "'gobble the dots' theme", with good gameplay and graphics.<ref name="kelley198402">{{Cite magazine |last=Kelley |first=Patrick J. |date=February 1984 |title=Three New Games |url=https://archive.org/details/analog-computing-magazine-16/page/n116/mode/1up?view=theater |magazine=ANALOG Computing |pages=115-116 |access-date=2023-12-07}}</ref>
+
+Dave Stone in ''[[Computer Gaming World]]'' stated that "The action's well-paced, the difficulty progressive. While getting to a higher level is somewhat dependent on getting the right breaks — good eye-hand coordination, timing, and strategy are essential".<ref name="CGW15">{{cite magazine |last=Stone |first=Dave |title=Micro-Reviews |magazine=Computer Gaming World |date=April 1984 |volume=1 |issue=15 |pages=44, 46}}</ref>
+
+''[[Ahoy!]]'' stated that while the Commodore version's graphics and sounds were only "serviceable; gameplay is, in my experience, unique ... Recommended".<ref name="palmer198404">{{cite news | url=https://archive.org/stream/Ahoy_Issue_04_1984-04_Ion_International_US#page/n55/mode/2up | title=Oil's Well | work=Ahoy! | date=April 1984 | access-date=27 June 2014 | author=Davies, Lloyd | pages=57–58}}</ref> ''[[InfoWorld]]'' called the IBM PCjr version "a clever, basic game".<ref name="mace19840813">{{cite news | url=https://books.google.com/books?id=GS8EAAAAMBAJ&pg=PA38PG | title=PCjr: Back to Basics | work=InfoWorld | date=1984-08-13 | access-date=13 January 2015 | author=Mace, Scott | pages=38}}</ref>
+
+The U.S. gaming magazine ''Computer Games'' awarded ''Oil's Well'' the 1984 Golden Floppy Award for Excellence, in the category of "Maze Game of the Year."<ref>{{Cite journal|date=July–August 1984|title=Computer Games Magazine 1984 Golden Floppy Award for Excellence|journal=Computer Games Magazine|page= 18}}</ref>
+
+==Legacy==
+Despite already being a clone of ''Anteater'', several additional clones borrowed the theme of ''Oil's Well'': ''Pipeline Run'' for the Commodore 64 in 1990<ref>{{lemon64 game|id=1937|name=Pipeline Run}}</ref> and ''Oilmania'' for the [[Atari ST]] in 1991.<ref>{{cite web|title=Oil's Well|url=http://www.atarimania.com/game-atari-st-oilmania_10119.html|website=Atari Mania}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{atarimania|id=3772}}
+*{{lemon64 game|id=1822|name=Oil's Well}}
+*{{IAg|a8b_Oils_Well_1983_Sierra_On_Line_US_t|platform=Atari 8-bit family}}
+*[https://archive.org/details/C64Gamevideoarchive38-OilsWell/ Commodore 64 video] at archive.org
+*[https://archive.org/details/games-58-1984-december/page/56/mode/2up Review] in [[GAMES Magazine|''GAMES'' magazine]]
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Maze games]]
+[[Category:MSX games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

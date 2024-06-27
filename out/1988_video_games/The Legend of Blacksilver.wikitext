@@ -1,0 +1,60 @@
+The Legend of Blacksilver
+Permalink: //en.wikipedia.org/w/index.php?title=The_Legend_of_Blacksilver&oldid=1218044587
+Accessed on: 2024-06-26T17:04:34.187197
+
+
+
+------
+The Legend of Blacksilver
+
+{{Infobox video game
+| title = The Legend of Blacksilver
+| image = The Legend of Blacksilver Coverart.png
+| developer = Quest Software
+| publisher = [[Epyx]]
+| released = 1988
+| genre = [[Role-playing video game|Role-playing]]
+| modes = [[Single-player]]
+| platforms = [[Commodore 64]], [[Apple II]]
+}}
+
+'''''The Legend of Blacksilver''''' is a [[fantasy]] [[role-playing video game]] developed by Charles W. Dougherty and John C. Dougherty of Quest, Inc. and published by [[Epyx]] in 1988.<ref name="Woz-a-day">{{cite web |title=Charles W. Dougherty and John C. Dougherty |url=https://archive.org/details/wozaday_The_Legend_of_Blacksilver |website=Internet Archive |publisher=Internet Archive |access-date=2 April 2024}}</ref> It is an indirect sequel to the game ''[[Legacy of the Ancients]]''. Originally designed for the [[Commodore 64]], the game was ported to the [[Apple II]].<ref name="LoB User Handbook">{{cite book |first1=Epyx|last1=N/A |title=The Legend of Blacksilver - C64/Apple II/IBM Manual |date=1988 |publisher=Epyx |location=Meriden, Coventry, United Kingdom . |page=6 | edition=1st |url=https://openretro.org/file/bf4ed5f254c60be84054fd95478d32d0f37d2ff3/Manual%20%28en%29.pdf |access-date=2 April 2024 |ref=6}}</ref>
+
+==Plot==
+[[File:LegendBlacksilver Twn.png|thumb|Town Scene from Commodore 64 version]]
+The principal character in the game is first contacted by Princess Aylea in a dream-vision, she wakes the player by telling that that she needs a hero wher others have failed and when the player askes "Why me?" and she begins to tell the player a story. They are told that the evil Baron Taragas from the Kingdom of Maelbane has discovered the legendary material 
+"Blacksilver" and has conspired with a local baron, Baron Mantrek. Supposedly in the hands of evil, Blacksilver could be used to create weapons of mass destruction. Princess Aylea instructs the character to rescue her father, King Durek, who was leading an army on Baron Taragas but was then captured by the evil Baron.<ref name="LoB User manuel story">{{cite book |first1=Epyx|last1=N/A |title=The Legend of Blacksilver - C64/Apple II/IBM Manual |date=1988 |publisher=Epyx |location=Meriden, Coventry, United Kingdom |page=1 |edition=1st |url=https://openretro.org/file/bf4ed5f254c60be84054fd95478d32d0f37d2ff3/Manual%20%28en%29.pdf |access-date=2 April 2024 |ref=1}}</ref>
+
+==Development==
+
+''The Legend of Blacksilver'' uses an improved version of the [[game engine]] used in its predecessor, ''Legacy of the Ancients'', which in turn was loosely based on the engine used in the ''[[Questron]]'' series. The game is written in [[BASIC]] supplemented with a few disk, sound, and graphics routines coded in [[machine language]] for speed. Initially released for the [[Commodore 64]] it was later ported over to the [[Apple II]], and a full PC version was planned to release but never did.<ref name="ACE">{{cite news |last1=N/A |first1=N/A |title=Legend of Blacksliver: EPYX/ US Gold summon the boel roots |url=https://archive.org/details/ace-magazine-18/page/n95/mode/2up?view=theater |access-date=2 April 2024 |agency=Game Information |issue=18 |publisher=Advanced Computer Entertainment |date=March 1989 |ref=p 96}}</ref>
+
+==Gameplay==
+
+The game is mainly played in a top down style that sees the character moving through various environments within the world. while mainly sticking to the top down style within towns, citadels, dungeons, temples, etc. It moves into a faux 3D style when the player enters dungeon. It features a turn based style of combat when it comes to confronting enemies as well as NPC interaction. With the game being entirely turn based if the player decides to sit still turns will pass them by every few seconds. When encountering monsters players will find themselves with four options, those being attacking, talking, stalking, or waiting. This however does not transfer over to Dungeons as every monster you encounter within them is immediately hostile towards the player. The player does not gain experience through combat but has access to the ability to upgrade attributes such as armor, rank, or beating game masters in temples. The player has the ability to purchase spells in different towns though some may have a level requirement. The player also has a multitude of ways to gain money in the game such as fighting monsters, finding treasure, robbing merchants, looting temples, gambling, and odd jobs.<ref name="LoB User manuel story">{{cite book |first1=Epyx|last1=N/A |title=The Legend of Blacksilver - C64/Apple II/IBM Manual |date=1988 |publisher=Epyx |location=Meriden, Coventry, United Kingdom |page=1 |edition=1st |url=https://openretro.org/file/bf4ed5f254c60be84054fd95478d32d0f37d2ff3/Manual%20%28en%29.pdf |access-date=2 April 2024 |ref=1}}</ref>
+
+==Reception==
+''[[Computer Gaming World]]'' gave the game a mixed review, saying that "the game is fine on a technical level, but on an artistic level it seems to be a rehash of a thousand other games, with nothing new or interesting for experienced players".<ref name = "CGW">{{Cite magazine | issue = 57 | date = March 1989 | last = Seacat | first = Douglas | magazine = [[Computer Gaming World]] | title = The Source of Magic | pages = 34, 52}}</ref>
+
+The game was reviewed in 1989 in ''[[Dragon (magazine)|Dragon]]'' #144 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 4 out of 5 stars.<ref name="Dragon144">{{cite journal
+|title=The Role of Computers
+|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk
+|journal=Dragon
+|issue=144
+|date=April 1989
+|pages=60–68}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{lemon64 game|id=1506}}
+
+{{DEFAULTSORT:Legend of Blacksilver, the}}
+[[Category:1988 video games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:Epyx games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,75 @@
+Section Z
+Permalink: //en.wikipedia.org/w/index.php?title=Section_Z&oldid=1230773438
+Accessed on: 2024-06-26T16:59:07.429193
+
+
+
+------
+Section Z
+{{Short description|1985 arcade game}}
+{{Infobox video game
+|title     = Section Z
+|image     = Section Z (brochure).png
+|caption   = The arcade flyer that takes inspiration from the movie [[Alien (film)|Alien]] (1979)
+|developer = [[Capcom]]
+|publisher = Capcom
+|composer  = '''FDS/NES version'''<br>Kumi Yamaga &<br>[[Tamayo Kawamoto]]
+|designer  = [[Takashi Nishiyama]]
+|released  = '''Arcade'''{{vgrelease|JP|December 9, 1985<ref>{{cite web |title=Section Z (Registration Number PA0000291860) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=10 May 2021}}</ref>|NA|December 1985}}'''Famicom Disk System'''{{vgrelease|JP|May 25, 1987}}'''NES'''{{vgrelease|NA|July 1987}}{{vgrelease|EU|1987}}
+|genre     = [[Scrolling shooter]]
+|modes     = 1-2 players alternating turns
+|platforms = [[Arcade video game|Arcade]], [[Nintendo Entertainment System|NES]], [[Famicom Disk System]]
+}}
+
+{{nihongo|'''''Section Z'''''|セクションZ|Sekushon Z}} is a horizontally [[scrolling shooter]] by [[Capcom]], released as an [[arcade video game]] in 1985. A home version was published for the [[Nintendo Entertainment System]] in 1987.
+
+The arcade version was re-released as part of ''[[Capcom Classics Collection|Capcom Classics Collection Vol. 1]]'' for [[PlayStation 2]] and [[Xbox (console)|Xbox]], ''[[Capcom Classics Collection#Capcom Classics Collection Remixed|Capcom Classics Collection Remixed]]'' for [[PlayStation Portable]], and ''[[Capcom Arcade Cabinet]]'' for [[Xbox 360]] and [[PlayStation 3]].
+
+==Plot==
+Set in an unspecified year during the [[third millennium]], the player takes the role of an astronaut  sent to infiltrate and destroy a space station orbiting near the Earth that is actually the secret base of an alien empire known as the "Balangool".<ref name=acmanualp5>{{cite video game|title=Section Z|developer=Capcom|platform=Arcade|level=Operator's manual, page 5}}</ref><ref name=acbrochure>{{cite web|url=http://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=953|title=The Arcade Flyer Archive - Video Game Flyers: Section Z, Capcom}}</ref>
+
+==Gameplay of the arcade version==
+The player maneuvers the space ranger throughout the enemy [[space station]], which consists of 26 alphabetically ordered corridors known as "sections", starting from Section A and ending at the titular Section Z. The game is divided into five stages, each consisting of five sections (except the final stage, which has six sections to accommodate the spare letter). The player will fight an enemy [[boss (video games)|boss]] at the end of each stage, concluding with the final battle against the "L Brain" at Section Z. The game's stages alternates between horizontal-scrolling stage (left or right) and upwards vertical-scrolling stages. The player will lose a life every time they get hit by enemy fire. Additional lives can be obtained if the player achieves a high enough score. The game will be over if the player loses all of their lives, although a chance to continue will be provided.
+
+The controls consist of an eight-way [[joystick]] and two buttons, one for shooting and the other for changing the character's aim to the left or right. This allows the player to shoot in one direction while moving away towards the opposite. The player will shoot their rifle towards the left or the right with the fire button, while dropping bombs at the same time to the ground. By destroying certain dome-shaped containers, the player can obtain one of three power-up items represented by letters: S, P, and B. S increases the player's mobility speed, while P increases their firing power; each can improved for up to three increments. However, these power-ups will be lost whenever the player loses a life. The B item will simply give the player bonus points.<ref name=acmanualp5/>
+
+==Famicom/NES version==
+A console version of ''Section Z'' was released for the [[Nintendo Entertainment System]] in [[North America]] and [[Europe]] in [[1987 in video gaming|1987]]. The gameplay was altered for the NES port, particularly in its level design and game controls.
+
+The NES version features three stages, each comprising 20 sections (for a total of 60 sections), which are full-fledged levels in this version, although not all sections need to be visited to complete the game. In contrast to the alphabetical sections in the [[Arcade game|arcade]] version, the sections in the NES version are numbered. The first stage, Section 00, is the outer perimeter of the space station and then proceeds to enter Section 01, the first actual corridor of the base. At the end of most sections, the player will choose to enter one of two transporters, each taking player to a different section of the base. Some transporters will take the player to a previous section while others cannot be opened until the player has fulfilled a certain condition and will kill the player if they try to enter. The objective of each stage is to destroy the two power generators located at different sections of each stage in order to open the path to the final section of each stage (Sections 19, 39, and 59 in that order) and face the boss.<ref name=nesmanualp7>{{cite video game|title=Section Z|developer=Capcom|platform=Nintendo Entertainment System|level=Instruction manual, page 7}}</ref>
+
+Instead of using one button to fire and the other to turn around, the player now uses one button to fire in one direction and the other to fire in the opposite.<ref name=nesmanualp5>{{cite video game|title=Section Z|developer=Capcom|platform=Nintendo Entertainment System|level=Instruction manual, page 5}}</ref> The player starts with a standard-issue laser rifle and can upgrade their weapon into a Flash Buster (which fires medium-range bullets in three directions) or a Megasmasher (which fires wider v-shaped laser beams). Either weapon can be upgraded into the Mega Buster, which provides both, wider-long range shots in three directions. The player can also obtain a Barrier Shield that will protect the player character for 32 shots.<ref name=nesmanualp8>{{cite video game|title=Section Z|developer=Capcom|platform=Nintendo Entertainment System|level=Instruction manual, page 8}}</ref>
+
+The player also has a numeral indicator which represents their remaining energy, which will gradually be depleted when the player takes damage from enemy bullets or when the player loses a life by touching an enemy. However the player can still continue at the beginning of their current section, even if they lose all of their lives, as long as they still have energy left. When all energy is lost, the player is sent the start of the stage with full energy to start all over. The maximum energy can be increased by destroying the power generators in each stage. The player can also summon as a special [[Transmission Control Protocol|transmission]] shell by pressing both button simultaneously. These include a Mega Missile, a Flash Bomb, and a Crush Ball.<ref name=nesmanualp9>{{cite video game|title=Section Z|developer=Capcom|platform=Nintendo Entertainment System|level=Instruction manual, page 9}}</ref> Picking these shells and using them will cost the player four energy points.<ref name=nesmanualp5/>
+
+The Famicom version in Japan was released in Disk Card format for the [[Family Computer Disk System]] add-on. In contrast to its NES counterpart, which makes the player complete the game in one sitting, the Disk System allowed players to save their progress in one of three save files. After a game over, the player can quit the game and resume where they left off by loading the save file. The English [[Localization of Square Enix video games|localization]] of the game's manual identifies the main character as "Captain Commando", a fictional spokesman for Capcom USA who later starred in his own [[Captain Commando|video game]].<ref name=nesmanualp6>{{cite video game|title=Section Z|developer=Capcom|platform=Nintendo Entertainment System|level=Instruction manual, page 6}}</ref>
+
+== Reception ==
+In Japan, ''Game Machine'' listed ''Section Z'' on their January 15, 1986 issue as being the eighth most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=276|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 January 1986|page=21|lang=ja}}</ref>
+
+In 2016, Federico Tiraboschi of ''Hardcore Gaming 101'' compared ''Section Z'' to [[Namco]]'s ''[[Baraduke]]'', released earlier in 1985. He noted that in "both games the players control a free-range spaceman with a jetpack traversing a number of sectors scrolling both horizontally and vertically," but that "in ''Baraduke'' the player characters are affected by gravity and their gun's recoil."<ref name="HG101">{{Cite web|last=Tiraboschi|first=Federico|url=https://hg101.kontek.net/baraduke/baraduke.htm|title=Hardcore Gaming 101: Baraduke|website=Hardcore Gaming 101|date=April 19, 2016|access-date=2018-03-01}}</ref>
+
+[[IGN]] listed ''Section Z'' as the 90th greatest game for the NES. Praising the game's "nonlinear path", the publication wrote, "It was unique, novel and also pretty confusing. But mastery of navigation in Section Z was a true badge of honor to hold in the NES age".<ref>{{Citation |title=Top 100 NES Games - IGN.com |url=https://www.ign.com/lists/top-100-nes-games |access-date=2023-07-06 |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|9465}}
+*{{moby game|id=/section-z |name= ''Section Z''}}
+
+{{DEFAULTSORT:Section Z}}
+[[Category:1985 video games]]
+[[Category:Arcade video games]]
+[[Category:Capcom games]]
+[[Category:Famicom Disk System games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:PlayStation 3 games]]
+[[Category:PlayStation Network games]]
+[[Category:Science fiction video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games scored by Tamayo Kawamoto]]
+[[Category:Xbox 360 Live Arcade games]]

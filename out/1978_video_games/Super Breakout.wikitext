@@ -1,0 +1,87 @@
+Super Breakout
+Permalink: //en.wikipedia.org/w/index.php?title=Super_Breakout&oldid=1224496012
+Accessed on: 2024-06-26T16:47:59.872620
+
+
+
+------
+Super Breakout
+{{Short description|1978 video game}}
+{{Infobox video game
+|title = Super Breakout
+|image = Super Breakout cover.jpg
+|caption = Atari 8-bit box cover
+|developer = [[Atari, Inc.]]<br>Paradox (ST)
+|publisher = '''Arcade''' {{vgrelease|NA/EU|[[Atari, Inc.]]|JP|[[Namco]]/[[Hayao Nakayama|Esco]]<ref>{{cite web |title=Super Break Out |url=https://mediaarts-db.bunka.go.jp/id/M732798 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=25 May 2021}}</ref>}} '''Ports'''<br>Atari, Inc. (2600, 5200, Atari 8-bit)<br>Atari UK (ST)<br>Majesco (Game Boy)
+|platforms = [[Arcade video game|Arcade]], [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]], [[Atari ST]], [[Game Boy]], [[Game Boy Color]]
+|genre = [[Breakout clone|''Breakout'']]
+|modes = '''Arcade, 2600, 5200'''<br>1–2 players alternating turns<br>'''Atari 8-bit'''<br>1–8 players alternating turns<ref name=8man/>
+|arcade system = 
+|designer = Ed Rotberg
+|programmer = '''Arcade'''<ref name=giantlist/><br>Ed Rotberg<br>'''Atari 2600'''<ref name=giantlist/><br>Nick Turner<br>[[Carol Shaw]]<br>'''Atari 8-bit'''<ref name=giantlist/><br>[[Larry Kaplan]]<br>'''Game Boy'''<ref name=giantlist/><br>[[David Lubar]]
+|release = '''September 1978:''' Arcade<ref name="Atari"/><ref name=ahist/> <br>'''1979:''' Atari 8-bit<br>'''1981:''' Atari 2600<br>'''1982:''' Atari 5200<br/>'''1987:''' Atari ST<br/>'''1998:''' Game Boy, GB Color
+}}
+
+'''''Super Breakout''''' is a sequel to the 1976 video game ''[[Breakout (video game)|Breakout]]'' released in [[Arcade video game|arcades]] in September 1978 by [[Atari, Inc.]]<ref name=ahist/> It was written by Ed Rotberg.<ref name=giantlist/> The game uses the same mechanics as ''Breakout'', but allows the selection of three distinct game modes via a knob on the cabinet—two of which involve multiple, simultaneous balls in play.<ref name="ahist"/> Both the original and sequel are in black and white with monitor overlays to add color. It was distributed in Japan by [[Namco]] and [[Hayao Nakayama|Esco Trading]].
+
+The arcade game was commercially successful in Japan and the United States. Atari published home versions–in color–for most of its consoles and computers and was the pack-in game for the 1982 release of the [[Atari 5200]] console.
+
+==Gameplay==
+The fundamental gameplay—use a paddle to bounce a ball into a wall of destructible bricks—is the same as ''Breakout'', but ''Super Breakout'' contains three different game modes:
+
+'''Double''' gives the player control of two paddles at the same time—one placed above the other—with two balls in-play simultaneously.
+
+'''Cavity''' also has two paddles, but initially only one ball. Two others are contained in pockets inside the wall and can be freed.
+
+'''Progressive''' advances the entire wall downward step by step, gaining in speed the longer the ball is in play.
+
+==Development==
+The game was written by Ed Rotberg, who later designed ''[[Battlezone (1980 video game)|Battlezone]]'' (1980) for Atari.<ref name=giantlist/> Rotberg developed ''Super Breakout'' after hearing that Atari founder [[Nolan Bushnell]] wanted ''Breakout'' updated.<ref name="WiredEdLogg">{{cite magazine |url=https://www.wired.com/gamelife/2011/11/ed-logg-pioneer-award/ |author=Chris Kohler |title=Asteroids Designer Ed Logg Honored With Pioneer Award |magazine=[[Wired (magazine)|Wired]] |publisher=[[Condé Nast Publications]] |date=November 17, 2011 |accessdate=December 28, 2013}}</ref> While the original was constructed with discrete logic instead of a microprocessor, ''Super Breakout'' uses a [[MOS Technology 6502]] CPU. Like ''Breakout'', ''Super Breakout'' uses a black and white display with overlays to simulate color.<ref name=ahist/>
+
+==Ports==
+''Super Breakout'' appeared as a cartridge for [[Atari 8-bit computers]] in 1979 with support for up to 8 players taking turns.<ref name=8man/>  A port for the Atari VCS (later renamed the [[Atari 2600]]) was available at the end of 1981, initially as a Sears exclusive release under the Tele-Games branding.<ref>{{cite web |title=Sears 1981 Wish List |url=https://christmas.musetechnical.com/ShowCatalogPage/1981-Sears-Christmas-Book/0666| website=Christmas Catalogs & Holiday Wishbooks|page=664}}</ref> An Atari branded version was then released in January 1982.<ref>{{cite web |title=Atari Product Release, January 6th, 1982 |url=https://archive.org/details/favoritearcadegamesandlatestcreations/page/n1/mode/2up| website=archive.org |date=6 January 1982 |page=2}}</ref>  The VCS port includes two "Children's Version" games that require less skill to play.  Four years after release, ''Super Breakout'' became the pack-in game for the then-new [[Atari 5200]] console in 1982. Prior home versions use paddle controllers; the 5200 port uses the system's analog joysticks.
+
+An [[Atari ST]] version developed by Paradox was published by Atari UK in 1987.<ref name="mania_st">{{cite web |title=Atari ST Super Breakout |url=http://www.atarimania.com/game-atari-st-super-breakout_11444.html |website=Atari Mania}}</ref> Majesco released ''Super Breakout'' for the [[Game Boy]] in 1998 and [[Game Boy Color]] in 1999. Both the Atari ST and Game Boy versions have sculpted bricks similar to those of the ''Breakout''-inspired ''[[Arkanoid]]''.<ref name="mania_st"/>
+
+All of the home ports also include a version of the original ''Breakout'' game.<ref name="800manual">{{cite web |title=Atari 400/800 Super Breakout Manual |url=https://archive.org/details/SuperBreakoutAtari |website=archive.org|year=1979}}</ref>
+
+==Reception==
+In Japan, it was the ninth-highest-earning [[1978 in video games|arcade video game of 1978]].<ref name="GM113">{{cite magazine|title=人気マシン・ベスト3|trans-title=Popular Machines: Best 3 |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=113|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=February 1979|pages=2–3|lang=ja|url=https://onitama.tv/gamemachine/pdf/19790201p.pdf#page=2}}</ref> In the United States, it was the eighth-highest-earning [[1979 in video games|arcade video game of 1979]].<ref name="RePlay">{{cite journal |title=Video Games |journal=RePlay |date=November 1979}}</ref> Atari sold a total of 4,805 ''Super Breakout'' [[arcade cabinet]]s.<ref name="Atari">{{cite book |title=Product: Total Build |url=http://www.atarigames.com/atarinumbers90s.pdf |publisher=[[Atari Games]] |year=1999 |access-date=2021-05-09 |archive-date=2021-04-17 |archive-url=https://web.archive.org/web/20210417061521/http://www.atarigames.com/atarinumbers90s.pdf |url-status=dead }}</ref>
+
+In regard to ''Super Breakout'' being included with every Atari 5200, [[David H. Ahl]] of ''[[Creative Computing]] Video & Arcade Games'', wrote in 1983:{{blockquote|We thought this a somewhat curious choice since it hardly uses the higher resolution of the 5200 to great advantage. The screen, for example, has the same number of bricks as ''Super Breakout'' on the Atari VCS. However, users of the VCS will like the much better representation of alphanumerics on the 5200.<ref name=ahl1983spring>{{Cite magazine |last=Ahl |first=David H. |author-link=David H. Ahl |date=Spring 1983 |title=Atari 5200 Advanced Game System |url=http://www.atarimagazines.com/cva/v1n1/atari5200.php |magazine=Creative Computing Video & Arcade Games |page=46}}</ref>}}
+
+In 1995, ''[[Flux (magazine)|Flux]]'' magazine ranked ''Super Breakout'' 93rd on their "Top 100 Video Games".<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n31/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=32 |access-date=August 4, 2022}}</ref>
+
+==Legacy==
+For [[Kid Stuff Records]], [[John Braden (musician)|John Braden]] recorded a 7-in 33{{fraction|1|3}} RPM record telling the story of ''Super Breakout''. This [[science fiction]] story dealt with [[NASA]] astronaut Captain John Stewart Chang returning from a routine mission transporting [[titanium]] [[ore]] from [[Io (moon)|Io]] to space station New California. He encounters a rainbow barrier, presumably a force of nature, that seems to have no end on either side. He has three lobbing missiles of white light that he can bounce off the hull of his shuttle, and they prove able to break through the layers of the force field. With his life support systems failing, what follows is a test of endurance turned game as he strives to break through the barrier in space.<ref>Braden, John. ''Story of Atari Super Breakout'', Kid Stuff Records, 1982.</ref>
+
+[[Glu Mobile]] released a licensed cellular phone version.<ref>{{cite web|url=http://www.glu.com/noram/pages/product.aspx?pr=Super+Breakout|url-status=dead|archive-url=https://web.archive.org/web/20080924053205/http://www.glu.com/noram/pages/product.aspx?pr=Super+Breakout|archive-date=2008-09-24|access-date=2016-06-20|title=glu games - Super Breakout}}</ref> In 2008, Atari released the game for the [[iPhone]] and [[iPod Touch]] via Apple's [[App Store (iOS)|App Store]].
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+<ref name="ahist">{{cite web |title=Super Breakout |url=https://www.arcade-history.com/?n=super-breakout&page=detail&id=2700 |website=Arcade History}}</ref>
+<ref name=8man>{{cite book |title=Super Breakout Manual |date=1979 |publisher=Atari, Inc. |location=Sunnyvale, CA}}</ref>
+}}
+
+==External links==
+* {{KLOV game}}
+* {{atarimania|id=7848}}
+* {{atarimania|id=5152}}
+* {{atarimania|id=14926}}
+
+{{Breakout series}}
+{{1970s Atari arcade games}}
+
+[[Category:1978 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Game Boy Color games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Paddle-and-ball video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer hotseat games]]

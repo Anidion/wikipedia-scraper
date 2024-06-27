@@ -1,0 +1,56 @@
+Pedit5
+Permalink: //en.wikipedia.org/w/index.php?title=Pedit5&oldid=1197282919
+Accessed on: 2024-06-26T16:47:32.105448
+
+
+
+------
+Pedit5
+{{Use dmy dates|date=March 2020}}
+{{Short description|1975 video game}}
+{{Infobox video game
+| title          = ''pedit5''
+| italic title   = no <!-- Conflicts with DISPLAYTITLE -->
+| collapsible    =
+| state          =
+| image          = [[File:Pedit5_gameplay.png|Pedit5.png|center|250px]]
+| caption        = pedit5 gameplay
+| developer      =
+| publisher      =
+| series         =
+| engine         =
+| released       = {{Video game release|NA|Late 1975}}
+| genre          = [[Dungeon crawl]], [[Role-playing video game|role-playing game]]
+| modes          =
+| platforms      = [[PLATO (computer system)|PLATO]]
+| designer       = Rusty Rutherford
+}}
+{{DISPLAYTITLE:''pedit5''}}
+'''''pedit5''''', alternately called '''''The Dungeon''''', is a 1975 [[dungeon crawl]] [[role-playing video game]] developed for the [[University of Illinois Urbana-Champaign]]'s [[PLATO (computer system)|PLATO]] computer network by Rusty Rutherford. In it, the player controls a character exploring a fixed, single-level dungeon containing randomly-generated monster encounters and treasure. When they encounter a monster, they can fight the monster with a weapon or spells, or attempt to flee. Characters can be saved between sessions. 
+
+Rutherford developed the game over four to six weeks in late 1975 as a computerized take on the ''[[Dungeons & Dragons]]'' [[role-playing game]]; it was named ''pedit5'' as it was stored in the fifth "pedit" slot his school group had available.{{Explain|reason=what is a pedit|date=January 2024}} It is considered to be the first example of a dungeon crawl video game and one of the first computer role-playing games. An improved version was later created on the PLATO network as ''orthanc''.
+
+==Gameplay==
+''pedit5'' is a [[dungeon crawl]] [[role-playing video game]], in which the player guides a [[player character|character]] who wanders a single-level [[dungeon]] accumulating treasure and killing monsters. When a player encounters a monster, they can use one of several [[spell (gaming)|spells]]. Characters can be saved from one play session to the next.<ref>{{cite book |last1=Tresca |first1=Michael |title=The Evolution of Fantasy Role-Playing Games |date=10 January 2014 |publisher=McFarland |isbn=978-0786460090 |page=102}}</ref> The dungeon is rendered in a two-dimensional overhead view using on-screen character graphics, and controlled via keyboard commands. The dungeon has a fixed layout, but the monster encounters and treasure are randomly generated.<ref name="ieee insight"/> They are generated whenever a new character was created, and saved with the character. When the player encounters a monster, they can choose to fight, cast a spell, or run; if the player does not immediately defeat or flee the monster, the player-character and monster fight to the death in a battle controlled by the game without further player input.<ref name="DnD4344">{{cite book |title=Dungeons and Desktops: The History of Computer Role-Playing Games |edition=2nd |last1=Barton |first1=Matt |last2=Stacks |first2=Shane |date=2019 |publisher=[[CRC Press]] |isbn=978-1-138-57464-9 |pages=43–44}}</ref>
+
+==Development==
+The game was developed by Rusty Rutherford over four to six weeks in late 1975 for the [[University of Illinois Urbana-Champaign]]'s [[PLATO (computer system)|PLATO]] computer network, which by the 1970s supported several thousand [[graphical terminal]]s distributed worldwide, running processes on nearly a dozen different networked [[mainframe computer]]s.<ref name="DnD4344"/><ref name="GS">{{cite web |title=A History and Analysis of Level Design in 3D Computer Games |last=Shahrani |first=Sam |url=http://www.gamasutra.com/view/feature/2674/educational_feature_a_history_and_.php |work=[[Gamasutra]] |publisher=[[UBM plc|UBM]] |date=2006-04-05 |access-date=2017-09-05 |url-status=live |archive-url=https://web.archive.org/web/20121202085904/http://www.gamasutra.com/view/feature/2674/educational_feature_a_history_and_.php |archive-date=2012-12-02}}</ref><ref name="armchair_rutherford">{{cite web |author=Rusty Rutherford |title=The Creation of PEDIT5 |url=http://armchairarcade.com/neo/node/1948 |date=31 August 2008 |publisher=Armchair Arcade |access-date=23 February 2010 |archive-url=https://web.archive.org/web/20110707162725/http://armchairarcade.com/neo/node/1948 |archive-date=7 July 2011 |url-status=dead}}</ref> Rutherford had been playing the [[role-playing game]] ''[[Dungeons & Dragons]]'' since earlier in the year, and wanted to create a video game based on the concept. He knew of another game based on the same concept that was under development in the PLATO system, under the title ''[[Dnd (1974 video game)|dnd]]'', but as it had not yet been finished he wanted to start on his own version. As the ''dnd'' project had promised to be a multiplayer game but had not yet been able to deliver the feature—nor would it—he set out to create a single-player game. Rutherford tried to use ''Dungeons & Dragons'' concepts as much as possible, including hit points, levels, and experience and treasure rewards for defeating monsters. The player-character was a combination of a fighter, magic user, and cleric. The limitations of the system required Rutherford to compromise on size; the dungeon was limited to 40-50 rooms on a single level, and the game could only store 20 players at a time, which Rutherford later said was a large problem when the game became popular.<ref name="DnD4344"/>
+
+The game was named ''pedit5'' as Rusty Rutherford was a member of the Population and Energy Group at University of Illinois, Urbana-Champaign; each group was assigned a limited number of program slots on the school's mainframe, with the Population and Energy Group having program slots names "pedit1" through "pedit5". The group had used the first three slots, and Rutherford was able to code his game into the fifth slot, which became the game's default name. Rutherford used pedit4 for the game's manual.<ref>{{cite web |last1=Moss |first1=Richard |title=Want to see gaming's past and future? Dive into the "educational" world of PLATO |url=https://arstechnica.com/gaming/2016/10/want-to-see-gamings-past-and-future-dive-into-the-educational-world-of-plato/ |website=Ars Technica |accessdate=9 August 2019 |language=en-us |date=29 October 2016}}</ref> Because at the time the game was not deemed appropriate for use of the resources by system administrators ''pedit5'' was eventually deleted, but Rutherford continually restored it.<ref name="ieee insight">{{cite web | url = https://insight.ieeeusa.org/articles/going-rogue-a-brief-history-of-the-computerized-dungeon-crawl/ | title = Going Rogue: A Brief History of the Computerized Dungeon Crawl | first = Nathan | last = Brewer | date = 7 July 2016 | accessdate = 15 September 2016 | work = Insights | publisher = [[IEEE]] USA}}</ref>
+
+==Legacy==
+''pedit5'' was one of the first [[role-playing video game|computer role-playing games]]; ''pedit5'', ''dnd'', and ''[[Dungeon (video game)|Dungeon]]'' were all created around the same time in 1975, though they may have been preceded by the swiftly-deleted ''m199h'' in 1974.<ref name="DnD4344"/><ref name="ieee insight"/> It is considered to be the first example of a dungeon crawl game. The random generation of monster encounters and treasure makes the game an early predecessor of the [[roguelike]] genre.<ref name="ieee insight"/>
+
+A new version of the game, based on the original work but significantly expanded, was written by three other programmers as ''orthanc'', named after a tower in ''[[The Lord of the Rings]]''. The original version of ''pedit5'' was resurrected as ''orthanc1''. Both ''orthanc'' and ''orthanc1'' remained on the PLATO system. Since then, copies of the game's source code have been made available allowing users to play the title on the PLATO (Cybis) system, or an [[emulator]] of it, connected to the [[Internet]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.cyber1.org/ cyber1.org], website dedicated to PLATO, with emulators for a variety of operating systems
+
+[[Category:1975 video games]]
+[[Category:Fantasy video games]]
+[[Category:PLATO (computer system) games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United States]]

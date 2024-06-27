@@ -1,0 +1,123 @@
+Flicky
+Permalink: //en.wikipedia.org/w/index.php?title=Flicky&oldid=1217448760
+Accessed on: 2024-06-26T16:56:48.055202
+
+
+
+------
+Flicky
+{{Short description|1984 video game}}
+{{good article}}
+{{Infobox video game
+|title = Flicky
+|image = Flicky_Arcade_poster.jpg
+|caption = Arcade flyer
+|developer = [[Sega]]
+|publisher = Sega<br>[[Bally Midway]]
+|designer = Yoji Ishii
+|artist = Yoshiki Kawasaki
+|released = '''Arcade'''{{Video game release|JP|May 1984|NA|1984}}'''Genesis'''{{Video game release|NA|April 1991|PAL|1991}}
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Arcade video game|Arcade]], [[SG-1000]], [[Sega Genesis|Genesis]], [[FM-7]], [[MSX]], [[PC-8801]], [[Sharp X1]], [[Mobile phone|mobile]]
+|arcade system = [[Sega System 1]]
+}}
+
+{{nihongo foot|'''''Flicky'''''|フリッキー|Furikkī|lead=yes|group=lower-alpha}} is a [[platform game]] developed by [[Sega]] and released as an [[arcade video game]] in May 1984. It was licensed to [[Bally Midway]] for distribution in the United States. In ''Flicky'', the player controls the eponymous blue bird and must gather all the small birds called Chirps in each round and bring them safely to the exit. There are cat and lizard enemies which can disperse the Chirps and kill the player, but Flicky can use items on the playing field to protect herself and the Chirps from danger.
+
+The idea for ''Flicky'' came from Sega senior leadership, who wanted to exceed the success of [[Namco]]'s ''[[Mappy]]'' (1983). Yoji Ishii and Yoshiki Kawasaki developed ''Flicky'' at Sega over one year. Originally, the game simply had the player catch ambiguous dots in a maze. Taking inspiration from a popular song in a Japanese variety show, Kawasaki gave the game an urban theme and bird characters. The game was originally titled "Busty", then "Flippy", before finally settling on "Flicky".
+
+''Flicky'' was first ported to the [[SG-1000]] in Japan, and then later to other Japanese home consoles. In 1991, ''Flicky'' was released in North America and Europe on the [[Sega Genesis]]. The character has made cameo appearances in other Sega games, most notably within the ''[[Sonic the Hedgehog]]'' series.
+
+==Gameplay==
+[[File:Flicky_screenshot.png|thumb|left|Flicky being followed by four Chirps on a platform above the exit door]]
+
+''Flicky'' is a [[platform game]] in which the player takes control of a flightless blue bird named Flicky. With only the ability to run side-to-side and jump, the player must collect all the small, yellow birds called "Chirps" and take them to the exit to clear each round.<ref name="hcg"/> According to game artist Yoshiki Kawasaki, Flicky is just a friend to the Chirps although some players may think she is a mother to them.<ref name="interview" /> The Chirps follow Flicky in a chain until they are collected at the exit.<ref name="hcg" /> Bonus points are awarded for bringing multiple Chirps back in a single chain.<ref name="manual"/> There are 48 total stages. Each stage takes place on a single wraparound screen that scrolls horizontally with Flicky always in the center. After all the stages are completed, the game loops infinitely on an increased difficulty mode.<ref name="hcg" />
+
+Collected Chirps will disperse if their chain comes in contact with an enemy.<ref name="hcg" /> Some of the chirps wear sunglasses; these chirps behave more unpredictably when dispersed.<ref name="hcg" /> There are two enemy types in the standard rounds, [[house cats]] called Tigers and [[green iguana]]s called Iggys. These enemies can be simply avoided but can also be defeated with throwable items available on some levels. These items include telephones, flower pots, cups, and bottles. Flicky can pick up an item by walking into it, and throw it by jumping. Sometimes diamonds may appear, which cannot be thrown but rather provide bonus points.<ref name=manual/> There are also bonus rounds in which Flicky attempts to catch as many falling Chirps as possible in a net.<ref name="manual" />
+
+==Development==
+The spark to develop ''Flicky'' came from Sega's desire to exceed [[Namco]]'s ''[[Mappy]]'' (1983) which had become very popular in Japanese arcades. Sega game designer Yoji Ishii's boss wanted him to design a similar "dot eater" game but better.<ref name=":0">{{Cite book|title=The Untold History of Japanese Game Developers Vol. 3|last=Szczepaniak|first=John|publisher=SMG Szczepaniak|year=2018|pages=274–276}}</ref>
+
+''Flicky'' was developed over the course of one year and was designed by Yoji Ishii in collaboration with artist Yoshiki Kawasaki.<ref name="hcg" /><ref name="interview" /> The game evolved from a simple game that Kawasaki first envisioned where the player would catch dots in a maze. He took inspiration from a popular song about sparrows on [[Electric power transmission|power lines]] from a 1970s Japanese variety show, ''Migoro! Tabegoro! Waraigoro!'',{{efn|The show is titled みごろ！たべごろ！笑いごろ！in Japanese. The particular song about the sparrows is called 電線音頭.}} and so made the main character a sparrow and the platforms and walls wires. However, he found the power line theme boring, and thus changed the background to an apartment building after taking inspiration from one outside his office window.<ref name="interview" /> Kawasaki felt that anyone who is around children has experienced the emotion of wanting to keep children safe from the outside and returning them safe to their home. From this, the team wanted to imbue a message to "protect the children" with the game, and according to Kawasaki, "it's that emotion that drives ''Flicky''".<ref name=":0" />
+
+Kawasaki used a poorly calibrated [[graphics tablet]] to draw all the game graphics. The Chirps were originally ambiguous dots that would disappear when collected. Kawasaki changed this so the dots trailed the player, then increased their size to 8x8 pixels to make way for a more interesting design. The size was just large enough for a simple chick design. To add difficulty to the game, some Chirps were programmed to behave more unpredictably when touched by an enemy. These Chirps were given sunglasses and deemed the "bad" Chirps. When game testing began, the team had created 100 levels but only four background designs, and there was barely any space left in the game. Kawasaki was able to change the colors of the backgrounds to create more variety. After testing, Iggy was added to the game.<ref name="interview" />
+
+''Flicky'' was originally titled "Busty", but an American Sega branch asked the team to change it because of the term's slang usage in English.<ref name=":0" /> The game was then titled "Flippy" but this was changed shortly before release.<ref name="interview" /> In 2002, Ishii stated this was because of trademark issues in the United States,<ref name="interview" /> but in 2018 said it was because "Flippy" was too similar to "Mappy".<ref name=":0" /> ''Flicky'' was released in arcades in May 1984.<ref name="hcg"/>
+
+==Ports==
+Like many early 1980s Sega arcade games, ''Flicky'' was ported to the [[SG-1000]] console. The port only retains 40 of the arcade levels, with some of them restructured, and does not feature the Iggy enemy. In addition, the behavior of the Chirps is slightly modified and some of the graphics were changed. This version was later ported to several other home platforms in Japan including the [[MSX]], [[Sharp X1]], [[Fujitsu FM-7]] and [[NEC PC-8801]]. In 1991, ''Flicky'' was ported to the [[Sega Genesis]] and released in both North America and Europe. In Japan, this port was only released through [[Sega Meganet]].<ref name="hcg"/>
+
+==Reception==
+{{Video game reviews
+|title       = Contemporary Genesis reviews
+| ACE        = {{rating|4|5}}<ref name=ACE/>
+| CVG        = 84%<ref name=cvg/>
+| EGM        = 20/40{{efn|Four reviewers provided individual scores of 6, 5, 5 and 5 out of 10.}}<ref name=EGM/>
+| MMS        = 88%<ref>{{cite magazine |title=Games Index: Flicky |magazine=[[Mean Machines Sega]] |date=September 1992 |issue=1 (October 1992) |page=138 |url=https://retrocdn.net/images/5/5c/MeanMachinesSega01UK.pdf#page=138}}</ref>
+| rev1       = ''[[Mean Machines]]''
+| rev1Score  = 92%<ref name=meanmachines/>
+| rev2       = ''[[MegaTech]]''
+| rev2Score  = 88%<ref name=megatech/>
+}}
+
+In July 1984, ''[[:ja:ゲームマシン|Game Machine]]'' listed ''Flicky'' as being the second most popular table arcade unit in Japan during that period.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=239|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 July 1984|page=25|lang=ja|url=https://onitama.tv/gamemachine/pdf/19840701p.pdf#page=13}}</ref>
+
+The Genesis port of ''Flicky'' was reviewed by multiple Western publications, most of which found the game to have highly addictive and enjoyable gameplay while criticizing it for having poor graphics and sound. Reviewers noted poor initial impressions based on appearance and sound, finding the sprites to be simple, the colors garish, and the music repetitive. However, when they began to play the game, they found that the simple appearance complemented the simple yet engaging gameplay.<ref name=cvg/><ref name=megatech/><ref name=meanmachines/><ref name=ACE/> ''[[Computer and Video Games]]'' described ''Flicky'' as a guilty pleasure and discussed its cute appearance in positive light.<ref name=cvg/> Reviewers from ''[[Electronic Gaming Monthly]]'' concluded that the game was aimed for children based on the game's cuteness aesthetic, and provided lower scores accordingly.<ref name=EGM/> Critics from both ''Computer and Video Games'' and ''[[Mean Machines]]'' wrote that employees in their offices were disappearing into their game room to play ''Flicky''.<ref name=cvg/><ref name=meanmachines/> Julian from ''Mean Machines'' wrote: "It's crazy, I know, that a game so crappy, so laughably-simple and pathetic sounding as this can prove to be more addictive, more challenging and more long-lasting than virtually any other Mega Drive game, but it's true."<ref name=meanmachines/> In 2017, [[GamesRadar+|Gamesradar]] ranked Flicky 42nd on their "Best Sega Genesis/Mega Drive games of all time."<ref>{{Cite web|last=GamesRadar Staff|date=2017-06-21|title=Best Sega Genesis/Mega Drive games of all time|url=https://www.gamesradar.com/best-sega-genesis-games-all-time/|access-date=2022-02-20|website=gamesradar|language=en}}</ref>
+
+==Legacy==
+Numerous Sega video game compilations feature ''Flicky''. A CD-enhanced version of the Genesis port was featured in ''Wondermega Collection'', a compilation bundled with the [[Sega CD#Models|Wondermega]] hybrid console in 1992.<ref>{{cite web | url=https://www.giantbomb.com/wondermega-collection/3030-74772/ | title=WonderMega Collection (Game) }}</ref> ''Wondermega Collection'' will be included as part of the [[Sega Genesis Mini|Sega Mega Drive Mini 2]] mini console in Japan, releasing in October 2022.<ref>{{cite web | url=https://sega.jp/mdmini2/soft/wondermega-collection.html | title=ワンダーメガコレクション &#124; メガドライブミニ2 &#124; セガ }}</ref> The Genesis version was compiled into ''Game no Kanzume Vol. 1'' (1994), a [[Sega CD]] compilation in Japan which featured CD quality remixes of the original soundtrack. The Genesis port was also featured in ''[[Sonic Mega Collection]]'' (2002), ''[[Sega Genesis Collection]]'' (2006), ''[[Sonic's Ultimate Genesis Collection]]'' (2009), ''[[Sega Genesis Classics Pack|Sega Mega Drive Classic Collection]]'' (2010), and even Genesis-based [[Handheld TV game|plug and play]] devices. The arcade version has been released in Japan on the ''[[Sega Ages]]: Memorial Collection Vol. 1'' (1996) for the [[Sega Saturn]], and the ''Sega Memorial Selection'' (1998) for [[Microsoft Windows|Windows]]''.'' ''Flicky'' has also been ported to mobile devices. The first port was in 2001 for the ''Sega Ages'' line in Japan.<ref name="hcg" /> In March 2003, a similar variant appeared on the Sonic Cafe service, again exclusive to Japan.<ref name="hcg" /><ref name=mobile/> In 2007, the Sonic Cafe port was upgraded with better graphics and ported to North America for the Sega Mobile service.<ref name="hcg" /> The Genesis port was released on [[Steam (service)|Steam]] in 2010.<ref name="steam">{{cite web|title=Flicky™ on Steam|url=http://store.steampowered.com/app/71111/Flicky/|website=Steam|access-date=29 September 2017|language=en|date=26 October 2010|url-status=live|archive-url=https://web.archive.org/web/20171001020527/http://store.steampowered.com/app/71111/Flicky/|archive-date=1 October 2017}}</ref>
+
+[[File:Bloxeed_arcade_marquee.png|thumb|right|upright=1.3|Flicky is featured on the arcade marquee for ''Bloxeed''.]]
+The Flicky character has made cameo appearances in several other Sega arcade games, effectively becoming a mascot for Sega's early arcade years. In ''[[Teddy Boy Blues]]'' (1985), she appears as a shooting target among other Sega mascots such as [[Pengo (video game)|Pengo]]. In the puzzle game ''Bloxeed'', she can be used as a special weapon to drop blocks on the playing field. She is also playable in ''[[SDI (arcade game)|SDI]]'' (1987) with the use of a [[Cheating in video games|cheat code]]. Flicky has a minor cameo appearance in ''Flash Point'', where she will wish the player good luck before each round, and in the racing game ''[[Super Monaco GP]]'' (1989), where she appears on the racetrack banners and the [[game over]] screen. Flicky has also become an entire species and reoccurring minor character in the ''[[Sonic the Hedgehog]]'' series and is featured most prominently in ''[[Sonic 3D Blast|Sonic 3D: Flickies' Island]]'' (1996), the game mechanics of which were inspired by ''Flicky''.<ref>{{cite journal|date=July 1996|title=Cover Story: Sonic 3D|url=https://retrocdn.net/images/7/77/MeanMachinesSega45UK.pdf|journal=Mean Machines Sega|issue=45|access-date=5 February 2018}}</ref> Flicky has continued to have minor cameo appearances in other Sega titles, including ''[[Shenmue (video game)|Shenmue]]'' (1999), ''[[Gunstar Super Heroes]]'' (2005), and ''[[Mario & Sonic at the Olympic Games]]'' (2007).<ref name=hcg/>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|refs=
+<ref name="hcg">{{cite web|last1=Derboo |first1=Sam |title=Hardcore Gaming 101: Flicky |url=http://www.hardcoregaming101.net/flicky/flicky.htm |website=Hardcore Gaming 101 |access-date=27 December 2016 |url-status=live |archive-url=https://web.archive.org/web/20160520080622/http://www.hardcoregaming101.net/flicky/flicky.htm |archive-date=20 May 2016 }}</ref>
+
+<ref name="interview">{{cite web|url=http://sega.jp/fb/album/03_flicky/home.html|title=名作アルバム - 『フリッキー』 - 1|date=14 May 2002|website=[[Sega]]|language=ja|archive-url=https://web.archive.org/web/20161228032930/http://sega.jp/fb/album/03_flicky/home.html|archive-date=28 December 2016|url-status=live|access-date=27 December 2016}}</ref>
+
+<ref name=mobile>{{Cite web|url=http://www.sonicteam.com:80/cafe/flicky/|archive-url=https://web.archive.org/web/20050526212152/http://www.sonicteam.com/cafe/flicky/|title=フリッキー|website=Sonic Team|archive-date=26 May 2005|url-status=dead|language=ja}}</ref>
+
+<ref name="manual">''Flicky'' instruction manual. (Sega Genesis, North America, 1991)</ref>
+
+<ref name="EGM">{{cite magazine|title=Flicky|magazine=Electronic Gaming Monthly|date=April 1991|issue=21|pages=24}}</ref>
+
+<ref name="ACE">{{cite magazine|title=Flicky|journal=ACE|date=November 1991|issue=50|pages=110}}</ref>
+
+<ref name="cvg">{{cite magazine|title=Flicky|journal=Computer and Video Games|date=November 1991|issue=120|pages=96–97}}</ref>
+
+<ref name="megatech">{{cite magazine|title=Flicky|journal=MegaTech|date=December 1991|issue=1|pages=78}}</ref>
+
+<ref name="meanmachines">{{cite magazine|title=Mega Drive Review: Flicky|journal=Mean Machines|date=October 1991|issue=13|pages=94}}</ref>
+}}
+
+==External links==
+*{{KLOV game|name=Flicky|id=7825}}
+*[[iarchive:arcade flicky|''Flicky'']] playable for free on the [[Internet Archive]]
+
+{{Sonic the Hedgehog}}
+
+[[Category:1984 video games]]
+[[Category:Fictional passerine birds]]
+[[Category:FM-7 games]]
+[[Category:MSX games]]
+[[Category:Mobile games]]
+[[Category:NEC PC-8001 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Platformers]]
+[[Category:Sega arcade games]]
+[[Category:Sega Genesis games]]
+[[Category:Sega video games]]
+[[Category:Sega System 1 games]]
+[[Category:SG-1000 games]]
+[[Category:Sharp MZ games]]
+[[Category:Sharp X1 games]]
+[[Category:Video games about birds]]
+[[Category:Video games featuring female protagonists]]
+[[Category:Video games developed in Japan]]
+[[Category:Nintendo Switch Online games]]
+[[Category:Single-player video games]]

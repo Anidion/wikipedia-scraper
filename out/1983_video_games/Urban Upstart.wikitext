@@ -1,0 +1,49 @@
+Urban Upstart
+Permalink: //en.wikipedia.org/w/index.php?title=Urban_Upstart&oldid=1186324425
+Accessed on: 2024-06-26T16:56:07.325379
+
+
+
+------
+Urban Upstart
+{{Infobox video game
+| title          = Urban Upstart
+| image          = Urban Upstart cover.jpg
+| caption        = 
+| developer      = [[Pete Cooke]]
+| publisher      = [[Richard Shepherd Software]]
+| released       = [[1983 in video gaming|1983]]
+| genre          = [[Interactive fiction]]
+| modes          = [[Single-player video game|Single-player]]
+| platforms      = [[ZX Spectrum]], [[Commodore 64]]
+|alt = 
+}}
+'''''Urban Upstart''''' is a 1983 [[text adventure]] programmed by [[Pete Cooke]] and published by [[Richard Shepherd Software]] for the [[ZX Spectrum]] and [[Commodore 64]].<ref>{{cite web|url=http://www.worldofspectrum.org/infoseek.cgi?regexp=^Urban+Upstart$&pub=^Richard+Shepherd+Software+Ltd$&loadpics=1|title=Urban Upstart|work=World of Spectrum|accessdate=2009-05-20}}</ref> ''Urban Upstart'' is set in the fictional British town of Scarthorpe, a particularly grim town with high crime and unemployment rates.<ref name="su">{{cite journal|url=http://www.sincuser.f9.co.uk/030/sftcnte.htm|journal=Sinclair User|issue=30|title=Soft Centre 5 - Urban Upstart|date=September 1984}}</ref> The protagonist begins in their house at three o'clock in the morning, with the objective of escaping from Scarthorpe.
+
+==Gameplay==
+[[image:Urbanupstart.png|thumb|Trying to leave the protagonist's house]]
+
+''Urban Upstart'' is a text adventure in which the player types actions in verb-noun format. The upper half of the screen displays an illustration of the current location.
+
+Typing in expletives results in the protagonist being arrested on obscenity charges and sent to a gaol.<ref name="crash">{{cite journal|journal=CRASH|page=38|issue=3|date=April 1984|title=Reviews - Urban Upstart|quote=I think this is the best game so far from Shepherd, despite the usual lengthy loading time.}}</ref>
+
+Unlike Richard Shepherd Software's previous adventure, ''[[Invincible Island]]'', ''Urban Upstart'' did not come supplied with a separate "help program". This was intended to take the pressure off the company with regards to giving hints, but only caused customer confusion. With ''Urban Upstart'', Shepherd instead supplied help sheets to customers who wrote in asking for information.<ref>{{cite magazine | last= | first= | date=January 1984 | title=Urban nightmare introduced to imagination series | magazine=Micro Adventurer | page=6 | publisher=Sunshine Books | location=London | url= | access-date=}}</ref>
+
+==Reception==
+''Urban Upstart'' received mixed criticism. ''[[Computer and Video Games]]'' found the scenario to be original, but was frustrated with the implementation. Some obvious nouns were not recognized (for example, "SHOP" outside a chip shop) and the illustrations took too long to draw, with no option of turning them off. The maze-like hospital and gaol locations were also seen as frustrating.<ref>{{cite journal|journal=C&VG|page=151|issue=29|author=Campbell, Keith|date=March 1984|title=Urban Bore|quote=...I was whisked off to gaol on obscenity charges. Non-moving commands are answered fairly promptly, so I tried my hardest to get out, all to no avail. Unfortunately by then, I had lost faith in the game and decided to pursue it no further.}}</ref> ''[[Your Spectrum]]'' highlighted the game's graphics and recommended it as a good, entertaining adventure.<ref>{{cite journal|journal=Your Spectrum|issue=2|url=http://www.users.globalnet.co.uk/~jg27paw4/yr02/yr02_56.htm|title=Spectrum Soft - Urban Upstart|date=March 1984|page=57|quote=Generally I prefer to see adventures use up memory for ideas rather than pictures, but at least the program does it competently.}}</ref> ''[[CRASH (magazine)|CRASH]]'' magazine awarded 64%, finding the story to be a nice change from the usual fantasy setting, highlighting a large vocabulary and detailed (but slow) graphics.<ref name="crash"/> In contrast, ''Micro Adventurer'' found the vocabulary to be limited, with some occasionally confusing graphics, but recommended the game to those who can appreciate bleak humour.<ref>{{cite journal|journal=Micro Adventurer|issue=6|page=23|title=Backing down a one-way street|date=April 1984}}</ref> ''[[Sinclair User]]'' awarded 8 out of 10, finding the portrayal of Scarthorpe to be inventive and convincing.<ref name="su"/>
+
+Despite mixed reviews, ''Urban Upstart'' consistently sold well and is considered to be a fondly remembered adventure.<ref>{{cite journal|journal=CRASH|issue=42|title=Stonehenge in Space|url=http://www.crashonline.org.uk/42/cooke.htm|author=Eddy, Richard|date=July 1987}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{IFDB|id=bf073dl8c41har0}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1983 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Richard Shepherd Software games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

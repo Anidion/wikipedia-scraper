@@ -1,0 +1,139 @@
+Berzerk (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Berzerk_%28video_game%29&oldid=1228890354
+Accessed on: 2024-06-26T16:51:33.107420
+
+
+
+------
+Berzerk (video game)
+{{Short description|1980 video game}}
+{{About|the 1980 video game|the video games based on the Berserk manga series|Berserk: Millennium Falcon Hen Seima Senki no Shō|and|Berserk and the Band of the Hawk}}
+{{Infobox video game
+|title         = Berzerk
+|image         = Berzerk arcade flyer.jpg
+|caption       = North American arcade flyer
+|developer     = [[Stern (game company)|Stern Electronics]]<br>[[Atari, Inc.]] (2600)<br>[[General Computer Corporation|GCC]] (5200)<br>Western Technologies (Vectrex)
+|publisher     = Stern Electronics<br>Atari, Inc. (2600/5200)<br>'''Vectrex'''{{vgrelease|NA|GCE|EU|[[Milton Bradley Company|Milton Bradley]]|JP|[[Bandai]]}}
+|designer      = Alan McNeil
+|platforms     = [[Arcade video game|Arcade]], [[Atari 2600]], [[Atari 5200]], [[Vectrex]], [[Sega Genesis]]
+|released      ={{collapsible list|title=1980|titlestyle=font-weight:normal;font-size:inherit;background:transparent;text-align:left|'''Arcade'''{{vgrelease|NA|November 12, 1980<ref name="stern_production_numbers">{{cite web|title=Stern Production Numbers and More CCI Photos|url=http://www.tokensonly.com/2012/05/misc/stern-production-numbers-and-more-cci-photos/|access-date=July 21, 2013|date=May 1, 2012}}</ref>|EU|1980}} '''2600'''{{vgrelease|NA|August [[1982 in video gaming|1982]]|EU|1982|JP|[[1983 in video gaming|1983]]}} '''Vectrex'''{{vgrelease|NA|1982|JP|1982|EU|1983}} '''5200'''{{vgrelease|NA|1983}}}}
+|genre         = [[Multidirectional shooter]], [[Maze game|maze]]<ref>{{cite book |last1=Weiss |first1=Brett |title=Classic Home Video Games, 1972-1984: A Complete Reference Guide |date=2011-12-20 |publisher=[[McFarland & Company]] |isbn=978-0-7864-8755-4 |pages=37, 135 |url=https://books.google.com/books?id=BzxTtml8Jq4C&pg=PA37 |language=en}}</ref>
+|modes         = 1-2 players alternating turns
+|arcade system = 
+}}
+
+'''''Berzerk''''' is a [[multidirectional shooter]] designed by Alan McNeil and released for [[arcade video game|arcades]] in 1980 by [[Stern (game company)|Stern Electronics]] of [[Chicago]]. Following [[Taito]]'s ''[[Stratovox]]'', it is one of the first arcade video games with [[speech synthesis]]. ''Berzerk'' places the player in a series of top-down, maze-like rooms containing armed robots. Home ports were published for the [[Atari 2600]], [[Atari 5200]], and [[Vectrex]].
+
+A sequel, [[Frenzy (1982 video game)|''Frenzy'']], was released in 1982.
+
+==Gameplay==
+[[File:ARC Berzerk.png|thumb|left|The green player has just entered a room with five red robots (arcade).]]
+
+When the game begins, the player controls a green [[Stick figure|stick man]] on the left of the screen. In two-player games, the second player controls a purple [[Stick figure|stick man]] on the right of the screen. Each player plays until they lose a life, allowing the other player to have a turn.
+
+Using a [[joystick]] and a firing button that activates a laser-style weapon, the player navigates a simple [[maze]] filled with many robots, who fire lasers back at the player character. A player can be killed by being shot, by running into a robot or an exploding robot, getting electrocuted by the electrified walls of the maze itself, or by being touched by the player's nemesis, Evil Otto.
+
+The function of Evil Otto, represented by a bouncing [[smiley]] face, is to quicken the pace of the game.<ref name="retrogamer.net">{{Cite web|url=https://www.retrogamer.net/retro_games80/the-making-of-berzerk/|title=The Making of Berzerk &#124; Retro Gamer|date=29 December 2021 }}</ref> Otto is unusual, with regard to games of the period, in that he's indestructible. Otto can go through walls with impunity and hunts the player character. If robots remain in the maze Otto moves slowly, about half as fast as the humanoid, but he speeds up to match the humanoid's speed once all the robots are killed. Evil Otto moves at exactly the same speed as the player going left and right but he can move faster than the player going up and down; thus, no matter how close Otto is, the player can escape as long as they can avoid moving straight up or down.
+
+The player advances by escaping from the maze through an opening in the far wall. Each robot destroyed is worth 50 points. If all the robots in the current maze have been destroyed before the player escapes, the player gains ten points per robot. The game has 65,536 rooms (256×256 grid), but due to limitations of the random number generation there are fewer than 1,024 maze layouts (876 of which are unique). It has only one controller, but two-player games can be accomplished by alternating at the joystick.<ref>{{Cite web|url=https://www.arcade-museum.com/game_detail.php?game_id=7096|title = Berzerk - Videogame by Stern Electronics}}</ref>
+
+As a player's score increases, the colors of the enemy robots change, and the robots can have more bullets on the screen at the same time.<ref name="retrogamer.net"/> Once they reach the limit of simultaneous on-screen bullets, they cannot fire again until one or more of their bullets detonates; the limit applies to the robots as a group, not as individuals.
+
+A free life can be awarded at 5,000 or 10,000 points, set by internal [[DIP switch]]es, with no extra lives thereafter.
+
+The game's voice synthesizer generates speech for the robots during certain in-game events:
+
+* "Coin detected in pocket": During attract mode, specifically while showing the high score list.
+* "Intruder alert! Intruder alert!": Spoken when Evil Otto appears.
+* "The humanoid must not escape" or "The intruder must not escape": Heard when the player escapes a room after destroying every robot.
+* "Chicken, fight like a robot": Heard when the player escapes a room without destroying every robot.
+* "Got the humanoid, got the intruder!": Heard when the player loses a life (the "got the intruder" part is a [[minor third]] higher than the "got the humanoid" part).
+
+There is random robot chatter playing in the background, with phrases usually consisting of "Charge", "Attack", "Kill", "Destroy", "Shoot", or "Get", followed by "The Humanoid", "The intruder", "it", or "the chicken" (the last only if the player got the "Chicken, fight like a robot" message from the previous room), creating sentences such as "Attack it", "Get the Humanoid", "Destroy the intruder", "Kill the chicken", and so on. The speed and pitch of the phrases vary, from deep and slow, to high and fast; as well as different versions of the game being translated into four different languages such as [[English language|English]], [[French language|French]], [[German language|German]], and [[Spanish language|Spanish]].
+
+==Development==
+Alan McNeil (1951–2017),<ref>{{cite web | url=https://www.gravel.org/2017/12/31/north-fork-stalwart-and-nfpa-board-member-alan-mcneil-dies/ | title=North Fork stalwart and NFPA board member Alan McNeil dies &#124; North Fork Preservation Association }}</ref> an employee of Universal Research Laboratories (a division of Stern Electronics), had a dream one night involving a black-and-white video game in which he had to fight robots. It was named for [[Fred Saberhagen]]'s ''[[Berserker (novel series)|Berserker]]'' series of science fiction novels.<ref name="emuunlim.com">{{cite web |url=http://thedoteaters.com/?bitstory=berzerk |title=Berzerk - The Dot Eaters| access-date=January 28, 2009 }}</ref>
+
+"Evil Otto" was named after Dave Otto at McNeil's former employer [[Dave Nutting Associates]]. According to McNeil, Dave Otto would "[smile] while he chewed you out".<ref>{{cite web |url=http://www.mancigames.com/berzerk_large.htm |title=Berzerk |first=Michael |last=Thomasson |work=Manci Games Magazine, Issue #2 |publisher=Manci Games Publishing |url-status=dead |archive-url=https://web.archive.org/web/20081015221700/http://www.mancigames.com/berzerk_large.htm |archive-date=October 15, 2008 }}</ref> He would also lock McNeil and his fellow employees out of the building to enforce a noon-hour lunch, as well as piping [[beautiful music]] into every room.<ref name="emuunlim.com" />
+
+The idea for a black-and-white game was abandoned. At that point Stern decided to use a color overlay board for ''Berzerk''.<ref name="arcade-museum.com">{{cite web|url=http://www.arcade-museum.com/game_detail.php?game_id=7096|title=Berzerk - Videogame by Stern Electronics|access-date=March 14, 2015}}</ref> A quick conversion was made, and all but the earliest versions of the game shipped with a color CRT display. The game was test-marketed successfully at a Chicago singles bar before general release.
+
+==={{anchor | Speech synthesis}}Technology===
+The game was originally planned around a [[Motorola 6809|Motorola 6809E]] processor, but problems with the external clock for this CPU led to its abandonment in favor of a [[Zilog Z80]].<ref name="arcade-museum.com"/>
+
+The game suffered from failure of the optical 8-way joystick unit; Stern suffered the cancellation of about 4,200 orders for new games because of previous purchasers' bad experiences with these joysticks. The company responded by issuing free replacement joysticks in a leaf-switch design by Wico.<ref name="arcade-museum.com"/>
+
+''Berzerk'' is one of the first video games to use [[speech synthesis]], featuring talking robots.<ref name="retrogamer.net"/> In 1980, computer voice compression was extremely expensive, estimated to have cost the manufacturer {{USD|1000}} ({{Inflation|US|1000|1980|r=-1|fmt=eq}}) per word;<ref name="arcade-museum.com"/> the [[English language|English]] version has a thirty-word vocabulary.
+
+==Ports==
+''Berzerk'' was officially ported to the [[Atari 2600]], [[Atari 5200]], and [[Vectrex]]. The Atari 2600 version has an option allowing Evil Otto to be temporarily killed, though he always returns. The Atari 5200 version was the only home version to include digitized speech, until the release of the [[Atari 2600+]] edition in 2023.
+
+A port for the [[Atari 8-bit computers]], identical to the Atari 5200 version, was ready in 1983, but was not published.<ref>{{cite web |last=Reichert |first=Matt |title=Berzerk |website=AtariProtos.com |url=http://www.atariprotos.com/8bit/software/berzerk/berzerk.htm |access-date=September 19, 2014}}</ref>
+
+A [[Handheld electronic game|portable]] version of ''Berzerk'' was planned by Coleco, similar in design to its line of [[Vacuum fluorescent display|VFD]] tabletop games including ''[[Pac-Man]]'' and ''[[Frogger]]'', but was never released.<ref>{{cite web |url=http://www.handheldmuseum.com/Coleco/Berzerk.htm|title=Coleco Berzerk|work=Coleco Handheld Games|publisher=Handheld Games Museum|access-date=January 12, 2009 }}</ref>
+
+Atari released an enhanced version of ''Berzerk''<ref>{{Cite web |title=Atari 2600+ |url=https://atari.com/products/berzerk-enhanced-edition |access-date=2023-11-25 |website=Atari® |language=en}}</ref> to coincide with the new Atari 2600+ console that went on sale in November 2023.<ref>{{Cite web |last=Orland |first=Kyle |date=2023-11-22 |title=Review: New Atari 2600+ doesn’t justify its plus sign |url=https://arstechnica.com/gaming/2023/11/review-new-atari-2600-doesnt-justify-its-plus-sign/ |access-date=2023-11-25 |website=Ars Technica |language=en-us}}</ref><ref>{{Cite web |title=Atari 2600+ |url=https://atari.com/collections/atari-2600-plus |access-date=2023-11-25 |website=Atari® |language=en}}</ref> As well as the digitized  speech, which can only play when the screen is blanked due to hardware limitations, the enhanced version allows robots to shoot diagonally—something they could not do in the original Atari 2600 game. The enhanced Berzerk game is also compatible with the original Atari 2600 and Atari 7800.
+
+==Reception==
+{{expand section|date=October 2017}}
+The game received highly positive reviews and was highly considered to be one of [[List of video games considered the best|the greatest video games ever made]].
+
+Ed Driscoll reviewed ''Berzerk'' in ''[[The Space Gamer]]'' No. 56.<ref name="SG">{{cite journal|last=Driscoll |first=Ed |date=October 1982 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=56|pages=34}}</ref> Driscoll commented that "if you liked ''Berzerk'', or if you simply enjoy shooting evil robots in electrified mazes, then look for this at your local store. But watch out for Evil Otto!"<ref name="SG"/> Michael Blanchet's 1982 book ''How to Beat the Video Games'' compared ''Berzerk'' favourably to older, Western-themed multi-directional shooters ''[[Boot Hill (video game)|Boot Hill]]'' (a sequel to ''[[Gun Fight]]'') and ''[[Bandido (video game)|Bandido]]'' (the North American rebranding of ''[[Sheriff (video game)|Sheriff]]'').<ref>{{cite book|last=Blanchet|first=Michael|date=1982|title=How to Beat the Video Games|location=New York|publisher=Simon and Schuster|pages=29–34|isbn=0671453750|quote=''Berzerk'' brings out the "Dirty Harry" (or "Annie Oakley") in all of us. If you feel you have outgrown ''Boot Hill'' and ''Bandito'', then ''Berzerk'' is your game.|quote-page=29}}</ref> The Atari 2600 version received a Certificate of Merit in the category of "Best Solitaire Video Game" at the 4th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date = February 1983|title= Arcade Alley: The Fourth Annual Arcade Awards |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 11|pages= 30, 108|issn= 0147-8907}}</ref>{{rp|30}}
+
+===Retrospective===
+Brett Weiss of [[AllGame]] gave the arcade version a review score of 4.5 out of 5 stars calling the Berzerk: "A great game that is immensely challenging and imminently replayable."<ref>{{Cite web |last=Brett Alan Weiss |title=Berzerk (Arcade) Review |url=http://www.allgame.com/game.php?id=396&tab=review |url-status=dead |archive-url=https://web.archive.org/web/20141114095119/http://www.allgame.com/game.php?id=396&tab=review |archive-date=November 14, 2014 |access-date=August 6, 2022 |website=Allgame}}</ref> He also reviewed the Atari 5200 version and gave a review score of 4 out of 5 stars and praised the Atari port writing: "excellent job of recapturing the play mechanics and the voice feature."<ref>{{Cite web |last=Brett Alan Weiss |title=Berzerk (Atari 5200) Review |url=http://www.allgame.com/game.php?id=16908&tab=review |url-status=dead |archive-url=https://web.archive.org/web/20141114122956/http://www.allgame.com/game.php?id=16908&tab=review |archive-date=November 14, 2014 |access-date=August 6, 2022 |website=Allgame}}</ref>
+
+In 2010<ref name="r_gaming_on_ign_villains">{{cite web|url=https://www.reddit.com/r/gaming/comments/c56fe/top_100_videogame_villains_ign/|title=Top 100 Videogame Villains - IGN|date=2010-05-17|website=Reddit|access-date=2023-04-11}}</ref> Evil Otto was ranked 78th in "Top 100 Videogames Villains" by IGN.<ref>{{cite web|url=http://www.ign.com/videogame-villains/78.html|archive-url=https://web.archive.org/web/20120309055602/http://www.ign.com/videogame-villains/78.html|title=Evil Otto is number 78|archive-date=March 9, 2012|publisher=IGN|url-status=dead|access-date=March 14, 2015}}</ref> In 1995, [[Flux (magazine)|Flux]] magazine ranked the game 55th on their "Top 100 Video Games."<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=30}}</ref>
+
+==Reviews==
+*''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n45/mode/2up | title=GAMES Magazine #34 | date=December 1982 }}</ref>
+
+==Legacy==
+[[Milton-Bradley]] produced a ''Berzerk'' [[board game]] designed for two players, one playing Evil Otto and the robots, the other playing the hero. The playing pieces are plastic yellow rectangular panels that are labeled with the corresponding characters. The hero figure is differently shaped and labeled only on one side. It also has a slot in which a second piece is inserted representing the character's arms, both equipped with laser pistols. Pressing down on the back tab raises the guns and if the figure is properly positioned in the space, it knocks down a robot. Firing the weapon counts as one move.
+
+In 1982, Stern released ''[[Frenzy (1982 video game)|Frenzy]]'' as a sequel. A ''Berzerk'' arcade machine can be converted to ''Frenzy'' simply by replacing one processor (ZPU-1000 to ZPU-1001) and installing a different ROM.
+
+In 2002, the Atari 2600 version was hacked to include speech.<ref>{{cite web |url=http://www.atariage.com/hack_page.html?SystemID=&SoftwareHackID=171 |title=Atari 2600 Hacks – Berzerk Voice Enhanced |work=atariage.com |year=2011 |access-date=September 23, 2011 |archive-date=July 22, 2011 |archive-url=https://web.archive.org/web/20110722023226/http://www.atariage.com/hack_page.html?SystemID=&SoftwareHackID=171 |url-status=dead }}</ref>
+
+''Berzerk'' was released for iOS in 2013 as part of the ''Vectrex Regeneration'' app.
+
+An unofficial port for the NES was released by Parisoft in July 2019.<ref>{{Cite web|url=https://www.vintageisthenewold.com/berzek-is-now-available-for-your-trustworthy-nes/|title=Berzek is now available for your trustworthy NES!|last=Old|first=Vintage is The New|date=2019-07-05|website=Vintage is the New Old, Retro Games News, Retro Gaming, Retro Computing|language=en-US|access-date=2019-07-10}}</ref>
+
+On March 16, 2023, [[Atari SA|Atari]] announced that it had acquired the intellectual property rights to 12 Stern Electronics titles, including ''Berzerk'' and ''Frenzy''.<ref>{{cite web |title=ATARI ANNOUNCES ACQUISITION OF BERZERK AND FRENZY IP |url=https://atari.com/blogs/newsroom/atari-announces-acquisition-of-berzerk-and-frenzy-ip |website=Atari |date=16 March 2023 |access-date=1 April 2023}}</ref> On November 9, 2023, Atari released a remake, ''Berzerk: Recharged'', for the [[Atari VCS (2021 console)|Atari VCS (2021)]], PC, [[PlayStation 4]], [[PlayStation 5]], [[Nintendo Switch]], [[Xbox One]], and [[Xbox Series X/S]].<ref>{{cite web |last1=Handley |first1=Zoey |title=Atari has announced Berzerk Recharged will be released on November 9 |url=https://www.destructoid.com/atari-has-announced-berzerk-recharged-will-be-released-on-november-9/ |website=[[Destructoid]] |publisher=[[Gamurs]] |access-date=12 November 2023 |date=26 October 2023}}</ref>
+
+===Fatality===
+In 1982, a player died from a [[myocardial infarction|heart attack]] while playing ''Berzerk'', which has been cited as the first recorded case of a death caused by video gaming.<ref>{{cite magazine |title=Video Game Timeline |magazine=[[Electronic Gaming Monthly]] |issue=102|publisher=[[Ziff Davis]] |date=January 1998 |page=124}}</ref> However, the incident has been mired in [[urban legend]], with accounts varying as to how many people died (ranging one to three), when the death occurred (while playing ''Berzerk'' or after moving on to another cabinet), and whether or not the victim was showing signs of stress before playing the game. The [[coroner]] ruled that the heart attack was caused by scarring of heart tissue which the victim would have had before playing the game, and that any form of exertion could have triggered the attack.<ref>{{cite web |last=Wirtanen |first=Josh |title=How Many People Has the Berzerk Arcade Game Killed? |url=http://retrovolve.com/how-many-people-has-the-berzerk-arcade-game-killed/ |website=Retrovolve |access-date=9 June 2020 |date=January 6, 2016}}</ref>
+
+===Influence===
+The influence of ''Berzerk'' upon popular culture is marked by appearances of the game and samples of its media within television shows, music, and movies.<ref>{{AllMusic|class=album|id=r31804}}</ref><ref>{{cite web|url=http://www.discogs.com/artist/Humanoid|title=Humanoid|work=Discogs|access-date=April 27, 2016}}</ref><ref>[http://www.secondthought.co.uk/fsol/mix93.htm 1993 Mixmag interview], [http://www.secondthought.co.uk/fsol/press.htm Secondthough.co.uk]</ref><ref>[http://www.secondthought.co.uk/fsol/mixmag96.htm 1996 Mixmag interview], [http://www.secondthought.co.uk/fsol/press.htm Secondthought.co.uk]</ref><ref>{{AllMusic|class=album|id=r382487}}</ref><ref>{{cite web|url=http://www.gamingsteve.com/archives/2005/11/my-name-is-earl.php |title=Gaming Steve - My Name Is Earl |access-date=September 1, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110928131407/http://www.gamingsteve.com/archives/2005/11/my-name-is-earl.php |archive-date=September 28, 2011 }}</ref> Several third-party clones of the original game exist, and the design of ''[[Shamus (video game)|Shamus]]'' (1982) is greatly influenced by it.
+
+[[Eugene Jarvis]] cited ''Berzerk'' as an influence on ''[[Robotron: 2084]]'' (1982), the basic concept of which was to combine elements of ''Berzerk'' with that of ''[[Space Invaders]]'' (1978).<ref>{{cite news |last1=Grannell |first1=Craig |title=Eugene Jarvis on the reality of clones in the games industry |url=http://reverttosaved.com/2008/07/30/eugene-jarvis-on-the-reality-of-clones-in-the-games-industr/ |access-date=19 May 2021 |work=Revert to Saved |date=July 30, 2008}}</ref> The 1981 computer game ''[[Castle Wolfenstein]]'' was also influenced by ''Berzerk''.<ref>{{Cite magazine |last1=Boardman |first1=Krist |last2=Bernstein |first2=Harvey |url=https://archive.org/stream/Electronic_Games_Volume_01_Number_04_1982-06_Reese_Communications_US |title=Inside Gaming |magazine=[[Computer Gaming World]] |publisher=[[Ziff Davis]] |date=June 1982 |volume=1 |issue=4 |pages=22–3}}</ref>
+
+==See also==
+{{Portal|Video games}}
+* ''[[Wizard of Wor]]''
+* ''[[Gorf]]''
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://www.arcade-museum.com/game_detail.php?game_id=7096 ''Berzerk''] at [[Killer List of Videogames]]
+* [https://gamefaqs.gamespot.com/arcade/584080-berzerk ''Berzerk''] at [[GameFAQs]]
+* [https://www.giantbomb.com/berzerk/3030-4010/ ''Berzerk''] at [[Giant Bomb]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Berzerk (video game)}}
+[[Category:1980 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Cancelled Atari 8-bit computer games]]
+[[Category:Maze games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video games about robots]]
+[[Category:Stern video games]]
+[[Category:Vectrex games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

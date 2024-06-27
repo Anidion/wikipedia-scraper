@@ -1,0 +1,66 @@
+Anteater (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Anteater_%28video_game%29&oldid=1227629244
+Accessed on: 2024-06-26T16:52:55.593036
+
+
+
+------
+Anteater (video game)
+{{short description|1982 video game}}
+{{Infobox video game
+|title = Anteater 
+|image = Anteater cover.jpeg
+|caption = 
+|developer = [[Stern (game company)|Stern Electronics]]
+|publisher = Tago Electronics
+|designer = [[Chris Oberth]]<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist |last1=Hague |first1=James}}</ref>
+|released=1982<ref name="giantlist"/>
+|platforms = [[Arcade game|Arcade]]
+|genre = [[Maze game|Maze]]
+|modes = 1-2 players alternating
+|alt = 
+}}
+
+'''''Anteater''''' ('''''The Anteater''''' in [[United Kingdom|Britain]], '''''Ameisenbär''''' in [[Germany]]) is an [[arcade video game]] designed by [[Chris Oberth]] and released in 1982 by Tago Electronics.<ref>[http://www.arcade-history.com/?n=anteater&page=detail&id=85 ''Anteater''] at Arcade History</ref> The player steers the tongue of the eponymous creature through a maze, retracting it when dangers approach. Though the arcade game was not a hit, it spawned a number of direct clones for home computers; Sierra's ''[[Oils Well]]'' became better known than the original. Oberth wrote an [[Apple II]] version of his own game for [[Datamost]] using a different title.
+
+==Gameplay==
+[[image:Anteater arcade.png|thumb|left|The anteater extending its tongue in a new level full of ant larvae (red dots).]]
+
+The player controls an [[anteater]] that elongates its tongue through a maze-like [[ant colony]] in search of ants. Only the tip of the tongue can eat an ant. If an ant touches any other part of the tongue, then the player loses a life. Pressing the second button quickly retracts the anteater's tongue.
+
+Worms can only be eaten from behind. Eating [[queen ant]]s at the very bottom of the nest temporarily removes all ants and worms from the screen. Once the sun has traveled across the screen and night falls, a spider appears. The spider climbs down the anteater's tongue, taking a life if it reaches the tip.
+
+The object is to eat all of the larvae before time runs out, clearing the screen. Each larva is worth 10 points. Each ant is worth 100 points, while eating a worm is worth 200. Queen ants are worth 1,000. After losing a life or finishing a level, a bonus of 10 points for each ant eaten is multiplied by the number of worms eaten (for example, eating 5 ants and 2 worms = 50 x 2 = 100).
+
+==Music==
+Between levels, Anteater plays "[[In the Hall of the Mountain King]]".
+
+At the start of each level, the music played is a short fragment of ''Ranz des Vaches'', the third movement of ''[[William Tell Overture]]''.
+
+==Ports==
+The game was ported to the [[Atari 2600]] by [[Mattel]] in 1983 but never published.<ref name="Atari Protos">[http://www.atariprotos.com/2600/software/anteater/anteater.htm ''Anteater''] at Atari Protos</ref> No official ports were released but [[Datamost]]'s ''Ardy The Aardvark'' (1983), which is almost identical, was written for the [[Apple II series|Apple II]] by ''Anteater'' creator [[Chris Oberth]].<ref>[http://my.stratos.net/~hewston95/RTM24/RTM24.html#Oberth_Interview ''Interview with Programmer Christian Oberth - part 2: The classic programming years''] {{webarchive |url=https://web.archive.org/web/20110724085610/http://my.stratos.net/~hewston95/RTM24/RTM24.html#Oberth_Interview |date=July 24, 2011}}, Alan Hewston, Retrogaming Times, Issue 24, May 2006 (cited 29-Oct-11)</ref> That game was converted to the [[Commodore 64]] and [[Atari 8-bit computers]] by Jay Ford.
+
+==Legacy==
+[[Sierra Entertainment|Sierra]]'s 1983 home clone, ''[[Oil's Well]]'', was re-themed to be about drilling for oil and was heavily promoted. It sparked its own clones: ''Pipeline Run'' for the [[Commodore 64]] in 1990<ref>{{lemon64 game|id=1937|name=Pipeline Run}}</ref> and ''Oilmania'' for the [[Atari ST]] and [[Amiga]] in 1991 and 1992, respectively. Other clones of ''Anteater'' are  [[Bug-Byte]]’s ''[[Aardvark (video game)|Aardvark]]'' (1986), ''Jack the Digger'' (1986) for the [[Atari 8-bit computers]]<ref>{{cite web|title=Jack the Digger|url=http://www.atarimania.com/game-atari-400-800-xl-xe-jack-the-digger_2632.html|website=Atari Mania}}</ref> and [[Blue Ribbon (software house)|Blue Ribbon]]'s ''[[Diamond Mine (video game)|Diamond Mine]]'' (1984) and ''Diamond Mine II'' (1985).
+
+The current arcade high score holder is [[Maria Blasucci]].<ref>{{cite web | url=https://www.twingalaxies.com/showthread.php/172349-Arcade-Anteater-Points-224-170-Maria-Blasucci | title=Twin Galaxies Arcade - Anteater - Points - 224,170 - Maria Blasucci}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{KLOV game|id=6891|name=Anteater}}
+* [http://www.arcade-history.com/?n=anteater&page=detail&id=85 ''Anteater''] at Arcade History
+
+[[Category:1982 video games]]
+[[Category:Stern video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Maze games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Sloths and anteaters in popular culture]]
+[[Category:Video games about insects]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games about ants]]
+[[Category:Multiplayer hotseat games]]

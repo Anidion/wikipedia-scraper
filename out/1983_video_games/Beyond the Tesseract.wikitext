@@ -1,0 +1,113 @@
+Beyond the Tesseract
+Permalink: //en.wikipedia.org/w/index.php?title=Beyond_the_Tesseract&oldid=1161917795
+Accessed on: 2024-06-26T16:54:36.379616
+
+
+
+------
+Beyond the Tesseract
+{{multiple issues|
+{{notability|Products|date=December 2018}}
+{{More citations needed|date=August 2011}}
+}}
+{{Infobox video game
+| title         =
+| image         = 
+| caption       = 
+| developer     = 
+| publisher     = 
+| designer      = David Lo
+| series        = 
+| engine        = 
+| released      = 1983<ref name="moby games">{{cite web|url=http://www.mobygames.com/game/beyond-the-tesseract|title=Beyond the Tesseract - Moby Games|publisher=MobyGames.com|date=2008-10-31}}</ref><ref name="wurb">{{cite web|url=http://www.wurb.com/if/game/211|title=Beyond the Tesseract|publisher=Wurb.com|date=2008-10-31}}</ref>
+| genre         = [[Text adventure]]
+| modes         = [[Single-player]]
+| platforms     = [[TRS-80]], [[MS-DOS]], [[Atari ST]], [[Unix]]
+| arcade system =  
+}}
+
+'''''Beyond the Tesseract''''' is a [[interactive fiction|text-based adventure game]] developed in [[1983 in video gaming|1983]] by Canadian author David Lo for the [[TRS-80]]. The game was notable{{according to whom|date=December 2018}} for its unique take on the genre and approach to mathematical entities and abstract concepts.<ref name="moby games"/>
+In one section the player must navigate a text adventure game, inside the text adventure game. In another the player, while asleep, derives a proof using physical representations of various symbolic logic components.<ref name="moby games"/>
+
+The game is intentionally [[vague]] using a [[Verb|VERB]] [[Noun|NOUN]] gameplay mechanic with a [[vocabulary]] of just 200.<ref name="Dave Lo"/>
+
+In 1988 the game was rewritted from [[BASIC]] to [[C (programming language)|C]] as V2.0, for [[MS-DOS]] and [[Atari ST]]; included was a [[patch (Unix)|patch file]] for V2.0p making it portable to [[Unix]] environments. It was published on [[Usenet]] that year, where it received a small patch submitted to fix issues in the Unix port, which became version V2.1p. In 2003, it was ported with minor modifications to the [[Z-machine]] interactive fiction standard virtual machine by [[Andrew Plotkin]].<ref>{{cite web | url=http://www.plover.net/~davidw/sol/b/beyon83.html | title=Beyond the Tesseract | publisher=Plover.net | accessdate=2023-06-25}}</ref>
+
+== Original release notes  ==
+
+Scenario:
+"You have reached the final part of your mission. You have
+gained access to the complex, and all but the last procedure has
+been performed.  Now comes a time of waiting, in which you must
+search for the hidden 12-word message that will aid you at the
+final step. But what choice will you make when that time comes?"
+
+The scenario for the adventure is meant to be vague.  Once the
+adventure has been completed, the scenario will hopefully become
+clear.
+
+Instructions:
+This adventure recognizes the standard commands for moving
+(N, E, S, W), taking inventory (I), manipulating objects (GET,
+DROP, LOOK), and saving games (SAVE, LOAD), as well as many
+others.  Use 2-word 'verb noun' commands, such as 'use stack' or
+'get all'.  Only the first four letters of each word are
+significant.  The adventure recognizes about 200 words, so if
+one word does not work, try another.
+
+Notes:
+"The "stack" is an acronym for Space Time Activated Continuum
+Key. You will find this object very useful.  Try the command
+"use stack"."
+
+This adventure is abstract and a bit on the technical side.
+Basic knowledge of the names of interesting mathematical objects
+would be a definite asset in solving the puzzles.  However,
+detailed knowledge of the technical background is not necessary,
+although it will make the adventure more enjoyable and reduce
+the amount of comments of the form "Was that supposed to be funny
+or what?  I don't get it."
+
+There is no carry limit, no death traps, and over 200 words in
+the program's vocabulary, so the player can hopefully concentrate on
+solving the adventure instead of solving the program.  The map
+of the adventure can be draw on a grid.  All it takes is a
+little experimenting to put all the subsets of locations
+together "logically".
+
+History:
+The idea of a mathematically abstract adventure came about
+during the summer of 1983, when I was reading the book ''[[Gödel, Escher, Bach|Godel, Escher, Bach: An Eternal Golden Braid]]''.
+I had just read an
+article on writing adventures, and I thought about doing my own
+article on adventure writing.  I did start on the article, and
+one of the examples of how varied puzzles can be is a
+mathematical adventure where the player has to "use a
+probability function to cross a field of improbability to get to
+a vortex."  Sadly the article was never finished, although
+remnants of it can be found in the ADV.DOC file. I started
+thinking more and more about a mathematically abstract
+adventure, and Tesseract was born!
+
+The very first adventure that I wrote was in 1982, titled "Hall
+of the Mountain King" (find the Crystal of Light).  Tesseract
+Version 1.0 was the second of the three TRS-80 BASIC adventures
+that I wrote in a two-month adventure-frenzy during the summer
+of 1983.  The first was "Project Triad" (defuse the bomb on the
+space station), and the third was "Codename Intrepid" (deliver a
+package to another agent).<ref name="Dave Lo">{{cite web|last=Lo|first=Dave|title=Dave Lo's Hobbies|url=http://www.davelo.net/play.shtml}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IFDB|id=0u4eqnk37mohejhu}}
+* [http://www.wurb.com/if/game/211 Various versions of the game are available for free legal download]
+
+[[Category:1980s interactive fiction]]
+[[Category:1983 video games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:TRS-80 games]]
+[[Category:Video games about video games]]
+[[Category:Video games developed in Canada]]

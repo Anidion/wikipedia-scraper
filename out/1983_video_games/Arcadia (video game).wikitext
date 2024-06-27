@@ -1,0 +1,55 @@
+Arcadia (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Arcadia_%28video_game%29&oldid=1180993522
+Accessed on: 2024-06-26T16:54:30.951098
+
+
+
+------
+Arcadia (video game)
+{{Short description|1983 video game}}
+{{Infobox video game
+|title= Arcadia
+| image= Arcadia cassette inlay.jpg
+|caption= Spectrum cassette inlay
+|designer= David H. Lawson
+|publisher= [[Imagine Software]]
+|series=
+|engine=
+|released= 1983
+|genre= [[Fixed shooter]]
+|modes= [[Single-player video game|Single-player]]
+|platforms= [[VIC-20]], [[ZX Spectrum]], [[Commodore 64]],<ref>[ftp://ftp.worldofspectrum.org/pub/sinclair/games-adverts/a/Arcadia.jpg Spectrum & Vic20 bestseller now on Commodore 64]{{dead link|date=October 2016|bot=InternetArchiveBot |fix-attempted=yes }}</ref> [[Dragon 32]]<ref>{{Cite web | url=http://www.dragon32universe.info/profs/dragon/cats/imagine.html | title=Dragon 32 Games by - Provided by Dragon 32 Universe}}</ref>
+}}
+
+'''''Arcadia''''' is a [[fixed shooter]] published by [[Imagine Software]] for the [[ZX Spectrum]] and [[VIC-20]] in 1983. It was later ported to the  [[Commodore 64]] and [[Dragon 32]].
+
+==Gameplay==
+[[image:Zx arcadia screenshot.png|thumb|left|Level 1 on the ZX Spectrum]]
+
+''Arcadia'' combines elements of ''[[Gorf]]'' and ''[[Galaxian]]''. The player controls a space ship as the aliens scroll and move freely down the screen. The game consists of 12 different levels of descending aliens. After level 12 the game loops back to level 1 with no extra difficulty. An extra life is rewarded after every four levels. Advancing to the next level involves staying alive until the timer in the top left corner ticks from 99 to 0. Once zero is reached the surviving aliens descend rapidly down the screen.
+
+Points awarded per alien destroyed are in line with the current level: Shoot down an alien on level 1 and you are awarded 1 point, roll around the levels and the same alien killed on level 13 is now worth 13 points.
+
+==Ports==
+Early VIC-20 versions contain a bug causing aliens to stop appearing after the eighth level. This was fixed by the publisher.{{Citation needed|date=January 2019}}
+
+The Commodore 64 cassette version has this warning on the loading screen: "Please wait 18 minutes for loading."<ref>{{cite tweet|number=901874672396115968|user=Commodore_lives|title=ZZzzzzz...  ZZzzzz...<!-- full text of tweet that Twitter returned to the bot (excluding links) added by TweetCiteBot. This may be better truncated or may need expanding (TW limits responses to 140 characters) or case changes. --> |date=27 August 2017}}</ref>
+
+==Reception==
+''ZX Computing'' said it was "highly addictive and well presented",<ref>[http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8304/Pages/ZXComputing830400115.jpg ZX Computing review of Arcadia]</ref> ''[[Computer & Video Games]]'' said "it lives up to the advertisement [[blurb]] and gives you a good addictive game of Space Attack" - rating it 8 out of 10.<ref>[http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue017/Supplement/CVG017Supplement08.jpg Computer & Video Games review of Arcadia]</ref>  ''[[Popular Computing Weekly]]'' were particularly impressed with the graphics, stating that they "have no equal in the Spectrum field," and "lift this game into a class of its own", rating it 86%.<ref>[http://www.worldofspectrum.org/showmag.cgi?mag=PopularComputingWeekly/Issue830303/Pages/PopularComputingWeekly83030300013.jpg Popular Computing review of Arcadia page 1]</ref><ref>[http://www.worldofspectrum.org/showmag.cgi?mag=PopularComputingWeekly/Issue830303/Pages/PopularComputingWeekly83030300014.jpg Popular Computing review of Arcadia page 2]</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{WoS_game|id=0000237|name=Arcadia}}
+
+[[Category:1983 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Dragon 32 games]]
+[[Category:Fixed shooters]]
+[[Category:Imagine Software games]]
+[[Category:Single-player video games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

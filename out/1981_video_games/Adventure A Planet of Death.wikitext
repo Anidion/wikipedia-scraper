@@ -1,0 +1,58 @@
+Adventure A: Planet of Death
+Permalink: //en.wikipedia.org/w/index.php?title=Adventure_A%3A_Planet_of_Death&oldid=1209354114
+Accessed on: 2024-06-26T16:52:02.742237
+
+
+
+------
+Adventure A: Planet of Death
+{{Short description|1981 video game}}
+{{Infobox video game
+|title     = Adventure A: Planet of Death
+|image     = Adventure A Planet of Death.jpg
+|caption   = Cover art by Tony Roberts<ref name='tonyrobertsart'>{{cite web |title=Gallery Two|website=Tony Roberts Art|publisher=Tony Roberts|date=|url=http://www.tonyrobertsart.co.uk/TONY_ROBERTS_ART_-_THE_SCIENCE_FICTION_YEARS/gallery_two.html|access-date=11 January 2023}}</ref>
+|developer = [[Artic Computing]]
+|publisher = Artic Computing
+|designer = Richard Turner<br>Chris A. Thornton<ref name=sc>{{WoS game|id=0005913|name=A Planet of Death}}</ref>
+|released = '''1981:''' ZX80, ZX81<br>'''1982:''' Spectrum<br>'''1984:''' C64<br>'''1985:''' Amstrad CPC
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[ZX80]], [[ZX81]], [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]]
+|alt = 
+}}
+
+'''''Adventure A: Planet of Death''''' is a [[text adventure]] from [[Artic Computing]] published for the [[ZX80]] and [[ZX81]] in 1981.<ref name='ycaug81'>{{cite magazine |title=Adventure on the ZX-80|magazine=Your Computer|issue=2|publisher=IPC|date=August 1981|page=8|url=https://archive.org/details/your-computer-magazine-1981-08/page/n7/mode/2up|access-date=21 February 2024}}</ref><ref name=sc/> Releases followed for the [[ZX Spectrum]] (1982), [[Commodore 64]] (1984), and [[Amstrad CPC]] (1985). The game was followed by Adventures B, C, D, E, F, G, and H.<ref>{{Cite web|url=http://adventure.if-legends.org/Artic_Computing.html|title=Artic Computing|website=adventure.if-legends.org|access-date=November 25, 2017}}</ref>
+
+''Adventure A'' was re-released for [[iOS]] and [[Android (operating system)|Android]].
+
+== Plot ==
+The player takes over the role of a spaceship pilot who is stranded on an alien planet. The aim is to escape from this planet by finding his or her captured and disabled [[starship|spaceship]].
+
+== Development ==
+
+In 2013 a game version for [[iOS]] devices was released.<ref>{{cite web | url=https://openretro.org/cpc/adventure-a-planet-of-death | title=Adventure 'A' - Planet of Death | publisher=OpenRetro.org | accessdate=2023-05-16}}</ref> An [[Android (operating system)|Android]] version followed in 2020.
+
+==Reception ==
+
+''[[Crash (magazine)|Crash]]'' magazine wrote that the game was "good value", complimenting its tone as "atmospheric" and "chilling".<ref>{{Cite web|url=http://live.worldofspectrum.org/infoseek/magazines/crash/1#64|title=World of Spectrum - Crash-1|website=World of Spectrum|access-date=November 25, 2017|archive-date=February 9, 2018|archive-url=https://web.archive.org/web/20180209063137/http://live.worldofspectrum.org/infoseek/magazines/crash/1#64|url-status=dead}}</ref> British magazine ''[[Home Computing Weekly]]'' reported that ''Planet of Death'' followed a traditional adventure format. The magazine depicted the parser as fast but primitive. Editor Ray Elder judged that solving the game's puzzles was a very satisfying experience for him, make him "love" the game.<ref>{{cite magazine | last=Elder | first=Ray | date=1983-03-08 | title=Software Reviews: Planet of Death | url= | language=en | magazine=Home Computing Weekly | page=21 | location=London | publisher=Argus Press | access-date=}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{IFDB|id=4qfi5hjkux9o409f}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1981 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Artic Computing games]]
+[[Category:Commodore 64 games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set on fictional planets]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX81 games]]
+
+
+{{8bitcomputer-game-stub}}
+{{adventure-videogame-stub}}

@@ -1,0 +1,101 @@
+Jetpac
+Permalink: //en.wikipedia.org/w/index.php?title=Jetpac&oldid=1223180373
+Accessed on: 2024-06-26T16:55:12.648373
+
+
+
+------
+Jetpac
+{{Short description|1983 arcade-style shooter video game}}
+{{About|the 1983 video game||Jetpack (disambiguation)}}
+{{good article}}
+{{Infobox video game
+| title = Jetpac
+| image = Jetpac Coverart.png
+| caption = 
+| developer = [[Ultimate Play the Game]]
+| publisher = Ultimate Play the Game
+| designer = 
+| programmer = Chris Stamper
+| artist = Tim  Stamper
+| engine = 
+| released = {{plainlist|
+*ZX Spectrum{{vgrelease|UK|May 1983<ref name=pcg1>{{citation| title=PSST is this the Ultimate? | journal=[[Personal Computer Games]] | date=June 1983 | issue=1 | page=5 | url=https://archive.org/stream/personalcomputergames-magazine-01/PersonalComputerGames_01#page/n6/mode/1up }}</ref>}}
+*VIC-20{{vgrelease|UK|1983<ref name="JetpacPCG_VIC20">{{cite journal|title=Coming Soon... |journal=[[Personal Computer Games]] |issue=2 |date=November 1983 |page=7| url=https://archive.org/stream/personalcomputergames-magazine-02/PersonalComputerGames_02#page/n8/mode/1up}}</ref>}}
+*BBC Micro{{vgrelease|UK|1984<ref name=JetpacCVG_BBC>{{cite journal|title=Jetpac review, BBC Micro version |journal=[[Computer and Video Games]] |issue=38 |date=December 1984 |page=36|url=https://archive.org/stream/computer-video-games-magazine-038/CVG038_Dec_1984#page/n35/mode/1up}}</ref>}}}}
+| genre = [[Shooter game|Shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[ZX Spectrum]], [[BBC Micro]], [[VIC-20]]
+}}
+'''''Jetpac''''' is a [[Shooter game|shooter video game]] developed and published by [[Ultimate Play the Game]] and released for the [[ZX Spectrum]] and [[VIC-20]] in 1983 and the [[BBC Micro]] in 1984. It is the first game to be released by [[Ultimate Play the Game]], the company which later became [[Rare (company)|Rare]]. The game follows Jetman as he must rebuild his rocket in order to explore different planets, while simultaneously defending against hostile aliens. It was written by Ultimate co-founder Chris Stamper with graphics designed by his brother, Tim Stamper. Reviewers praised ''Jetpac''{{'}}s presentation and gameplay, and it won "Game of the Year" at the [[Golden Joystick Awards]] in 1983.
+
+''Jetpac'' has since been included as an unlockable minigame in 1999's ''[[Donkey Kong 64]]'' and as part of the 2015 compilation ''[[Rare Replay]]''. It was later included in a game compilation on the [[ZX Spectrum Vega]]. It spawned two direct sequels and a 2007 remake, ''[[Jetpac Refuelled]]'', which was released for the [[Xbox Live Arcade]] service.
+
+==Gameplay==
+[[Image:Jetpac.gif|thumb|left|Three rocket sections need to be assembled before Jetman can leave this planet.]]
+
+The game world is presented in a horizontal [[wraparound (video games)|wraparound]] and consists of three platforms which Jetman can manoeuvre onto. Jetman must assemble his rocket (which spawns in pieces scattered around the map), and then fill it with fuel before taking off to the next planet, where the procedure is broadly repeated with alternate procedures.<ref name=interface/> In addition, the player has to defend themselves from the planet's aliens, and for bonus points collect valuable resources which occasionally fall from above.<ref name=crash03/>
+
+After the first level, the rocket stays assembled and just requires refuelling. However, every four levels, the rocket resets (giving the player an extra life) and the replacement has to be built before it can be refuelled for takeoff.<ref name=interface/> Each new model has a new design with a higher number written on it, although the core gameplay remains unchanged.<ref name=crash03/> The enemies change forms each level (cycling back to the first after eight levels) and each alien has a different pattern of movement which means they can be dealt with in a different manner.<ref name=cvg/>
+
+==Development==
+[[Image:ZX Interface 2 connected to ZX Interface 1.jpg|thumb|Jet Pac ROM inserted to ZX Interface 2]]
+
+Ultimate Play the Game was founded by brothers [[Tim and Chris Stamper]], along with Tim's wife, Carol, from their headquarters in [[Ashby-de-la-Zouch]] in 1982. They began producing multiple video games for the [[ZX Spectrum]] throughout the early 1980s.<ref name=best>{{cite web|title=The Best of British - Ultimate|url=http://www.crashonline.org.uk/51/ultimate.htm|publisher=Crash|access-date=13 August 2015}}</ref> The company were known for their reluctance to reveal details about their operations and then-upcoming projects. Little was known about their development process except that they used to work in "separate teams"; one team would work on development whilst the other would concentrate on other aspects such as sound or graphics.<ref name=best/> While developing ''Jetpac'', the Stamper brothers closely studied the burgeoning Japanese gaming market and had started to practice developing games for their then-upcoming console, the [[Nintendo Entertainment System|Famicom]], later predicting that the ZX Spectrum had a limited lifespan.<ref name=sabre>{{cite journal|title=The Ultimate Hero: The Complete History of Sabreman|journal=Retro Gamer|date=February 2010|issue=73|page=27|url=http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_073.pdf|access-date=23 August 2015|publisher=Imagine|url-status=dead|archive-url=https://web.archive.org/web/20151004151212/http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_073.pdf|archive-date=4 October 2015}}</ref>
+
+''Jetpac'' was one of the few Spectrum games also available in a [[read-only memory|ROM]] format for use with the [[ZX Interface 2|Interface 2]], allowing "instantaneous" loading of the game when the normal method of cassette loading took minutes.<ref name=interface>{{citation | title=Interface Games are Fast but not Furious | journal=[[Sinclair User]] | issue=24 | pages=54–55 | publisher=[[EMAP]] | date=March 1984 | url=https://archive.org/stream/sinclair-user-magazine-024/SinclairUser_024_Mar_1984#page/n53/mode/2up }}</ref> The game was also able to run on the 16K version of the Spectrum.<ref name=best/>
+
+==Reception==
+{{Video game reviews
+| CVG = ZX: 9/10<ref name=cvg>{{ citation  | journal=[[Computer and Video Games]] | title = Jetpac - Review | date=January 1983 | issue=21 | pages=136 | publisher=[[Future Publishing]] | url=https://archive.org/stream/computer-video-games-magazine-021/CVG021_Jul_1983#page/n135/mode/1up }}</ref><br>
+BBC: 9/10<ref name=JetpacCVG_BBC/>
+| EuroG = 9/10<ref name=EuroG/>
+| CRASH = Highly recommended<ref name="crash03"/>
+| rev1 = ''Home Computing Weekly''
+| rev1Score = {{Rating|4|5}}<ref>{{citation | url=http://www.worldofspectrum.org/showmag.cgi?mag=HomeComputingWeekly/Issue016/Pages/HomeComputingWeekly01600015.jpg | title=Reaction games across the Spectrum - Jet Pac | journal=Home Computing Weekly | date=June 1983 | issue=16 | page=15 }}</ref>
+| award1Pub = [[Golden Joystick Awards]]
+| award1 = "Game of the Year" (1983)<ref name=goldenjoy>{{cite journal|title=C&VG's Golden Joystick Awards 1983|journal=[[Computer and Video Games]]|date=June 1985|issue=29|url=https://archive.org/stream/Computer_Video_Games_Issue_029_1984-03_EMAP_Publishing_GB/Computer__Video_Games_Issue_029_1984-03_EMAP_Publishing_GB#page/n14/mode/1up|access-date=13 January 2012|page=15|publisher=[[Future Publishing]]}}</ref>
+}}
+
+The game sold over 300,000 copies and generated £1 million in revenue for Ultimate Play the Game, which enabled the Stamper brothers to gain a foothold in the early video gaming market.<ref>{{cite news |last1=Nuttall |first1=Nick |title=Nintendo puts British firm on big game map|url=https://archive.org/details/NewsUK1995UKEnglish/Apr%2020%201995%2C%20The%20Times%2C%20%2365246%2C%20UK%20%28en%29/page/n5/mode/2up|page=7|access-date=10 May 2024 |work=The Times |issue=65246 |date=20 April 1995}}</ref><ref name=history>{{cite journal|title=1983: A Spaceman's Odyssey - The History of Jetman|journal=Retro Gamer|date=November 2011|issue=96|page=50|url=http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_096.pdf|access-date=22 August 2015|publisher=Imagine|url-status=dead|archive-url=https://web.archive.org/web/20150927142453/http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_096.pdf|archive-date=27 September 2015}}</ref>
+
+The game was critically acclaimed. ''[[Crash (magazine)|Crash]]'' praised the graphics and presentation, citing that they were of "the highest standard" and added that it was "difficult to find any real faults" with the game.<ref name=crash03>{{cite journal|title=Jetpac review |journal=Crash Magazine|date=April 1984|issue=4|page=65|url=https://archive.org/stream/Crash_No._03_1984-04_Newsfield_GB#page/n63/mode/2up/search/jetpac|access-date=3 August 2015}}</ref> ''[[Computer and Video Games|CVG]]'' similarly praised the graphics, stating that the presentation was "superb" and the gameplay was considered addictive.<ref name=cvg/> In a retrospective review, Chris Wilkins of [[Eurogamer]] noted that the colourful graphics and sound effects were advanced for the time, but what truly made for a "faultless" experience was its simple gameplay.<ref name=EuroG>{{cite web|last1=Wilkins|first1=Chris|title=Jetpac review|url=http://www.eurogamer.net/articles/jetpac-review|website=Eurogamer|access-date=3 August 2015|date=25 October 2007}}</ref>
+
+''ZX Computing'' praised the game's playability and replay value, stating that ''Jetpac'' was "a very well put together piece of software".<ref>{{citation | url=http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8308/Pages/ZXComputing830800106.jpg | title=The soft touch - Jet Pac | journal=ZX Computing | date=August 1983 | issue=8 | pages=106–107 }}</ref> The game was number one in the first Spectrum sales chart published by ''CVG''.<ref>{{ citation | url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue023/Pages/CVG02300037.jpg | journal=[[C+VG]] | title = Chart Toppers | date=September 1983 | issue=23 | pages=37 | publisher=[[Future Publishing]] }}</ref>
+The ZX Spectrum version was voted number 73 in the ''[[Your Sinclair]] Readers' Top 100 Games of All Time'' in 1993<ref>{{citation |url=https://archive.org/stream/your-sinclair-93/YourSinclair_93_Sep_1993#page/n57/mode/1up |title=Readers' Top 100 Games of All Time |publisher=[[Future plc]]|journal=[[Your Sinclair]] | date= September 1993 | issue=93 | page=11}}</ref> and was voted the 14th best game of all time by the readers of [[Retro Gamer]] for an article that was scheduled to be in a special ''Your Sinclair'' tribute issue.<ref>{{cite web|url=http://www.ysrnry.co.uk/articles/50bestspeccygames94.htm |title=The 50 Best Speccy Games Ever! |publisher=ysrnry.co.uk |date=November 2004 |url-status=dead |archive-url=https://web.archive.org/web/20150912235003/http://www.ysrnry.co.uk/articles/50bestspeccygames94.htm |archive-date=2015-09-12 }}</ref> The game won the title "Game of the Year" at the 1983 [[Golden Joystick Awards]].<ref name=goldenjoy/>
+
+==Legacy==
+After the game's release, ''Jetpac'' was parodied in a long-running ''[[Crash (magazine)|Crash]]'' comic strip named ''Lunar Jetman''. The strip, designed by John Richardson, lasted from July 1984 to October 1991 and gained popular reception from readers. To develop the comic, photographs had to be processed manually on a photomechanical tone and then transferred to paper, being fully colorized in the late 1980s.<ref name=history/>
+
+''Jetpac'' was followed by two sequels: ''[[Lunar Jetman]]'' (1983) and ''[[Solar Jetman]]'' (1990). The latter was not released for the ZX Spectrum, and a version for the Commodore 64 was finished but never released following disappointing sales of the original [[Nintendo Entertainment System|NES]] version.<ref>{{cite web|title=Solar Jetman - 1991 storm|year=1991 |url=http://www.gamesthatwerent.com/gtw64/solar-jetman/|publisher=Games That Weren't|access-date=3 August 2015}}</ref>
+
+Since its release, ''Jetpac'' has been included in a number of other games developed by [[Rare (company)|Rare]]. The game is playable in ''[[Donkey Kong 64]]'', where it could be unlocked to play in [[Cranky Kong]]'s laboratory after obtaining 15 Banana Medals. Beating Cranky Kong's high score rewards the player with the Rareware Coin, which is necessary to beat the game. The game was retained in the April 2015 [[Virtual Console]] re-release of ''Donkey Kong 64'' on the [[Wii U]], despite the property being technically owned by Microsoft.<ref>{{cite web|url=http://uk.gamespot.com/n64/action/donkeykong64/hints.html |title=Donkey Kong 64 |publisher=CNET |work=GameSpot |access-date=30 May 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060613215708/http://uk.gamespot.com/n64/action/donkeykong64/hints.html |archive-date=13 June 2006 }}</ref> An [[Video game remake|enhanced remake]] of ''Jetpac'', entitled ''[[Jetpac Refuelled]]'', was released on the [[Xbox Live Arcade]] in March 2007.<ref>{{cite web|url=http://www.xbox.com/en-US/games/j/jetpacrefuelledxboxlivearcade/default.htm |title=Jetpac Refuelled |publisher=Microsoft |work=Xbox.com |access-date=25 February 2008 |archive-url=https://web.archive.org/web/20080222031535/http://www.xbox.com/en-US/games/j/jetpacrefuelledxboxlivearcade/default.htm |archive-date=22 February 2008 |url-status=dead }}</ref> Microsoft's [[Electronic Entertainment Expo 2015|E3 2015]] press conference unveiled the compilation title ''[[Rare Replay]]'', which has a selection of thirty games from Rare's lifetime game library, including the original ''Jetpac'' and its two sequels and remake, making the ''Jetman'' series the most represented in the collection.<ref>{{cite news|url=http://news.xbox.com/2015/06/xbox-rare-celebrates-its-30th-anniversary-with-a-massive-30-game-collection|title=Rare Celebrates Its 30th Anniversary with a Massive 30-Game Collection|work=Xbox News|date=15 June 2015|access-date=19 August 2015}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Spoken Wikipedia|date=2024-05-03|EN-Jetpac-article.ogg}}
+* {{WoS game|id=0009362}}
+* {{moby game|id=/jetpac}}
+*[https://web.archive.org/web/20150128112951/http://www.robsoftcloud.net/Ultimate/games/jetpacintro.shtml ''Jetpac''] at Ultimate Wurlde
+*[https://jetpac.ee/ ''Jetpac'']
+
+
+{{Ultimate Play the Game}}
+{{Rare}}
+{{Golden Joystick GOTY}}
+
+[[Category:1983 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:VIC-20 games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Rare (company) games]]
+[[Category:Microsoft franchises]]
+[[Category:Science fiction video games]]
+[[Category:ZX Spectrum games]]
+[[Category:Shooter games]]
+[[Category:Single-player video games]]
+[[Category:Golden Joystick Award for Game of the Year winners]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games developed in the United Kingdom]]

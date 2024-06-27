@@ -1,0 +1,54 @@
+Nautilus (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Nautilus_%28video_game%29&oldid=1224119428
+Accessed on: 2024-06-26T16:53:45.303090
+
+
+
+------
+Nautilus (video game)
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Nautilus
+|image = Nautilus_box_cover.jpg
+|programmer = Mike Potter
+|publisher = [[Synapse Software]]
+|released = 1982
+|genre = [[Action game|Action]]
+|modes = [[Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Atari 8-bit computers|Atari 8-bit]]
+}}
+
+'''''Nautilus''''' is a video game for [[Atari 8-bit computers]] created by Mike Potter and published by [[Synapse Software]] in 1982. The players control a [[submarine]], the ''Nautilus'', or a [[destroyer]], the ''Colossus'', attempting to either destroy or rebuild an underwater city. The game the first to feature a "split screen" display to allow both players to move at the same time.<ref>{{cite web| url=https://dadgum.com/giantlist/archive/potter.html |title=Mike Potter's Story |website=dadgum.com |date=January 17, 2000}}</ref>
+
+==Gameplay==
+[[Image:Nautilus in-game.png|thumb|left|On the top screen, the ''Colossus'' is moving to pick up the repair crew. On the lower screen, the ''Nautilus'' is preparing to retrieve the grey power core in the middle of the green building. A pink depth charge is falling behind the ''Nautilus'', and frogman awaits the subs approach (on the bottom, green).]]
+
+''Nautilus'' starts with player one in control of the submarine, visible in the lower pane of the split-screen display. The [[joystick]] allows the player to move left and right or rise and sink. The player can shoot their Thunderbolt [[torpedo]]es to the right or left in the direction of travel.{{sfn|Potter|1982|p=3}} The primary task for the player is to move into location beside the various underwater buildings and destroy them with their torpedoes in order to expose their energy core, which can be picked up by moving over it. The player wins the level by collecting all of the cores.{{sfn|Potter|1982|p=4}}
+
+Player two, or the computer player in a single-player game, controls the destroyer, visible in the upper pane. The ship's primary task is to ferry repair crews from the right side of the map back to the left, dropping them into an elevator that takes them to the bottom of the ocean. From there they quickly move back towards the right through a tube on the ocean floor, instantly repairing the buildings directly above them as they pass. The destroyer also drops [[depth charge]]s and Barracuda [[missile]]s that attack the submarine. The missiles track the submarine and can be killed by hitting them with five torpedoes. Frogmen with [[limpet mine]]s randomly appear on the sea bed and track the submarine if it passes over them. These are relatively easy to dodge in most cases, and can be killed by shooting them five times. The most dangerous enemy is normally the construction crew, who may fix one of the buildings while the ''Nautilus'' is inside, retrieving the core.{{sfn|Potter|1982|p=4}}
+
+Both the ''Nautilus'' and ''Colossus'' have a sonar system that indicates the direction to the other ship. When the two are aligned vertically the display turns red and a warning horn sounds.{{sfn|Potter|1982|p=5}}
+
+In two-player mode the actions of the destroyer are relatively limited. The delay between dropping charges and them reaching the submarine is enough to allow the sub to destroy an average building before they arrive, so the ship cannot easily directly attack the sub in order to prevent it from winning. This forces it to act as a ferry for the repair crews.{{sfn|Miles|1982}}
+
+==Reception==
+''Nautilus'' was lauded at the time of its release,{{sfn|Miles|1982}} with ''[[Creative Computing]]'' calling it a "tour de force",<ref>[http://www.atariarchives.org/creativeatari/Nautilus.php "Nautilus"], ''The Creative Atari'', 1983</ref> and judges at the 4th annual [[Arkie Awards]] granting it a Certificate of Merit in the category of "Most Innovative Computer Game".<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= March 1983 |title= Arcade Alley: The Best Computer Games |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 12|pages= 32–33|issn= 0147-8907}}</ref>{{rp|33}} In an article about Synapse, an ''[[InfoWorld]]'' author noted no one was examining their highly rated [[relational database]] program, in favour of watching a game of ''Nautilus'' being played.<ref>[https://books.google.com/books?id=LjAEAAAAMBAJ&pg=PA25 "Synapse Software helps bridge the gap in programs for Atari"], ''InfoWorld'', 26 July 1982, pp. 25-26</ref>
+
+Grant Butenhoff reviewed the game for ''[[Computer Gaming World]]'', and stated that "Truly, Synapse has produced another top rate game with outstanding graphics and intense action."<ref name="CGW10">{{cite magazine |last=Butenhoff |first=Grant |title=Micro-Reviews |magazine=Computer Gaming World |date=May–Jun 1983 |volume=1 |issue=10 |pages=39–40}}</ref>
+
+==References==
+===Citations===
+{{Reflist}}
+
+===Bibliography===
+* {{cite journal |first= Gordon |last=Miles |title=Nautilus |url=http://www.atarimagazines.com/v1n4/productreviews.html |journal=ANTIC |date=October 1982 }}
+* {{cite work |first=Mike |last=Potter |title= Nautilus User Manual |url=https://archive.org/stream/agm_Nautilus |date=1982 |publisher=Synapse Software }}
+
+[[Category:1982 video games]]
+[[Category:Asymmetrical multiplayer video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Naval video games]]
+[[Category:Synapse Software games]]
+[[Category:Video games developed in the United States]]
+[[Category:Submarines in fiction]]

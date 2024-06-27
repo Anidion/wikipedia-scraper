@@ -1,0 +1,90 @@
+Rollerball (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Rollerball_%28video_game%29&oldid=1165295283
+Accessed on: 2024-06-26T16:57:30.617944
+
+
+
+------
+Rollerball (video game)
+{{more citations needed|date=July 2022}}
+
+{{Infobox video game
+|title = Rollerball (video game) 
+|image = Rollerball NES cover.jpg
+|caption = NES cover art
+|developer = [[HAL Laboratory]]
+|publisher = HAL Laboratory
+|producer = [[Satoru Iwata]]
+|designer = [[Satoshi Matsuoka]] (MSX)<br> Makoto Kanai (NES)
+|composer = Hideki Kanazashi, Hiroaki Suga
+|platforms = [[MSX]], [[NES|Famicom/NES]]
+|released = '''MSX'''{{vgrelease|JP|1984}}'''Famicom/NES'''{{vgrelease|JP|December 20, 1988|NA|February 1990|EU|1992}}
+|genre = [[Pinball game|Pinball]]
+|modes = [[Single-player video game|Single-player]] <br> [[Multiplayer video game|Multiplayer]] <small>(up to 4 players)</small>
+}}
+
+{{nihongo|'''''Rollerball'''''|ローラーボール|Rōrābōru}} is a video game produced by [[HAL Laboratory]] in 1984 for the [[MSX]].<ref>{{Cite web |title=Rollerball (1984) |url=https://www.mobygames.com/game/rollerball |access-date=2022-07-17 |website=MobyGames}}</ref> A [[Nintendo Entertainment System]] version of the game was released in 1988.<ref>{{Cite web |title=Rollerball |url=https://www.igdb.com/g/2tl |access-date=2022-07-17 |website=IGDB.com |language=en}}</ref><ref>{{Cite web |title=Rollerball (NES) - The Cutting Room Floor |url=https://tcrf.net/Rollerball_(NES) |access-date=2022-07-17 |website=tcrf.net}}</ref> It is designed to be played by one to four players, in turn. It is an emulation of a [[pinball]] machine.
+
+The pinball machine rendered in ''Rollerball'' is composed of four screens, which, by proportion, would be about as long as two standard pinball tables if it were a real table.  The graphics on two of the four screens are based on various aspects of the [[New York City]] skyline.  The topmost screen (hereafter called the ''bonus screen'') merely shows some clouds and a blimp.  The second screen (the ''main screen'') shows the top of the [[Empire State Building]], while the third screen (''intermediate'') shows the lower skyline and the [[Statue of Liberty]].  The lowest (''final'') screen shows only a blue backdrop, representing the Ocean.
+
+==Gameplay==
+===Main screen===
+In the main mode, each player launches the ball directly into the main screen.  To the top is a small loop marked ''SLOT''; if the player sends the ball through this loop, a [[slot machine]] display in the center of the screen cycles, with various penalties or rewards given when one of the three symbols (an eggplant, a pair of cherries, or a bell) appears three times.  The center of the SLOT loop is open, allowing the player to enter the bonus screen.
+
+There is a pair of [[Kickback (gaming)|kickback]] holes in the upper left of the main screen, with a bumper in proximity to the upper one.  The lower one will shoot the ball straight up, relying on the curvature of the wall to direct it into the upper hole if the player is lucky.  If the ball falls in the upper hole, one of two things can happen.  If the kickback slot in the bonus screen is empty, the ball will be transferred to that slot and another ball will be released to the plunger to enter play.  If the kickback slot is already filled, the ball is relaunched from the lower hole.
+
+===Intermediate screen===
+When in the intermediate screen, the most viable way of returning to the main screen is by a kickback hole on the upper left of the screen.  It initially fires up to the main screen when entered, but switches directions every time it is used.  If the player gets three cherries on the main screen slot, this hole will always shoot the ball upwards.  Otherwise, there are some chances to score in this screen, but it is not a desirable place to have the ball.
+
+There are three sets of three drop targets, and a set of three slots.  When the game begins, a light (with the letter [[A]]) is lit above the first slot, and one set of three drop targets is chosen and marked with a flashing green light.  Additionally, a bonus tally on this screen begins at 3,000 points.  Completing a set of drop targets increases this bonus tally; sending the ball through a slot when its light is lit (one can move the light by flipping the flippers) adds the current tally to the player's score.
+
+===Lower screen===
+The lower screen, however, is the least desirable place to be.  The ball can only be officially drained from this screen.  However, some options are still available to the player:
+
+* The apparatus on the left side of the screen acts as a kind of slot machine to provide bonuses.  The button on the lower side of the apparatus enables it, the spinner changes the bonus indicated, and the flashing sensor will (as long as it is flashing when the ball passes over it) award the player the indicated bonus.
+* A smaller right flipper sits near a kickback hole at the upper right of the screen.  If enabled through either receiving three cherries on the main screen or the Exit Hole bonus from the lower screen bonus apparatus, this hole sends the ball back to the plunger to be relaunched, with no lost ball penalty.
+* A kickback slot to the left of the left flipper complex can be opened the same way as the Exit Hole, as can a stopper between the two flippers.  The kickback can also be opened by lighting the ABC slots in the middle of the screen.
+* A well-aimed hit from the left flipper can send the ball safely back into the intermediate screen.
+
+===Bonus screen===
+While on the bonus screen, the player must shoot the ball over each of seven sensors, with the letters in the phrase "SKY HIGH" written on them, in a random but forced order.  (That is, the player must shoot the ball over the flashing letter to light it and activate it; passing over non-flashing or already activated letters has no effect.)  After this is done and the ball is placed in the kickback hole at the top of the screen, the letters turn into bumpers which must be hit numerous times to remove and start the bonus game again.  Successfully finishing this bonus gives the player a large sum of points, as well as an extra ball (the first time completed) or an increase of the bonus multiplier (any other completion).
+
+Two sets of four targets, similar to drop targets, are in the top corners of the bonus screen.  When all activated, the upper left targets, labeled "RAISE THE SAVER", place a stopper at the gap between the left wall and the left flipper apparatus.  The upper right targets, labeled "OPEN THE GATE", open a kickback slot in the lower right corner.  Locking a ball in the kickback slot will send the ball into play as part of a two-ball multiball event when the bonus game is enabled.  If the slot is opened when a ball is already locked, the locked ball will kick the entering ball back into play.
+
+===Losing a ball===
+If the ball passes the flippers on the lower screen, on either side or between the flippers, it is drained and the end-of-ball bonus is calculated.  A tally of the current bonus is kept during gameplay and shown on the lower screen; this bonus starts at 1,000 points and is increased in intervals of 1,000 points during play.  Upon draining the ball, the bonus is counted down to 0 points and added to the player's score; to represent any increase in the bonus multiplier, this count is repeated.  The bonus multiplier can be increased by finishing the bonus game more than once, or by receiving three cherries or three bells on the main screen slot machine.
+
+The game ends after three balls (in addition to any extra balls from the bonus screen) are drained; a typical final score can be around 300,000 points.  Scoring 1,000,000 points enables the credits after the final ball is drained.
+
+==Match play==
+The alternate mode is a two-player game called '''Match Play'''.  In this mode, a much smaller table, only one screen tall, houses a number of buttons and switches that lower the score of the player on that side by various amounts.  Four sensors in the middle of the table will switch the scores of the two players whenever they all become lit.  A slot machine is spun by the buttons on the outer walls, and its bonus is enacted by hitting the button on the top wall.  The first player to lose all his or her points loses.
+
+Two animals in the middle of each player's area show an emotion, from ecstasy to sadness, through neutral indifference, depending on that player's score and the score margin between the two players.  In the Japanese version, the left player's animal is an [[elephant]], and the right player's is a [[giraffe]].  In the English version, the giraffe was changed to a [[donkey]], likely in reference to the [[United States Republican Party|Republican]] and [[United States Democratic Party|Democratic]] U.S. [[political party|political parties]].
+
+==See also==
+*[[List of MSX games]]
+*[[List of Nintendo Entertainment System games]]
+*''[[Pinball (1984 video game)|Pinball]]'' (1984)
+*''[[Rock 'n Ball]]'' (1989)
+*''[[Pinball Quest]]'' (1989)
+*''[[Pin*Bot (video game)|Pin*Bot]]'' (1990)
+*''[[High Speed (video game)|High Speed]]'' (1991)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.hallab.co.jp/works/detail/000767/ Info on HAL Laboratory's website]
+*[http://www.twingalaxies.com/index.aspx?c=22&pi=23&gi=2079&vi=3540 Rollerball World Records] at [[Twin Galaxies]]
+*[http://moonbooks.net/scifi/rollerball-murder/ Science Fiction Radio Theater - Rollerball Murder] {{Webarchive|url=https://web.archive.org/web/20081005074800/http://moonbooks.net/scifi/rollerball-murder/ |date=2008-10-05 }} Rollerball Murder Audio Drama
+*[http://generation-msx.nl/msxdb/softwareinfo/360 Infosheet at Generation MSX]
+
+{{Authority control}}
+
+[[Category:1984 video games]]
+[[Category:HAL Laboratory games]]
+[[Category:Mobile games]]
+[[Category:MSX games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Pinball video games]]
+[[Category:Video games developed in Japan]]

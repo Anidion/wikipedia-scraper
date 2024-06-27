@@ -1,0 +1,88 @@
+Enchanter (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Enchanter_%28video_game%29&oldid=1224117120
+Accessed on: 2024-06-26T16:54:57.067189
+
+
+
+------
+Enchanter (video game)
+{{Infobox video game
+|title     = Enchanter
+|image     = Enchanter game box cover.jpg
+|caption   = 
+|developer = [[Infocom]]
+|publisher = Infocom
+|designer  = [[Marc Blank]]<br>[[Dave Lebling]]
+|engine    = [[Z-machine]]
+|released  = August 10, 1983
+|genre     = [[Interactive fiction]]
+|modes     = [[Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Amstrad PCW]], [[Apple II]], [[Apricot PC]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[CP/M]], [[DEC Rainbow]], [[Kaypro II]], [[Macintosh]], [[APC III|NEC APC]], [[Osborne 1]], [[MS-DOS]], [[PC-9800 series|PC-9801]],<ref name="PC98Enchanter">{{cite web |url=http://www.mobygames.com/game/pc98/enchanter-wakaki-madshi-no-shiren |title=Enchanter: Wakaki Madōshi no Shiren |publisher=[[MobyGames]] |access-date=October 14, 2016}}</ref> [[PDP-9]], [[PDP-10]], [[PDP-11]], [[TI-99/4A]], [[TRS-80]].<ref>[http://adventure.if-legends.org/Infocom.html Enchanter] by Hans Persson and Stefan Meier</ref>
+}}
+
+'''''Enchanter''''' is an [[interactive fiction]]  game written by [[Marc Blank]] and [[Dave Lebling]] and published by [[Infocom]] in 1983. The first fantasy game published by Infocom after the ''[[Zork]]'' trilogy, it was originally intended to be ''Zork IV''. The game has a [[parser]] that understands over 700 words, making it the most advanced interactive fiction game of its time.{{Citation needed|date=April 2021}} It was Infocom's ninth game.
+
+==Plot==
+Krill, a powerful evil warlock, is spreading chaos and destruction. None of the more experienced members of the Circle of Enchanters dare to attempt to stop him. In desperation, the player, a novice Enchanter with only a few weak spells in his spell book, is sent in hopes that Krill will either fail to detect him or dismiss him as harmless. More powerful spells can be found on scrolls hidden in various locations, but as the player becomes more of a threat, Krill will respond accordingly.
+
+==Gameplay==
+This game has a new spell system based partially on [[Ursula K. Le Guin]]'s ''[[Earthsea]]'' series and partially ''[[Dungeons & Dragons]]''' [[Jack Vance|Vancian]] spell system, where spells must be prepared through "memorization" before being cast. As in the Earthsea series, each spell is represented by some nonsense "magic word" which is treated as a verb by the game's text [[parser]], so that one can use the FROTZ spell (which causes objects to glow and give off light) by typing <code>FROTZ BOOK</code>, in exactly the same way as one might type <code>PICK UP BOOK</code> or <code>READ BOOK</code>.
+
+==Notes==
+In the game ''[[Zork III]]'', a device slowly cycles through "scenes" from each of the Zork games as a number is displayed above it. A depiction of the sacrificial altar from the then-unreleased ''Enchanter'' appeared under the number "IV".{{citation needed|date=December 2016}} Creators [[Dave Lebling]] and [[Marc Blank]] decided during the game's design that the magic system made it a standalone product.<ref name="maher20130403"/> It became the first game of its own trilogy, usually referred to as "The Enchanter Trilogy". The others in the series are 1984's ''[[Sorcerer (video game)|Sorcerer]]'' and 1985's ''[[Spellbreaker]]''.
+
+Infocom rated ''Enchanter'' as "Standard" in difficulty.
+
+''Enchanter'' is the only game in the Zork universe where [[Grue (monster)|lurking grues]], although they still exist, are not mentioned by name; the game doesn't even know the word "grue".
+
+The game has 17 ways to die.<ref name="nzt1984spring">{{Cite journal |date=Spring 1984 |title=Infocom Scoreboard |url=http://infodoc.plover.net/nzt/NZT3.2.pdf |journal=The New Zork Times |volume=3 |issue=2 |pages=3}}</ref>
+
+==Legacy==
+[[Robin Wayne Bailey]]'s 1989 [[novel]] ''Enchanter'' is a companion rather than a novelisation.{{Citation needed|date=April 2021}}
+
+In 1993, about ten years after the original ''Enchanter'', a remake of the game with graphics was developed and published by Japanese software development company [[SystemSoft Alpha|SystemSoft]] for the [[PC-9800 series|NEC PC-9801]], entitled {{nihongo|'''''Enchanter: Wakaki Madōshi no Shirén'''''|{{ruby|ENCHANTER|エンチャンター}} ～若き魔導士の試練～|Enchantā ～Wakaki Madōshi no Shirén～|lit. "Enchanter: The Trial of the Young Sorcerer"}}.<ref name="PC98Enchanter"/>
+
+[[Frotz]], a modern open-source interpreter for Infocom games (as well as independently written interactive fiction) draws its name from a spell ("cause object to glow with illumination") in ''Enchanter'' and its sequels. Another spell, [[Blorb]] ("hide an object in a strongbox"), provides the name for a standard wrapper for interactive fiction multimedia resources. Several other IF tools have also been named after spells from the series.
+
+==Reception==
+Released in September, 1983, Infocom sold about 50,000 copies of ''Enchanter'' by the end of 1984, and 75,000 over its lifetime or as part of the ''Enchanter Trilogy''.<ref name="maher20130403"/>
+
+''[[Computer Gaming World]]''{{'}}s [[Scorpia (journalist)|Scorpia]] praised the game as "typically excellent" and up to the standards expected of Infocom games.<ref name="CGW">{{cite magazine | url = http://www.cgwmuseum.org/galleries/issues/cgw_3.6.pdf | title = Micro-Reviews: Enchanter | author = Scorpia | magazine = [[Computer Gaming World]] | date = December 1983 | volume = 3 | issue = 6 | pages = 43–44 | access-date = 8 August 2016}}</ref> ''[[Ahoy!]]'' wrote that "''Enchanter'' is filled with the usual Infocom doses of wit, red herrings ... twists, turns, and surprises". It stated that while beginners would enjoy it, experienced text adventure gamers "may be disappointed. There didn't seem to be a whole lot to do. I solved the game in record time, for me; it left me wanting more ... The very moniker "Infocom" may be raising my expectations too high".<ref name="lobl198403">{{cite news | url=https://archive.org/stream/Ahoy_Issue_03_1984-03_Ion_International_US#page/n57/mode/2up | title=Enchanter | work=Ahoy! | date=March 1984 | access-date=27 June 2014 | author=Lobl, Pete | page=58}}</ref> [[John J. Anderson]] wrote in ''[[Creative Computing]]'', "With Enchanter, they have scored again ... Enchanter is full of the delightful little touches we have come to expect from Infocom."<ref name="cc198312">{{cite news | url=http://www.atarimagazines.com/creative/v10n3/153_Enchanter_Infocom_the_S.php | title=Enchanter; Infocom: the Steven Spielberg of text adventuring | work=Creative Computing | date=March 1984 | access-date=February 26, 2013 | author=Anderson, John J | page=153}}</ref> ''[[Compute!]]'' stated that ''Enchanter'' had "nothing strikingly original about it, but you'll appreciate its high level of challenge and meticulously maintained continuity". It stated that "some of the humor lacks, well, subtlety", citing the name [[Dimwit Flathead]] as example, and that "the narrative won't win any literary awards, either". The magazine concluded that it "is an excellent game for adventure freaks".<ref name="berman198412">{{cite news | url=https://archive.org/stream/1984-12-compute-magazine/Compute_Issue_055_1984_Dec#page/n139/mode/2up | title=Enchanter | work=Compute! | date=December 1984 | access-date=30 October 2013 | author=Berman, Marc | page=135 | type=review}}</ref>
+
+Ron Boerger reviewed ''Enchanter'' in ''[[Space Gamer]]'' No. 73.<ref name="SG">{{cite journal|last= Boerger |first= Ron |date=Mar–Apr 1985 |title=Capsule Reviews|journal=[[Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=73|pages=40}}</ref> Boerger commented that "''Enchanter'' is [...] a lot of fun, and if you're into the all-text, no-picture sort of roleplaying, I heartily recommend it."<ref name="SG"/>
+
+==References==
+{{reflist|refs=
+<ref name="maher20130403">{{cite web | url=http://www.filfre.net/2013/04/enchanter/ | title=Enchanter | work=The Digital Antiquarian | date=2013-04-03 | access-date=10 July 2014 | author=Maher, Jimmy}}</ref>
+}}
+
+==Further reading==
+* {{cite book|last=Bailey|first=Robin W.|title=Enchanter|publisher=Avon Books|date=April 1989|isbn=978-0380753864}}
+
+==External links==
+* [http://accardi.jenandcal.familyds.org/canon/Enchanter/Enchanter.php Packaging] {{Webarchive|url=https://web.archive.org/web/20151222113747/http://accardi.jenandcal.familyds.org/canon/Enchanter/Enchanter.php |date=2015-12-22 }} at the Gallery of Zork
+* [http://www.eristic.net/games/infocom/enchanter.html Walkthrough]
+* {{IFDB|id=vu4xhul3abknifcr|title=Enchanter}}
+
+{{Infocom games}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1983 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:CP/M games]]
+[[Category:DOS games]]
+[[Category:Fantasy video games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Single-player video games]]
+[[Category:SystemSoft Alpha games]]
+[[Category:TI-99/4A games]]
+[[Category:TRS-80 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Zork]]

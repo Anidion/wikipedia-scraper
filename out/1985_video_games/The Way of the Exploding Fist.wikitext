@@ -1,0 +1,104 @@
+The Way of the Exploding Fist
+Permalink: //en.wikipedia.org/w/index.php?title=The_Way_of_the_Exploding_Fist&oldid=1230222064
+Accessed on: 2024-06-26T16:59:26.032112
+
+
+
+------
+The Way of the Exploding Fist
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = The Way of the Exploding Fist
+|image = Explodingfist.jpg
+|developer = [[Beam Software]]
+|publisher = [[Krome Studios Melbourne|Melbourne House]]<ref>''[[iarchive:your-computer-magazine-1985-08/page/n39/mode/2up|First Fist, Then...]]'' In: ''[[Your Computer (British magazine)|Your Computer.]]'' August 1985, p. 40.</ref>
+|designer = Gregg Barnett<br>Bruce Bayley<br>David Johnston<br>Neil Brennan
+|composer = Neil Brennan
+|engine =
+|released = {{vgrelease|PAL|June 1985<ref>{{cite magazine |title=Martial Arts from Melbourne |magazine=[[Popular Computing Weekly]] |date=31 May 1985 |page=1|volume=4|issue=22 |url=https://spectrumcomputing.co.uk/page.php?issue_id=2859&page=1|access-date=21 June 2024}}</ref>}}<ref>{{cite magazine |title=Commodore Show |magazine=[[Popular Computing Weekly]] |date=13 June 1985 |page=5|volume=4|issue=24 |url=https://archive.org/details/popular-computing-weekly-1985-06-13/page/n5|access-date=21 June 2024}}</ref>
+|genre = [[Fighting game]]
+|modes = [[Single-player]], two-player
+|platforms = [[Commodore 64]], [[Amstrad CPC]], [[ZX Spectrum]], [[BBC Micro]], [[Acorn Electron]], [[Commodore 16]]
+}}
+
+'''''The Way of the Exploding Fist''''' is a 1985 [[fighting game]] based on [[Japanese martial arts]] developed by [[Beam Software]], by a team consisting of Gregg Barnett, Bruce Bayley, Neil Brennan and David Johnston. Originally developed on the [[Commodore 64]] and published in June 1985 by [[Krome Studios Melbourne|Melbourne House]], ports were made for [[Amstrad CPC]], [[ZX Spectrum]], [[BBC Micro]], [[Acorn Electron]] and [[Commodore 16]].
+
+==Gameplay==
+[[File:C64_explodingfist.png|left|thumb|256px|Commodore 64 gameplay]]
+The game has various backgrounds that change as the player progresses through the levels: inside a [[dojo]], an outdoor field with snowy mountains and volcanoes, a [[Buddha statue]], or some [[pagoda]]s.
+
+The player takes part in a series of one-on-one [[karate]] matches, all overseen by a wise old expert who appears in the background. Once the player defeats an opponent they move up to the next stage and a more difficult adversary. Fights are not won using the [[Health (gaming)|energy-bar]] style found in modern fighting games; instead, the player needed to get two complete [[yin-yang]]s. Any move that connected with the opponent would end the round; a loosely timed or borderline kick or punch would obtain half a yin-yang icon, while a well-executed move would obtain a full icon. Two complete icons ended the bout and progressed to the next level.
+
+This system of scoring, known as shobu nihon [[kumite]], is used in real life in many traditional styles of karate. A half yin-yang represents a ''waza-ari'' (a committed but not decisive technique) and a full yin-yang represents an ''ippon'' score (full point, decisive finishing blow).
+
+The game control is via joystick or direction keys and a "fire" key. 18 different movements can be made, including jumping kick, roundhouse kick and a variety of punches and kicks, high and low. The game features a variety of backgrounds against which the fighting takes place. After completing a number of progressively harder stages, the player is charged at by a bull in a bonus round. The player must knock the bull out with a single hit. The bonus round mirrors the feats of [[Mas Oyama]], a karate expert who purportedly killed bulls with a single strike. This bonus round was not present in the ZX Spectrum version and some of the early Commodore 64 versions.
+
+==Production==
+Before creating ''The Way of the Exploding Fist'', designer Gregg Barnett converted ''[[The Hobbit (1982 video game)|The Hobbit]]'' and ''[[Sherlock (video game)|Sherlock]]'', two adventures from Beam Software, to the Commodore 64.<ref name="yourcomputerbarnett">''[[iarchive:your-computer-magazine-1985-08/page/n41|First Fist, Then...]]'' In: ''[[Your Computer (British magazine)|Your Computer.]]'' August 1985, p. 42.</ref> It was one of the first games to borrow heavily from the [[Data East]] arcade game ''[[Karate Champ]]'', which was released the previous year. The Commodore 64 version uses over 600 sprite images to animate the player's movements.<ref name="zzap64review">{{cite journal|date=11 July 1985|title=Way of the Exploding Fist|url=https://archive.org/details/zzap64-magazine-004/page/n29/mode/2up|journal=[[Zzap!64]]|issue=4 (August 1985)|pages=30–32}}</ref> Karate champion [[Geoff Thompson (karateka)|Jeoffrey Thompson]] was signed<ref>Jeoff Thompson: ''Karate: The Pursuit of Excellence.'' Gallery Books, 1988, p. 126. {{ISBN|0-8317-5304-8}}.</ref> to promote the game but was not sufficiently well known to have the game named after him.<ref>Jim Lennox: ''Why the sports stars are loaded.'' In: The Guardian, January 16th 1986. – In his article Lennox discusses how, spawned by [[Daley Thompson's Decathlon]], a number of British sportsmen have endorsed and lend their name to computer games. Among them are [[Frank Bruno's Boxing]], [[Barry McGuigan World Championship Boxing]], [[Ian Botham]], [[Steve Davis]] and [[Bobby Charlton]]</ref> A [[Nintendo Entertainment System]] version was developed by [[Beam Software]] but it was never released.
+
+The game's soundtrack was written by Neil Brennan and it is based on the 1952 orchestral piece [[Dance of the Yao People]]. It has been praised for the excellent atmosphere it provided and was one reason behind the popularity of the game.
+
+==Reception==
+{{Video game reviews
+| PC = true
+| ZX = true
+| CRASH_ZX = 92%<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue21/Pages/Crash2100013.jpg|title=World of Spectrum – Forced Redirect|work=worldofspectrum.org}}</ref>
+| SUser_ZX = {{Rating|5|5}}<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue043/Pages/SinclairUser04300027.jpg|title=World of Spectrum – Forced Redirect|work=worldofspectrum.org}}</ref>
+| YSinclair_ZX = 83%<ref name="YS">{{cite magazine|date=12 April 1990|title=The YS Complete Guide To Beat-'em-ups|magazine=[[Your Spectrum]]|issue=53 (May 1990)|url=http://www.ysrnry.co.uk/articles/completeguidetobeatemups.htm|accessdate=2007-09-26|url-status=dead|archive-url=https://web.archive.org/web/20070929083716/www.ysrnry.co.uk/articles/completeguidetobeatemups.htm|archive-date=2007-09-29}}</ref>
+| rev1 = ''[[Computer Gamer]]''
+| rev1_PC = {{Rating|4|6}} ([[Amstrad CPC|CPC]])<ref name="CG7">{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=ComputerGamer/Issue07/Pages/ComputerGamer0700074.jpg|title=World of Spectrum – Forced Redirect|work=worldofspectrum.org}}</ref>
+| rev1_ZX = {{Rating|4|6}}<ref name="CG7"/>
+| rev2 = ''[[Retro Gamer]]''
+| rev2_PC = 86% ([[8-bit]])<ref>{{cite magazine |title=8-Bit-'Em-Ups |magazine=[[Retro Gamer]] |date=March 2006 |issue=22 |pages=56–7 |url=https://archive.org/details/retro_gamer/RetroGamer_022/page/56/mode/2up}}</ref>
+| award1Pub = [[Golden Joystick Award]]s
+| award1 = [[Golden Joystick Award for Game of the Year|Game of the Year]]<ref name="CVG"/>
+| award2Pub = ''[[Saturday Superstore]]'' Viewer Awards
+| award2 = Voted Best Game<ref name="PCW"/>
+| award3Pub = ''[[Crash (magazine)|Crash]]''
+| award3 = Crash Smash
+| award4Pub = ''[[Sinclair User]]''
+| award4 = SU Classic
+| award5Pub = ''Amstrad Action''
+| award5 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 1, October 1985</ref>
+}}
+
+''The Way of the Exploding Fist'' topped the UK software sales charts for two months, in September<ref>{{cite magazine |title=The Software Chart |magazine=[[Computer and Video Games]] |date=16 October 1985 |issue=49 (November 1985) |page=30 |url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue049/Pages/CVG04900030.jpg}}</ref> and October 1985,<ref>{{cite magazine |title=The Software Chart |magazine=[[Computer and Video Games]] |date=16 November 1985 |issue=50 (December 1985) |page=40 |url=https://archive.org/details/computer-video-games-magazine-050/page/n39/mode/1up}}</ref><ref>{{cite magazine |title=The Software Chart |magazine=[[Computer and Video Games]] |date=16 December 1985 |issue=51 (January 1986) |page=141 |url=https://archive.org/details/computer-video-games-magazine-051/page/n140/mode/1up}}</ref> until it was replaced by ''[[Monty on the Run]]''.<ref name='pcwcharts'>{{cite magazine |title=Charts|magazine=Popular Computing Weekly|issue=45|publisher=Sunshine Publications|date=7 November 1985|page=54|url=https://spectrumcomputing.co.uk/page.php?issue_id=2882&page=41|access-date=13 October 2022}}</ref>
+
+''The Way of the Exploding Fist'' became the best-selling [[1985 in video games|computer game of 1985]] in the UK.<ref>{{cite magazine |title=News Desk: Exploding Fist tops Gallup 1985 charts |magazine=[[Popular Computing Weekly]] |date=20 March 1986 |page=4 |url=https://archive.org/details/popular-computing-weekly-1986-03-20/page/n3}}</ref><ref>{{cite magazine |title=Yie Ar tops charts for 1986 |magazine=[[Popular Computing Weekly]] |date=12 February 1987 |page=6 |url=https://archive.org/details/popular-computing-weekly-1987-02-12/page/n5}}</ref> It sold 150,000 copies for the [[ZX Spectrum]] by 1987,<ref>{{Cite journal |date=October 1987 |title=Kick High |url=https://www.zx-spectrum.cz/zxsr/zxsr.php?mag=1&id=4082 |journal=[[Crash (magazine)|Crash]] |publication-date=1987-09-24 |issue=45 |pages=41}}</ref> and a total of 500,000 copies across all platforms in Europe.<ref>{{cite magazine |title=NG Alphas: Melbourne House |magazine=[[Next Generation (magazine)|Next Generation]]|issue=33 |publisher=[[Imagine Media]] |date=September 1997|page=116 |url=https://archive.org/details/NEXT_Generation_33/page/n117}}</ref><ref>{{cite web|url=http://www.beam.com.au/E3/comphist.htm|archiveurl=https://web.archive.org/web/19971021035824/http://www.beam.com.au/E3/comphist.htm|title=Beam Software Company History|website=beam.com.au|archivedate=October 21, 1997|accessdate=March 17, 2022}}</ref>
+
+The [[Commodore 64]] version received a positive review in ''[[Zzap!64]]'' magazine, which called it a "Sizzler" and praised the game's sound and graphics, scoring it 93% overall.<ref name="zzap64review"/> ''[[Your Sinclair]]'' reviewers praised the visceral sound effects.<ref>[https://web.archive.org/web/20160305032921/http://www.ysrnry.co.uk/articles/karateace.htm Oct 1988 YS34] at The Your Sinclair Rock 'n' Roll Years</ref>
+
+===Accolades===
+The game was voted [[Golden Joystick Award for Game of the Year|Game of the Year]] at the third [[Golden Joystick Awards]], with Melbourne House picking up Best Software House.<ref name="CVG">{{cite journal|title=Golden Joystick Awards|journal=[[Computer and Video Games]]|date=May 1986|issue=55|page=90|publisher=[[EMAP]]|url=https://archive.org/stream/Computer_Video_Games_Issue_055_1986-05_EMAP_Publishing_GB/Computer__Video_Games_Issue_055_1986-05_EMAP_Publishing_GB#page/n89/mode/2up}}</ref> It also received the "Voted Best Game" award at the ''[[Saturday Superstore]]'' Viewer Awards.<ref name="PCW">{{cite magazine |title=Thank you from The Home of the Hits! |magazine=[[Popular Computing Weekly]] |date=30 January 1986 |page=7 |url=https://archive.org/details/popular-computing-weekly-1986-01-30/page/n6/mode/1up}}</ref> The ZX Spectrum version was placed at number 67 on the "''Your Sinclair'' official top 100" list in 1991.<ref>{{cite journal |date=October 1991 |title=The YS Top 100 Speccy Games Of All Time (Ever!) |journal=[[Your Sinclair]] |issue=70 |pages=31 |url=http://www.ysrnry.co.uk/articles/ystop100.htm |access-date=2006-09-04 |archive-url=https://web.archive.org/web/20060816053829/http://www.ysrnry.co.uk/articles/ystop100.htm |archive-date=2006-08-16 |url-status=dead}}</ref> In 1996, [[GamesMaster (magazine)|GamesMaster]] ranked the game 76th on their "Top 100 Games of All Time".<ref>{{Cite journal |date=July 1996 |title=Top 100 Games of All Time |url=https://retrocdn.net/images/c/cf/GamesMaster_UK_044.pdf |journal=GamesMaster |issue=44 |pages=75}}</ref>
+
+==Sequels==
+There were three sequels: ''Fist II: The Legend Continues'' (1986) and ''Fist II: The Tournament'' (1987) and ''Exploding Fist +''. Of these three, ''Fist II: The Legend Continues'' is not a fighting game involving player-versus-player, but a scrolling [[adventure game]] with one-on-one fighting elements. ''Exploding Fist +'', on the other hand, returns to the style of the first game. It features combat with three characters, an idea followed from ''[[International Karate +]]'', though in this case it is possible for players to control the three characters simultaneously.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Lemon64 game|id=2824}}
+* {{WoS game|id=0005643}}
+* {{moby game|id=/kung-fu-the-way-of-the-exploding-fist}}
+* [http://www.c64-wiki.com/index.php/The_Way_of_the_Exploding_Fist ''The Way of the Exploding Fist'' on c64-wiki.com]
+
+{{Golden Joystick GOTY}}
+
+{{DEFAULTSORT:Way of the Exploding Fist, The}}
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Beam Software games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:Crash Smash! award winners]]
+[[Category:Fighting games]]
+[[Category:Golden Joystick Award for Game of the Year winners]]
+[[Category:Japan in non-Japanese culture]]
+[[Category:Karate video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Piko Interactive games]]
+[[Category:Video games developed in Australia]]
+[[Category:Video games set in Japan]]
+[[Category:ZX Spectrum games]]

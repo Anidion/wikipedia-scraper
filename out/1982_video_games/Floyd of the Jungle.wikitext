@@ -1,0 +1,59 @@
+Floyd of the Jungle
+Permalink: //en.wikipedia.org/w/index.php?title=Floyd_of_the_Jungle&oldid=1231163365
+Accessed on: 2024-06-26T16:53:24.743870
+
+
+
+------
+Floyd of the Jungle
+{{short description|1982 video game}}
+{{Infobox video game
+|title = Floyd of the Jungle
+|image = Floyd of the Jungle cover.jpg
+|caption = 
+|developer = [[MicroProse]]
+|designer = [[Sid Meier]]<ref name=giantlist/>
+|publisher = MicroProse
+|released = '''1982:''' Atari 8-bit<br>'''1983:''' v2 for Atari, C64
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|2-4 player multiplayer]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]]
+|alt = 
+}}
+
+'''''Floyd of the Jungle''''' is a 1982 [[platform game]] for [[Atari 8-bit computers]] and part of the initial batch of games from  [[MicroProse]]. Designed and programmed by company co-founder [[Sid Meier]],<ref name=giantlist/> it is one of the few 2D action games he created and the only platform game. It allows up to four players at once.
+
+The 1982 release is written in [[Atari BASIC]]. A second version, published in 1983,<ref name=mania/> is programmed in [[assembly language]] for improved performance, and the computer controls any unused players.<ref name=ellison/> Version 2 was available for both the Atari 8-bit family and [[Commodore 64]].<ref>{{lemon64 game|id=944|name=Floyd of the Jungle}}</ref>
+
+==Gameplay==
+[[Image:Floyd of the Jungle v2 Atari 8-bit screenshot.png|thumb|left|The third level of version 2 of the game (Atari 8-bit)]]
+
+The player can make Floyd run left and right with the [[joystick]], leap by pressing the joystick button, and punch by keeping the button held after landing from a leap.<ref name=manual/> Vines can be climbed up and down to move between platforms.
+
+Some actions give points: collecting a [[bird]] (1 point), punching a [[African Pygmies|pygmy]] (2 points), and reaching "Janice" at the top of the screen (4 points).<ref name=manual/> In a multiplayer game, the first player to reach a predetermined point value wins. Single-player games have a time limit instead. Other hazards, such as alligators, can hurt Floyd, sending him to the bottom of the screen.{{clear}}
+
+==Development==
+When asked in 1983 where the ''Floyd of the Jungle'' concept came from, Meier responded:
+{{quote|I had just finished ''[[Hellcat Ace]]'' and I was looking around for ideas for a new game and there was this movie on T.V., the {{sic|?|lastest}} ''[[Tarzan, the Ape Man (1981 film)|Tarzan]]'' movie with [[Bo Derek]], and I was also working at the time with some animation tools that I'd been developing, animation effects with multiple characters and multiple [[Sprite (computer graphics)#Etymology|player/missile]] images, and the two just merged together.<ref name=ellison/>}}
+
+==Reception==
+''[[Computer Gaming World]]'' wrote:{{quote|In view of the many superbly-crafted games of this genre on the market today, FJ finds itself up against some pretty outstanding company. In my opinion, he comes up short. However, FJ is less expensive than much of its competition, and may therefore be an acceptable choice for some gamers.<ref name="CGW14">{{cite magazine |title=Micro-Reviews |magazine=Computer Gaming World |date=February 1984 |volume=1 |issue=14 |pages=43}}</ref>}}
+
+In a 1984 review of the game's second release, ''[[Creative Computing]]'' concluded: "If you are really into the ''[[Donkey Kong (arcade game)|Donkey Kong]]'' type of games, and want every variation for your library, then you will want ''Floyd of the Jungle''. But we think that there are others on the market that offer better playability and more fun."<ref>{{cite journal |last1=Ahl |first1=David H. |title=Thirteen Games: Floyd of the Jungle |journal=Creative Computing |date=May 1984 |volume=10 |issue=5 |page=130 |url=https://archive.org/details/Creative_Computing_1984-05/page/n131}}</ref> ''[[Antic (magazine)|Antic]]'' liked the animation and 4 player capability, but found the penalty for running into obstacles to be harsh for new players.<ref>{{cite journal |last1=Miles |first1=Gordon |title=Product Reviews: Floyd of the Jungle |journal=Antic |date=April 1983 |volume=2 |issue=1 |page=107 |url=https://archive.org/details/1983-04-anticmagazine/page/n105/mode/2up}}</ref>
+
+Reviewing the C64 version for ''[[Electronic Games]]'', Ted Salamone wrote, "it  doesn't have any great moments. It doesn't even have any good ones!"<ref name="salamone">{{cite journal |last1=Salamone |first1=Ted |title=Computer Gaming: Floyd of the Jungle |journal=Electronic Games |date=October 1984 |volume=2 |issue=15 |page=50 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_15_1984-10_Reese_Communications_US/page/n49}}</ref> He called out the visuals as "so substandard that they are an insult, display an incredible lack of detail and imagination," and also that "poorly executed collision detection routines result in many an untimely death."<ref name=salamone/>
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web |title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first=James}}</ref>
+<ref name=mania>{{cite web |title=Atari 400 800 XL XE Floyd of the Jungle |url=http://www.atarimania.com/game-atari-400-800-xl-xe-floyd-of-the-jungle_22318.html |website=Atari Mania}}</ref>
+<ref name="manual">{{cite web |title=Floyd of the Jungle Manual |url=https://archive.org/details/FloydOfTheJungle |website=archive.org |publisher=MicroProse |date=1982}}</ref>
+<ref name="ellison">{{cite magazine|last1=Ellison |first1=Peter |title=Interview: Sid Meier |magazine=ROM |date=December 1983 |issue=3 |page=12 |url=https://www.atarimagazines.com/rom/issue3/interview.php}}</ref>
+}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Platformers]]
+[[Category:Video games designed by Sid Meier]]
+[[Category:Video games developed in the United States]]

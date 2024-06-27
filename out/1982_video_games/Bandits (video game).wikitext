@@ -1,0 +1,61 @@
+Bandits (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bandits_%28video_game%29&oldid=1224116538
+Accessed on: 2024-06-26T16:53:00.153883
+
+
+
+------
+Bandits (video game)
+{{Infobox VG
+|title = Bandits
+|image = Bandits Video Game.jpg
+|caption = 
+|publisher = [[Sirius Software]]
+|programmer = Tony Ngo<br>Benny Ngo
+|platform = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[VIC-20]]<ref name="mobygames">{{Cite web|url=https://www.mobygames.com/game/bandits|title = Bandits (1982)}}</ref>
+|genre = [[Fixed shooter]]
+|released = 1982
+|modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Bandits''''' is a 1982 [[fixed shooter]] written by Tony and Benny Ngo for the [[Apple II]] and published by [[Sirius Software]].<ref name=giantlist/> The game is a clone of [[Taito]]'s 1980 ''[[Stratovox]]'' arcade video game where the goal is to prevent aliens from stealing objects. ''Bandits'' was ported to the [[Atari 8-bit computers]],<ref name="mania">{{cite web |title=Bandits |url=http://www.atarimania.com/game-atari-400-800-xl-xe-bandits_492.html |website=Atari Mania}}</ref> [[Commodore 64]], and [[VIC-20]].
+
+==Gameplay==
+Supplies stored on the [[moon]]–represented as fruit–are coveted by [[Extraterrestrial life|alien]] invaders. Various types of those bandits enter, via a mothership, in waves. The player's job is to shoot them using the spaceship at the bottom of the screen. If an invader reached the bottom right part of the screen, it steals an item. The player can activate a shield which makes the spaceship invulnerable for a limited time. There are 28 levels.
+
+==Reception==
+[[David H. Ahl]] found the game to be "sensational" and "great fun."<ref name=cc/> He liked the wide range of alien types, but found the best control scheme to be the one the fewest people were likely to use: an [[Atari CX40 joystick]] connected through a Sirius Joyport. This option allows pushing forward on the stick to activate shields; it isn't available with an Apple joystick.<ref name=cc/>
+
+Dawn Gordon, reviewing the Atari 8-bit version for ''[[Electronic Games]]'', wrote: "''Bandits'' has a very annoying flaw. The time lapse from when the disk is booted to when play actually begins is three minutes and seven seconds! As each level is completed throughout the game, the computer pauses to load additional information, and the process can take up to 12 seconds."<ref name=eg/>
+
+==See also==
+*''[[Spider Fighter]]''
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+<ref <ref name="cc">{{cite journal |last1=Ahl |first1=David H. |title=Eleven for the Apple in One Basket |journal=Creative Computing |date=October 1982 |volume=8 |issue=10}}</ref>
+<ref name="eg">{{cite journal |last1=Gordon |first1=Dawn |journal=Electronic Games |title=Computer Gaming: Bandits |url=https://archive.org/stream/ElectronicGames/Electronic%20Games%20Issue%2017%20%28July%201983%29#page/n73/mode/2up |date=July 1983 |page=74}}</ref>
+}}
+
+==External links==
+*{{lemon64 game|id=210}}
+*[https://www.youtube.com/watch?v=X_hJXS6HB0M C64 gameplay video]
+*[https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n97/mode/2up ''Addison Wesley Book of Atari Software 1984'']
+*[https://archive.org/stream/RetroGameMagazineOneShots/1984%20Software%20Encyclopedia%20%281983%29%20Over%20900%20Descriptions%20and%20Ratings#page/n7/mode/2up ''1984 Software Encyclopedia''] from ''[[Electronic Games]]''
+*[https://archive.org/details/Softline_1982_07/page/n23/mode/2up Review] in ''[[Softline (magazine)|Softline]]''
+*[https://archive.org/details/softalkv2n11jul1982/page/n143/mode/2up Review] in ''[[Softalk]]''
+*[https://archive.org/details/ahoy-magazine-02/page/n57/mode/2up Review] in ''[[Ahoy!]]''
+*[https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_08_1983-06_Fun_Games_Publishing_US/page/n65/mode/2up Review] in ''[[Electronic Fun with Computers & Games]]''
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Fixed shooters]]
+[[Category:Single-player video games]]
+[[Category:Sirius Software games]]
+[[Category:VIC-20 games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in outer space]]

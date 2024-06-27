@@ -1,0 +1,65 @@
+Nine Princes in Amber (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Nine_Princes_in_Amber_%28video_game%29&oldid=1224494169
+Accessed on: 2024-06-26T16:58:51.748961
+
+
+
+------
+Nine Princes in Amber (video game)
+{{Short description|1985 video game}}
+{{Infobox video game
+| title     = Nine Princes in Amber
+| image     = Nine Princes in Amber cover.jpg
+| developer = [[Spinnaker Software]]
+| designer  = [[Byron Preiss]]<br />[[Roger Zelazny]]
+| publisher = [[Telarium]]
+| engine    = SAL
+| released  = 1985
+| genre     = [[Text Adventure]] with graphics
+| modes     = [[Single player]]
+| platforms = [[Apple II]], [[Atari ST]], [[Commodore 64]], [[DOS]], [[MSX2]]
+}}
+
+'''''Nine Princes in Amber''''' is an [[interactive fiction]] [[video game]] with graphics. The game was published by [[Telarium]], a subsidiary of [[Spinnaker Software]], in 1985. The game is based upon the [[fantasy]] novels ''[[Nine Princes in Amber]]'' and ''[[The Guns of Avalon]]'' by [[Roger Zelazny]].
+
+== Gameplay ==
+The single-player adventure is controlled via typed keyboard commands. Words and sentences are entered in a [[text parser]]. The player uses action commands (e.g. take, sit) and communication commands (e.g. ask, demand, hug) for the interaction with [[non-player character]]s. There are 40 different possible solutions to end the game.<ref>[http://www.allgame.com/game.php?id=34721 Nine Princes in Amber] {{Webarchive|url=https://web.archive.org/web/20141115112019/http://www.allgame.com/game.php?id=34721 |date=2014-11-15 }} at [[Allgame]]; Heinrich Lenhardt: ''Nine Princes in Amber'', Happy Computer 3/1986, p. 156 (German)</ref>
+
+== Plot ==
+The plot takes place in a fictional fantasy world. The player prince Corwin is the son of king Oberon, who rules the kingdom of Amber. Corwin wants to become king but his eight brothers, especially his brother Eric, are also interested in the throne of Amber. Prince Corwin must escape assassination attempts and intrigues enacted by his siblings, and yet must forge alliances with some of his siblings to become the reigning king of Amber.<ref>[http://www.allgame.com/game.php?id=34721 Nine Princes in Amber] {{Webarchive|url=https://web.archive.org/web/20141115112019/http://www.allgame.com/game.php?id=34721 |date=2014-11-15 }} at [[Allgame]]; Heinrich Lenhardt: ''Nine Princes in Amber'', Happy Computer 3/1986, p. 156 (German)</ref>
+
+== Development ==
+The adventure has static 2d graphics, a theme song and sound effects. It was implemented for the [[Commodore 64]], [[DOS]], [[Atari ST]], [[MSX2]] and [[Apple II]]. The MSX2 version is a translation into Spanish ("Nueve Principes en Amber") with new illustrations. The game is based upon the fantasy novels ''[[Nine Princes in Amber]]'' ([[Doubleday (publisher)|Doubleday]] 1970) and ''[[The Guns of Avalon]]'' (Doubleday 1972) by [[Roger Zelazny]].<ref>[http://adventure.if-legends.org/Telarium_Corporation.html Nine Princes in Amber] at ''Adventureland'' by Hans Persson and Stefan Meier.</ref> It was developed by a group of 20 people at Spinnaker Software and published by Telarium (1985). The design, writing, and game coding was done by Andrea Bird.<ref>[http://www.allgame.com/game.php?id=34721&tab=credits Nine Princes in Amber] {{Webarchive|url=https://web.archive.org/web/20141117010216/http://www.allgame.com/game.php?id=34721&tab=credits |date=2014-11-17 }} at [[Allgame]]</ref>
+
+== Reception ==
+In 1986 a German reviewer called ''Nine Princes in Amber'' a precious adventure ("Edel-Adventure"). He praised the intelligent writing, the suspenseful storyline and the text parser.<ref>Heinrich Lenhardt: ''Nine Princes in Amber'', Happy Computer 3/1986, p. 156 (German)</ref>
+In 2006 a study about the history of interactive fiction maintained, that on the one hand Nine Princes in Amber "is not a bad game – in fact, it is one of Telarium’s best, and working out the conversational 'puzzles' can actually be oddly satisfying at times". On the other hand, the authors "seemed to be aiming so much higher." They wanted to create a very ambitious gameplay. Because of hardware constraints in the 1980s and general limitations of character interaction in interactive fiction they were not able to actualize this aim completely.<ref>[http://maher.filfre.net/if-book/if-6.htm Jimmy Maher: ''Let's Tell a Story Together. A History of Interactive Fiction''. Senior Honor's Thesis, University of Texas, Dallas 2006, Chapter 6 ''The Rest of commercial IF - Trillium/Telarium''].</ref> ''[[Antic (magazine)|Antic]]'' in 1987 stated that the game had "uneven plot pacing and content ranging from the exciting to the banal". The magazine criticized the [[Porting#Porting in gaming|port]] from 8-bit computers not fully using the Atari ST's more powerful graphics and sound, and "substandard" [[text parser]]. The reviewer described the game as "essentially a computerized '[[Classics Illustrated]]' adaptation of the books rather than an adventure game in the [[Infocom]] or even [[Scott Adams (game designer)|Scott Adams]] tradition", stating that he finished it in "about two (interrupted) hours". After finishing the game, however, he found that reloading [[saved game]]s to see another of the 40 endings was interesting. The reviewer concluded that "this game comes up short. It's simply not interesting or well-executed enough to be recommended", suggesting that readers buy ''[[The Pawn]]'' instead.<ref name="piersonparry198706">{{Cite magazine |last=Pierson-Parry |first=Jim |date=June 1987 |title=S.D.I. |url=http://www.atarimagazines.com/v6n2/STProductNews.html |magazine=Antic}}</ref>
+
+=== More reviews ===
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #37 (April 1987)<ref>{{cite web | url=https://rpggeek.com/rpgissuearticle/138641/ludotique | title=Ludotique &#124; Article &#124; RPGGeek }}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{moby game|id=/nine-princes-in-amber}}
+* [http://mocagh.org/loadpage.php?getgame=nineprinces ''Nine Princes in Amber''] at Museum of Computer Adventure Game History
+* {{atarimania|id=10087}}
+* {{lemon64 game|id=1794|name=Nine Princes in Amber}}
+* {{IFDB|id=scdqysh7ki0yex1k|title=Nine Princes in Amber}}
+
+{{Telarium}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1985 video games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Interactive fiction based on works]]
+[[Category:MSX2 games]]
+[[Category:Single-player video games]]
+[[Category:Spinnaker Software games]]
+[[Category:Video games based on novels]]
+[[Category:Video games developed in the United States]]
+[[Category:Telarium games]]

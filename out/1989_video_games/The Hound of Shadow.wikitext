@@ -1,0 +1,70 @@
+The Hound of Shadow
+Permalink: //en.wikipedia.org/w/index.php?title=The_Hound_of_Shadow&oldid=1224450915
+Accessed on: 2024-06-26T17:06:34.705738
+
+
+
+------
+The Hound of Shadow
+{{short description|1989 video game}}
+{{Infobox video game
+|title = The Hound of Shadow
+|image = The Hound of Shadow cover.jpg
+|developer = Eldritch Games
+|publisher = [[Electronic Arts]]
+|producer = Joss Ellis
+|designer = {{unbulleted list|Chris Elliott|Richard Edwards}}
+|programmer = Mike Lewis
+|artist = Carl Cropley
+|engine = 
+|released = [[1989 in video gaming|1989]]
+|genre = [[Interactive fiction]]
+|modes = [[Single-player]]
+|platforms = {{cslist|[[Amiga]]|[[Atari ST]]|[[DOS]]}}
+}}
+
+'''''The Hound of Shadow''''' is an [[interactive fiction]] illustrated [[text adventure]] game created by Eldritch Games and published by [[Electronic Arts]] in 1989.<ref name=mania/> 
+
+==Publication history== 
+''The Hound of Shadows'' was developed by the British studio Eldritch Games as the first in a planned series of linked adventures called the ''Timeline'' series, in which players would be able to migrate their protagonist from game to game. ''The Hound of Shadows'' was published by Electronic Arts in 1989, with versions for the [[Amiga]],<ref name=lemon/> [[Atari ST]],<ref name=mania/> and [[DOS]]. 
+
+Although Eldritch Games created more games in the same horror investigation milieu — ''Daughter of Serpents'' (1992) and ''The Scroll'' (1995) — the concept of a continuing Timeline series was never fulfilled.
+
+==Setting and gameplay==
+Loosely based on the works of [[H. P. Lovecraft]], the game is set in [[London]] during the 1920s, and incorporates historical elements such as the character of [[Elizabeth Báthory]].
+
+The player can choose a pregenerated character, but otherwise must first create a character, choosing gender, economic class, occupation, age, skills, and nationality (English or American). As reviewer John Scott noted, these all have an influence on the game. For example, a woman character will be refused service in a pub, in keeping with English alcohol laws of the 1920s, and a character with military service in [[World War I]] will be more prone to mental disabilities that are exacerbated by dabbling with the dark forces at work in the game.<ref name=gi />
+
+The game starts with the player's character being taken to a seance. Although the medium is clearly a fake, he is suddenly possessed, and in a woman's voice, warns the person sitting next to the player's character that he bears the mark of the Hound of Shadow. From there, the player and the "marked" person must investigate what this means before it is too late, and take action to prevent a tragic end.<ref name=ace />
+
+== Reception ==
+In the December 1989 edition of ''ST Format'' (Issue 5), Gary Barrett found the parser to be very limited, saying, "It seems to have a very limited vocabulary and only a vague grasp of the English language." He also noted the lack of any sound in the game, but he did find the written descriptions of surroundings "both lengthy and atmospheric." He concluded by giving the game an overall score of 90%, saying, "Other than its poor parser it's an excellent game that should give you plenty of sleepless nights: when you're not up playing it, it will be on your mind..."<ref name=STF>{{cite magazine|last=Barrett|first=Gary| date=December 1989 |title=The Hound of Shadow|journal=[[ST Format]]| issue=5|pages=39}}</ref>
+
+In the March 1990 edition of ''[[ACE (magazine)|ACE]]'' (Issue 30), Chris Elliot noted several problems with the programming that led to endless loops that were difficult to break out of. He also became frustrated with the parser, noting that commands that work at the start of the game do not work later. He concluded by giving the game a below average grade of only 65%, saying "many improvements and refinements are required [...] In the end, frustration with the system outweighed my desire to solve the plot puzzles."<ref name=ace>{{cite magazine|last=Elliot|first=Chris| date=March 1990 |title=Hound of Shadow|journal=Ace| issue=30|pages=84}}</ref>
+ 
+In the May 1990 edition of ''[[Games International]]'' (Issue 14), John Scott called this program "A cracker of an adventure for [[H. P. Lovecraft|Lovecraft]] fans." He noted that during the character generation process, "One of the beauties of this game is that the skills do make a difference as the story unfolds." Although Scott found the story got off to a "promising start", he noted that problems quickly added up due to "one of the worst parsers I have seen in an adventure game." He used the example of trying in vain to read a book by typing "Read book", but finally being allowed to read the book if he typed in the exact title of the book. He commented "This is inexcusable in an adventure written in 1989."  He also noted that the sepia-toned graphics added nothing to the game, and the game itself suffered for lack of any sound effects or music. He concluded by giving the game an average rating of 7 out of 10 for gameplay and a poor rating of only 5 out of 10 for graphics.<ref name=gi>{{cite magazine|last=Scott|first=John| date=May 1990 |title=Hound of Shadows|journal=[[Games International]]| issue=14|pages=48–49}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="mania">{{cite web |title=The Hound of Shadow |url=http://www.atarimania.com/game-atari-st-hound-of-shadow-_24919.html |website=Atari Mania}}</ref>
+<ref name="lemon">{{cite web |title=The Hound of Shadow |url=http://www.lemonamiga.com/?game_id=2856 |website=Lemon Amiga}}</ref>
+}}
+
+==External links==
+* {{moby game|/hound-of-shadow}}
+* {{abime|id=744}}
+* {{IFDB|id=4kwb0undy5clcsad}}
+
+{{DEFAULTSORT:Hound of Shadow, The}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1989 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Cthulhu Mythos video games]]
+[[Category:DOS games]]
+[[Category:Electronic Arts games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with gender-selectable protagonists]]
+[[Category:Video games set in the 1920s]]

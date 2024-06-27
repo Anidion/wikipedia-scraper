@@ -1,0 +1,71 @@
+Space Taxi
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Taxi&oldid=1219283013
+Accessed on: 2024-06-26T16:57:37.014162
+
+
+
+------
+Space Taxi
+{{Infobox video game
+|title          = Space Taxi
+|image          = Space Taxi cover.jpg
+|caption        = 
+|developer      = [[Muse Software]]
+|publisher      = Muse Software
+|released       = 1984
+|genre          = [[Action game|Action]]
+|modes          = [[Single-player video game|Single-player]], [[multiplayer video game|multiplayer]]
+|platforms      = [[Commodore 64]]
+|programmer     = John F. Kutcher<ref name=giantlist/>
+|composer       = Silas S. Warner
+}}
+
+'''''Space Taxi''''' is an action game for the [[Commodore 64]] written by John Kutcher and published by [[Muse Software]] in 1984.<ref name=giantlist/> It simulates a flying [[taxicab|taxi]] controlled by [[Rocket engine|thrusters]]. The game uses sampled speech, including "Hey taxi!", "Pad one please", "Thanks", and "Up please". These are said in a variety of voice pitches, creating the feeling of different taxi customers.
+
+==Gameplay==
+[[File:SpaceTaxiScreenshotC64.jpg|thumb|left|Screenshot]]
+In addition to thrusters, the taxi has [[landing gear]] that can be switched on or off. Switching landing gear on disables the side thrusters, but landing without landing gear destroys the taxi. The taxi also crashes when colliding with the environment, landing with high velocity or not landing properly (i.e. having only one of the gear stands on the platform while having the other in midair).
+
+There are 24 different levels, in sequential order, and the player has to complete all of them.
+
+In each level, there is a set of numbered platforms. At regular intervals, a customer materializes out of nowhere, on a randomly selected platform. The player has to fly their taxi to that platform, whereupon the customer will enter the taxi, saying which platform he wants to go to. When the player takes him to that platform, he will pay the taxi fee and tip based upon how fast the trip takes and the smoothness of the landing. After each numbered platform has been successfully visited, the next customer will say "Up please", whereupon the gate at the top of the level will open. Flying through the gate completes the level. One must also be careful not to land on or hit the customer with the taxi, not only because he will angrily yell "HEY!" and then disappear, before appearing somewhere else on the platform, but also deduct money from your total earned. This is increasingly difficult on smaller platforms where the platform will barely fit the customer and the taxi.
+
+Each level features a different setting or theme (such as a treat-strewn candyland or a snowy winter landscape), and most have some special feature to hinder the player's job. Some of the features include a [[table tennis]] ball bouncing across the level, [[snowflake]]s falling from the sky, a series of [[radar mast]]s interfering with the controls, or teleports that send the player to a random location.
+
+The taxi also has a limited fuel supply. The fuel level resets at the end of each level, but on some of the more complicated screens it is necessary to refuel. This is accomplished by flying to a special platform marked with an "F" and containing a gas pump. The player must pay for fuel out of the money he has earned. Passengers do not make allowances for pitstops, and their tip will continue to decrease as the player tanks up. The taxi's fuel consumption is based upon the time spent in the air, not how much the thrusters are used, so if a player needs to get from one side of the screen to the other, it consumes less fuel (though is more dangerous) to accelerate halfway across the screen and then reverse thrust, than to use one small thrust to move slowly across the screen and occasional upward thrusts to maintain altitude.
+
+After completing all levels, the player gets to a special "mystery level", in which the player is greeted with the message "Welcome to... MUSEWORLD" and three platforms, each with a figure relating to another [[Muse Software]] game: an ambulance representing ''Rescue Squad'' (1983, also John Kutcher), the Nazi soldier for ''[[Castle Wolfenstein]]'' (1981, Silas S. Warner), and a shooting robot relating to ''[[RobotWar]]'' (1981, Silas S. Warner).
+
+==Development==
+Kutcher wrote ''Space Taxi'' while a freshman at Hopkins University.<ref name=hewston/> The physics in the game were influenced by ''[[Lunar Lander (1979 video game)|Lunar Lander]]''.<ref name=hewston/>
+
+==Legacy==
+''Space Taxi'' was cloned several times for the [[Amiga]], once keeping the original name and once as ''AirTaxi''.<ref>[http://airtaxigame.com/ AirTaxi - Amiga Game by Dave May] Accessed on 14 September 2023</ref> A similar game on the PC was called ''[[Ugh!]]'', where the player controls a [[caveman]] with a flying contraption. For [[Windows Phone]] a remake of the first eight levels was published in 2012 as ''Sketch Taxi''.
+
+''Space Taxi 2'', an authorized sequel to ''Space Taxi'', was released by Twilight Games in 2004. It is available on their website.
+
+''Space Cab''<ref>{{Cite web|url=https://community.arduboy.com/t/space-cab-v1-0-1/6055|title=Space Cab V1.0.1|date=2018-07-08|website=Arduboy|language=en-US|access-date=2019-09-10}}</ref> is a tribute to ''Space Taxi'' created for the Atmega 32u4 based Arduboy game system. ''Space Cab'' can also be played through online emulation.
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="hewston">{{cite web |last1=Hewston |first1=Alan |title=Space Taxi the Interview – with John F. Kutcher Jr. |url=http://www.tomheroes.com/Video%20Games%20FS/Retrotimes/Best%20Of/Interviews/john_kutcher.htm|archiveurl=https://web.archive.org/web/20120204134256/http://www.tomheroes.com/Video%20Games%20FS/Retrotimes/Best%20Of/Interviews/john_kutcher.htm|archivedate=2012-02-04}}</ref>
+}}
+
+==External links==
+* {{lemon64 game|id=2393|name=Space Taxi}}
+* {{Internet archive game|id=d64_Space_Taxi_1984_Muse_Software}}
+* [https://archive.org/details/games-58-1984-december/page/56/mode/2up Review] in [[GAMES Magazine]]
+
+{{Muse Software}}
+
+[[Category:1984 video games]]
+[[Category:Action games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Muse Software games]]
+[[Category:Science fiction video games]]
+[[Category:Video games about taxis]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the future]]

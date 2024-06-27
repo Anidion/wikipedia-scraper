@@ -1,0 +1,153 @@
+Track & Field (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Track_%26_Field_%28video_game%29&oldid=1224118651
+Accessed on: 2024-06-26T16:56:03.891935
+
+
+
+------
+Track & Field (video game)
+{{short description|1983 arcade video game}}
+{{multiple issues|
+{{more citations needed|date=October 2021}}
+{{unreliable sources|date=October 2021}}
+}}
+{{Infobox video game
+| title = Track & Field
+| image = Track&Field arcadeflyer.png
+| caption = European arcade flyer
+| developer = [[Konami]]
+| publisher = '''Arcade''' {{vgrelease|JP|[[Konami]]<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=28, 121 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n28}}</ref>|NA|[[Centuri]]<ref name="Akagi"/><ref name="GM224">{{cite magazine|date=15 November 1983|title=Overseas Readers Column|url=https://onitama.tv/gamemachine/pdf/19831115p.pdf#page=16|magazine=[[:ja:ゲームマシン|Game Machine]]|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|issue=224|page=30|lang=ja}}</ref>|UK|Taitel Electronics<ref name="GM224"/>|DE|ENV<ref name="GM224"/>}} '''Ports''' <br> {{vgrelease|JP|Konami|NA|[[Atari, Inc.]]<ref name="GM224"/>|PAL|[[Kemco]] (NES)|EU|[[Ocean Software]] (PC)}}
+| designer =
+| platforms = [[Arcade video game|Arcade]], [[Apple II]], [[Atari 2600]], [[Atari 8-bit]], [[MSX]], [[Nintendo Entertainment System|NES]], [[Commodore 64]], [[Game Boy]], [[Amstrad CPC]], [[Sharp X1]], [[ZX Spectrum]], [[Nintendo DS]]
+| release = '''Arcade''' {{vgrelease|JP|September 1983<ref name="JAMMA"/>|NA|October 17, 1983<ref>{{cite web |title=Track & Field (Registration Number PA0000196323) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=5 May 2021}}</ref>|EU|Late 1983<ref name="EU"/>}}
+| genre = [[Sports game|Sports]] ([[Olympic video games|olympics]])
+| modes = 1-4 players competing 1-2 at a time
+| arcade system = 
+}}
+
+'''''Track & Field''''', also known as {{nihongo foot|'''''Hyper Olympic'''''|ハイパーオリンピック|Haipā Orinpikku|lead=yes|group=lower-alpha}} in Japan and Europe, is an [[Olympic video games|Olympic-themed]] [[sports video game]] developed by [[Konami]] and released as an [[arcade video game]] in 1983. The Japanese release sported an official license for the [[1984 Summer Olympics]]. In Europe, the game was initially released under the Japanese title ''Hyper Olympic'' in 1983,<ref name="EU">{{cite web |title=Video Game Flyers: Hyper Olympic, Konami (EU) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=2347 |website=The Arcade Flyer Archive |access-date=6 May 2021}}</ref> before re-releasing under the US title ''Track & Field'' in early 1984.<ref name="CVG30">{{cite magazine |title=Arcade Action: We Discover What's New in Blackpool |magazine=[[Computer and Video Games]] |date=16 March 1984 |issue=30 (April 1984) |page=26 |url=https://www.solvalou.com/arcade/reviews/187/525}}</ref>
+
+Players compete in a series of events, most involving alternately pressing two buttons as quickly as possible to make the onscreen character run faster. It has a horizontal [[side-scrolling]] format, depicting one or two tracks at a time, a large scoreboard that displays world records and current runs, and a packed audience in the background.<ref name="Lendino"/>
+
+The game was a worldwide commercial success in arcades, becoming one of the most successful [[1984 in video games|arcade games of 1984]]. Konami and Centuri also held a 1984 ''Track & Field'' [[video game competition]] that drew more than a million players internationally, holding the record for the largest organized video game competition of all time {{as of|2016|lc=y}}. It was followed by sequels, including ''[[Hyper Sports]]'', and similar [[Olympic video games]] from other companies. It led to a resurgence of arcade sports games and inspired [[Namco]]'s side-scrolling [[platform game]] ''[[Pac-Land]]'' (1984).
+
+==Gameplay==
+In the original arcade game, the player uses two "run" buttons (or a [[trackball]] in later units that replaced buttons damaged from overuse) and one "action" button to control an athlete competing in the following six events:<ref name="auto">{{Cite web|url=http://www.arcade-museum.com/game_detail.php?game_id=10180|title=Track & Field - Videogame by Konami|website=www.arcade-museum.com|access-date=2016-06-10}}</ref> 
+* [[100 metres|100 meter dash]] – running by quickly alternating button presses.
+* [[Long jump]] – running by alternating button press and correct timing for jump {{mdash}} hold jump button to set angle (42 degrees is optimal).
+* [[Javelin throw]] – running by alternating button presses and then using action button correct timing for angle (43 degrees is optimal).
+* [[110 metre hurdles|110 meter hurdles]] – running by alternating button presses and using action button to time jumps.
+* [[Hammer throw]] – spinning initiated by pressing a run button once and then correctly timed press of action button to choose angle (45 degrees is optimal).
+* [[High jump]] – running (speed set by computer) and then action button must be held down to determine angle of jump {{mdash}} once in the air, the run button can be rapidly pressed for additional height.
+[[Image:Track & Field 01.png|thumb|right|[[Long jump]] event]]
+In each event, there is a qualifying time or level that the player must achieve to advance to the next event; failing to qualify (in one heat for running events or three tries in the other events) will reduce the player's number of lives by one, but if none are present in his/her disposal, the game will end.<ref name="auto"/> Players earn extra lives per 100,000 points scored.
+[[Image:Track & Field 02.png|thumb|right|Start of the 100m dash]]
+The game can accommodate up to four players, who compete in pairs for the running events and individually for the others. If there are fewer than four players, the remaining slots are played by the computer (or player "CPU"). In all multiplayer heats, though, the relative performances of the players have no effect on the game, and advancing is based solely on qualifying times. While most multiplayer arcade games had each set of controls relative to the players going from left to right, this game (which has two sets of controls) had a somewhat different setup. The left set of controls were for players 2 and 4, while the right set was for players 1 and 3. This is one of the few classic arcade games where single player mode was played on the right set of controls rather than the left. If a player completes all six events after a brief medal ceremony, he or she is sent back to the field for another round, with higher qualifying levels, however the game can be configured to conclude after the final event.
+
+Because the game responded to repeatedly pressing the "run" buttons at high frequency, players of the arcade version resorted to various tricks such as rapidly swiping a coin or ping-pong ball over the buttons, or using a metal ruler which was repeated struck such that it would vibrate and press the buttons. As a result, arcade operators reported high rates of damage to the buttons and later versions had modifications to prevent such actions.{{citation needed|date=July 2016}}
+
+==Release==
+''Hyper Olympic'' was introduced at Tokyo's [[Amusement Machine Show]] (AM Show) in September 1983. Despite the hype for [[laserdisc games]] prior to the show, ''Hyper Olympic'' ended up being the most well-received game at the show. According to ''[[Cash Box]]'' magazine, several people claimed there were "cursory similarities" to ''[[Activision Decathlon]]'', which was introduced a month earlier. ''Hyper Olympic'' was licensed to [[Centuri]] for North American distribution. However, [[Atari, Inc.|Atari]] had been chosen as the official Olympics video game sponsor, so Centuri were unable to keep the title ''Hyper Olympic''.<ref name="JAMMA">{{cite magazine |title="Somber" JAMMA Show Hosts Five Laser Disc Games |magazine=[[Cash Box]] |date=October 15, 1983 |pages=32, 34 |url=https://archive.org/details/cashbox45unse_18/page/45}}</ref> It was subsequently introduced in North America as ''Track & Field'' at the Amusement & Music Operators Association (AMOA) show in October 1983. Despite the hype for laserdisc games prior to the show, many operators and distributors ended up considering ''Track & Field'' to be the biggest hit at the event.<ref name="CashMachine">{{cite magazine |title=Cash Machine |magazine=[[Cash Box]] |date=November 12, 1983 |pages=30–4 |url=https://worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1983/CB-1983-11-12.PDF#page=32}}</ref>
+
+===Ports===
+Konami licensed the North American home video game rights to [[Atari, Inc.]]<ref name="GM224"/> They initially [[Port (software)|ported]] ''Track & Field'' to the [[Atari 2600]] console and the [[Atari 8-bit computers]], followed by versions for the [[Apple II]] and the [[Commodore 64]] on the [[Atarisoft]] label. A port for the [[Atari 5200]], identical to the Atari 8-bit computer version, was cancelled.<ref>{{cite web |last=Reichert |first=Matt |title=Track & Field |website=AtariProtos.com |url=http://www.atariprotos.com/5200/software/trackfield/trackfield.htm |access-date=September 19, 2014}}</ref> The 2600 version was among the new games to use Atari's "super chip" technology, enabling enhanced graphics and gameplay variety compared to what was previously possible on the 2600.<ref name="CE"/>
+
+When Konami ported ''Track & Field'' to the Famicom (as ''Hyper Olympic''), they only included four out of six events. Afterwards, they converted ''Hyper Sports'' to the Famicom as well, this time including three of the ''Hyper Sports'' events and one more event from ''Track & Field''. By the time the NES gained popularity in the United States, Konami retooled the game for release in America by including all eight events from both games in one cartridge. Of the original six events from ''Track & Field'', only the hammer throw is missing; in its place, however, are skeet shooting, archery, and triple jump.
+
+The [[ZX Spectrum]] and [[Amstrad CPC]] versions were only released as part of the ''Game, Set and Match II'' compilation in 1988, and are poorly regarded.<ref>{{cite web |url=http://www.cpczone.net/index.php?game=1511 |title=The Amstrad CPC Resource : : Track and Field by Ocean Software for the Amstrad CPC/GX 4000 |publisher=CPC Zone |access-date=2009-07-03 |url-status=dead |archive-url=https://web.archive.org/web/20120305150932/http://www.cpczone.net/index.php?game=1511 |archive-date=2012-03-05}}</ref><ref>{{cite web |title=ZXDB Powered Software Search: Game, Set and Match 2 |url=https://spectrumcomputing.co.uk/index.php?cat=96&id=11732 |website=SpectrumComputing |access-date=14 June 2018}}</ref>
+
+The NES version of ''Track & Field'' was re-released in Europe in 1992 as ''Track & Field in Barcelona'' by [[Kemco]] in the light of the [[1992 Summer Olympics]]. The opening song for the NES version is the ''[[Chariots of Fire]]'' theme by [[Vangelis]] (which was also used in the arcade version's high score screen).
+
+==Reception==
+In Japan, ''Game Machine'' listed ''Hyper Olympic'' as the top-grossing new [[table arcade cabinet]] in December 1983,<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型新製品 (New Videos-Table Type)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=225|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 December 1983|page=32|lang=ja|url=https://onitama.tv/gamemachine/pdf/19831201p.pdf#page=17}}</ref><ref>{{cite magazine|date=15 December 1983|title=Best Hit Games 25|url=https://onitama.tv/gamemachine/pdf/19831215p.pdf#page=17|magazine=[[:ja:ゲームマシン|Game Machine]]|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|issue=226|page=33|lang=ja}}</ref> and then the top-grossing table cabinet in January 1984.<ref>{{cite magazine|title=Best Hit Games 25|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=227|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 January 1984|page=37|lang=ja|url=https://onitama.tv/gamemachine/pdf/19840101p.pdf#page=19}}</ref><ref>{{cite magazine|title=Best Hit Games 25|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=228|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 January 1984|page=31|lang=ja|url=https://onitama.tv/gamemachine/pdf/19840115p.pdf#page=16}}</ref> The game sold 38,000 arcade hardware units in Japan by the end of 1983. ''Track & Field'' was also a hit in North America.<ref>''RePlay'', January 1984</ref><ref>{{cite magazine|title=Olympic Summer Games|magazine=[[Next Generation (magazine)|Next Generation]]|issue=20 |publisher=[[Imagine Media]] |date=August 1996 |page=101}}</ref><ref name="CE"/> Despite requiring physical interaction from players, the game enjoyed continued success in North America throughout the first half of 1984.<ref name="Sharpe">{{cite magazine |last=Sharpe |first=Roger C. |title=1984—Every Which Way But Up |magazine=[[Play Meter]] |date=December 1984 |volume=10 |issue=23 |pages=39, 49–51 |url=https://archive.org/details/play-meter-volume-10-number-23-december-15th-1984/Play%20Meter%20-%20Volume%2010%2C%20Number%2023%20-%20December%2015th%201984/page/49}}</ref> It topped the US ''RePlay'' upright [[arcade cabinet]] charts in February 1984<ref>{{cite magazine |title=RePlay: The Players' Choice |magazine=RePlay |date=February 1984}}</ref> and May 1984,<ref>{{cite magazine |title=RePlay: The Players' Choice |magazine=RePlay |date=May 1984}}</ref> and was the top-grossing arcade game of June 1984.<ref>{{cite magazine |title=Hit Games & High Scores: Arcade Games |magazine=Computer Games |date=June 1984 |volume=3 |issue=2 |publisher=Carnegie Publications |location=United States |page=12 |url=https://archive.org/details/Computer_Games_Vol_3_No_2_1984-06_Carnegie_Publications_US/page/n11}}</ref> It went on to become the third highest-grossing arcade game of 1984 in the United States.<ref>{{cite magazine |title=Top 20 Performing Video Games of 1984 |magazine=[[Play Meter]] |date=1 November 1984 |volume=10 |issue=20 |page=47 |url=https://archive.org/details/play-meter-volume-10-number-20-november-1st-1984/Play%20Meter%20-%20Volume%2010%2C%20Number%2020%20-%20November%201st%201984/page/47}}</ref><ref>{{cite magazine |title=Nominees Announced For 1984 AMOA Awards |magazine=[[Cash Box]] |date=September 8, 1984 |page=28 |url=https://worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1984/CB-1984-09-08.pdf#page=28}}</ref> In Europe, it was the highest-grossing [[1984 in video games|arcade game of 1984]] in the United Kingdom.<ref name="YS">{{cite magazine |title=Commando: Soldier of Fortune |magazine=[[Your Sinclair]] |date=January 1986 |issue=1 |page=54 |url=https://archive.org/details/your-sinclair-01/page/n53}}</ref>
+
+The arcade game received positive reviews upon release. Gene Lewin of ''[[Play Meter]]'' magazine scored it 8 out of 10, but said it would be "a definite 10" if released as a more affordable conversion kit. The review called it the best dedicated arcade game at the AMOA 1983 show and praised the gameplay, "excellent" graphics, "fantastic" sound, and originality, stating that having "different track and field events is an original idea" and "certainly different" than the other sports games [[List of baseball video games|based on baseball]], football or [[List of basketball video games|basketball]].<ref name="PM">{{cite magazine |last1=Lewin |first1=Gene |title=Gene's Judgements: Critiquing AMOA Show Conversions, Dedicated Games |magazine=[[Play Meter]] |date=January 15, 1984 |volume=10 |issue=2 |pages=60–3 |url=https://archive.org/details/play-meter-volume-10-number-2-january-15th-1984/Play%20Meter%20-%20Volume%2010%2C%20Number%202%20-%20January%2015th%201984/page/60/mode/2up}}</ref> ''[[Computer and Video Games]]'' called it a "great game for all you armchair sports enthusiasts"<ref name="CVG30"/> but said it could cause a cramped finger.<ref>{{cite magazine |title=Not So Active Athletics! Track and Field |magazine=[[Computer and Video Games]] |date=16 February 1984 |issue=29 (March 1984) |page=47 |url=https://www.solvalou.com/arcade/reviews/186/525}}</ref>
+
+Reviews for the home conversions varied depending on the platforms. ''[[Computer Entertainer]]'' reviewed the Atari 2600 version in 1984, scoring it 7 out of 8 stars.<ref name="CE">{{cite magazine |title=Track & Field |magazine=[[Computer Entertainer]] |date=August 1984 |volume=3 |issue=5 |page=75 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_aug84.pdf#page=11}}</ref> David M. Wilson and Johnny L. Wilson reviewed the home computer conversions for ''[[Computer Gaming World]]'', and stated that "the game is primarily a joystick buster".<ref name="CGW46">{{cite magazine |last1=Wilson |first1=David M. |last2=Wilson |first2=Johnny L. |title=The Boys of Spring: A Computer Sports Survey |magazine=Computer Gaming World |date=April 1988 |volume=1 |issue=46 |pages=13–14}}</ref> [[Stuart Campbell (game journalist)|Stuart Campbell]], writing in ''[[Your Sinclair]]'' in 1992, considered the Spectrum version to be one of the worst games ever released for the machine.<ref>{{cite magazine |title=An Equal Sequel |magazine=[[Your Sinclair]] |date=March 1992 |issue=75 |url=https://spectrumcomputing.co.uk/page.php?issue_id=296&page=27|page=27 |access-date=22 April 2021}}</ref>
+
+In 1996, ''[[Next Generation (magazine)|Next Generation]]'' listed the ''Track & Field'' series collectively as number 78 on their "Top 100 Games of All Time", remarking: "OK, so the games' play style has little to do with skill at (or even knowledge of) the actual sports. But so what? In a test of pure button pushing endurance, nothing can beat ''Track and Field'', especially when you play with four players".<ref>{{cite magazine|title=Top 100 Games of All Time |magazine=[[Next Generation (magazine)|Next Generation]]|issue=21 |publisher=[[Imagine Media]] |date=September 1996|page=44}}</ref> In 1995, [[Flux (magazine)|Flux]] magazine ranked the arcade version 65th in its "Top 100 Video Games".<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=31}}</ref>
+
+==Competition==
+In 1984, Konami and Centuri jointly held an international ''Track & Field'' [[video game competition]] that drew more than a million players from across Japan and North America. ''[[Play Meter]]'' in 1984 called it "the coin-op event of the year" and an event on a scale never before achieved in the industry.<ref name="Sharpe"/> As of 2016, it holds the record for the largest organized video game competition of all time, according to ''[[Guinness World Records]]''.<ref>{{cite magazine |last1=Baker |first1=Chris |title=How 'Track & Field' Launched World's Biggest Video Game Tournament |url=https://www.rollingstone.com/culture/culture-news/how-konamis-track-field-launched-worlds-biggest-game-tournament-103592/ |access-date=6 October 2021 |magazine=[[Rolling Stone]] |date=16 August 2016}}</ref> The [[Twin Galaxies]]' ''Official Video Game & Pinball Book of World Records - Arcade Volume'', lists history's largest video game contest as the "1984 March of Dimes International Konami/Centuri Track & Field Challenge". The editors said: "More than 1 million contestants played ''Track & Field'' between April 30 and May 26, hoping to be among three finalists going to Japan to represent the USA. As a fundraiser for the March of Dimes, the event was held in [[Aladdin's Castle]] arcades and National Convenience Stores. Gary West of Oklahoma City won the U.S. Finals, but Phil Britt, of Riverside, California, won the World Championship in Tokyo on June 10, 1984".
+
+On December 18, 2008, Héctor Rodriguez, of California, USA, scored a [[world record]] 95,350 points.<ref>{{cite web | url= http://www.twingalaxies.com/scoreboard/track-field/arcade/325/ | title= Twin Galaxies' Track & Field High Score Rankings | date= 2009-12-27 | url-status= dead | archive-url= https://archive.today/20130913181946/http://www.twingalaxies.com/scoreboard/track-field/arcade/325/ | archive-date= 2013-09-13}}</ref>  Rodriguez beat the 23-year-old record of 95,040 points<ref>"Guinness World Records 2008 - Gamer's Edition", page 251</ref><ref>[http://www.twingalaxies.com/index.aspx?c=22&sid=24532] [https://web.archive.org/web/20070727164014/http://www.twingalaxies.com/index.aspx?c=22 Archived copy] at [[WebCite]] (July 14, 2007).</ref> set on June 30, 1985 by Kelly Kobashigawa, of Los Angeles, during [[Twin Galaxies]]' 1985 [[Video Game Masters Tournament]] in Victoria, British Columbia, Canada.
+<!-- Note: Guinness World Records source their Arcade world records scores from Twin Galaxies -->
+
+==Legacy==
+===Impact===
+While not the first Olympic track-and-field game (it was preceded by ''[[Olympic Decathlon]]'' in 1980<ref name="reed">{{cite web|last1=Reed|first1=Matthew|title=Olympic Decathlon|url=http://www.trs-80.org/olympic-decathlon/|website=TRS-80.org}}</ref> and ''[[The Activision Decathlon|Activision Decathlon]]'' in August 1983),<ref>{{cite web |title=Activision Decathlon (Registration Number PA0000189213) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=8 June 2021}}</ref> ''Track & Field'' spawned other similar [[Olympic video games]] following its release.<ref name="YS"/> For example, [[Ocean Software]] developed a licensed adaptation for home computers, ''[[Daley Thompson's Decathlon]]'' (1984).<ref name=":0">{{cite magazine |title=Daley takes the gold|magazine=Sinclair User |issue=32 |publisher=EMAP |date=November 1984|page=26|url=https://archive.org/stream/sinclair-user-magazine-032/SinclairUser_032_Nov_1984#page/n25/mode/1up|access-date=3 April 2020}}</ref> [[Epyx]] released its own multi-event collection as ''[[Summer Games (video game)|Summer Games]]'', then ''[[Summer Games II]]''. [[Dinamic Software|Dinamic]] published ''Video Olimpic'' for the ZX Spectrum in 1984.<ref>{{cite web |title=Video Olimpic |url=https://spectrumcomputing.co.uk/entry/5563/ZX-Spectrum/Video_Olimpic |website=Spectrum Computing}}</ref> [[Bandai]]'s entry was ''[[Stadium Events]]'' for the NES in 1986.
+
+''Track & Field'' had an impact on the wider [[sports video game]] genre, leading a resurgence for the genre in arcades during the 1980s. Following the release of ''Track & Field'', the arcade industry began producing sports games at levels not seen since the days of ''[[Pong]]'' and its clones nearly a decade earlier.<ref name="Lendino">{{cite book |last1=Lendino |first1=Jamie |title=Attract Mode: The Rise and Fall of Coin-Op Arcade Games |date=27 September 2020 |publisher=Steel Gear Press |pages=272, 334 |url=https://books.google.com/books?id=d6wCEAAAQBAJ}}</ref> Sports video games became popular after ''Track & Field'', with a number of successful arcade sports games in 1984, including [[Nintendo]]'s [[List of boxing video games|boxing]] game ''[[Punch-Out!! (arcade game)|Punch-Out]]'', the [[Nintendo VS. System]] titles ''[[Vs. Tennis]]'' and ''[[Vs. Baseball]]'', [[Taito]]'s [[List of American football video games|American football]] game ''[[10-Yard Fight]]'' and [[golf]] game ''[[Birdie King|Birdie King II]]'', and [[Data East]]'s ''[[Tag Team Wrestling]]''.<ref name="Sharpe"/>
+
+[[Namco]]'s Yoshihiro Kishimoto cited ''Track & Field'' as the biggest influence on [[side-scrolling]] platform game ''[[Pac-Land]]'' (1984). The game's controls were heavily influenced by ''Track & Field'', which allowed the player to become faster by constantly tapping the button in succession; Kishimoto thought the idea was interesting and that it would make ''Pac-Land'' stand out among other games.<ref name="Untold History">{{cite book |last1=Szczepaniak |first1=John |title=The Untold History of Japanese Game Developers Vol. 2 |date=4 November 2015 |isbn=978-1518655319 |pages=207–208 |edition=1}}</ref>
+
+===Sequels===
+Konami continued releasing games in the series:
+
+* ''[[Hyper Sports]]'' (1984) (Arcade)
+* ''Track & Field 2 / Hyper Olympic 2'' (1984) (MSX)<ref>{{cite web|url=http://www.mobygames.com/game/msx/track-field-ii|title=Track & Field II for MSX|publisher=[[MobyGames]]|access-date=1 August 2014}}</ref>
+* ''[[Konami '88]]'' (1988) (Arcade)
+* ''[[Track & Field II]]'' (1988) (NES)
+* ''Track & Field'' (1992) (Game Boy)
+* ''[[International Track & Field]]'' (1996) (Arcade, PS, PSN)
+* ''[[Nagano Winter Olympics '98|Hyper Olympics in Nagano]]'' (1998) (Arcade, N64, PS)
+* ''[[International Track & Field 2000]]'' (1999) (PS, N64, GBC, DC, PS2)
+* ''Konami Sports Series'' (2001) (Mobile phones)
+* ''[[ESPN International Winter Sports 2002|Hyper Sports 2002 Winter]]'' (2002) (GC, PS2, Xbox, GBA)
+* ''[[New International Track & Field]]'' (2008) (NDS)
+* ''Hyper Sports Winter'' (2010) (iPhone OS)
+* ''Hyper Sports Track & Field'' (2010) (iPhone OS)
+
+===Re-releases===
+The game appears in ''[[Konami Classics Series: Arcade Hits]]'' for the Nintendo DS, but with an altered version of the Chariots of Fire theme. The Game Boy version was rereleased as part of the ''[[Konami GB Collection]]'' series.
+
+The [[Xbox Live Arcade]] version of the game was released on the [[Xbox 360]] on 8 August 2007, with updated graphics and audio, leaderboards, and online play. It sold 297,307 copies as of 2011.<ref>{{cite news |last1=Langley |first1=Ryan |title=Xbox Live Arcade by the numbers - the 2011 year in review |url=https://www.gamasutra.com/view/news/39713/Xbox_Live_Arcde_by_the_numbers__the_2011_year_in_review.php |access-date=29 April 2020 |work=[[Gamasutra]] |publisher=[[UBM Technology Group]] |date=January 20, 2012}}</ref>
+
+The game also appeared on the [[PlayStation 4]] and [[Nintendo Switch]] under the ''[[Arcade Archives]]'' brand in September 2019.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=10180|name=Track and Field}}
+* ''[https://archive.today/20130913181946/http://www.twingalaxies.com/scoreboard/track-field/arcade/325/ Twin Galaxies High Score Rankings for Track and Field]''
+* [http://www.centuri.net/tracknfield.htm ''Track and Field''] entry at the [[Centuri]].net Arcade Database
+* {{WoS game|id=0005360|name=Track and Field}}
+
+{{Konami Track & Field video games}}
+{{Konami franchises}}
+
+{{DEFAULTSORT:Track and Field (Video Game)}}
+[[Category:1983 video games]]
+[[Category:1984 Summer Olympics]]
+[[Category:Arcade Archives games]]
+[[Category:Arcade video games]]
+[[Category:Apple II games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Cancelled Atari 5200 games]]
+[[Category:Commodore 64 games]]
+[[Category:Head-to-head arcade video games]]
+[[Category:Konami franchises]]
+[[Category:Konami games]]
+[[Category:Mobile games]]
+[[Category:MSX games]]
+[[Category:NEC PC-8001 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Summer Olympic video games]]
+[[Category:SG-1000 games]]
+[[Category:Sharp X1 games]]
+[[Category:Trackball video games]]
+[[Category:Video games set in 1984]]
+[[Category:Video games set in Los Angeles]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:ZX Spectrum games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Athletics video games]]
+[[Category:Konami arcade games]]
+[[Category:Video games developed in Japan]]
+[[Category:Kemco games]]
+[[Category:Centuri games]]

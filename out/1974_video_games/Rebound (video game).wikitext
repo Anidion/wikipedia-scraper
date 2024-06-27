@@ -1,0 +1,79 @@
+Rebound (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Rebound_%28video_game%29&oldid=1190091670
+Accessed on: 2024-06-26T16:47:26.277734
+
+
+
+------
+Rebound (video game)
+{{short description|1974 arcade game}}
+{{good article}}
+{{Infobox video game
+|title = Rebound
+|image = Rebound arcade game flyer.jpg
+|caption = Flyer
+|developer = [[Atari, Inc.|Atari]]
+|publisher = Atari, Inc.
+|released = {{Video game release|NA|February 1974}}
+|genre = [[Sports video game|Sports]]
+|modes = [[Multiplayer video game|Multiplayer]]
+|platforms = [[Arcade video game|Arcade]]
+}}
+'''''Rebound''''' is a two-player [[sports video game|sports]] [[arcade video game]] developed by [[Atari, Inc.|Atari]] and released in February 1974. In the game, two players each control paddles on either side of a volleyball net, with a ball dropped from the top of the screen. The players bounce the ball back and forth across the net with the goal of scoring points by having the ball reach the bottom or side of the other player's half of the screen, with the trajectory of the ball dependent on where it strikes the paddle. The winner is the first player to reach eleven or fifteen points, depending on the game settings.
+
+Development of ''Rebound'' began in late 1973, as one of several variations they produced in 1974 on the gameplay of the successful ''[[Pong]]'' (1972), Atari's first game and the fourth-ever arcade game. Around the same time, Atari launched [[Kee Games]], a subsidiary meant to produce [[video game clone|clone games]] of Atari's products and act as a competitor in order to expand into more distribution channels in the same region than the industry typically supported. Kee's first game, released in March 1974, was ''Spike'', a clone of ''Rebound'', which added a "spike" button to the game that made the paddle jump up and attempt to bounce the ball downwards instead of up. In addition to the base game, Atari sold a conversion kit to convert any Atari two-player ''Pong'' variant into ''Rebound'', and in 1977 ''Rebound'' was included in ''[[Video Olympics]]'' for the [[Atari 2600]], a collection of ''Pong'' variants.
+
+==Gameplay==
+[[File:Rebound gameplay.jpg|thumb|left|Screenshot of gameplay; the two players are tied at 0 points, the net is at its lowest level, and the ball is falling from the top towards the left side.]]
+''Rebound'' is a two-player [[volleyball]] [[sports game]] in which the players, each controlling a paddle representing a person on either side of a volleyball net, attempt to score points. The horizontal paddles are moved by the players left and right on their side of the net, represented by a short dashed line. The ball, represented by a square dot, is dropped from the top of the screen in a [[trajectory of a projectile|parabolic arc]]; if it hits a player's paddle, it bounces in another arc according to where on the paddle it hit. Bounces from closer to the center are more vertical, while those towards the sides move mostly horizontally.<ref name="Manual"/> This method of changing the angle of deflection is similar to the mechanics of ''[[Pong]]'' (1972), [[Atari, Inc.|Atari]]'s first [[arcade game]].<ref name="GSretro"/><ref name="HDG60"/>
+
+If the ball reaches the bottom of the screen without being deflected by a paddle, bounces on the same paddle four times, hits the net, or is deflected into the side of the screen, then a sound is played and a point is awarded to the player on the opposing side. After a point is scored, the ball is dropped from the top of the screen again. Every two times the ball is bounced across the net by the players without a point being scored the net is grows slightly higher, up to ten times; it resets in height when a point is scored. Two large numbers at the top of the screen record the points for each player. Each game costs a [[quarter (United States coin)|quarter]], and machines can be [[DIP switch|set to play]] one or two rounds per game. Rounds can be set to play until a player reaches either eleven or fifteen points. Whenever a game is won, the game resets into its "[[attract mode]]", where the paddles are stretched across the screen, allowing the ball to bounce along to the side and be re-dropped indefinitely.<ref name="Manual"/> Atari subsidiary [[Kee Games]] made a version of the game named ''Spike'', which was functionally almost identical with the addition of a "spike" button; this button made the player's paddle jump into the air, potentially bouncing the ball into a downward trajectory like a [[volleyball#Attack|volleyball spike]].<ref name="KLOVspike"/>
+
+==Development==
+[[File:Spike arcade cabinet.jpg|thumb|right|150px|A ''Spike'' arcade cabinet, featuring a different cabinet than ''Rebound'' but nearly identical graphics and controls, with the addition of two "spike' buttons.]]
+''Rebound'' was developed by [[Atari, Inc.|Atari]]] beginning in late 1973; the final schematics are dated November 31, 1973, and use the code name "Volleyball".<ref name="Manual"/><ref name="GSretro"/> 1973 was near the beginning of the start of the [[arcade game]] industry; after the success of Atari's ''Pong'' (1972), the first game by the new company and fourth arcade game ever produced,<ref name="Color"/> the nascent industry was largely composed of variations on the concept, called "ball-and-paddle games". While Atari created games with other gameplay types in 1973 and 1974, such as ''[[Space Race (video game)|Space Race]]'' (1973) and ''[[Gran Trak 10]]'' (1974), it also created several ''Pong''-like games. ''Rebound'' was a variation on that theme, featuring controls and gameplay similar to ''Pong'', with the addition of gravity arcing the ball and both paddles moved to the bottom of the screen.<ref name="TVGE3637"/> ''Rebound'' was released by Atari in February 1974, with a release announcement on February 16.<ref name="CB2-16-74"/> Other Atari ball-and-paddle games from 1974 include [[Pong#Sequels and remakes|''Superpong'' and ''Quadrapong'']], both of which were variations on the original ''Pong'' gameplay.<ref name="GSretro"/>
+
+The arcade game market is split into manufacturers, distributors, and operators; manufacturers like Atari sell game machines to distributors—who handle several types of electronic machines—who in turn sell them to the operators of locations. In the early 1970s, distributors bought games on an exclusive basis, meaning that only one distributor in each distribution region would carry products from a given arcade game manufacturer, restricting the manufacturer to only the operators that distributor sold to. Atari, in 1973 just over a year old and largely based on their hit first game ''[[Pong]]'', felt that as a smaller manufacturer this setup severely limited their ability to sell arcade games: they could only contract with a limited number of distributors, who would only buy a limited number of games per year.<ref name="AtariInc120"/> To work around this, Atari set up a secret subsidiary company in September 1973, [[Kee Games]], which was intended to sell [[video game clone|clones]] of Atari's games, in effect doubling their potential reach.<ref name="AtariInc127130"/> The first such game by Kee, released in March 1974, was ''Spike'', a clone of ''Rebound'' with the addition of the "spike" button that made the paddle jump up to attempt to knock the ball downwards; other than that addition it is functionally the same game.<ref name="GSretro"/><ref name="AtariInc127130"/>
+
+==Legacy==
+''Rebound'' has been described by ''[[Retro Gamer]]'' as one of the more notable ''Pong'' variants.<ref name="RG"/> Despite this, unlike many other games of the time Atari did not make a sequel game. Sales numbers are not available for ''Rebound'' or ''Spike''; additionally, a table made in 1976 by [[Ralph H. Baer]] in his book ''Videogames: In the Beginning'' containing sales numbers for most games of the time period does not contain any numbers for the two games.<ref name="VITB1011"/> In addition to the stand-alone game, Atari sold conversion kits which could modify any two-player ''Pong'' variant they produced into a ''Rebound'' game.<ref name="RG"/><ref name="Kit"/> The kits included a circuit board to plug in to the existing game and decal stickers to cover up the original name on the cabinets with "Rebound".<ref name="Kit"/> In 1977, ''Rebound'' was included as one of the games in ''[[Video Olympics]]'' for the [[Atari 2600]] home video game console, a collection of ''Pong'' variants, as "Volleyball".<ref name="RS"/>
+
+==References==
+{{reflist|refs=
+<ref name="Manual">{{cite book |title=Rebound Computer Service Manual |publisher=[[Atari, Inc.|Atari]]] |date=February 1974 |url=http://arcarc.xmission.com/PDF_Arcade_Atari_Kee/Rebound/Rebound_(Bulletin_101-1).pdf |url-status=live |archive-url=https://web.archive.org/web/20150504222759/http://arcarc.xmission.com/PDF_Arcade_Atari_Kee/Rebound/Rebound_(Bulletin_101-1).pdf |archive-date=2015-05-04}}</ref>
+<ref name="GSretro">{{cite web |last=Fulton |first=Steve |work=[[Gamasutra]] |publisher=[[UBM plc|UBM]] |date=2007-11-06 |title=The History of Atari: 1971-1977 |url=http://www.gamasutra.com/view/feature/130414/the_history_of_atari_19711977.php?page=8 |access-date=2017-08-18 |url-status=live |archive-url=https://web.archive.org/web/20170818214702/http://www.gamasutra.com/view/feature/130414/the_history_of_atari_19711977.php?page=8 |archive-date=2017-08-18}}</ref>
+<ref name="HDG60">[[#CITEREF_History|Williams]], p. 60</ref>
+<ref name="KLOVspike">{{cite web |url=https://www.arcade-museum.com/game_detail.php?game_id=9719 |title=Spike |publisher=International Arcade Museum |access-date=2017-08-18}}</ref>
+
+<ref name="Color">{{cite web |last=Smith |first=Keith |date=2014-05-17 |title=What Were the First Ten Coin-Op Video Games? |publisher=The Golden Age Arcade Historian |url=https://allincolorforaquarter.blogspot.com/2014/05/what-were-first-ten-coin-op-video-games.html |access-date=2016-10-08 |url-status=live |archive-url=https://web.archive.org/web/20161019105002/https://allincolorforaquarter.blogspot.com/2014/05/what-were-first-ten-coin-op-video-games.html |archive-date=2016-10-19}}</ref>
+<ref name="CB2-16-74">{{cite journal |journal=[[Cashbox (magazine)|Cash Box]] |title=Rebound |date=1974-02-16 |page=59 |issn=0008-7289 |url=http://www.americanradiohistory.com/Archive-Cash-Box/70s/1974/CB-1974-02-16.pdf}}</ref>
+<ref name="TVGE3637">[[#CITEREF_Explode|Wolf]], pp. 36–37</ref>
+<ref name="AtariInc120">[[#CITEREF_Atari|Goldberg, Vendel]], p. 120</ref>
+<ref name="AtariInc127130">[[#CITEREF_Atari|Goldberg, Vendel]], pp. 127–130</ref>
+
+<ref name="RG">{{cite magazine |title=The Story of Breakout |page=38 |magazine=[[Retro Gamer]] |publisher=[[Future plc|Future Publishing]] |issue=117 |date=2016-09-08 |issn=1742-3155}}</ref>
+<ref name="VITB1011">[[#CITEREF_Begin|Baer]], pp. 10–11</ref>
+<ref name="Kit">{{cite book |title=New Life For Old Games! TV-Ping Pong/Volleyball Conversion Kit |publisher=[[Atari, Inc.|Atari]]] |date=1974 |url=http://www.andys-arcade.net/personal/bronzeage/details/rebound/convflyerbig.jpg |url-status=live |archive-url=https://web.archive.org/web/20160310211926/http://www.andys-arcade.net/personal/bronzeage/details/rebound/convflyerbig.jpg |archive-date=2016-03-10}}</ref>
+<ref name="RS">{{cite magazine |url=https://www.rollingstone.com/glixel/news/lists/ataris-forgotten-arcade-classics-w485407/rebound-w485410 |title=Atari's Forgotten Arcade Classics |last=Edwards |first=Benj |date=2017-06-02 |magazine=[[Rolling Stone]] |publisher=Wenner Media |access-date=2017-08-18 |url-status=live |archive-url=https://web.archive.org/web/20170818215253/http://www.rollingstone.com/glixel/news/lists/ataris-forgotten-arcade-classics-w485407/rebound-w485410 |archive-date=2017-08-18}}</ref>
+}}
+
+==Sources==
+{{refbegin}}
+* {{cite book |title=Videogames: In the Beginning |last=Baer |first=Ralph H. |author-link=Ralph H. Baer |publisher=Rolenta Press |date=2005-04-26 |isbn=978-0-9643848-1-1 |ref=CITEREF_Begin}}
+* {{cite book |title=Atari Inc.: Business Is Fun |last1=Goldberg |first1=Marty |last2=Vendel |first2=Curt |publisher=Syzygy Press |date=2012-11-25 |isbn=978-0-9855974-0-5 |url-access=registration |url=https://archive.org/details/atariincbusiness0000gold |ref=CITEREF_Atari}}
+* {{cite book |title=History of Digital Games: Developments in Art, Design and Interaction |last=Williams |first=Andrew |publisher=[[CRC Press]] |date=2017-03-16 |isbn=978-1-317-50381-1 |ref=CITEREF_History}}
+* {{cite book |title=The Video Game Explosion: A History from PONG to PlayStation and Beyond |last=Wolf |first=Mark J. P. |date=2007-11-30 |publisher=[[Greenwood Publishing Group]] |isbn=978-0-313-33868-7 |ref=CITEREF_Explode}}
+{{refend}}
+
+==External links==
+* {{KLOV game|id=9286|name=Rebound}}
+
+{{1970s Atari arcade games}}
+
+{{DEFAULTSORT:Rebound (Arcade Game)}}
+[[Category:1974 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Discrete video arcade games]]
+[[Category:Pong variations]]
+[[Category:Video games developed in the United States]]

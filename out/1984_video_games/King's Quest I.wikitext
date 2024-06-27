@@ -1,0 +1,181 @@
+King's Quest I
+Permalink: //en.wikipedia.org/w/index.php?title=King%27s_Quest_I&oldid=1224401204
+Accessed on: 2024-06-26T16:57:03.897650
+
+
+
+------
+King's Quest I
+{{short description|1984 video game}}
+{{Use American English|date=November 2022}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox video game
+|title = King's Quest
+|image = SierraOnLine-Box-KingsQuest1.jpg
+|caption = Cover art
+|developer = [[Sierra Entertainment|Sierra On-Line]]
+|publisher = [[IBM]], Sierra On-Line
+|producer = Josh Mandel (1990 remake)
+|designer = [[Roberta Williams]]
+|programmer = Charles Tingley<br>Ken MacNeill<br>Sol Ackerman<br>Chris Iden<br>Jeff Stephenson<br/>Jerry Shaw (1990 remake)
+|artist = Doug MacNeill<br>Greg Rowland<br/>William D. Skirvin (1990 remake)
+|writer = Roberta Williams
+|composer = Ken Allen
+|engine = [[Adventure Game Interpreter]] (original) <br> Sierra's Creative Interpreter (remake)
+|series = ''[[King's Quest]]''
+|released = May 10, 1984<ref name="PCjr"/><br>July 1989 (SMS)<br>September 19, 1990 (remake)
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player]]
+|platforms = [[IBM PCjr]], [[Tandy 1000]], [[Apple II]], [[Apple IIGS]], [[Atari ST]], [[Amiga]], [[Macintosh]], [[MS-DOS]], [[Master System]]
+}}
+
+'''''King's Quest: Quest for the Crown''''' is an [[adventure game]] developed by [[Sierra On-Line]] and published originally for the [[IBM PCjr]] in 1984 and later for several other systems between 1984 and 1989. The game was originally titled  '''''King's Quest'''''; the subtitle was added to the games box art in the 1987 re-release, but did not appear in the game.
+
+It is the first official part of the long ''[[King's Quest]]'' series (not counting 1980's ''[[Wizard and the Princess]]''), in which a young knight, Sir Graham, must save the Kingdom of Daventry to become the king. Designed by [[Roberta Williams]], the game was revolutionary and highly influential in the evolution of the [[graphic adventure game]] genre by introducing more detailed graphics and animation.
+
+An official remake titled '''''King's Quest I: Quest for the Crown''''' was released in 1990. An unofficial remake was released by [[AGD Interactive|Sierra Entertainment]] in 2001.
+
+==Gameplay==
+[[File:Kings Quest Tandy.png|thumb|left|Opening scene]]
+
+''King's Quest'' features interactive graphics that were a leap over the mostly static rooms of previous graphical [[interactive fiction]]. Earlier typical [[adventure game]]s present the player a pre-drawn scene, accompanied by a text description. The player's interaction consists entirely of typing commands into the game's parser, then reading the parser's response, because the on-screen graphics rarely change except when the player moves to a new location.
+
+''King's Quest'' is the first adventure game to integrate graphical animation into the player's view of the game world.<ref name="KQ1-NGAlphas">{{cite magazine |title=NG Alphas: King's Quest: Mask of Eternity |magazine=[[Next Generation (magazine)|Next Generation]] |issue=30|publisher=[[Imagine Media]] |date=June 1997|page=72 |url=https://archive.org/stream/NextGeneration30Jun1997/Next_Generation_30_Jun_1997#page/n73}}</ref> This shifts the focus away from the static scenery, to the player's character, which is animated on-screen. Animation sequences are in most player interactions reachable through the normal course of exploration. For example, animation sequences show Graham picking up objects from the ground, opening doors, and wading through water. Depth perspective is simulated; Graham can walk behind objects, causing his character to be hidden from view, or walk in front of them, obscuring the object. This attention to graphical animation, commonplace in [[action game]]s, earned ''King's Quest'' the distinction as the first "3D-animated" adventure game.
+
+The original version of the game relies primarily on textual input as its interface. As the player uses the keyboard to explore the game world, the on-screen character, Graham, is animated walking to the chosen destination. The fantasy world of Daventry consists of an 8×6 cyclic array of screens (or rooms) that make up the outdoor world in which the player can navigate freely, plus about 30 additional screens for indoor, sky, and underground places.
+
+''King's Quest''{{'}}s innovation includes 16-color graphics for the IBM PC platform. The game uses the [[IBM PCjr|PCjr]] and [[Tandy 1000]]'s [[Tandy Graphics Adapter|Video Gate Array]] and enhanced sound, and [[Color Graphics Adapter]] (CGA) computers can display 16-color graphics with [[Color Graphics Adapter#Extended artifact colors|artifact colors]] on a [[Color Graphics Adapter#With a composite color monitor/television set|composite color monitor or television]]. Selecting [[Color Graphics Adapter#With an RGBI monitor|RGBI mode]] at the title screen instead results in the usual 320×200 CGA graphics mode, limited to 4 colors. In this mode, [[Dithering#Digital photography and image processing|dithering]] simulates extra colors. Like previous static-screen Sierra adventures, ''King's Quest'' uses vector graphics rather than pre-rendered bitmaps, which would take far too much disk space. Each screen is drawn line-by-line and painted in. This technique is in all Sierra adventure games up to ''[[King's Quest V]]''.
+
+==Plot==
+===''King's Quest''===
+In the original version for the [[IBM PCjr]], the story is simple. The Kingdom of Daventry is suffering from recent disasters and hardship. King Edward calls his bravest knight, Sir Grahame, to his throne, and tells him he has heard of three legendary treasures hidden throughout the land that would end Daventry's troubles. If Grahame succeeds, he will become king.<ref name="KQ-PCJR-Manual">''King's Quest'' (1984) PCJR, pp. 9–10,</ref> In later releases, the knight's name was changed to Graham.
+
+===''King's Quest: Quest for the Crown''===
+Since the game's fourth release (1984) and the repackaged fifth release (1987), the backstory was greatly expanded. The Kingdom of Daventry is in serious trouble, after its precious magical items have been stolen. One day, King Edward the Benevolent rescued a beautiful young Princess Dahlia of Cumberland, but on the night of their wedding she was discovered to actually be an evil witch who stole the king's treasure. Knowing that he had to save the kingdom, the dying King Edward sends his bravest knight, Sir Graham, to Cumberland. His quest is to rid the land of the treacherous witch, outwit the other assorted villains, and retrieve the three lost treasures. Because he had no heir, if Graham should succeed, he would become the next king.<ref name="KQ1-Manual">''KQ1'' manual, pp. 1–10.</ref>
+
+Sir Graham embarked upon a quest for the items through Daventry, climbing a magic [[bean]]stalk to the Land of the Clouds where he recovered the chest of gold, facing leprechauns to retrieve the shield and a dragon to get back the mirror. After retrieving all the items, Graham returned to the throne room in time to present them to the king before he died. As the king died, he passed on rule of Daventry to Sir Graham as promised.
+
+==Development==
+In late 1982, [[IBM]] contacted [[Sierra On-Line]] for [[launch game]]s for its forthcoming PCjr home computer, announced in November 1983.<ref name="wiswell19840124">{{cite news | url=https://books.google.com/books?id=kSzKzjWHeVEC&pg=PA142 | title=Coming Soon: Games For The PCjr | work=PC | date=January 24, 1984 | access-date=January 26, 2015 | author=Wiswell, Phil | pages=142–145}}</ref> Among the software Sierra developed was ''King's Quest'', the first animated adventure game.<ref name="wiswell19840124"/><ref name="maher20130718">{{cite web | url=http://www.filfre.net/2013/07/the-unmaking-and-remaking-of-sierra-on-line/ | title=The Unmaking and Remaking of Sierra On-Line | publisher=The Digital Antiquarian | date=July 18, 2013 | access-date=February 5, 2015 | author=Maher, Jimmy}}</ref> To create the interactive animation, the ''King's Quest'' development process deployed a prototype version of what would eventually become the [[Adventure Game Interpreter]] (AGI) [[game engine]]. This prototype engine was developed by Arthur Abraham, who was released from the ''King's Quest'' project in the middle of development. Some early reporting on the game referred to the development system as the "Game Adaptation Language" (GAL).<ref name="KQ-Compute!">{{cite magazine|last=Trivette |first=Donald B. |title=Inside King's Quest |url=https://archive.org/details/1985-02-compute-magazine/page/n137 |magazine=[[Compute!]] |volume=1 |issue=57 |publisher=[[ABC Publishing]] |date=February 1985 |pages=136–139}}</ref> In addition to the designer and writer [[Roberta Williams]], six full-time programmers worked for 18 months to complete the game.<ref>{{cite web |title=King's Quest Franchise Explained: Every Game & What Happened After |url=https://screenrant.com/kings-quest-games-sierra-online-reboot-activision-history/ |date=July 15, 2020 |publisher=[[Screen Rant]] |access-date=April 13, 2021}}</ref>
+
+IBM requested a sophisticated and replayable adventure game, and paid for much of the $850,000 development cost.{{r|maher20130718}} IBM stated in advertisements that ''King's Quest'' "runs on the IBM PCjr and makes good use of some special PCjr capabilities", with "unusually smooth and realistic" animation and "an impressive variety of sound effects".<ref name="ibm19841210">{{cite news | url=https://books.google.com/books?id=si4EAAAAMBAJ&pg=PA37 | title=Read Only | work=InfoWorld | date=December 10, 1984 | access-date=January 5, 2015 | pages=37–40 | type=advertisement}}</ref> Its discontinuation of the computer in March 1985 stunned Sierra.<ref name="kennedy19850514">{{cite news | url=https://books.google.com/books?id=DDlmJxSURq8C&pg=PA33 | title=Junior Axed By IBM | work=PC | date=May 14, 1985 | access-date=January 21, 2015 | author=Kennedy, Don | pages=33}}</ref> Due to the PCjr's poor reception, ''King's Quest'' did not sell very well. With the advantage of the development system, Sierra was able to quickly release versions for the Tandy 1000, standard PCs, and the Apple IIe, which helped propel sales.{{r|maher20130718}}
+
+=== IBM PC self-booting releases ===
+Self-booting IBM PC compatible versions, requiring 128 KB of memory:
+{| class="wikitable sortable"
+! style="width: 6%;" | Platform
+! style="width: 6%;" | Date
+!Publisher
+! style="width: 33%;" | Notes
+|-
+| rowspan="2" |[[IBM PCjr]]
+|May 10, 1984<ref name="PCjr">USCO registration number TX0001393675. The 1994 ''King's Quest Collection'' claims a July 1983 release date, when the IBM PCjr computer had not even been announced.</ref>
+|IBM
+|Published in hard plastic case. Includes full keyboard overlay template. Not compatible with Tandy 1000 machines with more than 128 KB of memory.
+|-
+|late 1984
+|IBM
+|Published in hard plastic case. The keyboard overlay template is replaced with a small strip for use with the non-chiclet replacement keyboard. Not compatible with Tandy 1000 machines with more than 128 KB of memory.
+|-
+| rowspan="2" | IBM PC ([[Color Graphics Adapter|CGA]])
+|May 31, 1984<ref name="TimestampEXE">Timestamp of executable file</ref>
+|Sierra
+|Published in gray cardboard box. Manual expands the backstory.
+|-
+|August 16, 1984<ref name="TimestampEXE" />
+|Sierra
+|Published by Sierra in gray cardboard box. Bug-fixed version, adds RGBI color mode.
+|-
+| rowspan="2" | IBM PCjr / [[Tandy 1000]]
+|May 25, 1985<ref name="TimestampEXE" />
+|[[Tandy Corporation]]
+|Published in gray clamshell plastic box. States "Licensed to Tandy Corp." at the Sierra logo screen.
+|-
+|September 4, 1985<ref name="TimestampEXE" />
+|Sierra
+|Included as a second disk in package with the August 1984 PC CGA version.
+|}
+
+=== MS-DOS releases ===
+[[File:King's Quest I screenshot comparison.png|thumb|Identical places in the [[Adventure Game Interpreter|AGI]] (left, 1984–1987) and "Enhanced" SCI (right, 1990) versions of the game]]
+
+The game was re-released for [[MS-DOS]] in 1986 using Sierra's updated AGI version 2 engine. The MS-DOS version lacks some sound effects present in the self-booting version, including birds chirping and distinct sounds for each enemy. It also adds some musical cues from ''[[King's Quest II]]'', including "[[Greensleeves]]" replacing the original simple fanfare at the title screen (the original fanfare still plays when the doors of Castle Daventry open). Background pictures are now drawn into an off-screen buffer to avoid the painting effect of the original game. This was not done merely for the sake of tidiness, but because the self-booting version inadvertently reveals some puzzle solutions by drawing hidden objects first, followed by scenery.
+
+MS-DOS versions require 256K memory. All versions were published by Sierra.
+
+*November 13, 1986,<ref name="TimestampData">Timestamp of data files</ref> Version 1.0U: Updated version, says "New version" on the title screen. Displays text in windows. Supports [[Enhanced Graphics Adapter|EGA]] graphics and runs from hard disks as well, although a key disk is required upon startup. Requires DOS 2.0, IBM PC with CGA graphics or PCjr/Tandy 1000. Unique in showing a discolored leaf at the title screen. Sold in the same gray flip-lid box as the 128K self-booting versions, with a gray triangular sticker denoting the 256K version, and a gold sticker stating "Now supports EGA".
+*May 5, 1987,<ref name="TimestampData"/> Version 2.0F, interpreter version 2.425: Adds pull-down menus. Supports [[Hercules Graphics Card|Hercules]] graphics and modifies the EGA graphics code to run on machines with an 80386 processor. Sold both in the original gray flip-lid box as well as a gold slipcover box. The gold slipcover box adds the sub-title "''Quest for the Crown''" for the first time, even as it is not mentioned in the game itself. First version of the game that was also available on 3.5" 720K disks.
+*December 1, 1987,<ref name="TimestampEXE"/> Version 2.0F, interpreter version 2.917: Adds support for [[Multi-Color Graphics Array|MCGA]] graphics.<ref name="SierraNewsletter2">The Sierra Newsletter, Volume 1, Issue 2, pg. 6</ref>
+
+All floppy-disk based releases of the 128K and 256K versions use different forms of on-disk copy protection.
+
+=== Other platforms ===
+The game was also ported in 1986 to the [[Amiga]] and [[Atari ST]] at the same time, and in 1989 to the [[Master System]].
+*1984, Apple IIe and IIc: Based on the self-booting PC/Tandy 1000 version. Requires the 128k IIe or IIc to run.
+*1986, Amiga/Atari ST: Based on the 256K PC version 1.0U.
+*1988,<ref name="SierraNewsletter3">The Sierra Newsletter, Volume 1, Issue 3, pg. 2</ref> [[Apple IIGS]]: Based on the 256K PC version, adds PCM sound effects and new music composed by [[Al Lowe]].
+*1989, Master System: own engine with a verb/noun interface<ref name="kqSMSdate">{{cite magazine|title=Top Secret! King's Quest |url=https://archive.org/details/Electronic_Gaming_Monthly_02/page/n69 |magazine=[[Electronic Gaming Monthly]] |volume=1 |issue=2 |publisher=EGM Media, LLC |date=July 1989 |page=68}}</ref>
+
+''King's Quest'' was not ported to the [[Commodore 64]], the most important computer game platform.{{r|maher20130718}} Roberta Williams said that the limitations of its graphic system (three colors per 8x8 block) did not permit the level of graphics detail Sierra wanted. In addition, the computer's 64k of memory is too small for the complex AGI engine. She said that she had always wanted to make an adventure game with animation, but it was not possible up to then.
+
+The 1989 Master System port uses its own engine, with a verb/noun interface similar to early [[LucasArts]] games. It has original tile and sprite-based graphics and was published by [[Parker Brothers]], who in turn outsourced development to micro smiths, as had been done for ''[[Montezuma's Revenge (video game)|Montezuma's Revenge]]''. The game is based on the original ''King's Quest'', and shares the puzzles and points-list of that game. Some of the puzzles and rooms have been modified a bit (for example, the boulder covering the dagger rolls a different direction than in PC). An extra item exists &mdash; it is now possible to pick up the three-leaf clovers. There are some extra places to die (including a dangerous staircase added to an exit of the Leprechauns' realm). It is non-linear, and the three treasures can be collected in any order, like in the original PC version. Game saves are done through passwords.
+
+===1990 remake===
+''King's Quest I: Quest for the Crown'' is a 1990 remake of ''King's Quest''. This release is the "Enhanced" version of ''King's Quest''. It uses the Sierra's Creative Interpreter (SCI) engine, the same engine used in games such as ''[[King's Quest IV: The Perils of Rosella|King's Quest IV]]''; while it still uses 16-color graphics, it features twice the resolution, and music card support instead of the PC speaker. There are two different box variations for this release: one with the same gold slipcover box as the 1987 256K version 2.0F and a box created specifically for the remake.
+
+The game is described as a 1.5 (1 1/2) remake of ''King's Quest I''.<ref>John Williams describes as a King's Quest I 1/2... a conversion of the original AGI game to SCI...., Sierra News Magazine, Autumn 1989, pg 14</ref>
+
+The 1990 SCI EGA "Enhanced" version of ''King's Quest: Quest for the Crown'' was announced for the Atari ST line of computers and later canceled.<ref name="Staff-Spring91">{{cite web |url=http://sierra.gracenroark.net/interaction/010_Sierra_News_Magazine_Volume_4_Number_1_Spring_1991.pdf?tag= |title=Staff (Spring 1991) |publisher=[[Sierra On-Line]] |access-date=November 28, 2018 |archive-date=February 16, 2012 |archive-url=https://web.archive.org/web/20120216090016/http://sierra.gracenroark.net/interaction/010_Sierra_News_Magazine_Volume_4_Number_1_Spring_1991.pdf?tag= |url-status=dead }}</ref> It was announced via ''Sierra News Magazine'' in spring 1991, saying owners could send disk #1 or the front cover of the manual along with a check or money order for $20 to upgrade their copy to the enhanced version.
+
+===Collections===
+Both versions of ''King's Quest I'' have been released in assorted collections beginning with the ''King's Quest 15th Anniversary Collector's Edition'' (1994),<ref>{{Cite web |title=Video game:King's Quest: Collector's Edition - Celebrating Sierra On-Line's 15th Anniversary |url=https://artsandculture.google.com/asset/video-game-king-s-quest-collector-s-edition-celebrating-sierra-on-line-s-15th-anniversary/LQEsezL2z3IMkw |access-date=2023-06-09 |website=Google Arts & Culture |language=en}}</ref> followed by the ''King's Quest Collection'' (1995),<ref>{{Citation |last=Sierra On-Line |title=King's Quest - Collector's Edition (USA) |date=1995 |url=http://archive.org/details/kings-quest-collectors-edition-usa |access-date=2023-06-09}}</ref> the ''King's Quest Collection Series'' (1996)<ref>{{Cite web |title=King's Quest: Collection Series (1997) |url=https://www.mobygames.com/game/1857/kings-quest-collection-series/ |access-date=2023-06-09 |website=MobyGames |language=en}}</ref> and ''Roberta Williams Anthology'' (1997).<ref>{{Cite web |title=Roberta Williams Anthology |url=https://www.sierragamers.com/roberta-williams-anthology/ |access-date=2023-06-09 |website=Sierra Gamers |language=en-US}}</ref> The 2006 collection lacked the original AGI version of ''King's Quest'', and contained only the SCI remake. This version was released on [[Steam (service)|Steam]] in 2009.<ref>{{Cite web |title=King's Quest™ Collection on Steam |url=https://store.steampowered.com/app/10100/Kings_Quest_Collection/ |access-date=2023-06-09 |website=store.steampowered.com |language=en}}</ref> The original AGI version appears in the ''KQ1+2+3'' collection released on [[GOG.com|GOG]],<ref>{{Cite web |title=King's Quest 1+2+3 |url=https://www.gog.com/en/game/kings_quest_1_2_3 |access-date=2023-06-09 |website=GOG.com |language=en}}</ref> but the SCI remake is not included.
+
+===Fan remake===
+In 2001, the group [[AGD Interactive]] (then known as Tierra Entertainment) released an unofficial remake based on Sierra's 1990 version, updating the graphics to use [[VGA]] colors, dropping the parser in favor of an interface that mimics that of ''[[King's Quest V: Absence Makes the Heart Go Yonder!|King's Quest V]]'', and full speech - including the voice of the original voice actor for King Graham in Sierra's official [[CD-ROM]] full-speech versions of ''King's Quest V'' and ''VI'', [[Josh Mandel (video game designer)|Josh Mandel]].<ref name="KQ1-AGD">{{Cite web|url=http://www.agdinteractive.com/games/kq1/about/aboutdev.html|title=AGDInteractive Studios|website=www.agdinteractive.com}}</ref> This was later updated with original hand-drawn artwork.
+
+==Reception==
+{{expand section|date=April 2016}}
+The Master System version was given an average score of 6 out of 10 by reviewers in ''[[Electronic Gaming Monthly]],'' who highlighted its difficulty and its lack of appeal to [[Sega]] fans.<ref name="kqSMS-EGM">{{cite magazine|title=King's Quest (SMS) - EGM Review |url=https://archive.org/details/Electronic_Gaming_Monthly_03/page/n11 |magazine=[[Electronic Gaming Monthly]] |volume=1 |issue=3 |publisher=EGM Media, LLC |date=September 1989 |page=13}}</ref>
+
+French magazine ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' rated the 1984 Apple II and PC Jr versions 3 out of 5, noting that the high system memory requirements would hinder many players.<ref>{{Cite magazine|url=http://archive.org/details/jeux-et-strategie-32/page/48/mode/2up|magazine=Jeux & stratégie | title=King's Quest |date=April 28, 1985|via=[[Internet Archive]]}}</ref>
+
+The 1990 enhanced version was described by critics and fans alike at the time as "destroying a classic", and was compared to the controversial practice of [[colorizing]] classic black and white movies.{{Citation needed|date=March 2023}} The remake was a critical failure and prevented the release of further remakes in the series.{{Citation needed|date=March 2023}}
+
+In 2020, [[The Strong National Museum of Play]] inducted ''King’s Quest'' to its [[World Video Game Hall of Fame]].<ref>{{cite news |title=King's Quest |url=https://www.museumofplay.org/games/kings-quest/ |website=[[The Strong National Museum of Play]] |publisher=[[The Strong]] |access-date=May 6, 2022}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{moby game|id=/kings-quest|name=''King's Quest''}}
+* {{moby game|id=/roberta-williams-kings-quest-i-quest-for-the-crown|name=''Roberta Williams' King's Quest I: Quest for the Crown''}}
+* [http://www.adventureclassicgaming.com/index.php/site/reviews/120/ The History of ''KQ1''] at Adventure Classic Gaming
+* [http://www.sierrahelp.com/Games/KingsQuest/KQ1AGIHelp.html ''King's Quest I AGI'' Technical Help] on the Sierra Help Pages
+* [http://www.sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html ''King's Quest I SCI'' Technical Help] on the Sierra Help Pages
+*[https://archive.org/details/games-58-1984-december/page/50/mode/2up Review] in [[GAMES Magazine]]
+
+{{Kings Quest}}
+{{Sierra Adventure Games|King's Quest}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1984 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:Games commercially released with DOSBox]]
+[[Category:King's Quest]]
+[[Category:King's Quest fan games|I]]
+[[Category:Master System games]]
+[[Category:Point-and-click adventure games]]
+[[Category:ScummVM-supported games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Tandy 1000 games]]
+[[Category:Video games about witchcraft]]
+[[Category:Video games set in castles]]
+[[Category:World Video Game Hall of Fame]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games designed by Roberta Williams]]
+[[Category:Single-player video games]]

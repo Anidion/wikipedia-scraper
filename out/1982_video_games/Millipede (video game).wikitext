@@ -1,0 +1,109 @@
+Millipede (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Millipede_%28video_game%29&oldid=1224492707
+Accessed on: 2024-06-26T16:53:41.487183
+
+
+
+------
+Millipede (video game)
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Millipede
+| image = Millipede Poster.png
+| image_size = 225px
+| caption = Arcade flyer
+| developer = [[Atari, Inc.]]
+| publisher = {{vgrelease|NA|Atari, Inc.|JP|[[Namco]]}}
+| designer = [[Ed Logg]]
+| programmer = '''Arcade'''<br>Ed Logg<br>[[Mark Cerny]]<br>'''Atari 2600'''<br>Dave Staugas<ref name=giantlist/><br>'''Atari 8-bit'''<br>Steve Crandall<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+| artist = '''Atari 2600'''<br>Jerome Dourmat
+| released = '''Arcade'''{{vgrelease|NA|November 12, 1982<ref>{{cite web |title=Millipede (Registration Number PA0000168302) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=24 May 2021}}</ref>|EU|April 1983<ref>{{cite magazine |title=Arcade Action |magazine=[[Computer and Video Games]] |date=16 April 1983 |issue=19 (May 1983) |pages=30–1 |url=https://www.solvalou.com/arcade/reviews/176/491}}</ref>|JP|1984<ref>{{cite web |title=Millipede |url=https://mediaarts-db.bunka.go.jp/id/M731118 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=31 May 2021}}</ref>}}'''Atari 2600'''{{vgrelease|NA|March 1984<ref>{{cite web |last1=Hahn |first1=Duane Alan |title=1984: Atari 2600 Video Game Release Dates with Pop Culture Atmosphere |url=https://www.randomterrain.com/atari-2600-memories-history-1984.html |website=Random Terrain}}</ref>}}'''Atari 8-bit'''{{vgrelease|NA|1984}}'''Atari ST'''{{vgrelease|NA|1986}}'''NES'''{{vgrelease|NA|1988}}'''Famicom'''{{vgrelease|JP|October 01, 1987}}
+| genre = [[Fixed shooter]]
+| modes = [[Single-player video game|Single-player]], 2 players alternating
+| platforms = [[Arcade video game|Arcade]], [[Atari 2600]], [[Atari 8-bit]], [[Atari ST]], [[Nintendo Entertainment System|NES]]
+}}
+
+'''''Millipede''''' (stylized '''''millipede''''' in western releases and '''''Milli-Pede''''' in Japan) is a [[fixed shooter]] video game released in arcades by [[Atari, Inc.]] in 1982. The sequel to 1981's ''[[Centipede (video game)|Centipede]]'', it has more gameplay variety and a wider array of insects than the original. The objective is to score as many points as possible by destroying all segments of the millipede as it moves toward the bottom of the screen, as well as eliminating or avoiding other enemies. The game is played with a [[trackball]] and a single fire button which can be held down for rapid-fire.
+
+''Millipede'' was initially ported to the [[Atari 2600]] and [[Atari 8-bit computers]], then later to the [[Atari ST]] and [[Nintendo Entertainment System]].
+
+== Gameplay ==
+[[Image:millipedearcadegame.png|thumb|left|Arcade original]]
+
+The player no longer takes the role of the "Bug Blaster" from ''Centipede'', but instead takes the role of an [[elf]] called the "Archer". The object of the game is to destroy a [[millipede]] that advances downward from the top of the screen. The millipede travels horizontally until it either hits an obstacle or reaches the edge of the screen, after which it drops one row and reverses direction. Once it enters the player's gray maneuvering area, it stays there and extra heads appear at intervals until both they and the millipede are destroyed. Shooting a body segment splits the millipede in two, with the rear portion sprouting its own head. A collision with any enemy costs the player one life.
+
+===Differences from ''Centipede''===
+* According to the game's arcade flyer and instruction manual, the game's storyline involves the player character, Archer, defending his mushroom forest from the onslaught of gigantic insect monsters using his magic arrows.
+* The [[millipede]] moves faster and its head segment is more difficult to hit.
+* [[Earwig]]s replace scorpions from ''Centipede'', making mushrooms poisonous so that the millipede will charge straight to the bottom of the screen after touching them.
+* [[Bee]]s replace fleas from ''Centipede'', leaving mushrooms in a vertical line and requiring two shots to destroy.
+* [[Spider]]s behave the same way as in ''Centipede'', moving in zig-zag pattern across the player area and eating mushrooms. Multiple spiders can appear at the same time on higher levels.
+* [[Inchworm]]s move horizontally across the screen and slow all enemies for a short period of time when hit.
+* [[Ladybug]]s crawl around the player area for a while, then climb up and leave the screen, turning any mushrooms they touch into indestructible flowers. When hit, all mushrooms on the screen scroll down one row.
+* [[Dragonflies]] drop mushrooms while zig-zagging down.
+* [[Mosquito]]es bounce off the sides of the screen as they descend diagonally. When hit, all mushrooms on the screen scroll up one row.
+* [[DDT]] bombs are triggered when shot, destroying all enemies and mushrooms within the resulting cloud. Whenever the mushrooms scroll down, a new bomb is added at the top of the screen, with up to four bombs in play at one time. Points are scored for shooting the bomb itself, and enemies destroyed in the blast are worth three times the normal points.
+
+[[Image:Musée Mécanique 218.JPG|thumb|An upright cabinet]]
+
+All flowers and poisoned or partially destroyed mushrooms revert to normal, whole mushrooms and score points during the process when the player loses a life.
+
+At regular intervals, the player enters a bonus level with a swarm of enemies (bees, dragonflies, etc.) instead of the usual millipede. Each enemy awards increasing points, up to a maximum of 1,000 points per enemy. The attack ends when either the entire swarm has passed or the player loses a life. Also, at intervals new mushrooms will grow on the field while others disappear, in a pattern similar to ''[[Conway's Game of Life]]''.
+
+Players can choose whether to play at an advanced level, starting with a score that is a multiple of the number of points needed to earn an extra life (by default, 15,000). The gameplay is generally much more advanced than it would be had the player started with a score of 0 and worked their way up to that point level. The maximum advanced level allowed is a function of the preceding player's score, and games started at an advanced level where the player did not earn at least one extra life are not eligible for the high scoreboard.
+
+== Ports ==
+''Millipede'' was released for the [[Atari 2600]] and [[Atari 8-bit computers]] in 1984, with an [[Atari ST]] port following in 1986. A version for the [[Family Computer]] was developed and published by [[HAL Laboratory]], known as ''Milli-Pede: Kyodai Konchū no Gyakushū'', later renamed to ''Millipede: Super Arcade Hit!'' for its 1988 US [[NES]] release. In the Family Computer and NES versions, earwigs do not poison the mushrooms.
+
+A port of the Atari 8-bit version to the [[Atari 5200]] was completed in 1984 but not published.
+
+== Reception ==
+It was listed by ''[[Cash Box]]'' magazine as America's fourth highest-grossing [[1983 in video games|arcade game of 1983]], below ''[[Ms. Pac-Man]]'', ''[[Pole Position]]'' and ''[[Dragon's Lair (1983 video game)|Dragon's Lair]]''.<ref>{{cite magazine |title=Cash Box Jukebox/Games Survey |magazine=[[Cash Box]] |date=October 29, 1983 |page=46 |url=https://archive.org/details/cashbox45unse_20/page/54 |publisher=Cash Box Pub. Co.}}</ref>
+
+French magazine ''[[Tilt (French magazine)|Tilt]]'' rated the arcade game with four out of six stars.<ref name="Tilt">{{cite magazine |title=Service Compris Arcade: Les Seuers Froides |magazine=[[Tilt (French magazine)|Tilt]] |date=May 16, 1983 |issue=5 |pages=72–3 |lang=fr |url=https://archive.org/details/Tilt005/page/n71/mode/2up}}</ref>
+
+== Legacy ==
+In 1995, ''Millipede'' was released together with ''Centipede'' on the [[Game Boy]] under the title ''Arcade Classic No. 2: Centipede / Millipede''.
+
+In 1997, it was included in ''[[Arcade's Greatest Hits: The Atari Collection 2]]'' for the [[PlayStation]].
+
+In 2005, ''Millipede'' was combined with ''[[Super Breakout]]'' and ''[[Lunar Lander (1979 video game)|Lunar Lander]]'' for the [[Game Boy Advance]].
+
+The arcade and Atari 2600 versions of the game were rereleased in the 2005 [[Atari Anthology]] for the [[Xbox]] and [[PlayStation 2]]. ''Millipede'' and ''Centipede'' were made available for the [[Xbox 360]] via [[Xbox Live Arcade]] in 2007.
+
+==High scores==
+Donald Hayes, of New Hampshire, USA, scored a [[world record]] 10,627,331 points playing ''Millipede'' on December 26, 2004.<ref>{{cite web | url= http://www.twingalaxies.com/index.aspx?c=22&pi=2&gi=3232&vi=1373 | title= Twin Galaxies' Marathon Millipede High Score Rankings | accessdate= 27 December 2009 | url-status= dead | archiveurl= https://web.archive.org/web/20081004120508/http://www.twingalaxies.com/index.aspx?c=22&pi=2&gi=3232&vi=1373 | archivedate= 4 October 2008}}</ref><!-- Note: Guiness World Records source their Arcade world records scores from Twin Galaxies -->  The highest ''Millipede'' score played under tournament settings is 495,126 points, also by Hayes.<ref>{{Cite web|url=http://www.twingalaxies.com/scores.php?player=12711|title=Twin Galaxies}}</ref>
+
+In the default high-scores table of the arcade, the initials "ED" and "FXL" refer to "Ed Logg" (designing and programming) and "Franz Lanzinger" (who helped a bit in designing and testing).<ref>''[[Retro Gamer]]'', issue 76, page 27 (Q&A)</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+{{Portal|1980s|Video games}}
+* {{KLOV game|id=8698|name=Millipede}}
+* [http://www.arcade-history.com/?page=detail&id=1633 ''Millipede''] at the Arcade History database
+* {{atarimania|id=18247}}
+* {{atarimania|id=9986}}
+
+{{Centipede series}}
+
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari games]]
+[[Category:Namco games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari arcade games]]
+[[Category:Atari ST games]]
+[[Category:Cancelled Atari 7800 games]]
+[[Category:Atari 2600 games]]
+[[Category:Cancelled Atari 5200 games]]
+[[Category:Ed Logg games]]
+[[Category:Fixed shooters]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Trackball video games]]
+[[Category:Video games about insects]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Brad Fuller]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:Multiplayer and single-player video games]]

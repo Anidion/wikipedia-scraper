@@ -1,0 +1,51 @@
+Dnd (1975 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dnd_%281975_video_game%29&oldid=1230370597
+Accessed on: 2024-06-26T16:47:29.402532
+
+
+
+------
+Dnd (1975 video game)
+{{Short description|1975 role-playing video game}}
+{{For|the Daniel Lawrence video game|DND (video game)}}
+{{Infobox video game
+| title = dnd
+| italic title = no
+| image = Dnd8.png
+| caption = Title page of version 8 of ''dnd'' (running on a PLATO [[emulator]] in 2006)
+| genre = [[Role-playing video game|Role-playing]]
+| released = 1975
+| platforms = [[PLATO (computer system)|PLATO system]]
+| developer = Gary Whisenhunt, Ray Wood
+}}
+
+'''''dnd''''' is a [[role-playing video game]]. The name ''dnd'' is derived from the abbreviation "D&D" from the original [[tabletop role-playing game]] ''[[Dungeons & Dragons]]'', which was released in 1974.
+
+''dnd'' was written in the [[TUTOR|TUTOR programming language]] for the [[PLATO (computer system)|PLATO system]] by Gary Whisenhunt and Ray Wood at [[Southern Illinois University]] in 1974 and 1975.<ref>Mark J. P. Wolf ''Before the Crash: Early Video Game History'' 2012 p212: "After ''Spacewar!'', several more games appeared on the PLATO system, including ''DECWAR'' (1974, based on "Star Trek"), ''Empire'' (1974), a Dungeons & Dragons–inspired game named ''dnd'' released in 1979, ''Moria'' (1975), the original ''Freecell'' (1978), and a flight simulator named ''Airfight''..."</ref><ref>{{cite web|last=Martell|first=Carey|date=26 April 2012|title=Interview with creators of dnd (PLATO)|url=http://www.rpgfanatic.net/advanced_game_wiki_database.html?p=news&nrid=5049&game=dnd|website=RPGFanatic.net|archive-url=https://web.archive.org/web/20131027034539/http://www.rpgfanatic.net/advanced_game_wiki_database.html?p=news&nrid=5049&game=dnd|archive-date=2013-10-27|access-date=2019-03-07}}</ref> Dirk Pellett of [[Iowa State University]] and Flint Pellett of the [[University of Illinois Urbana-Champaign|University of Illinois]] made substantial enhancements to the game from 1976 to 1985.<ref>{{cite book|last=Dear|first=Brian|chapter=Chapter 16: Into the Dungeon|chapter-url=https://books.google.com/books?id=D5ZBDwAAQBAJ&pg=PA294 |title=The Friendly Orange Glow: The Untold Story of the PLATO System and the Dawn of Cyberculture|publisher=Pantheon Books|place=New York|year=2017|pages=294–297|isbn=9781101871553}}</ref>
+
+''dnd'' is notable for being the first interactive game to feature what would later be referred to as [[Boss (video games)|bosses]].<ref name="armory">{{cite web|url=http://www.armory.com/~dlp/dnd1.html|title=Gary Whisenhunt, Ray Wood, Dirk Pellett, and Flint Pellett's DND|website=Armory.com|access-date=2008-04-08}}</ref><ref name="uvl">{{cite web|url=http://www.uvlist.net/game-160118-dnd|title=dnd (The Game of Dungeons)|website=Universal Videogame List|access-date=2008-04-09}}</ref>
+
+==Gameplay==
+In ''dnd'', [[player (game)|players]] create a [[player character|character]] and venture into the multi-level Whisenwood Dungeon (a [[portmanteau]] of the authors' last names) in search of two ultimate treasures: the grail and the orb.<ref name="uvl"/> The game presents players with an overhead view of the dungeon, but also implements many basic concepts of ''[[Dungeons & Dragons]]''. The Whisenwood dungeon consists of multiple maze-like [[level (video games)|levels]]. As players complete each level, they are allowed to advance to the next, but the players may return to previous levels and leave the dungeon altogether making ''dnd'' one of the first video games to use non-linear progression. As players complete levels, they acquire new spells, weapons and [[item (game terminology)|items]] that aid them in their [[quest (video games)|quest]] to find the ultimate treasures.
+
+Teleporters move characters between dungeon levels. High-level monsters, including a Golden Dragon that guards the Orb, are found at the end of each dungeon. Leaving the dungeon allows one to recuperate and regain spells and return later.
+
+[[File:Dnd8won.png|right|256px|thumb|Player about to win ''dnd'': Character is shown in the maze, with both the Orb and Grail (as well as most other magic items and a charmed dragon).]]
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+* "Retro Playing Games", ''[[Computer Games Magazine|Computer Games]]'', April, 2006, p.&nbsp;36–37.
+
+==External links==
+* [http://www.cyber1.org cyber1.org] – ''dnd'' as well as many other dungeon games can be played on this system.
+
+{{Dungeons & Dragons video games}}
+
+{{DISPLAYTITLE:''dnd'' (1975 video game)}}
+[[Category:1975 video games]]
+[[Category:Dungeons & Dragons video games]]
+[[Category:PLATO (computer system) games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United States]]

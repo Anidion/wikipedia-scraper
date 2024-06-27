@@ -1,0 +1,93 @@
+Heiankyo Alien
+Permalink: //en.wikipedia.org/w/index.php?title=Heiankyo_Alien&oldid=1225473053
+Accessed on: 2024-06-26T16:51:16.129487
+
+
+
+------
+Heiankyo Alien
+{{short description|1979 computer puzzle game}}
+{{Infobox video game
+| title = Heiankyo Alien
+| image = Heiankyo Alien promo flyer.png
+| caption = Arcade flyer
+| developer = [[The University of Tokyo|Theoretical Science Group]]
+| publisher = {{vgrelease|JP|[[:ja:電気音響|Denki Onkyō]]|NA|[[Sega]]-[[Gremlin Industries|Gremlin]]<ref name="Akagi"/>}}
+| designer = Itaru Kawakami
+| programmer = Mitsutoshi Tabata
+| platforms = [[Arcade game|Arcade]], [[PC-8000 series]], [[Apple II]], [[Game Boy]], [[Super Famicom]], [[Microsoft Windows|Windows]], [[Mobile game|Mobile]]
+| released = '''PC-8000 series''' {{vgrelease|JP|1979<ref name="Utokyo"/>}} '''Arcade''' {{vgrelease|JP|November 1979<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=98, 131 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n97}}</ref>|NA|September 1980<ref name="Akagi"/>}}
+| genre = [[List of maze video games|Maze]]
+| modes = [[Single-player]], [[multiplayer]]
+| arcade system = [[List of Sega arcade system boards#Arcade system boards|Dual]] (clone)
+}}
+{{nihongo|'''''Heiankyo Alien'''''|平安京エイリアン|Heian-kyō Eirian}}, known as '''''Digger''''' in North America,<ref name="Akagi"/> is a [[maze video game]] created by [[The University of Tokyo]]'s Theoretical Science Group (TSG) in 1979.<ref name="Utokyo">{{cite web |url= http://plusd.itmedia.co.jp/games/articles/0704/20/news011.html |script-title=ja:東大の頭脳に挑戦！「平安京エイリアン」|accessdate=2008-07-31 |publisher= IT Media +D Games|date= 2008-04-20|language=Japanese}} ([https://translate.google.com/translate?sl=ja&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fgamez.itmedia.co.jp%2Fgames%2Farticles%2F0704%2F20%2Fnews011.html&act=url Translation])</ref><ref name=Utokyo2>{{cite web|url=http://www.g-mode.co.jp/en/news/press/main03.html |title=G-mode Press Release |accessdate=2008-07-31 |publisher=[[G-Mode]] |archiveurl=https://web.archive.org/web/20070703075512/http://www.g-mode.co.jp/en/news/press/main03.html |archivedate=July 3, 2007 |url-status=dead}}</ref> The game was originally developed and released as a [[personal computer game]] in 1979, and was then published by {{nihongo|Denki Onkyō Corporation|[[:ja:電気音響|電気音響株式会社]]|Denki Onkyō Kabushiki Gaisha}} as an [[arcade game]]<ref name="Utokyo"/> in November 1979.<ref name="Akagi"/> In 1980, the arcade game was released in North America as ''Digger'' by [[Sega]]-[[Gremlin Industries|Gremlin]],<ref name="Akagi"/> with minor changes in appearance.<ref name=digger>{{cite web |url= http://www.klov.com/game_detail.php?letter=D&game_id=7583 |title= Digger Videogame by Sega/Gremlin (1980)|accessdate=2008-07-31 |publisher= International Arcade Museum |date=}}</ref>
+
+The game was a commercial success in Japan, where it was among the top ten highest-grossing [[1979 in video games|arcade games of 1979]]<ref name="GM136"/> and [[1980 in video games|1980]]. The game has been ported to several other gaming systems since its original release. It was an early example of a [[List of maze chase games|maze chase]] game, predating [[Namco]]'s ''[[Pac-Man]]'' (1980). It also began a genre of games about digging holes and luring enemies into traps, variously called "trap 'em up" or "digging" games, which includes titles such as ''[[Space Panic]]'' (1980) and ''[[Lode Runner]]'' (1983).
+
+==Gameplay==
+[[File:Heiankyo Alien game screenshot.png|thumb|left|The player at bottom-right is digging a hole to trap incoming enemies (arcade).]]
+
+The player controls a [[Heian period]] [[police officer]] ({{nihongo||[[:ja:検非違使|検非違使]]|kebiishi}}) who must defend the [[capital city]] ({{nihongo||平安京|[[Heian-kyō]]}}) from an alien invasion by digging holes in the ground and filling them back up after an alien falls inside. The player scores points for every alien trapped, and the quicker the hole is filled up after the alien falls in, the higher the number of points are scored.
+
+The game has nine levels.<ref name="Kalata"/> The aliens increase in number as the levels progress, and they can escape from holes after a certain period of time elapses or if another alien passes above their hole. The player loses if he comes in contact with an alien. There is a time limit for each level, and the number of aliens increases drastically when this limit is reached, essentially preventing the player from completing the level.
+
+After the player completes all nine levels, the game restarts to the first level and repeats again.<ref name="Kalata"/> The player can enter his name on the arcade machine if a high score is reached. In the original version of the game, a unique cursor is employed where the player selects a letter by having his character walk through the street that displays the desired letter. The game also contains a two-player mode, where the players can either alternate turns or play on the same screen simultaneously.
+
+The arcade version uses a [[Zilog Z80]] microprocessor, and the [[arcade system board]] used is a copied version of the one used by [[Sega]]'s ''[[Head On (arcade game)|Head On]]''. Since the original system board itself was a copy, ''Heian-kyō Alien''{{'}}s system board was easily duplicated, and many of the units distributed to arcade centers were "copies of a copy" created by other companies. Few of the original units manufactured by Denki Onkyō remain in place today.<ref name="Interview"/>
+
+==Development==
+''Heiankyo Alien'' was created by the Theoretical Science Group, a small group of students at [[The University of Tokyo]] in [[Tokyo, Japan]] — established in 1959, they focused primarily on computer science and soldering, among other similar activities.<ref name="Interview">{{cite book |last1=Enomoto |first1=Shinichi |last2=Tane |first2=Kiyoshi |last3=Abe |first3=Hiroki |title=超アーケード |date=May 2002 |isbn=4872336704 |url=http://shmuplations.com/heiankyoalien/ |publisher=[[Ohta Publishing|Ohta Books]] |pages=10–23 |accessdate=23 October 2019 |archiveurl=https://web.archive.org/web/20170531194512/http://shmuplations.com/heiankyoalien/ |archivedate=31 May 2017 |language=Japanese}}</ref> After the Japanese video game market began to "cool off" from the success of [[Taito]]'s ''[[Space Invaders]]'', a column in ''Weekly Asahi'' magazine named "Dekigotorogy" appeared, which ran a feature named "In Search of the next Space Invaders" based around the company visiting several different computer clubs across the country in search of potential games to topple the success of ''Space Invaders''.<ref name="Interview"/> After visiting the Toudai PC Club in The University of Tokyo and finding their game to be uninspiring, they soon visited the Theoretical Science Group only to have the same reaction. Over the course of two days, the group held meetings on the first floor of the student union building to brainstorm potential game ideas.<ref name="Interview"/>
+
+The idea of the game was conceived by Itaru Kawakami, beginning as a game themed around the player laying down traps in a house to catch cockroaches — feeling that the idea gave the player too much free movement, it was revised to make the playfield resemble a [[Go (board game)|Go]] board.<ref name="Interview"/> The cockroaches were changed to aliens due to the film ''[[Alien (1979 film)|Alien]]'' premiering around the same time.<ref name="Interview"/> The Go-like board was slightly tweaked to resemble a cityscape; after multiple real-world areas were suggested, such as Kyoto, Japan and San Francisco, California, the team ultimately decided to base it on the capital city of [[Heian-kyō]], with the player being changed to a [[Heian period]] [[police officer]].<ref name="Interview"/> The idea was submitted to ''Weekly Asahi'', who published it in their column shortly after.<ref name="Interview"/> Not wanting their idea to go to waste, the group began programming the game on an [[Apple II]] computer, but it suffered from bad optimization and long load times.<ref name="Interview"/> It was then reworked using the computer's low-resolution mode, which replaced all of the in-game graphics with colored blocks.<ref name="Interview"/>
+
+After the idea for the game was published in ''Weekly Asahi'', Japanese game studio Denki Onkyō expressed interest in it and had the group meet with them at their headquarters in [[Ōta, Tokyo]].<ref name="Interview"/> Being presented with the corrected Apple II version, Denki Onkyō approved of the game and hired the group to work for them and make it a full game — prior to this, the Theoretical Science Group briefly visited [[Namco]] and [[Sega]], who also expressed interest in the game.<ref name="Interview"/> Development lasted for roughly three months.<ref name="Interview"/> Programmers coded the game on a Z80 assembler, where another would take the code, burn it to a ROM board and test the program to make sure it worked.<ref name="Interview"/> A candy power-up item that caused all aliens to stop moving for a brief moment of time, a homage to the [[Kuchisake-onna]] monster from Japanese folklore, was considered but later scrapped as it complicated the game's controls.<ref name="Interview"/> A time limit was later added to prevent the game from going on forever, while the map was slightly modified to keep the game from becoming too boring.<ref name="Interview"/> The player's death animation, depicting an angel floating up off the screen, was made as a last-minute addition by request from Denki Onkyō.<ref name="Interview"/> The game was originally subtitled ''Otoshiana Game'', meaning "Pitfall Trap Game", which was cut later on.<ref name="Interview"/>
+
+''Heiankyo Alien'' was presented at the 1979 Amusement Machine Show held in the Harumi area of [[Chūō, Tokyo]].<ref name="Interview"/> The team discovered a bug during its presentation that caused a chunk of the maze to disappear if too many coins were inserted, which allowed enemies to escape the maze and scramble the game's data.<ref name="Interview"/> Programmer Mitsutoshi Tabata recalls players attempting to memorize the patterns of the enemies.<ref name="Interview"/> The game was released for arcades in Japan in November 1979,<ref name="ATVGL:JaO1971-2005">{{cite book|last=Akagi|first=Masumi|url=https://archive.org/stream/ArcadeGameList1971-2005#page/n131/mode/1up|title=電気音響 (Denki Onkyo)|work=アーケードTVゲームリスト 国内•海外編 (1971-2005)|edition=1st|publisher=[[:ja:アミューズメント通信社|Amusement News Agency]]|date=13 October 2006|page=50|isbn=978-4990251215|language=ja}}</ref> while a PC release was produced the same year.<ref name="Interview"/>
+
+==Ports==
+{{Unreferenced section|date=April 2021}}
+[[Meldac]] released a [[Game Boy]] version of the game in Japan and North America in 1990. This port includes a remake version where a new type of alien appears to chase after the player's character. The game was also ported to the [[Super Nintendo Entertainment System|Super Famicom]] by [[Nihon Bussan]] in 1995 as ''Nichibutsu Arcade Classics 2: Heiankyo Alien''. The company had previously released a licensed remake titled ''Kid no Hore Hore Daisakusen''. 2017 saw two further ports of the game: ''NEO Heiankyo Alien'' by Columbus Circle for [[Famicom]] and an official remaster ''Heiankyo Alien 3671'' was released by Mindware on [[Steam (service)|Steam]].
+
+==Reception==
+''Heiankyo Alien'' was widely successful when it was first released, being praised for its originality and element of strategy. The Japanese manga ''Game Center Arashi'', which featured a story based on ''Heiankyo Alien'', is believed to have attributed to the game's success due to its usage of terminology and strategies made by other players<ref name="HG101"/> — author Misuru Sugaya has stated that ''Heiankyo Alien'' remains his favorite game, and claims to play it regularly on his computer.<ref name="HG101">{{cite web |last1=Jankiewicz |first1=Joshua |title=Heiankyo Alien |url=http://www.hardcoregaming101.net/heiankyo-alien/ |website=Hardcore Gaming 101 |accessdate=23 October 2019 |archiveurl=https://web.archive.org/web/20190419155010/http://www.hardcoregaming101.net/heiankyo-alien/ |archivedate=19 April 2019 |date=17 July 2014}}</ref>
+
+In Japan, ''Heiankyo Alien'' was among the top ten highest-grossing [[1979 in video games|arcade games of 1979]].<ref name="GM136">{{cite magazine|title=ベストスリー 本紙調査|trans-title=Best 3 Paper Survey |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=136|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=February 1980|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19800201p.pdf#page=2}}</ref> The following year, it was the seventh highest-grossing [[1980 in video games|arcade game of 1980]].<ref name="GM159">{{cite magazine|title=ベストスリー 本紙調査 (調査対象1980年) 〜 アーケードゲーム機|trans-title=Best Three Book Survey (Survey Target 1980) ~ Arcade Game Machines|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=159|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1981|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19810215p.pdf#page=2}}</ref>
+
+The Game Boy release was more negatively received. In a 1998 retrospective review, ''[[Allgame]]'' criticized it for lacking replay value and "boring" concept.<ref name="Allgame">{{cite web |last1=Sutyak |first1=Jonathan |title=Heiankyo Alien - Review |url=http://www.allgame.com/game.php?id=1060&tab=review |website=[[Allgame]] |accessdate=23 October 2019 |archiveurl=https://web.archive.org/web/20141116132902/http://www.allgame.com/game.php?id=1060&tab=review |archivedate=16 November 2014 |date=1998}}</ref>
+
+==Legacy==
+Many copied arcade versions of the game exist with differences in background color and sound effects. [[Taito]] produced a version with a light-blue background that recycled many sound effects from ''Head On''. The unit's cabinet and instruction card were created specifically for the version by Taito, but it is not known whether the version was a licensed manufacture or a copy. Hōei Sangyō (now [[Banpresto]]) produced an arranged version called ''Time Alien'' where alien movements are much quicker, but the game lags whenever the player tries to dig or fill up a hole.
+
+===Impact===
+''Heiankyo Alien'' was an early example of a [[List of maze chase games|maze chase]] game, predating [[Namco]]'s ''[[Pac-Man]]'' (1980). ''Heiankyo Alien'' also began a genre about digging holes and luring enemies into traps, variously called "trap 'em up" or "digging" games. It includes ''[[Space Panic]]'' (1980) and its clones (e.g. ''[[Apple Panic]]''), which also feature trappable aliens, as well as ''[[Lode Runner]]'' (1983), where enemies are human guards.<ref name="Kalata">{{cite web |last1=Kalata |first1=Kurt |title=Heiankyo Alien |url=http://www.hardcoregaming101.net/heiankyo-alien/ |website=Hardcore Gaming 101 |date=July 17, 2014 |access-date=20 April 2021}}</ref><ref>{{cite magazine |last1=Thomasson |first1=Michael |title=Space Panic: The Foundation of All Platformers |magazine=Old School Gamer Magazine |date=July 2019 |issue=11 |pages=12–3 |url=https://archive.org/details/old-school-gamer-011/page/n11/mode/2up}}</ref> ''[[Doraemon]] Meikyū Daisakusen'' (1989) and ''[[Boomer's Adventure in ASMIK World]]'' (1989) are later examples. The [[VIC-20]] cartridge game ''Alien'' appears{{Vague|date=November 2022}} to be a direct clone of ''Heiankyo Alien''.<ref>{{Cite web|url=http://sleepingelephant.com/denial/wiki/index.php/Alien|title = Alien - DenialWIKI}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.hyperware.co.jp/software/heian/ Official Japanese website]
+* [https://store.steampowered.com/app/690710/HEIANKYO_ALIEN/ Steam-version]
+* {{KLOV game|id=8100}}
+* {{mobygames|/4483}}
+* [https://shmuplations.com/heiankyoalien/]
+* [http://www.hardcoregaming101.net/heiankyo-alien/]
+
+[[Category:1979 video games]]
+[[Category:1970s horror video games]]
+[[Category:Video games about alien invasions]]
+[[Category:Arcade video games]]
+[[Category:Game Boy games]]
+[[Category:Gremlin Industries games]]
+[[Category:Meldac games]]
+[[Category:Mobile games]]
+[[Category:NEC PC-8001 games]]
+[[Category:Puzzle video games]]
+[[Category:Sega arcade games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:University of Tokyo]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games about police officers]]
+[[Category:Video games developed in Japan]]
+[[Category:Windows games]]
+[[Category:Multiplayer and single-player video games]]

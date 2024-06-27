@@ -1,0 +1,205 @@
+MUD1
+Permalink: //en.wikipedia.org/w/index.php?title=MUD1&oldid=1227435405
+Accessed on: 2024-06-26T16:47:55.905517
+
+
+
+------
+MUD1
+{{short description|1978 video game}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox video game
+| title = MUD1
+| image = MUD Logo.png
+| developer = {{plainlist|
+*Roy Trubshaw
+*[[Richard Bartle]]}}
+| platforms = [[Cross-platform|Platform independent]]
+| released = 1978
+| genre = [[Fantasy]] [[Multi-user dungeon|MUD]]
+| modes = [[Multiplayer video game|Multiplayer]]
+}}
+[[File:MUD1 screenshot.gif|right|thumb|258px|A screenshot from ''MUD1'']]
+
+'''''Multi-User Dungeon''''', or '''''MUD''''' (referred to as ''MUD1'', to distinguish it from its successor, ''[[MUD2]]'', and the [[Multi-user dungeon|MUD]] genre in general), is the first [[Multi-user dungeon|MUD]].
+
+== History ==
+
+MUD was created in 1978 by Roy Trubshaw and [[Richard Bartle]] at the [[University of Essex]] on a [[Digital Equipment Corporation|DEC]] [[PDP-10]].<ref name="Sloane">Sloane, Sarah (2000) ''Digital Fictions: Storytelling in a Material World'', Ablex Publishing Corporation, {{ISBN|978-1-56750-482-8}}, p. 168</ref><ref name="Tedman">Slator, Brian M. et al "From Dungeons to Classrooms: The Evolution of MUDs as Learning Environments", in Jain, Lakhmi C., Tedman, Raymond A. & Tedman, Debra K. (eds.) (2007) ''Evolution of Teaching and Learning Paradigms in Intelligent Environment'', Springer, {{ISBN|978-3-540-71973-1}}, p. 121-2</ref> Trubshaw named the game ''Multi-User Dungeon'', in tribute to the ''Dungeon'' variant of ''[[Zork]]'', which Trubshaw had greatly enjoyed playing.<ref name="wired-article">{{cite magazine
+ |first=Kevin
+ |last=Kelly
+ |author-link=Kevin Kelly (editor)
+ |first2=Howard
+ |last2=Rheingold
+ |author-link2=Howard Rheingold
+ |year=1993
+ |title=The Dragon Ate My Homework
+ |magazine=[[Wired (magazine)|Wired]]
+ |volume=1
+ |issue=3
+ |url=https://www.wired.com/wired/archive/1.03/muds.html
+ |quote=In 1980, Roy Trubshaw, a British fan of the fantasy role-playing board game Dungeons and Dragons, wrote an electronic version of that game during his final undergraduate year at Essex College. The following year, his classmate Richard Bartle took over the game, expanding the number of potential players and their options for action. He called the game MUD (for Multi-User Dungeons), and put it onto the Internet.
+}}</ref><ref>{{cite book
+ |author=[[Richard Bartle]]
+ |title=Designing Virtual Worlds
+ |publisher=[[Peachpit|New Riders]]
+ |year=2003
+ |isbn=0-13-101816-7
+ |quote=The "D" in MUD stands for "Dungeon" ... because the version of ZORK Roy played was a Fortran port called DUNGEN.
+ |page=741
+}}</ref> ''Zork'' in turn was inspired by an older [[Interactive fiction|text-adventure]] game known as ''[[Colossal Cave Adventure]]'' or ''ADVENT''.<ref>{{cite web
+ |url         = http://www.csd.uwo.ca/Infocom/Articles/NZT/zorkhist.html
+ |author      = Tim Anderson
+ |author2     = Stu Galley
+ |title       = The History of Zork
+ |year        = 1995
+ |quote       = Zork was too much of a nonsense word, not descriptive of the game, etc., etc., etc. Silly as it sounds, we eventually started calling it Dungeon. (Dave admits to suggesting the new name, but that's only a minor sin.) When Bob the lunatic released his FORTRAN version to the DEC users' group, that was the name he used.
+ |authorlink  = Tim Anderson (Zork)
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20090116035446/http://www.csd.uwo.ca/Infocom/Articles/NZT/zorkhist.html
+ |archivedate = 2009-01-16
+}}</ref>
+
+''MUD1'' was written in the [[domain-specific language|domain-specific programming language]] Multi User Dungeon Definition Language (MUDDL).<ref name="bartle-muddl" /> Its first version was written by Richard Bartle and Roy Trubshaw in [[BCPL]]. It was later ported to [[C++]]<ref name="bartle-incarnations" /> and used in other MUDs such as ''[[MIST (MUD)|MIST]]''.<ref name="bartle-muddl" />
+
+In 1980, Roy Trubshaw created MUD version 3 in [[BCPL]] (the predecessor of [[C (Programming Language)|C]]), to conserve memory and make the program easier to maintain.<ref name="bartle-history-email">{{cite web
+ |url=http://www.mud.co.uk/richard/mudhist.htm
+ |title=Early MUD History
+ |author=[[Richard Bartle]]
+ |year=1990
+ |quote=The program was also becoming unmanageable, as it was written in assembler. Hence, he rewrote everything in BCPL, starting late 1979 and working up to about Easter 1980. The finished product was the heart of the system which many people came to believe was the 'original' MUD. In fact, it was version 3.
+}}</ref> [[Richard Bartle]], a fellow Essex student, contributed much work on the game database, introducing many of the locations and puzzles that survive to this day. Later that year Roy Trubshaw graduated from Essex University, handing over ''MUD'' to Richard Bartle, who continued developing the game.<ref>{{cite web
+ |url=http://www.iol.ie/~ecarroll/mud/timeline.html
+ |title=MUD Timeline
+ |author=Eddy Carroll
+ |year=1995
+ |quote=Roy graduates from Essex University, and Richard takes full control of the game, fleshing out the database and adding additional commands. A proper persona communication system is introduced, along with the concepts of points and wizards.
+ |access-date=2008-07-12
+ |archive-url=https://web.archive.org/web/20160503010356/http://www.iol.ie/~ecarroll/mud/timeline.html
+ |archive-date=2016-05-03
+ |url-status=dead
+ }}</ref> That same year, MUD1 became the first Internet multiplayer online role-playing game as Essex University connected its internal network to the [[ARPAnet|ARPANET]].<ref>{{cite book
+ | last1 = Mulligan | first1 = Jessica
+ | last2 = Patrovsky | first2 = Bridgette
+ | year = 2003
+ | title = Developing Online Games: An Insider's Guide
+ | publisher = New Riders
+ | page = 444
+ | quote = 1980 ... Final version of ''MUD1'' completed by Richard Bartle.  Essex goes on the ARPANet, resulting in Internet MUDs!
+ | isbn = 1-59273-000-0
+}}</ref>
+
+In 1983, [[University of Essex|Essex University]] allowed remote access to its DEC-10 via [[British Telecom]]'s [[Packet Switch Stream]] network between 2 am and 7 am each night.<ref>{{cite web
+ |url=http://www.iol.ie/~ecarroll/mud/timeline.html
+ |title=MUD Timeline
+ |author=Eddy Carroll
+ |year=1995
+ |quote=Essex University allows outside users to access its DEC-10 via BT's Packet Switch Stream network (PSS) during the normally idle period from 2am to 8am each night.
+ |access-date=2008-07-12
+ |archive-url=https://web.archive.org/web/20160503010356/http://www.iol.ie/~ecarroll/mud/timeline.html
+ |archive-date=2016-05-03
+ |url-status=dead
+ }}</ref> MUD became popular with players around the world, and several magazines wrote articles on this new trend.<ref>{{cite web
+ |url=http://www.iol.ie/~ecarroll/mud/bib_mag
+ |title=MUD Magazine Bibliography
+ |author=Richard Bartle
+ |year=1995
+}}</ref>
+
+Between 1984 and 1987, MUD was hosted on the DEC-20 of [[Abertay University|Dundee College of Technology]]<ref>{{cite book
+ |url=https://books.google.com/books?id=z3VP7MYKqaIC&q=mud1+dundee&pg=PA7
+ |title=Designing Virtual Worlds
+ |author=Richard Bartle
+ |year=2004
+ |isbn=9780131018167
+ |quote=Furthermore, it only ran on DEC-10, and although copies were sent  to other institutions in the U.K., Sweden, and Norway, only two of these allowed outsiders access (Dundee Technical College and Oslo University).
+}}</ref> which was one of the few institutions to allow outside access.
+
+In 1984, [[Compunet]], a UK-based network primarily for [[Commodore 64]] users, licensed MUD1 and ran it from late 1984 until 1987, when CompuNet abandoned the DEC-10 platform they were using.<ref>{{cite web
+ |url=http://www.mud.co.uk/muse/compunet_mud.htm
+ |title=CompuNet MUD
+ |author=Richard Bartle
+ |year=1999
+ |quote=The incarnation of MUD1 on the CompuNet network in the UK, the first commercial MUA in the world.
+}}</ref>
+
+Trubshaw and Bartle (with the assistance of Simon Dally) subsequently formed the company Multi-User Entertainment Limited, and proceeded to work on MUD version 4, also known as ''[[MUD2]]'' (released in 1985).<ref>"[http://www.mud.co.uk/muse/people.htm MUSE's Personnel]", mud.co.uk, retrieved 2010-12-18</ref> MUD2 was intended to be run as a service for British Telecom.<ref>{{cite web
+ |url=http://www.mud.co.uk/muse/backgrnd.htm
+ |title=MUSE background
+ |author=Richard Bartle
+ |year=2002
+ |quote=A new version of the game, which came to be known as MUD2, was written in 1985 to be run as a service for British Telecom.
+}}</ref>
+
+In 1987, MUD1 was licensed by [[CompuServe]], who pressured Richard Bartle to close down the instance of MUD1, better known as ''''Essex MUD'''', that was still running at Essex University. This resulted in the deletion of the MUD account in October 1987. This left ''[[MIST (MUD)|MIST]]'', a derivative of ''MUD1'' with similar gameplay, as the only remaining MUD running on the Essex University network, becoming one of the first of its kind to attain broad popularity. ''MIST'' ran until the machine that hosted it, a [[PDP-10]], was superseded in early 1991.
+<ref name="escape-from-the-dungeon">{{cite web
+ |author=[[Michael Lawrie]]
+ |title=Escape from the Dungeon
+ |year=2003
+ |url=http://lorry.org/arch-wizard/history.html
+ |quote=October of 1987 was chaos. The MUD account was deleted, but the guest account on Essex University remained open. I guess it wasn't causing any trouble so they simply left it. ROCK, UNI and MUD all ran from the MUD account so they had gone but... MIST ran from a student account and it was still playable.
+}}</ref>
+
+''MUD1'' ran under the name ''British Legends'' until late 1999 and was retired along with other software during CompuServe's [[Year 2000 problem|Y2K]] cleanup efforts.<ref>{{cite web
+ |url=http://www.british-legends.com/history.htm
+ |title=A Brief History
+ |author=Richard Bartle
+ |year=2007
+ |quote=Due in part to a fortuitous coincidence (MUD was written for the same DECSystem-10 computing platform that CompuServe used for its information service) MUD was licensed by CompuServe in the mid-1980s where it ran as a popular game until late 1999. It was eventually retired along with other software during CompuServe's Y2K cleanup efforts.
+}}</ref>
+
+In 2000, Viktor Toth rewrote the BCPL [[source code]] for MUD1 to C++ and opened it alongside MUD2 on British-legends.com.<ref>{{cite web
+ |url=http://www.mud.co.uk/richard/incarns.htm
+ |title=Incarnations of MUD
+ |author=Richard Bartle
+ |year=2002
+ |quote= Viktor Toth had had a copy of the BCPL source code for MUD1 for some years, and decided that now was the time to do something with it. In a 9-day programming blitz over Christmas, he rewrote the BCPL MUDDL engine in C++ and opened it up alongside MUD2. The ex-CompuServe players gravitated there, where it now runs as a direct continuation of the defunct original BL incarnation.
+}}</ref>
+
+In 2014, with permission from the authors of MUD1, the C++ reimplementation of MUD1 was deposited within the archives of Stanford University for historical purposes.<ref>{{cite web
+ |url=https://www.theregister.co.uk/2014/05/02/mud1_open_source_release/
+ |title=Source code for world's first MUD, Essex Uni's MUD1, recovered
+ |author=Simon Sharwood
+ |website=[[The Register]]
+ |year=2014
+ |quote=The code has landed at Stanford University, which says it has secured permission to redistribute the game's blueprints from the authors Richard Bartle and Roy Trubshaw.
+}}</ref><ref>{{Cite web |title=MUD1/British Legends source code, 1999-2014 M2013 |url=https://oac.cdlib.org/findaid/ark:/13030/c8x92djw/entire_text/ |access-date=2024-06-05 |website=oac.cdlib.org}}</ref>
+
+In 2020, the full source code for the [[PDP-10]] implementation of MUD1 (as of 1986) was released on Github (with permission from the authors), under the [[GPL v3]] license.<ref>{{Citation |title=PDP-10/MUD1 |date=2024-05-02 |url=https://github.com/PDP-10/MUD1 |access-date=2024-06-05 |publisher=PDP-10}}</ref>
+
+==Reception==
+''[[Computer Gaming World]]'' in 1993 called ''British Legends'' on CompuServe "your typical text-based multi-player role-playing game with an emphasis on magic."<ref name="cgw199305">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=106 | title=A Survey of On-Line Games | magazine=Computer Gaming World | date=May 1993 | accessdate=7 July 2014 | pages=84}}</ref>
+
+==References==
+{{Reflist|colwidth=40em|refs=
+<ref name="bartle-incarnations">{{cite web
+ | last = Bartle | first = Richard | authorlink = Richard Bartle
+ | url = http://www.mud.co.uk/richard/incarns.htm
+ | title = Incarnations of MUD  
+ | year = 2002
+ | quote = Viktor Toth had had a copy of the BCPL source code for MUD1 for some years, and decided that now was the time to do something with it. In a 9-day programming blitz over Christmas, he rewrote the BCPL MUDDL engine in C++ and opened it up alongside MUD2. The ex-CompuServe players gravitated there, where it now runs as a direct continuation of the defunct original BL incarnation.
+}}</ref>
+<ref name="bartle-muddl">{{cite web
+ | last = Bartle | first = Richard | authorlink = Richard Bartle
+ | url = http://www.mud.co.uk/muse/muddl.htm
+ | title = MUDDL
+ | year = 1999
+ | quote = Many MUDDL databases were written by students at Essex University, the most well-known being 'Mist', 'Rock', 'Blud' and 'Uni' [...]
+}}</ref>
+}}
+
+==External links==
+*[http://www.british-legends.com The British Legends website]
+*[http://www.mud.co.uk/richard Richard Bartle's MUD related website]
+*[https://web.archive.org/web/20160425030636/https://eastnet.ca/site/MUDDL Michael Lawrie's MUDDL Manual]
+*[https://github.com/PDP-10/MUD1 Source code of MUD on GitHub]
+
+{{MUDs}}
+
+[[Category:MUD games]]
+[[Category:Mainframe games]]
+[[Category:1978 video games]]
+[[Category:Science and technology in Essex]]
+[[Category:University of Essex]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with available source code]]

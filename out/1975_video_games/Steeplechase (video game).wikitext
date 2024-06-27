@@ -1,0 +1,68 @@
+Steeplechase (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Steeplechase_%28video_game%29&oldid=1224582633
+Accessed on: 2024-06-26T16:47:32.984469
+
+
+
+------
+Steeplechase (video game)
+{{Short description|1975 video game}}
+{{Infobox video game
+|title= Steeplechase
+|image= Steeplechase Arcade game flyer.jpg
+|caption= Arcade flyer
+|developer= [[Atari, Inc.]]
+|publisher= {{vgrelease|NA/EU|[[Atari, Inc.]]<ref name="flyers">{{cite web |title=Steeplechase flyers |url=https://flyers.arcade-museum.com/?page=archive&db=videodb&name=Steeplechase |website=The Arcade Flyer Archive |access-date=31 May 2021}}</ref>|JP|[[Nakamura Seisakusho]]<ref name="MAD">{{cite web |title=Steeple Chase |url=https://mediaarts-db.bunka.go.jp/id/M732714 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=31 May 2021}}</ref>}}[[Sears]] (2600)
+|platforms= [[Arcade game|Arcade]]
+|released= {{vgrelease|NA|October 1975<ref name="atari_production99">{{cite web|title=Production Numbers|url=http://www.atarigames.com/atarinumbers90s.pdf|publisher=Atari Games|date=August 31, 1999|access-date=April 19, 2021|archive-date=May 10, 2013|archive-url=https://web.archive.org/web/20130510143012/http://www.atarigames.com/atarinumbers90s.pdf|url-status=dead}}</ref>|EU|1975<ref name="flyers"/>|JP|January 1976<ref name="MAD"/>}}Atari 2600: 1980
+|genre= [[Sports video game|Sports]]
+|designer = Lyle Rains<ref>{{cite web|url=https://www.arcade-history.com/?n=steeplechase&page=detail&id=3704 |title=Steeplechase |website=Arcade History}}</ref>
+|programmer = Jim Huether (2600)<ref name=giantlist/>
+|modes= Up to 6 players
+}}
+
+'''''Steeplechase''''' is an [[sports video game]] by released in arcades 1975 by [[Atari, Inc.]]<ref name="klov">{{cite web  | title = Steeplechase Killer List of Video Games Entry  | url=http://www.klov.com/game_detail.php?letter=S&game_id=9787  | accessdate = 2007-07-14 }}</ref> Developed by Atari subsidiary [[Kee Games]], it simulates a [[Steeplechase (horse racing)|steeplechase]]-style horse race. It was distributed in Japan by [[Nakamura Seisakusho]] (Namco) in 1976.
+
+==Gameplay==
+Up to six players can play against each other, each choosing a horse while the computer controls the seventh horse on the bottom. Each player's horse begins galloping, and the players must jump over obstacles in their lanes by pressing their colored buttons. The horse that successfully jumps all obstacles smoothly becomes the fastest horse and wins.
+
+==Development==
+The game was originally called ''AstroTurf'', and all [[printed circuit boards]] still have the name on the board.<ref name="klov"/> The game is housed in a custom extra wide cabinet that six individually colored and lit buttons used to make a player's horse jump. The monitor is a 23" black and white CRT monitor with 6 color overlays to make each of the 6 horizontally stacked lanes match their colored button counterparts. Sounds include a bugle, galloping hoof beats, and crowd cheers.
+
+==Ports==
+A conversion for the [[Atari 2600|Atari Video Computer System]] programmed by Jim Huether was released under the same name in 1980.<ref name=giantlist/> It was developed at Atari and distributed under [[Sears]]' Tele-Games label.<ref name="AtariAge">
+{{cite web
+  | last = Yarusso
+  | first = Albert
+  | title = Steeplechase entry
+  | url=http://www.atariage.com/software_page.html?SoftwareLabelID=508
+  | accessdate = 2007-07-14 }}</ref> It is one of three games from Atari exclusively for the Tele-Games line.<ref name="searscartridge">{{cite web | url = http://www.atariage.com/label_page.html?LabelID=10 | title = Atari 2600 - Sears&nbsp;— Picture Label Variation | last = Yarusso | first = Albert | work=[[AtariAge]] | accessdate = 2007-10-07}}</ref>
+
+==Legacy==
+A European version was released by Löwen-Automaten.<ref name="ArcadeFlyerArchive">.
+{{cite web |title = Steeplechase German Flyer |url=http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=3586&image=2 |accessdate = 2007-07-14}}</ref> A Soviet clone of this machine with exact gameplay and graphics, but different cabinet was called Skachki, which can be literally translated as "horse race".
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+*{{KLOV game|id=9787}}
+*{{atarimania|id=8204}}
+
+{{1970s Atari arcade games}}
+
+[[Category:1975 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari arcade games]]
+[[Category:Discrete video arcade games]]
+[[Category:Horse racing video games]]
+[[Category:Sports video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Sears video games]]
+
+
+{{arcade-stub}}
+{{atari-stub}}

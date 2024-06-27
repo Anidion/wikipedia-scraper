@@ -1,0 +1,98 @@
+Spelunker (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Spelunker_%28video_game%29&oldid=1227126834
+Accessed on: 2024-06-26T16:55:54.853000
+
+
+
+------
+Spelunker (video game)
+{{short description|1983 video game}}
+{{Infobox video game
+| title = Spelunker
+| image = Spelunker originalcover.png
+| caption = Cover of the original Atari 8-bit version
+| developer = MicroGraphic Image<br>Tamtex & [[Tose (company)|Tose]] (FC/NES)<br>[[Irem]]
+| publisher = MicroGraphic Image<br>[[Broderbund]]<br>Irem
+| designer = Tim Martin<ref name=giantlist/>
+| released = {{Collapsible list|title={{nobold|1983}}|'''Atari 8-bit family'''{{vgrelease|NA|1983}}| '''Commodore 64''' {{vgrelease|WW|1984}} '''NES''' {{vgrelease|JP|December 6, 1985}} {{vgrelease|NA|September, 1987}} '''Arcade''' {{vgrelease|JP|1985}}'''MSX''' {{vgrelease|JP|June 10, 1986}}}}
+| genre = [[Platform game|Platform]]
+| modes = [[Single-player]]
+| platforms = [[Atari 8-bit]], [[Commodore 64]], [[Nintendo Entertainment System|NES]], [[Arcade video game|Arcade]], [[MSX]]
+}}
+
+'''''Spelunker''''' is a 1983 platform [[video game]] developed by Timothy G. Martin of MicroGraphic Image. It is set in a [[cave]], with the [[Player character|player]] starting at the cave's entrance at the top, and the objective is to get to the treasure at the bottom.
+
+Originally released by MicroGraphic Image for the [[Atari 8-bit computers]] in 1983, the game was ported to the [[Commodore 64]] and re-released by [[Broderbund]] in 1984, with European publishing rights licensed to [[Ariolasoft]]. It was released on [[arcade game|arcade]] in 1985, on the [[Nintendo Entertainment System]] on December 6, 1985 in [[Japan]] and September 1987 in North America, and on the [[MSX]] in 1986. A sequel was released in arcades in 1986 called ''Spelunker II: 23 no Kagi'', and a different sequel for the NES on September 18, 1987 called ''[[Spelunker II: Yūja e no Chōsen]]'', both by [[Irem]] and in Japan only.
+
+==Gameplay==
+[[Image:Spelunker(game).gif|left|thumb|Commodore 64 version]]
+The player must walk and jump through increasingly challenging parts of the cave, all while working with a finite supply of fresh air, which can be replenished at various points.
+
+The cave's hazards include [[bat]]s, which drop deadly [[guano]] on the player; and a [[ghost]] haunting the cave, randomly appearing to take the player to the shadow world. The player character can send a blast of air<ref>[http://www.atariarchives.org/cfn/05/10/0061.php Reprint of review from Atari Interface, Vol. 4, June 1992] at AtariArchives</ref> to push the ghost away, but this renders the player's character immobile for a few seconds, thus vulnerable to other dangers and further depleting their air supply. Objects to collect include sticks of [[dynamite]], [[flare]]s, and [[key (lock)|key]]s. Precise positioning and jumping are key factors in successfully completing the game.
+
+The cave is divided into six [[Level (video games)|levels]]. Although the levels connect seamlessly to each other, forming one large map, the game clearly signals a level change at certain points by showing the name of the next level and giving the player a bonus, consisting of an [[extra life]] and a varying number of [[Score (game)|points]]. Once a player completed all six levels, a new cave will be started with the same layout but with increasing [[Difficulty level|difficulty]]. There are six caves total. While using the same game and scenery elements, the NES and MSX levels (which are shared with the Wii and 3DS versions) are far smaller than the Atari/C64 levels. The Arcade version uses additional game elements (such as shooting and scuba diving) and has an original level design, and the same is true for ''[[Spelunker HD]]''.<ref>As found by comparing YouTube playthroughs.</ref>
+
+{{listen|header=|type=music|filename=Spelunker_(video_game)_Atari_8-bit_PAL_audio_clip.ogg|title=Original music theme (Atari 8-bit)|description=}}
+The [[splash screen]] of the original Atari version features an excerpt of [[Modest Mussorgsky]]'s ''[[Pictures at an Exhibition]]'' as title music. All other versions of the game, including the Atari re-release feature a different title theme. The NES and MSX versions have additional music during gameplay.
+
+==Development==
+MicroGraphicImage was founded by former employees of [[Games by Apollo]], one of the companies that had overproduced games for the [[Atari 2600]], creating a glut of cheap games. In the pre-Christmas market of 1983, Games by Apollo became insolvent, with several games still in development for a number of platforms, including the [[Atari 8-bit computers]]. Three former programmers from this company – Tim Martin, Robert Barber, and Cash Foley – subsequently formed MicroGraphicImage. Martin had been previously worked on games for the Atari 2600 and Foley developed for the Atari 8-bit family.<ref name=cash/> When Games by Apollo went into insolvency, Martin and Barber developed a game entitled ''[[Halloween (video game)|Halloween]]'', based on the film.<ref name=Salvo>{{cite web | last = Stilphen | first = Scott | title = DP Interviews ... Ed Salvo | publisher = Digital Press | date = 1982-07-23 | url = http://www.digitpress.com/library/interviews/interview_ed_salvo.html | accessdate = 2015-07-16}}</ref> The contract funded the founding of MicroGraphicImage. The game was released by [[Wizard Video Games]] during the [[video game crash of 1983]] and sold poorly.
+
+Martin and Barber's expertise was with the Atari 2600,<ref name=cash></ref> and they were dissatisfied with the money being made through contract game development. Their strategy was to utilize the contract programming to leverage the funding of a software publishing company. Cash Foley joined as a technical specialist with Atari and Apple computer programming. At the January 1983 [[Consumer Electronics Show]] in [[Las Vegas]], they developed a relationship with [[Gary Carlson]], one of the founders of [[Broderbund]]. In early 1983, MicroGraphicImage developed games under contract for Broderbund, [[Parker Brothers]], and [[CBS Electronics]], while developing ''Spelunker'' for themselves.
+
+Martin and Barber had been developing the ''Spelunker'' game design for some time, but it went beyond the specifications for the Atari 2600. Martin was responsible for game logic, Foley developed the graphic engine and game level editor, and Barber was the graphic designer and level editor. As ''Spelunker'' was Martin's original idea and he programmed the game logic, the game was issued with his name as the lead game developer, with the intention to alternate this role for subsequent games,<ref name=cash /> but the short lifespan of the company meant that this did not happen. In 1984, they turned publication over to Broderbund and made a version of the game for [[Commodore 64]], very similar to the original.
+
+Although MicroGraphicImage was able to maintain a steady stream of contract work, the company was not profitable due to the overheads of financial business focus going into publishing. The game recession that started in the winter of 1982 deteriorated, and it was very difficult to find distributors to take games, especially from small publishers. Eventually, MicroGraphicImage ran out of money and ceased operations. Martin continued working with Broderbund on a business level and was able recover all debt through [[NES]] and [[coin-op]] versions of ''Spelunker''.
+
+Martin and Foley continued to work together, including at an [[Amiga]] publishing company called Inovatronics. Eventually, Martin was a co-founder of the [[Internet provider]] [[Internet America]]. As of 2007, Foley was working at [[Perot Systems]].
+
+==Reception==
+{{expand section|date=October 2017}}
+The game was met with positive reviews. Bryan Welch reviewed the original Atari-8 bit version of ''Spelunker'' for 1984 [[Antic_(magazine)|Antic Magazine]] Buyers Guide and recommended ''Spelunker'' to players who like arcade-type games and are looking for a challenge.<ref name="antic"/> ''[[Computer Gaming World]]'' of 1985 called ''Spelunker'' "a thoroughly enjoyable game ... a class act".<ref name="stone198501">{{cite magazine |last=Stone |first=David |date=February 1985 |title=Spelunker and Realm of Impossibility |magazine=Computer Gaming World |page=33}}</ref> In Japan, ''Game Machine'' listed the arcade version of ''Spelunker'' on their February 15, 1986 issue as being the fourth most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=278|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1986|page=21|lang=ja}}</ref>
+
+==Legacy==
+The game was re-released for [[Virtual Console]] in Japan on August 28, 2007, and in 2008 for North America on March 17,<ref>{{cite web |url=http://press.nintendo.com/articles.jsp?id=14798 |title=Wii-kly Update: Two New Classic Games Added to Wii Shop Channel |date=March 17, 2008 |publisher=Nintendo of America |archive-url=https://web.archive.org/web/20080321200146/http://press.nintendo.com/articles.jsp?id=14798 |archive-date=March 21, 2008 |accessdate=March 17, 2008}}</ref><ref name="spelunker gamespot">{{cite web | work=[[GameSpot]] | title=Spelunker | url=https://www.gamespot.com/games/spelunker/news/ | accessdate=May 17, 2020}}</ref> and Europe on September 5 on [[Wii]]. It was released in 2013 in Japan on April 27, and in North America and Europe on June 6 for the [[Wii U|Wii U Virtual Console]]. The game was made available for the [[Nintendo 3DS|Nintendo 3DS Virtual Console]] in Japan on December 19, 2012, and in 2013 for North America on June 27, and Europe on July 18.
+
+Sony Computer Entertainment of Japan released ''[[Spelunker HD]]'' for the [[PlayStation 3]] on the [[PlayStation Network]] [[PlayStation Store|Store]]. It received the PlayStation Store best sales award in 2009 from Sony Computer Entertainment of Japan.<ref>{{cite web|url=http://www.irem.co.jp/official/minnade_spelunker/index.html|title=IREM Home Page|accessdate=February 14, 2015|archive-date=May 11, 2019|archive-url=https://web.archive.org/web/20190511190338/https://www.irem.co.jp/official/minnade_spelunker/index.html|url-status=dead}}</ref> The game is a remake of the NES port, with high definition graphics and 10 large caves with 10 levels in each.<ref>{{cite web|url=http://www.thesixthaxis.com/2008/10/01/spelunker-coming-to-ps3/|title=Spelunker Coming To PS3|date=October 2008 |accessdate=February 14, 2015}}</ref>
+
+In 2015, [[Square Enix]] released the free-to-play sequel ''[[Spelunker World]]'' for [[PlayStation 4]] and [[PlayStation Vita]].<ref>{{cite web|url=http://www.siliconera.com/2015/01/31/square-enixs-playstation-4-exclusive-minna-de-spelunker-z/|title=Square Enix's PlayStation 4 Exclusive Is Minna de Spelunker Z - Siliconera|work=Siliconera|date=31 January 2015 |accessdate=February 14, 2015}}</ref> A new game based on ''Spelunker World'' was released in Japan for the [[Nintendo Switch]] in April 2017.<ref>{{cite web|url=http://www.siliconera.com/2017/01/13/new-spelunker-game-headed-nintendo-switch-japan-spring-2017/ |title=A New Spelunker Game Is Headed To Nintendo Switch In Japan In Spring 2017 |work=Siliconera |date=January 13, 2017 |accessdate=January 24, 2017}}</ref> It was later released as a download worldwide and physically only in Japan, as ''[[Spelunker World#Spelunker Party!|Spelunker Party!]]'' on October 19 the same year.<ref name="NL cites SP! launch">{{cite web|url=http://www.nintendolife.com/news/2017/09/spelunker_party_is_digging_its_way_to_the_switch_eshop_on_19th_october |title=Spelunker Party! is Digging Its Way to the Switch eShop on 19th October |work=[[Nintendo Life]] |first=Thomas |last=Whitehead |date=26 September 2017 |accessdate=26 September 2017}}</ref>
+
+In 2016, a collaboration between ''Spelunker'' and the ''[[Hyperdimension Neptunia|Neptunia]]'' series resulted to an unlockable minigame mode called "Neplunker" for ''[[Megadimension Neptunia VII]]''.{{Citation needed|date=October 2020}}
+
+An updated version of the game was announced in 2018 for the [[Intellivision Amico]].<ref>{{cite web|title=Intellivision® Reveals Initial Details For The Upcoming Amico™ Home Video Game Console!|url=https://www.prnewswire.com/news-releases/intellivision-reveals-initial-details-for-the-upcoming-amico-home-video-game-console-300734998.html|date=October 22, 2018 |website=PR Newswire}}</ref>
+
+== See also ==
+* ''[[Spelunky]]''
+* ''[[SteamWorld Dig]]''
+
+== References ==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+<ref name="antic">{{cite journal |title=Spelunker Review |journal=Antic Magazine |date=December 1984 |page=74 |url=https://archive.org/details/1984-12-anticmagazine/page/n77/mode/2up}}</ref>
+<ref name=cash>{{cite web|last=Foley|first=Cash|title=The notso Spectacular Rise and Fall of MicroGraphicImage|url=http://cashfoley.com/2008/01/17/TheNotsoSpectacularRiseAndFallOfMicroGraphicImage.aspx|accessdate  = 2008-01-17|url-status=dead|archiveurl=https://web.archive.org/web/20080502183436/http://cashfoley.com/2008/01/17/TheNotsoSpectacularRiseAndFallOfMicroGraphicImage.aspx|archivedate=2008-05-02}}</ref> 
+}}
+
+== External links ==
+* {{atarimania|id=4924}}
+* {{lemon64 game|name=Spelunker|id=2413}}
+* [https://www.mobygames.com/game/spelunker ''Spelunker''] at [[MobyGames]]
+* [http://mapy.atari8.info/s-z/spelunker.png ''Spelunker'' map], Atari 8-bit version
+
+{{Spelunker series|state=expanded}}
+
+{{DEFAULTSORT:Spelunker (Video Game)}}
+[[Category:1983 video games]]
+[[Category:Broderbund games]]
+[[Category:Arcade video games]]
+[[Category:Ariolasoft games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Irem games]]
+[[Category:MSX games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Platformers]]
+[[Category:Spelunker (video game)| ]]
+[[Category:Video games developed in the United States]]
+[[Category:Virtual Console games]]
+[[Category:Virtual Console games for Wii U]]
+[[Category:Single-player video games]]

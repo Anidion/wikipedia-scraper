@@ -1,0 +1,67 @@
+Gato (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Gato_%28video_game%29&oldid=1225849068
+Accessed on: 2024-06-26T16:56:51.139486
+
+
+
+------
+Gato (video game)
+{{Short description|1984 video game}}
+{{Infobox video game
+|title = GATO
+|image = GATO-video-game-box-cover.jpg
+|developer = [[Spectrum HoloByte]]<br>Xanth F/X (Atari 8-bit)<ref name="wen">{{cite journal|last1=Wen|first1=Howard H.|title=Gato Review|journal=Video Games & Computer Entertainment|date=January 1989|url=https://archive.org/details/vgce_02}}</ref>
+|publisher = Spectrum HoloByte<br>[[Atari Corporation]]
+|designer = Paul Arlton<br>Ed Dawson
+|released = '''1984:''' MS-DOS, Mac<br>'''1985:''' Apple II<br>'''1986:''' Atari ST<br>'''1987:''' Atari 8-bit
+|genre = [[Submarine simulator]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[MS-DOS]], [[Apple II series|Apple II]], [[Atari 8-bit]], [[Atari ST]], [[Mac (computer)|Mac]], [[Commodore 64]]
+}}
+
+[[Image:Gatoshot.png|thumb|MS-DOS GATO with CGA graphics]]
+
+'''''GATO''''' is a real-time [[submarine simulator]] published in 1984 by [[Spectrum HoloByte]] for [[MS-DOS]]. It simulates combat operations aboard the Gato-class submarine {{USS|Growler|SS-215}} in the [[Pacific War|Pacific Theater]] of [[World War II]]. ''GATO'' was later ported to the [[Apple IIe]], [[Atari ST]], and [[Mac (computer)|Mac]]. In 1987, [[Atari Corporation]] published a version on cartridge for the [[Atari 8-bit computers]], to coincide with the launch of the [[Atari XEGS]].<ref>{{cite web|title=GATO XE Label|url=https://atariage.com/software_page.php?SoftwareID=3796|website=Atari Age}}</ref>
+
+== Gameplay ==
+The player is tasked with chasing Japanese shipping across a 20-sector map while returning for resupply as necessary from a [[submarine tender]]. The islands on the map are randomly generated and not based on real-world geography. Combat is conducted using a screen with a view through the periscope and at various gauges and indicators. The game has multiple difficulty levels, the highest of which requires the player to translate mission briefings which are transmitted only as audible [[Morse Code]].
+
+The MS-DOS and Apple IIe versions contain a [[boss key]] which replaces the game screen with a spreadsheet.
+
+== Development ==
+''Gato'' was developed by student programmers in [[Boulder, Colorado]].<ref>{{cite news|title=Flight-simulation game is so real that even A.F. wants a piece of action|url=https://news.google.com/newspapers?id=-fQoAAAAIBAJ&pg=6907,3498328&dq=market-gato&hl=en|newspaper=The Deseret News|date=24 January 1988}}</ref>
+
+== Reception ==
+''Billboard'' magazine reported in June 1985 ''Gato'' coming in at number 6 of a national sample of retail sales and rack sales reports.<ref>{{cite news|title=3D Living Today - The Top 10|newspaper=Miami Herald|date=29 June 1985}}</ref>
+
+In 1985, ''[[Computer Gaming World]]'' praised the game for being simultaneously easy to play and having deep, detailed strategy.<ref name = "CGW">{{citation | date = Apr–May 1985 | last = Sipe | first = Russell | magazine = [[Computer Gaming World]] | title = IBM Goes to War | pages = 24–25}}</ref> 1991 and 1993 surveys in the magazine of strategy and war games, however, gave it one and a half stars out of five, stating that "it was adequate in its time, but not exemplary in any regard".<ref name="brooks199111">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=88 | title=Computer Strategy and Wargames: The 1900-1950 Epoch / Part I (A-L) of an Annotated Paiktography | magazine=Computer Gaming World | date=November 1991 | accessdate=18 November 2013 | author=Brooks, M. Evan | pages=138}}</ref><ref name="brooks199309">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=110 | title=Brooks' Book of Wargames: 1900-1950, A-P | magazine=Computer Gaming World | date=September 1993 | accessdate=30 July 2014 | author=Brooks, M. Evan | pages=118}}</ref> ''[[Compute!]]'' stated that "''Gato'' promises realism, and it delivers ... [it] lives up to its claims".<ref name="williams198511">{{cite news | url=https://archive.org/stream/1985-11-compute-magazine/Compute_Issue_066_1985_Nov#page/n91/mode/2up | title=Gato For Apple And IBM | work=Compute! | date=November 1985 | accessdate=30 October 2013 | author=Williams, Michael B. | pages=90 | type=review}}</ref> [[Jerry Pournelle]] wrote favorably of the game in ''[[BYTE]]'', stating that he wished he could slow the game down but "I've certainly wasted enough time with it ... Recommended", and that he preferred the black-and-white Macintosh version to the color IBM PC version.<ref name="pournelle198509">{{cite news | url=https://archive.org/stream/byte-magazine-1985-09/1985_09_BYTE_10-09_Homebrewing#page/n329/mode/2up | title=PC, Peripherals, Programs, and People | work=BYTE | date=September 1985 | accessdate=27 October 2013 | author=Pournelle, Jerry | pages=347}}</ref>
+
+==Reviews==
+* ''The V.I.P. of Gaming Magazine'' #2 (Feb./March 1986)
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #34<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-34/page/40/mode/2up | title=Jeux & stratégie 34 | date=August 1985}}</ref>
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' HS #3<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-hs-3/page/86/mode/2up | title=Jeux & stratégie HS 3 | year=1986}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/gato|name=''GATO''}}
+* {{Internet Archive game|id=msdos_GATO_1984|platform=MS-DOS}}
+* [http://www.bytecellar.com/archives/000069.php Of AJAX, GATO, and Bill Scott]
+* [https://archive.org/details/games-58-1984-december/page/50/mode/2up Review] in [[GAMES Magazine]]
+
+[[Category:1984 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Cancelled Atari 7800 games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Japan in non-Japanese culture]]
+[[Category:Pacific War video games]]
+[[Category:Single-player video games]]
+[[Category:Spectrum HoloByte games]]
+[[Category:Submarine simulation video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Oceania]]

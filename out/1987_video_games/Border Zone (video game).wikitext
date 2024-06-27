@@ -1,0 +1,77 @@
+Border Zone (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Border_Zone_%28video_game%29&oldid=1220836632
+Accessed on: 2024-06-26T17:01:45.027859
+
+
+
+------
+Border Zone (video game)
+{{Infobox video game
+|title     = Border Zone
+|image     = Border Zone Coverart.png
+|developer = [[Infocom]]
+|publisher = [[Infocom]]
+|designer = [[Marc Blank]]
+|engine = [[Z-machine]]
+|released = October 8, 1987
+|genre = [[Interactive fiction]]
+|modes = [[Single player]]
+|platforms = [[Apple II series|Apple II]],<ref>{{cite web|first=Steven|last=Kosek|url=https://www.newspapers.com/clip/89520156/chicago-tribune/|title=Here are the absolute, absolute latest computer games|newspaper=[[Chicago Tribune]]|page=210|date=December 11, 1987|accessdate=November 25, 2021|via=[[Newspapers.com]]}}</ref> [[Atari ST]], [[Commodore 64]], [[DOS]], [[Macintosh]]
+}}
+
+'''''Border Zone''''' is an [[interactive fiction]] [[video game]] written by [[Marc Blank]] and  published by [[Infocom]] in 1987. It was released for [[DOS]], [[Apple II series|Apple II]], [[Commodore 64]], [[Amiga]], [[Atari ST]], and [[Macintosh]]. Unlike most other purely text-based games, ''Border Zone'' incorporates real-time aspects of gameplay. It is also Infocom's thirtieth game.{{citation needed|date=June 2016}} Its tagline is "Action and international intrigue behind the [[Iron Curtain]]."
+
+==Plot==
+Mirroring the real-world tension of the [[Cold War]] in the 1980s, ''Border Zone'' is set in and around Ostnitz, located on the border between the [[Eastern Bloc]] nation of Frobnia and [[neutral country|neutral]] Litzenburg. The celebration of "[[Constitution]] Day" in Ostnitz will include a speech by Litzenburg's [[United States|American]] [[ambassador]]; there is a plot in motion, however, to [[assassinate]] the ambassador in an effort to provoke hostilities between the [[superpower]]s. ''Border Zone'' consists of three chapters, each of which places the player in the role of a different character. An American businessman, a [[KGB]] agent, and an American [[spy]] become entangled in the assassination plot and efforts to either stop it or ensure its success.
+
+The tension is increased by the introduction of real-time events in the game. Unusual for a text adventure, game time continues to pass even as the computer waits for the player's next input. Certain actions, such as sneaking past a guard post, must be timed carefully to succeed.
+
+==Feelies==
+Besides the high quality of their interactive fiction games, Infocom was also known for [[feelies]]: extra items included in each game package related to the story, and sometimes used as [[copy protection]]. The ''Border Zone'' feelies included:
+*''I Am Frobnia'', a "Fortunate Tourists Guide and Phrasebook"
+*A [[business card]] from "Riznik's Antiques, Rare Books and Curios" (In Historic Ostnitz for 35 Years)
+*A [[matchbook]] with the logo of the Frobnia National [[Railway]] (''Frobniz Bourashni Rallni'')
+*A map of the border between Frobnia and Litzenburg
+
+==Notes==
+The game's [[working title]] was ''Spy''.
+
+Around the time of ''Border Zone'''s release, Infocom stopped assigning difficulty ratings to its games. Players generally consider ''Border Zone'' to correspond to either Infocom's "Standard" or "Advanced" level of difficulty{{Citation needed|date=December 2009}}.
+
+''Border Zone'' was the only game Infocom ever published in the "[[Espionage]]" genre.
+
+Infocom's experiment with real-time interactive fiction was not entirely successful. Many players enjoyed what had previously been a hallmark of Infocom's games: the total irrelevance of "real-world" time. Formerly, if a player had to leave the computer to eat, go to school, run an errand, etc., the game would still be in the same state as before. ''Border Zone'' removed that certainty. Additionally, this was the first Infocom game in which a speedy typist could theoretically be more successful than a slower one.
+
+==Reception==
+''[[Computer Gaming World]]''{{'}}s [[Scorpia (journalist)|Scorpia]] found ''Border Zone''{{'}}s division into three standalone adventures unsatisfying, and stated that it would have been better as one. She concluded that it was "one of Infocom's weakest games to date".{{r|scorpia198801}} ''[[PC Magazine]]'' stated that the game "has hit upon exactly the right scenario for an interactive novel" and praised the feelies' "rich detail".<ref name="venditto19880329">{{Cite magazine |last=Venditto |first=Gus |date=1988-03-29 |title=The Leading Role in a Spy Thriller: Border Zone Presents Three Possible Missions |url=https://books.google.com/books?id=20tQCmhyNEMC&pg=PA374 |magazine=PC Magazine |page=374}}</ref>''[[Compute!]]'' also praised the feelies, and stated that the real-time game play and playing three different characters distinguished the game from other text adventures.<ref name="thomas198805">{{cite news | url=https://archive.org/stream/1988-05-compute-magazine/Compute_Issue_096_1988_May#page/n61/mode/2up | title=Border Zone | work=Compute! | date=May 1988 | accessdate=10 November 2013 | author=Thomas, Scott | pages=60}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="scorpia198801">{{cite magazine | title=Border Zone | magazine=[[Computer Gaming World]] | issue=43 | date=January 1988 | url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=43 | accessdate=17 April 2016 | author=Scorpia | pages=20–21, 23}}</ref>
+
+}}
+
+==External links==
+* {{moby game|id=/border-zone}}
+* {{Internet Archive game|msdos_Border_Zone_1987}}
+* [https://web.archive.org/web/20070630070944/http://www.resonant.org/games/infocom/Infocom_Homepage/borderzone.html ''Border Zone'' information and overview]
+* [http://gallery.guetech.org/borderzone/borderzone.html Scans of ''Border Zone'' packaging, documentation and feelies]
+* [http://graeme.50webs.com/infobugs/borderzo.htm The Infocom Bugs List entry for ''Border Zone'']
+* {{IFDB | title=Border Zone}}
+
+{{Infocom games}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1987 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Infocom games]]
+[[Category:Classic Mac OS games]]
+[[Category:Spy video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Europe]]

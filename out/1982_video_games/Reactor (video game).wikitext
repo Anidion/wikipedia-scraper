@@ -1,0 +1,71 @@
+Reactor (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Reactor_%28video_game%29&oldid=1179243911
+Accessed on: 2024-06-26T16:53:55.630871
+
+
+
+------
+Reactor (video game)
+{{short description|1982 video game}}
+{{Infobox video game
+|title = Reactor
+|image = Reactorflyer.jpg
+|caption = A flyer for the Arcade version of Reactor
+|developer = [[Gottlieb]]
+|publisher = [[Gottlieb]] <br>[[Parker Brothers]] (2600)
+|designer = [[Tim Skelly]]<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |first1=James |last1=Hague}}</ref>
+|artist = Tim Skelly
+|programmer = Tim Skelly (arcade)<br>Charlie Heath (2600)<ref name=giantlist/>
+|composer = David Thiel
+|release = 1982
+|genre = [[Action game|Action]]
+|modes = 1-2 players alternating turns
+|platforms = [[Arcade video game|Arcade]], [[Atari 2600]]
+}}
+
+'''''Reactor''''' is an [[arcade video game]] released in 1982 by [[Gottlieb]]. The object of the game is to cool down the core of a nuclear reactor without being pushed into its walls by swarms of subatomic particles. ''Reactor'' was developed by [[Tim Skelly]], who previously designed and programmed a series of vector graphics arcade games for [[Cinematronics]], including ''[[Rip Off (video game)|Rip Off]]''.<ref name=giantlist/> It was the first arcade game to credit the developer on the title screen.<ref name="tshist">{{cite web | url=http://www.dadgum.com/giantlist/archive/cinematronics.html| title=Tim Skelly's History of Cinematronics and Vectorbeam |website=dadgum.com| accessdate=2008-08-06}}</ref> ''Reactor'' was ported to the [[Atari 2600]] by Charlie Heath and published by [[Parker Brothers]] the same year as the original.<ref name=giantlist/>
+
+==Gameplay==
+Controls consist of a [[trackball]] and two buttons, Energy and Decoy. The player controls a ship that can move freely within a [[nuclear reactor]], seen from the top down. Swarms of particles follow the player and bounce off each other, the player's ship, and the reactor core. Any object touching the outer "kill wall" of the reactor is destroyed. Pressing the Energy button during a collision with a particle will cause it to bounce away at a higher speed.
+
+While touching the core is not harmful, it continually grows in size, restricting the available space for movement. Two sets of [[control rod]]s protrude from the kill wall; if the player knocks particles into all the rods of one set, the core shrinks to its minimum size before starting to grow again. The player starts the game with a limited number of decoys, which can be deployed by pressing the Decoy button in order to lure particles toward the kill wall, control rods, or either of two small "bonus chambers" at opposite corners of the screen. An extra decoy is earned by knocking out both sets of rods.
+
+The player earns points for destroying particles or luring/knocking them into the bonus chambers so that they bounce off the walls. A set number of particles must be destroyed in order to complete each level.
+
+In later levels, the core is replaced by a slowly expanding vortex that can attract the player's ship and destroy it on contact. One or both of the bonus chambers may be briefly sealed off at times, and the kill wall becomes invisible as well.
+
+One life is lost whenever the player's ship touches the kill wall or vortex. The game ends when all lives are lost, with bonus points awarded for each unused decoy.
+
+==Ports==
+
+[[File:ReactorBoxShotAtari2600.jpg|thumb|Atari 2600 box art]]
+
+The [[Atari 2600]] can be played with either a joystick or a trackball, though the latter is not mentioned in the manual.{{Citation needed|date=February 2021}} The difficulty switches set the sensitivity of the controls. There are no voice overs, and the bonus counter is invisible.
+
+An [[Intellivision]] version was licensed and developed, but never released.<ref>{{cite web | url=http://www.intellivisionlives.com/bluesky/games/credits/parkerbros.shtml#Anchor-Reactor-2442 | work=Intellivision Lives | title=Parker Bros. for Intellivision | accessdate=2008-08-05 |archiveurl = https://web.archive.org/web/20080423060453/http://www.intellivisionlives.com/bluesky/games/credits/parkerbros.shtml#Anchor-Reactor-2442 <!-- Bot retrieved archive --> |archivedate = 2008-04-23}}</ref>
+
+
+==Reception==
+''Tilt'' gave the game 93%, and said "A classic Gottlieb game that relies on physics for its gameplay, which is quite rewarding."<ref>{{cite web |url=http://www.abandonware-magazines.org/affiche_mag.php?mag=28&num=285 |title = Le site des anciennes revues informatiques - www.abandonware-magazines.org}}</ref>
+
+A 1983 reviewer for ''Hi-Res'' magazine wrote, "VCS ''Reactor'''s main flaw is not in the game itself, but the flexibility of the controlling joystick. The trackball controller of the Gottlieb version is gone, replaced by the lackluster Atari joystick. The stiffness of the joystick makes it difficult to direct your ship with any great degree of precision."<ref name="hires">{{cite journal |last1=Murley |first1=Mark S. |title=Bringing Home the Arcade Game Craze |journal=Hi-Res |date=November 1982 |volume=1 |issue=1 |page=72 |url=https://www.atarimagazines.com/hi-res/v1n1/arcadecraze.php}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{KLOV game|id=9274|name=Reactor}}
+*[http://www.twingalaxies.com/index.aspx?c=22&pi=2&gi=3923&vi=3379 Twin Galaxies High Score Rankings]
+
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Cancelled Intellivision games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Gottlieb video games]]
+[[Category:Parker Brothers video games]]
+[[Category:Trackball video games]]
+[[Category:Video games about nuclear technology]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer hotseat games]]

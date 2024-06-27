@@ -1,0 +1,54 @@
+Scarfman
+Permalink: //en.wikipedia.org/w/index.php?title=Scarfman&oldid=1164252679
+Accessed on: 2024-06-26T16:52:34.189137
+
+
+
+------
+Scarfman
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Scarfman
+| image = File:Scarfman (Cover).jpg
+| alt = 
+| caption = 
+| developer = 
+| publisher = The Cornsoft Group
+| designer = Philip A. Oliver<ref name=giantlist/>
+| platforms = [[TRS-80]], [[TRS-80 Color Computer]]
+| released = [[1981 in video gaming|1981]]: TRS-80<br>[[1982 in video gaming|1982]]: CoCo
+| genre = [[List of maze video games|Maze]]
+| modes = 
+}}
+'''''Scarfman''''' is a clone of ''[[Pac-Man]]'' written by Philip A. Oliver for the [[TRS-80]] computer and published by [[The Cornsoft Group]] in 1981.{{r|dobson20121126}}<ref name=giantlist/> A version for the [[TRS-80 Color Computer]] followed in 1982 as '''''Color Scarfman''''', which uses 64x64 low resolution graphics.<ref name=boyle/>
+
+Oliver also wrote the Enhanced [[BASIC]] Compiler for the TRS-80 Model III and 4.<ref>{{cite web |last1=Reed |first1=Matthew |title=EnhComp |url=http://www.trs-80.org/enhcomp/ |website=TRS-80.org}}</ref>
+
+==Gameplay==
+''Scarfman'' is a game in which the player is Scarfman, trying to eat the dots in a maze filled with them along with five power capsules, avoiding the five monsters that roam the maze.<ref name="SG"/> Unlike ''Pac-Man'', there are five monsters instead of four. Eating a power pill causes monsters to lower their eyes, indicating that they're vulnerable. The eyes shift to the normal position when the pill's effect wears off.<ref name=reed/>{{r|dobson20121126}} In ''Color Scarfman'', eating a power pill causes the ghosts to remain vulnerable&mdash;indicated by turning blue&mdash;until eaten or the level ends.<ref name=boyle/>
+
+==Reception==
+Dan Ekblaw reviewed ''Scarfman'' in ''[[The Space Gamer]]'' number 54. Ekblaw commented that "Overall, I would say that ''Scarfman'''s defects outweigh its good points by far.  I've found that this game loses its novelty after a few weeks and will spend the rest of its days sitting on a shelf".<ref name="SG">{{cite journal|last=Ekblaw |first=Dan |date=August 1982 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=54|pages=30, 32}}</ref>
+
+In a 2012 retrospective, ''[[Gamasutra]]'' wrote that the "chirp-chirp-chirp chomping sound effect is maddening. But it does play like ''Pac-Man'', more or less".<ref name="dobson20121126">{{Cite web |url=https://www.gamasutra.com/view/feature/182224/games_from_the_trash_the_history_.php |title=Games from the Trash: The History of the TRS-80 |last=Dobson |first=Dale |date=2012-11-26 |website=Gamasutra |language=en |access-date=2019-05-13}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+<ref name="boyle">{{cite web |last1=Boyle |first1=L. Curis |title=Color Scarfman |url=http://www.lcurtisboyle.com/nitros9/colorscarfman.html |website=The Tandy Color Computers Game List}}</ref>
+<ref name="reed">{{cite web |last1=Reed |first1=Matthew |title=Scarfman |url=http://www.trs-80.org/scarfman/ |website=TRS-80.org}}</ref>
+}}
+
+==External links==
+*[https://archive.org/details/CreativeComputingSoftwareBuyersGuide1982/page/n79/mode/2up Review] in ''[[Creative Computing]]''
+*[https://archive.org/details/PersonalComputerWorld1982-12/page/146/mode/2up Review] in ''[[Personal Computer World]]''
+
+[[Category:1981 video games]]
+[[Category:Dragon 32 games]]
+[[Category:Pac-Man clones]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]

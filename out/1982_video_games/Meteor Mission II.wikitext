@@ -1,0 +1,53 @@
+Meteor Mission II
+Permalink: //en.wikipedia.org/w/index.php?title=Meteor_Mission_II&oldid=1224242559
+Accessed on: 2024-06-26T16:53:40.275425
+
+
+
+------
+Meteor Mission II
+{{short description|1982 video game}}
+{{Infobox VG| title = Meteor Mission II
+|image = Meteor Mission II cover.jpg
+|developer =
+|publisher = [[Big Five Software]]
+|programmer = Bill Hogue<br>Jeff Konyu<ref name=trs80/>
+|released = 1982
+|genre = [[Shoot 'em up]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[TRS-80]]
+}}
+
+'''''Meteor Mission II''''' (written as '''''Meteor Mission 2''''' on the title screen)<ref name=hogue/> is a [[clone (video games)|clone]] of the [[Taito]] [[arcade game]] ''[[Lunar Rescue]]'' released by [[Big Five Software]] for the [[TRS-80]] [[home computer]] in 1982.<ref name="Linzmayer1981">{{cite magazine |last=Linzmayer |first=Owen |date=September 1981 |title=Bringing Home the Arcade |url=https://archive.org/details/creativecomputing-1981-09/page/n187 |magazine=[[Creative Computing (magazine)|Creative Computing]] |publisher=Creative Computing |location=Morristown, NJ |volume=7 |issue=9 |pages=180–183 |via=[[Internet Archive]]}}</ref> It was written by Big Five co-founders Bill Hogue and Jeff Konyu.<ref name=trs80/>
+
+==Gameplay==
+The game is similar in concept to ''[[Lunar Lander (arcade game)|Lunar Lander]]'' but adds a rescue element. The initial goal is to navigate a ship through a moving meteor belt and land on one of several landing pads. A small figure runs out from the side of the screen, enters the ship, and then the player must navigate and fire back through the meteor field and dock with the mothership.
+
+==Development==
+The game was the fifth of seven arcade clones programmed for the TRS-80 by Bill Hogue and Jeff Konyu, who left the TRS-80 platform in 1982. Hogue previously wrote and published an unrelated game called ''Meteor Mission'' that was withdrawn from the market.<ref name=hogue>{{cite web |last1=Hogue |first1=Bill |title=TRS-80 Games |url=http://www.bigfivesoftware.com/trs80/trs80main.htm |website=Big Five Software}}</ref><ref name=trs80/> He would later that year create the [[platform game]] ''[[Miner 2049er]]'' for the [[Atari 8-bit computers]].
+
+==Reception==
+Ian Chadwick reviewed ''Meteor Mission II'' in ''[[Ares (magazine)|Ares Magazine]]'' #13 and commented that "the challenge is limited and the game is really not terribly exciting. This is prime stuff for the younger set but otherwise pale in comparison to other efforts".<ref name="Ares">{{cite journal | last=Chadwick | first=Ian| title=Software | journal=[[Ares (magazine)|Ares Magazine]] | publisher=[[TSR, Inc.]] | date=Winter 1983| issue=13 | page=20}}</ref>
+
+A review in ''80-U.S.'' stated that "the graphics in ''Meteor Mission II'' are very good", but that "sound effects are not very fancy".<ref>{{cite journal |last1=Shutz |first1=Kevin |title=Reviews: Meteor Mission II |journal=80-U.s. |date=April 1982 |volume=5 |issue=4 |pages=98–99 |url=https://archive.org/details/80-U.S._Volume_V_Number_04_1982-04_80-Northwest_Publishing_US/page/n105/mode/2up}}</ref> In the conclusion, the reviewer called it "well worth the $15.95" and "impossible to master to a point where it lacks challenge".
+
+In a 2012 retrospective, ''[[Gamasutra]]'' wrote that "'inspired by' the early Taito classic ''Lunar Rescue'', this Big Five Software effort remains a compelling gameplay experience".<ref name="dobson20121126">{{Cite web |url=https://www.gamasutra.com/view/feature/182224/games_from_the_trash_the_history_.php |title=Games from the Trash: The History of the TRS-80 |last=Dobson |first=Dale |date=2012-11-26 |website=Gamasutra |language=en |access-date=2019-05-13}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name=trs80>{{cite web |title=Meteor Mission |url=http://www.trs-80.org/meteor-mission-2/ |website=TRS-80.org}}</ref>
+}}
+
+==External links==
+*[https://archive.org/details/creativecomputing-1981-09/page/n187/mode/2up Review] in [[Creative Computing]]
+*[http://www.youtube.com/watch?v=VYO4gHR7nRo ''Meteor Mission II''] on YouTube
+
+[[Category:1982 video games]]
+[[Category:Big Five Software games]]
+[[Category:Shoot 'em ups]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80-only games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+
+{{8bitcomputer-game-stub}}

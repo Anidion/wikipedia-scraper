@@ -1,0 +1,43 @@
+Check Man
+Permalink: //en.wikipedia.org/w/index.php?title=Check_Man&oldid=1224226338
+Accessed on: 2024-06-26T16:53:08.184955
+
+
+
+------
+Check Man
+{{Infobox video game
+|title=Check Man
+|image= Checkman.png
+|caption =
+|developer= 
+|publisher= Zilec-Zenitone
+|released= {{vgrelease|EU|September 1982<ref name="Meades">{{Cite book |last=Meades |first=Alan |url=https://direct.mit.edu/books/oa-monograph/5459/Arcade-BritanniaA-Social-History-of-the-British |title=Arcade Britannia: A Social History of the British Amusement Arcade |date=2022-10-25 |publisher=[[The MIT Press]] |isbn=978-0-262-37234-3 |chapter=7: The Invader’s Revenge |pages=145–68 |chapter-url=https://direct.mit.edu/books/oa-monograph/5459/chapter/3979912/The-Invader-s-Revenge}}</ref>|NA|1982<ref>[http://www.gamefaqs.com/arcade/566831-check-man/data ''Check Man''] at [[GameFAQs]]</ref>|JP|1982<ref name="Meades"/>}}
+|genre= [[Puzzle video game|Puzzle]]
+|modes= Two players alternating turns
+|platforms= [[Arcade video game|Arcade]]
+}}
+
+'''''Check Man''''' is an [[arcade video game]] released by Zilec-Zenitone in 1982. While being a fast-paced [[action game]], there are puzzle elements to the gameplay. The game uses the [[Namco Galaxian]] arcade board.<ref>{{Cite web|url=https://www.arcade-museum.com/game_detail.php?game_id=7319|title=Check Man - Videogame by Zilec-Zenitone|website=www.arcade-museum.com}}</ref> It was one of the first [[Video games in the United Kingdom|British video games]] to be successful in overseas markets, particularly Japan.<ref name="Meades"/>
+
+==Gameplay==
+The screen is broken up into 14 x 13 tiles or [[Check pattern|checks]]. When the player passes over the tiles, they disappear so each tile can only be walked over once per level. Some tiles are taken up by [[skull and crossbones (poison)|skull and crossbones]] which kill the player if walked into. The skulls turn to [[time bomb]]s one at a time and the player must walk over them to defuse them before they explode. They must avoid the skulls and make sure they do not block off a possible future route by circling it. Some tiles are also flags which can be collected for bonus points. When all skulls have turned to bombs and been defused, the level is complete and begins again at a harder level. As the game develops, stomping boots are introduced that move around the playing area. These are also deadly to the player.
+
+==Legacy==
+There were no official ports to home systems but ''Check Man'' was cloned as ''Danger UXB'' ([[Micro Power]]) for the [[Acorn Electron]] and [[BBC Micro]],<ref>{{cite web |url=http://www.acornelectron.co.uk/profs/cats/micropower.html |title=Archived copy |access-date=2009-04-02 |url-status=dead |archive-url=https://web.archive.org/web/20110430052204/http://www.acornelectron.co.uk/profs/cats/micropower.html |archive-date=2011-04-30 }}</ref> ''[[Timebomb (video game)|Timebomb]]'' ([[CDS Software|CDS Microsystems]]) for the [[ZX Spectrum]], ''Gridtrap'' for the [[Commodore 64]],<ref>{{lemon64 game|name=Gridtrap|id=1107}}</ref> and ''Kick It'' (Aackosoft) for [[MSX]].
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=7319}}
+
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games about bomb disposal]]
+
+
+{{action-videogame-stub}}

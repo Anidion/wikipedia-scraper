@@ -1,0 +1,72 @@
+North Atlantic '86
+Permalink: //en.wikipedia.org/w/index.php?title=North_Atlantic_%2786&oldid=1122142201
+Accessed on: 2024-06-26T16:55:30.267188
+
+
+
+------
+North Atlantic '86
+{{Expand French|North Atlantic '86|topic=|date=October 2020}}
+
+{{Infobox video game
+|title       = North Atlantic '86
+|image       = North Atlantic '86 Coverart.png
+|developer   = [[Gary Grigsby]]
+|publisher   = [[Strategic Simulations]]<ref name="gamefaqs">[http://www.gamefaqs.com/appleii/933733-north-atlantic-86/data ''North Atlantic 86''] at [[GameFAQs]]</ref>
+|released    = {{vgrelease|NA|1983<ref name="gamefaqs"/>|NA|1986 (Macintosh)}}
+|genre       = [[Computer wargame]]
+|modes       = [[Single-player video game|Single-player]]
+|platforms   = [[Apple II]], [[Macintosh]]
+}}
+
+'''''North Atlantic '86''''' is a 1983 [[computer wargame]] written by [[Gary Grigsby]] and published by [[Strategic Simulations]]. The game covers a hypothetical conflict between [[NATO]] and the [[Soviet Union]]. A [[Macintosh]] version was released in 1986.<ref>[https://sites.google.com/site/ssihistory/Home/mac-games], The History of SSI Games</ref><ref>[http://www.grenier-du-mac.net/fiches/Jeux/northatlantic.htm], Le Grenier du Mac (in French)</ref>
+
+''North Atlantic '86'' was Grigsby's third game. It began development as a part-time project while he worked for the [[United States Department of Defense]], like his previous titles ''[[Guadalcanal Campaign (video game)|Guadalcanal Campaign]]'' and ''[[Bomb Alley]]'', but Grigsby left the position to become a full-time game developer during ''North Atlantic''{{'}}s production. The title reuses the [[game engine]] from his first two games, with upgrades. He followed it with ''[[Carrier Force]]'' (1983).
+
+==Game details==
+{{essay|date=July 2013}}
+The back story showed that [[Warsaw Pact]] forces had successfully overrun most of Western Europe by the end of August, 1986.{{r|manual1983sec17.0}} Next, the naval and air forces of the [[Soviet Union]] needed to close the North Atlantic and sever the supply line between North America and Britain. [[NATO]]'s task was to keep the sea lanes open and Britain supplied, primarily by using convoys of supply and troop ships guarded by carrier battle groups when available. Nuclear weapons were not available to either the [[NATO]] or [[Soviet Union]] commanders. Game play options allowed two human players to pick either the [[NATO]] or [[Soviet Union]]. Solo play was limited to the [[NATO]] side only as the [[Soviet Union]] was always played by the computer AI.
+
+The game supplied two mini-game scenarios and two full campaign scenarios. Duration for the two mini-games were 12 and 20 turns each. Duration for the full campaigns were 252 and 122 turns. In Grigsby's prior games, the computer kept track of the number of torpedoes carried on each ship and submarine.  But the need to keep track of so many other variables in ''North Atlantic '86'' necessitated deletion of those counters.  Instead each ship had a fixed probability of exhausting its stock of torpedoes each time it fired. This meant, for example, that a submarine might run out of torpedoes after its first attack.
+
+Other weaknesses of ''North Atlantic '86'' included the ability of unarmed search and cargo aircraft to go anywhere they had the range to go, immune to enemy fighters. This allowed bases that should have been isolated to be supplied and active.  Additionally, search aircraft could spot enemy ships almost anywhere in the Atlantic. This led to airstrikes every twelve hours whenever ships were at sea, an unlikely tempo of operations.
+
+In spite of these and other limitations, the game was an extraordinary achievement, given that all program code and game data were on a 140KB floppy disk, and the game executed on an [[Apple II]] with as little as 48KB of RAM.  In fact, Grigsby pushed the limits of the [[Apple II]] so far that there would not have been enough memory available without using SSI's proprietary RDOS instead of Apple's conventional operating system. The players faced a number of challenging decisions, but they had a variety of potent ships and aircraft at their disposal. Although the game relied on text for most of the interaction with the players, most players found high excitement levels during the combat phase. Program execution was surprisingly fast for a [[BASIC]] program on an 8-bit 1&nbsp;MHz CPU, although later turns when most vessels and aircraft were deployed could take 4–6 hours to execute. Combat was intense, and losses on both sides were high.
+
+==Development==
+''North Atlantic '86'' was designed by [[Gary Grigsby]]. He worked on the game part-time for the first half of production, while holding a full-time [[civil service]] position. He had made his previous titles ''[[Guadalcanal Campaign]]'' and ''[[Bomb Alley]]'' entirely in his spare time.<ref name=wargamer>{{cite web | archive-url=https://web.archive.org/web/20110220105733/http://www.wargamer.com/article/1383/Interview-Joel-Billings-and-Gary-Grigsby?page=1 | url=http://www.wargamer.com/article/1383/Interview-Joel-Billings-and-Gary-Grigsby?page=1 | title=Interview: Joel Billings and Gary Grigsby | date=July 16, 2003 | work=[[Wargamer (website)|Wargamer]] | author1=Zabek, Jim | author2=Wallace, Shaun | archive-date=February 20, 2011 | url-status=dead }}</ref> The game used the same basic program used by Grigsby's previous ''[[Guadalcanal Campaign (video game)|Guadalcanal Campaign]]'' and ''[[Bomb Alley (video game)|Bomb Alley]]'', which were coded in the [[Applesoft BASIC]] language.{{r|manual1983sec1.5}} Each turn represented twelve hours, but in ''North Atlantic '86'', sea, air and land combat could also take place at night instead of only during daytime turns. There were many additional features, such as electronic warfare, missile attacks, and the ability to conduct airborne assaults using paratroopers. Game operations allowed certain forward bases to be captured and recaptured which made the possession of Iceland especially valuable.
+
+Grigsby released ''North Atlantic '86'' in 1983, the same year he launched ''[[Carrier Force]]''.<ref name=guru>{{cite magazine | author=Emrich, Alan | title=The Pioneering Spirit of a Wargame Guru | date=September 1995 | issue=134 | magazine=[[Computer Gaming World]] | pages=201, 202, 204 }}</ref>
+
+==Reception==
+''[[Computer Gaming World]]'' wrote that ''North Atlantic '86'' "definitely should not be your first computer wargame. But, it definitely should be ''one'' of your computer wargames!"{{r|selover198312}}
+
+==References==
+{{Reflist|refs=
+<ref name="selover198312">{{cite magazine | title=North Atlantic '86: Review and Strategies | magazine=Computer Gaming World | date=December 1983 | author=Selover, Jay | pages=34}}</ref>
+<ref name="manual1983sec1.5">{{cite book | title=North Atlantic '86 Manual | publisher=SSI | date=1983 | section=1.5 Starting a Game}}</ref>
+<ref name="manual1983sec17.0">{{cite book | title=North Atlantic '86 Manual | publisher=SSI | date=1983 | section=17.0 HISTORICAL NOTES}}</ref>
+}}
+
+==External links==
+* [https://www.mobygames.com/game/north-atlantic-86 ''North Atlantic '86''] at [[MobyGames]]
+* [http://www.virtualapple.org/docs/ATLANTIC.txt An electronic version of the manual] from Virtual Apple II
+* [http://www.uvlist.net/game-183546-North+Atlantic+86 Macintosh screenshots] from Universal Videogame List
+* [http://macintoshgarden.org/games/north-atlantic-86 Macintosh game download] from Macintosh Garden
+* [http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=2&id=13 "North Atlantic '86: Review and Strategies"] from Computer Gaming World Museum
+
+{{Gary Grigsby}}
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Cold War video games]]
+[[Category:Computer wargames]]
+[[Category:Classic Mac OS games]]
+[[Category:Naval video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Strategic Simulations games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in 1986]]
+[[Category:World War III video games]]
+[[Category:Video games set in Iceland]]

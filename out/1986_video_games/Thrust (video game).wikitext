@@ -1,0 +1,76 @@
+Thrust (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Thrust_%28video_game%29&oldid=1224493644
+Accessed on: 2024-06-26T17:01:09.742834
+
+
+
+------
+Thrust (video game)
+{{Infobox video game
+|title = Thrust
+|image = Superior-Thrust.jpg
+|developer =
+|publisher = [[Superior Software]]<br />[[Telecomsoft#Firebird|Firebird]]
+|designer = Jeremy C. Smith<ref name='edgeexile'>{{cite magazine |title=The Making of Exile|magazine=Edge Gaming|issue=91|publisher=Future Publishing|date=November 2000|page=115|url=https://archive.org/details/Edge_Gaming/Edge%20Gaming%20Magazine%20091/page/n115/mode/2up?q=exile&view=theater|access-date=18 May 2023}}</ref><ref name='rg79'>{{cite magazine |title=From the Archives: Superior Software|magazine=Retro Gamer|issue=79|publisher=Imagine|date=22 July 2010|page=46|url=|access-date=}}</ref>
+|composer = [[Rob Hubbard]]
+|engine = 
+|released = May 1986
+|genre = [[Multidirectional shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[BBC Micro]], [[Acorn Electron]], [[Amstrad CPC]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 16]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Thrust''''' is a 1986 [[video game]] programmed by Jeremy C. Smith (who later co-authored ''[[Exile (1988 video game)|Exile]]'') for the [[BBC Micro]] and published by [[Superior Software]].<ref name='edgeexile' /><ref name='rg79' /> The player's aim is to manoeuvre a spaceship by rotating and thrusting, as it flies over a two-dimensional landscape and through caverns. The gameplay of ''Thrust'' was heavily inspired by Atari's ''[[Gravitar]]''.<ref name=Zzap>{{cite magazine|title = THRUST|first1=Gary |last1=Penn|first2=Gary |last2=Liddon |first3=Julian |last3=Rignall|date = May 1986|magazine = [[Zzap!64]]|publisher = [[Newsfield]]|issue = 13|pages = 16–17|url=https://archive.org/details/zzap64-magazine-013/page/n15|access-date=18 May 2023}}</ref>
+
+''Thrust'' was ported to the [[Commodore 64]], [[Amstrad CPC]], [[Atari 8-bit computers]], [[Atari ST]], [[Commodore 16]]/[[Commodore Plus 4|Plus 4]], and [[ZX Spectrum]]. Firebird released a sequel, '''''Thrust II''''', in 1988.<ref>{{Cite web|url=http://www.zzap64.co.uk/cgi-bin/displayreview.pl?reviewid=48|title=Review of Thrust II|website=www.zzap64.co.uk}}</ref><ref>{{Cite web|url=http://www.gb64.com/game.php?id=7898|title=GB64.COM - C64 Games, Database, Music, Emulation, Frontends, Reviews and Articles|website=www.gb64.com}}</ref>
+
+==Gameplay==
+The aim is to pilot a spacecraft which must pick up a pod using a tractor beam and fly it into space. The ship and pod are subject to gravity and inertia, and being connected by a stiff rod can end up spinning around each other, out of control. Hitting the walls of the cave with either the ship or the pod results in death.
+
+[[Image:ThrustElectron.png|thumb|left|The [[Acorn Electron]] version of ''Thrust'' runs in two colour mode.]]
+
+Each planet has turrets which fire bullets at the ship, which can be destroyed with a single shot, and a reactor which powers the defence system of each planet. If the reactor is shot enough the turrets will cease firing for a short amount of time. Hitting the reactor with many bullets causes it to go critical and destroy the planet in 10 seconds - the ship must escape into space before this happens, with or without the pod (more points are gained if the pod is present).<ref name=Zzap />
+
+Fuel is needed to manœuvre the ship and can be collected with the tractor beam, if the ship runs out of fuel the whole game is over. A shield is also available, although when activated it uses fuel and the ship cannot shoot.<ref name=Zzap />
+
+Later levels have doors that are opened by shooting a panel. After all 6 levels have been completed the levels start again, but first with gravity reversed, then with the planet and walls invisible unless the shield is used, and finally with invisible walls and reverse gravity.<ref name=Zzap /> After the 24th level is complete a message is displayed. Two more messages are available after completing the 48th and 72nd level, and from then on the 3rd message is repeated. On the BBC Micro implementation, the messages displayed are "Support [[HOTOL|Hotol]]", "Physics is fun" and "I love space".{{citation needed|date=May 2023}}
+
+==Release==
+Before releasing the BBC/Electron version of the game, [[Superior Software]] licensed the rights to produce ports of the game to [[Firebird Software]] who published the game on their £1.99 budget label.<ref name='pcw5jun86'>{{cite magazine |title=Firebird's Thrust is Superior|magazine=Popular Computing Weekly|issue=23|publisher=Sunshine Publications|date=5 June 1986|page=5|url=https://spectrumcomputing.co.uk/page.php?issue_id=2911&page=5|access-date=18 May 2023}}</ref> Firebird's C64 version was released first, reaching the top of the Gallup All Formats and Commodore 64 charts.<ref name='pcw22may86charts'>{{cite magazine |title=Charts|magazine=Popular Computing Weekly|issue=21|publisher=Sunshine Publications|date=22 May 1986|page=46|url=https://spectrumcomputing.co.uk/page.php?issue_id=2909&page=46|access-date=18 May 2023}}</ref> Nine weeks later, Superior Software's full price release entered the BBC Top Ten at number one.<ref name='pcw24july86charts'>{{cite magazine |title=Charts|magazine=Popular Computing Weekly|issue=30|publisher=Sunshine Publications|date=24 July 1986|page=46|url=https://spectrumcomputing.co.uk/page.php?issue_id=2918&page=46|access-date=18 May 2023}}</ref>
+
+Superior promoted their release with a competition. Prizes included a trophy, £250 in cash, and a book by astronomer [[Patrick Moore]].<ref name='computergamer17thrustad'>{{cite magazine |title=Thrust Advertisement|magazine=Computer Gamer|issue=17|publisher=Argus Specialist Publications|date=August 1986|page=49|url=https://archive.org/details/Computer_Gamer_Issue_17_1986-08_Argus_Press_GB/page/n47/|access-date=18 May 2023}}</ref>
+
+==Legacy==
+Hobbyist-written clones were released for the [[Atari 2600]] (2000) and [[Vectrex]] (2004) consoles using the same name as the original.
+
+''Thrust'' was credited by Bjørn Stabell as an influence on the game ''[[XPilot]]''.<ref name="acm">{{cite web |url=http://www.acm.org/crossroads/xrds3-2/xpilot.html |title=The Story of XPilot |accessdate=2009-08-02 |last=Stabell |first=Bjørn |author2=Ken Ronny Schouten |year=1996 |work=ACM Crossroads |url-status=dead |archive-url=https://web.archive.org/web/20071212193203/http://www.acm.org/crossroads/xrds3-2/xpilot.html |archive-date=2007-12-12}}</ref>
+
+Jeremy C. Smith went on to develop the 1988 game ''[[Exile (1988 video game)|Exile]]'' with school friend and ''[[Starship Command]]'' programmer Peter Irwin.<ref name='edgeexile' /> He died in an accident four years later.<ref name='edgeexile' />
+
+==References==
+{{reflist}}
+
+==External links==
+* {{lemon64 game|name=Thrust|id=2641}}
+* {{atarimania|id=10607}}
+* {{atarimania|id=5356}}
+* [http://www.bytecellar.com/archives/000106.php ''Thrust'' from Firebird Software] at Byte Cellar
+
+{{Superior Software}}
+
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:Multidirectional shooters]]
+[[Category:Space combat simulators]]
+[[Category:Superior Software games]]
+[[Category:Telecomsoft games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games scored by Rob Hubbard]]
+[[Category:Video games set on fictional planets]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

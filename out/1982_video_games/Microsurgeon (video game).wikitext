@@ -1,0 +1,57 @@
+Microsurgeon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Microsurgeon_%28video_game%29&oldid=1223271565
+Accessed on: 2024-06-26T16:53:40.968470
+
+
+
+------
+Microsurgeon (video game)
+{{COI|date=March 2013}}
+{{Infobox video game
+|title = Microsurgeon
+|image = Microsurgeon (video game).jpg
+|caption =
+|developer = [[Imagic]]
+|publisher = Imagic
+|designer = Rick Levine<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+|released = {{vgrelease|NA|1982}}
+|genre =
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Intellivision]], [[TI-99/4A]], [[IBM PCjr]]
+}}
+
+'''''Microsurgeon''''' is a maze-like video game published by [[Imagic]] in 1982 for the Mattel [[Intellivision]] game console.<ref>{{cite web|url=http://www.gamefaqs.com/console/intellivision/home/577027.html |title=Microsurgeon for Intellivision |publisher=GameFAQs |date= |access-date=2012-02-10}}</ref> The game was ported to the [[TI-99/4A]]<ref>{{cite web|author=TI-99/4A Videogame House |url=http://www.videogamehouse.net/microsurgeon.html |title=TI-99/4A Videogame House - Microsurgeon |publisher=Videogamehouse.net |date= |access-date=2012-02-10}}</ref> computer and the [[IBM PCjr]]. ''Microsurgeon'' was re-released as part of the ''[[Intellivision Rocks]]'' collection.
+
+==Plot==
+A [[Tanker (ship)|tanker]] carrying hazardous material was damaged during an accident, allowing the gas inside to escape. Those exposed to the fumes begin to suffer a range of [[immune disorder]]s, such as rampant bacterial infections, rapidly growing tumors, and widespread tar deposits in the lungs. Patients are being rushed to Xenon Medical Center for emergency microsurgery before their conditions become fatal; the player assumes the role of a member of the surgical staff.
+
+==Gameplay==
+''Microsurgeon'' is one of the first published video games related to health or health education.<ref>{{cite web|url=http://www.healthcareguy.com/2009/05/31/guest-article-why-games-matter-in-healthcare/ |title=Why Games Matter In Healthcare |publisher=Healthcareguy.com |date= 31 May 2009|access-date=2012-05-15}}</ref> The player must guide a tiny medical device, the Robot Probe, throughout a patient's body to treat the ailments affecting various organs, such as bacterial infections, [[brain tumors]], [[cholesterol]] blockages in arteries, and [[tapeworms]].
+
+At the start of the game, the player is presented with the patient's status chart, which shows information on each individual organ as well as an overall condition, ranging from "Good" to "Terminal". The Robot Probe is equipped with three different treatments: [[ultrasound|ultrasonic]] rays, [[antibiotics]], and [[aspirin]]. The treatment to be used depends on the ailment; for example, [[bacteria]] only respond to antibiotics, while [[virus]]es can only be temporarily disabled with aspirin. If the Robot Probe moves outside of the patient's blood vessels or [[lymphatic system]], [[phagocytes]] (roaming white blood cells) will attack it and start to drain its power. Moving the Robot Probe and dispensing treatments also use up power.
+
+Any system status will slowly deteriorate toward "Terminal" until and unless it is brought up to "Good" with appropriate treatment. The ultimate goal is to bring the patient's overall status up to "Good" and exit the patient's body through the eye, ear, nose, or mouth before the power runs out. The game ends when the power reaches zero, the player pilots the Robot Probe out of the body, or the overall status reaches "Terminal". The player's score (represented as the total bill for the surgery) is reported only at the end of the game, and is determined by several factors such as the overall difficulty of the surgery and the patient's final status.
+
+==Reception==
+[[Danny Goodman]] of ''[[Creative Computing]] Video & Arcade Games'' tested ''Microsurgeon'' at the summer 1982 [[Consumer Electronics Show]]. He wrote: "From preliminary play, this cartridge looks like a 'must' for Intellivision owners for both graphics and unique game theme".<ref name="goodman1983spring">{{Cite magazine |last=Goodman |first=Danny |author-link=Danny Goodman |date=Spring 1983 |title=Home Video Games: Video Games Update |url=http://www.atarimagazines.com/cva/v1n1/vgupdate.php |magazine=Creative Computing Video & Arcade Games |page=32}}</ref> It was noted as "among the most innovative computer/game software for 1982-1983" at the Consumer Electronics Show in Las Vegas. It tied for "Most Original Game" of the year in ''[[Electronic Fun with Computers & Games]]'' magazine, December 1983. The game appeared on the cover of ''[[IEEE Spectrum]]'', December 1982, and on The Anniversary's ''Designing a Nervous Breakdown'' album cover.<ref>{{cite web|author=Steven A. Orth |url=http://www.intvfunhouse.com/oddsnends/music/ |title=Musical References to Intellivision |publisher=INTV Funhouse |date=2006-05-13 |access-date=2012-02-10}}</ref>
+
+''Microsurgeon'' was among 240 video games selected to be included in "The Art of Video Games" exhibit at the Smithsonian Institution in 2012.<ref>{{cite web|url=http://americanart.si.edu/exhibitions/archive/2012/games/ |title=Exhibitions: The Art of Video Games / American Art |publisher=Americanart.si.edu |date= |access-date=2012-02-10}}</ref>
+
+==Reviews==
+*''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n51/mode/2up | title=GAMES Magazine #34 | date=December 1982 }}</ref>
+
+==Legacy==
+A remake of the game was announced in 2018 for the [[Intellivision Amico]].<ref>{{cite press release|title=Intellivision® Reveals Initial Details For The Upcoming Amico™ Home Video Game Console!|url=https://www.prnewswire.com/news-releases/intellivision-reveals-initial-details-for-the-upcoming-amico-home-video-game-console-300734998.html|website=PR Newswire}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:1982 video games]]
+[[Category:Intellivision games]]
+[[Category:North America-exclusive video games]]
+[[Category:Science fiction video games]]
+[[Category:Imagic games]]
+[[Category:Medical video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:TI-99/4A games]]
+[[Category:Video games developed in the United States]]

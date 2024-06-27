@@ -1,0 +1,58 @@
+Nether Earth
+Permalink: //en.wikipedia.org/w/index.php?title=Nether_Earth&oldid=1224793908
+Accessed on: 2024-06-26T17:02:44.825403
+
+
+
+------
+Nether Earth
+{{Infobox video game
+| title = 
+| collapsible = 
+| state = 
+| image = Nether Earth Cover.jpg
+| caption = 
+| developer = 
+| publisher = [[Argus Press Software]]
+| series = 
+| engine = 
+| released = 1987
+| genre = [[Strategy game]]
+| modes = [[Single-player]]
+| platforms = [[Amstrad CPC]], [[ZX Spectrum]], [[Commodore 64]]
+}}
+
+'''''Nether Earth''''' is one of the earliest computer real-time strategy games. It was released for the [[Amstrad CPC]], [[ZX Spectrum]] and [[Commodore 64]] in 1987. It was published in the [[United Kingdom]] by [[Argus Press Software]] and re-released in [[Spain]] by Mind Games Espana S.A.
+
+==Plot==
+The player takes the control of the human side in a war against the mysterious Insignian race. All of the warfare is carried out by enormous military robots.
+
+==Gameplay==
+The player controls a flying machine which can fly over any part of the play-area and is used to command the player's bases and robots. In essence it replaces a mouse cursor, but it can hinder the robots' movement. The player must build robots and give them orders to seek out and attack Insignian robots and capture neutral or enemy factories to increase production and thus aid the war effort. Once a robot is issued an order it will keep being active until all its targets have been conquered or destroyed, the robot itself is destroyed, or other orders are received. The ultimate objective is to capture or destroy all the enemy bases and thus win the war. Everything takes place in real-time with the action being ongoing rather than turn-based. Because the player's view of the battlefield is limited to where their flying-machine is, much of the front-line fighting is left to the machines whilst the player concentrates on building more robots. However the player can choose to take direct control over one of his/her robots and effectively use it in a commando style to capture factories and bases and to destroy enemy robots. The game is displayed in forced-perspective [[isometric projection|isometric]] graphics.
+
+Building robots takes place at the player bases (called warbases) and consists in the player selecting a number of modules that robots will be built from. Modules can be categorized in 4 types: [[Ground propulsion|locomotion]], weapons, nuclear bombs and electronics. There are 3 types of locomotion modules ([[Bipedalism|Bipod]], [[Continuous_track|Tracks]] and [[Anti-gravity|Anti-Grav]]) and 3 types of weapon modules (Cannon, Missiles and Phasers). The modules' efficiency increases in the specified order, with the Anti-Grav (anti-gravity) module enabling robots to pass over uneven terrain at maximum speed. One locomotion module and at least one weapons module must be added to every robot, but robots can be built with all 3 weapon modules as well. Adding nuclear bombs and electronics modules is optional, however the electronics module enhances robots' [[pathfinding]].
+
+Once the player captures factories, receiving resources begins without any other action required from the player or his/her units. Resource types largely correspond to the module types and consist of: Electronics, Nuclear, Phasers, Missile, Cannon, Chassis and General. Each factory produces only one type of resource, alongside General resources, indicated by a copy of the corresponding module on the top of the building, thus the player can concentrate on conquering only those factories that produce the resources he plans on using.
+
+{{Video game reviews
+| award1Pub = ''Your Sinclair''
+| award1 = YS Megagame<ref>Game review, Your Sinclair magazine, [[Dennis Publishing]], issue 16, April 1987, page 42</ref>
+}}
+
+==Legacy==
+An [[Open-source video game|open-source]] [[Video game remake|remake]] of ''Nether Earth'' was completed in 2004 and is available for Windows, Linux and OS X.<ref>{{Cite web |url=http://www.braingames.getput.com/nether/ |title=Nether Earth Remake |access-date=2006-05-06 |archive-url=https://web.archive.org/web/20061107204807/http://www.braingames.getput.com/nether/ |archive-date=2006-11-07 |url-status=dead}}</ref> Another remake is available for iOS.<ref>{{Cite web|url=https://itunes.apple.com/us/app/nether-earth/id382693659?mt=8|title = Nether Earth| website=[[iTunes]]}}</ref>
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+* {{moby game|id=/nether-earth|name=''Nether Earth''}}
+* {{WoS game|id=0003391}}
+* {{Lemon64 game|id=1778}}
+* [https://play.google.com/store/apps/details?id=com.ITmindCo.NetherEarthWarOfRobot Nether Earth Remake (Android)]
+
+[[Category:1987 video games]]
+[[Category:ZX Spectrum games]]
+[[Category:Commodore 64 games]]
+[[Category:Amstrad CPC games]]
+[[Category:Video games developed in the United Kingdom]]

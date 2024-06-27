@@ -1,0 +1,66 @@
+Dimension X (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dimension_X_%28video_game%29&oldid=1228314313
+Accessed on: 2024-06-26T16:56:38.432518
+
+
+
+------
+Dimension X (video game)
+{{Short description|1984 video game}}
+{{distinguish|Zone X (video game)}}
+{{Infobox video game
+|title = Dimension X
+|image = Dimension X cover.jpg
+|caption= UK box cover
+|developer = [[Synapse Software]]
+|programmer =
+|designer = Steve Hales<ref name="giantlist"/>
+|publisher = Synapse Software<br>Americana Software (UK)
+|engine = 
+|released = 1984
+|genre = [[Vehicular combat game|Vehicular combat]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]]
+}}
+
+'''''Dimension X''''' is a first-person [[vehicular combat game]] for [[Atari 8-bit computers]] released in 1984 by [[Synapse Software]]. It was designed by Steve Hales, who previously wrote ''[[Slime (video game)|Slime]]'' and ''[[Fort Apocalypse]]'' for Synapse.<ref name="giantlist"/> ''Dimension X'' has gameplay similar to Atari's ''[[Battlezone (1980 video game)|Battlezone]]'' and Novagen's ''[[Encounter (video game)|Encounter]]'' (the latter of which was distributed in the US by Synapse).<ref name=pappas/> The player controls an attack craft hovering over a checkerboard-patterned landscape while to destroy enemy ships.
+
+The game was advertised far in advance of its release, emphasizing the 3D effect of the flat terrain. Magazine ads included features which did not exist or were not as impressive in the final game which contributed to a negative reception. The manual includes instructions for a [[Commodore 64]] version of the game,<ref name="manual"/> but it was never completed nor released.<ref>{{cite web|title=Dimension X|url=http://www.gamesthatwerent.com/gtw64/dimension-x/|website=Games That Weren't|date=October 3, 2012}}</ref>
+
+==Gameplay==
+[[File:Dimension_X_(video_game)_Atari_8-bit_PAL_screenshot.png|thumb|left|First-person view from the player's vehicle. The 5x5 sector map is in the upper right.]]
+
+The game is played from a [[first-person (video games)|first-person perspective]], where the player sits inside the cockpit of a flying vehicle and fires missiles at "Regillian" enemies. Many elements of ''Dimension X'' have analogs in ''[[Star Raiders]]''.<ref name=martin/> The game world consists of a 5x5 grid of sectors which need to be cleared of Regillians. In ''Star Raiders'' the enemies attempt to surround and destroy sectors containing motherships; here the Regillians attempt to surround and destroy a sector containing the capitol. Systems of the player's ship can be damaged by enemy fire, such as the scanner and map.<ref name=manual/> Moving between sectors requires holding a crosshair steady in addition to moving over and under obstacles.
+
+==Development==
+''Dimension X'' was advertised over nine months before being available, the ads featuring what appeared to be a texture-mapped ground plane using a technique promoted as "altered perspective scrolling."<ref name=martin/> The printed ad also showed a 64 sector map on its own screen, which was not in the final game.<ref name="martin"/> In ''[[Halcyon Days (book)|Halcyon Days: Interviews with Classic Computer and Video Game Programmers]]'', designer Steve Hales said:
+{{quote|We had a cool graphic display, but no game. [Synapse co-founder Ihor Wolosenko] and I tried to create a game, but it just wasn't fun. We ended up with a B+, or even a C game. One of the first lessons in game design I ever got.<ref name="halcyon"/>}}
+
+When the game was eventually released, it was met with generally poor reviews.
+
+==Reception==
+In a new product overview in ''[[ANALOG Computing]]'', [[Lee H. Pappas]] wrote: "The only outstanding feature of the game is the scroll-in-any-direction moire pattern landscape."<ref name="pappas"/> In the review in the same issue, Robert T. Martin found the game didn't live up to the developer's standards:{{quote|Synapse, however, has fallen short with ''Dimension X''. What's missing is the element of skill that ''[[Star Raiders]]'' requires. ''Dimension X'' can be completed very successfully by anyone who understands the game and connects the rules to the screen graphics. I've made it through the game every time at the highest difficulty settings without having to refuel, repair or retreat.<ref name="martin"/>}}
+He also criticized the box art for showing features that don't exist in the game, such as tanks and spaceships.<ref name="martin"/>
+
+The June 1984 issue of ''ROM'' magazine was more positive, giving the game an 8.8 out of 10.<ref>{{cite magazine|last1=Cockroft |first1=Jason |title=Jake the Software Dude |journal=ROM |date=June 1984 |volume=1 |issue=6 |pages=54–56 |url=https://archive.org/details/ROM_Magazine_v1i6/page/n53/mode/2up?}}</ref> It was reviewed alongside ''[[Encounter (video game)|Encounter]]'', as the reviewer compared both games with Atari's ''[[Battlezone (1980 video game)|Battlezone]]''.
+
+==References==
+{{reflist|refs=
+<ref name=halcyon>{{cite book|last1=Hague|first1=James |title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers|date=1997 |url=https://dadgum.com/halcyon/BOOK/HALES.HTM}}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+<ref name="manual">{{cite web|title=Dimension X manual|url=https://archive.org/details/DimensionX_201602/mode/2up|publisher=Synapse Software}}</ref>
+<ref name=martin>{{cite journal|last1=Martin|first1=Robert T.|title=Review - Dimension X|journal=ANALOG Computing|date=1984|issue=19 |url=https://archive.org/details/analog-computing-magazine-19/page/n89 |page=88}}</ref>
+<ref name=pappas>{{cite journal|last1=Pappas|first1=Lee|title=New Products|journal=ANALOG Computing|date=1984|issue=19 |url=https://archive.org/details/analog-computing-magazine-19/page/n15 |page=15}}</ref>
+}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-400-800-xl-xe-dimension-x_s1640.html ''Dimension X''] at Atari Mania
+
+[[Category:Synapse Software games]]
+[[Category:1984 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:First-person shooters]]
+[[Category:Science fiction video games]]
+[[Category:Video games set on fictional planets]]
+[[Category:Video games developed in the United States]]

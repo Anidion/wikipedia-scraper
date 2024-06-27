@@ -1,0 +1,99 @@
+Cabal (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Cabal_%28video_game%29&oldid=1225903832
+Accessed on: 2024-06-26T17:03:51.731634
+
+
+
+------
+Cabal (video game)
+{{Short description|1988 arcade video game}}
+{{about|the arcade game|other uses|Cabal (disambiguation)}}
+{{Use mdy dates|date=February 2022}}
+{{more citations needed|date=December 2020}}
+{{Infobox video game
+| title = Cabal
+| image = Cabal arcadeflyer.png
+| caption = Japanese arcade flyer
+| developer = [[TAD Corporation]]
+| publisher = {{vgrelease|JP|[[Taito]]|NA|[[Fabtek]]|EU|[[Capcom]]<ref name="CU" />}}
+| composer = [[David Wise (composer)|David Wise]] (NES)
+| release = {{vgrelease|JP|July 25, 1988<ref>{{cite web |title=Cabal (Registration Number PA0000382301) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=July 10, 2021}}</ref>|EU|September 1988<ref name="CVG" />|NA|October 1988<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=117 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n118}}</ref>|EU|}}
+| genre = [[Shooter game#Shooting gallery|Shooting gallery]]
+| modes = [[Single-player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[Arcade game|Arcade]], [[Amiga]], [[Amstrad CPC]], [[Commodore 64|C64]], [[ZX Spectrum]], [[MS-DOS]], [[Nintendo Entertainment System|NES]]
+}}
+
+{{nihongo|'''''Cabal'''''|カベール|Kabēru}} is a 1988 [[Arcade game|arcade]] [[Shooter game|shooter]] video game originally developed by [[TAD Corporation]] and published in Japan by [[Taito]], in North America by [[Fabtek]]<ref name="Retro163" /> and in Europe by [[Capcom]].<ref name="CU" /> In the game, the player controls a commando, viewed from behind, trying to destroy various enemy military bases.<ref>{{cite web|url       =http://www.arcade-museum.com/game_detail.php?game_id=7252|title=Cabal|work=The International Arcade Museum|accessdate=October 6, 2013}}</ref> The game was innovative for the era, but only a mild success in the arcades, and became better known for its various home conversions.<ref name="Retro163" />
+
+== Gameplay ==
+[[File:ARC Cabal (Level-1).png|thumb|left|Arcade screenshot]]
+
+''Cabal'' has [[Single-player video game|one-player]] and [[Two-player game|two-player]]-simultaneous modes of gameplay. Each player assumes the role of an unnamed commando trying to destroy several enemy military bases. There are 5 stages with four screens each. The player starts with a stock of three [[Life (video games)|lives]] and uses a gun with limitless ammunition and a fixed number of grenades to fend off enemy troops and attack the base. The commando is seen from behind and starts behind a protective wall which can be damaged and shattered by enemy fire. To stay alive, the player needs to avoid enemy bullets by running left or right, hiding behind [[Cover system|cover]], or using a dodge-roll. An enemy gauge at the bottom of the screen depletes as foes are destroyed and certain structures (which collapse rather than shatter) are brought down. When the enemy gauge is emptied, the level is successfully completed, all of the remaining buildings onscreen collapse, and the player progresses to the next stage. If a player is killed, he is immediately revived at the cost of one life or the game ends if they have no lives remaining. [[Boss (video gaming)|Boss fights]], however, restart from the beginning if the only remaining player dies.
+
+From time to time, power-ups are released from objects destroyed onscreen. Some power-ups give special weapons such as an extremely fast-firing machine gun or an automatic shotgun with a lower firing rate and larger area of effect. Others grant extra grenades or additional points.
+
+The arcade cabinet is a standard [[Arcade cabinet#Upright cabinets|upright cabinet]].<ref name="Retro163">{{cite magazine |last=Carroll|first=Martyn |date=December 2016 |title=Ultimate Guide: Cabal|magazine=[[Retro Gamer]] |issue=163|publisher=[[Future Publishing]]|pages=38–43|url=https://www.scribd.com/document/411160027/163-pdf}}</ref> Each player uses a trackball to move their character from side to side and move the crosshairs about the screen. On later board revisions, a joystick was installed instead<ref name="Retro163" /> with an optional [[Printed circuit board|sub-PCB]] for use with a trackball. With a trackball, dodge-rolling is done by pushing the trackball to maximum speed.
+
+''Cabal'' was somewhat innovative in that it featured a 3D perspective in which the player character was situated in the foreground with an over-the-shoulder camera view, similar to modern [[third-person shooters]]. Players cannot move the character while firing (holding down the fire button gives players control of the aiming cursor), and when moving the character to avoid incoming bullets, the aiming cursor moves along in tandem. This creates the need for a careful balance between offensive and defensive tactics, separating ''Cabal'' from [[Run and gun (video game)#Run and gun|run-and-gun shooters]] which relied more on reflexes. Advanced gameplay involves destructible asset management in balancing dodging (which gets riskier as the number of enemy projectiles on screen increases) with the safer alternative of taking cover behind a protective but limited durability wall.
+
+== Ports and related releases ==
+[[File:Cabal Amiga cover.jpg|thumb|Amiga box art]]
+
+''Cabal'' was [[Porting|ported]] to several [[home computer]]s of the era, including the [[DOS]] computers, [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]], [[Atari ST]] and [[Amiga]]. It was also ported to the [[Nintendo Entertainment System]] [[video game console|console]] by [[Rareware|Rare]]. A version for the [[Atari Lynx]] was previewed and even slated to be published in April 1992, but was never released by Fabtek.<ref>{{cite magazine|url=https://archive.org/stream/grey-matters-volume-3-1992#page/n25/mode/1up|title=Upcoming Games: Cabal|magazine=Grey Matters|volume=3|publisher=[[Atari Corporation]]|date=1992|page=26}}</ref>
+
+When converting the game to the Nintendo Entertainment System, Rare were given a ''Cabal'' cabinet but did not have access to the game's source code, so they had to play the game over and over and redraw the graphics from memory.<ref name="RetroQA">{{cite magazine |last=Carroll|first=Martyn |date=December 2016 |title=Developer Q&A|magazine=[[Retro Gamer]]|issue=163|publisher=[[Future Publishing]]|pages=38–43}}</ref> To accommodate the many layers and [[Sprite (computer graphics)|sprites]] of the arcade game, programmer Anthony Ball used a common coding trick: swapping sprites from left to right every other frame. This has the negative side effect of causing the sprites to [[Flicker (screen)|flicker]] when they reach the console's limit of eight per line, but Ball, like many programmers of the era, found this an acceptable trade-off for including all the game's content, and in a 2016 interview he said he is happy with the quality of the conversion.<ref name="RetroQA" />
+
+''Cabal'' was followed in 1990 by ''[[Blood Bros.]]'', though the sequel had a [[Western fiction|western]] theme as opposed to ''Cabal''<nowiki>'</nowiki>s [[Vietnam War]]-era theme.<ref name="Retro163" />
+
+== Reception and legacy ==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Your Sinclair''
+| award3 = Megagame 
+}}
+In Japan, ''Game Machine'' listed ''Cabal'' on their November 1, 1988, issue as being the eighth most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=343|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=November 1, 1988|page=25|lang=ja}}</ref>
+
+The arcade version was reviewed by Clare Edgeley in ''[[Computer and Video Games]]'' magazine. She gave it a positive review, while comparing it favorably with ''[[Operation Wolf]]'' (1987) and ''[[Combat School]]'' (1987).<ref name="CVG">{{cite magazine |last1=Edgeley |first1=Clare |title=Arcade Action |magazine=[[Computer and Video Games]] |date=September 16, 1988 |issue=84 (October 1988) |publisher=[[EMAP]] |location=United Kingdom |pages=114–6 |url=https://archive.org/details/cvg-magazine-084/page/n113/mode/2up}}</ref> Nick Kelly of ''[[Commodore User]]'' rated ''Cabal'' seven out of ten, comparing it favorably with ''[[Gryzor]]'' (1987) and ''[[Devastators]]'' (1988).<ref name="CU">{{cite magazine |last1=Kelly |first1=Nick |title=Arcades: Cabal |magazine=[[Commodore User]] |date=September 26, 1988 |issue=61 (October 1988) |page=99 |url=https://archive.org/details/commodore-user-magazine-61/page/n98/mode/1up}}</ref>
+
+The ZX Spectrum version won the award for best advert of the year according to the readers of ''[[Crash (magazine)|Crash]]''.<ref>{{cite magazine |url=http://www.crashonline.org.uk/75/awards.htm |magazine=Crash: The Online Edition |title=Crash Reader's Award Ceremony|last1=Roberts|first1=Nick|display-authors=et al|issue=75}}</ref>
+
+The game's success inspired many ''Cabal'' clones, such as ''[[NAM-1975]]'' (1990) and ''[[Wild Guns]]'' (1994).<ref name="Retro163" /><ref>{{cite web|title=Wild Guns|url=http://www.hardcoregaming101.net/wildguns/wildguns.htm|work=Hardcore Gaming 101|accessdate=April 24, 2012|archive-date=May 16, 2012|archive-url=https://web.archive.org/web/20120516125246/http://hardcoregaming101.net/wildguns/wildguns.htm|url-status=dead}}</ref>
+
+== See also ==
+* ''[[Shootout (1985 video game)|Shootout]]'', developed by TAD Corporation's related company [[Data East]] three years before ''Cabal''.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20010303201800/http://www.rareware.com/retro/backcat/gamepages/cabal.html Rareware page]
+* {{KLOV game|id=7252|name=Cabal}}
+* {{moby game|id=/cabal|name=''Cabal''}}
+* {{WoS game|id=0000780|name=Cabal}}
+* [http://www.arcade-history.com/?n=cabal&page=detail&id=365 arcade history page]
+* [http://www.gamesetwatch.com/2007/02/column_arcade_obscurities_mitc.php ''Cabal'' compared to its 2002 spiritual successor, ''Gamshara''] {{Webarchive|url=https://web.archive.org/web/20070515221038/http://www.gamesetwatch.com/2007/02/column_arcade_obscurities_mitc.php |date=May 15, 2007}}
+{{Rare}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari ST games]]
+[[Category:Cabal shooters]]
+[[Category:Cancelled Atari Lynx games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Fabtek games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Ocean Software games]]
+[[Category:TAD Corporation games]]
+[[Category:Trackball video games]]
+[[Category:Video games scored by David Wise]]
+[[Category:ZX Spectrum games]]
+[[Category:Cooperative video games]]
+[[Category:Taito arcade games]]
+[[Category:Video games developed in Japan]]
+[[Category:Multiplayer and single-player video games]]

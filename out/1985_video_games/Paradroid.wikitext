@@ -1,0 +1,135 @@
+Paradroid
+Permalink: //en.wikipedia.org/w/index.php?title=Paradroid&oldid=1230772511
+Accessed on: 2024-06-26T16:58:54.923968
+
+
+
+------
+Paradroid
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = Paradroid
+|image = Paradroid cover.jpg
+|image_size = 256px
+|caption = European cover art
+|developer = [[Graftgold]]
+|publisher = [[Hewson Consultants]] <br> Jester Interactive Publishing
+|designer = [[Andrew Braybrook]]
+|engine = 
+|released = 1985
+|genre = [[Shoot 'em up]] / [[puzzle game|Puzzle]]
+|modes = [[Single-player]]
+|platforms = [[Commodore 64]], [[Amiga]], [[Atari ST]], [[Acorn Archimedes]], [[C64 Direct-to-TV]], [[Virtual Console]], [[iOS]] (ZX Spectrum Elite Collection)
+}}
+
+'''''Paradroid''''' is a [[Commodore 64]] [[video game|computer game]] written by [[Andrew Braybrook]] and published by [[Hewson Consultants]] in [[1985 in video gaming|1985]]. It is a [[shoot 'em up]] with [[Puzzle video game|puzzle]] elements and was critically praised at release.<ref>{{Cite web|url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=007&page=124&magazine=zzap|title=View a Scan|website=www.zzap64.co.uk|language=en|access-date=2018-09-09}}</ref> The objective is to clear a fleet of spaceships of hostile robots by destroying them or taking them over via a mini-game. It was later remade as ''Paradroid 90'' for the Commodore [[Amiga]] and [[Atari ST]] home computers<ref name="diary2">{{citation | url=http://amr.abime.net/review_26661 | title=From start to finish: The diary of a game | journal=Amiga Action}}</ref> and as Paradroid 2000 for the [[Acorn Archimedes]]. There exist several [[fan-made]] [[Remake (computing)|remakes]] for modern PCs. In 2004 the Commodore 64 version was re-released as a built-in game on the [[C64 Direct-to-TV]],<ref>{{cite web|url=http://pepm.bluedomino.com/c64dtvsupport.htm#games |title=Games on the C64DTV}}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref> and in 2008 for the [[Wii]] [[Virtual Console]] in Europe.<ref>{{cite web|url=http://www.nintendolife.com/reviews/2008/05/paradroid_virtual_console |accessdate=2014-06-19|title=C64 Nintendolife ''Paradroid'' Review|date=22 May 2008}}</ref>
+
+==Gameplay==
+[[Image:C64 Paradroid.png|thumb|320px|left|Paradroid on the [[Commodore 64|C64]]. Player controls the "139" droid.]]
+Enemy forces have hijacked a space fleet by turning its robot consignment against the crew; the job is to neutralize all the robots, thereby rescuing the humans. The players control a prototype influence device that allows them to control the hostile robots.<ref>{{cite web|url=http://www.c64-wiki.com/index.php/Paradroid/Briefing |accessdate=19 June 2014|title=C64 Wiki Paradroid Briefing}}</ref>
+
+The game is set on a spaceship viewed from a top-down perspective. The ship consists of numerous rooms and levels, each one populated by hostile [[robot]]s or "[[android (robot)|androids]]". The player, in control of a special droid called the "Influence Device", must destroy all the other droids on the ship. Each droid (including the player) is represented as a circle around a three-digit number. The numbers roughly correspond to the droid's "power" or "level", in that higher-numbered droids are tougher to destroy;<ref name="zzap64review">{{cite journal|title=Review: Paradroid (C64)|journal=Zzap!64|date=November 1985|issue=7|pages=120–124|url=http://www.zzap64.co.uk/cgi-bin/displayreview.pl?reviewid=60|accessdate=2014-06-23|publisher=[[Newsfield|Newsfield Publications Ltd]]}}</ref> there are 24 droid types.{{r|info198601}}
+
+The Influence Device is numbered "001". The primary way in which the Influence Device destroys other droids is by "linking" with them, effectively taking them over. When the player takes over another droid, the previously controlled droid is destroyed.
+
+Taking over a droid is done via a mini-game involving basic [[circuit diagram]]s and [[logic gate]]s. Each droid has one side of the screen, with a series of logic gates and circuits connected together. The droids have a number of "power supplies" that can apply power to one circuit. Higher-numbered droids have more power supplies. At the end of a short time period, the droid supplying the most power to the circuit "wins". The logic gates are the key to allowing lower-numbered droids to beat higher-numbered droids. There is also a strategy in timing when power is applied to a circuit (as two supplies of power to the same circuit result in the later supplier of power gaining control of the circuit).<ref name="zzap64review"/> It is possible for the transfer game to end in a draw. If this occurs a replay will take place.<ref>{{Cite web|url=http://uridiumauthor.blogspot.com/2017/04/the-paradroid-transfer-game.html?view=flipcard|title = The Paradroid Transfer Game}}</ref>
+
+In either case, the droid being controlled by the player is destroyed. If the player beats the droid in this mini-game, they take control of that droid. If not, either the droid is destroyed and the player returned to the game as just the Influence Device (if they were previously controlling a different droid), or the player is killed, ending the game, if they were not already controlling another droid before the takeover attempt.
+
+While in control of another droid, the player effectively acts as that droid, meaning the player has access to that droid's maneuverability, armor, weapons and "power supplies" (used during the droid-control mini-game). If the droid has weapons, the player can destroy other droids by shooting them instead of taking them over, though higher-numbered droids can require several shots to destroy and might fire back. The player has control of a droid only for a limited amount of time (which is inversely proportional to the droid's number). If that time elapses, the controlled droid self-destructs and the player reverts to the Influence Device (001).
+
+The spaceship has 20 decks, each with many rooms; the game has more than 400 screens.{{r|info198601}} Doors and elevators connect the rooms and the decks. Only droids in the player's line of sight are visible, although doors being operated by out-of-sight droids can be seen moving. Many rooms have computer terminals that provide access to maps of the current deck and the entire ship as well as droid information. Each droid can access information about itself and all lower-numbered droids (this access is available to the player based on the droid being controlled).<ref name="rgamer125">{{citation | title=The Making of Paradroid | journal=Retro Gamer | issue=125 | pages=44–49 | date= February 2014 | publisher = [[Imagine Publishing]]}}</ref>
+
+===Goals and challenges===
+As well as achieving a [[high score]], ''Paradroid'' players can aim to completely clear one or more ships of robots and to achieve a successful transfer from the 001 Influence Device to the unstable 999 droid. Despite the instructions referring to a finite fleet, the Commodore 64 game never ends. When clearing the eighth ship called "Itsnotardenuff", the players are just placed back on the ship with higher-ranking droids on each deck.<ref name="rgamer125"/>
+
+==History==
+===Development===
+During the development of the original game, Andrew Braybrook kept a diary that was published in ''[[Zzap!64]]'' magazine, in which he stated:
+
+{{quote|The thing you actually play with are robots shown from above. There's going to be lots of them. If you want to know more about a particular robot what you do is log-on to a computer terminal. From there you can sift through all the robots and get large side view pictures and you can select things to get more information. I've been working hard on it for about four weeks, but I was working on utilities—programs to help make the finished game—for a couple of weeks before that. I always like to do the character set first because it buys time while you're thinking about the rest of it. It's probably the easiest thing that you can do.
+It's not really an arcade adventure—it leans more towards arcade. Gribbly's I wanted to be a non-violent game. All of the zapping and violence that I couldn't get into Gribbly's will be going into this one. Last week we designed the game's 20-deck space-ship, but I'd like to actually build one just to make sure it all works—all the lift shafts tie up and the decks fit together. Maybe I'll try using Lego. Dunno, it might work.
+So far I've got a little robot skating about inside a test deck plan. You can log onto a console, select an option, make an enquiry on the test robot and get a big picture of it. The piccie uses all eight sprites combined (the maximum available on the 64 at any one time). Despite being a view from above, I intend you won't be able to see anything behind a wall. You'll have to go into a room to actually explore it.<ref name="diary">{{citation | url=http://www.zzap64.co.uk/zzap3/para_birth01.html | title = Birth of a Paradroid (Web Archive) | date = July 1985 | journal = Zzap!64 | issue = 3 | pages = 46 | accessdate=2014-06-23}}</ref>}}
+
+The game was influenced by several different computer games and movies, and was built on top of a previous game, "Survive", developed by GEC Marconi.<ref>[[Retro gamer]] magazine, spanish edition (issue 28, page 103)</ref> Author Andrew Braybrook said in a [[Retro Gamer]] interview that the droid-swapping idea came from an arcade game, ''[[Front Line (video game)|Front Line]]'', where the player could enter a tank and had to leave it when it got hit.<ref name="rgamer100">{{citation | title=In the Chair with... Andrew Braybrook | journal=Retro Gamer | issue=100 | pages=79 | date= March 2012 |publisher = [[Imagine Publishing]]}}</ref> In another Retro Gamer feature, Braybrook also stated that the cover of the [[Black Sabbath]] album ''[[Technical Ecstasy]]'' influenced him, where two droids "interfacing" can be observed, along with the corridors of the film ''[[Aliens (film)|Aliens]]''. Development started right after Braybrook finished his previous game ''[[Gribbly's Day Out]]'' and even shared some code with ''Gribbly's''.<ref name="rgamer125"/> Later when Braybrook was working on ''[[Morpheus (1987 video game)|Morpheus]]'' he did another diary for Zzap!64 where he revealed that the then recently released Competition Edition of ''Paradroid'' was 50% faster than the original.<ref name="mental2">[http://www.zzap64.co.uk/zzap24/mental2.html Mental Procreation part 2] - [[Web Archive]] {{cite journal | date = April 1987 | title = Zzap!64 | issue = 24 | pages = 92}}</ref> In the same series he revealed that they had redone the ''Paradroid'' graphics in the new  (''Morpheus'') style,<ref name="mental1">[http://www.zzap64.co.uk/zzap23/mental1.html Mental Procreation part 1] - Web Archive from {{cite journal | date=March 1987 | title = Zzap!64 | issue = 23 | pages = 90}}</ref> which was later released as ''Heavy Metal Paradroid''. Andrew Braybrook did another diary during the development of ''Paradroid 90'' for ''[[Amiga Action]]''.<ref name="diary2"/>
+
+{{Video game reviews
+| CVG = 9/10
+<ref name="cvgreview">{{citation | url = ftp://ftp.worldofspectrum.org/pub/sinclair/magazines/C+VG/Issue049/Pages/CVG04900020.jpg | title = C+VG Paradroid Review (Web Scan) | accessdate = 2014-06-23 | date = November 1985 | journal = C+VG | publisher = [[Future Publishing]] | issue = 49 | pages = 20}}{{Dead link|date=August 2018 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 97%<ref name="zzap64review"/>
+| rev2 = ''[[Amiga Format]]''
+| rev2Score = 88%<ref>{{cite web | url=http://amr.abime.net/review_12022 | title=Amiga Format Paradroid 90 Review (Web Archive) | publisher=Amiga Magazine Rack | date= | accessdate=2014-06-23}} {{cite journal | date=December 1990 | journal = Amiga Format | issue = 17 | pages = 89}}</ref>
+| rev3 = ''[[Info (magazine)|Info]]''
+| rev3Score = {{rating|4.5|5}}{{r|info198601}}
+| award1Pub = Zzap!64
+| award1 = Gold Medal
+| award2Pub = C+VG
+| award2 = Blitz Game
+<ref name="cvgreview"/>
+| award3Pub = C+VG
+| award3 = C+VG Hit
+<ref name="cvgp90">{{cite web | url=http://amr.abime.net/review_12022 | title=C+VG Paradroid 90 Review (Web Scan) | publisher=Amiga Magazine Rack | date= | accessdate=2013-09-29}} {{cite journal | date=April 1990 | journal = C+VG | publisher = [[Future Publishing]] | issue = 105 | pages = 14–15}}</ref>
+}}
+
+===Versions===
+* 1985 – ''Paradroid''
+* 1986 – ''Paradroid Competition Edition'' – Released as a double pack at Christmas with ''[[Uridium]]+'',<ref>{{cite web|url=https://archive.org/stream/commodore-user-magazine-40/Commodore_User_Issue_40_1987_Jan#page/n23/mode/2up |title = Commodore User Uridium + Review (Web Scan)|publisher=The Internet Archive |date= January 1987|accessdate=2014-06-23}} {{cite journal | date=January 1987 | journal = Commodore User | issue = 40 | pages = 24}}</ref> plays faster than the original, mainly due to scroll code enhancements.<ref name="mental2"/>
+* 1987 – ''Heavy Metal Paradroid'' – ''Paradroid'' with [[Morpheus (1987 video game)|''Morpheus'']] style graphics<ref name="mental1"/> (budget release in 1989).<ref name="zzap64review2">{{cite web | url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=49&page=87 | title = Zzap!64 Review - Heavy Metal Edition (Web Scan) | publisher=Def Guide to Zzap!64 | date= | accessdate=2014-06-23}} {{cite journal | date=May 1989 | journal = Zzap!64 | issue = 49 | pages = 87}}</ref>
+* 1990 – ''Paradroid 90'' (Commodore Amiga, Atari ST)
+* 1993 – ''Paradroid 2000'' (Acorn Archimedes)<ref>{{cite web | url=http://www.goodolddays.net/game/id,761/Paradroid+2000.html | publisher=Thegoodolddays.net | title= Archimedes Paradroid 2000}}</ref>
+
+===Reception===
+The game has been heralded as one of the best original games to appear on the Commodore 64, as can be seen when the readers of ''Retro Gamer'' selected it as the best game on the platform:
+{{quote|Andrew Braybrook's ''Paradroid'' is a masterpiece, there's no other way to describe its sheer brilliance.<ref name="rgamer96">{{citation | title=Top 25 Commodore 64 Games of All Time | journal=Retro Gamer | issue=96 | pages=58–67 | url=http://www.retrogamer.net/top_10/top-ten-commodore-64-games/ | date= November 2011 | publisher = [[Imagine Publishing]] | accessdate=2013-01-11}}</ref>}} In 1993, ''[[Commodore Force]]'' ranked the game at number 14 on its list of the top 100 Commodore 64 games.<ref>{{cite web|title=Top Ton!|url=https://archive.org/stream/zzap64-magazine-101/ZZap_64_Issue_101_Commodore_Force_Issue_11_1993_Autumn#page/n32/mode/1up/|website=Commodore Force|date=Autumn 1993|accessdate=2017-09-03|page=33}}</ref> Also in a 2002 Zzap!64 tribute publication, ''Paradroid'' via a community vote was ranked the best C64 game ever with the comment "there is something about ''Paradroid'' that sets it apart from other C64 games".
+<ref name="ZzapTribute">{{citation | url=http://www.zzap64.co.uk/zzap107/zzap107misc.html | title=Zzap64 Def Guide To... The Best C64 Games Ever! | journal=DEF Tribute to Zzap!64 | issue=107 | pages=10–11 | date= March 2002}}</ref>
+
+When it originally came out it received 97 out of 100 in the ''Zzap!64'' November 1985 issue with the comment "THE classic shoot em up"<ref name="zzap64review"/> and receiving a "Gold Medal" where 98% is the highest score ever given in the magazine,<ref>{{cite web | url=http://www.zzap64.co.uk/zzap100/100thspec5.html | title=Zzap!64 Gold Standard}}</ref> once again 97 out of 100 with the remark "A game no C64 gamer should be without", in 1989 for the re-issued "Heavy Metal" Edition.<ref name="zzap64review2"/> In November 1988 it was selected the second best Shoot 'em up on the C64<ref>{{citation | url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=043&page=106&magazine=zzap | journal=Zzap!64 | title = DEF Guide to Shoot 'em Ups | date=November 1988 | issue=43 | pages=105–108}}</ref> and in December the same year it was selected the third best game by ''Zzap!64'' magazine.<ref>{{citation | url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=044&page=124&magazine=zzap | journal=Zzap!64 | title = The Best and Worst of Six Years of the C64! | date=November 1988 | issue=44 | pages=124}}</ref>
+
+''[[Info (magazine)|Info]]'' rated ''Paradroid'' four-plus stars out of five. Praising how all of the large game fit into the Commodore 64's memory, the magazine concluded that "if you like science fiction, arcade games, inspiring graphics, and intricate gameplay, you will LOVE ''Paradroid''!".<ref name="info198601">{{Cite magazine |date=December 1985 – January 1986 |title=Paradroid |url=https://archive.org/stream/info-magazine-09/Info_Issue_09_1985_Dec-Jan_1986#page/n47/mode/2up |magazine=Info |pages=45–46 |access-date=2019-03-19}}</ref>
+
+''Paradroid 90'' received "C+VG Hit" with a score of 93% in ''Computer and Video Games''<ref name="cvgp90"/> and was ranked the 22nd best game of all time by ''[[Amiga Power]]''.<ref>{{citation | url=http://amr.abime.net/issue_419_pages | title=All-Time Top 100 Games | date=May 1991 | journal = Amiga Power Supplemental | page = 7}}</ref>
+
+==Other clones and games inspired by ''Paradroid''==
+{{anchor|Freedroid}}
+Several [[Freeware]] or [[free and open source software]] [[Video game clone|clones]] of the game have been published:
+* ''Nighthawk'' for [[Linux]].<ref>{{cite book |last=Nguyen |first=Binh |title=Linux Dictionary |url=https://books.google.com/books?id=vdZWBQAAQBAJ |page=1095 |quote=An improved version of ''Paradroid'' - a strategic shoot-em up. You are a droid out to save the universe. To do this, you must do more than simply blasting everything in sight - you have to transfer to better droids in order to conquer more advanced droids, and go through walls to reach parts other droids cannot reach.}}</ref>
+* ''Paradroid'' for [[Windows]] and [[Linux]], current version 1.3 (March 2004),<ref>[http://paradroid.sourceforge.net/ Paradroid] for Linux and Windows version 1.3 (March 2004) at [[SourceForge]]</ref> which garnered favourable reviews at the [[Home of the Underdogs]].<ref>[http://homeoftheunderdogs.net/game.php?id=4055 Home of the Underdogs] &ndash; SDL Paradroid review</ref>
+* ''Freedroid Classic'' for Windows, Linux, [[Mac OS X|OS X]] and [[Sharp Zaurus]], current version 1.0.2 (2004)<ref>[http://www.freedroid.org/information Freedroid Classic] information at the bottom of the page</ref>
+* ''Project Paradroid'' for Windows, current version 2 (2006)<ref>[http://paradroid.ovine.net/index.php Project Paradroid] {{webarchive|url=https://web.archive.org/web/20150325185229/http://paradroid.ovine.net/index.php |date=2015-03-25}} Project home page</ref>
+* ''Paradroid Redux'' is a [[Game engine recreation|reimplementation]] of the original Commodore 64 [[source code|code]], [[Unofficial patch|fixing bugs]] and adding features.<ref>[http://www.sid.fi/~tnt/c64/paradroid/redux.html Paradroid Redux] Project home page</ref>
+* ''Freedroid RPG'' is a [[Diablo (video game)|Diablo]]-style [[role-playing video game]] based on ''Freedroid Classic'', inheriting only the main theme of fighting hostile robots, the takeover-game, and the robot models.<ref>[http://www.freedroid.org/ Freedroid RPG] project home page</ref>
+* ''Urbanoids'' <ref>[http://www.javaonthebrain.com/java/noids/ Urbanoids] game page</ref>
+
+===Quazatron===
+Andrew Braybrook's [[Graftgold]] partner, [[Steve Turner (game programmer)|Steve Turner]], wrote a version of ''Paradroid'' for the ZX Spectrum called ''[[Quazatron]]'' in 1986, also published by Hewson. Gameplay was similar but on an [[Isometric projection|isometric]] playing field, and based in cities rather than spacecraft.
+
+== See also ==
+* [[C64 Direct-to-TV]] (the "30 C64 games in 1 joystick" unit)
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* {{moby game|id=/paradroid}}
+* {{Lemon64 game|id=1888}}
+* {{Lemon64 game|id=3066}} (Heavy Metal Paradroid)
+* [http://www.c64-wiki.com/index.php/Paradroid ''Paradroid''] at the C64 Wiki
+* {{Lemon Amiga game|id=818|name=Paradroid 90}}
+* [http://www.zzap64.co.uk/zzap3/para_birth01.html Birth of a Paradroid] &ndash; the original diary of the making of the game by Andrew Braybrook
+* [http://www.c64-longplays.de/downloads.html#P Longplay (Video)] at [http://www.c64-longplays.de/ www.c64-longplays.de]
+* [https://archive.org/download/C64GVA230-Paradroid/C64GVA230-Paradroid.ogv Longplay (Video)] at [https://archive.org/details/C64GVA230-Paradroid www.archive.org/details/C64GVA230-Paradroid]
+* [https://conceptalpha.co.uk/category/devblog/paradroidremake ''Paradroid Remake in progress'']
+
+[[Category:1985 video games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Graftgold games]]
+[[Category:Hewson Consultants games]]
+[[Category:IOS games]]
+[[Category:Shoot 'em ups]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Virtual Console games]]

@@ -1,0 +1,73 @@
+Sprint 2
+Permalink: //en.wikipedia.org/w/index.php?title=Sprint_2&oldid=1229052152
+Accessed on: 2024-06-26T16:47:39.290464
+
+
+
+------
+Sprint 2
+{{short description|1976 arcade game}}
+{{Infobox video game
+|title = Sprint 2
+|image = Musée Mécanique 185.JPG
+|developer = [[Kee Games]]
+|publisher = {{vgrelease|NA/EU|Kee Games<ref name="Germany">{{cite web |title=Video Game Flyers: Sprint 2, Kee Games (Germany) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=6095 |website=The Arcade Flyer Archive |access-date=24 May 2021}}</ref>|JP|[[Namco]]<ref name="MAD">{{cite web |title=スプリント2中村製作所販売 |trans-title=Sprint 2 Nakamura Seisakusho Sales |url=https://mediaarts-db.bunka.go.jp/id/M732648 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=24 May 2021}}</ref>}}
+|designer = Dennis Koble & [[Lyle Rains]]
+|release = {{vgrelease|NA|November 2, 1976|EU|Late 1976<ref name="Germany"/>|JP|June 1977<ref name="MAD"/>}}
+|genre = [[Racing video game|Racing]]
+|platforms=[[Arcade game|Arcade]]
+|modes = [[Single-player video game|One-player]] or [[Multiplayer video game|two-player]] game
+}}
+
+'''''Sprint 2''''' is a two player overhead-view [[arcade game|arcade]] [[racing video game]] released in 1976 by [[Kee Games]],<ref name="klov">{{cite web | title = Sprint 2 Killer List of Video Games Entry | url=http://www.klov.com/game_detail.php?game_id=9739 | access-date = 2007-08-21}}</ref> a wholly owned subsidiary of [[Atari]], and distributed by [[Namco]] in Japan.<ref name="MAD"/> While earlier driving games had computer-controlled cars that moved along a "canned predetermined" course, ''Sprint 2'' "introduced the concept of a computer car that had the [[Artificial intelligence (video games)|intelligence]] to drive itself around the track" in "a semi-intelligent" manner.<ref>{{cite magazine |title=An Interview with Dan Van Elderen |magazine=[[Next Generation (magazine)|Next Generation]]|issue=35 |publisher=[[Imagine Media]] |date=November 1997|page=81|url=https://archive.org/details/NextGeneration35Nov1997/page/n82}}</ref>
+
+==Development==
+The team that developed ''Sprint 2'' consisted of Dennis Koble, Howard Delman, and Dan Van Elderen and [[Lyle Rains]]. Both Koble and Rains do not recall who came up with the idea for the game. Rains would recall in an interview with ''[[Retro Gamer]]'' that the game was likely from Atari who wanted to release a new and improved driving game, as ''[[Gran Trak 10]]'', ''Gran Trak 20'', ''[[Indy 800]]'' and ''[[LeMans (video game)|LeMans]]'' games were moneymakers for Atari and its customers.{{sfn|Jones|2011|p=38}} 
+
+The game was one of Atari's first mass-produced [[microprocessor]] based games. Rains recalled that this allowed them to make the game faster and more exciting than earlier racing games. Koble said that he had to immerse himself in [[MOS Technology 6502|6502]] programming for the game.{{sfn|Jones|2011|p=38}} ''Sprint 2'' was designed to be an update of the previous games, leading the team to remove unwanted features, such as driving in reverse from ''Gran Trak 20'' as well as removing a brake pedal as stepping off the accelerator pedal was the equivalent of a brake. Other features remained such as the timer, with Rains stating that it had not occurred to the team to base the game around laps over a timer.{{sfn|Jones|2011|p=38}}
+
+''Sprint 2'' is a first racing game that introduced the concept of a computer-controlled car that had the intelligence to drive itself around the track without a canned predetermined course based on how well the player was doing.{{sfn|Charla|1997|p=81}} Rains stated that this was his idea. To do so, he created a map of vectors to tell the computer-controlled cars which way they should drive. They would align themselves to the current vector and drive themselves around the track in a non-repeating path.{{sfn|Jones|2011|p=39}} Koble created the graphics for the game, stating that the artists employed by Atari at the time were only making side panel and control panel artwork and were not involved with the game's creation.{{sfn|Jones|2011|p=39}}
+
+==Reception==
+In the United States, ''Sprint 2'' was the second highest-earning [[1977 in video games|arcade video game of 1977]], below ''[[Sea Wolf (video game)|Sea Wolf]]''.<ref>{{cite journal |title=Top Arcade Games |journal=[[Play Meter]] |date=November 1977}}</ref><ref>{{cite journal |title=Profit Chart |journal=RePlay |date=November 1977}}</ref> It was also second highest-earning [[1978 in video games|arcade video game of 1978]], below ''[[Space Wars]]'', along with ''Sprint 1'' in third place.<ref name="Replay">{{cite journal |title=Video Games |journal=RePlay |date=November 1978}}</ref> ''Sprint 2'' was later the third highest-earning [[1979 in video games|arcade video game of 1979]], below ''[[Space Invaders]]'' and ''[[Atari Football]]''.<ref>{{cite journal |title=Video Games |journal=RePlay |date=November 1979}}</ref>
+
+The game was a commercial success for Namco in Japan, where ''Sprint 2'' was the seventh highest-earning arcade video game of 1977. It was also among the year's top four highest-earning racing video games, below [[Taito]]'s ''[[Speed Race|Speed Race DX]]'' and ''[[List of Taito games|Road Champion]]'', and tied with Taito's ''[[List of Taito games|Super High-Way]]''.<ref name="GM90">{{cite magazine|title=結果ベスト3|trans-title=Best 3 Results |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=90|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1978|pages=2–3|lang=ja|url=https://onitama.tv/gamemachine/pdf/19780215p.pdf#page=2}}</ref>
+
+==Legacy==
+''Sprint 2'' was the first in a long series of games, some of which bore its name into the 1980s:
+* ''Sprint 4'' and ''Sprint 8'', a 4 player and 8 player version respectively, were released in 1977. Both were full color raster versions of the game.
+* ''Sprint 1'' was released in 1978. The "1" and "2" designations reflect the number of players, rather than indicating it was a prequel.
+* ''[[Super Sprint]]'', a 3 player version with updated graphics, was released by [[Atari Games]] in 1986.
+* ''Championship Sprint'', a 2 player version of ''Super Sprint'', was released by Atari Games in 1986.
+* ''[[Badlands (video game)|Badlands]]'', a 2 player post-apocalyptic setting update of ''Championship Sprint'', was released in 1989.
+
+''Sprint 2'' was one of the first Atari products to feature the now well-known "Atari arcade font" (first introduced in the [[Quiz Show (video game)|''Quiz Show'']]).<ref>{{cite web |url=https://www.youtube.com/watch?v=C5NiAoT3xsY |archive-url=https://ghostarchive.org/varchive/youtube/20211221/C5NiAoT3xsY |archive-date=2021-12-21 |url-status=live|title=The 8-bit arcade font, deconstructed |work=Vox |publisher=YouTube |date=April 6, 2020}}{{cbignore}}</ref>
+
+In 2016 a reverse engineered version to [[JavaScript]] became available.<ref>[http://hackaday.com/2016/04/28/forty-year-old-arcade-game-reveals-secrets-of-robot-path-planning/ Forty-Year-Old Arcade Game Reveals Secrets of Robot Path Planning] on hackaday.com by Dan Maloney (April 28, 2016)</ref>
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite magazine|magazine=[[Retro Gamer]]|title=The Making of... Sprint 2|issue=89|year=2011|editor-last=Jones|editor-first=Darran|publisher=Imagine Publishing|ISSN=1742-3155}}
+* {{cite magazine|magazine=[[Next Generation (magazine)|Next Generation]]|title=An Interview with Dan Van Elderen|date=November 1997|editor-last=Charla|editor-first=Chris|publisher=Imagine Publishing|ISSN=1078-9693}}
+
+{{1970s Atari arcade games}}
+
+== External links ==
+* [https://web.archive.org/web/20100203075124/http://www.gamespy.com/ Commentary from GameSpy]
+* [http://www.thelogbook.com/phosphor/1970s/ Commentary from Phosphor Dot Fossils]
+* {{KLOV game|id=9739}}
+* [http://www.arcadeflyers.net/?page=flyerdb&subpage=thumbs&id=1061 Entry] at the Arcade Flyer Archive
+* [http://www.arcadestuff.com/games/gameinfo.php?view=general&game=sprint2 ''Sprint 2'']{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes}} at ArcadeStuff
+* [http://www.gamefaqs.com/coinop/arcade/data/583939.html ''Sprint 2''] at GameFAQs
+
+[[Category:1976 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Atari arcade games]]
+[[Category:North America-exclusive video games]]
+[[Category:Top-down racing video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Kee Games games]]

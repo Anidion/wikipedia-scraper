@@ -1,0 +1,122 @@
+The Duel: Test Drive II
+Permalink: //en.wikipedia.org/w/index.php?title=The_Duel%3A_Test_Drive_II&oldid=1228030269
+Accessed on: 2024-06-26T17:06:16.408755
+
+
+
+------
+The Duel: Test Drive II
+{{Short description|1989 video game by Distinctive Software}}
+{{More citations needed|date=October 2021}}
+{{Infobox video game
+| title = The Duel: Test Drive II
+| image = The Duel Test Drive II cover.jpg
+| caption = Cover art for PC versions which feature the [[Ferrari F40|1989 Ferrari F40]] (top) and the [[Porsche 959|1989 Porsche 959]] (bottom)
+| developer = [[Distinctive Software]]
+| publisher = [[Accolade (company)|Accolade]]
+| series = ''[[Test Drive (series)|Test Drive]]''
+| designer = [[Don Mattrick]]<br />Amory Wong
+| producer = [[Shelley Day]]
+| programmer = Kris Hatlelid<br />Kevin Pickell<br />Hanno Lemke
+| artist = John Boechler<br />Theresa Henry
+| composer = Kris Hatlelid
+| platforms = [[Amiga]], [[Amstrad CPC]], [[Apple IIGS]], [[Commodore 64]], [[MS-DOS]], [[MSX]], [[ZX Spectrum]], [[Atari ST]], [[Sega Genesis]], [[Super Nintendo Entertainment System|SNES]]
+| released = {{vgrelease|NA|1989|EU|1989}}'''Atari ST'''{{vgrelease|EU|1990}}'''Sega Genesis'''{{vgrelease|NA|1992|EU|1992}}'''SNES'''{{vgrelease|NA|December 1992|EU|March 1993}}
+| genre = [[Racing video game|Racing]]
+| modes = [[Single-player video game|Single-player]]
+}}
+[[File:Test Drive II (Amiga).jpg|thumb|Commodore Amiga floppy disk]]
+'''''The Duel: Test Drive II''''' is a 1989 [[racing video game]] developed by [[Distinctive Software]] and published by [[Accolade (company)|Accolade]] for [[Amiga]], [[Amstrad CPC]], [[Apple IIGS]], [[Commodore 64]], [[MS-DOS]], [[MSX]], [[ZX Spectrum]], [[Atari ST]], [[Sega Genesis]] and [[Super Nintendo Entertainment System|SNES]].
+
+==Gameplay==
+Like the original ''[[Test Drive (1987 video game)|Test Drive]]'', the focus of ''The Duel'' is driving exotic cars through dangerous highways, evading traffic, and trying to escape [[police]] pursuits. While the first game in the series had the player simply racing for time in a single scenario, ''Test Drive II'' improves upon its predecessor by introducing varied scenery, and giving the player the option of racing against the clock or competing against a computer-controlled opponent.
+
+The player initially is given the opportunity to choose a car to drive and a level of difficulty, which in turn determines whether the car will use an [[automatic transmission|automatic]] or [[manual transmission]]—the number of difficulty options varies between gaming platforms. [[Level (computer and video games)|Level]]s begin with the player's car (and the computer opponent, if selected) idling on a roadway. Primarily these are two to four lane public [[highway]]s with many turns; each level is different, and they include obstacles such as bridges, cliffs, and tunnels in addition to the other cars already on the road. Each level also has one or more police cars along the course.<ref>''The Duel: Test Drive II'' manual</ref>
+
+The goal of each level is to reach the gas station at the end of the course in the least amount of time. Stopping at the gas station is not mandatory, and one could drive past it if inattentive. The consequence of not stopping is running out of gas, and thus losing a car (life). The player begins the game with five lives, one of which is lost each time the player crashes into something. The player is awarded a bonus life for completing a level without crashing or running out of gas. In addition to losing a life, crashing adds thirty seconds to the player's time. Cars could crash into other traffic or off-road obstacles such as trees or by falling off the cliff on one of the mountain levels. They could also sustain too much damage by staying off the roadway for too long on the flatland levels. Players could also lose a life when using a manual transmission by [[redline|redlining]] and consequently blowing the [[internal combustion engine|engine]]. Crashing into a police car instantly ends the game, regardless of the number of lives the player has left.
+
+Police cars appear in every level, and if the player is driving faster than the speed limit when encountering one of them, the police car will follow in pursuit. If at any point while being pursued the police car is able to pass the player's car, the player is forced to pull over and receives a [[traffic ticket|ticket]] stating the offense and the speed of the vehicle. While this does not cost the player a life, it does take away valuable time. Players can avoid being pursued by police by slowing down before encountering them, anticipating them through the aid of a [[radar detector]], which comes standard in all vehicles in the game.
+
+===Vehicles===
+In the standard version of ''Test Drive II'', the player has the option of using one of two vehicles (three in the 1992 console versions of the game). These vehicles are presented at the beginning of the game with technical specifications, including top speed, [[torque]], and [[acceleration]] rates. The cars included a [[Porsche 959]] and a [[Ferrari F40]]. The third car is a [[Lamborghini Diablo]], only available in the console versions.
+
+===Courses===
+====Computer versions====
+The computer versions of the game provided one course, referred to by the game as "Master Scenery", consisting of several stages. Each stage had one of three possible locations: a desert, with cacti along the side of the road; a mountain, with a sheer rock wall on one side of the highway and a cliff on the other, and occasionally a tunnel through the mountain; and a grassy area with trees.
+
+====Console versions====
+There are four available courses in the console versions of the game, each of varying length and difficulty. Each is a route on a public highway in a different part of the continental [[United States]]. The courses included are:
+*'''"Desert Blast (Easy)"''' - seemingly takes place somewhere in the [[Southwestern United States|US Southwest]].
+*'''"City Bound (Medium)"''' - it is not entirely clear where this takes place, but in various parts of the course, [[Mount Rushmore]] can be seen, so the course is likely to take place in the [[Midwestern United States|US Midwest]].
+*'''"East Coast (Hard)"''' - takes place in the eastern U.S., with the last section of the course including a view of the [[New England]] coast.
+*'''"West Coast (Hardest)"''' - takes place in the [[West Coast of the United States|US West Coast]], and is the longest and most difficult course in the game. The [[Seattle]] skyline and [[Space Needle]] can be seen in the beginning parts of the course.
+
+The game can technically be "won" if the players are not stopped by the law, at which point an animated female police officer and the player character smile at each other. If the player is apprehended by law enforcement for various infractions, including evasion of police, on any course, the end sequence shows the same female police officer placing the player under arrest. It's virtually impossible to complete any given course without a police confrontation at the end of the game, due to the fact that the players must maintain high speeds to evade police cars on the highways.
+
+==Development, release, and lawsuit==
+According to the ''Accolade v. Distinctive'' lawsuit, Distinctive Software developed several [[Library (computing)|software libraries]] for ''Test Drive II''. The studio argued that it had only used [[source code]] that did routine functions, such as clearing the [[Cathode ray tube|video screen]], and that publisher Accolade did not own a [[copyright]] on those functions. Accolade argued that their contract for ''Test Drive II'' gave them the ownership and copyright of the final product—the game—and the source code used to create it. Distinctive (as Unlimited Software, Inc.) used the software libraries they created for ''Test Drive II'' for a [[MS-DOS]] port of ''[[Outrun]]'', resulting in the aforementioned lawsuit. Distinctive Software won, so the rights to make the ''Test Drive'' games without the source code transferred to Accolade. The court also found that Accolade had failed to demonstrate that the balance of hardships was in its favor.<ref>{{cite web |url=http://www.patentarcade.com/2005/05/case-accolade-v-distinctive-ndcal-1990.html|title=Case: Accolade v. Distinctive (N.D.Cal. 1990) [C]|author=Dannenberg, Ross|date=May 30, 2005|website=Patent Arcade|access-date=September 26, 2019}}</ref>
+
+For non-[[video game console|console]] versions, Accolade later released two [[expansion pack|data disks]], which included more playable cars. These were released on many platforms:
+* ''The Supercars'' car disk included five cars similar to those in [[Test Drive (1987 video game)|the previous game in the series]], most of them in newer and faster versions, a [[Lotus Esprit|Lotus Turbo Esprit]], [[Ferrari Testarossa]], [[Ruf CTR|Ruf Twin Turbo]], [[Lamborghini Countach]] and a [[Chevrolet Corvette (C4)|Corvette ZR1]].
+* ''The Muscle Cars'' car disk included five [[muscle car]]s from the 1960s: a [[Chevrolet Corvette (C2)|1963 Corvette Stingray]], [[Chevrolet Camaro (first generation)|1969 Camaro ZL-1 COPO]], [[Shelby Mustang|1968 Mustang Shelby GT500]], [[Pontiac GTO|1967 Pontiac GTO]] and a [[Dodge Charger Daytona|1969 Dodge Charger Daytona]]. The expansion did not change the police cars as well, however, so the player had practically no chance of outrunning a police car when caught speeding.
+
+Later, two "scenery disks" were released, each containing an additional course:
+* ''California Challenge'', which included seven stages, each representing a section of a southbound crossing of the state of [[California]].
+* ''European Challenge'', which allowed players to travel through six different European countries: [[Netherlands|the Netherlands]], [[Germany]], [[Switzerland]], [[Italy]], [[France]], and [[Spain]].
+
+==Reception==
+{{Video game reviews
+| CRASH = 76%<ref>{{Cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue73/Pages/Crash7300044.jpg|title = Crash}}</ref>
+| YSinclair = 52%<ref>{{cite web |url=http://www.ysrnry.co.uk/articles/testdrive2.htm |title=Archived copy |access-date=2016-04-12 |url-status=dead |archive-url=https://web.archive.org/web/20160412010347/http://www.ysrnry.co.uk/articles/testdrive2.htm |archive-date=2016-04-12 }}</ref>
+| rev1 = ''MicroHobby'' (ES)
+| rev1Score = 76%<ref>{{Cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue197/Pages/MicroHobby19700030.jpg|title = MicroHobby}}</ref>
+| rev2 = Power Play
+| rev2Score = 73%<ref>http://www.kultboy.com/gfx/pp/testberichte/1/testdrive2_amiga.jpg {{Bare URL image|date=March 2022}}</ref>|
+| GR = 59.67% (SNES)<ref>{{cite web|url=https://www.gamerankings.com/snes/588785-test-drive-ii-the-duel/index.html|title=Test Drive II: The Duel SNES Review Score|archive-url=https://web.archive.org/web/20190219215328/https://www.gamerankings.com/snes/588785-test-drive-ii-the-duel/index.html|archive-date=2019-02-19}}</ref><br />35% (Genesis)<ref>{{cite web|url=https://www.gamerankings.com/genesis/586532-test-drive-ii-the-duel/index.html|title=Test Drive II: The Duel Genesis Review Score|archive-url=https://web.archive.org/web/20190516152034/https://www.gamerankings.com/genesis/586532-test-drive-ii-the-duel/index.html|archive-date=2019-05-16}}</ref>
+}}
+''[[Computer Gaming World]]'' stated that those who liked ''Test Drive'' would like this version more, but that those who did not like the predecessor's steering system should avoid it.{{r|lee198904}} ''[[Compute!]]'' favorably reviewed the game's realism, especially with a joystick, but stated that installation was overly difficult and frustrating.<ref name="mclean198908">{{cite news | url=https://archive.org/stream/1989-08-compute-magazine/Compute_Issue_111_1989_Aug#page/n67/mode/2up | title=The Duel: Test Drive II | work=Compute! | date=August 1989 | access-date=11 November 2013 | author=McLean, Mickey | pages=66}}</ref> Super Gamer magazine reviewed the SNES version and gave an overall score of 85% writing: "In truth not all that stunning to look at, but the realistic setting, four American highways with police, tunnels and oncoming traffic!"<ref>{{Cite journal|date=May 1994|title=The Duel: Test Drive II|url=https://archive.org/details/super-gamer-02/page/122/mode/2up|journal=Super Gamer|location=[[United Kingdom]]|publisher=[[Paragon Publishing]]|issue=2|pages=123|access-date=March 14, 2021}}</ref>
+
+The game sold 250,000 units.<ref>{{cite web|first=Burnaby|last=B.C|url=https://www.newspapers.com/clip/89676520/edmonton-journal/|title=Investment in home computer helped turn teen into a tycoon|newspaper=[[Edmonton Journal]]|page=10|date=June 24, 1991|accessdate=November 28, 2021|via=[[Newspapers.com]]}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="lee198904">{{cite news | title=Computer Cavalcade of Sports | magazine=Computer Gaming World | date=April 1989 | author=Lee, Wyatt | pages=32}}</ref>
+}}
+
+==External links==
+*{{moby game|id=/duel-test-drive-ii}}
+*{{moby game|id=/supercars-test-drive-ii-car-disk|name=''The Supercars'' car disk}}
+*{{moby game|id=/duel-test-drive-ii-car-disk-the-muscle-cars|name=''Musclecars'' car disk}}
+*{{moby game|id=/test-drive-ii-scenery-disk-california-challenge|name=''California Challenge'' scenery disk}}
+*{{moby game|id=/european-challenge|name=''European Challenge'' scenery disk}}
+*{{abime|id=1350}}
+
+{{Test Drive}}
+{{Authority control}}
+
+{{DEFAULTSORT:Duel: Test Drive II, The}}
+[[Category:Test Drive|2: The Duel]]
+[[Category:1989 video games]]
+[[Category:Accolade (company) games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:MSX games]]
+[[Category:Racing video games]]
+[[Category:Racing video games set in the United States]]
+[[Category:Sports video games set in Italy]]
+[[Category:Sega Genesis games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in Canada]]
+[[Category:Video games set in France]]
+[[Category:Video games set in Germany]]
+[[Category:Video games set in the Netherlands]]
+[[Category:Video games set in Switzerland]]
+[[Category:Video games with expansion packs]]
+[[Category:ZX Spectrum games]]
+[[Category:Distinctive Software games]]
+[[Category:Single-player video games]]

@@ -1,0 +1,101 @@
+Bloodwych
+Permalink: //en.wikipedia.org/w/index.php?title=Bloodwych&oldid=1220358414
+Accessed on: 2024-06-26T17:05:46.997414
+
+
+
+------
+Bloodwych
+{{Short description|1989 RPG video game}}
+{{redirect-distinguish|Hexx|The Hexx|Hex (disambiguation){{!}}Hex}}
+{{Infobox video game
+|title = Bloodwych
+|image = bloodwychinlay.jpg
+|developer = Anthony Taglione<br>Pete James<br>Philip Taglione<ref>{{cite web |last1=Barton |first1=Matt |title=The History of Computer Role-Playing Games Part 2: The Golden Age(1985-1993) |url=http://www.gamasutra.com/features/20070223b/barton_pfv.htm |website=[[Gamasutra]] |publisher=[[UBM Technology Group]] |access-date=January 20, 2019 |archive-url=https://web.archive.org/web/20070302213325/http://www.gamasutra.com/features/20070223b/barton_pfv.htm |archive-date=March 2, 2007 |date=February 23, 2007}}</ref>
+|publisher = {{vgrelease|EU|[[Image Works]]|NA|[[Konami]]}}
+|series = 
+|platforms = [[Atari ST]], [[Amiga]], [[ZX Spectrum]], [[Amstrad CPC]], [[Commodore 64]], [[MS-DOS]]
+|released = {{vgrelease|EU|[[1989 in video gaming|1989]]|NA|[[1991 in video gaming|1991]]}}
+|genre = [[Role-playing video game|Role-playing]]
+|modes = [[Single player|Single-player]]<br>[[Multiplayer video game|Multiplayer]]
+}}
+'''''Bloodwych''''' is a dungeon [[role-playing video game]], a [[dungeon crawler]], developed for the [[Amiga]], [[Atari ST]], [[MS-DOS]], [[Amstrad CPC]], [[Commodore 64]], and [[ZX Spectrum]]. Its box featured artwork by [[Chris Achilleos]]. The plotline identifies the player as a champion of Trazere who, after recruiting up to three fellow champions, travels through dungeons and mazes fighting creatures along the way to find and destroy the evil Zendick, and banish the Lord of Entropy.
+
+==Development==
+The development of Bloodwych has been well documented by Richard Hewison, who was the Project Manager for the game at the time at Mirrorsoft, in his article titled "The Trazere Trinity".<ref name="Trinity">{{cite web |url=http://www.ultimateamiga.co.uk/HostedProjects/GamesCorner/TheCryptOfBloodwych/Documentation/trazere-trinity-2008.rtf |title=The Trazere Trinity |last=Hewison |first=Richard |date=January 2008 |website=The Crypt of Bloodwych |access-date=2020-03-26}}</ref>
+
+Bloodwych began development on the Commodore 64, during Anthony Taglione's (Tag) time at university in Reading, where he had gained a keen interest in Dungeons & Dragons, and where friend (and eventual Bloodwych artist and designer) Pete James drew initial screens for a first person 'chess-like' game.
+
+After further inspiration from playing [[FTL_Games|FTL]]'s [[Dungeon_Master_(video_game)|Dungeon Master]], Tag, Pete and Philip Taglione's suggested a C64 version of the game to Microsoft, but without rights being obtained this developed into a two-player split screen game titled ''The Crystal Maze'' which would eventually be renamed to ''Bloodwych'' after the launch of the Channel 4 television programme [[The_Crystal_Maze|of the same name]].
+
+The development screens were demonstrated to Mirrorsoft, who agreed to fund the game on the basis of lead versions being pushed to the 16-bit platforms the Atari ST and Commodore Amiga. Tag took the lead on these 68000 machines, whilst his brother Philip developed the z80 8-bit versions for the Amstrad and ZX Spectrum, and the C64 version followed with help from Tag.
+
+Renowned fantasy artist [[Chris Achilleos]] was approached to create the box artwork; his painting of a “crystal guardian” for Bloodwych was done with complete creative freedom, and having finished the painting, the creature that Achilleos created was then incorporated into the game itself as The Lord of Entropy (later referred to in documentation as 'The Entity') located in the final level of Zendik’s tower.
+
+The IBM PC conversion was created away from the original team by Walking Circles, and although including in-game music by [[David_Whittaker_(video_game_composer)|David Whittaker]] also included a number of bugs, which could render the game unable to be completed.
+
+==Gameplay==
+[[Image:Bloodwych in-game screenshot (MS-DOS).png|thumb|left|Two-player cooperative mode (MS-DOS version).]]
+All of the champions fall into the four classes of Warrior, Mage, Adventurer or Thief (referred to as 'cutpurse' in game), each with their own particular capability. Within each class there are four characters available, each with their own colour of Red, Blue, Green or Yellow representing a magical alignment. These colours act as a consistent theme during the game; to the characters they have their own particular advantage, largely with respect to the families of spells the character will be most adept at casting and developing; The green spells are determined for the 'Serpent' (representing the physical), the blue spells are determined for the 'Moon' (representing mind and illusion), the red spells for the 'Dragon' (for fire and energy) and the yellow spells for 'Chaos' (affecting magic itself and entropy.)
+
+The four of the Towers navigated by the characters, and the Crystals which are required to be collected from each are also within this theme, and the colours are also important when it comes to matching up coloured wands later in the game to magnify the effects of spell-casting. Other objects such as rings (which allow 'free' spell casting) and certain weapons also align with these colours. 
+
+One particularly memorable quirk of the game is the ability granted to players to hold simple conversations with traders, other champions, and even enemies during combat. Stock pseudo-medieval phrases such as "Truly my courage is remarkable" and "Begone, thou oaf" are selected using a menu, and can be used in combination to flatter a desired companion, aggravate an enemy, or lower the price of an item which the player wishes to purchase. Many gameplayers have found that the price of a long sword (RRP 10 gold pieces) can fall to as little as 6 or 7 after the shopkeeper has been flattered with phrases such as "Thou seems fine" - particularly when this strategy is used in conjunction with the Beguile spell (a blue/moon spell, most effectively cast by Megrim).
+
+==Demonstration Level==
+A modified map for the first level of the game was produced as a demonstration level, and featured on the coverdisk of Issue 1 of the [[ST_Format|ST Format magazine]].
+
+==Expansion==
+The game had an add-on pack released called ''Bloodwych: Data Disks Vol 1'' for the Atari ST and Commodore Amiga (also known as ''Bloodwych: The Extended Levels''). Among the features of the add-on pack was the capability to persuade some of the enemy creatures to join your "merry band". The expansion required players to import a saved game from the original Bloodwych. The Data Disk also featured stronger opponents than before,  the recommended experience level for the imported adventurers was level 14. If the imported characters’ experience were below that level, their experience progress would be temporarily accelerated. The release also included a free ‘hints & tips’ booklet for the original dungeons to help players get their teams to the end of the original game prior to import.
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[CU Amiga]]''
+| rev1Score = 86%<ref name="cuareview">CU Amiga-64 issue October 1989, pg. 52/53.</ref>
+| rev2 = ''[[Génération 4]]''
+| rev2Score = 93%<ref name="g4review">Génération 4 - issue 15 October 1989, pg. 42/43.</ref>
+| rev3 = ''[[Amiga Power]]''
+| rev3Score = 85%<ref name="apreview">Amiga Power- issue 9 - January 1992, pg. 105.</ref>
+| award1Pub = ''Sinclair User''
+| award1 = SU Classic
+| award2Pub = ''Your Sinclair''
+| award2 = Megagame
+| award3Pub = ''Amstrad Action''
+| award3 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 58, July 1990</ref>
+}}
+
+''[[Computer Gaming World]]'' criticized the IBM version's "weak graphics", but concluded that "''Bloodwych'' scores very solidly on game-play and deserves serious consideration from dungeon fanatics".<ref name="greenberg199204">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=93 | title=You Can Take the Bloodwych Out of the Dungeon... | magazine=Computer Gaming World | date=April 1992 | access-date=24 November 2013 | last=Greenberg |first=Allen L. | pages=34–35 |issue=93}}</ref> ''[[CU Amiga|CU Amiga-64]]'' gave the game additionally a CU Screen Star, stating that the game had even more varied gameplay than [[Dungeon Master (video game)|Dungeon Master]]. It also praised that the puzzles could be solved by pure logic.
+
+==Further reading==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' nouvelle formule #2<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-nf-2/page/22/mode/2up | title=Jeux & stratégie NF 2 | date=December 1989 }}</ref>
+
+==''Hexx: Heresy of the Wizard''==
+''Bloodwych'' was followed in 1994 by [[Psygnosis]]' ''Hexx: Heresy of the Wizard'' (working title ''Wizard''). ''Hexx'' was a similar dungeon-navigating game with updated graphics, a slightly modified cast of champions, and a greatly expanded magic system, but no longer featured the grid-based walking system of typical [[Role-playing_video_game#First-person_party-based_RPGs|blobbers]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/bloodwych}}
+*[http://www.alanchapman.org/bloodwych/ ''Bloodwych'' resource guide] {{Webarchive|url=https://web.archive.org/web/20051102041248/http://www.alanchapman.org/bloodwych/ |date=2005-11-02 }}
+*[https://www.ultimateamiga.co.uk/index.php/page,17 The Crypt of ''Bloodwych'' website]
+*[http://bloodwych.co.uk/ The unofficial ''Bloodwych'' website]
+
+{{Authority control}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Dungeon crawler video games]]
+[[Category:Konami games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with expansion packs]]
+[[Category:ZX Spectrum games]]
+[[Category:First-person party-based dungeon crawler video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Image Works games]]
+[[Category:Walking Circles games]]

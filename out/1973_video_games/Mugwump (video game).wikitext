@@ -1,0 +1,49 @@
+Mugwump (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Mugwump_%28video_game%29&oldid=1218804144
+Accessed on: 2024-06-26T16:47:24.393971
+
+
+
+------
+Mugwump (video game)
+{{short description|1973 video game}}
+{{Infobox video game
+| title          = Mugwump
+| developer      = Bud Valenti (and students)<br />[[Bob Albrecht]]
+| publisher      =  
+| image          = Mugwump video game screenshot.jpg
+| caption        = 
+| series         =
+| engine         =
+| released       = April 1973
+| genre          = [[Strategy game]]
+| modes          = [[Single-player]]
+| platforms      = [[BASIC]]
+}}
+
+'''''Mugwump''''' is an early [[video game]] where the user is tasked with finding "Mugwumps" randomly hidden on a 10×10 grid. It is a [[text-based game]] written in [[BASIC]]. It was initially written for the [[PDP-10]] and later [[HP2000]].
+
+== Development ==
+''Mugwump'' was written by [[Bob Albrecht]] of the [[People's Computer Company]] and inspired by a similar program called ''Hide and Seek'' developed for the PDP-10 by students of Bud Valenti from Project SOLO in Pittsburgh, Pennsylvania. A sample run first appeared in the ''People's Computer Company Journal'' Vol. 1 No. 3 in February 1973, and [[source code]] was published in Vol. 1 No. 4 in April. Source code was again published in Vol. 3 No. 1 in September 1974.<ref>[http://www.svipx.com/pcc/gameslist.html The PCC Games List] List of PCC games by Volume</ref> Mugwump was later included in the book ''[[BASIC Computer Games]]''.<ref>[http://www.atariarchives.org/basicgames/showpage.php?page=114 Mugwump Article in BASIC Computer Games (scan)]</ref>
+
+== Gameplay ==
+The user enters a pair of single-digit co-ordinates in the range from 0 to 9 which are the x,y coordinates to scan. If the mugwump is at that location then the user is alerted. Otherwise the user is told the distance from the scanned coordinates to the mugwump. The game ends after ten turns or when the mugwump has been found.
+
+== Legacy ==
+''Mugwump'' led to similar games such as ''Hurkle'' and later ''Snark''. Frustration with grid based games like these led [[Gregory Yob]] to produce ''[[Hunt the Wumpus]]''.
+
+== References ==
+{{Reflist}}
+* [[David H. Ahl|Ahl, David H.]] (Ed.) (1978), ''[[BASIC Computer Games]]''. New York: Workman Publishing. {{ISBN|978-0894800528}}.
+
+== External links ==
+* [http://eturnerx.com/files/mugwumpsolver.html Mugwump play helper in HTML5]
+* [http://eturnerx.blogspot.com/2012/10/arduinolcdmugwump.html Arduino conversion of Mugwump] by Emmanuel Turner
+* [https://github.com/cymonsgames/CymonsGames C source conversion of Mugwump] by Joe Larson on [[github.com]] ([https://web.archive.org/web/20110625071950/http://cymonsgames.com/mugwump/ archived])
+
+{{DEFAULTSORT:Mugwump}}
+[[Category:1973 video games]]
+[[Category:Mainframe games]]
+[[Category:Public-domain software with source code]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with textual graphics]]

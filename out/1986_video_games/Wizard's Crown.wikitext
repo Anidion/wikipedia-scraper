@@ -1,0 +1,87 @@
+Wizard's Crown
+Permalink: //en.wikipedia.org/w/index.php?title=Wizard%27s_Crown&oldid=1224492480
+Accessed on: 2024-06-26T17:01:21.189000
+
+
+
+------
+Wizard's Crown
+{{Infobox video game
+|title        = Wizard's Crown
+|image        = Wizard's Crown Coverart.png
+|caption      = 
+|developer    = [[Strategic Simulations]]
+|publisher    = Strategic Simulations
+|designer     = Paul Murray<br>Keith Brors
+|series       = 
+|engine       = 
+|released     = 1986
+|genre        = [[Role-playing video game|Role-playing]]
+|modes        = [[Single-player]]
+|platforms    = [[Apple II series|Apple II]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]]
+}}
+
+'''''Wizard's Crown''''' is a top-down [[role-playing video game]] published by [[Strategic Simulations]] in 1986.<ref name="Computer Entertainer Volume 4 Number 12">{{cite journal
+|title=Computer Entertainer, March 1986
+|journal=[[Computer Entertainer]]
+|volume=4
+|issue=12
+|pages=11}}</ref><ref>{{cite news|title=SSI Spring 1986 Catalog|url=http://mocagh.org/loadpage.php?getgame=header-ssi|date=1986}}</ref>
+It was released for the [[Atari 8-bit computers]], [[Atari ST]], [[IBM PC compatible]]s, [[Apple II]], and [[Commodore 64]]. A sequel, ''[[The Eternal Dagger]]'', was released in 1987.
+
+==Gameplay==
+[[File:Wizard's_Crown_Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit screenshot]]
+Academic Matt Barton describes ''Wizard's Crown'' as "probably the most hardcore RPG of its time" and "one of the most sophisticated tactical CRPGs ever designed".<ref name=barton>{{cite book|title=Dungeons and Desktops: The History of Computer Role-Playing Games|last=Barton|first=Matt|publisher=[[CRC Press]]|year=2008|isbn=9781439865248|pages=104–107|url=https://books.google.com/books?id=qPPRBQAAQBAJ&pg=PA104}}</ref>  The object of the game is to rescue a magical crown from Tarmon, a [[Magician (fantasy)|wizard]] who sealed himself and the crown in his laboratory 500 years previous.
+
+The [[video game design]] and [[game programming|programming]] was done by Paul Murray and Keith Brors, [[game development]] by [[Chuck Kroegel]] and Jeff Johnson, and the rulebook created by Leona Billings. ''Wizard's Crown'' was the first RPG designed in-house by SSI, previously known as a wargame company. Its detailed tactical combat system came from Murray and Brors's background in wargaming, and they brought the complexity of those games to ''Wizard's Crown''{{'}}s tactical combat. For instance, shields block attacks only from the front and left (shielded) side, and not from the rear and right (unshielded side). Spears can attack two squares away, flails ignore the defender's shields, and axes have a chance of breaking shields. There is an option for "quick combat", and regular combat can take as long as 40 minutes per encounter. This combat system influenced SSI's later [[Gold Box]] series of RPGs, but it was streamlined and simplified.<ref name=barton/>
+
+The class system is based on a point buy system, possibly influenced by the [[tabletop role-playing game]]s ''[[RuneQuest]]'' and ''[[Traveller (role-playing game)|Traveller]]''. Characters buy classes and skills using Intelligence points. The classes are thief, ranger, fighter, priest and sorcerer, each possessing a distinct set of skills. Characters can have any number of classes, but mixing classes slows advancement. Up to eight characters can be created in a single party. Experience is spent directly on skills, attributes and life points. When a skill level is very low, gains are quick and easy, but they become slow and difficult to raise after reaching high levels. The magic system works like other skills and features a chance of failure based on skill level.<ref name=barton/>
+
+The game is also memorable for its magic weapons, for example, the Storm Longsword or Doom Battleaxe. There are three special series of weapons which can be enchanted to become progressively more powerful:
+
+* The 'Magic' series of weapons does pure magical damage ("injuries") and progresses under the names of 'Magic, Frost, Flaming, Lightning and Storm'.
+* The 'Plus' series of weapons cause extra bleeding, which would cause an opponent to pass out ("The opponent lies unmoving") but not die outright.  For example, if all player characters pass out from excessive bleeding in a battle, you lose the battle, but are given a chance to heal them up in camp afterwards.  These weapons are designated with "+1, +2, +3, +4, +5".
+* The 'Life Blast' series of weapons are the most powerful in the game. They do direct damage to life points, and a character who is taken out by these weapons is killed; you cannot revive them except with a resurrection spell.  These weapons progress with the names 'Dark, Doom, Soul, Demon and Death'.
+
+==Reception==
+SSI sold 47,676 copies of ''Wizard's Crown'' in North America,<ref name="maher20160318">{{cite web | url=http://www.filfre.net/2016/03/opening-the-gold-box-part-3-from-tabletop-to-desktop/ | title=Opening the Gold Box, Part 3: From Tabletop to Desktop | publisher=The Digital Antiquarian | date=2016-03-18 | accessdate=19 March 2016 | author=Maher, Jimmy}}</ref> and it was the company's second best-selling Commodore game as of late 1987.<ref name="ferrell198712">{{cite news | url=https://archive.org/stream/1987-12-computegazette/Compute_Gazette_Issue_54_1987_Dec#page/n17/mode/2up | title=The Commodore Games That Live On And On | work=Compute's Gazette | date=December 1987 | accessdate=24 January 2015 | author=Ferrell, Keith | pages=18–22}}</ref>
+
+''[[Compute!]]'' in 1986 favorably reviewed ''Wizard's Crown'', describing it as "probably the most unusual fantasy game to hit the market in some time". Citing its graphics and detailed combat, the magazine stated that the game "that will excite and challenge even the most seasoned veteran of fantasy warfare".<ref name="trunzo198608">{{cite news | url=https://archive.org/stream/1986-08-compute-magazine/Compute_Issue_075_1986_Aug#page/n61/mode/2up | title=Three Fantasy Games For Commodore And Apple | work=Compute! | date=August 1986 | accessdate=9 November 2013 | author=Trunzo, James V. | pages=60}}</ref> ''[[Computer Gaming World]]''{{'}}s [[Scorpia (journalist)|Scorpia]] admired the game's use of injuries and bleeding in simulating combat, but believed there was too much emphasis on [[hack and slash]], with only a few trivial puzzles and almost no interaction between the party and anyone else beyond buying, selling, and killing.<ref name = "CGW">{{Cite magazine | date = September–October 1986 | author = Scorpia | url=http://www.cgwmuseum.org/galleries/index.php?year=1986&pub=2&id=31 | magazine = [[Computer Gaming World]] | title = Wizard's Crown | pages = 24–25 }}</ref> In 1993 Scorpia was more positive, describing it as a "better-than-average hack'n'slash ... a good game for the bash'em crowd".<ref name="scorpia199310">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=111 | title=Scorpia's Magic Scroll Of Games | magazine=Computer Gaming World | date=October 1993 | accessdate=25 March 2016 | author=Scorpia | pages=34–50}}</ref>
+
+A 1986 ''[[ANALOG Computing]]'' review called the Atari version "superb ... a true gem, an addictive game which you'll find yourself playing day in and day out".<ref name="panak198612">{{cite journal | url=https://archive.org/stream/analog-computing-magazine-49/Analog_Computing_49_1986-12_8_Bit_Gift_Guide#page/n113/mode/2up | title=Panak Strikes | journal=ANALOG Computing | date=December 1986 | accessdate=7 July 2014 | last1=Panak 
+|first1=Steve |page=97}}</ref> The game was reviewed in 1986 in ''[[Dragon (magazine)|Dragon]]'' #114 by Hartley and Pattie Lesser in "The Role of Computers" column.  The reviewers "recommend this offering as one that truly presents a most positive view of fantasy role-playing as played on a computer system."<ref name="Dragon114">{{cite journal
+|title=The Role of Computers
+|author=Lesser, Hartley and Pattie
+|journal=Dragon
+|issue=114
+|date=October 1986
+|pages=72–76}}</ref> In a subsequent column, the reviewers gave the game 4 out of 5 stars.<ref name="Dragon126">{{cite journal
+|title=The Role of Computers
+|author=Lesser, Hartley and Patricia
+|journal=Dragon
+|issue=126
+|date=October 1987
+|pages=82–88}}</ref>
+
+''[[Antic (magazine)|Antic]]''{{'}}s review was mixed, stating that ''Wizard's Crown'' "throws in a few new tricks of its own" but "is mostly old wine in new bottles". The magazine concluded that "''Wizard's Crown'' is okay. But I probably would have enjoyed it more if I felt that I was really controlling the characters—not just watching random-number generators at work."<ref name="bernstein198704">{{cite news | url=https://archive.org/stream/1987-04-anticmagazine/Antic_Vol_5-12_1987-04_Taxes#page/n45/mode/2up | title=Wizard's Crown | work=Antic | date=April 1987 | accessdate=26 January 2015 | author=Bernstein, Harvey | pages=47}}</ref> [[Jerry Pournelle]] named ''Wizard{{'}}s Crown'' his personal game of the month for February 1988, approving of its detailed combat, graphics, and interesting quest and puzzles.<ref name="pournelle198802">{{Cite magazine |last=Pournelle |first=Jerry |date=February 1988 |title=Life after Las Vegas |url=https://archive.org/details/byte-1988_02/page/n204/mode/1up?view=theater |magazine=BYTE |pages=179-194 |access-date=2023-09-30}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{moby game|id=/wizards-crown|name=''Wizard's Crown''}}
+*{{lemon64 game|id= 3267|name=Wizard's Crown}}
+*{{atarimania|id=5794}}
+*{{atarimania|id=10858}}
+
+{{Authority control}}
+
+[[Category:Role-playing video games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Strategic Simulations games]]
+[[Category:1986 video games]]
+[[Category:Video games developed in the United States]]

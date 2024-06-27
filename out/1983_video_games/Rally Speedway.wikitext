@@ -1,0 +1,67 @@
+Rally Speedway
+Permalink: //en.wikipedia.org/w/index.php?title=Rally_Speedway&oldid=1224498402
+Accessed on: 2024-06-26T16:55:43.071278
+
+
+
+------
+Rally Speedway
+{{Short description|1983 video game}}
+{{more citations needed|date=August 2017}}
+{{Infobox video game
+|title = Rally Speedway
+|image = Rally Speedway cover.jpg
+|developer = 
+|publisher = [[Adventure International]]<br>[[Commodore International|Commodore]] (C64)
+|designer = John Anderson<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+|released = '''1983:''' Atari 8-bit<br>'''1985:''' C64
+|genre = [[Racing video game|Racing]]
+|modes = 1-2 players simultaneous
+|platforms = [[Atari 8-bit computers|Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''Rally Speedway''''' (also known as '''''John Anderson's Rally Speedway''''')<ref name=mania/> is a top-down racing game developed by John Anderson for [[Atari 8-bit computers]].<ref name=giantlist/> It was published by [[Adventure International]] in 1983 as 16K ROM cartridge.<ref name=mania>{{cite web |title=Rally Speedway Magazine Ad |url=http://www.atarimania.com/pubs/hi_res/pub_rally_speedway.jpg |website=Atari Mania}}</ref> A port to the [[Commodore 64]] was published by [[Commodore International|Commodore]] in 1985. The game includes options for changing how vehicles handle, such as top speed, acceleration, and whether roads are wet, dry, or icy. There's also an integrated editor for creating and saving race tracks.
+
+Ansderson was inspired by the 1980 [[Intellivision]] game ''[[Auto Racing (video game)|Auto Racing]]''. In turn, ''Rally Speedway'' directly influenced the 1991 [[Nintendo Entertainment System]] game ''[[Micro Machines (video game)|Micro Machines]]''.
+
+==Gameplay==
+[[File:Rally Speedway.gif|thumb|left|Two players racing]]
+
+''Rally Speedway'' shows a birds-eye view of a small section of a larger race track that [[scrolling|scrolls]]. Single-player and two-player modes are available, with no [[Artificial intelligence in video games|computer-controlled opponents]] present in either mode. In the single-player game, the player races against time. The only goal is to improve one's lap time while avoiding various roadside objects.<ref name="pappas198401"/>
+
+In the two-player mode, players race against each other over a set amount of laps (three by default). Both players share the same view of the track. Player vehicles get near the screen's edges when the distance between them grows. Once one player gets too far behind, she receives a 5-second time penalty, and both players are placed together at the current location. A player that crashes receives a 10-second penalty.<ref name="pappas198401"/>
+
+There are options for changing top speed and acceleration, road surface, and enabling immunity to crashes.<ref name="pappas198401"/>
+
+''Rally Speedway'' includes an editor for creating new tracks and saving them on cassette or disk.<ref name="pappas198401"/>
+
+==Development==
+In a 2008 interview, John Anderson said that the idea for ''Rally Speedway'' came from the [[Intellivision]] game ''[[Auto Racing (video game)|Auto Racing]]''.<ref name=pl>{{cite web |title=John Anderson |url=https://atarionline.pl/v01/index.php?subaction=showfull&id=1221574459&archive=&start_from=&ct=wywiady |website=AtariOnline.pl}}</ref> He compressed the graphics to make them fit on a 16K cartridge: {{blockquote|text=I had a conversation over beers one night with Sparky Starks, another Adventure International author. He offered up a nice clear concise explanation of Huffman compression and I used that to fit the background graphics in the cartridge. Years later after becoming more knowledgeable about programming, I read a textbook explanation about Huffman encoding and found Sparky's verbal explanation over beers far more informative than the textbook.<ref name=pl/>}}
+
+==Reception==
+[[Lee Pappas]] of ''[[ANALOG Computing]]'' wrote in January 1984 that ''Rally Speedway'' "is one of the nicest designed and executed games for the [Atari 8-bit]".<ref name="pappas198401">{{Cite magazine |last=Pappas |first=Lee |author-link=Lee H. Pappas |date=January 1984 |title=Rally Speedway |url=https://archive.org/stream/analog-computing-magazine-15/Analog_Computing_15_1984-01_Inside_the_600XL#page/n29/mode/2up |magazine=[[ANALOG Computing]] |page=28}}</ref> In the May 1984 issue of ''[[Electronic Games]]'', [[Bill Kunkel (gaming)|Bill Kunkel]] praised the graphics and the variety of menu options for customizing the game, calling it "a virtual role model for games of this type".<ref name="kunkel">{{cite journal|last1=Kunkel|first1=Bill|title=Rally Speedway|journal=[[Electronic Games]]|date=May 1984|page=44|url=http://www.digitpress.com/library/magazines/electronic_games/electronic_games_may84.pdf}}</ref> A 1984 review in ''Hi-Res'' magazine called ''Rally Speedway'' "graphically gorgeous" but criticized the top-down perspective for being less exciting than a behind-the-car view.<ref name="laporte">{{cite journal |last1=Laporte |first1=Leo G. |title=Rally Speedway |journal=Hi-Res |date=March 1984 |volume=1 |issue=3 |page=7|url=https://www.atarimagazines.com/hi-res/v1n3/reviews.php}}</ref>
+
+==Legacy==
+Andrew Graham, designer of ''[[Micro Machines (video game)|Micro Machines]]'' for the [[Nintendo Entertainment System]], used ''Rally Speedway'' as a model for that game:
+
+{{blockquote|Graham's key influence was an old Atari title named ''Rally Speedway'', a scrolling, top-down perspective racing game, which offered an exciting head-to-head mode where the camera always followed the race leader – if the opponent fell too far behind, they'd get a time penalty and the race would re-start.<ref name="stuart2021">{{cite web |last=Stuart |first=Keith |title=The Making of Micro Machines |website=Read-Only Memory |date=2021-02-13 |url=https://readonlymemory.vg/the-making-of-micro-machines/ |access-date=2021-03-03}}</ref>}}
+
+''Micro Machines'' ended up using a scoring system instead of time penalties.
+
+==See also==
+* ''[[Racing Destruction Set]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=4280}}
+* {{lemon64 game|name=Rally Speedway|id=2083}}
+* [https://archive.org/details/games-58-1984-december/page/52/mode/2up Review] in ''[[GAMES Magazine|GAMES]]'' magazine
+
+[[Category:1983 video games]]
+[[Category:Adventure International games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Top-down racing video games]]
+[[Category:Video games developed in the United States]]

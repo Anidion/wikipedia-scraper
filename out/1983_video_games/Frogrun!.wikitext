@@ -1,0 +1,56 @@
+Frogrun!
+Permalink: //en.wikipedia.org/w/index.php?title=Frogrun%21&oldid=1151960822
+Accessed on: 2024-06-26T16:55:02.515867
+
+
+
+------
+Frogrun!
+{{refimprove|date=August 2017}}
+{{Infobox video game
+| title =
+| image = Frogrun! coverart.png
+| developer = 
+| publisher = [[Anirog Software]] 
+| designer =
+| programmer = '''Commodore 64'''<br>Jef Gamon<ref name="giantlist"/><br>'''ZX Spectrum'''<br>S.J. Dann<ref name="sc"/>
+| released = '''1983:''' VIC<br>'''1984:''' C64, Spectrum
+| genre = [[Action game|Action]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[VIC-20]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Frogrun!''''' (also '''''Frog Run''''') is a ''[[Frogger]]'' clone published by [[Anirog Software]] for the [[VIC-20]] home computer in 1983. A [[Commodore 64]] version programmed by Jef Gamon was published in 1984 as '''''Frogrun 64'''''.<ref name=giantlist/> A ZX Spectrum version by S.J. Dann was released with the name '''''Frog Run'''''.<ref name="sc">{{cite web|title=Frog Run|url=https://spectrumcomputing.co.uk/index.php?cat=96&id=1881|website=SpectrumComputing.co.uk}}</ref>
+
+==Gameplay==
+The game follows the structure of ''[[Frogger]]'': maneuver across a busy road, then hop on floating objects to reach the frog homes on the other side of a river.
+
+Taken from the games instructions:
+
+*10 points for moving frog forward.
+*200 points for getting a frog home.
+*A bonus for all the frogs home.
+*A bonus for jumping on a lady frog.
+*There is a time limit of 25 seconds to get a frog home.
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+*{{lemon64 game|id=990|name=Frogrun 64}}
+
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:Anco Software games]]
+[[Category:Commodore 64 games]]
+[[Category:Single-player video games]]
+[[Category:VIC-20 games]]
+[[Category:Video game clones]]
+[[Category:Video games about amphibians]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+
+
+{{Action-videogame-stub}}

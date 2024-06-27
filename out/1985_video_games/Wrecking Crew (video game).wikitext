@@ -1,0 +1,131 @@
+Wrecking Crew (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Wrecking_Crew_%28video_game%29&oldid=1230907632
+Accessed on: 2024-06-26T16:59:29.366923
+
+
+
+------
+Wrecking Crew (video game)
+{{Short description|1985 video game}}
+{{Use mdy dates|date=December 2023}}
+{{More citations needed|date=July 2008}}
+{{Infobox video game
+| title = Wrecking Crew
+| image = Wrecking Crew cover.jpg
+| caption = North American box art
+| developer = [[Nintendo R&D1]]<ref>{{cite magazine |magazine=[[Nintendo Dream]] |script-title=ja:やればやるほどディスクシステムインタビュー(前編) |pages=96–103 |date=August 6, 2004 |issue=118 |language=ja |publisher=Mainichi Communications Inc.}}</ref>
+| publisher = [[Nintendo]]
+| producer = [[Gunpei Yokoi]]
+| director = [[Satoru Okada]]
+| composer = [[Hirokazu Tanaka]]<ref>{{cite AV media notes |url=http://vgmdb.net/album/404 |title=Famicom 20th Anniversary Original Sound Tracks Vol. 1 |year=2004 |publisher=Scitron Digital Contents Inc.}}</ref>
+| series = ''[[Mario (franchise)|Mario]]''
+| platforms = {{cslist
+ | [[Arcade video game|Arcade]]
+ | [[Famicom/NES]]
+ | [[Famicom Disk System]]
+ | [[Game Boy Advance]]
+ }}
+| released = {{Collapsible list
+ | title = July 26, 1984
+ | '''Arcade (''Vs. Wrecking Crew'')''' {{vgrelease|JP|July 26, 1984<ref>{{cite web|url=http://www.flyerfever.com/post/94727731278/vs-wrecking-crew|title=Flyer Fever - Vs. Wrecking Crew (Japan, Flyer 1)|access-date=September 2, 2017|archive-url=https://web.archive.org/web/20180720022451/https://www.flyerfever.com/post/94727731278/vs-wrecking-crew|archive-date=July 20, 2018|url-status=dead}}</ref>|NA|September 1984<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=128 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n129}}</ref>|WW|1985}}
+ | '''Famicom/NES''' {{vgrelease|JP|May 26, 1985{{efn|Limited release on May 26, 1985.<ref>{{cite web |title=Wrecking Crew (Registration Number PA0000287352) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=June 15, 2021}}</ref> Wide release on June 18, 1985.<ref>{{cite tweet|title=1985年のきょう『レッキングクルー』(Wrecking Crew)ファミコン版が発売!! |trans-title=Today in 1985, the Famicom version of "Wrecking Crew" was on sale!! |user=Sora_Sakurai|number=1405737035445452800|lang=ja |access-date=June 18, 2021}}</ref>}}|NA|October 18, 1985<ref>{{cite web|url=https://www.wired.com/2010/10/1018nintendo-nes-launches/ |title=October 18, 1985: Nintendo Entertainment System Launches |last=Kohler |first=Chris |publisher=Wired |date=October 18, 2010|access-date=June 8, 2022}}</ref>|EU|October 15, 1987}}
+ | '''Famicom Disk System''' {{vgrelease|JP|February 3, 1989<ref name="NinDB">{{cite web |url=http://www.nindb.net/game/wrecking-crew.html |title=Wrecking Crew |publisher=NinDB |access-date=October 27, 2011 |archive-date=December 25, 2011 |archive-url=https://web.archive.org/web/20111225150047/http://nindb.net/game/wrecking-crew.html |url-status=dead }}</ref>}}
+ | '''Game Boy Advance''' {{vgrelease|JP|May 21, 2004<ref name=NinDB/>}}
+ }}
+| genre = [[Action game|Action]], [[Puzzle video game|puzzle]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| arcade system = [[Nintendo VS. System]]
+| designer = [[Yoshio Sakamoto]]<ref name="design">{{cite magazine |url=https://www.wired.com/2010/04/sakamoto/ |title=Q&A: Metroid Creator's Early 8-Bit Days at Nintendo |first=Chris |last=Kohler |date=April 7, 2010 |magazine=[[Wired (magazine)|Wired: GameLife]] |publisher=[[Condé Nast Digital]] |access-date=June 8, 2022}}</ref><br>[[Makoto Kano (video game designer)|Makoto Kanoh]]
+| programmer = Toshiyuki Nakamura<br>Yase Sobajima<br>Kenji Imai
+}}
+
+{{nihongo foot|'''''Wrecking Crew'''''|レッキングクルー|Rekkingu Kurū|lead=yes|group=lower-alpha}} is an [[action game]] developed and published by [[Nintendo]]. Designed by [[Yoshio Sakamoto]], it was first released as an [[arcade video game]] for the [[Nintendo VS. System]] in 1984, titled '''''Vs. Wrecking Crew''''' with a simultaneous two-player mode.<ref>{{cite web|title=Vs. Wrecking Crew|url=http://i.gamersfeed.com/game/29966/Vs.-Wrecking-Crew/home|publisher=iBomb|access-date=October 27, 2011|archive-date=April 25, 2012|archive-url=https://web.archive.org/web/20120425112128/http://i.gamersfeed.com/game/29966/Vs.-Wrecking-Crew/home|url-status=dead}}</ref> It was released as a single-player game for the [[Family Computer]] (Famicom) console in 1985, and as a [[launch game]] for the [[Nintendo Entertainment System]] (NES) later that year. A sequel, ''[[#Sequel|Wrecking Crew '98]]'', was released in Japan in 1998 for the [[Super Famicom]].
+
+==Gameplay==
+[[File:Wrecking Crew gameplay.png|thumb|left|Screenshot]]
+The player controls [[Mario]] (or [[Luigi]] in two-player mode) and attempts to destroy all of a certain set of objects with a large hammer on each of 100 levels. Mario cannot jump because of the hammer's weight. The player can select any level to start on from the title screen. Each level's playfield is divided into an invisible grid, each space of which can contain one object. Objects include these: destructible walls, pillars, and ladders; indestructible barrels and ladders; bombs that destroy all connected destructible objects; and various enemies that Mario must avoid. [[Door]]s may be opened to cause enemies to move harmlessly into the background. The game introduced a new character, a construction foreman named Spike (known as Blackie in the Japanese version),<ref name="TimeExtension">{{cite web |last1=Yarwood |first1=Jack |title=Nintendo Changes Japanese Name Of Spike For The Super Mario Bros. Movie |url=https://www.timeextension.com/news/2023/04/nintendo-changes-japanese-name-of-spike-for-the-super-mario-bros-movie |website=Time Extension |publisher=[[Hookshot Media]] |access-date=April 20, 2023 |date=April 20, 2023}}</ref> who chases Mario and attempts to disrupt him by knocking down objects and causing him to fall to the bottom of the playfield. The player starts the game with five lives and loses a life whenever Mario comes in contact with an enemy or fireball. The game is over when all lives are lost. The game can also be aborted at any time, and must be aborted if Mario becomes trapped in a barrel.
+
+Because Mario lacks the ability to jump, the player must figure out the optimal order in which to destroy objects—for example, if a player destroys a ladder too soon, a wall may become unreachable and thus the player [[softlock|cannot finish the level]]. Destroying multiple objects in a row (usually with a chain of bombs) scores extra bonus points, and occasionally bonus items may appear that Mario can collect.
+
+''Wrecking Crew'' features a level editor, which allows the player to design up to four custom levels. They can be saved and loaded using the [[Famicom Data Recorder]], a [[compact cassette|cassette tape]] drive. Because this peripheral was only released for [[Nintendo Entertainment System|Famicom]] in Japan, other localizations cannot save or load the custom levels. The U.S. manual includes a note stating that the load and save functions "have been programmed in for potential product developments". The feature was reenabled for the Wii [[Virtual Console]] release using [[Wii]] system storage.{{Citation needed|date=June 2015}}
+
+==Reception==
+In Japan, ''Game Machine'' listed ''Vs. Wrecking Crew'' in its October 1, 1984, issue as the thirteenth most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=Game Machine|issue=245|publisher=Amusement Press|date=October 1, 1984|page=35|lang=ja}}</ref>
+
+==Re-releases==
+''Wrecking Crew'' was re-released in 1989 on the [[Family Computer Disk System]], and in 2004 as the 14th game of the ''[[Classic NES Series|Famicom Mini]]'' series on [[Game Boy Advance]].<ref>{{cite web|last=Giffords|first=Kevin|title=Wrecking Crew (Famicom Mini 14)|url=http://www.1up.com/reviews/wrecking-crew-famicom-mini-14|publisher=1up.com|date=January 1, 2000|url-status=dead|archive-url=https://web.archive.org/web/20120716190109/http://www.1up.com/reviews/wrecking-crew-famicom-mini-14|archive-date=July 16, 2012}}</ref> It was also included as a playable bonus game in its sequel, ''Wrecking Crew '98''.
+
+The game was re-released on the Wii [[Virtual Console]] in 2007. It was briefly distributed to [[Nintendo 3DS]] owners in September 2011 as part of the "Ambassador Program",<ref name="ambreward">{{cite web | url=https://www.ign.com/articles/2011/08/30/nintendo-3ds-ambassadors-behold-your-final-five-nes-rewards | last=Thomas | first=Lucas M. | title=Nintendo 3DS Ambassadors, Behold Your Final Five NES Rewards | date=August 30, 2011 | access-date=November 26, 2021}}</ref><ref>{{cite web|author=Luke|title=3DS Ambassador Games Impressions - Super Balloon Wrecking Bros.|url=https://forkthisllama.blogspot.com/2011/09/3ds-ambassador-games-impressions-super.html|work=ForkThisLlama|access-date=September 7, 2011}}</ref> before being made available for general sale on 3DS Virtual Console in Japan in September 2012, with a release in other territories following in 2013. ''Wrecking Crew'' was also released on the [[Wii U]] Virtual Console in June 2013. All Virtual Console releases, excluding the 3DS version, support saving custom level designs, which is not possible in the original NES version of the game.
+
+In July 2019, ''Wrecking Crew'' was added to the [[Nintendo Switch Online]] service as part of the paid membership.<ref>{{Cite web |last=Good |first=Owen S. |date=July 10, 2019 |title=Donkey Kong 3, Wrecking Crew join NES library for Switch Online |url=https://www.polygon.com/nintendo-switch/2019/7/10/20688980/nintendo-switch-online-nes-classics-list-july-2019-wrecking-crew-donkey-kong-3 |access-date=March 26, 2023 |website=Polygon |language=en-US}}</ref>
+
+==Sequel==
+{{Infobox video game
+| title = Wrecking Crew '98
+| image = <!-- DO NOT ADD IMAGE PER FFD; see talk page -->
+| developer = {{ubl|[[Nintendo Research & Development 1|Nintendo R&D1]]|Pax Softnica}}
+| publisher = [[Nintendo]]
+| director = Eiko Takahashi
+| producer = Tatsuya Hishida
+| designer = {{ubl|Eiko Takahashi|Noriyuki Enoki|Naoki Watanabe|Takashi Kouyama|Reiko Kajigaya}}
+| programmer = {{ubl|Narumi Nakashima|Taisuke Araki|Hirotaka Katoh}}
+| composer = {{ubl|[[Hirokazu Tanaka]]|Takane Okubo}}
+| released = '''Nintendo Power''' ('''SFC''')<ref name="NinDB98">{{cite web |url=http://www.nindb.net/snes/wrecking-crew-98/index.html |title=Wrecking Crew '98 |publisher=NinDB |access-date=October 27, 2011}}</ref>{{vgrelease|JP|January 1, 1998}}'''Super Famicom'''<ref name=NinDB98 /> {{vgrelease|JP|May 23, 1998}}
+| genre = [[Action game|Action]], [[Puzzle video game|puzzle]]
+| modes = [[Single-player]], [[multiplayer]]
+| series = ''[[Mario (franchise)|Mario]]''
+| platforms = [[Super Nintendo Entertainment System|Super Famicom]]
+}}
+
+{{nihongo foot|'''''Wrecking Crew '98'''''|レッキングクルー'98|Rekkingu Kurū Nainti Eito|lead=yes|group=lower-alpha}} is an action [[Puzzle video game|puzzle game]] released exclusively in [[Japan]] in 1998 for the [[Super Nintendo Entertainment System|Super Famicom]]'s [[Nintendo Power (cartridge)|Nintendo Power]] download service, and later on cartridge. Unlike the original, in which the player's objective is to find ways to clear each level of all panels, ''Wrecking Crew '98'' takes a more competitive approach: various blocks and colored panels appear on each player's side of the screen, and the player must attempt to line up three or more panels of the same color to remove them. When a set of panels disappears, all blocks and panels above it will drop, potentially allowing the player to create chain combos. Clearing four or more panels of the same color will trigger an attack that hinders the opponent; each panel color will produce a different type of attack. The match ends when one player's screen becomes filled with panels, causing them to lose.
+
+The game's story features [[Mario]] returning to the [[Mushroom Kingdom]] after a trip, only to discover that [[Bowser]] has started a constructing multiple new high-rise bases, depriving the surrounding [[flora (plants)|flora]] of sunlight. To stop Bowser, Mario retrieves his magic hammer from his time on the Wrecking Crew and begins demolishing Bowser's bases. At each location, he encounters a member of Bowser's construction crew whom he must defeat to destroy the base, including his former rival Foreman Spike.
+
+The main single player mode is Story mode, in which the player controls Mario and travels through an overworld, entering each of Bowser's construction sites and defeating a rival opponent. Completing each stage within a time limit will unlock several secret stages and an alternate ending. Clearing stages in Story mode will unlock up to 12 total playable characters for use in Versus mode, a competitive mode for one to two players. Clearing the Story also unlocks Tournament mode, in which eight characters compete in a [[single-elimination tournament]] until only one remains and is declared the champion. A playable port of the original ''Wrecking Crew'' is also accessible from the main menu.
+
+The game was re-released on the Wii U Virtual Console in Japan on September 28, 2016,<ref>{{cite web |title=レッキングクルー'98 - Wii U|url=https://www.nintendo.co.jp/titles/20010000014447 |website=任天堂ホームページ |access-date=April 12, 2024 |date=September 28, 2016 |lang=ja}}</ref> and on the [[Nintendo Switch Online]] service on April 12, 2024, for the first time in the West.<ref>{{cite news |last=Doolan |first=Liam |title=Nintendo Expands Switch Online's SNES Library With Three More Titles |url=https://www.nintendolife.com/news/2024/04/nintendo-expands-switch-onlines-snes-library-with-three-more-titles |access-date=April 12, 2024 |work=Nintendo Life |date=April 12, 2024}}</ref> A [[fan translation of video games|fanmade English translation patch]] for the game was released in October 2017.<ref>{{cite news |last=Lopes |first=Gonçalo |title=English Translation Released for Super Famicom Exclusive Wrecking Crew '98 |url=https://www.nintendolife.com/news/2017/10/english_translation_released_for_super_famicom_exclusive_wrecking_crew_98 |access-date=April 12, 2024 |work=Nintendo Life |date=October 4, 2017}}</ref>
+
+==Legacy==
+The Bonus Stage theme from ''Wrecking Crew'' was remixed for ''[[Dance Dance Revolution: Mario Mix]]'' (2005).{{citation needed|date=October 2011}} The Golden Hammer appears as a usable item in the ''[[Super Smash Bros.]]'' series, beginning with ''[[Super Smash Bros. Brawl]]'' (2008).{{citation needed|date=October 2011}} A "''Wrecking Crew''" stage also appears in ''[[Super Smash Bros. for Nintendo 3DS and Wii U|Super Smash Bros. for Wii U]]'' (2014) and ''[[Super Smash Bros. Ultimate]]'' (2018).{{citation needed|date=January 2019}}
+
+Spike appears in ''[[The Super Mario Bros. Movie]]'' (2023), voiced by [[Sebastian Maniscalco]]. This version is the former boss of Mario and Luigi before they started their plumbing business.<ref>{{cite web|url=https://www.nintendoenthusiast.com/sebastian-maniscalco-will-voice-spike-in-illumination-super-mario-movie/|title=Sebastian Maniscalco will voice 'Spike' in Illumination Super Mario movie|last=Ditchfield|first=Jaime|date=August 9, 2021|access-date=August 10, 2021|archive-date=August 24, 2021|archive-url=https://web.archive.org/web/20210824205410/https://www.nintendoenthusiast.com/sebastian-maniscalco-will-voice-spike-in-illumination-super-mario-movie/|url-status=dead}}</ref><ref>{{cite web |title=Super Mario Bros. Plumbing |url=https://www.smbplumbing.com/ |access-date=February 12, 2023}}</ref> After nearly 40 years, the name was standardized for future appearances as Spike also in Japan, where he was previously known as Blackie or Blacky due to his classically black beard and sunglasses, as it already was known in all regions before the release of the film.<ref name="TimeExtension"/> Though none of it had been officially confirmed by Nintendo, several Western magazines and news articles spread speculation, [[misinformation]], and [[disinformation]] about racism concerns over the name change in Japan, though Spike is a white man and Japan does not have the same culture about race as the West.<ref>{{Cite web |date=April 20, 2023 |title=Nintendo Renamed This Super Mario Bros. Movie Character, Possibly To Avoid Racism |url=https://kotaku.com/super-mario-bros-movie-nintendo-spike-wrecking-crew-1850358115 |access-date=November 16, 2023 |website=Kotaku |language=en}}</ref><ref>{{Cite web |last=Egan |first=Toussaint |date=April 21, 2023 |title=Nintendo is changing Mario 'bad guy' Foreman Spike's name in Japan |url=https://www.polygon.com/23693162/super-mario-bros-movie-spike-name-change-nintendo-announcement |access-date=November 16, 2023 |website=Polygon |language=en-US}}</ref><ref>{{Cite web |last= |first= |date=April 25, 2023 |title=Mario villain's name changed from racist slur in games, movie |url=https://nypost.com/2023/04/25/mario-villains-name-changed-from-racist-slur-in-games-movie/ |access-date=November 16, 2023 |website=[[New York Post]] |language=en-US}}</ref><ref>{{Cite web |last=Lau |first=Chris |date=April 25, 2023 |title=Nintendo changes Japanese name of villainous Super Mario character |url=https://www.cnn.com/2023/04/25/asia/nintendo-mario-character-name-change-intl-hnk/index.html |access-date=November 16, 2023 |website=CNN |language=en}}</ref><ref>{{Cite news |date=April 20, 2023 |title=Nintendo acknowledges Mario character name change for Japan |language=en |work=Eurogamer.net |url=https://www.eurogamer.net/nintendo-acknowledges-mario-character-name-change-for-japan |access-date=November 16, 2023}}</ref>
+
+==See also==
+{{portal|Video games|1980s}}
+* ''[[Electrician (video game)|Electrician]]'' (1984)
+* [[List of Nintendo Entertainment System games]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Spoken Wikipedia|date=2024-04-15|En-Wrecking-Crew-(video_game)-article.ogg}}
+* [http://www.nindb.net/snes/wrecking-crew-98/index.html ''Wrecking Crew''] at [http://www.nindb.net/ NinDB]
+
+{{Luigi}}
+{{Mario puzzle games}}
+{{Intelligent Systems}}
+{{Authority control}}
+
+{{DEFAULTSORT:Wrecking Crew (video game)}}
+[[Category:1984 video games]]
+[[Category:1985 video games]]
+[[Category:Arcade Archives games]]
+[[Category:Arcade video games]]
+[[Category:Famicom Disk System games]]
+[[Category:Game Boy Advance games]]
+[[Category:Intelligent Systems games]]
+[[Category:Mario puzzle games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo Switch Online games]]
+[[Category:Pax Softnica games]]
+[[Category:Video games developed in Japan]]
+[[Category:Virtual Console games for Wii]]
+[[Category:Virtual Console games for Nintendo 3DS]]
+[[Category:Virtual Console games for Wii U]]
+[[Category:Video games scored by Hirokazu Tanaka]]
+[[Category:Video games designed by Yoshio Sakamoto]]
+[[Category:Multiplayer and single-player video games]]

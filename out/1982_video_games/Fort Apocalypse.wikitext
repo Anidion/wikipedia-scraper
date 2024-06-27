@@ -1,0 +1,78 @@
+Fort Apocalypse
+Permalink: //en.wikipedia.org/w/index.php?title=Fort_Apocalypse&oldid=1224840156
+Accessed on: 2024-06-26T16:53:25.386460
+
+
+
+------
+Fort Apocalypse
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Fort Apocalypse
+|image = Fort apocalypse fair use.jpg
+|caption= UK edition. Cover art by Tim Boxell.
+|developer = [[Synapse Software]]
+|programmer = '''Atari 8-bit'''<br>Steve Hales<br>'''Commodore 64'''<br>Joe Vierra
+|designer = Steve Hales
+|publisher = Synapse Software<br>[[U.S. Gold]]
+|engine = 
+|released = 1982
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''Fort Apocalypse''''' is a multidirectional [[scrolling shooter]] for [[Atari 8-bit computers]] created by Steve Hales and published by [[Synapse Software]] in 1982. Joe Vierra ported it to the [[Commodore 64]] the same year. The player navigates an underground prison in a helicopter, destroying or avoiding enemies and rescuing prisoners. A contemporary of ''[[Choplifter]]'', it has similarities to that game as well as the arcade games ''[[Scramble (video game)|Scramble]]'' and ''[[Super Cobra]]''.
+
+== Gameplay ==
+''Fort Apocalypse'' is played within a multi-directional scrolling "cave", viewed from the side. Similar to ''Choplifter'', and in contrast to ''Scramble'', the map scrolls as the player moves in any direction.
+
+[[Image:Fort Apocalypse A800 ingame.png|left|thumb|Some prisoners to rescue]]
+
+The map is divided into four vertical sections, with the uppermost being at ground level, and the lowest containing the titular fortress. The two middle layers, Draconis and the Crystalline Caves, both contain a landing pad [[checkpoint (video games)|checkpoint]]. Eight hostages can be picked up on both of these middle layers. The map is further divided into sections by special walls that can be broken open by firing or dropping bombs on them.
+
+The player's chopper is destroyed if it runs into the cavern walls, is shot down by the numerous enemies, or caught in one of the many laser or moving wall traps. The player has two weapons, a gun and bombs, but only one button on the joystick. The button usually fires the gun, but when the helicopter faces out of the screen, the button drops bombs. Enemy missiles track the player's movements for a short time before running out of fuel and dropping back to earth, and the map is populated by a number of enemy helicopters similar to the player's own.
+
+==Development==
+Most of the basic concepts of Synapse's games were developed by the company's president, Ihor Wolosenko. ''Fort Apocalypse'' was one of the few that was not, and traces its origin to a dream Steve Hales had about helicopters. With Wolosenko's blessing, he began working on the project in 1982. He took part of his inspiration from the movie ''[[Blue Thunder]]''.<ref name=halcyon/>
+
+While the programming was getting started, another programmer decided to leave the company in the midst of completing one of Wolosenko's projects, ''[[Slime (video game)|Slime]]''. Hales was pulled off the development of ''Fort Apocalypse'' to finish ''Slime'', but found the code too difficult to continue and had to start over from scratch.<ref name=halcyon/> The resulting delay meant [[Broderbund]]'s ''[[Choplifter]]'' reached the market first, and ''Fort Apocalypse'' was often considered a me-too effort.<ref>{{cite web |url=http://atarihq.com/reviews/atari8/fort_apocalypse.html  |title=AGH Atari 8-Bit Computer Review: Fort Apocalypse |website=AGH}}</ref> When Hales saw ''Choplifter'', his reaction was: "Why did I stop working on Fort?"<ref name=halcyon/>
+
+The game was publicly demonstrated at the [[Consumer Electronics Show]]{{efn|Hales says this was the 1983 show, which took place in January. This would appear to suggest the actual release was later, or that this led to a second version.}} and the players complained that it was too hard. This led to changes in the map and a few other tweaks.
+
+==Reception==
+The game was a relative success, ultimately selling about 75,000 copies on the Atari, and more than that on the Commodore.<ref name=halcyon/>
+
+''[[Softline (magazine)|Softline]]'' praised ''Fort Apocalypse''{{'}}s "game complexity and difficulty of play—just enough to keep you coming back and progressing a little further each time".<ref name="christie19831112">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=14 | title=Synapse Takes Off | work=Softline | date=Nov–Dec 1983 | accessdate=29 July 2014 | author=Christie, Andrew | pages=21}}</ref> ''[[Antic (magazine)|Antic]]'' was also pleased with the effort: "The game is fun to play and has lots of action and good sound effects" but criticized the sound of the helicopter itself, comparing it to the sound of "someone walking in wet shoes".<ref>{{cite journal |first= Roy |last=Wolford |url=http://www.atarimagazines.com/v2n5/productreviews.html |title= Ft. Apocalypse |journal=Antic |date=August 1983 }}</ref> Also noting the game's difficulty, ''The Commodore 64 Home Companion'' called the graphics and sound "impressive".<ref name=C64HC>{{cite web|url=https://archive.org/stream/The_Commodore_64_Home_Companion#page/n177/mode/2up|first=George | last = Beekman | title=Sirius Software |work=The Commodore 64 Home Companion|year=1984|access-date=August 19, 2016|pages=176–177}}</ref> ''Electronic Fun'' disliked it, giving the game only 1.5 joysticks out of 5. It is also one of the most direct at calling it a mix of other designs; the review starts off with this complaint:<ref name=efun/>
+
+{{quote|What happens when you mix ''Defender'', ''Scramble'' and ''Chopper Rescue'' together, and put them out as one game? About the same thing as mixing ice cream, spaghetti and steak. By themselves they're each terrific, but when mixed together they make something that you don't even want to think about. This is what happened in ''Fort Apocalypse''.<ref name=efun>{{cite journal |first=Paul |last=Backer |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_09_1983-07_Fun_Games_Publishing_US |journal=Electronic Fun with Computer & Games |date=August 1983 |page=65 |title=Fort Apocalypse}}</ref>}}
+
+It goes on to complain that anyone playing it would have to be "deeply masochistic", especially after you "blow up after running into something you can't even see".<ref name=efun/>
+
+==Legacy==
+In 2007 the game was [[Software relicensing|relicensed]] to a [[CC BY-NC-ND]] 2.5 [[Creative Commons license]] and released on IgorLabs, a site founded by Steve Hales and other game developers.
+
+On April 23, 2015, Steve Hales released the [[assembly language|assembler]] [[source code]] to ''Fort Apocalypse'' on [[GitHub]], also under [[CC BY-NC-ND]] 2.5, for historical reasons.<ref>[https://github.com/heyigor/FortApocalypse FortApocalypse] on Github.com</ref> A [[Twitter]] account for the release claimed "if enough people followed a version for iOS and Android would be made".<ref>[https://twitter.com/fortapocalypse fortapocalypse] on twitter.com</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|refs=
+<ref name=halcyon>{{cite book|url=https://dadgum.com/halcyon/BOOK/HALES.HTM |title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers |date=1997}}</ref>
+}}
+
+==External links==
+* [http://www.c64-wiki.de/index.php/Fort_Apocalypse ''Fort Apocalypse''], C64-wiki page (in German)
+* [https://twitter.com/fortapocalypse GitHub source code release]
+* [http://www.igorlabs.com/classic-games IgorLabs classic games page], with all the games Steve Hales wrote for the Atari 8-bit computers
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Cancelled ZX Spectrum games]]
+[[Category:Commodore 64 games]]
+[[Category:Helicopter video games]]
+[[Category:Synapse Software games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Creative Commons-licensed video games]]
+[[Category:Video games developed in the United States]]

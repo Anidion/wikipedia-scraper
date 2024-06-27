@@ -1,0 +1,95 @@
+Akalabeth: World of Doom
+Permalink: //en.wikipedia.org/w/index.php?title=Akalabeth%3A_World_of_Doom&oldid=1230448410
+Accessed on: 2024-06-26T16:51:08.490442
+
+
+
+------
+Akalabeth: World of Doom
+{{Redirect-distinguish|Akalabeth|Akallabêth}}
+{{short description|1979 video game}}
+{{Infobox video game
+|title = Akalabeth: World of Doom
+|image = Akalabeth box.JPG
+|caption = Cover art by [[Denis Loubet]]
+|developer = [[Richard Garriott]]
+|publisher = [[California Pacific Computer Company]]
+|designer = 
+|engine = 
+|released = 1979: Apple II<br>1980: {{nowrap|Apple / California Pacific Company re-release}} <br>February 17th, 1998: MS-DOS
+|genre = [[Role-playing video game|Role-playing]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II series|Apple II]], [[DOS]]
+}}
+'''''Akalabeth: World of Doom''''' ({{IPAc-en|ə|ˈ|k|æ|l|ə|b|ɛ|θ}}) is a [[role-playing video game]] released in 1979  for the [[Apple II]]. It was published by [[California Pacific Computer Company]] in 1980. [[Richard Garriott]] designed the game as a hobbyist project, which is now recognized as one of the earliest known examples of a role-playing video game<ref>Barton, Matt: ''Dungeons and Desktops: The History of Computer Role-playing Games'' (A K Peters Ltd, Wellesley MA, 2008), pg. 1</ref> and as a predecessor of the ''[[Ultima (series)|Ultima]]'' series of games that started Garriott's career.<ref name=ddream /><ref>{{cite magazine |title=18 Years |magazine=[[Next Generation (magazine)|Next Generation]]|issue=39 |publisher=[[Imagine Media]] |date=March 1998|page=1}}</ref> Garriott is the sole author of the game, with the exception of title artwork by Keith Zabalaoui.<ref name="maher20111218">{{cite web | url=http://www.filfre.net/2011/12/akalabeth/ | title=Akalabeth | work=The Digital Antiquarian | date=2011-12-18 | access-date=9 July 2014 | author=Maher, Jimmy}}</ref> 
+
+==Gameplay==
+[[File:Akalabeth - World of Doom (screenshot).jpg|thumb|left|The main overhead view of ''Akalabeth''. The player is represented by a cross. There is a town to the northwest and impassable mountains to the southeast. (The colors are from the DOS port of the game for [[Ultima Collection]].)]]
+The game attempts to bring the [[gameplay]] of [[pen-and-paper role-playing game]]s to the computer platform.<ref name="ddream" /> The player receives quests from Lord British (Garriott's alter-ego and nickname since high school) to kill a succession of ten increasingly difficult [[monster]]s.
+
+The majority of gameplay takes place in an underground dungeon, but there was also a simple above-ground world map and text descriptions to fill out the rest of the adventure. The player could visit the Adventure Shop to purchase food, weapons, a shield and a magic amulet; the player's statistics can also be viewed here.
+
+The game used concepts that would later become standard in the ''Ultima'' series, including:{{r|maher20111218}}
+
+* First-person gameplay in dungeons
+* Requiring food to survive
+* A top-down overhead world view
+* [[Hotkeys]] used for commands
+* The use of [[Elizabethan]] English
+
+[[File:Akalabeth.jpg|thumb|right|The first-person dungeon perspective of ''Akalabeth''. The player is fighting a skeleton near a ladder. The dark blue color indicates this is the second level of the dungeon. (The colors are from the DOS port of the game for Ultima Collection.)]]
+
+==Development==
+The game was made by teenager [[Richard Garriott]] in [[Applesoft BASIC]] for the Apple II while he was attending high school in the [[Houston]], Texas suburbs.<ref name="ddream">{{Cite book|first1=Brad|last1=King|first2=John M.|last2=Borland|url=https://books.google.com/books?id=CvxOAAAAMAAJ |title=Dungeons and Dreamers: The Rise of Computer Game Culture from Geek to Chic |publisher=[[McGraw-Hill|McGraw-Hill/Osborne]] |year=2003 |access-date=2010-09-25 |isbn = 0-07-222888-1 |  ref=borlanddd}}</ref><ref name="doteaters">{{cite web | url=http://thedoteaters.com/?bitstory=ultima-and-lord-british | title=Ultima and Lord British - Origins | work=The Dot Eaters | access-date=9 July 2014 | archive-date=5 March 2016 | archive-url=https://web.archive.org/web/20160305021330/http://thedoteaters.com/?bitstory=ultima-and-lord-british | url-status=dead }}</ref> Begun first as a school project during his junior year using the school's mainframe system [[PDP-11|DEC PDP-11]], the game continually evolved over two years under the working title ''DND'' with the help of his friends and regular ''[[Dungeons & Dragons]]'' partners who acted as play-testers.<ref name="ddream" /><ref name=":0">{{Cite book|last=Andrea|first=Contato|url=https://www.worldcat.org/oclc/1255404454|title=Through the Moongate : the story of Richard Garriott, Origin Systems Inc. and Ultima|date=2020–2021|isbn=978-1-0710-0685-6|edition=2nd|location=|pages=Chapters 1 and 2|publisher=Independently Published |language=English|oclc=1255404454}}</ref> Final development of the game began soon after his initial encounter with Apple computers in the summer of 1979,<ref>The Official Book of Ultima, by Shay Addams, Second Edition, page 7</ref> on an [[Apple II]] bought for him by his father and, later, on an [[Apple II Plus]], but Garriott did not expect that the public would see his work.<ref name=":0" />{{r|ferrell198901}}
+
+Early versions of the game used an overhead view with ASCII characters representing items and monsters. However, after playing ''Escape'', an early maze game for the Apple II, he instead decided to switch to a [[Wire-frame model|wire-frame]], first-person view for the underground dungeon portions of the game,<ref name="ddream" /> making it the first computer role-playing game with such graphics.{{r|scorpia199110}} The game asks the player to provide a "lucky number", which it uses as a [[random seed]] to [[procedural generation|procedurally generate]] the rest of the game, including dungeons and player stats; by using the same number the player can always return to a given world. The ''Ultima Collection'' version added [[savegame]] support while still using a similar random seed.{{r|maher20111218}}
+
+When the game reached version ''DND28B'' later that year (where "28B" refers to the revision), he demoed the game{{snd}}now renamed to ''Akalabeth''{{snd}}for his boss, John Prosper Mayer, at a [[Webster, Texas|Webster]]-area [[ComputerLand]], who suggested he sell the game in the store. Garriott consented and spent $200 to package and sell the game for $20 inside [[Ziploc]] bags, with photocopied instructions and a cover drawn by his mother. It warned "BEWARE FOOLISH MORTAL, YOU TRESPASS IN AKALABETH, WORLD OF DOOM!!", and claimed to offer "10 different [[Apple II graphics#High-Resolution (Hi-Res) graphics|Hi-Res]] Monsters combined with perfect perspective and infinite dungeon levels".<ref name=":0" /> [[California Pacific Computer Company]] received a copy, and contacted Garriott to publish the game. Garriott flew to California with his parents and agreed to receive $5 for each copy sold. The retail price of the California Pacific version, with cover artwork by [[Denis Loubet]], was $35; Garriott claims that the game sold 30,000 copies, with him receiving $150,000, and that ''Akalabeth'' had the best [[return on investment]], with later games "all downhill from there". The company suggested that for marketing purposes "[[Lord British]]" be credited as the author, and organized a contest for ''[[Softalk]]'' readers to figure out his true identity.{{r|doteaters}}<ref>The Official Book of Ultima, by Shay Addams, Second Edition, page 8</ref><ref name="ferrell198901">{{cite news | url=https://archive.org/stream/1989-01-compute-magazine/Compute_Issue_104_1989_Jan#page/n17/mode/2up | title=Dungeon Delving with Richard Garriott | work=Compute! | date=January 1989 | access-date=10 November 2013 | author=Ferrell, Keith | pages=16}}</ref>{{r|maher20111212}}<ref name="maher20111220">{{cite web | url=http://www.filfre.net/2011/12/california-pacific/ | title=California Pacific | work=The Digital Antiquarian | date=2011-12-20 | access-date=9 July 2014 | author=Maher, Jimmy}}</ref>
+
+In creating ''Akalabeth'', Garriott was primarily inspired by ''[[Dungeons & Dragons]]'', for which he held weekly sessions in his parents' house while in high school,<ref name="ddream" /> and the works of [[J. R. R. Tolkien]], which he received from an in-law of his brother. The name derives from Tolkien's ''Akallabêth'', part of ''[[The Silmarillion]]'', though the game is not based on Tolkien's story. In the original game, the last monster on the need-to-kill list is called "[[Balrog]]", like the demonic monster from ''[[The Lord of the Rings]]'', and unlike the later name for the monster in the ''Ultima'' games, Balron.
+
+While not explicitly stated, ''Akalabeth'' is often considered the first game of the ''[[Ultima (series)|Ultima]]'' series, a very popular and influential series of early role-playing video games.
+
+==Release==
+Most sources, including Garriott and [[Origin Systems]], say that ''Akalabeth'' was created in the summer of 1979 after he graduated from high school, and sold that year in Ziploc bags. Maher believes that Garriott did not begin selling ''Akalabeth'' until the summer of 1980, after his first year of college. California Pacific widely released the game in 1980 with a 1980 copyright date, and ''Akalabeth'' first appeared on the ''Softalk'' top 30 list for the month of October 1980.<ref name="maher20111202">{{cite web | url=http://www.filfre.net/2011/12/a-word-on-akalabeth-and-chronology/ | title=A Word on Akalabeth and Chronology | work=The Digital Antiquarian | date=2011-12-02 | access-date=9 July 2014 | author=Maher, Jimmy}} See Garriott's post and Maher's response in the comments.</ref><ref name="maher20111212">{{cite web | url=http://www.filfre.net/2011/12/lord-british/ | title=Lord British | work=The Digital Antiquarian | date=2011-12-12 | access-date=9 July 2014 | author=Maher, Jimmy}}</ref>
+
+Since ''Akalabeth'' was written in [[Applesoft BASIC]], an [[interpreted language]], it was a simple matter for users to modify the [[source code]] to suit their needs or desires. For example, the game's magic amulet, which occasionally did unpredictable things like turn a player into a high-powered Lizard Man, or a weak Toad, could be set for "Lizard Man" with every use, progressively increasing the player's strength to the point of virtual indestructibility. One could also set the player's statistics (normally randomly generated and fairly weak to start) to any level desired. Also later [[Origin Systems]] offered the source code on their [[FTP server]]s.<ref>[http://www.hardcoregaming101.net/ultima/ultima2.htm Akalabeth: World of Doom - Apple II (1979/80)] on hardcoregaming101.net ''"Origin Systems for a time had the original Apple II source code of Akalabeth for download on their website's FTP server"''</ref><ref>[https://web.archive.org/web/*/http://uo.com/archive/ftp/graphics/aklabeth.zip aklabeth.zip] on uo.com (archived)</ref>
+
+''Akalabeth'' is included in the 1998 ''Ultima Collection'' where it officially picked up the nickname ''Ultima 0''. The version, programmed for free by Corey Roth, an ''Ultima'' fan, in the ''Collection'' added [[Color Graphics Adapter|CGA]] colors and [[MIDI]].<ref name=":0" /> It runs on [[MS-DOS]] compatible operating systems, making it the first official [[port (gaming)|port]] of the game to any system other than the Apple II.
+
+==Reception==
+According to Richard Garriott, ''Akalabeth'' sold roughly 30,000 units. As he earned $5 per copy, these sales totaled $150,000 in revenue, which Garriott called "not a bad return for a hundred hours of work by a high school kid".<ref name=sales2>{{cite magazine |title=''CGW'' Profile; Richard Garriott | author=Asher, Mark |issue=187 |date=February 2000 |page=39 |magazine=[[Computer Gaming World]] }}</ref>
+
+[[Steve Jackson (American game designer)|Steve Jackson]] reviewed ''Akalabeth'' in ''[[The Space Gamer]]'' No. 36.<ref name="SG">{{cite journal|last=Jackson |first=Steve |author-link=Steve Jackson (American game designer) |date=February 1981 |title=Featured Review: Akalabeth|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=36|pages=10–11}}</ref> Jackson commented that "On the whole, I recommend ''Akalabeth'' highly. The graphics are better than I've seen on any similar game; the program is varied and fairly logical. And it's fun".<ref name="SG"/>
+
+The game was reviewed in 1982 in ''[[Dragon (magazine)|The Dragon]]'' #65 by Bruce Humphrey. Humphrey concluded that "Akalabeth is a poor cousin in relation to ''[[Wizardry: Proving Grounds of the Mad Overlord|Wizardry]]'' and some of the other recent role-playing computer games".<ref name="Dragon65">{{cite journal
+|title=Campaigns for the Keyboard
+|author=Humphrey, Bruce
+|journal=The Dragon
+|issue=65
+|date=September 1982
+|pages=73–74}}</ref> [[Scorpia (journalist)|Scorpia]] of ''[[Computer Gaming World]]'', a fan of ''Ultima'', agreed in 1991 and 1993: "Bluntly, it wasn't all that terrific." She did, however, note that the game was the first to offer 3-D perspective dungeon graphics.<ref name="scorpia199110">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=87 | title=C*R*P*G*S / Computer Role-Playing Game Survey | magazine=Computer Gaming World | date=October 1991 | access-date=18 November 2013 | author=Scorpia | pages=16}}</ref><ref name="scorpia199310">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=111 | title=Scorpia's Magic Scroll Of Games | magazine=Computer Gaming World | date=October 1993 | access-date=25 March 2016 | author=Scorpia | pages=34–50}}</ref>
+
+Copies of the original ''Akalabeth'' are much rarer than those of other games that sold fewer than 30,000 copies. Jimmy Maher from the Digital Antiquarian homepage believes that Garriott is mistaken on the figure, as the game only appeared near the bottom of the ''[[Softalk]]''{{'}}s monthly list of the top 30 best-selling Apple II programs twice before being discontinued in 1982; by contrast [[Sierra On-Line]]{{'}}s ''[[The Wizard and the Princess]]'', which often appeared near the top of the list, sold 25,000 copies by mid-1982. Given California Pacific's high royalty rates, he suggests that 10,000 copies might have been enough for Garriott to earn $150,000.{{r|maher20111202}}{{r|maher20111220}}
+
+==References==
+{{reflist}}
+
+{{Ultima}}
+
+[[Category:1979 video games]]
+[[Category:1970s horror video games]]
+[[Category:Apple II games]]
+[[Category:BASIC software]]
+[[Category:California Pacific Computer Company games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:DOS games]]
+[[Category:Games commercially released with DOSBox]]
+[[Category:IOS games]]
+[[Category:Linux games]]
+[[Category:MacOS games]]
+[[Category:Role-playing video games]]
+[[Category:Single-player video games]]
+[[Category:Ultima (series)]]
+[[Category:Video games developed in the United States]]
+[[Category:Windows games]]

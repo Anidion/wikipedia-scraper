@@ -1,0 +1,71 @@
+The Colony (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Colony_%28video_game%29&oldid=1159949189
+Accessed on: 2024-06-26T17:03:55.320877
+
+
+
+------
+The Colony (video game)
+{{Short description|1988 video game}}
+{{About|the 1988 first-person shooter|the 1987 arcade adventure game|Colony (video game)}}
+{{Infobox video game
+| title = The Colony
+| image = [[File:The Colony cover.jpg|256px|The Colony]]
+| developer = [[David A. Smith (computer scientist)|David Alan Smith]]
+| publisher = [[Mindscape (software publisher)|Mindscape]]
+| designer = David Alan Smith
+| engine = FLY-BY Environment Simulator
+| released = [[1988 in video gaming|1988]]: Macintosh, MS-DOS<br />[[1990 in video gaming|1990]]: Amiga
+| genre = [[First-person shooter]], [[Adventure game|Adventure]], [[Puzzle video game|Puzzle]]
+| modes = [[Single-player]]
+| platforms = [[Macintosh]], [[MS-DOS]], [[Amiga]]
+}}
+
+'''''The Colony''''' is a [[first-person shooter]] developed by [[David A. Smith (computer scientist)|David Alan Smith]]. It was published by [[Mindscape (software publisher)|Mindscape]].
+
+The 1988 Macintosh release came in two versions, one in color and one with black-and-white graphics. The MS-DOS version, released the same year, was available in black-and-white only. The 1990 Amiga version was in color.
+
+Previous first-person perspective games of the era used precomputed views, such as ''[[The Sentinel (video game)|The Sentinel]]'', or fixed-perspective graphics, such as ''[[Phantom Slayer (computer game)|Phantom Slayer]]''. ''The Colony'' was one of the first games of its kind to let the player move freely while rendering graphics in [[real-time computer graphics|real time]].{{fact|date=July 2017}} It was also one of the first [[3D computer graphics|3D]] games to let the player enter and exit a vehicle.{{fact|date=July 2017}}
+
+==Plot==
+The player takes the role of a marshal responding to a distress call from a research colony. After crash-landing on the planet, the marshal must repair their damaged ship, investigate the colony, and eventually discover and stop an alien race plotting to take over the universe.<ref name = "CGW" />
+
+==Development==
+Instead of a 360-degree circle, The Colony used 256 "pseudo-degrees" which allowed the game engine to rotate the player's perspective using only one byte of data. Bit-map graphics were drawn using [[MacPaint]], while [[2D computer graphics|2D]] images such as doors, letters, and the Apple [[logo]] were crafted using the game engine.
+
+At the time of the game's development, the standard method of programming for the Macintosh was to use an [[Apple Lisa]]. [[Programming tool|Development tools]] for the Macintosh did not exist when the Macintosh was initially released. David Alan Smith completed the first scenes of ''The Colony'' with a [[C (programming language)|C]] [[compiler]] [[Porting|ported]] to the Macintosh by [[Softworks Limited|Softworks]]. Those first scenes were developed on a Macintosh with only 128[[Byte|KB]] of [[Random access memory|RAM]] and a single floppy disk drive. Eventually, development tools were made available on the Macintosh, allowing Mr. Smith to complete his work using the [[Megamax C]] and [[THINK C|Lightspeed C]] compilers—on a Macintosh [[upgrade]]d to 512KB of RAM and a 20[[Byte|MB]] [[Hard disk drive|hard drive]].
+
+==Reception==
+''[[Computer Gaming World]]'' commented favorably on the combination of both action and adventure elements, but noted the immense difficulty of the game.<ref name = "CGW">{{Cite magazine | date = February 1989 | issue=56 | last = Roberts | first = Alan | magazine = Computer Gaming World | title = The Colony| pages = 14, 56}}</ref> ''[[Amiga Format]]'' echoed this feeling by giving it a 51% score and complaining that "the graphics are sketchy and unrealistic and the gameplay is repetitive and frustrating".<ref name = "AmigaFormat">{{Cite news | date = June 1990 | last = Evans | first = Maff | periodical = Amiga Format | title = The Colony| pages = 66}}</ref> ''[[Macworld]]'' named it Best Adventure Game of the Year in 1988, however, and in 2000 listed it as one of The Top Ten Mac Gaming Thingies of the Last 1,000 Years.<ref name = "Macworld">{{Cite news | date = Jan 2000 | last = Breen | first = Christopher | periodical = MacWorld | title = The Top Ten Mac Gaming Thingies of the Last 1,000 Years| pages = 63}}</ref> [[Orson Scott Card]], who  disliked ''The Colony'', wrote in ''[[Compute!]]'' "How did this game ever become a "game of the year"? Only because it originally appeared on the game-poor Mac", with excellent graphics that accompanied "a very limited puzzle game that became so annoying and confining" that he and his son gave up. Card stated that the game arbitrarily punished players for exploring, giving as example immediately dying from picking up cigarettes.<ref name="card198906">{{cite news | url=https://archive.org/stream/1989-06-compute-magazine/Compute_Issue_109_1989_Jun#page/n29/mode/2up | title=Light-years and Lasers / Science Fiction Inside Your Computer | work=Compute! | date=June 1989 | accessdate=11 November 2013 | author=Card, Orson Scott | pages=29}}</ref>
+
+== Legacy ==
+On June 6, 2023, Smith released the source code for the MS-DOS, Macintosh and Amiga versions on [[GitHub]] under the [[Apache License]] 2.0.<ref>{{Cite tweet|last=Smith |first=David A.  |author-link=David A. Smith (computer scientist) |user=gocroquet |number=1666309176958541824 |date=2023-06-07 |title=I just shared the source code for "The Colony" - the first realtime 3D adventure/shooter on Github. [...] |access-date=2023-06-08 |url-status=live |archive-url=https://web.archive.org/web/20230608123418/https://twitter.com/gocroquet/status/1666309176958541824 |archive-date=2023-06-08}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{GitHub|Croquetx/thecolony|Source code for ''The Colony''}}
+*[http://croqueteer.blogspot.com/2005/02/my-colony-memoir.html My Colony Memoir] on David Alan Smith's blog
+*{{webarchive |url=https://web.archive.org/web/20030827014500/http://www.macworld.com/2000/01/bc/gamesgameroom/ |date=August 27, 2003 |title=The Top Ten Mac Gaming Thingies of the Last 1,000 Years }}
+*[http://amr.abime.net/review_1967 Amiga Format review of ''The Colony''] at the Amiga Magazine Rack
+*{{moby game|id=/colony|name=The Colony}}
+
+=== Videos ===
+* [https://www.youtube.com/watch?v=i1XENlUUOhA Colony demo by David Smith - part 1]
+* [https://www.youtube.com/watch?v=3k3qrt76Ddk Colony demo by David Smith - part 2]
+
+{{DEFAULTSORT:Colony, The}}
+[[Category:1988 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:DOS games]]
+[[Category:First-person shooters]]
+[[Category:Open-source video games]]
+[[Category:Puzzle video games]]
+[[Category:Software using the Apache license]]
+[[Category:Video games about police officers]]
+[[Category:Video games developed in the United States]]
+[[Category:Mindscape games]]

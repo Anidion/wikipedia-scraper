@@ -1,0 +1,83 @@
+Adventureland (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Adventureland_%28video_game%29&oldid=1224116386
+Accessed on: 2024-06-26T16:47:48.847077
+
+
+
+------
+Adventureland (video game)
+{{short description|1978 video game}}
+{{Use dmy dates|date=June 2017}}
+{{Infobox video game
+|title     = Adventureland
+|image     = Adventureland 1979.jpg
+|caption   =
+|publisher = [[Creative Computing (magazine)|Creative Computing Software]]<br/>[[Adventure International]]
+|designer= [[Scott Adams (game designer)|Scott Adams]]
+|series= ''[[List of Scott Adams Adventure video games|Adventure]]''
+|engine=
+|released= [[1978 in video gaming|1978]]
+|genre= [[Interactive fiction]]
+|modes=
+|platforms= [[TRS-80]], [[Apple II]], [[Atari 8-bit]], [[TI-99/4A]], [[Commodore PET|PET]], [[Commodore 64]], [[IBM PC]], [[VIC-20]], [[ZX Spectrum]], [[BBC Micro]], [[Acorn Electron]], [[Dragon 32/64]], [[Exidy Sorcerer]]
+}}
+
+'''''Adventureland '''''is a [[text adventure]] video game for [[microcomputer]]s,<ref name="Analog">{{cite journal|last=Griffin|first=Brad|date=March–April 1983|title=Scott Adams Adventures 1–12|journal=[[ANALOG Computing]]|issue=10|url=http://www.cyberroach.com/analog/an10/default.htm|access-date=13 April 2015|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303191648/http://www.cyberroach.com/analog/an10/default.htm|url-status=dead}}</ref> released by [[Scott Adams (game designer)|Scott Adams]] in 1978. The game has no plot<ref>Adventure No. 01 - Adventureland v3.9-416 (1981)(Adventure International) https://archive.org/details/Adventure_No._01_Adventureland_v3.9-416_1981_Adventure_International</ref> but simply involves searching for thirteen lost artifacts in a fantasy setting. Its success led Adams to form [[Adventure International]],<ref>[http://www.gamesetwatch.com/2006/07/gamesetinterview_adventure_int.php "Game Set Interview: Adventure International's Scott Adams"] {{Webarchive|url=https://web.archive.org/web/20160803114144/http://www.gamesetwatch.com/2006/07/gamesetinterview_adventure_int.php |date=3 August 2016 }}, [[Game Set Watch]], July 19th, 2006, retrieved on April 20, 2009</ref> which went on to publish thirteen similar games in the ''Adventure'' series, each in different settings.
+
+== Gameplay ==
+''Adventureland'' is controlled through the use of written commands. These can consist of a single word, such as those used for [[player character]] movement, including north, south, east, west, up, and down. They can also take the form of simple, two-word [[verb]]/[[noun]] phrases, such as "climb tree". Although the game can recognize about 120 words, the parser only takes the first three letters into account.<ref>Adventure No. 01 - Adventureland v3.9-416 (1981)(Adventure International) https://archive.org/details/Adventure_No._01_Adventureland_v3.9-416_1981_Adventure_International</ref><ref name="gamesTM">{{Cite news|title=Great Scott|magazine=[[GamesTM]]|year=2009|issue=88|pages=152–157}}</ref> This means not only that the parser occasionally misidentifies words, but also that commands can be truncated: "lig lam" would be interpreted as "light lamp".
+
+In order to complete the game, the player has to collect the thirteen lost [[artifact (fantasy)|artifacts]]: A [[statue]] of [[Babe the Blue Ox|Paul Bunyan's blue ox, ''Babe'']], jeweled fruit, golden fish, a dragon's egg, a golden net, a [[magic carpet]], a diamond necklace, a diamond bracelet, a pot of rubies, [[Royal jelly|"royal honey"]], a crown, a magic mirror, and a "firestone".<ref>Adventure No. 01 - Adventureland v3.9-416 (1981)(Adventure International) https://archive.org/details/Adventure_No._01_Adventureland_v3.9-416_1981_Adventure_International</ref>
+
+==Development==
+''Adventureland'', Adams' first program, was inspired by<ref>Dennis G. Jerz, Somewhere Nearby is Colossal Cave: Examining Will Crowther's Original “Adventure” in Code and in Kentucky,  http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html</ref> the earlier ''[[Colossal Cave Adventure]]'', though it is not on the same scale.<ref name="Dragon42">{{cite magazine
+|last=Herro
+|first=Mark
+|title=The Electric Eye
+|magazine=[[Dragon (magazine)|Dragon]]
+|publisher=[[TSR (company)|TSR Hobbies, Inc.]]
+|volume=5
+|issue=4
+|date=October 1980
+|pages=42–43
+|url=http://www.annarchive.com/files/Drmg042.pdf
+|archive-url=
+|archive-date=
+|access-date=2015-07-11
+|quote=Then along came Scott Adams, who converted ADVENTURE for use with home computers. His first program, ADVENTURELAND, is a slightly scaled-down, machine-language version of the 'original' ADVENTURE program. Then he came out with PIRATE ADVENTURE, which has a completely different plot. With the success of these two programs, Scott wrote even more, and he has now become the acknowledged 'king' of the ADVENTURE game, with ten different versions being marketed. And there is talk of more on the way! ...During a game, the computer's video screen in divided into two parts. The upper half of the screen always displays the description of the location the player is in at the moment. It also lists the obvious directions the player may go (there may be other exits, such as climbing a tree if in a forest, or entering a specific location). The bottom half of the screen is reserved for the player's input, such as giving commands.  ...there is very little bloodshed of any kind in the Adams ADVENTURE series. It's brain instead of brawn that counts here. Indeed, there are many funny occurrences ...I can't recommend ANY version of Scott Adams' ADVENTURE series highly enough. Beg, borrow, or steal a chance to play ADVENTURE!!!!! }}</ref> The [[source code]] for ''Adventureland'' was published in ''[[SoftSide]]'' magazine in 1980<ref name="adams198012">{{cite news | url=https://archive.org/stream/softside-magazine-22/SoftSide_22_Vol_2-10_1980-07_Adventureland#page/n35/mode/2up | title=Adventureland | work=SoftSide |date = July 1980| accessdate=13 April 2015 | last=Adams | first=Scott | pages=36}}</ref> and the database format was subsequently used in other interpreters such as Brian Howarth's ''[[Mysterious Adventures]]'' series.<ref>{{cite book|title=The Inform Designer's Manual|first=Nelson|last=Graham| authorlink= graham Nelson | page=358|publisher=Dan Sanderson |year=2001 |isbn=0-9713119-0-0 |url=http://inform-fiction.org/manual/DM4.pdf}}</ref>
+
+[[File:Adventureland-cover.png|thumb|alt=The cover of the graphical version of Adventureland|The cover of the graphical version of Adventureland]]
+
+''Adventureland'' was written for the [[TRS-80]], then ported to other systems, most of which didn't exist in 1978: [[Apple II]], [[Atari 8-bit computers]], [[TI-99/4A]], [[Commodore PET|PET]], [[VIC-20]], [[Commodore 64]], [[IBM PC]], [[ZX Spectrum]], [[BBC Micro]], [[Acorn Electron]], [[Dragon 32/64]], and [[Exidy Sorcerer]]. A cut-down, three treasure version entitled ''Adventure 0: Special Sampler'' was also sold at a lower price.<ref>[http://adventure.if-legends.org/Adventure_International/Classic.html#0:__Adventureland_Demo 0:Adventureland Demo] "Scott Adams Classic Adventures," (retrieved on May 4, 2009).</ref>
+
+In 1982, ''Adventureland'' was re-released with [[Computer graphics|graphics]], thus enabling the player to view visible representations of the scenery and objects.<ref>Virtually Real:being in cyberspace, M. Leigh, 2014, PHD thesis, https://figshare.utas.edu.au/articles/thesis/Virtually_real_being_in_cyberspace/23242163, p 22</ref><ref>[http://adventure.if-legends.org/Adventure_International/Classic.html "Scott Adams Classic Adventures"], Adventureland, retrieved  April 20, 2009</ref>
+
+==Reception==
+Mark Herro for ''[[Dragon (magazine)|Dragon]]'' commented that "I can't recommend ANY version of Scott Adams' Adventure series highly enough. Beg, borrow, or steal a chance to play Adventure!"<ref name="Dragon42"/> British print magazine ''Micro Adventurer'' praised the VIC-20 version was released as a cartridge as the loading times would be too long otherwise. The screen format and parser were "standard" according to the magazine. It criticized minor controlling features, the non-consistent map and the seemingly random placement of treasures.<ref>{{cite magazine | last= | first= | date=1983-11-01 | title=Thanks for the memory | trans-title= | url= | language=en | magazine=Micro Adventurer | page=19 | location= | publisher= | access-date=}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://www.youtube.com/watch?v=yXalpUaECVw "Adventureland game walkthrough part 1 commodore 64 version."] YouTube, 15 February 2013, accessed 31 October 2020
+* {{IFDB|id=dy4ok8sdlut6ddj7}}
+
+{{Adventure International}}
+
+[[Category:1978 video games]]
+[[Category:1970s interactive fiction]]
+[[Category:Adventure games]]
+[[Category:Adventure International games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore PET games]]
+[[Category:Exidy Sorcerer games]]
+[[Category:DOS games]]
+[[Category:Dragon 32 games]]
+[[Category:TRS-80 games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]

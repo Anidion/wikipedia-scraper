@@ -1,0 +1,58 @@
+Cops 'n' Robbers
+Permalink: //en.wikipedia.org/w/index.php?title=Cops_%27n%27_Robbers&oldid=1230498497
+Accessed on: 2024-06-26T16:58:17.114667
+
+
+
+------
+Cops 'n' Robbers
+{{Short description|1985 video game}}
+{{about|the Atlantis computer game|other uses|Cops and Robbers (disambiguation)}}
+{{Infobox video game
+|title = Cops 'n' Robbers
+|image = Cops 'n' Robbers Cover.jpg
+|designer = Mike Davis
+|programmer = Mike Davis (VIC, C64)<br>Simon Leck (Atari)<ref>{{cite web |title=Cops 'n' Robbers |url=http://www.atarimania.com/game-atari-400-800-xl-xe-cops-n-robbers_1340.html |website=Atari Mania}}</ref>
+|publisher = [[Atlantis Software|Atlantis]]
+|released = '''1985:''' VIC, C64<br>'''1986:''' C16, Plus/4<br>'''1987:''' Electron, BBC<br>'''1988:''' Atari
+|genre = [[Maze video game|Maze]]
+|modes = [[Single-player]]
+|platforms = [[VIC-20]], [[Acorn Electron]], [[Atari 8-bit]], [[BBC Micro]], [[Commodore 64]], [[Commodore 16|16]], [[Commodore Plus/4|Plus/4]]
+}}
+
+'''''Cops 'n' Robbers''''' is a video game published by [[Atlantis Software]] in 1985 for the [[VIC-20]] and in virtually identical form on the [[Commodore 64]]. It was ported to the [[Commodore 16]] and [[Commodore Plus/4]] (1986), [[Acorn Electron]] and [[BBC Micro]] (1987), and [[Atari 8-bit computers]] (1988). The game was controversial when released as the player takes the role of a robber and must shoot the police.
+
+==Gameplay==
+[[Image:CopsNRobbersElectron.gif|thumb|left|Opening screen (Electron)]]
+[[Image:CopsNRobbersAtari.gif|thumb|left|Inside the Acme Diamond Company (Atari)]]
+[[Image:CopsNRobbersC64.png|thumb|left|Inside the haunted mine (C64)]]
+
+The player takes the role of a diamond thief named Fingers Lonegan. The game starts at Lonegan's car in the top left hand corner of the opening screen. The player must make their way to the Acme Diamond Company building at the bottom of the screen by negotiating the garden maze. Police appear from the Police station (at the top right of the screen) and will home in on and arrest Lonegan. To avoid being arrested, the player must shoot the police. Bullets are limited but can be replenished by going back to the car. The player may also enter the mine or the police station (not all versions) from this opening screen.
+
+There are many diamonds to collect which are on many levels of the Acme Diamond Company building as well as the mine. Police enter the building but not the mine where the only enemies are ghosts. The player may also enter the police station (on some versions) and free fellow robbers.
+
+There are basic puzzles such as collecting keys, [[Trinitrotoluene|TNT]], torches (some rooms are dark so the walls of the maze cannot be seen without the torch) and the code for the safe to advance in the game.
+
+==Reception==
+The game was criticised for the fact that you shoot and kill many policemen. At the time, this was highly controversial as video games were very much seen as being for children. Rog Frost in ''[[Electron User]]'' wrote, "I find this game wholly inappropriate. It strikes me as abhorrent that success is measured by the ability to shoot policemen or steal diamonds. It should have been given a fantasy setting where the nasties which must be shot are not recognisable as creatures from the Earth".<ref name="electron user">[http://www.retroalphabet.com/game.asp?Game_Name=COPS%20N%20ROBBERS "Dodgy Scenario", Electron User, Vol. 5, No. 3, January 1988]</ref> This view was shared by Ray Sharp of ''[[Atari User]]'' as "shooting policemen is not my idea of a good thing to teach children to do. Aliens from a distant planet OK but not your neighbourhood bobby".<ref name="atari user">{{cite magazine|url=http://www.atarimania.com/det_mag_review.php?MAG_REVIEW_ID=198&SOFT_ID=1341|title="Cops'n Robbers" review|magazine=Atari User|volume=4|issue=3|date=July 1988|archive-url=https://web.archive.org/web/20061025103147/http://www.atarimania.com/det_mag_review.php?MAG_REVIEW_ID=198&SOFT_ID=1341|archive-date=2006-10-25 }}</ref>
+
+The game also received almost universally negative reviews from critics at the time. ''Electron User'' awarded an overall mark of 4/10, complaining "The graphics aren't really up to par, even for software at this price. The sprites are simple and undergo a sort of jerky animation... The scenery that supports the action can probably best be described as plain or perhaps boring".<ref name="electron user" /> ''Atari User'' awarded only 2/10 overall (with a score of 0/10 for value for money despite only costing £1.99) concluding "The graphics are pathetic and the sound effects dismal. The game is playable but not for long... it's a disaster".<ref name="atari user" /> ''[[Zzap!64]]'' gave an even lower score of 9% claiming it to be "The worst program we've seen on the 64".<ref name="zzap!64">[http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=007&page=037&thumbstart=0&magazine=zzap&check=1 "Cops 'N' Robbers", Zzap!64, Issue 7, November 1985]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{lemon64 game|id=539|name=Cops 'n' Robbers}}
+*{{atarimania|id=1340}}
+
+[[Category:1985 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atlantis Software games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:Maze games]]
+[[Category:Single-player video games]]
+[[Category:VIC-20 games]]
+[[Category:Video games about crime]]
+[[Category:Video games developed in the United Kingdom]]

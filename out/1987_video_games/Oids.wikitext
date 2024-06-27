@@ -1,0 +1,121 @@
+Oids
+Permalink: //en.wikipedia.org/w/index.php?title=Oids&oldid=1225800738
+Accessed on: 2024-06-26T17:02:46.028749
+
+
+
+------
+Oids
+{{Short description|1987 video game}}
+{{Infobox VG
+| title = Oids
+| image = Oids Coverart.png
+| caption = Cover art by David Darrow
+| developer = [[FTL Games|FTL]]
+| publisher = FTL
+| designer = Dan Hewitt
+| programmer = Dan Hewitt
+| artist = Dan Hewitt
+| release = '''1987:''' Atari ST<ref>{{cite web | url = https://www.gamespot.com/games/oids/ | title = Oids | work = at [[GameSpot]]}}</ref><br>'''1990:''' Mac<ref name=mw2002_03>{{cite magazine | url = https://www.macworld.com/article/1004115/oids.html | title = OIDS -- Classic Mac game returns from the dead | magazine = [[Macworld]] online | first = Peter | last=Cohen | date=25 March 2002}}</ref><br>'''2014:''' Amiga<ref name="HOL">{{cite web | url = http://hol.abime.net/6049 | title = Oids | work = at Hall of Light}}</ref>
+| genre = [[Multidirectional shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Atari ST]], [[Amiga]], [[Macintosh]]
+}}
+
+'''''Oids''''' is a [[multidirectional shooter]] developed and self-published by [[FTL Games]] in 1987. The game was originally released on the [[Atari ST]], followed by a B&W version for the classic 68k [[Macintosh]] in 1990. The Atari ST version, written by Dan Hewitt, was a cult favourite in the [[United Kingdom|UK]], where it received rave reviews.
+
+The game follows in the footsteps of shoot 'em ups such as ''[[Asteroids (video game)|Asteroids]]'' (1979), ''[[Gravitar]]'' (1982), Defender and ''[[Thrust (video game)|Thrust]]'' (1986), with its "thrust-and-rotate" controls, [[inertia]] and [[gravity]]-based movement, 360 degree shooting and manually-operated shield. The main activity in the game is rescuing abused android slaves (the "Oids" of the title), and there is rather more emphasis on arcade action than the slower-paced gameplay of ''Gravitar'' and ''Thrust''.
+
+In 2002, Kirk Baker – one of the original authors of the Mac Classic version – released ''OIDS.X'' 2.0 for [[macOS|Mac OS X]] which supported PowerPC machines on System 7. It added glorious colour, and was an authorized [[shareware]] version of the original ''Oids''.
+
+A year later (2003), a version of OIDS.X was released for Mac OS X, which added support for OpenGL which resulted in smoother gameplay. All the sounds were recreated in 16-bit CD-quality, and all the graphics were redone by Drew Pauley, Bill Densmore, and Kirk Baker.
+
+==Plot==
+The Evil Biocretes, rulers of the wealthiest parallel universe in the cosmos, have created a race of android slaves they call "OIDS". The Biocretes treat the gentle, peace-loving OIDS worse than space debris; they abuse them in every way imaginable. While the downtrodden OIDS toil in filthy, dangerous energy factories, the Biocretes live lives of gluttony and greed, savoring the fruits of the OIDS' labor. The OIDS are allowed to rust, denied of their basic need for oil. Often they are forced to work with one or two limbs completely rusted off. When the OIDS are finally fatigued to the point of collapse, the Biocretes tortuously melt them alive to build new OIDS. "They're just stupid heaps of metal", the Biocretes rationalize. "They have no hearts. We built the OIDS, so we have the right to treat them as we please".
+
+The OIDS may not have hearts, but they do have souls, and no creature, whether biological or mechanical, should be treated the way the Biocretes treat the OIDS. Being a member of a compassionate race, you have been so moved and angered by the mistreatment of the OIDS, that you've vowed to devote your life to freeing them from the yoke of Biocrete slavery. You've joined the intergalactic organization, "SaveOIDS," and through your courage and passion have quickly risen through the ranks to V-Wing Pilot Commander. In their long history, the Biocretes have colonized planetoids in galaxies throughout the universe. The SaveOIDS Central Command has decided that each fleet should concentrate its efforts in a different galaxy. As Lead Commander, you are given first pick from the list of targeted galaxies. If you do well on this mission, your reward will be another, more demanding one. Good luck, Commander, and remember the battle cry: Free the OIDS!<ref name=MANUAL>Oids Instruction Manual. FTL Games. FTL Games 1987</ref>
+
+==Gameplay==
+[[File:Oids Atari ST 1987.gif|270px|left|thumb|Gameplay screenshot]]
+
+Players assume control of a V-Wing, a rotatable craft with thrusters that is constantly subject to gravity and the craft's inertia. During the course of the game, players have to dodge enemy fire, shoot at enemies and carefully manoeuvre the V-Wing through a series of cavernous alien landscapes filled with various types of enemies and defense systems. The main goal in the game is rescuing the "OIDS". This is accomplished by destroying the factories in which they are held captive, bringing them on board the V-Wing by landing it on flat ground and transporting them to the waiting mothership.<ref name=plotkin198806/><ref name=ACE/><ref name=CVG/>
+
+The V-Wing is armed with two types of weapons, an unlimited number of "nuclear photons" and a limited number of, much more powerful, "NovaBombs". The former are released in a machine-gun fashion, while the latter is dropped one at a time and can be detonated in two ways; normally, a NovaBomb will explode only when it contacts the ground or a shield. However, it's also possible for the players to control the detonation by holding down the NovaBomb key and releasing it when they want the NovaBomb to explode.<ref name=MANUAL/>
+
+If the V-Wing is hit by enemy fire or crashes into the terrain (or any other obstruction on the ground), it will explode. Players are given a shield to protect themselves from enemy fire and collisions. The shield is manually-operated and the longer it stays activated the weaker it becomes. The shield can also be manually recharged, but this consumes fuel<ref name=STS/><ref name=ACE/><ref name=CVG/> The V-Wing has a limited fuel supply and can be replenished in two ways. One is by landing next to a Biocrete fuel base (which will trigger its auto-refuel mechanism). It's also possible to refuel by picking up a full load of OIDS (eight, unless there are no more OIDS remaining on the planetoid) and transporting them to the mothership. While docked, the mothership will pump as much fuel as time permits.<ref name=MANUAL/>
+
+The game allows players to change the global difficulty setting for each planetoid. The higher it is set, the more difficult the game becomes, affecting things such as how often the Biocretes fire and how quickly the home bases generate new Biocrete spacecraft.<ref name=MANUAL/> ''Oids'' also includes a level editor, allowing players to create additional content for the game.<ref name=manor198807/>
+
+==Level editor==
+''OIDS'' includes a level editor which was used to design both the original galaxies and the new galaxies in the macOS version 2.0.
+
+==Reception==
+{{Video game reviews
+|rev1 = ''[[ACE (magazine)|ACE]]''
+|rev1Score = 969/1000<ref name=ACE>{{cite magazine|title = Oids Review|date = May 1988|first1=Andy |last1=Wilton |magazine = [[ACE (magazine)|ACE]] |url=https://archive.org/details/ace-magazine-08/page/n43/mode/1up |publisher = [[Future Publishing]]|issue = 8|pages = 44–45}}</ref> 
+|rev2 = ''[[Computer and Video Games|CVG]]''
+|rev2Score = 8/10<ref name=CVG>{{cite magazine|title = Oids Review|date = April 1988|first1=Eugene |last1=Lacey |magazine = [[Computer and Video Games|CVG]]|publisher = [[Future Publishing]]|issue = 78|page = 64}}</ref>
+|rev3 = ''[[Dragon (magazine)|Dragon]]''
+|rev3Score = 5/5<ref name="Dragon137">{{cite magazine |title=The Role of Computers |last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk |magazine=Dragon |issue=137 |date=September 1988 |pages=88–93 |url=https://archive.org/details/DragonMagazine260_201801/DragonMagazine137/page/n89/mode/1up}}</ref>
+|rev4 = ''[[Macworld]]''
+|rev4Score = 5/5<ref name=mw2002_03 /><ref>{{cite web|archive-url=https://web.archive.org/web/20001205023500/http://freespace.virgin.net/daniel.durgan/ftl/ftl.html|date=October 1998|archive-date=2000-12-05|title=FTL History|publisher=The Un-Official Dungeon Master Web Site|url=http://freespace.virgin.net/daniel.durgan/ftl/ftl.html|first=Daniel|last= Durgan}}</ref>
+| award1Pub = ''[[ACE (magazine)|ACE]]''
+| award1 = Top 100 Games of 1987/1988<ref name=ACE2>{{cite magazine|title = Top-100 Games of 1987/1988 |date = October 1988 |magazine = [[ACE (magazine)|ACE]]|publisher = [[Future Publishing]]|issue = 13|page = 56 |url= https://archive.org/details/ace-magazine-13/page/n55/mode/1up}}</ref>
+| award2Pub = ''[[ST Format]]''
+| award2 = Top 50 Atari ST Games of All Time (#23)<ref name=STF>{{cite magazine|title = Don't dream it, play it|date = January 1993|first1=Andy |last1=Lowe |magazine = [[ST Format]]|publisher = [[Future Publishing]]|issue = 42|page = 16}}</ref>
+| award3Pub = ''[[Retro Gamer]]''
+| award3 = #83 Best Game of All Time (Readers' Vote)<ref name=RG2>{{cite magazine|title = Best Games of All Time |date = September 2004 |magazine = [[Retro Gamer]]|publisher = [[Future Publishing]]|issue = 8|page = 83 |url = https://archive.org/details/retro_gamer/RetroGamer_008/page/55/mode/1up}}</ref> 
+}}
+
+''[[ACE (magazine)|ACE]]'' gave the game a score of 969 out of 1000, describing it as "a gutsy, brainy, frantically obsessive shoot-em-up with strategic depth". They felt that "the tiny detailed graphics reach their peak with the perfectly animated Oids themselves, but are low-key enough to let you concentrate on the game's unrivaled action". They also praised the inclusion of a level editor as a bonus that increases the game's value for money. ''ACE'' editor Andy Wilton concluded, saying, "some wonderful set-pieces and hellish crossfire zones make the game tremendously playable" and "the sheer intensity of addiction it generates will have you playing night and day (...) If you're sick of all those glossy, disposable ST shoot-em-ups, get Oids - it'll knock your socks off".<ref name=ACE/>
+
+Eugene Lacey of ''[[Computer and Video Games]]'' described the game as "a cross between Thrust and Choplifter", noting that "any ST owner who has played Thrust will not want to be without Oids". He awarded the game a score of 8 out of 10, saying "if you do fork out for it you are in for hours of excellent computer entertainment".<ref name=CVG/> According to John Manor of ''[[Antic (magazine)|Antic]]'', "Oids combines the daring rescues of ''Choplifter'', the frantic action of ''Defender'' and the precision flying of ''Lunar Lander'' for a fantastic arcade shoot-em-up". He said that the Atari ST version "is skillfully crafted and detailed. It deserves to be on the wanted list of any arcade game fan".<ref name="manor198807">{{Cite magazine |last=Manor |first=John |date=July 1988 |title=ST Games Gallery: Hunt For Red October, Arctic Fox, Oids, Police Quest, Space Quest II, Slaygon, Beyond Zork |url=https://www.atarimagazines.com/v7n3/stgamesgallery.html |magazine=Antic |access-date=2020-05-09}}</ref>
+
+Writing for ''[[Compute!]]'', David Plotkin highlighted the fact that "this game really shines in playability". He also praised the game's graphics and sound, calling it "a winner".<ref name="plotkin198806">{{cite magazine | url=https://archive.org/stream/1988-JUn-compute-magazine/Compute_Issue_097_1988_JUn#page/n45/mode/2up | title=Play a Game | magazine=Compute! | date=June 1988 | access-date=10 November 2013 | last=Plotkin | first=David | pages=45}}</ref> ''ST-Log'' noted that "there are plenty of surprises in Oids" and praised the game's intense action where "things pop up from underground to fire on you, and alien ships suddenly appear from any direction". They also praised the game's addictive nature with editor Clayton Walnum concluding "the first time I sat down to play Oids, I started at about 11 pm. When I finally decided it was time to put the disk away, the sun was coming up. Need I say more?"<ref name=STS>{{cite magazine|title = Oids Review|date = October 1988|first1=Clayton |last1=Walnum |magazine = ST-Log|publisher = Larry Flynt Publishing|issue = 24|pages = 41–42, 45 |url=https://archive.org/details/ST_Log_Magazine_Issue_24/page/n40/mode/1up}}</ref> The game was reviewed in 1988 in ''[[Dragon (magazine)|Dragon]]'' #137 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 5 out of 5 stars.<ref name="Dragon137"/>
+
+''[[ST Format]]'' placed ''Oids'' at number 23 in their 1993 feature  "Top 50 Atari ST Games of All Time", calling it "an excellent game" with "a lot of addictive qualities".<ref name=STF/>  ''Oids'' also appears in the book ''[[1001 Video Games You Must Play Before You Die]]'', by longtime editor of ''[[Edge (magazine)|Edge]]'' magazine Tony Mott. In his retrospective take on the game he mentions that "''Oids'' is much more than just an exceptionally playable gravity-based game. It's one of the last bastions of a different gaming age, one in which game ideas seemed more innocent, unconcerned with the commercial considerations so prominent in today's titles (...) The concept is as simple yet accomplished as the gorgeous, economical visuals, presenting you with an irresistible game mechanic that cleverly contrasts careful and considered navigational sections with moments of intense action. It's a powerful mix, and one that delivers a supremely addictive experience".<ref>{{cite book| last=Mott |first=Tony |year=2010 |title=[[1001 Video Games You Must Play Before You Die]] |publisher=[[Universe Publishing]] |isbn=978-0-7893-2090-2}}</ref>
+
+==Legacy==
+In 2003, Kirk Baker – one of the original authors of the Macintosh version – released ''OIDS.X'', an enhanced authorized [[shareware]] version of ''Oids'' for [[macOS|Mac OS X]].
+
+In a 2011 interview with ''[[Retro Gamer]]'', Steve Hughes cites ''Oids'' as an influence when creating ''Solar Jetman'' (1990) for the [[Nintendo Entertainment System]].<ref name=RG>{{cite magazine|title=1983: A Spaceman's Odyssey - The History of Jetman|magazine=Retro Gamer|date=November 2011|issue=96|page=50|url=http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_096.pdf|access-date=22 August 2015|publisher=Imagine|url-status=dead|archive-url=https://web.archive.org/web/20150927142453/http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_096.pdf|archive-date=27 September 2015}}</ref>
+
+An Amiga conversion of ''Oids'' was created by Philippe Guichardon (Meynaf) in 2014 by reverse engineering the Atari ST version.<ref name="HOL"/>
+
+==See also==
+* ''[[Fly Harder]]''
+* ''[[Gravity Crash]]''
+* ''[[Gravity Force]]''
+* ''[[Solar Jetman]]''
+* ''[[Sub-Terrania]]''
+* ''[[TerraFire]]''
+* ''[[Zarathrusta]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.atarimania.com/game-atari-st-oids_s8948.html ''Oids''] OIDS at Atari Mania
+* [https://macintoshgarden.org/games/oids ''OIDS 1.3''] OIDS 1.3 for Classic 68k Mac (1990)
+* [https://macintoshgarden.org/games/oids-2 ''OIDS 2''] OIDS 2.0.1 for Mac System 7 (2002)
+* [https://macintoshgarden.org/games/oidsx ''OIDS for Mac OS X''] OIDS 10.0.4 for Mac OS X (2003)
+* {{abime|id=6049}}
+* [http://meynaf.free.fr/pr/index_en.html Port of OIDS for Amiga by Meynaf]
+* [https://www.youtube.com/watch?v=Q2OnP38rnpU OIDS for Atari ST Gameplay video]
+* [https://www.youtube.com/watch?v=0xYeymIgHAs&t=49s OIDS for macOS9 Gameplay video]
+* [https://web.archive.org/web/20160325182707/http://www.xavagus.com/Products/OIDSManual/OIDSManual.html Manual]
+* [https://www.youtube.com/watch?v=XdchIntQ5tg ''OIDS Review''] ''Oids'' review for the Atari ST by John Gage
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Classic Mac OS games]]
+[[Category:FTL Games games]]
+[[Category:Macintosh games]]
+[[Category:Multidirectional shooters]]
+[[Category:Single-player video games]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games about robots]]
+[[Category:Video games about slavery]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set on fictional planets]]

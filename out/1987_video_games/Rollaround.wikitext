@@ -1,0 +1,50 @@
+Rollaround
+Permalink: //en.wikipedia.org/w/index.php?title=Rollaround&oldid=1224583765
+Accessed on: 2024-06-26T17:03:00.530542
+
+
+
+------
+Rollaround
+{{refimprove|date=June 2018}}
+{{Infobox video game
+|title = Rollaround
+|image = Rollaround Cover.jpg
+|developer = Mr. Chip Software
+|publisher = [[Mastertronic]]
+|released = '''1987:''' C64<br>'''1988:''' Spectrum, CPC
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player]]
+|platforms = [[Commodore 64]], [[ZX Spectrum]], [[Amstrad CPC]]
+}}
+
+'''''Rollaround''''' is an [[Isometric projection|isometric]] [[3D computer graphics|3D]] [[puzzle video game]] published by [[Mastertronic]] in [[1987 in video gaming|1987]] for the [[Commodore 64]] and [[1988 in video gaming|1988]] for the [[ZX Spectrum]] and [[Amstrad CPC]]. The game is a combination of ''[[Marble Madness]]'' and ''[[Q*bert]]'', with the player controlling a ball on a map made up of tiles which change pattern or colour when touched. A level is completed when a specific number of tiles have been changed in this way.
+
+== Gameplay ==
+The player controls a ball which can move in the four [[cardinal directions]] and also jump. Jumping is necessary to traverse gaps between tiles and evade enemies.
+
+There are six kinds of target tile (shown at top of screen) but not all of them feature in every level. There is a quota for the exact number of tiles of each type that must be touched; if this is exceeded the level cannot be completed. Certain tiles operate as switches; touching them will change the arrangement of tiles on the screen. Certain exits are only revealed when the nearest tile is touched.
+
+Various enemies will try to kill the player; they must be evaded or jumped over. Falling off the map is also fatal. There is also a time limit.
+
+== Reviews ==
+''[[Sinclair User]]'': "If leaping over fast-moving aliens, collecting squares and avoiding big holes are things you don't do well in real life, then you won't get far with ''Rollaround''."<ref name="Sinclair User Review">{{Citation|title=Rollaround Review|newspaper=[[Sinclair User]]|date=April 1988}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{WoS game|id=0004229|name=Rollaround}}
+*{{lemon64 game|id=2175}}
+*[http://www.c64.com/?type=1&id=1372 ''Rollaround''] at c64.com
+
+[[Category:1987 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Magnetic Fields (video game developer) games]]
+[[Category:Marble video games]]
+[[Category:Puzzle video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with isometric graphics]]
+[[Category:ZX Spectrum games]]

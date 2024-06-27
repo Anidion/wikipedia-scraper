@@ -1,0 +1,63 @@
+Crobots
+Permalink: //en.wikipedia.org/w/index.php?title=Crobots&oldid=1170421819
+Accessed on: 2024-06-26T16:58:18.457592
+
+
+
+------
+Crobots
+{{Infobox software
+| name                   = Crobots
+| logo                   =
+| screenshot             =
+| caption                =
+| collapsible            =
+| author                 = Tom Poindexter
+| developer              =
+| released               = {{release date|1985|12}}
+| latest release version = 1.1 patch level 2.1
+| latest release date    = {{release date|2003|11|22}}
+| latest preview version =
+| latest preview date    =
+| programming language   = C<ref>{{Cite web|url=https://github.com/tpoindex/crobots/tree/master/src|title=CROBOTS source code|website=[[GitHub]] }}</ref>
+| operating system       = [[MS-DOS]], [[Microsoft Windows|Windows]], [[Linux]] ELF i686, [[Linux]] ELF x86_64, [[IBM AIX]] 5.3, [[HP-UX]], [[PlayStation 3]], [[Solaris (operating system)|Solaris]] 9, [[Mac OS X]]
+| platform               = [[Personal computer]]
+| size                   = 65.5 KB - 140.9 KB, 509.0 ([[Mac OS X]])
+| language               =
+| genre                  = [[Programming game]]
+| license                = [[GPLv2]], [[open-source license|open-source]]
+| website                = http://crobots.deepthought.it
+}}
+'''Crobots''' is a [[programming game]] released for the first time by Tom Poindexter in December, 1985 as [[Shareware]].<ref>[https://tpoindex.github.io/crobots/ crobots] ''"Ignore the banner that says CROBOTS is Shareware, I don't want your money and I don't live in Illinois any longer."''</ref> It is an MS-DOS program for IBM PC and compatibles and was developed on x86-based Unix systems.<ref>{{Cite web|url=https://github.com/tpoindex/crobots/blob/master/docs/crobots_manual.html|title=CROBOTS Manual|website=[[GitHub]] }}</ref><ref>{{Cite web|url=https://tpoindex.github.io/crobots/|title=CROBOTS Home Page}}</ref>
+
+The [[robot]]s are controlled by a program written in a stripped-down version of [[C (programming language)|C]]. The robot's mission is to seek out and destroy other robots, each running different programs. The robots can be controlled in order to move around the battlefield, scan the environment to find enemies and fire at enemies using a cannon.<ref>{{Cite web|url=http://corewar.co.uk/crobots.htm|title = Crobots}}</ref>
+
+Crobots borrows the concept used from the game [[RobotWar]] that ran on the original [[Apple II]] computer. Robots were programmed in a proprietary programming language that was interpreted and included a real-time view of the game as it was played.
+
+In October, 2013, Poindexter released the [[source code]] of Crobots under the [[GPLv2]] [[free software]] [[software license|license]].<ref>[https://tpoindex.github.io/crobots/ Crobots] "CROBOTS is a programming game, for programmers (or aspiring programmers.)"</ref><ref>[https://github.com/tpoindex/crobots/ Crobots] on [[github.com]]</ref>
+
+==Clones==
+There have been many Crobots [[Clone (computing)|clones]] made. However, very few of them are [[compiler]] and [[virtual machine]] at the same time; for example there are [[Java (programming language)|Java]] clones that use [[Java Virtual Machine|JVM]] and [[C++]] clones that use a standard [[Microsoft]] compiler.
+
+Proper clones have the same intrinsic functions as the original Tom Poindexter version; sometimes however the direction of angles is changed to match the standard C library's trigonometric functions. The most recent{{when|date=August 2016}} clones are Crobots64 and Netrobots.
+
+Crobots64 by Marco Zora has a [[C++]]-subset compiler and a [[virtual machine]] with a graphical interface.<ref>{{Cite web|url=http://corewar.co.uk/crobots/zora/|title = La pagina contiene dei frame}}</ref> New capabilities in this clone are cooperation between robots of the same species, the unlimited number of concurrent robots, the floating point math functions and the speed of the virtual CPU.
+
+In contrast, Netrobots can run over a network with each robot running in a separate process, and each robot can be written in a different programming language.<ref>{{Cite web|url=https://github.com/bonzini/netrobots#readme|title = Bonzini/Netrobots| website=[[GitHub]] |date = 19 February 2021}}</ref>
+
+== See also ==
+{{Portal|Video games}}
+* [[Core War]]
+
+==References==
+{{reflist|30em}}
+
+[[Category:1985 video games]]
+[[Category:Programming games]]
+[[Category:Open-source video games]]
+[[Category:Freeware games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video games developed in the United States]]
+
+
+{{programming-videogame-stub}}

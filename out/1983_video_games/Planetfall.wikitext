@@ -1,0 +1,159 @@
+Planetfall
+Permalink: //en.wikipedia.org/w/index.php?title=Planetfall&oldid=1224117969
+Accessed on: 2024-06-26T16:55:36.533344
+
+
+
+------
+Planetfall
+{{other uses}}
+{{Infobox video game
+|title  = Planetfall
+|image = Planetfall box art.jpg
+|developer = [[Infocom]]
+|publisher = Infocom
+|designer = [[Steve Meretzky]]
+|engine = [[Z-machine]]
+|released = Release 20: July 8, 1983<br>Release 26: October 14, 1983<br>Release 29: January 18, 1984<br>Release 37: October 3, 1985<br>Solid Gold: May 31, 1988
+|genre = [[Interactive fiction]]
+|modes = [[Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Amstrad PCW]], [[Apple II]], [[Apricot PC]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[CP/M]], [[DEC Rainbow|Rainbow]], [[Kaypro II]], [[Mac (computer)|Mac]], [[NEC APC]], [[Osborne 1]], [[MS-DOS]], [[PC-9800 series|PC-9801]],<ref name="PC9801 Library"/> [[TI-99/4A]], [[TRS-80]].<ref>[http://adventure.if-legends.org/Infocom.html Planetfall at Adventureland] by Hans Persson and Stefan Meier</ref>
+}}
+
+'''''Planetfall''''' is a [[science fiction]] themed [[interactive fiction]] video game written by [[Steve Meretzky]], and published in 1983 as the eighth game from [[Infocom]]. The original release was for [[Apple II]], [[Atari 8-bit computers]], [[TRS-80]], and [[IBM PC compatible]]s (both as a [[self-booting disk]] and for [[MS-DOS]]). [[Atari ST]] and [[Commodore 64]] versions were released in 1985. A version for [[CP/M]] was also released. ''Planetfall'' was Meretzky's first published game, and it proved one of his most popular works and a best-seller for Infocom. It was one of five top-selling games to be re-released in Solid Gold versions with in-game hints. ''Planetfall'' uses the [[Z-machine]] originally developed for ''[[Zork]]'' and was added as a bonus to the ''[[Zork Anthology]]''.
+
+The word ''planetfall'' is a [[portmanteau]] of ''[[planet]]'' and ''[[landfall]]'', and occasionally used in [[science fiction]] to that effect. The book ''Planetfall'' written by [[Arthur Byron Cover]], uses the game image on the cover, and is marketed "In the bestselling tradition of ''[[The Hitchhiker's Guide to the Galaxy]]''."<ref Name="Cover">{{cite book | title= Planetfall | last= Cover | first= Arthur Byron | year= 1988 | publisher= Avon | isbn= 0-380-75384-7 | page= [https://archive.org/details/planetfall00cove/page/298 298] | url= https://archive.org/details/planetfall00cove/page/298 }}</ref> A sequel, ''[[Stationfall]]'', was released in 1987.
+
+==Plot==
+[[File:Planetfall-map.jpg|thumb|A map of ''Planetfall'' world by Aaron A. Reed from ''50 Years of Text Games'' project]]
+The game starts with the user assuming the role of a lowly Ensign Seventh Class on the ''S.P.S. Feinstein'', a [[starship]] of the Stellar Patrol. Overbearing superior Ensign First Class Blather assigns the player to mop decks, not exactly the glorious adventures promised by the recruiters on Gallium. In the diary provided in the "feelies", the player is on the verge of deserting ship. But a sudden series of explosions aboard the ship sends the player scrambling for an escape pod, which eventually crash-lands on a nearby planet. There are signs of civilization, but curiously no traces of the beings that once lived there. Eventually encountering a helpful but childlike [[robot]] named Floyd, the player must unravel the mysteries of the single deserted structure on the planet, Resida, and find a way to get back home. As the fate of the planet's former inhabitants becomes clearer, a time limit also imposes itself.
+
+The adventurer does not remain on ''S.P.S. Feinstein'' for long. Talking to the alien ambassador and performing the assigned task of scrubbing the floor don't accomplish much. Wandering to other parts of the ship merits demerits from Blather and an ultimately fatal run-in with the Brig unless the player returns to work. Soon, an explosion occurs and an escape pod door opens. The pod safety netting breaks the player's fall and an escape kit is produced, which proves critical to survival. With great exertion, the adventurer swims out of the pod and climbs up to a mysterious deserted base.
+
+By putting together various clues, slowly the player realizes that the nearly uninhabited island is in fact one of the last remaining landmasses on a planet on the verge of destruction. A deadly plague for which no cure existed threatened to kill off all inhabitants of the world. The inhabitants initiated a planetwide project to place everyone under suspended animation while automated systems of robots and computers worked towards finding a cure. Once the cure was found, the inhabitants could be revived.
+
+By the time the player arrives, it is clear that the project is on the edge of success, but the planet itself is on the verge of destruction. The planetary orbit has decayed, leading to massive global warming and an enormous rise in the oceanic levels. Meteorites bombard the planet with ferocious intensity, and the project to find a cure for the plague is itself threatened by the failure of the main computer and repair systems. Adding to the challenge is the fact that some of the puzzles are not solvable. Determining which ones are impossible and avoiding even trying is essential.
+
+Early on in the game, the player finds what at first appears to be the only remaining inhabitant of the island: Floyd, a childish yet endearing robot. He is both a constant source of comic relief (e.g. "Oh, boy! Are we going to try something dangerous?" when the player saves the game in his presence), and also critical in advancing the plotline. Once Floyd realizes that the ProjCon repair robot (aptly named [[Achilles]]) is non-functional, and that the Project is close to completion, he performs the ultimate sacrifice and gives his life to retrieve the vital Miniaturization Card from the Bio-lab (the mutants within kill the player if he tries to get it himself). As Floyd lies dying, the player sings the "Ballad of the Starcrossed Miner" to him (itself an allusion to the earlier Infocom game ''[[Starcross (video game)|Starcross]]'').
+
+The adventurer then uses the Miniaturization Booth to access malfunctioning Relay Station #384 and repairs the main computer by removing an offending speck of dust with a laser. After defeating a giant microbe, the adventurer is informed that the primary Miniaturization Booth is malfunctioning and is rerouted to the Auxiliary Booth. Unfortunately, this puts a room full of mutants between the player and the endgame.
+
+With a biomask and the help of the Laboratory's poison gas system, the player makes it through the Bio-lab but emerges with the mutants on his tail. However, the adventurer makes it to the Cryo-Elevator which is hidden behind a mural. The elevator takes the adventurer to a secret room where the survivors of the infection were cryogenically frozen, just as the entire facility staff is reanimated by the antidote discovered by the ProjCon Computer. The adventurer is proclaimed a hero, Floyd is repaired, and Blather is demoted.
+
+There are 41 ways to die.<ref name="nzt1984spring">{{Cite journal |date=Spring 1984 |title=Infocom Scoreboard |url=http://infodoc.plover.net/nzt/NZT3.2.pdf |journal=The New Zork Times |volume=3 |issue=2 |pages=3}}</ref><ref name="cg198502">{{cite magazine | url=https://archive.org/stream/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US#page/n7/mode/2up | title=Hot Gossip | magazine=Computer Games | date=February 1985 | page=8 | access-date=15 January 2015}}</ref> The adventurer must sleep in a Dormitory each night and eat when hungry. Taking more than a few days causes the adventurer to succumb to the infection which apparently has ravaged the facility unless the antidote is obtained at the underground site. But even taking the antidote only buys a little time as the planet is nearing its sun. To achieve the optimum ending, the adventurer also must repair the three Planetary systems: the Communications System, the Planetary Defense System, and the Course Control System.
+
+==Release==
+The game included the following physical items:
+#A Stellar Patrol "Special Assignment Task Force" ID card (about the size and shape of a [[credit card]]). The ID number printed on the card is the telephone number of MIT's student newspaper, ''[[The Tech (newspaper)|The Tech]]'', which was in the way of a prank by Meretzky.
+#Three interstellar [[postcard]]s
+#A Stellar Patrol recruiting manual, "Today's Stellar Patrol: Boldly Going Where Angels Fear to Tread"
+#A short diary kept by the player's character (in the Solid Gold release, an in-game object included in the player's starting inventory rather than the packaging)
+
+==Reception==
+''[[Softline (magazine)|Softline]]'' stated that "the puzzles are good; the character of Floyd is great". The magazine stated that the "game is excellent", but criticized the ending as "unabashed adolescent wish fulfillment ... more like a fairy tale".<ref name="durkee19830708">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=12 | title=Planetfall | author=Durkee, David | magazine=Softline | volume=2 | issue=5 | date=July–August 1983 | page=22 | access-date=28 July 2014}}</ref> In 1984 the magazine's readers named the game the tenth most-popular Apple program of 1983.<ref name="stgame19840304">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | magazine=St.Game | volume=3 | issue=3 | date=Mar–Apr 1984 | access-date=28 July 2014 | pages=49}}</ref> ''[[Computer Gaming World]]'' called Floyd's role as sidekick "unique" and hoped that future games would add such innovations. It stated that ''Planetfall'' was "another excellent adventure" for text-adventure fans, and a good place to start for those new to interactive fiction.<ref name = "CGW">{{Cite magazine | date = April 1984 | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=2&id=15 | last = McPherson | first = James | magazine = [[Computer Gaming World]] | volume=4 | issue=2 | title = Micro-Reviews: Planetfall | pages = 43–44 }}</ref> ''[[Creative Computing]]'' wrote that ''Planetfall'' "is as remarkable, funny, perplexing, and entertaining a game as you are likely to find anywhere." It praised Floyd as "the most imaginative and cleverly written part of the entire game, Floyd, besides being hysterically funny through most of the adventure, evokes in the player of Planetfall authentic feelings of affection and attachment."<ref name="cc198312">{{cite magazine | url=http://www.atarimagazines.com/creative/v9n12/120_Infocom_does_it_again_.php | title=Infocom does it again ... and again | magazine=Creative Computing | volume=9 | issue=12 | date=December 1983 | access-date=February 26, 2013 | author=Schultz, Monte | pages=153}}</ref>
+
+[[Steve Meretzky]] stated that Floyd "was the result of research into how an artificially intelligent mind might work". ''[[The Boston Globe]]'' in 1984 described the robot as "the most popular Infocom character".<ref name="dyer19840506">{{Cite news |url=http://www.csd.uwo.ca/Infocom/Articles/globe84.html |title=Masters of the Game |last=Dyer |first=Richard |date=1984-05-06 |newspaper=The Boston Globe |archive-url=https://web.archive.org/web/19970607204921/http://www.csd.uwo.ca/Infocom/Articles/globe84.html |archive-date=1997-06-07 |url-status=dead }}</ref> ''Planetfall'' has been described as "still lovingly remembered",<ref name="murray52">(Murray 1998, p52)</ref> and parts have been described as "transcendent",<ref name="ardai198709">{{cite magazine | title=Titans of the Computer Gaming World / Part IV of V: Ardai on Infocom | magazine=Computer Gaming World | issue=39 | date=Aug–Sep 1987 | access-date=2 November 2013 | url=http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=39 | last=Ardai | first=Charles | author-link=Charles Ardai | pages=38}}</ref> including Floyd's death. Meretzky claims that "numerous players" have told him that they cried over the death of Floyd.<ref>
+{{cite web
+|url= http://www.electronicbookreview.com/thread/firstperson/emo-robo
+|title= The Creation of Floyd the Robot in ''Planetfall''
+|access-date= 2008-06-19
+|author= Meretzky, Steve
+|author-link= Steve Meretzky
+|date= 2008-03-04
+|quote= This worked out better than my fondest hopes, and numerous players over the intervening years have told me that they cried at this point in the game.
+}}</ref> ''Softline'' wrote, "You don't feel like this very often. Maybe after you've read ''[[Charlotte's Web]]''. Maybe when they shot [[Bambi]]'s mother. Maybe when [[Raskolnikov]] got religion in the Siberian slave labor camp. But this scene is from a computer game. A game!"<ref name="saberhagen198309">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=13 | title=Call Yourself Ishmael Micros Get The Literary Itch | magazine=Softline | volume=3 | issue=1| date=Sep–Oct 1983 | access-date=29 July 2014 | pages=30}}</ref> A game developers round table on [[GEnie]] concluded that Floyd's death was a sad moment that could make someone cry.<ref>{{cite web
+| url = http://www.gamasutra.com/view/feature/3316/designers_notebook_how_to_be_.php
+| title = Designer's Notebook: How To Be Weird
+| access-date = 2008-10-07
+| date = 1999-02-12
+| last = Adams
+| first = Ernest
+| work = Gamasutra
+| publisher = Think Services
+| archive-url = https://web.archive.org/web/20080921211508/http://www.gamasutra.com/view/feature/3316/designers_notebook_how_to_be_.php
+| archive-date = 2008-09-21
+| url-status = live
+| quote = Several years ago there was a debate in the game developers’ round table on GEnie (remember GEnie?) about whether or not a computer game could make you cry. ... The answer the GEnie crowd came up with was, yes, a computer game can make you cry: consider the death of Floyd the robot in Planetfall. ... Eventually, however, Floyd gave up his life for you, and there was no way to avoid it. It was a sad moment. 
+}}</ref>
+Floyd's death has been described as directly evoking the player's emotions because the story and gameplay are aligned.<ref>"By aligning the story with the gameplay, you evoke the emotions in the player directly, without having to appeal to a sometimes vain hope of sympathy. ... Examples range from the classic "Death of Floyd" in ''Planetfall'', where a selfless robot helps your character--you-- directly..." {{Cite journal
+| last = Sheldon
+| first = Lee
+| year = 2004
+| title = Character Development and Storytelling for Games
+| publisher = Thomson Course Technology
+| publication-date = 2004
+| pages = 109
+| isbn = 978-1435461048
+<!--| contribution = Noah Falstein, Writer/Designer -->
+| url = https://books.google.com/books?id=5maZ4vOCf5wC&q=death+floyd+planetfall&pg=PA109
+}}</ref>
+The death of Floyd has been described as changing the game to an "evocative theatrical experience" after which "the player feels lonely and bereaved."<ref>"At this point the game [Planetfall] changes from a challenging puzzle to an evocative theatrical experience. The escape from the planet continues, but without Floyd's company the player feels lonely and bereaved." (Murray 1998, p53)</ref>
+The memory of Floyd's death remains with players for years and is remembered as a direct experience.<ref>"The memory of Floyd the Robot's noble self-sacrifice remains with players even years later as something directly experienced. 'He sacrificed himself for me,' is the way one twenty-year-old former player described it to me." (Murray 1998, p53)</ref>
+Floyd's death "convey[ed] a sense of wonder at the unexpected and touching quality of the gesture."<ref>"Even those who speak of it less personally ('When you get to that room, he goes in to save you") convey a sense of wonder at the unexpected and touching quality of the gesture." (Murray 1998, p53)</ref>
+The scene has been described as a minor milestone toward computer games as an expressive narrative art.
+<ref>"The death of Floyd is a minor milestone on the road from puzzle gaming to an expressive narrative art." (Murray 1998, p53)</ref>
+Game designer [[Raph Koster]] feels that Floyd's death is "cheating" because it occurs in a [[cut scene]].<ref>
+{{cite web
+| url = http://www.raphkoster.com/2005/12/07/the-pixar-lesson/
+| title = The Pixar Lesson
+| access-date = 2008-10-07
+| date = 2005-12-07
+| last = Koster
+| first = Raph
+| author-link = Raph Koster
+| work = Raph Koster's Website
+| publisher = Raph Koster
+| archive-url = https://web.archive.org/web/20081109044017/http://www.raphkoster.com/2005/12/07/the-pixar-lesson/
+|quote = ...they’re not given to us by the game at all, but by cutscenes. The death of Floyd the Robot in Planetfall is an example of a cheat like this....
+| url-status = live
+| archive-date = 2008-11-09
+}}
+</ref>
+
+===Reviews===
+*''The V.I.P. of Gaming Magazine'' #3 (April/May, 1986)
+
+==Legacy==
+In February 1992, a remake of {{nihongo|''Planetfall''|プラネットフォール|Puranettofōru}} was developed and published by Japanese software development company [[SystemSoft Alpha|SystemSoft]] for the [[PC-9800 series|NEC PC-9801]], over eight-and-a-half years after the original ''Planetfall''.<ref name="PC9801 Library">{{cite web | url=http://pc98library.tistory.com/1571 | title=PC-98x1 게임 도서관 :: System Soft의 게임 목록 (1992년) | date=16 June 2011 | trans-title=PC-98x1 Game Library :: SystemSoft's Game List (1992) | publisher=PC-98 Library | language=ko | access-date=2 January 2017}}</ref>  There are differences in this enhanced remake: the game recognizes verb commands typed in [[kana]] (Japanese syllable system) or Latin alphabet. For convenience, some of the most common verb commands (Look, Take, etc.) can be accessed by pressing a corresponding button, but the player still has to type the name of an object. This remake also helps the player to interact with the environment by displaying a list of objects after the player has typed a command.  Also, unlike the original, the remake contains enhanced graphics; every location has a unique background picture, on which the text is super-imposed, like in the PC-9801 version of ''[[Zork|Zork I]]'' and ''[[Enchanter (video game)|Enchanter]]''.<ref name="PC9801 Library"/><ref name="PC98Zork">{{cite web | url=http://www.mobygames.com/game/pc98/zork-the-great-underground-empire/screenshots | title=Zork: The Great Underground Empire (1991) screenshots | publisher=[[MobyGames]] | access-date=2 January 2017}}</ref><ref name="PC98Enchanter">{{cite web | url=http://www.mobygames.com/game/pc98/enchanter-wakaki-madshi-no-shiren | title=Enchanter: Wakaki Madōshi no Shiren | publisher=MobyGames | access-date=2 January 2017}}</ref>
+
+==See also==
+*''[[Space Quest]]'', adventure game series also starring a janitor
+
+==References==
+{{reflist|30em}}
+
+* {{Cite book| last = Murray| first = Janet H.| author-link = Janet Murray| date = 1998-08-27| title = Hamlet on the Holodeck: The Future of Narrative in Cyberspace| publisher = [[MIT Press]]| publication-date = 1998-08-27| pages = [https://archive.org/details/hamletonholodeck00murr/page/52 52–53]| isbn = 978-0262631877| url = https://archive.org/details/hamletonholodeck00murr/page/52}}
+
+==External links==
+*[http://www.infocom-if.org/games/planetfall/planetfall.html Infocom-if.org]
+*[http://graeme.50webs.com/infobugs/planetfa.htm Infocom Bugs List entry]
+*Infocom Cabinet: ''Planetfall'' [https://archive.org/details/InfocomCabinetPlanetfallFolder1Of2 Folder 1] and [https://archive.org/details/InfocomCabinetPlanetfallFolder2Of2 Folder 2]
+*{{IFDB | title=Planetfall}}
+*[https://archive.org/details/games-58-1984-december/page/50/mode/2up Review] in ''[[GAMES Magazine|Games]]'' magazine
+
+{{Infocom games}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1983 video games]]
+[[Category:Adventure games]]
+[[Category:Adventure games set in space]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:CP/M games]]
+[[Category:DOS games]]
+[[Category:Infocom games]]
+[[Category:Classic Mac OS games]]
+[[Category:NEC PC-9801 games]]
+[[Category:TI-99/4A games]]
+[[Category:TRS-80 games]]
+[[Category:Science fiction video games]]
+[[Category:Steve Meretzky games]]
+[[Category:Video games about robots]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set on fictional planets]]
+[[Category:Single-player video games]]

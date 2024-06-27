@@ -1,0 +1,57 @@
+Booty (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Booty_%28video_game%29&oldid=1223363308
+Accessed on: 2024-06-26T16:56:26.011472
+
+
+
+------
+Booty (video game)
+{{short description|1984 video game}}
+{{Infobox video game
+|title  = Booty
+|image = Booty (firebird) cover.jpg
+|publisher = [[Telecomsoft|Firebird]]
+|developer = John F. Cain (Spectrum), Kevin Moughtin (C64)<ref name='hcwgoldcassette'>{{cite magazine |title=Readers Page|magazine=Home Computing Weekly|issue=|publisher=Argus Specialist Publications|date=21 May 1985|page=46|url=https://spectrumcomputing.co.uk/page.php?issue_id=2679&page=46|access-date=12 January 2022}}</ref>
+|engine = 
+|release = [[1984 in video gaming|1984]]
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player]]
+|platforms = [[Amstrad CPC]], [[Commodore 64]], [[Commodore 16]], [[ZX Spectrum]] 
+}}
+'''''Booty''''' is a [[platform game]] published in 1984 for the [[Amstrad CPC]], [[Commodore 64]], [[Commodore 16]], and  [[ZX Spectrum]]. The game was one of [[Telecomsoft|Firebird]]'s initial releases.
+
+== Gameplay ==
+
+The player takes on the role of a cabin boy who attempts to steal a hoard of treasure from his pirate masters.  A variety of hazards must be avoided including pirates, parrots and booby-trapped treasure.<ref name='yourspectrum12'>{{cite magazine |title=Joystick Jury|magazine=Your Spectrum|issue=12|publisher=Sportscene Specialist Press|date=March 1985|page=32|url=https://spectrumcomputing.co.uk/page.php?issue_id=327&page=32|access-date=12 January 2022}}</ref> Should the player manage to collect all the treasure, he is given 45 seconds to find a final key, which will restart the game.<ref name=yourspectrum12 />
+
+There are a total of 20 screens in the game<ref name=yourspectrum12 /> which contain a mixture of collectable treasure, doors to other screens, and doors which act as obstacles and can only be unlocked by collecting the appropriate numbered key.  Some rooms contain [[non-player character]] pirates, contact with which will cause the loss of one of the player's three lives.
+
+==Reception==
+{{Video game reviews
+| award1Pub = Crash
+| award1 = Smash!<ref>Game review, Crash issue 10, November 1984, page 96</ref>
+}}
+The game was positively reviewed by ''[[Crash (magazine)|Crash]]'', which awarded it a "smash" rating of 93%.<ref>{{cite web|url=http://www.crashonline.org.uk/10/booty.htm|title=CRASH 10 - Booty|publisher=|accessdate=30 June 2015}}</ref>  The main features the magazine cited were the novelty of the setting, and the bold graphics.  Also noted was that the complexity of the problem-solving aspect of the game was not initially apparent, and that it was more of a challenge than it first appeared.  The ''[[Your Spectrum]]'' review was less positive, with scores of between two and three stars out of five for its three reviewers, although two of them commented that the game was 'very good value for money.<ref name=yourspectrum12 />
+
+The Spectrum and Commodore 64 versions both entered the [[Boots (company)|Boots]] machine-specific charts at number one at the same time in late 1984.<ref name='pcw19841206'>{{cite magazine |title=Top 10|magazine=Popular Computing Weekly|issue=|publisher=Sunshine Publications|date=6 December 1984|page=98|url=https://archive.org/details/popular-computing-weekly-1984-12-06/page/n97/mode/2up?view=theater|access-date=12 January 2022}}</ref> Following a second week at number one,<ref name='pcw19841213'>{{cite magazine |title=Top 10|magazine=Popular Computing Weekly|issue=|publisher=Sunshine Publications|date=13 December 1984|page=66|url=https://archive.org/details/popular-computing-weekly-1984-12-13/page/n64/mode/1up?view=theater|access-date=12 January 2022}}</ref> they were replaced at the top of the charts by ''[[Ghostbusters (1984 video game)|Ghostbusters]]'' on the Commodore and ''[[Daley Thompson's Decathlon]]'' on the Spectrum.<ref name='pcw19841220'>{{cite magazine |title=Top 10|magazine=Popular Computing Weekly|issue=|publisher=Sunshine Publications|date=20 December 1984|page=74|url=https://archive.org/details/popular-computing-weekly-1984-12-20/page/n73/mode/2up?view=theater|access-date=12 January 2022}}</ref>
+
+In 1985, the authors of the game were presented with a Gold Cassette Award by ''Home Computing Magazine'' for sales of over 100,000 copies.<ref name='hcwgoldcassette' /> ''Crash'' magazine reported that ''[[Football Manager (1982 video game)|Football Manager]]'' had also recently passed the same milestone but had taken three years to do so.<ref>{{cite web|url=http://www.crashonline.org.uk/16/news.htm|title=CRASH 16 - News|publisher=|accessdate=30 June 2015}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+
+*{{WoS game|id=0000633}}
+*[https://github.com/salvakantero/BootyRemake_CPC Booty - The Remake] (full source code)
+
+{{DEFAULTSORT:Booty (video game)}}
+[[Category:1984 video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games about pirates]]
+[[Category:Telecomsoft games]]
+[[Category:Single-player video games]]

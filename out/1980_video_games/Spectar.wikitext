@@ -1,0 +1,69 @@
+Spectar
+Permalink: //en.wikipedia.org/w/index.php?title=Spectar&oldid=1223261521
+Accessed on: 2024-06-26T16:51:56.255486
+
+
+
+------
+Spectar
+{{Short description|1980 video game}}
+{{more citations needed|date=December 2016}}
+{{Infobox video game
+|image = Spectar flyer.jpg
+|title = Spectar
+|publisher = [[Exidy]]
+|developer = [[Exidy]]
+|release = 1980
+|designer = Manuel Campos{{Citation needed|date=September 2020}}
+|modes = Up to 2 players, alternating
+|arcade system = Exidy 6502
+|platforms = [[Arcade game|Arcade]]
+|genre = [[List of maze video games|Maze]]
+|caption = 
+|alt = 
+}}
+'''''Spectar''''' is a maze shooter released in arcades by [[Exidy]] as a sequel to ''[[Targ (video game)|Targ]]''. The game depicts vehicular combat in a future world. The original game was released in November 1980 and a ROM upgrade was released in April 1981.
+
+==Gameplay==
+{{Unreferenced section|date=September 2020}}
+''Spectar'' is similar to ''Targ'', but with enhancements. It adds blockades to the maze, breaking up the regular grid. The center of the maze has a number of twinkling stars that the player can pick up. In addition to finishing a level by destroying all enemies, the player can also finish the round by picking up all the dots.
+
+[[Image:SPECTAR.png|thumb|Gameplay screenshot]]
+
+The enemies change shape every round (and are worth more points for shooting as the levels increase). Five seconds and ten seconds into each round, a Spectar Smuggler is added, which fires at the player. When the first smuggler appears on the board, the background sound changes, until all smugglers have been destroyed.
+
+The elements that make up the maze change with each level:
+
+#Shaded circle
+#Hollow circle with roughened edges
+#3D wireframe cubes
+#Solid cross
+#Solid diamonds
+#Solid squares crossed with an 'X' shape
+#3D wireframe pyramids
+#Hollow octagons
+# and subsequent levels: a shape that resembles a space invader with a hollowed out section in the centre that looks like a house
+
+As each level is completed, a bonus of 1000 times the level number is awarded. The bonus does not further increment after level 9.
+
+==Legacy==
+There were a number of bootlegged versions of ''Spectar'' released by Exidy rivals which had identical ROMs except for the title screen game names: ''Panzer'' and ''Phantom'' (released by Proel), ''Phantomas'' (Jeutel), and ''Rallys'' (Novar).
+
+In 2008, H.R. Kaufmann, president of Exidy, released the original ROM images (ROM revisions 1 and 3) for Spectar into the public domain.<ref>{{Cite web|url=http://mamedev.org/roms/spectar/|title = MAME &#124; Spectar (Exidy, 1980)}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{KLOV game|id=9702}}
+
+[[Category:1980 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Exidy games]]
+[[Category:Maze games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the future]]

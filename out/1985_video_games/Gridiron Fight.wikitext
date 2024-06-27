@@ -1,0 +1,91 @@
+Gridiron Fight
+Permalink: //en.wikipedia.org/w/index.php?title=Gridiron_Fight&oldid=1229190953
+Accessed on: 2024-06-26T16:58:34.395561
+
+
+
+------
+Gridiron Fight
+{{Infobox video game
+|title = Tehkan Gridiron Fight
+|image = 
+|caption = Cocktail cabinet version of ''Tehkan Gridiron Fight'' with dual [[trackball]]s for two-player action
+|developer = [[Tehkan]]
+|publisher = [[Tehkan]]
+|designer = [[Shin-ichiro Tomie]]
+|programmer = Michihito Ishizuka
+|composer = Michihito Ishizuka
+|artist = Rie Ishizuka (Rie Yatomi)
+|released = {{vgrelease|JP|February 2, 1985<ref>{{cite web |title=Gridiron Fight (Registration Number PA0000308670) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=12 May 2021}}</ref>|NA|May 1985<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=October 13, 2006 |publisher=Amusement News Agency |lang=ja |location=Japan |isbn=978-4990251215 |page=138 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n139}}</ref>}}
+|genre = [[Sports video game|Sports]] ([[List of American football video games|American football]])
+|modes = [[Single-player]], [[Two-player video game|two-player]]
+|platforms = [[Arcade game|Arcade]]
+}}
+
+{{nihongo foot|'''''Gridiron Fight''''',|グリダイアンファイト|Guridaian Faito|lead=yes|group=lower-alpha}} also known as '''''All American Football''''',<ref name="PM"/><ref>{{cite web |title=All American Football - Tehkan (Video Game, 1985) |url=https://www.arcade-museum.com/game_detail.php?game_id=18747 |website=[[Killer List of Videogames]] |access-date=5 January 2024}}</ref> is an [[List of American football video games|American football video game]] developed and released by [[Tehkan]] (later known as Tecmo) for [[Arcade game|arcades]] in 1985. It is a one or two player game based on [[gridiron football]] ([[American football]]), and was released in a [[cocktail cabinet]] form factor. The game uses [[trackball]] controls, used to determine the speed and direction at which the player runs.
+
+Designed by [[Shin-ichiro Tomie]] and programmed by Michihito Ishizuka, with background graphics by his wife Rie Ishizuka (Rie Yatomi), the same team went on to develop the [[List of association football video games|association football game]] (soccer game) ''[[Tehkan World Cup]]'' later the same year. It was also a precursor to the American football game ''[[Tecmo Bowl]]'' (1988).
+
+==Gameplay==
+''Tehkan Gridiron Fight'' is a two-dimensional top-down scrolling [[American football]] game in which the player(s) control the virtual player on their team who is closest to the ball, with the [[trackball]] determining the speed and direction at which the player runs. A single push-button labeled "Kick" causes the virtual player in possession to release the ball with the same force and direction in which he is currently running. (This button is duplicated on either side of the trackball for left or right-handed players.) The Player 1 (red trackball) side contained two additional push-buttons for choosing between Single or Two-Player games. Before each play, players are invited to select from a variety of formations, e.g. "Sweep" or "Draw". The formation selected is displayed on a seven-segment LED on the player's control panel.
+
+Although the graphics are two-dimensional, the height of the ball can be determined by its growing larger while its shadow appears on the ground. Also on the side of the screen is the score and a clock which counts down to zero, the point where the current game ends.
+
+==Hardware==
+Two slightly different cabinet shapes were released - one with straighter edges and vertices in profile and one with more rounded edges akin to its stablemate, [[Tehkan World Cup]].
+
+Processors and sound — Tehkan Gridiron Fight used two [[Zilog Z80|Z80C]] 8-bit CPUs at 4.608&nbsp;MHz for processing. For sound, it employed one Z80C at 4.6&nbsp;MHz, two [[General Instrument AY-3-8910|AY-3-8910]]s at 1.536&nbsp;MHz and one M5205 at 384&nbsp;kHz for FM and samples. Although this produced three-channel music plus sound effects, all sound was fed through a mono amplifier in the cabinet housing. As machines aged the amplifier was known to fail, resulting in silent gameplay.
+
+Screen and resolution — The screen was a horizontally mounted 20" color raster CRT monitor fed at 256 x 224 pixels by 768 colors by 60 Hertz.
+
+Trackballs — The game unit consists of two 3" optical [[trackball]]s. These are made of semi-transparent plastic, and illuminated from below such that they shine blue or red, depending on the color of the ball.
+
+==Development==
+''Gridiron Fight'' was developed by Tehkan. The game was designed by Shinichiro Tomie,<ref name="MAME">{{cite web |title=Tehkan World Cup (set 1) |url=http://maws.mameworld.info/minimaws/set/tehkanwc |website=Mini MAWS |publisher=[[MAME]] |archive-url=https://web.archive.org/web/20111007113259/maws.mameworld.info/minimaws/set/tehkanwc |archive-date=2011-10-07 |access-date=12 May 2021}}</ref><ref name="Gamest">{{cite magazine |title=Talking Game Design with Fukio "MTJ" Mitsuji |magazine=[[Gamest]] |date=1989 |lang=ja |url=http://shmuplations.com/mtjdesign/}}</ref> and programmed by Michihito Ishizuka, who was also responsible for sound design, having previously programmed the sound driver for ''[[Bomb Jack]]'' (1984).<ref name="GameSide">{{cite journal |title=Interview with a Wonder Boy - Michihito Ishizuka |journal=[[:ja:GAME SIDE|Game Side: Ultimate Game Life Magazine]] |date=December 2007 |volume=9 |publisher=[[:ja:マイクロマガジン社|Micro Magazine]] |lang=ja}}</ref> His wife Rie Ishizuka (also known as Rie Yatomi) was responsible for the background graphics, along with other female staff members. Michihito and Rie Ishizuka had previously worked together on ''[[Senjyo]]'' (1983) and ''Bomb Jack''.<ref name="GameSide"/>
+
+== Reception ==
+{{Video game reviews
+| rev1 = ''[[Cash Box]]''
+| rev1Score = Positive<ref name="CB"/>
+| rev2 = ''[[Play Meter]]''
+| rev2Score = {{Rating|3.5|4}}<ref name="PM">{{cite magazine |last1=Sharpe |first1=Roger C. |title=Critic's Corner: Enticing players; plus six games to ponder |magazine=[[Play Meter]] |date=June 15, 1985 |volume=11 |issue=11 |pages=32-6 |url=https://retrocdn.net/images/c/c0/PlayMeter_US_Volume_11_No._11.pdf#page=32}}</ref>
+}}
+
+In Japan, ''Game Machine'' listed ''Gridiron Fight'' on their April 15, 1987 issue as being the second most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=306|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 April 1987|page=21|lang=ja}}</ref>
+
+Jay Carter of ''[[Cash Box]]'' magazine compared the game favorably to the classic ''[[Atari Football]]'' (1978), stating that ''Gridiron Fight'' updates its essential elements. He said it has "everything from full color screen action to glowing track-balls and a full selection of both offensive and defensive plays that should stir up some strong head-to-head competition when the school semester ends and the kids are looking for some rainy day challenges and excitement."<ref name="CB">{{cite magazine |last1=Carter |first1=Jay |title=The Great Screen Test Of 1985 |magazine=[[Cash Box]] |date=1985-08-24 |pages=39, 41 |url=https://archive.org/details/cashbox49unse_9/page/39 |publisher=Cash Box Pub. Co.}}</ref>
+
+== Legacy ==
+
+===''Tehkan World Cup''===
+{{Main|Tehkan World Cup}}
+
+''[[Tehkan World Cup]]'' (1985) was an [[List of association football video games|association football video game]] (soccer game) released later the same year, featuring almost identical hardware. It employed the same twin trackballs with an action button duplicated on either side and a similar cocktail cabinet design with horizontal screen. The primary hardware difference was the absence of the seven segment LED adjacent to the action buttons. The software of the two games exhibited a similar top-down two-dimensional window-on-the-field graphical design.
+
+Both games were developed by several of the same team members. Both were designed by Shinichiro Tomie, who was a big [[association football]] (soccer) fan. After designing ''Gridiron Fight'', he immediately wanted to adapt the gameplay format of ''Gridiron Fight'' for a soccer game.<ref name="Gamest"/><ref name="MAME"/> Michihito Ishizuka reprised his role as the programmer, while his wife Rie Ishizuka worked on the character design and background graphics.<ref name="GameSide"/><ref name="MAME"/> The team felt the trackball controls of ''Gridiron Fight'' was complex, so they decided to simplify the controls, making it so that the player can run with the trackball and press one button to kick. This led to ''Tehkan World Cup'' becoming a major arcade hit.<ref name="Gamest"/>
+
+===''Tecmo Bowl''===
+{{Main|Tecmo Bowl}}
+
+==See also==
+* [[List of trackball arcade games]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{KLOV game|id=8012|name=Gridiron Fight}}
+
+{{Tecmo Bowl}}
+
+[[Category:1985 video games]]
+[[Category:American football video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Tecmo games]]
+[[Category:Trackball video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Multiplayer and single-player video games]]

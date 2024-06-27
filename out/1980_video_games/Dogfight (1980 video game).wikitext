@@ -1,0 +1,52 @@
+Dogfight (1980 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dogfight_%281980_video_game%29&oldid=1139567618
+Accessed on: 2024-06-26T16:51:37.326831
+
+
+
+------
+Dogfight (1980 video game)
+{{Short description|1980 video game}}
+{{for|other use of term|Dogfight (disambiguation)}}
+{{refimprove|date=September 2018}}
+{{Infobox video game
+|title  = Dogfight 
+| image = Dogfight cover.jpg
+|developer = Bill Basham<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|publisher = Micro Lab
+|released = 1980
+|genre = [[Multidirectional shooter]]
+|modes = [[Single-player]], 2-8 players multiplayer
+|platforms = [[Apple II]]
+}}
+
+'''''Dogfight''''' is an aerial combat [[video game]] written by Bill Basham for the [[Apple II]] and published by Micro Lab in 1980.  The game is a clone of [[Atari, Inc.]]'s 1975 arcade game ''[[Jet Fighter (video game)|Jet Fighter]]''.
+
+==Gameplay==
+The player controls an aircraft  that always moves in the direction is it pointed and can be rotated left or right and shoot. The screen [[wraparound (video games)|wraps around]] at the edges, such that a player heading off the right edge of the screen will re-enter from the left.
+
+Players can play solo against the computer or up to 8 humans can play against each other. Since all input is via the single built-in keyboard of the Apple II, this involves the players crowding up against each other to reach their 3 keys. Each plane is identified by a number drawn next to it.
+
+When a plane is shot, it becomes a parachuting figure, which transits the screen from top to bottom a few times and also may be shot.
+
+==Development==
+The game was written by Bill Basham in [[Rockford, Illinois]]. He began programming the Apple II in  [[machine language]] and wanted to explore [[Computer animation|animation]]. He was able to smoothly animate up to 56 items on the screen at the same time, optimized with a [[lookup table]].<ref name=gue>{{cite web |title=Dogfight |url=http://gue.cgwmuseum.org/galleries/index.php?pub=0&item=43&id=2&key=0 |website=Gallery of Undiscovered Entities |accessdate=5 June 2020}}</ref>
+
+==Reception==
+''Dogfight'' was number 6 on ''[[Softalk]]'''s "The Top Thirty" list in the February 1981 issue.<ref>{{cite journal |title=The Top Thirty |journal=[[Softalk]] |date=February 1981 |volume=1 |issue=6 |page=44}}</ref>
+
+==Legacy==
+Programmer Bill Basham: "After writing ''Dogfight'' and publishing it through Microlab, I went on to write Diversi-DOS. Microlab wasn't selling ''Dogfight'' by then, so I decided to include it as a freebee with Diversi-DOS".<ref name=gue/><ref>{{cite web |title=Diversi Copy |url=https://archive.org/details/148_Diversi-Copy |website=Internet Archive |publisher=DSR |accessdate=5 June 2020}}</ref>
+
+''Dogfight II'' is a 1981 update with support for the Joyport device and two new game modes: multiplayer and anti-aircraft gunner.<ref>{{cite web |title=Dogfight II |url=https://archive.org/details/wozaday_Dogfight_II |website=Internet Archive |date=12 October 2019 |publisher=Microlab |accessdate=5 June 2020}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:1980 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

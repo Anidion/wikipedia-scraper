@@ -1,0 +1,149 @@
+Kroz
+Permalink: //en.wikipedia.org/w/index.php?title=Kroz&oldid=1218786283
+Accessed on: 2024-06-26T17:02:30.200384
+
+
+
+------
+Kroz
+{{distinguish|Zork}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox video game
+|title = Kroz
+|image = Kroz.gif
+|image_size = 250px
+|caption = Screenshot
+|developer = [[Scott Miller (entrepreneur)|Scott Miller]]
+|publisher = [[3D Realms|Apogee Software]]
+|designer = Scott Miller
+|engine =
+|released = 1987
+|genre = [[Roguelike]]
+|modes = [[Single-player]]
+|platforms = [[MS-DOS]]
+}}
+'''''Kroz''''' is a series of [[Roguelike]] video games created by [[Scott Miller (entrepreneur)|Scott Miller]] for [[IBM PC compatible]]s. The first episode in the series, ''Kingdom of Kroz'', was released in 1987 as [[3D Realms|Apogee Software]]'s first game. It was also published on ''[[Big Blue Disk]]'' #20. ''Kroz'' introduced the scheme of the first episode being free and charging money for additional episodes, a technique which defined the business model for Apogee and was adopted by other [[MS-DOS]] [[shareware]] publishers.<ref name="jh">{{cite web |last1=Hague |first1=James |title=Gimme Your Money: A Half-Baked History of Shareware |url=https://www.loonygames.com/content/1.24/feat/ |website=Loonygames |date=February 8, 1999 |access-date=10 March 2020 |archive-date=23 February 2020 |archive-url=https://web.archive.org/web/20200223155158/https://www.loonygames.com/content/1.24/feat/ |url-status=dead}}</ref>
+
+The games were discontinued in 1999. In March 2009, the whole ''Kroz'' series was released as [[freeware]] by Apogee, and the [[source code]] was released as [[free software]] under the [[GNU General Public License|GPL-2.0-or-later]] license.<ref name="2009 source code" />
+
+==Gameplay==
+The object of the game is to survive numerous levels of attacking monsters and ultimately find the priceless Magical Amulet of Kroz. The [[player character]] collects gems as they go; each time a monster touches them, they lose a gem and the monster dies. The character's main defense consists of whips which can be used to kill monsters and destroy certain walls, but each whip can only be used once. Some levels are generated randomly; these tend to be rather chaotic, and essentially consist of a mad dash through waves of attacking enemies to pick up valuable objects and/or escape to the stairway. A major part of the game is careful conservation of gems and whips; sometimes it is better to allow an enemy to take a gem rather than use valuable whips that will be needed to break down walls blocking the exit.
+
+==Development==
+The ''Kroz'' games were inspired by an earlier [[dungeon crawl]]ing game, ''[[Rogue (computer game)|Rogue]]''. Scott Miller tried to create a game that had [[roguelike|some of the elements of ''Rogue'']], but with less randomness and more reliance on the abilities of the player than on luck.<ref name="Kroz1-Archive"/> Miller, fond of including backwards words in his games, came up with the name by spelling ''[[Zork]]'' backwards.<ref name="Kroz1-Archive"/>
+
+''Kingdom of Kroz'' was written in [[Turbo Pascal]] 3.0. Later games in the series were written in Turbo Pascal 5.0. The game was implemented entirely in the 80×25 16 color [[Color Graphics Adapter|CGA]] text mode<ref name="jh"/> of [[IBM PC compatible]]s, using various characters in the computer's [[character set]], as well as different colors, to present a "graphical" environment. The game uses [[ASCII]] characters, as well as some [[extended ASCII]] graphical characters from the [[code page 437|original IBM PC character set]], to represent the [[player character]], walls, monsters and items.
+
+==Releases==
+The game was originally distributed as shareware. It was later expanded to consist of seven episodes, with only the first episode distributed as shareware, and the rest available commercially. The episodes are:
+{|class="wikitable"
+|-
+!Collection !! Episode !! Release !! Levels !! Notes
+|-
+|rowspan="3" | Original Kroz trilogy
+|#1 ''Kingdom of Kroz''
+|1987
+|25
+|
+*a.k.a. ''Kingdom of Kroz I''
+*a.k.a. ''Kingdom of Kroz II''
+|-
+|#2 ''Caverns of Kroz''
+|1988
+|40
+|
+*a.k.a. ''Kroz''
+*a.k.a. ''Caverns of Kroz II''
+|-
+|#3 ''Dungeons of Kroz''
+|1989
+|30
+|
+*a.k.a. ''Kroz II''
+*a.k.a. ''Dungeons of Kroz II''
+|-
+|rowspan="3" | Super Kroz Trilogy
+|#4 ''Return to Kroz''
+|1990
+|20
+|
+*a.k.a. ''Shrine of Kroz''
+*a.k.a. ''Castle of Kroz''
+|-
+|#5 ''Temple of Kroz''
+|1990
+|20
+|a.k.a. ''Valley of Kroz''
+|-
+|#6 ''The Final Crusade of Kroz''
+|1990
+|25
+|
+*a.k.a. ''The Last Crusade of Kroz''
+|-
+|N/A
+|#7 ''The Lost Adventures of Kroz''
+|1990
+|75
+|
+|-
+|N/A
+|#8 ''The Underground Empire of Kroz''
+|Cancelled
+|N/A
+|Planned to be released in March 1991.
+|}
+
+The first two games in the series, ''Caverns of Kroz'' and ''Dungeons of Kroz'', were originally published in the [[disk magazine]] ''I.B.Magazette'' in 1987.<ref name="Apogee-FAQ"/> The third game, ''Kingdom of Kroz'', was sent in 1987 to the disk magazine ''[[Big Blue Disk]]'' as a submission for a contest they were having, where it was published in 1988.<ref name="BBD20-Archive"/> The other two games were also published later on ''Big Blue Disk'', in 1989.<ref name="BBD29-Archive">{{cite web |title=Big Blue Disk #29 |url=https://archive.org/details/bbd29 |publisher=[[Softdisk]] |date=March 1988 |access-date=11 March 2020}}</ref><ref name="BBD35-Archive">{{cite web |title=Big Blue Disk #35 |url=https://archive.org/details/bbd35 |publisher=[[Softdisk]] |date=September 1988 |access-date=11 March 2020}}</ref> 
+
+At the same time, Miller, looking for other avenues to distribute his games, turned to the [[shareware]] model.<ref name="Polygon">{{cite web |url=https://www.polygon.com/features/2017/10/26/16511514/wolfenstein-origins-apogee |title=Apogee: Where Wolfenstein got its start |first=Chris |last=Plante |date=October 26, 2017 |website=[[Polygon (website)|Polygon]] |access-date=March 1, 2020}}</ref><ref name="Gamasutra, Page 2">{{cite web |url=https://www.gamasutra.com/view/feature/132501/20_years_of_evolution_scott_.php?page=2 |title=20 Years Of Evolution: Scott Miller And 3D Realms, Page 2 of 10 |first=Benj |last=Edwards |date=August 21, 2009 |website=[[Gamasutra]] |access-date=March 11, 2020}}</ref> Shareware was distributed freely through [[bulletin board systems]] (BBS), where the boards' users made voluntary donations. Since shareware was not very profitable at the time, Miller developed a variation of the shareware model, dubbed the "Apogee model", in which only a fraction of the game would be made available to play for free on BBS. The game, upon completion, would display Miller's mailing address to the player and ask them to contact him to pay for that game, which would allow them to buy the rest of the game's "episodes".<ref name="Polygon" /> He applied this model to the ''Kroz'' trilogy by sharing only ''Kingdom of Kroz'' over BBS while retaining the other two for sale.<ref name="Polygon" /><ref name="Gamasutra, Page 4">{{cite web |url=https://www.gamasutra.com/view/feature/132501/20_years_of_evolution_scott_.php?page=4 |title=20 Years Of Evolution: Scott Miller And 3D Realms, Page 4 of 10 |first=Benj |last=Edwards |date=August 21, 2009 |website=[[Gamasutra]] |access-date=March 11, 2020}}</ref> This shareware version of ''Kingdom of Kroz'' was the first game to bear the name of Miller's one-man company, [[3D Realms|Apogee Software Productions]].<ref name="Gamasutra, Page 4" /> The game proved successful, with checks sent to Miller amounting to roughly {{US$|80,000}}–{{US$|100,000}} and him receiving between {{US$|100}} and {{US$|500}} every single day.<ref name="Gamasutra, Page 4" />
+
+''Return to Kroz'', originally called ''Castle of Kroz'', was initially published in ''Big Blue Disk'' in 1990,<ref name="BBD47-Archive">{{cite web |title=Big Blue Disk #47 |url=https://archive.org/details/bbd47 |publisher=[[Softdisk]] |date=August 1990 |access-date=14 March 2020}}</ref> before becoming the shareware episode of the second trilogy of ''Kroz'' games, the ''Super Kroz Trilogy''.
+
+In 1990, an enhanced version of ''Kingdom of Kroz'' was released as ''Kingdom of Kroz II'', which became the shareware episode of the series as a whole. ''Kingdom of Kroz II'' was different from the original version, and incorporated 21 different levels, many of them from later games in the series, especially from ''The Lost Adventures of Kroz''. The original ''Kingdom of Kroz I'' stopped being distributed as shareware, but was still available commercially, and was then marketed as the third episode in the series, with episodes two and three moving up one place. For a time, the series consisted of seven commercial episodes (including the original ''Kingdom of Kroz I''), plus an enhanced version of one of them (''Kingdom of Kroz II'') distributed as shareware. During this time, to be able to buy the commercial episodes, the shareware episode had to be registered first.
+
+In 1991, the other two episodes of the first trilogy were enhanced to their "II" versions, and the original ''Kingdom of Kroz I'' stopped being available, being replaced by its enhanced version.
+
+===Source code===
+At one point the source code for ''Kingdom of Kroz'' could be purchased for $190, ''Return to Kroz'' for $350 and ''The Lost Adventures of Kroz'' for $950. Later the source code of ''Kingdom of Kroz II'' was for sale for $400, ''Return to Kroz'' for $300 and ''The Lost Adventures of Kroz'' for $500. By 2009, the source code was released under the [[GNU General Public License|GPL-2.0-or-later]] license.<ref name="2009 source code">{{Cite web|url=http://legacy.3drealms.com/news/2009/03/several_old_games_released_as_freeware.html |title=Several old games released as Freeware |access-date=26 March 2009 |publisher=[[3D Realms]]}}</ref>
+
+==Reception==
+The original ''Kingdom of Kroz'' game took top honors in the game category in ''[[Big Blue Disk]]'''s CodeQuest '87 programming contest in 1988, and came out number two overall.
+<ref name="Apogee-FAQ">{{cite web |title=The Apogee FAQ - The Kroz Series |url=http://www.rinkworks.com/apogee/s/2.8.1.shtml |publisher=RinkWorks |date=30 September 2005 |access-date=11 March 2020}}</ref>
+<ref name="BBD20-Archive">{{cite web |title=Big Blue Disk #20 |url=https://archive.org/details/bbd20 |publisher=[[Softdisk]] |date=June 1988 |access-date=11 March 2020}}</ref>
+<ref name="Kroz1-Archive"/>
+
+{{Video game reviews
+<!-- Reviewers -->
+ | rev1 = Shareware Magazine
+ | rev1Score = {{rating|5|5}} <small>(Kroz 1)</small><ref name="Kroz1-Archive">{{cite web |title=Shareware Game: Kingdom of Kroz |url=https://archive.org/details/msdos__1KROZ_shareware |date=15 November 1993 |access-date=4 November 2017}}</ref>
+<!-- Awards -->
+ | award1Pub = [[Big Blue Disk]]
+ | award1 = 2nd Place CodeQuest '87, [[IBM PC compatible]] division <small>(Kingdom of Kroz)</small><ref name="Kroz1-Archive"/><ref name="BBD20-Archive"/>
+}}
+
+==Legacy==
+The ''Kroz'' concept, including the text mode implementation, was cloned by Potomac Computer Systems for the ''[[ZZT]]'' games, which also used the same shareware business model. The company later became [[Epic Games]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{moby game|id=-group/kroz-series}}
+
+{{Apogee Games}}
+{{Softdisk}}
+
+{{DEFAULTSORT:Kroz Series}}
+[[Category:1987 video games]]
+[[Category:Apogee games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:DOS games]]
+[[Category:DOS-only games]]
+[[Category:Freeware games]]
+[[Category:Pascal (programming language) software]]
+[[Category:Roguelike video games]]
+[[Category:Shareware games]]
+[[Category:Softdisk]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with textual graphics]]

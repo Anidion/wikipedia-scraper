@@ -1,0 +1,59 @@
+Mind Walker
+Permalink: //en.wikipedia.org/w/index.php?title=Mind_Walker&oldid=1224586094
+Accessed on: 2024-06-26T17:00:30.192023
+
+
+
+------
+Mind Walker
+{{More citations needed|date=February 2016}}
+
+{{Infobox video game
+|title =
+|image = MindwalkerBoxShotAmiga.jpg
+|caption =
+|developer = [[Synapse Software]]{{r|wagner198611}}
+|publisher = [[Commodore International|Commodore]]<ref name="gamefaqs"/>
+|designer = [[Bill Williams (game designer)|Bill Williams]]
+|composer = Bill Williams<ref>{{cite web |url=http://www.angusm.demon.co.uk/AGDB/DBM1/MindW2.html |url-status=dead |archive-url=https://web.archive.org/web/20000920014848/http://www.angusm.demon.co.uk/AGDB/DBM1/MindW2.html |archive-date=2000-09-20 |title=Mindwalker (Second Review)}}</ref>
+|released = {{vgrelease|NA|1986<ref name="gamefaqs"/>}}
+|genre = [[Action game|Action]], [[Platform game|platform]]<ref name="gamefaqs">[http://www.gamefaqs.com/amiga/930899-mindwalker/data ''Mindwalker''] at [[GameFAQs]]</ref>
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]]
+}}
+
+'''''Mind Walker''''' is a [[video game]] written by [[Bill Williams (game designer)|Bill Williams]] and published by [[Commodore International|Commodore]] in 1986 as one of the first games for the new [[Amiga 1000]] computer.<ref name="ars">{{cite web|last1=Reimer|first1=Jeremy|title=A history of the Amiga, part 7: Game on!|url=https://arstechnica.com/gadgets/2008/05/amiga-history-part-7/|website=ArsTechnica|date=May 5, 2008}}</ref> The player is immersed inside a human brain and must cure a psychosis that is threatening the patient's well-being. Many aspects of the game (including enemies and [[power-up]]s) play on this psychological theme. The four player [[avatar (virtual reality)|avatars]], for instance, are the human bodybuilder, the [[water nymph]], the mysterious [[Wizard (fantasy)|wizard]], and the alien [[spriggan]].
+
+Only one version of ''Mind Walker'' was released for the Amiga. This single version continued to run without problem across four generations of operating system, three generations of CPU, and at least three generations of platform hardware, spanning over six years.{{Citation needed |date=April 2024}}
+
+==Gameplay==
+[[Image:mindwalker.gif|thumb|250px|left|The player's character, in the shape of a spriggan]]
+
+The first stage of the game requires the player to build a path from a crystal to a special square located somewhere in the brain. Various types of platforms rest between the player's starting point and the destination —each type corresponds to one of the avatars. For example, water can only be connected by the nymph, towers by the wizard, and so on. The destination point is often surrounded by "tubes" which often block the players path as a path cannot be created on a square with a tube. Floating enemies assail the player, who can destroy them with a lightning bolt. However, the player must remain stationary while attacking enemies. The density of enemies increases as the player approaches the destination. Once the destination point is reached the surrounding tubes lower, allowing the player to venture into the next stage.  Stages vary depending on which tube is chosen.
+
+The next stage takes place in a [[3D computer graphics|3D]] first-person perspective (the player is falling down a pit). The player must maneuver so that he falls into one of the green zones and is taken into a deeper region of the brain.
+
+In the next stage, the player must guide the avatar through a [[labyrinth|maze]] of [[neuron]]s that pulse with electricity. Touching any of these neurons while electrified instantly kills the player, and various colored enemies also float around the stage (the damage they incur increases as the game progresses). The player must travel through the maze trying to find a pyramid object (sound can be used as a cue here: it gets faster as the player gets closer). Once the pyramid is obtained the player must backtrack to their starting point, and exit the level (the exit is surrounded with neurons, one must determine the pattern of the electrical pulses and cross while they are inactive).
+
+The last stage, a reference to psychoanalysis, asks players to put together a strange, color-cycling puzzle. At the expense of their accumulated points, players can tap [[Sigmund Freud]]'s pipe and be shown where a piece must be placed, or they can place the pieces in the puzzle themselves. The puzzle consists 42 spaces (6 x 7), and seven pieces are gained with the completion of each of the six levels.
+
+==Reception==
+''[[Computer Gaming World]]'' described ''Mind Walker'' as "the most challenging game currently available", describing it as "a bizarre cross of ''[[Archon II: Adept|Adept]]'' and ''[[Marble Madness]]''. The review praised the game's graphics and sound ("It more fully uses the features of the Amiga than any other game"), and concluded "This game is highly recommended as an[sic] very sophisticated arcade type game".<ref name="wagner198611">{{cite magazine | title=Amiga Preferences | magazine=[[Computer Gaming World]] | issue=32 | date=November 1986 | url=http://www.cgwmuseum.org/galleries/index.php?year=1986&pub=2&id=32 | access-date=21 May 2016 | last=Wagner | first=Roy | pages=38–39}}</ref> ''[[Info (magazine)|Info]]'' gave it four-plus stars out of five. The magazine liked the graphics and "complex" gameplay and praised the sound, but disliked the dual joystick-mouse controls. The magazine advised, "You may not like Mindwalker at first; give it time".<ref name="info198701amiga">{{Cite magazine |last1=Dunnington |first1=Benn |last2=Brown |first2=Mark R. |last3=Malcolm |first3=Tom |date=January–February 1987 |title=Amiga Gallery |url=https://archive.org/stream/info-magazine-13/Info_Issue_13_1987_Jan-Feb#page/n89/mode/2up |magazine=Info |pages=90–95}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Lemon Amiga game|id=756}}
+* [http://www.amiga.com/ClassicGamesDocs/MindWalker.html ''Mind Walker'' Documentation] from the Classic Amiga Game Player
+
+[[Category:1986 video games]]
+[[Category:Action games]]
+[[Category:Amiga games]]
+[[Category:Amiga-only games]]
+[[Category:North America-exclusive video games]]
+[[Category:Platformers]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games about mental health]]
+[[Category:Synapse Software games]]
+[[Category:Single-player video games]]

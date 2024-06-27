@@ -1,0 +1,347 @@
+Twin Cobra
+Permalink: //en.wikipedia.org/w/index.php?title=Twin_Cobra&oldid=1220696514
+Accessed on: 2024-06-26T17:03:24.892135
+
+
+
+------
+Twin Cobra
+{{about|the 1987 arcade game|the helicopter|AH-1 SuperCobra}}
+{{redirect|Ultimate Tiger|the professional wrestler|Ultimate Tiger (wrestler)}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox video game
+|title     = Twin Cobra
+|image     = Twin Cobra arcade flyer.jpg
+|developer = [[Toaplan]]
+|publisher = {{vgrelease|JP/EU|[[Taito]]|NA|[[Romstar]]}}
+|artist    = Kōetsu Iwabuchi
+|composer  = Masahiro Yuge<br />[[Tatsuya Uemura]]
+|series    = ''[[Tiger-Heli|Tiger]]''
+|platforms = [[Android (operating system)|Android]], [[Arcade game|Arcade]], [[FM Towns]], [[iOS]], [[Nintendo Entertainment System]], [[PC Engine]], [[PlayStation (console)|PlayStation]], [[Sega Genesis]], [[X68000]]
+|released  = {{vgrelease|JP|[[1987 in video gaming|October 6, 1987]]<ref>{{cite web |title=Twin Cobra (Registration Number PA0000363913) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=8 August 2021}}</ref><ref name="ATVGL:JaO1971-2005">{{cite book|last=Akagi|first=Masumi|url=https://archive.org/stream/ArcadeGameList1971-2005#page/n44/mode/1up|title=タイトー (Taito); 東亜プラン (Toa Plan); Romstar; Taito America; T|work=アーケードTVゲームリスト 国内•海外編 (1971-2005)|edition=1st|publisher=[[:ja:アミューズメント通信社|Amusement News Agency]]|date=13 October 2006|pages=43, 50, 130, 137, 169|isbn=978-4990251215|language=ja}}</ref>|NA|November 1987<ref name="ATVGL:JaO1971-2005"/>|EU|Early 1988<ref name="CVG77"/>}}
+|genre     = [[Vertically scrolling shooter]]
+|modes     = [[Single-player video game|Single-player]], [[Cooperative video game|Co-op]]
+}}
+
+'''''Twin Cobra''''', known as {{nihongo foot|'''''Kyukyoku Tiger'''''|{{ruby|究極タイガー|きゅうきょくタイガー}}|''Kyūkyoku Taigā''|lit. "Ultimate Tiger" or "Extreme Tiger"|lead=yes|group=lower-alpha}} in Japan, is a [[vertically scrolling shooter]] developed by [[Toaplan]] and released for [[Arcade game|arcades]] in 1987 by [[Taito]] in Japan and Europe, then in North America by [[Romstar]].<ref name="ATVGL:JaO1971-2005"/> It is a sequel to the 1985 arcade game ''[[Tiger-Heli]]''.<ref>{{cite web|last=Lambie|first=Ryan|url=https://www.denofgeek.com/uk/games/58480/toaplan-the-rise-and-fall-of-japans-greatest-shooting-game-company|title=Toaplan: the rise and fall of Japan's greatest shooting game company|work=[[Den of Geek]]|publisher=[[Dennis Publishing]]|date=21 June 2018|access-date=2020-05-16|archive-url=https://web.archive.org/web/20180621073806/http://www.denofgeek.com/uk/games/58480/toaplan-the-rise-and-fall-of-japans-greatest-shooting-game-company|archive-date=21 June 2018|url-status=live}}</ref> Controlling the titular attack helicopter, the players must fight endless waves of military vehicles while avoiding collision with their projectiles and other obstacles. It was the fourth shoot 'em up game from Toaplan, and their tenth video game overall. It was [[Porting#Porting in gaming|ported]] to multiple [[Video game#Platforms|platforms]], with each done by different [[third-party developer]]s that made several changes or additions.
+
+''Twin Cobra'' was a success for Toaplan, garnering positive reception from western critics and earning several awards from ''[[Gamest]]''. The game was met with mixed response from [[Video game magazine|magazine]]s, specifically the home versions. In 1995, the sequel ''[[Twin Cobra II]]'' was released. The rights to the game are owned by Tatsujin, a Japanese company formed by Masahiro Yuge.
+
+==Hardware==
+The game ran on the Toaplan Twin Cobra hardware ([[Printed circuit board|PCB]]), featuring a Motorola 68000 CPU clocked at 7&nbsp;MHz with additional chips (a Z80 CPU clocked at 3.5&nbsp;MHz and a 320C10 chip at 3.5&nbsp;MHz) as well as a Yamaha YM3812 sound chip clocked at 3.5&nbsp;MHz. Toaplan's [[Flying Shark]] used the same arcade hardware board.<ref name="system16 - The Arcade Museum">''System 16 - The Arcade Museum'' >{{cite web|url=https://www.system16.com/hardware.php?id=651|title=TOAPLAN TWIN COBRA HARDWARE|publisher=system16|access-date=2024-04-03}}</ref>
+
+== Gameplay ==
+[[File:ARC Twin Cobra (Kyūkyoku Tiger).png|thumb|left|Arcade version screenshot]]
+
+''Twin Cobra'' is a military-themed vertically scrolling shoot 'em up game, in which players take control of the titular attack helicopter through ten increasingly difficult levels, each with a [[Boss (video gaming)|boss]] at the end that must be fought before progressing any further, in order to defeat an assortment of military enemy forces like [[tank]]s, [[battleship]]s, and [[artillery]] as the main objective.<ref name="TCACmanual">''Twin Cobra'' Installation Manual (Arcade, US)</ref><ref name="TCNESmanual">''Twin Cobra'' Instructions (Nintendo Entertainment System, US)</ref><ref name="TCGENmanual">''Twin Cobra'' instruction manual (Sega Genesis, US)</ref><ref name="TChg101">{{cite web|last=Zverloff|first=Nick|url=http://www.hardcoregaming101.net/twin-cobra/|title=Twin Cobra|publisher=Hardcore Gaming 101|date=9 July 2012|access-date=2020-05-16}}</ref><ref name="KTss">{{cite web|url=http://shootingstar.game.coocan.jp/kyukyoku.html|title=究極TIGER|publisher=Shooting Star|access-date=2020-05-16|language=ja}}</ref> The title initially appears to be very standard, as players control their craft over a constantly scrolling background and the scenery never stops moving until a [[helipad]] is reached. Players have only two weapons at their disposal: the standard shot that travels a max distance of the screen's height and three [[bomb]]s.
+
+The bombs are powerful weapons capable of obliterating any enemy caught within its [[blast radius]] and collecting "B" icons adds an extra bomb stock.<ref name="TCACmanual"/><ref name="TCNESmanual"/><ref name="TCGENmanual"/><ref name="TChg101"/><ref name="KTss"/> A new gameplay addition compared to its predecessor are [[power-up]] [[Item (gaming)|item]]s that appear via enemy carriers; There are four types of weapons in the game that can be switched between after destroying incoming carriers by picking up color-changing icons ranging from [[red]], [[blue]], [[green]] and [[yellow]], while "S" icons increases the helicopter's [[firepower]].<ref name="TCACmanual"/><ref name="TCNESmanual"/><ref name="TCGENmanual"/><ref name="TChg101"/><ref name="KTss"/> Other items scattered throughout the levels such as [[Life (video games)#Extra lives|1-up]]s and star-shaped [[gold]] [[medal]]s, which grants a 3000-point bonus by collecting them, can also be picked up along the way.<ref name="TCACmanual"/><ref name="TCNESmanual"/><ref name="TCGENmanual"/><ref name="KTss"/> Players are given two lives initially and bonus lives are awarded at certain point thresholds and every point threshold thereafter.<ref name="TCACmanual"/><ref name="TCNESmanual"/><ref name="TCGENmanual"/>
+
+Depending on the region, the title uses either a [[Saved game#Checkpoints|checkpoint]] system in which a downed single player will start off at the beginning of the checkpoint they managed to reach before dying, or a [[respawn]] system where their ship immediately starts at the location they died at.<ref name="TChg101"/> Getting hit by enemy fire or colliding against enemies will result in losing a life, as well as a penalty of decreasing the helicopter's firepower to his original state and once all lives are lost, the [[Game over|game is over]] unless the players insert more credits into the arcade machine to [[Glossary of video game terms#Continue|continue]] playing.<ref name="TCNESmanual"/><ref name="TCGENmanual"/> After completing the last stage as with previous titles from Toaplan, the game begins again with the second loop increasing in difficulty and enemies fire denser [[bullet]] patterns.<ref name="TChg101"/>
+
+== Development ==
+[[File:Twin Cobra art design.png|thumb|right|Most of the artwork were hand-drawn sketches created by the development team before being transposed to [[pixel art]] graphics.]]
+''Twin Cobra''{{'}}s creation process and history was recounted through various Japanese publications by [[Video game composer|composer]]s Masahiro Yuge and Tatsuya Uemura, both of which collaborated with the [[Soundtrack#Video game soundtracks|soundtrack]] using [[guitar]] and marked the second time Toaplan made use of [[FM synthesis]].<ref name="VGMDB">{{cite web|url=https://vgmdb.net/album/1245|title=D28B-0008 &#124; KYUKYOKU TIGER -G.S.M.TAITO 2-|work=vgmdb.net|publisher=VGMdb|access-date=2020-05-16|archive-url=https://web.archive.org/web/20170803090922/http://vgmdb.net/album/1245|archive-date=2017-08-03|url-status=live}} ([http://shmuplations.com/toaplanmusic/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20191022183049/http://shmuplations.com/toaplanmusic/|date=2019-10-22}}).</ref><ref name="PSGv10">{{cite magazine|last=Abeto|first=Kobatsu|title=東亜プランインタビュー|magazine=PSG|volume=10|publisher=F.S.G Club|date=September 1989|lang=ja}} ([http://shmuplations.com/toaplan-psg/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20170531193430/http://shmuplations.com/toaplan-psg/|date=2017-05-31}}).</ref> Yuge stated that the basic structure for the game was already decided during development of ''[[Slap Fight]]'' by pursuing the excitement of shooting and dodging, settling on the bomb and shot system, claiming that firing a bomb relieved stress from players, as they wanted to make a game that was fun by looking at and get passionate about it.<ref name="G49">{{cite magazine|url=https://archive.org/stream/gamest0049#page/69/mode/2up|title=東亜プラン|magazine=[[Gamest]]|issue=49|publisher=[[Shinseisha]]|date=September 1990|pages=68–69|lang=ja}} ([http://shmuplations.com/toaplan-gamest/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20191107033548/http://shmuplations.com/toaplan-gamest/|date=2019-11-07}}).</ref><ref name="TSCb">{{cite web|url=https://sweeprecord.com/toaplan-shooting-toku/|title=東亜プラン シューティングクロニクル 特設ページ|work=SweepRecord|publisher=SuperSweep|date=27 October 2011|access-date=2020-05-16|language=ja|archive-url=https://web.archive.org/web/20200215231114/https://sweeprecord.com/toaplan-shooting-toku/|archive-date=2020-02-15|url-status=live}} ([http://shmuplations.com/toaplan-chronicleqa/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20191002072400/http://shmuplations.com/toaplan-chronicleqa/|date=2019-10-02}}).</ref> Yuge also claimed that the word "Kyūkyoku" for its Japanese title derived from a translation of ''[[Going for the One]]'', the eight studio album by English [[progressive rock]] band [[Yes (band)|Yes]], as it was not a popular word at the time and although the Japanese title was initially rejected by then-president of Toaplan, he was determined to implement it.<ref name="TSCa">{{cite web|url=https://sweeprecord.com/srin-1100/|title=東亜プラン シューティングクロニクル|work=SweepRecord|publisher=SuperSweep|date=14 November 2011|access-date=2020-05-16|language=ja|archive-url=https://web.archive.org/web/20191021030143/https://sweeprecord.com/srin-1100/|archive-date=2019-10-21|url-status=live}} ([http://shmuplations.com/toaplan-chronicle/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20180711134859/http://shmuplations.com/toaplan-chronicle/|date=2018-07-11}}).</ref><ref name="STGv4b">{{cite magazine|last1=Kiyoshi|first1=Tane|author2=hally (VORC)|last3=Yūsaku|first3=Yamamoto|title=東亜プラン特集 - 元・東亜プラン 開発者インタビュー: 弓削雅稔|magazine=Shooting Gameside|volume=4|publisher=Micro Magazine|date=3 February 2012|pages=41–48|lang=ja|isbn=978-4896373844}} ([http://shmuplations.com/toaplan-yuge1/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20190906023744/http://shmuplations.com/toaplan-yuge1/|date=2019-09-06}}).</ref> The concept of using a bomb came up during development of ''Tiger-Heli'', where the team questioned how to make a shoot 'em up game  more engaging for players but it was never intended for defensive purposes according to them, as the mechanic was instead implemented to provide an aggressive feeling against enemies on difficult situations, however enemies were made tougher to keep gameplay balance.<ref name="TSCb"/><ref name="STGv4b"/><ref name="STGv4a">{{cite magazine|last1=Kiyoshi|first1=Tane|author2=hally (VORC)|last3=Yūsaku|first3=Yamamoto|title=東亜プラン特集 - 元・東亜プラン 開発者インタビュー: 上村建也|magazine=Shooting Gameside|volume=4|publisher=Micro Magazine|date=3 February 2012|pages=33–40|lang=ja|isbn=978-4896373844}} ([http://shmuplations.com/toaplan-uemura1/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20190906023755/http://shmuplations.com/toaplan-uemura1/|date=2019-09-06}}).</ref>
+
+''Twin Cobra'' was also, alongside ''[[Slap Fight]]'', one of the earliest projects Toaplan made use of [[game design document]]s, with both Uemura and Yuge stating that ideas by the team were first written in text using [[A4 paper]] before reading it during meetings.<ref name="TSCa"/> Several features were integrated into the project by diverse factors such as items swirling around the screen, which was inspired by a [[donburi]] [[bowl]], while the slow speed of the helicopter was due to make the title akin to puzzle games and require a level of strategy.<ref name="TSCb"/><ref name="STGv4b"/><ref name="STGv4a"/><ref name="TFf25v9">{{cite magazine|author1=Iona|author2=VHS|author3=K-HEX|title=東亜プラン FOREVER|magazine=Floor 25|volume=9|date=June 2009|pages=1–70|lang=ja}} ([https://www.gamengai.com/#/cmnt-info?id=2332 Translation] by Gamengai. {{Webarchive|url=https://web.archive.org/web/20201010170328/https://www.gamengai.com/#/cmnt-info?id=2332|date=2020-10-10}}).</ref> Yuge stated that [[Cooperative video game|cooperative gameplay]] was originally not developed but were requested in doing so after completing the single-player version due to simultaneous two-player titles being "a big trend" in overseas regions and being conscious of the American market, as the game had a realistic war setting.<ref name="TSCb"/> Around five members collaborated with the project on a six-month development period including Uemura and Yuge acting as [[Video game programmer|programmer]]s, as well as three [[Video game designer|designer]]s.<ref name="TSCa"/> [[Video game artist|Artist]] Kōetsu Iwabuchi, who previously worked on ''[[Guardian (1986 video game)|Guardian]]'', was responsible for the artwork.<ref name="G49"/> Despite being published by Taito, Uemura stated that the publisher allowed them to reveal the project was made by Toaplan.<ref name="TFf25v9"/> Uemura also claimed the project was influenced by ''[[Halley's Comet (video game)|Halley's Comet]]'', as he wanted to portray the feeling of aiming and shooting.<ref name="TFf25v9"/>
+
+== Release ==
+''Twin Cobra'' was first released across arcades worldwide in October 1987 by Taito in Japan and Europe, as well as Romstar in North America.<ref name="ATVGL:JaO1971-2005"/> On 21 November 1988, an album containing music from the title and its predecessor was co-published exclusively in Japan by [[Scitron]] and [[Pony Canyon]].<ref name="VGMDB"/>
+
+=== Ports ===
+''Twin Cobra'' was converted to multiple platforms by various third-party developers including the [[PC Engine]] (1989), [[Nintendo Entertainment System]] (1989), [[Sega Genesis]] (1991), [[X68000]] (1993) and the [[FM Towns]] (1994).<ref name="TChg101"/> The PC Engine port, developed by A.I Company, was released exclusively in Japan by Taito.<ref>{{cite web|author=CRV|url=http://gdri.smspower.org/wiki/index.php/A.I|title=A.I|website=gdri.smspower.org|date=31 October 2007|accessdate=2020-05-16|archive-url=https://web.archive.org/web/20190716233153/http://gdri.smspower.org/wiki/index.php/A.I|archive-date=16 July 2019|url-status=live}}</ref> The NES port, developed by [[Micronics]], was first released in Japan [[CBS/Sony]] and later in North America by [[American Sammy|Sammy]].<ref>{{cite web|url=http://www.nintendo.com/consumer/downloads/nes_games.pdf|title=NES Games|publisher=[[Nintendo]]|access-date=2020-05-16|archive-url=https://web.archive.org/web/20140611225644/http://www.nintendo.com/consumer/downloads/nes_games.pdf|archive-date=2014-06-11|url-status=live}}</ref> The Genesis port, developed by GRC, was first published in Japan by [[Treco]], then in North America by [[Sega]] and later in Brazil by [[Tectoy]].<ref name="EGMGENtc"/><ref>{{cite web|author=CRV|url=http://gdri.smspower.org/wiki/index.php/Graphic_Research|title=Graphic Research|website=gdri.smspower.org|date=27 August 2006|accessdate=2020-05-16|archive-url=https://web.archive.org/web/20190716233153/http://gdri.smspower.org/wiki/index.php/A.I|archive-date=16 July 2019|url-status=live}}</ref><ref>{{cite encyclopedia|url=https://sega.jp/fb/segahard/md/soft_licensee.html|title=ソフトウェア一覧（ソフトライセンシー発売）&#124; メガドライブ|encyclopedia=SEGA HARD Encyclopedia|publisher=[[Sega]]|date=2020|access-date=2020-05-18|language=ja}}</ref> On 30 August 1996, [[Banpresto]] released a compilation for the [[PlayStation (console)|PlayStation]] exclusively in Japan titled ''Toaplan Shooting Battle 1'', which included both arcade versions of ''Twin Cobra'' and its prequel, an arranged soundtrack by Uemura and other additions.<ref name="STGv4a"/><ref>{{cite web|url=https://www.jp.playstation.com/software/title/slps00436.html|title=東亜プラン シューティングバトル1|work=PlayStation Official Site Software Catalog|publisher=[[Sony Interactive Entertainment]]|date=2020|access-date=2020-05-16|language=ja}}</ref> In November 2019, ''Twin Cobra'' was re-released for [[iOS]] and [[Android (operating system)|Android]] mobile devices only in Japan by MOBIRIX Corporation under the name ''Kyukyoku Tiger Classic''.<ref>{{cite web|url=http://tatsujin.tokyo/index.html|title=TATSUJINに続き『究極TIGER 』がモバイルゲームとなって帰って来ました !『究極TIGER CLASSIC 』の登場です！|publisher=TATSUJIN Co., Ltd.|date=13 November 2019|access-date=2020-05-16|language=ja|archive-url=https://web.archive.org/web/20200516214404/http://tatsujin.tokyo/index.html|archive-date=16 May 2020|url-status=live}}</ref> A port for [[Samsung Smart TV]] platform is also available through a Samsung TV's games panel.{{Citation needed|date=May 2020}}
+
+==== M2 ShotTriggers ====
+''Twin Cobra'' was later included by [[M2 (game developer)|M2]] as part of their M2 ShotTriggers publishing label.<ref>{{cite news|last=Romano|first=Sal|url=https://www.gematsu.com/2020/04/toaplan-shoot-em-ups-twin-cobra-truxton-ii-flying-shark-and-out-zone-coming-to-consoles|title=Toaplan shoot 'em ups Twin Cobra, Truxton II, Flying Shark, and Out Zone coming to consoles - M2 porting the late 80s and early 90s titles|work=Gematsu|date=18 April 2020|access-date=2020-04-23}}</ref><ref>{{cite web|last=McFerran|first=Damien|url=http://www.nintendolife.com/news/2020/04/m2_is_making_a_stupidly_expensive_shooter_more_affordable_on_home_consoles|title=M2 Is Making A Stupidly Expensive Shooter More Affordable On Home Consoles - Along with some other amazing Toaplan titles|work=[[Nintendo Life]]|publisher=Nlife Media|date=18 April 2020|access-date=2020-03-23}}</ref><ref>{{cite web|last=Wong|first=Alistair|url=https://www.siliconera.com/toaplans-flying-shark-twin-cobra-truxton-ii-and-out-zone-coming-to-modern-platforms/|title=Toaplan's Flying Shark, Twin Cobra, Truxton II, and Out Zone Coming to Modern Platforms|work=[[Siliconera]]|publisher=[[Curse LLC]]|date=19 April 2020|access-date=2020-04-23}}</ref><ref>{{cite web|last=Moyse|first=Chris|url=https://www.destructoid.com/out-zone-twin-cobra-and-other-classic-toaplan-shmups-coming-soon-from-m2-587574.phtml|title=Out Zone, Twin Cobra, and other classic Toaplan shmups coming soon from M2 - Save your quarters|work=[[Destructoid]]|publisher=[[Enthusiast Gaming]]|date=20 April 2020|access-date=2020-04-23}}</ref> An arcade version, alongside the PC Engine, Nintendo Entertainment System and Sega Genesis versions, were included in the ''Kyukyoku Tiger-Heli'' compilation for Nintendo Switch and [[PlayStation 4]] as part of M2's ''Toaplan Arcade Garage'' label in 2022.<ref>{{cite magazine|url=https://www.ndw.jp/nd200708-315/|title=Switchにくる! 東亜プランの4タイトル|magazine=Nintendo Dream|issue=315|publisher=[[Tokuma Shoten]]|date=July–August 2020|lang=ja}}</ref><ref>{{cite news|last=Romano|first=Sal|url=https://www.gematsu.com/2021/07/toaplan-shoot-em-up-collection-kyukyoku-tiger-heli-announced-for-ps4-switch|title=Toaplan shoot 'em up collection Kyukyoku Tiger-Heli announced for PS4, Switch - Includes various versions of Kyukyoku Tiger and Tiger-Heli|date=July 15, 2021|work=Gematsu|access-date=2021-07-16}}</ref>
+
+==== Steam ====
+''Twin Cobra'' was released on Steam in February 2023. Bitwave Games was responsible for the port of this version.
+
+== Reception ==
+{| class="wikitable" style="float:right; font-size:80%; text-align:center; margin:1em; margin-top:0; padding:0; background:none;" cellpadding="0"
+! colspan=7 style="font-size: 100%" | Reception
+|-
+! colspan=7 | [[Video game journalism|Review scores]]
+|-
+! rowspan=2 | Publication
+! colspan=7 | Scores
+|-
+! [[Arcade game|Arcade]]
+! [[PC Engine]]
+! [[Nintendo Entertainment System|NES]]
+! [[Sega Genesis|SMD/GEN]]
+! [[X68000|X68K]]
+! [[FM Towns|FMT]]
+|-
+| ''[[AllGame]]''
+| {{Rating|3.5|5}}<ref>{{cite web |title=Twin Cobra (Arcade) - Overview |url=http://www.allgame.com/game.php?id=11439 |website=[[AllGame]] |access-date=8 August 2021 |date=15 November 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141115020934/www.allgame.com/game.php?id=11439 |archive-date=2014-11-15}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{Rating|4|5}}<ref name="AGGENtc">{{cite web|last=Weiss|first=Brett Alan|url=http://www.allgame.com/game.php?id=1750&tab=review|title=Twin Cobra (Sega Genesis) - Review|work=[[AllGame]]|publisher=[[All Media Network]]|date=1998|access-date=2020-05-15|archive-url=https://web.archive.org/web/20141115041722/http://www.allgame.com/game.php?id=1750&tab=review|archive-date=2014-11-15|url-status=dead}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Aktueller Software Markt|ASM]]''
+| {{N/A}}
+| 10/12<ref name="ASMPCEth">{{cite magazine|last=Oppermann|first=Torsten|url=https://www.kultboy.com/index.php?site=t&id=1544|title=Helikopter-Action Ohne Ende! - Tiger Heli (PC-Engine)|magazine=[[Aktueller Software Markt]]|issue=37|publisher=Tronic Verlag|date=December 1989|page=62|lang=de}}</ref>
+| {{N/A}}
+| 7/12<ref name="ASMGENth">{{cite magazine|last=Oppermann|first=Torsten|url=https://retrocdn.net/index.php?title=File%3AASM_DE_1991-05.pdf&page=128|title=Konsolen: Tiger Heli (Sega Mega Drive)|magazine=[[Aktueller Software Markt]]|issue=41|publisher=Tronic Verlag|date=May 1991|page=126|lang=de}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Gemaga|Beep! Mega Drive]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 28/40<ref name="B!MDGENkt">{{cite magazine|url=https://retrocdn.net/index.php?title=File%3ABeepMD_JP_1991-03.pdf&page=34|title=BEメガ•ドッグレース – 究極タイガー|magazine=[[Gemaga|Beep! Mega Drive]]|issue=18|publisher=[[SB Creative|SoftBank Creative]]|date=March 1991|page=32|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Commodore User]]''
+| 6/10<ref name="CUserARCtc">{{cite magazine|last=Kelly|first=Nick|url=https://archive.org/stream/commodore-user-magazine-55/Commodore_User_Issue_55_1988_Apr#page/n112/mode/1up|title=Arcades: Twin Cobra - Taito (2x10p)|magazine=[[Commodore User]]|issue=55|publisher=[[EMAP]]|date=April 1988|page=113}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Computer and Video Games|CVG]]''
+| Positive<ref name="CVG77">{{cite magazine |title=Arcade Action |magazine=[[Computer and Video Games]] |date=February 1988 |issue=77 (March 1988) |pages=90–3 |url=https://archive.org/details/cvg-magazine-077/page/n89/mode/2up}}</ref>
+| 91%<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+| {{N/A}}
+| 66%<ref name="CVGGENtc">{{cite magazine|last=Leadbetter|first=Richard|url=https://archive.org/stream/computer-video-games-magazine-114/CVG114_May_1991#page/n75/mode/1up|title=Bytesize - Megadrive: Ultimate Tiger (Treco)|magazine=[[Computer and Video Games]]|issue=114|publisher=[[EMAP]]|date=May 1991|page=76}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Computer and Video Games|CVG]] [[Mean Machines]]''
+| {{N/A}}
+| 88%<ref name="CVGMMPCEth">{{cite magazine|last=Rignall|first=Julian|author-link=Julian Rignall|url=https://archive.org/details/Complete_Guide_to_Consoles_Volume_IV_1990_EMAP_Publishing_GB/page/n54/mode/1up|title=Complete Guide to Consoles – The Complete Games Guide: PC Engine – Tiger Heli|magazine=[[Computer and Video Games]] [[Mean Machines]]|issue=4|publisher=[[EMAP]]|date=November 1990|pages=40–57}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Edge (magazine)|Edge]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 8/10<ref name="EDGEFMT">{{cite magazine|url=https://archive.org/stream/Edge_UK_008#page/n73/mode/1up|title=Testscreen - Ultimate Tiger (FM Towns Marty)|magazine=[[Edge (magazine)|Edge]]|issue=8|publisher=[[Future plc]]|date=May 1994|page=74}}</ref>
+|-
+| ''[[Electronic Gaming Monthly|EGM]]''
+| {{N/A}}
+| {{N/A}}
+| 26/40<ref name="EGMNEStc">{{cite magazine|last1=Harris|first1=Steve|last2=Semrad|first2=Ed|last3=White|first3=David|last4=Allee|first4=Jim|url=https://archive.org/stream/Electronic_Gaming_Monthly_05#page/n33/mode/1up|title=Fact-File: Twin Cobra (NES)|magazine=[[Electronic Gaming Monthly]]|issue=5|publisher=Sendai Publishing|date=December 1989|page=34}}</ref>
+| 30/40<ref name="EGMGENtc">{{cite magazine|last1=Harris|first1=Steve|last2=Semrad|first2=Ed|last3=Alessi|first3=Martin|last4=Williams|first4=Ken|url=https://archive.org/stream/Electronic_Gaming_Monthly_23#page/n21/mode/1up|title=Review Crew (Genesis - Sega): Twin Cobra|magazine=[[Electronic Gaming Monthly]]|issue=23|publisher=Sendai Publishing|date=June 1991|page=22}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Tokuma Shoten#Magazines|Famimaga]]''
+| {{N/A}}
+| {{N/A}}
+| 20.17/30<ref name="FCMNESkt">{{cite magazine|title=Famicom ROM Cassette All Catalog '91 全787本 5月10日号特別付録 - 究極タイガー|magazine=[[Tokuma Shoten#Magazines|Famimaga]]|volume=7|issue=9|publisher=[[Tokuma Shoten]]|date=10 May 1991|page=222|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Famitsu]]''
+| {{N/A}}
+| 33/40<ref name="WFTPCEkt">{{cite magazine|url=https://archive.org/stream/bi-weekly-famitsu-no.-72-april-14th-1989/Bi-Weekly%20Famitsu%20-%20No.%2072%20April%2014th%2C%201989%20%28Compressed%29#page/14/mode/1up|title=NEW GAMES CROSS REVIEW: 究極タイガー (PCエンジン)|magazine=[[Famitsu]]|issue=72|publisher=[[ASCII Corporation]]|date=April 14, 1989|page=14|language=ja}}</ref>
+| 22/40<ref name="FamNESkt">{{cite magazine|url=https://archive.org/stream/bi-weekly-famitsu-no.-82-september-1st-1989/Bi-Weekly%20Famitsu%20-%20No.%2082%20September%201st%2C%201989%20%28Compressed%29#page/n12/mode/1up|title=NEW GAMES CROSS REVIEW: 究極タイガー|magazine=[[Famitsu]]|issue=82|publisher=[[ASCII Corporation]]|date=September 1, 1989|page=13|lang=ja}}</ref>
+| 21/40<ref name="FamGENkt">{{cite magazine|url=https://www.famitsu.com/games/t/4613/reviews/|title=NEW GAMES CROSS REVIEW: 究極タイガー|magazine=[[Famitsu]]|issue=124|publisher=[[ASCII Corporation]]|date=8 March 1991|access-date=2020-05-15|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[The Games Machine]]''
+| {{N/A}}
+| 86/100<ref name="TGMPCEkt">{{cite magazine|last=Harrison|first=Phil|url=https://archive.org/stream/the-games-machine-19/TheGamesMachine19#page/n21/mode/1up|title=Consoles - PC Engine: Tiger|magazine=[[The Games Machine]]|issue=19|publisher=[[Newsfield Publications]]|date=June 1989|page=22}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:ja:ファミコン必勝本#HiPPON SUPER!、必本スーパー!（1991〜1995）|Hippon Super!]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 20/100<ref name="HS!GENkt">{{cite magazine|title=究極タイガー|magazine=[[:ja:ファミコン必勝本#HiPPON SUPER!、必本スーパー!（1991〜1995）|Hippon Super!]]|issue=3|publisher=[[Takarajimasha]]|date=March 1991|page=42|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Joystick (magazine)|Joystick]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 78%<ref name="JStickGENth">{{cite magazine|last=Demoly|first=Jean-Marc|url=http://download.abandonware.org/magazines/Joystick/joystick_numero015/Joystick%20015%20-%20Page%20127%20-%20(Avril%2091).jpg|title=Console News: Tiger Heli (Megadrive)|magazine=[[Joystick (magazine)|Joystick]]|issue=15|publisher=[[:fr:Joystick (magazine)#Les années Sipress|Sipress]]|date=April 1991|page=127|lang=fr}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:ja:マル勝PCエンジン|Marukatsu PC Engine]]''
+| {{N/A}}
+| 35/40<ref name="MPCEPCEkt">{{cite magazine|title=究極タイガー|magazine=[[:ja:マル勝PCエンジン|Marukatsu PC Engine]]|publisher=[[Kadokawa Shoten]]|date=1989|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Mega Drive Advanced Gaming|MDAG]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 78%<ref name="MDAGGENthtcut">{{cite magazine|url=https://retrocdn.net/images/b/bb/MDAG_UK_05.pdf|title=The Incredibly Complete Mega File: Tiger Heli (Import); Twin Cobra (Import); Ultimate Tiger (Import)|magazine=[[Mega Drive Advanced Gaming]]|issue=5|publisher=[[Maverick Magazines]]|date=January 1993|page=95}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:ja:メガドライブFAN|Mega Drive Fan]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 17.26/30<ref name="MDFGENkt">{{cite magazine|title=Mega Drive & Game Gear All Catalog '93 7月号特別付録 - 究極タイガー|magazine=[[:ja:メガドライブFAN|Mega Drive Fan]]|issue=42|publisher=[[Tokuma Shoten]]|date=15 July 1993|page=54|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[MegaTech]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 81%<ref name="MegaTGENut">{{cite magazine|url=https://retrocdn.net/index.php?title=File%3AMegaTech_UK_01.pdf&page=81|title=Game Index - Ultimate Tiger|magazine=[[MegaTech]]|issue=1|publisher=[[EMAP]]|date=December 1991|page=81}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:ja:Oh!X|Oh!X]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 10/10<ref name="Oh!XX68Kkt">{{cite magazine|last=Nachi|first=Yaegaki|url=https://archive.org/stream/OhX1990-1995/Oh%21X_1993-03#page/n23/mode/2up|title=The Softouch — Game Review: 究極タイガー|magazine=[[:ja:Oh!X|Oh!X]]|issue=131|publisher=[[SB Creative|SoftBank Creative]]|date=March 1993|pages=22–25|lang=ja}}</ref>
+| {{N/A}}
+|-
+| ''[[:ja:PC Engine FAN|PC Engine Fan]]''
+| {{N/A}}
+| 24.37/30<ref name="PCEFPCEkt">{{cite magazine|title=PC Engine All Catalog '93 10月号特別付録 - 究極タイガー|magazine=[[:ja:PC Engine FAN|PC Engine Fan]]|volume=6|issue=10|publisher=[[Tokuma Shoten]]|date=1 October 1993|page=73|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:de:Power Play (Zeitschrift)|Power Play]]''
+| {{N/A}}
+| 82/100<ref name="PPPCEtha">{{cite magazine|last=Fisch|first=Henrik|url=https://www.kultboy.com/index.php?site=t&id=3509|title=Power Videospiele-Tests: Tiger Heli (PC Engine)|magazine=[[:de:Power Play (Zeitschrift)|Power Play]]|issue=18|publisher=Future Verlag|date=September 1989|page=52|lang=de}}</ref><ref name="PPPCEthb">{{cite magazine|last=Fisch|first=Henrik|url=https://www.kultboy.com/index.php?site=t&id=3020|title=Die 100 Besten Spiele: Tiger Heli (PC-Engine)|magazine=[[:de:Power Play (Zeitschrift)|Power Play]]|issue=1 Sonderhefte|publisher=Future Verlag|date=January 1989|page=104|lang=de}}</ref>
+| {{N/A}}
+| 80%<ref name="PPGENth">{{cite magazine|last=Gaksch|first=Martin|url=https://www.kultboy.com/index.php?site=t&id=14072|title=Videospiele / Tests - Tiger Heli (Mega Drive)|magazine=[[:de:Power Play (Zeitschrift)|Power Play]]|issue=38|publisher=Future Verlag|date=May 1991|page=139|lang=de}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Sega Force]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 71%<ref name="SForceGENtc">{{cite magazine|last1=Mellerick|first1=Paul|last2=Knight|first2=Chris|url=https://retrocdn.net/index.php?title=File%3ASegaForce_UK_08.pdf&page=90|title=Reviewed! (Mega Drive): Twin Cobra|magazine=[[Sega Force]]|issue=8|publisher=[[Europress Impact]]|date=August 1992|pages=90–91}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Sega Power]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{Rating|3|5}}<ref name="SPowerGENtc">{{cite magazine|last=Jarratt|first=Steve|url=https://retrocdn.net/index.php?title=File%3ASegaPower_UK_23.pdf&page=55|title=The Hard Line - Twin Cobra (Import)|magazine=[[Sega Power]]|issue=23|publisher=[[Future plc]]|date=October 1991|page=55}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Sega Pro]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 87/100<ref name="SProGENut">{{cite magazine|url=https://retrocdn.net/index.php?title=File%3ASegaPro_UK_06.pdf&page=31|title=The A-Z of Sega Games – Ultimate Tiger (Mega Drive)|magazine=[[Sega Pro]]|issue=6|publisher=[[Paragon Publishing]]|date=April 1992|page=31}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Tilt (French magazine)|Tilt]]''
+| {{N/A}}
+| 17/20<ref name="TiltPCEth">{{cite magazine|last=Huyghues-Lacour|first=Alain|url=http://download.abandonware.org/magazines/Tilt/tilt_numero077/TILT%20-%20n077%20-%20avril%201990%20-%20page058%20%20et059%20.jpg|title=Hits: Tiger Heli - PC Engine NEC|magazine=[[Tilt (French magazine)|Tilt]]|issue=77|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=April 1990|pages=58–59|lang=fr}}</ref>
+| {{N/A}}
+| 14/20<ref name="TiltGENth">{{cite magazine|last=Harbonn|first=Jacques|url=http://download.abandonware.org/magazines/Tilt/tilt_numero091/TILT%20091%20%28Juin%201991%29%20Page%20075.jpg|title=Rolling Softs: Tiger Heli - Megadrive, cartouche Treco|magazine=[[Tilt (French magazine)|Tilt]]|issue=91|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=June 1991|page=75|lang=fr}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:pt:VideoGame|VideoGame]]''
+| {{N/A}}
+| {{N/A}}
+| {{Rating|3|5}}<ref name="VGNEStc">{{cite magazine|url=https://archive.org/stream/VideoGame_Ano_1_Numero_04_1991-06_Sigla_Editora_BR_pt#page/n39/mode/1up|title=Sistema Nintendo - Twin Cobra|magazine=[[:pt:VideoGame|VideoGame]]|issue=4|publisher=Editora Sigla|date=June 1991|page=40|lang=pt}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:de:Video Games|Video Games]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 80%<ref name="VGGENth">{{cite magazine|last=Lenhardt|first=Heinrich|url=https://www.kultboy.com/index.php?site=t&id=9711|title=Test: Guten Flug - Tiger Heli (Mega Drive)|magazine=[[:de:Video Games|Video Games]]|issue=2|publisher=[[Future plc|Future-Verlag]]|date=February 1991|page=91|lang=de}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+! colspan=7 | Awards
+|-
+! colspan=3 | Publication(s)
+! colspan=4 | Award(s)
+|-
+| colspan=3 | ''[[Gamest]]'' (1991)
+| colspan=4 | The Best Game #42<ref name="G60">{{cite magazine|url=https://archive.org/stream/no.-060-1991-07#page/63/mode/1up|title=ザ・ベストゲーム: 最も愛されたゲームたち!! - 読者が選んだベスト30|magazine=[[Gamest]]|type=Extra|issue=60|publisher=[[Shinseisha]]|date=July 1991|page=63|lang=ja}}</ref>
+|-
+| colspan=3 | ''[[Gamest|Gamest Mook]]'' (1998)
+| colspan=4 | Best Shooting Award 4th<br/ >Annual Hit Game 9th<br/ >Pure Shooting Award<ref name="GM112">{{cite book|url=https://archive.org/stream/vol.-112-2#page/n23/mode/2up|title=ザ・ベストゲーム2 - アーケードビデオゲーム26年の歴史: ゲーメスト大賞11年史|work=[[Gamest|Gamest Mook]]|volume=5|edition=4th|publisher=[[Shinseisha]]|date=17 January 1998|pages=22–23|language=ja|isbn=9784881994290}}</ref>
+|}
+{{Expand section|date=August 2021}}
+
+According to Masahiro Yuge and Tatsuya Uemura, ''Twin Cobra'' proved to be a popular hit for Toaplan, though ''[[Flying Shark]]'' was "the biggest" hit for them.<ref name="G49"/><ref name="TFf25v9"/><ref name="STGv4b"/> In Japan, ''Game Machine'' listed it on their 1 January 1988 issue as being the fourth most-successful table arcade unit of the month, outperforming titles such as ''[[Thundercade]]'' and ''[[Rainbow Islands: The Story of Bubble Bobble 2]]''.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=323|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 January 1988|page=37|lang=ja}}</ref> It went on to become Japan's highest-grossing arcade [[1988 in video games|conversion kit of 1988]].<ref>{{cite magazine |title=Game Machine's Best Hit Games 25: '88 ''/ "Game of the Year '88" By Game Machine'' |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=348 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=15 January 1989 |pages=10–1, 26 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19890115p.pdf#page=6}}</ref>
+
+''[[Computer and Video Games]]'' reviewer Clare Edgeley gave an overall positive outlook to the arcade original.<ref name="CVGARCtca">{{cite magazine|last=Edgeley|first=Clare|url=https://archive.org/stream/computer-video-games-magazine-077#page/n89/mode/2up|title=Arcade Action - Twin Cobra|magazine=[[Computer and Video Games]]|issue=77|publisher=[[EMAP]]|date=March 1988|pages=90–91}}</ref><ref name="CVGARCtcb">{{cite magazine|last=Edgeley|first=Clare|url=https://archive.org/stream/computer-video-games-magazine-078#page/n118/mode/1up|title=Arcade Action - Twin Cobra|magazine=[[Computer and Video Games]]|issue=78|publisher=[[EMAP]]|date=April 1988|page=119}}</ref>
+
+== Legacy ==
+A sequel, ''[[Twin Cobra II]]'', was originally under development by Toaplan but the studio closed down in 1994 until Taito allowed Toaplan offshoot [[Takumi Corporation]] to finish work on the project as their first release in [[1995 in video gaming|1995]], before being ported to [[Sega Saturn]] in [[1997 in video gaming|1997]] under the name ''Kyukyoku Tiger II Plus''.<ref>{{cite magazine|title=Overseas Readers Column - Toaplan Goes Bust|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=472|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 May 1994|page=26|lang=ja}}</ref><ref>{{cite journal|last=Neal|first=David<!--|url=http://insomnia.ac/commentary/a_history_of_toaplan-->|title=A History of Toaplan - Post-Toaplan|journal=Insomnia|date=December 10, 2008<!--|access-date=2019-11-07|archive-url=https://web.archive.org/web/20110314093715/http://insomnia.ac/commentary/a_history_of_toaplan|archive-date=2011-03-14|url-status=live-->}}</ref><ref>{{cite magazine|author1=Iona|author2=VHS|author3=K-HEX|title=東亜プラン FOREVER (3/5)|magazine=Floor 25|volume=9|date=June 2009|lang=ja}} ([https://www.gamengai.com/#/cmnt-info?id=2332&p=3 Translation] by Gamengai. {{Webarchive|url=https://web.archive.org/web/20191122014305/https://www.gamengai.com/#/cmnt-info?id=2332&p=3|date=2019-11-22}}).</ref><ref>{{cite web|last=Zverloff|first=Nick|url=http://www.hardcoregaming101.net/twin-cobra-ii/|title=Twin Cobra II|publisher=Hardcore Gaming 101|date=5 February 2011|access-date=2020-05-16}}</ref><ref>{{cite encyclopedia|url=https://sega.jp/fb/segahard/ss/soft_licensee3.htmlml|title=セガサターン対応ソフトウェア（ライセンシー発売）- 1997年発売|encyclopedia=SEGA HARD Encyclopedia|publisher=[[Sega]]|date=2020|access-date=2020-05-16|language=ja|archive-url=https://web.archive.org/web/20200320230533/https://sega.jp/fb/segahard/ss/soft_licensee3.html|archive-date=2020-03-20|url-status=live}}</ref> Former [[Seibu Kaihatsu]] artist Toshinobu Komazawa claimed that Seibu borrowed ideas from ''Twin Cobra'' when developing ''[[Raiden (video game)|Raiden]]''.<ref>{{cite web|url=http://www.inhgroup.com/item/raiden04/|title=THE FLASH DESIRE 雷電III|website=inhgroup.com|date=2007|access-date=2020-06-02|language=ja|archive-url=https://web.archive.org/web/20190407204956/http://www.inhgroup.com/item/raiden04/|archive-date=7 April 2019|url-status=live|df=dmy-all}} ([http://shmuplations.com/seibukaihatsu2/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20191217170505/http://shmuplations.com/seibukaihatsu2/|date=2019-12-17}}).</ref> Artist Perry "Gryzor/Rozyrg" Sessions cited ''Twin Cobra'' as one of the main influences for ''Super XYX''.<ref>{{cite web|last=Überwenig|first=Toma|url=https://shmupemall.com/interviews/team-grybanser-fox-rozyrg-interview-english-version-87569.html|title=[Interview] Rozyrg talks about Super XYX, its lengthy development & more!|work=Shmup'Em-All|date=November 30, 2020|access-date=2021-01-06|archive-url=https://web.archive.org/web/20210106211606/https://shmupemall.com/interviews/team-grybanser-fox-rozyrg-interview-english-version-87569.html|archive-date=2021-01-06|url-status=live}}</ref> The rights to ''Twin Cobra'' and many other [[Intellectual property|IP]]s from Toaplan are now owned by Tatsujin, a company named after ''[[Truxton (video game)|Truxton]]'''s Japanese title that was founded in [[2017 in video gaming|2017]] by former Toaplan employee Masahiro Yuge, who are now affiliated with arcade manufacturer exA-Arcadia.<ref>{{cite web|url=http://tatsujin.tokyo/custom.html|title=ライセンス事業|publisher=TATSUJIN Co., Ltd.|date=2019|access-date=2020-05-16|language=ja|archive-url=https://web.archive.org/web/20181225203847/http://tatsujin.tokyo/custom.html|archive-date=2018-12-25|url-status=live}}</ref><ref>{{cite web|last=Bravo|first=Roberto|url=https://www.gamercafe.cl/2018/09/12/nueva-compania-tatsujin-asegura-tener-gran-parte-de-las-ips-de-la-extinta-toaplan/|title=Nueva compañía "Tatsujin" asegura tener gran parte de las IPs de la extinta Toaplan|publisher=Gamercafe|date=12 September 2018|access-date=2020-05-16|language=es|archive-url=https://web.archive.org/web/20191021030437/https://www.gamercafe.cl/2018/09/12/nueva-compania-tatsujin-asegura-tener-gran-parte-de-las-ips-de-la-extinta-toaplan/|archive-date=2019-10-21|url-status=live}}</ref><ref>{{cite web|url=https://exa.ac/en/editors/tatsujin/|title=Tatsujin|publisher=exA-Arcadia|date=2019|access-date=2020-05-16|archive-url=https://web.archive.org/web/20191021030706/https://exa.ac/en/editors/tatsujin/?v=a99877f71bd9|archive-date=2019-10-21|url-status=live}}</ref><ref>{{cite web|last=Bravo|first=Roberto|url=https://www.gamercafe.cl/2019/01/25/tatsujin-los-duenos-de-toaplan-anuncian-que-estan-trabajando-para-exa-arcadia/|title=Tatsujin, los dueños de Toaplan, anuncian que están trabajando para exA-Arcadia|publisher=Gamercafe|date=25 January 2019|access-date=2020-05-16|language=es|archive-url=https://web.archive.org/web/20191021031057/https://www.gamercafe.cl/2019/01/25/tatsujin-los-duenos-de-toaplan-anuncian-que-estan-trabajando-para-exa-arcadia/|archive-date=2019-10-21|url-status=live}}</ref><ref>{{cite web|url=https://www.4gamer.net/games/408/G040821/20190125146/|title=［JAEPO2019］TATSUJINやナツメアタリの参入が発表されたexA-Arcadia。出展コーナーの模様を紹介|work=[[4Gamer.net]]|publisher=Aetas Inc.|date=26 January 2019|access-date=2020-05-16|language=ja|archive-url=https://web.archive.org/web/20191021031252/https://www.4gamer.net/games/408/G040821/20190125146/|archive-date=2019-10-21|url-status=live}}</ref>
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://gamefaqs.gamespot.com/arcade/568076-twin-cobra ''Twin Cobra''] at [[GameFAQs]]
+* [https://www.giantbomb.com/twin-cobra/3030-11930/ ''Twin Cobra''] at [[Giant Bomb]]
+* [https://www.arcade-museum.com/game_detail.php?game_id=10231 ''Twin Cobra''] at [[Killer List of Videogames]]
+* [https://www.mobygames.com/game/twin-cobra ''Twin Cobra''] at [[MobyGames]]
+* [http://privat.bahnhof.se/wb831590/toaplansite/allyourbase/twincobra/index.html ''Twin Cobra''] at The Toaplan Museum
+* [https://store.steampowered.com/app/2022910/Twin_Cobra/ ''Twin Cobra''] on Steam
+
+{{Toaplan}}
+{{Portal bar|1980s|Japan|Video games}}
+
+{{DEFAULTSORT:Twin Cobra}}
+[[Category:1987 video games]]
+[[Category:A.I Company games]]
+[[Category:Arcade video games]]
+[[Category:CBS Sony Group games]]
+[[Category:FM Towns games]]
+[[Category:Helicopter video games]]
+[[Category:Mobile games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:PlayStation (console) games]]
+[[Category:Romstar games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Sega Genesis games]]
+[[Category:X68000 games]]
+[[Category:Taito games]]
+[[Category:Taito arcade games]]
+[[Category:Toaplan games]]
+[[Category:TurboGrafx-16 games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games scored by Masahiro Yuge]]
+[[Category:Video games scored by Tatsuya Uemura]]
+[[Category:Video games scored by Tsukasa Masuko]]
+[[Category:Fiction about aircraft carriers]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Micronics games]]
+[[Category:Treco games]]
+[[Category:Mobirix games]]

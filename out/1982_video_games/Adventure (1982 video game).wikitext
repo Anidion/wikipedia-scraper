@@ -1,0 +1,51 @@
+Adventure (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Adventure_%281982_video_game%29&oldid=1120987725
+Accessed on: 2024-06-26T16:52:52.412035
+
+
+
+------
+Adventure (1982 video game)
+{{about-distinguish|the game for Acorn computers published by Micro Power|Adventure (1980 video game){{!}}''Adventure'' (1980 video game)|Colossal Cave Adventure{{!}}''Colossal Cave Adventure''}}
+{{Infobox video game
+| title = Adventure
+| image = Adventure cassette front cover (Acorn Electron).png
+| caption=Acorn Electron cassette cover
+| developer =
+| publisher = [[Micro Power]]
+| engine =
+| released = '''1982:''' Acorn Atom<br>'''1983:''' Electron, BBC Micro
+| genre = [[Interactive fiction|Text adventure]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Acorn Atom]], [[Acorn Electron]], [[BBC Micro]]
+}}
+'''''Adventure''''' is a video game published in the UK by [[Micro Power]].<ref name="Electron User 1">{{cite web|url=http://www.acornelectron.co.uk/mags/eu/revs/micropower/r-adve.html|title=Electron User review archive: ADVENTURE|accessdate=2010-09-28|first=Neil|last=Graham|publisher=[[Electron User]]}}</ref> It was released on the [[Acorn Atom]] in 1982<ref name="c&vg1">{{cite web|url=ftp://ftp.worldofspectrum.org/pub/sinclair/magazines/C+VG/Issue010/Pages/CVG01000073.jpg|title=DEALING WITH THE WIZARD...|accessdate=2010-09-28|first=Keith|last=Campbell|publisher=[[Computer and Video Games]] (August 1982 edition)}}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and on the [[Acorn Electron]] and [[BBC Micro]] in 1983.<ref name="Electron User 1"/>
+
+==Gameplay==
+The game is a [[Interactive fiction|text adventure]], being an attempted reconstruction of the original ''[[Colossal Cave Adventure|Adventure]]'' computer game, although it is not very faithful to the original mainframe version.<ref>{{cite web|url=http://www.beebgames.com/games.php?company=2|title=The BBC Games Archive - digital memories|accessdate=2010-09-28|first=C.|last=Boylan|publisher=The BBC Games Archive}}</ref>
+
+[[Image:Adventure in-game screenshot (Acorn Electron).png|thumb|left|In-game screenshot (Acorn Electron)]]
+In this version of the game, the player must rescue a princess from the Magic Caverns.<ref name="cassette1983">{{cite journal |year=1983|title = Acorn Electron cassette inlay |journal=Adventure}}</ref> There are over a hundred different locations and many problems must be solved in order to achieve this goal.<ref name="cassette1983"/> The game supports one or two word commands and the most useful commands are available via function key shortcuts e.g. INVENTORY, CHECK SCORE etc.<ref name="cassette1983"/>
+
+The game's instructions do not reveal all valid verbs, as it is left to the player to discover them.<ref name="cassette1983"/>  The instructions also mention that the [[One Thousand and One Nights|Arabian Nights]] folk tales may provide useful hints to the player.<ref name="cassette1983"/>
+
+The Acorn Atom version of the game requires 12K of RAM<ref name="c&vg1"/> and is unrelated to another Acorn Atom title (a text adventure game engine), also called ''Adventure'' from Acornsoft.<ref>{{cite web|url=http://members.casema.nl/hhaydn/images/adve.gif|title=The Acorn Atom Review|accessdate=2010-09-28|first=H.|last=Haydn|publisher=Atom Users Club (Netherlands)}}</ref>
+
+==Reception==
+
+{{Empty section|date=May 2019}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://archive.today/20130123203737/http://uk.gamespot.com/bbc/adventure/adventure/tech_info.html?tag=tabs;summary Gamespot entry for Adventure (Micro Power)]
+
+{{Micro Power}}
+
+[[Category:1982 video games]]
+[[Category:Acorn Atom games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Micro Power games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]

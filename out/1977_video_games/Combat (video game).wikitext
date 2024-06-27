@@ -1,0 +1,109 @@
+Combat (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Combat_%28video_game%29&oldid=1225904731
+Accessed on: 2024-06-26T16:47:42.816172
+
+
+
+------
+Combat (video game)
+{{good article}}
+{{short description|1977 video game}}
+{{Infobox video game
+| title = Combat
+| image = Combatatarigamepack.jpg
+| alt = 
+| caption = 
+| developer = [[Atari, Inc.|Atari]]{{sfn|Weiss|2014|p=55}}
+| publisher = Atari{{sfn|Weiss|2014|p=55}}
+| series = 
+| engine = 
+| platforms = [[Atari 2600]]
+| released = 1977
+| genre = [[Shooter game|Shooter]]
+| modes = [[Multiplayer video game|Multiplayer]]
+| director = 
+| producer = 
+| designer = 
+| programmer = {{plainlist|* Ron Milner 
+* Steve Mayer
+* [[Joseph C. Decuir|Joe Decuir]]
+* Larry Wagner}}
+| artist = 
+| writer = 
+| composer = 
+}}
+
+'''''Combat''''' is a 1977 video game by [[Atari, Inc.]] for the Atari Video Computer System (later renamed the [[Atari 2600]]). In the game, two players controlling either a tank, a biplane, or a jet fire missiles at each other for two minutes and sixteen seconds. Points are scored by hitting the opponent, and the player with the most points when the time runs out wins. Variations on the gameplay introduce elements such as invisible vehicles, missiles that ricochet off of walls, and different playing fields.
+
+The game was being made while the [[Atari 2600]] was still in development. ''Combat'' was based on Atari's popular arcade game ''[[Tank (video game)|Tank]]''. It was initially developed by Steve Mayer and Ron Milner. [[Joseph C. Decuir|Joe Decuir]] later tested it on the developing Atari Video Computer System hardware, and Larry Wagner completed the game while adding the two plane variations to the game. The game was released as a [[Glossary of video game terms#Pack-in game|pack-in game]] with the Atari Video Computer System.
+
+By the early 1980s, reception towards ''Combat'' commented on its graphics and game play as being out-of-date. A sequel titled ''Combat Two'' was planned for the Atari 2600, but never completed. A prototype of the sequel was later released in various formats. Retrospective reception by publications such as ''Classic Gamer Magazine'' and [[AllGame]] have praised the game, while ''[[PCMag]]'' and ''[[Flux (magazine)|Flux]]'' included it on their list of Best Atari 2600 games and Best Game of all time lists respectively.
+
+==Gameplay==
+[[Image:Combat.svg|thumb|left|The "Tank" variation of game in ''Combat'', featuring the score at the top and the playing field from an overhead view.]]
+''Combat'' uses two four-directional [[joystick]]s, one for each player.{{sfn|Montfort|Bogost|2009|p=22}} The game has several modes of gameplay: "[[Tank]]", "[[Biplane]]" and "[[Jet aircraft|Jet]]" and with variations of the above models.{{sfn|Montfort|Bogost|2009|p=19}} The tank and jet modes are viewed from a top-down perspective while biplane games are side view.{{sfn|Weiss}} In all forms of the game, pushing the button fires a missile. Hitting the other player with a missile scores a point. The player with the most points at the end of a two minutes and sixteen second round wins. Variations of the gameplay in Tank mode include adding obstacles to maneuver around, having the missiles rebound off of walls (referred to as Tank-Pong) and a mode where the tanks are invisible except when they are firing a missile or are hit by one.{{sfn|Montfort|Bogost|2009|p=19}}{{sfn|Montfort|Bogost|2009|p=31}} In the other two modes, Jet and Biplane, there are no obstacles, and both aircraft continuously move forward.{{sfn|Montfort|Bogost|2009|p=19}} These levels have options for obscuring clouds that the planes can hide behind.{{sfn|Montfort|Bogost|2009|p=31}} The original 1977 Atari VCS (Video Computer System) has six switches in front, including left and right difficulty switches and a game select switch. The difficulty switches change the range of fire of the missiles and in the plane-based games also changes the speed of flight.{{sfn|Montfort|2006}} 
+
+In his article "Combat in Context", [[Nick Montfort]] stated it was difficult to place the game genre to ''Combat'' as assigning one to it would be considered [[Anachronism|anachronistic]].{{sfn|Montfort|2006}} [[AllGame]] would later categorize it as a [[shooter game]].{{sfn|Weiss}}
+
+==Development==
+''Combat'' was programmed while the Atari 2600 hardware was still under development.{{sfn|Montfort|Bogost|2009|p=19}} Steve Mayer was developing the game by late 1975. The original version was a tank game made on the early prototype Atari 2600 hardware engineered by Mayer and Ron Milner from [[Cyan Engineering]], a consulting firm that Atari purchased in 1975.{{sfn|Montfort|Bogost|2009|p=20}}{{sfn|Montfort|Bogost|2009|p=25}}  The VCS hardware was designed to be capable of playing Atari's popular [[arcade game|arcade games]] ''[[Pong]]'' (1972) ''[[Pong Doubles]]'' (1973), ''[[Quadrapong]]'' (1974), ''[[Gran Trak 10]]'' (1974), ''[[Tank (video game)|Tank]]'' (1974), and ''[[Jet Fighter (video game)|Jet Fighter]]'' (1975).{{sfn|Smith|2019|p=332}} ''Combat'' was based on the ''Tank''.{{sfn|Montfort|Bogost|2009|p=20}}
+
+''Combat'' was made to fit into a two [[Kilobyte]] cartridge's [[read only memory|ROM]].{{sfn|Montfort|2006}}  In his academic journal article ''Combat in Context'', Nick Monfrot stated that the game was coded in [[assembly language]] by [[Joseph C. Decuir|Joe Decuir]], who was working on the final VCS hardware with [[Jay Miner]].{{sfn|Montfort|2006}} Decuir has deferred much of the credit on the game, stating that "Ron Milner and Steve Mayer conceived of what became ''Combat'', I was an implementer [...] I worked on it mostly as a test case for the hardware".{{sfn|Weiss|2014|p=55}} After Decuir completed his work on the game, the code was finished by Larry Wagner, the head of Atari's new VCS programming team. Wagner refined the tank games and added both the aircraft modes.{{sfn|Montfort|Bogost|2009|p=20}} Decuir later proclaimed that Wagner "made the ''Combat'' display engine a lot more fun."{{sfn|Weiss|2014|p=55}}
+
+==Release==
+[[Image:Atari-2600-Wood-4Sw-Set.png|thumb|right|''Combat'' was included with the release of the Atari 2600 (pictured) from 1977 to 1982.]]
+''Combat'' was bundled with most Atari 2600 consoles from 1977 to 1982.{{sfn|Montfort|Bogost|2009|p=20}}{{sfn|Montfort|Bogost|2009|p=15}}<ref>{{cite video game |title=Atari 50 |developer=[[Digital Eclipse]] |publisher=[[Atari SA|Atari]] |date=November 11, 2022 |platform=Nintendo Switch |quote='''Birth of the Console: 1977: Combat''': If you find one Atari VCS game in someone's collection, it'll be Combat. That's because it was packed in with every VCS sold from 1977 to 1982.}}</ref> The only systems not bundled with the game were those marketed by [[Sears]] under its Telegames label, which were sold with ''[[Air-Sea Battle]]'' (1977) under the title ''Target Fun'' as the pack-in game.{{sfn|Lapetino|2016|p=58}}{{sfn|Montfort|Bogost|2009|p=120-121}}{{sfn|Weiss|2007|p=122}} The Sears release of ''Combat'' was known as ''Tank Plus''.{{sfn|Weiss|2007|p=121}}
+
+According to ''Weekly Television Digest'' from October 17, 1977 the Atari VCS was shipped to all major market areas by August 1977.<ref>{{cite magazine|magazine=Weekly Television Digest|title=Games-Deja Vu Sets In|date=October 17, 1977|page=10}}</ref> The system became known as the Atari 2600 only after the release of the [[Atari 5200]] in 1982.{{sfn|Montfort|2006}} The cover art of ''Combat'' was drawn by Cliff Spohn. Spohn commented he was not happy with the cover, noting that as the graphic was cut up into four areas that the jet trail is cut and it "always really bothered [him]."{{sfn|Lapetino|2016|p=61}}
+
+''Combat'' was re-released in various compilation formats, such as the ''Atari 80 in One'' for Windows in 2003 and the ''[[Atari Anthology]]'' for [[PlayStation 2]] and [[Xbox]] in 2004.{{sfn|Harris|2004}} It was also released on portable devices as part of ''Atari Classics Evolved'' (2007) for the [[PlayStation Portable]] and ''[[Atari Greatest Hits]]'' (2011) for [[iOS]].<ref name="mc-ios">{{cite web|url=https://www.metacritic.com/game/ataris-greatest-hits/critic-reviews/?platform=ios-iphoneipad|work=MetaCritic|title=Atari's Greatest Hits|accessdate=January 27, 2023|url-status=live|archiveurl=https://web.archive.org/web/20230127093459/https://www.metacritic.com/game/ios/ataris-greatest-hits|archivedate=January 27, 2023}}</ref>{{sfn|Weiss|2014|p=56}} In 2010, it was made available as part of [[Microsoft]]'s [[Game Room]] for the [[Xbox 360]].{{sfn|Weiss|2014|p=56}}
+
+==Reception==
+From contemporary reviews, ''[[Video (magazine)|Video]]'' compared the Atari VCS's [[launch title]]s, and gave tank pong the highest rating of the variations on ''Combat'' with a seven-and-one-half rating for Tank-Pong and Invisible Tank Pong, six-and-one-half for invisible tank game, and six for all the other variations. In comparison, ''[[Blackjack (Atari 2600)|Blackjack]]'' and ''[[Video Olympics]]'' received a ten and eight-and-one-half rating each, while ''[[Basic Math (video game)|Basic Math]]'', ''[[Surround (video game)|Surround]]'', ''[[Street Racer (1977 video game)|Street Racer]]'', and ''[[Star Ship]]'' all received lower ratings.<ref name="video">{{cite magazine|magazine=[[Video (magazine)|Video]]|year=1979|volume=1|issue=5|issn=0147-8907|title=The Games|pages=32–33}}</ref> By 1982, the game was receiving negative reception. Walter Lowe, Jr. ranked the game with a one-and-a-half star rating in ''Playboy's Guide to Rating Video Games'' while [[Ken Uston]] in ''[[Ken Uston's Guide to Buying and Beating the Home Video Games|Buying and Beating the Home Video Games]]''  declared "It's not fair to be too critical because, after all, this cartridge is nearly five years old; an in this age of rapid computer technology, that makes it almost an antique."{{sfn|Weiss|2014|p=56}} Craig Kubey's ''The Winners' Book of Video Games'' simply described it as "adequate" with both Lowe, Jr. and Kubey both only finding the saving grace that it came included with the console.{{sfn|Weiss|2014|p=56}} In the British publication ''TV Gamer'' from August 1983, Sonya Bradford found the controls took time to get used to and that the game "becomes a bit monotonous, which is not helped by the poor graphics."{{sfn|Weiss|2014|p=56}}
+
+From retrospective reviews, Brett Alan Weiss of the online video game database [[AllGame]] gave the game a four-and-a-half-star rating out of five, declaring that the simple graphics and sound fail to give a true impression of the game, noting its high replay value and "highly entertaining cat-and-mouse action."{{sfn|Weiss}} In the first issue of ''Classic Gamer Magazine'' (1999) D.B. Caufield declared ''Combat'' as "still an outstanding two-player game", finding that what it lacked in graphics it made up for in gameplay.{{sfn|Weiss|2014|p=55}}
+
+In 1995, ''[[Flux (magazine)|Flux]]'' magazine ranked ''Combat'' #48 on their list of "Top 100 Video Games". The article stated that despite what the publication described as poor-quality graphics, the gameplay made ''Combat'' earn its position on the list.{{sfn|Amrich|Barbagallo|East|Hudak|1995|p=30}} In 2012, ''[[PCMag]]'' included ''Combat'' in their "The Greatest Atari Games of All Time" list, with writer Eric Griffith noted the dated graphics by 2012 standards, while finding that the game felt "pretty magical in the 70s."{{sfn|Griffith|2012}}
+
+==Legacy==
+[[Image:Atari combat2.png|thumb|A gameplay scene from the prototype release of ''Combat Two''.]]
+A sequel to ''Combat'' went into development for the Atari 2600 and was to be titled ''Combat Two''.{{sfn|Lapetino|2016|p=144}} It was announced by Atari in 1982.{{sfn|Bunch|2022|p=30}} The game would have included landscape elements such as water, forests and bridges as well as a level editor. The game was officially announced but was never officially released for the system. An incomplete prototype of the game surfaced in 1999 by former ''[[Atari Age]]'' magazine editor Steve Morgenstern.{{sfn|Lapetino|2016|p=144}} 
+
+Physical copies of the game were made for sale in limited quantity at the 2001 [[Classic Gaming Expo]].{{sfn|Weiss|2014|p=55}} The prototype was released as part of the ''[[Atari Flashback series|Atari Flashback 2]]'' [[dedicated console]] in 2005.{{sfn|Lapetino|2016|p=144}}{{sfn|Bunch|2022|p=30}} ''Combat Two'' was included as part of the ''[[Atari 50|Atari 50: The Anniversary Celebration]]'' (2022) compilation for [[Nintendo Switch]], [[PlayStation 4]], [[Steam (service)|Steam]], and [[Xbox One]].{{sfn|Machkovech|2022}}
+
+==See also==
+{{Portal|Video games}}
+*[[List of Atari 2600 games]]
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{Cite magazine |date=April 1995 |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |magazine=[[Flux (magazine)|Flux]]|title=The Top 100 Video Games|publisher=Harris Publications |issue=4 |issn=1074-5602|last1=Amrich|first1=Dan|last2=Barbagallo|first2=Ralph|last3=East|first3=Mark|last4=Hudak|first4=Chris|last5=Kitts|first5=Jeff|last6=Meston|first6=Zach|last7=Yang|first7=Jeff|authorlink1=Dan Amrich}}
+* {{cite book|title=Atari Archive: Vol.1 1977-1978|last=Bunch|first=Kevin|publisher=[[Limited Run Games|Press Run Books]]|ISBN=978-1-955183-21-5|year=2022}}
+* {{cite web|last=Griffith|first=Eric|url=https://www.pcmag.com/slideshow/story/299591/the-greatest-atari-games-of-all-time/3|title=The Greatest Atari Games of All Time|work=[[PCMag]]|date=June 27, 2012|accessdate=March 31, 2023|archiveurl=https://web.archive.org/web/20120701023120/https://www.pcmag.com/slideshow/story/299591/the-greatest-atari-games-of-all-time/3|archivedate=July 1, 2012}}
+* {{cite web|first=Craig|last=Harris|title=Atari Anthology|url=https://www.ign.com/articles/2004/11/30/atari-anthology|publisher=[[IGN]]|date=November 30, 2004|access-date=January 26, 2023|archiveurl=https://web.archive.org/web/20230126195851/https://www.ign.com/articles/2004/11/30/atari-anthology|archivedate=January 26, 2023}}
+* {{cite book|title=Art of Atari|last=Lapetino|first=Tim|publisher=[[Dynamite Entertainment]]|isbn=978-1-5241-0103-9|year=2016}}
+* {{cite web|last=Machkovech|first=Sam|url=https://arstechnica.com/gaming/2022/09/the-103-classic-games-that-did-and-didnt-make-the-atari-50-anniversary-cut/|title=The 103 Classic Games That Did, and Didn't, Make the Atari 50 Anniversary Cut — Retailer Leak Suggests Games from Arcade to Jaguar; Surprises Apparently Still Await|work=[[Ars Technica]]|publisher=[[Condé Nast]]|date=September 12, 2022|access-date=May 23, 2023|archive-url=https://web.archive.org/web/20220914101824/https://arstechnica.com/gaming/2022/09/the-103-classic-games-that-did-and-didnt-make-the-atari-50-anniversary-cut/|archive-date=September 14, 2022|url-status=live}}
+* {{cite journal|url=https://gamestudies.org/0601/articles/montfort|title=Combat in Context|last=Montfort|first=Nick|volume=6|issue=1|date=December 2006|issn=1604-7982|accessdate=April 28, 2023|journal=Game Studies|authorlink=Nick Montfort}}
+* {{cite book|last1=Montfort|first1=Nick|last2=Bogost|first2=Ian|title=Racing the Beam|publisher=[[MIT Press]]|year=2009|isbn=978-0-262-01257-7|title-link=Racing the Beam|authorlink2=Ian Bogost}}
+* {{Cite book|title=They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry, Volume I|last=Smith|first=Alexander|publisher=[[CRC Press]]|year=2019|isbn=9781138389908}}
+* {{cite web|last=Weiss|first=Brett Alan|publisher=[[AllGame]]|title=Combat|accessdate=April 28, 2023|archivedate=November 14, 2014|url=http://www.allgame.com/game.php?d=8409|archiveurl=https://web.archive.org/web/20141114095043/http://www.allgame.com/game.php?id=8409 }}
+* {{cite book|title=Classic Home Video Games 1972-1984|last=Weiss|first=Brett|publisher=McFarland & Company, Inc.|isbn=978-0-7864-3226-4|year=2007}}
+* {{cite book|title=The 100 Greatest Console Video Games 1977-1987|last=Weiss|first=Brett|year=2014|isbn=978-0-7643-4618-7|publisher=[[Schiffer Publishing]]}}
+
+==External links==
+*{{atarimania|id=7258}}
+*[https://web.archive.org/web/20180915134719/http://atariage.com/software_page.html?SoftwareID=935 ''Combat''] at AtariAge
+*[https://web.archive.org/web/20170201111052/http://atariage.com/software_page.html?SoftwareLabelID=1137 ''Combat Two''] at AtariAge
+
+{{Atari 2600}}
+
+[[Category:1977 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Atari games]]
+[[Category:Pack-in video games]]
+[[Category:Shooter games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer video games]]

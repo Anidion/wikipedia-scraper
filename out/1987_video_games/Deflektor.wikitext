@@ -1,0 +1,84 @@
+Deflektor
+Permalink: //en.wikipedia.org/w/index.php?title=Deflektor&oldid=1224240399
+Accessed on: 2024-06-26T17:01:55.471100
+
+
+
+------
+Deflektor
+{{Distinguish|Deflector (disambiguation){{!}}Deflector}}
+{{Infobox video game
+| title = Deflektor
+| image = Deflektor.png
+| caption =
+| developer = [[Vortex Software]]
+| publisher = [[Gremlin Graphics]]
+| composer = [[Ben Daglish]]
+| released = December 1987
+| modes = [[Single-player]]
+| genre = [[Puzzle video game|Puzzle]]
+| platforms = [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[ZX Spectrum]], [[Amiga]], [[NEC PC-9800]], [[X68000]]
+| designer = Costa Panayi
+| programmer = Costa Panayi
+}}
+
+'''''Deflektor''''' is a [[puzzle video game]] developed by [[Vortex Software]] and published by [[Gremlin Graphics]] in December 1987. The game was followed by a sequel in 1989 called ''Mindbender''.
+
+The game was also ported to the Japanese [[X68000]] by [[Blue Planet Software|Bullet-Proof Software]] and for the [[Atari 8-bit computers]] developed by [[Atari Corporation]] in 1988 but was not published.<ref>{{cite web |last=Reichert |first=Matt |title=Deflektor |website=AtariProtos.com |url=http://www.atariprotos.com/8bit/software/deflektor/deflektor.htm |accessdate=September 19, 2014}}</ref> According to the ''Deflektor X4'' remake programmer Ignacio Pérez Gil, the ''Deflektor'' developer [[Costa Panayi]] endorsed the creation and distribution of the non-commercial [[open-source software|open-source]] [[freeware]] in the 2000s.<ref>[http://retrospec.sgn.net/users/ignacio/dfli.htm Deflektor x4] on retrospec.sgn.net</ref>
+
+''Deflektor'' has been well received by the criticism. Critics emphasized its high appeal and originality. The game also received positive feedback for its graphics, difficulty, and in-depth exploration.
+
+== Gameplay ==
+[[Image:Deflektor ingame.png|left|thumb|The beam is transferred by fibre optics.|187x187px]]''Deflektor'' is a [[Real-time game|real-time]] [[Puzzle video game|puzzle game]] which set in an optical circuit. The player has to rotate mirrors to deflect a beam in order to destroy all the cells of each level. There are also other devices the player has to be careful not to touch with the beam for too much time because otherwise the system will overload. In each levels, the player will given a certain amount of time to complete each levels.<ref name=":0">{{Cite web |title=Inlay English Instructions |url=http://www.worldofspectrum.org/pub/sinclair/games-info/d/Deflektor.txt |url-status=dead |archive-url=https://web.archive.org/web/20150907233539/http://www.worldofspectrum.org/pub/sinclair/games-info/d/Deflektor.txt |archive-date=September 7, 2015 |access-date=May 25, 2023 |website=[[World of Spectrum]]}}</ref> There also various other items on each levels which the player can collect and a practise mode.<ref name=":0" />
+
+== Development ==
+[[Costa Panayi]] was the principal programmer, game designer and artist for [[Vortex Software]], when Panayi was programming primarily on the [[ZX Spectrum]]. He developed and released ''[[Revolution (video game)|Revolution]]'', which later influenced on creation of ''Deflektor''. The game was based on a simple physical phenomenon which was further modified in terms of game mechanics. Panayi was inspired to create the game by observing scientific software that worked with lasers. The development was carried out in the key of being different from existing trends in the gaming industry.
+
+The development of the original game for the ZX Spectrum was handled by Panayi himself and was published by Gremlin Graphics. A month before it release date, the game was announced in magazines.<ref>{{Cite journal |date=January 6, 1988 |title=Popular Computing Weekly |url=https://wos.meulie.net/pub/sinclair/magazines/PopularComputingWeekly/Issue871231/Pages/PopularComputingWeekly87123100025.jpg |journal=[[Popular Computing Weekly]] |page=25}}</ref>
+
+==Reception==
+{{Video game reviews
+| AMI = true
+| C64 = true
+| ZX = true
+| na = true
+| ACE_AMI = 94%
+| ACE_ZX = 91%
+| ACE_C64 = 91%
+| CVG_C64 = 10/10
+| CVG_ZX = 10/10
+| YSinclair_ZX = 90%<ref>{{Cite journal |last=Berkmann |first=Marcus |date=January 1988 |title=Deflektor |url=http://www.ysrnry.co.uk/articles/deflektor.htm |journal=[[Your Sinclair]] |issue=25 |access-date=2023-05-25 |archive-date=2016-04-13 |archive-url=https://web.archive.org/web/20160413073420/http://ysrnry.co.uk/articles/deflektor.htm |url-status=dead }}</ref>
+| rev1 = ''Zzap!''
+| rev1_C64 = 81%<ref name="zzapreview"/>
+| award1Pub = ''Amstrad Action''
+| award1 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 30, March 1988</ref>
+}}
+
+Writing for ''Zzap!'' magazine in February 1988, Julian Rignall wrote that "''Deflektor'' is very enjoyable, and provides an original and worthwhile way to kill time".<ref name="zzapreview">Deflektor review in Zzap! issue 34, feb. 1988, p. 20, ISSN 0954-867X [http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=34&page=20 here]</ref> According to ''[[Amstrad Action]]'', ''Deflektor'' was the best game of March 1988.<ref>{{Cite journal |date=December 1988 |title=Amstrad Action vol. 40 |url=https://archive.org/stream/AmstradAction052/AmstradAction/AmstradAction040#page/n20/mode/1up |journal=[[Amstrad Action]] |issue=40}}</ref> In 1988, ''Deflektor'' was included in the 100 best games by ''[[ACE (magazine)|ACE]]'' which the game was described as unique but very easy because to pass the level, it is enough to test all the conditions of the mirror. In 1990, the author of an article in ''[[Your Sinclair]]'' ranked ''Deflektor'' seventh out of the nine best puzzles and describing it as distinctive and interesting.<ref>{{Cite journal |date=September 1990 |title=The YS Complete Guide To Puzzle Games |url=http://ysrnry.co.uk/articles/completeguidetopuzzlegames.htm |journal=[[Your Sinclair]] |issue=57|archive-url=https://web.archive.org/web/20160319144922/http://ysrnry.co.uk/articles/completeguidetopuzzlegames.htm |archive-date=2016-03-19}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{moby game|id=/deflektor}}
+* [http://retrospec.sgn.net/users/ignacio/dfli.htm ''Deflektor X4'']: authorised remake
+* [http://www.atarimania.com/game-atari-400-800-xl-xe-deflektor_1569.html ''Deflektor I'']: for Atari 8-bit
+* [http://www.atarimania.com/game-atari-400-800-xl-xe-deflektor-ii_21990.html ''Deflektor II'']: for Atari 8-bit
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Cancelled Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:X68000 games]]
+[[Category:ZX Spectrum games]]
+[[Category:Puzzle video games]]
+[[Category:Blue Planet Software games]]
+[[Category:Gremlin Interactive games]]
+[[Category:Video games scored by Ben Daglish]]
+[[Category:Vortex Software games]]
+[[Category:Video games developed in the United Kingdom]]
+
+{{puzzle-videogame-stub}}

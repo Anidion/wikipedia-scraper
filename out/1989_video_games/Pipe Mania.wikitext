@@ -1,0 +1,145 @@
+Pipe Mania
+Permalink: //en.wikipedia.org/w/index.php?title=Pipe_Mania&oldid=1226642556
+Accessed on: 2024-06-26T17:07:03.516213
+
+
+
+------
+Pipe Mania
+{{Short description|1989 video game}}
+{{Cleanup bare URLs|date=August 2022}}
+{{Infobox video game
+|title     = Pipe Mania
+|caption   = Original box art
+|image     = pipe mania cover art.jpg
+|developer = [[The Assembly Line]]
+|publisher = [[Lucasfilm Games]] (NA)<br />[[Empire Interactive]] (EU)<br />Video System (Arcade)
+|designer  = Akila Redmer<br />Stephan L. Butler
+|released  ='''June 1989:''' Amiga, Atari ST, MS-DOS<ref>{{cite web |url=http://www.lucasarts.com/20th/history_1.htm|archive-url=https://web.archive.org/web/20060428061222/http://www.lucasarts.com/20th/history_1.htm|archive-date=2006-04-28|title=Games}}</ref><br />'''1990:''' Electron, Arcade, CPC, Apple II, Apple IIGS, BBC, C64, GB, Mac, NES, ZX<br />'''1992:''' Windows<br />'''August 7, 1992:''' Super Famicom
+|genre     = [[Puzzle video game|Puzzle]]
+|modes     = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Apple IIGS]], [[Macintosh]], [[Arcade game|Arcade]], [[Acorn Archimedes|Archimedes]], [[Atari ST]], [[BBC Micro]], [[Commodore 64]], [[Game Boy]], [[NEC PC-8801|PC-88]], [[NEC PC-9801|PC-98]], [[Nintendo Entertainment System|NES]], [[DOS]], [[Windows 3.1x]], [[Psion 3a]], [[SAM Coupé]], [[X68000]], [[Super Nintendo Entertainment System|Super Famicom]], [[ZX Spectrum]]
+}}
+
+'''''Pipe Mania''''' is a [[puzzle video game]] developed by [[The Assembly Line]] for the [[Amiga]] and published in 1989. It was ported to several other platforms by [[LucasArts|Lucasfilm Games]] as '''''Pipe Dream'''''; the company distributed the game in the US. The player must connect randomly appearing pieces of pipe on a grid to a given length within a limited time.
+
+The Windows version of the game was included in the ''[[Microsoft Entertainment Pack|MS Windows Entertainment Pack]]''. In 1990, it was released as an [[arcade game]] by Japanese manufacturer Video System Co. Ltd., though with slightly altered gameplay, giving the player the task to connect a source and drain with the random pipe pieces.
+
+Long after its initial release, the ''Pipe Mania'' concept re-emerged as a [[minigame]] representing hacking or security system bypassing in larger video games.
+
+==Gameplay==
+[[Image:Pipedream.png|thumb|left|250px|Windows 3.x version]]
+The game is played on a grid of squares, one of which is marked as an entry point for a flow of green slime, referred to in-game as "flooz" or "goo" depending on the version. A column of five pipe sections is displayed to one side as a dispenser. When the player clicks on an empty square, the bottommost piece in the dispenser is placed there and a new piece drops in from the top. Pieces cannot be rotated or flipped and must be used in their original orientation. The objective is to form an unbroken pipeline through which the flooz can flow, starting from the entry point and extending for at least a specified minimum number of squares.
+
+The flooz begins to flow after a set time delay, and continues to do so until it reaches a pipe-end that is either open or blocked by a square/playfield edge. If the pipeline has reached or exceeded the minimum required length, the player advances to the next level; if not, the game ends.
+
+If the flooz has not yet entered a pipe section, the player can click on it to replace it with the next one in the dispenser. However, doing so carries a score penalty and causes a short delay before the next piece can be laid.
+
+Later levels introduce added complications, such as:
+* Higher minimum pipeline lengths and shorter delays before the flooz starts to flow.
+* Higher flow speeds.
+* Obstacles or pipe sections already on the field, which cannot be replaced.
+* An end piece into which the flooz must be routed. Failing to do so ends the game, even if the length requirement has been met.
+* Openings at opposite edges of the grid, allowing the flooz to wrap around from one to the other.
+* Reservoirs that take a few seconds to fill once the flooz enters them, giving the player extra time to place pipes.
+* One-way pipe sections that allow flow only in the indicated direction.
+
+The player scores points for every pipe section the flooz crosses, and loses points at the end of each level for any unused sections on the field. Bonus points can be scored for the following:
+* Using more than the minimum number of pipe sections.
+* Routing the flooz to cross itself in a four-way intersection. Doing so five times in a single level awards a large bonus.
+* Filling reservoirs.
+* Routing the flooz through pre-placed bonus pipes.
+
+A bonus round is played after every fourth level, in which the player is presented with a grid of pipe sections that has one empty space. Clicking on a piece adjacent to this space will cause it to slide over; the goal is to build as long a pipeline as possible, scoring points for each section used. A password is given after each bonus round, allowing the player to start a game at the level immediately following it.
+
+==Reception==
+In Japan, ''Game Machine'' listed the arcade version of ''Pipe Mania'' on their November 1, 1990 issue as being the most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=391|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 November 1990|page=25|lang=ja}}</ref>
+
+The game was reviewed in 1994 in ''[[Dragon (magazine)|Dragon]]'' #211 by Jay & Dee in the "Eye of the Monitor" column. Jay did not rate the game, but Dee gave the [[Macintosh]] version of the game 2{{Fraction|1|2}} out of 5 stars, and the Windows version 4{{Fraction|1|2}} stars.<ref name="Dragon211">{{Cite magazine |author1=Jay |author2=Dee |date=November 1994 |title=Eye of the Monitor |url=https://annarchive.com/files/Drmg211.pdf |magazine=Dragon |issue=211 |page=40 |access-date=September 3, 2021}}</ref> ''[[Macworld]]'' named the Macintosh version of ''Pipe Dream'' the Best Arcade Game of 1990, putting it into the Macintosh Game Hall of Fame, and called it an "addictive strategy game".<ref>{{Cite magazine |last=Levy |first=Steven |date=December 1990 |title=Game Hall of Fame |url=https://archive.org/details/MacWorld_9012_December_1990/page/n225 |magazine=[[Macworld]] |publisher=[[International Data Group]] |page=213 |access-date=September 3, 2021}}</ref>
+
+The editors of ''[[Game Player's PC Strategy Guide]]'' gave ''Pipe Dream'' their 1989 "Best PC Strategy Game" award. They wrote: "''Pipe Dream'' is destined to become a classic on the order of ''[[Tetris]]'' or ''[[Breakout (video game)|Breakout]]''".<ref name=gameplayers1989>{{Cite magazine |author=<!--Staff writer(s)--> |date=March–April 1990 |title=''Game Player''{{'}}s First Annual PC Game Awards 1989 |url=https://archive.org/details/GPPCSGVol3No2 |magazine=[[Game Player's PC Strategy Guide]] |publisher=Signal Research |volume=3 |number=2 |page=12 |access-date=September 3, 2021}}</ref>
+
+==Reviews==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+}}
+* ''[[Commodore Format]]'' (Feb, 1993)<ref>https://archive.org/stream/commodore-format-magazine-29/Commodore_Format_Issue_29_1993_02#page/n47/mode/2up</ref>
+* ''[[Computer and Video Games]]'' (Feb, 1990)<ref>{{Cite web|url=https://archive.org/stream/cvg-magazine-099/CVG_099_Feb_1990#page/n33/mode/2up|title=CVG Magazine Issue 099|date=February 1990}}</ref>
+* ''[[Zero (video game magazine)|Zero]]'' (Mar, 1990)<ref>{{Cite web|url=https://archive.org/stream/zero-magazine-05/Zero_05_Mar_1990#page/n29/mode/2up|title=Zero Magazine Issue 05|date=March 1990}}</ref>
+* ''[[ACE (magazine)|ACE (Advanced Computer Entertainment)]]'' (Jan, 1991)<ref>{{Cite web|url=https://archive.org/details/ace-magazine-40/page/n98/mode/2up|title = ACE Magazine Issue 40|date = January 1991}}</ref>
+* ''[[ACE (magazine)|ACE (Advanced Computer Entertainment)]]'' (Apr, 1990)<ref>{{Cite web|url=https://archive.org/details/ace-magazine-31/page/n58/mode/2up|title = ACE Magazine Issue 31|date = April 1990}}</ref>
+* ''[[Sinclair User]]'' (Feb, 1993)<ref>{{Cite web|url=https://archive.org/details/sinclair-user-magazine-132/page/n30/mode/2up|title=Sinclair User Magazine Issue 132|date=February 1993}}</ref>
+* ''[[ACE (magazine)|ACE (Advanced Computer Entertainment)]]'' (Oct, 1990)<ref>{{Cite web|url=https://archive.org/stream/ace-magazine-37/ACE_Issue_37_1990_Oct#page/n95/mode/2up|title = ACE Magazine Issue 37|date = October 1990}}</ref>
+* ''[[Your Sinclair]]'' (Jun, 1990)<ref>{{Cite web|url=https://archive.org/details/your-sinclair-54/page/n29/mode/2up|title = Your Sinclair Magazine Issue 54|date = June 1990}}</ref>
+* ''[[Crash (magazine)|Crash!]]'' (Jun, 1990)<ref>{{Cite web|url=http://www.crashonline.org.uk/77/pipemania.htm|title = CRASH 77 - Pipe Mania}}</ref>
+* ''[[Your Sinclair]]'' (Jan, 1991)<ref>{{Cite web|url=https://archive.org/details/your-sinclair-61/page/n89/mode/2up|title = Your Sinclair Magazine Issue 61|date = January 1991}}</ref>
+* ''[[The One (magazine)|The One]]'' (Mar, 1990)<ref>{{Cite web|url=https://archive.org/stream/theone-magazine-18/TheOne_18_Mar_1990#page/n73/mode/2up|title = TheOne Magazine Issue 18|date = March 1990}}</ref>
+* ''[[Zero (video game magazine)|Zero]]'' (Mar, 1991)<ref>{{Cite web|url=https://archive.org/details/zero-magazine-17/page/n85/mode/2up|title = Zero Magazine Issue 17|date = March 1991}}</ref>
+* ''[[Crash (magazine)|Crash!]]'' (Jan, 1991)<ref>{{Cite web|url=https://archive.org/details/crash-magazine-84/page/n71/mode/2up|title=Crash Magazine Issue 84|date=January 1991}}</ref>
+* ''[[Mean Machines]]'' (Jan, 1991)<ref>{{Cite web |url=http://www.meanmachinesmag.co.uk/review/76/pipe-dream.php |title=Pipe Dream - Nintendo Gameboy - Mean Machines review |access-date=2022-03-20 |archive-date=2020-01-08 |archive-url=https://web.archive.org/web/20200108043950/http://www.meanmachinesmag.co.uk/review/76/pipe-dream.php |url-status=dead}}</ref>
+* ''[[The Games Machine]]'' (UK) (Jun, 1990)<ref>{{Cite web|url=https://archive.org/details/the-games-machine-31/page/n55/mode/2up|title=The Games Machine Issue 31}}</ref>
+* ''Game Power'' (Brazil) (Oct, 1992)<ref>{{Cite web|url=https://archive.org/details/GamePower_Ano_1_No._04_1992-10_Nova_Cultural_BR_pt/page/n17/mode/2up|title=GamePower - Ano 1 No. 04 (1992-10)(Nova Cultural)(BR)(pt)|date=October 1992}}</ref>
+* ''TOS-Magazin'' (May, 1990)<ref>{{Cite web|url=http://www.stcarchiv.de/tos1990/05/pipe-mania|title=TOS :05/1990Pipe Mania: Denkspiel für Leitungsbauer}}</ref>
+* ''VideoGame'' (Jul, 1991)<ref>{{Cite web|url=https://archive.org/stream/VideoGame_Ano_1_Numero_05_1991-07_Sigla_Editora_BR_pt#page/n37/mode/2up|title = VideoGame - Ano 1 Numero 05 (1991-07)(Sigla Editora)(BR)(pt)|date = July 1991}}</ref>
+* ''Power Play'' (Feb, 1990)<ref>{{Cite web|url=http://www.kultpower.de/powerplay_testbericht_extern.php3?im=pipedream.jpg|title = Kultpower.de - die Powerplay und ASM Fan Site}}</ref>
+* ''Video Games'' (Oct, 1992)<ref>{{Cite web|url=http://www.ninretro.de/game-1-2291.html#reviews|title = Pipe Dream (Super NES) - N.i.n.Retro (New is not Retro) v3+}}</ref>
+* ''[[ST Format]]'' (Apr, 1990)<ref>http://www.stformat.com/page_scans/stf09/stf09_037.jpg{{Dead link|date=December 2022 |bot=InternetArchiveBot |fix-attempted=yes}} {{Bare URL image|date=March 2022}}</ref>
+* ''[[Aktueller Software Markt|ASM (Aktueller Software Markt)]]'' (Mar, 1990)<ref>http://www.kultboy.com/index.php?site=t&id=2158 {{Bare URL inline|date=August 2022}}</ref>
+* ''[[VideoGame (magazine)|VideoGame]]'' (Dec, 1991)<ref>{{Cite web|url=https://archive.org/stream/videogame_09_12-91/VideoGame09#page/n41/mode/2up|title=VideoGame - Ano 1 Numero 09 (1991-12)(Sigla Editora)(BR)(pt)|date=December 1991}}</ref>
+
+==Legacy==
+Many clones of ''Pipe Mania'' have been produced, under titles such as ''Wallpipe'', ''Oilcap'', ''Oilcap Pro'', ''MacPipes'', ''Pipe Master'', ''Pipeworks'', ''DragonSnot'', ''PipeNightDreams'', and ''Fun2Link''. Many [[Nokia]] [[cell phones]] come with a free version of the game called ''Canal Control''.{{Citation needed|date=January 2019}}
+
+A version with 3D graphics was released for the [[PlayStation (console)|PlayStation]] in 2000, titled ''Pipe Dreams 3D'' in the US and ''Pipe Mania 3D'' in the UK. <!-- Please do not edit this. The title of this particular game is Pipe Dreams 3D, not Pipe Dream 3D. -->
+
+In September 2008, [[Empire Interactive]] released a remake of ''Pipe Mania'' for [[Microsoft Windows|Windows]], [[PlayStation 2]], [[Nintendo DS]], and [[PlayStation Portable]].<ref>{{cite web |url=http://www.pipemaniagame.com/en/ |title=Pipe Mania 2008 remake website |publisher=[[Empire Interactive]] |date=2008-09-03 |access-date=2008-09-03 |url-status=dead |archive-url=https://web.archive.org/web/20080930095040/http://www.pipemaniagame.com/en/ |archive-date=2008-09-30}}</ref> It was developed by [[Razorworks]].<ref>{{cite web |title=Games |url=http://www.razorworks.com/games.html |website=[[Razorworks]] |publisher=[[Empire Interactive]] |access-date=23 January 2023 |archive-url=https://web.archive.org/web/20100531043244/http://www.razorworks.com/games.html |archive-date=31 May 2010 |url-status=dead}}</ref>
+
+===Similar games===
+Within ''[[BioShock]]'', a variation of the game exists as a means of "[[hacker (computer security)|hacking]]" vending machines, robots and cameras.<ref>{{cite web |url=http://xbox.about.com/od/xbox360reviews/fr/bioshockrev.htm |title=''BioShock'' Review (X360) at Xbox.about.com |last=Qualls |first=Eric |publisher=[[About.com]] |url-status=live |archive-url=https://web.archive.org/web/20130326140334/http://xbox.about.com/od/xbox360reviews/fr/bioshockrev.htm |archive-date=2013-03-26 |access-date=2007-11-04}}</ref> ''[[Alien Swarm]]'', ''[[Saints Row IV]]'' and ''[[Warframe]]'' also use ''Pipe Dream''-like minigames to represent hacking tasks.
+
+''Pipe Dream'' like hacking is a main mechanic of ''[[Half-Life: Alyx]]'', with players solving puzzles in 3d space as a means of hacking doors and electronics in VR.
+
+A [[Nintendo eShop]]-exclusive game on [[Nintendo 3DS]] titled ''[[Mario and Donkey Kong: Minis on the Move]]'' uses a similar gameplay in which the player must places tiles to create a possible road for the "Mini Mario" toy to reach the level's goal.
+
+The [[North Korea]]n game ''Railway Assemblage'' ([[Hangul|Chosongul]]: 렬차길 맞추기 [[Hanja]]: 列車길 맞추기), sponsored by North Korean propaganda regime [[Uriminzokkiri]] ([[Hangul|Chosongul]]:우리민족끼리) and released on December 9, 2006, includes a simplified version of ''Pipe Mania''. The game involves joining together sections of railway in order to build a fast railroad track from [[South Korea]] to [[North Korea]], before the [[KTX]]-shaped [[train]] appears on the screen.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.arcade-museum.com/game_detail.php?letter=P&game_id=9024 KLOV entry for Pipe Dream]
+* {{WoS game|id=0003729|name=Pipe Mania}}
+
+{{Authority control}}
+
+[[Category:1989 video games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Arcade video games]]
+[[Category:The Assembly Line games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Empire Interactive games]]
+[[Category:Game Boy games]]
+[[Category:LucasArts games]]
+[[Category:Microsoft Entertainment Pack]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Puzzle video games]]
+[[Category:SAM Coupé games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games scored by Naoki Itamura]]
+[[Category:Video System games]]
+[[Category:Windows games]]
+[[Category:X68000 games]]
+[[Category:ZX Spectrum games]]

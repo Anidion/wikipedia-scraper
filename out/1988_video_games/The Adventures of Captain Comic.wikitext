@@ -1,0 +1,84 @@
+The Adventures of Captain Comic
+Permalink: //en.wikipedia.org/w/index.php?title=The_Adventures_of_Captain_Comic&oldid=1228691457
+Accessed on: 2024-06-26T17:03:37.838700
+
+
+
+------
+The Adventures of Captain Comic
+{{More citations needed|date=July 2008}}
+{{Infobox video game
+| title = The Adventures of Captain Comic
+| image = CaptainComicBoxart.jpg
+| caption = NES cover art
+| developer = [[Color Dreams]]
+| publisher = Michael Denio (shareware)<br>Color Dreams (NES)
+| designer = Michael Denio
+| programmer = Michael Denio
+| artist = 
+| composer = 
+| engine = 
+| platforms = {{cslist|[[MS-DOS]]|[[NES]]}}
+| released = '''1988:''' MS-DOS<br>'''1989:''' NES
+| genre = [[Platform game|Platform]], [[Metroidvania]]<ref>{{cite web | url = https://www.mobygames.com/game/adventures-of-captain-comic| title = The Adventures of Captain Comic (1988)}}</ref>
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''The Adventures of Captain Comic''''' is a [[platform game]] written by Michael Denio for [[MS-DOS]] compatible operating systems and released as [[shareware]] in 1988.<ref>{{cite web | url = http://www.pcgamer.com/saturday-crapshoot-quickies-week-ii/ | title = Saturday Crapshoot: Quickies Week II | first = Richard | last = Cobbett | date = September 14, 2013 | accessdate = July 11, 2016 | publisher = [[PC Gamer]] | quote = "The creator was inspired by Metroid to add an adventure game element to jumping around the levels". }}</ref> It was one of the first side-scrolling games for [[IBM PC compatible]]s reminiscent of games for the [[Nintendo Entertainment System]], and it presaged a trend of shareware platform games in the early 1990s.<ref name=Edwards/> A version for the NES was later published by [[Color Dreams]] as an unlicensed title.
+
+A sequel, ''[[Captain Comic II: Fractured Reality]]'', was released in 1990.
+
+==Plot==
+Captain Comic is on a mission to the [[planet]] [[IBM AT|Tambi]], where the quest begins. Comic must find three artifacts: the Mystical Gems of Lascorbanos, the Thousand Coins of Tenure, and the Crown of the Ages. To find them, he must travel through many varied environments. The game is completed when Comic is in possession of all three treasures.
+
+==Gameplay==
+[[Image:The Adventures of Captain Comic gameplay.jpg|thumb|left|Captain Comic moving through a forest]]
+[[Image:ComicItemsScreen.jpg|thumb|Items, treasures, and enemies]]
+
+The game is divided into eight major areas, and each contains three smaller zones. Transitioning between zones plays a short tune, all enemies are removed from the screen, and Comic's position is saved.
+
+Comic has twelve "shield" points which act as [[health (game terminology)|health]]. Each time an enemy hits him, two points are removed. When at zero, Comic dies on the next hit. Occasionally, shields can be found which instantly replenish the health to full, or if it is already full, give an extra life.<ref>{{Cite web |date=1988 |title=The Adventures of Captain Comic - Microsoft DOS - Manual - gamesdatabase.org |url=https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/The_Adventures_of_Captain_Comic.htm |access-date=2022-10-25 |website=www.gamesdatabase.org}}</ref> Comic starts with four lives, and an extra life is given for each 50,000 points earned if Comic isn't already at the maximum of five extras.
+
+If Comic is killed by either falling off the bottom of the screen, or  hit with no shield points remaining, a life is lost and he is returned to the point where he last entered this zone.
+
+Enemies have different behaviors, from simply bouncing off walls and following preset paths to seeking Comic as he passes by. After picking up a Blastola Cola, Comic can shoot at and destroy enemies for points.
+
+==Development==
+Michael Denio previously wrote an interactive demo of a  platform game called ''The Adventures of Captain Pixel of the Galactic Security Patrol in 34010 AD'' for a [[TMS34010]] coprocessor board.<ref>{{cite web |title=The Adventures of Captain Pixel |url=https://www.youtube.com/watch?v=Rn9KTTqN0pw  |archive-url=https://ghostarchive.org/varchive/youtube/20211212/Rn9KTTqN0pw| archive-date=2021-12-12 |url-status=live|website=YouTube}}{{cbignore}}</ref> The credits screen has a 1987 copyright notice for the graphics. The TMS34010 is a CPU with graphics-oriented instructions which was later used in arcade video games such as ''[[Narc (video game)|Narc]]'' and ''[[Mortal Kombat]]''. 
+
+Denio wrote in the introduction to the ''Captain Comic'' manual:
+{{quote|''The Adventures of Captain Comic'' started out as an experiment to test the viability of two theories, the first as to whether a real arcade type game can be done on a standard [[IBM PC compatible|IBM PC]] with an [[Enhanced Graphics Adapter|EGA]] card, and secondly, given the first can be done, if it is possible to make any money doing it. Well, I've come to a conclusion on the second point, but I'll let you judge the first point for yourself.}}
+
+===Music===
+The original theme song for ''Captain Comic'' was a rendition of the [[Marines' hymn|United States Marine Corps Hymn]]. The song was replaced in the final revision of the game, released in 1991, by [[George Frideric Handel]]'s Harpsichord Suite in D Minor, HWV 428, Air. The NES version of the soundtrack is composed entirely of [[classical music]].<ref>{{citation|url=https://www.academia.edu/619232|title= Blip, Bloop, Bach? Some Uses of Classical Music on the Nintendo Entertainment System." Music and the Moving Image, Vol. 2, No. 1 (Spring 2009), pp. 40-52|language=English}}</ref>
+
+==Reception==
+{{empty section|date=April 2018}}
+
+== Legacy ==
+A sequel from the same author was published in 1990 as ''[[Captain Comic II: Fractured Reality]]''.
+
+In 2012, ''[[PC World]]'' called ''Captain Comic'' the twelfth greatest shareware game of all time, writing that "it inspired many other shareware authors, including the folks who would later create ''[[Commander Keen]]''."<ref name=Edwards>{{cite web |last1=Edwards |first1=Benj |title=The 12 Greatest PC Shareware Games of All-Time |url=https://www.pcworld.com/article/248494/the_12_greatest_pc_shareware_games_of_all_time.html#slide2 |website=PC World |date=January 22, 2012}}</ref>
+
+The original game was cloned for the [[SAM Coupé]]. It was also cloned as ''{{ill|The Adventures of Pioneer Ksenia|uk|Пригоди піонерки Ксені}}'' in 1990 by a team of [[Ukrainians|Ukrainian]] programmers.<ref>{{citation|url=http://sites.google.com/site/pionerkaksenia/materialy/dokumentacia |title=Pioneer Ksenia information|language=Ukrainian, Russian, English}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/adventures-of-captain-comic|name=''The Adventures of Captain Comic''}}
+
+{{DEFAULTSORT:Adventures of Captain Comic, The}}
+[[Category:1988 video games]]
+[[Category:Platformers]]
+[[Category:DOS games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Unauthorized video games]]
+[[Category:SAM Coupé games]]
+[[Category:Video games developed in the United States]]
+[[Category:Color Dreams games]]
+[[Category:Metroidvania games]]
+[[Category:Science fiction video games]]
+[[Category:Shareware games]]
+[[Category:Single-player video games]]
+[[Category:Video games set on fictional planets]]

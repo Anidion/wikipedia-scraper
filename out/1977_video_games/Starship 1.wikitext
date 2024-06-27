@@ -1,0 +1,51 @@
+Starship 1
+Permalink: //en.wikipedia.org/w/index.php?title=Starship_1&oldid=1201183168
+Accessed on: 2024-06-26T16:47:45.501128
+
+
+
+------
+Starship 1
+{{about|the 1977 Atari videogame|the 1977 Atari 2600 videogame|Star Ship|other uses|Starship (disambiguation)}}
+{{short description|1977 video game}}
+{{Infobox video game
+|title         = Starship 1
+|image         = Starship-1-arcade-flyer.jpg
+|developer     = [[Atari, Inc.]]
+|publisher     = {{vgrelease|NA/EU|[[Atari, Inc.]]<ref name="Germany">{{cite web |title=Video Game Flyers: Starship 1, Atari, Inc. (Germany) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=6192 |website=The Arcade Flyer Archive |access-date=31 May 2021}}</ref>|JP|[[Namco]]<ref name="MAD"/>}}
+|designer      = Ron Milner<br>Steve Mayer<br>Dave Shepperd<br>Dennis Koble
+|release       = {{vgrelease|NA|July 1977<ref>{{cite web |url=https://kotaku.com/the-hunt-for-the-first-arcade-game-easter-egg-1793593889 |title=The Hunt For The First Arcade Game Easter Egg |first=Ed |last=Fries |date=25 March 2017 |website=[[Kotaku]]}}</ref>|EU|1977<ref name="Germany"/>|JP|June 1978<ref name="MAD"/>}}
+|genre         = [[Shooter game|Shooter]] <br> [[Space combat game|Space combat]]
+|modes         = [[Single-player video game|Single-player]]
+|arcade system = n/a (dedicated 6502-based PCB)
+|platforms     = [[Arcade game|Arcade]]
+}}
+
+'''''Starship 1''''' is a [[first-person shooter]]<ref name = "weiss">{{cite book | first = Brett | last = Weiss | title = Classic Home Video Games, 1972–1984: A Complete Reference Guide | page = 112 | publisher = [[McFarland & Co.]] | quote = "Publisher: Atari. Developer: Atari. First-Person Shooter."}}</ref> [[space combat game]] developed and manufactured for [[arcade game|arcades]] in [[1977 in video gaming|1977]] by [[Atari, Inc.]] The game, which takes great inspiration from the then very popular television series ''[[Star Trek: The Original Series|Star Trek]]'', contains the first known [[Easter egg (media)|Easter egg]] in any arcade game.<ref>{{KLOV game|id=9782}}</ref> The arcade game was distributed in Japan by [[Namco]] in 1978,<ref name="MAD">{{cite web |title=Star Ship 1 |url=https://mediaarts-db.bunka.go.jp/id/M732690 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=31 May 2021}}</ref> and it was ported to the [[Atari 2600]] as ''[[Star Ship]]''.<ref name="Whitehead">[http://www.digitpress.com/library/interviews/interview_bob_whitehead.html Interview with Bob Whitehead] from DP Interviews</ref>
+
+==Gameplay==
+The object of ''Starship 1'' is to destroy alien spacecraft while maneuvering "Starship ''Atari''" through star and asteroid fields, "saving the [[United Federation of Planets|Federation]]".
+
+The game uses a first person perspective on a black-and-white monitor.  The player's ship is controlled with a control yoke that is connected to two [[potentiometers]].  There is also a lever that controls whether the ship is moving "fast" or "slow".<ref name="manual">''Starship 1 service manual'', [[Atari, Inc.|Atari]].</ref> Compared to common arcade games of the time, ''Starship 1'' was comparatively advanced, but used quite a bit of [[analog electronics|analog]] technology that would become less common in arcade games in following years.
+
+As enemies appear onscreen, the player tries to center the enemy in the crosshairs and shoot it with his "phasors" by pulling a trigger on the control yoke.  Alternatively, the player has 5 "proton torpedoes" per game that can be fired by pressing a large white button on the dashboard.  This will destroy any enemy ship on screen, regardless of whether it is in the crosshairs (which are not game generated graphics but taped directly on the monitor screen).
+
+Four distinct enemies appear: [[Star Trek: The Original Series|''Star Trek'']]-inspired starships worth 50 points, eyed worm-like alien creatures and [[Klingon starships|Klingon]] type ships each worth 100 points, and a flashing flying saucer craft worth 200 points.
+
+The player does not view the game monitor directly; the monitor is recessed in the cabinet, and the player views a reflected image of the monitor in a half-silvered mirror with a space background.
+
+==Easter egg==
+According to research by [[Ed Fries]], ''Starship 1'' contains the first known [[Easter egg (media)|Easter egg]] in any arcade game. Fries confirmed with designer Ron Milner that by activating the machine's controls in the appropriate sequence, the game displays the message "Hi Ron!" (in reference to Milner) and gives ten free games.<ref name="fries">{{cite web|url=https://edfries.wordpress.com/2017/03/22/chasing-the-first-arcade-easter-egg/|title=Chasing the First Arcade Easter Egg|last1=Fries|first1=Ed|date=March 22, 2017}}</ref>
+
+==References==
+{{reflist}}
+
+{{1970s Atari arcade games}}
+
+[[Category:1977 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Shooter games]]
+[[Category:Video games developed in the United States]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]

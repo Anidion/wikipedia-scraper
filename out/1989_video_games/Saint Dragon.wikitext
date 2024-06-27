@@ -1,0 +1,80 @@
+Saint Dragon
+Permalink: //en.wikipedia.org/w/index.php?title=Saint_Dragon&oldid=1228737360
+Accessed on: 2024-06-26T17:07:19.344697
+
+
+
+------
+Saint Dragon
+{{Infobox video game
+|title     = Tenseiryuu: Saint Dragon
+|image     = Saint Dragon.jpg
+|caption   = Arcade flyer
+|developer = [[NMK (company)|NMK]]
+|publisher = [[Jaleco]]<br>Storm Entertainment (ports)
+|designer  = Ned Langman
+|programmer = Andrew Taylor
+|composer  = Tony Williams
+|released  = [[1989 in video gaming|1989]]
+|genre     = [[Scrolling shooter]]
+|modes     = [[Single-player]]
+|platforms = [[Arcade game|Arcade]], [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[PC-Engine]], [[ZX Spectrum]], [[MSX]]
+}}
+
+{{nihongo|'''''Tensei Ryū: Saint Dragon'''''|天聖龍 SAINT DRAGON}} is a [[scrolling shooter|horizontally scrolling shooter]] released as a [[coin-op]] by [[Jaleco]] in 1989.<ref name=ys58/> Ports to several home computer systems were published by Storm Entertainment in 1990. On February 6, 2020, ''Saint Dragon'' was released as part of [[Hamster Corporation|Hamster]]'s ''[[Arcade Archives]]'' lineup for the [[Nintendo Switch]] and [[PlayStation 4]].
+
+==Gameplay==
+[[image:St dragon.png|thumb|Arcade screenshot]]
+
+In ''Saint Dragon'', the player controls the cyborg Saint Dragon, who has rebelled against the tyrannical Monster Cyborg army. Saint Dragon is initially armed with plasma bolts and a fiery breath. By collecting tokens, the dragon's firepower can be upgraded with pulse torpedoes, a laser, bouncing bombs, ring lasers or a turret. Other tokens can upgrade the dragon's speed, weapon power, or initiate a "hyper" mode which endows maximum firepower and invulnerability. In addition, the dragon has an armoured tail which follows the player's movement, allowing it to be used as a defensive shield.
+
+There are five levels, each culminating in a battle with a large [[Boss (video gaming)|end-of-level guardian]].
+
+==Ports==
+Storm were a software development team for [[The Sales Curve]] (''[[Silkworm (video game)|Silkworm]]'', ''[[The Ninja Warriors]]''), who were affiliated with [[Accolade (company)|Accolade]]. The conversion project was managed by Dan Marchant, with programming by Andrew Taylor, music by Tony Williams, and graphics by Sean McClurg. Before working on the ZX Spectrum conversion, Taylor spent two weeks reading reviews of other scrolling games and studied videos of the arcade board gameplay.<ref name=su105/> He noted several challenges: "There are some huge sprites in here, some half the size of the screen, which use up a vast amount of memory. The other thing is that in St Dragon each alien seems to make a much more complicated series of moves than in, say, ''R-Type'', so we've got to try and reproduce them all, which is pretty complicated."<ref name=ys58/> He also wanted to achieve smooth scrolling, rather than the by-character-block movement in ''R-Type'', without sacrificing speed. A method called "pre-shifts" was eventually used, in which several versions of a sprite are held in memory, each in a slightly different position, then cycled through to give the appearance of smooth movement. This used up more memory, so he restricted the game to the 128K models of Spectrum. The larger sprites, such as the leaping Puma, were handled by dividing them into strips of separate but co-ordinated entities.<ref name=su105/>
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 82, November 1990</ref>
+}}
+In Japan, ''Game Machine'' listed ''Saint Dragon'' on their April 1, 1989 issue as being the sixth-most-successful table arcade unit at the time.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=353|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 April 1989|page=25|lang=ja}}</ref>
+
+The ZX Spectrum conversion was well-received on its initial release. [[Crash (magazine)|CRASH]] awarded it 92%, finding the dragon theme to be a refreshing change in the genre. The graphics were highlighted as well-animated, smooth and colourful.<ref name=crash82/> [[Your Sinclair]] awarded 80%, criticizing the uneven difficulty and low number of levels but praising it as "pretty, tough and a blast-a-minute".<ref name=ys60/>
+
+On its budget re-release in 1992, Your Sinclair adjusted their rating to just 29%, criticizing it as "hideously slow, graphically abysmal, impossibly tedious load of old junk". [[Stuart Campbell (blogger)|Stuart Campbell]] took issue with the cassette multi-load, the invisible border on the reduced playing area, and frame-rate drop when multiple sprites are on-screen.<ref name=ys78/>
+
+==References==
+{{reflist|refs=
+<ref name=ys58>{{cite journal|journal=Your Sinclair|title=St Dragon Preview|issue=58|url-status=dead|archive-url=https://web.archive.org/web/20160414012338/https://ysrnry.co.uk/articles/stdragon-preview.htm|date=October 1990|author=Bielby, Matt|publisher=Future Publishing|url=http://www.ysrnry.co.uk/articles/stdragon-preview.htm|archive-date=14 April 2016 }}</ref>
+<ref name=ys60>{{cite journal|journal=Your Sinclair|title=St Dragon Review|issue=60|date=December 1990|author=Hamza, Kati|publisher=Future Publishing|url=http://www.ysrnry.co.uk/articles/stdragon.htm}}</ref>
+<ref name=ys78>{{cite journal|journal=Your Sinclair|title=St Dragon Review|issue=78|date=June 1992|author=Campbell, Stuart|publisher=Future Publishing|url=http://www.ysrnry.co.uk/articles/stdragon-78.htm}}</ref>
+<ref name=crash82>{{cite journal|journal=CRASH|title=St Dragon Review|issue=82|page=46|date=November 1990|publisher=Newsfield|url=http://www.crashonline.org.uk/82/stdragon.htm}}</ref>
+<ref name=su105>{{cite journal|journal=Sinclair User|title=Blue Print: Saint Dragon|issue=105|pages=74–75|date=November 1990|publisher=EMAP images}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=29660}}
+*[http://www.codetapper.com/amiga/interviews/john-croudy/ Interview with Amiga programmer John Croudy]
+
+[[Category:1989 video games]]
+[[Category:Video games about dragons]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Arcade Archives games]]
+[[Category:Arcade video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:ZX Spectrum games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:TurboGrafx-16 games]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]
+[[Category:Video games about cyborgs]]
+[[Category:MSX games]]
+[[Category:Jaleco games]]
+[[Category:NMK (company) games]]
+[[Category:Hamster Corporation games]]
+[[Category:Hamster Corporation franchises]]

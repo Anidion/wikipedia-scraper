@@ -1,0 +1,110 @@
+La Abadía del Crimen
+Permalink: //en.wikipedia.org/w/index.php?title=La_Abad%C3%ADa_del_Crimen&oldid=1230591631
+Accessed on: 2024-06-26T17:01:28.148428
+
+
+
+------
+La Abadía del Crimen
+{{Short description|1987 video game}}
+{{Use British English|date=December 2022}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox video game
+|title = La abadía del crimen
+|image = La Abadia del Crimen DOS box art.png
+|developer = [[Opera Soft]]
+|publisher = Opera Soft
+|designer = [[Paco Menéndez]]
+|artist = [[Juan Delcán]]
+|released = 1987
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]] 
+|platforms = [[Amstrad CPC]], [[MSX]], [[MS-DOS]], [[ZX Spectrum]]
+}}
+'''''La abadía del crimen''''' (''The Abbey of Crime'') is a video game written by [[Paco Menéndez]] with graphics made by Juan Delcán and published in 1987 by [[Opera Soft]]. It was conceived as a version of [[Umberto Eco]]'s 1980 book ''[[The Name of the Rose]]''. [[Paco Menéndez]] and [[Opera Soft]] were unable to secure the rights for the name, so the game was released as ''La abadía del crimen''. "The Abbey of the Crime" was the [[working title]] of the novel ''The Name of the Rose''.<ref>''Postscript to The Name of the Rose'', 1984, Umberto Eco.</ref>
+
+This game is an adventure with [[isometric graphics]]. A Franciscan friar, [[William of Occam]] ([[William of Baskerville]] in the book) and his young novice Adso have to discover the perpetrator of a series of murders in a [[medieval]] Italian [[abbey]].
+
+==Gameplay==
+[[File:La Abadia del Crimen Guillermo Adso y el Abad.jpg|left|thumb|The main characters: Guillermo Adso and the Abbot (Amstrad screenshot)]]
+
+The player controls the movement of the [[friar]] Fra William (mistakenly described as a [[Christian monasticism|monk]] in the user manual). The player also has the possibility of controlling the movement of the novice Adso within the same screen in which Fra William is. If the key for controlling the novice is not pressed, he follows Fra William most of the time. The game features other characters representing the monks of the abbey who behave according to programmed artificial intelligence to move throughout the mapping of the abbey and show a series of dialogs shown by written text which is moved along the lower part of the screen.
+
+An extensive mapping of the abbey is represented in a large series of screens with 3D [[isometric graphics]]. A series of objects has to be collected in order to successfully complete the game. The action occurs in seven days subdivided in different [[Canonical hours]]. The time (day + current hour) is indicated at the bottom left of the screen.
+
+The game starts with the [[abbot]] welcoming Fra William and explaining that a monk has disappeared. He also explains to Fra William that he is obligated to obey the orders of the abbot and the rules of the monastery, attend [[Church service|religious services]] and meals and stay in his [[Monastic cell|cell]] at night while the research of the crimes is pursued. During the game, the novice Adso would remind players when they have to attend [[Liturgy of the Hours|offices]] and meals, and players can just follow him if they forget the way to the church or the [[refectory]].
+
+If the player disobeys any orders, or are late for services or meals, then their ''obsequium'' level, indicated on the bottom right-hand-side of the screen, will drop (''obsequium'' is Latin for ''subservience'' or ''obedience''). If the player's ''obsequium'' level drops to zero, the abbot will not tolerate their disrespect any longer, and the player is asked to leave the abbey, while missing a prayer office or being caught wandering around at night results in immediate expulsion - both mean that the [[game over|game is over]].
+
+==Ports==
+The game was originally developed for the [[Amstrad CPC 6128]] 8-bit platform and ported to other systems: [[ZX Spectrum]], [[MSX]], and [[MS-DOS]]. The [[Amstrad CPC 464]] version was different from the 6128 original, since several rooms and decoration were removed to fit the game on the 64K of the 464.
+
+The only [[ZX Spectrum]] version is for the 128 platform.
+
+==Features==
+The music played in the game corresponds to the ''[[Minuet in G major, (BWV Anh. 114)|Minuet in G major]]'' and the [[Sonata in C major for flute or recorder and basso continuo|sonata for flute BWV 1033]] by [[Johann Sebastian Bach|Bach]], and ''Crystal Palace'' from Gwendal. The original PC version also featured "[[Ellens dritter Gesang|Ave Maria]]" from [[Franz Schubert|Schubert]], in a short chorus recording that played through the speaker when the player went to the church.
+
+There is also a form of [[copy protection]]: if an illegal copy of the game was detected, then once the player entered the church, instead of "Ave Maria" playing, a voice would cry "''¡Pirata!''" (Spanish for "pirate") ten times in descending tones before the game crashed.
+
+==Reception==
+The game had a modest commercial success and was never officially released outside of Spain, a country where it came to achieve a [[cult following]].<ref name="Eldiario">{{cite web|last=Hernández|first=Álvaro|url=https://www.eldiario.es/hojaderouter/La_abadia_del_crimen-Juan_Delcan-Paco_Menendez-videojuego_0_642186348.html|title=Treinta años de 'La abadía del crimen', el Quijote de los videojuegos en España|work=[[eldiario.es]]|publisher=Diario de Prensa Digital S.L.|date=May 11, 2017|access-date=2020-07-17|language=es|archive-url=https://web.archive.org/web/20200610182155/https://www.eldiario.es/hojaderouter/La_abadia_del_crimen-Juan_Delcan-Paco_Menendez-videojuego_0_642186348.html|archive-date=2020-06-10|url-status=live}}</ref> The game is considered one of the perfect ten games for the Spectrum 128 according to ''[[Retro Gamer]]''.<ref>Spectrum 128 perfect ten games. Retro Gamer 48, pages 64 and 65</ref>
+
+The game was referenced on a Spanish postal stamp.<ref name="Eldiario"/>
+
+==Legacy==
+===Port===
+* [[Microsoft Windows]] version from the original MS-DOS version with 256 colour graphics and translations.<ref>{{cite web|url=http://www.abadiadelcrimen.com/ |title=Remake de la Abadía del Crimen |accessdate=2016-07-23 |url-status=live |archiveurl=https://web.archive.org/web/20160721173443/http://www.abadiadelcrimen.com/ |archivedate=2016-07-21}}</ref>
+* [[MSX2]] version from the original [[MSX]] version adding a 16-colour palette and load/save from the disk.<ref>{{Cite web|url=http://msxcartridgeshop.com/VientoSur/abadia/|title=La Abadía del Crimen - Remake MSX2}}</ref>
+* [[Amstrad PCW]] version from the original [[Amstrad CPC]] version.<ref>{{cite web|url=http://habisoft.com/abadia/ |title=La Abadía del Crimen (PCW) |accessdate=2013-01-29 |url-status=live |archiveurl=https://web.archive.org/web/20150424113627/http://www.habisoft.com/abadia/ |archivedate=2015-04-24}}</ref>
+
+===Remakes===
+* [[Game Boy Advance]] version<ref>{{Cite web |url=http://www.emulatronia.com/parcial/P_A_C_O.zip |title=Parcial |access-date=2016-04-02 |archive-date=2016-03-14 |archive-url=https://web.archive.org/web/20160314081204/http://www.emulatronia.com/parcial/P_A_C_O.zip |url-status=dead}}</ref>
+* [[J2ME]] commercial version 
+* A complete disassembly of the original [[Z80]] code for the [[Amstrad CPC]] and a rewrite of it in [[C++]] was made by Manuel Abadia (Vigasoco project).<ref>{{cite web|url=http://www.abadiadelcrimen.com/vigasoco.html |title=Vigasoco |accessdate=2007-05-23 |url-status=live |archiveurl=https://web.archive.org/web/20070626043313/http://www.abadiadelcrimen.com/vigasoco.html |archivedate=2007-06-26}}</ref>
+** There is a [[Simple DirectMedia Layer]] (SDL) port of Vigasoco that runs on [[Linux]]-[[x86]], [[Linux]]-[[PowerPC]] ([[PS3]]), [[PS2]], [[Windows XP]], [[Mac OS X]], [[Dreamcast]], [[Google Native Client]] and [[WebAssembly]].<ref>{{cite web|url=https://sites.google.com/site/vigasocosdl/ |title=VigasocoSDL |accessdate=2013-12-05 |url-status=live |archiveurl=https://web.archive.org/web/20141024105414/https://sites.google.com/site/vigasocosdl/ |archivedate=2014-10-24}}</ref>
+*** VigasocoSDL patches to run on RG350 (Anbernic), and [[Android (operating system)|Android]].<ref>{{Cite web|url=https://github.com/Samuel85/Abbey|title=Abbey|website=[[GitHub]]|date=20 September 2021}}</ref>
+** Vigasoco is translated to Java and GWT and runs on web browsers.<ref>{{Cite web|url=https://github.com/ibaca/la-abadia-del-crimen|title=La abadía del crimen|website=[[GitHub]]|date=4 August 2021}}</ref>
+** Several ports were based on disassembly of the original.
+*** Swift version to run on iOS devices.<ref>{{Cite web|url=https://github.com/jabadiagm/Abadia_IOS|title=Abadia_iOS|website=[[GitHub]]|date=4 August 2021}}</ref>
+*** Visual Basic (unfinished)<ref>{{Cite web|url=https://github.com/jabadiagm/AbadiaVb|title = AbadiaVb|website = [[GitHub]]|date = 4 August 2021}}</ref>
+*** VB.net<ref>{{Cite web|url=https://github.com/jabadiagm/Abadia.net|title=Abadia.net|website=[[GitHub]]|date=4 August 2021}}</ref>
+* [[Java applet|Java]] version<ref>{{cite web|url=http://www.abadiadelcrimen.com/guillian/java/ |title=La Abadía del Crimen |accessdate=2010-03-17 |url-status=live |archiveurl=https://web.archive.org/web/20100323083750/http://abadiadelcrimen.com/guillian/java/ |archivedate=2010-03-23}}</ref>
+* ''The Abbey of Crime Extensum'', extended [[J2SE]] edition, available for free on [[Steam (service)|Steam]].<ref>{{cite web|url=http://abadiadelcrimenextensum.com/ |title=La Abadía del Crimen Extensum |accessdate=2016-04-02 |url-status=dead |archiveurl=https://web.archive.org/web/20160405133746/http://www.abadiadelcrimenextensum.com/ |archivedate=2016-04-05}}</ref>
+
+==See also==
+* [[Golden era of Spanish software]]
+
+== References ==
+{{reflist}}
+
+==External links==
+* [https://spectrumcomputing.co.uk/entry/47/ZX-Spectrum/La_Abadia_del_Crimen ''La abadía del crimen''] at Spectrum Computing
+* [http://abadiadelcrimen.com Remake for PC] {{Webarchive|url=https://web.archive.org/web/20070510122933/http://www.abadiadelcrimen.com/ |date=10 May 2007}} {{in lang|es}}
+
+{{The Name of the Rose}}
+
+{{DEFAULTSORT:Abadia del crimen, La}}
+[[Category:1987 video games]]
+[[Category:Action-adventure games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Browser games]]
+[[Category:DOS games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Game Boy Advance games]]
+[[Category:Linux games]]
+[[Category:MSX games]]
+[[Category:MSX2 games]]
+[[Category:The Name of the Rose]]
+[[Category:Opera Soft games]]
+[[Category:Single-player video games]]
+[[Category:Video games based on novels]]
+[[Category:Video games developed in Spain]]
+[[Category:Video games set in Europe]]
+[[Category:Video games set in Italy]]
+[[Category:Video games set in monasteries]]
+[[Category:Video games set in the 14th century]]
+[[Category:Video games set in the Middle Ages]]
+[[Category:Video games with isometric graphics]]
+[[Category:Windows games]]
+[[Category:ZX Spectrum games]]

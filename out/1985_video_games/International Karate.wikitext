@@ -1,0 +1,104 @@
+International Karate
+Permalink: //en.wikipedia.org/w/index.php?title=International_Karate&oldid=1230759700
+Accessed on: 2024-06-26T16:58:40.246493
+
+
+
+------
+International Karate
+{{Short description|1985 video game}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox video game
+| width =
+| title = International Karate
+| image = International Karate - cover art (Commodore 64).jpg
+| caption = Commodore 64 cover art
+| developer = [[System 3 (company)|System 3]]
+| publisher = System 3 (Europe)<br>[[Epyx]] (US)
+| designer = [[Archer Maclean]] (C64)<ref name="retrogamer">"[https://archive.org/stream/retro_gamer/RetroGamer_026#page/42/mode/2up The Making of: International Karate, IK+]." In: ''[[Retro Gamer]]'', Issue 26, pp. 42-47.</ref> 
+| composer = [[Rob Hubbard]]
+| series =
+| engine =
+| released = '''Spectrum'''<br />{{vgrelease|EU|{{Start date|df=yes|1985|11}}}}
+'''Commodore 64''' {{vgrelease|NA|30 April 1986|EU|ca. May 1986}}
+'''Atari ST''' {{vgrelease|NA|Jan, 1987}}
+'''Virtual Console''' (C64)<br />{{vgrelease|EU|28 March 2008}}{{vgrelease|NA|23 February 2009}}
+| genre = [[Fighting game]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[ZX Spectrum]], [[Amstrad CPC]], [[Apple II series|Apple II]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]] [[Commodore 16|/ 16]], [[MS-DOS]], [[Game Boy Color]], [[Game Boy Advance]], [[MSX]], [[Virtual Console]]
+}}
+
+'''''International Karate''''' is a [[fighting game]] developed and published by [[System 3 (company)|System 3]] for the [[ZX Spectrum]] in 1985 and ported to various [[home computer]]s over the following years. In the United States it was published by [[Epyx]] in 1986 as '''''World Karate Championship'''''.<ref>[[Steven L. Kent]]: "[[The Ultimate History of Video Games]]". First edition, Three Rivers Press, New York 2001, p. 368 - Kent does not mention the Atari version.</ref>
+
+It was the first European-developed game to become a major hit in the United States, where it sold over 1.5 million copies. However, it drew controversy for its similarities to ''[[Karate Champ]]'' (1984), which led to [[Data East]] filing [[Data East USA, Inc. v. Epyx, Inc.|a lawsuit]] against Epyx. ''[[International Karate +]]'', a successor which expanded the gameplay, was released in [[1987 in games|1987]].
+
+==Gameplay==
+{{Unreferenced section|date=July 2019}}
+[[File:WorldKarateChampionship ingame.png|left|upright=2|thumb|Atari 8-bit version|alt=]]
+
+The core game is a two-dimensional, one-on-one, [[versus fighting game]]. Players take on the roles of martial artists competing in a [[kumite]] tournament. Rather than wearing down an opponent's health, the goal is instead to score single solid hits. After each hit, combat stops and both combatants are returned to their starting positions. Depending on how well players hit their opponent, they score either a half-point or a full point. Matches can be quite brief, as only two full points are required to win, and a point can be quickly scored just seconds after a round begins.
+
+In single-player mode, successive opponents increase in difficulty from novice white belts to master [[black belt (martial arts)|black belts]]. Play continues as long as the player continues to win matches. Between fights, bonus mini-games focusing on rhythm and timing appear, including one in which the player must break a number of stacked boards using the fighter's head. As in newer games in the genre, starting specifically with ''[[Street Fighter (video game)|Street Fighter]]'', the fights take place against a variety of backdrops (eight in total) representing different locations in the world: the [[Mount Fuji]] (Tokyo, Japan), the [[Port Jackson|Sydney Harbour]] (Sydney, Australia), the [[Statue of Liberty]] (New York, USA), the [[Forbidden City]] (Beijing, China), the [[Christ the Redeemer (statue)|Christ the Redeemer]] (Rio de Janeiro, Brazil), the [[Palace of Westminster]] (London, England), the [[Parthenon]] (Athens, Greece), and the [[Great Pyramid of Giza]] (Cairo, Egypt).
+
+The title utilizes the standard one-button joystick, allowing players to execute a variety of [[karate]] techniques. Unlike modern 2D fighting games, players do not turn around if the opponent is behind them and must instead execute one of three "turn-around" maneuvers to change direction.
+
+==Ports==
+[[File:InternationalKarate_AtariST_screenshot.png|left|thumb|Atari ST version|alt=]]
+
+[[Archer Maclean]], initially only employed by System 3 to create graphics routines when the original programmer and artist walked out, developed the Commodore 64 version from scratch as he had no interest in porting the original ZX Spectrum version.<ref name=retrogamer /> Another port exists for the [[MSX]] platform. A version for the [[Atari ST]] home computer was created by Andromeda Software and released in 1986. This version featured the most advanced graphics of all versions as the [[16 bit]] hardware supported more colors and larger sprites. The port to [[IBM PC compatible]]s, published the same year, uses 4-color [[Color Graphics Adapter|CGA]] graphics.
+
+==Lawsuit==
+{{Main|Data East USA, Inc. v. Epyx, Inc.}}
+After the release of ''World Karate Championship'' in the US in late April 1986, Epyx was sued by video game publisher [[Data East]] for infringement of copyright, trademark, and trade dress. The dispute was about similarities to the 1984 [[arcade game]] ''[[Karate Champ]]'' and its home computer adaptations published in 1985. ''International Karate'' used the same colored fighters and had the same points system. The initial trial at the [[United States District Court for the Northern District of California|District Court for the Northern District of California]] began on 28 October 1986. In his decision of 28 January 1987, the court dismissed the allegations of trademark and trade dress infringement but found Epyx guilty of infringing upon Data East USA's copyright on ''Karate Champ''.<ref>DATA EAST USA, INC., v. EPYX, INC.,  - UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF CALIFORNIA - No. C-86-20513-WAI</ref> Data East was granted a permanent injunction against Epyx, Inc., and an impoundment was also ordered to restrain Epyx from selling or distributing ''World Karate Championship'', and Epyx was also required to recall all copies of the game from customers and distributors.<ref name="Dragon127">{{Cite journal|author=Hartley Lesser, Patricia Lesser|date=November 1987|title=The Role of Computers|url=https://archive.org/stream/DragonMagazine260_201801/DragonMagazine127#page/n75/mode/2up|journal=[[Dragon (magazine)|Dragon]]|issue=127|pages=74–80}}</ref>
+
+The decision was appealed the [[United States Court of Appeals for the Ninth Circuit]], who in November 1988 reversed the decision, stating that while the game was similar, it was not identical and that one game company can not monopolize one entire sport.<ref name="data_east_v_epyx">''Data East v. Epyx'', [https://law.resource.org/pub/us/case/reporter/F2/862/862.F2d.204.87-2294.html 862 F. 2d 204, 9 U.S.P.Q.2d (BNA) 1322] (9th Cir. 1988).</ref><ref>''Data East v. Epyx''. In: Steven L. Kent: ''The Ultimate History of Video Games: From Pong to Pokémon--The Story Behind the Craze That Touched Our Lives and Changed the World''. New York, New York: Three Rivers Press, 2001. {{ISBN|0-7615-3643-4}}. p. 368-371.</ref><ref>[[Richard H. Stern]], [http://docs.law.gwu.edu/facweb/claw/ch4a.htm Computer Law 484 Professor Richard H. Stern Cases and Materials] {{Webarchive|url=https://web.archive.org/web/20150101014153/http://docs.law.gwu.edu/facweb/claw/ch4a.htm |date=1 January 2015}}</ref>
+
+==Reception==
+''World Karate Championship'' was a commercial success in the United States, where it became the first European-developed game to top the ''[[Billboard (magazine)|Billboard]]'' software charts. The game went on to sell over 1.5 million copies in the United States.<ref>{{cite book |last1=Fox |first1=Matt |title=The Video Games Guide: 1,000+ Arcade, Console and Computer Games, 1962-2012, 2d ed. |date=3 January 2013 |publisher=[[McFarland & Company]] |isbn=978-0-7864-7257-4 |page=150 |url=https://books.google.com/books?id=xzMYYrsDaAEC&pg=PA150}}</ref>
+
+Rick Teverbaugh reviewed the game for ''[[Computer Gaming World]]'', and wrote that Epyx continued to take a strong stand in the foreground of the arcade sports programs with ''World Karate Championship''.<ref name="CGW31">{{cite magazine |last=Teverbaugh |first=Rick |title=Sports Scoreboard |magazine=Computer Gaming World |date=September–October 1986 |volume=1 |issue=31 |pages=30}}</ref> [[Charles Ardai]] called the game "an original ''Karate Champ'' clone, but it's the best one available ... Great scenery adds to the ambience".<ref name="ardai198704">{{cite magazine | title=Titans of the Computer Gaming World / Part 1 of V: Ardai on Epyx | magazine=[[Computer Gaming World]] | issue=36 | date=April 1987 | url=http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=36 | access-date=24 April 2016 | last=Ardai | first=Charles | pages=53}}</ref>
+
+''[[Your Sinclair]]'' reviewed the ZX Spectrum version in 1990, giving it a 74% score.<ref name="YS">{{cite magazine|date=12 April 1990|title=The YS Complete Guide To Beat-'em-ups|magazine=[[Your Spectrum]]|issue=53 (May 1990)|url=http://www.ysrnry.co.uk/articles/completeguidetobeatemups.htm|accessdate=2007-09-26|url-status=dead|archive-url=https://web.archive.org/web/20070929083716/www.ysrnry.co.uk/articles/completeguidetobeatemups.htm|archive-date=2007-09-29}}</ref>
+
+In a 2006 retrospective of the genre, ''[[Retro Gamer]]'' gave the game an 86% rating, referring to it as an "excellent" game that was overshadowed by the earlier release of ''[[The Way of the Exploding Fist]]''.<ref>{{cite magazine |title=8-Bit-'Em-Ups |magazine=[[Retro Gamer]] |date=March 2006 |issue=22 |pages=56–7 |url=https://archive.org/details/retro_gamer/RetroGamer_022/page/56/mode/2up}}</ref>
+
+==Legacy==
+In 2000, a [[Game Boy Color]] version, created without input from Archer Maclean,<ref name="retrogamer" /> was released as ''International Karate 2000''. It sported some enhancements and was the basis for ''International Karate Advanced'' released in 2001 for the [[Game Boy Advance]]. The C64 version saw re-releases in 2004 as a title on the [[C64 Direct-to-TV]], and in 2008 on the [[Wii]] [[Virtual Console]].<ref>{{cite web | first=Hugo | last=Jobling | date=22 February 2008 | url=http://www.trustedreviews.com/news/Commodore-64-Coming-To-Wii-Virtual-Console | title=Commodore 64 Coming to Wii Virtual Console | publisher=trustedreviews.com | archive-url=https://web.archive.org/web/20150910081039/http://www.trustedreviews.com/news/Commodore-64-Coming-To-Wii-Virtual-Console | accessdate=25 February 2008| archive-date=10 September 2015 }}</ref>
+
+===''International Karate +''===
+{{Main|International Karate +}}
+''[[International Karate +]]'', a successor which expanded the gameplay, was released [[1987 in games|in 1987]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MobyGames|id=/world-karate-championship|name=''International Karate'' / ''World Karate Championship''}}
+* {{WoS game|id=0002502}}
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Epyx games]]
+[[Category:Fighting games]]
+[[Category:Game Boy Color games]]
+[[Category:Karate video games]]
+[[Category:MSX games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:System 3 (company) games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games involved in plagiarism controversies]]
+[[Category:Video games scored by Rob Hubbard]]
+[[Category:Video games set in Australia]]
+[[Category:Video games set in Brazil]]
+[[Category:Video games set in China]]
+[[Category:Video games set in Egypt]]
+[[Category:Video games set in Greece]]
+[[Category:Video games set in London]]
+[[Category:Video games set in New York City]]
+[[Category:Video games set in Tokyo]]
+[[Category:Virtual Console games]]
+[[Category:ZX Spectrum games]]

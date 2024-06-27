@@ -1,0 +1,63 @@
+Wavy Navy (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Wavy_Navy_%28video_game%29&oldid=1224492770
+Accessed on: 2024-06-26T16:56:09.879383
+
+
+
+------
+Wavy Navy (video game)
+{{Short description|1983 video game}}
+{{Infobox video game
+|title = Wavy Navy
+|image = Wavy Navy cover.jpg
+|caption = 
+|designer = Rodney McAuley<ref name=giantlist/>
+|publisher = [[Sirius Software]]
+|released = 1983
+|genre = [[Fixed shooter]]
+|modes = 1-4 players alternating turns<ref name="manual"/>
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]]
+|alt = 
+|developer =
+}}
+
+'''''Wavy Navy''''' is a video game designed by Rodney McAuley for the [[Apple II]] and published by [[Sirius Software]] in 1983.<ref name="giantlist"/> Versions for the [[Atari 8-bit computers]] and [[Commodore 64]] were released the same year. ''Wavy Navy'' is a nautically themed [[fixed shooter]] with left and right controls to move the player's [[PT boat]], but there is an additional vertical element as the boat moves up and down with the large ocean waves that scroll beneath it.<ref name="faughn"/> The direction and speed of the waves vary per level.<ref name="linzmayer"/> Some reviewers found that the movement of the waves added an interesting twist, while others called it too similar to other fixed shooters like ''[[Galaxian]]''.
+
+Prior to ''Wavy Navy'', McAuley wrote several Apple II games for ''[[Creative Computing]]'' magazine.<ref name="giantlist"/>
+
+==Gameplay==
+[[File:Wavy_Navy_(video_game)_Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit screenshot]]
+
+The core enemies are planes grouped in a formation, similar to ''[[Galaxian]]'', that break off and dive at the player's boat.<ref name="linzmayer"/> Other flying enemies are machine gun-equipped helicopters, [[Exocet]] missiles, and bomb-dropping jets. The helicopters take the place of the flagships in ''Galaxian'', sitting atop the rows of planes. Mines also appear in the water.
+
+Completing a round by destroying all attackers awards 50 points for each PT boat remaining.<ref name=manual/>
+
+==Reception==
+Owen Linzmayer, writing for ''Creative Computing Video & Arcade Games'', rated the game "Excellent" and called the graphics "superbly done."<ref name="linzmayer"/> A review of the Atari 8-bit version in ''Videogaming and Computergaming Illustrated'' began, "This one might well be called ''[[Galaga]]'' meets ''[[Moon Patrol]]'' on the high seas."<ref>{{cite journal |last1=Papa |first1=Vincent J. |title=Wavy Navy |journal=Videogaming and Computergaming Illustrated |date=November 1983 |page=58 |url=https://archive.org/details/Videogaming_and_Computer_Gaming_Illustrated_1983-11_Ion_International_US/page/n55}}</ref> Reviewing the Commodore 64 version, ''[[Ahoy!]]'' magazine wrote: "Sirius has succeeded where others have failed in working new wrinkles into the slide-and-shoot format."<ref name="ahoy"/> The ''1984 Software Encyclopedia'', published by ''[[Electronic Games]]'', gave the game a 9 out of 10: "By adding a few novel details to the basic invasion game genre, designer Rodney McAuley has produced something rather special".<ref name=se1984/>
+
+In an ''[[Antic (magazine)|Antic]]'' review, David Faughn noted the similarities to ''[[Galaxian]]'' and cautioned not buying ''Wavy Navy'' if you already own that game.<ref name="faughn"/> Michael Blanchet, for ''[[Electronic Fun with Computers & Games]]'', asked "How long does Sirius, or any software company for that matter, think the gaming public wants to play silly rehashes of ''[[Space Invaders]]''?" and "are video game designers devoid of imagination?"<ref name="efun"/>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{citation|url=https://dadgum.com/giantlist/ |title=The Giant List of Classic Game Programmers |last1=Hague |first1=James}}</ref>
+<ref name="manual">{{cite book|title=Atari Wavy Navy Manual|date=1983|publisher=Sirius Software |url=https://archive.org/details/agm_Wavy_Navy}}</ref>
+<ref name="faughn">{{cite journal|last1=Faughn|first1=David|title=Product Reviews: Wavy Navy|journal=Antic|date=April 1983|volume=3|issue=1|url=http://www.atarimagazines.com/v3n1/productreviews.html}}</ref>
+<ref name="linzmayer">{{cite journal|last1=Linzmayer|first1=Owen|title=Wavy Navy Review|journal=Creative Computing Video & Arcade Games|date=Fall 1983|volume=1|issue=2|page=88|url=http://www.atarimagazines.com/cva/v1n2/wavynavy.php}}</ref>
+<ref name="ahoy">{{cite journal|last1=Lobl|first1=Pete|title=Wavy Navy|journal=Ahoy!|date=March 1983|issue=3|url=http://www.commodore.ca/gallery/magazines/ahoy/Ahoy-issue-03.pdf}}</ref>
+<ref name="efun">{{cite journal|last1=Blanchet|first1=Michael|title=Wavy Navy|journal=Electronic Fun with Computers & Games|date=August 1983|volume=1|issue=10|page=63|url=https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_10_1983-08_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_10_1983-08_Fun__Games_Publishing_US#page/n63/mode/2up}}</ref>
+<ref name=se1984>{{cite book| title=1984 Software Encyclopedia |date=1984 |page=36 |url=https://archive.org/details/1984_Software_Encyclopedia_Number_2_1983_Reese_Communications_US/page/n35/ |publisher=Electronic Games}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=5736}}
+*{{lemon64 game|id=2822|name=Wavy Navy}}
+*{{internet archive game|Wavy_Navy_compatiboot}} (original Apple II version)
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Fixed shooters]]
+[[Category:Naval video games]]
+[[Category:Sirius Software games]]
+[[Category:Video games developed in the United States]]

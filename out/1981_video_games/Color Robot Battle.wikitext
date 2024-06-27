@@ -1,0 +1,54 @@
+Color Robot Battle
+Permalink: //en.wikipedia.org/w/index.php?title=Color_Robot_Battle&oldid=1017665104
+Accessed on: 2024-06-26T16:52:11.171908
+
+
+
+------
+Color Robot Battle
+{{Short description|1981 video game}}
+{{Infobox video game
+| title                  = Color Robot Battle
+| caption                =
+| collapsible            =
+| designer               = Glenn Sogge<ref name="boyle"/>
+| programmer             = Del Ogren<ref name="boyle"/>
+| developer              = The Image Producers<ref name="boyle">{{cite web|last1=Boyle|first1=L. Curtis|title=Color Robot Battle|url=http://www.lcurtisboyle.com/nitros9/colorrobotbattle.html|website=Tandy Color Computer Games}}</ref>
+| publisher              = [[Radio Shack]]
+| released               = [[1981 in video gaming|1981]]
+| platform               = [[TRS-80 Color Computer]]
+| genre                  = [[Programming game|Programming]]
+}}
+
+'''''Color Robot Battle''''' is a [[programming game]] developed by Glenn Sogge and Del Ogren for the [[TRS-80 Color Computer]] and published by [[Radio Shack]] in 1981.<ref>Hoffman, Paul [https://archive.org/stream/rainbowmagazine-1983-04/The_Rainbow_Magazine_04_1983#page/n141/mode/1up "Robots Maneuver Humans Into Programming"], The Rainbow (Apr 1983) Page 140-142. </ref>
+
+==Robot Programming==
+
+The aim of the game is to write a [[computer program]] that controls a (simulated) robot. Two programs are selected to do battle in an arena with the last robot standing being the winner.<ref>[http://programminggames.org/Color-Robot-Battle.ashx Color Robot Battle on the Programming Games Wiki]</ref> One of the examples from the manual follows:
+
+ *OMEGA
+ ROB> =R:XM
+ WAL> =W:T-2
+ START> CROB:CWAL:F8:=?:T1
+ GSTART
+
+The robot controlled by this program follows the wall of the arena making an occasional random turn to break the movement pattern. The program scans for an opponent and attacks if one is found.
+
+==See also==
+*''[[RobotWar]]''
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://programminggames.org/Color-Robot-Battle.ashx Color Robot Battle] on the Programming Games Wiki
+* [http://corewar.co.uk/colorrobotbattle.htm Core Robot Battle: Adventures in Programming]
+* [http://www.polylith.com/~brendan/ClassicComputers/Tandy/RobotBattle.html Tandy/TRS-80 Color Computer Robot Battle]
+* {{youtube|stch5lW3Nz8|Color Robot Battle - Adventures in Programming}}
+
+[[Category:1981 video games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:TRS-80 Color Computer-only games]]
+[[Category:Programming games]]
+[[Category:Video games about robots]]
+[[Category:Video games developed in the United States]]

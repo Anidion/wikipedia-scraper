@@ -1,0 +1,55 @@
+Star Trader
+Permalink: //en.wikipedia.org/w/index.php?title=Star_Trader&oldid=1203900203
+Accessed on: 2024-06-26T16:47:27.436668
+
+
+
+------
+Star Trader
+{{Short description|1974 video game}}
+{{Infobox video game
+|title = Star Trader
+|image =
+|caption =
+|developer = Dave Kaufman
+|publisher = 
+|designer =
+|series = 
+|engine = 
+|released = January 1974
+|genre = [[Space flight simulation game#Space trading and combat game|Space trading]]
+|modes = 
+|platforms = Computer
+}}
+'''''Star Trader''''' is a 1974 [[video game]] and an early example of the [[space flight simulation game#Space trading and combat game|space trading genre]]. The game involves players moving from star to star on a map of the galaxy, buying and selling quantities of six types of merchandise in a competition to make the most money. The game was developed by Dave Kaufman for computers in 1973, and its [[BASIC programming language|BASIC]] source code was printed in the January 1974 issue of the ''[[People's Computer Company|People's Computer Company Newsletter]]''. It was reprinted in the 1977 book ''What to Do After You Hit Return''. The game was the inspiration for the multiplayer ''[[Trade Wars]]'' series, beginning in 1984, and is thought to be the antecedent to much of the space trading genre.
+
+== Gameplay ==
+[[File:Star_Trader_1974_screenshot.png|thumb|right|Screenshot of gameplay, featuring the galaxy map]]
+''Star Trader'' is a multiplayer [[space flight simulation game#Space trading and combat game|space trading]] game, in which players trade resources between star systems in order to make the most money. The game presents a star map of the [[galaxy]] in which each player moves about trading between star systems of different levels of economic development. The players travel from planet to planet buying and selling six types of merchandise: uranium, metals, gems, software, heavy equipment, and medicine. The different levels of planet have different needs and produce different kinds and amounts of goods, which influences their prices. In the course of the game the level of development of planets can improve and new planetary systems can be discovered. Haggling over the price of goods is a central part of gameplay. The game's interface is [[text mode|text-only]].
+
+==Development==
+''Star Trader'' was written by Dave Kaufman in the [[BASIC programming language]]. The [[source code]] to the game was published in the ''[[People's Computer Company|People's Computer Company Newsletter]]'' in volume 2, issue 3 in January 1974. The concept for the game is seemingly based on [[Isaac Asimov]]'s ''[[Foundation series|Foundation]]'' series of novels.
+
+==Legacy==
+In 1977, the game's code was reprinted in ''What to Do After You Hit Return''.<ref>{{cite book |title=What to Do After You Hit Return |publisher=Hayden Book Company |date=1977 |isbn=0-8104-5476-9}}</ref> ''Star Trader'' was used as the inspiration for the first game of the ''[[Trade Wars]]'' series of multiplayer space trading games in 1984, making it the ancestor of many subsequent space trader games, including ''[[Eve Online]]'', the ''[[Wing Commander: Privateer|Wing Commander Privateer]]'' series, and ''[[Elite (video game)|Elite]]'' series.<ref name="pc_world">{{Cite web |last=Edwards |first=Benj |title=The Ten Greatest PC Games Ever |publisher=[[PC World (magazine)|PC World]] |date=February 8, 2009 |url=http://www.pcworld.com/article/158850/the_ten_greatest_pc_games_ever.html?tk=nl_bex_h_reviews |accessdate=2010-01-03}}</ref><ref name="SFVG">{{cite book |title=Science Fiction Video Games |last=Tringham |first=Neal Roger |publisher=[[CRC Press]] |date=2014-09-10 |page=212 |isbn=978-1-4822-0389-9}}</ref>
+
+Several unrelated but similar space trading games have been released under the name ''Star Trader''. One such game was released by [[Bug Byte]] Software in 1984 for the [[ZX Spectrum]] and [[Commodore 64]],<ref>[http://www.mobygames.com/game/c64/star-trader_ Star Trader] on [[MobyGames]]</ref> and was one of the games included with the [[Softaid]] compilation.
+
+[[File:Star_Traders_Linux_screenshot_map.png|thumb|right|Screenshot of the Linux/Unix version of the game, featuring the galaxy map]]
+Another version, ''Star Lanes'', was written by Steven Farber and published in [[Interface Age]] in June 1977.<ref>"STAR LANES developed by Steven Faber provides us with a new imaginative Monopoly-type microcomputer game that everyone can and will want to play if you have a microcomputer.  Like the Monopoly game, STAR LANES combines financial and positional strategies as players attempt to lay claim to valuable pieces of space real estate between the stars in the Galaxy."  —page 123, [https://archive.org/details/197706InterfaceAge/page/n124/mode/1up Interface Age], June 1977.</ref>  S. J. Singer republished this in 1984 under the name ''Star Traders'';<ref>The help text within the game still refers to itself as ''Star Lanes''.</ref> this version was ported by John Zaitseff for Microsoft Basic under the [[CP/M]]-80 operating system in 1988. Completely rewritten versions for CP/M-80, CP/M-86, [[MS-DOS]], [[Microsoft Windows 3.1]] and [[Linux]]/[[Unix]] followed, with the latest release for Linux and Unix occurring in January 2024.<ref>{{Cite web | last=Zaitseff | first = John | title = Star Traders | date = January 31, 2024 | url = https://www.zap.org.au/projects/trader/ | accessdate = 2024-01-31}}</ref> All versions by John Zaitseff have been released or relicensed under the [[GPLv3|GNU General Public License v3]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.svipx.com/pcc/ The People's Computer Company Alumni Pages] People's Computer Company Alumni and History site.
+* [http://www.dunnington.info/public/basicgames/TRADER Standard HP BASIC Listing #1] ''Star Trader'' Game Setup Module BASIC programming language listing.
+* [http://www.dunnington.info/public/basicgames/TRADES Standard HP BASIC Listing #2] ''Star Trader'' Game Main Module BASIC programming language listing.
+* [https://web.archive.org/web/20110807175350/http://www.langesite.com/startrader/ ''Star Trader'' Tribute Page] Site describing the history of ''Star Trader''.
+* [http://wiki.classictw.com/index.php?title=Inside_TradeWars_-_History_-_Timeline History Of Trade Wars Variants] Timeline of the history of ''[[Trade Wars]]'' variants.
+* [https://www.zap.org.au/projects/trader/ Star Traders] Versions of ''Star Traders'' for Linux, as well as for CP/M-80, CP/M-86, MS-DOS, Windows 3.1 and Commodore 64.
+
+[[Category:1974 video games]]
+[[Category:Space trading and combat simulators]]
+[[Category:Public-domain software with source code]]
+[[Category:Video games developed in the United States]]

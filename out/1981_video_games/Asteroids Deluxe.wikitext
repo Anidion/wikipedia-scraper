@@ -1,0 +1,56 @@
+Asteroids Deluxe
+Permalink: //en.wikipedia.org/w/index.php?title=Asteroids_Deluxe&oldid=1224500108
+Accessed on: 2024-06-26T16:52:05.225264
+
+
+
+------
+Asteroids Deluxe
+{{Use mdy dates|date=August 2012}}
+{{short description|1981 video game}}
+{{Infobox video game
+| title       = Asteroids Deluxe
+| image       = Asteroids deluxe.jpg
+| caption     = Arcade flyer
+| developer   = [[Atari, Inc.]]
+| publisher   = Atari, Inc.
+| designer    = Dave Shepperd<ref name="RouseOgden2005">{{cite book|last1=Rouse|first1=Richard|title=Game Design: Theory & Practice|url=https://books.google.com/books?id=hXwhAQAAIAAJ|year=2005|publisher=Wordware Pub.|isbn=978-1-55622-912-1|page=92 |quote=I did not do ''Asteroids Deluxe''. It was done by David Shepperd.}}</ref>
+| released    = '''Arcade'''{{vgrelease|NA|April 1981}}'''BBC Micro'''<br>1984<br>'''Atari ST'''<br>1987
+| genre       = [[Multidirectional shooter]]
+| modes       = 1-2 players alternating turns
+| platforms   = [[Arcade video game|Arcade]], [[Atari ST]], [[BBC Micro]]
+}}
+
+'''''Asteroids Deluxe''''' is a [[multidirectional shooter]] arcade video game with monochrome [[vector graphics]] released in April 1981 by [[Atari, Inc.]]<ref>{{cite web|url=http://www.secinfo.com/dsvrt.91w8.c.htm|title=SEC Info - Atari Inc}}</ref> It is the sequel to ''[[Asteroids (video game)|Asteroids]]'' and was designed to combat the saucer-hunting strategy of the original allowing experts to play for extended periods.<ref>{{cite magazine |title=The Asteroids 'Lurker'|magazine=[[Electronic Gaming Monthly]] |publisher=Ziff Davis |issue=103 |date=February 1998 |page=91}}</ref><ref name="ah">{{cite web|title=Asteroids Deluxe|url=http://www.arcade-history.com/?n=asteroids-deluxe&page=detail&id=127|website=Arcade History}}</ref> These modifications made it significantly more difficult and less accessible to players.<ref name="Sullivan1982">{{cite book|last=Sullivan|first=George|title=How to Win at Video Games: A Complete Guide|url=https://books.google.com/books?id=bP4XAv0QeKIC|year=1982|publisher=Scholastic Book Services|isbn=978-0-590-32630-8|pages=81–82|quote=In fact, in the first few months after ''Asteroids Deluxe'' was introduced, it proved so difficult that many players turned their backs on the machine.}}</ref> Ports of ''Asteroids Deluxe'' were released for the [[BBC Micro]] in 1984<ref name="ah"/> and the [[Atari ST]] in 1987.<ref name="Hawken2017">{{cite book|last=Hawken|first=Kieren|title=The A-Z of Atari ST Games: Volume 1|url=https://books.google.com/books?id=CtEnDwAAQBAJ&pg=PT9|date=6 June 2017|publisher=Andrews UK Limited|isbn=978-1-78538-701-2|pages=9–10}}</ref>
+
+The game was followed-up with ''[[Space Duel]]'' in 1982 and the more direct sequel ''[[Blasteroids]]'' in 1987.
+
+==Gameplay==
+Like in the original ''Asteroids'', the objective is to score points by destroying [[asteroid]]s and [[flying saucer]]s. The player controls a [[spacecraft|ship]] that can rotate left and right, fire shots straight forward, and thrust forward. When shot, larger asteroids break apart into smaller pieces and fly in random directions, while the smallest asteroids are destroyed when hit. ''Deluxe'' replaces the hyperspace feature with shields which deplete with use. This game also introduces the "Killer [[Satellite]]", a cluster of ships that break apart and chase the player's ship when hit.<ref>{{cite news |author=Staff Writer |date=10 May 1981 |title='Asteroids game': trying to stay alive |url=https://www.newspapers.com/image/114312538/?terms=asteroids%2Bdeluxe |work=Poughkeepsie Journal |location=Poughkeepsie, New York}}</ref> Objects "wrap" from each edge of the screen to the opposite edge (e.g. from the right edge to the left, or the top edge to the bottom), as in the original.
+
+In addition to the shield feature and the Killer Satellite, the most significant change in this version of the game is that the flying saucers can now target the player's ship across the screen boundary - meaning that if the saucer is close to the left edge and the player is at the right edge, the saucer may shoot toward the left edge and across the boundary to hit the player since their ship is closer that direction. In ''Asteroids'', the saucers could only fire directly at the player's location on screen without considering the boundary, which led to the popular [[Asteroids (video game)#Lurking exploit|"lurking" exploit]] that enabled players to play for very long periods of time on a single credit. This updated strategy was in direct response to that exploit.<ref name="ah"/>
+
+==Development==
+The ''Asteroids Deluxe'' arcade machine is a [[vector game]], with graphics consisting entirely of lines drawn on a [[vector monitor]], which Atari described as "QuadraScan". The key hardware consists of a 1.5 MHz [[MOS Technology 6502|MOS 6502A]] [[central processing unit|CPU]], which executes the game program, and the Digital Vector Generator (DVG), the first vector processing [[Electronic circuit|circuitry]] developed by [[Atari]]. The DVG used for ''Asteroids Deluxe'' was designed by Howard Delman, and used earlier in ''[[Lunar Lander (1979 video game)|Lunar Lander]]'' and ''Asteroids''.<ref>{{cite web |url=http://www.jmargolin.com/vgens/vgens.htm#Major%20Havoc%20and%20the%20Empire%20Strikes |last=Margolin |first=Jed |title=The Secret Life of Vector Generators |date=22 April 2001 |website=Jed Margolin's Website |location=San Jose, California}}</ref>
+
+Most of the sound effects are implemented by custom circuitry, but some are generated via the [[Atari POKEY]] sound chip.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=6940|name=Asteroids Deluxe}}
+* {{atarimania|id=11119}}
+
+{{Asteroids series}}
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Multidirectional shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Vector arcade video games]]
+[[Category:Video games developed in the United States]]

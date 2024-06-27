@@ -1,0 +1,49 @@
+Swoop (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Swoop_%28video_game%29&oldid=1224461210
+Accessed on: 2024-06-26T16:56:00.467889
+
+
+
+------
+Swoop (video game)
+{{Infobox video game
+| title = Swoop
+| image = Swoop cassette front cover (Acorn Electron).png
+| caption = Acorn Electron cassette cover
+| programmer = David Elliot<ref name=lemon64/>
+| publisher = [[Micro Power]]
+| released = '''1983:''' BBC, Electron<br>'''1984:''' C64
+| genre = [[Fixed shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[BBC Micro]], [[Acorn Electron]], [[Commodore 64]]
+}}
+
+'''''Swoop''''' is a clone of Namco's ''[[Galaxian]]'' programmed by David Elliot for the [[BBC Micro]] and published in the UK by [[Micro Power]]. It was ported to the [[Acorn Electron]] the game's launch in 1983 and the [[Commodore 64]] in 1984.<ref name=lemon64>{{lemon64 game|id=2584|accessdate=2010-09-23}}</ref>
+
+==Gameplay==
+[[Image:Swoop, Micro Power - in-game screenshot (BBC Micro).png|thumb|left|Aliens in formation with one diving toward the player's ship (BBC Micro)]]
+
+The invading aliens take the form of wing-flapping Birdmen. ''Swoop'' differs from other ''Galaxian'' clones in that the Birdmen will lay explosive eggs if they successfully reach the bottom of the screen. If the eggs are touched by the player's laser base then a life is lost, so they effectively confine the movement of the laser base until they disappear after some pre-set time.
+
+There are a total of eight levels (called "phases" in the cassette inlay instructions), each successively more difficult than the last. The most difficult level has a total of two Birdmen and eight missiles raining down on the player simultaneously.
+
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.8bs.com/reviews3.htm#swoop ''Electron User'' review]
+
+{{Micro Power}}
+
+[[Category:1983 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Fixed shooters]]
+[[Category:Micro Power games]]
+[[Category:Single-player video games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United Kingdom]]
+
+
+{{8bitcomputer-game-stub}}

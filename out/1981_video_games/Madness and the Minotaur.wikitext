@@ -1,0 +1,44 @@
+Madness and the Minotaur
+Permalink: //en.wikipedia.org/w/index.php?title=Madness_and_the_Minotaur&oldid=1163432186
+Accessed on: 2024-06-26T16:52:23.641196
+
+
+
+------
+Madness and the Minotaur
+{{Infobox video game
+| title  = Madness and the Minotaur
+|image = matm.jpg
+|image_size = 250px
+|developer = [[Spectral Associates]]
+|publisher = [[Radio Shack]]<br>[[Microdeal]] (EU)<br>[[Dragon Data]] (Dragon 32)
+|designer = Tom Rosenbaum
+|released = '''TRS-80'''<br>{{vgrelease|[[North America|NA]]/[[United Kingdom|UK]]|1981}}'''Dragon 32'''<br>{{vgrelease|UK|1982}}
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[TRS-80 Color Computer]], [[Dragon 32/64|Dragon 32]]
+}}
+'''''Madness and the Minotaur''''' is a [[Interactive fiction|text adventure]] game, published in 1981 for the [[TRS-80 Color Computer]] by [[Radio Shack]] in North America and by [[Microdeal]] in the United Kingdom. It was developed by [[Spectral Associates]] founder, Thomas Rosenbaum.<ref>{{cite web | url = http://tleaves.com/post/minotaur-mystery/ | title = Madness and the Minotaur - A Mystery Solved | date = February 6, 2017 | website = Tea Leaves | access-date = February 6, 2017 | quote = Madness and the Minotaur was written by the founder of Spectral Associates, Tom Rosenbaum.}}</ref>
+A [[Dragon 32/64|Dragon 32]] version was published in 1982 by [[Dragon Data]]. 
+
+==Gameplay==
+The goal of the game is to retrieve a number of treasures. In the course of doing this, the player will encounter other objects that may or may not be useful. Often, the player needs one object to act as a "key" for another.  There is no rhyme or reason to this. The player doesn't ''use'' the key object to obtain the other; he just needs to be carrying it.  For example, the player may see a shield. Perhaps the player needs to be carrying the dagger to get the shield.  If the player has the dagger, the shield is reachable; if he does not, it is not. With the exception of a randomly appearing "oracle", the game gives no indication of what objects are needed to reach a treasure. There are various magic spells that can be learned throughout the game that have various effects.<ref>{{cite web | url = http://computerarcheology.com/CoCo/MadnessMinotaur/ | title = Madness and the Minotaur | website = Computer Archeology | last = Cantrell | first = Chris | access-date = February 6, 2017 | quote = "To win the game you have to learn all 8 spells and drop all 16 treasure objects in the forest (room 202). The spells are sprinkled around the rooms at random. Some objects are "protected" and require you have a set of other objects to release (see below)."}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{IFDB|id=lvj5tbuoxwprbbqc}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1981 video games]]
+[[Category:Adventure games]]
+[[Category:Dragon 32 games]]
+[[Category:Microdeal games]]
+[[Category:Single-player video games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games based on Greek mythology]]
+[[Category:Video games developed in the United States]]
+
+
+{{adventure-videogame-stub}}

@@ -1,0 +1,87 @@
+Sargon III
+Permalink: //en.wikipedia.org/w/index.php?title=Sargon_III&oldid=1224118243
+Accessed on: 2024-06-26T16:55:48.512982
+
+
+
+------
+Sargon III
+{{Short description|1983 video game}}
+{{Infobox video game
+| title = Sargon III
+| image = Sargon III Cover.jpg
+| alt = 
+| developer = Dan Spracklen <br> Kathe Spracklen
+| publisher = [[Hayden Software]]
+| series = Sargon
+| engine = 
+| platforms = [[Amiga]], [[Apple II]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]],<ref name="wiswell19850108"/> [[Mac (computer)|Mac]]
+| released = 1983
+| genre = [[Strategy video game|Strategy]]
+| modes = [[Single-player]], [[multiplayer]]
+}}
+
+'''''Sargon III''''' is a [[computer chess]] program. It is a sequel to ''[[Sargon II (video game)|Sargon II]]''.
+
+==Gameplay==
+''Sargon III'' allots a time budget based on which level of play is chosen.<ref name="softalk"/> It has nine levels, each of which can be played in hard or easy mode.<ref name="analog"/> It has an average response time of five seconds per move on the lowest level, and an unlimited amount of time on the highest level.<ref name="gazette"/> Players can take back moves, ask for help, or force the computer's move.<ref name="commodore"/> It features a 2-D display.<ref name="ace"/> It recreates 107 great chess matches for players to study.<ref name="family"/>
+
+==Development==
+''Sargon III'' was a complete rewrite from scratch. Instead of an ''[[Exchange (chess)|exchange]] evaluator'', this version used a ''capture search'' [[algorithm]]. Also included was a [[chess opening]] repertoire. This third version was written originally for the [[MOS Technology 6502|6502]] assembler and was commercially published by [[Hayden Software]] in 1983. Apple contacted the Spracklens and, after a port for [[Motorola 68000|68000]] [[assembly language|assembly]], ''Sargon III'' was the first third-party executable software for the [[Macintosh]].<ref name='CHM Interview'>
+{{cite news
+  | last = Hendrie
+  | first = Gardner
+  | title = Oral History of Kathe and Dan Spracklen
+  | publisher = Computer History Museum
+  | date = 2005-03-02
+  | url = http://archive.computerhistory.org/projects/chess/related_materials/oral-history/spacklen.oral_history.2005.102630821/spracklen.oral_history_transcript.2005.102630821.pdf
+  | accessdate = 2007-02-11 }}
+</ref>
+
+==Reception==
+''Video'' magazine listed ''Sargon III'' third on its list of best-selling video games in February 1985,<ref>{{cite magazine |last1= Ditlea |first1= Steve |last2= Onosco |first2= Tim |last3= Kunkel |first3= Bill |author-link3= Bill Kunkel (gaming)|date= February 1985 |title= Random Access: Best Sellers/Recreation |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 8|issue= 11|page= 35|issn= 0147-8907}}</ref> and fourth on the best-seller list in March 1985,<ref>{{cite magazine |last1= Onosco |first1= Tim |last2= Kohl |first2= Louise |last3= Kunkel |first3= Bill |author-link3= Bill Kunkel (gaming)|last4= Garr|first4= Doug |author-link4= Doug Garr|date= March 1985 |title= Random Access: Best Sellers/Recreation |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 8|issue= 12|pages= 43|issn= 0147-8907}}</ref> with ''II Computing'' listing the game second on its list of top Apple II games in October–November of the same year.<ref name="ciraolo198510_11">{{cite magazine | url=https://archive.org/stream/II_Computing_Vol_1_No_1_Oct_Nov_85_Premiere#page/n51/mode/2up | title=Top Software / A List of Favorites | magazine=II Computing | date=Oct–Nov 1985 | accessdate=28 January 2015 | author=Ciraolo, Michael | pages=51 |issue=Premiere}}</ref>
+
+''[[PC Magazine]]'' rated ''Sargon III'' 13.5 points out of 18. The reviewer criticized the "too abstractly drawn" pieces but praised the game's speed and skill, describing himself as "not a bad player" but only winning 10% of games at the lowest difficulty level.<ref name="wiswell19850108">{{cite magazine | url=https://books.google.com/books?id=iwjS--W2mG8C&pg=PA264 | title=Checkerboard Challenge | magazine=[[PC Magazine]] | date=1985-01-08 | accessdate=21 January 2015 | last=Wiswell |first=Phil | pages=263|volume=4 |number=1}}</ref>
+
+''[[Softalk]]'' said "Just the fact that ''Sargon III'' plays faster would be enough for many of the dedicated ''Sargon'' fans. But the extra added attractions figure to make this version irresistible."<ref name="softalk">{{Cite magazine|url=https://archive.org/details/softalkv4n02oct1983/page/180/mode/2up|title=Sargon III|date=October 24, 1983|publisher=Softalk Publishing |magazine=Softalk |via=Internet Archive | page=180 |volume=4 |issue=2}}</ref>
+
+Ted Salamone for ''[[Commodore Microcomputers]]'' said "''Sargon III'' is one of the best Commodore 64 chess programs available. It is suitable for everyone from raw recruits on up."<ref name="commodore">{{Cite magazine|url=https://archive.org/details/Commodore_MicroComputer_Issue_42_1986_Jul_Aug/page/n37/mode/2up| title=C64 Chess Buyer's Guide |page=35-38 |first=Ted |last=Salamone |magazine=Commodore MicroComputer|issue=42|date=July 24, 1986|publisher=Contemporary Marketing Inc.|via=Internet Archive}}</ref>
+
+Steve Panak for ''[[ANALOG Computing]]'' said "although ''Sargon III'' is an excellent program, its price makes it a best buy only for the chess enthusiast who desires a complete library."<ref name="analog">{{Cite magazine|url=https://archive.org/details/analog-computing-magazine-45/page/n93/mode/2up|magazine=Analog Computing Magazine |title=Panak Strikes |first=Steve |last=Panak |page=91-93 |issue=45|date=August 24, 1986|via=Internet Archive}}</ref>
+
+James Delson for ''[[Family Computing]]'' said "All this flexibility makes ''Sargon III'' a great and patient opponent, and a fine tutor, as well."<ref name="family">{{Cite magazine|url=https://archive.org/details/family-computing-24/page/n21/mode/2up|magazine=Family Computing Magazine| title=Games Turning the Tabletop |page=20-21 |first=James |last=Delson |date=August 4, 1985|via=Internet Archive|issue=24}}</ref>
+
+John Krause for ''[[Compute!'s Gazette]]'' said "This sequel to the popular ''Sargon II'' chess program is an even tougher opponent and adds a smorgasbord of features."<ref name="gazette">{{Cite magazine|url=https://archive.org/details/1985-04-computegazette/page/n75/mode/2up|title=Sargon III |magazine=Compute! Gazette |page=74,75 |first=John |last=Krause |date=April 7, 1985|via=Internet Archive |issue=22}}</ref>
+
+Rod Lawton for ''[[ACE (magazine)|ACE]]'' said "''Sargon'' is easy enough to use, as versatile as any – but in terms of visual appeal is somewhere back in the Dark Ages."<ref name="ace">{{Cite magazine|url=https://archive.org/details/Ace_Magazine_Issue_11a/page/n61/mode/2up|title=Sargon III Logontron's brain-mangler |date=August 1988 |magazine=Ace Magazine |page=64 |via=Internet Archive |issue=11a}}</ref>
+
+David Morganstein for ''[[InCider]]'' said "This latest version is the most sophisticated of their efforts."<ref>{{Cite magazine|url=https://archive.org/details/inCider_1984-08/page/n131/mode/2up|title=Sargon III |magazine=inCider |first=David |last=Morganstein |issue=8 |volume=2 |date=August 1984 |page=133|via=Internet Archive}}</ref>
+
+==Further reading==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' HS #3<ref>{{cite magazine | url=https://archive.org/details/jeux-et-strategie-hs-3/page/102/mode/2up | title=Grands Classiques |magazine=Jeux & Stratégie |page=102-104 | year=1986 |issue=Hors-Série 3 |lang=fr}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/1306/sargon-iii/}}
+*{{Internet Archive game|msdos_Sargon_III_1983|Sargon III}}
+*[https://archive.org/details/games-58-1984-december/page/54/mode/2up Review] in ''[[GAMES Magazine|GAMES]]'' magazine
+
+{{Sargon series}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sargon 03}}
+[[Category:1983 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Chess software]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Hayden Software games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Sargon (chess)]]
+[[Category:Video games developed in the United States]]

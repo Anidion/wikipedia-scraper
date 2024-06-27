@@ -1,0 +1,89 @@
+Zanac
+Permalink: //en.wikipedia.org/w/index.php?title=Zanac&oldid=1203974735
+Accessed on: 2024-06-26T17:01:24.726241
+
+
+
+------
+Zanac
+{{short description|Vertical scrolling shooter video game released in 1986}}
+{{distinguish|Zanax}}
+{{Use mdy dates|date=August 2021}}
+{{Infobox video game
+| title = Zanac
+| image = ZanacBoxArt.jpg
+| caption = North American NES box art
+| developer = [[Compile (company)|Compile]]
+| publisher = {{vgrelease|JP|[[Pony Canyon]]|NA|[[Fujisankei Communications International|FCI]]}}
+| designer = {{ubl|Masamitsu Niitani|Takayuki Hirono|Koji Teramoto}}
+| programmer = {{ubl|Takayuki Hirono|Masamitsu Niitani}}
+| artist = Koji Teramoto
+| composer = Masatomo Miyamoto
+| released = {{ubl|'''MSX'''{{vgrelease|JP|November 28, 1986}}|'''Famicom/NES'''{{vgrelease|JP|November 28, 1986|NA|October 1987}}|'''PlayStation''' {{vgrelease|JP|November 29, 2001}}}}
+| genre = [[Shoot 'em up]]
+| series = ''Zanac''
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[MSX]]<br>[[Family Computer Disk System]]<br>[[Nintendo Entertainment System]]<br>[[PlayStation (console)|PlayStation]]
+}}
+
+{{nihongo|'''''Zanac'''''|ザナック}} is a [[shoot 'em up]] [[video game]] developed by [[Compile (company)|Compile]] and published in [[Japan]] by [[Pony Canyon]] and in [[North America]] by [[Fujisankei Communications International|FCI]]. It was released for the [[MSX]] computer, the [[Family Computer Disk System]], the [[Nintendo Entertainment System]], and for the [[Virtual Console]]. It was reworked for the MSX2 computer as '''''Zanac EX''''' and for the [[PlayStation (console)|PlayStation]] as '''''Zanac X Zanac'''''. Players fly a lone [[spacecraft|starfighter]], dubbed the ''AFX-6502 Zanac'', through twelve levels; their goal is to destroy the ''System''—a part-organic, part-mechanical entity bent on destroying mankind.
+
+''Zanac'' was developed by main core developers of Compile, including Masamitsu "Moo" Niitani, Koji<ref name="atwiki">{{cite web|url=http://www13.atwiki.jp/game_staff/pages/184.html|title=GameStaff@wiki - JANUS寺本|publisher=13.atwiki.jp|access-date=2014-01-23|archive-url=https://web.archive.org/web/20140201223129/http://www13.atwiki.jp/game_staff/pages/184.html|archive-date=2014-02-01|url-status=live}}</ref> "Janus" Teramoto, and Takayuki<ref name="atwiki2">{{cite web|url=http://www13.atwiki.jp/game_staff/pages/200.html|title=GameStaff@wiki - 広野隆行|publisher=13.atwiki.jp|access-date=2014-01-23|archive-url=https://web.archive.org/web/20140201223132/http://www13.atwiki.jp/game_staff/pages/200.html|archive-date=2014-02-01|url-status=live}}</ref> "Jemini" Hirono. All of these developers went on to make other popular similarly based games such as ''[[The Guardian Legend]]'', ''[[Blazing Lazers]]'', and the ''[[Puyo Puyo]]'' series. The game is known for its intense and fast-paced gameplay, level of difficulty, and music which seems to match the pace of the game. It has been praised for its unique adaptive [[artificial intelligence]], in which the game automatically adjusts the difficulty level according to the player's skill level, rate of fire and the ship's current defensive status/capability.
+
+==Gameplay==
+In ''Zanac'', the player controls the spaceship ''AFX-6502 Zanac'' as it flies through various [[planet]]s, [[space station]]s, and [[outer space]] and through an [[Naval fleet|armada]] of enemies comprising the defenses of the game's main antagonist—the "System". The player must fight through twelve [[Level (video games)|level]]s and destroy the System and its defenses.<ref name="Manual1">FCI, p. 1.</ref> The objective is to shoot down enemies and projectiles and accumulate points. Players start with three lives, and they lose a life if they get hit by an enemy or projectile. After losing a life, gameplay continues with the player reappearing on the screen and losing all previously accumulated power-ups; the player remains temporarily invincible for a moment upon reappearing on the screen. The game ends when all the player's lives have been lost or after completing the twelfth and final area.<ref name="Manual3">FCI, p. 3.</ref> However, the player can earn [[Life (video games)#Extra lives|1-up]]s (extra lives) throughout the game by accumulating high point scores. ''Zanac'' has a [[Glossary of video game terms|continue]] option which allows players to restart the game from the level in which they lost all their lives.<ref name="Thomas" />
+
+The player operates a rapid-fire main cannon, which can be upgraded by collecting [[power-up]]s found in blue boxes that periodically descend from the top of the screen.<ref name="Manual10-11">FCI, pp. 10–11.</ref> As the main cannon's power level is upgraded, the number of bullets fired from the ship as well as their speed increases. In addition, the player operates a specialty weapon that is separate from the main cannon. There are eight different specialty weapons, each represented by differently-numbered power-ups. The player can change the type of specialty weapon equipped by collecting a differently-numbered power-up or can upgrade their current specialty weapon by collecting a numbered power-up that matches their current weapon. These weapons range from directional bullets to shields to indestructible projectiles.<ref name="Manual5-6">FCI, pp. 5–6.</ref> Players lose all accumulated power-ups if they lose a life.<ref>{{cite web|title=Zanax (NES Review)|url=http://www.flyingomelette.com/reviews/nes/zanac.html|publisher=Flying Omelette|access-date=2014-04-21|archive-url=https://web.archive.org/web/20140904235852/http://www.flyingomelette.com/reviews/nes/zanac.html|archive-date=2014-09-04|url-status=live}}</ref>
+
+[[File:Zanac1.png|thumb|left|Gameplay on the [[NES]] version]]
+Enemies in ''Zanac'' include [[meteoroid|meteors]], various bullet-shooting enemy aircraft, bullet-resistant disks, ground turrets, and [[reconnaissance aircraft|reconnaissance planes]].<ref>FCI, pp. 7–9.</ref> The [[boss (video games)|bosses]] consist of stationary fortresses consisting entirely of ground turrets.<ref name="Manual10">FCI, p. 10.</ref> The player must destroy all these turrets within a specified time limit to score bonus points. Every stage has one or more of these stationary fortresses. In addition, large enemy ships acting as "mini-bosses" appear throughout the game. These ships are more resistant to the player's weaponry; all bullets inflict minor damage and are repelled off the mini-bosses, which change color as they become more damaged.<ref name="Manual10" />
+
+The distinguishing aspect of ''Zanac'''s gameplay is its unique enemy [[artificial intelligence]], called the "Automatic Level of Difficulty Control" or ALC.<ref name="Thomas" /> The ALC measures the System's aggressiveness and the game's difficulty depending on the actions of the player, such as attack pattern and skill level.<ref name="Manual4">FCI, p. 4.</ref> The ALC increases for experts but decreases for inexperienced players.<ref name="Thomas" /> For instance, shooting the main cannon frequently, collecting power-ups, and failing to destroy bosses within the specified time limit increases the ALC, resulting in a greater number of tougher enemies appearing on-screen. However, actions such as losing lives, starting a new level, or destroying reconnaissance planes reduces the ALC, resulting in fewer on-screen enemies.<ref name="Manual4" />
+
+==Plot==
+[[File:Zanac MSX gameplay.png|thumb|right|Gameplay of ''Zanac'' on the [[MSX]], where the game debuted]]
+The plot of ''Zanac'' revolves around the "System"—a device figuratively similar to [[Pandora's box]]. The System was created [[millennium|millennia]] ago by an unknown alien race. It contains boundless wisdom and knowledge, as well as vast destructive potential. If properly opened it would grant access to untold wisdom and technology, but if improperly accessed it would unleash almost unlimited destruction. Mankind attempted to access the System and failed, causing the System to spread throughout space and to exert mass destruction on all forms of life, including the human race. Mankind then discovered how to properly access the knowledge and technology within the System, but could not shut its destructive expansion down because of its vast tactical systems.
+
+Moreover, the defenses of the System are designed around destroying and overcoming entire fleets. Mankind hopes that a lone starfighter may be able to slip through and penetrate the defenses of the System, allowing such a ship to fight its way into the heart of the System and destroy it. The ''AFX-6502 Zanac'', the most advanced starfighter ever produced, is launched on a desperate mission to fight its way to the heart of the System and shut it down.<ref name="Manual1" />
+
+==Release history==
+''Zanac'' was initially released in 1986 for the [[MSX]] computer by the Japanese video game company [[Compile (company)|Compile]]<ref>{{cite web |url=http://www.gamespot.com/zanac/platform/msx |title=''Zanac'' for MSX |publisher=GameSpot |access-date=2011-12-22 |archive-url=https://web.archive.org/web/20130624132718/http://www.gamespot.com/zanac/platform/msx/ |archive-date=2013-06-24 |url-status=live }}</ref>—the same company responsible for other games such as ''[[Blazing Lazers]]'', ''[[Devil's Crush]]'', and the ''[[Puyo Puyo]]'' series. Compile then re-released the game for the MSX2 computer later that same year as ''Zanac Ex'', which featured improved graphics (with smooth scrolling) and extended music over the original MSX version.<ref>{{cite web |publisher=Generation MSX |title=''Zanac-Ex'' (1986, Compile) |url=http://www.generation-msx.nl/msxdb/softwareinfo/755 |access-date=2009-06-22 |archive-url=https://web.archive.org/web/20090318115134/http://www.generation-msx.nl/msxdb/softwareinfo/755 |archive-date=2009-03-18 |url-status=live }}</ref> ''Zanac'' was then ported and heavily reworked again for release on the [[Family Computer Disk System]] in Japan on November 11, 1986,<ref>{{cite web |url=http://www.gamespot.com/zanac/platform/famicomds |title=''Zanac'' for FDS |access-date=2011-12-22 |publisher=GameSpot |archive-url=https://web.archive.org/web/20130622225829/http://www.gamespot.com/zanac/platform/famicomds/ |archive-date=2013-06-22 |url-status=live }}</ref> and then in North America for the [[Nintendo Entertainment System|NES]] in October 1987.<ref>{{cite web |title=''Zanac'' for NES |publisher=GameSpot |access-date=2011-12-22 |url=http://www.gamespot.com/zanac/platform/nes |archive-url=https://web.archive.org/web/20120207211502/http://www.gamespot.com/zanac/platform/nes/ |archive-date=2012-02-07 |url-status=live }}</ref> The NES version was later re-released for [[Wii]]'s [[Virtual Console]] service on December 3, 2007, and published by [[D4 Enterprise]]. This version is identical to the NES version released in 1987.<ref name="Mangrino">{{cite web |url=http://www.gamespot.com/news/shippin-out-december-3-7-golden-compass-alvin-and-the-chipmunks-6183568 |last=Mangrino |first=Tom |title=Shippin' Out December 3–7: ''Golden Compass'', ''Alvin and the Chipmunks'' |access-date=2011-12-22 |date=2007-12-03 |publisher=GameSpot |archive-url=https://web.archive.org/web/20120416083027/http://www.gamespot.com/news/shippin-out-december-3-7-golden-compass-alvin-and-the-chipmunks-6183568 |archive-date=2012-04-16 |url-status=live }}</ref>
+
+Compile released a compilation titled ''Zanac X Zanac'' for Sony's [[PlayStation (console)|PlayStation]] console in Japan on November 29, 2001, to commemorate the 15th anniversary of the original.<ref>{{cite web |title=''Zanac X Zanac'' for PS |publisher=GameSpot |access-date=2011-12-22 |url=http://www.gamespot.com/zanac-x-zanac |archive-url=https://web.archive.org/web/20130624154837/http://www.gamespot.com/zanac-x-zanac/ |archive-date=2013-06-24 |url-status=live }}</ref><ref>{{cite web |url=http://www.gamespot.com/zanac-x-zanac/platform/ps |title=''Zanac X Zanac'' PlayStation |access-date=2011-12-22 |publisher=GameSpot |archive-url=https://web.archive.org/web/20130622125011/http://www.gamespot.com/zanac-x-zanac/platform/ps/ |archive-date=2013-06-22 |url-status=live }}</ref> This compilation features an updated version of ''Zanac''—titled ''Zanac Neo''—and three versions of the NES version of the game, including a version featuring enhanced graphics and sound. The game features two-player cooperative gameplay as well as a remix of the game's soundtrack.<ref>{{cite web |last=Mugg |first=Charles |last2=Sheffield |first2=Brandon |title=Review: ''Zanac X Zanac'' |publisher=Insert credit |date=2002-11-02 |access-date=2009-06-22 |url=http://www.insertcredit.com/reviews/zanac/index.html |archive-url=https://web.archive.org/web/20110615081158/http://www.insertcredit.com/reviews/zanac/index.html |archive-date=2011-06-15}}</ref>
+
+A version of the game was released on the [[Nintendo Switch]] via the [[G-Mode Archives]] series in January 2021.<ref>{{cite web |title=G-MODE Archives ZANAC |website=Nintendo.com |accessdate=2023-05-22 |url=https://www.nintendo.com/store/products/g-mode-archives29-zanac-switch/}}</ref>
+
+==Reception and legacy==
+{{Video game reviews
+| Allgame = 4/5<ref name="Weiss">{{cite web |last=Weiss |first=Brett Alan |title=''Zanac'' > Review |publisher=[[Allgame]] |url=http://www.allgame.com/game.php?id=14948 |access-date=2011-12-22 |archive-url=https://web.archive.org/web/20141211100553/http://www.allgame.com/game.php?id=14948 |archive-date=2014-12-11 |url-status=live }}</ref>
+| GSpot = 7.5<ref name="Provo">{{cite web |url=http://www.gamespot.com/zanac/reviews/zanac-review-6183853 |title=Wii ''Zanac'' Review |access-date=2011-12-22 |last=Provo |first=Frank |date=2007-12-10 |publisher=[[GameSpot]] |archive-url=https://web.archive.org/web/20130413045606/http://www.gamespot.com/zanac/reviews/zanac-review-6183853/ |archive-date=2013-04-13 |url-status=live }}</ref>
+| IGN = 6.5<ref name="Thomas">{{cite web |url=http://wii.ign.com/articles/839/839646p1.html |title=''Zanac'' Review: Ask Your Doctor if Prescription ''Zanac'' is Right for You |access-date=2008-06-08 |last=Thomas |first=Lucas M. |date=2007-12-07 |publisher=[[IGN]] |archive-url=https://web.archive.org/web/20080704161126/http://wii.ign.com/articles/839/839646p1.html |archive-date=2008-07-04 |url-status=dead }}</ref>
+}}
+''Zanac'', in retrospect, has been considered a unique [[shoot 'em up]] game, combining gameplay elements from games such as [[Xevious]], especially with the extensive power-up system and vertical-scrolling gameplay that features both air and ground targets.<ref name="Provo" /> Brett Alan Weiss of [[Allgame]] praised ''Zanac'', calling it an extremely fast-paced shooter in which the player is almost completely surrounded by enemy ships and bullets. He praises the game for its music which seems to flow along with the action of the game; he calls the music "at least as close as you can get to a Zen moment while playing a shooting game on the NES".<ref name="Weiss" /> Frank Provo of [[GameSpot]] lauded ''Zanac'' for its difficulty level, its ability to handle many sprites on the screen without slowdown or other glitches, and its unique [[artificial intelligence|AI]], which placed this game in a subgenre of its own.<ref name="Provo" /> However, criticisms include mediocre and primitive music and sound, a steep learning curve in gameplay and difficulty level, and poor translation in the game itself and in the game's instruction manual.<ref name="Thomas" /> In addition, Weiss says that enemies in ''Zanac'', while fearsome, "don't have much personality".<ref name="Weiss" />
+
+==References==
+{{Reflist|2}}
+*{{Cite book |year=1986 |title=''Zanac'' Instruction Manual |publisher=[[Fujisankei Communications International|FCI]] |id=NES-ZA-USA}}
+
+==External links==
+
+{{Aleste}}
+{{Authority control}}
+
+{{DEFAULTSORT:Zanac}}
+[[Category:1986 video games]]
+[[Category:Compile (company) games]]
+[[Category:D4 Enterprise games]]
+[[Category:Famicom Disk System games]]
+[[Category:Fujisankei Communications International games]]
+[[Category:MSX games]]
+[[Category:MSX2 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:PlayStation (console) games]]
+[[Category:PlayStation Network games]]
+[[Category:Pony Canyon games]]
+[[Category:Scrolling shooters]]
+[[Category:Virtual Console games]]
+[[Category:Science fiction video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Single-player video games]]

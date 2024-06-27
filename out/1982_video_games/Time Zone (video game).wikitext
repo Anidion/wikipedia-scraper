@@ -1,0 +1,65 @@
+Time Zone (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Time_Zone_%28video_game%29&oldid=1226613450
+Accessed on: 2024-06-26T16:54:16.351367
+
+
+
+------
+Time Zone (video game)
+{{Short description|1982 video game}}
+{{for|the time concept|Time zone}}
+{{Infobox video game
+|title = Time Zone
+|image = On-Line Systems - Time Zone.jpg
+|developer = [[Sierra Entertainment|On-Line Systems]]
+|publisher = On-Line Systems
+|director = [[Roberta Williams]]
+|programmer = Rorke Weigandt<br>Drew Harrington<br>Eric Griswold
+|artist = Terry Pierce<br>Michelle Pritchard<br>Barry Blosser
+|writer = Roberta Williams
+|series = ''Hi-Res Adventure''
+|engine = ADL
+|released = 1982 (Apple II)<br>1985 (ports)
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[FM-7]], [[PC-8800 series|PC-88]], [[PC-9800 series|PC-98]]
+}}
+
+'''''Time Zone''''' is a multi-disk graphical [[adventure game]] written and directed by [[Roberta Williams]] for the [[Apple II]]. Developed in 1981 and released in [[1982 in video gaming|1982]] by On-Line Systems (later [[Sierra Entertainment]]), the game was shipped with six double-sided floppy disks and contained 1,500 areas (screens) to explore along with 39 scenarios to solve. Produced at a time when most games rarely took up more than one side of a floppy, ''Time Zone'' is one of the first games of this magnitude released for home computer systems.<ref>{{Cite magazine | date = May–June 1982 | title= Time Zone: An interview with Roberta Williams | magazine= [[Computer Gaming World]] | pages= 14–15}}</ref> Ports were released for Japanese home computers [[PC-8800 series|PC-88]], [[PC-9800 series|PC-98]] and [[FM-7]] in 1985.
+
+==Gameplay==
+''Time Zone'' allows players to travel through time and across the globe solving puzzles while meeting famous historical figures such as [[Benjamin Franklin]], [[Cleopatra]], and [[Julius Caesar]]. The game has static pictures and a text parser that understands two-word commands.
+
+==Development==
+The game used the company's existing ''Hi-Res Adventures'' engine. Roberta Williams was the designer and writer, and its development took six months and about ten other people—the first example of the modern video game-development model in which programmers, artists, and designers are separate people in a team larger than a few people—worked on the game for a year. Each of the more than 1,300 locations had its own artwork. The company hoped to release ''Time Zone'' before Christmas 1981, but did not do so until March 1982.{{r|maher20120605}} Because of the game's difficulty, Sierra offered a telephone help line that players could call for hints.{{r|EnterMag333}}
+
+==Reception==
+''[[BYTE]]'' wrote "''The [[Guinness Book of World Records]]'' must be getting ready for a computer game category, if ''Time Zone'' is any indication of things to come. Without a doubt, it is the longest adventure game to date".<ref name="byte198212">{{cite news | url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n85/mode/2up | title=The Coinless Arcade - Rediscovered | work=BYTE | date=December 1982 | access-date=19 October 2013 | author1=Clark, Pamela | author2=Williams, Gregg | pages=84}}</ref> The game received a Certificate of Merit in the category of "Best Computer Adventure" at the 4th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= March 1983 |title= Arcade Alley: The Best Computer Games |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 12|pages= 32–33|issn= 0147-8907}}</ref>{{rp|32}}
+
+Williams' brother-in-law and fellow employee, John, later said, "It frankly wasn't that good". ''Time Zone'' sold poorly; the original retail price of [[United States dollar|US]]$99 ({{Inflation|US|99|1982|fmt=eq}}) may make it the most expensive computer game in history after inflation.<ref name="maher20120605">{{cite web | url=http://www.filfre.net/2012/06/time-zone/ | title=Time Zone | work=The Digital Antiquarian | date=2012-06-05 | access-date=10 July 2014 | author=Maher, Jimmy}}</ref> The game was reissued the year of its release as part of the short-lived SierraVentures line.<ref>{{cite web | url = http://www.if-legends.org/~adventure/Sierra_On-Line,_Inc.html | title = IF-Legends.org entry on Sierra On-Line | access-date = 2007-04-27}}</ref><ref name="EnterMag333">{{cite news | url=https://archive.org/stream/enter-magazine-02/Enter_Issue_02_1983_Nov#page/n17/mode/1up | title=Escape to Adventure / These Computer Epics Let You be the Hero | work=Enter Magazine | date=November 1983 | access-date=12 March 2016 | author=Lewis, Jim | pages=16–20}}</ref>
+
+==Reviews==
+* ''[[Electronic Fun with Computers & Games]]''<ref>{{Cite web|url=http://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_02_No_04_1984-02_Fun_Games_Publishing_US|title=Electronic Fun with Computer & Games - Vol 02 No 04 (1984-02)(Fun & Games Publishing)(US)|date=February 25, 1984|via=Internet Archive}}</ref>
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #17<ref>{{Cite web|url=http://archive.org/details/jeux-et-strategie-17|title=Jeux & stratégie 17|date=October 25, 1982|via=Internet Archive}}</ref>
+* ''[[Games (magazine)|Games]]'' #46<ref>{{cite web | url=https://archive.org/details/games-46-1983-december/page/56/mode/2up | title=GAMES Magazine #46 | date=December 1983}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/time-zone|name=''Time Zone''}}
+
+{{Sierra Adventure Games|Hi-Res}}
+
+[[Category:1982 video games]]
+[[Category:Adventure games]]
+[[Category:Apple II games]]
+[[Category:FM-7 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:ScummVM-supported games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Single-player video games]]
+[[Category:Video games about time travel]]
+[[Category:Video games designed by Roberta Williams]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,89 @@
+Herzog (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Herzog_%28video_game%29&oldid=1149227358
+Accessed on: 2024-06-26T17:04:21.956719
+
+
+
+------
+Herzog (video game)
+{{Infobox video game
+| title = Herzog
+| image = Herzog game pc88.jpg
+| caption = Cover art
+| developer = [[Technosoft]]
+| publisher = Technosoft
+| released = 1988
+| genre = [[Real-time tactics]], [[Tactical shooter]]
+| modes = [[Single player]], [[Multiplayer video game|Multiplayer]]
+| platforms = [[MSX2]], [[NEC PC-8801|PC-8801]], [[Sharp X1]]
+}}
+
+{{nihongo foot|'''''Herzog'''''|ヘルツォーク|Herutsōku|lead=yes|group=lower-alpha}} ({{IPA-de|ˈhɛʁtsoːk|pron|de-Herzog.ogg}}; {{langnf|de|none|[[Herzog|Duke]]}}) is a [[strategy video game]] released by [[Technosoft]] in Japan for the [[MSX]] and [[NEC Corporation|NEC]] [[NEC PC-8801|PC-88]] computers in 1988. It was a [[real-time tactics]] and [[tactical shooter]] game with [[real-time strategy]] elements. The game served as the prototype for its sequel ''[[Herzog Zwei]]'', which was released in 1989 for the [[Sega Mega Drive]] and is often considered the first true real-time strategy game.
+
+==Overview==
+The game is centered around a fictional war between the countries of Mercies (Blue side in game) and Ruth (Red side in game). In the single player mode of the game, the player takes control of the Mercies army, whose goal is to reach and capture the headquarters of the Ruth army.
+
+Gameplay takes place among nine battlegrounds, beginning at the capital of Mercies, Vaxan. Each victory for the player brings the player's army to the next battleground and closer to Remerje, the capital of Ruth. The game ends when either the player is defeated at Vaxan, or the computer controlled army is defeated at Remerje. The game will also end if the player loses the last Land-Armor in stock (see '''Units''' below). If the player loses at a battleground other than Vaxan, the player will move backwards and complete the previous stage again.
+
+==Plot==
+Ten years prior to the game's events, President Hughes, head of the Republic of Mercies, is assassinated. The Ruth Liberian Army, a terrorist organisation led by Roger Tense, takes responsibility for the act. The previously friendly relations between Mercies and Ruth deteriorate and war breaks out. Major powers intervene in the conflict on both sides, and the war spreads to engulf the world. A decade later, Ruth's army is at the gates of Vaxan, capital of Mercies, and the war begins to draw to a close.
+
+If the player is successful and captures Remerje, capital of Ruth, the war ends and the two countries sign a peace treaty five years later.
+
+== Gameplay mechanics ==
+Each battleground is a linear path in which the player's base is located on one side and the enemy base is located on the other side. Each side has a Land-Armor that can fly in the air or travel on the ground, pick up and drop other friendly units, and attack units (including friendly ones). Each side must use their funding, which is automatically replenished at a rate of ten money units every half-second approximately, to build various units that will travel the length of the battlefield while doing battle with opposing units. If a unit successfully manages to reach the opposing end of the battlefield, the unit will cause a certain amount of damage to the enemy base. The battle is over when a side manages to damage the opposing base enough to destroy it.
+
+The visual aspect of the gameplay is represented by a vertically aligned graphical area where units are controlled in real-time, and a small horizontal radar at the top of the screen where units are represented by colored dots which scroll across the screen according to their position. At the bottom of the screen, each side has gauges the show the percentage of damage taken by their respective Land-Armors and Bases. When either reaches 100 percent damage, they will be destroyed.
+
+The gameplay in two-player mode is essentially the same as in the single player game. The graphical area is split into two sides for each player, with player one being blue and player two being red. The only major difference is that the first battle takes place at the location in the middle of the two capitals and will progress forward or backward depending on who wins, until one capital is defeated.
+<!-- Deleted image removed: [[Image:HerzogWMap.JPG|thumb|Herzog World Map]] -->
+<!-- Deleted image removed: [[Image:HerzogGScrn.JPG|thumb|Herzog Game Screen]] -->
+<!-- Deleted image removed: [[Image:HerzogUnits.JPG|thumb|Herzog Units]] -->
+
+== Units ==
+During combat, the deployable units available are as follows:
+
+'''Land-Armor''' - The Land-Armor is the most important unit in the game. Only one Land-Armor at a time can be active on the battleground and is directly controlled by the player (the other units move independently). The Land-Armor can travel on the ground or hover in the air and attack enemy ground and air units. The Land-Armor can also pick up other units and drop them a different locations. The Land-Armor's health is displayed on screen and will be replaced by another Land-Armor when destroyed. The computer controlled army has an infinite number of Land-Armors, but the player does not and must buy extras if needed. The destruction of the player's last Land-Armor results in an automatic [[Game Over|game over]].
+
+'''Soldier''' - Soldiers are fairly slow moving ground units that fire single shots at other ground enemies. Soldiers are weak and can only take one hit before being destroyed, but they are very cheap to create and when a Land-Armor picks one up, it can repair the Land-Armor at a rate of 1 percentage point per second (this is the only way to repair the Land-Armor). The Land-Armor can carry five Soldiers at a time.
+
+'''Tank''' - Tanks are the main attack unit of an army. They are fairly expensive to make and slow moving, but they can take a lot of hits before being destroyed, and do a lot of damage to bases. A Tank's rate of fire is about the same as a Soldier. The Land-Armor can carry one Tank at a time.
+
+'''AAM''' ('''A'''nti '''A'''ircraft''' M'''issile)'''-Carrier''' - AAM-Carriers are medium speed moving units that are not equipped to attack ground units. Instead, they are armed with a finite number of homing missiles that can seek and attack the enemy Land-Armor on the ground and in the air. They are the only other unit that can attack the Land-Armor in the air besides another Land-Armor. The Land-Armor can carry one AAM-Carrier at a time, and upon pressing the fire button, the Land-Armor can unleash the entire payload of homing missiles the AAM-Carrier is holding.
+
+'''Side Car''' - Side Cars are lightweight, inexpensive, motorcycle units that are fast and can reach the enemy base quickly. They also have a higher rate of fire than other units and can do damage a little faster. Their downside is that they have a low tolerance for damage. The Land-Armor can carry one Side Car at a time.
+
+'''Antitank-Gun''' - Antitank-Guns are ground turrets that must first be placed by the Land-Armor, then they attack enemies from that position. Although they are expensive and unable to move without assistance, they are very durable and have a high rate of fire, making them ideal to take out tanks as the name suggests, or to defend bases. The Land-Armor can carry one Antitank-Gun at a time.
+
+'''Grand-Slam''' - Being the most expensive unit next to the Land-Armor, the Grand-Slam missile is very powerful. It travels across the battleground very slowly, and if it successfully reaches the opposing base, it automatically destroys it with 100 percent damage. The Grand-Slam can't be seen or interacted with on the graphical area and can only be seen as a blip on the radar (the game will flash a warning when a Grand-Slam is launched). The only way to destroy a Grand-Slam is to send another Grand-Slam to collide with it on the opposite end of its path.
+
+As a final note, the player can only have a maximum of 50 units out on the battleground at a time.
+
+== Version differences ==
+The MSX2 version of the game features nine cities to fight over. The PC-88 and Sharp X1 versions have different visuals and only five contested cities. The AI scripts between the two versions also differ slightly.
+
+==''Herzog Zwei''==
+{{main|Herzog Zwei}}
+''Herzog'' served as the prototype for its more well known 1989 [[Sega Mega Drive]] sequel  ''[[Herzog Zwei]]'', which is considered the first [[real time strategy]] game. It was the first with a feature set that falls under the contemporary definition of the genre, predating the genre-popularizing ''[[Dune II]]'' (1992).<ref>{{cite web|url=http://www.strategyplanet.com/features/articles/strategypeak/|title=Are Real Time Strategy Games At Their Peak?|date=2001-05-09|website=StrategyPlanet |access-date=2011-01-22|archive-url=https://web.archive.org/web/20101115071241/http://www.strategyplanet.com/features/articles/strategypeak/|archive-date=2010-11-15}}</ref><ref name="1UP">{{cite web | url=http://www.1up.com/do/feature?cId=3134179 | title=Essential Top 50: Herzog Zwei | author=Sharkey, Scott | website=[[1UP.com|1UP]] | access-date=2007-09-27 | archive-url=https://archive.today/20120604112047/http://www.1up.com/features/essential-50-herzog-zwei | archive-date=2012-06-04 }}</ref><ref>{{cite web|url = http://www.gamespot.com/gamespot/features/all/real_time/p2_01.html|title = A History of Real-Time Strategy Games: Part I: 1989-1998|author = Geryk, Bruce | website= GameSpot|access-date=2009-01-09}}</ref>
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{moby game|id=/herzog|name=''Herzog''}}
+
+{{Sega-Sammy franchises}}
+
+[[Category:1988 video games]]
+[[Category:MSX games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Sega Games franchises]]
+[[Category:Sharp X1 games]]
+[[Category:Strategy video games]]
+[[Category:Technosoft games]]
+[[Category:Video games developed in Japan]]
+[[Category:Multiplayer and single-player video games]]

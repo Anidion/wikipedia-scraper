@@ -1,0 +1,104 @@
+Chip's Challenge
+Permalink: //en.wikipedia.org/w/index.php?title=Chip%27s_Challenge&oldid=1225723612
+Accessed on: 2024-06-26T17:05:55.642306
+
+
+
+------
+Chip's Challenge
+{{short description|1989 video game}}
+{{use dmy dates |date=October 2023}}
+{{Infobox video game
+|title = Chip's Challenge
+|image =Chip's Challenge cover.png
+|caption = Cover art
+|developer = [[Epyx]]
+|publisher = {{plainlist|
+* [[Atari Corporation|Atari]] ([[Atari Lynx]])
+* [[U.S. Gold]] ([[Atari ST]], [[Amiga]], [[ZX Spectrum]])
+* [[Epyx]] ([[MS-DOS]])
+* [[Microsoft Home]] ([[Microsoft Windows|Windows]])
+* Pixel Games UK ([[Nintendo Switch]])
+}}
+|designer = Chuck Sommerville
+|programmer = Chuck Sommerville
+|artist = Paul Vernon
+|composer = Robert Vieira<br>Alex Rudis
+|engine =
+|released = 1989
+|genre = Puzzle
+|modes = [[Single-player]]
+|platforms = [[Microsoft Windows|Windows]], [[MS-DOS]], [[Atari Lynx]], [[Atari ST]], [[Amiga]], [[Commodore 64]], [[ZX Spectrum]], [[Amstrad CPC]], [[Nintendo Switch]]
+}}
+
+'''''Chip's Challenge''''' is a top-down [[Tile-based video game|tile-based]] [[puzzle video game]] originally published in 1989 by [[Epyx]] as a launch title for the [[Atari Lynx]]. It was later ported to several other systems and was included in the [[Windows 3.1]] bundle ''[[Microsoft Entertainment Pack|Microsoft Entertainment Pack 4]]'' (1992), and the Windows version of the ''[[Microsoft Entertainment Pack#The Best of Microsoft Entertainment Pack|Best of Microsoft Entertainment Pack]]'' (1995), where it found a much larger audience.<ref name=orland/>
+
+The original game was designed by developer Chuck Sommerville, who also made about a third of the levels.<ref name=chuck_note>{{cite web|url=http://www.agt.net/public/nfield/ChipChallenge/message.htm|archive-url=https://web.archive.org/web/20160405003215/http://www.agt.net/public/nfield/ChipChallenge/message.htm|url-status=dead|archive-date=5 April 2016|title=Message from Chuck Sommerville on Richard Field's Chip's Challenge Page|access-date=19 April 2007}}</ref> Most of the conversions from the Atari Lynx original to other formats were carried out by [[Climax Studios|Images Software]] in the [[United Kingdom|UK]].
+
+The game was re-released on [[Steam (service)|Steam]] on May 28, 2015, along with a sequel, '''''Chip's Challenge 2''''', which was also designed by Sommerville.
+
+==Gameplay==
+[[File:LYNX Chip's Challenge.png|thumb|left|Atari Lynx version screenshot]]
+The premise of the game is that high-school nerd Chip McCallahan has met Melinda the Mental Marvel in the school science laboratory and must navigate through Melinda's "Clubhouse", a series of increasingly difficult puzzles, in order to prove himself and gain membership to the very exclusive Bit Busters Club.
+
+''Chip's Challenge'' consists of a series of 148 two-dimensional levels (149 in Microsoft's version) which feature the player character, Nerdy Chip McCallahan,<ref>{{cite web|url=http://www.atarihq.com/reviews/lynx/chips_challenge.html|title=AGH Lynx Review - Chip's Challenge|publisher=AGH|access-date=6 May 2012}}</ref> often called just Chip, and various game elements such as computer chips, buttons, locked doors, water and lethal monsters. Gameplay involves using arrow keys, [[numeric keypad]] or [[computer mouse|mouse]] to move Chip about each of the levels in turn, collecting enough [[integrated circuit|chip]]s to open the chip socket at the end of each level, get to the exit, and move on to the next level.
+
+While the same set of rules applies to each level, there are many different kinds of levels. Some are action-oriented and some are puzzle-oriented. Most levels have a time limit. Levels may include block-pushing puzzles (similar to [[Sokoban]]), dodging enemies, and moving through mazes. Levels can be skipped by entering an appropriate four-letter non-case-sensitive [[password]]. For the PC versions, game progress is automatically saved.  If the player has a lot of trouble with a level, the game gives the option to skip to the next level. Progress is measured in terms of completed levels and player score, which is a sum of the scores obtained on each level. Level scores for timed levels can be improved by quickly completing the level, and scores on all levels can be improved by using fewer attempts to complete the level.
+
+==Development==
+In 1989, Sommerville led a team of programmers at Epyx to write ''Chip's Challenge'' for [[Atari Lynx]] during a ten-week idle period shortly before that system's launch.<ref name=orland/> Sommerville originally developed a crude prototype of the game on an [[Apple II series|Apple II]] to develop the game's logic and to demonstrate to Epyx that it would be fun. Sommerville designed about a third of the levels, Bill Darrah designed another third, and the rest were developed by other Epyx staff.<ref name=chuck_note/>
+
+[[File:Chip's Challenge.png|thumb|left|Screenshot of the Windows version]]
+''Chip's Challenge'' was ported to several other systems, including the [[Atari ST]], [[Amiga]], [[Commodore 64]], [[ZX Spectrum]],<ref>{{cite web|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0000937 |title=Chip's Challenge |publisher=World of Spectrum |access-date=2014-06-21}}</ref> [[MS-DOS]], and [[Microsoft Windows|Windows]]. Most of the conversions from the Atari Lynx original to other formats were carried out by [[Climax Studios|Images Software]] in the [[United Kingdom|UK]], except for the Microsoft Windows version.
+
+Microsoft licensed ''Chip's Challenge'' from Epyx for a Windows 3.1 version of the game, developed by Microsoft under the direction of [[Tony Garcia (video game producer)|Tony Garcia]].<ref name=chuck_note/> It was coded by Tony Krueger, with artwork by Ed Halley.<ref>[[About box]] from the game</ref> Entering "TONY" as a password will bring the player to a level that credits the "[[Microsoft Entertainment Pack|WEP]] 4 test team" in the hint for that level and also contains different tiles that spell out developer names, including Doug T., Rob D., Ed H., and Lisa F.<ref>Level 145 ("Thanks to...")</ref> According to Doug, a former roommate of Krueger's and one of the testers for the game, it was written in a single summer.<ref>{{cite web|url=http://www.abandonia.com/vbullet/showpost.php?p=223121&postcount=45|title=Forums - View Single Post - Chip's Challenge|website=www.abandonia.com|access-date=28 November 2018}}</ref>
+
+The Microsoft version was included in the fourth ''[[Microsoft Entertainment Pack]]'' and ''[[Best of Microsoft Entertainment Pack]]''. This version had significantly different sound and graphics, but became very popular due to the success of the Microsoft Entertainment Pack. The sequel, ''Chip's Challenge 2'' would be based on this version.
+
+[[Bulletin board system|BBS]] and early Internet forums dedicated to the Microsoft version allowed users to share home-made level editors and unofficial expansion packs, which was an early example of software [[Mod (video gaming)|modding]].<ref name=orland/>
+
+==Reception==
+[[File:Tile world level1.jpg|thumb|right|200px|''Tile World'' is an open source clone]]
+
+''[[STart (magazine)|STart]]''{{'}}s [[Clayton Walnum]] remarked, "If there's one game that will sell Lynxes, ''Chip's Challenge'' is it." He applauded the consistently high quality of the puzzles, saying that each one is "a visual and intellectual delight."<ref>{{cite magazine |first=Clayton|last=Walnum|author-link=Clayton Walnum|title=The Lynx Collection|magazine=[[STart (magazine)|STart]]|issue=39 |publisher=Antic Publishing |date=December 1990|page=67 |url=https://archive.org/stream/STart-Magazine-Issue-39}}</ref> ''[[Computer Gaming World]]'' called ''Chip's Challenge'' a [[casual game]] with "a set of addicting, puzzle solving levels ... a quick fix for testing the acceleration speed of one's brain".<ref name="cgw199209">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=98 | title=Welcome To Gaming Lite | magazine=Computer Gaming World | date=September 1992 | access-date=3 July 2014 | pages=74}}</ref>
+
+''[[The One (magazine)|The One]]'' reviewed the Amiga version of ''Chip's Challenge'' in 1990, giving it an overall score of 88%, and expressing that while "It might not look or sound like much, but ''Chip's Challenge'' packs a very addictive punch. The iconic graphics are colorful but little more than functional, and the musical accompaniment is inoffensive if endlessly repetitive - but in this game, frills don't count." ''The One'' praises ''Chip's Challenge's'' gameplay, calling it "a puzzle player's dream", expressing that the game's puzzles require "quick thinking" and "experimentation", and further praises their difficulty.<ref name=theone>{{cite magazine|title = Chip's Challenge Amiga Review|date = December 1990|url = https://archive.org/details/theone-magazine-27/page/n119/mode/2up|magazine = The One|publisher = emap Images|last = Houghton|first = Gordon|issue = 27|pages = 120–121}}</ref>
+
+==Sequel==
+Prompted by the popularity of the Microsoft releases, Sommerville created a sequel, ''Chip's Challenge 2'', in 1999. Sommerville was unable to release it independently, as the trademark was owned by Bridgestone Multimedia Group. Bridgestone, a Christian publishing company, had purchased Epyx's assets when that company folded in order to acquire Bible software produced by the company. Bridgestone had little experience with the video game industry, and required that Sommerville pay a six-figure fee for the right to publish the game, which was not consistent with industry norms. Sommerville resumed negotiations in 2010 and, after five years, Bridgestone and Sommerville's company Niffler released ''Chip's Challenge 2'' via [[Steam (service)|Steam]] on May 28, 2015, alongside a Steam release of the original game and a level editor.<ref name=orland>{{cite news|last1=Orland|first1=Kyle|title=How an early '90s Windows gaming classic was unearthed after years in limbo|url=https://arstechnica.com/gaming/2015/06/how-an-early-90s-windows-gaming-classic-was-unearthed-after-years-in-limbo/|access-date=25 July 2015|work=Ars Technica|date=9 June 2015}}</ref><ref name=grayson>{{cite news|last1=Grayson|first1=Nathan|title=23 Years After It Was Made, Chip's Challenge 2 Is Finally Out|url=http://www.kotaku.co.uk/2015/05/28/23-years-after-it-was-made-chips-challenge-2-is-finally-out|access-date=25 July 2015|work=Kotaku|date=28 May 2015}}</ref>
+
+During the negotiation period, Sommerville's company Niffler also developed other similar puzzle games. ''Chuck's Challenge'' was released in 2012<ref>{{cite web|url=http://www.ChucksChallenge.com/ |title=Chuck's Challenge - about |publisher=Chuckschallenge.com |access-date=2014-06-21}}</ref> for [[iOS]] systems from the [[iTunes Store]].<ref>{{cite web|url=https://itunes.apple.com/app/chucks-challenge/id409315637?mt=8 |title=Chuck's Challenge on the App Store on iTunes |publisher=Itunes.apple.com |date=2013-01-23 |access-date=2014-06-21}}</ref> The game was later licensed by [[Cartoon Network]] as the basis for a series of official ''[[Ben 10]]'' games called ''Ben 10 Game Generator''.<ref name=orland/>
+
+''Chuck's Challenge 3D'' (2014) was funded through [[Kickstarter]],<ref name=orland/> and released for Windows, Mac, and Linux on Steam,<ref>{{cite web |url=http://store.steampowered.com/app/262590 |title=Chuck's Challenge 3D on Steam |publisher=[[Steam (service)|Steam]] |access-date=2014-06-21}}</ref> and for [[Android (operating system)|Android]] on [[Google Play]].<ref>{{cite web|url=https://play.google.com/store/apps/details?id=com.niffler.chuckschallenge3d&referrer= |title=Chuck's Challenge 3D - Android Apps on Google Play |date=2013-12-15 |access-date=2014-06-21}}</ref><ref>{{cite web|last=Davison|first=Pete|title=Chuck's Challenge 3D PC Review: Just Like Chuck Used to Make|url=http://www.usgamer.net/articles/chucks-challenge-3d-pc-review-just-like-chuck-used-to-make|work=USGamer|date=28 February 2014|access-date=8 March 2014|archive-date=29 July 2022|archive-url=https://web.archive.org/web/20220729162735/https://www.usgamer.net/articles/chucks-challenge-3d-pc-review-just-like-chuck-used-to-make|url-status=dead}}</ref> The game was also a launch title for the [[Nvidia Shield]].<ref>{{cite web |date=14 May 2013 |last=Dodge |first=Jordan |title=5 Cutting-Edge Games That Will Rock NVIDIA SHIELD |url=http://blogs.nvidia.com/blog/2013/05/14/5-games-shield/ |url-status=dead |website=nvidia.com |archive-url=https://web.archive.org/web/20130813130215/http://blogs.nvidia.com/blog/2013/05/14/5-games-shield/ |access-date=8 March 2014|archive-date=13 August 2013 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MobyGames|id=/chips-challenge}}
+*{{WoS game|id=0000937}}
+
+{{Subject bar|Video games|auto=yes}}
+{{Authority control}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Android (operating system) games]]
+[[Category:Atari Lynx games]]
+[[Category:Cancelled Nintendo Entertainment System games]]
+[[Category:Casual games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Epyx games]]
+[[Category:MacOS games]]
+[[Category:Microsoft Entertainment Pack]]
+[[Category:Mobile games]]
+[[Category:Puzzle video games]]
+[[Category:Single-player video games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Alex Rudis]]
+[[Category:Video games scored by David Whittaker]]
+[[Category:Windows games]]
+[[Category:ZX Spectrum games]]

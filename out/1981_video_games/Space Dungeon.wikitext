@@ -1,0 +1,103 @@
+Space Dungeon
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Dungeon&oldid=1224500399
+Accessed on: 2024-06-26T16:52:38.190478
+
+
+
+------
+Space Dungeon
+{{Short description|1981 video game}}
+{{More citations needed|date=March 2007}}
+{{Infobox video game
+|title     = Space Dungeon
+|image     = Space Dungeon Coverart.png
+|caption   = Atari 5200 box cover
+|developer = [[Taito]]
+|publisher = Taito<br>[[Atari, Inc.]] (5200)<ref name="mania">{{cite web |title=Atari 5200 Space Dungeon |url=http://www.atarimania.com/game-atari-5200-space-dungeon_14916.html |website=Atari Mania}}</ref>
+|designer  = Rex Battenberg<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|programmer = '''Arcade'''<br>Rex Battenberg<br>'''Atari 5200'''<br>Allen Merrell<br>Eric Knopp<ref name=mania/>
+|released  = '''1981:''' Arcade<br>'''1983:''' Atari 5200
+|genre     = [[Multidirectional shooter]]
+|modes     = 1-2 players alternating turns
+|arcade system = 
+|platforms = [[Arcade video game|Arcade]], [[Atari 5200]]
+}}
+
+'''''Space Dungeon''''' is a [[multidirectional shooter]] released as an arcade video game by [[Taito]] in 1981.<ref>{{Cite web |title=Space Dungeon - Videogame by Taito |url=https://www.arcade-museum.com/game_detail.php?game_id=9648 |access-date=2023-10-24 |website=www.arcade-museum.com}}</ref><ref>{{Cite web |title=Space Dungeon, Arcade Video game by Taito America Corp. (1981) |url=https://www.arcade-history.com/?n=space-dungeon&page=detail&id=2526 |access-date=2023-10-24 |website=www.arcade-history.com}}</ref> Designed and programmed by Rex Battenberg, it was available both as a conversion kit and full arcade cabinet. An [[Atari 5200]] port was published in 1983.
+
+Like ''[[Robotron: 2084]]'' (1982), but preceding the release of that game, the controls are a pair of 8-directional joysticks: one for moving, one for shooting. ''Space Dungeon'' is one of the first [[twin-stick shooter]]s, released the same year as ''Mars'' from Artic Electronics.<ref>{{cite web|title=Mars|url=https://flyers.arcade-museum.com/?page=flyer&db=videodb&id=650&image=1|website=The Arcade Flyer Archive|publisher=Artic Electronics}}</ref>
+
+== Gameplay ==
+{{Unreferenced section|date=October 2020}}
+[[Image:ARC Space Dungeon.png|thumb|left|The player's green octagon on the left fighting four enemies.]]
+
+Each level of ''Space Dungeon'' consists of 36 rooms arranged in a six-by-six grid. Rooms are connected by open doorways of various sizes. One room in each level is the entrance, where the player begins, and another is the "Collect Bonus" room. Other rooms may or may not contain laser defenses, hostile aliens, or various bits of treasure.
+
+The goal in each level is to navigate using an [[automap]] to the room containing the "Collect Bonus" area, visiting as many rooms and collecting as much treasure as possible along the way.
+
+The player's only weapon is a laser cannon, which fires a pulsing, solid beam in any of eight directions.
+
+Higher scores are awarded for exiting each level with more treasures. A 10,000-point bonus is awarded if the player visits every single room on the level, whether or not all treasures on the level have been collected. Since an extra ship is awarded to the player every 10,000 points, this, and the large point values of the treasures (especially the later ones) created an interesting tension between securing the treasures already collected or risking losing ships to acquire more.
+
+If the player's ship collides with an enemy or any of their spore shots before reaching the "Collect Bonus" cube, all collected treasure is dropped in the room where the ship was destroyed. This room is designated on the map by an "X".
+
+=== Levels ===
+The game counts from level 1 to 99, and upon completing 99, rolls over to zero. Levels two through nine, and then levels that are a multiple of one hundred, are preceded by a rhyme:
+
+* The Thief's in view on level 2
+* More to see on level 3
+* Watch each door on level 4
+* Stay alive on level 5
+* Watch for tricks on level 6
+* It's not heaven on level 7
+* Meet thy fate on level 8
+* You're doing fine on level 9
+
+On reaching level 10, the game then displays "Sorry. No more rhymes." No further messages appear until the player rolls-over the level counter by completing level 99. At level 100, the level counter resets to zero, and the message displayed is "You're a hero on level zero."  Thus this same "level zero" message will be repeated every hundredth level.
+
+===Enemies===
+* '''Piker (100 points)'''. Slow-moving, spiked ships that attempt to collide with the player's ship. The player's laser must hit the core of a Piker to destroy it. Shooting of its spikes [confusingly called a "Piker (shield)"] awards 10 points each. If a Piker is left with its core intact, even if some of its spikes have been destroyed, then the entire Piker will be restored if the player leaves the room and returns.
+* '''Corner Zapper (25 points)'''. These always appears in sets of four, one in each corner of the room.  They fire beams randomly and intermittently between different pairs, and the player's ship is destroyed if it gets caught in the crossfire. If any Corner Zappers are left intact when the player exit a room, all will spontaneously regenerate upon the player's return to that room.
+* '''Deathsquare (25 points)'''. Slow-moving obstacles. A single shot will destroy them.
+* '''Guard (125 points)'''. These red creatures tend to be found near treasure items, and mimic the player's movements, though at a slower speed, while shooting spores at the player.
+* '''Executioner (125 points)'''. These creates actively chase the player, firing spores and attempting to collide with the player's ship.
+* '''Enforcer (250 points)'''. These enemies, looking vaguely like a smiley face, will materialize in a room and charge at the player.  It takes several shots to destroy an Enforcer, making it a high-priority target.  If the player moves into another room with an Enforcer on the screen, the Enforcer will appear in the new room at the same location, and resume its charge.
+* '''Spore Case (500 points)'''. Spore cases neither shoot at the player nor move toward him, but if the player shoots one, it will spit out three spores, often in the direction of the player's ship.  Spore Cases appear spontaneously after a short delay in all rooms, with more Spore Cases appearing over time, up to a total of four.  Spore Cases first appear on level 3.
+* '''Thief (50 points)'''. The Thief moves around the dungeon autonomously and picks up treasure, but the player cannot kill him. When the player shoots him, he drops any treasure that he might be carrying and changes directions. He may also leave behind Guards if shot multiple times.  The Thief first appears on level 2.
+
+===Treasures===
+* '''Iron Cross (500 points)'''. Appears as a red cross.
+* '''Copper Piece (1000 points)'''. Appears as a red barbell.
+* '''Silver Star (2000 points)'''. Appears as a white star.
+* '''Golden Fleece (4000 points)'''. Appears as a white circle with a glowing middle.  First appears on level 4.
+* '''Platinum Ark (8000 points)'''. Appears as a glowing circle with a white "I" in the middle.  First appears on level 6.
+
+==Ports==
+
+The only contemporary home version of ''Space Dungeon'' was for the [[Atari 5200]] system in 1983.  The game cartridge came prepackaged with a dual-controller holder, allowing players to snap two stock controllers in and play like in the arcade. The game differs from the arcade original in that most of the objects are approximately four times the size, spores can be launched by enemies only in the eight ordinal directions, and the enemies are less aggressive.
+
+==Reception==
+{{Video game reviews
+| Allgame = {{rating|4.5|5}} (Atari 5200)<ref>{{Cite web |last=Brett Alan Weiss |title=Space Dungeon (Atari 5200 Review |url=http://www.allgame.com/game.php?id=16912&tab=review |url-status=dead |archive-url=https://web.archive.org/web/20141114201401/http://www.allgame.com/game.php?id=16912&tab=review |archive-date=November 14, 2014 |access-date=August 6, 2022 |website=Allgame}}</ref>
+}}
+The Atari 5200 version of ''Space Dungeon'' was reviewed by ''[[Video (magazine)|Video]]'' magazine in its "Arcade Alley" column where it was described as "such a triumph that not even the questionable 5200 controllers can spoil the fun."<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= November 1983 |title= Arcade Alley: Wintertime Winners |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 8|pages= 38–39|issn= 0147-8907}}</ref>{{rp|38}} Dawn Gordon of ''MicroKids'' called the port "yet another Atari Supersystem standout."<ref>{{cite journal |journal=MicroKids |title=Rating the New Games for Christmas |date=December 1983 |volume=1 |issue=1 |last1=Gordon |first1=Dawn |url=https://archive.org/details/MicroKids_Issue_01_Volume_01_No_01_1983-12_Microkids_Publishing_US |page=[https://archive.org/details/MicroKids_Issue_01_Volume_01_No_01_1983-12_Microkids_Publishing_US/page/n60 59]}}</ref> In 1995, [[Flux (magazine)|Flux]] magazine ranked the Atari 5200 version 64th on their "Top 100 Video Games."<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=31}}</ref>
+
+==Legacy==
+''Space Dungeon'' was later released as part of the [[PlayStation Portable]] collection ''[[Taito Legends Power-Up]]''.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{KLOV game|id=9648}}
+*{{atarimania|id=14916}}
+*[http://www.atariage.com/manual_thumbs.html?SoftwareLabelID=661 Atari 5200 manual] at AtariAge
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 5200 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Taito arcade games]]
+[[Category:Twin-stick shooters]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,54 @@
+SubRoc-3D
+Permalink: //en.wikipedia.org/w/index.php?title=SubRoc-3D&oldid=1193127069
+Accessed on: 2024-06-26T16:54:11.193259
+
+
+
+------
+SubRoc-3D
+{{Short description|1982 video game}}
+{{Infobox video game
+|title= SubRoc-3D
+|image= Subroc 3d poster.jpg
+|caption= 
+|developer= {{ubl | [[Sega]] | [[Matsushita Electric]]<ref name="GM185"/>}}
+|publisher= Sega
+|director= Shikanosuke Ochi<ref name="GM185"/>
+|platforms= [[Arcade video game|Arcade]], [[ColecoVision]]
+|released= {{vgrelease|JP|March 1, 1982<ref name="Copyright"/>|NA|August 1982<ref name="cashbox"/>|EU|January 1983<ref name="CVG Review"/>}}
+|genre= [[Shooter game|Shooter]]
+|modes= [[Single-player video game|Single-player]]
+}}
+
+'''''SubRoc-3D''''' (サブ・口ック3D ''SabuRokku-3D'') is a first-person [[Arcade video game|arcade]] [[shooter game]] released in 1982 by [[Sega]]. It is the first commercial video game in [[Stereoscopic video game|stereoscopic 3-D]], using a [[periscope]]-shaped display with a different image for each eye. It was jointly developed by Sega and [[Matsushita Electric]] (now Panasonic), who developed its [[active shutter 3D system]].<ref name="GM185"/><ref name="GM193"/> The game has stereo sound, and also changes the backdrop to reflect day, night, dawn, and dusk.<ref name="CVG Review"/>
+
+The game was a commercial success for Sega in arcades. It was adapted for [[ColecoVision]], as '''''SubRoc''''', with simulated 3D effects, by Arnold Hendrick and Philip Taterczynski of the Coleco game design staff, with programming by David Wesely of 4D Interactive Systems.{{citation needed|date=October 2015}}
+
+==Hardware==
+The [[stereoscopic 3D]] effect is achieved with an [[active shutter 3D system]].<ref name="GM185">{{cite magazine|title=Overseas Readers Column: World's First 3D Video Game Unveiled - Developed Jointly By Sega and World-famous Matsushita|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=185|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=April 1, 1982|page=30|lang=ja|url=https://onitama.tv/gamemachine/pdf/19820401p.pdf}}</ref> It uses a special eyepiece,<ref name=KLOV>{{KLOV game|9856|SubRoc-3D}}</ref> a viewer with spinning discs to alternate left and right images to the player's eyes from a single monitor.<ref name=Perron>Bernard Perron & Mark J. P. Wolf (2008), ''Video game theory reader two'', [https://books.google.com/books?id=oe0zNalKkTgC&pg=PA158 p. 158], [[Taylor & Francis]], {{ISBN|0-415-96282-X}}</ref> The player's face is pressed against the eyepiece, which is shaped like a [[submarine]] [[periscope]] and attached to a controller below. The game's pseudo-3D visuals are created with scaled sprites using the [[List of Sega arcade system boards#Arcade system boards|VCO Object]] hardware, previously used in Sega's 1981 racing game ''[[Turbo (video game)|Turbo]]''.<ref>{{cite web|title=VCO Object|url=http://segaretro.org/VCO_Object#SubRoc-3D_Specifications|website=Sega Retro|date=17 August 2019 }}</ref>
+
+==Development and release==
+The game's active-shutter 3-D technology was developed by [[Matsushita Electric]] (now Panasonic) for a [[3D television]] they had developed in the late 1970s and unveiled in 1981. The game began development around 1980, when Sega and Matsushita began discussing a "Stereo Viewer System" to adapt Matsushita's 3D television for video game use. Sega's director of technology for the project was Shikanosuke Ochi, who previously led the development of 1966 arcade [[electro-mechanical game]] ''[[Periscope (arcade game)|Periscope]]''. At the Amusement & Music Operators Association (AMOA) show in 1981, [[3D image]]s from the game were demonstrated on [[video tape]].<ref name="GM185"/>
+
+Sega held a press conference on February 20, 1982 and demonstrated the first trial unit at the NOA Expo on March 1, 1982,<ref name="GM185"/><ref name="GM193">{{cite magazine|title=Overseas Readers Column: "Subroc-3D" Now Released - Sega/Esco Private Show Held|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=193|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=August 1, 1982|page=26|lang=ja|url=https://onitama.tv/gamemachine/pdf/19820401p.pdf}}</ref> the date when the game was first published.<ref name="Copyright">{{cite web |title=SubRoc-3D |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=13 May 2021}}</ref> Several game changes were made before it entered mass-production in Japan on July 2, 1982,<ref name="GM193"/> in North America in August 1982,<ref name="cashbox">{{cite magazine |title=Manufacturers Equipment |magazine=[[Cash Box]] |date=5 February 1983 |page=35 |url=https://archive.org/details/cashbox44unse_33/page/n34 |publisher=Cash Box Pub. Co.}}</ref> and in Europe by January 1983.<ref name="CVG Review">{{cite magazine |title=The Sea-Scape With a 3D Feel: Subroc-3D |magazine=[[Computer and Video Games]] |date=January 16, 1983 |issue=16 (February 1983) |publisher=[[EMAP]] |location=United Kingdom |pages=30–1 |url=https://www.solvalou.com/arcade/reviews/173/479}}</ref>
+
+==Reception==
+The game was a commercial arcade success for Sega in 1982.<ref>{{cite magazine |last1=Compasio |first1=Camille |title=Around The Route |magazine=[[Cash Box]] |date=November 20, 1982 |page=37 |url=https://worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1982/CB-1982-11-20.pdf#page=37}}</ref>
+
+''[[Computer and Video Games]]'' magazine gave the arcade version a generally favorable review, for providing a "3D feel" and further advancing the "3D look" of ''[[Zaxxon]]'' (1982).<ref name="CVG Review"/> Ray Dimetrosky of ''Computer Games'' magazine gave the [[ColecoVision]] port a B rating, stating that the graphics are "particularly impressive" but otherwise calling it "an above average [[shoot 'em up]]".<ref>{{cite magazine |last1=Dimetrosky |first1=Ray |title=Reviews: Video Game Buyer's Guide |magazine=Computer Games |date=April 1984 |volume=3 |issue=1 |pages=60–2 |url=https://archive.org/details/Computer_Games_Vol_3_No_1_1984-04_Carnegie_Publications_US/page/n59/mode/2up}}</ref>
+
+==References==
+{{reflist}}
+
+==See also==
+* ''[[Periscope (arcade game)|Periscope]]'', Sega's electromechanical submarine periscope game of the 1960s
+
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:ColecoVision games]]
+[[Category:Sega video games]]
+[[Category:Sega arcade games]]
+[[Category:Submarine simulation video games]]
+[[Category:Video games with stereoscopic 3D graphics]]
+[[Category:Video games developed in Japan]]
+[[Category:Single-player video games]]

@@ -1,0 +1,117 @@
+Adventure Construction Set
+Permalink: //en.wikipedia.org/w/index.php?title=Adventure_Construction_Set&oldid=1218439136
+Accessed on: 2024-06-26T16:56:16.096713
+
+
+
+------
+Adventure Construction Set
+{{Short description|1984 game creation system}}
+{{More citations needed|date=July 2023}}
+{{Infobox video game
+|title = Adventure Construction Set
+|image = Adventure construction set.jpg
+|caption =
+|developer = Stuart Smith<br>Fantasia Systems (Amiga)
+|publisher = {{vgrelease|NA|[[Electronic Arts]]|EU|[[Ariolasoft]]}}
+|designer =
+|programmer =
+|artist =
+|composer =
+|platforms = [[Amiga]], [[Apple II series|Apple II]], [[Commodore 64]], [[MS-DOS]]
+|released = '''1984:''' C64<br>'''1985:''' Apple II<br>'''1986:''' Amiga<br>'''1987:''' MS-DOS
+|genre = [[Adventure game|Adventure]], [[game creation system]]
+|modes = [[Single-player]], [[multiplayer]]
+}}
+
+'''''Adventure Construction Set''''' (ACS) is a [[game creation system]] written by Stuart Smith that is used to construct [[Tile-based video game|tile-based]] graphical [[adventure game]]s. ''ACS'' was published by [[Electronic Arts]] in 1984 for the [[Commodore 64]], then for the [[Apple II series|Apple II]], [[Amiga]], and [[MS-DOS]]. Smith previously developed several commercial adventure games of a similar style, such as ''[[Ali Baba and the Forty Thieves (video game)|Ali Baba and the Forty Thieves]]'' (1981).
+
+''ACS'' provides a graphical editor for the construction of maps, placement of creatures and items, and menu-based scripting to control game logic. A constructed game is stored on its own disk which can be copied and shared with friends; games exported from the Amiga version still require ACS to play.  A complete game is included: ''Rivers of Light'', based on the ''[[Epic of Gilgamesh]]''. The [[Amiga]] version has an additional pre-made adventure called "Galactic Agent" by [[Ken St. Andre]].
+
+[[Todd Howard (video game designer)|Todd Howard]] revealed that when [[Bethesda Game Studios|Bethesda]] started making ''[[The Elder Scrolls III: Morrowind|Morrowind]]'', he was excited about making a tool like  Stuart Smith's ''Adventure Construction Set'' for the Apple II.<ref name="PES">{{citation|date=March 19, 2007 |author=APY |publisher=Planet Elder Scrolls |url=http://planetelderscrolls.gamespy.com/View.php?view=Articles.Detail&id=51 |archive-url=https://web.archive.org/web/20070322193221/http://planetelderscrolls.gamespy.com/View.php?view=Articles.Detail&id=51 |url-status=dead |archive-date=March 22, 2007 |title=Todd Howard Exclusive Interview, The Elder Scrolls IV Shivering Isles |pages=1 |accessdate=August 6, 2011}}</ref>
+
+==Gameplay==
+Gameplay features of ''Adventure Construction Set'' include:
+* Turn-based system.
+* Up to four players may play.
+* A player character can be imported from another adventure, but the character might not retain the same graphic tile if the new adventure uses a different tile set.
+* Music and sound.
+* Random encounters.
+* Spells.
+* Range and melee combat.
+* Along with graphic tiles, text screens are also available for conveying information.
+* Creatures which behave as player-mimics, copying various traits and equipment of the player.
+* Shops.
+
+==Construction system==
+[[Image:ACS rashid01.png|thumb|A room built with a custom tile set (Amiga)]]
+
+''Adventure Construction Set'' was designed to make tile-based graphical adventure games similar to author Stuart Smith's earlier games ''[[The Return of Heracles]]'' and ''[[Ali Baba and the Forty Thieves (video game)|Ali Baba and the Forty Thieves]]''.
+
+The framework of an adventure built within ''ACS'' is organized into the following main categories:
+* "World map": This is the top-level map from which characters begin their adventure. The world map differs from other playable areas of the game in that it has no fixed creature encounters, no stacked tiles, quicker movement, it is scrollable, and it optionally may wrap around (have no borders). Random encounters may occur on the world map, during which the game switches to a special view similar to a "room" to handle the encounter.
+* "Regions": A region is a collection of rooms. A region is a construction concept and does not present itself to the player, except by indirect means such as disk access when traveling between regions.
+* "Rooms": A room is a rectangular, tiled area of a size which must fit within the game's viewport. Tiles may be used to make a room look like shapes other than rectangular.
+* "Things": A thing is a background tile, obstacle, or collectible item.
+* "Creatures"
+* "Pictures": These are art assets used by the tiles. For some platforms, four colors are available for images. For the [[Amiga]] platform, 32 colors are available, each of which can be assigned to be any of 4096 available colors.
+
+Tiles may be stacked. Only the top tile of a stack may be directly interacted with by the player, but special tiles allow for game-logic to be implemented via the stack. For example, a tile may be set to "Activate All Things at This Place".<ref name="manual">David Grady, "Stuart Smith's Adventure Construction Set - The Manual", [[Electronic Arts]], 1984</ref> Tiles may also allow or disallow interaction based on the contents of the player's inventory, or activate if a specific object is dropped on top of the stack.
+
+Spell-effects may be attached to Things.
+
+The game allows for somewhat varied monster AI behavior. A creature may be specified to behave solely as a "fighter" or "slinker", or adjust its temperament based on its condition. In addition, it may be specified as either an "enemy", "friend", "neutral", or "thief", with a total of 8 possible behavioral patterns expressed.
+
+There are maximum quotas applied to most categories in the game (including the total number of unique things, text messages, pictures, regions, creatures per region, things per region, and rooms per region). These limits restrict the size of adventures. For example, each adventure can contain up to 15 regions and each region can contain up to 16 rooms.<ref name="manual"/>
+
+''ACS'' included a framework for fantasy adventures, as well as starter toolkits for fantasy, futurist, and "spy" game genres.
+
+===Auto-Construct Feature===
+Along with user-constructed adventures, the software can also auto-construct a random adventure. This feature can optionally be used to auto-complete a partially built adventure. The user may specify numerous parameters for auto-generation, including difficulty level.
+
+==Development==
+{{Unreferenced section|date=January 2020}}
+Stuart stated that the concept was based on his experience writing [[accounting software]], during which he developed a [[report generator]] that would create a standalone [[COBOL]] program, and that Electronic Arts suggested the name ''Adventure Construction Set''. ''ACS'' was produced by [[Don Daglow]] in parallel with the development of ''[[Racing Destruction Set]]''.
+
+==Release==
+Shortly after ''Adventure Construction Set''{{'}}s release, announcements were included in the packaging for players to submit their adventures for a contest to be judged by Electronic Arts and their playtesters. Approximately 50 games were submitted and winners chosen for three categories:
+
+* Fantasy: ''Festival'' by R.C. Purrenhage
+* Science fiction: ''Cosmos'' by Albert Jerng 
+* Contemporary: ''Panama'' by Will Bryant and ''Codename: Viper'' by Peter Schroeder
+
+The supplementary manual included with the Amiga port mentions, "If you're an ''ACS'' fanatic you can join the ''Adventure Construction Set Club''. Club members receive access to a library of adventures created with ''ACS''".<ref name="amiga-supplementary-manual">unknown author, "Commodore-Amiga Adventure Construction Set" pamphlet, [[Electronic Arts]], 1986</ref> The supplementary manual also mentions that the club is not affiliated with [[Electronic Arts]].
+
+==Reception==
+[[Orson Scott Card]] criticized ''Adventure Construction Set''{{'}}s user interface, stating that it "was designed by the Kludge Monster from the Nethermost Hell". He praised the game's flexibility, however, reporting that his son was able to create a spell called "Summon Duck".<ref name="card198901">{{cite news | url=https://archive.org/stream/1989-01-compute-magazine/Compute_Issue_104_1989_Jan#page/n13/mode/2up | title=Gameplay | work=Compute! | date=January 1989 | accessdate=10 November 2013 | author=Card, Orson Scott | pages=12}}</ref> ''[[Computer Gaming World]]''{{'}}s [[Scorpia (journalist)|Scorpia]] described ''ACS'' as an "easy-to-use, albeit time-consuming, means of creating a graphic adventure".<ref name = "CGW">{{citation | date = Feb 1989 | author = Scorpia | magazine = [[Computer Gaming World]] | title = Writing Your Own: Three Software Adventure Kits Compared | issue = 56 | pages =52–53, 56}}</ref>
+
+===Reviews===
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #35 (Dec 1986)<ref>{{Cite web|url=https://rpggeek.com/rpgissuearticle/138561/ludotique|title = Ludotique &#124; Article &#124; RPGGeek}}</ref>
+* ''[[Games (magazine)|Games]]'' #70<ref>{{cite web | url=https://archive.org/details/games701985december/page/n55/mode/2up | title=GAMES Magazine #70 | date=December 1985}}</ref>
+
+==See also==
+* ''[[Music Construction Set]]''
+* ''[[Pinball Construction Set]]''
+* ''[[Racing Destruction Set]]''
+* ''[[The Quill (software)]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/stuart-smiths-adventure-construction-set}}
+* [https://archive.today/20130116184333/http://www.amigamemo.com/adventureconstructionset ''Adventure Construction Set''] at AmigaMemo.com - Amiga Game Museum
+* [http://www.gb64.com/oldsite/gameofweek/7/gotw_adventureconstrset.htm Review of C64 version from 1985]
+* [http://www.mozomedia.com/ack/ Adventure Creation Kit] - remake of ''Adventure Construction Set''
+
+[[Category:1984 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Ariolasoft games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Electronic Arts games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games with tile-based graphics]]
+[[Category:Video game development software]]

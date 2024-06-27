@@ -1,0 +1,65 @@
+Star Maze
+Permalink: //en.wikipedia.org/w/index.php?title=Star_Maze&oldid=1224118473
+Accessed on: 2024-06-26T16:54:08.605447
+
+
+
+------
+Star Maze
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Star Maze
+|image = Star Maze cover.jpg
+|caption = 
+|developer = Eastman Computing<ref name=mania/>
+|designer = [[Robert Woodhead]]<ref name=giantlist/>
+|programmer = Gordon Eastman<ref name=giantlist/>
+|publisher = [[Sir-Tech]]
+|released = '''1982:''' Apple<br/>'''1983:''' Atari, C64
+|genre = [[Multidirectional shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]]
+|alt = 
+}}
+
+'''''Star Maze''''' is a space-themed shooter taking place in a multidirectional scrolling maze published by [[Sir-Tech]] in 1982.  It was written by Canadian programmer Gordon Eastman for the [[Apple II]], based on a design by [[Robert Woodhead]].<ref name=salmons/> Versions for the [[Atari 8-bit computers]]<ref name=mania/> and [[Commodore 64]]<ref name=lemon/> followed in 1983.
+
+==Gameplay==
+The object of ''Star Maze'' is to collect the nine jewels in a large, randomly generated, maze-like structure.<ref name=davidson/>
+
+The player flies through the maze in a spaceship that looks and controls like the ship from [[Atari, Inc.]]'s ''[[Asteroids (video game)|Asteroids]]'' arcade game. One button applies thrust, the other button shoots in the direction the ship is pointing. The joystick orients the ship. A hyperspace key drops the ship in a random location in the maze, and a finite number of antimatter bombs destroy all visible enemies.<ref name=davidson/> Unlike ''Asteroids'', the ship has limited fuel, and the hyperspace option uses a significant amount of it. A jewel can only be collected it the ship's speed is below a certain threshold, then the jewel can be flown to the mothership in exchange for additional fuel.<ref name=lee/>
+
+Completing a maze gives a bonus based on how much time it took.<ref name=lee/> There are 16 levels.
+
+==Development==
+According to a 1983 article in ''TODAY'' magazine, ''Star Maze'' took ten months of weekends to create.<ref name=hohmann/>
+
+==Reception==
+Russell Sipe reviewed the game for ''[[Computer Gaming World]]'', and stated that "''Star Maze'' is a well-designed game that should provide you with many hours of enjoyable game playing."<ref name="CGW7">{{cite magazine |last=Sipe |first=Russell |title=Star Maze: Sir-tech's New Hi-Res Space Arcade Game |magazine=Computer Gaming World |date=Nov–Dec 1982 |volume=1 |issue=7 |pages=26, 44}}</ref> Apple magazine ''Peelings II'' gave an "A" grade, but noted that the mazes all feel similar and sometimes a new ship is destroyed by an enemy or rock immediately after starting out.<ref name=lee/>
+
+''[[Electronic Games]]'' was impressed with the visuals and called ''Star Maze'', "a totally fascinating space epic worthy of every Apple-gamer's attention."<ref name=davidson/> ''Arcade Express'' pointed out the difficulty of the control scheme, but called it "so fascinating and varied in its play-action that it overcomes any such learning difficulties with ease," giving a 10/10 score.<ref name=express/> ''[[Computer and Video Games]]'' scored ''Star Maze'' a 10 for playability, with the reviewer writing, "Once I mastered the controls the game became more and more fascinating and I can confidently recommend it as one of the best games now on sale for the Apple."<ref name=cvg/>
+
+The reviewer for ''[[Creative Computing]]'' found the controls difficult to manage: {{Quote|In keyboard mode, ten keys are in use, although only six are used regularly. That's too many for my uncoordinated fingers. Regular joystick mode is somewhat easier, although you still need the keyboard to detonate antimatter bombs or enter hyperspace. But perhaps I am just being petulant because I was never able even to come close to mastering the game.<ref>{{cite journal |title=An Avalanche of Apple Games |journal=Creative Computing |date=January 1983 |volume=9 |issue=1 |page=68 |url=https://www.atarimagazines.com/creative/v9n1/68_An_avalanche_of_Apple_gam.php}}</ref>}}
+
+==See also==
+*''[[Bolo (1982 video game)|Bolo]]'', another Apple II multidirectional shooter in a large maze
+
+==References==
+{{Reflist|refs=
+<ref name="mania">{{cite web |title=Star Maze |url=http://www.atarimania.com/game-atari-400-800-xl-xe-star-maze_4988.html |website=Atari Mania}}</ref>
+<ref name="giantlist">{{cite web |title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first=James}}</ref>
+<ref name="davidson">{{cite magazine |last1=Davidson |first1=Steve |title=Computer Gaming: Star Maze |magazine=Electronic Games |date=March 1983 |volume=1 |issue=13 |pages=68–70 |url=https://archive.org/details/Electronic_Games_Volume_01_Number_13_1983-03_Reese_Communications_US/page/n67}}</ref>
+<ref name="lee">{{cite magazine |last1=Lee |first1=Monty |title=Star Maze |magazine=Peelings II |date=1983 |volume=4 |issue=8 |pages=26–27 |url=https://archive.org/details/peelings-ii-v4n8-1983/page/n29?}}</ref>
+<ref name="express">{{cite magazine |title=The Hotseat: Star Maze |magazine=Arcade Express |date=November 21, 1982 |volume=1 |issue=8 |page=7 |url=https://archive.org/details/arcade_express_v1n8/page/n5}}</ref>
+<ref name="lemon">{{lemon64 game|id=4126|name=Star Maze}}</ref>
+<ref name="cvg">{{cite magazine |title=Software Reviews: Star Maze |magazine=Computer and Video Games |date=June 1983 |issue=20 |page=105 |url=https://archive.org/details/ComputerAndVideoGamesIssue020Jun83/page/n105}}</ref>
+<ref name="hohmann">{{cite magazine |last1=Hohmann |first1=Kaye |title=Software Creators and Crooks Play Hardball |magazine=TODAY |date=January 1983 |volume=2 |issue=3 |page=10 |url=https://archive.org/details/TODAYV02N03/page/n9}}</ref>
+<ref name="salmons">{{cite magazine |last1=Salmons |first1=Jim |title=Exec Sir-Tech: Wizzing to the Top |magazine=SoftTalk |date=August 1982 |volume=2 |issue=12 |page=36 |url=https://archive.org/details/softalkv2n12aug1982/page/36}}</ref>
+}}
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Maze games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video games developed in the United States]]

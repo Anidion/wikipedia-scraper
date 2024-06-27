@@ -1,0 +1,102 @@
+Air-Sea Battle
+Permalink: //en.wikipedia.org/w/index.php?title=Air-Sea_Battle&oldid=1230062770
+Accessed on: 2024-06-26T16:47:40.712613
+
+
+
+------
+Air-Sea Battle
+{{short description|1977 video game}}
+{{About|the video game|the military doctrine|AirSea Battle}}
+{{More citations needed|date=May 2015}} 
+{{Infobox video game
+|title = Air-Sea Battle
+|image=Air Sea Battle cover.jpg
+|developer = [[Atari, Inc.]]
+|publisher = Atari, Inc.
+|designer = [[Larry Kaplan]]
+|released = 1977
+|genre = [[Fixed shooter]]
+|modes = [[Single-player]], [[Multiplayer video game|Multiplayer]]
+|platforms = [[Atari 2600]]
+}}
+
+'''''Air-Sea Battle''''' is a [[fixed shooter]] developed and published by [[Atari, Inc]]. for the [[Atari 2600|Atari VCS]].{{efn|The system became known as the Atari 2600 only after the release of the [[Atari 5200]] in 1982.{{sfn|Montfort|2006}}}} ''Air-Sea Battle'' is partially based on the 1975 Atari arcade video game ''[[Anti-Aircraft (video game)|Anti-Aircraft]]'' where each player uses a ground-based gun to shoot passing aircraft. The cartridge adds other variants, such as planes dropping bombs on ships and a carnival-themed shooting gallery.
+
+[[Sears]] published ''Air-Sea Battle'' as '''''Target Fun''''' and used it as the pack-in game for its Tele-Games rebranding of the VCS.
+
+==Gameplay==
+There are six basic types of games available in ''Air-Sea Battle'' and, for each type, there are one or two groups of three games, for a total of twenty-seven game variants.<ref>{{Cite web|url=http://www.atarimania.com/game-atari-2600-vcs-air-sea-battle_13408.html|title = Atari 2600 VCS Air-Sea Battle : Scans, dump, download, screenshots, ads, videos, catalog, instructions, roms}}</ref> Within each group, variant one is the standard game, variant two features [[guided missile]]s which can be directed left or right after being fired, and variant three pits a single player (using the right gun) against a computer opponent, which simply fires continuously at the default angle or speed. In every game, players shoot targets (enemy planes or ships, shooting gallery targets, or each other, depending on the game chosen) competing to get a higher score. Each round lasts two minutes and sixteen seconds; the player with the higher score after time expires is the winner, unless one player wins (and ends the game) by reaching 99 points before the time is up.
+
+===Anti-aircraft games===
+[[File:Air-Sea Battle01.png|thumb|left|An anti-aircraft game variant]]
+
+Variants 1–6 are [[Anti-aircraft warfare|anti-aircraft]] games, in which the player uses a stationary anti-aircraft gun that can be positioned at a 30, 60, or 90-degree angle to shoot down four different types of aircraft.<ref>{{cite web | url=https://atariage.com/manual_html_page.php?SoftwareLabelID=4 | title=AtariAge - Atari 2600 Manuals (HTML) - Air-Sea Battle (Atari) }}</ref> The planes typically appear in groups of three to five, and once every plane in a formation has been destroyed, a new formation appears. There are two groups of anti-aircraft games: in variants 1–3, each target hit is worth 1 point, while in 4–6, the various types of aircraft have different point values. Additionally, zero-point blimps are added as obstacles in games 4–6.
+
+===Torpedo games===
+The [[torpedo]] games (7–12) are similar to the anti-aircraft games, except that each player controls a [[submarine]] that can move left and right and fires at a 90-degree angle. The targets are ships instead of planes.<ref>{{Cite web|url=https://archive.org/details/CreativeComputingbetterScan197807/page/n39/mode/2up|title = Creative Computing (Better Scan) 1978 07|date = July 1978}}</ref> As with the anti-aircraft games, in games 7–9, all targets are worth one point, while games 10–12 have variable point values for targets and additional zero-point obstacles.
+
+===Shooting gallery games===
+The [[Shooter game#Shooting gallery|shooting gallery]] games (13–15) differ from the previous variants in that the player can both set the angle of the gun and move the gun left and right. Instead of planes or ships, [[clown]]s, [[duck]]s, and [[rabbit]]s are the targets,<ref>{{Cite web|url=https://archive.org/details/CreativeComputingbetterScan197807/page/n39/mode/2up|title = Creative Computing (Better Scan) 1978 07|date = July 1978}}</ref> with point values of 1, 2, and 3 respectively.
+
+===Polaris games===
+The polaris games (16–18) put the player in control of a boat which moves back and forth across the bottom of the screen automatically. Instead of controlling the gun angle, the player controls the speed at which the ship moves,<ref>{{Cite web|url=https://archive.org/details/CreativeComputingbetterScan197807/page/n39/mode/2up|title = Creative Computing (Better Scan) 1978 07|date = July 1978}}</ref> attempting to shoot the same fleets of planes as in the anti-aircraft variants, with the point values of games 4–6.
+
+===Bomber games===
+In the bomber games (19–21), the player-controlled vehicle is a plane flying near the top of the screen dropping bombs on the ships from the torpedo games. As in the polaris games, the plane's speed is controlled by the player, and the point values are identical to those in games 10–12.
+
+===Polaris vs. bomber games===
+In the polaris vs. bomber games (22–27), one player controls the ship from the polaris games while the other controls the plane from the bomber games, with the goal being to destroy the other player's craft. Games 25–27 feature zero-point mines as obstacles.<ref>{{cite web | url=https://atariage.com/manual_html_page.php?SoftwareLabelID=4 | title=AtariAge - Atari 2600 Manuals (HTML) - Air-Sea Battle (Atari) }}</ref>
+
+==Development==
+In 1976, [[WarnerMedia|Warner Communications]] acquired Atari for $28 million.{{sfn|Aldred|2012|p=91}} With new funding from Warner, Atari was able to hire new engineering talent to make games for their new system, the [[Atari 2600|Atari Video Computer System]] (Atari VCS).{{sfn|Fulton|2007}} Larry Kaplan recalled that he saw an ad for Atari and applied the job. Kaplan recalled he was told by Bob Brown that he was hired because he mentioned he has purchased an [[Altair 8800]].{{sfn|Fulton|2007}}
+
+Kaplan would design ''Air-Sea Battle'' for the system. Steven Fulton of [[Game Developer (website)|Game Developer]] stated Kaplan's game was based on the arcade games ''[[Anti-Aircraft (video game)|Anti-Aircraft]]'' and ''[[Destroyer (arcade game)|Destroyer]]''. Kaplan said the game based on ''Anti-Aircraft'', explaining that "In those days, we just ripped off anything we could make work."{{sfn|Fulton|2007}}
+
+==Release==
+[[Image:Atari-2600-Tele-Games-FL.jpg|thumb|right|''Air-Sea Battle'' was included with the release of the Tele-Games branded Atari 2600 (pictured) under the title ''Target Fun''.]]
+''Air-Sea Battle'' was promoted as one of the titles available with the launch of the Atari VCS.{{sfn|Montfort|Bogost|2009|p=72}}{{sfn|Bunch|2022|p=37}} According to ''Weekly Television Digest'' from October 17, 1977, the Atari VCS was shipped to all major market areas by August 1977.{{sfn|Weekly Television Digest|1977|p=10|ref=WTD}} Other than ''[[Combat (1977 video game)|Combat]]'' which was released with the Atari VCS, other promotional material from this period noted that these games had to be [[Mail order|mail-ordered]] to pickup in the weeks following the release of the system.{{sfn|Bunch|2022|p=37}} ''Air-Sea Battle'' was bunded into with the [[Sears]] release of the Atari VCS under its Tele-Games label. ''Air-Sea Battle'' was titled ''Target Fun'' in this release.{{sfn|Lapetino|2016|p=58}}{{sfn|Montfort|Bogost|2009|p=120-121}}{{sfn|Weiss|2007|p=122}} The game would remain available on the market for years, with Atari having it in circulation by at least 1988.{{sfn|Bunch|2022|p=38}}
+
+''Air-Sea Battle'' was re-released in various compilation formats, such as the ''Atari 80 in One'' for Windows in 2003 and the ''[[Atari Anthology]]'' for [[PlayStation 2]] and [[Xbox]] in 2004.{{sfn|Harris|2004}} It was included in portable gaming compilations such as the ''[[Atari Greatest Hits]]'' for [[Nintendo DS]] and [[iOS]]-based smartphones.{{sfn|Aaron|2010}}<ref name="mc-ios">{{cite web|url=https://www.metacritic.com/game/ataris-greatest-hits/critic-reviews/?platform=ios-iphoneipad|work=MetaCritic|title=Atari's Greatest Hits|access-date=January 27, 2023|url-status=live|archive-url=https://web.archive.org/web/20230127093459/https://www.metacritic.com/game/ios/ataris-greatest-hits|archive-date=January 27, 2023}}</ref> The game was included as part of the ''[[Atari 50|Atari 50: The Anniversary Celebration]]'' (2022) compilation for [[Nintendo Switch]], [[PlayStation 4]], [[Steam (service)|Steam]], and [[Xbox One]].{{sfn|Machkovech|2022}}
+
+==Reception==
+From contemporary reviews, [[Bill Kunkel (journalist)|Bill Kunkel]] and Arnie Katz (under the name Frank T. Laney II) wrote in  ''[[Video (magazine)|Video]]'' magazine, declaring it "the ultimate game for people who enjoy blowing things up".{{sfn|Kunkel|Laney|1979|p=66}} The two praised the Torpedo variant #11 as the best variation of the game on the cartridge noting its addictive qualities. The reviewers found the computer's inability to handle guided missile controls in single player mode and recommended playing the 2-player Torpedo variant #11 as a solo game if the player wished to experience a solitaire guided missile game.{{sfn|Kunkel|Laney|1979|p=66}}
+
+Katz and Kunkel announced the first game awards in the 1980 issue of ''[[Video (magazine)|Video]]''.{{sfn|Kunkel|Laney II|1980|p=18}}{{sfn|Willaert|2020}} For the first awards ceremony, their awards focused primarily on console games and all games released until 1980.{{sfn|Willaert|2020}} ''Air-Sea Battle'' received the award for the "Best Target Game".{{sfn|Kunkel|Laney II|1980|p=18}}{{sfn|Kunkel|Laney II|1980|p=75}}{{sfn|Willaert|2020}}
+
+==References==
+{{reflist}}
+
+=== Notes ===
+{{notelist}}
+
+===Sources===
+
+* {{cite magazine|magazine=Weekly Television Digest|title=Games-Deja Vu Sets In|date=October 17, 1977|ref=WTD}}
+* {{cite web|url=https://www.nintendolife.com/news/2010/08/ataris_greatest_hits_hitting_the_ds_in_november|work=NintendoLife|title=Atari's Greatest Hits Hitting the DS in November|last=Aaron|first=Sean|date=August 31, 2010|access-date=January 13, 2024}}
+* {{cite book|title=Before the Crash|last=Aldred|first=Jessica|chapter=A Question of Character: Transmediation, Abstraction, and Identification in Early Games Licensed from Movies|year=2012|editor-last=Wolf |editor-first=Mark J. P.|publisher=[[Wayne State University Press]]|isbn=978-0-8143-3450-8}}
+* {{cite book|title=Atari Archive: Vol.1 1977-1978|last=Bunch|first=Kevin|publisher=[[Limited Run Games|Press Run Books]]|ISBN=978-1-955183-21-5|year=2022}}
+* {{cite web|url=https://www.gamedeveloper.com/business/the-history-of-atari-1971-1977|title=The History of Atari: 1971-1977|last=Fulton|first=Steven|date=November 6, 2007|access-date=January 13, 2024|work=[[Game Developer (website)|Game Developer]]}}
+* {{cite web|first=Craig|last=Harris|title=Atari Anthology|url=https://www.ign.com/articles/2004/11/30/atari-anthology|publisher=[[IGN]]|date=November 30, 2004|access-date=January 26, 2023|archive-url=https://web.archive.org/web/20230126195851/https://www.ign.com/articles/2004/11/30/atari-anthology|archive-date=January 26, 2023}}
+* {{cite magazine|magazine=[[Video (magazine)|Video]]|title=Arcade Alley: Atari Video Computer System|last1=Kunkel|first1=Bill|last2=Laney|first2=Frank T. II|author-link1=Bill Kunkel (journalist)|date=Summer 1979|publisher=Reese Communications|volume=2|issue=3|issn=0147-8907}}
+* {{cite magazine|magazine=Video|title=Arcade Alley - The 1st Annual Arcade Awards|last1=Kunkel|first1=Bill|last2=Laney II|first2=Frank T.|date=March 1980|volume=3|issue=4|issn=0147-8907}}
+* {{cite book|title=Art of Atari|last=Lapetino|first=Tim|publisher=[[Dynamite Entertainment]]|isbn=978-1-5241-0103-9|year=2016}}
+* {{cite web|last=Machkovech|first=Sam|url=https://arstechnica.com/gaming/2022/09/the-103-classic-games-that-did-and-didnt-make-the-atari-50-anniversary-cut/|title=The 103 Classic Games That Did, and Didn't, Make the Atari 50 Anniversary Cut — Retailer Leak Suggests Games from Arcade to Jaguar; Surprises Apparently Still Await|work=[[Ars Technica]]|publisher=[[Condé Nast]]|date=September 12, 2022|access-date=May 23, 2023|archive-url=https://web.archive.org/web/20220914101824/https://arstechnica.com/gaming/2022/09/the-103-classic-games-that-did-and-didnt-make-the-atari-50-anniversary-cut/|archive-date=September 14, 2022|url-status=live}}
+* {{cite journal|url=https://gamestudies.org/0601/articles/montfort|title=Combat in Context|last=Montfort|first=Nick|volume=6|issue=1|date=December 2006|issn=1604-7982|access-date=April 28, 2023|journal=Game Studies|author-link=Nick Montfort}}
+* {{cite book|last1=Montfort|first1=Nick|last2=Bogost|first2=Ian|title=Racing the Beam|publisher=[[MIT Press]]|year=2009|isbn=978-0-262-01257-7|title-link=Racing the Beam|author-link2=Ian Bogost}}
+* {{cite book|title=Classic Home Video Games 1972-1984|last=Weiss|first=Brett|publisher=McFarland & Company, Inc.|isbn=978-0-7864-3226-4|year=2007}}
+* {{cite web|url=https://gamehistory.org/first-video-game-awards/|work=[[Video Game History Foundation]]|title=Who Won in the First Game Awards?|last=Willaert|first=Kate|date=December 8, 2020|access-date=January 13, 2024}}
+
+==External links==
+*{{MobyGames|/air-sea-battle}}
+*{{atarimania|id=13408}}
+
+{{Atari 2600}}
+
+[[Category:1977 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Fixed shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Sears video games]]
+[[Category:Atari 2600-only games]]

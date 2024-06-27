@@ -1,0 +1,61 @@
+Valhalla (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Valhalla_%28video_game%29&oldid=1162502059
+Accessed on: 2024-06-26T16:56:07.664322
+
+
+
+------
+Valhalla (video game)
+{{for|the cyberpunk indie game|VA-11 Hall-A}}
+{{Infobox video game
+|title = Valhalla
+|image = Valhalla cover.jpg
+|alt = 
+|developer = Legend
+|publisher = {{vgrelease|UK|Legend|NA|Eurosoft International}}
+|designer = 
+|released = '''1983:''' ZX Spectrum<br>'''1984:''' C64
+|genre = [[Interactive fiction]]
+|modes = [[Single-player]]
+|platforms = [[ZX Spectrum]], [[Commodore 64]]
+}}
+'''''Valhalla''''' is a [[interactive fiction|text adventure]] with graphics published in 1983 by the British studio Legend for the [[ZX Spectrum]]. It reached number one in the UK sales charts.<ref name='pcgchartszx'>{{cite magazine |title=PCN Charts|magazine=Personal Computer Games|issue=10|publisher=VNU|date=December 1983|page=10|url=https://archive.org/details/PersonalComputerNews/PersonalComputerNews039-07Dec1983/page/n9/mode/2up|access-date=9 December 2021}}</ref> The [[Commodore 64]] version of the game was released in 1984 and reached number five.<ref name='pcgcharts'>{{cite magazine |title=PCG Top 50|magazine=Personal Computer Games|issue=19|publisher=VNU|date=September 1984|page=19|url=https://archive.org/details/personalcomputergames-magazine-10/page/n19/mode/2up|access-date=9 December 2021}}</ref>
+
+==Gameplay==
+[[Image:valhalla.png|thumb|left|Screenshot]]
+In ''Valhalla'' the characters move through various Nordic locations with accompanying text at the bottom of the screen detailing all character actions. It is set mainly in [[Asgard]] and [[Midgard]], though when the character dies, it reappears in [[Hell]] ([[Niflheim]] under another name) and is able to walk out.
+
+The game's text [[parser]] understands most multi-part sentences, as long as they are written using the words listed in the manual. Listing the accepted words was not seen in most similar titles of the time.
+
+The aim is to collect six mythical objects: Ofnir (key), [[Draupnir|Drapnir (ring)]], Skornir (shield), Skalir (sword), Felstrong (axe), and Grimnir (helmet). To obtain all the items, the player receives help from various characters from [[Norse mythology]]. If the player dies while holding any of the six items, it will be lost and moved to a new location.<ref name=moby>{{Cite web|title=Valhalla for Commodore 64 (1984)|url=https://www.mobygames.com/game/c64/valhalla|access-date=2020-07-02|website=MobyGames}}</ref> These objects are required to access otherwise unreachable parts of the game, such as [[Valhalla]], but carrying any of the items saps the player's strength. 
+
+The character has an alignment (between ''good'' and ''evil'') that changes depending on which of the other characters are helped. The more the player helps good characters, the more other good characters will help the player in their quest. Characters include gods, goddesses, dwarves, dragons, wolves, a snake, and a raven.<ref>https://worldofspectrum.org/pub/sinclair/games-info/v/Valhalla.txt — the list of characters and their types is quite a long way down</ref> 
+
+The characters move and interact independent of any action by the player. If the player does nothing, the game 'plays' itself, with the characters moving about while the player decides what to do.<ref name=moby />
+
+Typing in a swear word causes a dwarf to dash onto the screen to punch the player while generating the message "Mary is not amused....". Mary can be found in El Vinos and even if killed, she returns within a minute.
+
+The game engine has a limit of eight objects to be left in any one location, whether on the ground, in a chest, or in a cupboard. If the player drops an object in an area where the limit has been reached, a character called Klepto appears to steal the item, removing it from the game.
+
+== Development ==
+The publishing house Legend, founded and managed by John Peel, had previously published titles under the Microl label which financed the development of ''Valhalla''.<ref name='pcwlegend'>{{cite magazine |title=The legend continues|magazine=Popular Computing Weekly|issue=16|publisher=Sunshine Publications|date=15 December 1983|page=16|url=https://spectrumcomputing.co.uk/page.php?issue_id=2785&page=16|access-date=9 December 2021}}</ref> The game was developed by Richard Edwards, Graham Asher, Charles Goodwin, James Learmont, and Andrew Owen using a system they named "Movisoft" which Peel hoped would become "the adventure game equivalent of [[CP/M]]".<ref name='pcwlegend' /> The system occupied 4K of the game footprint and used machine code, with the rest of the game engine and text parser written in [[Sinclair BASIC]].<ref>{{Cite web|title=Valhalla|url=https://www.retrogamer.net/retro_games80/valhalla/|access-date=2020-07-02|website=RetroGamer|date=28 February 2009}}</ref> The C64 version of the game was released in the first half of 1984 and featured larger and coloured character graphics.<ref>{{cite magazine | last = | first = | date = March 1984 | title = Valhalla converted for the CBM 64 | trans-title = | url = | language = en | magazine = Micro Adventurer | page = 7 | location = | publisher = | access-date =}}</ref>
+
+The cover of the game, as well as the [[loading screen]], features a drawing of the [[Sutton Hoo helmet]], an artifact from the 7th century believed to have belonged to [[Rædwald of East Anglia|King Rædwald of East Anglia]].
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WoS game|id=0007152|name=Valhalla}}
+* {{moby game|id=/valhalla|name=''Valhalla''}}
+* {{Internet Archive game|zx_Valhalla_1983_Legend|Valhalla}}
+* [http://www.sincuser.f9.co.uk/023/mindgms.htm Review from ''Sinclair User'' issue 23], February 1984; at Sinclair User Magazine Online
+
+[[Category:1983 video games]]
+[[Category:1980s interactive fiction]]
+[[Category:Adventure games]]
+[[Category:Commodore 64 games]]
+[[Category:Legend games]]
+[[Category:Video games based on Norse mythology]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

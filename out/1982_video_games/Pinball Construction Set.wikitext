@@ -1,0 +1,79 @@
+Pinball Construction Set
+Permalink: //en.wikipedia.org/w/index.php?title=Pinball_Construction_Set&oldid=1228898884
+Accessed on: 2024-06-26T16:53:51.256194
+
+
+
+------
+Pinball Construction Set
+{{Infobox video game
+|title = Pinball Construction Set
+|image = Pinball Construction Set Coverart.png
+|caption = "Album cover" box
+|developer = BudgeCo
+|publisher = BudgeCo{{vgrelease|NA|[[Electronic Arts]]|EU|[[Ariolasoft]]}}
+|designer = [[Bill Budge]]
+|released = '''1982:''' Apple<br>'''1983:''' Apple (EA), Atari, C64<br>'''1985:''' IBM PC<br>'''November 1985:''' Mac<ref name="CE1985">{{cite magazine |title=1985 Index |magazine=[[Computer Entertainer]] |date=January 1986 |volume=4 |issue=10 |page=6 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf#page=6}}</ref>
+|genre = [[Pinball]], [[game creation system]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[Mac (computer)|Mac]]
+}}
+
+'''''Pinball Construction Set''''' is a video game by [[Bill Budge]] written for the [[Apple II]].{{r|softline198211}} It was originally published in 1982 through Budge's own company, BudgeCo, then was released by [[Electronic Arts]] in 1983 along with ports to the [[Atari 8-bit computers]] and [[Commodore 64]].
+
+The game created a new genre of video games: the [[game creation system|construction set]]. Users can build and play their own virtual [[pinball]] machine by [[drag and drop|dropping]] [[Pinball#Bumpers|bumper]]s, [[Pinball#Flippers|flipper]]s, [[Pinball#Spinners and rollovers|spinner]]s, and other parts onto a table. Attributes such as [[gravity]] and the [[physics]] model can be modified. Tables can be saved to [[floppy disk]]s and freely traded; ''Pinball Construction Set'' is not needed to play them.{{r|davies198405}}
+
+Versions were released for the [[IBM PC compatible]]s (as a [[self-booting disk]]) and [[Mac (computer)|Mac]] in 1985. EA followed ''Pinball Construction Set'' with ''[[Music Construction Set]]'', ''[[Adventure Construction Set]]'', and ''[[Racing Destruction Set]]'' all from different authors.
+
+==Development==
+[[File:Pinball_Construction_Set_Title_Screenshot.png|thumb|left|Title screen on an IBM PC]]
+[[File:Pinball_Construction_Set_Start_Screenshot.png|thumb|left|A blank pinball machine with the user interface visible using 4 color CGA graphics.]]
+
+[[Bill Budge]], author of the ''[[Raster Blaster]]'' pinball game for the [[Apple II]],{{r|maher20130201}} began developing ''Pinball Construction Set'' in July 1982. He did not want to write another game ("all the current (arcade) games are either maze games or ''[[Pong]]''; I didn't want any part of that"), but began experimenting with game and graphical tools he had written. As part of the development process he purchased and disassembled an old [[Gottlieb]] ''Target Alpha'' pinball machine, so his new project could accurately depict its components.<ref name="softline198211">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=6&id=8 | title=Things to Come: The Pinball Construction Set | work=Softline | date=November 1982 | accessdate=27 July 2014 | pages=8}}</ref> Budge does not enjoy playing video games, and described having to play pinball for months while developing ''Pinball Construction Set'' as "sheer torture".<ref name="darling1982">{{cite news | url=http://www.atarimagazines.com/compute/issue57/computer_game.html | title=Birth of a Computer Game | work=Compute! | date=February 1985 | accessdate=6 October 2013 | author=Darling, Sharon | pages=48}}</ref>
+
+The project was ambitious given the Apple's limited memory and graphics capabilities. While Budge did not work on the [[Apple Lisa]] project as an Apple employee from 1980 to 1981 he was aware of it and the [[Graphic User Interface]] research at [[Xerox PARC]], and gave ''Pinball Construction Set'' a Lisa-like user interface. He originally published and distributed the game via his publishing company [[BudgeCo]] in late 1982; the [[box art]] was a photograph of the parts of the disassembled pinball machine. It did not sell well, however, as BudgeCo did not have the distribution network that other, larger companies did. Budge agreed to have EA to publish his game when [[Trip Hawkins]] approached him in 1983. ''Raster Blaster'' and other projects had already made Budge a celebrity among Apple II owners, and his name was much larger than the name of the software on EA's ''Pinball Construction Set'' box art.{{r|maher20130201}}
+
+==Reception==
+''Pinball Construction Set''{{'}}s sales had surpassed 250,000 copies by November 1989,<ref name=gpsales>{{cite journal | author=Staff | title=Chart-Busters; SPA Platinum | date=November 1989 | issue=5 | journal=[[Game Players]] | page=112}}</ref> and it ultimately sold over 300,000 copies in all platforms.{{citation needed|date=October 2015}}
+
+''Pinball Construction Set''{{'}}s scope and flexibility on a 48K Apple II was impressive. [[Steve Wozniak]] called it "the greatest program ever written for an 8-bit machine", and for thousands the software was their first experience with a GUI.<ref name="maher20130201">{{cite web | url=http://www.filfre.net/2013/02/the-pinball-wizard/ | title=The Pinball Wizard | work=The Digital Antiquarian | date=2013-02-01 | accessdate=10 July 2014 | author=Maher, Jimmy}}</ref> ''[[Computer Gaming World]]'' in 1983 considered the [[software toy]] revolutionary, and easy to understand because of its representative icons and drag-and-drop method of constructing a table; the magazine stated that "there's something almost magical about the way this product works. You take everything it does for granted after just a few minutes". The nine-page manual was considered "overkill", since ''Pinball Construction Set'' required no programming knowledge; an eight-year-old had no problems creating his own tables.<ref>{{citation | date = May–June 1983 | last = Besndard | first = John | magazine = [[Computer Gaming World]] | title = Pinball Construction Set | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=2&id=10 | pages = 12, 43}}</ref> Reviewing the Atari version in their "Arcade Alley" column, ''[[Video (magazine)|Video]]'' magazine described ''Pinball Construction Set'' as a "remarkably clever and easy-to-use program", and noted that a third-party company had already published a suite of pre-made pinball games for use with the construction set.<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= October 1983 |title= Arcade Alley: From Pinball to Purgatory at Electronic Arts |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 7|pages= 30–32|issn= 0147-8907}}</ref>{{rp|32}}
+
+''[[Byte (magazine)|BYTE]]'' found the tool kit as "complete" and praised Budge's "marvelous sense of programming". The magazine reported that "creativity is encouraged. [Users] are gently encouraged and aided. This is valuable for children and inexperienced players and computer users".<ref name="holden198401">{{cite news | url=https://archive.org/stream/byte-magazine-1984-01/BYTE-1984-01#page/n283/mode/2up | title=Pinball Construction Set | work=BYTE | date=January 1984 | accessdate=22 October 2013 | author=Holden, Elaine | pages=282}}</ref> ''[[InfoWorld]]'' compared the game's importance to that of [[Scott Adams (game designer)|Scott Adams]]'s ''[[Adventureland (video game)|Adventureland]]'', and predicted that it "is sure to have lots of children and grandchildren".<ref name="mace19840109_16">{{cite news | url=https://books.google.com/books?id=ey4EAAAAMBAJ&pg=PA69 | title=Electronic Antics | work=InfoWorld | date=9–16 January 1984 | accessdate=4 February 2015 | author=Mace, Scott | pages=69}}</ref>'' [[Ahoy!]]'' called ''Pinball Construction Set'' as one of the best home entertainment programs of its era.<ref name="davies198405">{{cite news | url=https://archive.org/stream/ahoy-magazine-05/Ahoy_05_May_1984#page/n47/mode/2up | title=Pinball Construction Set | work=Ahoy! | date=May 1984 | accessdate=16 October 2013 | author=Davies, Lloyd | pages=49}}</ref> ''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the "pinball wizard's dream" an overall A+ rating, praising the user interface as "exceptionally human engineered".<ref name="aw1984">{{cite book | url=https://archive.org/stream/Atari_Software_1984#page/n127/mode/2up | title=The Addison-Wesley Book of Atari Software | publisher=Addison-Wesley | year=1984 | pages=128–129 | isbn=0-201-16454-X | editor1=Stanton, Jeffrey | editor2=Wells, Robert P. | editor3=Rochowansky, Sandra | editor4=Mellid, Michael}}</ref> ''[[Compute!]]'' listed it in 1988 as one of "Our Favorite Games", calling the game "a programming work of art ... a classic that never seems to grow old".<ref name="compute198805">{{cite news | url=https://archive.org/stream/1988-05-compute-magazine/Compute_Issue_096_1988_May#page/n13/mode/2up | title=Our Favorite Games | work=Compute! | date=May 1988 | accessdate=10 November 2013 | pages=12}}</ref> [[Orson Scott Card]] said in the magazine in 1989 that the program was so flexible that his son used it as a graphics program.<ref name="card198901">{{cite news | url=https://archive.org/stream/1989-01-compute-magazine/Compute_Issue_104_1989_Jan#page/n13/mode/2up | title=Gameplay | work=Compute! | date=January 1989 | accessdate=10 November 2013 | author=Card, Orson Scott | pages=12}}</ref>
+
+===Awards===
+In 1984 ''Pinball Construction Set'' received a Certificate of Merit in the category of "1984 Most Innovative Video Game/Computer Game" at the 5th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|29}} One month later ''[[Softline (magazine)|Softline]]'' readers named the game the ninth most-popular Apple and Atari program of 1983.<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | accessdate=28 July 2014 | pages=49}}</ref> ''Computer Gaming World'' in 1996 declared ''Pinball Construction Set'' the 50th-best computer game ever released,<ref name=cgw150>{{cite magazine | author=Staff | title=150 Best (and 50 Worst) Games of All Time | magazine=[[Computer Gaming World]] | date=November 1996 | issue=148 | pages=63–65, 68, 72, 74, 76, 78, 80, 84, 88, 90, 94, 98}}</ref> and ranked it #1 in the magazine's list of the most innovative computer games.<ref name="cgw199611mostinnovative">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=The 15 Most Innovative Computer Games | magazine=Computer Gaming World | date=November 1996 | accessdate=25 March 2016 | pages=102}}</ref> ''Pinball Construction Set'' is an inductee in [[GameSpy]]'s Hall of Fame.<ref>[http://archive.gamespy.com/halloffame/september02/pcs/ GameSpy Hall of Fame] {{webarchive|url=https://web.archive.org/web/20060316041001/http://archive.gamespy.com/halloffame/september02/pcs/ |date=2006-03-16}} from ''[[GameSpy]]''</ref> In 2008, ''Pinball Construction Set'' was honored at the 59th Annual [[Technology and Engineering Emmy Awards]] for "User Generated Content/Game Modification".<ref>[http://kotaku.com/342028/2008-tech-emmy-winners 2008 Tech Emmy Winners] from [[Kotaku|Kotaku.com]]</ref>
+
+==Legacy==
+A version for the [[Coleco Adam]] combined with ''[[Hard Hat Mack]]'' under the title ''The Best of Electronic Arts'' was completed but not released.<ref>{{cite web|title=ADAM Computer Game of the Week #20|url=http://atariage.com/forums/topic/182104-adam-computer-game-of-the-week-20/|website=AtariAge|date=May 17, 2011}}</ref>
+
+In 1993, Budge wrote a version of ''Pinball Construction Set'' for the [[Sega Genesis]] with the name ''[[Virtual Pinball]]''.
+
+[[Will Wright (game designer)|Will Wright]] cited the game as an inspiration.<ref>[http://www.gamasutra.com/view/news/165118/gdc_2012_the_games_that_.php?cid=GDC12_Update13 GDC 2012: The games that influenced our influential game designers] from [[Gamasutra|Gamasutra.com]]</ref>
+
+In 2013, Budge released the [[source code]] to the Atari 8-bit family version of ''Pinball Construction Set'' to the public on [[GitHub]] under the [[MIT license]].<ref>[https://twitter.com/BillB/status/301398071156277248 I just pushed the source for Pinball Construction Set to github (thanks to Scott Cronce at EA)] on twitter.com</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/pinball-construction-set}}
+* {{atarimania|id=3964}}
+* {{GitHub|billbudge/PCS_AppleII|Source code for the original Apple II version}}
+* {{GitHub|billbudge/PCS_Atari800|Source code for the Atari 8-bit port|link=no}}
+* {{IAg|034_Pinball_Construction_Set}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Ariolasoft games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Electronic Arts games]]
+[[Category:Formerly proprietary software]]
+[[Category:Classic Mac OS games]]
+[[Category:Open-source video games]]
+[[Category:Pinball video games]]
+[[Category:Software using the MIT license]]
+[[Category:Video game development software]]
+[[Category:Video game level editors]]
+[[Category:Video games developed in the United States]]

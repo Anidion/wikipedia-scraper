@@ -1,0 +1,71 @@
+Worms?
+Permalink: //en.wikipedia.org/w/index.php?title=Worms%3F&oldid=1224492443
+Accessed on: 2024-06-26T16:56:11.677227
+
+
+
+------
+Worms?
+{{Short description|1983 video game}}
+{{About|the 1983 video game|other uses|Worms (disambiguation){{!}}Worms}}
+{{Use mdy dates|date=February 2024}}
+{{Infobox video game
+|title=Worms?
+|image=Worms_(1983)_Commodore_64_Cover_Art.jpg
+|caption=EA "album cover" box
+|developer=
+|publisher=[[Electronic Arts]]<br>[[Ariolasoft]] (Europe)
+|producer=Susan W. Lee-Merrow<ref>{{Cite tweet |user=KaySavetz |number=1368969548880171008 |url=https://twitter.com/KaySavetz/status/1368969548880171008 |archiveurl=https://web.archive.org/web/20210309081743/https://twitter.com/KaySavetz/status/1368969548880171008 |title=Mail’s here |date=March 8, 2021 | archivedate=March 9, 2021 |accessdate=March 14, 2021}}</ref>
+|designer=David Maynard<ref name=giantlist/>
+|released=1983
+|genre=[[Puzzle video game|Puzzle]]
+|modes=[[Single-player video game|Single-player]]
+|platforms=[[Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''Worms?''''' is a [[puzzle video game]] written by David Maynard for [[Atari 8-bit computers]] and ported to the [[Commodore 64]].<ref name=giantlist/> It was released in 1983 as one of the first publications from [[Electronic Arts]].<ref name=polygon/> ''Worms?'' is an interactive version of ''[[Paterson's Worms]]''.
+
+Maynard later worked on the 8-bit word processor from Electronic Arts, [[Cut & Paste (word processor)|Cut & Paste]]. On March 17, 2021, the source code of ''Worms?'' was published with the [[MIT License]].<ref>{{Cite tweet |last=Savetz |first=Kay |user=KaySavetz |number=1372225168731295751 |date=March 17, 2021 |title=Thanks to [John Keoni Morris] we have recovered the source code for the Commodore 64 version of "Worms?" (Electronic Arts, 1983.) The creator, David S. Maynard, has released the code with a free software license. |access-date=March 21, 2021 |url-status=live |archive-url=https://web.archive.org/web/20210317163654/https://twitter.com/KaySavetz/status/1372225168731295751 |archive-date=March 17, 2021}}</ref>
+
+==Gameplay==
+{{Unreferenced section|date=November 2019}}
+The game is abstract, like ''[[Conway's Game of Life]]'', but the player's ostensible goal is to optimally program one or more worms (each a sort of [[cellular automaton]]) to grow and survive as long as possible. The game area is divided up into hexagonal cells, and the worms are programmed to move in a particular direction for each combination of filled-in and empty frame segments in their immediate vicinity. The player needs to give the worm progressively less input, and more moves by the worm results in a familiar situation for which the worm has already been trained. As the worms move, they generate [[aleatoric music]].
+
+==Development==
+When David Maynard finished developing the game for his [[Atari 8-bit computers|Atari 800]] in late 1982, it was titled ''Sumo Worms''.<ref name=vs>{{cite news |last1=Maynard |first1=David |title=Software Artist 1982 vs Today |url=https://davidsmaynard.com/software-artist-1982-vs-today/ |date=July 23, 2019}}</ref> It was programmed in [[Forth (programming language)|Forth]].<ref name=vs/>
+
+==Reception==
+Allen Doum reviewed the game for ''[[Computer Gaming World]]'', stating that "''Worms?'' can be played competitively, either by teams or individuals or can be used solitaire as a pattern drawing puzzle. Its sound and graphics are excellent, and some of the graphics elements and the speed of the game can be varied."<ref name="CGW12">{{cite magazine |last=Doum |first=Allen |title=Atari Arena |magazine=Computer Gaming World |date=October 1983 |volume=1 |issue=12 |pages=43, 48}}</ref> [[Orson Scott Card]] in ''[[Compute!]]'' gave complimentary reviews to the EA games ''Worms?'', ''[[M.U.L.E.]]'', and ''[[Archon: The Light and the Dark]]''. He said of the trio that "they are original; they do what they set out to do very, very well; they allow the player to take part in the creativity; they do things that only computers can do".<ref name="card198311">{{cite news | url=http://www.atarimagazines.com/compute/issue42/gamesgrowup.php | title=Home Computer Games Grow Up | work=Compute! | date=November 1983 | accessdate=January 27, 2015 | author=Card, Orson Scott | pages=162 | authorlink=Orson Scott Card}}</ref> William Michael Brown for ''[[Electronic Fun with Computers & Games]]'' praised its originality and rated it 3 out of 4, because he said it is not for everyone.<ref>{{cite magazine |last=Brown |first=William Michael |editor-last=Ekstract |editor-first=Richard |date=September 1983 |title=Game Reviews: Worms? |url=https://archive.org/details/electronic-fun-with-computers-and-games-volume-1-number-11-september-1983/page/n61/mode/2up?view=theater |magazine=[[Electronic Fun with Computers & Games]] |location=350 East 81st Street, New York, NY 10028 |publisher=Fun & Games Publishing Inc. |access-date=June 3, 2022}}</ref>
+
+[[Leo Laporte]] wrote in ''Hi-Res'' said that ''Worms?'' was "Very nice, very pretty, very boring [...] I've been playing with this program for two weeks. It hasn't gotten any more interesting".<ref name="laporte19840506">{{cite news | url=http://www.atarimagazines.com/hi-res/v1n4/reviews.php | title=M.U.L.E. | work=Hi-Res | date=May–June 1984 | accessdate=December 22, 2014 | author=LaPorte, Leo G. | pages=14}}</ref> ''[[Compute!'s Gazette]]''{{'}}s reviewer called ''Worms?'' for the Commodore 64 "one of the most fascinating games I've played in a long time. It's so different from anything else that it quickly captivated me. ''Worms?'' tournaments become popular among the staff of ''Compute!'' ... [It] is as much fun to watch as it is to play". He added that part of its appeal was that "The game is hard to master. It's easy to play, but seems almost impossible to play well time after time".<ref name="keizer198406">{{cite news | url=https://archive.org/stream/1984-06-computegazette/Compute_Gazette_Issue_12_1984_Jun#page/n69/mode/2up | title=Worms? For The 64 | work=Compute!'s Gazette | date=June 1984 | accessdate=July 6, 2014 | author=Keizer, Gregg | pages=66–70}}</ref>
+
+In May 1988, ''Compute!'' listed it as one of "Our Favorite Games", writing that four years after its introduction "''Worms?'' is still in a class by itself [requiring] a sense of strategy as well as proficiency at joystick maneuvers".<ref name="compute198805">{{cite news | url=https://archive.org/stream/1988-05-compute-magazine/Compute_Issue_096_1988_May#page/n13/mode/2up | title=Our Favorite Games | work=Compute! | date=May 1988 | accessdate=November 10, 2013 | pages=12}}</ref>
+
+==Legacy==
+In August 2019, Maynard launched a variant of the ''Worms?'' concept as the [[browser game]] ''DARWORMS''.<ref>{{cite web |last1=Maynard |first1=David |title=Announcing the Official Launch of Darworm |url=https://davidsmaynard.com/darworms/}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="polygon">{{cite web|last1=Corriea|first1=Alexa Ray|title=30 years ago Electronic Arts shipped its first batch of five games|url=https://www.origin.com/usa/en-us/us/news/halls-of-ea-30th-anniversary-edition|website=Polygon|date=May 21, 2013}}</ref>
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=5861}}
+*{{lemon64 game|id=2897|name=Worms?}}
+*{{GitHub|savetz/worms|''Worms?''}}
+*[http://hdl.handle.net/1721.1/6210 "Paterson's Worm"], Michael Beeler, MIT [[AI Memo]] #290, June 1973.
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Non-games]]
+[[Category:Cellular automaton software]]
+[[Category:Electronic Arts games]]
+[[Category:Formerly proprietary software]]
+[[Category:Open-source video games]]
+[[Category:Software using the MIT license]]
+[[Category:Ariolasoft games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]

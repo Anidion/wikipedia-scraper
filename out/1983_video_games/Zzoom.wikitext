@@ -1,0 +1,44 @@
+Zzoom
+Permalink: //en.wikipedia.org/w/index.php?title=Zzoom&oldid=1226984636
+Accessed on: 2024-06-26T16:56:13.281883
+
+
+
+------
+Zzoom
+{{Short description|1983 video game}}
+{{Infobox VG
+| title          = Zzoom
+| image          = Zzoom (video game)(ZX Spectrum) boxart.jpg
+| caption        = Cassette inlay for Zzoom
+| developer      = John Gibson, Mark Butler, Steve Blower
+| publisher      = [[Imagine Software]]
+| released       = {{vgrelease|UK|1983<ref>{{cite magazine |title=Evil Birds Are Out to Get You!: Zzoom |magazine=Computer & Video Games |volume=2 |issue=9 |date=Aug 1983 |p=18}}</ref>}}
+| genre          = [[Shoot 'em up]]
+| modes          = [[Single-player]]
+| platforms      = [[ZX Spectrum]]
+}}
+
+'''''Zzoom''''' is a [[personal computer game|computer game]] developed by John Gibson, Mark Butler and Steve Blower for the [[ZX Spectrum]] and released by [[Imagine Software]] in 1983.<ref name="WoSZzoom"> {{citation|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0005894 |title=Zzoom |access-date=2008-12-19 |last=van der Heide |first=Martijn |work=World of Spectrum }}</ref> It is a [[combat flight simulator]] in which the player controls an aircraft to protect [[refugee]]s from enemy forces.
+
+==Gameplay==
+The object of the game is to protect a series of refugees from enemy [[aircraft]], [[tank]]s and [[submarine]]s. The player's view consists of a [[crosshairs]] upon a simple ground and sky horizon, with an [[altimeter]], a shield indicator and a [[radar]]. Refugees walk along the horizon, and the player must fire his guns at enemy units to prevent them from killing the refugees. Score is gained by destroying enemy units, and for refugees crossing the screen safely.<ref name=Camieabz>{{citation|url=http://www.worldofspectrum.org/pub/sinclair/screens/in-game/z/Zzoom.gif |title=Zzoom |access-date=2011-12-17 |work=World of Spectrum }}</ref>
+
+However, due to a bug in the score calculation for refugees, should the player not allow any (or very few) refugees to survive a stage he will be rewarded with a bonus far in excess of what would be scored had the refugees been saved.  To achieve this the player invariably has to shoot the refugees himself - which although not the point of the game can be just as challenging, as whilst doing this the enemy will still be launching missiles and shooting at the player.
+
+==Reception==
+''Zzoom'' was received well by the [[video game journalism|video game press]] when it was released in 1983, and it remained among the top twenty best-selling games well into 1984.<ref name="PCGZzoomReview">{{citation | title=Screen Classic: Zzoom | issue= 5| date=April 1984 | publisher=PCG | url =http://www.worldofspectrum.org/showmag.cgi?mag=PersonalComputerGames/Issue05/Pages/PersonalComputerGames0500111.jpg | work =[[Personal Computer Games]] | pages =111 | access-date = 2008-12-19 }}</ref> ''[[Crash (magazine)|Crash]]'' called it "a very memorable game and excellent value for money",<ref name="CrashZzoomReview">{{citation | title=Zzoom Living Guide | issue= 1|date= February 1984 | publisher=[[Newsfield Publications Ltd]] | url =http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue01/Pages/Crash0100048.jpg | work =[[Crash (magazine)|Crash]] | pages =48 | access-date = 2008-12-19 }}</ref> whilst ''[[Personal Computer Games]]'' described it as "one of the all-time greats in a very competitive market".<ref name="PCGZzoomReview" />
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{WoS game|id=0005894|name=Zzoom}}
+
+[[Category:1983 video games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Imagine Software games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

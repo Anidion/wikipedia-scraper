@@ -1,0 +1,89 @@
+Space Encounters
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Encounters&oldid=1180868862
+Accessed on: 2024-06-26T16:51:54.294269
+
+
+
+------
+Space Encounters
+{{Short description|1980 video game}}
+{{about|the 1980 video game|the 1978 television special|The Carpenters...Space Encounters}}
+{{Infobox video game
+ |title       = Space Encounters
+ |image       = Space_Encounters_flier.jpg
+ |caption     = Arcade flyer
+ |developer   = 
+ |publisher   = [[Midway Games|Bally Midway]]
+ |director    = 
+ |designer    = 
+ |composer    = 
+ |arcade system = Midway [[Intel 8080]]
+ |released    = 1980
+ |genre       = [[Fixed shooter]]
+ |modes       =
+ |platforms   = [[Arcade video game|Arcade]]
+}}
+'''''Space Encounters''''' is an [[arcade video game]] released by  [[Midway Games|Bally Midway]] in 1980.. The game recreates the trench flying scene from ''[[Star Wars]]'' but with the player in a [[TIE fighter]]. The player's ship shoots at waves of enemies flying down from the top. The moving background graphics provide the illusion of an isometric 3D view, but the action is in 2D and plays like a [[fixed shooter]].
+
+This was the first Midway game to be released in a cabaret-sized cabinet, what they referred to as their "mini myte" line.
+
+==Gameplay==
+The game takes place in a U-shaped playfield known as the "Space Channel"{{sfn|Flier|1980|p=2}} representing a trench inspired by the [[Death Star]]. Normally grey, the walls and floor of the trench periodically incorporate black bands running horizontally that move down the screen to provide the illusion of rapid forward motion over the trench. Most versions include a [[color gel]] over the screen to provide color to the playfield.{{sfn|Mini|1980|p=2}} A red lamp and a strobe light at the top of the cabinet are used for additional effects.{{sfn|Manual|1980|p=12}}{{efn|It is not clear if the lamps were used in the mini myte versions as well, which had a different display layout.}}
+
+The player commands the "Assault Ship"{{sfn|Mini|1980|p=1}}{{efn|Known as "Defense Ship" in the original manual.{{sfn|Manual|1980|p=1}}}} which starts near the bottom of the screen. Waves of enemy ships appear at the top of the screen, outside the playfield area. In small groups, they move into the trench where they become active.{{sfn|Mini|1980|p=2}} The enemies periodically fire down the screen at the player, while the player shoots upward. The player's shots can hit the enemies or their shots. When an enemy is hit, it turns into a broken ship that then tumbles down the screen towards the player, bouncing off the trench walls. The tumbling ships have to be avoided or shot; if shot they produce another score. Periodically a target appears, like the Death Star's thermal exhaust port, giving a bonus score if the user hits it within the five seconds it remains on screen.{{sfn|Mini|1980|p=3}}
+
+The game is on a timer, typically 90 seconds, but adjustable at the arcade for 45, 60, 75 or 90 seconds.{{sfn|Flier|1980|p=2}} If the player's ship is hit or contacts the trench walls, it tumbles out of the trench in a fashion similar to [[Darth Vader]] at the end of ''[[Star Wars (film)|Star Wars]]''. After a brief delay it regains control and flies back into the trench to continue the action. If the player has any bonus ships the action continues after the timer elapses until they have all been hit. Scoring is based on the number and type of enemies killed, any bonus targets, as well as a speed score based on the player's position up the screen. Up to three bonus ships can be awarded at adjustable scores, typically 4000, 8000 and 16000 points.{{sfn|Mini|1980|p=3}} The speed score is added at the end of the game and does not contribute to the bonus ships.{{sfn|Flier|1980|p=2}}
+
+==Development==
+''Space Encounters'' is based on a common [[Intel 8080]]-based chassis that had been used by Midway all the way from 1975 when they introduced ''[[Gun Fight]]''.{{sfn|Midway}} 
+
+==Release==
+In the original cabinet, the player controls the action with an aircraft-style [[Yoke (aeronautics)|control yoke]] with fire buttons on the top of the right hand hold. Turning the yoke side-to-side movex the player's sprite left and right on the screen, while pushing it into the cabinet movex the player up the screen and sped up the action. Midway released a second version in a smaller case that replaced the yoke with a large [[joystick]], the first of a number of smaller-format machines they marketed as the "mini myte" series of [[Arcade cabinet#Mini or cabaret cabinets|cabaret-sized]] machines that allows three games to fit in the area normally taken up by two full-sized machines.{{sfn|Mini|1980|p=1}}
+
+==Reception==
+Launched into the market at the same time as full-color shooters like ''[[Galaxian]]'', the game was a flop in the market.{{sfn|SE}} All future Midway games would use color capable hardware, often the [[Zilog Z80]]-based chassis licensed from [[Namco]] and used in the US releases of ''[[Rally-X]]'' and ''[[Pac-Man]]''.{{sfn|Midway}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite tech report
+ |title=Space Encounters
+ |publisher=Midway Manufacturing
+ |date=1980
+ |ref=CITEREFFlier1980
+}}
+* {{cite tech report
+ |title=Midway's new mini myte video games
+ |publisher=Midway Manufacturing
+ |date=1980
+ |ref=CITEREFMini1980
+}}
+* {{cite book
+ |url=https://www.arcade-museum.com/manuals-videogames/S/SpaceEncounters.pdf
+ |title=Midway's Space Encounters Parts and Operating Manual
+ |publisher=Midway Manufacturing
+ |date=August 1980
+ |ref=CITEREFManual1980
+}}
+* {{cite web
+ |url=https://www.arcade-museum.com/game_detail.php?game_id=9649
+ |title=Space Encounters
+ |website=International Arcade Museum
+ |ref=CITEREFSE
+}}
+* {{cite web
+ |url=https://www.arcade-museum.com/manuf_detail.php?manuf_id=711&orig_game_id=&sort=3
+ |title=Midway Manufacturing
+ |website=International Arcade Museum
+ |ref=CITEREFMidway
+}}
+
+==External links==
+* [https://www.youtube.com/watch?v=flTl8tQHaTQ Arcade Game: Space Encounters (1980 Midway)]
+
+[[Category:1980 video games]]
+[[Category:Midway video games]]

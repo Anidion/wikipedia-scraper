@@ -1,0 +1,263 @@
+Sword of Aragon
+Permalink: //en.wikipedia.org/w/index.php?title=Sword_of_Aragon&oldid=1185089881
+Accessed on: 2024-06-26T17:07:33.951202
+
+
+
+------
+Sword of Aragon
+{{Short description|1989 video game}}
+{{Infobox video game
+|title = Sword of Aragon
+|image = Sword of Aragon box art.jpg
+|developer = [[Strategic Simulations]]
+|publisher = Strategic Simulations
+|designer = Kurt Myers<br />Russell Shilling
+|released = {{vgrelease|NA|1989 (DOS)|NA|1990 (Amiga)}}
+|genre = [[4X]] [[turn-based strategy]] and [[Role-playing game (video games)|role-playing game]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[MS-DOS]], [[Amiga]]
+}}
+
+'''''Sword of Aragon''''' is a [[turn-based strategy]] and [[Role-playing video game|role-playing game]] developed and published by [[Strategic Simulations]] in 1989.  It is also considered to be of the [[4X]] genre.  Set in the fictional land of Aragon, the games casts its protagonist as the duke of a city named Aladda.  After assuming rule over the city and avenging his father's death, the protagonist embarks on a quest to unify the land through conquest.  Accomplishing this goal entails  developing cities, recruiting armies, and directing the troops on the fields of battle to victory.  First published for [[MS-DOS]], the game was [[porting|ported]] to [[Amiga]] machines.  Reception towards ''Sword of Aragon'' tended to be more positive than negative; reviewers called it an exciting game, but criticized its method of [[copy protection]] and cited problems with its documentation.  There were also opinions that the game was more of a niche product, catering to hardcore strategists.
+
+== Background ==
+''Sword of Aragon'' is a "strategic fantasy role-playing adventure" video game published in 1989.<ref name=dragon153>{{cite magazine
+  | first1 = Hartley
+  | last1 = Lesser
+  | first2 = Patricia
+  | last2 = Lesser
+  | first3 = Kirk
+  | last3 = Lesser
+  |date=January 1990
+  | title = The Role of Computers
+  |magazine=[[Dragon (magazine)|Dragon]]
+  | volume = 14
+  | issue = 153
+  | pages =78–79
+  | publisher = [[TSR, Inc.|TSR]]
+  | location = Wisconsin, United States
+  | issn = 0279-6848 }}
+</ref>  The game's setting is the fictional land of Aragon.  A powerful human empire once held sway over the land, but infighting and raids by monsters such as orcs, goblins, and titans have broken it apart.  The protagonist is the son of the Duke of Aladda, ruler of a city that used to be glorious under the old empire.  The duke died during a raid by orcs and tasked his son through his will to fulfill his dream of reunifying the land.  To achieve this goal, the young duke builds up his cities and expands his army, conquering or allying with other cities and races.  Furthermore, he recovers three artifacts required to claim the throne, slays a dragon, and destroys the strongholds of monsters that plague the land.  Eventually, he deposes the ruthless Emperor of the Tetradan Empire, Lucinian IV, and assumes the Aragonian throne.<ref name=ace>{{cite magazine
+  | first = John
+  | last = Minson
+  |date=October 1989
+  | title = Adventures&mdash;Sword of Aragon
+  |magazine=[[ACE (games magazine)|Advanced Computer Entertainment]]
+  | issue = 25
+  |page=97
+  | publisher = [[EMAP]]
+  | location = London, United Kingdom
+  }}
+</ref><ref name=computing>{{cite journal
+ | last = Orr
+ | first = Lucinda
+ |date=August 1990
+ | title = Games&mdash;Sword of Aragon
+ | journal = [[Amiga Computing]]
+ | volume = 3
+ | issue = 3
+ | pages =42–43
+ | location = United Kingdom
+ | publisher = [[Europress|Europress Impact]]
+ | issn =  	 0959-9630}}
+</ref><ref name=cgw>{{cite magazine
+ | last = Kritzen
+ | first = Biff
+ |date=November 1989
+ | title = A Strong Right Arm
+ |magazine= [[Computer Gaming World]]
+ | issue = 65
+ | pages =44–45, 53
+ | location = California, United States
+ | publisher = Golden Empire Publications
+ | issn = 0744-6667 }}
+</ref>
+
+== Gameplay ==
+[[File:Sword of Aragon - Battle.png|thumb|left|alt=A battle, represented in digital format, takes place at a river intersection next to a small fortified city.  Trees, hills, brushes dot the area.  Simple colorful icons, representing monsters and soldiers, are arrayed among the terrain.  In certain locations, several icons are stacked as a pile.  A menu, displaying a list of commands, lies at the bottom of this image.|''Sword of Aragon''{{'}}s maps comprise hexagonal arrangement of squares.  Several units, up to a limit, can be stacked together in one hex.]]
+The player begins a game by choosing a character class for the protagonist.  The choices are warrior, knight, mage, priest, and ranger.  Each class has an affinity to a certain class of soldier&mdash;warriors are more apt in leading infantry, and knights, cavalry.  During battles, mages, rangers, and priests can also cast spells that damage foes, alter terrain, and heal friendly forces.<ref name=dragon153 />  The player can hire commanders of these classes to accompany the protagonist in his quest.  After winning a number of battles, the player's character might receive offers of service from such commanders as well.<ref name=ace />
+
+The game is principally split between city management and tactical combat.<ref name=zzap>{{cite magazine
+  | last = King
+  | first = Phil
+  |date=August 1990
+  | title = Adventures&mdash;Sword of Aragon
+  |magazine= [[Zzap!64]]
+  | issue = 64
+  | pages =22–23
+  | publisher = [[Newsfield Publications]]
+  | location = Shropshire, United Kingdom
+  | issn = 0954-867X }}
+</ref>  Gameplay is turn-based, alternating between player and computer, and much of the game is played on the World Map, a representation of the land of Aragon.<ref name=computing />  Each turn on this map represents a month in the game.  The map shows cities and the player's units; unexplored areas are blanked out until they have been explored by the player's units.  By using the keyboard and mouse, the player moves a cursor to select units and cities, and issue orders via keystrokes.<ref name=ace />  Cities under the player's control provide monthly income, which is supplemented by tributes from vassals and loot from battles.<ref name=zzap />  Income from a city is improved by expending funds to develop the city's economic sectors, such as agriculture and mining, or by increasing taxation.  Tax rates, however, affect the loyalty of citizens; high taxes in a city lead to a decreasing population.<ref name=cgw />
+
+Armies are recruited in the cities, and their maintenance contributes to the monthly expenditure.<ref name=ace />  Troops consist of infantry, cavalry, and bowmen.<ref name=computing />  The game enters the tactical battle phase when enemies attack one of the player's cities that is garrisoned with troops, and when the player's forces move onto a hostile city.  Encounters might also take place as the player's forces move on the World Map.  On such occasions, the game switches the display to a large-[[scale (map)|scale]] map of the encounter.  The battle maps differ from the World Map in that each spot has a limit on its number of occupants&mdash;a stacking limit.<ref name=ace />  The player and computer take turns to deploy and move their forces.  Units move at their standard pace or at a forced march to cover greater distances per turn in battles.  Certain terrain gives defensive bonuses to their occupants, reducing the damage they suffer when coming under attack.  Offensives take the form of [[melee]], [[Charge (warfare)|charges]], missiles, and magic.<ref name=cgw />  The player has the option of letting the computer take control of his or her army to fight the battle.<ref name=ace />  The game switches back to the World Map after a battle has concluded.  Units that survive a battle gain experience points, improving their combat abilities on attaining certain numbers of experience points.  They, with the exception of commanders, can also train in cities to improve their experience.<ref name=compute>{{cite journal
+ | last = Starkweather
+ | first = Adam
+ |date=January 1990
+ | title = Review: Sword of Aragon
+ | journal = [[Compute!]]
+ | volume = 12
+ | issue = 116
+ |pages=109, 114
+ | location = North Carolina, United States
+ | publisher = Compute! Publications
+ | issn = 0194-357X }}
+</ref>  Video games designer [[Alan Emrich]] considered ''Sword of Aragon''{{'s}} gameplay typical of the "eXplore, eXpand, eXploit and eXterminate" nature of the [[4X]] genre.<ref>{{cite magazine
+ | last = Emrich
+ | first = Alan
+ | author-link = Alan Emrich
+ |date=September 1994
+ | title = Your MOM Wears Magic Boots!
+ |magazine= Computer Gaming World
+ | issue = 122
+ |page=18
+ | location = California, United States
+ | publisher = Golden Empire Publications
+ | issn = 0744-6667 }}
+</ref>
+
+== Development ==
+''Sword of Aragon'' was developed and published by [[Strategic Simulations, Inc.]], a video game company that dominated the 1980s market for digital [[Wargaming|wargames]].  Their products typically "copied the board game formula without adding revolutionary new elements."<ref>{{cite book
+  |last1 = Egenfeldt-Nielsen
+  |first1 = Simon
+  |last2 = Smith
+  |first2 = Jonas Heide
+  |last3 = Tosca
+  |first3 = Susana Pajares
+  |title = Understanding Video Games: The Essential Introduction
+  |url = https://books.google.com/books?id=31XHdVXlbt0C
+  |access-date = 2009-10-10
+  |year = 2008
+  |publisher = [[Routledge]]
+  |location = New York
+  |isbn = 978-0-415-97721-0
+  |page = 67
+  |chapter = History
+  |chapter-url = https://books.google.com/books?id=31XHdVXlbt0C&pg=PT53 }}
+</ref>  Most strategy games at this time featured hexagon-based maps and a sequence of turns among players.<ref name=perla>{{cite book
+  |last = Perla
+  |first = Peter
+  |title = The Art of Wargaming: A Guide for Professionals and Hobbyists
+  |url = https://books.google.com/books?id=C_sjPhgaEzwC
+  |access-date = 2009-11-27
+  |year = 1990
+  |publisher = [[United States Naval Institute]]
+  |location = Maryland
+  |isbn = 0-87021-050-5
+  |page = 152
+  |chapter = Wargaming after the War
+  |chapter-url = https://books.google.com/books?id=C_sjPhgaEzwC&pg=PA105 }}
+</ref>  ''Sword of Aragon'' plainly exhibits the influence of traditional board games in its design.  Its maps are laid out in hexes, and the concept of stacking limits plays a strong part in the game's strategies.<ref name=ace />  Written in [[QuickBASIC|Microsoft QuickBASIC]] and other languages,<ref name=dragon153 /> ''Sword of Aragon'' features a [[copy protection]] system that uses the game manual.  On starting the game, the icon of an Aragonian city is displayed, along with a cue for a word in the manual's description of that city; a separate poster identifies the cities with their icons.  The game proceeds only after the correct answer has been entered.<ref name=dator>{{cite journal
+ | last = Ekholm
+ | first = Hans
+ |date=September 1990
+ | title = Nöje
+ |trans-title= Entertainment
+ | journal = Datormagazin
+ | issue = 13
+ |page=70
+ | location = Sweden
+ | publisher = Bröderna Lindströms Förlags AB
+ | issn = 1650-1306
+ | language = sv }}
+</ref>
+
+== Reception ==
+[[File:Wargaming at CSW Expo 2009 (000).jpg|thumb|225px|alt=Five men sit at a table, poring over a map.  Dice and counters lie atop the map, some counters are stacked.  The map is subdivided into small hexagons of identical size.|''Sword of Aragon''{{'}}s mechanics followed closely those of tabletop wargames&mdash;[[hex map]]s and stacking limits (as seen in this picture of a tabletop wargaming session).]]
+''Sword of Aragon'' was released when fantasy-themed wargames were gaining popularity and computer wargames were starting to flourish as the rules of the board games grew in complexity.<ref>{{cite book
+  |last = Sabin
+  |first = Philip
+  |author-link = Philip Sabin
+  |editor1-last = Cornell
+  |editor1-first = Tim
+  |editor1-link = Tim Cornell
+  |editor2-last = Allen
+  |editor2-first = Thomas
+  |editor2-link = Thomas B. Allen (author)
+  |title = War and Games
+  |url = https://books.google.com/books?id=nQAXzSJsqKcC
+  |access-date = 2009-10-10
+  |series = Studies on the Nature of War
+  |volume = 3
+  |year = 2002
+  |publisher = [[Boydell & Brewer|Boydell Press]]
+  |location = New York
+  |isbn = 0-85115-870-6
+  |pages=197, 203, 212
+  |chapter = Playing at War: The Modern Hobby of Wargaming
+  |chapter-url = https://books.google.com/books?id=nQAXzSJsqKcC&pg=PA193 }}
+</ref>  The digital versions were simpler in terms of their gameplay, as parts of the complex mechanics were handled by computers instead.  Freed of dice rolling, complex calculations, and coordination of the sequence of play, casual gamers were more amenable to playing these games.<ref name=perla /><ref name=card>{{cite journal
+ | last = Card
+ | first = Orson Scott
+ | author-link = Orson Scott Card
+ |date=December 1989
+ | title = Gameplay: Role-Playing Tedium Transcends the Computer Age
+ | journal = Compute!
+ | issue = 115
+ |page=92
+ | location = North Carolina, United States
+ | publisher = Small System Services
+ | issn = 0194-357X }}
+</ref>  According to ''[[ACE (games magazine)|Advanced Computer Entertainment]]''{{'}}s John Minson, ''Sword of Aragon'' complied with part of this trend; its huge complicated set of rules would have made it an unplayable board game, but by hiding its mechanics from the player, the digital version could be played by anyone.  However, as Minson further explained, the scope of the game was too large for casual gamers to handle, overwhelming them with "the number of factors under their control", and hardcore gamers are more likely to appreciate the game's complexity.<ref name=ace />
+
+In the January 1990 edition of [[Dragon (magazine)|''Dragon'']] (Issue 153), Hartley, Patricia, and Kirk Lesser believed that while the game was exciting, it suffered several design flaws that made the game too difficult for them. They found that the computer-controlled enemies constantly outpaced their economy and military might, and the game gave them no immediate opportunity to retreat their army when ambushed by superior forces, forcing them to suffer heavy losses.<ref name=dragon153 />
+
+In the February–March 1990 edition of ''[[Games International]]'' (Issue 13), Dave Morris found that the programming did not allow the enemy to play intelligently, pointing out that "even on Expert level your opponents will be just as dumb — there'll just be more of them." He was also disappointed by the game's graphics. Morris concluded by giving the gameplay a poor rating of 5 out of 10 and the graphics an even poorer 4 out of 10, saying, "Fighting a succession of poor opponents became repetitious, and its almost impossible to lose a battle even if the odds are stacked against you."<ref name=ad>{{cite magazine|last=Morris|first=Dave| date=February–March 1990|title=Saga Pack|journal=[[Games International]]| issue=13|pages=49}}</ref>
+
+''[[Compute!]]''{{'}}s Adam Starkweather found it too easy in later stages of the game, as his character's well-developed armies "steamroll" their way through the opposition.<ref name=compute />  The Lessers and ''Amiga Joker''{{'}}s Werner Hiersekorn felt the game ran slow on their computers,<ref name=dragon153 /><ref name=joker>{{cite journal
+ | last = Hiersekorn
+ | first = Werner
+ |date=September 1990
+ | title = Review &mdash; Sword of Aragon
+ | journal = Amiga Joker
+ |page=54
+ | publisher = Joker Verlag
+ | location = Grasbrunn, Germany
+ | language = de }}
+</ref> while Starkweather reflected that battles could take up to one and a half hours to complete.<ref name=compute /> In 1990 and 1993 ''[[Computer Gaming World]]'' gave the game three-plus stars out of five, stating that it had "high playability".<ref name="brooks199010">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=75 | title=Computer Strategy and Wargames: Pre-20th Century |magazine=Computer Gaming World | date=October 1990 | access-date=16 November 2013 | author=Brooks, M. Evan |page=11}}</ref><ref name="brooks199306">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=107 | title=An Annotated Listing of Pre-20th Century Wargames |magazine=Computer Gaming World | date=June 1993 | access-date=7 July 2014 | author=Brooks, M. Evan |page=136}}</ref>
+
+Several video game observers doubted the classification of ''Sword of Aragon'' as a role-playing game. Science fiction and fantasy novelist [[Orson Scott Card]] and ''[[Amiga Computing]]''{{'}}s Lucinda Orr considered it more of a strategy than a role-playing game.<ref name=card />
+
+John Minson of ''ACE'' was of like mind, and further elaborated that unlike the [[Gold Box|Dungeon and Dragon series]] of video games, ''Sword of Aragon'' failed to inspire players to identify themselves with the characters, giving a "coldly mechanical experience" instead.<ref name=ace />
+
+''Datormagazin''{{'}}s Hans Ekholm thought otherwise, saying the gameplay did not require any strategy, and considered ''Sword of Aragon'' "a fantasy role-playing/adventure game and nothing else".<ref name=dator />
+
+Critics had minor criticisms with the game's quality when comparing to its contemporaries. Minson called its interface "old-fashioned",<ref name=ace /> and ''Computer Gaming World'' said it was "clunky"<ref name=cgw /> and "marginal", a description it also gave the game's graphics.{{r|brooks199010}} Graphically, Orr and ''[[Zzap!64]]''{{'}}s Phil King found the game "primitive", though "adequate".<ref name=computing /><ref name=zzap /> More troubling to several reviewers was the game's copy protection system.  Ekholm was not pleased that he had to unfold a flimsy poster to identify the requested city.  His copy was falling apart after several identifications.<ref name=dator />  The game further frustrated him when it failed to acknowledge the correct key.  The provided hints were incorrect, a situation also experienced by the Lessers.<ref name=dragon153 /><ref name=dator />  The inaccuracies were not restricted to the copy protection.  Starkweather pointed out discrepancies in the documentation&mdash;several features of the game were either not explained or wrongly documented.<ref name=compute />
+
+Ekholm dismissed ''Sword of Aragon'' for its flawed copy protection and perceived lack of strategy.<ref name=dator />  Hiersekorn was more condemning; rating the game poorly for its graphics and sound, and confused by its presented lists of military and economic data, he called the game a "cheap clone".<ref name=joker />  Regardless, such issues did not deter other reviewers from praising the game.  Pleased with the large number of options to manage their cities and to order their armies in combat, they felt the game was deep and offered many exciting moments;<ref name=dragon153 /><ref name=computing /><ref name=zzap />  Kritzen judged the system "challenging and ultimately rewarding."<ref name=cgw />  According to ''[[Retro Gamer]]'' magazine, "''Sword of Aragon'' is considered by many to be the best fantasy wargame ever."<ref>{{cite magazine
+ | author = Retro Gamer staff
+ | date = 2007-09-13
+ | title = Developer Lookback&mdash;Strategic Simulations Inc (Part 1 of 2)
+ |magazine= [[Retro Gamer]]
+ | issue = 42
+ |page=38
+ | location = Bournemouth, United Kingdom
+ | publisher = [[Imagine Publishing]]
+ | issn = 1742-3155 }}
+</ref>  Starkweather was equally pronounced in his opinion.  He called ''Sword of Aragon'' addictive and was willing to overlook issues with the game, finding pleasure in formulating strategies and tactics to overcome the enemy.<ref name=compute />
+
+In a review of ''Sword of Aragon'' in ''[[Black Gate (magazine)|Black Gate]]'', John ONeill said "''Sword of Aragon'' is a very hard game, and a lot of reviewers griped about it for that reason. But it's also full of surprises. Gutsy military victories and a generous, princely spirit are both absolutely essential to winning, but along the way you can find three powerful artifacts that will make claiming the throne a lot easier. You also get to slay a dragon, demolish the titan stronghold, and depose the cruel Emperor of the Tetradan Empire, and eventually assume the Aragonian throne. It's a long, painful road, but an enormously satisfying one."<ref>{{cite web | url=https://www.blackgate.com/2013/04/24/vintage-bits-sword-of-aragon/ | title=Vintage Bits: Sword of Aragon – Black Gate | date=24 April 2013 }}</ref>
+
+==Other reviews==
+*''[[Shadis]]'' #1 (Jan., 1990)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{moby game|id=/sword-of-aragon|name=''Sword of Aragon''}}
+
+{{Good article}}
+
+[[Category:1989 video games]]
+[[Category:4X video games]]
+[[Category:Amiga games]]
+[[Category:Computer wargames]]
+[[Category:DOS games]]
+[[Category:Role-playing video games]]
+[[Category:Strategic Simulations games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Orcs in popular culture]]
+[[Category:Single-player video games]]

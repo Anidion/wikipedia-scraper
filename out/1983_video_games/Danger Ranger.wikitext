@@ -1,0 +1,57 @@
+Danger Ranger
+Permalink: //en.wikipedia.org/w/index.php?title=Danger_Ranger&oldid=1224580441
+Accessed on: 2024-06-26T16:54:51.196558
+
+
+
+------
+Danger Ranger
+{{short description|1983 video game}}
+
+{{Infobox video game
+| title = Danger Ranger
+| image = Danger_Ranger_Cover_Art.jpg
+| caption = 
+| released = 1983
+| designer = [[Ken Kalish]]
+| programmer = '''Dragon''', '''CoCo'''<br>[[Ken Kalish]]<br>'''Atari 8-bit''', '''C64'''<br>Rita Jay
+| composer = 
+| publisher = [[Microdeal]]
+| developer = [[Med Systems Software|Med Systems]]
+| platforms = [[Atari 8-bit]], [[Commodore 64]], [[Dragon 32/64|Dragon]], [[TRS-80 Color Computer]]
+| genre = [[Platform game|Platform]]
+}}
+
+'''''Danger Ranger''''' is a non-scrolling [[platform game]] designed by [[Ken Kalish]] and published in 1983 by [[Microdeal]] for the [[Dragon 32/64]] and [[TRS-80 Color Computer]].<ref name="mobygames"/> The game was ported to the [[Atari 8-bit computers]] and [[Commodore 64]] by Rita Jay in 1984.<ref name="giantlist"/>
+
+==Gameplay==
+The objective of the game is to traverse two different screens. In the first screen, consisting of five floors, the player must jump between platforms, collecting all the keys while avoiding bats and bullets.<ref name=boyle/> After collecting the tenth key, the player moves on to the second screen, walking on platforms and collecting treasure chests while avoiding acid rain drops and shooting deadly masks.<ref name=boyle/>
+
+Once both screens are completed, they are repeated at a higher difficulty level.
+
+==Reception==
+''[[Dragon User]]'' reviewed the game in its April 1984 issue and stated that it is not Ken Kalish's best game, but it does show some originality.<ref name="du"/> A reviewer for ''Games Computing'' found the Commodore 64 version to be "very difficult" in an October 1984 review.<ref name="gc"/>
+
+==References==
+{{reflist|refs=
+<ref name="mobygames">{{cite web|title=MobyGames:Danger Ranger|url=https://www.mobygames.com/game/danger-ranger}}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="du">{{cite journal |title=Software scrutiny |journal=Dragon User |date=April 1984 |page=15 |url=https://archive.org/details/dragon-user-magazine-12/page/n13/mode/2up}}</ref>
+<ref name="gc">{{cite journal |title=Software |journal=Games Computing |date=October 1984 |page=59 |url=https://archive.org/details/Games_Computing_1984-10_Argus_Specialist_Publications_GB/page/n57/mode/2up}}</ref>
+<ref name="boyle">{{cite web |last1=Boyle |first1=L. Curtis |title=Danger Ranger |url=http://www.lcurtisboyle.com/nitros9/dangerranger.html |website=Tandy Color Computer Games}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=1501}}
+*[http://gb64.com/game.php?id=1954&d=18&h=0 ''Danger Ranger''] at Gamebase 64
+*{{Internet Archive game|id=a8b_Danger_Ranger_1984_Microdeal_GB_a}}
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Dragon 32 games]]
+[[Category:Med Systems Software games]]
+[[Category:Microdeal games]]
+[[Category:Platformers]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games developed in the United Kingdom]]

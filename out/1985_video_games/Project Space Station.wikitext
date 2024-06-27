@@ -1,0 +1,66 @@
+Project Space Station
+Permalink: //en.wikipedia.org/w/index.php?title=Project_Space_Station&oldid=1230772693
+Accessed on: 2024-06-26T16:58:58.132947
+
+
+
+------
+Project Space Station
+{{Short description|1985 video game}}
+{{Refimprove|date=March 2019}}
+{{Infobox video game
+|title = Project Space Station
+|image = Project Space Station cover.jpg
+|developer = [[HESware]]
+|publisher = HESware
+|designer = [[Lawrence Holland]]
+|released = 1985
+|genre = [[Simulation game|Simulation]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64]], [[Apple II]], [[DOS]]
+}}
+
+'''''Project Space Station''''' is a simulation game written for the [[Commodore 64]] computer published in 1985 by [[HESware]].<ref name=":0">{{Cite web |title=Project: Space Station (1985) |url=https://www.mobygames.com/game/23319/project-space-station/ |access-date=2023-07-16 |website=MobyGames |language=en}}</ref><ref>{{Cite web |title=Project: Space Station |url=https://www.lemon64.com/game/project-space-station |access-date=2023-07-16 |website=Lemon64 |language=en}}</ref><ref name=":1">{{Cite book |last=Vogt |url=https://ntrs.nasa.gov/api/citations/19910007288/downloads/19910007288.pdf |title=Software for Aerospace Education - A Bibliography |last2=Roth |last3=Phelps |publisher=NASA |year=January 1, 1990 |edition=2nd |pages=56}}</ref> It was ported to the [[Apple II]] and [[DOS]] in 1987.<ref name=":0" /><ref>{{Cite web |title=Project: Space Station (1987) by Micro Imagery MS-DOS game |url=https://www.uvlist.net/game-231018-Project+Space+Station |access-date=2023-07-16 |website=Universal Videogame List |language=en}}</ref><ref>{{Citation |title=Project Space Station |date=1987 |url=http://archive.org/details/msdos_Project_Space_Station_1987 |access-date=2023-07-16}}</ref><ref name=":1" />
+
+==Summary==
+The game puts the player in control of the [[NASA|National Aeronautics and Space Administration]] (NASA) and tasks them with building and maintaining a [[space station]] while also generating enough money with commercial contracts to make up for an anemic yearly budget. This can be seen as a discrete set of phases, except that they all proceed simultaneously. The exception is at the beginning of the game where the player has unlimited time in the planning phase before the game clock starts.
+
+In the planning phase, the player first allocates the funds they have to various budget items, like crew selection, station modules, and research and development. Then they choose their crew, who have intrinsic task sets (like piloting and physics), and varying levels of competence and compatibility with other potential employees. From there the player purchases equipment like space suits and satellites, and station modules like laboratories and solar arrays. Then they schedule their launches using the two [[Space Shuttle]]s available (''[[Space Shuttle Atlantis|Atlantis]]'' and ''[[Space Shuttle Discovery|Discovery]]'',<ref>{{Cite web |title=» Project: Space Station, Part 3: The Game The Digital Antiquarian |url=https://www.filfre.net/2014/07/project-space-station-part-3-the-game/ |access-date=2023-07-16 |language=en-US}}</ref> though the initial release used the [[Space Shuttle Challenger|Space Shuttle ''Challenger'']]), and have their budget approved. In the final stage of the planning phase the player can create a simulated station with an unlimited number of parts, and without dealing with the later constrictions of the [[Extravehicular activity|EVA]].
+
+The launch phase has the player decide whether launch conditions are stable enough to merit launch. If they give the implicit go-ahead, they engage in a light arcade sequence where the player attempts to keep the shuttle on course throughout its orbital burn. The more successful the player is, the closer the shuttle will be to the station.
+
+Once the shuttle is in orbit, the player is tasked to assemble the components they brought up (or to fire off any satellites they have contracts for) in the Extra-Vehicular Activity, or EVA phase. Here the player directly controls an Orbital Construction Pod, a small ship with mechanical arms that an astronaut can use to move large equipment. Being careless here could have consequences as the pod or equipment may become damaged, and it may run out of fuel and become stranded until another pod can rescue it.  Consequences were not limited to equipment damage: Stranded astronauts in pods could die when oxygen ran out.  Other crew hazards included solar flares, which could kill astronauts on the station or shuttle if precautions (using an emergency module in station design) were not taken.  Crew died in reverse alphabetical order from solar flares.
+
+The player then transfers crew to and from the space station and assigns them to research tasks. Completing these tasks awards the player with government contracts that supplement NASA's budget. A math bug (or intentional cheat) in the game allowed an infinite supply of money, if the player allocated more than $10,000K to any budget. For example, if $800k is spent, the budget would be recalculated to $19,200K instead of $9,200, as expected.
+
+Finally the player lands the shuttle. After determining that landing conditions are adequate, the player again keeps the shuttle on course as it turns from the station and enters its descent. Skill here determines how close the shuttle will be to the optimal point from the runway. After this the player controls the shuttle with a simple landing simulator viewed from the side. The more abrupt or overshot the landing, the more damage will be done to the shuttle and the longer it will need to be repaired before it can venture out on another mission.
+
+The game is played using a menu system. Every option can be queried for in-game help, and every major task has a [[Tutorial (video games)|tutorial]] that simulates that task without the consequences of failure, and sometimes with additional assistance (like being able to pause a landing attempt). Another major feature is the message system that alerts the player when there are changes to mission status, wherever the player might be within the menu system.
+
+==Reception==
+''[[.info (magazine)|Info]]'' rated ''Project Space Station'' five stars out of five, describing it as "probably one of the most ambitious programs ever developed for the Commodore 64 ... a fun, complex simulation".<ref name="info198601">{{Cite magazine |last=Dunnington |first=Benn | last2=Brown | first2=Mark R. |date=December 1985 – January 1986 |url=https://archive.org/stream/info-magazine-09/Info_Issue_09_1985_Dec-Jan_1986#page/n95/mode/2up | title=C-64/128 Gallery |magazine=Info| issue= 9 |pages= 92–93 |issn=0897-5868|access-date=2019-04-09}}</ref>
+
+''[[Computer Entertainer]]'' rated the Apple II and IBM PC versions with two and a half / three stars.<ref>{{Cite news |date=December 1987 |title=MULTI-SYSTEM Software |pages=7 |work=[[Computer Entertainer]] |url=https://nintendotimes.com/wp-content/uploads/2017/12/Computer-Entertainer-December-1987.pdf}}</ref>
+
+==See also==
+*''[[Buzz Aldrin's Race Into Space]]'' &mdash; a US-Soviet Space Race simulator
+*''[[E.S.S. Mega]]''
+*[[Shuttle (video game)|''Shuttle'' (video game)]]
+* ''[[Earth Orbit Stations]]''
+
+==References==
+<references/>
+
+==External links==
+* {{moby game|id=/project-space-station}}
+* [https://www.cvxmelody.net/Project%20Space%20Station%20manual%20for%20Apple%20II,%20C64,%20IBM%20(1987%20Avantage).pdf Project: Space Station manual for C64, Apple II, IBM (1987 Avantage)]
+
+[[Category:1985 video games]]
+[[Category:Apple II games]]
+[[Category:Business simulation games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Human Engineered Software games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in outer space]]

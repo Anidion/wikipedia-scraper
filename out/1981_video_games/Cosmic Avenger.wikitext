@@ -1,0 +1,85 @@
+Cosmic Avenger
+Permalink: //en.wikipedia.org/w/index.php?title=Cosmic_Avenger&oldid=1225075575
+Accessed on: 2024-06-26T16:52:12.297203
+
+
+
+------
+Cosmic Avenger
+{{short description|1981 video game}}
+{{Infobox video game
+|title         = Cosmic Avenger
+|image         = Cosmic Avenger arcade flyer.jpg
+|caption       = Arcade flyer
+|developer     = [[Universal Entertainment|Universal]]<br>Nuvatec (ColecoVision)<ref name="CV.dkca">{{cite web|url=http://www.colecovision.dk/cosmic-avenger.htm|title=Cosmic Avenger © 1981 by: Universal Co., Ltd.|website=colecovision.dk|date=2019|access-date=2019-08-10}}</ref>
+|publisher     = '''Arcade'''<br>Universal<br>'''ColecoVision'''<br>[[Coleco]] (NA)<br>[[CBS#CBS Toys Division|CBS Electronics]] (EU)
+|series        = ''Cosmic''
+|platforms     = [[Arcade video game|Arcade]], [[ColecoVision]]
+|released      = '''Arcade'''{{vgrelease|WW|July 1981<ref name="ah">{{cite web|url=https://www.arcade-history.com/?n=cosmic-avenger&page=detail&id=506|title=Cosmic Avenger (Arcade)|website=arcade-history.com|access-date=2019-08-10}}</ref>}} '''ColecoVision'''{{vgrelease|NA|August 1982|EU|1983}}
+|genre         = [[Scrolling shooter]]
+|modes         = 1-2 players alternating turns
+|arcade system = 8106<ref name="MA.comCA">{{cite web|url=https://www.mikesarcade.com/cgi-bin/spies.cgi?action=url&type=info&page=UniversalGameList.txt|title=Universal/UPL Game List|website=mikesarcade.com|access-date=2019-08-10}}</ref>
+}}
+
+{{nihongo foot|'''''Cosmic Avenger'''''|コズミック アベンジャー|''Kozumikku Abenjā''||lead=yes|group=lower-alpha}} is a [[scrolling shooter]] developed by [[Universal Entertainment|Universal]] and released as an [[arcade video game]] in July 1981.<ref name="ah"/> It is part of the first wave shooters with forced horizontal scrolling which followed [[Konami]]'s ''[[Scramble (video game)|Scramble]]'' and ''[[Super Cobra]]'' from earlier in the year. It was released the same month as ''[[Vanguard (video game)|Vanguard]]''. The final installment in Universal's ''Cosmic'' series,<ref name="ah"/> players take control of the Avenger space fighter and, as in ''Scramble'', use bullets and bombs against enemy air and ground forces. The world is one continuous level made up of different areas.
+
+The game was ported to [[ColecoVision]] as one of its August 1982 [[launch title]]s in North America. The ColecoVision version was more successful than the arcade original, garnering mostly positive reception from critics who praised the action, visuals, and sound effects. Ports to the [[Atari 2600]] and [[Intellivision]] were in development and advertised, but not released.
+
+== Gameplay ==
+[[File:ARC Cosmic Avenger.png|left|thumb|The player's ship (left of the searchlight beam) flies over the plaid terrain of the first section.]]
+
+Players take control of the Avenger fighter craft, guiding it across  horizontally scrolling terrain and dodging obstacles. The main objective is earning points by destroying alien forces.<ref name="CVGARCca">{{cite magazine|url=https://archive.org/stream/cvg-magazine-001#page/n27/mode/1up|title=Arcade Action - Sea-Space Mission|magazine=[[Computer and Video Games]]|issue=1|publisher=[[EMAP]]|date=November 1981|page=28}}</ref><ref name="CACVmanual">''Cosmic Avenger'' cartridge instructions (ColecoVision, US)</ref> The game is divided into three sections, each with its own terrain and obstacles. There is no intermission between sections; the game scrolls into the new terrain seamlessly. The game can be played by one or two players, alternating turns as each player's ship is destroyed.<ref name="CACVmanual"/>
+
+A joystick moves the ship in four directions, and buttons fire lasers and bombs to destroy spaceships, anti-aircraft missiles, tanks, and UFOs. A radar display at the top of the screen shows incoming enemies. The ship does not require a constantly depleting fuel supply to be replenished, which allows players to focus solely on the enemies. The enemies have specific behavior patterns and can crash into each other. As the game progresses, enemies act more aggressively and fire at a faster rate. An "X station" occasionally appears on the ground; if hit, it destroys all enemies visible on the screen.
+
+If the player's ship is hit by enemy fire, crashes against the terrain, enemies or any explosion radius, a life is lost and they will be [[respawn]]ed into the nearest [[Saved game#Checkpoints|checkpoint]] reached. Once all lives are lost, the [[Game over|game is over]], although players can insert coins to continue playing without having to restart from the beginning.
+
+== Release ==
+{{Video game reviews
+|rev1      = ''[[AllGame]]''
+|rev1Score = (ColecoVision) {{Rating|2|5}}<ref name="AGCVca">{{cite web|last=Alan Weiss|first=Brett|url=http://www.allgame.com/game.php?id=15106&tab=review|title=Cosmic Avenger (ColecoVision) - Review|website=[[AllGame]]|date=1998|access-date=2019-08-10|archive-url=https://web.archive.org/web/20141115030810/http://www.allgame.com/game.php?id=15106&tab=review|archive-date=15 November 2014|url-status=live|df=dmy-all}}</ref>
+|rev2      = ''Arcade Express''
+|rev2Score = (ColecoVision) 9 / 10<ref name="AECVca">{{cite magazine|last=Worley|first=Joyce|url=http://www.digitpress.com/library/newsletters/arcadeexpress/arcade_express_v1n4.pdf|title=The Hotseat - Reviews of New Products: Cosmic Avenger/Videogame Cartridge (ColecoVision)/Coleco|magazine=Arcade Express - The Bi-Weekly Electronic Games Newsletter|volume=1|issue=4|publisher=Reese Publishing Co., Inc.|date=September 26, 1982|page=7}}</ref>
+|rev3      = ''[[:de:TeleMatch|TeleMatch]]''
+|rev3Score = (ColecoVision) 3 / 6<ref name="TMCVca">{{cite magazine|url=https://www.kultpower.de/archiv/hefte/telematch_1983-05/big/telematch_1983-05_025.jpg|title=TeleMatch Test - Cosmic Avenger (CBS-Colecovision) - Jedem die Schlacht, die er verdient!|magazine=[[:de:TeleMatch|TeleMatch]]|issue=3|publisher=TeleMatch Verlag|date=May 1984|page=25|lang=de|issn=0174-741X}}</ref>
+|rev4      = ''[[Tilt (French magazine)|Tilt]]''
+|rev4Score = (ColecoVision) {{Rating|5|6}}<ref name="TiltCVca">{{cite magazine|url=http://download.abandonware.org/magazines/Tilt/tilt_numero007/Tilt%20007%20-%20Page%20040%20(09-10-1983).jpg|title=Tubes - Cassettes - Cosmic Avenger|magazine=[[Tilt (French magazine)|Tilt]]|issue=7|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=September 1983|page=40|lang=fr}}</ref>
+}}
+
+''Cosmic Avenger'' was first released in arcades by Universal in July 1981 as one of the first games with forced horizontal scrolling in the wake of ''[[Scramble (video game)|Scramble]]'' and ''[[Super Cobra]]'' by Konami<ref name="ah"/> and following the May 1981 release of Sega's horizontally and vertically scrolling ''Space Odyssey''.<ref>{{cite web |title=Space Odyssey |url=https://www.arcade-history.com/?n=space-odyssey&page=detail&id=2550 |website=Arcade History}}</ref> The game runs on Universal's 8106 arcade board.<ref name="MA.comCA"/>
+
+The ColecoVision port from Nuvatec was one of the console's North American launch titles in August 1982, with a European release in 1983.<ref name="CV.dkca"/> Coleco announced and advertised versions of ''Cosmic Avenger'' for both the [[Atari 2600]] and [[Intellivision]], but neither was released for unknown reasons.<ref>{{cite magazine |last=Goodman |first=Danny |url=https://archive.org/stream/Video_Arcade_Games_Vol_1_No_1_1983-09_Creative_Computing_US#page/n38/mode/1up|title=Video Games Update: Coleco Cartridge Collection|magazine=Creative Computing Video & Arcade Games|volume=1|issue=1|publisher=Ahl Computing|date=Spring 1983|page=37}}</ref><ref>{{cite web|last=Yarusso|first=Albert|url=https://atariage.com/catalog_page.php?SystemID=2600&CatalogID=41&currentPage=4|title=Catalog - Coleco (R78216A)|website=[[AtariAge]]|access-date=2019-08-10}}</ref> The original arcade release of ''Cosmic Avenger'' did not become a hit, but found success and a larger audience as one of the launch titles for ColecoVision, like some of the lesser known arcade games that gained popularity on the console such as Universal's ''[[Lady Bug (video game)|Lady Bug]]''.<ref name="CCV&AGCVca"/><ref name="GBca">{{cite web|url=https://www.giantbomb.com/cosmic-avenger/3030-17011/|title=Cosmic Avenger (Game)|publisher=[[Giant Bomb]]|access-date=2019-08-10}}</ref>
+
+==Reception==
+The ColecoVision version of ''Cosmic Avenger'' was reviewed in ''[[Video (magazine)|Video]]'' magazine in its "Arcade Alley" column where it was described as "great fun" and as a game that "packs more than enough excitement in its three screens to satisfy any lover of arcade-style action games". Although reviewers noted that the game is "not as free-ranging as [those] in which the ship can scroll left as well as right", it was praised for its "beautiful graphics", and it was suggested that ''Cosmic Avenger'' might herald the coming of a "scrolling shootout" trend in home video games.<ref name="AACVca">{{cite magazine|last1=Kunkel|first1= Bill|author-link1=Bill Kunkel (gaming)|last2=Katz|first2=Arnie|author-link2=Arnie Katz|title=Arcade Alley: ColecoVision–The New State of the Art|magazine=[[Video (magazine)|Video]]|volume=6|issue=9|publisher=Reese Communications|date=December 1982|pages=26, 112|issn=0147-8907}}</ref>{{rp|26}} In September 1982, ''Arcade Express'' reviewed the ColecoVision version and scored it 9 out of 10.<ref name="AECVca"/> ''[[Creative Computing|Creative Computing Video & Arcade Games]]'' said in 1983 that "although ''Cosmic Avenger'' was not terribly popular in the arcades, Coleco's adaptation will do well in the home market" and a "nice addition" to the console's library.<ref name="CCV&AGCVca">{{cite magazine|last=Linzmayer|first=Owen|url=https://archive.org/stream/Video_Arcade_Games_Vol_1_No_1_1983-09_Creative_Computing_US#page/n51/mode/2up|title=Home Video Games: Colecovision: Alive With Five|magazine=Creative Computing Video & Arcade Games|volume=1|issue=1|publisher=Ahl Computing|date=Spring 1983|page=50}}</ref>
+
+==Reviews==
+* ''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n47/mode/2up | title=GAMES Magazine #34 | date=December 1982}}</ref>
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{KLOV game|id=7399}}
+* [https://cvaddict.com/profile.php?gameid=5 ''Cosmic Avenger''] at ColecoVision Addict
+* [https://www.retrogamer.net/retro_games80/cosmic-avenger/ ''Cosmic Avenger''] at Retro Gamer
+
+{{Portal bar|1980s|Japan|Video games}}
+
+{{DEFAULTSORT:Cosmic Avenger}}
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:Cancelled Intellivision games]]
+[[Category:Coleco games]]
+[[Category:ColecoVision games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Science fiction video games]]
+[[Category:Universal Entertainment games]]
+[[Category:Video games developed in Japan]]
+[[Category:CBS Electronics games]]

@@ -1,0 +1,120 @@
+Strategic Conquest
+Permalink: //en.wikipedia.org/w/index.php?title=Strategic_Conquest&oldid=1136965116
+Accessed on: 2024-06-26T16:57:40.552697
+
+
+
+------
+Strategic Conquest
+{{Short description|Turn based strategy game based on Empire}}
+{{Italic title}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Strategic Conquest
+| image = Strategic conquest.jpg
+| alt = 
+| caption = 
+| programmer = Peter Merrill
+| publisher = PBI Software, [[Delta Tao Software]]
+| series = 
+| engine = 
+| platforms = [[Apple Macintosh]] and [[Apple II]]
+| released = 1984
+| genre = [[turn-based strategy|strategy]]
+| modes = 
+}}
+'''''Strategic Conquest''''' is a [[turn-based strategy]] game based on the wargame ''[[Empire (1977 video game)|Empire]]''.  It was written by Peter Merrill for the [[Apple Macintosh]] and released in 1984 by PBI Software, and later ported to the [[Apple II]] in 1986. [[Delta Tao Software]] took over distribution for later [[Classic Mac OS]] releases. It is sometimes shortened to '''Stratcon'''.<ref>{{cite web |url=http://www.deltatao.com/stratcon |title=Delta Tao Software - Strategic Conquest |accessdate=2008-05-01 |publisher=Delta Tao Software}}</ref>
+
+Like ''Empire'', the player's objective in ''Strategic Conquest'' is to defeat the enemy and conquer the world. The world is divided into islands that contain cities that can be captured to produce military units. Victory is achieved when all enemy cities have been conquered or when either player surrenders. It differed from ''Empire'' in a number of details, most notably its system for creating the game map. It can be played against the computer, or by two human players taking turns on one machine or two machines connected over an [[AppleTalk]] network.
+
+Though the game has not been updated since 1998, it is fully compatible with [[Mac OS|Macintosh System Software]] from [[System 6|6]] to [[Mac OS 9|9]], and is also playable under the [[Classic (Mac OS X)|Classic environment]] included with [[PowerPC]] versions of [[Mac OS X]] up to [[Mac OS X v10.4]].
+
+==History==
+''Strategic Conquest'' was first developed in 1984 and 1985 by Peter Merrill on an [[Apple Lisa]] for the Apple Macintosh.<ref>{{cite web |url=http://www.deltatao.com/stratcon/stratcon/stratcon.html |title=Strategic Conquest 4.0 manual |accessdate=2008-05-01 |author=Joe Williams |publisher=Delta Tao}}</ref> The first published version appears to have been in 1984, sometimes attributed incorrectly to John L. Jamison.<ref>{{cite web |url=http://home.comcast.net/~evanbrooks/20thb4.htm#STRATEGIC%20CONQUEST |title=Wargame Reviews & Analysis: The 20th Century |url-status=dead |archive-url=https://web.archive.org/web/20081010202310/http://home.comcast.net/~evanbrooks/20thb4.htm#STRATEGIC%20CONQUEST |archive-date=2008-10-10 }}</ref>
+
+''Strategic Conquest Plus'' was released in 1986. In later documents this is generally referred to ''Strategic Conquest 2.0''. The [[Apple II]] version of 1.0 shipped the same year,<ref>{{cite web |url=http://www.dadgum.com/giantlist/ |title=The Giant List of Classic Game Programmers |accessdate=2008-05-01 |author=James Hague}}</ref> and the ''Plus'' version the next year.<ref>{{cite web |url=http://apple2history.org/history/appy/aha87.html |archive-url=https://web.archive.org/web/20011124043925/http://apple2history.org/history/appy/aha87.html |url-status=dead |archive-date=2001-11-24 |title=Apple II History Software |access-date=2008-05-01 |author=Steven Weyhrich |date=1992-09-21 |publisher=Steven Weyhrich}}</ref>
+
+The game was later acquired by [[Delta Tao Software]], who continued development. Version 3.0 added 16-color graphics and optional [[MacinTalk]] prompts, while 4.0 was a major upgrade with new units (the helicopter and artillery), and a new map-building system based on [[fractal]]s and allows the user to select maps with more or less land.
+
+The latest version, 4.0.1, was released on February 2, 1998.<ref>{{cite web |url=http://www.versiontracker.com/dyn/moreinfo/macos/4289 |title=Versiontracker - Strategic Conquest |url-status=dead |archive-url=https://web.archive.org/web/20080709015634/http://www.versiontracker.com/dyn/moreinfo/macos/4289 |archive-date=2008-07-09 }}</ref>
+
+==Description==
+===Setup===
+There are three types of games available: one-player games against the computer, two-player games on a single Mac, or two-player games over [[AppleTalk]] with one machine as the master and the other the slave.
+
+When playing a one-player game (created by selecting "Single Player Game" in the setup window), the opponent player is the computer. From version 3, the player can select a skill level from one to fifteen to make the computer more or less challenging. In harder games, above level 10, the human player starts with fewer neutral cities nearby to conquer and takes twice as long to produce any particular unit than the computer.
+
+The map is a horizontally oriented rectangle divided into a grid of unit-sized rectangles. Measured by playable grid units, the player(s) can choose a map that is small (48 x 32), medium (96 x 64), or large (124 x 96). The top and sides of the map do not [[wraparound (video games)|'wrap around]]', i.e., units cannot transit the edges to go from the right to the left side of the map, the top to the bottom of the map, or vice versa.
+
+The 4.x versions include a re-written map generation system with three terrain settings: "wet" (mostly islands), "dry" (land including some bodies of water), and "normal" (mostly larger islands).
+
+===Game play===
+[[File:Strategic Conquest endgame.png|thumb|right|Near the end of a game in Stratcon 3.0. The player's armies, in white, are about to take one of the computer's remaining cites, in red. Player ships and fighters patrol around the island.]]
+
+Each player starts out in control of one city. All other cities are hidden and are neutral. The entire map - besides the player's city and the adjacent eight grid units - is black and must be discovered by sending units into it. The goal of the game is to capture cities and use them to produce additional military units to capture more cities. The game is won when one player controls all of the opponent's cities. Cities also offer the ability to refuel aircraft and repair ships.
+
+The game is turn-based. A turn is completed when all of the player's units have an order given in a previous turn or have been given orders in the current turn. During the turn, players may also change what units their cities are producing.
+
+A [[fog of war]] system is used, in that enemy units that are not adjacent to an enemy unit are invisible to the player. Enemy units become visible if they are discovered by the player in the course of his or her turn, until contact is lost and the enemy unit is no longer visible.
+
+===Units===
+All units may attack up to two times per turn. If you are playing against the computer you can extend this to however many moves would be left to the unit if you had not attacked by clicking the "W" (wake) key. Tanks and ships (including submarines) with a strength greater than one suffer a reduction in their number of moves per turn if they suffer sufficient damage in battle but are not destroyed. For instance, a tank with a strength of one has only one move per turn. This is not true of aircraft.
+
+{| class="wikitable"
+|-
+! style="text-align:right; padding-right:0.5em" | Unit:
+! Tank!!Artillery<br><small>(version 4)</small>!!Fighter!!Helicopter<br><small>(version 4)</small>!!Bomber!!Transport!!Destroyer!!Submarine!!Carrier!!Battleship
+|-
+! style="text-align:right; padding-right:0.5em" | Days to Produce:
+| 4||4||6||8||25+||8||8||8||10||20
+|-
+! style="text-align:right; padding-right:0.5em" | Strength:
+| 2||1||1||1||1||3||3||3||12||18
+|-
+! style="text-align:right; padding-right:0.5em" | Attack Range:
+| 1||4||1||1||1+||1||1||1||1||4
+|-
+! style="text-align:right; padding-right:0.5em" | Captures City?:
+| Yes||Yes||No||No||No||No||No||No||No||No
+|-
+! style="text-align:right; padding-right:0.5em" | Moves On:
+| Land||Land||Any||Any||Any||Water||Water||Water||Water||Water
+|-
+! style="text-align:right; padding-right:0.5em" | Moves/Turn:
+| 2||1||20||10||10||3||4||3||3||3
+|-
+! style="text-align:right; padding-right:0.5em" | Fuel:
+| N/A||N/A||20||10||30||N/A||N/A||N/A||N/A||N/A
+|}
+<!-- Deleted image removed: [[File:Strategic Conquest (screenshot).jpg|thumb|300px|right|A screenshot from version 3.0 of Strategic Conquest, showing unexplored regions (covered in black), ocean (blue), islands (green), cities occupied by the player, unoccupied cities, and aircraft, armies, and ships controlled by the player (black or grey) as well as two ships (red) controlled by the computer opponent.]] -->
+
+==Reception==
+An eight-page review in ''[[MacUser]]'' covered the 2.0 version in depth, including strategies for dealing with various units. It concludes that "With this wonderfully playable yet intricate program, PBI has superseded the tired genres of shoot-'em-up arcade spiels and rigidly structured text adventures" and awards it 4.5 out of 5.<ref>{{cite magazine |magazine=MacUser |title=Live Long and Conquer |first=James |last=Hornfischer |url=https://vintageapple.org/macuser/pdf/MacUser_8802_February_1988.pdf |date=February 1988 |pages=240–254}}</ref>
+
+William H. Harrington reviewed the 1986 release of the game for ''[[Computer Gaming World]]'', and stated that "Strategic Conquest Plus is one of those rare games that the author seems committed to improving. With a host of innovative new features and the ability to withstand a billion or so replays, SC+ is certainly worth taking a look at. Just keep the sound down if the boss is around."<ref name="CGW35">{{cite magazine |last=Harrington |first=William H. |title=Micro-Reviews |magazine=Computer Gaming World |date=March 1987 |volume=1 |issue=35 |pages=53}}</ref>
+
+A reviewer for ''[[Next Generation (magazine)|Next Generation]]'' scored the 1996 4.0 update four out of five stars, commenting that "Like all Delta Tao software, all of these features are executed impeccably - by gamers, for gamers. So, if you want a strategy game with a low learning curve and plenty of replay value, get this one; we enjoyed it."<ref>{{cite magazine |title=Strategic Conquest |magazine=[[Next Generation (magazine)|Next Generation]] |issue=16 |publisher=[[Imagine Media]] |date=April 1996 |page=98}}</ref>
+
+[[Inside Mac Games]] nominated ''Strategic Conquest'' as its pick for 1996's best strategy game, but ultimately gave the award to ''Command & Conquer'' and ''Warcraft II'' (tie).<ref name=img1996>{{cite journal |archive-url=https://web.archive.org/web/19980218053537/http://www.imgmagazine.com/issues/vol5_issue2/p5.html |url=http://www.imgmagazine.com:80/issues/vol5_issue2/p5.html |title=1996 Games of the Year |author=IMG Staff |date=1997 |volume=5 |issue=2 |archive-date=February 18, 1998 |journal=[[Inside Mac Games]] |url-status=dead }}</ref>
+
+==See also==
+*[[List of 4X video games]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.deltatao.com/stratcon/ Delta Tao Software]
+
+[[Category:1984 video games]]
+[[Category:4X video games]]
+[[Category:Classic Mac OS-only games]]
+[[Category:Classic Mac OS games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Computer wargames]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Delta Tao Software games]]
+[[Category:PBI Software games]]

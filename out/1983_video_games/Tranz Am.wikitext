@@ -1,0 +1,68 @@
+Tranz Am
+Permalink: //en.wikipedia.org/w/index.php?title=Tranz_Am&oldid=1151963038
+Accessed on: 2024-06-26T16:56:04.411198
+
+
+
+------
+Tranz Am
+{{short description|1983 video game}}
+{{distinguish|Trans Am (disambiguation)}}
+{{Infobox video game
+|title = Tranz Am
+|image = Tranzam-1.png
+|caption = Title screen
+|developer = [[Tim and Chris Stamper]]
+|publisher = [[Ultimate Play the Game]]
+|released = {{vgrelease|UK|July 1983<ref name=pcg1>{{citation| title=PSST is this the Ultimate? | journal=[[Personal Computer Games]] | publisher=[[Verenigde Nederlandse Uitgeverijen|VNU]]| date=June 1983 | issue=1 | page=5 | url=https://archive.org/stream/personalcomputergames-magazine-01/PersonalComputerGames_01#page/n6/mode/1up }}</ref>}}
+|genre = [[Action game|Action]]
+|modes = [[Single player]]
+|platforms = [[ZX Spectrum]]
+}}
+
+'''''Tranz Am''''' is an [[action game|action]] video game developed and published by [[Ultimate Play the Game]] that was released for the [[ZX Spectrum]] in July 1983. The game is set in a [[post-apocalyptic]] version of the [[United States]] and centres around a racing car driver on his quest to obtain the Eight Great Cups of Ultimate, which are scattered throughout the country.
+
+The game was written by Chris Stamper and graphics were designed by Tim Stamper. ''Tranz Am'' was one of the very few Spectrum games also available in [[read-only memory|ROM]] format for use with the [[ZX Interface 2|Interface 2]], allowing instant loading of the game (the normal method of cassette loading could take several minutes).<ref name=interface/> The game received mostly positive reviews upon release: praise was given to the game's graphics and simple controls, while criticism was directed at its confusing interface.
+
+==Gameplay==
+[[File:Tranz_Am_gameplay.gif|thumb|left|A still image of gameplay. The interface to the left displays a map of the [[contiguous United States]], petrol gauge, speedometer and lives]]
+The game is set in a [[post-apocalyptic]] [[United States]] in the year 3472. Eight Great Cups of Ultimate are dispersed around America, and the player's mission is to obtain all of them. Petrol is in short supply and the only way to re-fuel vehicles is to find petrol pumps, scattered across the country.<ref name=CVG/>
+
+The game is presented in a [[top-down perspective]] and involves driving around America to collect the eight trophies whilst avoiding natural hazards and [[kamikaze]] cars, which attempt to crash into the player. The player has a limited supply of petrol and must collect fuel at regular intervals by driving over petrol pumps. Obstacles include trees, boulders and destroyed buildings. The [[overworld]] has an invisible border which causes the player's car to reverse automatically to ensure that they do not cross the game's boundaries.<ref name=CVG/>
+
+The interface displays a list of comprehensive data: a map showing a list of key cities in the [[contiguous United States]], petrol gauge, speedometer, remaining lives, number of cups collected, short-range radar and engine temperature. Every key city in the game contains at least one petrol station. If the player drives too fast for too long, their car will overheat and slow down. To save an overheating car the player must drive below a certain speed or stop entirely to allow the engine to cool.<ref name=HCW/><ref name=PCW/>
+
+==Development==
+
+''Tranz Am'' is one of the few Spectrum games also available in [[read-only memory|ROM]] format for use with the [[ZX Interface 2|Interface 2]], allowing "instantaneous" loading of the game when the normal method of cassette loading could take several minutes.<ref name=interface>{{citation | last=Gilbert |first=John |title=Interface Games are Fast but not Furious |journal=[[Sinclair User]] |issue=24 |pages=54–55 |publisher=[[EMAP]] |date=March 1984 |url=https://archive.org/stream/sinclair-user-magazine-024/SinclairUser_024_Mar_1984#page/n53/mode/2up }}</ref> The game can also run on the 16K version of the Spectrum.<ref name=pcg1/>
+
+==Reception==
+{{Video game reviews
+| CVG = 78%<ref name=CVG>{{cite journal|title=Tranz Am review|journal=[[Computer and Video Games]]|publisher=[[Future plc]]|date=November 1983|issue=25|page=154|url=https://archive.org/stream/computer-video-games-magazine-025/CVG025_Nov_1983#page/n153/mode/1up|access-date=10 September 2015}}</ref>
+| rev1 = ''Home Computing Weekly''
+| rev1Score = {{Rating|3|5}}<ref name=HCW>{{cite journal|title=Tranz Am and Cookie review|journal=Home Computing Weekly|publisher=[[Argus Specialist Publications]]|date=August 1983|issue=26|url=https://archive.org/stream/home-computing-weekly-026/Home_Computing_Weekly_026#page/n7/mode/2up/search/tranz+am|access-date=10 September 2015}}</ref>
+}}
+The game received a mostly positive reception upon release. ''[[Computer and Video Games]]'' praised the game's controls and accessibility, stating that they were "easy to get into" upon the first try.<ref name=CVG/> A reviewer writing for ''Home Computing Weekly'' found the game to be "compulsive" overall, but noted that the game did not live up to the promises made by the description on the packaging.<ref name=HCW/> Simon Lane of ''[[Popular Computing Weekly]]'' praised the game's graphics, sound and presentation, stating that they were of "a very high quality" and that ''Tranz Am'' was an "original game" in comparison with the other games released by Ultimate.<ref name=PCW>{{cite journal|title=Tranz Am review|journal=[[Popular Computing Weekly]]|publisher=[[Sunshine Publications]]|date=1 September 1983|issue=13|page=14|url=https://archive.org/stream/popular-computing-weekly-1983-09-01/PopularComputing_Weekly_Issue_1983-09-01#page/n13/mode/2up/search/tranz+am|access-date=10 September 2015}}</ref> Lane criticised the game's interface, however, stating that he found it difficult to "concentrate on everything all at once". Lane also added that the game did not reward the player enough for collecting all of the cups, displaying just a short congratulation message before inviting him or her to begin again.<ref name=PCW/> A reviewer writing for ''[[Your Computer (British magazine)|Your Computer]]'' magazine heralded the game as a program of "outstanding achievement", considering that the game's playing area was calculated at "600 times more than the actual screen area".<ref>{{cite journal|title=Tranz Am overview|journal=[[Your Computer (British magazine)|Your Computer]]|publisher=IPC Electrical-Electronic Press|date=December 1983|volume=3|issue=12|url=https://archive.org/stream/your-computer-magazine-1983-12/YourComputer_1983_12#page/n23/mode/2up/search/tranz+am|access-date=10 September 2015}}</ref>
+
+''Tranz Am'' reached number one on the ZX Spectrum charts compiled by [[WHSmith]] replacing Ultimate's first game ''[[Jet Pac]]''.<ref name='pcw220983'>{{cite magazine|title=Top 10|magazine=Popular Computing Weekly|issue=|publisher=Sunshine Publications|date=22 September 1983|page=47|url=https://spectrumcomputing.co.uk/page.php?issue_id=2773&page=47|access-date=27 February 2022}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{WoS game|id=0009443}}
+* [http://www.robsoftcloud.net/Ultimate/games/transamintro.shtml ''Tranz Am''] {{Webarchive|url=https://web.archive.org/web/20150709134652/http://www.robsoftcloud.net/Ultimate/games/transamintro.shtml |date=2015-07-09 }} at Ultimate Wurlde
+
+{{Ultimate Play the Game}}
+{{Good article}}
+
+[[Category:1983 video games]]
+[[Category:Fiction set in the 4th millennium]]
+[[Category:Action games]]
+[[Category:Post-apocalyptic video games]]
+[[Category:Rare (company) games]]
+[[Category:Video games set in the 4th millennium]]
+[[Category:Video games set in the United States]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]
+[[Category:Video games developed in the United Kingdom]]

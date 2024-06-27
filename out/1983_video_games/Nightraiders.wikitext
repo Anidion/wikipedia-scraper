@@ -1,0 +1,51 @@
+Nightraiders
+Permalink: //en.wikipedia.org/w/index.php?title=Nightraiders&oldid=1224580679
+Accessed on: 2024-06-26T16:55:29.826880
+
+
+
+------
+Nightraiders
+{{short description|1983 video game}}
+
+{{Infobox video game
+| title = Nightraiders
+| image = Nightraiders_Cover_Art.jpg
+| caption = 
+| released = 1983
+| designer = Peter Filiberti
+| programmer = 
+| composer = 
+| publisher = [[Datamost]]
+| developer = 
+| platforms = [[Atari 8-bit]]
+| genre = [[Scrolling shooter]]
+}}
+
+'''''Nightraiders''''' is a vertically [[scrolling shooter]] designed by Peter Filiberti and published in 1983 by [[Datamost]] for [[Atari 8-bit computers]].<ref name="giantlist"/> It is heavily inspired by the 1982 Sega arcade video game ''[[Zaxxon]]''.
+
+==Gameplay==
+[[File:Nightraiders_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot]]
+
+The object of ''Nightraiders'' is to reach and destroy the enemy base. The player's ship can be moved back and forth along the bottom of the screen, firing laser cannons to destroy enemy tanks, bridges and other structures. The ship constantly consumes fuel, which can be replenished by shooting at alien fuel canisters. At the end of each stage is an alien base which must be destroyed to move to the next level.
+
+==Reception==
+''The [[Addison-Wesley]] Book of Atari Software 1984'' reviewer gave the game a poor rating (D) and found it dull with very little to hold interest.<ref name=wesley/> Vincent Puglia reviewed the game in the July 1984 issue of ''[[Electronic Games]]''. He called it "a poor's man ''Zaxxon''" with graphics "slightly above normal - especially those of the city and the tanks within it - they're not what gamers have come to expect in bombing run games."<ref name=eg/>  He wrote, "perhaps the worst aspect of ''Nightraiders'' is the documentation," and even after reading it he was unclear  what a fuel depot or even the enemy base looked like.<ref name=eg/>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name=wesley>{{cite book |editor1-last=Wells |editor1-first=Robert P. |editor2-last=Rochowansky |editor2-first=Sandra |editor3-last=Mellin |editor3-first=Michael F. |editor4-last=Stanton |editor4-first=Jeffrey |date=1984|title=Addison Wesley Book Of Atari Software 1984 |publisher=[[Addison-Wesley]] |isbn=((0-201-16465-X)) |page=91 |url=https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n91/mode/2up }}</ref>
+<ref name=eg>{{cite magazine |magazine=Electronic Games |title=Game-A-Thon: Nightraiders |volume=2 |number=13 |first1=Vincent |last1=Puglia |pages=35–36 |date=July 1984 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_13_1984-07_Reese_Communications_US/page/n33/mode/2up?q=Nightraiders}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=3708}}
+*{{Internet Archive game|id=atr_Nightraiders_v1}}
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Datamost games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Video games developed in the United States]]

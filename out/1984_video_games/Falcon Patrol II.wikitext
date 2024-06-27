@@ -1,0 +1,53 @@
+Falcon Patrol II
+Permalink: //en.wikipedia.org/w/index.php?title=Falcon_Patrol_II&oldid=1141980049
+Accessed on: 2024-06-26T16:56:46.331971
+
+
+
+------
+Falcon Patrol II
+{{Infobox VG
+| title = Falcon Patrol II
+| image = Falcon Patrol II Cover.jpg
+| caption =
+| developer = 
+| publisher = [[Virgin Interactive|Virgin Games]]
+| released = '''1984:''' C64<br>'''1985:''' Spectrum
+| designer = Steve Lee<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+| genre = [[Scrolling shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Falcon Patrol II''''' (also called '''''Falcon Patrol 2''''' on the box) is a horizontally [[scrolling shooter]] for the [[Commodore 64]] written by Steve Lee and published by [[Virgin Interactive|Virgin Games]] in 1984.<ref name="giantlist"/> A [[ZX Spectrum]] port was released in 1985. ''Falcon Patrol II'' is the sequel to the 1983 game ''Falcon Patrol''.
+
+==Gameplay==
+[[File:Falcon Patrol II Screenshot.png|thumb|Gameplay screenshot]]
+
+''Falcon Patrol II'' is a [[scrolling shooter]] over a landscape resembling [[Egypt]] or the [[Middle East]]. The player controls a [[fighter aircraft|jet fighter]] and has to destroy a set number of enemy [[helicopter]]s to clear a level. The helicopters come in three forms:<ref name=tvg>{{cite web | url=https://archive.org/details/tv-gamer-magazine-1984-12/page/n50/mode/2up?view=theater | title=TV Gamer Magazine (December 1984) | date=December 1984 }}</ref>
+
+#Transport: unarmed helicopter that lays [[missile turret]]s and radar interference devices on the ground
+#Gunship: escorts the transport helicopters and shoots at the fighter
+#Solo: fast combat helicopter that goes right after the fighter.
+
+The jet fighter has a finite supply of [[fuel]]<ref>{{cite web | url=https://archive.org/details/Personal_Computer_Games_Issue13/page/n71/mode/2up?view=theater | title=Personal Computer Games Issue13 }}</ref> and [[ammunition]], but both can be replenished by landing on a landing pad.<ref name=tvg/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{lemon64 game|id=881|name=Falcon Patrol II}}
+* {{WoS game|id=0001718|name=Falcon Patrol II}}
+* [http://www.c64-wiki.de/index.php/Falcon_Patrol_II ''Falcon Patrol II''] at C64 Wiki (German)
+* {{IAg|Falcon_Patrol_2_1984_Virgin_Games}}
+
+[[Category:1984 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Video game sequels]]
+[[Category:Video games set in the Middle East]]
+[[Category:Virgin Interactive games]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United Kingdom]]
+
+{{scroll-shooter-videogame-stub}}

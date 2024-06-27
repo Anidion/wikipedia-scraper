@@ -1,0 +1,102 @@
+Exile (1988 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Exile_%281988_video_game%29&oldid=1224472812
+Accessed on: 2024-06-26T17:04:08.040800
+
+
+
+------
+Exile (1988 video game)
+{{Short description|Single-player action-adventure video game first published in 1988}}
+{{For|the Nihon Telenet role-playing video game|Exile (1988 video game series)}}
+{{Use dmy dates|date=April 2022}}
+{{Use British English|date=February 2013}}
+{{Infobox video game
+|title = Exile
+|image = Exile-superior.png
+|caption = BBC/Electron cover art
+|publisher = [[Superior Software]]<br/>[[Audiogenic]] (ports)
+|designer = Peter Irvin <br/> Jeremy Smith
+|platforms = [[Acorn Electron]], [[BBC Micro]], [[Commodore 64]], [[Amiga]], [[Atari ST]], [[Amiga CD32|CD32]]
+|released = 1988 (BBC, Electron)<br>1991 (C64, Amiga, ST)<br>1995 (Amiga AGA, CD32)
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player video game|Single player]]
+}}
+
+'''''Exile''''' is a single-player [[action-adventure game|action-adventure]] video game originally published for the [[BBC Micro]] and [[Acorn Electron]] in [[1988 in video gaming|1988]] by [[Superior Software]] and later ported to the [[Commodore 64]], [[Amiga]], [[Amiga CD32|CD32]] and [[Atari ST]], all published by [[Audiogenic]]. The game was designed and programmed by Peter Irvin (creator of ''[[Starship Command]]'') and Jeremy Smith (creator of ''[[Thrust (video game)|Thrust]]'').<ref name="exile_about">{{cite web | author=Peter J.M. Irvin | title=About Exile | url=http://inventivity.co.uk/exileami/about.htm | publisher=Inventivity Limited | access-date=10 October 2011}}</ref> It is often cited as one of the earliest examples of a [[Metroidvania]] game<ref name="Szczepaniak 148–53">{{cite news|last=Szczepaniak |first=John |title=Backtracking: The History of Metroidvania|work=[[GamesTM]]|issue=116|publisher=[[Imagine Publishing]]|pages=148–53}}</ref> and featured "realistic gravity, inertia and object mass years before players understood the concept of a physics engine... an astounding level of AI, stealth-based gameplay, a logical ecosystem governing the world's creatures and a teleportation mechanic that feels startlingly like a predecessor to ''[[Portal (video game)|Portal]]''".<ref name="exile_escapist">{{cite web | author=John Szczepaniak | title=Returning From Exile | url=http://www.escapistmagazine.com/articles/view/video-games/issues/issue_242/7199-Returning-From-Exile | publisher=The Escapist | access-date=25 January 2018 | archive-date=26 January 2018 | archive-url=https://web.archive.org/web/20180126070821/http://www.escapistmagazine.com/articles/view/video-games/issues/issue_242/7199-Returning-From-Exile | url-status=dead }}</ref>
+
+==Plot==
+[[File:ExileElectron.png|thumb|left|The beginning of the game with Mike Finn still inside the ''Perseus'' ([[Acorn Electron]] version)]]
+The player takes the role of Mike Finn, a leading member of a space-exploration organisation called Columbus Force, who have been ordered to the planet ''Phoebus'' as part of a rescue mission. Finn is tasked with abetting Commander David Sprake and the surviving crew of the disabled ''Pericles'' ship from a psychotic renegade genetic engineer, Triax (the titular Exile), who appears briefly at the very start of the game removing a vital piece of equipment called a Destinator from Mike's ship, the ''Perseus''. As with ''[[Elite (video game)|Elite]]'', a novella (written by Mark Cullen, with input from the game's authors) was included to set up the story, and to provide some clues as to the nature of the planet Phoebus' environment. The novella implies the events take place some time in the 22nd century.<ref name="exile_novella">{{citation | author1=Mark Cullen | author2=Peter J.M. Irvin | author3=Jeremy C. Smith | title=The Exile Novella | url=http://inventivity.co.uk/exileami/novella.htm | year=1988 | publisher=Superior Software Ltd. | access-date=10 October 2011}}</ref>
+
+==Gameplay==
+The player is tasked with traversing a network of tunnels, collecting and interacting with objects, engaging hostile and friendly creatures, rescuing survivors and ultimately defeating Triax and escaping from Phoebus. Finn has a weapons and [[jet pack]] system which may be boosted by finding upgrades. Energy cells must be collected throughout the game to power the weapons and jet pack. Finn has a life-preserving teleport system. When he reaches a point near death he is automatically teleported to a safe location previously designated by the player, or ultimately back to his orbiting spaceship. Consequently, it is still possible to complete the game in many scenarios.
+
+Exile permits a degree of [[nonlinear gameplay]] – challenges may be overcome in a number of possible orders and not all events have to be completed. The player is awarded points depending on goals achieved and time taken to complete the game. However, in some scenarios it becomes impossible to complete the game.
+
+A major feature of the game is the single large and detailed world it offers for exploration. The subterranean setting is explained through the backstory in which the crew of the ''Pericles'' have set up a base in a natural cave system, with Triax having his own base in caves deep below.
+
+The [[artificial intelligence]] features innovative routines such as creatures demonstrating awareness of nearby noises, line-of-sight vision through the [[divaricate]] caves and tunnels, and memory of where the player was last seen, etc.
+
+Exile contains a physics model with gravity, inertia, mass, explosions, shockwaves, water, earth, wind, and fire. The game engine simulates all three of [[Newton's laws of motion]], with many puzzles and gameplay elements emerging from a few physical principles. For example, the player may experience difficulty when attempting to lift a heavy boulder across a windy shaft with a jet pack, or of trying to keep a glass of water from spilling while being pushed around by a pestering bird.
+
+==Development==
+The game was designed and programmed by Peter Irvin (author of ''[[Starship Command]]'') and Jeremy Smith (author of ''[[Thrust (video game)|Thrust]]''). Jeremy Smith died in an accident several years after Exile was published and it is his last known game.<ref name="exile_about"/> William Reeve executed preliminary conversions of the earlier 8-bit versions to the Amiga and Atari ST. These were then upgraded and completed by Peter Irvin and Jeremy Smith. Tony Cox did a preliminary conversion of the game from the Amiga to Amiga CD32. Paul Docherty was involved in the graphics for the Commodore 64 version and Herman Serrano created some of the artwork used in the game and manual. Henry Jackman composed the title music for the Amiga and Atari ST versions and Paddy Colohan remixed this for the CD32 release.
+
+The large subterranean world is [[procedural generation|procedurally generated]].<ref name="exiledisassembly">{{cite web|url=http://www.level7.org.uk/miscellany/exile-disassembly.txt |title=Exile disassembly|quote=''Published by Superior Software in 1988, Exile is widely regarded as the most technically advanced game released for the BBC Micro. Featuring an enormous procedurally generated landscape, a complete physics engine and a host of game elements to interact with, it remains unsurpassed in pushing the capabilities of the system to their limits. |access-date=2013-01-14 |publisher=level7.org.uk|date=2012}}</ref> This is achieved using a compact but highly tuned [[Pseudorandom number generator|pseudorandom]] process with a fixed [[Random seed|seed number]] to generate the majority of the caverns and tunnels – augmented with a few custom-defined areas. The later Amiga and Atari ST release use a more conventional tiled map to allow greater customisation and variation in the landscape.{{citation needed|date=December 2017}}
+
+Circa 2012 the [[source code]] of the [[BBC Micro]] version was reconstructed through [[disassembly]].<ref name="exiledisassembly"/> Peter Irvin later allowed the non-commercial redistribution of the Amiga version of the game.<ref>[http://thunderpeel2001.com/exile/ Exile] on thunderpeel2001.com/exile ''"Email from Peter Irvin (creator of Exile): Yes I've recently decided to allow old versions of Exile to be downloaded for emulation under certain conditions: [...]"''</ref>
+
+==Releases==
+The game was first published for the [[Acorn Electron]] and [[BBC Micro]] in [[1988 in video gaming|1988]] by [[Superior Software]] and later ported to the [[Commodore 64]], [[Atari ST]], [[Amiga]] and [[Amiga CD32|CD32]], all published by [[Audiogenic]] between 1991 and 1995. The game mechanics and level design are broadly similar across all Exile versions but visuals and sound vary depending on the capabilities of each system. Exile has never been released outside Europe.<ref name="exile_about"/>
+
+===Acorn Electron / BBC Micro===
+The standard 32&nbsp;[[kilobyte|KB]] [[BBC Model B]] version uses a specially defined screen resolution (eight physical colours; 128 pixels across × 128 lines down = 8&nbsp;KB screen memory), smaller than full-screen MODE&nbsp;2. This is to free up memory for game data – a common technique in complex BBC games.
+
+The simplified video hardware found in the Electron does not support this technique, so the additional data remains visible around the screen border. For speed reasons, the Electron release has only four on-screen colours. It did however boast a slightly larger view window of 128 pixels × 192 lines down.
+
+Exile offers the option of playing an enhanced version of the game on a BBC Micro upgraded with a 16&nbsp;KB [[paging|page]] of [[sideways RAM]]. These enhancements include sampled sound effects and digitised speech ("''Welcome to the land of the Exile.''" and "''Alien die!''"), as well as a larger visible screen area (eight physical colours; 128 pixels across × 256 lines down = 16&nbsp;KB screen memory).
+
+The extreme measures taken to make the game operate on a standard BBC Micro mean that the main game had no on-screen status indications or text of any kind, or even load and save routines. Fuel and energy levels are sounded out by a series of chimes when a weapon is selected, and pocket contents can only be checked by putting items back into the player's hands to make them visible. Saving the game entails pressing a shutdown key, resetting the computer, and launching the loader programme again. Despite such measures being forced by necessity, they formed part of the character and appeal of the game, leading to innovations such as the personal teleporter.
+
+===Commodore 64===
+<!-- Deleted image removed: [[File:Exile (video game).jpg|thumb|right|Cover art for the 1991 Audiogenic release (C64 disk version pictured)]] -->The C64 conversion (1991) was carried out by the original programmers with graphics by Paul Docherty (credited as Dokk).<ref name="zzap">[http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=075&page=013&magazine=zzap ''Exile'' review], Zzap!64 #75, July 1991</ref> It adds an on-screen status indicator and wider colour palette due to the extra RAM available but otherwise is a faithful port of the Acorn versions.
+
+===Atari ST===
+The Atari ST release (1991) was developed from the earlier 8-bit versions. The ST release has improved and recoloured graphics with a similar appearance to the 1991 Amiga version, though the sound effects differ somewhat.
+
+===Amiga===
+There were three releases for the Amiga platform, an [[Original Amiga chipset|OCS]] version (1991), an [[Advanced Graphics Architecture|AGA]] version (1995) with enhanced graphics and finally a CD32 version (1995) based on the AGA release. Compared to the earlier 8-bit versions the OCS release has improved and recoloured graphics with a similar appearance to the Atari ST version. The AGA and CD32 versions have greatly reworked graphics with added detail and [[parallax scrolling|scrolling]] backdrops. The graphics of the CD32 version were made 50% larger than the AGA release for easier viewing on a console setup. All Amiga versions feature a dynamic in-game musical score which changes when a threat is near to the player. Amongst other digitised sound effects, the imps encountered in the cave system have a cry imitating [[Monty Python]]'s infamous "[[Knights who say Ni|Ni]]".
+
+===Apple iOS===
+Peter Irvin was working on an updated version for [[IOS (Apple)|iOS]] based on the Amiga AGA version. This was scheduled for release in 2010. However, the game has not yet appeared and there have been no further announcements since 2010.<ref name="exile_ios">{{cite web | title=Exile is back! | url=http://inventivity.co.uk/i_exile.htm | publisher=Inventivity Limited | access-date=10 October 2011}}</ref>
+
+==Reception==
+[[Electron User]] gave the game a positive review under the title "The New Masterpiece" concluding "Exile's detailed graphics enhance the game's infuriating puzzles beautifully. Everything is drawn on a small scale, thereby emphasising the vastness of the underground complex. The animation is fast and incredibly realistic – I marvelled at the way Finn was bundled head over heels by a blast from the stun cannon."<ref>"The New Masterpiece", Jon Revis, Electron User, Database Publications, #6.7, April 1989</ref> The game was only given a score of 8/10 although it has been alleged that the reviewers had not played very far into the game so did not appreciate its scale.<ref name="8bs">[http://8bs.com/elecgame/exile_manual.htm ''Exile''] at ''8-bit Software''</ref> [[Zzap!64]], reviewing the Commodore 64 version, praised the game's complexity and "phenomenal attention to detail". They awarded the game a score of 91%, labeling it "unmissable".<ref name="zzap"/> [[Amiga Power]] magazine voted the Amiga version of ''Exile'' as the best game of 1991 with a score of 89%. In 2002 the multi-format magazine, [[Edge (magazine)|Edge]], [[Edge (games magazine)#Retrospective awards|retrospectively awarded]] it 10/10, an accolade which has only been awarded to two other games released before the magazine's launch.
+
+A 2010 article in The Escapist stated that "Exile pioneered a lot of the science for which later games would become famous".<ref name="exile_escapist"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.mobygames.com/game/exile ''Exile''] at [[MobyGames]]
+* {{abime|id=2889}}
+* [https://archive.org/details/Exile_1991_Audiogenic_Software Manual] at the [[Internet Archive]]
+
+{{Superior Software}}
+
+[[Category:1988 video games]]
+[[Category:Action-adventure games]]
+[[Category:Amiga games]]
+[[Category:Amiga 1200 games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Cancelled iOS games]]
+[[Category:Amiga CD32 games]]
+[[Category:Commodore 64 games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Metroidvania games]]
+[[Category:Superior Software games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games using procedural generation]]
+[[Category:Single-player video games]]

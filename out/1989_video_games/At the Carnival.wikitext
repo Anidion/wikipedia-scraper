@@ -1,0 +1,70 @@
+At the Carnival
+Permalink: //en.wikipedia.org/w/index.php?title=At_the_Carnival&oldid=1157119840
+Accessed on: 2024-06-26T17:05:37.921342
+
+
+
+------
+At the Carnival
+{{refimprove|date=July 2017}}
+
+{{Infobox video game
+| title =At The Carnival
+| image= At the Carnival Coverart.png
+|developer=[[Cliff Johnson (game designer)|Cliff Johnson]]
+|publisher=
+|released=1989
+|genre=[[Puzzle video game|Puzzle]]
+|modes=[[Single-player]]
+|platforms=[[Macintosh]], [[MS-DOS]]
+}}
+
+'''''At The Carnival''''' is a [[puzzle video game]] by [[Cliff Johnson (game designer)|Cliff Johnson]] published in 1989 by Miles Computing.
+
+It was intended to be the first of a series of games called ''Puzzle Gallery'', but Miles Computing went out of business before any further games could be made.
+
+''At The Carnival'' is a collection of games similar to some in ''[[The Fool's Errand]]'', but with enhanced user interfaces. The endgame puzzle is simpler compared to Fool's Errand and ''[[3 in Three]]'', consisting merely of a crossword puzzle filled by key words found in other solved puzzles.
+
+==Plot==
+The game has no overarching story as such; each puzzle shows a small section of ''Hazard Park'', an [[amusement park]] with woeful disdain for its customers.  Completing the puzzles in a particular section displays the fate of the unfortunate guests at a given ride, attraction, or location for that particular section.
+
+One puzzle in the game has Cliff Johnson describing the discovery of [[Elmer McCurdy]].
+
+==Gameplay==
+Some of the major puzzle types in the games include:
+*[[Jumble]]s - mixed-up words to be reordered.
+*[[Word search]]es - find words hidden in a grid of letters
+*[[Cryptogram]]s - decipher encrypted phrases
+*[[Crossword]]s - fill answers into boxes based on specified clues.  (Not full-sized crossword puzzles.)
+*Word grids - rearrange 9 letters into a grid to make words in all [[Horizontal plane|horizontal]], vertical, and [[diagonal]] directions.
+*[[Polygon]]s - fit [[pentomino]]-like polygons into a grid; letters on the polygons spell out words.
+*[[Jigsaw puzzle]]s - rearrange cut-up pictures to remake the original
+*[[Concatenation]]s - several buttons concatenate letters to the current phrase; find the correct order to build a complete phrase
+*[[Maze]]s - various types of mazes that must be navigated
+*[[XOR]] displays - a set of buttons XORs various shapes together; the right combination of buttons will produce a word
+
+==Release==
+The original version of the game was for [[Macintosh]]. A port to [[MS-DOS]] was made, but it is not as visually appealing due to the lower resolution available to [[IBM PC]]-class machines at the time (320×200 [[VGA]] vs. 512×342 minimum on Macintoshes). In later years the author made the game freely downloadable [[Freeware]] on his website. Cliff Johnson strongly recommends playing the Macintosh version instead of the MS-DOS version,{{Citation needed|date=November 2016}} using an emulator such as [[Executor]] or [[Basilisk II]] if necessary.
+
+==Reception==
+''[[Compute!]]'' stated that players would find ''At the Carnival'' "hard to stop playing", with "the best mazes you'll ever see on the Mac".<ref name="aycock198912">{{Cite magazine |last=Aycock |first=Heidi E. H. |date=December 1989 |title=Compute! Specific: Mac |url=https://archive.org/stream/1989-12-compute-magazine/Compute_Issue_115_1989_Dec#page/n17/mode/2up |magazine=Compute! |page=16}}</ref>
+
+''[[Macworld]]'' noted that ''At the Carnival'' made certain improvements on Johnson's previous game ''The Fool's Errand'', including color graphics and built-in hints; however, for the reviewer, ''At the Carnival'' missed some of the magic of ''The Fool's Errand'', lacking its mythical journey and animated finale. The review concluded that ''At the Carnival'' was an enjoyable game, that its "only real problem may be that it has to follow a masterpiece."<ref>{{cite journal | title=''Puzzle Gallery: At the Carnival 1.0'' |journal= [[Macworld]] |last1=Beekman |first1=George |date=March 1990 |publisher=Macworld Communications, Inc. |page=200 |volume=7 |number=3 }}</ref> ''Macworld'' inducted ''At the Carnival'' into its Game Hall of Fame in 1989 in the Brain Teaser category.<ref>{{cite journal | title=The Game Hall of Fame |journal= [[Macworld]] |last1=Levy |first1=Steven |last2=Mello |first2=Adrian |date=December 1989 |publisher=[[IDG Communications]] |pages=165–166 |volume=6 |number=12 |author-link1=Steven Levy }}</ref>
+
+==References==
+<references />
+
+==External links==
+*[https://web.archive.org/web/20121123010621/http://www.thefoolandhismoney.com/02-at-the-carnival/index.htm Official Site], including downloadable versions for Macintosh and MS-DOS
+*{{moby game|id=/at-the-carnival|name=''At the Carnival''}}
+
+[[Category:1989 video games]]
+[[Category:Classic Mac OS games]]
+[[Category:Cliff Johnson games]]
+[[Category:DOS games]]
+[[Category:Freeware games]]
+[[Category:Miles Computing games]]
+[[Category:Puzzle video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in amusement parks]]

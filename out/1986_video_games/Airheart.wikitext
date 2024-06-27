@@ -1,0 +1,53 @@
+Airheart
+Permalink: //en.wikipedia.org/w/index.php?title=Airheart&oldid=1189829635
+Accessed on: 2024-06-26T16:59:34.406741
+
+
+
+------
+Airheart
+{{Short description|1986 video game}}
+{{Infobox video game
+| title        = 
+| image        = Airheart box art.jpg
+| caption      = 
+| developer    =
+| designer      = [[Dan Gorlin]]<ref name=giantlist/>
+| publisher    = [[Broderbund]]
+| released     = {{vgrelease|NA|1986<ref>[http://www.gamefaqs.com/appleii/637891-airheart/data ''Airheart'' release information] at [[GameFAQs]]</ref>}}
+| genre        = [[Action video game|Action]]
+| modes        = [[Single-player video game|Single-player]]
+| platforms    = [[Apple II series|Apple II]]
+| engine       =
+}}
+
+'''''Airheart''''' is an action game designed and programmed by [[Dan Gorlin]] for the [[Apple II series|Apple II]] and published by [[Broderbund]] in 1986.<ref name="giantlist"/> It requires a 128K [[Apple IIe]] (or later) to run, as it uses the 16-color [[Apple IIe#Specifications|double hi-res]] graphics mode.<ref>[http://stason.org/TULARC/pc/apple2/faq/11-004-What-are-some-games-in-double-hires.html Apple II Csa2 FAQ excerpt] from stason.org</ref> After three years of development, the game was technically advanced at its time of release, using scaled sprites for 3D effects, but did not include all of the planned features. Gorlin reworked the game as ''[[Typhoon Thompson|Typhoon Thompson in Search for the Sea Child]]'' for the [[Atari ST]] (1988), and later the [[Amiga]] (1990), which is closer to what he originally envisioned.<ref name="halcyon" />
+
+==Gameplay==
+The name ''Airheart'' is the title the player aspires to earn.  The user controls a jet-propelled flotation device. They must navigate their craft and fight [[robot]]ic defenders. Spirit guardians instruct the player to collect certain items, such as a sword or a goblet, which are needed for a final battle to free an infant boy prince.<ref name="moby">{{MobyGames|id=/airheart|name=''Airheart''}}</ref> 
+
+==Development==
+Gorlin had great success with his first title, ''[[Choplifter]]'', which he developed in six months. ''Airheart'' took about three years to develop.  This is in large part because he also developed other games which he lost interest in and never completed and also because he did a lot of research and built a number of [[Game development tool|tools]] to help in [[game development]].<ref name="halcyon">{{cite web|last1=Hague|first1=James|title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers|url=https://www.dadgum.com/halcyon/BOOK/GORLIN.HTM|date=1997}}</ref>
+
+Gorlin was unable to include all the features he planned. At one point, for example, he had tunnel and underwater levels working, but was unable to complete them due to time constraints.  Tunnels and islands, in fact, were key elements of his original vision for the game, but had to be scrapped, being too ambitious for the time.<ref name="halcyon" />
+
+The largest version of each [[sprite (computer graphics)|sprite]] was created by hand, then Gorlin used proprietary tools to create the roughly twenty smaller versions.  Storing these sprites in [[Random-access memory|RAM]], he was able to simulate scaling in realtime. Though the sprites used a lot of memory, it was the only method that satisfied Gorlin since he hated the low-polygon look of other contemporary games.<ref name="halcyon" />
+
+==Reception==
+[[Jordan Mechner]] visited Gorlin in 1986 and saw the final version of the game. He wrote in his journal "It’s got some staggering special effects and it’s no 
+fun at all to play."<ref>{{cite book|last1=Mechner|first1=Jordan|title=The Making of Prince of Persial Journals 1985-1993|date=December 22, 2011|isbn=978-1468093650}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+[[Category:1986 video games]]
+[[Category:Action games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Broderbund games]]
+[[Category:North America-exclusive video games]]
+[[Category:Video games about robots]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

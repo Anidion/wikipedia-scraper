@@ -1,0 +1,70 @@
+Jawbreaker (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Jawbreaker_%28video_game%29&oldid=1224506339
+Accessed on: 2024-06-26T16:52:20.919181
+
+
+
+------
+Jawbreaker (video game)
+{{Short description|1981 video game}}
+{{Infobox video game
+|title= Jawbreaker
+|image= Jawbreaker cover.png
+|caption= 
+|developer=  
+|designer=
+|publisher= [[Sierra Entertainment|On-line Systems]]<br/>[[Tigervision]] (2600)
+|programmer='''Atari 8-bit, 2600'''<br/>[[John Harris (software developer)|John Harris]]<br/>'''Apple II'''<br/>Olaf Lubeck<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|released= '''1981:''' Atari 8-bit, Apple<br/>'''1982:''' 2600<br/>'''1983:''' C64
+|genre= [[Maze video game|Maze]]
+|modes= [[Single-player video game|Single-player]]
+|platforms=[[Atari 8-bit]], [[Apple II]], [[Atari 2600]], [[Commodore 64]]
+|alt = 
+}}
+
+'''''Jawbreaker''''' is a [[Pac-Man clone|''Pac-Man'' clone]] programmed by [[John Harris (software developer)|John Harris]] for [[Atari 8-bit computers]] and published by [[On-Line Systems]]. Released in 1981<ref name="mania">{{cite web |title=Jawbreaker |url=http://www.atarimania.com/game-atari-400-800-xl-xe-jawbreaker_2650.html |website=Atari Mania}}</ref> before an official version of ''Pac-Man'' was available, it was widely lauded by reviewers and became a major seller. The story of its creation and Harris's Atari 8-bit implementation of ''[[Frogger]]'' form a portion of [[Steven Levy]]'s 1984 book, ''[[Hackers: Heroes of the Computer Revolution]]''.<ref name="Halcyon"/>
+
+''Jawbreaker'' was ported to the [[Apple II]] in 1981 and Harris's different take on the game for the [[Atari 2600]] was released the following year. Legal issues resulted in the 2600 port being the template for subsequent versions—for the [[Commodore 64]] and [[TI-99/4A]]—and sold confusingly as both '''''Jawbreaker''''' and '''''Jawbreaker II'''''.
+
+==Failed licensing and litigation==
+[[File:Jawbreaker_Screenshot.png|thumb|left|Atari 2600 gameplay]]
+
+In 1982, the initial Atari 800 version of ''Jawbreaker'' was so faithful to ''Pac-Man'' that the game (carelessly leaked by Harris himself) was assumed to be from [[Atari, Inc.]] (licensee for ''Pac-Man'''s home rights) itself. When one of these early copies found its way to Atari, they reached out to On-Line's [[Ken Williams (game developer)|Ken Williams]]. Attempts at a deal fell apart due to culture clashes between Atari and On-Line, particularly Williams and Harris. Williams instructed Harris to alter the artwork for the game to have a dental theme.<ref name="levy_hackers">''[[Hackers: Heroes of the Computer Revolution]]'', [[Steven Levy]]</ref>
+
+Atari unsuccessfully sought an injunction against the sale of ''Jawbreaker'' and ''Gobbler'', another On-Line computer game, which Atari claimed [[look and feel|unduly resembled]] ''Pac-Man'', and cited early leaked copies.<ref name="levy_hackers" /> Williams denied Atari's claim but was uncertain of the outcome, stating "If this opens the door to other programmers ripping off my software, what happened here was a bad thing".<ref name="tommervik198201">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=6&id=3 | title=The Great Arcade/Computer Controversy / Part 1: The Publishers and the Pirates | work=Softline | date=January 1982 | accessdate=13 July 2014 | author=Tommervik, Allan | pages=18}}</ref>
+
+==Ports==
+Because of technical limitations, Atari 2600 ''Jawbreaker'' is not a ''Pac-Man'' clone and is different than the Atari 8-bit game.<ref name="Halcyon"/><ref name="goodman1983spring">{{Cite magazine |last=Goodman |first=Danny |author-link=Danny Goodman |date=Spring 1983 |title=Home Video Games: Video Games Update |url=http://www.atarimagazines.com/cva/v1n1/vgupdate.php |magazine=Creative Computing Video & Arcade Games |page=32}}</ref> A rough sketch of the 2600 game was used as the basis for new computer versions from programmers other than Harris.<ref name="Halcyon"/> The new game was, confusingly, sold as both ''Jawbreaker'' and ''Jawbreaker II'' and was not as successful as the original.
+
+==Reception==
+[[John J. Anderson|John Anderson]] reviewed the game for ''[[Computer Gaming World]]'', and stated that "As for the graphics and sound, when I first saw the program, I could not bring myself to believe the game was not written by Atari. It is not only truly addictive, but also "paced"—that is, you get tougher, the enemy gets tougher, Four stars to this one."<ref name="CGW2">{{cite magazine |last=Anderson |first=John |title=Atari Arcade |magazine=Computer Gaming World |date=January–February 1982 |volume=1 |issue=2 |pages=22}}</ref>
+
+''Jawbreaker'' was well received by critics and it was given the award for "Best Computer Action Game" in 1982 at the 3rd annual [[Arkie Awards]]. Arkie Award judges described the game as "a must for 'Pac Man' fans lucky enough to own an Atari 400 or 800 computer," and specifically praised the game's music (a [[chiptune]] version of "[[The Candy Man]]").<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Laney Jr. |first2= Frank |author-link2= Arnie Katz|date= January 1982 |title= Arcade Alley: The Third Annual Arcade Awards |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 5|issue= 10|pages= 28, 76–77|issn= 0147-8907}}</ref>{{rp|77}}
+
+In 1983, ''[[Softline (magazine)|Softline]]'' readers named ''Jawbreaker'' second on its Top Thirty list of Atari 8-bit programs by popularity, behind only ''[[Star Raiders]]''.<ref name="softline198303">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 | title=The Most Popular Atari Program Ever | work=Softline | date=March 1983 | accessdate=28 July 2014 | pages=44}}</ref> The magazine called the game "a very clean, fast-action game with little sophistication", citing its "clean, fast, and cheerful" graphics and consistent gameplay across platforms, including the Atari 2600.<ref name="autry19830708">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=12 | title=Jawbreaker | work=Softline | date=Jul–Aug 1983 | accessdate=28 July 2014 | author=Autry, Greg W. | pages=26}}</ref> [[David H. Ahl]] of ''[[Creative Computing]] Video & Arcade Games'' said of ''Jawbreaker'' and ''[[Snack Attack]]'', "for PacMan fans, either is recommended".<ref name="ccvag1983spring">{{Cite magazine |last1=Ahl |first1=David H. |last2=Brill |first2=Andrew |last3=Lubar |first3=David |author-link3=David Lubar |last4=Coffey |first4=Michael |last5=Archibald |first5=Dale |date=Spring 1983 |title=Apple Computer Games |url=http://www.atarimagazines.com/cva/v1n1/applegames.php |magazine=Creative Computing Video & Arcade Games |volume=1 |issue=1 |page=86}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="Halcyon">{{cite web
+  | title = Halcyon Days, Interviews with classic computer and video game programmers: John Harris
+  | url=https://dadgum.com/halcyon/BOOK/HARRIS.HTM
+  | accessdate = 2007-07-12 }}</ref>
+}}
+
+==External links==
+*{{atarimania|id=2650}}
+*{{AtariAge software|id=251}}
+*[https://www.lemon64.com/games/details.php?ID=2990 ''Jawbreaker''] for the Commodore 64 at Lemon 64
+
+{{DEFAULTSORT:Jawbreaker (Video Game)}}
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Pac-Man clones]]
+[[Category:Sierra Entertainment games]]
+[[Category:Single-player video games]]
+[[Category:Tigervision games]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]

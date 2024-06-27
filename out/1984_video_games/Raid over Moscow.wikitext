@@ -1,0 +1,104 @@
+Raid over Moscow
+Permalink: //en.wikipedia.org/w/index.php?title=Raid_over_Moscow&oldid=1227650689
+Accessed on: 2024-06-26T16:57:26.020612
+
+
+
+------
+Raid over Moscow
+{{Short description|1984 video game}}
+<!-- begin WikiProject Computer and Video Games infobox-->
+{{Infobox video game
+|title= Raid Over Moscow
+|image= Raid over moscow.jpg
+|developer= [[Access Software]]
+|publisher= {{vgrelease|NA|Access Software|EU|[[U.S. Gold]]}}
+|designer= [[Bruce Carver]]
+|engine=
+|released= 1984 (C64)<br>1985-1986 (ports)<br>2020-2022 (new ports)
+|genre= [[Action game|Action]]
+|modes= [[Single-player video game|Single-player]]
+|platforms= [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit]], [[BBC Micro]], [[Commodore 64]], [[Commodore Plus/4|Plus/4]], [[ZX Spectrum]]
+}}
+
+'''''Raid Over Moscow''''' ('''''Raid''''' in some countries and on reissue) is a [[video game]] by [[Access Software]] published in Europe by [[U.S. Gold]] for the [[Commodore 64]] in 1984<ref>GamesDBase - [http://gamesdbase.com/game/commodore-64/raid-over-moscow.aspx Raid Over Moscow (Commodore 64 edition)]</ref> and other microcomputers in 1985-1986.
+
+Released during the [[Cold War]] era, ''Raid Over Moscow'' is an [[action game]] in which the player (an American [[Astronaut ranks and positions|space pilot]]) has to stop three [[Soviet Union|Soviet]] [[nuclear attack]]s on [[North America]], then fight his way into and destroy a nuclear facility located in [[Moscow]]'s [[Kremlin]]. According to the game's storyline, the United States is unable to respond to the attack directly due to the [[SALT|dismantlement of its nuclear arsenal]].<ref>{{cite journal | url = http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue038/Pages/CVG03800076.jpg | journal = Computer and Video Games | title = Raid over Moscow <nowiki>[advertisement]</nowiki> | issue = 38 | page = 76 |date=December 1984 }}</ref>
+
+The game is famous in [[Finland]] due to the political effect of its content. A [[Left-wing politics|leftist]] member of the [[Finnish parliament]] went as far as to make a parliamentary question about whether it was acceptable to sell the game.<ref name="iltalehti">{{cite journal | journal = Iltalehti | date = 22 February 1985 | title = Hyökkäys Moskovaan. Videopeli kauhistutti kansanedustajan }}</ref><ref name="printti">{{cite journal | journal = Printti | issue = 5 | year = 1985 | title = Mikropelit nousivat päivänpolitiikkaan }}</ref> The resulting debate and publicity made the game a top seller in the country.<ref name="topseller">{{cite web | url = http://www.widerscreen.fi/1999-1-2/tietokonepelit-osana-audiovisuaalisen-kulttuurin-moraalipaniikkia/ | first = Petri | last = Saarikoski | work = Wider Screen | issue = 1–2 | year = 1999 | title = Tietokonepelit osana audiovisuaalisen kulttuurin moraalipaniikkia | language = Finnish | access-date = 3 September 2012 | archive-date = 2021-02-25 | archive-url = https://web.archive.org/web/20210225133859/http://www.widerscreen.fi/1999-1-2/tietokonepelit-osana-audiovisuaalisen-kulttuurin-moraalipaniikkia/ | url-status = dead }}</ref>
+
+== Gameplay ==
+
+=== First stage ===
+[[File:raid over moscow C64.png|left|thumb|Screen shot from the [[Commodore 64]] version showing early gameplay]]
+The game opens with an alert that a [[nuclear missile]] has been launched from a Soviet city towards a North American city.{{sfn|Pasanen|2011|p=3}}<ref name="manual">{{cite web | url = ftp://ftp.worldofspectrum.org/pub/sinclair/games-info/r/RaidOverMoscow.txt | title = Raid over Moscow, instructions | first1 = Brian | last1 = Hendricks | first2 = Magnus | last2 = Welander | first3 = Alessandro | last3 = Grussu | access-date = 17 March 2013 }}{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The game begins in the hangar where the American [[spaceplane]]s are stored. The player has to safely fly the craft out.<ref name="manual" /> The view switches to the earth as seen from [[low Earth orbit]], and the player guides the spaceplane to the city launching the attack. Alternatively, the player may decide to maneuver more of the available spaceplanes out of the space station before attacking the launch site;{{sfn|Pasanen|2011|p=3}} the surplus planes are docked outside the space station.<ref name="manual" /> Meanwhile, the clock is ticking, and the time before impact is continually displayed.
+
+[[File:Raid_over_Moscow_Atari_8-bit_PAL_screenshot.png|thumb|right|First stage gameplay (Atari 8-bit)]]
+The player has then to fly through the defense perimeter around the launch site [[missile silo]], dodging obstacles, [[heat-seeking missile]]s, and Soviet tanks and planes.<ref name="manual" /> If successful, the player proceeds to the next screen; otherwise, the player has to start the next [[life (gaming)|life]] back at the hangar, with the clock still ticking. However, should the player have spare spaceplanes parked outside the space station, the game continues with a new life on the current screen, skipping the flight from space station to the launch site. The decision to launch more than a single spaceplane first may therefore save time if the player later loses a life.<ref name="manual" />
+
+The final part of this stage involves destroying the missile silo while avoiding Soviet planes trying to shoot down the player. Destroying the primary missile silo in the center before the missile lands will thwart the attack. Destroying the secondary silos on either side of the primary earns extra lives and points.<ref name="manual" />
+
+The Soviets launched a total of four missile attacks, from [[Leningrad]], [[Kiev]], [[Minsk]], and [[Saratov]], all of which must be stopped in the same manner as the first. After the fourth launch, the player progresses to the second stage of the game.<ref name="manual" />
+
+=== Second stage ===
+[[File:Moscow - Moscow State Historical Museum (Red Square).jpg|thumbnail|right|The [[State Historical Museum]] is used as a backdrop in the second stage of the game.<ref>{{cite web | url = http://www.mobygames.com/game/c64/raid-over-moscow/screenshots/gameShotId,320496/ | title = Screenshot: Fighting in Moscow | date = 24 August 2008 | first = Simon | last = Stelling | access-date = 16 March 2013 | work = MobyGames }}</ref>]]
+The pilots become [[foot soldier]]s and are placed [[Red Square|outside the front facade]] of the "Defence Centre", depicted as the [[State Historical Museum]]. Using a [[Mortar (weapon)|mortar]] they must blast open the correct door to the facility, randomly chosen from five available. Bonus points can be gained from this section by destroying parts of the building and defeating the troops stationed there. Once the door is open, the soldiers make their way to the [[nuclear reactor]], and the final stage of the game.{{sfn|Pasanen|2011|p=3}}<ref name="manual" />
+
+=== Third stage ===
+In this stage, the player has to destroy maintenance [[robot]]s that feed coolant into the reactor. The number of robots is determined by the difficulty level chosen by the player. The player is provided with several disc grenades that he throws at the robot, which is moving and firing at him the entire time. The robot is reinforced at the front, so the only way to do any damage is to bounce the discs off the wall and hit the robot in the back. As the number of discs is limited, the player should attempt to catch returning discs that missed the robot. To complete the game, all robots must be defeated, the final one within a two-minute time limit. If the robot is not destroyed within the limit the game is still considered complete, but with no survivors.{{sfn|Pasanen|2011|p=3}}<ref name="manual" />
+
+== Releases ==
+The game was first published for the  [[Commodore 64]] with [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit computers]], [[BBC Micro]], and [[ZX Spectrum]] versions following.<ref>{{cite web | url = http://www.mobygames.com/game/raid-over-moscow/credits | title = Raid over Moscow | work = MobyGames | access-date = 16 March 2013 }}</ref>  Upon reissue the game was retitled to '''''Raid'''''.
+
+An [[Amiga]] port was in development in the late 1980s but was canceled along with [[Beach Head (video game)|Beach Head]] and [[Beach Head II: The Dictator Strikes Back]] when the developers were unable to secure a deal with the publisher, U.S. Gold.<ref>{{cite web | url = http://www.abime.net/games/view/game/id/5879 | title = Raid over Moscow | work = Amiga Lore | access-date = 16 March 2013 }}</ref> According to the graphical artist Adrian Cummings, the graphics were at that point "99.9% complete". However, the coding was barely started.<ref>{{cite web | url = http://www.abime.net/interviews/view/interview/id/24 | title = Adrian Robert Cummings | work = Amiga Lore | access-date = 16 March 2013 }}</ref> An Amiga port was finally released in 2020 by Reimagine Games, with programming by Erik Hogan who started from scratch to create this new conversion.
+
+The Commodore Plus/4 received a conversion of the game in 2022.
+
+''Raid Over Moscow'' and ''Beach-Head'' were major inspirations for the [[Commodore 64]] game Terrestrial to be published in 2023. The hangar, satellite map, shield generator, and reactor battle sequences of Terrestrial were directly inspired by Raid Over Moscow.
+
+==Reception==
+{{Video game reviews
+| award1Pub = Crash
+| award1 = Smash!<ref>Game review, Crash issue 15, April 1985, page 114</ref>
+}}
+''Raid over Moscow'' was Access' second best-selling Commodore game as of late 1987, after ''Beach-Head''.<ref name="ferrell198712">{{cite news | url=https://archive.org/stream/1987-12-computegazette/Compute_Gazette_Issue_54_1987_Dec#page/n17/mode/2up | title=The Commodore Games That Live On And On | work=Compute's Gazette | date=December 1987| access-date=24 January 2015 | author=Ferrell, Keith | pages=18–22}}</ref> The game received generally positive reviews. [[Computer and Video Games]] praised the graphics and sound of the Commodore 64 version,<ref>{{cite journal | url = http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue038/Pages/CVG03800043.jpg | journal = Computer and Video Games | title = Software reviews: <nowiki>[Raid over]</nowiki> Moscow | issue = 38 | page = 43 |date=December 1984 }}</ref> while [[Crash (magazine)|Crash]] gave the ZX Spectrum version an overall score of 92%.<ref>{{cite journal | url = http://www.crashonline.org.uk/15/rmoscow.htm | journal = Crash | title = Raid over Moscow | issue = 15 |date=April 1985 | pages = 114–116}}</ref> The theme of the game, [[nuclear war]], was subject to questioning, however, with Computer and Video Games publishing several letters from readers arguing for and against its publication.<ref>{{cite journal | url = http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue040/Pages/CVG04000005.jpg | journal = Computer and Video Games | title = Mailbag | issue = 40 | page = 5 |date=February 1985 }}</ref><ref>{{cite journal | url = http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue041/Pages/CVG04100007.jpg | journal = Computer and Video Games | title = Mailbag | issue = 41 | page = 7 |date=March 1985 }}</ref>
+
+Unauthorized copies of ''Raid on Moscow'' circulated widely in East Germany during the 1980s, despite the [[Stasi]] describing it as among those games having "a particularly militaristic and inhumane nature". The West German [[Federal Department for Media Harmful to Young Persons]] added the game to its index in 1985, stating that "In older adolescents, playing (...) can lead to physical tension, anger, aggressiveness, agitated thinking, difficulty concentrating, headaches, etc." The ban automatically ended in 2010.<ref name="gießler20181121">{{Cite news |url=https://www.zeit.de/digital/games/2018-11/computer-games-gdr-stasi-surveillance-gamer-crowd/komplettansicht |title=Video Games In East Germany: The Stasi Played Along |last=Gießler |first=Denis |date=2018-11-21 |work=Die Zeit |access-date=2018-11-30 |language=de}}</ref>
+
+=== Political crisis in Finland ===
+The game was shortly presented in [[YLE]]'s current affairs television program ''A-studio'' on 13 February 1985 after being reviewed by the computer magazine ''[[MikroBitti]]''.{{sfn|Pasanen|2011|p=4}}<ref name="astudio">{{cite web | url = http://yle.fi/elavaarkisto/artikkelit/raid_over_moscow_-peli_sai_suomessa_aikaan_poliittisen_kriisin_77485.html#media=77486 | title = Raid over Moscow -peli sai Suomessa aikaan poliittisen kriisin | work = YLE | date = 13 February 1985 | access-date = 16 March 2013 | language = Finnish }}</ref> On 20 February 1985 the leftist newspaper ''[[Tiedonantaja]]'' published an article which criticized the review and called a ban on all similar "anti-USSR" games.{{sfn|Pasanen|2011|p=4}} Parliament member [[Ensio Laine]] ([[Finnish People's Democratic League|SKDL]]) left a parliamentary question for the [[Finnish government]] on the next day.{{sfn|Pasanen|2011|p=4}}<ref name="kk40-1985">{{cite web | title = Kirjallinen kysymys: Amerikkalaisten CBM-pelien maahantuonnista. | url = http://www.eduskunta.fi/valtiopaivaasiat/KK+40/1985 | id = KK 40/1985 vp | publisher = Finnish parliament | language = Finnish | access-date = 16 March 2013 | date = 9 March 2007 }}</ref>
+
+[[File:Russian embassy Helsinki.JPG|thumbnail|right|The [[Soviet embassy]] at Tehtaankatu, [[Helsinki]] was the scene of the discussions concerning the game.]]
+The following days included various discussions between the Finnish foreign ministry and Soviet Union representatives.{{sfn|Pasanen|2011|pp=4–6}}<ref name="mtv3-2010-01-07">{{cite web | url = http://www.mtv3.fi/uutiset/kotimaa.shtml/arkistot/kotimaa/2010/01/1028902 | title = UM/SALAISET 1985: Neuvostoliitto piti tietokonepeliä räikeänä provokaationa | first = Jarkko | last = Sipilä | work = MTV3 | date = 7 January 2010 | access-date = 16 March 2013 | language = Finnish }}</ref> On 7 March 1985, an unofficial petition was received from the USSR, asking for a ban on various books, articles and other media, including ''Raid Over Moscow'', which were supposed to purport a distorted view on the Soviet Union.{{sfn|Pasanen|2011|p=6}} Nevertheless, on 14 March 1985, the Minister of foreign trade [[Jermu Laine]] answered the parliamentary question, claiming that the Finnish legislation only allowed to restrict the import of products that constitute a hazard on health.<ref name="kk40-1985" />{{sfn|Pasanen|2011|p=6}} The foreign ministry thus was able to dodge possible claims of [[Finlandization]] by referring to unsuitable legislation.{{sfn|Pasanen|2011|p=8}} Finally, the Minister of foreign affairs [[Paavo Väyrynen]] gave an official answer to the petition on 11 April 1985, expressing a friendly attitude towards the USSR and apologizing on behalf of negative publications about the country in the media.{{sfn|Pasanen|2011|pp=6–7}} The USSR interpreted the game as military propaganda, but settled on the answer.{{sfn|Pasanen|2011|p=7}}
+
+As a result of the public debate, the game was the top-selling Commodore 64 game in Finland from March to September 1985 according to ''MikroBitti''.<ref name="topseller"/> The full extent of the affair was unveiled in 2010, when the Finnish foreign ministry memos were declassified.<ref name="mtv3-2010-01-07" />
+
+==References==
+{{reflist|30em}}
+{{refbegin}}
+* {{cite journal | first = Tero | last = Pasanen | title = "Hyökkäys Moskovaan!" – Tapaus Raid over Moscow Suomen ja Neuvostoliiton välisessä ulkopolitiikassa 1980-luvulla | journal = Pelitutkimuksen Vuosikirja | year = 2011 | editor1-first = Jaakko | editor1-last = Suominen | editor2-first = Raine | editor2-last = Koskimaa | editor3-first = Frans | editor3-last = Mäyrä | editor4-first = Olli | editor4-last = Sotamaa | editor5-first = Riikka | editor5-last = Turtiainen | url = http://www.pelitutkimus.fi/vuosikirja-2011 | language = Finnish | format = PDF | access-date = 16 March 2013 | isbn = 978-951-44-8542-8 | pages = 1–11 | archive-date = 10 August 2014 | archive-url = https://web.archive.org/web/20140810005029/http://www.pelitutkimus.fi/vuosikirja-2011 | url-status = dead }}
+{{refend}}
+
+==External links==
+* {{WoS game|id=0003997}}
+* {{moby game|id=/raid-over-moscow}}
+* [http://nexus23.org/warfare2/?p=115 A remake of the game] {{Webarchive|url=https://web.archive.org/web/20130313090130/http://nexus23.org/warfare2/?p=115 |date=2013-03-13 }}
+* [https://archive.org/details/C64Gamevideoarchive114-RaidOverMoscow Complete video from the C64 version at Archive.org] and [https://www.youtube.com/watch?v=SaTe_7uoGDw high quality playthrough video of the C64 version on YouTube]
+* {{Lemon Amiga game|id=4439}}
+* [https://plus4world.powweb.com/software/Raid_Over_Moscow The 2022 conversion for Plus/4]
+{{Access Software}}
+
+[[Category:1984 video games]]
+[[Category:Access Software games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Cold War video games]]
+[[Category:Commodore 64 games]]
+[[Category:Finland–Soviet Union relations]]
+[[Category:Single-player video games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the Soviet Union]]
+[[Category:ZX Spectrum games]]

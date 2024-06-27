@@ -1,0 +1,68 @@
+Frantic Freddie
+Permalink: //en.wikipedia.org/w/index.php?title=Frantic_Freddie&oldid=1228524226
+Accessed on: 2024-06-26T16:55:02.292838
+
+
+
+------
+Frantic Freddie
+{{Infobox video game
+|title = Frantic Freddie
+|image =Frantic Freddie box cover.jpg
+|caption =
+|developer = 
+|publisher = [[Commercial Data Systems]]
+| designer = Kris Hatlelid<br>Gregor Larson
+|released = 1983
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64]]
+}}
+
+'''''Frantic Freddie''''' is a 1983 [[platform game]] for the [[Commodore 64]] written by Kris Hatlelid and Gregor Larson and published by [[Commercial Data Systems]].
+
+==Gameplay==
+The player uses a joystick to control the eponymous Frantic Freddie, a [[telephone line]] engineer.  Each level takes place on a single screen, each with five full-width platforms connected by [[telegraph pole]]s.  Freddie runs along the platforms; he cannot pass through the telegraph poles but may climb up and down either side of them.  The goal of the game is to collect the pots of gold resting on the platforms, as well as optional bonus items which scroll through the playing area.  Each level is patrolled by three to five monstrous "Greeblies" that Freddie must avoid, lest he lose a life.
+
+The game has a total of sixteen playable levels punctuated by animated intermission sequences.
+
+The 17th level has a game breaking bug, as this level mistakenly has all poles removed. This means that Freddie cannot reach the platforms above him, making this level impossible to clear.
+	
+The Greeblies, at the top of the screen, have now taken the form of Freddie, and since they cannot reach Freddie, because of the missing poles, this is the end of the game. The player is forced to reset/turn off the system.
+
+==Soundtrack==
+The game's synthesized soundtrack mingles arrangements of popular and ragtime songs:<ref name="collins" />
+
+* "[[Crazy Little Thing Called Love]]" ([[Queen (band)|Queen]])<ref>{{Cite web|url=https://archive.org/details/YourCommodoreIssue02Nov84/page/n31/mode/2up?view=theater|title=Your_Commodore_Issue_02_Nov_84}}</ref>
+* "[[Boogie Fever]]" ([[The Sylvers]])
+* "[[The Easy Winners]]" ([[Scott Joplin]])
+* "[[Don't Bring Me Down]]" ([[Electric Light Orchestra]])<ref>{{Cite web|url=https://archive.org/details/YourCommodoreIssue02Nov84/page/n31/mode/2up?view=theater|title=Your_Commodore_Issue_02_Nov_84}}</ref>
+* "[[Kodachrome (song)|Kodachrome]]" ([[Paul Simon]])
+* "[[A Fifth of Beethoven]]" ([[Walter Murphy]])
+* "Pine Apple Rag" (Scott Joplin)
+* "[[Elite Syncopations]]" (Scott Joplin)
+* "[[Maple Leaf Rag]]" (Scott Joplin)
+* "The Sycamore" (Scott Joplin)
+
+==Reception==
+The game was positively received by ''[[Your Commodore]]'' who said it was "A stunning graphics and music game worth playing." It was given a 4 out of 5 star rating.<ref>{{Cite web|url=https://archive.org/details/YourCommodoreIssue02Nov84/page/n31/mode/2up?view=theater|title=Your_Commodore_Issue_02_Nov_84}}</ref>
+
+Reviewing a budget release of the game in 1988, Pete Connor of ''[[ACE (magazine)|ACE]]'' described ''Frantic Freddie'' as "a pretty tired game" that promised only "a modicum of fun".<ref name="connor" />
+
+==Legacy==
+An unlicensed [[fangame]] sequel for the Commodore 64, ''Frantic Freddie II'', was released in 2019.<ref>{{Cite web|url=http://www.indieretronews.com/2019/04/frantic-freddie-ii-highly-enjoyable.html|title=Frantic Freddie II - A highly enjoyable unofficial C64 sequel to a 1980's classic}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="collins">{{cite book |last=Collins |first=Karen |date=2008 |title=Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design |location=Cambridge, MA |publisher=[[The MIT Press]] |pages=32–33 |isbn=978-0-262-03378-7 }}</ref>
+<ref name="connor">{{cite journal |last=Connor |first=Pete |date=1988 |title=Frantic Freddie |url=http://amr.abime.net/issue_1168_pages |journal=[[ACE (games magazine)|ACE]] |publisher=[[Future plc]] |issue=5 |pages=66 }}</ref>
+}}
+
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Platformers]]
+[[Category:1983 video games]]
+[[Category:Video games developed in Canada]]
+
+
+{{platform-videogame-stub}}

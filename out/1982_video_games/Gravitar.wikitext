@@ -1,0 +1,88 @@
+Gravitar
+Permalink: //en.wikipedia.org/w/index.php?title=Gravitar&oldid=1229086092
+Accessed on: 2024-06-26T16:53:28.785047
+
+
+
+------
+Gravitar
+{{Short description|1982 video game}}
+{{for|another use|Gravitar (band)}}
+{{distinguish|Gravatar|Gravastar}}
+{{Infobox video game
+|title = Gravitar
+|image = [[File:gravitar.png|frameless|Gravitar arcade flyer]]
+|caption = American arcade flyer
+|developer = [[Atari, Inc.]]
+|publisher = Atari, Inc.
+|designer = Mike Hally<br>Rich Adam<br>Joe Coddington (hardware)
+|programmer = Dan Hitchens (2600)<ref name="giantlist"/>
+|artist = Brad Chaboya (cabinet)
+|released = '''Arcade'''{{vgrelease|NA|1982}}'''Atari 2600'''{{vgrelease|NA|October 1983<ref>{{cite web |last1=Hahn |first1=Duane Alan |title=1983: Atari 2600 Video Game Release Dates with Pop Culture Atmosphere |url=https://www.randomterrain.com/atari-2600-memories-history-1983.html |website=Random Terrain}}</ref>}}
+|genre = [[Multidirectional shooter]]
+|modes = 1-2 players alternating turns
+|platforms = [[Arcade video game|Arcade]], [[Atari 2600]]
+}}
+
+'''''Gravitar''''' is a color [[vector graphics]] [[multidirectional shooter]] arcade video game released by [[Atari, Inc.]] in 1982. Using the same "rotate-and-thrust" controls as ''[[Asteroids (video game)|Asteroids]]'' and ''[[Space Duel]]'', the game was known for its high level of difficulty.<ref>{{cite web|title=Gravitar|url=http://www.atariprotos.com/2600/software/gravitar/gravitar.htm|website=AtariProtos.com}}</ref> It was the first of over twenty games (including the 1983 ''[[Star Wars (arcade game)|Star Wars]])'' that Mike Hally designed and produced for Atari. The main programmer was Rich Adam and the [[Arcade cabinet|cabinet art]] was designed by Brad Chaboya. Over 5,427 cabinets were produced.<ref>{{Cite web|url=http://www.andysarcade.de/gravitar.html|title=AndysArcade.De - Gravitar (Atari)|website=www.andysarcade.de}}</ref> An [[Atari 2600]] version by Dan Hitchens was published by Atari in 1983.<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+
+==Gameplay==
+[[File:gravitar2.png|thumb|left|The north planet in second universe.]]
+
+The player controls a small blue spacecraft. The game starts in a fictional [[planetary system|solar system]] with several planets to explore. If the player moves their ship into a planet, they will be taken to a side-view landscape. Unlike many other shooting games, [[gravity]] plays a fair part in ''Gravitar'': the ship will be pulled slowly to the deadly star in the overworld, and downward in the side-view levels. Great precision is demanded of the player, as the ship rotates too slowly to allow a player to correct their mistake if they apply too much thrust and fly toward an obstacle.
+
+The player has five buttons: two to rotate the ship left or right, one to shoot, one to activate the [[Rocket engine|thruster]], and one for both a [[tractor beam]] and force field. ''Gravitar'', ''[[Asteroids (video game)|Asteroids]]'', ''[[Asteroids Deluxe#Legacy|Asteroids Deluxe]]'' and ''[[Space Duel]]'' all used similar 5-button controlling systems.
+
+In the side-view levels, the player has to destroy red bunkers that shoot constantly, and can also use the tractor beam to pick up blue [[fuel]] tanks. Once all of the bunkers are destroyed, the planet will blow up, and the player will earn a bonus. Once all planets are destroyed, the player will move onto another solar system.
+
+The player will lose a life if they crash into the terrain or get hit by an enemy's shot, and the game will end immediately if fuel runs out.
+
+''Gravitar'' has 12 different planets. ''Red Planet'' is available in all 3 phases in the universe; it contains a reactor. Shooting the reactor core activates a link. Escaping the reactor successfully moves the player to the next phase of planets, awards bonus points and 7500 units of fuel. Reactor escape time reduces after each phase and eventually becomes virtually impossible to complete.
+
+[[File:reactor.png|thumb|The reactor is at the end of a narrow tunnel.]]
+
+After completing all 11 planets (or alternatively completing the reactor three times) the player enters the second universe and the gravity will reverse. Instead of dragging the ship towards the planet surface, the gravity pushes it away. In the third universe the landscape becomes invisible and the gravity is positive again. The final, fourth universe, has invisible landscape and reverse gravity. After completing the fourth universe the game starts over, but the reactor escape time will never reset back to high levels again.
+
+The programmers thought that even the best players could never complete the most difficult planets on the invisible levels. Neither of the key developers themselves, Mike Hally and Rich Adam, have ever completed their own game in their own words "without cheating".<ref>{{cite web |url=http://www.cooganphoto.com/gravitar/interview.html#interview |title=Interview with Mike Hally and Rich Adam |accessdate=2012-04-10}}</ref>
+
+==Development==
+''Gravitar'' was developed under the name ''Lunar Battle''.<ref>{{cite web |url=http://www.cooganphoto.com/gravitar/lunar-battle.html |title=Lunar Battle is the Gravitar prototype|last1=Coogan|first1=Dan|accessdate=2012-04-18}}</ref>
+
+==Ports==
+The silver label version of Atari 2600 ''Gravitar'' was originally only available to Atari Club members.<ref>{{cite web |url=http://www.atariage.com/software_page.html?SoftwareLabelID=222 |title=AtariAge information of Atari 2600 home version. |accessdate=2012-04-22 |archive-url=https://web.archive.org/web/20120418125537/http://www.atariage.com/software_page.html?SoftwareLabelID=222 |archive-date=2012-04-18 |url-status=dead}}</ref> It was later sold in stores in limited quantities. Atari eventually released it in the red box and label style with larger distribution.
+
+==Legacy==
+''Gravitar'' inspired the 1986 computer game ''[[Thrust (video game)|Thrust]]''.<ref name=Zzap>{{cite magazine|title = THRUST|first1=Gary |last1=Penn|first2=Gary |last2=Liddon |first3=Julian |last3=Rignall|date = May 1986|magazine = [[Zzap!64]]|publisher = [[Newsfield]]|issue = 13|pages = 16–17}}</ref>
+
+Dual-stick shooter ''[[Black Widow (video game)|Black Widow]]'' was offered as a conversion kit for ''Gravitar''. The kit included a new marquee, control panel, side art, and an additional wiring harness. The kit used the original ''Gravitar'' [[printed circuit board|PCB]], with a few small modifications and a new set of [[Read-only memory|ROM]] chips. Many factory-built ''Black Widows'' were produced using unsold ''Gravitar'' cabinets, and although they contain original (not ''Gravitar'' conversion) board sets, they had ''Black Widow'' side art applied over the ''Gravitar'' sideart.
+
+''Gravitar'' is part of the ''[[Atari Anthology]]'' for [[Microsoft Windows|Windows]], [[Xbox (console)|Xbox]], and [[PlayStation 2]] as well as the ''[[Atari Anniversary Edition]] Vol. 2'' for [[Dreamcast]], [[PlayStation]], and [[Microsoft Windows|Windows]]. ''Gravitar'' is also included in the [[Atari Flashback|Atari Flashback 3]]. In April 2019, ''Gravitar'' was added to the TeslAtari game collection included in [[Tesla Motors|Tesla]] vehicles.
+
+In the 1983 [[List of James Bond films|James Bond film]] ''[[Never Say Never Again]]'', [[Domino Vitali|Domino Petachi]] ([[Kim Basinger]]) is seen about to play ''Gravitar'' before meeting up again with Bond ([[Sean Connery]]) at [[Monte Carlo Casino|Casino de Monte Carlo]]. The indoor scene was filmed at [[Elstree Studios (Shenley Road)|Elstree Studios]] in [[Hertfordshire, England]] - the arcade cabinets used would have been sourced from Atari's European factory in Ireland.
+
+A revamped version of the game, titled ''Gravitar: Recharged'', part of the ''[[Atari Recharged]]'' series, was released on May 12, 2022 for [[Atari VCS]], and on June 2 for [[Microsoft Windows]], [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Xbox One]], and [[Xbox Series X/S]].<ref>{{Cite web |last=Major |first=The |date=2022-05-12 |title=Gravitar: Recharged Launches Today on Atari VCS as a Timed Exclusive |url=https://www.gamesenquirer.com/post/gravitar-recharged-launches-today-on-atari-vcs-as-a-timed-exclusive |access-date=2022-08-02 |website=GamesEnquirer.com |language=en |archive-date=2022-08-11 |archive-url=https://web.archive.org/web/20220811155110/https://www.gamesenquirer.com/post/gravitar-recharged-launches-today-on-atari-vcs-as-a-timed-exclusive |url-status=dead }}</ref><ref>{{Cite web |last=Dellosa |first=Catherine Ng |title=Gravitar: Recharged is coming to all platforms on June 2nd, letting players revisit the hit retro franchise |url=https://www.pocketgamer.com/gravitar-recharged/coming-to-all-platforms-on-june-2nd/ |access-date=2022-08-02 |website=www.pocketgamer.com |date=11 May 2022 |language=en}}</ref>
+
+==Records==
+Dan Coogan, of [[Phoenix, Arizona]], set a ''Gravitar'' world record, scoring 8,029,450 points from December 22 to 23, 2006, playing for 23 hours and 15 minutes. The previous world record for score was 4,722,200, which held for 24 years, set by Ray Mueller of [[Boulder, Colorado]], on December 4, 1982, after playing for 12 hours and 21 minutes.<ref>{{cite web |url=http://forums.twingalaxies.com/viewtopic.php?f=22&t=1579 |title=Twin Galaxies |accessdate=2008-03-09 |url-status=dead |archive-url=https://archive.today/20120709105747/http://forums.twingalaxies.com/viewtopic.php?f=22&t=1579 |archive-date=2012-07-09}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{KLOV game|id=8000}}
+* [http://www.arcade-history.com/?page=detail&id=1006 ''Gravitar''] at the Arcade History database
+* [http://www.cooganphoto.com/gravitar Dan Coogan's ''Gravitar'' Page]
+* [http://www.digitpress.com/forum/showthread.php?161077-Atari-Gravitar-Advanced-Play-tips Videos of ''Gravitar'' advanced gameplay]
+* [http://8bithorse.blogspot.com/2012/12/gravitar.html ''Gravitar'' history and legacy in the 8 Bit Horse Blog]
+
+{{Authority control}}
+
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari arcade games]]
+[[Category:Multidirectional shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Vector arcade video games]]
+[[Category:Video games developed in the United States]]

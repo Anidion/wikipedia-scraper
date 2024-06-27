@@ -1,0 +1,96 @@
+Cauldron II: The Pumpkin Strikes Back
+Permalink: //en.wikipedia.org/w/index.php?title=Cauldron_II%3A_The_Pumpkin_Strikes_Back&oldid=1227619160
+Accessed on: 2024-06-26T16:59:46.987581
+
+
+
+------
+Cauldron II: The Pumpkin Strikes Back
+{{Short description|1986 video game}}
+{{Infobox video game
+| title = Cauldron II: The Pumpkin Strikes Back
+| image = Cauldron2.JPG
+| alt = Artwork of a vertical rectangular box. The top portion reads "Cauldron•II The Pumpkin Strikes Back" and the bottom portion reads "Spectrum". Depicted behind a black background is a witch with long green hair and a long pointed nose. The witch holds an orange pumpkin in both hands.
+| caption = Cover art by Steve Brown
+| developer = [[Palace Software]]
+| publisher = Palace Software
+| designer = Steve Brown
+| programmer = Richard Leinfellner and Stan Schembri
+| composer = [[Richard Joseph]]
+| released = 1986<ref name="CVG-Review"/>
+| genre = [[Action-adventure game|Action-adventure]], [[Platform game|platform]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]], [[Commodore Plus 4]]
+}}
+
+'''''Cauldron II: The Pumpkin Strikes Back''''' is a [[video game]] developed and published by [[United Kingdom|British]] developer [[Palace Software]] as a sequel to their 1985 game ''[[Cauldron (video game)|Cauldron]]''. The [[2D computer graphics|2D]] [[platform game]] was released in 1986 for the [[ZX Spectrum]], [[Commodore 64]], and [[Amstrad CPC]] home computers. Players control a bouncing pumpkin that is on a quest of vengeance against the "Witch Queen". The roles of the two were reversed from the first game, in which the witch defeated a monstrous pumpkin.
+
+Following the success of ''Cauldron'', Palace employee Steve Brown began work on a sequel. To provide fans of the original title with a new experience, a very different style of gameplay was implemented for the sequel, although several minor features retained connections to the first. Inspired by the bouncing pumpkin character in ''Cauldron'', Brown designed the game around the character's movement. The bouncing mechanic proved problematic for the programmers who were unable to perfect its implementation. Technical limitations also prevented them from implementing certain animations, such as turning pages of a book.
+
+''Cauldron II'' was first released on the Commodore 64. It was released in the following years on other systems and as re-releases. The game received praise, mainly for its audio-visuals, in [[Video game journalism|video game magazines]]. Difficulty in handling the bouncing pumpkin's movement was a common complaint, although reviewers felt the overall package was of good value.
+
+== Gameplay ==
+[[File:CauldronII-Gameplay.png|left|thumb|alt=Horizontal rectangular video game screenshot that is a digital representation of a castle interior. A yellow pumpkin bounces on the second floor of a castle room. To the left of the pumpkin is a blue monster, while a red table with a bowl of fruit is below on the first floor.|The pumpkin bounces through the castle and encounters enemies. Game statistics (points obtained, magic points, and remaining lives) are tracked at the top.]]
+
+In ''[[Cauldron (video game)|Cauldron]]'', the protagonist was a witch who became the "Witch Queen" by defeating an enemy called the "Pumpking". In its sequel, players control a pumpkin that has survived the witch's ascent to power and seeks to defeat her. ''Cauldron II'' takes place in the witch's castle, and players control the pumpkin, moving it through the [[2D computer graphics|2D]] game world that is shown as side views. Six magical items&mdash;a Goblet, Axe, Shield, Crown, Scissors, and Book of Spells&mdash;are scattered throughout the castle and when collected by the player character, augment the pumpkin's abilities, providing it with offensive and defensive capabilities. Collecting the items also allows the pumpkin to access the witch's chambers and cut a lock of her hair, which is required to defeat the witch and complete the game.<ref name="CG-18"/><ref name="YourSinclairUser-9"/><ref name="ZXComp-Review"/>
+
+The protagonist traverses the castle by bouncing, and players control the pumpkin by manipulating the direction and height of its bounce. Similar to the previous game, Halloween-themed enemies, such as ghosts, monsters, and skeletons, inhabit the game world. Contact with an enemy drains the pumpkin's [[Magic points|magic meter]] that also fuels the protagonist's offensive projectiles. The character dies once the meter is depleted. The pumpkin has a limited number of lives to continue the game, which ends once all of the pumpkin's lives have been expended. On continuing, the pumpkin reappears on the screen with a refilled meter.<ref name="CG-18" /><ref name="YourSinclairUser-9" /><ref name="ZXComp-Review" />
+
+== Development ==
+{{quote box| quoted=true |width = 33%| quote= The idea behind ''Cauldron II'' was that there should be a sufficient thread to link to the previous game, but that it should also present new ideas around the platform genre. A player would then be sufficiently assured that we'd done our best to create a new game, rather than fobbing them off with more of a successful formula. | source = Stan Schembri on the design of ''Cauldron II''<ref name="RG-35"/>}}
+
+The success of ''Cauldron'' in 1985 prompted Palace Software to produce a sequel. Rather than recycle the previous game's design, the development team wanted to be innovative and implement new gameplay features. Steven Brown and Richard Leinfellner resumed their roles as designer and programmer, respectively.<ref name="RG-35"/> [[Richard Joseph]] handled the audio design, and Stan Schembri programmed the Commodore 64 version.<ref name="MG-Combined"/><ref name="MG-C64"/>
+
+Brown first drew inspiration from the final scene of ''Cauldron'': the witch's fight against the Pumpking, which bounced around a room. He felt the bouncing pumpkin looked "cool" and decided to base the sequel's gameplay on this aspect. Although unsure about the idea, the other team members proceeded with development. Intended to mimic a [[bouncing ball]], the pumpkin's movement could change direction only if force is applied to it while it is in contact with a surface that provides friction. This mechanic prohibited the pumpkin from changing directions while in mid-air and proved problematic for the programmers to implement. Issues included difficulties with collision detection, unpredictable movements that led to glitches, and trouble with the firing mechanism. The pumpkin's ability to fire projectiles was intended to provide offensive game mechanics to players. In early designs, however, the projectile inadvertently generated a force that changed the pumpkin's direction. The programmers tried to correct this, but were unable to create a perfect solution.<ref name="RG-35"/>
+
+As the gameplay designs were being implemented, Brown switched his focus to the game's aesthetics. Scenes from the game were sketched on [[storyboard]]s to aid development. ''Cauldron II''{{'}}s game world, the witch's castle, was designed to resemble Palace Software's logo as an advertising tactic. Brown photographed separate screens of the game and assembled them into a complete map, showing the shape of his company's logo, for video game magazines. Enemy designs were similar to those in the previous game, based on the Halloween holiday. Brown envisioned a graphical effect for the game's narration, showing a book whose pages turned as the story is read, but the technical limitations at the time prohibited the implementation of such a visual effect. Brown also wanted the game's visuals to [[Scrolling|scroll]] seamlessly as the character moved through the game world, but [[Flip-screen|flick-screening]] (showing one section of the world at a time) was more feasible. As with the previous game, Brown created a [[plasticine]] model of the witch character as a reference for a painting that was used for the game's box art. The group tested the game prior to release and deemed it too challenging. They reduced the difficulty level so that more players could complete the game.<ref name="RG-35"/>
+
+Palace Software developed ''Cauldron II'' for three home computers: [[Amstrad CPC]], [[Commodore 64]], and [[ZX Spectrum]].<ref name="MG-Combined"/> The game was first released for the Commodore 64, and then for the Amstrad CPC and ZX Spectrum.<ref name="CVG-Review"/> It was later re-released on the ZX Spectrum in 1989 by [[Telecomsoft]] under its Silverbird budget label.<ref name="Crash-61"/> ''Cauldron II'' was also re-released with the first game as a compilation title for Amstrad CPC and ZX Spectrum computers.<ref name="YS-62"/><ref name="GS-Comp"/>
+
+== Reception ==
+{{Video game reviews
+| CRASH = 91%<ref name="Crash-31"/>
+| YSinclair = 9 out of 10<ref name="YourSinclairUser-9"/>
+| award1Pub = ''Crash''
+| award1 = Smash<ref name="Crash-31"/>
+| award2Pub = ''ZX Computing''
+| award2 = Monster Hit<ref name="ZXComp-Review"/>
+}}
+
+The game was well received by [[Video game journalism|video game journalists]] upon its release. ZX Spectrum magazines ''[[Crash (magazine)|Crash]]'' and ''ZX Computing'' awarded ''Cauldron II'' their top accolades: "Crash Smash" and "Monster Hit", respectively.<ref name="ZXComp-Review"/><ref name="Crash-31"/> Similar to the first ''Cauldron'', praise from the video game press focused on the graphical quality, and criticism directed at the gameplay was mixed. ''[[Computer and Video Games]]'' reviewer Paul Boughton praised the size of the game world, but criticized the audio quality of the Amstrad CPC and ZX Spectrum versions, citing the limited capabilities of the two systems. In concluding his review, Boughton felt any version of the game would be worth purchasing.<ref name="CVG-Review"/> Phil South of ''[[Your Sinclair]]'' praised the game's presentation and design, calling the graphics "lovely" and the platform gameplay "original".<ref name="YourSinclairUser-9"/> ''ZX Computing''{{'}} reviewer praised the audio-visuals, and recommended the title for fans of the previous game.<ref name="ZXComp-Review"/> 
+
+A ''Crash'' magazine reviewer lauded the audio-visuals of the ZX Spectrum version and commented that the gameplay offered more than its predecessor's. The reviewer described ''Cauldron II'' as difficult, but felt that the sense of accomplishment gained from successful completion outweighed the negative aspect.<ref name="Crash-31" /> ''[[Computer Gamer]]''{{'}}s reviewer criticized the bouncing gameplay, citing unpredictable reactions and difficulty in navigating around tough enemies.<ref name="CG-18" /> Rich Pelley and Jon Pillar of ''Your Sinclair'' echoed similar comments.<ref name="YS-62" /> ''[[Retro Gamer]]'' writer Craig Grannell described the game's difficulty as the "only real criticism".<ref name="RG-35" /> The ''ZX Computing'' reviewer also criticized the bouncing aspect, but praised the overall game design as enjoyable.<ref name="ZXComp-Review" /> Phil King, another ''Crash'' reviewer, praised the Silverbird re-release. He called the graphics "colorful" and "well-animated", and felt that the game was of good value despite its excessive difficulty.<ref name="Crash-61" /> The commercial success of the two ''Cauldron'' games prompted Palace to give Brown more creative freedom for his following project, ''[[Barbarian: The Ultimate Warrior]]''.<ref name="RG-23"/>
+
+== References ==
+{{Reflist|refs=
+<ref name="CVG-Review">{{cite magazine | magazine = [[Computer and Video Games]] | publisher = [[EMAP]] | title = Software Reviews: Cauldron II | date = October 1986 | issue = 60 | page = 41 | first = Paul | last = Boughton}}</ref>
+<ref name="CG-18">{{cite magazine | magazine = [[Computer Gamer]] | title = Reviews: Cauldron II | publisher = [[Argus Press]] | date = September 1986 | issue = 18 | page = 63}}</ref>
+<ref name="YourSinclairUser-9">{{cite magazine | magazine = [[Your Sinclair]] | title = Screen Shots: Cauldron II | issue = 9 | page = 35 | publisher = [[Dennis Publishing]] | date = September 1986 | first = Phil | last = South}}</ref>
+<ref name="ZXComp-Review">{{cite magazine | magazine = ZX Computing | title=none | publisher = Argus Press | date = August 1986 | page = 18}}</ref>
+<ref name="RG-35">{{cite magazine | magazine = [[Retro Gamer]] | publisher = [[Imagine Publishing]] | title = The Making of Cauldron and Cauldron II | issue = 35 | pages = 48–51 | first = Craig | last = Grannell}}</ref>
+<ref name="MG-C64">{{cite web | url = http://www.mobygames.com/game/c64/cauldron-ii-the-pumpkin-strikes-back | title = Cauldron II: The Pumpkin Strikes Back for Commodore 64 | publisher = [[MobyGames]] | access-date = 2010-04-15}}</ref>
+<ref name="MG-Combined">{{cite web | url = http://www.mobygames.com/game/cauldron-ii-the-pumpkin-strikes-back | title = Cauldron II: The Pumpkin Strikes Back | publisher = [[MobyGames]] | access-date = 2010-04-15}}</ref>
+<ref name="Crash-61">{{cite magazine | magazine = [[Crash (magazine)|Crash]] | publisher = [[Newsfield Publications]] | title = Oldies Unlimited: Cauldron II | date = February 1989 | issue = 61 | page = 40 | first = Phil | last = King}}</ref>
+<ref name="YS-62">{{cite magazine | magazine = [[Your Sinclair]] | publisher = Dennis Publishing | title = Bargain Basement: Cauldron I & II | issue = 62 | page = 52 | date = February 1991 | first1 = Rich | last1 = Pelley | first2 = Jon | last2 = Pillar}}</ref>
+<ref name="GS-Comp">{{cite web | url = http://www.gamespot.com/cauldron-i-and-ii/techinfo/platform/cpc/ | archive-url = https://web.archive.org/web/20121107015501/http://www.gamespot.com/cauldron-i-and-ii/techinfo/platform/cpc/ | title = Cauldron I & II Tech Info | work = [[GameSpot]] | publisher = [[CBS Interactive]] | access-date = 22 November 2016 | archive-date = 7 November 2012 | url-status=dead}}</ref>
+<ref name="Crash-31">{{cite magazine | magazine = [[Crash (magazine)|Crash]] | title = Cauldron II | issue = 31 | pages = 112–113 | publisher = [[Newsfield Publications]] | date = August 1986}}</ref>
+<ref name="RG-23">{{cite magazine | last = Carroll | first = Martyn | date = 30 March 2006 | title = Company Profile: Palace Software | magazine = Retro Gamer | issue = 23 | pages = 66–69 | publisher = Imagine Publishing}}</ref>
+}}
+
+{{good article}}
+
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Halloween video games]]
+[[Category:Video game sequels]]
+[[Category:Video games scored by Richard Joseph]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games about witchcraft]]
+[[Category:Video games set in castles]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]
+[[Category:Action-adventure games]]
+[[Category:Platformers]]
+[[Category:Palace Software games]]

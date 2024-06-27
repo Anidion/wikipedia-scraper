@@ -1,0 +1,149 @@
+Lunar Lander (video game genre)
+Permalink: //en.wikipedia.org/w/index.php?title=Lunar_Lander_%28video_game_genre%29&oldid=1229076927
+Accessed on: 2024-06-26T16:51:18.159618
+
+
+
+------
+Lunar Lander (video game genre)
+{{Short description|Moon landing simulation games}}
+{{About|the Lunar Lander video games||Lunar lander (disambiguation){{!}}Lunar lander}}
+{{good article}}
+{{Infobox video game series
+| title = Lunar Lander
+| italic title = no
+| image = Lunar_Lander.png
+| caption = 1979 arcade version of ''Lunar Lander'', with vector graphics.
+| platforms = [[Minicomputer]]s, [[personal computer]]s, [[Arcade video game|arcade]]
+| developer =
+| publisher =
+| genre = [[Space flight simulation game|Space flight simulation]]
+| first release date = 1969
+| spinoffs =
+}}
+
+'''Lunar Lander''' is a genre of [[video game]]s loosely based on the 1969 landing of the [[Apollo Lunar Module]] on the [[Moon]]. In Lunar Lander games, players control a spacecraft as it falls toward the surface of the Moon or other [[astronomical object|astronomical body]], using thrusters to slow the ship's descent and control its horizontal motion to reach a safe landing area. Crashing into obstacles, hitting the surface at too high a velocity, or running out of fuel all result in failure. In some games in the genre, the ship's orientation must be adjusted as well as its horizontal and vertical velocities.
+
+The first Lunar Lander game was a text-based game published under many names, including the ''Lunar Landing Game'', written in the [[FOCAL (programming language)|FOCAL]] programming language for the [[Digital Equipment Corporation]] (DEC) [[PDP-8]] [[minicomputer]] by Jim Storer while a high school student in the fall of 1969. Several other versions were written soon after by other programmers in FOCAL and [[BASIC]]. The original ''Lunar Landing Game'' was converted to BASIC by [[David H. Ahl]], who included three versions in his 1973 book ''[[BASIC Computer Games|101 BASIC Computer Games]]''. By the end of the decade, the type of game was collectively known as a "lunar lander" game.
+
+In 1973, DEC commissioned the creation of a real-time, graphical version of ''Lunar Lander'', which was intended to showcase the capabilities of their new [[DEC GT40]] graphics terminals. The game, written by Jack Burness and named ''Moonlander'', was distributed with DEC computers and displayed at trade shows. In 1979, [[Atari, Inc.|Atari]] released a vector graphics [[arcade video game]] version of the concept as ''[[Lunar Lander (1979 video game)|Lunar Lander]]''. It has a fuel-for-money system allowing the player to purchase more fuel to continue their current game.
+
+Lunar Lander games were a popular concept for home computer systems. Commodore published a version called ''[[Jupiter Lander]]'' for their [[VIC-20]] in 1981. That same year, ''[[Electronic Games]]'' wrote that "sometimes it seems as though every company capable of copying a cassette is trying to sell a game on this theme."<ref name="eg198101"/>
+
+==Text games==
+[[File:Lunar Lander Rocket gameplay.png|thumb|right|A full game of ''Rocket'', one of the early versions of the game. The player has only spent fuel at the last moment, and as a result, has crashed into the Moon.]]
+The original Lunar Lander game was a 1969 text-based game published under many names, including the ''Lunar Landing Game''.<ref name="Ahl_LUNAR"/><ref name="SFgames"/> It was originally written in the [[FOCAL (programming language)|FOCAL]] programming language for the [[Digital Equipment Corporation]] (DEC) [[PDP-8]] [[minicomputer]] by Jim Storer while a student at [[Lexington High School (Massachusetts)|Lexington High School]] in the fall of 1969, and uploaded to the system library as ''Rocket'' after Christmas break.<ref name="lunar_tech"/><ref name="lunar_comp"/><ref name="ACHmoon"/> His computer teacher submitted the game under the name ''FOCAL Lunar Landing Simulation (APOLLO)'' to the DEC users' newsletter, which distributed the [[source code]] to readers under the name ''Apollo''.<ref name="lunar_tech"/><ref name="ACHmoon"/> Different versions of the game were later submitted by other authors, including ''Apollo II'' and ''Apollo 12''. DEC published a book of FOCAL-8 programs in 1970 and included the game as ''Lunar Module''.<ref name="ACHmoon"/> Other versions of the concept were written soon after: a version called ''Rocket'' was written in [[BASIC]] by Eric Peters at DEC, and another BASIC version, ''LEM'', was written by William Labaree II, among others.<ref name="Ahl_LUNAR"/>
+
+The text-based games require the player to control a rocket attempting to land on the [[Moon]] by entering instructions to the rocket in a turn-based system in response to the textual summary of its current position and velocity relative to the ground.<ref name="Ahl_LUNAR"/> In the original ''Lunar'', players controlled only the amount of vertical thrust to apply, based on their current vertical velocity and remaining fuel, with each round representing ten seconds of travel time. ''Rocket'' added a simple text-based graphical display of the distance from the ground in each round, while ''LEM'' added horizontal velocity and the ability to apply thrust at an angle.<ref name="lunar_tech"/> In 1970 and 1971, DEC employee and editor of the newsletter [[David H. Ahl]] converted two [[early mainframe games]], ''Lunar'' and ''[[Hamurabi (video game)|Hamurabi]]'', from the FOCAL language to BASIC, partially as a demonstration of the language on the DEC PDP-8 minicomputer. Their popularity led him to start printing BASIC games in the DEC newsletter, both his own and reader submissions.<ref name="TIME"/><ref name="BoCC"/>
+
+In 1973, Ahl released the book ''[[BASIC Computer Games|101 BASIC Computer Games]]'', which contained the source code of computer games written in BASIC. The games included were written by both Ahl and others and included both games original to the language and games [[porting|ported]] from other languages such as FOCAL. ''101 BASIC Computer Games'' was a landmark title in computer games programming and was a best-selling title with more than 10,000 copies sold. Its second edition in 1978, titled ''BASIC Computer Games'', was the first million-selling computer book. As such, the BASIC ports of mainframe computer games included in the book were often more long-lived than their original versions or other mainframe computer games.<ref name="TIME"/> Included in the book were all three versions of ''Lunar Lander'', under the names ROCKET (Storer version), ROCKT1 (Peters version), and ROCKT2 (Labaree version).<ref name="Ahl_LUNAR"/> Ahl and Steve North then converted all three versions to [[Microsoft BASIC]] and published them in ''[[Creative Computing]]'' magazine and the ''Best of Creative Computing'' collection in 1976;<ref name="BoCC"/> they were reprinted in the 1978 edition of ''BASIC Computer Games'' as ''Lunar'', ''LEM'', and ''Rocket'' as the most popular of the existing versions of the game.<ref name="Ahl_LUNAR"/>
+
+The first known use of the name ''Lunar Lander'' for a video game of this type was in the 1975 book ''What to Do After You Hit Return'', a collection of BASIC computer games by the [[People's Computer Company]] similar to Ahl's book, which included versions named ''Crash'' and ''Lunar Lander''.<ref name="ACHmoon"/><ref name="WTD105107"/> Prior to that, in 1970, the name was used for an [[electromechanics|electro-mechanical]] [[arcade game]] by former [[Atari, Inc.]] employees operating as Cointronics, in which the player uses a joystick to land a lunar lander model on targets, though it is unclear if the game was inspired by the video games or solely by the actual lunar lander.<ref name="ACHmoon"/> Another ''Lunar Lander'' video game was commercially distributed for some [[programmable calculator]]s such as in 1975 for the Hewlett-Packard [[HP-25]].<ref name="HPbook"/> With the advent of [[home computer]]s in 1977, the game concept soon moved to those systems as well, with ''Moon Lander'' (1977) for the [[MK14]] [[electronic kit|computer kit]], which displayed the lander's speed, height, and fuel consumption on an eight-character calculator-style display, as an early example.<ref name="GTTR"/> While Ahl did not list a common name for the three similar titles in his book, the style of game was collectively seen as its own subgenre, with ''[[InfoWorld]]'' referring to ''LEM'' in February 1979 as "a lunar lander" and ''[[Antic (magazine)|Antic]]'' terming the set of text-based games as "Lunar Landers" in 1986.<ref name="IW"/><ref name="Antic"/>
+
+==Graphical games==
+[[File:GT40 Lunar Lander.jpg|thumb|right|DEC GT40 graphics terminal running ''Moonlander'']]
+In 1973, DEC commissioned the creation of a real-time, graphical version of ''Lunar Lander'', which was intended to showcase the capabilities of their new [[DEC GT40]] graphics terminals, when connected to their [[PDP-10]] or [[PDP-11]] minicomputers. The game was written by Jack Burness, a DEC consultant and former employee, and named ''Moonlander''; it was distributed with DEC computers and displayed at trade shows.<ref name="SFgames"/><ref name="lunar_tech"/><ref name="ACHmoon"/> Unlike the previous turn-based, textual games, ''Moonlander'' is a real-time graphical game. The goal remains to correctly land an [[Apollo Lunar Module]] on the surface of the Moon using the game's [[telemetry]] data. If the player miscalculates the module's landing, the module will either fly off into space or crash into the Moon's surface. The game is controlled with a [[light pen]], and the output display was a [[vector graphics]] system; the light pen allowed adjusting the throttle value and the angle of the lunar lander.<ref name="SFgames"/> Burness completed the game on February 25, 1973, after spending ten days developing it plus one day visiting the [[Massachusetts Institute of Technology]], which had co-designed the actual [[Apollo Lunar Module]]. There, he got the actual specifications for the lander, which he used to create the calculations of the fuel consumption for maneuvering the rocket.<ref name="lunar_tech"/><ref name="ACHmoon"/> Burness has said that he does not recall playing the original ''Lunar'', but that by 1973 there were numerous versions of the game which he had played.<ref name="lunar_tech"/> A few months prior to making the game, he attended the December 6 launch of the [[Apollo 17]] Moon landing mission, which may have inspired the creation of the game.<ref name="ACHmoon"/>
+
+''Moonlander'' was the first multiple-perspective video game; when the lander gets close to the Moon, the view changes to a close-up view of the surface and lander. If the player successfully lands the spaceship, an astronaut climbs out to stand on the surface—the first depiction of a human in a video game and possibly the first [[cutscene]] in a video game.{{efn|''[[The Sumerian Game]]'' (1966) interspersed gameplay with projected slideshow images along with a voiceover tape, which may also be considered the first cutscene.<ref name="SumerianRetro"/>}}<ref name="ACHmoon"/><ref name="Katevideo"/> ''Moonlander'' was also the first video game to include an [[Easter egg (media)|easter egg]]; if the player flies their ship horizontally enough in the close-up view, they encounter a [[McDonald's]] restaurant which the astronaut will visit upon landing and which the player can destroy by crashing the lander into it.<ref name="ACHmoon"/><ref name="Katevideo"/> Modified versions of ''Moonlander'' were made, with at least one renaming it to a variant of "Lunar Lander" such as ''RT-11 Lunar Lander'', and another removing the McDonald's, as seen in a 1979 Dutch short film ''Mens en computer'' (''Human and Computer'').<ref name="ACHmoon"/> A port for the [[iPad]] was released for free by Paradigm Systems in 2013.<ref name="ipadLander"/>
+
+[[File:Moonlander on DEC.png|thumb|Ad in ''[[Electronic Design (magazine)|Electronic Design]]'' showing ''Moonlander'' on a DEC GT40.|alt=Man using light pen on a screen.]]
+
+In August 1979, [[Atari, Inc.]] produced an [[arcade video game]] version of the concept as ''[[Lunar Lander (1979 video game)|Lunar Lander]]''. It uses monochrome [[vector graphics]] and allows the player to rotate the ship right or left and fire thrusters via proportional throttle control system using a joystick with a spring. Like ''Moonlander'', both a graphical display of a repeating mountainous surface as well as a text readout of the ship's speed, altitude, and remaining fuel are displayed. Once a game begins, it only ends when a player runs out of fuel, rather than due to a time limit; players can insert quarters to add fuel to their current game. Bonus points are awarded for landing on difficult parts of the map.<ref name="Pixel"/> The game features four levels of difficulty in controlling the ship.<ref name="lunar_tech"/> ''Lunar Lander'' was Atari's first vector graphics game.<ref name="Pixel"/><ref name="TVGE"/> The vector engine was inspired by ''[[Space Wars]]'' (1978) and created by Rick Moncrief and Howard Delman, who developed ''Lunar Lander'' alongside Rich Moore. The idea for the game came from Delman, who had seen a graphical version of the game, likely ''Moonlander'', a few years prior; Atari employees had also seen ''Moonlander'' years prior at the [[NASA]] [[Ames Research Center]] and attempted to create an arcade version with [[raster graphics]] in 1975.<ref name="lunar_tech"/><ref name="ACHmoon"/> Another arcade game based on the ''Lunar Lander'' concept from around the same time is ''[[Lunar Rescue]]'' (1979) by [[Taito]].<ref name="TVGE"/>
+
+Graphical Lunar Lander games have been produced for other systems. Although some were named ''Lunar Lander'',<ref name="IWLL"/> many were not; regardless, the name of the type of game continued to be "lunar landers".<ref name="Antic"/><ref name="Byte"/> Bill Budge developed ''Tranquility Base'' for the Apple II in 1980. Commodore published ''[[Jupiter Lander]]'', a raster version of the game, in 1981 for the [[VIC-20]] and 1982 for the [[Commodore 64]]. [[IBM]] released ''Rocket Lander'' for the [[IBM Personal Computer|IBM PC]] in 1982.<ref name="lunar_tech"/><ref name="Jupiter"/> ''[[Ahoy!]]'' magazine published a [[Commodore BASIC|BASIC]] version of the game for the [[Commodore 64]] in April 1984.<ref name="wood198404"/> [[Tom Hudson (programmer)|Tom Hudson]] wrote ''Retrofire'', a more elaborate version of the lander concept for [[Atari 8-bit computers]] in 1983; it uses a 3D isometric view, so there are three velocities to control (along the X, Y, and Z axes).<ref name="analog"/> Other games include ''Apollo 11'' (1983) for the [[ZX Spectrum]],<ref name="WoS"/> ''Marslander'' (1983) for the [[Acorn Electron]] and [[BBC Micro]],<ref name="mars"/> and versions of ''Lunar Lander'' for the [[Commodore PET]] and [[TRS-80]].<ref name="lunar_tech"/><ref name="lunar_pcmag"/>
+
+''[[Lunar Rescue (1988 video game)|Lunar Rescue]]'' (1988) for the Macintosh combines Lunar Lander gameplay with an economic model and trade simulation.<ref name="Lunar1988"/> George Moromisato developed ''Lander'' for [[Windows 3.1x]] in 1990, [[Nintendo]] released a version of ''Lunar Lander'' for the [[Game Boy]] that same year, and [[Psygnosis]] released a 3D, commercial version for [[Microsoft Windows]] in 1999 titled ''[[Lander (video game)|Lander]]''. Modern versions and [[video game remake|remakes]] have been made for computers, consoles such as the [[Wii U]], [[iOS]], [[Android (operating system)|Android]], mobile phones, and browsers.<ref name="lunar_tech"/><ref name="lunar_pcmag"/>
+
+==Reception==
+In the 1978 edition of ''BASIC Computer Games'', David Ahl described the text-based version of ''Lunar Lander'' as "by far and away the single most popular computer game" of the time.<ref name="lunar_tech"/> ''Moonlander'' was similarly popular among users of DEC graphics terminals.<ref name="lunar_tech"/> The ''Lunar Lander'' arcade game proved popular and commercially successful, selling approximately 4,700 cabinets. Atari's ''[[Asteroids (video game)|Asteroids]]'' (1979) became so much more popular, however, that 300 ''Asteroids'' games were released in ''Lunar Lander'' cabinets.<ref name="lunar_tech"/><ref name="Pixel"/>
+
+''[[Computer Gaming World]]'' described ''Lunar Lander'' in 1982 as one of the first fun programs entry level programmers start with and continually improve upon as they improve their skills.<ref name="CGW"/> By 1973, there were numerous versions of the text-based game, and so many versions of the graphical game existed by 1981 that ''[[Electronic Games]]'', in a review of a version by [[Scott Adams (game designer)|Scott Adams]] for Atari 8-bit computers and the TRS-80, claimed it was "yet another entry in a field as crowded as the category of [[List of Space Invaders video games|''Space Invaders'' imitators]]. Sometimes it seems as though every company capable of copying a cassette is trying to sell a game on this theme."<ref name="eg198101"/><ref name="lunar_tech"/> ''Moon Lander'' for the MK14 was one of the first three commercial games in Britain for home computers.<ref name="GTTR"/> At least one [[metagame]] exists; ''Antic'' in March 1986 published ''Lunar Lander Construction Set'' for Atari 8-bit, in which the player constructs a custom graphical Lunar Lander.<ref name="Antic"/> In ''Science Fiction Video Games'' (2014), while discussing the games' lack of science fiction concepts like aliens or unrealistic physics, Neal Roger Tringham described the series as "one of the few video games to be based on a real space program, as opposed to the many games inspired by fictional forms of space exploration".<ref name="SFgames"/>
+
+==See also==
+* ''[[Gravitar]]'' (1982), an arcade game from Atari based on similar concepts
+* ''[[Space Taxi]]'' (1984), a more fanciful spin on thrust-controlled landings
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|refs=
+
+<!-- TEXT -->
+
+<ref name="lunar_tech">{{cite web |date=2009-07-19 |last=Edwards |first=Benj |work=[[Technologizer]] |title=Forty Years of Lunar Lander |url=http://technologizer.com/2009/07/19/lunar-lander/ |access-date=2016-02-18 |archive-url=https://web.archive.org/web/20160116075236/http://www.technologizer.com/2009/07/19/lunar-lander/ |archive-date=2016-01-16 |url-status=live}}</ref>
+<ref name="lunar_comp">{{cite journal |date=July 1994 |last=Chien |first=Philip |journal=[[Compute!]] |publisher=[[American Broadcasting Company|ABC Publishing]] |title=Blast off! |page=90 |issn=0194-357X}}</ref>
+<ref name="Ahl_LUNAR">[[#CITEREF_BASIC|Ahl 1978]], [http://atariarchives.org/basicgames/showpage.php?page=106 pp. 106–109]</ref>
+<ref name="HPbook">{{cite book |title=Hewlett-Packard HP-25 Applications Programs |publisher=[[Hewlett-Packard]] |date=1975 |oclc=8640699}}</ref>
+<ref name="TIME">{{cite magazine |url=http://time.com/69316/basic/ |title=Fifty Years of BASIC, the Programming Language That Made Computers Personal |magazine=[[Time (magazine)|Time]] |last=McCracken |first=Harry |date=2014-04-29 |access-date=2016-02-12 |archive-url=https://web.archive.org/web/20160205214236/http://time.com/69316/basic/ |archive-date=2016-02-05 |url-status=live}}</ref>
+<ref name="BoCC">[[#CITEREF_Best|Ahl 1976]], [http://www.atariarchives.org/bcc1/showpage.php?page=264 pp. 264–265]</ref>
+<ref name="IW">{{cite magazine |title=Graphics Games for Exidy Sorcerer |magazine=[[InfoWorld|Intelligent Machines Journal]] |date=1979-02-28 |issue=4 |page=3 |issn=0199-6649}}</ref>
+<ref name="WTD105107">[[#CITEREF_Return|People's Computer Company]], [https://archive.org/details/Whattodoafteryouhitreturn/page/n105/mode/2up pp. 105–107]</ref>
+
+<!-- GRAPHICAL -->
+
+<ref name="SFgames">[[#CITEREF_Scifi|Tringham]], p. 450</ref>
+<ref name="ACHmoon">{{cite web |title=Moonlander: One Giant Leap For Game Design |url=https://www.acriticalhit.com/moonlander-one-giant-leap-for-game-design |last=Willaert |first=Kate |publisher=A Critical Hit! |date=2021-04-11 |access-date=2021-05-11}}</ref>
+<ref name="Katevideo">{{cite web |title=Ready Player One Was Wrong: The First Easter Eggs In Video Games |last=Willaert |first=Kate |publisher=A Critical Hit! |date=2021-04-03 |access-date=2021-04-05 |url=https://www.acriticalhit.com/ready-player-one-was-wrong-the-first-easter-eggs-in-video-games/}}</ref>
+<ref name="SumerianRetro">{{cite web |url=http://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/ |title=The Sumerian Game: The Most Important Video Game You've Never Heard Of |last=Willaert |first=Kate |website=A Critical Hit |date=2019-09-09 |access-date=2019-09-10 |archive-url=https://web.archive.org/web/20190909200934/http://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/ |archive-date=2019-09-09 |url-status=live}}</ref>
+<ref name="ipadLander">{{cite web |title=Moonlander Classic |url=https://www.148apps.com/app/588251363/ |publisher=148apps.com |date=2014-06-11 |access-date=2021-04-05}}</ref>
+<ref name="Pixel">[[#CITEREF_Gamers|Gardner]], pp. 50–52</ref>
+<ref name="TVGE">[[#CITEREF_Explode|Wolf]], p. 44</ref>
+<ref name="IWLL">{{cite magazine |title=I Was Held Prisoner by Computer |last=Hogan |first=Thom |magazine=[[InfoWorld]] |date=1981-05-11 |volume=3 |issue=9 |page=31 |publisher=[[International Data Group]] |issn=0199-6649}}</ref>
+<ref name="Byte">{{cite magazine |title=Games Catalog |magazine=[[Byte (magazine)|Byte]] |date=1982 |volume=7 |publisher=[[McGraw-Hill Education]] |issn=0360-5280}}</ref>
+<ref name="Jupiter">{{cite web |url=https://archive.org/details/Jupiter_Lander_1982_Commodore |title=Commodore C64 Manual: Jupiter Lander (1982)(Commodore) |publisher=[[Commodore International]] |via=[[Internet Archive]] |work=Jupiter Lander manual |date=1982 |access-date=2016-10-22}}</ref>
+<ref name="wood198404">{{cite magazine |url=https://archive.org/stream/Ahoy_Issue_04_1984-04_Ion_International_US#page/n33/mode/2up |title=Lunar Lander |magazine=[[Ahoy!]] |publisher=Ion International |date=April 1984 |last=Wood |first=Anthony |pages=35, 76 |issn=8750-4383}}</ref>
+<ref name="analog">{{cite magazine |last=Hudon |first=Tom |title=Retrofire |magazine=[[ANALOG Computing]] |date=November 1983 |issue=14 |page=70 |url=http://analog.katorlegaz.com/analog_1983-11_120dpi_jpeg_cropped/analog_1983-11_070.html |issn=0744-9917 |access-date=2016-06-12 |archive-date=2016-10-30 |archive-url=https://web.archive.org/web/20161030123938/http://analog.katorlegaz.com/analog_1983-11_120dpi_jpeg_cropped/analog_1983-11_070.html |url-status=dead}}</ref>
+<ref name="WoS">{{cite web |title=Apollo 11 |url=http://www.worldofspectrum.org/infoseekid.cgi?id=0000223 |work=World of Spectrum |last=van der Heide |first=Martijn |access-date=2016-10-27}}</ref>
+<ref name="mars">{{cite web |url=http://www.acornelectron.co.uk/ugs/acorn/ug-english/chapter004_eng.html |title=Acorn Electron User Guide (English) Chapter 4 |publisher=[[Acorn Computers]] |access-date=2016-10-22 |archive-date=2012-02-20 |archive-url=https://web.archive.org/web/20120220175441/http://www.acornelectron.co.uk/ugs/acorn/ug-english/chapter004_eng.html |url-status=dead}}</ref>
+<ref name="lunar_pcmag">{{cite web |url=https://www.pcmag.com/feature/369342/50-years-on-the-moon-the-evolution-of-lunar-lander-games |title=50 Years on the Moon: The Evolution of Lunar Lander Games |last=Edwards |first=Benj |website=[[PC Magazine]] |date=2019-07-03 |access-date=2019-11-22}}</ref>
+<ref name="Lunar1988">{{cite magazine |title=Lunar Rescue |last=Husten |first=Larry |magazine=[[MacUser (US edition)|MacUser]] |date=February 1989 |volume=5 |number=2 |page=347 |publisher=[[Ziff Davis]] |issn=0884-0997}}</ref>
+
+<!-- RECEPTION -->
+
+<ref name="eg198101">{{cite magazine |url=https://archive.org/stream/electronic-games-magazine-premiere/Electronic_Games_Issue_01_Vol_01_01_1981_Winter_Premiere#page/n71/mode/2up/search/sometimes+it+seems |title=Computer Playland |magazine=[[Electronic Games]] |publisher=Reese Publishing Company |date=Winter 1981 |issue=1 |page=71 |issn=0730-6687}}</ref>
+<ref name="CGW">{{cite magazine |last=McGrath |first=Richard |date=May–June 1982 |title=The Eagle Has Landed |url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=4 |magazine=[[Computer Gaming World]] |pages=34–35 |issn=0744-6667}}</ref>
+<ref name="Antic">{{cite magazine |magazine=[[Antic (magazine)|Antic]] |title=Game of the Month: Lunar Lander Construction Set |last=Bisson |first=Gigi |date=March 1986 |volume=4 |issue=11 |url=http://www.atarimagazines.com/v4n11/LunarLander.html |issn=0113-1141}}</ref>
+<ref name="GTTR">[[#CITEREF_Grand|Levene, Anderson]], p. 20</ref>
+}}
+
+==Sources==
+{{refbegin}}
+* {{cite book |title=The Best of Creative Computing |volume=1 |editor-last=Ahl |editor-first=David |editor-link=David H. Ahl |publisher=Creative Computing Press |date=1976 |isbn=978-0-916688-01-1 |ref=CITEREF_Best}}
+* {{cite book |title=[[BASIC Computer Games]] |last=Ahl |first=David |author-link=David H. Ahl |edition=2nd |publisher=Workman Publishing |date=1978 |isbn=978-0-89480-052-8 |ref=CITEREF_BASIC}}
+* {{cite book |title=Gamers: Writers, Artists and Programmers on the Pleasures of Pixels |last=Gardner |first=Drew |editor-last=Compton |editor-first=Shanna |publisher=Soft Skull Press |date=2004 |isbn=978-1-932360-57-8 |url-access=registration |url=https://archive.org/details/gamerswritersart0000unse |ref=CITEREF_Gamers}}
+* {{cite book |title=Grand Thieves & Tomb Raiders: How British Video Games Conquered the World |last1=Levene |first1=Rebecca |last2=Anderson |first2=Magnus |publisher=[[Aurum Press]] |date=2012 |isbn=978-1-78131-107-3 |ref=CITEREF_Grand}}
+* {{cite book |title=What to Do After You Hit Return: or, P.C.C.'s First Book of Computer Games |publisher=Nowels Publications |author=People's Computer Company |date=1975 |isbn=<!-- 978-0-8104-5476-7 is the 1980 edition--> |author-link=People's Computer Company |url=https://archive.org/details/Whattodoafteryouhitreturn/page/n1/mode/2up |ref=CITEREF_Return}}
+* {{cite book |title=Science Fiction Video Games |last=Tringham |first=Neal Roger |publisher=[[CRC Press]] |date=2014 |isbn=978-1-4822-0388-2|ref=CITEREF_Scifi}}
+* {{cite book |title=The Video Game Explosion: A History from PONG to PlayStation and Beyond |last=Wolf |first=Mark J. P. |date=2007 |publisher=[[Greenwood Publishing Group]] |isbn=978-0-313-33868-7 |ref=CITEREF_Explode}}
+{{refend}}
+
+==External links==
+* [https://lunar69.uber.space Lunar Lander Simulator] - recoding of Jim Storer's Lunar Landing game from 1969
+* [http://atariarchives.org/basicgames/showpage.php?page=106 Text game source code] in ''BASIC Computer Games'' (1978)
+* [https://web.archive.org/web/20130614004529/http://www.atari.com/arcade/lunarlander/play#!/arcade/lunarlander/play Official online version] of Atari's ''Lunar Lander'' arcade game
+* {{KLOV game|id=8465|name=Lunar Lander}}
+* [http://www.brouhaha.com/~eric/retrocomputing/dec/gt40/software/moonlander/gtlem.mac Source code] (in [[MACRO-11]]) of [[DEC GT40|GT40]] ''Moonlander'', February 1973, and [http://www.brouhaha.com/~eric/retrocomputing/dec/gt40/software/moonlander/rtlem.mac port] to [[RT-11]] by Al Kossow, January 1980.
+* [https://fictionphile.com/lunar-lander-video-game/ Lunar Lander: The Full Story of the Legendary Game and Genre], Christopher Garcia, FictionPhile.com
+
+{{Authority control}}
+{{Early history of video games}}
+{{Video game genre}}
+
+[[Category:1969 video games]]
+[[Category:1973 video games]]
+[[Category:1979 video games]]
+[[Category:Apple II games]]
+[[Category:Arcade video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:CP/M games]]
+[[Category:Commodore 64 games]]
+[[Category:Game Boy games]]
+[[Category:Mainframe games]]
+[[Category:Mobile games]]
+[[Category:Public-domain software with source code]]
+[[Category:Space flight simulator games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set on the Moon]]
+[[Category:Video games with textual graphics]]
+[[Category:Science fiction video games]]

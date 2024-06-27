@@ -1,0 +1,81 @@
+Astrosmash
+Permalink: //en.wikipedia.org/w/index.php?title=Astrosmash&oldid=1205656743
+Accessed on: 2024-06-26T16:52:06.024090
+
+
+
+------
+Astrosmash
+{{short description|1981 Intellivision game}}
+{{Infobox video game
+|title = Astrosmash
+|image = Astrosmash cover.jpg
+|caption =
+|developer = [[Mattel]]
+|publisher = Mattel<br />[[Sears]]
+|designer = John Sohl
+|platforms = [[Intellivision]], [[Atari 2600]], [[Mattel Aquarius|Aquarius]]
+|released = {{vgrelease|NA|October 15, 1981<ref name=BSR>{{Cite web|url=https://history.blueskyrangers.com/mattelelectronics/games/astrosmash.html|title = Astrosmash}}</ref>}}{{vgrelease|EU|1982}}
+|genre = [[Fixed shooter]]
+|modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Astrosmash''''' is a [[fixed shooter]] video game for the [[Intellivision]] console, designed by John Sohl, and released by [[Mattel]] Electronics in 1981. The player uses a laser cannon to destroy falling meteors, bombs, and other targets.<ref name="Astrosmash">''Astrosmash'', [[Mattel]] Electronics (1981).</ref>
+
+With more than one million copies sold, ''Astrosmash'' is among the top five best selling Intellivision games. A free by mail offer, with the purchase of the console, boosted ''Astrosmash'' sales.<ref>{{cite web |url=http://www.intellivisionlives.com/bluesky/people/askhal/askhal.html#C1 |title=Intellivision Classic Video Game System / Frequently Asked Questions |website=www.intellivisionlives.com |url-status=dead |archive-url=https://web.archive.org/web/20020214203144/http://intellivisionlives.com/bluesky/people/askhal/askhal.html |archive-date=2002-02-14}}</ref> It was also promoted in the United States and Canada via a high score contest where top scorers were flown to Houston for the finals.<ref>{{Cite web|url=http://intvfunhouse.com/games/mash.php|title = INTV Funhouse - Astrosmash!}}</ref>
+
+An [[Atari 2600]] port was released under [[Mattel]]'s [[M Network]] label as '''''Astroblast'''''.
+
+==Plot==
+The Intellivision game catalog features the exciting caption, "Spin. Blast. And drop into hyperspace to avoid a killer asteroid shower. Power on. Attack computer engaged. Fire a quick burst at the alien antagonists. Got 'em!"<ref>[[Intellivision]] game catalog, [[Mattel]] Inc. (1982).</ref><ref name="intellivisionlives.com">[http://www.intellivisionlives.com/bluesky/games/credits/space.html#astrosmash intellivisionlives.com]</ref> The actual package gives a more specific description: "You're in command of a battery of laser guns. You have unlimited ammo and a lot of targets! You can roll up big scores by hitting a spectacular barrage of falling rocks, bombs, guided missiles and attacking UFOs..."<ref name="Astrosmash"/>
+
+==Gameplay==
+[[File:AstrosmashGP.jpg|thumb|A laser cannon defends the Earth from a [[meteor shower]].]]
+''Astrosmash'' resembles a cross between ''[[Space Invaders]]'' and ''[[Asteroids (video game)|Asteroids]]''. The player controls a laser cannon that can scroll left or right along a flat plane in order to target falling objects, such as large or small meteors, large or small spinning bombs, and guided missiles, as well as a UFO that crosses the screen from time to time at higher levels.<ref name="WeissCHVG" /> Low hills and stars are seen in the background.
+
+There are four types of targets, each of which may move at a range of speeds. As the game advances, the range of speeds for each type of target increases.<ref name="Astrosmash Manual">''Astrosmash'' Cartridge Instructions, [[Mattel]] Inc. (1981).</ref>
+
+#The bulk of the targets are meteors, which come in two sizes and various colors. Both sizes fall vertically when entering the screen. Large meteors may be destroyed with a direct hit, or may split into two smaller meteors, which fall diagonally in opposite directions. Small meteors are destroyed with a single hit.
+#The player must also shoot spinning bombs, or spinners, which are white, come in two sizes, and spin while falling vertically. Each spinner emits a loud whistling sound, which gradually lowers in pitch as it approaches the ground.
+#Guided missiles appear occasionally as white dots making a pulsing sound, and may fall diagonally toward the player's initial location, or track the laser cannon as it moves left and right. If a missile reaches the ground, it may disappear, or it may continue to track left or right, and can only be avoided by entering hyperspace. The missile may change directions several times before disappearing.
+#UFOs cross the screen occasionally, beginning at level 4, firing non-guided salvos aimed at the player's laser cannon.
+
+The player loses a laser cannon each time it is hit by a falling meteor, a guided missile, a non-guided salvo, or by shrapnel from a nearby explosion, and any time a spinner reaches the ground, even if it does not strike the gun. Each target hit increases the player's score; it decreases by half as much each time a meteor reaches the ground, or a laser cannon is destroyed. An extra gun is awarded each time the player's peak score increases by 1,000 points.<ref name="Astrosmash Manual"/>
+
+The game has six levels, each of which features increased speed and scoring. Each level is represented by a differently-colored background. Level 1, up to 999 points, is black; level 2, from 1,000 to 4,999 points, is blue; level 3, from 5,000 to 19,999 points, is purple; level 4, from 20,000 to 49,999 points, is turquoise; level 5, from 50,000 to 99,999 points, is gray; and level 6, above 100,000 points, is black again. Speed continues to increase along with the player's peak score, at 200,000, 500,000, and 1,000,000 points.<ref name="Astrosmash Manual"/>
+
+The player has the option of firing single shots by pressing the fire buttons, or switching to automatic fire at a rate of three shots per second. The hyperspace option moves the gun to a random location, which may or may not be safer than the starting point. The game can also be paused at any time.<ref name="Astrosmash Manual"/>
+
+==Development==
+[[File:Intellivision - gi 1326971.jpg|thumb|left|''Astrosmash'' cartridge inserted and the overlay on the left controller.]]
+''Astrosmash'' was conceived when a game called ''Meteor!'', an ''Asteroids'' clone, did not fill up the ROM space of an entire cartridge. The extra space was used to create a variation of the game called ''Avalanche!'' The ''Meteor!'' game was cancelled at the last minute, due to concerns that it was too similar to ''Asteroids''.<ref name="GamespyCGIntellivision">{{cite web | url=http://classicgaming.gamespy.com/View.php?view=ConsoleMuseum.Detail&id=17&game=9 | title=Mattel Intellivision - 1980-1984 | work=ClassicGaming | publisher=IGN | accessdate=2008-05-16 | archiveurl= https://web.archive.org/web/20080623232114/http://classicgaming.gamespy.com/View.php?view=ConsoleMuseum.Detail&id=17&game=9 | archivedate= 23 June 2008 | url-status= live}}</ref><ref name="WeissCHVG">Brett Weiss, ''Classic Home Video Games, 1972–1984: A Complete Reference Guide'', McFarland (2007).</ref> Programmer John Sohl programmed a "branch" around the opening-screen menu, leading directly to the ''Avalanche!'' variation, retitled ''Astrosmash''. The games were compatible, since they were designed together, and used the same sprites and sound effects. In rare instances, if the console's reset button is pressed rapidly, an error can occur, resulting in the game starting in the original ''Meteor!'' format.<ref name="intellivisionlives.com"/>
+
+Mattel released the game for the [[Atari 2600]]. Renamed ''Astroblast'', it has faster play than the Intellivision original.<ref name="goodman1983spring">{{Cite magazine |last=Goodman |first=Danny |author-link=Danny Goodman |date=Spring 1983 |title=Home Video Games: Video Games Update |url=http://www.atarimagazines.com/cva/v1n1/vgupdate.php |magazine=Creative Computing Video & Arcade Games |page=32}}</ref>
+
+==Reception==
+''Astrosmash'' was reviewed in 1982 by ''[[Video (magazine)|Video]]'' magazine where it was described as "an obvious attempt to provide Intellivision-ites with a solitaire arcade-style target game". The pacing of the early stages in the game was described as "dull and plodding", although later in the game the pace becomes much more challenging. The color-coding of stages corresponding with difficulty level and player score was described as "not a bad idea", but reviewers noted that "the greyish blue used for the 1000-to-4999-point range is especially odious" and described this hue as "assaulting the [[optic nerve]]s". Despite the lackluster review, the game was ultimately recommended as "probably worth a try" for Intellivision users seeking a new experience because the Intellivision "traditionally lacks arcade programs",<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= March 1982 |title= Arcade Alley: Mixed Reviews for Intellivision |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 5|issue= 12|pages= 40–42|issn= 0147-8907}}</ref>{{rp|42}} and eight months later in ''Video''{{'}}s 1982 Guide to Electronic Games, ''Astrosmash'' was described as "probably the most popular action game produced by Mattel for play on the Intellivision".<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= November 1982 |title= Video's Guide to Electronic Games |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 8|pages= 47–56, 108|issn= 0147-8907}}</ref>{{rp|53}}
+
+As of June 1983 the game shipped 984,900, making it the third most widely distributed Intellivision game behind ''[[Baseball (Intellivision game)|Major League Baseball]]'' and ''Las Vegas Poker & Blackjack''.<ref name=BSR/> Sales reached 2 million copies by 1999.<ref>{{cite web|first=Steven|last=Biledeau|url=https://www.newspapers.com/clip/89326350/edmonton-journal/|title=Vintage Intellivision games transformed|newspaper=[[Edmonton Journal]]|page=64|date=March 25, 1999|accessdate=November 22, 2021|via=[[Newspapers.com]]}}</ref>
+
+==Legacy==
+''Astrosmash'' T-shirts are worn by the characters Cisco Ramon, in the first season of ''[[The Flash (2014 TV series)|The Flash]]'', and Sheldon Cooper, in various episodes of ''[[The Big Bang Theory]]''.<ref>''[[The Flash (2014 TV series)|The Flash]]'', [[Warner Bros. Television]] (2014); ''[[The Big Bang Theory]]'', Warner Bros. Television (2009, 2015).</ref>
+
+An updated version of ''Astrosmash'' was announced as one of the six games included with the [[Intellivision Amico]] console.<ref name="6free">{{cite web |title=Intellivision Amico Pack-in announcement |url=https://www.youtube.com/watch?v=Nh6NSLwmamQ  |archive-url=https://ghostarchive.org/varchive/youtube/20211221/Nh6NSLwmamQ |archive-date=2021-12-21 |url-status=live|publisher=Intellivision Entertainment |accessdate=29 March 2020}}{{cbignore}}</ref> As Intellivision continues to struggle in releasing the Amico console, the Amico version of ''Astrosmash'' has been selected by Intellivision as part of their ''Amico Home'' initiative. As such, an [[Android (operating system)|Android]] version was released in late 2023, while an [[iOS]] version was announced for a later date.<ref>{{cite web |url=https://www.eurogamer.net/intellivision-launches-app-version-of-amico-console-as-hardware-remains-distant |title=Intellivision launches app version of Amico console, as hardware remains distant  |date=2023-11-23 |website=[[Eurogamer]] |access-date=2024-02-09}}</ref>
+
+In late 2023, BBG Entertainment GmbH acquired the ''Astrosmash'' trademark, along with the right to port the Intellivision Amico version of ''Astrosmash'' to PC and major consoles. These versions were released on October 12 of the same year.<ref>{{cite press release |url=https://www.gamespress.com/en-US/ASTROSMASH-BLASTS-BACK-INTO-MODERN-GAMING-TODAY-BBG-Entertainment |title=ASTROSMASH BLASTS BACK INTO MODERN GAMING TODAY! |date=2023-10-12 |website=Games Press}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.intellivisionlives.com/bluesky/games/credits/space.html Blue Sky Rangers - Space Action Network page]
+* [https://web.archive.org/web/20061109002827/http://www.thedoteaters.com/p3_stage3.php The Dot Eaters article on ''Astrosmash'', Sohl and the Intellivision]
+
+[[Category:1981 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Fixed shooters]]
+[[Category:Intellivision games]]
+[[Category:Mattel video games]]
+[[Category:Sears video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]

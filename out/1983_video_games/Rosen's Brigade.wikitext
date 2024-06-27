@@ -1,0 +1,56 @@
+Rosen's Brigade
+Permalink: //en.wikipedia.org/w/index.php?title=Rosen%27s_Brigade&oldid=1224635719
+Accessed on: 2024-06-26T16:55:47.931453
+
+
+
+------
+Rosen's Brigade
+{{Short description|1983 video game}}
+
+{{Infobox video game
+| title = Rosen's Brigade
+| image = Rosen's_Brigade_Cover_Art.jpg
+| caption = 
+| released = 1983
+| designer = Ron Rosen<ref name=giantlist/>
+| publisher = [[Datasoft]] / Gentry Software<br>
+| developer = 
+| platforms = [[Atari 8-bit]]
+| genre = [[Scrolling shooter]]
+}}
+
+'''''Rosen's Brigade''''' (shown on the loading screen without the apostrophe) is a horizontally [[scrolling shooter]] written by Ron Rosen for [[Atari 8-bit computers]] and published in 1983 by Gentry Software, a budget label of [[Datasoft]].<ref name=mania/> The player flies a [[fighter jet]] over a landscape, rescuing paratroopers falling from the top of the screen and shooting enemy air and ground vehicles.
+
+This is one of two games from Datasoft where the designer's name is part of the title. The other is ''[[O'Riley's Mine]]'' by Mark Riley.<ref name=giantlist/>
+
+==Gameplay==
+The player flies a fighter jet left and right over a horizontally scrolling landscape of desert terrain and water. Shooting and destroying all enemy forces ends the level.<ref name=manual/> Initially the attackers are planes and helicopters, then tanks appear on the ground and ships in the water.<ref name=manual/> [[Paratrooper|Parachutists]] (the term used in the manual) fall from the top of the screen and can be rescued for points by flying over them. A [[mini-map]] shows the entire play area. Unlike similar scrolling shooters, such as ''[[Defender (1981 video game)|Defender]]'' and its many clones, when the plane moves vertically it points in the direction of motion instead of remaining parallel to the ground.
+
+==Reception==
+A 1984 review in ''Video Games'' magazine concluded, "Although ''Rosen's Brigade'' isn't going to be an earthshaker, it's a fun game with rapidly increasing difficulty levels. And it is rather habit forming."<ref name=vg/> Doug Stead, writing for ''ROM'' magazine, was enthusiastic about the controls and explosion effects, but found the scoring to be unbalanced.<ref name=rom/> He wrote:
+
+{{quote|I felt the scoring should be different for the battleships, parachuters, and planes because each of these are quite easy to destroy. The helicopters and tanks are much more difficult but are given about the same points for destroying them.<ref name=rom/>}}
+
+He also experienced some technical problems, such as the game slowing down and even locking up after a while.<ref name=rom/>
+
+==See also==
+Other games by Ron Rosen:
+*''[[Pacific Coast Highway (video game)|Pacific Coast Highway]]''
+*''[[Mr. Robot and His Robot Factory]]''
+*''[[Nuclear Nick]]''
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite book |title=Rosen's Brigade Manual |date=1983 |publisher=Gentry Software |url=https://archive.org/details/rosens-brigade-gentry-software |via=archive.org}}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="mania">{{cite web |title=Rosen's Brigade |url=http://www.atarimania.com/game-atari-400-800-xl-xe-rosen-s-brigade_4445.html |website=Atari Mania}}</ref>
+<ref name="vg">{{cite magazine |last1=Brownstein |first1=Mark |title=Computer Corner: Rosen's Brigade |magazine=Video Games |date=February 1984 |volume=2 |issue=5 |page=61 |url=https://archive.org/details/Video_Games_Volume_2_Number_05_1984-02_Pumpkin_Press_US/page/n59/mode/2up}}</ref>
+<ref name="rom">{{cite magazine |last1=Stead |first1=Doug |title=Game Reviews: Rosen's Brigade |magazine=ROM |date=February 1984 |volume=1 |issue=14 |pages=49–50 |url=https://archive.org/details/ROM_Magazine_v1i4/page/n49/mode/2up}}</ref>
+}}
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Datasoft games]]

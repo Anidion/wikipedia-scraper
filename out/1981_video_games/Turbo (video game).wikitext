@@ -1,0 +1,83 @@
+Turbo (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Turbo_%28video_game%29&oldid=1187318176
+Accessed on: 2024-06-26T16:52:46.670439
+
+
+
+------
+Turbo (video game)
+{{Infobox video game
+|title = Turbo
+|image = Turbo flyer.jpg
+|image_size =
+|caption = North American arcade flyer
+|developer = [[Sega]]
+|publisher = {{vgrelease|WW|Sega|NA|[[Gremlin Industries|Sega/Gremlin]]<ref name="USA">{{cite web |title=Video Game Flyers: Turbo, Sega-Gremlin (USA) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=2706 |website=The Arcade Flyer Archive |access-date=13 May 2021}}</ref>}}
+|designer = Steve Hanawa
+|programmer = Steve Hanawa
+|released = '''Arcade'''{{vgrelease|JP|18 October 1981<ref>{{cite book|title=Official Gazette of the United States Patent and Trademark Office: Trademarks|url=https://books.google.com/books?id=B2r5g0-KzrcC&pg=RA1-PA37|volume=1023|year=1982| issue=1 |publisher=U.S. Department of Commerce, Patent and Trademark Office|page=1}}</ref>|NA|Late 1981<ref name="USA"/>|EU|1982<ref name="CVG"/>}} '''ColecoVision''' <br> 1983<ref name="AllGameCV"/> <br> '''Intellivision''' <br> 1983<ref name="AllGameINTV"/>
+|genre = [[Racing game|Racing]]
+|modes = [[Single-player]]
+|platforms = [[Arcade video game|Arcade]], [[ColecoVision]], [[Intellivision]]
+|arcade system = [[List of Sega arcade system boards#Arcade system boards|VCO Object]]
+}}
+
+{{nihongo|'''''Turbo'''''|ターボ|Tābo|lead=yes|group=lower-alpha}} is a [[racing game]] released in arcades in 1981 by [[Sega]]. Designed and coded by Steve Hanawa, the game received positive reviews upon release, with praise for its challenging and realistic gameplay, [[2.5D]] color graphics with changing scenery, and cockpit sit-down [[arcade cabinet]]. It topped the monthly ''[[Play Meter]]'' arcade charts in North America and ranking highly on the ''Game Machine'' arcade charts in Japan.
+
+The game was manufactured in three formats: standard upright, cabaret/mini, and a seated environmental/cockpit. All three versions have a steering wheel, a gearshift for low and high gears, and an accelerator pedal. The screen is a vertically oriented 20-inch raster display. In addition to the on-screen display, there is an LED panel to the left of the screen that displays the current player's score and the high score table. There are also lighted oil and temperature gauges on either side of the steering wheel.<ref name="KLOV">[http://www.arcade-museum.com/game_detail.php?game_id=10216 Turbo - video game by Sega], ''[[Killer List of Videogames]]''</ref> ''Turbo'' was ported to the [[Colecovision]] and [[Intellivision]] consoles.
+
+==Gameplay==
+''Turbo'' requires the player to navigate a road race through different urban and rural locations, through differing weather conditions, and during changing times of day. The cars in the game resemble [[Formula 1]] race cars. In order to proceed, the player must pass and stay ahead of at least 30 competing cars before time expires. Some opponents drive predictably, while others swerve across the road suddenly.
+
+In the first round, the player has unlimited lives; [[Collision detection|collisions]] with other vehicles will return the player's car to the bottom of the current screen. In subsequent rounds, the player is limited to two lives (one on the screen playing and the other in reserve) and awarded an additional life (up to a total of four in reserve) for each completed round. In addition to competing racers, an ambulance occasionally comes along from behind and overtakes the player - they must be avoided, as contact with them will cause the player to lose a life; the game will be over when all player lives are gone in addition to the time expired before reaching 30 passed cars.
+
+==Development==
+''Turbo'' was designed and coded by Steve Hanawa. In an interview, Hanawa stated that despite its historical significance as a precedent-setting racing video game, he considers the process of creating it to have been his worst development experience at Sega. Development of ''Turbo'' required such a difficult and protracted schedule of coding and debugging that he was hospitalized for a month following its completion due to stress, exhaustion and a spontaneously collapsed lung.<ref name="SMS Tributes">[http://www.smstributes.co.uk/view_article.asp?articleid=45 Steve Hanawa's Tech Talk], ''smstributes.co.uk''</ref>
+
+==Ports==
+An [[Atari 2600]] port by [[Coleco]] was in development and advertised by Coleco. It was never completed in part because lead programmer Michael Green was struck and seriously injured by a drunk driver while riding a bicycle. The prototype, estimated to be about 80% complete, was found by another Coleco programmer, Anthony Henderson, in his attic in 2006.<ref name="AtariAge">[http://www.atariage.com/software_page.html?SoftwareLabelID=2788 http://www.atariage.com]- Turbo - AtariAge {{Webarchive|url=https://web.archive.org/web/20160805110140/http://www.atariage.com/software_page.html?SoftwareLabelID=2788 |date=2016-08-05}}</ref>
+
+==Reception==
+{{Video game reviews
+| Allgame = {{Rating|4|5}} ([[Arcade game|ARC]])<ref>{{cite web|url=http://www.allgame.com/game.php?id=11429&tab=review|archive-url=https://web.archive.org/web/20141211081630/http://www.allgame.com/game.php?id=11429&tab=review|archive-date=2014-12-11|title=Turbo - Review - allgame|date=11 December 2014}}</ref> <br> {{Rating|4|5}} ([[ColecoVision|CV]])<ref name="AllGameCV">{{cite web|url=http://www.allgame.com/game.php?id=23344&tab=review|archive-url=https://web.archive.org/web/20141210171825/http://www.allgame.com/game.php?id=23344&tab=review|archive-date=2014-12-10|title=Turbo - Review - allgame|date=10 December 2014}}</ref> <br> {{Rating|3.5|5}} ([[Intellivision|INTV]])<ref name="AllGameINTV">{{cite web|url=http://www.allgame.com/game.php?id=33401|archive-url=https://web.archive.org/web/20141210171827/http://www.allgame.com/game.php?id=33401|archive-date=2014-12-10|title=Turbo - Overview - allgame|date=10 December 2014}}</ref>
+| CVG = Positive (ARC)<ref name="CVG"/>
+| TILT = {{Rating|6|6}} (CV)<ref>''Tilt'', issue 7 (September/October 1983), [http://download.abandonware.org/magazines/Tilt/tilt_numero007/Tilt%20007%20-%20Page%20046%20(09-10-1983).jpg page 46]</ref>
+| rev1 = ''Arcade Express''
+| rev1Score = 10/10 (CV)<ref name="express"/>
+| rev2 = ''[[Cash Box]]''
+| rev2Score = Positive (ARC)<ref name="cashbox"/>
+| rev3 = ''[[Electronic Fun with Computers & Games]]''
+| rev3Score = A (CV)<ref>{{cite magazine |title=Video Game Explosion! We rate every game in the world |magazine=[[Electronic Fun with Computers & Games]] |date=December 1982 |volume=1 |issue=2 |pages=12–7 |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_02_1982-12_Fun_Games_Publishing_US/page/n11/mode/2up}}</ref>
+| rev4 = ''[[Video (magazine)|Video]]''
+| rev4Score = Positive (CV)<ref name="Video"/>
+| rev5 = ''Video Games Player''
+| rev5Score = A (CV)<ref>{{cite magazine |title=Software Report Card |magazine=Video Games Player |date=September 1982 |volume=1 |issue=1 |publisher=Carnegie Publications |location=United States |pages=62–3 |url=https://archive.org/details/Video_Games_Player_Vol_1_No_1_1982-09_Carnegie_Publications_US/page/n61/mode/2up}}</ref>
+| award1Pub = [[Electronic Games|4th Arcade Awards]]
+| award1 = Best Coin-Op Game Audio/Visual Effects
+}}
+
+In the United States, ''Turbo'' was the top-grossing arcade game on the ''[[Play Meter]]'' arcade charts in May 1982, taking the top spot from ''[[Donkey Kong (arcade game)|Donkey Kong]]''.<ref name="Play-Meter">{{cite magazine |title=Top Videos |magazine=[[Play Meter]] |date=May 1, 1982}}</ref> In Japan, ''[[:ja:ゲームマシン|Game Machine]]'' listed ''Turbo'' as the 18th highest-grossing [[1981 in video games|arcade video game of 1981]] (tied with ''[[Defender (video game)|Defender]]'' and ''[[Galaxian]]''),<ref>{{cite magazine|title="Donkey Kong" No.1 Of '81 — ''Game Machine's Survey Of "The Year's Best Three AM Machines"'' —|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=182|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1982|page=30|url=https://onitama.tv/gamemachine/pdf/19820215p.pdf#page=16}}</ref> and then the 19th highest-grossing [[1982 in video games|arcade video game of 1982]].<ref>{{cite magazine|title="Pole Position" No. 1 Video Game: ''Game Machine''{{'}}s "The Year's Best Three AM Machines" Survey Results|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=207|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 March 1983|page=30|url=https://onitama.tv/gamemachine/pdf/19830301p.pdf#page=16}}</ref> ''Game Machine'' later listed ''Turbo'' in their June 1, 1983 issue as the fifth top-grossing upright/cockpit arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - アップライト, コックピット型TVゲーム機 (Upright/Cockpit Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=213|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 June 1983|page=29|lang=ja}}</ref>
+
+The arcade game received highly positive reviews upon release. In January 1982, ''[[Cash Box]]'' magazine called it "a challenging and colorful" game while praising the "realistic, three dimensional, full color imagery which allows drivers to experience the sensation and thrill of being in the thick of grand prix action" as well as the "excellent sound systems".<ref name="cashbox">{{cite magazine|date=January 9, 1982|title=New Equipment: Formula 1 Race|magazine=[[Cash Box]]|page=40|url=https://archive.org/details/cashbox43unse_31/page/40}}</ref> Daniel Cohen in his book ''Video Games'' called it a "brilliant" new driving game providing a "challenging and remarkably realistic" experience, with praise for the cockpit cabinet that replicates the sit-down feel and controls of a real car, and the graphics which has changing scenery including the day, night, city, highway, oceanside curve, tunnels, twisting roads, and icy roads.<ref>{{cite book |last1=Cohen |first1=Daniel |title=Video Games |date=1982 |publisher=[[Pocket Books]] |location=New York |isbn=0-671-45872-8 |page=43 |url=https://archive.org/details/book_video_games/page/n49}}</ref> In June 1982, ''[[Computer and Video Games]]'' magazine praised the "realism, controls, marvellous graphical capabilities" and the "variety of backgrounds and racing conditions on the screen".<ref name="CVG">{{cite magazine |title=The Scenic Route: Turbo |magazine=[[Computer and Video Games]] |date=June 1982 |issue=9 (July 1982) |page=27 |url=https://archive.org/details/cvg-magazine-009/page/n26}}</ref>
+
+In early 1983, ''Turbo'' was reviewed by ''[[Video (magazine)|Video]]'' magazine in its "Arcade Alley" column where it was hailed as "the king of the video road". The ColecoVision version was praised for the effort that had gone into replicating the visuals of the original arcade version, with reviewers making special note of the varied, non-repetitive backgrounds that enticed players to play in order to see "never-before-seen play scenes". Reviewers also commented favorably on the realism-enhancing use of steering wheel, gas pedal, and gear shift peripherals.<ref name="Video">{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date=April 1983 |title= Arcade Alley: Zaxxon, Turbo, and Two for Apple II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 1|pages= 26, 28–29|issn= 0147-8907|url=http://www.ataricompendium.com/archives/articles/arcade_alley/arcade_alley_apr83.pdf}}</ref>{{rp|28}} ''Arcade Express'' reviewed the ColecoVision version in January 1983 and scored it a perfect 10 out of 10, remarking that the "king of the coin-op driving games arrives in the home market". They stated that while it isn't "as graphically arresting as the" arcade version, it "comes reasonably close to matching the multi-scenario brilliance" and "the special control panel lifts this cartridge to greatness".<ref name="express">{{cite web|url=http://www.digitpress.com/library/newsletters/arcadeexpress/arcade_express_v1n12a.pdf#page=7 |title=Newsletter |website=www.digitpress.com |format=PDF}}</ref>
+
+===Reviews===
+* ''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n53/mode/2up | title=GAMES Magazine #34 | date=December 1982}}</ref>
+
+==Legacy==
+A ''Turbo'' [[board game]] was released by Milton Bradley in 1983.{{citation needed|date=July 2021}}
+
+==References==
+{{reflist}}
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Cancelled Atari 2600 games]]
+[[Category:ColecoVision games]]
+[[Category:Intellivision games]]
+[[Category:Sega arcade games]]
+[[Category:Gremlin Industries games]]
+[[Category:Racing video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Single-player video games]]

@@ -1,0 +1,59 @@
+Intellectual Decathlon
+Permalink: //en.wikipedia.org/w/index.php?title=Intellectual_Decathlon&oldid=1131756541
+Accessed on: 2024-06-26T16:57:01.367102
+
+
+
+------
+Intellectual Decathlon
+{{Infobox video game
+| title = Intellectual Decathlon
+| image = Intellectual Decathlon computer game cover.jpg
+| developer = [[Muse Software]]
+| publisher = [[Muse Software]]
+| designer = Gabor Laufer<br>Alexander Laufer
+| engine = 
+| released = [[1984 in video gaming|1984]]
+| genre = [[Puzzle video game|Puzzle]]
+| modes = [[Multiplayer video game|Multiplayer]]
+| platforms = [[Apple II series|Apple II]]
+}}
+
+'''''Intellectual Decathlon''''' is a [[1984 in video gaming|1984]] [[video game]] for the [[Apple II series|Apple II]]. It is a multiplayer game which includes various events based on memory, pattern and logic puzzles. ''Intellectual Decathlon'' was written by Gabor and Alexander Laufer, and published by [[Muse Software]].<ref name=scouting/>
+
+==Gameplay==
+The game consists of ten different sub-games which aim to test different aspects of the human intelligence. The score is structured similar to an Olympic [[decathlon]]. A player's final score is the total of the ten individual events:
+
+#Numberstretcher – The computer presents longer and longer string of numbers for the player to memorize (presented only for a few seconds) and type back.
+#Note the Notes – The computer plays a short random tune, 6–8 bars. Then the computer starts playing a long sequence of random notes. Without notice, the initially presented short tune is played hidden within the longer tune, which the player must identify. 
+#Safecracker – The computer presents 9 dials on the screen (3x3) and a single hand in each dial points to either 12,3,6 or 9 o'clock. With key combinations the player has to set as many dials to 12 as he can. For example, pressing number 1 on the keyboard will rotate dial 1,2,4,5 90 degrees clockwise.  None of the dials can be individually adjusted.
+#Mazerace – A randomly generated [[maze]] appears on the screen. Player 1 is in the lower left corner, Player 2 is in the upper right corner. They have to get to each other's starting point (played at the same time). 
+#Apple Derby – An imaginary [[horse race]] where the players bet their points earned during the first four events. No luck is involved, it is all pure logic. The race is pre-determined. The moment the horses take off, the program knows exactly which horse will win. That's what the players have to figure out from presented data from those horses' previous history of success.
+#Lying digits – Ten simple (four basic operations) [[math]] problems are flashed on the screen with the solution which is either wrong or right. That's all the players has to indicate. 
+#Matchmaker – Ten wordpairs are displayed in two columns for 30 seconds. Then the program clears the display and places only one column words back on the screen and displays the other column words one by one. The player has to match the word with its pair. 
+#Brainblender – An abstract board game, great deal of [[memory]], strategy and combination is involved. The two players are playing it at the same time. 
+#Instant Replay – The program flashes a "picture" on the screen (primitively drawn objects). Then another picture comes on the screen. It is either exactly the same or one object is not the same. That is what the simultaneously playing players have to determine (same, different).
+#Abstrajig – A randomly generated abstract picture comes on the screen, cut into 16 pieces, shuffled, and the player has to put it back together as in a [[jigsaw puzzle]].
+
+There is a practice mode, where each of the ten events can be practiced separately from a competition.
+
+While it is a game for 2–6 players, and the 2 players setup is the most recommended, one player can play the game. In that case the goal is not to defeat the other player, but simply score higher than before.
+
+In the PC Apple [[emulator]]-based ''Intellectual Decathlon'', Mazerace was replaced with an event called Verdict Guilty. Five imaginary criminals are sitting at the police station, all five arrested. Only one committed a [[crime]] the other four are innocent. They keep talking to each other and the player has to figure out which of the five is the guilty one and what the crime he committed.
+
+==Reception==
+''Intellectual Decathlon'' was recommended by ''[[Scouting (magazine)|Scouting]]'' magazine. Bruce Brown found the events to be challenging and diverse, making fair use of graphics and color.<ref name=scouting/>
+
+==References==
+{{reflist|refs=
+<ref name=scouting>{{cite journal|journal=Scouting|date=March–April 1985|title=Update on Home Computers|author= Brown, Bruce|publisher=Boy Scouts of America|page=16|url=https://books.google.com/books?id=Hj46AQAAIAAJ&pg=RA3-PA16}}</ref>
+}}
+
+{{Muse Software}}
+
+[[Category:1984 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Puzzle video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Muse Software games]]

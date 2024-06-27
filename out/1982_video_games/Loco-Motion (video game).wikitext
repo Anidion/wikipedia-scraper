@@ -1,0 +1,105 @@
+Loco-Motion (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Loco-Motion_%28video_game%29&oldid=1218145009
+Accessed on: 2024-06-26T16:53:37.478802
+
+
+
+------
+Loco-Motion (video game)
+{{Infobox video game
+|title=Loco-Motion
+|image=[[Image:Loco-Motion (video game).png|frameless|The player moves tiles to guide the locomotive along the track.]]
+|caption=Arcade screenshot
+|developer=[[Konami]]
+|publisher={{vgrelease|JP|[[Sega]]|NA|[[Centuri]]}}
+|designer=
+|released={{vgrelease|NA|February 23, 1982<ref>{{cite web |title=Loco-motion (Registration Number PA0000184733) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=5 May 2021}}</ref>|JP|March 1982<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=27 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n28}}</ref>}}
+|genre=[[Puzzle video game|Puzzle]]
+|modes=Up to 2 players, alternating turns
+|platforms=[[Arcade game|Arcade]], [[Intellivision]], [[Tomy Tutor]], [[MSX]]
+|arcade system=
+}}
+
+'''''Loco-Motion''''', known as {{nihongo foot|'''''Guttang Gottong'''''|ガッタンゴットン|Gattan Gotton|lead=yes|group=lower-alpha}} in Japan, is an arcade [[puzzle game]] developed by [[Konami]] in [[1982 in video gaming|1982]] and released by [[Sega]] in Japan. The North American rights were licensed to [[Centuri]]. In ''Loco-Motion'', the player builds a path for their unstoppable [[locomotive]] by moving tracks which will allow it to pick up passengers.
+
+The game was ported to [[Intellivision]], the [[Tomy Tutor]], and–under a different name–[[MSX]]. A clone programmed by [[Carol Shaw]] of [[Activision]], ''[[Happy Trails (video game)|Happy Trails]]'', was published for Intellivision before the official version was released.
+
+==Gameplay==
+{{Unreferenced section|date=December 2019}}
+
+Loco-Motion is an updated version of a [[Sliding puzzle|sliding block puzzle]] game in which the player can move tiles horizontally or vertically within a rectangular frame that contains one empty square. The tiles are sections of railroad track and the player must use them to construct a path for a locomotive that never stops moving. Laid out around the edges of the frame are several stations with passengers that must be picked up.
+
+The player uses a [[joystick]] to slide a piece of the track into the vacant square and can use a button to accelerate the locomotive. However, it is always in motion and cannot be stopped. The player must avoid running into a dead-end barricade, a barrier at the playfield edge or the edge of the empty square; doing so costs one life. As the player moves the pieces of track around, the route the locomotive will take is highlighted in yellow up to any dead end.
+
+A countdown timer occasionally appears on a station. If passengers are waiting there and the player picks them up before the countdown reaches zero, the remaining amount is added to the score as bonus points. If not, the passengers send a "Crazy Train" onto the tracks and the player must avoid crashing into it. If a countdown timer at an unoccupied station reaches zero, the station is destroyed and becomes a pair of barrier squares. Crazy Trains can be crashed into each other to destroy them but doing so creates a new pair of dead ends or destroys a station if the collision happens within it.
+
+On higher levels, there are special pieces of the track that have one entrance and three different exits. Unfortunately, the player cannot choose which exit the locomotive takes from these as it is picked randomly. Bonus points are awarded each time the locomotive crosses one of these pieces of track.
+
+A level is cleared when there are no more passengers to pick up, and the player then moves onto the next level which is a different layout, bigger or smaller with more dead ends. Also, the bonus stations appear more frequently and, on later levels, one or more Crazy Trains will be on screen at the outset.
+
+If the player creates a closed loop of track and rides on it for several seconds, a "Loop Sweeper" appears which moves around the loop behind it. If the Sweeper reaches the locomotive, the player loses a life. Sweepers can be crashed into each other or into Crazy Trains to destroy them with the same consequences as above.
+
+An extra life is awarded at 10,000 points.
+
+===Scoring===
+{|class="wikitable"
+! Action !! Score
+|-
+| Travelling across bonus lines (lines which connect at junction) || 150 points
+|-
+| Picking up passengers at each railroad stop || 100 points
+|-
+| Crossing each block of train track to reach railroad stops || 10 points per block
+|-
+| Completing a level without any stations being destroyed ("Perfect Clear") || 5,000 points
+|-
+| Completing a level after some stations are destroyed ("Clear") || 1,000 points
+|}
+
+Bonus station points are randomly determined, with a beginning high of 2,470 points.
+
+==Ports ==
+''Loco-Motion'' was ported to the [[Intellivision]] (published by Mattel) and the [[Tomy Tutor]]. [[Activision]]'s ''Happy Trails'', with strikingly similar gameplay, was released prior to the Intellivision port of ''Loco-Motion''. Positive reviews of ''Happy Trails'' resulted in Mattel releasing ''Loco-Motion'' at a reduced price.<ref name="intlives">{{cite web |title=Loco-Motion |url=http://www.intellivisionlives.com/bluesky/games/credits/1983b.html#locomotion |archive-url=https://web.archive.org/web/20180611110356/http://www.intellivisionlives.com/bluesky/games/credits/1983b.html#locomotion |url-status=dead |archive-date=2018-06-11 |website=IntellvisionLives.com}}</ref>
+
+An [[MSX]] port from Konami itself was published as ''Crazy Train''.<ref>[http://www.generation-msx.nl/msxdb/softwareinfo/23 ''Crazy Train''] at Generation-MSX</ref>
+
+An [[M Network]] version for the [[Atari 2600]]<ref>[http://www.atariprotos.com/2600/software/locomotion/locomotion.htm ''Loco-Motion''] AtariProtos.com</ref> was planned for release on July 5, 1983, but was canceled for unknown reasons.<ref>[http://www.intellivisionlives.com/bluesky/games/credits/atari3.shtml M Network Atari 2600 Titles: ''Loco-Motion''] {{Webarchive|url=https://web.archive.org/web/20170723204404/http://www.intellivisionlives.com/bluesky/games/credits/atari3.shtml |date=2017-07-23 }} IntellivisionLives.com</ref>
+
+==Legacy==
+The [[Game Boy]] port was released in Japan as part of ''[[Konami GB Collection]] Vol. 2'', while the [[Game Boy Color]] port was released in Europe as part of ''Vol. 3''. While the Japanese version was released for the Game Boy with Super Game Boy features, the European version was colorized and translated into English for the Game Boy Color.
+
+''Mouse Puzzle'' (1982) for the [[VTech CreatiVision]], and ''[[Confuzion]]'' (1985) for the [[ZX Spectrum]] and [[Commodore 64]] are similar in design to ''Loco-Motion''.
+
+''[[Cue Brick (video game)|Cue Brick]]'' (1989) was a similar arcade game by [[Konami]]<ref>https://www.youtube.com/watch?v=I_ofNQRkDbI</ref><ref>https://flyers.arcade-museum.com/flyers_video/konami/18025102.jpg</ref>
+
+''Blodia'' aka ''[[Timeball]]'' was released in 1990 for NEC PC Engine, Sharp X68000 & Nintendo Game Boy.
+
+''[[Junction (video game)|Junction]]'' (1990) for the [[Sega Genesis]] is similar in concept with isometric graphics. A [[Game Gear]] version was also published, retaining the original arcade game's top-down view. They were published by Micronet under license from Konami.
+
+On October 12, 2023, the game was eventually re-released under [[Hamster Corporation|Hamster]]'s ''[[Arcade Archives]]'' brand for the [[Nintendo Switch]] and the [[PlayStation 4]].<ref>{{cite web |title=Hamster Corp's Arcade Archive |url=http://www.hamster.co.jp/american_hamster/arcadearchives/guttang-gottong.htm |access-date=12 October 2023}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{KLOV game|id=8439|name=Loco-Motion}}
+* [https://web.archive.org/web/20110820194954/http://maws.mameworld.info/maws/romset/locomotn Technical information on ''Loco-Motion'']
+* [http://www.centuri.net/locomotion.htm''Loco-Motion''] entry at the [[Centuri]].net Arcade Database
+
+[[Category:1982 video games]]
+[[Category:Arcade Archives games]]
+[[Category:Arcade video games]]
+[[Category:Intellivision games]]
+[[Category:Konami arcade games]]
+[[Category:Konami games]]
+[[Category:MSX games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Puzzle video games]]
+[[Category:Sega arcade games]]
+[[Category:Top-down video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Centuri games]]

@@ -1,0 +1,79 @@
+After the War (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=After_the_War_%28video_game%29&oldid=1227651815
+Accessed on: 2024-06-26T17:05:33.179849
+
+
+
+------
+After the War (video game)
+{{Short description|1989 video game}}
+{{Use mdy dates|date=December 2021}}
+{{Infobox video game
+|title = After The War
+|image = After the War Coverart.png
+|caption = Spanish ZX Spectrum cover
+|developer = [[Dinamic Software]]
+|publisher = [[Dinamic Software]]
+|designer =
+|programmer =
+|artist =
+|composer =
+|engine =
+|released = {{vgrelease|EU|1989}}
+|genre = [[Action game|Action]]
+|modes = [[Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[MSX]], [[ZX Spectrum]], [[Arcade game|Arcade]]
+}}
+
+'''''After The War''''' is a [[Side-scrolling video game|side-scrolling]] [[beat 'em up]] [[video game]] published in 1989 by [[Dinamic Software]], in which the player must navigate through a hostile post-apocalyptic city. Although the name of the city is not mentioned in the game itself, both official promotional and unreleased artwork by [[Luis Royo]] and [[Alfonso Azpiri]] suggest that it is a post-nuclear version of [[New York City]].
+
+== Gameplay ==
+{{Unreferenced section|date=October 2019}}
+The game is structured into two parts. The first part is a side scrolling beat 'em up, and plays in much the same way as other staples of the genre, such as ''[[Streets of Rage]]''. This first act takes place in the streets of the city, and consists of a sequence of fights with minor enemies and occasional bosses. The goal is to find the entrance to the city's underground rail transport, which is located on the opposite side of the map.
+
+After completion of the first act the player is given an opportunity to enter their name on the game's high score board, and is then given a password which allows them to continue to the second act.
+
+The second part is set in the tunnels and stations of the city's underground rail transport. The gameplay in this section differs from the first, as the player now has the ability to shoot enemies, shifting the genre closer to a [[shoot 'em up]] game such as ''[[Contra (video game)|Contra]]''. Many of the enemies in the second act are larger and tougher than in the first, and feature more complex in designs.
+
+== Development ==
+=== Versions ===
+{{Unreferenced section|date=October 2019}}
+There are numerous differences between the versions released, depending on which system the version was developed for. For example, some [[16-bit]] versions featured digitized voices while others did not. Some ports featured more complex graphical effects, such as the [[Amstrad CPC]] version, which included both mode 0 and mode 1 graphics. 
+
+''After The War'' featured two of the classic "FX brands" of Dinamic, commercial names that Dinamic used for some features of its games in marketing. These included FX Double Load, consisting on two separate parts to get advantage of computer memory, and FX Giant Sprites, that made use of very large [[sprite (computer graphics)|sprites]] that had the potential to take up ¾ of the total play area height.
+
+The FX Giant Sprites trick was achieved by using sprites that were composed of a set of small parts that allowed for the reuse of said parts in other characters. For example, many enemies share the same trouser and leg animations. In some ports, a problem with the vertical sync of the monitor lets the player easily see this trick as sometimes characters can be rendered and divided into two clearly different slices.
+
+A few computer magazines published notes about a [[arcade game|coin-op]] version of the game that was never released outside [[Spain]], although a coin-op of the game could be played many years before the worldwide home release in the [[Parque de Atracciones de Madrid]], graphically identical to the 16-bit computers counterpart.
+
+=== Cover art ===
+[[File:After_the_War,_original_unused_artwork_by_Alfonso_Azpiri.jpg|thumb|right| Original, unused box art by Alfonso Azpiri{{Citation needed|date=October 2019}}]]
+
+The cover artwork for ''After the War'' was created by artist [[Luis Royo]]. At the time development began, Spanish comic book author [[Alfonso Azpiri]] was a collaborator with Dinamic for the creation of the box art for their games. Azpiri, whose brother Jorge Azpiri contributed some of the graphics for the [[Amstrad CPC]] version of ''After the War'',<ref>{{cite web|url=http://www.cpc-power.com/index.php?page=detail&num=130|title=After The War|language=French|publisher=CPC-Power|date=2015-02-09|accessdate=2015-10-13}}</ref> drew an initial version of the intended cover artwork for the game, but due to its protracted development schedule, by the time the game was completed Azpiri had ended his collaboration with Dinamic to work with software company [[Topo Soft]].<ref>{{cite web|url=http://es.ign.com/retro/67374/feature/las-diez-mejores-portadas-de-alfonso-azpiri|title=Retro: The ten greatest front covers by Alfonso Azpiri|language=Spanish|publisher=IGN España|date=2013-07-01|accessdate=2015-09-26}}</ref> ''After the War'' was then released with new cover art commissioned to Royo.
+
+== Legacy ==
+In 2011, nearly two decades since the dissolution of Dinamic, some of its founding members acquired the rights to distribute the [[Microsoft Windows|Windows]] game ''[[Collapse (2008 video game)|Collapse]]'' in Spain and [[Italy]] under their new software company [[FX Interactive]]. The game was [[Rebranding|rebranded]] as ''After the War'' and marketed as belonging to the same fictional universe as the original 1989 game.<ref>{{cite web|url=http://www.vandal.net/noticia/60595/after-the-war-lo-nuevo-de-fx-interactive-a-la-venta-la-semana-que-viene/|title=After the War, the new FX Interactive release, in stores next week|language=Spanish|publisher=Vandal|date=2011-09-17|accessdate=2015-09-25}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.mobygames.com/game/14115/after-the-war/ ''After the War''] at Moby Games
+* [https://spectrumcomputing.co.uk/index.php?cat=96&id=101 ''After the War''] at Spectrum Computing
+* {{lemon64 game|id=65|name=After the War}}
+* {{atarimania|id=11009}}
+
+[[Category:1989 video games]]
+[[Category:Action games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Dinamic Software games]]
+[[Category:DOS games]]
+[[Category:Europe-exclusive video games]]
+[[Category:MSX games]]
+[[Category:Post-apocalyptic video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in Spain]]
+[[Category:ZX Spectrum games]]

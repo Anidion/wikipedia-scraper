@@ -1,0 +1,59 @@
+Moria (1975 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Moria_%281975_video_game%29&oldid=1226586578
+Accessed on: 2024-06-26T16:47:31.304369
+
+
+
+------
+Moria (1975 video game)
+{{short description|none}}
+{{about|the PLATO computer system video game||Moria (disambiguation)}}
+{{Infobox video game
+| title          = Moria
+| image          = PLATO Moria splash screen .png
+| caption        = PLATO Moria's splash screen
+| developer      = Kevet Duncombe<br/>Jim Battin
+| publisher      = 
+| series         = 
+| engine         = 
+| released       = 1975 or 1976
+| genre          = [[Role-playing video game]]
+| modes          = [[Multiplayer video game|Multiplayer]]
+| platforms      = [[Mainframe computer]] ([[PLATO (computer system)|PLATO]])
+}}
+'''''Moria''''' is a [[dungeon crawl]] style [[role-playing video game]] developed for the [[PLATO system]] beginning around 1975 by Kevet Duncombe and Jim Battin. In the game, up to ten players can simultaneously journey through a dynamically generated dungeon, presented to the players in first-person [[Wire-frame model|wireframe]] 3D.
+
+Some ''Moria'' players preferred to "role-play" as their fantasy personas<ref>{{Cite web |last=Hosch |first=William L. |last2=Tikkanen |first2=Amy |last3=Lowood |first3=Henry E. |date=2023-05-09 |title=Virtual reality - Living in virtual worlds |url=https://www.britannica.com/technology/virtual-reality/Living-in-virtual-worlds |access-date=2023-05-19 |publisher=[[Encyclopedia Britannica]] |language=en}}</ref> instead of merely playing the game.
+
+==Gameplay==
+[[File:Moria 1975 Screenshot.jpg|thumb|right|Screenshot of gameplay, running in the CYBIS system]]
+''Moria'' allows parties of up to ten players to travel as a group and message each other, dynamically generating dungeons (instead of pre-computing them), and featuring a [[Wire-frame model|wireframe]] first-person perspective display.
+
+==Development==
+''Moria'' was developed by Kevet Duncombe and Jim Battin beginning in either 1975 or 1976.<ref name="DandD4445"/><ref name="spillhistorie"/><ref name="Orange288291"/><ref name="BTC212"/>{{efn|Many sources such as books of video game history have noted the game's development as starting in 1975,<ref name="DandD4445"/><ref name="BTC212"/> but ''The Friendly Orange Glow'' states it was 1976, based on a 1997 interview by the author with Duncombe.<ref name="Orange288291"/> Duncombe has also claimed in a 2016 interview that the first version was written "around 1975 or 1976".<ref name="spillhistorie"/>}} The game was later given a copyright date of 1978.<ref name="DandD4445"/> It was initially begun as a top-down two-dimensional dungeon crawl game, inspired by contemporary PLATO game ''[[dnd (1975 video game)|Dnd]]'', which was developed beginning in 1975, and others such as ''Orthanc'' (1978).<ref name="spillhistorie"/><ref name="Orange288291"/> ''Moria'' was one of several ''[[Dungeons & Dragons]]''-inspired games on the PLATO network developed in the late 1970s.<ref name="DandD4445"/> Although both developers had played other games based on works by [[J. R. R. Tolkien]] or ''Dungeons & Dragons'', Duncombe had never read or played either.<ref name="howto"/> During development, Battin suggested converting the game into a 3D game, inspired by other early 3D PLATO games such as ''[[Panther (1975 video game)|Panther]]'', ''[[Spasim]]'', and ''[[Airfight]]''.<ref name="spillhistorie"/> The name ''Moria'' was suggested by ''Dnd'' developer Dirk Pellett.<ref name="howto"/>
+
+An update was made to the game in 1984, with the copyright date changed to match.<ref name="DandD4445"/> ''Moria'', like all other PLATO programs, was originally monochrome. In an effort to "modernize" the lessons, color was added by an intern in 1994 at University Online after the CYBIS system and its content was sold to them. CYBIS (short for CYber-Based Instruction System) was the new name for PLATO after [[Control Data Corporation|CDC]] sold the trademark to The Roach Organization in 1989.{{cn|date=December 2022}}
+
+==See also==
+* [[Avatar (PLATO system video game)|''Avatar'' (PLATO video game)]]
+
+==Notes==
+{{Notelist}}
+
+==Sources==
+{{Reflist|refs=
+<ref name="DandD4445">{{cite book |title=Dungeons & Desktops: The History of Computer Role-Playing Games |edition=2nd |first1=Matt |last1=Barton |first2=Shane |last2=Stacks |publisher=[[CRC Press]] |date=2019 |isbn=978-1-138-57464-9 |pages=44–45}}</ref>
+<ref name="spillhistorie">{{cite web |url=https://spillhistorie.no/kevet-duncombe-on-moria/ |title=Kevet Duncombe on Moria |website=Spillhistorie.no |date=December 30, 2016 |access-date=December 4, 2022}}</ref>
+<ref name="Orange288291">{{cite book |title=The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture |last=Dear |first=Brian |date=2018 |publisher=[[Random House|Knopf Doubleday Publishing Group]] |isbn=978-1-101-97363-9 |pages=288–291}}</ref>
+<ref name="BTC212">{{cite book |title=Before the Crash: Early Video Game History |last=Wolf |first=Mark J. P. |date=2012 |publisher=[[Wayne State University Press]] |isbn=978-0-8143-3722-6 |page=212}}</ref>
+<ref name="howto">{{cite web |last1=Schuller |first1=Dan |title=Moria |url=https://howtomakeanrpg.com/r/l/g/moria.html |access-date=2022-02-16 |archive-date=2022-06-13 |archive-url=https://web.archive.org/web/20220613230008/https://howtomakeanrpg.com/r/l/g/moria.html |url-status=dead}}</ref>
+}}
+
+* [http://www.cyber1.org/ ''Moria''] at cyber1.org, where the game can be played
+* [https://web.archive.org/web/20171120234946/http://www.armchairarcade.com/neo/node/1396 Fun with PLATO] at Armchair Arcade
+
+[[Category:Role-playing video games]]
+[[Category:1975 video games]]
+[[Category:Cooperative video games]]
+[[Category:PLATO (computer system) games]]
+[[Category:Video games developed in the United States]]

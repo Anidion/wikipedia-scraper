@@ -1,0 +1,75 @@
+Beyond Castle Wolfenstein
+Permalink: //en.wikipedia.org/w/index.php?title=Beyond_Castle_Wolfenstein&oldid=1224493291
+Accessed on: 2024-06-26T16:56:23.498765
+
+
+
+------
+Beyond Castle Wolfenstein
+{{Refimprove|date=September 2014}}
+
+{{Infobox video game
+| title = Beyond Castle Wolfenstein
+| image = Beyond Castle Wolfenstein Coverart.jpg
+| developer = [[Muse Software]]
+| publisher = Muse Software
+| released = {{vgrelease|NA|July 1984<ref>{{cite magazine |title=Year-End Index |magazine=Computer Entertainer |date=January 1985 |volume=3 |issue=10 |page=156 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan85.pdf#page=12}}</ref>}}
+| designer = {{plainlist|
+*Eric Ace
+*Frank Svoboda III
+*Silas S. Warner<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>}}
+| series = ''[[Wolfenstein]]''
+| genre = [[Stealth game|Stealth]], [[Shooter game|shooter]]
+| modes = [[Single-player]]
+| platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[MS-DOS]]
+}}
+
+'''''Beyond Castle Wolfenstein''''' is a 1984 [[List of World War II video games|World War II]] [[stealth game]]. A direct sequel to ''[[Castle Wolfenstein]]'', it is the second game in the ''[[Wolfenstein]]'' series, and the last installment to be released by original developer [[Muse Software]] before the name was revived for a [[first-person shooter]] in 1991. ''Castle Wolfenstein'' was written solely by Silas Warner for the [[Apple II]], while the sequel was developed simultaneously for the Apple II and [[Commodore 64]] by Warner, Eric Ace, and Frank Svoboda III.<ref name=giantlist/> It was quickly ported to the [[Atari 8-bit computers]] and [[MS-DOS]].
+
+==Gameplay==
+Like its predecessor, ''Beyond Castle Wolfenstein'' is a combination action and [[adventure game]] with stealth elements. It is set in [[World War II]] during [[Adolf Hitler]]'s rule as [[Chancellor of Germany]]. The objective is to traverse the [[level (video gaming)|levels]] of the secret Berlin [[bunker]] where the [[Führer]] is holding meetings with his senior staff. The player must retrieve a bomb that operatives have hidden inside the bunker, place it outside the room where Hitler is holding a meeting, and escape before the bomb explodes.
+
+[[File:Beyond_Castle_Wolfenstein_CGA.png|thumb|upright=1.5|[[IBM Personal Computer|IBM PC]] screenshot of ''Beyond Castle Wolfenstein'' showing the player about to place the bomb in the meeting room, the numbers denoting the bomb's countdown timer and the passes the player possesses]]
+The game shows a top-down view of each room, though the characters are from a side view. The player explores the levels by sneaking by, impersonating, and sometimes killing opponents. The game is controlled via a [[joystick]], [[paddle (game controller)|paddles]], or the [[computer keyboard|keyboard]], although the keyboard is the only option that allows for all commands.<ref>{{cite book|last1=Loguidice|first1=Bill|last2=Barton|first2=Matt|title=Vintage Games: An Insider Look at the History of Grand Theft Auto, Super Mario, and the Most Influential Games of All Time|date=21 August 2012|publisher=CRC Press|isbn=9781136137587|url=https://books.google.com/books?id=mKF5AgAAQBAJ&q=Beyond+Castle+Wolfenstein&pg=PA24|accessdate=29 August 2016|language=en}}</ref>
+
+The play is similar to its predecessor, but with some updates. The guards use a pass system, in which the player is periodically summoned by guards and asked to show the correct pass (which varies by floor), or offer a bribe.  If an incorrect pass is shown or the bribe is rejected due to the lack of money (for a total of two times), the guard will attempt to activate a bunker-wide alarm or kill the player. The bodies of dead guards can be dragged through the room to conceal them, block passages, or gain access to objects. The [[grenade]]s of the previous game have been replaced with a dagger which can silently kill guards. Upon successful completion of the game, the player is rewarded with a high resolution image of the bunker exploding with the player running away in the foreground. <!-- A screenshot of this would be nice. -->
+
+==Reception==
+Harvey Berstein of ''[[Antic (magazine)|Antic]]'' wrote in 1985 of the Atari 8-bit version: "while there have been some minor improvements, the game play doesn't provide nearly as much depth as the documentation suggests." He criticized the game for having the same [[port (video gaming)|Apple II-like graphics]] as its predecessor and slow loading speed. He also pointed out, "Once you know which passes to use, you can breeze through the game", discouraging replay.<ref name="bernstein198505">{{cite news | url=https://archive.org/stream/1985-05-anticmagazine/Antic_Vol_4-01_1985-05_New_Super_Ataris#page/n81/mode/2up | title=Beyond Castle Wolfenstein | work=Antic | date=May 1985 | accessdate=8 January 2015 | author=Bernstein, Harvey | pages=83}}</ref>
+
+In January 1985, ''Computer Entertainer'' rated the Atari 8-bit version 5½ out of 8 stars.<ref>{{cite magazine |title=Critically Speaking..Atari Computers |magazine=Computer Entertainer |date=January 1985 |volume=3 |issue=10 |page=152 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan85.pdf#page=8}}</ref>
+
+A 1991 ''[[Computer Gaming World]]'' survey of strategy and war games gave it two stars out of five.<ref name="brooks199111">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=88 | title=Computer Strategy and Wargames: The 1900-1950 Epoch / Part I (A-L) of an Annotated Paiktography | magazine=Computer Gaming World | date=November 1991 | accessdate=18 November 2013 | author=Brooks, M. Evan | pages=138}}</ref>
+
+===Reviews===
+* ''[[Ahoy!]]'' July 1984
+* ''Atari Computer Enthusiasts'' March 1985
+* ''Personal Software'' August 1984
+* ''Softalk'' July 1984
+* ''[[Computer Entertainer|Video Game Update]]'' July 1984
+
+==References==
+{{reflist}}
+
+==External links==
+*{{lemon64 game|id=261|name=Beyond Castle Wolfenstein}}
+*{{atarimania|id=604}}
+*{{moby game|id=/beyond-castle-wolfenstein|name=''Beyond Castle Wolfenstein''}}
+*{{Internet Archive game|Beyond_Castle_Wolfenstein}}
+
+{{Wolfenstein}}
+{{Muse Software}}
+
+[[Category:1984 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Cultural depictions of Adolf Hitler]]
+[[Category:Muse Software games]]
+[[Category:Single-player video games]]
+[[Category:Stealth video games]]
+[[Category:Video games about Nazi Germany]]
+[[Category:Video games developed in the United States]]
+[[Category:Wolfenstein]]
+[[Category:World War II video games]]

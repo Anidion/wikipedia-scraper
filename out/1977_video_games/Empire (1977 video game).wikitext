@@ -1,0 +1,101 @@
+Empire (1977 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Empire_%281977_video_game%29&oldid=1219407188
+Accessed on: 2024-06-26T16:47:44.168709
+
+
+
+------
+Empire (1977 video game)
+{{short description|Wargame}}
+{{For|other games with the name|Empire (disambiguation)#Gaming}}
+{{Infobox video game
+| title = Empire
+| image = EmpireDeluxe.png
+| caption = 
+| developer = [[Walter Bright]] <br> Mark Baldwin (1987–1990s) <br> Bob Rakosky (1990s) <br> Mark Kinkead (2001–present)
+| publisher = Interstel (1987) <br> [[New World Computing]] (1993) <br> Killer Bee Software (2002, 2004)
+| designer = Walter Bright/Mark Baldwin (Deluxe) <br> Mark Kinkead (Enhanced)
+| released = 1977, 1987–1988, 1993, 2002, 2004
+| genre = [[Strategy video game|Strategy]], [[Wargame (video games)|wargame]], [[4x]]
+| modes = [[Single-player video game|Single-player]] or [[Multiplayer video game|multiplayer]]
+|platforms= [[PDP-10]] (1977), ~1987 ([[Atari ST]], [[Amiga]], [[Commodore 64]], [[Apple II]], [[Macintosh]], [[MS-DOS]]), [[Microsoft Windows|Windows]] (1993, 2002, 2004)
+}}
+[[File:EmpireOriginal.png|thumb|Screenshot of ''Empire'' for the Amiga.]]
+
+'''''Empire''''' is a 1977 [[turn-based]] [[Computer wargame|wargame]] with simple rules. The game was conceived by [[Walter Bright]] starting in 1971, based on various war films and board games, notably ''[[Battle_of_Britain_(film)|Battle of Britain]]'' and ''[[Risk (game)|Risk]]''.<ref>{{cite web |url = http://www.classicempire.com/history.html |title = A Brief History of Empire |first = Walter|last = Bright|year = 2000 |work = Walter Bright's Empire website}}</ref> The game was ported to many platforms in the 1970s and 1980s. Several commercial versions were also released, often adding basic graphics to the originally text-based user interface. The basic gameplay is strongly reminiscent of several later games, notably [[Civilization (video game)|''Civilization'']], which was partly inspired by ''Empire''.<ref>{{cite web |last1=Edwards |first1=Benj |title=The History of Civilization |url=https://www.gamasutra.com/view/feature/129947/the_history_of_civilization.php?page=2 |website=Gamasutra |date=18 July 2007 |access-date=31 March 2020}}</ref>
+
+==Gameplay==
+At the start of a new game, a random game map is generated on a square grid basis. The map normally consists of numerous islands, although a variety of algorithms were used in different versions of the game, producing different styles of maps. Randomly distributed on the land are a number of cities. The players start the game controlling one of these cities each. The area immediately around the city is visible, but the rest of the world map is blacked out.
+
+The city can be set to build armies, aircraft, and various types of ships. Cities take a particular number of turns to produce the various units, with the armies typically being the most rapid. Players move these units on the map to explore the world, typically seeing the land within a one square radius around the unit. As they explore they will find other cities, initially independent, and can capture them with their armies. The captured cities are then set to produce new units as well.
+
+As the player's collection of cities expands, they are able to set aside some to produce more time-consuming types, like [[battleship]]s. Ultimately they have to use these forces to take all the cities on the map, including those of the other players, who are often run by the computer's [[game engine]].
+
+== History and development ==
+[[Walter Bright]] created ''Empire'' as a [[board wargame]] as a child, inspired by ''[[Risk (game)|Risk]]'', ''[[Stratego]]'', and the film ''[[Battle of Britain (film)|Battle of Britain]]''. He found [[gameplay]] tedious, but later realized that a computer could handle the gameplay and serve as [[CPU opponent]].<ref name="madned20211020">{{Cite interview |last=Bright |first=Walter |interviewer=Mad Ned |title=A Talk With Computer Gaming Pioneer Walter Bright About Empire |url=https://madned.substack.com/p/a-talk-with-computer-gaming-pioneer |date=2021-10-20}}</ref> The initial version of computer ''Empire'' was written in [[BASIC]],<ref name="Hacker News Comment">{{cite web |last1=Bright |first1=Walter |url=https://news.ycombinator.com/item?id=22447269 |website=Hacker News |title=The Fortran I used for Empire was FORTRAN-10|publisher=Y Combinator |access-date=29 February 2020}}</ref> before being re-written around 1977 in the [[Fortran|FORTRAN]] programming language for the [[PDP-10]] computer at [[Caltech]]. This version was spread virally to other PDP-10s, which were then common timesharing systems. Later, Bright recoded this in [[assembly language]] on a [[Heathkit H11]] and made it available commercially. He sold two copies.
+
+At some point, someone broke through the security systems at Caltech, and took a copy of the [[source code]] for the FORTRAN/PDP-10 version of the game.<ref>[https://github.com/DigitalMars/Empire-for-PDP-10 Empire-for-PDP-10] on github</ref> This code was continually modified, being passed around from person to person. Eventually, it was found on a computer<ref>Actually, the main TOPS-10 operating system developers' machine in Marlboro, MA. Programmer Dave Lyons had downloaded it there from Caltech.</ref> in [[Massachusetts]] by Herb Jacobs and Dave Mitton.<ref>{{cite web |url = https://groups.google.com/group/comp.sys.atari.st/tree/browse_frm/month/1987-11/904778d5991fb920?rnum=11&lnk=nl |title = ''Empire'' on comp.sys.atari.st |first = Walter |last = Bright |date = 1987-11-03}}</ref> They ported the code to the [[OpenVMS|VAX/VMS]] operating system and, under the alias of "Mario DeNobili and Paulson", submitted the program to [[DECUS]], a large user's group. DECUS programs were often installed on new [[Digital Equipment Corporation|DEC]] computers at the time of delivery, and so ''Empire'' propagated further. Eventually, Bright heard of this, and in 1983 contacted DECUS, who subsequently credited Bright in the catalog description of the program and re-added his name to the source code.{{Citation needed|date=October 2015}}
+
+In 1984, Bob Norby from [[Fort Lauderdale, Florida]], ported the DECUS version from the VAX to the PC as shareware. In 1987, Chuck Simmons re-implemented the game in C using the UNIX [[curses (programming library)|curses library]] in order to make use of its support for many different character-cell terminals. [[Eric S. Raymond]] maintains a copy of this version and shared some version with [[open-source software|open-source]] projects.<ref>{{Cite web|url=http://esr.ibiblio.org/?p=5011|title=VMS-empire 1.10 released – Armed and Dangerous|date=23 August 2013}}</ref>
+
+In 1996, ''Computer Gaming World'' declared the original ''Empire'' the 8th-best computer game ever released.<ref name=cgw150>{{cite magazine | author=Staff | title=150 Best (and 50 Worst) Games of All Time | magazine=[[Computer Gaming World]] | date=November 1996 | issue=148 | pages=63–65, 68, 72, 74, 76, 78, 80, 84, 88, 90, 94, 98}}</ref> The magazine's wargame columnist Terry Coleman named it his pick for the second-best computer wargame released by late 1996, behind ''[[Panzer General]]''.<ref name=15wargames>{{cite magazine | author=Coleman, Terry | title=Command Decisions | issue=148 | date=November 1996 | magazine=[[Computer Gaming World]] | pages=277, 280}}</ref>
+
+=== ''Empire: Wargame of the Century'' ===
+{{main|Empire: Wargame of the Century}}
+After this, Bright recoded the game in [[C (programming language)|C]] on an [[IBM PC]]. With low commercial expectations, he submitted an announcement to January 1984 ''[[BYTE Magazine]]''<nowiki>'</nowiki>s "Software Received" section, and received a flood of orders. After writing to many software companies (including [[Broderbund|Brøderbund]], [[Sirius Software]], [[Simon & Schuster]], [[subLOGIC]], [[Epyx]] and [[MicroProse]]), he licensed the game to a small software company named Interstel. Mark Baldwin was brought in to coauthor the game redesigning it for the commercial market. Starting around 1987, ''[[Empire: Wargame of the Century]]'' on the [[Atari ST]], [[Amiga]], [[Commodore 64]], [[Apple II series|Apple II]], [[Macintosh]] and [[DOS]] was produced.{{Citation needed|date=October 2015}}
+
+=== ''Empire Deluxe'' ===
+In the early 1990s, Mark Baldwin and Bob Rakowsky rewrote the game, calling it ''Empire Deluxe''<ref>{{cite book | title=Empire Deluxe manual | publisher=New World Computing | year=1993 | place=Hollywood, California | pages=158–162}}</ref> for [[DOS]], [[Classic Mac OS|Mac OS]], and [[Microsoft Windows|Windows]], released in 1993 with [[New World Computing]] as the publisher. ''Empire Deluxe'' sustained the old game play of Interstel's version in a ''standard'' game, while adding a ''basic'' version for beginners, and ''advanced'' game with new units such as the Bomber and Armor and map sizes up to 200×200.{{Citation needed|date=October 2015}}
+
+An [[expansion pack]], ''Empire Deluxe Scenarios'', was produced later in 1993, including a map and scenario statistics tool, a map randomiser tool (as random maps were present in the Interstel version, but lacking from ''Empire Deluxe''), upgrade patches for both DOS and Windows versions and a collection of 37 scenarios (with accompanying maps) from "celebrity" designers, many of them famous in the games industry including [[Will Wright (game designer)|Will Wright]], [[Jerry Pournelle]], [[Jim Dunnigan]], Johnny Wilson (''[[Computer Gaming World]]'' editor), [[Gordon Walton]], Don Gilman ([[Harpoon (series)|''Harpoon'' series]] architect), Trevor Sorensen ([[Star Fleet (game series)|''Star Fleet'' series]] designer), and the game's authors Mark Baldwin and Bob Rakosky.{{r|cgw199311}}
+
+''Computer Gaming World'' in 1993 called ''Empire Deluxe'' "a welcome addiction (sic) to the library of every serious strategy gamer".<ref name="jeffers199306">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=107 | title=Megalomaniacs Succumb To Empire Deluxe Epidemic | magazine=Computer Gaming World | date=June 1993 | access-date=7 July 2014 | author=Jeffers, Sean | pages=144}}</ref> A 1993 survey in the magazine of wargames gave the game four stars out of five, noting flaws but stating that "Yet, I keep on playing".<ref name="brooks199111">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=88 | title=Computer Strategy and Wargames: The 1900-1950 Epoch / Part I (A-L) of an Annotated Paiktography | magazine=Computer Gaming World | date=November 1991 | access-date=18 November 2013 | author=Brooks, M. Evan | pages=138}}</ref> It enjoyed great success, and was noted as one of  ''Gamespy's Greatest Games of All Time''.<ref name=gspytop50>{{cite web | title = GameSpy's Top 50 Games of All Time | publisher = [[GameSpy]] | date = July 2001 | url = http://archive.gamespy.com/articles/july01/top505/ | access-date = 2009-04-04 | archive-url = https://web.archive.org/web/20070108183511/http://archive.gamespy.com/articles/july01/top505/ | archive-date = 2007-01-08 | url-status = dead}}</ref> ''Empire Deluxe'' was reviewed in 1993 in ''[[Dragon (magazine)|Dragon]]'' #195 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 4 out of 5 stars.<ref name="Dragon195">{{cite journal
+|title=The Role of Computers
+|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk
+|journal=Dragon
+|issue=195
+|date=July 1993
+|pages=57–64}}</ref> In 1994, ''[[PC Gamer US]]'' named ''Empire Deluxe'' the 35th best computer game ever. The editors called it and "elegant" and "adaptable" game system that allowed "almost endless" replayability.<ref name=pcgamerustop40>{{cite magazine | author=<!--Staff--> | magazine=[[PC Gamer US]] | title=''PC Gamer'' Top 40: The Best Games of All Time | date=August 1994 | issue=3 | pages=32–42}}</ref>
+
+''Computer Gaming World'' in 1993 stated that ''Empire Deluxe Scenarios'' offered "a lot of value" to the game's fans.<ref name="cgw199311">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=112 | title=A 3.1-Run Homer | magazine=Computer Gaming World | date=November 1993 | access-date=28 March 2016 | last1=Carroll | first1=Mark | last2=Emrich | first2=Alan | pages=178}}</ref>
+
+=== Killer Bee Software ===
+In the Winter of 2002, Mark Kinkead of Killer Bee Software purchased the rights for ''Empire Deluxe'' from Mark Baldwin and Bob Rakowsky, and in 2003 produced a new version called ''Empire Deluxe Internet Edition'' (''EDIE'') for [[Microsoft Windows|Windows]]. This was essentially a port of the code Baldwin and Rakowsky produced in 1993, with few changes, such as a slightly increased map size (255×255), but did not add any new rules. A year later, Kinkead would create an "Enhanced" version with new units and rules, including artillery, engineers and orbital units. The company produced several other editions for Windows, [[Android (operating system)|Android]], and [[iOS]].{{Citation needed|date=October 2015}}
+
+==Sequel==
+{{main|Empire II: The Art of War}}
+In 1995, New World Computing published a sequel named ''[[Empire II: The Art of War]]''. While the original had been a turn-based strategy, ''Empire II'' was shifted towards [[turn-based tactics]]: there was no more empire-building and production of units, but the complexity and realism of battles were enhanced with features such as morale rules and various degrees of damage. The playable campaigns consisted of a collection of diverse historical or fictional battles. The game editor feature was enhanced by allowing the user to design not only new maps and campaigns, but also new units with new graphics and sounds.
+
+==Legacy==
+There are ports and source code for modern PC operating systems available for free download at Walter Bright's Classic Empire webpage.<ref>[http://www.classicempire.com/ Walter Bright's Classic Empire]</ref>
+
+[[Sid Meier]] has stated that ''Empire'' inspired his [[Civilization (series)#History|''Civilization'' series]].<ref>{{cite web |url=https://www.gamedeveloper.com/design/the-history-of-civilization|title=The History of Civilization |first=Benj |last=Edwards |work=Gamasutra<!--originally--> |date=July 18, 2007 |access-date=September 16, 2023 |url-status=live |archive-url=https://web.archive.org/web/20230603085449/https://www.gamedeveloper.com/design/the-history-of-civilization |archive-date=2023-06-03}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.classicempire.com/ Walter Bright's ''Empire'' website]
+* [http://killerbeesoftware.com/ EDEE Publisher Page - Killer Bee Software]
+* {{MobyGames|id=/empire-deluxe|name=''Empire Deluxe''}}
+* {{Internet Archive game|id=msdos_Empire_Deluxe_1993|title=Empire Deluxe}}
+* DOS version of ''Empire'' at Abandon ware, ''Empire: Wargame of the Century'', port by Bob Norby. [https://www.abandonwaredos.com/abandonware-game.php?abandonware=Empire%3A+Wargame+of+the+Century&gid=1423]
+* [https://github.com/DigitalMars/Empire-for-PDP-11/ ''Empire'' for the PDP-11 Source Code]
+
+[[Category:1977 video games]]
+[[Category:Computer wargames]]
+[[Category:Mainframe games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games with textual graphics]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Linux games]]
+[[Category:Classic Mac OS games]]
+[[Category:Windows games]]
+[[Category:Play-by-email video games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video games developed in the United States]]

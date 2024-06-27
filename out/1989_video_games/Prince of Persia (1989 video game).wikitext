@@ -1,0 +1,385 @@
+Prince of Persia (1989 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Prince_of_Persia_%281989_video_game%29&oldid=1228726142
+Accessed on: 2024-06-26T17:07:06.234630
+
+
+
+------
+Prince of Persia (1989 video game)
+{{short description|1989 video game}}
+{{About|the 1989 video game|the 2008 game of the same name|Prince of Persia (2008 video game){{!}}''Prince of Persia'' (2008 video game)}}
+{{Use mdy dates|date=July 2021}}
+{{Infobox video game
+|title = Prince of Persia
+|image = Prince of Persia 1989 cover.jpg
+|caption = Original cover art used for the home computer versions in the West.
+|developer = [[Broderbund]]<br />{{Collapsible list|title=Ports|
+{{Plainlist|
+* [[Domark]]<br /><small>([[Amiga]], [[Master System]], [[Game Gear]], [[Sega Genesis|Genesis]])</small>
+* [[Arsys Software]]<br /><small>([[NEC PC-9801]], [[Super Nintendo Entertainment System|SNES]])</small>
+* [[Riverhillsoft]]<br /><small>([[X68000]], [[TurboGrafx-16]])</small>
+* Bits Laboratory<br /><small>([[Sega CD]])</small>
+* [[Elite Systems|MotiveTime]]<br /><small>([[Nintendo Entertainment System|NES]])</small>
+* [[Virgin Interactive|Virgin Games]]<br /><small>([[Game Boy]])</small>
+}}}}
+|publisher = Broderbund<br />{{Collapsible list|title=Ports|
+{{Plainlist|
+* [[Riverhillsoft]]<br /><small>(X68000, TurboGrafx-16)</small>
+* [[Sega]]<br /><small>(Sega CD)</small>
+* [[Konami]]<br /><small>(SNES)</small>
+* [[Ubisoft]]<br /><small>(iOS, XBLA, Virtual Console)</small>
+}}}}
+|designer = [[Jordan Mechner]]
+|composer = Francis Mechner (music)<br />
+Tom Rettig (sound)<br />[[Mark Cooksey]] {{small|(NES)}}
+|released ={{vgrelease|NA|October 3, 1989<ref name="date">{{cite web|url=http://jordanmechner.com/blog/2009/05/prince-of-persia-released/ |title=Prince of Persia released |publisher=jordanmechner.com |last=Mechner |first=Jordan |date=May 3, 2009 |access-date=December 13, 2009 |url-status=live |archive-url=https://web.archive.org/web/20091212143700/http://jordanmechner.com/blog/2009/05/prince-of-persia-released/ |archive-date=December 12, 2009}}</ref>}} {{vgrelease|JP|July 1990<ref name="hg101_pop" />|EU|September 1990<ref name="Gen4" />}}
+|genre = [[Platform game#Cinematic platform game|Cinematic platformer]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II series|Apple II]] (''[[#Ports|see Ports]]'')
+}}
+
+'''''Prince of Persia''''' is a [[cinematic platform game]] developed and published by [[Broderbund]] for the [[Apple II series|Apple II]] in 1989. It was designed and implemented by [[Jordan Mechner]]. Taking place in medieval [[Sasanian Empire|Persia]], players control [[Prince (Prince of Persia)|an unnamed protagonist]] who must venture through a series of dungeons to defeat the evil [[Grand Vizier]] Jaffar and save an [[Damsel in distress#In video games|imprisoned princess]].
+
+Much like ''[[Karateka (video game)|Karateka]]'', Mechner's first [[video game]], ''Prince of Persia'' used [[rotoscoping]] for its fluid and realistic animation. For this process, Mechner used as reference for the characters' movements videos of his brother doing acrobatic stunts in white clothes<ref>{{Cite web |date=2020-04-01 |title=Prince of Persia's Groundbreaking Character Animations Started Life in a High School Parking Lot |url=https://gizmodo.com/prince-of-persias-groundbreaking-character-animations-s-1842613683 |access-date=2023-10-31 |website=Gizmodo |language=en}}</ref> and [[swashbuckler film]]s such as ''[[The Adventures of Robin Hood]]''.
+
+The game was critically acclaimed and, while not an immediate commercial success, sold many copies as it was ported to a wide range of platforms after the original Apple II release. It is believed to have been the first cinematic platformer and inspired many games in this subgenre, such as ''[[Another World (video game)|Another World]]''.<ref name=Rybicki08>{{cite web|last=Rybicki |first=Joe |title=Prince of Persia Retrospective |url=http://www.gametap.com/articles/gamefeatures/prince_of_persia_retrospective-05052008 |archive-url=https://web.archive.org/web/20080509013828/http://www.gametap.com/articles/gamefeatures/prince_of_persia_retrospective-05052008 |url-status=dead |archive-date=May 9, 2008 |work=GameTap |publisher=Turner Broadcasting System |access-date=March 7, 2014 |date=May 5, 2008}}</ref> Its success launched the [[Prince of Persia|''Prince of Persia'' franchise]], consisting of two sequels, ''[[Prince of Persia 2: The Shadow and the Flame]]'' (1993) and ''[[Prince of Persia 3D]]'' (1999), and two [[Reboot (fiction)|reboots]]: ''[[Prince of Persia: The Sands of Time]]'' (2003), which was followed by three sequels of its own, and ''[[Prince of Persia (2008 video game)|Prince of Persia]]'' (2008).
+
+==Gameplay==
+[[File:Prince of Persia 1 - MS-DOS - Gameplay.gif|frame|alt=IBM PC version of Prince of Persia|Mechner used videos of his brother as a reference for the original animation of the game (pictured: [[IBM PC compatible]] version).]]
+The main objective of the player is to lead the unnamed protagonist out of dungeons and into a fortress tower before time runs out. This cannot be done without bypassing traps and fighting hostile swordsmen. The game consists of twelve levels (though some console versions have more). However, a game session may be [[Saved game|saved]] and resumed at a later time only after level 2.
+
+The player has a health indicator that consists of a series of small red triangles. The player starts with three. Each time the protagonist is damaged (cut by sword, fallen from two floors of heights or hit by a falling rock), the player loses one of these indicators. There are small jars containing potions of several colours and sizes. The red potions scattered throughout the game restore one health indicator. The blue potions are poisonous, and they take one life indicator as damage. There are also large jars of red potion that increase the maximum number of health indicators by one, and large jars of green potion that grants a temporarily ability to hover. If the player's health is reduced to zero, the protagonist dies. Subsequently, the game is restarted from the beginning of the stage in which the protagonist died but the timer will not reset to that point, effectively constituting a time penalty. There is no counter for the number of [[Life (gaming)|lives]], but if time runs out, the princess will be gone and the game will be over, subject to variations per console versions:{{Overly detailed inline|date=December 2022}}
+* The DOS version allows the player already in the very late part of Level 12 to continue after time is out with no extra life, so:
+# Restarting the level by pressing appropriate buttons is not death, thus not failing the game yet.
+# Any player's death, including having killed Jaffar then falling from excessive floors of heights, also fails the game in which case the Princess is also gone.
+# Only defeating Jaffar and exiting Level 12 alive will still save the Princess, with a negative time score in the hall of fame.
+* The Macintosh port will not give the player a game over once they reach the final area of Level 12 (stored in data as Level 13), provided they make it there on time. The player must cross the magic bridge and make a screen-transition to a room with falling tiles to be 'safe'; once there, they will always be allowed to continue, regardless of deaths or time expiration. Running out of time at any point before the screen-transition, including the bridge, will result in game over as usual.
+* The Super NES remake allows the players to save themselves after time is out, to get the [[game over]] at the end without the princess saved.
+
+There are three types of traps that the player must bypass: spike traps, deep pits (three or more levels deep) and guillotines. Getting caught or falling into each results in the instant death of the protagonist. In addition, there are gates that can be raised for a short period of time by having the protagonist stand on the activation trigger. The player must pass through the gates while they are still open, avoiding locking triggers. Sometimes, there are various traps between an unlock trigger and a gate.
+
+Hostile swordsmen (Jaffar and his guards) are yet another obstacle. The player obtains a sword in the first stage, which they can use to fight these adversaries. The protagonist's sword maneuvers are as follows: advance, back off, slash, parry, or a combined parry-then-slash attack. Enemy swordsmen also have a health indicator similar to that of the protagonist. Killing them involves slashing them until their health indicator is depleted or by pushing them into traps while fighting.
+
+In stage three a skeletal swordsman comes to life and does battle with the protagonist. The skeleton cannot be killed with the sword, but it can be defeated by being dropped into one of the pits.
+
+A unique trap encountered in stage four, which serves as a plot device, is a magic mirror, whose appearance is followed by an ominous [[leitmotif]]. The protagonist is forced to jump through this mirror upon which his [[doppelganger]] emerges from the other side, draining the protagonist's health to one. This apparition later hinders the protagonist by stealing a potion and throwing him into a dungeon. The protagonist cannot kill this apparition as they share lives; any damage inflicted upon one also hurts the other. Therefore, the protagonist must merge with his doppelganger.
+
+In stage eight, the protagonist becomes trapped behind a gate before he can reach the exit. In this stage the Princess sends a white mouse to trigger the gate open again, allowing him to proceed to the next level.
+
+In stage twelve protagonist faces his shadow doppelgänger. Once they have merged, the player can run across an invisible bridge to a new area, where they battle Jaffar (once the final checkpoint is reached, the player will no longer get a game over screen even if time runs out, except if the player dies after the timeout). Once Jaffar is defeated, his spell is broken and the Princess can be saved. In addition, the in-game timer is stopped at the moment of Jaffar's death, and the time remaining will appear on the high scores.
+
+==Plot==
+The game is set in [[History of Iran|medieval Persia]]. While the [[sultan]] is fighting a war in a foreign land, his [[vizier]] Jaffar, a [[Magician (fantasy)|wizard]], seizes power. His only obstacle to the throne is the Sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she would die within 60 minutes (extended to 120 minutes in the Super NES version, which has longer and harder [[Level (video gaming)|levels]]). The game's [[Prince (Prince of Persia)|unnamed protagonist]], whom the Princess loves, is thrown prisoner into the palace dungeons. In order to free her, he must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. In addition to guards, various traps and dungeons, the protagonist is further hindered by his own [[doppelgänger]], conjured out of a magic mirror.
+
+==Development==
+[[File:Prince of Persia 1 - Sketches by Jordan Mechner.jpg|thumb|right|200px|Mechner used hand-drawn storyboards such as this to lay out the game's level design and character movements.]]
+Development for the game began in 1985, the year [[Jordan Mechner]] graduated from [[Yale University]]. At that time, Mechner had already developed one game, ''[[Karateka (video game)|Karateka]]'', for distributor [[Broderbund]]. Despite expecting a sequel to ''Karateka'', the distributor gave Mechner creative freedom to create an original game.<ref name=POPEdge>{{cite magazine|url=http://www.edge-online.com/features/the-making-of-prince-of-persia/ |title=The Making Of: Prince Of Persia |archive-url=https://web.archive.org/web/20130710190803/http://www.edge-online.com/features/the-making-of-prince-of-persia/ |archive-date=July 10, 2013 |magazine=[[Edge (magazine)|Edge]] |publisher=[[Future plc]] |access-date=October 11, 2015 |url-status=unfit}}</ref> The game drew from sources of inspiration including video games such as ''[[The Castles of Dr. Creep]]'' and ''[[Lode Runner]]'',<ref name=NGen41int>{{cite magazine |title=An Interview with Jordan Mechner|magazine=[[Next Generation (magazine)|Next Generation]]|issue=41 |publisher=[[Imagine Media]] |date=May 1998|pages=75-76}}</ref> literature such as the ''[[One Thousand and One Nights|Arabian Nights]]'' stories,<ref name="PoPhistory1">{{cite web|url=https://uk.ign.com/articles/2010/05/18/ign-presents-the-history-of-prince-of-persia |title=IGN Presents: The History of Prince of Persia (page 1) |author1=Rus McLaughlin |author2=Scott Collura |author3=Levi Buchanan |name-list-style=amp |website=[[IGN]] |date=May 18, 2010 |access-date=June 28, 2013 |url-status=live |archive-url=https://web.archive.org/web/20141203230043/http://www.ign.com/articles/2010/05/18/ign-presents-the-history-of-prince-of-persia |archive-date=December 3, 2014}}</ref> and films such as ''[[Raiders of the Lost Ark]]''<ref>[http://www.gamasutra.com/view/feature/2180/game_design_theory__practice_.php Gamasutra - Features - Game Design: Theory & Practice Second Edition: 'Interview with Jordan Mechner'<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20141219101314/http://www.gamasutra.com/view/feature/2180/game_design_theory__practice_.php |date=December 19, 2014}}</ref> and ''[[The Adventures of Robin Hood]]''.<ref name="GDC2011">{{cite speech|title=Classic Game Postmortem: PRINCE OF PERSIA |first=Jordan |last=Mechner |author-link=Jordan Mechner |event=Game Developers Conference |location=San Francisco, California |date=2011 |url=http://www.gdcvault.com/play/1014634/Classic-Game-Postmortem-PRINCE-OF |access-date=May 30, 2013 |time=38:35 |url-status=live |archive-url=https://web.archive.org/web/20130601195358/http://www.gdcvault.com/play/1014634/Classic-Game-Postmortem-PRINCE-OF |archive-date=June 1, 2013}}</ref>
+
+{{Quote box|quote=For a few seconds, the camera angle has them in exact profile. This was a godsend. I did my VHS/one-hour-photo rotoscope procedure, spread two-dozen snapshots out on the floor of the office and spent days poring over them trying to figure out what exactly was going on in that duel, how to conceptualise it into a repeatable pattern.|source=Jordan Mechner on how he used the final duel between [[Errol Flynn]] and [[Basil Rathbone]] from ''[[The Adventures of Robin Hood]]'' to create the game's swordfighting mechanic.<ref name=POPEdge/> |width=30% |align=left}}
+''Prince of Persia'' was programmed in [[Assembly language|6502 assembly]], a low-level programming language.<ref>{{Cite web|last=Caoili|first=Eric|date=April 17, 2012|title=Prince of Persia 's once-lost source code released|url=https://www.gamasutra.com/view/news/168709/Prince_of_Persias_oncelost_source_code_released.php|access-date=August 29, 2020|website=Gamasutra|language=en}}</ref> Mechner used an animation technique called [[rotoscoping]], with which he used footage to animate the characters' sprites and movements. To create the protagonist's platforming motions, Mechner traced video footage of his younger brother running and jumping in white clothes.<ref>[http://jordanmechner.com/old-journals/1985/10/october-20-1985/ October 20, 1985 | jordanmechner.com<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20130805211658/http://jordanmechner.com/old-journals/1985/10/october-20-1985/ |date=August 5, 2013}}</ref> To create the game's sword fighting sprites, Mechner rotoscoped the final duel scene between [[Errol Flynn]] and [[Basil Rathbone]] in ''The Adventures of Robin Hood''.<ref name="GDC2011"/> Though the use of rotoscoping was regarded as a pioneering move, Mechner later recalled that "when we made that decision with ''Prince of Persia'', I wasn't thinking about being cutting edge — we did it essentially because I'm not that good at drawing or animation, and it was the only way I could think of to get lifelike movement."<ref>{{cite magazine |title=An Interview with Jordan Mechner|magazine=[[Next Generation (magazine)|Next Generation]]|issue=25 |publisher=[[Imagine Media]]|date=January 1997|page=108}}</ref> Also unusual was the method of combat: protagonist and enemies fought with [[sword]]s, not projectile weapons, as was the case in most contemporary games. Mechner has said that when he started programming, the first ten minutes of the film ''[[Raiders of the Lost Ark]]'' had been one of the main inspirations for the character's acrobatic responses in a dangerous environment.<ref>[http://www.gamasutra.com/view/feature/2180/game_design_theory__practice_.php Gamasutra - Features - Game Design: Theory & Practice Second Edition: 'Interview with Jordan Mechner'<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20141219101314/http://www.gamasutra.com/view/feature/2180/game_design_theory__practice_.php |date=December 19, 2014}}</ref>
+
+During development, the Prince was meant to be a nonviolent character, so the game did not initially include combat.<ref name=NGen41/> However, due to finding the gameplay to be dull and after incessant demand from Tomi Pierce, a colleague of his, Mechner added sword fighting to the game and created Shadow Man, the Prince's doppelgänger. Guards were later added when Mechner managed to make use of an additional 12K of the Apple II's memory.<ref>{{Cite web|last=Mechner|first=Jordan|date=March 17, 2020|title=How Prince of Persia Defeated Apple II's Memory Limitations {{!}} War Stories {{!}} Ars Technica|url=https://www.youtube.com/watch?v=sw0VfmXKq54|access-date=October 25, 2020|website=[[YouTube]]|minutes=10}}</ref>
+
+Mechner was offended by the cover art for the [[Sega Genesis]] version, which depicts the prince as a [[Luke Skywalker]] lookalike about to cut down a helpless black guard, but by the time he made his objections it was already being printed.<ref name=NGen41>{{cite magazine |title=NG Alphas: Prince of Persia 3D|magazine=[[Next Generation (magazine)|Next Generation]]|issue=41 |publisher=[[Imagine Media]] |date=May 1998|pages=73-74}}</ref>
+
+For the Japanese computer ports, [[Arsys Software]]<ref name=moby/> and [[Riverhillsoft]]<ref name="hg101_pop"/> [[Video game remake|enhanced]] the visuals and redesigned the Prince's appearance, introducing the classic [[turban]] and [[vest]] look. This version became the basis for the Macintosh version and later ''Prince of Persia'' ports and games by Broderbund. Riverhillsoft's [[FM Towns]] version also added a [[Compact Disc Digital Audio|Red Book]] CD [[Streaming audio in video games|audio soundtrack]].<ref name="hg101_pop"/>
+
+The Amiga version of the game was developed by [[Dan Gorlin]].<ref name=NGen41/> [[Tommy Tallarico]] worked on the audio for the Game Boy port of the game, and it was the first game he worked on. He originally started as a [[Playtest|playtester]] for Virgin Interactive.<ref>{{Cite news |last=Huffstuffer |first=P.J. |date=1997-08-11 |title=O.C. Musician is a Top Scorer for Video Games |url=https://www.newspapers.com/article/the-los-angeles-times-tommy-tallarico/141206159/ |access-date=2024-02-21 |work=The Los Angeles Times |pages=105}}</ref>
+
+==Ports==
+{{more citations needed section|date=February 2011}}
+<!-- PLEASE NOTE: As of 30 May 2013, MobyGames does NOT list the correct publisher and developer information for ''Prince of Persia''. For example, it lists the Apple II version as being developed by Broderbund (in reality it was Jordan Mechner) and the Super NES version as being developed by Broderbund (in reality it was Arsys). -->
+[[File:Prince of Persia SNES.jpg|thumb|Screenshot from the Super NES version developed by [[Arsys Software|Arsys]]. It has enhanced graphics and more levels than the original.]]
+
+{|class="wikitable"
+|-
+!colspan="4" style="background: #ffdead;" |{{center|'''Official'''}}
+|-
+!Port !! Release !! Developer !! Publisher
+|-
+|[[NEC PC-9801]]
+|{{Start date|1990|07}}<ref name="hg101_pop"/>
+| [[Arsys Software]]<ref name=moby>[http://www.mobygames.com/game/prince-of-persia/release-info ''Prince of Persia'' release info] {{webarchive|url=https://web.archive.org/web/20141006132245/http://www.mobygames.com/game/prince-of-persia/release-info |date=October 6, 2014}}, Moby Games, October 3, 1989</ref>
+| [[Riverhillsoft]]
+|-
+|[[MS-DOS]]
+|{{Start date|1990|09}}
+|colspan="2" |[[Broderbund]]
+|-
+|[[Amiga]]
+|{{Start date|1990|10}}<br>{{Start date|1990|12}} (EU)<ref name=theone>{{cite magazine|title=More Than Fit For A Prince|date=December 1990|url=https://archive.org/details/theone-magazine-27/page/n15/mode/2up|magazine=The One|publisher=emap Images|issue=27|page=16}}</ref>
+|colspan="2" |[[Domark]]
+|-
+|[[Atari ST]]
+|{{Start date|1991|03}}<ref>{{cite magazine |url=http://www.atarimania.com/mags/hi_res/atari-st-user-issue-61_48.jpg |title=''Prince of Persia'' |magazine=Atari ST User |date=March 1991 |access-date=March 21, 2019}}</ref>
+|colspan="2" |[[Broderbund]]
+|-
+|[[X68000]]
+|{{Start date|1991|04|30}}
+|colspan="2" | [[Riverhillsoft]]
+|-
+|[[Amstrad CPC]]
+|{{Start date|1991|07}}
+|colspan="2" |[[Broderbund]]
+|-
+|[[SAM Coupé]]
+|{{Start date|1991|08}}
+|Chris 'Persil' White<ref>{{cite journal|title=SAM Coupe Magazine Preview |url=https://archive.org/stream/crash-magazine-96/Crash_96_Feb_1992#page/n49 |date=February 1992 |page=50 |access-date=March 3, 2016}}</ref>
+|[[SAM Coupé#Revelation|Revelation]]
+|-
+|[[TurboGrafx-16]]
+|{{Start date|1991|11|08}}
+|colspan="2" | [[Riverhillsoft]]
+|-
+|[[Game Boy]]
+|{{Start date|1992|01}}
+|colspan="2" |[[Virgin Interactive|Virgin Games]]
+|-
+|[[FM Towns]]
+|{{Start date|1992|06}}
+|colspan="2" |[[Riverhillsoft]]
+|-
+|[[Master System]]
+|{{Start date|1992|06}}<ref name="PoP-MM"/>
+|colspan="2" | [[Domark]]
+|-
+|[[Super Nintendo Entertainment System|Super NES]]
+|{{Start date|1992|07|03}} (JP)<br>{{Start date|1992|11|1}} (US, EU)
+|[[Arsys Software]]<ref>{{cite web|title=Corporate profile |url=http://www.cyberhead.co.jp/info.htm |publisher=Cyberhead |access-date=August 30, 2012 |archive-url=https://web.archive.org/web/20011024203406/http://www.cyberhead.co.jp/info.htm |archive-date=October 24, 2001 |url-status=unfit}}</ref>
+|[[Masaya (company)|Masaya]] (JP)<br>[[Konami]] (US, EU)
+|-
+|[[Sega CD]]
+|{{Start date|1992|08|07}} (JP)<br>{{Start date|1992}} (US)<br>{{Start date|1993|04|02}} (EU)<ref name="CVG 138">{{cite magazine|date=May 1993|title=News: Mega CD Launches!|magazine=[[Computer and Video Games]]|location=United Kingdom|issue=138|page=8}}</ref>
+|Bits Laboratory
+|[[JVCKenwood Victor Entertainment#History|Victor Musical Industries]] (JP)<br>[[Sega]] (US, EU)
+|-
+|[[Nintendo Entertainment System|NES]]
+|{{Start date|1992|11|2}}
+| [[Elite Systems#History|MotiveTime]]
+| [[Virgin Games]]
+|-
+|[[Classic Mac OS]]
+|{{Start date|1992|12}}
+|colspan="2" |Presage Software development, Inc.<ref>{{cite web|url=http://www.presage.com/pPrince.html|archiveurl=https://web.archive.org/web/19970614015100/http://www.presage.com/pPrince.html|title=Presage Products - Prince of Persia|archivedate=June 14, 1997|accessdate=February 2, 2024}}</ref>
+|-
+|[[Game Gear]]
+|{{Start date|1993|01}}
+|colspan="2" | [[Domark]]
+|-
+|[[Sega Genesis|Genesis]]
+|{{Start date|1994|02}}
+|colspan="2" |[[Domark]] (EU)<br>[[Tengen (company)|Tengen]] (US)
+|-
+|[[Game Boy Color]]
+|{{Start date|1999|4|15}}
+|Ed Magnin and Associates<ref name="GiantBomb">{{cite web|url=http://www.giantbomb.com/prince-of-persia/3030-2561/releases/ |title=Prince of Persia International Releases |publisher=[[Giant Bomb]] |access-date=June 17, 2013 |url-status=live |archive-url=https://web.archive.org/web/20150924054501/http://www.giantbomb.com/prince-of-persia/3030-2561/releases/ |archive-date=September 24, 2015}}</ref>
+|[[Red Orb Entertainment]]<ref name="GiantBomb"/>
+|-
+|[[Mobile phone|Mobile]] ("Classic")
+|2007
+| colspan="2" |[[Gameloft]]
+|-
+|[[Xbox 360]] ("Classic")
+|June 13, 2007
+| rowspan="2" |[[Gameloft]]
+| rowspan="2" |[[Ubisoft]]
+|-
+|[[PlayStation 3]] ("Classic")
+|October 23, 2008
+|-
+|[[BlackBerry|Blackberry]] ("Classic")
+|April 7, 2009
+| colspan="2" |[[Gameloft]]
+|-
+|[[iOS]] ("Retro", replaced by "Classic" version in 2011)
+|{{Start date|2010|05|28}}
+|colspan="2" rowspan="4" | [[Ubisoft]]
+|-
+|[[iOS]] ("Classic")
+|{{Start date|2011|12|19}}
+|-
+|[[Nintendo 3DS]] (Game Boy Color version on [[Virtual Console]])
+|{{Start date|2012|01|19}}<ref name="NintendoDSandWii">{{cite magazine|url=http://www.mcvuk.com/press-releases/read/relive-classic-prince-of-persia-on-wii-trade-and-3ds-trade/090015 |title=RELIVE CLASSIC PRINCE OF PERSIA ON WII AND 3DS |magazine=[[MCV (magazine)|MCV]] |date=January 19, 2012 |access-date=June 17, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140115221448/http://www.mcvuk.com/press-releases/read/relive-classic-prince-of-persia-on-wii-trade-and-3ds-trade/090015 |archive-date=January 15, 2014}}</ref>
+|-
+|[[Wii]] (Super NES version on [[Virtual Console]])
+|{{Start date|2012|01|19}}<ref name="NintendoDSandWii"/>
+|-
+|[[Android (operating system)|Android]] ("Classic")
+|September 13, 2012
+|[[Ubisoft Pune]]
+|[[Ubisoft]]
+|-
+!colspan="4" style="background: #ffdead;" |{{center|'''Unofficial'''}}
+|-
+!Port !! Release !! Developer !! Publisher
+|-
+|[[Electronika BK-0011M]]
+|{{Start date|1994}}
+|Evgeny Pashigorov, Pasha Sizykh<ref name="PoPBK">{{cite web|url=http://r-games.net/154-prince-persia-bk0011m.html |title=Prince of Persia BK-0011M |publisher=R-GAMES.NET |access-date=October 15, 2014 |url-status=live |archive-url=https://web.archive.org/web/20141201123211/http://r-games.net/154-prince-persia-bk0011m.html |archive-date=December 1, 2014}}</ref>
+|Flame Association
+|-
+|[[ATM (computer)|ATM Turbo]]
+|{{Start date|1994}}
+|Honey Soft, Andrey Honichem
+|Moscow
+|-
+|[[ZX Spectrum]]
+|{{Start date|1996}}
+|Nicodim<ref name="ZXSpectrum">{{cite web|url=ftp://ftp.worldofspectrum.org/pub/spectrum/games-extras/PrinceOfPersia_History-English.doc |title=Prince of Persia - ZX Spectrum version (Nicodim/Magic Soft, 1996) |format=DOC |publisher=[[World of Spectrum]] |first=Richárd |last=Tarján |date=February 21, 2009 |access-date=June 16, 2013}}{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+|Magic Soft <ref name="ZXSpectrum"/> <br> MC Software <ref>{{cite journal |title=ZX Spectrum Screenshot Catalog |last=Ribic |first=Samir |date=July 2007 |page=655}}</ref>
+|-
+|[[HP 48 series#48G|HP48/GX]]
+|{{Start date|1998}}
+|colspan="2" |Iki<ref>{{cite web|url=http://www.hpcalc.org/details.php?id=418 |title=Detailed information for Iki's Prince of Persia |website=hpcalc.org |date=October 30, 1998 |access-date=October 17, 2016 |url-status=live |archive-url=https://web.archive.org/web/20151026073737/http://www.hpcalc.org/details.php?id=418 |archive-date=October 26, 2015}}</ref>
+|-
+|[[TI-89 series|TI-89]], [[TI-92 series|TI-92]]
+|{{Start date|2003}}
+|colspan="2" |David Coz<ref>{{cite web|url=http://www.ticalc.org/archives/files/fileinfo/286/28604.html |title=Prince of Persia - TI Series |date=September 20, 2003 |access-date=October 15, 2015 |url-status=live |archive-url=https://web.archive.org/web/20151222085234/http://www.ticalc.org/archives/files/fileinfo/286/28604.html |archive-date=December 22, 2015}}</ref>
+|-
+|[[Enterprise (computer)|Enterprise 128]]
+|{{Start date|2006}}
+|colspan="2"|Geco (Noel Persa)<ref>{{cite magazine|last=Kiss|first=László|year=2018|title=What you should definitely see|url=http://enterprise.iko.hu/magazines/Enterpress_2018_per_1-2_UK.pdf|magazine=ENTERPRESS|location=Hungary|page=21|access-date=April 15, 2020}}</ref><ref>{{cite web|url=https://enterpriseforever.com/cpc-r337l/prince-of-persia/|title=Prince of Persia|last=Persa|first=Noel|date=June 15, 2006|website=Enterprise Forever|access-date=April 15, 2020}}</ref>
+|-
+|[[Commodore Plus/4]] (Demo)
+|{{Start date|2007}}
+|colspan="2" |GFW & ACW<ref name="Plus64">{{cite web|url=http://plus4world.powweb.com/software/Prince_Of_Persia |publisher=Plus 4 World |access-date=February 5, 2014 |title=Prince of Persia |url-status=live |archive-url=https://web.archive.org/web/20140222002308/http://plus4world.powweb.com/software/Prince_Of_Persia |archive-date=February 22, 2014}}</ref>
+|-
+|[[Commodore 64]]
+|{{Start date|2011}}
+|colspan="2" |Andreas Varga<ref name="Commodore64">{{cite web|url=http://www.lemon64.com/games/details.php?ID=4179|publisher=Lemon|access-date=June 16, 2013|first=Kim|last=Lemon|title=Prince of Persia}}</ref><ref>{{cite web|url=http://popc64.blogspot.com/ |title=Prince of Persia C64 - Development Blog |date=March 2, 2012 |access-date=April 6, 2017 |url-status=live |archive-url=https://web.archive.org/web/20161211054713/http://popc64.blogspot.com/ |archive-date=December 11, 2016}}</ref>
+|-
+|[[Linux]], [[macOS]], [[Microsoft Windows|Windows]]
+|{{Start date|2014}}
+|colspan="2"|Dávid Nagy. This port, called ''SDLPoP'', uses [[Simple DirectMedia Layer|SDL]].<ref name="SDLPoP">{{cite web|url=http://www.popot.org/get_the_games.php?game=SDLPoP |title=Get the Games: SDLPoP |publisher=PoPOT Modding Community |access-date=October 12, 2014 |url-status=live |archive-url=https://web.archive.org/web/20141018001534/http://www.popot.org/get_the_games.php?game=SDLPoP |archive-date=October 18, 2014}}</ref>
+|-
+|[[Roku|Roku (Streaming Box and Smart TV)]]
+|{{Start date|2016}}
+|colspan="2"|Marcelo Lv Cabral<ref>{{Cite web|url=https://github.com/lvcabral/Prince-of-Persia-Roku|title=lvcabral/Prince-of-Persia-Roku|website=GitHub|access-date=June 16, 2016}}</ref><ref>{{Cite web|url=http://forum.princed.org/viewtopic.php?f=74&t=3839 |title=PoP1 for Roku Set-Top Box - Prince of Persia |website=forum.princed.org |access-date=June 16, 2016 |url-status=live |archive-url=https://web.archive.org/web/20161009062019/http://forum.princed.org/viewtopic.php?f=74&t=3839 |archive-date=October 9, 2016}}</ref>
+|-
+|[[BBC Master]]
+|{{Start date|2018}}
+|colspan="2" |Kieran<ref name="BBC Master">{{cite web|url=https://bitshifters.github.io/posts/prods/bs-pop-beeb.html|publisher=Bitshifters|access-date=April 3, 2018|first=Kieran |last=Connell|title=Prince of Persia|url-status=live|archive-url=https://web.archive.org/web/20180401013018/https://bitshifters.github.io/posts/prods/bs-pop-beeb.html |archive-date=April 1, 2018}}</ref>
+|-
+|[[Atari 8-bit computers]]
+|{{Start date|2021}}
+|colspan="2" |rensoup<ref>{{Cite web|url=https://atariage.com/forums/topic/298914-unicorns-season-prince-of-persia-for-the-a8/|title = Unicorns season: Prince of Persia for the A8!|date=November 26, 2019 }}</ref>
+|-
+|[[JavaScript]]
+|2022
+| colspan="2" |Oliver Klemenz<ref>{{Cite web |date=2022-01-12 |title=You Can Play the Original 'Prince of Persia' on Your Apple Watch, No App Required |url=https://gizmodo.com/you-can-play-the-original-prince-of-persia-on-your-appl-1848344033 |access-date=2023-10-31 |website=Gizmodo |language=en}}</ref><ref>{{Cite web |title=PrinceJS |url=https://princejs.com/ |access-date=2023-10-31 |website=princejs.com}}</ref>
+|}
+
+==Reception==
+{{Video game reviews
+ | DOS = true
+ | MAC = true
+ | SMS = true
+ | PC = true
+ | SMD = true
+ | SNES = true
+ | Dragon_MAC = {{Rating|5|5}}<ref name="Dragon188">{{cite journal|url=https://annarchive.com/files/Drmg188.pdf |title=The Role of Computers |last1=Lesser |last2=Lesser |last3=Lesser |first1=Hartley |first2=Patricia |first3=Kirk |name-list-style=amp |journal=Dragon |issue=188 |date=December 1992 |pages=57–64 |url-status=live |archive-url=https://web.archive.org/web/20160321055648/http://annarchive.com/files/Drmg188.pdf |archive-date=March 21, 2016}}</ref>
+ | EGM_SMD = 32/40<ref name="EGM1998"/>
+ | Gen4_PC = 90%<ref name="Gen4">[http://amr.abime.net/review_45962 ''Prince of Persia'' review] {{webarchive|url=https://web.archive.org/web/20150509091319/http://amr.abime.net/review_45962 |date=May 9, 2015}}, ''Generation 4'', issue #25, September 1990</ref>
+ | rev1 = ''Adventure Classic Gaming''
+ | rev1_DOS = {{Rating|4|5}}<ref name="ACG189">{{cite web|url=http://www.adventureclassicgaming.com/index.php/site/reviews/189/ |title=Prince of Persia Review |date=February 19, 2006 |publisher=Jeremiah Kauffman |access-date=February 21, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130121032413/http://www.adventureclassicgaming.com/index.php/site/reviews/189/ |archive-date=January 21, 2013}}</ref>
+ | rev2 = ''[[Bad Influence!]]''
+ | rev2_SNES = {{Rating|8|10}}<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/F5vWyI-YwXw Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20211015071508/https://www.youtube.com/watch?v=F5vWyI-YwXw Wayback Machine]{{cbignore}}: {{Cite episode |title=Main Review: Prince of Persia (SNES) |url=https://www.youtube.com/watch?v=F5vWyI-YwXw |access-date=14 October 2021 |series=Bad Influence! |series-link=Bad Influence! |network=[[ITV (TV network)|ITV]] |station=[[CITV]] |date=14 January 1993 |series-no=1 |number=10 |time=5:08}}{{cbignore}}</ref>
+ | rev3 = ''[[MacWorld]]''
+ | rev3_MAC = {{Rating|4|5}}<ref name="PoP-Mac">{{cite journal|date=September 1992 |title=MacWorld 9209 |url=https://archive.org/stream/MacWorld_9209_September_1992#page/n301 |author=Steven A. Schwartz |quote=You'll be amazed by ''Prince of Persia''. |issue=9209 |page=292 |access-date=December 1, 2017}}</ref>
+ | rev4 = ''[[Mean Machines]]''
+ | rev4_SMS = 91%<ref name="PoP-MM">{{Cite magazine |title=''Prince of Persia'' - Sega Review |url=http://www.meanmachinesmag.co.uk/pdf/princeofpersiams.pdf |magazine=[[Mean Machines]] |issue=22 (July 1992) |date=27 June 1992 |page=90 |url-status=dead |archive-url=https://web.archive.org/web/20140403015259/http://www.meanmachinesmag.co.uk/pdf/princeofpersiams.pdf |archive-date=2014-04-03 |access-date=2021-09-09}}</ref>
+ | rev5 = ''Mega Guide''
+ | rev5_SMS = Positive<ref>{{cite news |editor1-last=Gregory |editor1-first=Mark |title=Persia Hits the Master System |url=https://archive.org/details/MEGA-guide/The%20Sun%20MEGA%20Guide%20%281992-11-28%29/page/n1/mode/1up |work=Mega Guide |date=28 November 1992 |page=2}}</ref>
+ | rev6 = ''[[MegaTech]]''
+ | rev6_SMD = 82%<ref>{{cite magazine |title=Game Index |magazine=[[MegaTech]] |date=31 May 1995 |issue=42 (June 1995) |pages=30–1 |url=https://archive.org/details/megatech-42/page/n29/mode/2up}}</ref>
+ | rev7 = ''[[Sega Force]]''
+ | rev7_SMS = 94%<ref name="PoP-SMS">{{cite journal|date=July 1992 |title=Sega Force Issue 7 |url=http://www.smspower.org/Scans/SegaForce-Magazine-Issue07?gallerypage=13 |quote="The best MS game we've seen for ages!" |issue=7 |page=13 |access-date=July 9, 2016 |url-status=live |archive-url=https://web.archive.org/web/20160823030011/http://www.smspower.org/Scans/SegaForce-Magazine-Issue07?gallerypage=13 |archive-date=August 23, 2016}}</ref>
+<!-- Awards -->
+ | award1Pub = ''[[MacUser]]''
+ | award1 = 1992 Eddy Award<ref name="PoP-92Award"/>
+ | award2Pub = ''[[Tilt (French magazine)|TILT!]]''
+ | award2 = 1992 Tilt d'Or<ref name="PoP-92Award">{{cite book |last1=Castro |first1=Radford |title=Let Me Play: Stories of Gaming and Emulation |url=https://books.google.com/books?id=D_xyy4fkwWIC&pg=PA218 |language=en |publisher=Hats Off Books |date=October 25, 2004 |page=218 |isbn=978-1587363498 |access-date=December 1, 2017}}</ref>
+}}
+
+''Prince of Persia'' received a positive critical reception, but was initially a commercial failure in North America, where it had sold only 7,000 units each on the Apple II and IBM PC by July 1990. It was when the game was released in Japan and Europe that year that it became a commercial success. In July 1990, the NEC PC-9801 version sold 10,000 units as soon as it was released in Japan. It was then ported to various different home computers and [[video game console]]s, eventually selling 2 million units worldwide by the time its sequel ''[[Prince of Persia 2: The Shadow and the Flame]]'' (1993) was in production.<ref name="hg101_pop">{{cite web|title=Prince of Persia |url=http://hardcoregaming101.net/princeofpersia/princeofpersia.htm |publisher=Hardcore Gaming 101 |access-date=June 22, 2012 |author=Kurt Kalata |author2=Sam Derboo |date=August 12, 2011 |url-status=live |archive-url=https://web.archive.org/web/20150501072416/http://www.hardcoregaming101.net/princeofpersia/princeofpersia.htm |archive-date=May 1, 2015}}</ref><ref name=pczone>{{cite journal | title=''Prince of Persia 3D'' | author=Pullin, Keith | journal=[[PC Zone]] | date=December 1999 | issue=83 | pages=91}}</ref><ref name=sages>{{cite book | author=Saltzman, Marc | title=Game Design: Secrets of the Sages, Second Edition | date=May 18, 2000 | publisher=[[Brady Games]] | isbn=1566869870 | pages=[https://archive.org/details/gamedesign00marc/page/410 410, 411] | url-access=registration | url=https://archive.org/details/gamedesign00marc/page/410}}</ref>
+
+[[Charles Ardai]] of ''[[Computer Gaming World]]'' wrote that the game package's claim that it "breaks new ground with animation so uncannily human it must be seen to be believed" was true. He wrote that ''Prince of Persia'' "succeeds at being more than a running-jumping game (in other words, a gussied-up [[Nintendo]] game)" because it "captures the ''feel'' of those great old adventure films", citing ''[[The Thief of Bagdad (1940 film)|Thief of Baghdad]]'', ''[[Frankenstein (1931 film)|Frankenstein]]'', and ''[[Dracula (1958 film)|Dracula]]''. Ardai concluded that it was "a tremendous achievement" in games comparable to that of ''[[Star Wars Episode IV: A New Hope|Star Wars]]'' in film.<ref name="ardai198912">{{cite magazine | title=Good Knight, Sweet Prince | magazine=[[Computer Gaming World]] | date=December 1989 | access-date=November 4, 2013 | last=Ardai | first=Charles | authorlink=Charles Ardai | pages=48 & 64 | url=http://www.cgwmuseum.org/galleries/index.php?year=1989&pub=2&id=66 | url-status=live | archive-url=https://web.archive.org/web/20130510165414/http://www.cgwmuseum.org/galleries/index.php?year=1989&pub=2&id=66 | archive-date=May 10, 2013 | issue = 66}}</ref>
+
+In 1991, the game was ranked the 12th best Amiga game of all time by ''[[Amiga Power]]''.<ref>{{cite web|series=''Amiga Power'' magazine |issue=#0 |publisher=[[Future Publishing]] |date=May 1991 |page=6 |url=http://amr.abime.net/review_713 |access-date=May 30, 2013 |title=All-Time Top 100 Games |url-status=live |archive-url=https://web.archive.org/web/20120104101545/http://amr.abime.net/review_713 |archive-date=January 4, 2012}}</ref> In 1992, ''[[The New York Times]]'' described the Macintosh version as having "brilliant" graphics and "excellent" sound.<ref name="shannon19920811">{{cite news|url=https://www.nytimes.com/1992/08/11/science/peripherals-playing-at-war-once-removed.html |title=Playing at War, Once Removed |work=The New York Times |date=August 11, 1992 |access-date=July 5, 2014 |author=Shannon, L. R. |url-status=live |archive-url=https://web.archive.org/web/20140715173303/http://www.nytimes.com/1992/08/11/science/peripherals-playing-at-war-once-removed.html |archive-date=July 15, 2014}}</ref> Reviewing the Genesis version, ''[[GamePro]]'' praised the "extremely fluid" animation of the player character and commented that the controls are difficult to master but nonetheless very effective. Comparing it to the Super NES version, they summarized that "the Genesis version has better graphics, and the SNES has better music. Otherwise, the two are identical in almost every way ..."<ref>{{cite magazine|title=ProReview: Prince of Persia|magazine=[[GamePro]]|issue=67|publisher=[[International Data Group|IDG]]|date=April 1994|page=30}}</ref> ''[[Electronic Gaming Monthly]]'' (''EGM'') likewise assessed the Genesis version as "an excellent conversion of the classic action game", and added that the game's challenging strategy and technique give it high longevity.<ref name="EGM56">{{cite magazine|title=Review Crew: Prince of Persia|magazine=[[Electronic Gaming Monthly]]|issue=56|publisher=Sendai Publishing|date=March 1994|page=38}}</ref> ''EGM''{{'}}s panel of four reviewers each gave it a rating of 8 out of 10, adding up to an overall score of 32 out of 40.<ref name="EGM1998">''[[Electronic Gaming Monthly]]'', 1998 Video Game Buyer's Guide, p. 86</ref>
+
+In 1991, ''[[PC Format]]'' named ''Prince of Persia'' one of the 50 best computer games ever, highlighting its "unbelievably good animation".<ref name=pcformat50>{{cite journal | author=Staff | journal=[[PC Format]] | title=The 50 best games EVER! | date=October 1991 | issue=1 | pages=109–111}}</ref> In 1996, ''Computer Gaming World'' named ''Prince of Persia'' the 84th best game ever, with the editors calling it "an acrobatic platformer with amazingly fluid action".<ref name="cgw150">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | access-date=March 25, 2016 | pages=64–80 | url-status=live | archive-url=https://web.archive.org/web/20160408023915/http://cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | archive-date=April 8, 2016}}</ref> In 1995, ''[[Flux (magazine)|Flux]]'' ranked the game 42nd on their Top 100 Video Games.<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=30}}</ref>
+
+==Legacy==
+''Prince of Persia'' influenced cinematic platformers such as ''[[Another World (video game)|Another World]]'' and ''[[Flashback (1992 video game)|Flashback]]'' as well as [[action-adventure game]]s such as ''[[Tomb Raider]]'',<ref name="hg101_pop"/> which used a similar control scheme.<ref name="tombraider history">Blache, Fabian & Fielder, Lauren, [https://web.archive.org/web/20090306234224/http://www.gamespot.com/features/tombraider_hist/p4_01.html History of Tomb Raider], GameSpot, Accessed April 1, 2009</ref> A few DOS games were created using exactly the same game mechanics of the DOS version of ''Prince of Persia''. Makh-Shevet created ''Cruel World'' in 1993 and [[Capstone Software]] created ''[[Zorro (1995 video game)|Zorro]]'' in 1995.<ref>{{cite web|url=http://www.classicdosgames.com/game/Zorro.html |title=Zorro |publisher=RGB Classic Games |access-date=October 11, 2015 |url-status=live |archive-url=https://web.archive.org/web/20150910012341/http://www.classicdosgames.com/game/Zorro.html |archive-date=September 10, 2015}}</ref>
+
+''Prince of Persia'' was remade and ported by [[Gameloft]]. The [[Video game remake|remake]], titled ''[[Prince of Persia Classic (2007 video game)|Prince of Persia Classic]]'', was released on June 13, 2007, to the [[Xbox Live Arcade]], and on October 23, 2008, on the [[PlayStation Network]]. It features the same level design and general premise but contained 3D-rendered graphics, more fluid movements, and ''Sands of Time'' aesthetics.<ref>[http://www.1up.com/reviews/prince-persia-classic Review of ''Prince of Persia'' remake] by Nick Suttner, June 13, 2007, 1Up.com</ref> The gameplay and controls were slightly adjusted to include a wall-jump move and different swordplay. New game modes were also added, such as "Time Attack" and "Survival".<ref>{{cite web|title=Xboxic Classic review |url=http://www.xboxic.com/news/3057 |publisher=Xboxic |url-status=live |archive-url=https://web.archive.org/web/20081206042555/http://www.xboxic.com/news/3057 |archive-date=December 6, 2008}}</ref>  The game has also been released on Android.<ref>{{cite web|title=Prince of Persia Classic |url=https://play.google.com/store/apps/details?id=org.ubisoft.premium.POPClassic&hl=en |publisher=Ubisoft/Google |url-status=live |archive-url=https://web.archive.org/web/20130522094301/https://play.google.com/store/apps/details?id=org.ubisoft.premium.POPClassic&hl=en |archive-date=May 22, 2013}}</ref>
+
+[[Reverse coding|Reverse engineering]] efforts by [[Fan (person)|fans]] of the original game have resulted in detailed documentation of the [[file format]]s of the MS-DOS version.<ref>{{cite web|url=http://www.princed.org/content/files/documentation/FormatSpecifications.pdf |title=Prince of Persia Specifications of File Formats |publisher=Princed Development Team |date=January 5, 2008 |access-date=May 7, 2011 |url-status=live |archive-url=https://web.archive.org/web/20111002090519/http://www.princed.org/content/files/documentation/FormatSpecifications.pdf |archive-date=October 2, 2011}}</ref> Various [[level editor]]s have been created that can be used to modify the level files of the game.<ref>{{cite web|url=http://www.popot.org/level_editors.php |title=Modding Community; Level Editors |publisher=PoPOT.org |access-date=May 7, 2011 |url-status=live |archive-url=https://web.archive.org/web/20111207163616/http://www.popot.org/level_editors.php |archive-date=December 7, 2011}}</ref> With these editors and other software, over 60 [[Mod (video gaming)|mods]] have been created.<ref>{{cite web|url=http://www.popot.org/custom_levels.php |title=Modding Community; Custom Levels |publisher=PoPOT.org |access-date=May 7, 2011 |url-status=live |archive-url=https://web.archive.org/web/20111206184604/http://www.popot.org/custom_levels.php |archive-date=December 6, 2011}}</ref>
+
+In April 2012, Jordan Mechner established a [[GitHub]] repository<ref>[https://github.com/jmechner/Prince-of-Persia-Apple-II ''Prince of Persia'' Apple II] {{webarchive|url=https://web.archive.org/web/20121230172248/https://github.com/jmechner/Prince-of-Persia-Apple-II |date=December 30, 2012}} on github.com/jmechner</ref> containing the long-thought-lost<ref name="1up2012">{{cite web |url=http://www.1up.com/features/missing-notable-games-lost-to-time |title=Among the Missing: Notable Games Lost to Time |date=October 17, 2012 |access-date=June 19, 2015 |first=Todd |last=Ciolek |publisher=[[1up.com]] |quote=''Prince of Persia'' creator Jordan Mechner believed that the source code to the game's original Apple II version was gone when he failed to find it in 2002. Ten years later, Mechner's father uncovered a box of old games at the family home, and among them were disks containing ''Prince of Persia''{{'}}s bedrock program. |url-status=dead |archive-url=https://archive.today/20151026024831/http://www.1up.com/features/missing-notable-games-lost-to-time |archive-date=October 26, 2015}}</ref> original Apple II [[source code]] for ''Prince of Persia''.<ref>{{cite web|publisher=joystiq.com |first=JC |last=Fletcher |url=http://www.joystiq.com/2012/04/17/prince-of-persia-source-code-successfully-rescued/ |title=Prince of Persia source code successfully rescued |access-date=December 23, 2012 |date=April 17, 2012 |url-status=live |archive-url=https://web.archive.org/web/20121027082409/http://www.joystiq.com/2012/04/17/prince-of-persia-source-code-successfully-rescued/ |archive-date=October 27, 2012}}</ref><ref>{{cite magazine|last=Mastrapa |first=Gus |title=The Geeks Who Saved Prince of Persia's Source Code From Digital Death |magazine=[[Wired (magazine)|Wired]] |date=April 20, 2012 |url=https://www.wired.com/gamelife/2012/04/prince-of-persia-source-code/ |access-date=December 23, 2012 |url-status=live |archive-url=https://web.archive.org/web/20121208145629/http://www.wired.com/gamelife/2012/04/prince-of-persia-source-code |archive-date=December 8, 2012}}</ref> A technical document describing the operation of this source code is available on Mechner's website.<ref name="Technical">{{cite web|url=http://www.jordanmechner.com/downloads/popsource.pdf |title=Prince of Persia Technical Information |date=October 12, 1989 |access-date=October 6, 2014 |last=Mechner |first=Jordan |url-status=live |archive-url=https://web.archive.org/web/20141006222454/http://www.jordanmechner.com/downloads/popsource.pdf |archive-date=October 6, 2014}}</ref>
+
+In April 2020, Mechner did an [[r/IAmA|AMA]] on [[Reddit]] where he stated that he would be releasing his journals from the development of the game as a book and users could ask any questions that they may have about the game to him.<ref>{{cite web|url=https://www.reddit.com/r/IAmA/comments/gaxsgh/im_jordan_mechner_thirty_years_ago_i_made_a_game/|title=I'm Jordan Mechner. Thirty years ago, I made a game called ''Prince of Persia''. Now I'm releasing my 1980s game-dev journals as a book. AMA!|date=April 30, 2020}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.jordanmechner.com/en/games-movies/prince-of-persia/ ''Prince of Persia''] on game designer Jordan Mechner's official website
+* [https://www.jordanmechner.com/en/books/journals/ ''The Making of Prince of Persia''] on game designer Jordan Mechner's official website
+* {{moby game|id=/prince-of-persia|name=''Prince of Persia''}}
+* {{Internet Archive game|msdos_Prince_of_Persia_1990}}
+* [http://popuw.com/index1.html ''Prince of Persia 1'' page] at PoPUW.com
+* {{YouTube|sw0VfmXKq54|How ''Prince of Persia'' Defeated Apple II's Memory Limitations}}
+
+{{Prince of Persia series}}
+{{Authority control}}
+
+{{DEFAULTSORT:Prince Of Persia (1989 Video Game)}}
+[[Category:1989 video games]]
+[[Category:Action-adventure games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Broderbund games]]
+[[Category:Cinematic platformers]]
+[[Category:Classic Mac OS games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Domark games]]
+[[Category:DOS games]]
+[[Category:FM Towns games]]
+[[Category:Game Boy Color games]]
+[[Category:Game Boy games]]
+[[Category:Game Gear games]]
+[[Category:IOS games]]
+[[Category:Konami games]]
+[[Category:Master System games]]
+[[Category:Mobile games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Platformers]]
+[[Category:PlayStation Network games]]
+[[Category:Presage Software games]]
+[[Category:Prince of Persia games]]
+[[Category:Red Orb Entertainment games]]
+[[Category:Riverhillsoft games]]
+[[Category:SAM Coupé games]]
+[[Category:Sega CD games]]
+[[Category:Sega Genesis games]]
+[[Category:X68000 games]]
+[[Category:Single-player video games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:TurboGrafx-CD games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Mark Cooksey]]
+[[Category:Video games scored by Tommy Tallarico]]
+[[Category:Video games set in Iran]]
+[[Category:Video games with alternative versions]]
+[[Category:Video games with oblique graphics]]
+[[Category:Video games with rotoscoped graphics]]
+[[Category:Virgin Interactive games]]
+[[Category:Virtual Console games]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:ZX Spectrum games]]
+[[Category:Arsys Software games]]

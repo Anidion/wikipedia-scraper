@@ -1,0 +1,57 @@
+Rip Off (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Rip_Off_%28video_game%29&oldid=1224239563
+Accessed on: 2024-06-26T16:51:51.426632
+
+
+
+------
+Rip Off (video game)
+{{Short description|1980 video game}}
+{{about|the 1980 arcade game|other uses|rip off (disambiguation)}}
+{{Infobox video game
+|title = Rip Off
+|image = Rip Off cover.jpg
+|caption=
+|developer = [[Cinematronics]]
+|publisher = [[Cinematronics]]
+|designer = [[Tim Skelly]]
+|release = '''Arcade'''<br>1980<br>'''Vectrex'''{{vgrelease|NA|1982}}{{vgrelease|EU|1983}}
+|platforms= [[Arcade video game|Arcade]], [[Vectrex]]
+|genre = [[Multidirectional shooter]]
+|modes = [[Single-player video game|Single-player]], 2 player [[Cooperative video game|co-op]]
+}}
+
+'''''Rip Off''''' is a [[multidirectional shooter]] with black and white [[vector graphics]] written by [[Tim Skelly]] and released as an arcade video game by [[Cinematronics]] in 1980. It was the first shooter with [[Cooperative video game|cooperative gameplay]]<ref name="hdays"/> and an early game to exhibit [[flocking (behavior)|flocking behavior]]. A port for the [[Vectrex]] was published in 1982.
+
+The objective of ''Rip Off'' is to prevent computer-controlled enemies from stealing eight canisters at the center of the screen. One or two players control tank-like vehicles while game-controlled "pirate" tanks rush onto the field and attempt to drag the canisters off the edge of the screen.  Enemies can be defeated by shooting or colliding with them.  The game speed and difficulty increase with each successive wave until all the canisters have been taken ("ripped off").
+
+==Gameplay==
+[[File:Rip-Off_(video_game).jpg|thumb|left|Gameplay screenshot]]
+
+One or two players attempt to protect fuel canisters from groups of invading pirate tanks that appear from the edges of the screen. There are six styles of pirate tanks in the game worth 10 to 60 points each. The value of each style is determined by its speed and strategy. Low point value tanks are very slow and generally head directly for the fuel. Higher point tanks are much faster and may work together to lure a player to destruction.<ref>{{KLOV game|id=9326}}</ref>
+
+Higher-level pirate tanks are armed with short-range lasers, while player tanks (at all levels) are equipped with a cannon.<ref>{{cite web |title=Rip Off (1980) |url=https://www.mobygames.com/game/rip-off |website=MobyGames |access-date=3 September 2022}}</ref> Invading tanks are destroyed when they are hit by a cannon shot or by a collision with a player's tank. There is no penalty to the player for destroying enemy tanks this way except for the brief period of time he is out of the game. When playing a two-player game, it is not possible to shoot the other player, although you will both be destroyed if your tanks collide.
+
+The game is organized into waves and bonus levels. Two or three enemy tanks attack in each wave. A wave ends when all the pirate tanks have either been destroyed by the players or have dragged a fuel canister off the screen. After a number of waves, the bonus level increases 10, 20 etc. and another round begins, starting with 10-point tanks. Each successive round is slightly faster and harder than the one before it. The bonus level gives additional points for each enemy tank destroyed. The game proceeds in this manner until all fuel canisters have been "ripped off" by the pirate tanks.<ref>{{cite web |title=Rip Off, Arcade Video game by Cinematronics, Inc. (1980) |url=https://www.arcade-history.com/?n=rip-off&page=detail&id=2229 |website=Arcade History |access-date=3 September 2022}}</ref>
+
+==Legacy==
+''Rip Off'' was cloned as ''Bacterion!'', published in 1984 as a [[type-in program]] for the [[Atari 8-bit computers]].<ref name=peacock>{{cite journal|last1=Peacock|first1=Kyle|title=Bacterion!|journal=[[ANALOG Computing]]|date=July 1984|issue=20|page=35|url=https://archive.org/details/analog-computing-magazine-20/page/n35/mode/2up}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="hdays">{{cite book|last1=Hague|first1=James|title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers|date=1997|url=https://www.dadgum.com/halcyon/BOOK/SKELLY.HTM}}</ref>
+}}
+
+==External links==
+*{{KLOV game|id=9326|name=Rip Off}}
+*[http://www.red3d.com/cwr/boids/RipOff_Flocking.html Development notes] from Tim Skelly (2001)
+
+[[Category:1980 video games]]
+[[Category:Arcade video games]]
+[[Category:Cinematronics games]]
+[[Category:Multidirectional shooters]]
+[[Category:Vector arcade video games]]
+[[Category:Vectrex games]]
+[[Category:Video games about pirates]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

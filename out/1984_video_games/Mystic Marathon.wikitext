@@ -1,0 +1,57 @@
+Mystic Marathon
+Permalink: //en.wikipedia.org/w/index.php?title=Mystic_Marathon&oldid=1219087717
+Accessed on: 2024-06-26T16:57:13.384048
+
+
+
+------
+Mystic Marathon
+{{Short description|1984 arcade game}}
+{{Infobox video game
+| title = Mystic Marathon
+| image = Mystic Marathon cover.png
+| released = {{Video game release|NA|March 1984<ref name=ah/>}}
+| designer = Kristina Donofrio
+| programmer = Kristina Donofrio<br>Ken Graham
+| artist = Pam Erickson<br>Jill Chittenden <ref name="Arcade History">{{cite web|title=Mystic Marathon artists|url=https://www.arcade-history.com/?n=mystic-marathon&page=detail&id=1715}}</ref>
+| publisher = Williams Electronics
+| developer = [[WMS Industries|Williams Electronics]]
+| platforms = [[Arcade video game|Arcade]]
+| genre = [[Action video game|Action]]
+| modes = [[Single-player video game|Single-player]]
+| arcade system = Williams 6809 REV.2<ref name="system16">{{cite web|title=WILLIAMS 6809 REV.2 HARDWARE|url=http://www.system16.com/hardware.php?id=599|website=System 16: The Arcade Museum}}</ref>
+}}
+
+'''''Mystic Marathon'''''  is a horizontally scrolling [[arcade video game]] released by [[WMS Industries|Williams Electronics]] in 1984. The game presents a race between horned, shoe-wearing, fantasy creatures called "Benkins" on a course covering small islands and the water between them.<ref name="tomheroes">{{cite web|title=Mystic Marathon|url=http://www.tomheroes.com/Video%20Games%20FS/Arcade/Reviews/mystic_marathon.htm|website=Tomorrow's Heroes}}</ref> It was programmed by Kristina Donofrio (lead) and Ken Graham.<ref name="klov">{{cite web|title=Mystic Marathon|url=http://www.arcade-museum.com/game_detail.php?game_id=8803|website=Killer List of Video Games}}</ref> Donofrio later worked on ''[[Joust 2: Survival of the Fittest]]''.<ref name="giantlist">{{cite web |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+
+The game was only available as a conversion kit for Williams games with horizontal monitors, marking the first such kit from the company.<ref name="flyer">{{cite web|title=Mystic Marathon Flyer|url=http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=710&image=2|website=The Arcade Flyer Archive|publisher=Williams Electronics}}</ref><ref name="cashbox">{{cite journal |title=Williams Announces First Conversions |journal=Cash Box |date=March 24, 1984 |page=40 |url=https://archive.org/details/cashbox46unse_8/page/40?q=mystic+marathon}}</ref> Three versions were released: one for ''[[Defender (1981 video game)|Defender]]''; one for ''[[Joust (video game)|Joust]]'', ''[[Robotron: 2084]]'', and ''[[Stargate (1981 video game)|Stargate]]''; and one for ''[[Bubbles (video game)|Bubbles]]''.<ref name="manual">{{cite web|title=Mystic Marathon Manual|url=http://gamesdbase.com/Media/SYSTEM/Arcade/Manual/formated/Mystic_Marathon_-_1983_-_Williams,_Inc..pdf|website=gamesdbase.com|publisher=Williams Electronics}}</ref> 500 conversion kits were produced in total along with 5 dedicated cabinet prototypes. 
+
+''Mystic Marathon'' was released in the year following the [[video game crash of 1983]] alongside ''Turkey Shoot'' and ''Inferno'', none of which were as successful as earlier games from Williams or ported to contemporary home systems.
+
+==Development==
+''Mystic Marathon'' was developed by [[Williams Electronics]], with Kristina Donofrio as the lead designer and programmer, Ken Graham as the secondary programmer, with input from [[Python Anghelo]] and [[Noah Falstein]].<ref name="klov">{{cite web|title=Mystic Marathon|url=http://www.arcade-museum.com/game_detail.php?game_id=8803|website=Killer List of Video Games}}</ref> Donofrio had previously worked on Williams pinball games as a sound engineer;<ref name="pinside">{{cite web|title=Kristinia Donofrio gameography|url=https://pinside.com/pinball/machine/kristina-donofrio|website=Pinside}}</ref> Graham did additional programming for other Williams games including ''[[Sinistar]]'' and ''[[Bubbles (video game)|Bubbles]]''. Graham's primary responsibility on ''Mystic Marathon'' was to generate the backgrounds and sprites. It was the first game for Williams 6809 REV.2 hardware. The sound synthesis is reused from Williams System 7 hardware.<ref name="nantucket">{{cite web|title=Interview with Ken Graham|url=https://nantucketebooks.com/ebooks/atgonzalez/Interview_With_Ken_Graham.html|website=Nantucket E-Books}}</ref>
+
+==Gameplay==
+The game is a left-to-right footrace between the player-controlled an elf-like creature (a "Benkin") and six other Benkins controlled by the computer. The goal is to finish in the top three to progress to the next race. A radar at the top of the screen shows the entire course and position of the contestants.
+
+Each island contains multiple paths, and the creatures have to swim the [[water]] between the [[island]]s, which is slower than running.<ref name="tomheroes"/> Many obstacles slow the creatures down, including [[apple]]-throwing [[tree]]s, [[lightning]], [[sea monster]]s, [[giant clam]]s, and sinkholes. There are also ways to move forward quickly, such as a [[hand]] that throws a character and [[cave]]s that warp the creature to the exit. In addition to a [[joystick]] for movement, there is a jump button.
+
+==Emulation==
+When emulated via [[MAME]], the colors are displayed incorrectly. The sky and water are shades of blue in the actual game, but magenta and violet under MAME, and the rocks are pink instead of gray.<ref name="klov"/><ref>{{cite web|title=Mystic marathon colors wrong|url=http://www.mameworld.info/ubbthreads/showthreaded.php?Cat=&Number=344896&page=6&view=expanded&sb=5&o=&fpart=1&vc=1|website=MAMEWorld Forums|date=September 9, 2015}}</ref> Most of the screenshots and video of ''Mystic Marathon'' on the web were taken from MAME with incorrect colors.
+
+==References==
+{{reflist|refs=
+<ref name="ah">{{cite web |title=Mystic Marathon |url=https://www.arcade-history.com/?n=mystic-marathon&page=detail&id=1715 |website=Arcade History}}</ref>
+}}
+
+==External links==
+*{{internet archive game|arcade_mysticm}}. This version also has incorrect colors.
+
+[[Category:1984 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Action games]]
+[[Category:Assembly language software]]
+[[Category:Video games developed in the United States]]
+[[Category:Williams video games]]
+[[Category:Single-player video games]]

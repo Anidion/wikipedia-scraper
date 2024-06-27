@@ -1,0 +1,60 @@
+Felix and the Fruit Monsters
+Permalink: //en.wikipedia.org/w/index.php?title=Felix_and_the_Fruit_Monsters&oldid=1120988150
+Accessed on: 2024-06-26T16:54:59.463061
+
+
+
+------
+Felix and the Fruit Monsters
+{{Infobox video game
+| title  =
+|image = Felix-fruit-electron.jpg
+|developer = 
+|publisher = [[Micro Power]]
+|programmer = John Chaytor<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|engine = 
+|released = [[1983 in video gaming|1983]]
+|genre = [[List of maze video games|Maze]]
+|modes = [[Single-player]]
+|platforms = [[Acorn Electron]], [[BBC Micro]]
+}}
+'''''Felix and the Fruit Monsters''''' is a [[video game]] written by John Chaytor and released by [[Micro Power]] for the [[BBC Micro]] and [[Acorn Electron]] in 1983. A sequel to platformer ''[[Felix in the Factory]]'', it is a maze game resembling ''[[Pac-Man]]'', but with different gameplay.
+
+==Gameplay==
+[[File:Felix-fruit-bbc.png|thumb|left|BBC Micro version. The monster in the top corner has gone through one mutation]]
+
+While using the same character as ''Felix in the Factory'', the gameplay bears no relation to that [[platform game]], instead taking the form of a [[maze game]]. The game is set out like a typical ''Pac-Man'' clone but plays very differently. The maze design is very similar with the four monsters emerging from a central cave and four power cells in the corners but there are no dots in the maze. There are pieces of fruit that float freely around the maze (except for the first level on the BBC Micro version where the fruit is static). The object of the game is to stop the monsters eating all of the fruit until the timer (shown as a bar at the top of the screen) runs out.
+
+As well as moving around the maze, the player can pick up and drop fruit (to move it away from the monsters), drop pools of [[ether]] that stop the monsters for a short time (only two pools are allowed on screen at a time) and trigger a magnetic pad that sends all of the monsters back to [[Spawning (video gaming)|their cave]] (which can only be done 3 times per game). Dropping pools, monsters being held in the pools and triggering the pad reduce Felix's energy bar (shown under the monsters' cave). Energy can be replenished by eating one of the power cells.
+
+If a monster runs into a piece of fruit, it pauses while it absorbs the fruit then mutates into a more dangerous monster. If Felix runs into a monster or his energy is fully depleted, a life is lost. If the last piece of fruit is eaten by a monster, it is [[game over]]. If there is still fruit left when the timer runs out, the level is complete and a new level begins with increased difficulty as there is more fruit to protect and some of the monsters are already mutated.
+
+The score increases gradually as the time runs down and much more quickly if a monster is being held in a pool. Points are also awarded for picking up a power cell and, on completing a level, a bonus is awarded for the fruit remaining and the amount of energy remaining. An extra life is awarded at 10,000 points.<ref name="instructions">[http://www.8bs.com/elecgame/felix_and_the_fruit_monsters.htm Original instructions] reproduced at 8bs.com (retrieved 2011-11-09)</ref>
+
+==Release==
+The game was released for the [[BBC Micro]] as a follow-up to the platform game ''[[Felix in the Factory]]'' in 1983. It was also ported to the [[Acorn Electron]] as one of [[Micro Power]]'s launch titles for that machine (along with the first Felix game), also in 1983. Unlike the original game, it was not released on [[floppy disk]] for the BBC (as a stand-alone release) or converted to any other systems.
+
+==Reception==
+The game was not as well received as the first Felix game with complaints including the odd choice of keys,<ref name="magic">[http://www.acornelectron.co.uk/eug/revs/micropower/r-mpm2.html Micro Power Magic 2] {{Webarchive|url=https://web.archive.org/web/20120208052124/http://www.acornelectron.co.uk/eug/revs/micropower/r-mpm2.html |date=2012-02-08 }} review, Dave E, EUG #58, Electron User Group</ref> such as using the down cursor key to move right (although this layout was also used in the first game), and the difficulty of actually keeping the fruit from the monsters, who move quickly around the maze.<ref name="pres">[http://www.acornelectron.co.uk/eug/revs/acp_pres/r-pre2.html PRES Games Disc 2] {{Webarchive|url=https://web.archive.org/web/20090108041216/http://www.acornelectron.co.uk/eug/revs/acp_pres/r-pre2.html |date=2009-01-08 }} review, Dave E, EUG #47, Electron User Group</ref><ref name="beebgames">[http://www.beebgames.com/games.php?company=2&start=21 Micro Power] at BBC Games Archive</ref> Dave E of the Electron User Group praised the [[Sprite (computer graphics)|sprites]], as used in the first game, but claimed the game "lacks any 'oomph'".<ref name="magic" />
+
+==Legacy==
+The game was later included on the ''Micro Power Magic 2'' compilation (BBC and Electron) and the ''PRES Games Disc 2'' (Electron).
+
+A third Felix game was released in 1984, ''Felix Meets the Evil Weevils'', but this reverts to being a factory-set platform game, not continuing any themes from this game.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://archive.today/20130419112420/http://www.acornelectron.co.uk/info/micropower/i-fel2.html Felix and the Fruit Monsters] at ''Acorn Electron World''
+
+{{Micro Power}}
+
+[[Category:1983 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Maze games]]
+[[Category:Micro Power games]]
+[[Category:Single-player video games]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United Kingdom]]

@@ -1,0 +1,63 @@
+The Pharaoh's Curse (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Pharaoh%27s_Curse_%28video_game%29&oldid=1224498767
+Accessed on: 2024-06-26T16:55:35.636595
+
+
+
+------
+The Pharaoh's Curse (video game)
+{{Short description|1983 video game}}
+{{Infobox video game
+|title = The Pharaoh's Curse
+|image =Pharaoh's Curse  Cover.jpg
+|caption =
+|publisher = [[Synapse Software]]<br>[[Human Engineered Software|HES]] (VIC)
+|designer = Steve Coleman<ref name=giantlist/>
+|programmer = '''Atari 8-bit'''<br>Steve Coleman<br>'''Commodore 64'''<br>Jason Hyatt<ref name=giantlist/><br>'''VIC-20'''<br>Alick Dziabczenko<ref name=giantlist/>
+|released = 1983
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]], [[VIC-20]]
+}}
+
+'''''The Pharaoh's Curse''''' is a [[Platform game|platform]] adventure game written by Steve Coleman and published by [[Synapse Software]] in 1983 for [[Atari 8-bit computers]]. It was ported to the [[Commodore 64]] and [[VIC-20]], with the VIC version published by [[Human Engineered Software]]. Coleman also wrote ''[[Rainbow Walker]]'' for Synapse, published the same year.<ref name=giantlist/>
+
+The player attempts to collect 16 treasures from an Egyptian tomb while avoiding the pharaoh, his mummy, and various traps. John Szczepaniak, writing for ''[[GamesTM]]'' magazine, called ''The Pharaoh's Curse'' an early example of what later became known as the [[Metroidvania]] genre.<ref>{{cite news|last=Szczepaniak |first=John |title=Backtracking: The History of Metroidvania|work=[[GamesTM]]|issue=116|publisher=[[Imagine Publishing]]|pages=148–53}}</ref>
+
+== Gameplay==
+[[Image:Pharaohs curse ingame.png|thumb|left|The hero waits at the top of the screen for a trap to return into the ground before retrieving the treasure to the right. The Pharaoh is at the bottom, the Winged Avenger to the right of the treasure.]]
+
+''The Pharaoh's Curse'' world is a 16 cave-like rooms in a 4 by 4 layout, using the [[flip screen]] technique of moving between them.
+
+The game opens with the player on a title screen, and they start the game by running onto the entrance, a pit, and falling into the tombs below. The player can drop any distance without harm, and can climb back up on the ropes or elevator-like moving platforms that appear on most screens. Each of the rooms contains one of 16 treasures, which provide an extra life when they are retrieved. A display along the top of the screen indicates which treasures still had to be collected.
+
+While playing, two opponents appear regularly, the pharaoh and the mummy, which then chase the player. The player can shoot them, and they both shoot back at a much slower rate. Traps in the map, triggered by walking over visible triggers, tend to be more dangerous. Some triggers are positioned on the tops of elevators or the bottom of drops, making fast action required. Some of the rooms are sealed from each other using magic gates. These can be opened with keys that appear randomly around the map. Lastly, there is a flying creature, the Winged Avenger, which picks the player on contact, carries him through the screens and drops him somewhere. The Avenger can carry the player to areas that are otherwise unavailable due to the layout or a lack of keys.
+
+Once all treasures have been collected, the player must escape back to the starting screen. Subsequently, they receive a level password and the game restarts in a higher of the four difficulty levels.
+
+==Reception==
+''[[Antic (magazine)|Antic]]'' gave the game a favorable review, saying "''Pharaoh's Curse'' will appeal to all computerists and gamesters... It's another winner from Synapse."<ref>{{cite journal |first=Roy |last=Wolford |title=The Pharaoh's Curse |url=http://www.atarimagazines.com/v2n4/productreviews.html |journal=Antic |date=July 1983}}</ref> ''HI-Res'' said "This ''[[Tutankham]]'' takeoff is marvelous and the Joystick capability is magnificent."<ref name="hires">{{cite journal |first=Reid |last=Nicholson |title=Pharaoh's Curse |url=http://www.atarimagazines.com/hi-res/v1n4/reviews.php |journal=Hi-Res |date=May–June 1984 |page=14}}</ref> ''[[Personal Computer Games]]'' gave the VIC-20 version an 8 out of 10 rating, saying "The basic idea behind ''Pharaoh's Curse'' isn't particularly new, but there are enough original touches to give a unique feel to the game. The program is visually attractive, easy to grasp, and great fun to play."<ref>{{cite journal |title=VIC-20: Pharaoh's Curse |journal= Personal Computer Games |date=1984}}</ref> They later awarded it the title of VIC-20 game of the year.<ref>{{cite journal |title=Game of the Year |url=https://archive.org/stream/personalcomputergames-magazine-14/PersonalComputerGames_14_djvu.txt |journal= Personal Computer Games |date=January 1985 |page=36}}</ref>
+
+In 2014, Josh Despain writing for ''Defunct Games'' gave it a B grade, saying it held a special place in his heart and that "I remember an ever-present desire to play this game whenever I had the chance."<ref>{{cite web |first=Josh |last=Despain |title=Pharaoh's Curse |date=14 January 2014 |url=http://www.defunctgames.com/review/1182/pharaohs-curse |website=Defunct Games}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+== External links ==
+*{{atarimania|id=3937}}
+*{{lemon64 game|id=1923|name=The Pharaoh's Curse}}
+
+{{DEFAULTSORT:Pharaoh's Curse, The (video game)}}
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Human Engineered Software games]]
+[[Category:Platformers]]
+[[Category:Single-player video games]]
+[[Category:Synapse Software games]]
+[[Category:VIC-20 games]]
+[[Category:Video games based on Egyptian mythology]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Egypt]]

@@ -1,0 +1,69 @@
+Mr. Cool (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Mr._Cool_%28video_game%29&oldid=1224691865
+Accessed on: 2024-06-26T16:55:25.303331
+
+
+
+------
+Mr. Cool (video game)
+{{short description|1983 video game}}
+{{Use mdy dates|date=May 2022}}
+
+{{Infobox video game
+| title = Mr. Cool
+| image = Mr._Cool_Cover_Art.jpg
+| caption = 
+| released = 1983
+| designer = [[Peter Oliphant]]
+| programmer = '''Atari 8-bit, C64'''<br>Peter Oliphant<br>'''Apple II, IBM PC'''<br>John Redekopp
+| composer = 
+| publisher = [[Sierra On-Line]]
+| developer = 
+| platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]]
+| genre = [[Action game|Action]]
+}}
+
+'''''Mr. Cool''''' is an [[action game]] designed by [[Peter Oliphant]] and published in 1983 by [[Sierra On-Line]] for the [[Atari 8-bit computers]] and [[Commodore 64]] home computers.<ref name="giantlist"/> The ports for the [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]) and [[Apple II]] were written by John Redekopp and released the same year.<ref name="giantlist"/> The game is heavily inspired by the 1982 arcade video game ''[[Q*bert]]''.
+
+==Gameplay==
+[[File:Mr._Cool_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot (Atari 8-bit)]]
+
+The player controls an ice cube (titular Mr. Cool) starting each game at the top of a seven-tiered pyramid of hot plates. He must jump diagonally from plate to plate and turn them all to the same color. At first only one touching of each plate is required, but on subsequent levels two or more landings on each plate are needed. The many obstacles the player must avoid include fireballs and hot springs dropping from the top and bouncing to the bottom of a pyramid. Once on any level the player can activate "Supercool Time" lasting for fifteen seconds. Then he can turn the fireballs into snowballs and cool down hot springs.
+
+There are fifteen rounds in every level, and the levels become faster as the player progresses.
+
+==Development==
+After finishing his first game for Sierra On-Line, ''Wall War'', Peter Oliphant became interested in ''Q*bert''. He identified some problems with that game—a certain repetitiveness.  ''Mr. Cool'' was a response to that: "a game like ''Q*bert'', but better". He had the Atari 8-bit version finished three weeks after he first started thinking about it.{{sfn|Oliphant|loc=10:37}}
+
+==Reception==
+''Softline'' wrote in a 1983 review: "Although Mr. Cool lacks Q*Bert's Escheresque assault on the eyes, it’s a no less addicting game. [...] Mr. Cool deserves to be a sizzling hit for Sierra On-Line."<ref name="softline"/> In ''[[Creative Computing (magazine)|Creative Computing]]'', Arthur Leyenberger had a similar response to the game's inspiration: "This game resembles the popular arcade game Q-Bert, but without the beautifully colored screen. That is not to say the game is not fun or challenging enough."<ref>{{cite journal |last1=Leyenberger |first1=Arthur |title=A Baker's Half Dozen Games for the Atari Computer |journal=Creative Computing |date=January 1984 |page=121 |url=https://archive.org/details/CreativeComputingbetterScan198401/page/n121/mode/2up}}</ref> He found that some players had difficulty using the joystick diagonals to control the character.
+
+''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the game an overall mediocre rating (C) and concluded: "It does require some strategy, for like Pac-Man you must take the offensive for brief periods of time. In sum, it is a well-made clone."<ref name=wesley/>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="softline">{{cite journal |title=Gameline |journal=Softline |date=September–October 1983 |page=43 |url=https://archive.org/details/Softline_Magazine_Issue_3.1/page/n43/mode/2up}}</ref>
+<ref name=wesley>{{cite book |editor1-last=Wells |editor1-first=Robert P. |editor2-last=Rochowansky |editor2-first=Sandra |editor3-last=Mellin |editor3-first=Michael F. |editor4-last=Stanton |editor4-first=Jeffrey |date=1984|title=Addison Wesley Book Of Atari Software 1984 |publisher=[[Addison-Wesley]] |isbn=((0-201-16465-X)) |page=168 |url=https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n167/mode/2up }}</ref>
+}}
+
+===Bibliography===
+* {{cite AV media |people=Peter Oliphant, Matt Barton |date=February 6, 2012 |title=Matt Chat 135: Peter Oliphant on Lexi-Cross and Mr. Cool | publisher=Matt Barton |url=https://www.youtube.com/watch?v=ki0-3CKRiZY |ref=CITEREFOliphant}}
+
+==External links==
+*{{atarimania|id=19490}}
+*{{lemon64 game|id=2999}}
+*[https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_02_No_02_1983-12_Fun_Games_Publishing_US/page/n77/mode/2up Review] in ''[[Electronic Fun with Computers & Games]]''
+*[https://archive.org/details/PC-Mag-1984-09-04/page/n303/mode/2up Review] in ''[[PC Magazine]]''
+
+{{DEFAULTSORT:Mister Cool (video game)}}
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Platformers]]
+[[Category:Sierra Entertainment games]]
+[[Category:Video game clones]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]

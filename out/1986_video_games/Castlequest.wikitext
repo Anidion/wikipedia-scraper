@@ -1,0 +1,58 @@
+Castlequest
+Permalink: //en.wikipedia.org/w/index.php?title=Castlequest&oldid=1198575221
+Accessed on: 2024-06-26T16:59:46.470303
+
+
+
+------
+Castlequest
+{{for|the BBC Micro game|Castle Quest (1985 video game)}}
+{{Refimprove|date=July 2008}}
+{{Infobox video game
+|title = Castlequest
+|image = CastlequestNESBoxart.jpg
+|caption = NES box art
+|developer = [[ASCII Corporation]]<ref name="gamefaqs">[http://www.gamefaqs.com/console/nes/data/587178.html Castlequest Info – Castlequest Information – Castlequest Release Date<!-- Bot generated title -->]</ref>
+|publisher = ASCII Corporation<br>Nexoft Corporation<ref name="gamefaqs"/>
+|designer = Isao Yoshida<br>Keisuke Iwakura
+|composer = Mitsunori Ogihara (Famicom)
+|engine =
+|released = {{vgrelease|JP|1985 (computers)|JP|November 28, 1986 (NES)<ref name="gamefaqs"/>}}{{vgrelease|NA|September 1989<ref name="gamefaqs"/>}}
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[MSX]], [[Nintendo Entertainment System|NES]]
+}}
+
+'''''Castlequest''''' (known in [[Japan]] as {{nihongo|'''''Castle Excellent'''''|キャッスルエクセレント|Kyassuru Ekuserento}}) is an [[Adventure game|adventure]] video game.  It was developed and published by [[ASCII Corporation]] in 1985 for the [[FM-7]], [[PC-88]], and [[Sharp X1]]. Additional versions followed in 1986 for the [[Nintendo Entertainment System|Famicom]] and [[MSX]], and was subsequently released in 1989 for the [[Nintendo Entertainment System|NES]] in the United States by Nexoft Corporation (the American division of ASCII).
+
+It is the sequel to ''[[The Castle (video game)|The Castle]]'', released in 1985 for the MSX, [[SG-1000]], and other systems (though not the NES). Like that game, it is an early example of the [[Metroidvania]] genre.<ref name="Pacheco">{{cite web | url = http://gamehall.uol.com.br/v10/the-castle/ | title = The Castle | first = Márcio | last = Pacheco | date = June 23, 2016 | accessdate = July 14, 2016 | publisher = GameHall | quote = "[O]s japas criaram uma mecânica de jogo que pode ser considerado o 'avô' de títulos como 'Super Metroid' e 'Castlevania: Symphony of the Night' . . . . “Castle Excellent” para MSX e NES, mantendo a mesma fórmula com algumas poucas diferenças." | archive-url = https://web.archive.org/web/20160627073938/http://gamehall.uol.com.br/v10/the-castle/ | archive-date = June 27, 2016 | url-status = dead }}</ref>
+
+==Gameplay==
+The object of the game is to navigate through Groken Castle to rescue Princess Margarita. The player can push certain objects throughout the game to accomplish progress. In some rooms, the prince can only advance to the next room by aligning ''brick blocks, barrels, Candles, and Elevator Controlling Block''. In some rooms, this can be quite time-consuming since the prince can only open a particular door if he can stand by the door, meaning that he can not open the door while jumping in mid-air. The prince must also carry a key that matches the color of the door he intends to be open. The player can navigate the castle with the help of a map that can be obtained from the first room that he/she begins. The map will provide the player with a matrix of 10x10 rooms and will highlight the room in which the princess is located. The player must also avoid touching enemies like Knights, Bishops, Wizards, Fire Spirits, Vikings and Phantom Flowers.
+
+==Release==
+In the Family Computer and NES versions, each room is wider than the screen, so the display scrolls horizontally as the player moves. Because of the different room sizes, many adjustments to the room layouts were made in comparison to the MSX version. In the Family Computer version, the player starts with 4 lives, and the game supports the [[Famicom Data Recorder]] and [[Turbo File (ASCII)|ASCII Turbo File]] peripherals for saving and loading game progress. When the game was reworked for the US NES release, the save/load feature was removed (the NES does not have the 15-pin expansion port which the Turbo File connects to). However, the player has 50 instead of 4 lives initially. There are two magical fairies to help. Another obvious difference between the MSX and NES/Family Computer versions is that the player can attack enemies with his sword (or dagger) only in the NES/Family Computer versions. While this attack is limited because the enemy must be very close to the player for the kill to take place, which puts the player in the risk of being killed by the enemy because timing is crucial. The prince can dash and retrieve his weapon on a timely basis, and attacking in the wrong time can prevent the player from launching another attack when the enemy is in the right location to be attacked, leading to the certain loss of one life from the player.
+This scenario, however, is not relevant to the MSX version, since the only way to eliminate an enemy is to throw an object on it, or to force the enemy to climb an escalator and remain there until it is crushed to the ceiling.
+
+==Reception==
+The Famicom version of ''Castlequest'' was scored a 27 out of 40 by ''[[Famitsu|Famicom Tsūshin]]''.<ref>{{cite magazine | author=''Famitsu'' staff | date=October 31, 1986 | magazine=[[Famitsu|Famicom Tsūshin]] | publisher=[[ASCII Corporation]] | number=10 | page=9 | language=ja | title=新作ゲームクロスレビュー | trans-title=New Game Cross Review | url=https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=19817&redirect=no | access-date=June 20, 2022 | archive-date=June 19, 2022 | archive-url=https://web.archive.org/web/20220619125403/https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=19817&redirect=no | url-status=bot: unknown }}</ref>
+Gary Meredith of ''[[Game Players]]'' felt that despite starting with 50 lives, the lack of a save feature could make completing the NES version in one sitting frustrating and difficult. "Still, ''Castlequest'' is a fascinating game," he said. "Especially for those tired of shooting or slashing their way through the more action-oriented adventures."<ref name="gameplayers">{{cite magazine | author=Meredith, Gary | date=March 1990 | title=Nintendo Reviews: ''Castlequest''| magazine=[[Game Players]] | publisher=Signal Research, Inc. | volume=2 | issue=3 | page=85 | issn=1042-3133}}</ref> ''[[Nintendo Power]]'' stated, "The action is slow, but the challenge in logic is among the greatest we've seen." The magazine also noted the lack of a continue feature, but said the room reset function in the sub-command menu was helpful.<ref>{{cite magazine | author=''Nintendo Power'' staff | date=September–October 1989 | title=Video Shorts: ''Castlequest'' from Nexoft | magazine=[[Nintendo Power]] | publisher=[[Nintendo of America]] | volume=8 | page=80 | issn=1041-9551}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/castlequest}}
+*[http://www.atarihq.com/tsr/manuals/castlequ.txt Castlequest Instruction Manual]
+
+[[Category:1986 video games]]
+[[Category:1989 video games]]
+[[Category:ASCII Corporation games]]
+[[Category:Metroidvania games]]
+[[Category:MSX games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Platformers]]
+[[Category:Puzzle video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games set in castles]]
+[[Category:Single-player video games]]

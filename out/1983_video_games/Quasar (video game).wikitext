@@ -1,0 +1,61 @@
+Quasar (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Quasar_%28video_game%29&oldid=1173422221
+Accessed on: 2024-06-26T16:55:41.472294
+
+
+
+------
+Quasar (video game)
+{{One source|date=November 2021}}{{Short description|1983 video game}}
+{{Infobox video game
+| title = Quasar
+| image = Quasar title.jpg
+| caption = 
+| publisher = Aristotle Software
+| designer = Jonathan Dubman<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague|first1=James}}</ref>
+| released = 1983
+| genre = [[Snake (video game genre)|Snake]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Apple II]]
+|alt = 
+|developer = Aristotle Software
+}}
+
+'''''Quasar''''' is a [[Snake (video game genre)|snake game]] written by Jonathan Dubman for the [[Apple II]] and published by Aristotle Software in 1983.<ref name=giantlist/>
+
+==Gameplay==
+The objective of the game is to earn points by surrounding and eliminating  opponents, the "light-cycles". The player controls an orange line with a "cycle" in front of it that can move up, down, left, or right. Wherever they go, they leave an orange trail.
+
+If the player crashes into anything, their cycle is "zapped", even if they crash into their own trail.
+
+The other cycles: violet, green, and blue, also move in a similar way. They are similar to the player except for that the computer controls them. Likewise, if they crash into anything, they disappear. They also leave trails. If one cycle crashes, the others remain until they are trapped and crash, one by one.
+
+To make them disappear, the player must restrict the area in which they move by surrounding them. If they get boxed in, they will spiral to their own demise. 
+
+Some points are awarded for mere survival, but many more are awarded for such things as eliminating opponent cycles, completing a level, and eating apples, 
+
+Every 5000 points, the player will receive a bonus cycle, which means they will receive one more chance to play before the game ends.
+
+*'''Apples''', After completing the first level, all successive levels will have apples on the screen, colored just like the Apple logo. Many points are earned by contact with an apple. As it is eaten, there is a little "bleep" and the apple disappears. The other cycles are not interested in the apples, and will not eat them.
+*'''Wormy Apples''', When rising in level, the player will soon see some apples that have small worms inside. These apples are poisonous and should not be eaten by the player.
+*'''Balls''', are small, round, white balls that bounce haphazardly around the screen. They are fatal if A player touches them. Up to four balls can appear on the screen at one time, depending on the level.
+*'''The Caterpillar''', At level six, a green caterpillar moves to the players monitor screen and slithers around. Players are recommended not to interact with him. He gets longer and faster as the game progresses
+*'''The Butterfly''', The pink butterfly appears after the second ball. He flutters and flies and will home-in on you, attempting to sting you with his venomous bite. Just staying away from him will not help the player. There are many tricks that the player may learn to avoid the butterfly, but the player will have to figure them out for themself. Up to four butterflies can appear, but not until very late in the game.
+
+There are six different speeds that the game can be played at. Inexperienced players are best off at the lower speeds (1,2) and experienced players are best off at the medium speeds (3,4). The upper speeds (5,6) are for very experienced players.
+
+Every eighth level there is a "bonus board" in which the player can earn many bonus points by lasting long and then killing off their opponents. In the bonus board levels, they and their opponents are snakes. The player can only last so long before they run out of air.
+
+When all the players' cycles crash, the game is over and a finale tune is played. If the player then hears 3 sirens, they have a new high score. The player can then type their name letter by letter and press RETURN.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dubman.com/Projects/Quasar/Quasar.aspx 25th Anniversary Edition]
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Snake video games]]
+[[Category:Video games developed in the United States]]

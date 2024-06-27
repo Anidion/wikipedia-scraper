@@ -1,0 +1,103 @@
+Zany Golf
+Permalink: //en.wikipedia.org/w/index.php?title=Zany_Golf&oldid=1220814257
+Accessed on: 2024-06-26T17:05:27.238446
+
+
+
+------
+Zany Golf
+{{Infobox video game
+| title        = 
+| image        = Zany Golf Coverart.png
+| caption      = 
+| developer    = Sandcastle Productions
+| publisher    = [[Electronic Arts]]
+| designer     = [[Will Harvey]]<br />Ian Gooding<br />Jim Nitchals<br />Douglas Fulton
+| series       = 
+| engine       = 
+| released     = 
+| genre        = [[Sports video game|Sports]]
+| modes        = 1-4 players alternating
+| platforms    = [[Apple IIGS]]<br /> [[Amiga]], [[Atari ST]], [[Sega Genesis|Genesis]], [[MS-DOS]]
+}}
+
+'''''Zany Golf''''', also known as '''''Will Harvey's Zany Golf''''', is a fantasy take on [[miniature golf]] developed by Sandcastle Productions and published by [[Electronic Arts]] in 1988. The game was originally written for the [[Apple IIGS|Apple II<small>GS</small>]] and subsequently [[porting|ported]] to the [[Amiga]], [[Atari ST]], and [[MS-DOS]] compatible operating systems. In 1990, a port was released for the [[Sega Genesis]]. The game was developed by [[Will Harvey]], Ian Gooding, Jim Nitchals, and Douglas Fulton. Harvey was pursuing his advanced degrees at [[Stanford University]] at the time.{{citation needed|date=February 2017}}
+
+The game is played in a [[3D computer graphics|3D]] [[Isometric projection|isometric]] viewpoint and allows up to 4 players. ''Zany Golf'' consists of half a golf course – nine holes, plus a bonus hole.
+
+==Gameplay==
+At the beginning of the first hole, all players are given five strokes. On completing each hole, the remaining players are given more strokes equal to the par of the next hole. Any player who runs out of strokes is eliminated, and the other players are allowed to continue. The game ends when all players are eliminated or when the last hole is completed, and the scorecard is displayed. [[File:ZanyGolfScorecard.jpg|thumb|left|250px|Zany Golf scorecard]]
+
+On all versions except the Genesis version, the mouse is used to shoot the ball by clicking on it, pulling back in the reverse direction of the eventual shot, and releasing. On occasion, fairies are placed on the course; hitting them awards anywhere from 1 to 5 bonus strokes. Also, a timer bonus may be possible. If the hole is finished quickly, the player may earn up to four bonus strokes. If a fairy is present or a timer bonus is available, it will be announced prior to the first shot.
+
+Up to four players can play the game by taking turns, with player 1 having a red ball, player 2 a blue ball, player 3 a black ball, and player 4 a white ball. Once a player's turn is complete, it disappears from the course and is replaced by an X mark of that player's color, which cannot be disrupted by other players' balls. Multiple players can work together to hit the necessary targets on the Pinball and Energy holes. Once the drop targets or computer buttons have been hit, they need not be hit by any other player.
+
+===Holes===
+# '''Windmill Hole''' (Par 2): The ball has to be shot into a [[windmill]], or into the slide down the ramp below, to enter the second area. Shooting directly into the windmill awards a 1 stroke bonus.
+# '''Hamburger Hole''' (Par 3): The hole is covered by a bouncing [[hamburger]], reached by bouncing the ball off a ketchup bottle that squirts. The hamburger bounces up and down when the mouse button is clicked, with more clicks resulting in higher bounces.
+# '''Walls''' (Par 2): Four walls continuously rise from the ground and fall back down. Hitting them leads down to the bottom part of the course with the hole. The third wall must be hit to get to area with the hole; if missed, the player must shoot up and around into the third area.
+# '''Pinball''' (Par 3): The level begins as a game of [[pinball]], where the player can hit the ball with the flippers after shooting it. Two drop targets must be hit before the top left corner escape chute is activated. Although enough failures to hit the drop targets will release the ball to the bottom part of the course with the hole, hitting the targets and escape chute leads directly to the hole and activates a 1 stroke bonus.
+# '''Fans''' (Par 3): [[Fan (implement)|Fans]] positioned along the level allow blowing the ball in a different direction. The fans are activated by moving the mouse left and right rapidly.
+# '''Magic Carpet''' (Par 2): A special "magic" surface covering most of the level allows direct [[computer mouse|mouse]] control over the ball.
+# '''Castle''' (Par 3): The ball has to be shot up a hill, to enter into a castle or tunnels outside it, to enter the second area with the hole. Entering the castle gate, which is intermittently guarded with a [[portcullis]], awards an additional stroke.
+# '''Ant Hill''' (Par 3): The course resembles a giant [[ant hill]], with eight slopes facing the eight main compass directions, and holding areas behind each, with the players starting on the south holding area. At the end of all areas except the south, there is a bumper which can be activated with the mouse to hit the ball back to the top of the hill. However, the hole on the hill moves at will while a ball is in play.
+# '''Energy''' (Par 5): A two-part hole which consists of a giant computer on the lower level and a field of false holes surrounding the real hole on the top level. To complete the level, the player must hit two buttons on the giant computer, then either shoot into a suction tube or use the teleporter pad, both of which lead to the top level. Alternatively, there is a mouse hole on the bottom level which is either empty, shows white eyes, or very rarely shows red eyes if both buttons have been hit. If a ball is shot into the mouse hole while the red eyes are displayed, that player completes the level automatically and the secret level is activated. At any other time, the ball is pushed out of the hole and the shot may be re-attempted. In a multiplayer game, only one player needs to successfully enter the mouse hole. Any other surviving players that use the regular hole are also allowed to proceed to the Mystery Hole.
+# '''Mystery''' (Par 4): This bonus hole is accessed by either completing the rest of the course under par (26) or by putting into a secret hole on the Energy level with exact timing. This level consists of a ''[[Breakout clone|Breakout]]''-style scenario where the player is given control of a paddle with the mouse, and must hit targets on an inclined slope with the ball, causing them to drop. After all the targets are dropped, corner escape holes are activated which lead to a checkerboard-like putting green (if the hole is hit before the targets are dropped, the ball will shoot back out and all previously hit targets will pop back up). Certain squares on the green flash, which if rolled over at any time (not just while flashing) will teleport the ball back to the start of the green.
+
+==Ports==
+Due to the lack of a mouse or similar pointing device, the [[Sega Genesis]] edition of the game omitted the "Magic Carpet" hole. Instead, the 'Mystery' bonus hole from the computer game appears after "Ant Hill", although it was renamed "Knockout Nightmare".
+
+The DOS version uses a [[code wheel]] as a form of [[copy protection]]. Before the Hamburger hole, the game gives a prompt which requires the player to rotate the wheel into a certain position. Giving the correct result allows the player to continue the game.
+
+The musical score in the original version uses the 32-voice [[Ensoniq]] audio chip in the Apple II<small>GS</small> computer, incorporating a wide variety of musical instruments and simultaneous sound effects. Ports considerably scale down the music quality and limit or remove sound effects.
+
+==Reception==
+The game was reviewed in 1989 in ''[[Dragon (magazine)|Dragon]]'' #144 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 5 out of 5 stars.<ref name="Dragon144">{{cite journal
+|title=The Role of Computers
+|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk
+|journal=Dragon
+|issue=144
+|date=April 1989
+|pages=60–68}}</ref> ''[[Compute!]]'' described ''Zany Golf'' as "a moderately challenging game with topnotch graphics and sound".<ref name="english198907">{{cite news | url=https://archive.org/stream/1989-07-compute-magazine/Compute_Issue_110_1989_Jul#page/n71/mode/2up | title=Zany Golf | work=Compute! | date=July 1989 | access-date=11 November 2013 | author=English, David | pages=71}}</ref>
+
+==Reviews==
+* ''[[Amiga Computing]]'' (May 1989)<ref>{{Cite web|url=https://amigareviews.leveluphost.com/zanygolf.htm#zanygolfac|title=Amiga Reviews: Zany Golf|website=amigareviews.leveluphost.com}}</ref>
+* ''[[Computer and Video Games]]'' (Dec, 1990)<ref>[https://archive.org/stream/computer-video-games-magazine-109/CVG109_Dec_1990#page/n95/mode/2up Computer Games Magazine]{{dead link|date=November 2022}}</ref>
+* ''[[The Games Machine]]'' (May 1989)<ref>{{Cite web|url=http://archive.org/details/the-games-machine-18|title=The Games Machine Issue 18|via=Internet Archive}}</ref>
+* ''[[The Games Machine]]'' (Apr, 1989)<ref>{{Cite web|url=https://archive.org/details/thegamesmachine-magazine-17/page/n26/mode/2up|title = The Games Machine Magazine Issue 17}}</ref>
+* ''[[Computer and Video Games]]'' (Mar, 1989)<ref>{{Cite web|url=https://archive.org/details/cvg-magazine-089/page/n47/mode/2up|title = CVG Magazine Issue 089|date = March 1989}}</ref>
+* ''[[Zzap!64|Zzap!]]'' (Apr, 1989)<ref>{{Cite web|url=https://archive.org/details/zzap64-magazine-048/page/n23/mode/2up|title = ZZap!64 Magazine Issue 048|date = April 1989}}</ref>
+* ''[[Commodore User]]'' (Apr, 1989)<ref>{{Cite web|url=https://archive.org/details/commodore-user-magazine-67/page/n37/mode/2up|title=Commodore User Magazine Issue 67|date=April 1989}}</ref>
+* ''[[Raze (magazine)|Raze]]'' (Jan, 1991)<ref>{{Cite web|url=https://archive.org/details/RAZE_Issue_03_1991-01_Newsfield_Publishing_GB/page/n80/mode/2up|title = RAZE - Issue 03 (1991-01)(Newsfield Publishing)(GB)|date = January 1991}}</ref>
+* ''[[Mean Machines]]'' (Nov, 1990)<ref>{{Cite web |url=http://www.meanmachinesmag.co.uk/review/29/zany-golf.php |title=Mean Machines. Zany Golf |access-date=2006-07-17 |archive-date=2007-09-28 |archive-url=https://web.archive.org/web/20070928041531/http://www.meanmachinesmag.co.uk/review/29/zany-golf.php |url-status=dead }}</ref>
+* ''Power Play'' (1989)<ref>{{Cite web|url=https://www.kultpower.de/archiv/heft_powerplay_1989-beste-spiele_seite120|title=Kultpower Archiv: Komplettscan Powerplay best of 1989|website=www.kultpower.de}}</ref>
+* ''Power Play'' (Mar, 1989)<ref>{{Cite web|url=http://www.kultpower.de/archiv/heft_powerplay_1989-04_seite54|title = Kultpower Archiv: Komplettscan Powerplay 4/1989}}</ref>
+* ''[[The One (magazine)|The One]]'' (Mar, 1989)<ref>{{Cite web|url=https://archive.org/details/theone-magazine-06/page/n68/mode/2up|title = TheOne Magazine Issue 06|date = March 1989}}</ref>
+* ''[[ACE (Advanced Computer Entertainment)]]'' (May 1989)<ref>{{Cite web|url=https://archive.org/details/ace-magazine-20/page/n79/mode/2up|title = ACE Magazine Issue 20|date = May 1989}}</ref>
+* ''[[ACE (Advanced Computer Entertainment)]]'' (Apr, 1989)<ref>{{Cite web|url=https://archive.org/details/ace-magazine-19/page/n63/mode/2up|title = ACE Magazine Issue 19|date = April 1989}}</ref>
+* ''Génération 4'' (Feb, 1991)<ref name="auto">{{Cite web|url=https://www.abandonware-magazines.org/erreur404.php|title=Le site des anciennes revues informatiques - www.abandonware-magazines.org|website=www.abandonware-magazines.org}}</ref>
+* ''[[Tilt (French magazine)|Tilt]]'' (Apr, 1991)<ref name="auto"/>
+* ''[[Amiga User International]]'' (Apr, 1989)<ref>{{Cite web|url=http://amr.abime.net/review_7246|title = Zany Golf review from AUI Vol 3 No 4 (Apr 1989) - Amiga Magazine Rack}}</ref>
+* ''[[ACE (Advanced Computer Entertainment)]]'' (Apr, 1991)<ref>{{Cite web|url=https://archive.org/details/ace-magazine-43/page/n64/mode/2up|title = ACE Magazine Issue 43|date = April 1991}}</ref>
+* ''Antic's Amiga Plus'' (Feb, 1990)<ref>{{Cite web|url=http://amr.abime.net/review_40818|title=Will Harvey's Zany Golf review from Antic's Amiga Plus Vol 1 No 6 (Feb - Mar 1990) - Amiga Magazine Rack|website=amr.abime.net}}</ref>
+* ''[[ASM (Aktueller Software Markt)]]'' (Mar, 1989)<ref>{{Cite web|url=https://www.kultboy.com/index.php?site=t&id=866|title=Kultboy.com - DIE Kult-Seite über die alten Spiele-Magazine und Retro-Games!|website=www.kultboy.com}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{moby game|id=/will-harveys-zany-golf|name=''Zany Golf''}}
+* [https://web.archive.org/web/20030806025644/http://www.classicgaming.com/amigareviews/zanygolf.htm Amiga review]
+* {{youTube | id=jNISV7uLLc8 | title=Apple IIGS intro}}
+
+{{DEFAULTSORT:Zany Golf}}
+[[Category:1988 video games]]
+[[Category:Apple IIGS games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:Miniature golf video games]]
+[[Category:Piko Interactive games]]
+[[Category:Sega Genesis games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]

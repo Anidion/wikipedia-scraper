@@ -1,0 +1,112 @@
+King's Quest II
+Permalink: //en.wikipedia.org/w/index.php?title=King%27s_Quest_II&oldid=1230760000
+Accessed on: 2024-06-26T16:58:42.337349
+
+
+
+------
+King's Quest II
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = King's Quest II:<br>Romancing the Throne
+|image = SierraOnLine-Box-KingsQuest2.jpg
+|caption = Cover art
+|developer = [[Sierra Entertainment|Sierra On-Line]]
+|publisher = Sierra On-Line
+|designer = [[Roberta Williams]]
+|programmer = [[Ken Williams (game developer)|Ken Williams]] <br> [[Scott Murphy (video game designer)|Scott Murphy]] <br> Sol Ackerman <br> Dale Carlson <br> Chris Iden
+|writer = Roberta Williams <br> Annette Childs
+|artist = Doug MacNeill <br> [[Mark Crowe]]
+|composer = [[Al Lowe]]
+|engine = [[Adventure Game Interpreter|AGI]]
+|series = ''[[King's Quest]]''
+|platforms = [[Personal computer|PC]], [[Macintosh]], [[Apple II]], [[Apple IIGS]], [[Amiga]], [[Atari ST]], [[IBM PCjr|PCjr]], [[Tandy 1000]]
+|released = '''PC''' {{vgrelease|NA|June 1985<ref name="CE1985">{{cite magazine |title=1985 Index |magazine=[[Computer Entertainer]] |date=January 1986 |volume=4 |issue=10 |page=6 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf#page=6}}</ref>}} '''Apple II''' {{vgrelease|NA|December 1985<ref name="CE1985"/>}} '''Atari ST''' {{vgrelease|NA|December 1985<ref>{{cite magazine |title=Availability Update|magazine=Computer Entertainer |date=January 1986 |volume=4 |issue=10 |page=14 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf#page=14}}</ref>}} '''Ports''' <br> 1987
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]]
+}}
+
+'''''King's Quest II: Romancing the Throne''''' is the second installment in the ''[[King's Quest]]'' series of [[graphic adventure game]]s by [[Sierra Entertainment|Sierra On-Line]]. It was originally released in 1985 for PC [[DOS]]/[[PCjr]], and later made available for the [[Apple II]]/[[Apple IIGS|IIGS]], [[Atari ST]], and [[Amiga]]. It uses the same [[Adventure Game Interpreter|AGI]] [[game engine]] as ''[[King's Quest I: Quest for the Crown]]'' and features King Graham as the player character. The title is a spoof of the 1984 film ''[[Romancing the Stone]]''.<ref name=ign1>{{cite web |last=Andreadis |first=Kosta |title=A Year of Adventure #2: King's Quest II & III |url=http://www.ign.com/articles/2014/02/10/a-year-of-adventure-2-kings-quest-ii-iii |archive-url=https://web.archive.org/web/20140301191642/http://www.ign.com/articles/2014/02/10/a-year-of-adventure-2-kings-quest-ii-iii |url-status=dead |archive-date=March 1, 2014 |website=[[IGN]] |publisher=[[Ziff Davis]] |access-date=February 15, 2015 |date=February 9, 2014}}</ref>
+
+==Gameplay==
+[[File:King's_Quest_II_Atari_ST_screenshot.png|thumb|left|Gameplay screenshot (Atari ST)]]
+''King's Quest II'' resembles ''[[King's Quest I]]'' in appearance and interface.  Like in ''King's Quest I'', the game world has 'wrap around' allowing player to travel infinitely in the directions of the north or south (''[[The King's Quest Companion]]'' which represented a novelized walkthrough explains that the western side of Kolyma folds back upon itself to both the north and south, forever bringing travelers back to where they started). This was the first ''King's Quest'' to include an introduction cutscene, just past the credits. It also is the first game in the series with a linear story progression. The world actually changes as the story progresses:<ref>''King's Quest II'' hint book, pp. 7, 15.</ref> new characters appear in the world, and areas are opened up to the player and closed off when no longer needed.
+
+Puzzles involve trading or using items to receive new items or to get past obstacles, allowing the player to progress. The game in general honors non-violent solutions, offering more points for them. Many puzzles have more than one solution, but only one optimum solution to earn maximum points. Alternate solutions will net less points or in some cases cause the player to lose points. Examples of alternate solutions are taking more violent approach to getting past an obstacle such as killing or stealing. Some choices may lead to dead ends or death.
+
+All puzzles in the game are solved through a parser. The player may type a phrase with a verb and noun, for example 'Look at' or 'Pick up', the word list in the parser is fairly robust and understands quite a lot of non-important verbs which will result in unexpected replies. For example, the player could type, 'dig', or 'dig the beach' and receive messages about how pointless it is to be digging. Sometimes even illogical verb/noun combinations will net unique comments, such as typing 'Pick up horse' will mention the flying steed is too fast to catch. With this system the player can collect many items using 'pick up' placed into the games inventory. The items in the inventory have close up pictures giving an idea what the item looks like, or in some cases offering clues about the item. In a rare few examples an item may be manipulated in some way.
+
+==Plot==
+Having retrieved the three stolen treasures of Daventry, Sir Graham became the new king of Daventry. The mirror shows him a vision about a beautiful young woman, Valanice, in captivity on the top of an ivory crystal tower. Being charmed by her, King Graham travels to the world of Kolyma to rescue Valanice. There he must travel through sea, air, and even death to gain the keys that unlock the three doors to the enchanted island where the witch Hagatha has imprisoned Valanice. After meeting legendary figures such as [[Neptune (mythology)|Neptune]], [[Little Red Riding Hood]] and [[Count Dracula]], the latter of whom he kills, Graham rescues Valanice. At the end of the game, they are married in a ceremony attended by many of Graham's friends and several of his former enemies.
+
+==Development==
+Limited floppy space would have restricted the design, but [[Sierra On-Line]] had been compressing the pictures by drawing them as lines and fill colors for a while. The original version for PC [[DOS]]/[[PCjr]] does not support sound cards or mice, as they did not exist at the time of publication.<ref>''King's Quest Collection 2'' manual, p. 4.</ref> That scheme was kept all the way up to ''[[King's Quest IV]]''. This sequel to the original ''King's Quest'' provided not just a second look at the life of King (formerly Sir) Graham of Daventry, it also began a tradition of using King's Quest as a training ground for future designers. Future ''[[Space Quest]]'' series designers [[Scott Murphy (video game designer)|Scott Murphy]] and [[Mark Crowe]] joined the development team. They helped to make the game an even bigger hit than the original.<ref>''King's Quest VIII'' manual, p. 3.</ref>
+
+According to the series; main designer and writer, [[Roberta Williams]]:
+
+{{blockquote|''King's Quest II'' reminded me a little of ''[[Wizard and the Princess]]''. We saw how previous games (''[[Mystery House]]'' and ''King's Quest I'') were received by the public, and I was anxious to try my hand at a bigger story right away. Graham would be king by now. What quest should a lonely king go on? What should he see through the magic mirror? A maiden in distress! I started to foresee a family for Graham in the future. I couldn't fit some ideas into ''King's Quest I'', so I was happy to get a chance to include King [[Neptune]], Dracula, everyone from [[Little Red Riding Hood]], and that infamous rickety old bridge you could only cross so many times.<ref>''King's Quest Collection 2'' manual, p. 11.</ref> ... My earlier games, from ''Mystery House'' to ''King's Quest II'', were great games, but they couldn't have the deep complex plots I wanted due to memory and space limitations. Basically they were treasure hunts with lots of simple goals (you go from here to there) and fun puzzles to add to the challenge. ''King's Quest III'' had to push things a little farther.<ref>''King's Quest Collection 2'' manual, p. 14.</ref> ... The story always comes first, but technology plays a big part in what you can't do.<ref>''King's Quest Collection 2'' manual, p. 21.</ref>}}
+
+''King's Quest II'' contains 14 musical selections, including [[Tchaikovsky]]'s love theme from ''[[Romeo and Juliet]]''.<ref>''The Royal Scribe, King's Quest Collection'', 15th Anniversary Edition.</ref> Other tracks include [[Greensleeves]] on the title screen, [[Bach]]'s [[Toccata and Fugue in D minor]] in Dracula's castle, and [[Michael Jackson]]'s [[Thriller (album)|Thriller]] when encountering the ghosts outside the castle entrance (only the opening bars of the last are played so Sierra would not have to pay royalties for using the song). The music for the game was produced by video game designer and programmer [[Al Lowe]], who is also an accomplished jazz musician.
+
+==Release==
+The game was first released in 1985 on a self-booting disk that supported [[Color Graphics Adapter|CGA]], [[PCjr]], and [[Tandy Graphics Adapter|Tandy]] graphic cards (as opposed to ''King's Quest I'', which had separate versions for all three) as a disk that booted on start-up. Sierra included several modifications to the AGI engine for compatibility with the IBM AT and EGA cards, which had been introduced since ''King's Quest I'' was released. The copy protection used on ''King's Quest I'' proved to be incompatible with the AT BIOS, so a different scheme was used. Color palette selection in CGA mode was changed to utilize the BIOS instead of modifying the palette register directly. The game engine was also changed to utilize the PC's timer chip instead of a CPU-based speed loop which would result in the game running too fast on the AT.
+
+It was re-released in 1987 with [[Enhanced Graphics Adapter|EGA]] and [[Hercules Graphics Card|Hercules]] support to run under [[DOS]]. It was also released on [[Apple IIGS]] version with improved soundtrack and sound effects. Sierra's hint book for the game was written by Al Lowe, the game's composer and the creator of the ''[[Leisure Suit Larry]]'' series.
+
+The manual contains a prologue short story by Annette Childs. The story covers Graham being told by the spirit of the former King Edward in the magic mirror that he must find a wife, or suffer the same fate of the kingdom as he had. Graham calls upon his prime minister Gerwain to prepare a great feast, and call all the maidens and ladies throughout the land. None of the ladies interest the king, and he is left solemn. The magic mirror activates telling him about young maiden Valanice trapped in a tower by the evil witch Hagatha. He is told he must travel to land of Kolyma to find the magic doorway that leads to the enchanted realm.
+
+A novelization of the game is included in ''The King's Quest Companion'' which expands the details of story. It was written from the perspective of Daventry's prime minister, Gerwain (mentioned in the ''KQ2'' manual). The first and second editions of the Companion also included articles within ''An Encyclopedia of Daventry (Abridged)'', which gave backstories for various characters and locations from the game. More back history about Kolyma can be found in the chapter, "The World of Daventry" in all editions.
+
+Version history:
+*1.0W: AGI1 version
+*1.1H: AGI1 version (1985): A PCjr/Tandy/PC version of the game.
+*2.1 (04-10-1987): This is the version that is included in most copies of the ''King's Quest Collection''. It has the disk-based copy protection removed. Uses AGI2.
+*2.2 (05-07-1987): This version is associated with the [[Amiga]] release. There are two sub-versions one uses interpreter 2.426 and the other uses 2.917. Uses AGI2.
+
+==Reception==
+''King's Quest'' received positive reviews upon release,<ref>{{cite web|url=https://archive.org/stream/ST_Action_Volume_1_Issue_4_1988-08_Gollner_Publishing_GB#page/n16/mode/1up/ |title=ST Action - Volume 1 Issue 4 (1988-08)(Gollner Publishing)(GB) |website=Archive.org |date=August 1988 |access-date=2016-04-21}}</ref><ref>{{cite web|url=https://archive.org/stream/computer-and-videogames-058/ComputerAndVideoGames_058_Aug_1986#page/n73/mode/1up/ |title=Computer and Videogames Magazine Issue 058 |website=Archive.org |date=August 1986 |access-date=2016-04-21}}</ref> including an almost-perfect score of 39/40 from ''ASM''.<ref>{{cite web|url=https://archive.org/stream/asm_magazine-1986-07/ASM_07_1986#page/n88/mode/1up/ |title=Aktueller Software Markt (ASM) Magazine (July 1986) |website=Archive.org |date=July 1986 |access-date=2016-04-21}}</ref> Neil Shapiro from II Computing wrote: "The artists who have brought to life the vision of designer Roberta Williams and story author Annette Childs deserve much recognition. The artwork and animation is almost Disney-like in quality and execution."<ref>{{cite web|url=https://archive.org/stream/II_Computing_Vol_1_No_4_Apr_May_86#page/n39/mode/1up/ |title=II Computing Vol 1 No 4 Apr May 86 |website=Archive.org |access-date=2016-04-21}}</ref>
+
+==Remakes==
+===Sierra remake (cancelled)===
+In 1990 the developers at Sierra [[Video game remake|redeveloped]] ''[[King's Quest]]'' with a new interface and up-to-date technology. The plan was to redevelop ''King's Quest II'' but due to rather disappointing sales of the 1990 remake of ''King's Quest I'', the prospect of officially remaking and re-releasing ''King's Quest II'' was scrapped. {{Citation needed|date=May 2011}}
+
+===Fan remake===
+In 2002, [[AGD Interactive]], then known as Tierra Entertainment, released an unofficial remake of ''King's Quest II'' under a fan license by Vivendi, known as ''[[King's Quest II: Romancing the Stones]]''.<ref>{{cite web|url=http://agdinteractive.com/games/games.html |title=Adventure Game Downloads |website=Agdinteractive.com |access-date=2016-04-21}}</ref> In 2009, AGD Interactive released version 3.0, featuring redrawn backgrounds and dialogue pictures; the voice-acting was also dramatically improved and, thanks to fan feedback, many problems were attended to.
+
+The remake uses a point-and-click interface functionally identical to an advanced SCI game engine, VGA graphics and digital sound, including full speech for all characters. Notably for an unofficial, fan-made project, the game's protagonist King Graham is voiced by [[Josh Mandel (video game designer)|Josh Mandel]], who also voiced the part in Sierra's official CD-ROM full-speech versions of ''King's Quest V'' and ''VI''. In contrast to the group's remake of ''King's Quest I'', a content-wise identical presentation upgrade, ''King's Quest II+'' redesigns the original game by adding a rewritten plot expanding on the 1985 version (although it changes several points of the plot, 'Dracula' is now a good guy, and the 'Monk' is a bad guy, several characters removed), a number of puzzles, new characters and locations including a town, and references to the later ''King's Quest'' games.
+
+===''King's Quest Chapter 3''===
+The third chapter of 2015's ''[[King's Quest (2015)|King's Quest]]'', titled ''Once Upon a Climb'', is a reimagined retelling of the rescue of Valanice from Hagatha's tower from ''King's Quest II''.<ref>{{cite web|url=http://www.hardcoregamer.com/2016/04/05/re-imagine-grahams-love-life-in-the-newest-chapter-of-kings-quest/200944/ |title=Re-Imagine Graham's Love Life in the Newest Chapter of King's Quest |publisher=Hardcore Gamer |date=2016-04-05 |access-date=2016-04-21}}</ref>
+
+==References==
+{{Reflist}}
+
+;Bibliography
+*{{cite book|title=[[The King's Quest Companion]]|first=Peter|last=Spear|location=Berkeley, CA|publisher=Osborne McGraw-Hill|year=1991|orig-year=1990|isbn=0078816718|edition=2nd}}
+
+==External links==
+*{{MobyGames|id=/kings-quest-ii-romancing-the-throne}}
+*[http://www.sierrahelp.com/Games/KingsQuest/KQ2Help.html ''King's Quest II'' technical help] at the Sierra Help Pages
+
+{{Kings Quest series}}
+{{Sierra Adventure Games|King's Quest}}
+{{Authority control}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1985 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:Games commercially released with DOSBox]]
+[[Category:King's Quest]]
+[[Category:Point-and-click adventure games]]
+[[Category:ScummVM-supported games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Single-player video games]]
+[[Category:Video game sequels]]
+[[Category:Video games about witchcraft]]
+[[Category:Video games designed by Roberta Williams]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Al Lowe]]

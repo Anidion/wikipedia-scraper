@@ -1,0 +1,82 @@
+Blackwyche
+Permalink: //en.wikipedia.org/w/index.php?title=Blackwyche&oldid=1125988029
+Accessed on: 2024-06-26T16:58:07.717634
+
+
+
+------
+Blackwyche
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = Blackwyche
+|image = Blackwyche title.png
+|caption = Cover art
+|publisher = Ultimate Play the Game
+|designer = Dave and Bob Thomas
+|series =
+|released = {{vgrelease|EU|1985}}
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64]]
+}}
+
+'''''Blackwyche''''' is an [[action-adventure game|action-adventure]] video game published by [[Ultimate Play the Game]] for the [[Commodore 64]] in 1985. The game is the third instalment of the ''Pendragon'' series and sequel to ''[[Entombed (video game)|Entombed]]''. In the game, [[aristocracy (class)|aristocrat]] adventurer Sir Arthur Pendragon is trapped on board a haunted [[galleon]] and must free the soul of its captain. The game is presented in a 3D isometric format.
+
+The ''Pendragon'' series was created and designed by brothers Dave and Bob Thomas, with Ultimate founders [[Tim and Chris Stamper]] otherwise being uninvolved in development. The game's setting and graphics were heavily inspired by {{HMS|Victory}} and the surrounding city of [[Portsmouth]]. The game was met with mixed reviews upon release. Critics were divided over the game's graphics and re-usage of sprites, but criticised the game for its vast similarities to its predecessors. It was followed by a final instalment to the series, ''[[Dragon Skulle]]'', which was released later in 1985.
+
+==Gameplay==
+[[Image:Blackwyche gameplay.png|thumb|left|The interface displays the current objective, clock, and energy.]]
+
+The game is presented in an [[isometric graphics in video games and pixel art|isometric]] format and is set on board a haunted galleon named the ''Blackwyche''. Sir Arthur Pendragon's main objective is to free the soul of its former captain, Richard Cavendish. Pendragon can utilise various weapons such as knives, daggers and a magic sword to defend himself from enemy skeletons.<ref name=CVG/> The player begins the game with full energy and it will slightly deplete every time the player is hit by an enemy. If Pendragon completely runs out of energy, a large skeletal hand will drag the player off-screen, thus killing him.<ref name=CU/>
+
+Various segments of maps are scattered around the galleon, which will form a complete view of the game's [[overworld]] once all the segments are picked up. Other scattered items in the game include keys for locked doors, [[gunpowder]] to fire cannons and pieces of jewellery, the latter having no additional use other than adding to the player's score.<ref name=zap/>
+
+==Development==
+{{Quote box|quote=We'd seen it featured on TV and decided that a ship would be a good place for a third adventure. Me and Bob went down to Portsmouth and had a good look around the ship, taking lots of photographs that we could use to base some of the graphics on.|source=Dave Thomas in a retrospective interview with ''[[Retro Gamer]]''<ref name=history>{{cite journal|last1=Thomas|first1=Dave|title=The Ultimate Adventure of Sir Arthur Pendragon|journal=Retro Gamer|date=October 2008|issue=56|page=49|url=http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_056.pdf|access-date=12 September 2015|archive-url=https://web.archive.org/web/20150925105537/http://scans.bytemaniacos.com/en/retro_gamer/Retro_Gamer_Issue_056.pdf|archive-date=2015-09-25|url-status=dead}}</ref> |width=30em |quoted=1}}
+
+[[File:HMSVictoryPortsmouthEngland.jpg|thumb|right|The game's setting was inspired by {{HMS|Victory}} in Portsmouth]]
+
+The ''Pendragon'' series was created by brothers Dave and Robert (Bob) Thomas, rather than Ultimate founders Tim and Chris Stamper.<ref name=history/> Dave Thomas began his career in 1983 when he started producing multiple games for the [[Atari 400]], including moderate-sellers such as ''Warlok'', which later won him {{GBP|5,000|link=yes}} in a competition from Calisto Software. Although he began working for the company in producing video games, he later quit due to the strain of his daily, {{convert|68|mi|abbr=on}} commute. Shortly after quitting Calisto Software, Dave Thomas started work on ''[[The Staff of Karnath]]'', the first instalment of what would become the ''Pendragon'' series.<ref name=history/> Bob Thomas was a trained technical illustrator for the [[Ministry of Defence (United Kingdom)|Ministry of Defence]] and had experience with designing interiors for the [[Royal Navy]]. According to Dave Thomas, the setting of ''Blackwyche'' was heavily inspired by {{HMS|Victory}} and the surrounding naval city of [[Portsmouth]]. The name of "Sir Arthur Pendragon" was copied from the character of the Black Prince Pendragon from ''[[Jack the Giant Killer]]''.<ref name=history/>
+
+The graphics of the game were designed by Bob Thomas, whereas the code was written by Dave Thomas. The Thomas brothers decided to show their progress of the game to Tim and Chris Stamper for evaluation, despite feeling embarrassed due to their workspace being inside their parents' attic. Impressed by the game, the Stamper brothers commissioned an entire series to be released for the Commodore 64. Dave Thomas recalled that every game they produced was met with little interference from Ultimate; once a game was complete, it would be sent to [[quality assessment]] and subsequently published for release.<ref name=history/>
+
+==Reception==
+{{Video game reviews
+|CVG = 9.5<ref name=CVG/>
+|rev1 = ''[[Commodore User]]''
+|rev1Score = 8.5<ref name=CU/>
+|rev2 = ''[[Your Commodore]]''
+|rev2Score = 6.8<ref name=YC/>
+|rev3 = ''[[Zzap!64]]''
+|rev3Score = 53%<ref name=zap/>
+|rev4 = ''[[Computer Gamer]]''
+|rev4Score = 5.0<ref name=CG/>
+}}
+The game received mixed reviews upon release. A reviewer of ''[[Computer and Video Games|CVG]]'' thought the graphics were identical to its predecessor, ''[[Entombed (video game)|Entombed]]'', and criticised the low detail of the player-character, Sir Arthur Pendragon.<ref name=CVG>{{cite journal|last1=Harding|first1=Rebecca|title=Nighthade and Blackwyche review|journal=CVG|date=November 1985|issue=49|page=22|url=https://archive.org/stream/Computer_Video_Games_Issue_049_1985-11_EMAP_Publishing_GB/Computer__Video_Games_Issue_049_1985-11_EMAP_Publishing_GB#page/n21/mode/2up|access-date=12 September 2015}}</ref> Eugene Lacey of ''[[Commodore User]]'' praised the graphics, stating that they were smoother and slightly more detailed, despite acknowledging that they appeared similar to its predecessor.<ref name=CU>{{cite journal|last1=Lacey|first1=Eugene|title=Blackwyche review|journal=Commodore User|date=October 1985|issue=25|page=26|url=https://archive.org/stream/commodore-user-magazine-25/Commodore_User_Issue_25_1985_Oct#page/n25/mode/2up|access-date=12 September 2015}}</ref> Stuart Cooke of ''[[Your Commodore]]'' thought the graphics were too "repetitive" and stated that he had trouble determining which section of the game he was on due to the similarities of all the colours.<ref name=YC>{{cite journal|last1=Cooke|first1=Stewart|title=Blackwyche review - YC|journal=Your Commodore|date=February 1985|issue=17|page=46|url=https://archive.org/stream/17-your-commodore-magazine/Your_Commodore_Issue_17_1986_Feb#page/n45/mode/1up|access-date=12 September 2015}}</ref> Reviewers of ''[[Zzap!64]]'' criticised the graphics, stating the sprites to be "awful", and animation as "crummy" with little or no range of colouring. The sprite of Sir Arthur Pendragon was frequently criticised by reviewers of ''Zzap!64'', with one reviewer expressing frustration on why Ultimate continued to re-use the same sprites in their games. Another reviewer condemned the 3D animation, stating that it appeared out of proportion and "frustrating".<ref name=zap>{{cite journal|title=Zzap! Test - Blackwyche|journal=Zzap!64|date=December 1985|issue=8|page=36|url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=008&amp;page=036&amp;thumbstart=0&amp;magazine=zzap&amp;check=1|access-date=12 September 2015}}</ref> Tony Hetherington of ''[[Computer Gamer]]'' similarly criticised the graphics, owing to the "duplicated landscapes" and identical usage of colours, concluding that it was a disappointing game.<ref name=CG>{{cite journal|last1=Hetherington|first1=Tony|title=Blackwyche review - Computer Gamer|journal=Computer Gamer|date=November 1985|issue=8|page=70|url=https://archive.org/stream/Computer_Gamer_Issue_08_1985-11_Argus_Press_GB#page/n69/mode/1up|access-date=12 September 2015}}</ref>
+
+Lacey heralded the gameplay to be "purely addicting" and considered ''Blackwyche'' to the best of the series.<ref name=CU/> Harding opinionated the game to be "miles better" than its predecessor, whereas Cooke thought the gameplay was repetitive, owing to its number of locations.<ref name=CVG/><ref name=YC/> Reviewers of ''Zzap!64'' criticised the overall gameplay, stating that the puzzles were poor, unchallenging and often gave them the sense of "deja-vu" with its similarities to its predecessors. One reviewer of the same magazine considered the game to be a poor attempt at an arcade-adventure game, stating that the ideas were poorly implemented.<ref name=zap/> Hetherington concluded that ''Blackwyche'' was a disappointment for an Ultimate game, considering previous titles such as ''[[Atic Atac]]'' and ''[[Knight Lore]]''.<ref name=CG/>
+
+== Legacy ==
+
+Sir Arthur Pendragon and the Blackwyche itself make an appearance in Rare's ''[[Sea of Thieves]]''.<ref name=SeaboundSoul>{{cite web|url=https://www.seaofthieves.com/the-seabound-soul|title=Sea of Thieves - The Seabound Soul|website=Sea of Thieves|access-date=4 August 2020|publisher=Rare}}</ref> The Blackwyche can be found wrecked on a beach on Shipwreck Bay, and contains a portrait of Arthur. A nearby book starts a Tall Tale called The Seabound Soul that leads to the summoning of Arthur's ghost, which ultimately leads to him accidentally releasing Captain Flameheart upon the Sea of Thieves. Arthur again makes an appearance in The Heart of Fire, another Tall Tale, where he needs assistance releasing his crew from Captain Flameheart's curse. One of his crew members is referred to as "Cavendish", and is the daughter of Richard Cavendish from the original game. As of late, Arthur seemingly met his fate upon the completion of the Sea of Thieves Adventure: Return of the Damned, in which the community majority of pirates worked to resurrect Captain Flameheart, in turn, banishing Arthur to the Sea of the Damned.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{lemon64 game|id=291|name=Blackwyche}}
+* [https://web.archive.org/web/20150128132225/http://www.robsoftcloud.net/Ultimate/games/blackwycheintro.shtml ''Blackwyche''] at Ultimate Wurlde
+
+{{Ultimate Play the Game}}
+{{good article}}
+
+[[Category:1985 video games]]
+[[Category:Action-adventure games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Rare (company) games]]
+[[Category:Single-player video games]]
+[[Category:Video games set in Hampshire]]
+[[Category:Video games set in Portsmouth]]
+[[Category:Video games developed in the United Kingdom]]

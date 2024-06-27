@@ -1,0 +1,66 @@
+FS1 Flight Simulator
+Permalink: //en.wikipedia.org/w/index.php?title=FS1_Flight_Simulator&oldid=1211857776
+Accessed on: 2024-06-26T16:51:14.343981
+
+
+
+------
+FS1 Flight Simulator
+{{Infobox video game
+| title = FS1 Flight Simulator
+| image = FS1 Flight Simulator.jpg
+| alt = 
+| caption = TRS-80 cover art
+| developer = [[Sublogic]]
+| publisher = Sublogic
+| designer = [[Bruce Artwick]]<br/>[[Stu Moment]]
+| programmer = Bruce Artwick
+| series = 
+| engine = 
+| platforms = [[Apple II series|Apple II]], [[TRS-80]]
+| released = '''Apple II''' {{vgrelease|NA|December 1979<ref name="lombardy1982sepoct"/>}} '''TRS-80''' <br/> 1980
+| genre = [[Amateur flight simulator]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''FS1 Flight Simulator''''' is a 1979 [[video game]] published by [[Sublogic]] for the [[Apple II series|Apple II]]. A [[TRS-80]] version followed in 1980. FS1 is the first in a line of simulations from Sublogic which, beginning in 1982, were also sold by Microsoft as ''[[Microsoft Flight Simulator]]''.
+
+Sublogic later released updated versions for both the Apple II and TRS-80 on [[Floppy disk#5.C2.BC-inch floppy disk|5 {{fraction|1|4}}&nbsp;inch diskettes]]. The updates include enhanced terrain, help menus, and a bomb sight.
+
+==Gameplay==
+[[Image:Flight Simulator 1.0 short animation.thumb.gif|thumb|upright=2|Apple II screenshot]]
+''FS1 Flight Simulator'' is a flight simulator in which the player pilots a somewhat modernized [[Sopwith Camel]].<ref name="SG"/>
+
+==Development==
+Computer-graphics specialist [[Bruce Artwick]] and pilot and marketing student [[Stu Moment]] were roommates at the [[University of Illinois Urbana-Champaign|University of Illinois]]. Released for the Apple II computer as ''A2-FS1 Flight Simulator with British Ace - 3D Aerial Battle'',<ref>{{cite web |url= https://fs1.applearchives.com/manuals/sublogic_a2fs1_manual.pdf |title= sublogic_a2fs1_manual |last= |first= |date= |website= fs1.applearchives.com |publisher= |access-date= 2023-12-01 |quote=}}</ref> it was their first product after forming Sublogic,<ref name="hockman198704">{{cite magazine | title=Bruce Artwick's Flight Simulator / You've Come A Long Way, Baby! / The History of an Epic Program | magazine=[[Computer Gaming World]] | issue=36 | date=April 1987 | url=http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=36 | accessdate=23 April 2016 | last=Hockman | first=Daniel | pages=32–34}}</ref> has black and white wireframe graphics, with very limited scenery consisting of 36 tiles (in a 6 by 6 pattern, which roughly equals a few hundred square kilometers), and provides a very basic simulation of one aircraft.
+
+Sublogic advertised that the $25 FS1 "is a visual flight simulator that gives you realistically stable aircraft control", with a graphics engine "capable of drawing 150 lines per second".<ref name="sublogic198001">{{Cite magazine |date=January 1980 |title=New for the Apple II & TRS-80... the subLOGIC FS1 Flight Simulator! |url=https://archive.org/stream/byte-magazine-1980-01#page/n95/mode/2up |magazine=BYTE |type=advertisement |page=94}}</ref>
+
+==Ports==
+The simulator was later ported to the [[TRS-80]] Model I under the name ''T80-FS1'',<ref>{{cite web |url= https://www.mobygames.com/game/18186/flight-simulator/screenshots/trs-80/389479/ |title= Flight Simulator |author=<!--Not stated--> |date= |website= mobygames |publisher= |access-date= 2023-12-01 |quote=}}</ref> which has only [[TRS-80#Video and audio|rudimentary graphics]] capability. Because of the TRS-80's limited memory and display, the instrument panel was dropped and the resolution of the cockpit window display reduced.
+
+==Reception==
+J. Mishcon reviewed ''FS1 Flight Simulator'' in ''[[The Space Gamer]]'' No. 31. Mishcon commented that "all things considered, this is single most impressive computer game I have seen. It creates a whole new standard. I most strongly urge you to buy it and see for yourself".<ref name="SG">{{cite journal|last=Mishcon|first=J. |date=September 1980 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=31|pages=28}}</ref>
+
+Bob Proctor reviewed the game for ''[[Computer Gaming World]]'', and said that "although there are other flight simulators, the Sublogic program remains unique for the built-in dogfight game. While raving about the simulation, reviewers have called the game 'difficult', 'challenging', and 'next to impossible'".<ref name="CGW3">{{cite magazine |last=Proctor |first=Bob |title=You Too Can Be an Ace! |magazine=Computer Gaming World |date=March–April 1982 |volume=1 |issue=3 |pages=32–33}}</ref>
+
+''Flight Simulator'' sold 30,000 copies by June 1982, tied for third on ''[[Computer Gaming World]]''{{'}}s list of top sellers.<ref name="lombardy1982sepoct">{{cite news | title=Inside the Industry | url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=6 | format=PDF | magazine=[[Computer Gaming World]] | page=2 | date=September–October 1982 | accessdate= 2016-03-28}}</ref>
+
+===Reviews===
+* ''[[SoftSide]]''<ref>{{Cite web|url=https://archive.org/details/softside-magazine-28/page/n95/mode/2up|title=SoftSide Magazine Issue 28 (Convoy)|date=January 1981}}</ref>
+* ''80 Micro''<ref>{{Cite web|url=https://archive.org/stream/80-microcomputing-magazine-1981-08/80Microcomputing_0881#page/n25/mode/2up|title = 80 Microcomputing Magazine August 1981|date = August 1981}}</ref>
+* ''[[Moves (magazine)|Moves]]'' #56, p25<ref>https://strategyandtacticspress.com/library-files/Moves%20Issue56.pdf</ref>
+
+==References==
+{{Reflist}}
+
+{{Microsoft Flight Simulator}}
+
+[[Category:1979 video games]]
+[[Category:Apple II games]]
+[[Category:Flight simulation video games]]
+[[Category:General flight simulators]]
+[[Category:Single-player video games]]
+[[Category:Sublogic games]]
+[[Category:TRS-80 games]]
+[[Category:Video games developed in the United States]]

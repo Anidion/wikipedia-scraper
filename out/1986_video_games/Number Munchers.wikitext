@@ -1,0 +1,105 @@
+Number Munchers
+Permalink: //en.wikipedia.org/w/index.php?title=Number_Munchers&oldid=1218999058
+Accessed on: 2024-06-26T17:00:37.226556
+
+
+
+------
+Number Munchers
+{{Infobox video game
+ |title=Number Munchers
+|image=Number_Munchers_DOS_cover.jpg
+ |caption=DOS Cover art
+ |developer=[[MECC]]
+ |publisher=MECC
+ |designer=R. Philip Bouchard
+ |released='''Apple II:''' 1986<br>'''DOS/Mac:''' 1990
+ |genre=[[Educational video game|Educational]]
+ |modes=[[Single-player]]
+ |platforms=[[Apple II]], [[DOS]], [[Classic Mac OS|Macintosh]]
+}}
+
+'''''Number Munchers''''' is a 1986 video game and a spin-off to the title ''[[Word Munchers]]''. It was made by [[MECC]] for [[Apple II]], then ported to [[DOS]] and [[Classic Mac OS|Macintosh]] in 1990. The concept of the game was designed by R. Philip Bouchard, who also designed [[The Oregon Trail (series)|''The Oregon Trail'']].<ref>{{cite web|url=https://medium.com/the-philipendium/how-i-managed-to-design-the-most-successful-educational-computer-game-of-all-time-4626ea09e184 |title=How I Managed to Design the Most Successful Educational Computer Game of All Time |last=Bouchard |first=R. Philip |date=June 29, 2017 |accessdate=November 11, 2020}}</ref><ref>{{cite web|url=http://www.philipbouchard.com/OT-book/OT-appendix3.html |title=Appendix 3: A Philosophy of Educational Software Design |last=Bouchard |first=R. Philip |date=November 1989 |accessdate=November 11, 2020}}</ref> Two versions of the game were released the Consumer Version (for home use) and the School Version (for classrooms).<ref>{{Cite magazine|url=https://apple2online.com/web_documents/A+%2093-05%20WS.pdf#page=46 |title=Essentials - Product Information |magazine=inCider/A+ |publisher=[[International Data Group|IDG]] |date=May 1993 |page=44}}</ref> After [[The Learning Company]] acquired MECC, the game was rebranded as "Math Munchers".<ref>{{Cite book|url=https://books.google.com/books?id=piHaq0txFbEC&pg=PA89 |title=Interdisciplinary Models and Tools for Serious Games |last=Eck |first=Richard Van |date=March 31, 2010 |publisher=Information Science Publishing |isbn=9781615207206 |language=en}}</ref>
+
+==Gameplay==
+The player controls the muncher who must move around a grid and munch on numbers that match the logic rule above while avoiding the threatening troggles. As the player progresses the levels, the logic rules have bigger numbers, and harder difficulty and multiple troggles pursue the muncher.
+
+=== Modes of play ===
+There are five different modes of play in Number Munchers to advance players' mathematical skills. These modes include Multiples, Factors, Primes, Equalities, and Inequalities:
+
+* Multiples - the objective is to find multiples of the number given. If presented with a 3, one would select numbers like 3, 6, 9, 12, etc.
+* Factors - the objective is to find factors of the number given. If the number is 12, one would choose to eat 1, 2, 3, 4, 6, and 12.
+* Primes - this mode helps players find prime numbers that are only divisible by 1 and themselves. e.g., 2, 3, 5, 7, 11, 13.
+* Equality - this mode gives players the chance to find equations equaling the current number. If given the number 6, one would 'munch' 3 x 2, 3 + 3, 12 / 2, and so on.
+* Inequality - this mode gives players the number and they must select the equations that DO NOT equal the current number. If given 6, one would eat equations such as 4 X 2, 18 / 9, and 3 + 5.
+
+=== Troggles ===
+The Troggles are [[monster]]s with two legs and a large head, whose goal is to eat Muncher and/or disrupt his progress by rearranging things on the board. Levels 1, 2, and 3, contain only one Troggle on the grid at any given time. A second Troggle appears starting with level 4, and a third appears starting with level 8. After approximately level 18, the game (especially the movement of the Troggles) accelerates to make responsible munching more difficult.
+
+There are several types of "Troggles". Each type of Troggle moves in a specific pattern. There are five [[species]] of Troggle, each of which has an English and a mock-Latin ([[Binomial nomenclature|binomial]]) name:
+
+* '''Reggies''' (''Trogglus normalus'') (magenta on Apple II, red in DOS, purple on Macintosh) - simply move in a line unless redirected by a safety square in its path.
+* '''Bashfuls''' (''Trogglus timidus'') (green on Apple II, blue in DOS, pink on Macintosh) - moves arbitrarily on the gameboard, unless approached by a Muncher, in which case he moves away from the Muncher. It became purple in later releases in the series.
+* '''Helpers''' (''Trogglus assistus'') (green on Apple II and DOS, magenta on Macintosh) - this [[ant]]-like Troggle eats all answers, leaving nothing behind. It became purple in later releases in the series.
+* '''Workers''' (''Trogglus laborus'') (purple and white on Apple II and DOS, magenta and white on Macintosh) - this Troggle adds new answers and/or changes existing answers as he moves around.
+* '''Smarties''' (''Trogglus smarticus'') (green on Apple II and Macintosh, yellow on DOS) - has large teeth and glasses, and is the most difficult Troggle to avoid; always follows the Muncher on the board.
+
+Safety squares occasionally appear to help protect Muncher from the Troggles. These are temporary havens identified by four small white rectangles on the corner of the square. No Troggle may enter a safety square; if one appears on a square a Troggle currently occupies, that Troggle dies (but may be replaced afterwards). Safety squares may disappear as quickly and randomly as they appear; hence, one must take caution not to remain in one for long.
+
+In addition, Troggles are quite cannibalistic; if one Troggle enters a square already occupied by another, or if two of them enter one square at the same time (even if they are of the same species), one Troggle will eat the other, although another Troggle may re-enter the board afterwards.
+
+=== Levels ===
+Players can choose from the five modes of play, or choose a "challenge" mode, which randomizes these modes. In the Multiples mode, Muncher must munch all numbers which are multiples of the number given; for example, if the designated number is 3 then Muncher must eat all 6's, 9's, and 12's and avoid numbers such as 7. In Factors the muncher seeks to ingest the factors of a given number, in Primes, he craves prime numbers, and in the Equality and Inequality modes, the muncher devours expressions such as 2+4 which are equivalent or not equivalent (respectively) to the designated number.
+
+Game play begins with four Muncher lives (the one currently in play, plus three others in reserve). After scoring a certain number of points, the player gains an extra life. Players lose a life if they munch an incorrect answer. Additionally, five different types of enemies (or "Troggle") appear throughout the game. Players lose a life if they make contact with a Troggle.
+
+=== Cutscenes ===
+As in the other games in the series, a player is awarded a cutscene (reminiscent of [[Wile E. Coyote and Road Runner]] escapades) after every third level; in this game, these are dubbed as "Great Moments in Muncher History". While these scenes are numbered (Act 1, Act 2, etc.), the order they appear varies from game to game. Once all six have been shown, they begin to repeat themselves (starting with the scene after Level 21). The six scenes are as follows:
+
+* A Muncher is chased by a Reggie across the screen twice, then the Muncher gets in an old-timey automobile, outruns the Troggle and the Troggle falls and gives up.
+* Two Munchers reenact the story of [[William Tell]].
+* A Muncher races a Bashful up a mountain, plants his flag, and sings a song (Ding Dong! the Witch is Dead).
+* A Muncher [[Prank call|prank-calls]] a Smartie and sings the [[Nyah nyah nyah nyah nyah nyah|nyah-nyah]] taunting melody.
+* A Muncher beats two Troggles in a beauty contest. Later releases of the game replaced this cut scene with one in which a Muncher stumbles through his house in the dark and then turns on the light, only to discover that he has broken all of his furniture.
+* A Muncher carves his image into [[Mount Rushmore]].
+
+=== Easter egg ===
+As an [[Easter egg (media)|Easter egg]], between  December 1 and [[Christmas Day|25]], the Muncher would wear a [[Santa Claus]] [[hat]]. This only worked on a computer that had a built-in clock or that was never turned off, as the built-in clock was not common at the time the games were popular.
+
+==Educational goals==
+The game was designed for school and home use for grades four to eight with parental controlled options to set the difficulty level.<ref>{{Cite magazine|url=https://archive.org/details/GPPCSGVol4No5/page/n15 |title=Kids and Computers |magazine=[[Game Players|Game Player's PC Strategy Guide]] |date=October 1991 |volume=4 |issue=5 |page=14}}</ref> It teaches multiples, factors, prime numbers, equalities, and inequalities. It helped introduce math skills to younger students,<ref>{{cite web|url=https://open.lib.umn.edu/mediaandculture/chapter/10-4-the-impact-of-video-games-on-culture/ |title=The Impact of Video Games on Culture |date=22 March 2016 |accessdate=November 12, 2020}}</ref> while helping older students to reinforce their existing math skills.<ref>{{Cite magazine|url=https://archive.org/details/1986-06-compute-magazine/page/n113 |title=Educational Software From MECC |magazine=[[Compute!]] |publisher=[[American Broadcasting Company|ABC Publishing]] |date=June 1986 |issue=73 |page=115}}</ref> In addition teachers could have their copy of the game networked to copies in class to monitor and control them.<ref name="NumMunch-MacUser">{{Cite magazine|url=https://archive.org/details/MacUser9010October1990/page/n51 |title=Number Munchers - MacUser |magazine=[[MacUser]] |publisher=[[Dennis Publishing]] |date=October 1990 |page=50}}</ref> It has proven to be attention catching with the ability to train students' hand/eye coordination as well as building up self-esteem and instilling confidence.<ref>{{Cite magazine|url=https://archive.org/details/InCider_A_1991-09/page/n37 |title=The Lighter Side of Education |magazine=inCider/A+ |publisher=[[International Data Group|IDG]] |date=September 1991 |page=36}}</ref>
+
+==Reception==
+{{Video game reviews
+<!-- Reviewers -->
+ | rev1 = [[MacUser]]
+ | rev1Score = {{Rating|5|5}}<ref name="NumMunch-MacUser"/>
+ | rev2 = MacWorld
+ | rev2Score = {{Rating|4|5}}<ref name="NumMunch-MacWorld">{{Cite magazine|url=https://archive.org/details/MacWorld_9304_April_1993/page/n213 |title=MacWorld Star Ratings |magazine=[[MacUser]] |publisher=[[International Data Group|IDG]] |date=April 1993 |page=212}}</ref>
+<!-- Awards -->
+ | award1Pub = Parent's Choice
+ | award1 = Gold Award 1986<ref>{{cite web|url=http://www.mecc.co/history/mecc_timeline/1984-1986.html |title=MECC History |date=2014 |accessdate=November 12, 2020}}</ref>
+ | award2Pub = Technology & Learning
+ | award2 = Reader's Choice Award<ref name="MECC95-96">{{Cite book|url=https://archive.org/details/MECC_catalog_1995-1996_ocr/page/n5 |title=MECC catalog 1995-1996 |author=MECC |date=1995 |publisher=MECC |page=6 |language=en}}</ref>
+ | award3Pub = [[MacUser]]
+ | award3 = Bobker's Dozen Best List<ref name="MECC95-96"/>
+}}
+
+Reviewer Benj Edwards regarded the game as one of the "Top 10 Educational PC Games of the 80s" in ''[[PC Magazine]]''<ref>{{cite web|url=https://www.pcmag.com/news/10-educational-pc-games-every-80s-kid-loved |title=10 Educational PC Games Every 80s Kid Loved |last=Edwards |first=Benj |date=June 13, 2017 |accessdate=November 11, 2020}}</ref> and one of the "Best 17 Educational Games of the 70s, 80s and 90s" in ''[[PC World]]''.<ref>{{cite web|url=https://www.pcworld.com/article/2972721/the-17-best-educational-games-of-the-70s-80s-and-90s.html#slide8 |title=The 17 best educational games of the 70s, 80s and 90s |last=Edwards |first=Benj |date=August 19, 2015 |accessdate=November 11, 2020}}</ref> The number munching was commonly compared to a ''[[Pac-Man]]'' game.<ref>{{cite magazine|url=https://www.gameinformer.com/b/features/archive/2017/04/07/a-pioneer-story-how-mecc-blazed-new-trails.aspx |title=A Pioneer Story: How MECC Blazed New Trails |last=Juba |first=Joe |magazine=[[Game Informer]] |date=April 7, 2017 |accessdate=November 11, 2020}}</ref> ''[[GamesRadar+]]'' praised the game for its cartoony graphics and a viable way to make math fun.<ref>{{cite web|url=https://www.gamesradar.com/the-best-edutainment-games/ |title=The best edutainment games [ClassicRadar] |date=December 25, 2013 |accessdate=November 12, 2020}}</ref> It was considered both an award-winner and best-seller from ''Parents' Choice'', ''InCider Magazine'' and ''Media & Methods''.<ref>{{Cite book|url=http://www.brutaldeluxe.fr/projects/mecc/catalogs/MECC%20Software%20for%20the%20Home%20Spring-Summer%201990.pdf#page=3 |title=MECC Catalog Spring-Summer 1990 |author=MECC |date=1990 |publisher=MECC |page=3 |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.mecc.co/software/apple-ii/number-munchers---a-170/ Official website]
+* {{moby game|id=/number-munchers}}
+
+[[Category:1986 video games]]
+[[Category:Apple II games]]
+[[Category:Children's educational video games]]
+[[Category:DOS games]]
+[[Category:Classic Mac OS games]]
+[[Category:Mathematical education video games]]
+[[Category:Single-player video games]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]

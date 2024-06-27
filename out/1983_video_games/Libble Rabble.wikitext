@@ -1,0 +1,78 @@
+Libble Rabble
+Permalink: //en.wikipedia.org/w/index.php?title=Libble_Rabble&oldid=1225680307
+Accessed on: 2024-06-26T16:55:17.861761
+
+
+
+------
+Libble Rabble
+{{Short description|1983 video game}}
+{{Use mdy dates|date=June 2013}}
+{{Infobox video game
+| title = Libble Rabble
+| image = Libble Rabble Poster.png
+| caption = Arcade flyer
+| developer = [[Namco]]
+| publisher = Namco
+| designer = [[Toru Iwatani]]
+| producer = Makoto Sato
+| composer = Nobuyuki Ohnogi
+| released = {{vgrelease|JP|October 1983}}
+| genre = [[Puzzle video game|Puzzle]]
+| modes = [[Single-player]], [[multiplayer]]
+| arcade system = [[Namco Libble Rabble]]
+| platforms = [[Arcade video game|Arcade]], [[FM Towns Marty]], [[X68000]], [[Super Famicom]], [[PlayStation 4]], [[Nintendo Switch|Switch]], [[Evercade]]
+}}
+
+{{nihongo foot|'''''Libble Rabble'''''|リブルラブル|Riburu Raburu|lead=yes|group=lower-alpha}} is a 1983 [[puzzle video game|puzzle]] [[arcade video game]] developed and published in Japan by [[Namco]]. The player is tasked with using two colored arrows, Libble and Rabble, to wrap them around pegs and surround small creatures known as Mushlins to "harvest" them under a time limit. The player can also uncover treasure chests that will have the player searching the stage for items in order to access a special bonus stage. It ran on the [[Namco Libble Rabble]] hardware, one of the only games to do so.
+
+Described by Namco as a "bashishi game", it was designed by ''[[Pac-Man]]'' creator [[Toru Iwatani]] and composed by Nobuyuki Ohnogi. Iwatani came up with the idea for the game after an experience at a crowded disco hall, where he envisioned himself tying up people with ropes and throwing them out of the way. It was also inspired by a game he played during his childhood, where the objective was to tie ropes to short metal poles on the ground. The game was known as ''Potato'' in early development as Namco considered making the game a tie-in with a potato chip manufacturer in Japan, but these plans later fell through. Iwatani soon passed off development to Makoto Sato due to being overwhelmed with other projects, who added additional ideas such as treasure chests as he felt the game was too simplistic. A North American release was planned by [[Midway Games]] but later cancelled.
+
+In Japan, ''Libble Rabble'' was praised for its unique gameplay and colorful visuals. Retrospectively, it has been praised for its bizarre yet interesting premise and addictiveness, some labeling it as one of the most underappreciated games in Namco's arcade catalog. A [[Super Famicom]] version was released in 1994, followed by home ports for both the [[FM Towns Marty]] and [[X68000]] — the Super Famicom release included a special cover slip for the face buttons to recreate the original game's twin-stick gameplay. It was digitally re-released for the Japanese [[Wii Virtual Console]] in 2009. In 2021, ports for the [[Nintendo Switch]] and [[PlayStation 4]] were released internationally under the [[Arcade Archives]] brand line up.
+
+==Gameplay==
+[[Image:Liblrabl.png|left|thumb|Arcade screenshot]]
+The player controls two "arrows", one red (Libble) and one blue (Rabble) with a line strung between them. The object is to wrap the line around poles and surround Mushlins and enemies with it. The player can either close the loops themselves (worth more points for the Mushlins) or move both arrows to the same edge of the screen. The player clears a "season" when they harvest all the Mushlins.
+
+Along the way, various enemies will appear and try to stop the player. The most common are four little hooded critters (Hobblins), which start each season in the corners. If the player catches enemies in a loop, they will be sent to the top of the screen for a short period of time. Other critters such as fireballs (Killers), sparks (Changers), and Demons will also appear. These can be killed by closing a loop around them. Sometimes, scissors-like enemies (Shears) appear, and if they cross the player's line, they cut it. If the player's line is ever cut by Shears or Demons, a new one is instantly made: directly between the two arrows.
+
+Every so often when the player closes a line, a detector goes off indicating that the area they have closed off has a treasure chest somewhere. To actually uncover the chest, the player must surround a small enough area which covers just the chest, and no other possible hiding places. The game guides the player along that step, first by challenging them to uncover a chest at the start of the game (and then by revealing the locations of the chests in the first two seasons). When the player actually uncovers a chest, six bonus creatures (Topcups) will pop out, then make for the edges. The player must corral them with the line and then close the loop to score the bonus for them: they mean bonus letters. If the player manages to complete a bonus word, the season is automatically cleared out and the player moves to a bonus stage where they must try to uncover and collect chests (to collect a chest, the player needs to close a loop around an opened chest) within a time limit.
+
+The player loses a life if any of the assorted critters touch one of the arrows or if he or she runs out of time (the border is the player's timer, and extra time can be added by looping Mushlins and plants), and the player gains an extra life at 40,000, 120,000, 200,000, 400,000, 600,000 and 1,000,000 points by default. After the 100th season, the season counter will stop at 99, similar to how ''[[Galaxian]]'' and ''[[King & Balloon]]''{{'}}s round indicators would stop after 48 rounds.
+
+==Development==
+''Libble Rabble'' was designed by [[Toru Iwatani]], best known for creating the arcade game ''[[Pac-Man]]''. Iwatani conceptualized the game based on an experience he had in a crowded disco hall in the early 1980s, where he envisioned himself using ropes to tie people up and throwing them out of the way.<ref name="Iwatani Book">{{cite book |last1=Iwatani |first1=Toru |title=Introduction to Pac-Man's Game Studies |date=September 2005 |publisher=[[Enterbrain]] |location=Japan |isbn=4-7577-1752-0 |edition=First}}</ref> It was also inspired by a game that he played during his childhood, which involved tying ropes around short metal poles stuck in the ground.<ref name="Iwatani Book"/> Early versions of the game were known as ''Potato'' due to Namco considering the game be a tie-in with a Japanese potato chip manufacturer, but these plans fell short as the company was unable to get the license.<ref name="Iwatani Book"/> Due to the game's size and graphical effects, a new arcade board named the [[Namco Libble Rabble]] was created to fulfill these conditions, designed by hardware engineer Toru Ogawa.<ref name="Iwatani Book"/><ref name="Libble Rabble Book"/>
+
+Midway through development, Iwatani soon grew overwhelmed with other projects, passing duties off to designer Makoto Sato.<ref name="Iwatani Book"/> After seeing the prototype build, Sato found the game to be too simplistic and decided to incorporate new ideas to try to add a layer of strategy to it.<ref name="Iwatani Book"/> One of these was the concept for treasure chests and uncovering them, an idea influenced by the [[Apple II series|Apple II]] role-playing game ''[[Wizardry]]''.<ref name="Iwatani Book"/> Music was composed by Nobuyuki Ohnogi.<ref name="Libble Rabble Book">{{cite book |author1=Game Critic |url=https://archive.org/details/game-hihyou-vol.-29-game-magazine-scan-jp/page/109/mode/2up |title=失われた伝説を求めて 第4話 - LIBBLE RABBLE LEGEND WILL NEVER DIE!!!! |date=November 1999 |publisher=Micro Design Publishing}}</ref> Namco designer Kazuo Kurosu, known for his work on ''[[Rally-X]]'' and ''[[Bosconian]]'', showed disappointment towards Sato's ideas and found them to make the game less appealing. Time constraints forced the game to be released in its initial state.<ref name="Iwatani Book"/><ref name="Potato Planning">{{cite book |title=The title at the time of planning was "Potato"? |date=2021 |url= https://s.famitsu.com/news/202111/13240284| publisher=famitsu.com}}</ref> ''Libble Rabble'' was officially released in Japan in October 1983. It was described by Namco as a "bashihi" game, a word derived from the player's arrows surrounding an object.<ref name="Libble Rabble Book"/> Namco presented the game to North American distributor [[Midway Games]] for a possible release in the United States, but executives were lukewarm towards it and declined.<ref name="Iwatani Book"/>
+
+A home conversion was released for the [[Sharp X68000]] in 1993, nearly twelve years after its original arcade release. It was then followed by versions for the [[Super Famicom]] and [[FM Towns Marty]] in 1994 — the former of which includes a special D-Pad cover that can be placed over the buttons to recreate the game's twin-stick control layout. A PC version, developed by Japanese company MediaKite, was released in 1997 and later included in the 1998 arcade game compilation ''Namco Collection Vol. 2''. It was digitally re-released for the Japanese [[Wii Virtual Console]] in 2009. The soundtrack was released for [[iTunes]] in 2011, released under the Namco Sounds label. Ports for the [[PlayStation 4]] and [[Nintendo Switch]] were released under [[Hamster Corporation|Hamster]]'s [[Arcade Archives]] brand on November 11, 2021, internationally.<ref name="Life">{{Cite web|date=2021-11-11|title=Hamster Adds Another Namco Title To Arcade Archives On Nintendo Switch|url=https://www.nintendolife.com/news/2021/11/hamster-adds-another-namco-title-to-arcade-archives-on-nintendo-switch|access-date=2021-11-11|website=Nintendo Life|language=en-GB}}</ref>
+
+==Reception and legacy==
+''Libble Rabble'' was a successful game in Japan. ''Game Machine'' listed the game on their January 15, 1984 issue as being the second most-successful new table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型新製品 (New Videos-Table Type)|magazine=Game Machine|issue=228|publisher=Amusement Press, Inc.|date=15 January 1984|page=31|lang=ja}}</ref> Japanese publication ''Amusement Life'' applauded its unique twin-stick controls and interesting gameplay, saying that it made it stick out from other games in arcades at the time.<ref name="Amusement Life">{{cite news |title=リブルラブル |url=https://archive.org/details/amusement-life-magazine-14/page/n32?q=%E3%83%AA%E3%83%96%E3%83%AB%E3%83%A9%E3%83%96%E3%83%AB |accessdate=6 October 2019 |agency=Amusement Life |issue=14 |date=February 1984 |pages=35–39}}</ref> Reviewing the [[Super Famicom]] home conversion, ''Video Games'' magazine referred to it as a "politically-correct ''Super Bomberman''", noting of its unique yet strange premise.<ref>{{cite news |last1=Constant |first1=Nikos |title=Global Gaming: Libble Rabble |url=https://archive.org/details/Video_Games_The_Ultimate_Gaming_Magazine_Issue_70_November_1994/page/n125?q=libble+rabble |accessdate=6 October 2019 |agency=Video Games |issue=70 |date=November 1994 |page=126}}</ref> In a retrospective review, ''[[Retro Gamer]]'' magazine stated that it was a "true, underappreciated classic" of the puzzle game genre, favorably comparing it to [[Taito]]'s ''[[Qix]]''.<ref name="Retro Gamer">{{cite news |author1=S.S. |title=Libble Rabble |url=https://archive.org/stream/RetroGamerIssue036-040/Retro_Gamer_Issue_040#page/n51/mode/2up/search/libble+rabble |accessdate=6 October 2019 |agency=[[Retro Gamer]] |issue=40 |date=August 2007 |pages=52–53}}</ref>
+
+In ''[[Battle City]]'', also by Namco, one of the maps resembles a Hobblin. A remix of the game's theme is featured when the player zooms in on a museum product in ''[[Namco Museum|Namco Museum Vol. 4]]''{{'}}s museum mode. The game's theme was used in one of the levels of the ''[[Pac-Man Vs.]]'' port to the [[Nintendo DS]] (as part of ''[[Namco Museum#Namco Museum DS|Namco Museum DS]]''). The game's theme was also used as Shion Uzuki's cell phone ringtone in ''[[Xenosaga]]'', a game by Namco for the [[Sony]] [[PlayStation 2]]. A medley of the songs in ''Libble Rabble'' is also included in ''[[Super Smash Bros. for Nintendo 3DS and Wii U]]'', where it plays in the [[Pac-Land]] stage on the Wii U version of the game.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{KLOV game|id=8423}}
+
+[[Category:1983 video games]]
+[[Category:Arcade Archives games]]
+[[Category:Arcade video games]]
+[[Category:FM Towns games]]
+[[Category:Hamster Corporation games]]
+[[Category:MediaKite games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Namco arcade games]]
+[[Category:Namco games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Video games developed in Japan]]
+[[Category:Virtual Console games]]
+[[Category:X68000 games]]

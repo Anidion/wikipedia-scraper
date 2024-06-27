@@ -1,0 +1,69 @@
+Cyclone (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Cyclone_%28video_game%29&oldid=1227520173
+Accessed on: 2024-06-26T16:56:35.652476
+
+
+
+------
+Cyclone (video game)
+{{Infobox video game
+| title = Cyclone
+| image = Cyclone ZX Spectrum Cover Art.jpg
+| developer = [[Vortex Software]]
+| publisher = Vortex Software
+| designer = [[Costa Panayi]]
+| engine = 
+| released = 1984
+| genre = [[Multidirectional shooter]]
+| modes = [[Single-player]]
+| platforms = [[ZX Spectrum]]
+}}
+'''''Cyclone''''' is a multidirectional helicopter game for the [[ZX Spectrum]] released by [[Vortex Software]] in 1984. It was written by Vortex co-founder [[Costa Panayi]] who also coded the similarly styled ''[[Tornado Low Level]]''.
+
+==Gameplay==
+The player controls a rescue helicopter and must retrieve five supply crates containing essential medical supplies from a collection of 14 islands, while a dangerous [[cyclone]] is in the area.
+[[File:Zx cyclone over skeg island.png|left|thumb|183x183px|In-game screenshot showing play area and HUD.]]
+While searching for the missing crates, the player may optionally earn bonus points by rescuing refugees from the islands. There is no limit on the number of crates or refugees the helicopter can carry, and the player only needs to return to Base Island after the last crate has been found and loaded.
+
+Hindering progress is the cyclone itself, which can cause the helicopter to behave erratically at long range, and crash at close range.<ref name="PCG"/> The position and progress of the cyclone can be monitored on the map enabling the player to determine when to vacate the area or when to carry out an [[emergency landing]]. While over open water the helicopter must avoid low flying planes which traverse the screen occasionally. The player also has limited fuel which can be replenished at helipads on several of the islands, and a time limit in which to retrieve the crates.
+
+The game screen is split into 2 areas, the main environment and the [[head-up display]] (HUD) that surrounds it. The heads up display contains instrumentation which includes speed, altitude, fuel remaining and time remaining.<ref name="cvg">{{Cite book|url=https://archive.org/details/computer-and-videogames-040/page/n39/mode/2up|title=Computer and Video Games Magazine Issue 040|date=February 1985}}</ref> Additionally there is also information on the number of supply crates, whether the player's current view is North or South, information on wind force and a warning to the player of the cyclone's proximity and any approaching planes.
+
+The 3D aspect of the game allows the helicopter to not only move on the x-axis (left/right on screen) and the y-axis (up/down on screen), but also on the z-axis, representing its height in the sky. Lowering the helicopter's height while directly above a crate or refugee automatically triggers the [[winch]] which pulls them up to safety.<ref>{{Cite book|url=http://archive.org/details/11-big-k-magazine|title=Big-K-Magazine Issue 11|date=February 1985}}</ref> The helicopter casts a shadow which also helps with the illusion of 3 dimensions and gives a visual cue to player's height. The graphics support this 3D environment in the form of cliffs, other terrain, buildings etc. The game also features an interesting [[Game mechanics|game mechanic]] - the view has two aspects of North and South to switch between. This allows the player to view the environment from the two different angles, essential as some crates are hidden behind buildings or [[terrain]] so can only be seen from North or South. There is also a map view to help locate the cyclone and the islands.
+
+Once completed the game loops, with the crates placed in more difficult locations each time.<ref name="PCG">{{cite news|url=https://archive.org/details/personalcomputergames-magazine-15/page/n32/mode/1up?view=theater|title=Cyclone review|last=Anderson|first=Chris|date=February 1985|work=[[Personal Computer Games]]|publisher=[[Nielsen Holdings|VNU]]|pages=32,33|access-date=12 February 2024}}</ref>
+
+==Development==
+{{Empty section|date=June 2019}}
+
+==Reception==
+{{VG reviews
+| rev1 = ''[[Computer and Video Games]]''
+| rev1Score = 35/40<ref name="cvg" />
+| rev2 = ''[[Crash (magazine)]]''
+| rev2Score = 79%<ref name=crash>{{Cite magazine|url=https://archive.org/details/crash-magazine-12/page/n75|magazine=Crash|title=Cyclone|issue=12|page=76|publisher=Newsfield|date=December 1984|access-date=6 June 2024}}</ref>
+| rev3 = ''Home Computing Weekly''
+| rev3Score = 5/5<ref>{{Cite book|url=https://archive.org/details/home-computing-weekly-094/page/n19|title=Home Computing Weekly Issue 94|date=January 1985}}</ref>
+| rev4 = ''[[Sinclair User]]''
+| rev4Score = 8/10<ref name=su34>{{Cite magazine|url=https://archive.org/details/sinclair-user-magazine-034/page/n35|magazine=Sinclair User|issue=34|page=37|date=January 1985|title=Here comes the chopper!|publisher=EMAP|access-date=6 June 2024}}</ref>
+| award1Pub = ''C+VG''
+| award1 = Game of the Month<ref name="cvg" />
+}}
+
+Following on from the success of ''[[Tornado Low Level]]'', ''Cyclone'' met favourable reviews, again praising the 3D visuals, but there were some reviewers that believed that these 3D visuals were actually a downgrade.<ref name=su34 /> The gameplay itself was again met favourably, with some favoring the departure from the "attack" gameplay of ''Tornado Low Level'', and the move towards rescue based gameplay, but some reviewers thought that there was not enough difference from its predecessor.<ref name=crash />
+
+The game entered the charts at number 13 for the week to 28 November 1984.<ref name='pcncharts'>{{cite magazine |title=Charts|magazine=Personal Computer News|issue=0|publisher=VNU|date=8 December 1984|page=5|url=https://archive.org/details/PersonalComputerNews/PersonalComputerNews090-08Dec1984/page/n5/mode/2up|access-date=22 February 2024}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WoS game|id=0001206|name=Cyclone}}
+
+[[Category:1984 video games]]
+[[Category:Helicopter video games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Vortex Software games]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

@@ -1,0 +1,73 @@
+Gravity Force
+Permalink: //en.wikipedia.org/w/index.php?title=Gravity_Force&oldid=1224487084
+Accessed on: 2024-06-26T17:06:31.516118
+
+
+
+------
+Gravity Force
+{{Infobox video game series
+| title              = Gravity Force
+| image              = Gf2-screebshots-slime.gif
+| caption            = Screenshot of ''Gravity Force 2''
+| platforms          = [[Amiga]] (all in series) <br/> [[Atari ST]], [[MS-DOS|DOS]] (original only)
+| developer          = [[Kingsoft GmbH]] (original) <br/> Jens Andersson and Jan Kronquist (sequels)
+| publisher          = [[Kingsoft GmbH]] <br /> [[Amiga Power]] 
+| genre              = [[Multidirectional shooter]]
+}}
+
+'''''Gravity Force''''' is a [[video game]] series for the [[Amiga]]. The first game in the series was published commercially by [[Kingsoft GmbH]] in 1989,<ref name="svenskvideospelsutveckling">{{cite book |last1=Sunhede |first1=Thomas |title=Svensk videospelsutveckling: från 50-tal till 90-tal |date=2016 |isbn=9789198112047 |pages=508–511}}</ref> as a [[Thrust (computer game)|Thrust]]-[[Clone (computing)|clone]]. The aim is to pilot a spacecraft through [[cave|caverns]] avoiding enemy fire. The ship is subject to gravity and inertia and colliding with terrain or the walls of the cave results in destruction of the ship.
+
+==''Gravity Force 2'' and ''Gravity Power''==
+[[File:Gf2-logo.gif|thumb|GF2 logo]]
+In 1994, fans Jens Andersson and Jan Kronquist obtained permission from creator Stephen Wenzler at Kingsoft to release a sequel, '''''Gravity Force 2'''''. They collaborated on the graphics with Christer Masmanidis, Niklas Ivarsson, and Jan Warner (of Amiga [[demoscene]] group Nexus). The game was released onto the [[Blekinge Institute of Technology]]'s student [[Bulletin_board_system|BBS]], hosted at the Soft Center business park in [[Ronneby]]. The game was re-distributed to the Datormagazin BBS, and at this point the creators published an update making the game [[shareware]]. Subsequent contributions from fans include a level editor by Richard Franks, and many unofficial levels.<ref name="svenskvideospelsutveckling" /><ref>{{cite web |title=INTERVIEW WITH JENS ANDERSSON and JAN KRONQUIST |url=https://www.amigapd.com/interview-jens-andersson--jan-kronquist.html |access-date=5 August 2022}}</ref><ref name="generation500">{{cite book |last1=Wilhemsson |first1=Jimmy |title=Generation 500 |date=2017 |publisher=Bokfabriken |isbn=9789176293706 |pages=158–161}}</ref>
+
+As a complete rewrite, sharing no code with the Kingsoft original, ''Gravity Force 2'' added destroyable walls, single player missions and a 2-player multiplayer mode, both split-screen and over a [[null modem]] cable. Sound effects were homemade recordings such as hitting a cord against a radiator and dropping fruit into water.<ref name="svenskvideospelsutveckling" /><ref name="generation500" />
+
+In 1994, ''Gravity Force 2'' attracted the attention of British computer game magazine [[Amiga Power]], who released it on the coverdisk of issue 39, and the following year ranked it the second best Amiga game of all time (behind ''[[Sensible Soccer]]''). Their endorsement continued in 1995 through the commissioning of '''''Gravity Power''''', a slightly enhanced version which was published on the coverdisk of issue 50. Amiga Power had asked for a 4-player mode, but this did not make it into the final version as it would have required substantial rework to the codebase.<ref name="svenskvideospelsutveckling" />
+
+== Reception ==
+The original ''Gravity Force'' was reviewed in 1989 by German game magazine [[Aktueller Software Markt|ASM]], receiving 75/100 points, and by [[PC PowerPlay|Power Play]] in the same year, receiving 72/100.
+
+In 1995, [[Amiga Format]] praised ''Gravity Force 2'', identifying the non-commercial nature of the game as a critical factor in its success, as he noted that the programmers did not succumb to the creative restraints from publishers and deadlines.<ref>{{cite magazine |last=McGill |first=Steve |date=April 1995 |title=Just because they're cheap... |url=http://amr.abime.net/issue_226 |magazine=Amiga Format |publisher=Future Publishing |issue=70}}</ref>
+
+In 2011, ''Gravity Power'' was named one of the [[1001 Video Games You Must Play Before You Die]].<ref>{{cite book |first=Tony |last=Mott |title=[[1001 Video Games You Must Play Before You Die]]|editor=Flammarion |year=2011| page=261 |publisher=Flammarion |isbn=978-2-0812-6217-1}}</ref> In 2016, the book ''Swedish video game development from the 50s to the 90s'' was published, featuring an interview with Andersson and  Kronquist, and in 2017 another interview featured in the book ''Generation 500'', in which the game was described as "one of the Amiga platform's most loved titles".<ref name="svenskvideospelsutveckling" /><ref name="generation500" />
+
+== Legacy ==
+A planned sequel to ''Gravity Force 2'', to be called ''gf2k'' was abandoned at an early stage in 2001.<ref>{{cite web|url=http://www.lysator.liu.se/~jensa/gf2/ |title=The Gravity-Force 2 Homepage}}</ref> The developers did eventually release a multi-platform sequel in 2015 named '''''Gravity Force 20''''', built using the [[Unity (game engine)|Unity]] engine.<ref>{{cite web |title=Gravity Force 20 |url=https://www.gravityforce20.com/ |access-date=15 August 2022}}</ref>
+
+In September 2008, the developers of ''Gravity Force 2'' released the Amiga [[Motorola 680x0]] [[assembly language]] [[source code]] for "nostalgic interest" without specified [[Software license|license]].<ref>{{cite web|url=http://www.lysator.liu.se/~jensa/gf2/ |title=The Gravity-Force 2 Homepage |quote=Jan made an archaeological expedition and recovered the GF2 source code from a dusty old floppy disc! We do not pretend it is a wonder in coding style (in fact, it is a complete disaster!), but for primarily nostalgic interest we publish it here. |date=2008-09-21 |accessdate=2013-10-13 |publisher=lysator.liu.se |author1=Jens Andersson |author2=Jan Kronqvist}}</ref> In April 2017 the authors clarified the game and source code [[Software license|license]] as [[CC BY-SA|CC BY-SA 4.0]].<ref>[http://www.lysator.liu.se/~jensa/gf2/ gf2] on lysator.liu.se: "The screenshots, the GF2 source code, and the actual Amiga game (v1.10, v1.20) are released for use under the CreativeCommons CC-BY-SA license". (April 26, 2017)</ref>
+
+Many similarly titled [[Video game clone|clones]] have since appeared.<ref>{{cite web |title=Gravity Jam |url=http://www.gravityjam.co.uk/ |access-date=15 August 2022}}</ref><ref>{{cite web |title=Gravity Power 2 |date=8 May 2013 |url=http://sourceforge.net/projects/gp2 |access-date=15 August 2022}}</ref><ref>{{cite web |title=Gravity Fight |url=http://www.anastasei.co.uk/Gravity.htm |access-date=15 August 2022}}</ref><ref>{{cite web |title=Gravastar |date=29 November 2015 |url=http://sourceforge.net/projects/gravastar |access-date=15 August 2022}}</ref><ref>{{cite web |title=Galaxy Forces |url=http://www.galaxy-forces.com}}</ref><ref>{{cite web |title=Complex Gravity |url=http://www.complexgravity.com/us/index.htm |access-date=15 August 2022}}</ref> These games are generally freeware and position themselves as direct descendants of ''Gravity Force'' and ''Gravity Power'' rather than ''Thrust''.
+
+==See also==
+* ''[[Gravitar]]'' (1982)
+* ''[[Space Taxi]]'' (1984)
+* ''[[Thrust (computer game)|Thrust]]'' (1986)
+* ''[[XPilot]]'' (1992)
+
+== References ==
+{{reflist}}
+
+==External links==
+{{commonscat|Gravity Force 2}}
+;Gravity Force
+* {{abime|id=2789}}
+* {{moby game|id=/gravity-force|name=''Gravity Force''}}
+;Gravity Force 2
+* [http://www.lysator.liu.se/~jensa/gf2/ The Gravity-Force 2 homepage]
+* {{moby game|id=/gravity-force-2|name=''Gravity Force 2''}}
+* [http://www.ricklindeman.nl/files/gravitypower.html CD32 version]
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:Multidirectional shooters]]
+[[Category:Multiplayer null modem games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video games developed in Germany]]
+[[Category:Video games developed in Sweden]]
+[[Category:Video game clones]]
+[[Category:Creative Commons-licensed video games]]
+[[Category:Freeware games]]

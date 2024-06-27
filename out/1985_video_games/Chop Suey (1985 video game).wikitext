@@ -1,0 +1,63 @@
+Chop Suey (1985 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Chop_Suey_%281985_video_game%29&oldid=1224119338
+Accessed on: 2024-06-26T16:58:14.391502
+
+
+
+------
+Chop Suey (1985 video game)
+{{short description|1985 video game}}
+
+{{Infobox video game
+| title = Chop Suey
+| image = Chop_Suey_(1985_video_game)_Title_Screen.png
+| caption = 
+| released = 1985
+| designer = Adam Billyard
+| programmer = 
+| composer = 
+| publisher = [[English Software]]<br>[[Antic Software]] (US)
+| developer = 
+| platforms = [[Atari 8-bit computers|Atari 8-bit]]
+| genre = [[Fighting game|Fighting]]
+}}
+
+'''''Chop Suey''''' is a martial arts [[fighting game]] developed by Adam Billyard for the [[Atari 8-bit computers]]. It was published in 1985 by [[English Software]].<ref name="atarimania"/> [[Antic Software]] published the game in the US.<ref name=amania_antic/> The title is a repurposing of [[American Chinese cuisine]] dish of the same name.
+
+==Gameplay==
+[[File:Chop_Suey_(1985_video_game)_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot]]
+
+''Chop Suey'' is a one-on-one martial arts fighting game. The action takes place on a box-type stage, watched by an audience sitting in several rows of seats in front of two competitors. Each successful attack on an opponent means their pain bar goes up and when the bar is full, the POW symbol will start blinking. It means the player is in a very fragile state of health - one more punch or kick and the fighter will fall. The match ends when the fighter falls eight times or the timer runs out. At the top of each wall air vents will open occasionally, allowing scorpions to drop to the floor and scuttle away. The players should avoid them at all costs, as they give potentially lethal bites.
+
+If the player is victorious, a more difficult opponent is faced in the next match.
+{{-}}
+
+==Development==
+Adam Billyard wrote some [[subroutine|routine]]s to draw large bitmapped [[Sprite (computer graphics)|sprites]], and he wanted to use them in a game. He was at college at the time, and got so absorbed into writing ''Chop Suey'' that he missed his end of the year exams and was expelled. Billyard later graduated and completed a doctorate.<ref name="halcyonab"/>
+
+''Chop Suey'' uses a variation of [[Johann Sebastian Bach]]'s [[Brandenburg Concertos|Brandenburg Concerto]] No. 3 as its title music.
+
+==Reception==
+Jim Short was impressed with ''Chop Suey'' in his review for ''[[Page 6]]'' magazine. He concluded: "English Software are onto a winner here. [...] Graphics and animation are first-rate and, perhaps more importantly, it's an easy and fun game to play. Well done, English Software!"<ref name="page6"/>
+
+==References==
+{{reflist|refs=
+<ref name="atarimania">{{cite web |title=Chop Suey (English Software) |url=http://www.atarimania.com/game-atari-400-800-xl-xe-chop-suey_1042.html |website=Atari Mania}}</ref>
+<ref name="amania_antic">{{cite web |title=Chop Suey (Antic Software) |url=http://www.atarimania.com/game-atari-400-800-xl-xe-chop-suey_6812.html |website=Atari Mania}}</ref>
+<ref name="halcyonab">{{cite web|last1=Hague|first1=James|title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers:Adam Billyard|url=https://dadgum.com/halcyon/BOOK/BILLYARD.HTM|website=dadgum.com|date=1997}}</ref>
+<ref name="page6">{{cite journal |title=Short Reviews |journal=Page 6 |date=January 1986 |pages=38–39 |url=https://archive.org/details/Page_6_Issue_19_1986-01_ABACUS_GB/page/n37/mode/2up}}</ref>
+}}
+
+==External links==
+*{{MobyGames|id=/chop-suey_}}
+
+[[Category:1985 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Karate video games]]
+[[Category:Fighting games]]
+[[Category:Video games developed in the United States]]
+[[Category:English Software games]]
+
+
+{{Videogame-stub}}

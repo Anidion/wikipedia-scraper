@@ -1,0 +1,61 @@
+Cavern Creatures
+Permalink: //en.wikipedia.org/w/index.php?title=Cavern_Creatures&oldid=1224255648
+Accessed on: 2024-06-26T16:54:43.352815
+
+
+
+------
+Cavern Creatures
+{{Short description|1983 video game}}
+{{Infobox video game
+|title = Cavern Creatures
+|image = Cavern Creatures cover.jpg
+|caption = 
+|publisher = [[Datamost]]
+|programmer = Paul Lowrance<ref name=giantlist/>
+|artist = Art Huff (title screen)
+|released = 1983
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]]
+|alt = 
+|developer =
+}}
+
+'''''Cavern Creatures''''' is a vertically [[scrolling shooter]] for the [[Apple II]] written by Paul Lowrance and published by [[Datamost]] in 1983.<ref name=giantlist/> The title screen artwork is by Art Huff. The game is similar to the 1981 game ''[[Caverns of Mars]]'' for the [[Atari 8-bit computers]].<ref name="shore19840102"/>
+
+==Gameplay==
+{{Unreferenced section|date=May 2023}}
+
+The player controls a small craft, navigating it through a series of winding caverns and tunnels while shooting or avoiding obstacles.  The caverns [[Vertically scrolling video game|scroll from the bottom of the screen to the top at a fixed speed]], so the player must always move forward.
+
+The obstacles filling the tunnels are mostly the eponymous "creatures" and appear as simple icons like smiley faces, floppy diskettes, birds, eyes, apples, bunches of grapes, ''[[Pac-Man]]'' ghosts, baseball hats, turrets, etc.  Many of these objects are animated, but they do not actually move about.  The player's craft fires bolts of energy simultaneously in three directions (left, right and forward) that destroy the creatures but consume the ship's energy, tracked by a green bar at the bottom of the screen. Energy is replenished by shooting occasional "tanks" on the tunnel walls.
+
+Special objects in the caverns include indestructible [[Rubik's cube]]-like boxes that can be shot to gain extra points, indestructible wriggling snakes (one of the cavern's few mobile opponents), and pulsing energy barriers.
+
+The craft is destroyed if it strikes any object or the cavern wall; a new one can be put back into play at any position on the screen.  The game ends when the last craft is destroyed or when the player beats the final challenge.  The game's introduction promises that "the end battle will be a surprise that no one can miss."
+
+==Reception==
+''[[Softline (magazine)|Softline]]'' noted ''Cavern Creatures''{{'}} resemblance to the Atari 8-bit game ''[[Caverns of Mars]]'' and called the graphics "top-notch" and "wonderful". The magazine concluded that it "combines the best action of maze games with the excitement and challenge of the arcade".<ref name="shore19840102">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=15 | title=Cavern Creatures | work=Softline | date=Jan–Feb 1984 | accessdate=29 July 2014 | author=Shore, Howard A. | pages=49–50}}</ref>
+
+''[[Computer Gaming World]]'' wrote, "This is a case of 'The box artwork has little to do with the game'. The 'creatures' in this game are an assortment of symbols...but not the green meany on the box cover," and also "The underground city looks nice, the game is so-so."<ref>{{cite magazine |title=Taking a Peek: Cavern Creatures |magazine=Computer Gaming World |date=February 1984 |volume=4 |issue=1 |page=8 |url=https://archive.org/details/Computer_Gaming_World_Issue_4.1/page/n7}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web |last=Hague |first=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+*{{IAg|a2_Cavern_Creatures_1983_Datamost}}
+
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:1983 video games]]
+[[Category:Datamost games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+
+
+{{scroll-shooter-videogame-stub}}

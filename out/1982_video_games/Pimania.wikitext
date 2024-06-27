@@ -1,0 +1,58 @@
+Pimania
+Permalink: //en.wikipedia.org/w/index.php?title=Pimania&oldid=1155308190
+Accessed on: 2024-06-26T16:53:50.991860
+
+
+
+------
+Pimania
+{{Short description|1982 video game}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Pimania
+| image = Pimania cover.jpg
+| alt = 
+| caption = 
+| developer = [[Mel Croucher]] 
+| publisher = [[Automata UK]]
+| series = 
+| engine = 
+| platforms = [[BBC Micro]], [[ZX Spectrum]], [[Dragon 32]], [[Sinclair ZX81]]
+| released = October 1982<ref>{{Cite web|url=https://archive.org/details/Computer_Video_Games_Issue_013_1982-11_EMAP_Publishing_GB/page/n83/mode/2up|title = Computer & Video Games - Issue 013 (1982-11)(EMAP Publishing)(GB)|date = November 1982}}</ref>
+| genre = Adventure
+| modes = 
+}}
+'''''Pimania''''' is a text-and-graphics [[adventure game]] written by [[Mel Croucher]] and released by [[Automata UK]] in 1982 for  the [[BBC Micro]], [[ZX Spectrum]], [[Dragon 32]], and [[Sinclair ZX81]]. It was the first real-life video game [[Treasure hunt (game)|treasure hunt]] to be released.<ref>{{cite book |date=2008|title=''Guinness World Records Gamer's Edition 2008''|url= |location=Guinness World Records Ltd |publisher= |page=73 |isbn=978-1-904994-20-6|last1=Limited|first1=Guinness World Records}}</ref> It was inspired by the 1979 [[Kit Williams]] book ''[[Masquerade (book)|Masquerade]]''.<ref>{{Cite web|url=https://archive.org/details/Computer_Video_Games_Issue_013_1982-11_EMAP_Publishing_GB/page/n83/mode/2up|title = Computer & Video Games - Issue 013 (1982-11)(EMAP Publishing)(GB)|date = November 1982}}</ref> Automata gave a prize of a golden sundial worth £6,000 ({{Inflation|UK|6000|1982|fmt=eq|r=-2|cursign=£}}) for the first person to solve the various cryptic clues to its location that were hidden within ''Pimania''. 
+
+== Gameplay ==
+
+[[File:Pimania screenshot (ZX81).png|thumb|left|ZX81 intro screen]]
+The player negotiates a surreal landscape with the aid of the mysterious Pi-Man, Automata's mascot.<ref>[http://theconversation.com/how-punk-and-thatcherism-came-together-in-the-surreal-zx-spectrum-pimania-craze-74866 The Conversation: How punk and Thatcherism came together in the surreal ZX Spectrum Pimania craze]</ref> The [[B-side]] of the game cassette features a bizarre Pimania song played on a [[Casio VL-Tone|VL-Tone]] and vocals. The Pi-Man also starred in his own long-running, surreal, comic-strip, soap opera in the company's adverts on the back page of ''[[Popular Computing Weekly]]'' magazine and appeared in several subsequent games by the company of different kinds, such as ''[[Piromania]]'' and ''[[Piballed]]''.
+
+The sundial was eventually won in 1985 by Sue Cooper and Lizi Newman, who correctly worked out that it could only be found on 22 July (because [[pi|π]] is sometimes rounded to 22/7) at the [[Litlington White Horse]] on Hindover Hill near [[Litlington, East Sussex]].<ref name="cvg-198510">{{Cite journal|author=<!--Staff writer(s); no by-line.--> |date=October 1985 |title=PiMania – The sundial is revealed! |url=https://worldofspectrum.org/hardware/piwin.html |journal=Computer and Video Games |access-date=21 November 2020}}</ref>
+
+==Legacy==
+The [[BASIC]] [[source code]] listing of the game is available online.<ref>[http://www.zx81stuff.org.uk/zx81/tape/Pimania ''Pimania''] on ZX81stuff.org (2005)</ref>
+
+In 2010 Feeding Tube Records, a small label in the United States, released "Pimania: The Music of Mel Croucher & Automata U.K., Ltd.", a deluxe vinyl [[LP album]] of the musical B-Sides to the Pimania games, as well as tracks from other Automata releases. The album came with extensive liner notes by Croucher and Caroline Bren, as well as a large poster featuring selections from the original Automata print campaigns and was issued in a one time edition of 500 copies.<ref>[http://www.feedingtuberecords.com "Pimania: The Music of Mel Croucher & Automata U.K., Ltd."] LP on feedingtuberecords.com</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{WoS_game|id=0003714}}
+*[http://www.worldofspectrum.org/hardware/pi.html Information and the solution to the game]
+*[http://www.feedingtuberecords.com "Pimania: The Music of Mel Croucher & Automata U.K., Ltd." LP]
+*[http://www.zx81stuff.org.uk/zx81/tape/Pimania ''Pimania''] ZX81 Collection entry with the original inlay scan and program listing.  An emulator is available on the site to play the game online.
+
+[[Category:1982 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Dragon 32 games]]
+[[Category:Puzzle hunts]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX81 games]]
+[[Category:ZX Spectrum games]]
+[[Category:Automata UK games]]

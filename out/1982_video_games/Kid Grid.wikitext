@@ -1,0 +1,66 @@
+Kid Grid
+Permalink: //en.wikipedia.org/w/index.php?title=Kid_Grid&oldid=1224580035
+Accessed on: 2024-06-26T16:53:34.766774
+
+
+
+------
+Kid Grid
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Kid Grid
+| image = Kid Grid cover.jpg
+| caption =
+| released = '''1982:''' Atari<br>'''1983:''' C64
+| designer =
+| programmer = Arti Haroutunian<ref name=giantlist/>
+| publisher = Tronix
+| developer = Tronix
+| platforms = [[Atari 8-bit]], [[Commodore 64]]
+| genre = [[Maze video game|Maze]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Kid Grid''''' is a [[List of maze video games#Grid capture games|grid capture game]] which borrows heavily from the 1981 [[arcade video game]] ''[[Amidar]]''.<ref name=eg/><ref name=efun/> Written by Arti Haroutunian for [[Atari 8-bit computers]], it was published by Tronix in 1982.<ref name=giantlist/> A [[Commodore 64]] port from the same programmer was released in 1983.<ref>{{lemon64 game|name=Kid Grid|id=1432}}</ref> In ''Kid Grid'', the player moves along the horizontal and vertical lines of the playfield, turning the lines from dotted gray to solid blue. If all the lines around a square are completed, it is filled-in. Deadly creatures chase the player.
+
+==Gameplay==
+[[Image:Kid_Grid_Atari_8-bit_screenshot.png|thumb|left|The Kid, just below screen center, trailing a blue line (Atari 8-bit)]]
+
+The objective is to color all of the lines on the grid by moving over them, capturing the 35 squares. Four pursuers kill the player on contact: Moose, Squashface, Muggy, and Thuggy.<ref name=man/> They are visually unique, but have the same behavior. Question marks randomly appear in some squares which give bonus points when captured.<ref name=cc/> Pressing the joystick button briefly stuns the enemies so they don't move and can be passed through by the player (analogous to "jumps" in ''Amidar'').<ref name=man/> A fixed number of stuns are available.
+
+There are five selectable difficulty levels, and the game can be played with 3, 5, or 7 stuns.<ref name=efun/>
+
+==Development==
+Arti Haroutunian wrote ''Kid Grid'' in two months using the [[Atari Assembler Editor]] cartridge.<ref name=ellison/> He programmed the Commodore 64 port himself. Tronix ran magazine adverts promoting both ''Kid Grid'' and another game by Haroutunian, ''Juice!'', mentioning him by name.<ref>{{cite web |title=Tronix magazine ad |url=http://www.atarimania.com/pubs/hi_res/pub_tronix.jpg |website=Atari Mania}}</ref>
+
+==Reception==
+The reviewer for ''[[Antic (magazine)|Antic]]'' called it, "the most exciting mutation of ''Pac-Man'' I have ever played."<ref name="antic">{{cite journal |last1=Welch |first1=Bryan |title=Product Reviews: Kid Grid |journal=Antic |date=August 1983 |volume=2 |issue=8 |url=https://archive.org/details/1983-08-anticmagazine/page/n91/mode/2up |page=92}}</ref> [[David H. Ahl]] criticized the simplistic sound effects, but concluded, "All in all, we found ''Kid Grid'' to be one of the most playable and addictive games around. It is cute, fast, and fun."<ref name="cc">{{cite journal |last1=Ahl |first1=David H. |title=Thirteen Great New Games |journal=Creative Computing |date=May 1984 |page=121 |url=https://archive.org/details/Creative_Computing_1984-05/page/n121/mode/2up}}</ref> ''[[Electronic Games]]'' wrote, "The play mechanic alone makes this one of the most compulsive, utterly addictive contests in the world of computer gaming" and "''Kid Grid'' has play value coming out of its ears and enough speed to give even its inspiration, ''Amidar'', a run for its money."<ref name="eg">{{cite journal |last1=Richardson |first1=Will |title=Computer Gaming: Kid Grid |journal=Electronic Games |date=May 1983 |volume=1 |issue=15 |pages=66–67 |url=https://archive.org/details/Electronic_Games_Volume_01_Number_15_1983-05_Reese_Communications_US/page/n65/mode/2up}}</ref>
+
+''[[Electronic Fun with  Computers & Games]]'' also compared ''Kid Grid'' to ''Amidar'', calling out three differences: "The grid is square, not irregular...there is no bonus round (or bonus points for finishing a grid) and the monsters are more intent on killing you and less intent on having a good time."<ref name=efun/>
+
+In a "C−" review, ''Addison Wesley Book of Atari Software 1984'' wrote, "the game's utter simplicity works against it after repeated play. There is only one maze and a simple strategy to keep one step ahead of the pursuing creatures."<ref>{{cite book |title=Addison Wesley Book of Atari Software 1984 |date=1984 |publisher=Addison Wesley |page=135 |url=https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n135/mode/2up |via=archive.org}}</ref>
+
+==See also==
+*''[[Time Runner (video game)|Time Runner]]''
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|url=https://dadgum.com/giantlist|title=The Giant List of Classic Game Programmers|last1=Hague|first1=James}}</ref>
+<ref name=man>{{cite web |title=Kid Grid Atari Manual |url=https://archive.org/details/KidGridTronix/mode/2up |website=archive.org |publisher=Tronix |date=1982}}</ref>
+<ref name=ellison>{{cite journal |last1=Ellison |first1=Peter |title=Interview: Arti Haroutunian |journal=ROM |date=April 1984 |issue=5 |page=8 |url=https://www.atarimagazines.com/rom/issue5/interview.php}}</ref>
+<ref name=efun>{{cite journal |last1=van Horn |first1=Shisha |title=Kid Grid |journal=Electronic Fun with Computers & Games |date=February 1983 |page=65 |url=http://www.ataricompendium.com/archives/magazines/electronic_fun/electronic_fun_feb83.pdf}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=2781}}
+*[https://archive.org/details/commodore-power-play-10/page/n15/mode/2up Review] in ''[[Commodore Power/Play]]''
+*[https://archive.org/details/CreativeComputingbetterScan198309/page/n115/mode/2up Review] in ''[[Creative Computing]]''
+*[https://archive.org/details/Creative_Computing_1984-05/page/n121/mode/2up Review] in ''[[Creative Computing]]''
+
+[[Category:1982 video games]]
+[[Category:Amidar clones]]
+[[Category:Maze games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

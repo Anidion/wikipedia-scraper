@@ -1,0 +1,87 @@
+Sneakers (1981 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sneakers_%281981_video_game%29&oldid=1224582452
+Accessed on: 2024-06-26T16:52:36.007517
+
+
+
+------
+Sneakers (1981 video game)
+{{Short description|1981 video game}}
+{{Infobox video game
+|title = Sneakers
+|image = Sneakers cover.jpg
+|caption= 
+|developer = 
+|publisher = [[Sirius Software]]
+|designer = [[Mark Turmell]]<ref name="giantlist">{{citation|url=https://dadgum.com/giantlist/ |title=The Giant List of Classic Game Programmers |last1=Hague |first1=James}}</ref>
+|programmer = '''Apple II'''<br>Mark Turmell<br>'''Atari 8-bit'''<br>Hunter Hancock<ref name=giantlist/>
+|released = July 1981
+|genre = [[Fixed shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]]
+}}
+
+'''''Sneakers''''' is a [[fixed shooter]] [[video game]] for the [[Apple II]] written by [[Mark Turmell]] and published by [[Sirius Software]] in 1981. A version for [[Atari 8-bit computers]] was released the same year. ''Sneakers'' was Turmell's first published game. He later was the lead designer and programmer of 1993's ''[[NBA Jam (1993 video game)|NBA Jam]]''.<ref name="giantlist"/>
+
+== Gameplay ==
+<!-- Deleted image removed: [[File:Sneakers (Apple II) title.png|thumb|right|250px|Starting screen]] -->
+The player uses either the [[paddle (game controller)|paddles]] or the keyboard to move a ship left or right across the bottom of the screen while shooting or evading enemies. If an enemy destroys the ship, a much larger mothership will descend and put a new one into play. The player begins with four ships in reserve and receives an additional one for each level completed. There are eight kinds of enemy the player must face, each of which attacks in a wave of its own with a unique strategy. After completing all eight waves, play proceeds to the next level in which the same enemies attack again, but in greater numbers or more challenging ways.
+
+'''Wave 1: Sneakers'''
+
+The first wave pits the player against the innocuous "Sneakers", smiling, white-legged creatures that fly randomly around the screen. If one collides with the ship it will destroy it, but otherwise they do not pursue or fire upon it. Sneakers are blue when flying freely, but turn red when sitting on the ground or traveling vertically. Each is worth 10 points.
+
+'''Wave 2: Cyclops'''
+
+The Cyclops are small red, blue and white craft with a single black "eye" that sweeps back and forth.  They travel straight across the screen from left to right, and whenever fired upon accelerate and descend slightly.  Missing too many shots will bring them low enough that they collide with the ship.  Cyclops are worth 25 points.
+
+'''Wave 3: Saucers'''
+
+Resembling [[flying saucer]]s, these ships drop a steady rain of bombs as they fly back and forth.  When destroyed, they sometimes release a larger, more powerful bomb that can unexpectedly veer diagonally.  Saucers are 30 points each.
+
+'''Wave 4: Fangs'''
+
+The insect-like "Fangs" dance back and forth in formation near the top of the screen, and will sometimes morph into an indestructible, falling spiked form.  Fangs are 35 points.
+
+'''Wave 5: H-Wings'''
+
+The [[TIE fighter]]-ish ships in this wave don't fire, but move quickly and are difficult to avoid.  Destroying one earns the player 50 points.  These enemies were named for the H Wing of [[Delta College (Michigan)|Delta College]] where creator Mark Turmell attended computer classes.
+
+'''Wave 6: Meteors'''
+
+The player moves through a dense field of [[meteoroid]]s and occasional asteroids. These can be shot at and destroyed, but most must simply be avoided.  If the player destroys enough of the objects in this wave, the game may award bonus points.
+
+'''Wave 7: Scrambles'''
+
+Scrambles are colorful triangular objects that fall toward the ship.  Each one must be shot and deflected several times to complete the wave.
+
+'''Wave 8: Scrubs'''
+
+The final wave consists of diagonally-moving formations of small blue objects called "Scrubs".  Shooting a Scrub will cause it to break formation and slowly fall.  Shooting it again in this form earns extra points, but causes it to fall much more quickly.
+
+==Development==
+''Sneakers'' was Mark Turmell's first game, begun shortly after teaching himself [[MOS Technology 6502|6502]] [[assembly language]] on an Apple II. He recounted that making the game "took me about eight months. I sent it to a company in California, who bought it and started sending me royalty checks a month later. Here I was, it's 1980 and I'm only 17, getting checks for $10,000 a month!"<ref>{{cite magazine|title=Making his Mark: Programmer Mark Turmell|magazine=[[GamePro]]|issue=86|publisher=[[International Data Group|IDG]]|date=November 1995|pages=36–37}}</ref>
+
+==Reception==
+Within two months after its July 1981 release Sirius had sold 10,000 copies, and by October ''Sneakers'' was ninth on the ''[[Softalk]]'' Top Thirty list.<ref name="voss198111">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1981&pub=6&id=2 | title=An Interview with Mark Turmell | work=Softline | date=November 1981 | access-date=13 July 2014 | author=Voss, Greg | pages=22}}</ref>
+
+''[[Softline (magazine)|Softline]]'' in 1981 liked the graphics and gameplay.<ref name="durkee198109">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1981&pub=6&id=1 | title=Sneakers | work=Softline | date=September 1981 | access-date=13 July 2014 | author=Durkee, David W. | pages=18}}</ref> [[David H. Ahl]] of ''[[Creative Computing (magazine)|Creative Computing]] Video & Arcade Games'' in 1983 said that even those who found the game difficult enjoyed it.<ref name="ccvag1983spring">{{Cite magazine |last1=Ahl |first1=David H. |last2=Brill |first2=Andrew |last3=Lubar |first3=David |author-link3=David Lubar |last4=Coffey |first4=Michael |last5=Archibald |first5=Dale |date=Spring 1983 |title=Apple Computer Games |url=http://www.atarimagazines.com/cva/v1n1/applegames.php |magazine=Creative Computing Video & Arcade Games |volume=1 |issue=1 |page=86}}</ref> ''The Book of Atari Software 1983'' called the game "highly entertaining" in a B+ review.<ref>{{cite book |title=The Book of Atari Software 1983 |date=1983 |publisher=The Book Company |page=83 |url=https://archive.org/details/book_atari_software_1983/page/n74/mode/1up}}</ref>
+
+''Sneakers'' received a Certificate of Merit in the category of "Most Humorous Home Arcade Game" at the 4th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1983 |title= Arcade Alley: The Fourth Annual Arcade Awards |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 11|pages= 30, 108|issn= 0147-8907}}</ref>{{rp|108}}
+
+==Legacy==
+The sneakers appear as antagonists in the 1982 [[Atari 2600]] game ''Fast Eddie'', also written by Turmell.<ref>{{cite web |title=Fast Eddie |url=http://www.atarimania.com/game-atari-2600-vcs-fast-eddie_8018.html |website=Atari Mania}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{atarimania|id=4764}}
+
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Fixed shooters]]
+[[Category:Sirius Software games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

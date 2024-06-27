@@ -1,0 +1,170 @@
+Super Monaco GP
+Permalink: //en.wikipedia.org/w/index.php?title=Super_Monaco_GP&oldid=1212733007
+Accessed on: 2024-06-26T17:07:32.253573
+
+
+
+------
+Super Monaco GP
+{{short description|1989 video game}}
+{{good article}}
+{{Infobox video game
+| title = Super Monaco GP
+| image = Super Monaco GP Coverart.png
+| developer = [[Sega]]
+| publisher = Sega
+| platforms = [[Arcade game|Arcade]], [[Mega Drive/Genesis]], [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[Game Gear]], [[Master System]], [[ZX Spectrum]]
+| released = {{vgrelease|JP|May 28, 1989<ref>{{cite web |title=Super Monaco G P (Registration Number PA0000421675) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=9 August 2021}}</ref>|WW|May 1989}}
+| genre = [[Racing video game|Racing]]
+| series = ''Monaco GP''
+| modes = [[Single-player video game|Single-player]], [[Multiplayer|up to 8 players]] (arcade)<ref name=":110"/><ref name=":0"/>
+| arcade system = [[Sega X Board]]
+| director = [[Hisao Oguchi]]
+| caption = Japanese arcade flyer
+}}
+
+{{nihongo foot|'''''Super Monaco GP'''''|スーパーモナコGP|Sūpā Monako GP|lead=yes|group=lower-alpha}} is a [[Formula One]] [[racing simulation]] video game released by [[Sega]], originally as a [[Sega X Board]] [[arcade game]] in 1989, followed by [[Porting|ports]] for multiple [[video game console]]s and [[home computer]]s in the early 1990s. It is the sequel to the 1979 arcade game ''[[Monaco GP (arcade game)|Monaco GP]]''. The arcade game consists of one race, the [[Monaco Grand Prix]], but later ports added more courses and game modes based on the [[1989 Formula One World Championship]].
+
+The original concept for ''Super Monaco GP'' came from [[Hisao Oguchi]], who was at the time a game planner with Sega. The arcade game contained parodies of actual brands that were sponsors in Formula One, which led to a lawsuit from [[Philip Morris USA|Philip Morris]] over advertising of [[tobacco]] products. Shortly after the arcade game launch, ''Super Monaco GP'' was ported to Sega's video game consoles, the [[Sega Genesis|Genesis]], [[Game Gear]], and [[Master System]]. British developer [[U.S. Gold]] published ports for [[home computers]].
+
+The arcade game was a major worldwide hit; in Japan, it was the third highest-grossing [[1989 in video games|arcade game of 1989]] and then the highest-grossing dedicated [[1990 in video games|arcade game of 1990]]. The arcade and Genesis versions received positive reviews from critics, focused on the game's graphics and playability. Ports for [[8-bit computing|8-bit]] systems ranged from mixed to generally favorable depending on the platforms, with the conversions less well received for their difficulty and differences in gameplay.
+
+==Gameplay==
+[[File:SuperMonacoGPscreenshot.jpg|alt=An F1 car racing around a corner|thumb|left|A typical in-game screenshot from the arcade version of ''Super Monaco GP''.  The [[rear-view mirror]] is at the top, and information is provided to the player all over the screen.]]
+
+In the arcade version of ''Super Monaco GP'', the game is a simulation of the [[Monaco Grand Prix]],<ref name="cvg" /> although the actual [[Circuit de Monaco]] is replaced by a fictional track that includes many features of the actual circuit.<ref name=":12">{{Cite magazine|last=Thorpe|first=Nick|date=April 2016|title=Ultimate Guide: Super Monaco GP|url=|magazine=[[Retro Gamer]]|issue=153|page=|pages=42–47|doi=|pmid=|access-date=}}</ref> Players must qualify for the race around a short circuit before playing the main race;<ref name="cvg" /> failing to complete the lap before the 45-second timer ends results in a [[Game over|Game Over]].<ref name="commodore_user" /><ref name="sinclair_user" /> Performance on the practice lap will determine the player's starting grid position.<ref name=":12"/><ref name="commodore_user" /> The race is then played against 19 computer controlled drivers, and players have to maintain above a position limit which counts down, or else the game ends.<ref name="ace" /> Completing the race in third place or better allows the player to race again in wet conditions.<ref name=":12"/>
+
+Each race consists of three laps on the main track. Before a race begins, the player has selection of the car's [[Transmission (mechanics)|transmission]], among an automatic, 4-speed manual, and 7-speed manual.<ref name=":12"/><ref name="commodore_user" /> Players control their car with a steering wheel and shift with plates mounted behind the wheel,<ref name="sinclair_user" /> in a similar system to cars made by [[Ferrari]]. Acceleration and braking are handled by pedals.<ref name="ace" /> The top 20% of the game screen serves like a [[rear-view mirror]], allowing players to see behind their car.<ref name="sinclair_user" />
+
+In the arcades, up to eight cabinets are able to be linked via Sega's "Power Link" cable.<ref name=":110" /><ref name=":0"/> In addition to the arcade mode, the [[Sega Genesis]] version adds a World Championship mode to the gameplay. In the mode, players race against computer-controlled opponents across racetracks including [[Brands Hatch]] and [[Hockenheimring]],<ref name=":5" /> encompassing all of the tracks of the [[1989 Formula One World Championship]].<ref name=":12"/><ref name=":7" /> The goal of the game is to win the World Championship against other drivers. During the course of a season, players are able to be invited to join a better racing team, giving them a faster car to race.<ref name="mean_machines" /> A password system is used to save progress in the World Championship mode, which takes approximately two hours to complete.<ref name="raze" /> The [[Sega CD]] version is mostly identical to the Genesis version with minor improvements to the game's sound effects.<ref name=":12"/>
+
+Unlike the Genesis [[Porting|port]], the [[Master System]] version is not a true conversion of the original arcade game. The game includes a Grand Prix mode, which allows the player to race on a series of tracks, as well as a versus mode where two players can compete in a race between one and nine laps. The transmission selection is also different, allowing selections between 3, 5, and 7 speeds.<ref name=":9" /> The [[Amiga]] and [[Commodore 64]] ports each offer four tracks for play with arcade mode,<ref name=":2" /> and the Amiga release offers the option of steering with either a joystick or a mouse.<ref name=":10" />
+
+==History and technical aspects==
+[[File:Super Monaco GP.jpg|alt=A standing arcade cabinet designed like a F1 race car with its nose pointed toward the ceiling|thumb|A ''Super Monaco GP'' upright arcade cabinet]]
+The idea for ''Super Monaco GP''<nowiki/>'s arcade version came from [[Hisao Oguchi]], who was at the time a game planner with Sega.<ref name=":110">{{Cite book|last=Horowitz|first=Ken|title=The Sega Arcade Revolution, A History in 62 Games|publisher=[[McFarland & Company]]|year=2018|isbn=9781476631967|pages=144–148|ref=refHorowitz2018}}</ref><ref>{{Cite web|title=Interview: Hisao Oguchi|url=https://sega.jp/fb/album/02_dp/02.html|url-status=live|archive-url=https://web.archive.org/web/20160622100538/http://sega.jp/fb/album/02_dp/02.html|archive-date=June 22, 2016|access-date=September 9, 2020|website=Sega.jp|publisher=[[Sega]]}}</ref> At a younger age, Oguchi had played ''[[Monaco GP (video game)|Monaco GP]]'', released by Sega in 1979. When Oguchi decided to design a game based on Formula One, he started with a different name but chose ''Super Monaco GP'' after listening to opinions that the name was a good one. He referenced a parallel between the Monaco Grand Prix being the top event in racing and Sega being the top company in arcades.<ref>{{Cite magazine|date=February 1991|title=Sega Masterpiece Development Secret Story - Old Days Story: Monaco GP vs. Super Monaco GP|magazine=Beep! MegaDrive|language=ja|page=123}}</ref> The game was also developed for the tenth anniversary of ''Monaco GP''.<ref name=":12" />
+
+''Super Monaco GP'' was the first arcade game where the arcade cabinet gave direct feedback in response to gameplay. The game's steering wheel includes [[Haptic technology|force feedback]] with precision in response to the player's movements in-game. Utilizing the [[Sega X Board]] for an [[arcade system board]], ''Super Monaco GP'' runs at 60 [[Frame rate|frames per second]] and displays on a 26 inch screen.<ref name=":110" /> The cabinet also includes a [[Fresnel lens]] to make the image on the game appear larger. The deluxe arcade cabinet came equipped with Sega's "Air Drive" system that would move the driver's seat and blow air into the cockpit to increase the sense of realism the player would feel. Up to eight cabinets are able to be linked via Sega's "Power Link" cable that was first demonstrated at the 1988 AMOA show.<ref name=":110" /><ref name=":0">{{Cite magazine|date=August 12, 1989|title=Sega's Super Monaco GP|magazine=[[Cashbox (magazine)|Cashbox]]|page=32}}</ref><ref name="VT">{{cite magazine |title=Pedal To The Metal: Sega Set To Speed, Swing, Sidekick Into The 1990s With New Fall Line |magazine=[[Vending Times]] |date=August 1989 |volume=29 |issue=10 |pages=52–5 |url=https://archive.org/details/VendingTimesVOL29NO10August1989Clearscan/page/n47}}</ref> Both a deluxe and an upright version of the cabinet were available,<ref name=":0" /> and all models were painted to look like cars from F1 team [[McLaren]], the team of 1988 F1 champion [[Ayrton Senna]].<ref name=":110" />
+
+''Super Monaco GP'' was released for arcades in May 1989 in Japan. It debuted in the United States in August the same year, when Sega Enterprises USA president Tom Petit debuted it to arcade distributors at the [[Sofitel|Sofitel Hotel]] in [[Chicago]]. There, Petit revealed to approximately 40 other companies the success the game had in Europe and Asia, and its successful test results in the US, as well as a North American launch date in September.<ref name=":110" /><ref>{{Cite magazine|last=Compasio|first=Camille|date=August 26, 1989|title=Sega Hosts 'Super' Distribs Conclave in Chicago|magazine=[[Cashbox (magazine)|Cashbox]]|page=30}}</ref><ref>{{Cite magazine|date=September 1989|title=Sega Ships Super Monaco Link-Up Driver, a Kit and Golf Upright Pop|magazine=RePlay|page=134}}</ref> Shortly after the arcade release, ''Super Monaco GP'' was ported to the Sega Genesis, [[Game Gear]], and Master System,<ref name=":110" /> and was also released for the Sega CD as part of ''[[Sega Classics Arcade Collection]]''.<ref name=":12" /> The Game Gear release was one of three [[launch title]]s for the system.<ref name=":12" /> To make up for the lack of engagement the home game had in comparison to the arcade cabinet, Sega added more tracks and gameplay modes.<ref name=":110" /> It was also ported by [[Probe Software]] and published by [[U.S. Gold]] to [[Personal computer|computers]],<ref name=":12" /> including the Amiga,<ref name=":10" /> Commodore 64,<ref name=":2" /> [[Atari ST]],<ref name=":3" /> [[Amstrad CPC]],<ref name="joystick" /> and [[ZX Spectrum]].<ref name=":4" /> According to programmer David Shea, who did the port for the ZX Spectrum, the idea of the port was more about capturing the spirit of the arcade game rather than trying to replicate it.<ref name=":12" />
+
+===Phillip Morris controversy===
+[[File:Senna 1988.jpg|alt=An orange and white F1 car being driven by Ayrton Senna|thumb|right|''Super Monaco GP''<nowiki/>'s arcade cabinets were designed to look like F1 cars from [[McLaren]] and 1988 F1 champion [[Ayrton Senna]]. McLaren's sponsor, cigarette brand [[Marlboro (cigarette)|Marlboro]], was parodied as "Marlbobo" in the arcade game's initial release, prompting a lawsuit from the brand's manufacturer, [[Philip Morris USA|Philip Morris]].]]
+Although the initial release to distributors of the arcade version had been very popular, ''Super Monaco GP'' was the subject of a lawsuit by [[Philip Morris USA|Philip Morris]] over its [[Marlboro (cigarette)|Marlboro]] brand of cigarettes being parodied in the game as "Marlbobo".<ref name="playboy" /> It had not been the only brand to be parodied, as brands such as [[Ford Motor Company|Ford]] were parodied as "Fodo", [[BP]] as "BF", [[Honda]] as "Henda", [[Fédération Internationale de l'Automobile|FIA]] as "EIA" and [[Canon Inc.|Canon]] as "Conan",<ref name=":110" /> in addition to use of ''[[Playboy]]'' images of models edited to wear swimsuits.<ref name="playboy">{{Cite web |last=Kalata |first=Kurt |date=August 23, 2018 |title=Cease and Desist – Parodies and Infringement in Video Games – Hardcore Gaming 101 |url=http://www.hardcoregaming101.net/cease-and-desist-parodies-and-infringement-in-video-games/ |access-date=January 18, 2022 |website=Hardcore Gaming 101 |language=en-US}}</ref> However, the in-game appearances of "Marlbobo" had led to a complaint to the U.S. [[Federal Trade Commission]] by a professor from the [[Medical College of Georgia]] that ''Super Monaco GP'' was advertising cigarettes to children, the majority of players of arcade games.<ref name=":110" /> Philip Morris contacted Sega over the issue in November 1989, and Sega agreed to release a conversion kit removing the advertising in March 1990; the offending parody (as well as parody of [[Foster's Beer|Foster's]] called "Hoster's") were replaced with logos for ''[[Flicky]]'', an older Sega arcade game.<ref name=":12"/> Sega argued the parodies were the attempts of game developers to create a realistic environment.<ref name=":110" /> With arcade units still featuring the parody after this release, Philip Morris sued Sega in February 1991.<ref name=":12" /> The tobacco company had also sued [[Namco]] over Marlboro imagery in its 1987 game ''[[Final Lap]]''.<ref>{{Cite journal|last1=Forsyth|first1=Susan|last2=McDaniel|first2=Patricia A.|date=February 5, 2020|title='Cease and desist?' The persistence of Marlboro brand imagery in racing video games|url=https://escholarship.org/content/qt03d5g49s/qt03d5g49s_noSplash_df2b2bbcd411e2a150134442397de8ee.pdf?t=q5lf4m|journal=[[Tobacco Control (journal)|Tobacco Control]]|volume=29|issue=e1|pages=tobaccocontrol-2019-055300|doi=10.1136/tobaccocontrol-2019-055300|pmid=32024771|s2cid=211048290}}</ref> Philip Morris wanted a total recall of the game as well as financial compensation and all advertising material destroyed, but settled with Sega in May 1992.<ref name=":110" /> As a condition of the settlement, Sega ran advertisements in arcade publications ''RePlay'' and ''[[Play Meter]]'' to offer to replace the chips in the game with new ones without advertising and pay each arcade operator $200 for returning the original chips.<ref name=":12" /> After the settlement, some tobacco critics were critical of Philip Morris' actions in the suit, calling the tobacco company's actions a [[publicity stunt]].<ref>{{Cite web|last=Gladstone|first=Rick|date=May 7, 1992|title=Philip Morris, Sega Reach Settlement in Trademark Suit|url=https://apnews.com/dc2edd6a5bea8dbadf453f8fb2211915|url-status=live|archive-url=https://web.archive.org/web/20191129123446/https://apnews.com/dc2edd6a5bea8dbadf453f8fb2211915|archive-date=November 29, 2019|access-date=September 15, 2020|website=[[Associated Press]]}}</ref>
+
+==Reception==
+{{Video game reviews
+|title=Reviews
+<!-- Formatting -->
+|na=false
+<!-- Turn on platform -->
+|ARC=true
+|SMD=true
+|SMS=true
+|SGG=true
+|AMI=true
+|ZX=true
+<!-- Reviewers -->
+|ACE_ARC={{rating|5|5}}<ref name="ace">{{cite magazine|title=Arcade Ace: Super Monaco Grand Prix|magazine=[[ACE (games magazine)|ACE]]|date=September 1989|page=22}}</ref>
+|CVG_ARC=94%<ref name="cvg">{{cite magazine|title=C+VG Arcade Action|magazine=[[Computer and Video Games]]|date=September 1989|page=85}}</ref>
+|SUser_ARC=9/10<ref name="sinclair_user">{{cite magazine|title=Coin-Ops: Super Monaco Grand Prix|magazine=[[Sinclair User]]|date=August 1989|page=75}}</ref>
+|ACE_SMD=590<ref name=":5">{{cite magazine|title=Console Screentest: Super Monaco Grand Prix|magazine=[[ACE (games magazine)|ACE]]|date=November 1990|page=91}}</ref>
+|CVG_SMD=95%<ref>{{cite magazine|title=Mean Machines: Super Monaco GP|magazine=[[Computer and Video Games]]|date=October 1990|issue=107|pages=114–115}}</ref>
+|EGM_SMD=38/40<ref name="egm">{{cite magazine|date=November 1990|title=Super Monaco GP for GEN|magazine=[[Electronic Gaming Monthly]]|issue=16|page=19}}</ref>
+|Fam_SMD=34/40<ref name="famitsu">{{Cite magazine|date=May 12, 1995|title=30 Point Plus: スーパーモナコGP|magazine=[[Famitsu|Famicom Tsūshin]]|issue=335|page=30}}</ref>
+|GamePro_SMD=20/25<ref>{{cite magazine|last=Lange|first=Chip|date=October 1990|title=Sega ProView: ''Super Monaco G.P.''|magazine=[[GamePro]]|pages=76–77}}</ref>
+|JS_SMD=98%<ref>{{cite magazine|magazine=[[Joystick (magazine)|Joystick]]|issue=9|page=110|title=Super Monaco GP|lang=fr|date=October 1990}}</ref>
+|MMS_SMD=87%<ref name=":7">{{cite magazine|title=Mean Machines Driving Games|magazine=[[Mean Machines Sega]]|date=October 1990|issue=1|page=127}}</ref>
+|ACE_AMI=871<ref name=":10">{{cite magazine|title=Computer Screentest: Super Monaco Grand Prix|magazine=[[ACE (games magazine)|ACE]]|issue=43|date=April 1991|pages=68–69}}</ref>
+|CVG_SMS=92%<ref name=":9">{{cite magazine|title=Mean Machines: Super Monaco Grand Prix|magazine=[[Computer and Video Games]]|date=September 1990|issue=106|last=Rignall|first=Julian}}</ref><ref name="CVG4">{{cite journal |title=Guide: Sega |journal=[[Computer and Video Games]] |date=November 1990 |issue=Complete Guide to Consoles: Volume IV |pages=108–10 |url=https://archive.org/details/Complete_Guide_to_Consoles_Volume_IV_1990_EMAP_Publishing_GB/page/n107/mode/2up}}</ref>
+|CVG_AMI=85%<ref name=":3"/>
+|CVG_AST=83%<ref name=":3">{{cite magazine|title=Review: Super Monaco Grand Prix|magazine=[[Computer and Video Games]]|issue=112|date=March 1991|pages=24–25|last1=Glancey|first1=Paul|last2=Leadbetter|first2=Richard}}</ref>
+|JS_SMS=75%<ref>{{cite magazine|magazine=[[Joystick (magazine)|Joystick]]|issue=11|page=134|title=Super Monaco GP|lang=fr|date=December 1990}}</ref>
+|JS_AMI=90%<ref name="joystick">{{cite magazine|magazine=[[Joystick (magazine)|Joystick]]|issue=15|pages=162–163|title=Super Monaco GP|lang=fr|date=April 1991}}</ref>
+|MMS_SMS=79%<ref name="MMS">{{cite magazine|title=Mean Machines Driving Games|magazine=[[Mean Machines Sega]]|date=October 1990|issue=1|page=131}}</ref>
+|MMS_SGG=58%<ref name="MMS"/>
+|SUser_ZX=84%<ref name=":4">{{cite magazine|url=https://archive.org/details/sinclair-user-magazine-089/page/n73/mode/1up|title=Rerelease: Super Monaco GP|magazine=[[Sinclair User]]|last=Keen|first=Steve|page=44|issue=128|date=October 1992}}</ref>
+|YSinclair_ZX=82%<ref name=":11">{{cite web|last=Leach|first=James|date=May 1991|title=Super Monaco Grand Prix|url=http://www.ysrnry.co.uk/articles/supermonacograndprix.htm|url-status=dead|archive-url=https://web.archive.org/web/20160116225955/http://www.ysrnry.co.uk/articles/supermonacograndprix.htm|archive-date=January 16, 2016|access-date=May 29, 2015|website=[[Your Sinclair]]}}</ref>
+|Z64_AMI=91%<ref name=":2"/>
+|Z64_C64=90%<ref name=":2">{{cite magazine|last1=Hogg|first1=Robin|last2=King|first2=Phil|last3=Wynne|first3=Stuart|date=March 1991|title=Zzap!Test! Super Monaco Grand Prix|magazine=[[Zzap!64]]|issue=71|pages=8–9}}</ref>
+|rev1=''[[Commodore User]]''
+|rev1_AMI=85%<ref>{{cite magazine|title=Super Monaco G.P.|magazine=[[CU Amiga]]|date=March 1991|last=Merrett|first=Steve|pages=48–49}}</ref>
+|rev1_ARC=91%<ref name="commodore_user">{{cite magazine|title=Arcades: Super Monaco Grand Prix|magazine=[[Commodore User]]|date=August 1989|pages=88–89}}</ref>
+|rev3=''[[Mega (magazine)|Mega]]''
+|rev3_SMD=90%<ref name=":8">{{Cite magazine|date=June 1994|title=Mega Retro: Driving Games|magazine=[[Mega (magazine)|Mega]]|issue=21|page=65}}</ref>
+|rev2=''[[Mean Machines]]''
+|rev2_SMD=93%<ref name="mean_machines">{{cite magazine|date=December 1990|title=Super Monaco GP – Sega Megadrive|url=http://www.meanmachinesmag.co.uk/review/46/super-monaco-gp.php|magazine=[[Mean Machines]]|issue=3|pages=54–56|archive-url=https://web.archive.org/web/20071027005626/http://www.meanmachinesmag.co.uk/review/46/super-monaco-gp.php|archive-date=October 27, 2007|url-status=live}}</ref>
+|rev4=''[[Raze (magazine)|Raze]]''
+|rev4_SMS=87%<ref name="raze"/>
+|rev4_AMI=83%<ref>{{cite magazine|magazine=[[Raze (magazine)|Raze]]|issue=6|pages=28–29|date=April 1991|title=Super Monaco GP|last=Ellis|first=Les}}</ref>
+|rev4_SMD=91%<ref name="raze">{{Cite magazine|last=Boardman|first=Julian|date=November 1990|title=Reviews: Super Monaco GP|magazine=[[Raze (magazine)|Raze]]|issue=1|page=62}}</ref>
+|rev6=''[[Sega Pro]]''
+|rev6_SMS=69%<ref name="sega_pro"/>
+|rev6_SGG=65%<ref name="sega_pro"/>
+|rev6_SMD=90%<ref name="sega_pro">{{Cite magazine|date=April 1992|title=Sega Software Showdown|magazine=[[Sega Pro]]|issue=6|page=30}}</ref>
+|rev5=''[[Sega Power]]''
+|rev5_SMD=92%<ref>{{cite magazine|date=May 1991|title=Readers top 10 – Mega Drive|magazine=[[Sega Power]]|issue=18|page=6}}</ref>
+}}
+
+According to Sega Enterprises USA head Tom Petit, the arcade game was very successful, especially in Asian and European markets.<ref name="VT"/> In Japan, on ''[[Famitsu|Famicom Tsūshin]]''{{'}}s arcade earnings chart, it was second in August 1989, just below [[Namco]]'s [[3D computer graphics|3D polygon]] racing game ''[[Winning Run]]''. It became the publication's top earner in September 1989,<ref>{{Cite magazine|date=September 15, 1989|title=Arcade chart|magazine=[[Famitsu|Famicom Tsūshin]]|lang=ja|issue=19}}</ref> and retained its spot in October 1989 above [[List of Tetris variants|Sega's arcade version of ''Tetris'']].<ref>{{cite magazine|magazine=[[Famitsu|Famicom Tsūshin]]|issue=22|date=October 27, 1989|title=Arcade chart|lang=ja}}</ref> It ended the year as the third highest-grossing [[1989 in video games|arcade game of 1989]] in Japan, just below Sega's ''Tetris'' and Namco's ''Winning Run''.<ref>{{cite magazine |script-title=ja:第３回 ゲーメスト大賞 – インカム部門ベスト10 |trans-title=3rd Gamest Awards – Income Category: Best 10 |magazine=[[Gamest]] |date=December 27, 1989 |volume=41 (February 1990) |url=https://archive.org/details/gamest0041/page/79 |pages=49–79 (79) |lang=ja|title=Gamest 0041}} [http://www.netlaputa.ne.jp/~dummy/gamest/magazine/gamest/v041.html alternate url]</ref> ''Super Monaco GP'' was later Japan's highest-grossing dedicated [[1990 in video games|arcade game of 1990]],<ref>{{cite magazine |title="Tetris" Has Still Earned More Than "Final Fight" |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=396 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=1 February 1991 |page=22 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19910201p.pdf#page=12}}</ref><ref>{{cite magazine |title=Japan's Award Winners |magazine=RePlay |date=March 1991 |volume=16 |issue=6 |page=206 |url=https://archive.org/details/re-play-volume-16-issue-no.-6-march-1991-600dpi/RePlay%20-%20Volume%2016%2C%20Issue%20No.%206%20-%20March%201991/page/206}}</ref> third highest-grossing dedicated [[1991 in video games|arcade game of 1991]],<ref name="GM419">{{cite magazine |title="Final Fight II" and "Final Lap 2" Top Videos: Video Games of The Year '91 |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=419 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=1 February 1992 |page=26 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19920201p.pdf#page=14}}</ref> and eleventh highest-grossing [[1992 in video games|arcade game of 1992]].<ref>{{cite magazine |title=Overseas Readers Column: "SF II", "Exhaust Note" Top Videos '92 |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=441 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=1–15 January 1993 |page=36 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19930101p.pdf#page=19}}</ref> At the 1989 [[Gamest|''Gamest'' Awards]] in Japan, ''Super Monaco GP'' won a Special Award, and was nominated in the "Best Action" and "Best Graphics" categories.<ref>{{cite magazine |script-title=ja:第３回 ゲーメスト大賞 |trans-title=3rd Gamest Awards |magazine=[[Gamest]] |date=December 27, 1989 |volume=41 (February 1990) |url=https://archive.org/details/gamest0041/page/49 |pages=49–79 |lang=ja|title=Gamest 0041}} [http://www.netlaputa.ne.jp/~dummy/gamest/magazine/gamest/v041.html alternate url]</ref>
+
+The arcade version of ''Super Monaco GP'' was praised by reviewers.<ref name="cvg" /><ref name="commodore_user" /><ref name="sinclair_user" /><ref name="ace" /> It came in second place on ''[[Computer and Video Games]]'' magazine's list of the top arcade games of 1989.<ref>{{Cite magazine|date=16 December 1989|title=The C+VG Top Arcade Games of 1989|url=https://archive.org/stream/cvg-magazine-098/CVG_098_Jan_1990#page/n7/mode/2up|magazine=[[Computer and Video Games]]|issue=98 (January 1990)|page=9}}</ref> A reviewer for ''[[Commodore User]]'' called the game "beyond doubt the most realistic driving game I've ever played", and highlighted the game's graphics, arcade cabinet experience, and high level of difficulty.<ref name="ace" /> Another reviewer, for ''[[Sinclair User]]'', called ''Super Monaco GP'' "fast, loud, hugely colourful, and massively detailed".<ref name="sinclair_user" /> Reviews for ''[[ACE (magazine)|ACE]]'' and ''Computer and Video Games'' also strongly recommended readers to play the game for its fun experience.<ref name="cvg" /><ref name="ace" /> Ayrton Senna was reportedly a fan of the coin-op game, and this factored into his contributions to the game's sequel, ''[[Ayrton Senna's Super Monaco GP II]]''.<ref name=":110" />
+
+The Genesis version was also highly acclaimed. Two reviewers for ''[[Mean Machines]]'' praised the game's graphics and replayability, as well as the added World Championship mode.<ref name="mean_machines" /> According to ''[[Mega (magazine)|Mega]]'' in 1994, it set a standard "that many still fail to emulate". As of June 1994, it was still the publication's best reviewed driving game for the Mega Drive.<ref name=":8" />{{Efn|Mega Drive and Sega Genesis are the same console. The name "Mega Drive" was used for the console in most areas outside of North America.|group=lower-alpha}} Julian Boardman of ''[[Raze (magazine)|Raze]]'' gave it a positive review for its realism and ease of reading the screen layout, though noted that accidentally shifting gear while trying to steer was a distinct possibility with the controller.<ref name="raze" /> ''ACE''<nowiki/>'s Tony Dillon was less positive about the gameplay, criticizing that it offers no new concepts that have not been done in racing games before and that the game is "an uninspired conversion of the coin-op".<ref name=":5" /> According to video game journalist Ken Horowitz, this port brought the most attention to the franchise.<ref name=":110" /> Retrospectively, Nick Thorpe of ''[[Retro Gamer]]'' pointed out the reduced graphics detail of the port but said the port "should be the version of choice for most players" for its World Championship mode and accurate porting of the gameplay.<ref name=":12"/>
+
+''Super Monaco GP''<nowiki/>'s ports to 8-bit Sega consoles were less well received, generally favorable for the Master System but mixed for the Game Gear. ''Computer and Video Games'' considered it the best driving game available for the Master System in 1990.<ref name="CVG4"/> Writing for ''Computer and Video Games'', Julian Rignall praised the Master System version's lasting value for fun, but noted the learning curve with the sensitivity of the steering.<ref name=":9"/> Boardman called the Master System port "a very competent driving game" but "not a true conversion of the Sega arcade machine" and pointed out elements missing in the game.<ref name="raze" /> ''[[Mean Machines Sega]]'' panned the Game Gear conversion, calling the game "just too dull for words".<ref name="MMS" /> Retrospective, Thorpe was critical of the handling and speed of the gameplay in the Master System version, as well as the change to a third-person perspective. He noted the Game Gear version is faster but otherwise possesses the same issues.<ref name=":12"/>
+
+The computer ports of the game have received mixed reviews based on the system. Two reviewers from ''[[Zzap!64]]'' compared the Commodore 64 port with the Amiga port and gave higher marks to the C64's colorful graphics, but more sensation of speed on the Amiga.<ref name=":2" /> In reviewing the ZX Spectrum version, reviewer James Leach of ''[[Your Sinclair]]'' was critical of the game's graphics as being too fast, but praised the game as being fun.<ref name=":11" /> Thorpe stated that the ZX Spectrum version is "actually not too bad at all, even though it does feel rather sluggish", dampening the criticism of Shea, who was not pleased with the final result of his port. He felt the Commodore 64 version was a good game despite a difficult viewing angle and easy gameplay, and that the Amiga version possessed high quality graphics and a high degree of difficulty. In comparison to the Amiga version, Thorpe felt the Atari ST version was easier to control, though slightly lower quality in graphics and audio. For the Amstrad CPC version, he expressed that the poor frame rate and lack of a sensation of speed made it the worst version of the game.<ref name=":12"/>
+
+==See also==
+{{Portal|Video games}}
+* ''[[Power Drift]]''
+* ''[[Virtua Racing]]''
+* ''[[Indy 500 (1995 video game)|Indy 500]]''
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=9919}}
+* {{IAg|gg_Super_Monaco_GP_1991_Sega|platform=Game Gear}}
+
+{{Formula One games}}
+
+{{DEFAULTSORT:Super Monaco Gp}}
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Formula One video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Game Gear games]]
+[[Category:Sega arcade games]]
+[[Category:Sega Genesis games]]
+[[Category:Master System games]]
+[[Category:Sega video games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games scored by Jeroen Tel]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games set in Brazil]]
+[[Category:Video games set in France]]
+[[Category:Video games set in Hungary]]
+[[Category:Video games set in Germany]]
+[[Category:Video games set in the United States]]
+[[Category:Video games set in Canada]]
+[[Category:Video games set in the United Kingdom]]
+[[Category:Video games set in Italy]]
+[[Category:Video games set in Portugal]]
+[[Category:Video games set in Spain]]
+[[Category:Video games set in Mexico]]
+[[Category:Video games set in Japan]]
+[[Category:Video games set in Belgium]]
+[[Category:Video games set in Australia]]
+[[Category:Video games set in Monaco]]
+[[Category:Video game controversies]]
+[[Category:Video games developed in Japan]]

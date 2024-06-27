@@ -1,0 +1,63 @@
+Bounder (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bounder_%28video_game%29&oldid=1227536681
+Accessed on: 2024-06-26T16:58:09.709482
+
+
+
+------
+Bounder (video game)
+{{Infobox video game
+|title = Bounder
+|image = Bounder c64 cover.jpg
+|caption = C64 Cover art
+|developer = [[Gremlin Graphics]]
+|publisher = [[Gremlin Graphics]]
+|designer = Robert Toone<br>Christian P. Shrigley<br>Andrew Green
+|released = [[1985 in video gaming|1985]]<br>1986(ZX Spectrum)<ref>{{cite web|url=http://www.gremlin.co.uk/retroindex.html|archiveurl=https://web.archive.org/web/19970119095543/http://www.gremlin.co.uk/retroindex.html|title=Retro Gaming|website=gremlin.co.uk|archivedate=January 19, 1997|accessdate=April 16, 2024}}</ref>
+|modes = [[Single-player]]
+|genre = [[Action game|Action]]
+|platforms = [[Amstrad CPC]], [[Amstrad PCW]], [[ZX Spectrum]], [[MSX]], [[Commodore 64]], [[Commodore 16]] / [[Commodore Plus/4|Plus/4]]
+}}
+''''' Bounder ''''' is a 1985 [[Action game|action]] game published by [[Gremlin Graphics]] in which the player navigates a variety of courses as a bouncing tennis ball.
+
+==Gameplay==
+Courses are composed of numerous tiles, which are suspended high above ground. The ball must be bounced past walls and over enemies; coming into contact with either, or plummeting over the edge of the course, results in the loss of one of the player's seven lives.<ref name="su">{{cite magazine | last = Edgeley | first = Clare | title = Arcade Review - Bounder | magazine = [[Sinclair User]] | issue = 52 | pages = 40 | publisher = [[EMAP]] | date = July 1986 | url = https://archive.org/stream/sinclair-user-magazine-052/SinclairUser_052_Jul_1986#page/n39/mode/2up | accessdate = May 21, 2016}}</ref> Courses feature power squares, which push the tennis ball forward and allow longer jumps. These must be utilized to complete the course. Power squares are also used to enable the tennis ball to reach mystery spaces, tiles with question marks, which contain extra lives and bonus jumps which are used on bonus screens. Mystery spaces can also destroy the tennis ball, resulting in the loss of a life, through instant destruction or by freezing the ball in place while a missile flies across the play area and explodes.<ref name="gamer">{{cite magazine | last = Hetherington | first = Tony |  title = Reviews - Bounder | magazine = [[Computer Gamer]] | issue = 15 | pages = 60 | publisher = [[Argus Specialist Publications]] | date = June 1986 | url =https://archive.org/stream/Computer_Gamer_Issue15#page/n59/mode/2up | accessdate = May 21, 2016}}</ref>
+
+The bonus screen is accessed every time a course is completed, it consists of mystery spaces which increase the player's score when bounced on for the player to receive. 40 bounces are allowed on each bonus screen, though this figure can be increased by the player uncovering more from mystery squares during the preceding course. Once all bounces are used or all of the mystery spaces are bounced on, play moves to the next course.<ref name="gamer"/> Bouncing on all mystery spaces awards the player 10,000 points as well as an extra life.<ref name="zzap">{{cite magazine | last1 = Penn | first1 = Gary | author-link1 = Gary Penn | last2 = Rignall | first2 = Julian | author-link2 = Julian Rignall | last3 = Liddon | first3 = Gary | author-link3 = Gary Liddon | title = Bounder/Metabolis | magazine = [[Zzap!64]] | issue = 10 | pages = 20, 21 | publisher = [[Newsfield Publications]] | date = February 1986 | url =https://archive.org/stream/zzap64-magazine-010/ZZap_64_Issue_010_1986_Feb#page/n19/mode/2up | accessdate = May 21, 2016}}</ref>
+
+==Reception==
+{{Video game reviews
+<!-- Reviewers -->
+| YSinclair = 9/10<ref name="ys">{{cite magazine | last = Maughan | first = Teresa | title = Bounder | magazine = [[Your Sinclair]] | issue = 7 | pages = 29 | publisher = [[Dennis Publishing]] | date = February 1986 | url = https://archive.org/stream/your-sinclair-07/YourSinclair_07_July_1986#page/n29/mode/2up | accessdate = May 21, 2016}}</ref>
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 97%<ref name="zzap"/>
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Your Sinclair''
+| award2 = Megagame
+| award3Pub = ''Amstrad Action''
+| award3 = Mastergame<ref>Game review, Amstrad June magazine, [[Future Publishing]], issue 9, June 1986</ref>
+}}
+''Bounder'' received a Gold Medal Award from Commodore 64 magazine ''[[Zzap!64]]'' as well as a ''[[Your Sinclair]]'' Mega Game award.<ref name="zzap"/><ref name="ys"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WoS game|id=0000657|name=Bounder}}
+* {{lemon64 game|id=356|name=Bounder}}
+* [https://www.gremlinarchive.com/index.php/2017/01/31/bounder-and-planet-search-commodore-c16plus-4/ Bounder and Planet Search (Commodore C16/Plus 4)] at Gremlin Archive
+* [https://plus4world.powweb.com/software/Bounder_And_Planet_Search Bounder and Planet Search] at Commodore Plus/4 World
+* [https://www.gremlinarchive.com/index.php/2016/06/02/patrick-strassen-c16-review-collection/ C16 Reviews] at Gremlin Archive
+
+[[Category:1985 video games]]
+[[Category:Action games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:MSX games]]
+[[Category:Amstrad PCW games]]
+[[Category:ZX Spectrum games]]
+[[Category:Gremlin Interactive games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

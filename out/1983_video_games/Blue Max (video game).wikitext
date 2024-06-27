@@ -1,0 +1,95 @@
+Blue Max (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Blue_Max_%28video_game%29&oldid=1224492007
+Accessed on: 2024-06-26T16:54:38.344357
+
+
+
+------
+Blue Max (video game)
+{{Short description|1983 video game}}
+{{for|the 1990 video game|Blue Max: Aces of the Great War}}
+{{Infobox video game
+|title  = Blue Max
+|image = Blue Max cover.jpg
+|developer = [[Synapse Software]]
+|publisher = Synapse Software<br>[[U.S. Gold]]<br>[[Atari Corporation]]
+|series = 
+|designer = Bob Polin<ref name="plotkin">{{cite journal |last1=Plotkin |first1=David |title=Atari Blue Max |journal=SoftSide |date=February 1984 |issue=47 |page=65 |url=https://archive.org/details/softside-magazine-62/page/n65}}</ref>
+|programmer = Bob Polin (Atari)<br>Peter Adams (C64)<ref name=lemon/>
+|released = '''1983:''' Atari, C64<br>'''1984:''' Spectrum<br>'''1987:''' Atari XEGS
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Blue Max''''' is a [[scrolling shooter]] written by Bob Polin for [[Atari 8-bit computers]] and published by [[Synapse Software]] in 1983.<ref name="plotkin" /> It was released for the [[Commodore 64]] the same year. [[U.S. Gold]] published the Commodore 64 version in the UK in 1984 and ported the game to the [[ZX Spectrum]]. In 1987, [[Atari Corporation]] published ''Blue Max'' as a cartridge styled for the then-new [[Atari XEGS]].
+
+The player controls a [[Sopwith Camel]] biplane during [[World War I]], attempting to shoot down enemy planes and bomb targets on diagonally scrolling terrain. The game is named after the medal [[Pour le Mérite]], informally known as Blue Max. Its theme song is "[[Rule, Britannia!]]".
+
+In 1984, Synapse released a sequel, ''[[Blue Max 2001]]''. While the original was well received, the sequel was considered disappointing.
+
+==Gameplay==
+{{Unreferenced|section|date=December 2020}}
+{{listen|header=
+|type=music
+|filename=Blue Max Atari 8-bit theme song.ogg
+|title=Blue Max theme song "Rule, Britannia!", Atari 8-bit version
+|description=
+}}
+
+The game opens with the player's aircraft parked on a runway while a rendition of "[[Rule, Britannia!]]" plays. After selecting control and difficulty options and pressing start, the screen shows the aircraft speeding down the runway. The player is required to push the joystick in order to take off, but not before the plane reaches a certain minimum speed. From then on the screen scrolls diagonally in the fashion of ''[[Zaxxon]]'', using [[oblique projection]] to simulate three-dimensionality. The player can move left and right, forward and backward, or raise or lower their altitude with the joystick. The fire button shoots the machine guns continually, while pressing and moving the stick down at the same time causes a bomb to drop.
+
+[[File:Blue_Max_Atari_8-bit_PAL_sceenshot.png|thumb|left|Gameplay screenshot (Atari 8-bit)]]
+
+The game is divided into several areas, each one ending with a runway on which the player should land. The first area consists of a large river on the left side of the screen and a grassy treed area on the right. In the second area the river eventually gives way to land and roads filled with tanks and enemy airbases. The third and final area is the city, composed of skyscrapers and bunkers, destruction of which is the main goal of the game.
+
+Each area contains various targets to destroy, including warships in the river that fire [[anti-aircraft artillery|flak]], tanks, bridges, various buildings, and enemy biplanes that appear periodically in front or behind the player and shoot at the player's aircraft.
+
+The player's aircraft may be damaged by enemy firepower. Each shot taken causes one of four possible impairments: gun damage, bomb gear damage, fuel leak, or decreased maneuverability. The fifth shot taken obliterates the plane. The player may also die by colliding with ground or an enemy plane, or by using up all of the fuel.
+
+After flying a certain distance the player is notified, by a beeping sound, that a friendly airbase is about to appear. The player should then land on the airfield, which refuels the aircraft, fixes its damage, and replenishes its supply of bombs.
+
+In order to access the next area, the player must destroy a certain number of special targets: flashing cars and planes, and buildings and bridges marked with a flashing cross. If not enough special targets have been destroyed, the plane, upon taking off, will fly through the same area again.
+
+The ultimate goal is to reach the final area and bomb the three bunkers inside the heavily defended city, and then reach the airfield at the end of the stage. Upon finishing, either by succeeding or dying, the player is given a numerical rank based on their performance.
+
+==Reception==
+''[[SoftSide]]'' called the Atari version "remarkably well implemented" and "very playable and a lot of fun."<ref name="plotkin" />''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the game an overall A rating, calling it "very enjoyable" with "a realistic sensation of flying," and concluded that it "has great depth of play to hold interest for a long time".<ref name="aw1984">{{cite book | url=https://archive.org/stream/Atari_Software_1984#page/n93/mode/2up | title=The Addison-Wesley Book of Atari Software | publisher=Addison-Wesley | year=1984 | pages=93 | isbn=0-201-16454-X |editor1=Stanton, Jeffrey |editor2=Wells, Robert P. |editor3=Rochowansky, Sandra |editor4=Mellid, Michael }}</ref>
+
+''[[Softline (magazine)|Softline]]'' praised ''Blue Max''{{'}}s graphics, describing the game as "''[[River Raid]]'' for real and ''Zaxxon'' with meat on it ... if ''Zaxxon'' deserved to be a hit, this deserves to be a monster."<ref name="christie19831112">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=14 | title=Synapse Takes Off | work=Softline | date=Nov–Dec 1983 | accessdate=29 July 2014 | author=Christie, Andrew | pages=21}}</ref> In 1984 the magazine's readers named the game the second most-popular Atari program of 1983, after ''[[Archon: The Light and the Dark|Archon]]''.<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | accessdate=28 July 2014 | pages=49}}</ref> 
+
+''[[Compute!]]'' wrote, "along comes a game that may make standard two-dimensional eye/hand games obsolete ... ''Blue Max'' may well be the best action game there is." It stated that the game improved on ''Zaxxon'', noting the functional instrument panel and need to land, refuel, and take off. The magazine concluded, "''Blue Max'' is head and shoulders above other shooting games."{{r|gutman198401}} 
+
+The C64 port received a similar response. ''[[Compute!'s Gazette]]'' stated that "''Blue Max'' has far more depth than ''Zaxxon''. It is one of those few good games that have successfully combined strategy with arcade play".<ref name="brannon198406">{{cite news | url=https://archive.org/stream/1984-06-computegazette/Compute_Gazette_Issue_12_1984_Jun#page/n95/mode/2up | title=Horizons 64 | work=Compute!'s Gazette | date=June 1984 | accessdate=6 July 2014 | author=Brannon, Charles | pages=92}}</ref> ''[[Ahoy!]]'' approved of the game's sound and 3D graphics but criticized the unrealistic plane shadow. While the reviewer stated "Occasionally I found myself wishing for more action. No, not more action—''bigger'' action", he concluded "Bob Polin has done an exceptional job; this is one game that is really addictive".<ref name="herring198404">{{cite news | url=https://archive.org/stream/Ahoy_Issue_04_1984-04_Ion_International_US#page/n57/mode/2up | title=Blue Max | work=Ahoy! | date=April 1984 | accessdate=27 June 2014 | author=Herring, Richard | pages=58–59}}</ref> In 1996, ''[[Computer Gaming World]]'' ranked the C64 version of this "fun shooter" as the 142nd best game of all time.<ref name="cgw199611best">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | accessdate=25 March 2016 | pages=64–80}}</ref>
+
+The game sold 10,000 copies.<ref>{{cite web|first=Jon|last=Basher|url=https://www.newspapers.com/clip/103873104/the-berkeley-gazette/|title=Video firm is aiming high|newspaper=[[Berkeley Gazette]]|page=4|date=August 30, 1983|accessdate=June 17, 2022|via=[[Newspapers.com]]}}</ref>
+
+== Legacy ==
+A futuristic sequel otherwise similar in design, ''[[Blue Max 2001]]'', was released in 1984 for the Atari 8-bit family and Commodore 64. Unlike the original, it received mixed reviews.
+
+Author Bob Polin made the assembly language [[source code]] of ''Blue Max'' publicly available in 2016.<ref>[http://atariage.com/forums/topic/249933-blue-max-source-code-for-you/ Blue Max source code for you.] on atariage.com by Kevin Savetz (Mar 5 2016)</ref><ref name="antic">{{cite web |title=Bob Polin Interview |url=http://ataripodcast.libsyn.com/antic-interview-141-bob-polin-blue-max |website=ANTIC The Atari 8-bit Podcast |date=March 6, 2016}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="gutman198401">{{cite news | url=https://archive.org/stream/1984-01-compute-magazine/Compute_Issue_044_1984_Jan#page/n149/mode/2up | title=Blue Max For Atari And Commodore 64 | work=Compute! | date=January 1984 | accessdate=30 October 2013 | author=Gutman, Dan | pages=148 | type=review}}</ref>
+<ref name=lemon>{{lemon64 game|id=310|name=Blue Max}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=5978}}
+*{{lemon64 game|id=310|name=Blue Max}}
+*{{WoS_game|id=0000597|name=Blue Max}}
+*{{IAg| a8b_cart_Blue_Max_1987_Atari_US}}
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Scrolling shooters]]
+[[Category:Synapse Software games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with oblique graphics]]
+[[Category:World War I video games]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

@@ -1,0 +1,66 @@
+Lost Tomb
+Permalink: //en.wikipedia.org/w/index.php?title=Lost_Tomb&oldid=1224498361
+Accessed on: 2024-06-26T16:53:38.355644
+
+
+
+------
+Lost Tomb
+{{short description|1982 video game}}
+{{about|the 1982 video game|the 2015 web series|The Lost Tomb}}
+
+{{Infobox video game
+|title         = Lost Tomb
+|image         = Lost Tomb cover.jpg
+|caption       = Commodore 64 port
+|developer     = [[Stern (game company)|Stern Electronics]]
+|publisher     = Stern Electronics<br>[[Datasoft]] (ports)<br>
+|designer      = 
+|programmer    = '''Arcade'''<br>Dan Lee<ref name=giantlist/><br>'''Apple II'''<br>Larry Lewis<br>'''Atari 8-bit'''<br>Bruce Adelstein'''<ref name=atariman/><br>Commodore 64'''<br>Mark Brodie<br>Troy Lyndon<br>Robert Bobbio<ref name=lemon/><br>'''IBM PC'''<br>Larry Lewis
+|artist        = 
+|composer      = 
+|platforms     = [[Arcade video game|Arcade]], [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]]
+|released      = '''1982:''' Arcade<br>'''1984:''' Atari, Apple, C64<br>'''1985:''' IBM PC
+|genre         = [[Multidirectional shooter]]
+|modes         = 1-2 players alternating turns
+|arcade system = [[Scramble (video game)|Konami Scramble]]<ref>{{cite web |title=Konami Scramble Hardware |url=http://www.system16.com/hardware.php?id=554 |website=System 16}}</ref>
+}}
+
+'''''Lost Tomb''''' is an overhead-view [[twin-stick shooter]] written by Dan Lee and released as an [[arcade video game]] by [[Stern (game company)|Stern Electronics]] in 1982. Armed with a gun and whip, the player uses dual joysticks to explore the chambers of a [[South America]]n [[pyramid]] looking for treasure and fighting [[mummy|mummies]], spiders, and scorpions.<ref name=ah/> The game was Stern's first arcade conversion kit<ref name=vg/> and was intended for use with earlier machines from the company.<ref name=ff/>
+
+In 1984, [[Datasoft]] published home ports for [[Apple II]], [[Atari 8-bit computers]], [[Commodore 64]], and a [[self-booting disk]] for [[IBM PC compatible]]s.
+
+==Gameplay==
+The object of the game is to move through the rooms of the [[tomb]], from the top of the pyramid to the base, collecting treasure and looking for the exit. Scorpions, mummies, and spiders attack the player and can be shot. Each room has a time limit.
+
+One [[joystick]] moves the explorer and the other fires the gun in a twin-stick shooter control mechanism. A button swings the [[whip]], which destroys nearby enemies and walls. Both bullets and whips are limited. Chests contain keys and additional bullets and whips.<ref name=atariman/>
+
+After exiting a room, a map showing the levels of the pyramid and connecting stairways is shown. Some rooms lead to a hallway, viewed from the side, where the player must run for the entrance of the next room while being attacked by [[bat]]s.
+
+==Reception==
+In 1983, ''Video Games'' magazine called ''Lost Tomb'', "the best ''[[Raiders of the Lost Ark]]''-inspired game so far to hit the scene." The reviewer also commented, "the graphics are a bit murky" and "the play is overly complex for most novice arcade enthusiasts."<ref name=vg/>
+ 
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|first1=James|last1=Hague}}</ref>
+<ref name=lemon>{{lemon64 game|name=Lost Tomb|id=1547}}</ref>
+<ref name=ah>{{cite web |title=Lost Tomb |url=https://www.arcade-history.com/?n=lost-tomb&page=detail&id=1410 |website=Arcade History}}</ref>
+<ref name=vg>{{cite magazine |title=Stern's Lost Tomb |magazine=Video Games |date=May 1983 |volume=1 |issue=8 |page=66 |url=https://archive.org/details/Video_Games_Volume_1_Number_08_1983-05_Pumpkin_Press_US/page/n65}}</ref>
+<ref name=ff>{{cite web |title=Lost Tomb |url=https://www.flyerfever.com/post/93815718673/lost-tomb |website=Flyer Fever}}</ref>
+<ref name=atariman>{{cite web |title=Lost Tomb Atari home computer manual |url=https://archive.org/details/losttombdatasoft/mode/2up |website=archive.org |publisher=Datasoft |date=1984}}</ref>
+}}
+
+==External links==
+*{{KLOV game|name=Lost Tomb|id=8456}}
+*{{atarimania|id=3047}}
+
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Datasoft games]]
+[[Category:Twin-stick shooters]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games set in South America]]

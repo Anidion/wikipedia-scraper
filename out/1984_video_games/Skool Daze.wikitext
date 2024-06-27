@@ -1,0 +1,88 @@
+Skool Daze
+Permalink: //en.wikipedia.org/w/index.php?title=Skool_Daze&oldid=1230283438
+Accessed on: 2024-06-26T16:57:35.126757
+
+
+
+------
+Skool Daze
+{{Short description|1984 video game}}
+{{Infobox video game
+| title        = Skool Daze
+| image        = Skool_Daze_ZX_Spectrum_Cover_Art.jpg
+| developer    =
+| publisher    = [[Microsphere (software company)|Microsphere]]
+| designer     = David Reidy<br>Helen Reidy<br>Keith Warrington
+| engine       = 
+| released     = 1984 (Spectrum)<br>1985 (C64)
+| genre        = [[Action-adventure]]
+| modes        = [[Single-player]]
+| platforms    = [[ZX Spectrum]], [[Commodore 64]]
+}}
+
+'''''Skool Daze''''' is an [[open world]]<ref>https://www.eurogamer.net/retrospective-skool-daze-and-back-to-skool-article?page=2</ref> [[action-adventure game]] released by [[Microsphere (software company)|Microsphere]] in 1984 for the [[ZX Spectrum]] and ported to the [[Commodore 64]] the following year. It was written by David Reidy, with graphics designed by Keith Warrington. The game was commercially and critically successful, and praised for its original concept. It has since been regarded as one of the pioneers of the [[sandbox game]] genre.
+
+==Gameplay==
+The game features the player as a schoolboy named Eric, with the objective of stealing his [[report card]] out of the staff room safe by accomplishing various tasks around the school.  The computer controls all the other characters in the game, including the headmaster, other teachers and other pupils.<ref name="fox"/>
+
+The four teachers are Mr Wacker (the headmaster), Mr Rockitt (the science teacher), Mr Withit (the geography teacher) and Mr Creak (the history master). Other than Eric, three of the pupils are named: Boy Wander (the tearaway), Angelface (the bully) and Einstein (the swot).  The player has the option of renaming the characters before the game begins.<ref name="crashr"/> There are also many unnamed, undistinguished pupils at the school.
+
+If Eric is caught out of class or otherwise misbehaving, teacher characters pursue him and issue [[writing lines|lines]].<ref name=su>{{cite magazine|url=https://spectrumcomputing.co.uk/page.php?issue_id=36&page=35 |title=Skool Daze|publisher=EMAP|magazine=Sinclair User|date=March 1985|issue=36|page=35 |accessdate=2024-03-08}}</ref> When 10,000 lines or more are accumulated, the game ends with Eric's expulsion.<ref name="crash11">{{cite magazine| url=https://spectrumcomputing.co.uk/page.php?issue_id=978&page=10| title=Skool Daze (review)|magazine=Crash|publisher=Newsfield|issue=11|date=December 1984|accessdate=8 March 2024}}</ref>  However, Eric can also receive lines for things that are not his fault, such as lying or sitting on the floor when in fact he has been knocked down, or being nearest a teacher who has just been hit by a projectile fired by one of the other pupils.  So part of the challenge of the game is to prevent other pupils from getting Eric into trouble.
+
+==Background==
+Helen Reidy had a background in teaching,<ref name="crash">{{cite magazine | url=http://crashonline.org.uk/25/msphere.htm | title=Little and Round, With No Sharp Edges| magazine=Crash|publisher=Newsfield | number=25 | pages=73–74 | date=February 1986 | accessdate=8 March 2024}}</ref> while David had fonder memories of activities between lessons and designed the game around this. The characters were based on schoolboy characters he read about as a child, including ''[[Just William]]'' and ''[[The Beano|The Beano's]]'' ''[[The Bash Street Kids]]''. He later clarified that "each of the rooms would look like a frame in a comic".<ref name="retrogamer">{{cite web|url=http://pixelatron.com/blog/skool-daze-feature-retrogamer/|title=Skool Daze feature|publisher= Retrogamer magazine|date=August 6, 2010|accessdate=10 January 2013}}</ref>
+
+David Reidy considered himself to be more proficient as a programmer and engineer, and decided the game's graphics would benefit from a separate designer. He recruited a family friend, Keith Warrington,<ref name="crash"/> who was studying graphic design. Warrington learned the rudiments of computer graphics from David, and drew the characters as line drawings on squared paper. From this, he blocked in the individual [[pixels]] to create an appropriate [[sprite (computer graphics)|sprite]], with [[tracing paper]] to design the individual [[animation frame]]s for each character. He later obtained a Spectrum to assist with the design, but found using graph paper easier. Warrington based the teachers on ones that had taught him at school, and later said the geography teacher, Mr Withit, was based on "my all time favourite teacher".<ref name="retrogamer"/> He found the [[screen resolution]] limitations helpful, as it forced him to design cartoon-like characters, saying "you couldn't do a normal person because they would have all looked the same".<ref name="retrogamer"/> As with other Microsphere games, David designed the program on paper, which Helen typed into the computer.<ref name="crash"/>
+
+== Self promotion ==
+The character of Boy Wander would write on blackboards about Microsphere games like ''Wheelie'' and ''Sky Ranger''. In ''Back to Skool'', Boy Wander writes about ''[[Contact Sam Cruise]]''.
+
+==Reception==
+{{Video game reviews
+| CVG = 34/40<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue041/Pages/CVG04100024.jpg |title=Archive - Magazine viewer |publisher=World of Spectrum |date= |accessdate=2012-04-23}}</ref>
+| CRASH = 93%<ref name="crashr">{{cite magazine|url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue11/Pages/Crash1100011.jpg |title=Skool Daze|magazine=[[Crash (magazine)|Crash]]|issue=10|date=November 1984|pages=10–11|accessdate=2 January 2015}}</ref>
+| SUser = {{Rating|8|10}}<ref name=su />
+| YSinclair = 8/10<ref>{{cite web|url=http://www.ysrnry.co.uk/articles/skooldaze.htm |title=Skool Daze |publisher=Ysrnry.co.uk |date= |accessdate=2012-04-23}}</ref>
+| rev1 = ''ZX Computing''
+| rev1Score = 8/10<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8506/Pages/ZXComputing850600033.jpg |title=Archive - Magazine viewer |publisher=World of Spectrum |date= |accessdate=2012-04-23}}</ref>
+| rev2 = Sinclair Programs
+| rev2Score = 75%<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairPrograms/Issue8503/Pages/SinclairPrograms850300016.jpg |title=Archive - Magazine viewer |publisher=World of Spectrum |date= |accessdate=2012-04-23}}</ref>
+| rev3 = Your Spectrum
+| rev3Score = {{Rating|3|5}}<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=YourSpectrum/Issue12/Pages/YourSpectrum1200027.jpg |title=Archive - Magazine viewer |publisher=World of Spectrum |date= |accessdate=2012-04-23}}</ref>
+| award1Pub = Crash
+| award1 = Crash Smash
+}}
+''Skool Daze'' was a commercial success when first released, selling 50,000 copies despite very little marketing or promotion. Reidy later realised he could have made more money with an appropriate campaign, and regretted the loss of income due to [[software piracy]], but was still happy that the game was profitable and covered costs.<ref name="retrogamer"/>
+
+The ZX Spectrum version was voted the 4th best game of all time in a special issue of ''[[Your Sinclair]]'' magazine in 2004.<ref>{{cite journal|title=Top 50 Games of All Time|journal=Your Sinclair|date=November 2004|publisher=Imagine Publishing}}</ref> It was one of the Spectrum games listed in ''[[1001 Video Games You Must Play Before You Die]]''.<ref>{{cite book|editor=Tony Mott|title=1001 Video Games You Must Play Before You Die|year=2010|publisher=[[Universe Publishing]] |isbn=978-0-7893-2090-2 |pages=1–990}}</ref>
+
+In 1985, Zzap!64 reviewed the Commodore 64 version which they found to be graphically and sonically weak, but enjoyable to play due to the innovative gameplay.  It was given an overall rating of 78%.<ref name=zzap9>{{Cite magazine|url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=009&page=037&magazine=zzap|page=37|publisher=Newsfield|magazine=Zzap64|title = Skool Daze}}</ref>
+
+The game has been recognised as being a pioneer of the [[sandbox game]] format, later used by ''[[Little Computer People]]'' and ''[[The Sims]]''.<ref name="fox">{{cite book|url=https://books.google.com/books?id=LVc1QNGo_g0C&q=%22skool+daze%22+game&pg=PA262|title=The Video Games Guide: 1,000+ Arcade, Console and Computer Games, 1962-2012, 2d ed.|pages=262–263|first=Matt|last=Fox|publisher=McFarland|year=2013|isbn=978-1-476-60067-3}}</ref>
+
+== Legacy ==
+The game was followed by ''[[Back to Skool]]'', which expanded the gameplay to include a neighbouring girls' school and a love interest (with the benefit of being able to reduce one's lines), along with stink bombs, mice, water pistols, frogs, sherry and a long-suffering caretaker.
+
+An unofficial remake is ''Klass of '99'', an [[IBM PC compatible]] edition of ''Skool Daze'' with updated graphics and various changes to the gameplay.  Unofficial conversions of ''Skool Daze'' have been made on the [[Atari 8-bit computers]],<ref>[http://atariage.com/forums/topic/273060-new-game-released-skool-daze/], Atari 8-Bit Port, Official release announcement</ref> [[Oric computers|Oric]], and [[Amstrad CPC]] computers.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{moby game|id=/skool-daze|name=''Skool Daze''}}
+* {{WoS game|id=0004549}}
+* [http://flatbatteries.com/skooldaze.html ''Skool Daze''] at Flatbatteries
+* [https://www.youtube.com/watch?v=ULCjgUNz6bQ A walkthrough video of ''Skool Daze'' on the ZX Spectrum]
+
+{{Microsphere}}
+
+[[Category:1984 video games]]
+[[Category:Action-adventure games]]
+[[Category:Commodore 64 games]]
+[[Category:Crash Smash! award winners]]
+[[Category:Microsphere (software company) games]]
+[[Category:Open-world video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in schools]]
+[[Category:ZX Spectrum games]]

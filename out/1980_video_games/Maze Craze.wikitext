@@ -1,0 +1,54 @@
+Maze Craze
+Permalink: //en.wikipedia.org/w/index.php?title=Maze_Craze&oldid=1224582405
+Accessed on: 2024-06-26T16:51:42.421489
+
+
+
+------
+Maze Craze
+{{short description|1980 video game}}
+{{Infobox video game
+|title = Maze Craze: A Game of Cops n’ Robbers 
+|image = Maze-craze-atari-2600-box-art.jpg
+|caption = Box art by James Kelly
+|developer = [[Atari, Inc.]]
+|designer = Rick Maurer<ref name="giantlist"/>
+|publisher = Atari, Inc.
+|released =  1980
+|genre = [[Maze game|Maze]]
+|modes = Single-player, two player competitive
+|platforms = [[Atari 2600]]
+}}
+
+'''''Maze Craze: A Game of Cops n’ Robbers''''' is a 4K cartridge for the Atari Video Computer System (later renamed the [[Atari 2600]]) developed by Rick Maurer and published by [[Atari, Inc.]] in 1980.<ref name="giantlist"/><ref name=mania/> In ''Maze Craze'', two players compete to be the first to escape a randomly generated, top-down maze. Though primarily a two player game, any of the variations that don't involve interaction with the second player can be played solo.<ref name=manual/> [[Sears]] re-titled ''Maze Craze'' as '''''Maze Mania''''' for its Tele-Games system.<ref>{{cite web|title=Maze Mania|url=https://atariage.com/software_page.php?SoftwareLabelID=885|website=AtariAge}}</ref>
+
+==Gameplay==
+The manual describes the situation as a "maze of city blocks" and the player a red or blue cop on patrol.<ref name=manual/> The cops are represented as squares. The goal is to reach the exit. In multiplayer games, the first player to find their way out wins. 
+
+Some variants add robber blocks to the maze which either need to be avoided or captured, depending. Others make the maze either partially or fully invisible, and maze is periodically revealed for a moment or only when the joystick button is pressed. In the "Blockcade" variant, each player can drop a false wall to trick the other player. There are settings to increase or decrease the speed of the cops and robbers and the number of robbers in the maze.
+
+==Development==
+Maurer had been working on a clone of ''[[Space Invaders]]'' for the VCS, but because no one at Atari seemed interested in it, he looked for a new project. He took inspiration from the [[Fairchild Channel F]] ''Maze'' cartridge by Mike Glass, resulting in ''Maze Craze''.<ref name="dadgum">{{cite web|title=Reminiscing from Richard Maurer|url=https://dadgum.com/giantlist/archive/maurer.html|website=dadgum.com|date=January 5, 1999}}</ref> He later completed his version of ''[[Space Invaders (Atari 2600 video game)|Space Invaders]]'',<ref name="giantlist"/> which was officially licensed from [[Taito]] and became the [[killer app]] for the console.<ref>{{cite web|last1=Breininger|first1=Jason|title=Space Invaders (Atari VCS/2600)|url=https://www.oldschoolgamermagazine.com/space-invaders-atari-vcs-2600/|website=Old School Gamer Magazine|date=January 30, 2018}}</ref>
+
+==See also==
+*''[[The Amazing Maze Game]]'' (1976)
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite web|title=Maze Craze Manual|url=https://archive.org/details/Maze_Craze_1978_Atari|website=archive.org|year=1978 |publisher=Atari, Inc.}}</ref>
+<ref name="giantlist">{{cite web|url=https://dadgum.com/giantlist/|title=The Giant List of Classic Game Programmers|last1=Hague|first1=James}}</ref>
+<ref name="mania">{{cite web |title=Maze Craze |url=http://www.atarimania.com/game-atari-2600-vcs-maze-craze-a-game-of-cops--n-robbers_7779.html |website=Atari Mania}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=7779}}
+{{maze-videogame-stub}}
+
+[[Category:1980 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Maze games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games about police officers]]
+[[Category:Video games developed in the United States]]
+[[Category:Sears video games]]

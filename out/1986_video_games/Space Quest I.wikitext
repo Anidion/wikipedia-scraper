@@ -1,0 +1,131 @@
+Space Quest I
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Quest_I&oldid=1222755271
+Accessed on: 2024-06-26T17:00:59.628287
+
+
+
+------
+Space Quest I
+{{More citations needed|date=October 2009}}
+{{Infobox video game
+|title = Space Quest:<br />Chapter I – The Sarien Encounter
+|image = SierraOnLine-Box-SpaceQuest1 EGA.jpg
+|caption = Original cover art
+|developer = [[Sierra Entertainment|Sierra On-Line]]
+|publisher = Sierra On-Line
+|director =
+|producer = 
+|designer = [[Mark Crowe]]<br/>[[Scott Murphy (video game designer)|Scott Murphy]]
+|programmer = Scott Murphy <br> [[Ken Williams (game developer)|Ken Williams]] <br> Sol Ackerman
+|artist = Mark Crowe
+|composer = Mark Crowe
+|engine = [[Adventure Game Interpreter|AGI]]
+|series = ''[[Space Quest]]''
+|released = October 1986<ref>{{cite web|url=https://archive.org/details/Sierra_Newsletter_The_Volume_1_Number_2_1987_Sierra_On-Line_US/page/n5/mode/2up?q=%22space+quest%22 |title=Sierra Newsletter, The - Volume 1 Number 2 (1987) |date=1987 |access-date=2024-02-11}}</ref>
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[DOS]], [[Macintosh]], [[Apple II]], [[Apple IIGS]], [[Amiga]], [[Atari ST]]
+}}
+
+'''''Space Quest: Chapter I – The Sarien Encounter''''' (commonly known as '''''Space Quest I''''') is a [[graphic adventure game]], created by [[Scott Murphy (video game designer)|Scott Murphy]] and [[Mark Crowe]], and released in October 1986 by [[Sierra Entertainment|Sierra On-Line]].<ref name=greatest>{{cite book |last=Weston |first=D.B. |title=Greatest Moments in Video Game History |page=52 |publisher=DB Weston |isbn=978-1-301-17414-0}}</ref> It is the first game in the ''[[Space Quest]]'' series, and sees players assume the role of a lowly janitor on a research ship, who becomes involved in stopping an alien race using a new form of technology for evil purposes.
+
+The game was the first to be created by Murphy and Crowe, after working on other Sierra titles at the time such as ''[[King's Quest II]]''. Part of their proposal included moving away from the serious, medieval settings of other titles, in favour of making a "fun, silly game", utilising Sierra's [[Adventure Game Interpreter|AGI]] engine.<ref>{{cite book|last=Purcaru|first=John Bogdan|title=Games vs. Hardware. The History of PC video games: The 80's|url=https://books.google.com/books?id=lB4PAwAAQBAJ&q=everything+at+Sierra+was+so+somber+and+had+an+almost+medieval+atmosphere.+So+we+decided+%27Why+not+make+a+fun%2C+silly+game&pg=PA296|location=[[Google Books]]|page=296|date=29 January 2014|access-date=11 December 2016}}</ref> ''Space Quest I'' became an instant hit, selling in excess of 100,000 copies to begin with,{{Citation needed|date=November 2013}} and spawned several sequels, beginning with ''[[Space Quest II]]'' in 1987.
+
+A remake of the game by Sierra was released in 1991, featuring improved graphics and gameplay. In 1992, ''[[Adventure Comics]]'' created a three issue comic, based on the game's plot.<ref>{{cite web|url=https://comics.lib.msu.edu/rri/arri/adven.htm |title="Adventure Comics (Firm)" to "Adventure Series" |publisher=Michigan State University Libraries |access-date=2020-03-25}}</ref>
+
+==Gameplay==
+[[File:Space_Quest_I_Atari_ST_screenshot.png|thumb|left|Gameplay screenshot (Atari ST)]]
+The game was created using Sierra's [[Adventure Game Interpreter|AGI]] engine and featured a pseudo-3D environment, allowing the character to move in front of and behind background objects. The primary means of input in ''Space Quest'', as in many other AGI games, was through the use of a [[text parser]] for entering commands and use of the keypad or arrow keys for moving Roger Wilco around the screen. The [[Amiga]], [[Apple IIGS]], [[Atari ST]] and [[Apple Macintosh|Mac]] versions of the game offered basic mouse support for movement as well. The game had a 160×200 resolution displaying 16 colors. Sound cards were not available in 1986 for the PC, so sound was played through the PC's internal speaker; owners of [[Tandy 1000]], [[PCjr]] and [[Amiga]] computers would hear a three-voice soundtrack, while Apple IIGS owners were treated to a fifteen-voice soundtrack with notably richer sound.
+
+A precursor of this game is the interactive fiction game ''[[Planetfall]]'', created by [[Infocom]], whose player-character is a lowly "Ensign Seventh Class" who does the lowest form of labor aboard a spaceship and who appears on the cover with a mop. Just as ''[[King's Quest]]'' adapted the text-adventure puzzle games set in a medieval world to a visual display, ''Space Quest'' did the same for the space puzzle game.
+
+As a form of copy protection, coordinates in the VGA version of the game while in the escape pod as well as the rocket purchased at Tiny's Used Spaceships are only found in the manual. Also, the code for retrieving the cartridge aboard the Arcada can only be found in the manual. The AGI version had key disk protection where the user was required to insert the original game floppy on startup.
+
+Sierra released three versions of ''Space Quest'': the original 1986 AGI V2 release, the 1987 AGI V3 release, and the 1990 VGA release. Aside from minor sound and graphic differences, the PC, Amiga, Atari ST, and Apple IIGS versions are largely identical. The Mac version is considerably different, however, being monochrome and completely menu-driven. ''Space Quest I'' also had an 8-bit Apple II version for the IIe and IIc. This had no pull down menus and displayed all text at the bottom of the screen.
+
+Along with ''King's Quest III'', ''Space Quest'' was the first Sierra game to feature pull down menus, be hard disk installable, and not require a specially formatted save disk (except the Apple II version as noted above).
+
+==Plot==
+===Setting===
+''Space Quest I'' takes place in a universe in the far future, which parodies significant science-fiction. Players assume the role of a janitor who they can name; by default, his name is "[[Roger Wilco (Space Quest)|Roger Wilco]]" — a reference to the radio communication, "Roger, Will Comply", which became the ''[[de facto]]'' name of the hero in the later games of the series.
+
+===Story===
+Within the Earnon galaxy, Roger Wilco, a janitor aboard the scientific spaceship ''Arcada'', awakens from an on-duty nap in his broom closet to find that the ship has been boarded and seized by the sinister Sariens. He soon learns that they have stolen a powerful experimental device called the Star Generator, which could cause untold disaster in their hands. Acquiring a keycard from a dead crew member's body, Roger flees the ship in an escape pod. Moments later,  the ''Arcada'' self-destructs.
+
+The pod crash lands on the planet Kerona, a dry, barren wasteland. Roger defeats a spider-droid that was dispatched by the Sariens to eliminate him. In a cave system near his crash site, he is greeted by a mysterious figure, who offers help if he kills a monstrous creature called Orat. After Roger succeeds in the task, the figure supplies him with a skimmer craft to help him reach the town of Ulence Flats, where he can find a new ship. 
+
+Reaching Ulence Flats, Roger gambles on a [[slot machine]]s in a [[cantina]] to acquire the money needed to buy a spaceship, along with a navigation droid to pilot it; during this time, he learns from a bar customer the location of the Sariens' spaceship, the ''Deltaur''. Roger boards the ''Deltaur'' and secures a Sarien disguise. Roger programs the Star Generator to self-destruct and then escapes the ship just before it explodes.
+
+At the end of the game, Roger's efforts are rewarded when he receives the Golden Mop as a token of eternal gratitude from the people of Xenon.
+
+==Cultural references==
+The Star Generator is a thinly-veiled reference to the ''Genesis Device'' from ''[[Star Trek II: The Wrath of Khan]]''.{{cn|date=January 2024}} The skimmer craft that Roger acquires resembles a [[landspeeder]] from ''[[Star Wars (film)|Star Wars]]'',{{cn|date=January 2024}} and Ulence Flats is a reference to [[Mos Eisley]] from the same movie.{{cn|date=January 2024}} The planet Xenon is a reference to the planet from ''[[Blake's 7]]''.{{cn|date=January 2024}}
+
+Sierra received some complaints about references included without permission. [[Toys R Us]] complained about a robot shop named "Droids R Us", which Sierra changed to "Droids B Us"; the remake adds a character which resembles the toy company's mascot [[Geoffrey Giraffe]].<ref>{{cite web|first=Kurt|last=Kalata|url=http://www.hardcoregaming101.net/space-quest-i/|publisher=Hardcore Gaming 101|title=Space Quest I|date=2017-09-11|access-date=2024-01-03}}</ref> Rock band [[ZZ Top]] complained that a band seen briefly on stage resembled them – despite this, they re-appear in certain versions of the VGA remake.<ref>{{cite web|url=http://www.spacequest.net/archives/sq1/cameos/ |title=Space Quest 1 Cameo Appearances |publisher=SpaceQuest.Net |access-date=2012-08-27}}</ref>
+
+==Reception==
+''[[Compute!]]'' praised the Apple IIGS version's sound and graphics, stating that players "may think they're watching a cartoon". It concluded that the game "is one of the better new adventure games to arrive".<ref name="thomas198808">{{cite magazine |last=Trunzo |first=James V. |url=https://archive.org/stream/1988-08-compute-magazine/Compute_Issue_099_1988_Aug#page/n71/mode/2up |title=Space Quest — The Sarien Encounter |magazine=Compute! |date=August 1988 |page=70}}</ref>
+
+According to Sierra On-Line, combined sales of the ''Space Quest'' series surpassed 1.2 million units by the end of March 1996.<ref name=sierrasales>{{cite report|date=March 31, 1996 |title=Sierra On-Line Form 10-K |archive-url=https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt |url=https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt |archive-date=April 16, 2018 |location=[[Bellevue, Washington]] |pages=7–9}}</ref>
+
+==Reviews==
+*''[[Tilt (French magazine)|Tilt]]'' (May, 1987)
+*''[[Tilt (French magazine)|Tilt]]'' (Apr, 1987)
+*''[[The Games Machine]]'' (Dec, 1987)
+*''[[Computer and Video Games]]'' (Nov, 1987)
+*''Joker Verlag präsentiert: Sonderheft'' (1993)
+*''[[ST Format]]'' (Mar, 1995)
+*''[[Commodore User]]'' (Sep, 1987)
+
+==Remake==
+{{Infobox video game
+|title = Space Quest I:<br />Roger Wilco in the Sarien Encounter
+|image = Space Quest I - Roger Wilco in The Sarien Encounter cover.jpg
+|developer = [[Sierra Entertainment|Sierra On-Line]]
+|publisher = Sierra On-Line
+|director = [[Bill Davis (artist)|Bill Davis]]<br/>Douglas Herring<br/>Scott Murphy
+|producer = Stuart Moulder
+|designer = [[Mark Crowe]]<br/>[[Scott Murphy (video game designer)|Scott Murphy]]
+|programmer = Jerry Shaw<br/>Hugh Diedrichs<br/>Dave Jamriska<br/>Randy MacNeill
+|artist = Douglas Herring
+|composer = Ken Allen<br/>[[Mark Seibert]]
+|engine = [[Sierra Entertainment#1980s|SCI1]]
+|released = August 20, 1991
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[DOS]], [[Macintosh]], [[Amiga]]
+}}
+''Space Quest'' was eventually remade using Sierra's newer [[Sierra Entertainment#1980s|SCI]] [[game engine]], which, among many other improvements, allowed the game to move from its original 16-color [[Enhanced Graphics Adapter|EGA]] graphics to 256-color [[Video Graphics Array|VGA]]. Rebranded '''''Space Quest I: Roger Wilco in the Sarien Encounter''''' to follow the series' new naming convention introduced in ''[[Space Quest IV]]'', this version was released on August 20, 1991. In addition to the new VGA graphics, which were drawn in 1950s [[retro-futurism|retrofuturistic]] [[B-movie]] style, it featured digitized sounds and a new interface, with text-entry being replaced by an icon interface.
+
+When leaving Ulence Flats in the VGA version, the time pod from ''Space Quest IV'' appears. ''Space Quest IV'' was developed around the same time. However, a continuity error occurs, as the time pod appears in a different place than in Space Quest IV.
+
+===Reception===
+The 1991 remake of the game was reviewed in ''[[Dragon (magazine)|Dragon]]'', receiving 5 out of 5 stars.<ref name="Dragon177">{{cite magazine|title=The Role of Computers |last1=Lesser |last2=Lesser |last3=Lesser |first1=Hartley |first2=Patricia |first3=Kirk |name-list-style=amp |magazine=Dragon |issue=177 |date=January 1992 |pages=57–66}}</ref> Dante Kleinberg of Adventure Gamers stated that the game is "nicely detailed and pleasing to the eye".<ref>{{cite web|title=Review for Space Quest I: The Sarien Encounter|date=2008-01-04|access-date=2024-01-03|publisher=Adventure Gamers|first=Dante|last=Kleinberg|url=https://adventuregamers.com/articles/view/18113}}</ref> Retro Freak Reviews recommended the remake over the original, stating that the humor, art, animation, and music were improved.<ref>{{cite web|publisher=Retro Freak Reviews|title=Space Quest I review|date=2017-02-08|accessdate=2024-01-04|author=DarkwyndPT|url=https://retrofreakreviews.com/2017/02/08/space-quest-i-review/}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{MobyGames|/space-quest-chapter-i-the-sarien-encounter|Space Quest: Chapter I – The Sarien Encounter}}
+*{{MobyGames|/space-quest-i-roger-wilco-in-the-sarien-encounter|Space Quest I: Roger Wilco in the Sarien Encounter}}
+
+{{Space Quest series}}
+{{Sierra Adventure Games|Space Quest}}
+
+[[Category:1986 video games]]
+[[Category:1991 video games]]
+[[Category:Adventure games]]
+[[Category:Point-and-click adventure games]]
+[[Category:Amiga games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:1980s interactive fiction]]
+[[Category:Classic Mac OS games]]
+[[Category:ScummVM-supported games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Space Quest]]
+[[Category:Games commercially released with DOSBox]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games adapted into comics]]
+[[Category:Video games set on fictional planets]]

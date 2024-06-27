@@ -1,0 +1,74 @@
+Waterloo (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Waterloo_%28video_game%29&oldid=1224432217
+Accessed on: 2024-06-26T17:07:52.172052
+
+
+
+------
+Waterloo (video game)
+{{Infobox video game
+|title = Waterloo
+|image = Waterloo Coverart.png
+|designer = Peter Turcan
+|developer = [[Personal Software Services]] 
+|publisher = {{vgrelease|EU|[[Mirrorsoft]]|NA|[[Strategic Simulations|SSI]]}}
+|released = {{vgrelease|EU|1989}}{{vgrelease|NA|1990<ref>{{cite web|url=https://www.newspapers.com/clip/89519928/the-philadelphia-inquirer/|title=Armchair wars:From American Revolution to tecchno thrills|newspaper=[[The Philadelphia Inquirer]]|page=76|date=July 12, 1990|accessdate=November 25, 2021|via=[[Newspapers.com]]}}</ref>}}
+|genre = [[Wargame (video games)|Wargame]]
+|modes = [[Single-player]]
+|platforms = [[DOS]], [[Amiga]], [[Atari ST]], [[Acorn Archimedes]]
+}}
+
+'''''Waterloo''''' is a battle [[strategy game]] by [[Personal Software Services|PSS]] for [[DOS]], [[Atari ST]], [[Amiga]] and [[Acorn Archimedes]]. It was released in the [[United Kingdom|U.K.]] by [[Mirrorsoft]] in [[1989 in video gaming|1989]] and in the [[United States|U.S.]] by [[Strategic Simulations|SSI]] in [[1990 in video gaming|1990]].
+
+== Overview ==
+The player takes the role of either [[Arthur Wellesley, 1st Duke of Wellington|Wellington]] or [[Napoleon]] at the [[Battle of Waterloo]]. The battle may be played with the historical orders or custom orders. It is a [[turn-based strategy]] game.
+
+The 100-page manual provides historical and military background to the battle as well as gameplay information. A fold-out map of the battlefield and initial dispositions of units is also provided.
+
+== Gameplay ==
+The game was innovative in being played from the point of view of the commander, with the battlefield rendered in simple three-dimensional perspective rather than the overhead view traditionally typical of battlefield strategy games. This means that the player's knowledge of the progress of the battle is limited to what he can see with his own eyes and the reports of subordinates. The player may move around the battlefield to better observe events, but risks death or capture if he approaches too close to the front.
+
+The player is not permitted to micromanage the movements of individual units, as these are not under his direct command; instead he must give orders to subordinate commanders who interpret them according to their own judgement. A subordinate commander will ignore an order he considers unfeasible.
+
+Orders are issued using natural language commands reminiscent of [[interactive fiction|adventure games]]. For example,
+*"[[Jean-Baptiste Drouet, Comte d'Erlon|D'Erlon]], at 1 15 pm order [[François-Xavier Donzelot|Donzelot]] defend the hills 1 mile south of you"
+*"[[Georges Mouton|Lobau]], transfer your cavalry to [[Honoré Charles Reille|Reille]]"
+*"[[Antoine Drouot|Drouot]], at 6 30 pm give support to Reille, D'Erlon and [[Édouard Jean Baptiste Milhaud|Milhaud]]"<ref>Game manual.</ref>
+Orders take time to arrive at their destinations, as do combat reports sent by subordinates to the player. [[Despatch rider|Messengers]] may also be killed or captured. This means that units remote from the commander may not receive orders in time, while units engaged in combat may not receive them at all.
+
+The game begins at 11:30 am and ends at 9:30 pm, when the results are assessed. The computer then decides if the player has been defeated, is victorious, or if the result is inconclusive.
+
+==Reception==
+In the September–October 1989 edition of ''[[Games International]]'' (Issue #9), Mike Woodhouse called this "a marvellous simulation of a battle which was a pivotal point in history, and I am impressed with the quality of programming." He pointed out that the ground-level perspective, and the delay from issuing orders to having them executed "make for a game rather different to the usual computer wargame." He found the interface "a real pain" because the program did not highlight developments that occurred in each new segment of play, leaving the player to try to figure out what had developed. He also found that on slower machines, completing a game could take more than five hours. He concluded by giving the game play an average rating of 3 out of 5, and the graphics a below average score of only 2 out of 5. He recommended the game especially to students of military history, but warned board wargamers more used to conventional wargames "that you try ''Waterloo'' before splashing out on it."<ref name=gi>{{cite magazine|last=Woodhouse|first=Mike| date=September–October 1989 |title=Computer Games: Waterloo|journal=[[Games International]]| issue=9|pages=53}}</ref>   
+
+In the July–August 1990 edition of ''Computer Gaming World'' (Issue 73), M. Evan Brooks, who had studied the Battle of Waterloo at the [[United States Army Command and General Staff College]], admired the documentation, the background and history provided, and the method of issuing orders, although he pointed out certain ambiguities in attack and defense orders and their subsequent effects. He thought that the unusual, three-dimensional ground perspective was a radical departure from the usual bird's eye view usually employed, and the resulting uncertainty over the battle's progress helped make the game the most accurate of the ten simulations of the battle he had played. He found the graphics to be "very good", and although he found commanders and dispatch riders "displayed somewhat like [[Gumby]]" he still found the overall impression to be impressive. However, Brooks found that constant map redrawing, while it was not a problem on a fast computer, "does become burdensome on slower machines" and he also criticized the lack of audio. He concluded by giving the game an average rating of 3 out of 5, saying, "''Waterloo'' is a radical departure from most wargaming. Its ground perspective and issuance of orders places the player in the role of the battlefield commander — with the disadvantages inherent in such position. The simulation will rapidly teach the user why commanders have difficulty in achieving battlefield success and why we compensate generals so well."{{r|brooks19900708}}
+
+Two issues later, in the October 1990 edition of ''Computer Gaming World'' ((Issue 75), Brooks summarized his previous review as: "Much more of a wargame than the historic staff simulations more commonly produced, it is a fascinating, albeit frustrating, game."<ref name="brooks199010">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=75 | title=Computer Strategy and Wargames: Pre-20th Century | magazine=Computer Gaming World | date=October 1990 | accessdate=16 November 2013 | author=Brooks, M. Evan | pages=11}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="brooks19900708">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=73 | title=Waterloo / The British Take Us Back To The Battlefield | magazine=Computer Gaming World | date=July–August 1990 | accessdate=16 November 2013 | author=Brooks, M. Evan | pages=40, 42, 54 | issue=73}}</ref>
+}}
+
+== External links ==
+* {{moby game|id=/waterloo|name=''Waterloo''}}
+* {{Lemon Amiga game|id=2478|name=Waterloo}}
+* [http://www.atari.st/view.php?id=2007 ''Waterloo''] at The Little Green Desktop
+
+{{Personal Software Services}}
+
+[[Category:1989 video games]]
+[[Category:Napoleonic Wars video games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:DOS games]]
+[[Category:Atari ST games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Strategic Simulations games]]
+[[Category:Computer wargames]]
+[[Category:Personal Software Services games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Works about the Battle of Waterloo]]
+[[Category:Cultural depictions of Arthur Wellesley, 1st Duke of Wellington]]
+[[Category:Single-player video games]]
+[[Category:Mirrorsoft games]]

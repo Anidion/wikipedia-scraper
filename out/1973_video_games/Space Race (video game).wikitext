@@ -1,0 +1,101 @@
+Space Race (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Race_%28video_game%29&oldid=1227744690
+Accessed on: 2024-06-26T16:47:24.665167
+
+
+
+------
+Space Race (video game)
+{{short description|1973 arcade game}}
+{{About|the Atari video game|the Dreamcast video game|Looney Tunes: Space Race|other uses|Space race (disambiguation)}}
+{{Good article}}
+{{Infobox video game
+| title          = Space Race
+| image          = Space_Race_(video_game)_poster.jpg
+| image_size     = 200px
+| caption        = Advertising flyer
+| developer      = [[Atari, Inc.]]
+| publisher      = {{vgrelease|NA/EU|Atari, Inc.<ref name="Germany">{{cite web |title=Video Game Flyers: Pong Doubles, Space Race, Atari, Inc. (Germany) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=6190 |website=The Arcade Flyer Archive |access-date=22 March 2021}}</ref>|JP|[[Namco]]}}
+| designer       = [[Ted Dabney]]
+| released       = {{video game release|NA|July 16, 1973|EU|1973<ref name="Germany"/>|JP|July 1974}}
+| genre          = [[Racing video game|Racing]]
+| modes          = [[Multiplayer video game|Multiplayer]]
+| platforms      = [[Arcade game|Arcade]]
+}}
+
+'''''Space Race''''' is an [[arcade game]] developed by [[Atari, Inc.]] and released on July 16, 1973. It was the second game by the company, after ''[[Pong]]'' (1972), which marked the beginning of the commercial [[video game industry]] along with the [[Magnavox Odyssey]]. In the game, two players each control a rocket ship, with the goal of being the first to move their ship from the bottom of the screen to the top. Along the way are asteroids, which the players must avoid. ''Space Race'' was the first racing arcade video game and the first game with a goal of crossing the screen while avoiding obstacles.
+
+Development of ''Space Race'' began in Summer 1972 under the name ''Asteroid'' by Atari co-founder [[Nolan Bushnell]], based on ideas by him and co-founder [[Ted Dabney]]. The final design was done by Dabney, possibly with assistance by Bushnell and ''[[Pong]]'' designer [[Allan Alcorn]]. The game was planned to be quick to create to fulfill an earlier contract with [[Midway Games|Midway Manufacturing]]. The engineering and prototyping was done by Alcorn; after it was completed and the design given to Midway to be released as ''Asteroid'', Atari produced its own nearly identical version as ''Space Race''. Fifty ''Space Race'' cabinets were produced using a fiberglass design by George Faraco before the rest of the production was switched to a cheaper standard cabinet.
+
+''Space Race'' was not commercially successful; Bushnell said that it was much less popular than ''Pong''. Midway held that the release of ''Space Race'' violated Atari's contract with them for ''Asteroid'', and the companies agreed for Atari to forfeit royalty payments for the game.
+
+==Gameplay==
+[[File:Space_Race_gameplay.png|thumb|right|Gameplay of ''Space Race'', with the timer near the start of the game and player 2 in the lead.]]
+''Space Race'' is a two-player [[arcade game]]. In the game, the two players each control a spaceship, which they fly from the bottom of the screen to the top. Along the way are dashes representing asteroids moving across the screen from left to right, which the players must avoid. Movement controls are limited to moving the spaceship up or down; if the player's ship is hit by an asteroid it disappears for a few seconds before reappearing at the bottom again. The game displays a starfield in the background, as well as each player's score, which increases whenever a player makes it to the top first. Each game is for a set amount of time, represented by a line in the bottom middle of the screen that shortens during the game, with the winner being the player with the higher score when time runs out.<ref name="AtariInc98"/> Each game costs a [[quarter (United States coin)|quarter]]. Machines can be set to play one or two rounds per game, and the time per round is adjustable per machine over a range from 45 seconds to 3 minutes.<ref name="flyer"/>
+
+==Development==
+Development of ''Space Race'' began soon after the founding of [[Atari]] in summer 1972 under the name ''Asteroid''. Co-founders [[Nolan Bushnell]] and [[Ted Dabney]] had the initial idea for the game while developing the 1971 ''[[Computer Space]]'', the first arcade video game, but felt the more complicated ''Computer Space'' was a better first game. After leaving [[Nutting Associates]] and founding Atari in May 1972, Bushnell spent a few days designing ''Asteroid'', but soon had to drop the project to focus on running the company.<ref name="Trial"/> After the release of ''[[Pong]]'', Atari's first game, development resumed on the title in Spring 1973.<ref name="AtariInc98"/> Dabney has claimed credit for the game's final design, though ''Pong'' designer [[Allan Alcorn]] has stated that he and Bushnell may have been involved as well.<ref name="AtariInc98"/><ref name="Alcorn"/> ''Asteroid'', codenamed VP-2, was designed to be a racing game that would be simple to create to fulfill an earlier contract with [[Midway Games|Midway Manufacturing]]; Atari had initially offered ''Pong'' during its development to fulfill the contract, but had been rejected.<ref name="Trial"/> The company was also interested in producing a very different game from their previous success, as they felt that innovative design was what would separate them from their competitors, which they saw as flooding the market with ''Pong'' [[video game clone|clones]] rather than making new video games.<ref name="GS"/>
+
+The engineering and prototyping for ''Asteroid'' was done by Alcorn. The game is encoded entirely in discrete electronic components, like Atari's earlier games, and unlike later computer-based arcade games; the graphics are all simple line elements with the exception of the spacecraft, which are generated based on [[diode]]s on the circuit board arranged in the shape of half of a ship to represent the shape they create.<ref name="IAM"/> That half ship is mirrored on the screen, similar to the diode array in ''Computer Space'', which generated eight directions of a rotating ship with a mirrored four images.<ref name="IAM"/><ref name="CSTech"/> The game was completed quickly, and Alcorn soon moved on to Atari's third game, ''[[Gotcha (video game)|Gotcha]]''.<ref name="AtariInc98"/> When the game was complete, the design was given to Midway to sell as ''Asteroid'', only for Atari to produce a nearly identical version itself titled ''Space Race'', which was released on July 16, 1973.<ref name="AtariInc98"/><ref name="Trial"/> [[Namco]] released the game in Japan due to their acquisition of Atari's Japanese division, releasing it in July 1974.<ref name="ATVGL:JaO1971-2005"/>
+
+A fiberglass ''Space Race'' cabinet was designed for the game by Atari's product designer, George Faraco. The tall, angular cabinet, reminiscent of the fiberglass cabinet for ''Computer Space'', was the first to display the Atari logo. The cabinet design was distinctive enough that Bushnell considered using it for ''Pong'' as well, but the production costs proved too high and only 50 units were made before the design was dropped and ''Space Race'' switched to a more traditional rectangular cabinet.<ref name="AtariInc98"/> The final cabinet stands nearly 5 feet tall and weighs over 200 pounds.<ref name="flyer"/> Bushnell later stated that the molds to make the fiberglass cabinets cost US$2000 and could only make one per day due to the complicated shape, and Atari felt the cost did not justify buying enough molds to make a full production run in a reasonable amount of time.<ref name="IAM"/> The final ''Space Race'' cabinet was reused later that same year for ''Pong Doubles'', a four-player version of ''Pong''.<ref name="AtariInc100"/>
+
+==Legacy==
+[[File:Astro_Race_poster.png|thumb|right|Poster for ''Astro Race'' (1973), showing the same gameplay and visuals as ''Space Race'']]
+''Space Race'' was not commercially successful; Nolan Bushnell has described it as "not as successful as ''Pong'' by a wide margin", and [[Ralph Baer]] claims that it sold around 1,500 units.<ref name="GaW"/><ref name="AICsales"/> It inspired a clone game, [[Taito]]'s 1973 ''Astro Race'', and according to Bushnell also inspired an unsuccessful clone version by Nutting Associates.<ref name="GaW"/><ref name="TVGE"/> Midway felt that the release of ''Space Race'' violated their contract with Atari for ''Asteroid'', and the two companies agreed in exchange to drop Atari's three percent royalty cut for ''Asteroid'' machines.<ref name="Trial"/> Baer claims ''Asteroid'' sold 2,000 units, making ''Asteroid'' and ''Space Race'' the eighth and ninth best-selling [[1973 in video games|arcade video games of 1973]] according to him.<ref name="BaerSales"/>
+
+Despite ''Space Race''{{'}}s prominence as Atari's second game and the first after ''Pong'', the 1973 arcade video game market was largely dominated by ''Pong'' clones; while ''Pong'' was the fourth arcade video game ever produced, ''Space Race'' was approximately the fourteenth, with nine ''Pong'' clones between them and mostly only other clones filling out the rest of the year's releases.<ref name="Color"/>
+
+''Space Race'' was the first arcade [[racing game]], as well as the first game with a goal of crossing the screen while avoiding obstacles, though a few racing games had been released in 1972 for the [[Magnavox Odyssey]] [[home video game console]].<ref name="old"/><ref name="TRC"/><ref name="TCW152"/> Later games in that genre are the arcade game ''[[Frogger]]'' and the [[Atari 2600]] ''[[Freeway (video game)|Freeway]]'', both from 1981.<ref name="old"/> A similarly-titled, expanded version of ''Space Race'' was published by [[ANALOG Computing|ANALOG Software]] in 1981 for the [[Atari 8-bit computers]] as ''Race in Space''.<ref name="analog"/><ref name="RiS"/>
+
+In July 2013, ''Space Race'' was one of the titles that was sold to [[Tommo]] during the [[Atari, Inc. (1993–present)|Atari]] bankruptcy proceedings.<ref name="Sold"/>
+
+==References==
+{{Reflist|refs=
+<ref name="AtariInc98">[[#CITEREF_Atari|Goldberg, Vendel]], p. 98</ref>
+<ref name="flyer">{{cite book |title=Space Race advertisement flyer |publisher=[[Atari, Inc.]] |date=1973 |url=http://flyers.arcade-museum.com/flyers_video/atari/11017302.jpg}}</ref>
+<ref name="Trial">{{cite web |last=Smith |first=Keith |date=2015-02-15 |title=Annotated Atari Depositions - Part 4 |publisher=The Golden Age Arcade Historian |url=http://allincolorforaquarter.blogspot.com/2015/02/annotated-atari-depositions-part-4.html |access-date=2016-10-12 |archive-url=https://web.archive.org/web/20160805140619/http://allincolorforaquarter.blogspot.com/2015/02/annotated-atari-depositions-part-4.html |archive-date=2016-08-05 |url-status=live}}</ref>
+<ref name="ATVGL:JaO1971-2005">[[#CITEREF_TVGame|Akagi]], [https://archive.org/stream/ArcadeGameList1971-2005#page/n51/mode/1up p. 51]</ref>
+<ref name="Alcorn">{{cite web |url=http://archive.computerhistory.org/resources/access/text/2012/09/102658257-05-01-acc.pdf |title=Oral History of Allan (Al) Alcorn |date=September 2012 |pages=19–20 |publisher=[[Computer History Museum]] |access-date=2016-10-12 |archive-url=https://web.archive.org/web/20160303191409/http://archive.computerhistory.org/resources/access/text/2012/09/102658257-05-01-acc.pdf |archive-date=2016-03-03 |url-status=live}}</ref>
+<ref name="GS">[[#CITEREF_Sound|Collins]], p. 8</ref>
+<ref name="IAM">{{cite web |url=http://www.arcade-museum.com/game_detail.php?game_id=9681 |title=Space Race |publisher=International Arcade Museum |access-date=2016-10-08 |archive-url=https://web.archive.org/web/20160414065319/http://www.arcade-museum.com/game_detail.php?game_id=9681 |archive-date=2016-04-14 |url-status=live}}</ref>
+<ref name="GaW">[[#CITEREF_Work|Ramsay]], p. 30</ref>
+<ref name="CSTech">{{cite web |url=http://www.marvin3m.com/arcade/cspace.htm |last=Yagoda |first=Marvin |title=1972 Nutting Associates Computer Space |publisher=[[Marvin's Marvelous Mechanical Museum]] |date=2008 |access-date=2016-04-13 |archive-url=https://web.archive.org/web/20090130053055/http://www.marvin3m.com/arcade/cspace.htm |archive-date=2009-01-30 |url-status=dead}}</ref>
+<ref name="AtariInc100">[[#CITEREF_Atari|Goldberg, Vendel]], p. 100</ref>
+<ref name="old">{{cite web |title=Space Race |url=http://www.old-computers.com/museum/software_detail.asp?id=464 |publisher=old-computers.com |access-date=2016-10-08 |archive-url=https://web.archive.org/web/20160804171755/http://www.old-computers.com/museum/software_detail.asp?id=464 |archive-date=2016-08-04 |url-status=live}}</ref>
+<ref name="AICsales">{{cite web |url=https://allincolorforaquarter.blogspot.com/2012/08/what-was-best-selling-us-arcade-video.html |title=What Was The Best-Selling U.S. Arcade Video Game Prior to Space Invaders? |date=2012-08-30 |last=Smith |first=Keith |publisher=The Golden Age Arcade Historian |access-date=2016-12-06 |archive-url=https://web.archive.org/web/20161006102515/http://allincolorforaquarter.blogspot.com/2012/08/what-was-best-selling-us-arcade-video.html |archive-date=2016-10-06 |url-status=live}}</ref>
+<ref name="BaerSales">[[#CITEREF_Begin|Baer]], [https://archive.org/details/VideogamesInTheBeginningRalphH.Baer/page/n31/mode/2up pp. 31–32]</ref>
+<ref name="TVGE">[[#CITEREF_Explode|Wolf]], p. 36</ref>
+<ref name="Color">{{cite web |last=Smith |first=Keith |date=2014-05-17 |title=What Were the First Ten Coin-Op Video Games? |publisher=The Golden Age Arcade Historian |url=https://allincolorforaquarter.blogspot.com/2014/05/what-were-first-ten-coin-op-video-games.html |access-date=2016-10-08}}</ref>
+<ref name="TRC">[[#CITEREF_Companion|Wolf, Perron]], ch. 28</ref>
+<ref name="TCW152">{{cite book |title=They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry |volume=1: 1971 – 1982 |last=Smith |first=Alexander |publisher=[[CRC Press]] |date=2019-11-27 |isbn=978-1-138-38990-8 |page=152}}</ref>
+<ref name="analog">{{cite web |title=Race in Space |url=http://www.atarimania.com/game-atari-400-800-xl-xe-race-in-space_4255.html |publisher=Atari Mania |access-date=2016-10-08 |archive-url=https://web.archive.org/web/20160821160159/http://www.atarimania.com/game-atari-400-800-xl-xe-race-in-space_4255.html |archive-date=2016-08-21 |url-status=live}}</ref>
+<ref name="RiS">{{cite web |title=Race in Space (1981)(Analog Software)(US) |url=https://archive.org/details/a8b_Race_in_Space_1981_ANALOG_Software_US |publisher=[[Internet Archive]] |date=2014-06-15 |access-date=2016-10-10}}</ref>
+<ref name="Sold">{{cite web |url=https://docs.bmcgroup.com/Atari/nysb_1-13-bk-10176_313.pdf |title=Notice of Filing of Proposed Sale Orders With Respect to the Sale of Certain Assets |date=2013-07-22 |publisher=BMC Group}}</ref>
+}}
+
+==Sources==
+{{Refbegin}}
+* {{cite book |last=Akagi |first=Masumi |url=https://archive.org/stream/ArcadeGameList1971-2005 |title=アーケードTVゲームリスト 国内•海外編 (1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |publisher=Amusement News Agency |date=2006-10-13 |isbn=978-4-9902512-1-5 |language=ja |ref=CITEREF_TVGame}}
+* {{cite book |title=Videogames: In the Beginning |last1=Baer |first1=Ralph H. |author1-link=Ralph H. Baer |date=2005 |publisher=Rolenta Press |isbn=978-0-9643848-1-1 |url=https://archive.org/details/VideogamesInTheBeginningRalphH.Baer |ref=CITEREF_Begin}}
+* {{cite book |title=Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design |last=Collins |first=Karen |date=2008-08-08 |publisher=[[MIT Press]] |isbn=978-0-262-03378-7 |ref=CITEREF_Sound}}
+* {{cite book |title=Atari Inc.: Business Is Fun |last1=Goldberg |first1=Marty |last2=Vendel |first2=Curt |publisher=Syzygy Press |date=2012-11-25 |isbn=978-0-9855974-0-5 |url-access=registration |url=https://archive.org/details/atariincbusiness0000gold |ref=CITEREF_Atari}}
+* {{cite book |title=Gamers at Work: Stories Behind the Games People Play |last=Ramsay |first=Morgan |date=2012-06-08 |publisher=[[Apress]] |isbn=978-1-4302-3352-7 |ref=CITEREF_Work}}
+* {{cite book |title=The Video Game Explosion: A History from PONG to PlayStation and Beyond |last=Wolf |first=Mark J. P. |date=2007-11-30 |publisher=[[Greenwood Publishing Group]] |isbn=978-0-313-33868-7 |ref=CITEREF_Explode}}
+* {{cite book |title=The Routledge Companion to Video Game Studies |last1=Wolf |first1=Mark J. P. |last2=Perron |first2=Bernard |date=2014-01-03 |publisher=[[Routledge]] |isbn=978-1-136-29050-3 |ref=CITEREF_Companion}}
+{{Refend}}
+
+==External links==
+* {{KLOV game|id=9681|name=Space Race}}
+
+{{1970s Atari arcade games}}
+
+[[Category:1973 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Head-to-head arcade video games]]
+[[Category:Namco arcade games]]
+[[Category:Racing video games]]
+[[Category:Science fiction video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Discrete video arcade games]]

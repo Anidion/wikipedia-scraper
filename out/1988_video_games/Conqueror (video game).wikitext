@@ -1,0 +1,72 @@
+Conqueror (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Conqueror_%28video_game%29&oldid=1224480853
+Accessed on: 2024-06-26T17:03:56.043958
+
+
+
+------
+Conqueror (video game)
+{{About|the WWII tank command game|the 1995 medieval strategy game|Conqueror A.D. 1086}}
+{{Infobox video game
+|title = Conqueror
+|image = Conqueror-superior.png
+|developer = Jonathan Griffiths, [[David Braben]], [[Chris Sawyer]]
+|designer = Jonathan Griffiths
+|publisher = [[Superior Software|Superior]], [[Acornsoft]], [[Rainbow Arts]]
+|platforms = [[Acorn Archimedes]], [[Amiga]], [[Atari ST]], [[DOS]]
+|released = {{vgrelease|EU|1988}}<small>(Archimedes)</small><br />{{vgrelease|EU|1990}}<small>(Amiga/ST/DOS)</small>
+|genre = [[Third-person shooter]], [[strategy video game|strategy]]
+|modes = [[Single player]], [[multiplayer]]
+}}
+'''''Conqueror''''' is a [[video game]] released as the follow-up to ''[[Zarch]]'' (also known as ''Virus''), using the same landscape [[Game engine|engine]]. It is a [[third-person shooter]] with [[strategy video game|strategy]] elements in which the player controls a fleet of [[tank]]s. It was originally developed and released on the [[Acorn Archimedes]] by [[Superior Software]] in 1988 and ported to other [[home computer]]s in 1990 by [[Rainbow Arts]]. The game was well received, particularly for its blend of strategy and arcade action.
+
+==Gameplay==
+[[Image:Conqueror-amiga.png|thumb|left|In-game screenshot (Amiga)]]The game is set in the [[World War II|Second World War]] era and in a 3D [[Polygon (computer graphics)|polygonal]] environment. The player controls a fleet of tanks from either the American, German or Russian army. There are various tanks available with different abilities from light, fast tanks that are easily damaged to heavy, slow tanks with high firepower.
+
+The player controls an individual tank from a third-person perspective with computer [[Artificial intelligence (video games)|AI]] controlling the other friendly tanks as well as the enemy tanks. By switching to a map screen, the player can change which tank they control and also direct tanks to different places on the map. The game carries on in real-time while the player is looking at the map. Control can be split so that two players can [[Cooperative video game|cooperate]] to control the tank so one player drives the tank while the other controls the gun. Single players can choose for the computer to take the role of the second player or control both together.
+
+There are three types of game; 'Arcade', 'Attrition' and 'Strategy'. In the 'arcade' version, the player controls just one tank and faces a never-ending stream of enemy tanks that becomes progressively more difficult and cannot be 'won'. The object of the game is simply to survive as long as possible. The 'attrition' game gives the player a set fleet of tanks which are pitted against a similar set of enemy tanks. The 'strategy' version is the full game. The player begins with limited funds which are used to buy a fleet of tanks. Extra funds are gained by completing missions which can then be used to add to the fleet with up to fifteen tanks being available. Other extra features in this version of the game include [[artillery]] bombardment which can be ordered to strike at a specific point on the map and [[spotter plane]]s which can be used to find out where the enemy tanks are on the map. Both of these actions use up funds. Tanks are damaged when hit but if they can be driven away from the combat area, they can be repaired. Missions are generally won either by destroying all enemy tanks or by occupying a specific point on the map for a set time without coming under attack.<ref name="tgm arch"/><ref name="ace amiga st"/>
+
+==Development and release==
+''Conqueror'' was designed and coded by Jonathan Griffiths using the ''Zarch'' game engine which was created by [[David Braben]] (co-author of ''[[Elite (video game)|Elite]]''). Like ''Zarch'', it was originally developed and released on the [[32-bit]] Acorn Archimedes. It was published in 1988 by Superior Software.<ref name="computing history">[http://www.computinghistory.org.uk/det/12911/Conqueror/ ''Conqueror''] at ''The Centre for Computing History''</ref>
+
+Following the success of ''Virus'', the name given to ''Zarch'' for its multi-format release in 1988, ''Conqueror'' was also ported to the [[Amiga]], [[Atari ST]] and [[DOS]]. The Amiga and ST ports were carried out by Griffiths (with graphics by Torsten Zimmerman), while the DOS version was ported by [[Chris Sawyer]]. These versions were released by Rainbow Arts in 1990.
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[ACE (games magazine)|ACE]]''
+| rev1Score = 931/1000 (Archimedes)<ref name="ace arch" /><br>925/1000 (Amiga)<ref name="ace amiga st" /><br>920/1000 (Atari ST)<ref name="ace amiga st" />
+| rev3 = ''[[Amiga Format]]''
+| rev3Score = 93% (Amiga)<ref name="amiga format" />
+| rev2 = ''[[The Games Machine]]''
+| rev2Score = 87% (Archimedes)<ref name="tgm arch" /><br>80% (DOS)<ref name="tgm st pc" /><br>80% (Atari ST)<ref name="tgm st pc" />
+| rev4 = ''Power Play''
+| rev4Score = 69% (Atari ST)<ref>{{cite magazine|title =Computerspiele - Conqueror|trans-title=Computer Games - Conqueror|date =February 1990 |url =https://archive.org/details/Power.Play.N23.1990.02-kultpower/page/n21/mode/2up |magazine =Power Play |publisher =[[Markt+Technik|Markt&Technik]]|last =Hengst |first =Michael |page =22 |language=German|issn=0937-9754}}</ref>
+| rev5 = ''Amiga Joker''
+| rev5Score = 63% (Amiga)<ref>{{cite magazine|title =Conqueror |date =March 1990 |url =https://archive.org/details/Amiga_Joker_1990-03_Joker_Verlag_DE/page/n67/mode/2up |magazine =Amiga Joker |publisher =Joker Verlag |last =Borgmeier |first =Carsten |page =68 |language=German|issn=0933-8713}}</ref>
+}}
+The game was well received by critics, generally comparable to ''Zarch''/''Virus''. The Archimedes version was given a score of 931 (out of 1000) by ''[[ACE (games magazine)|ACE]]'' magazine<ref name="ace arch">{{cite magazine|title =Conqueror |date =June 1988 |url =https://archive.org/details/ace-magazine-09/page/n53/mode/2up |magazine =[[ACE (games magazine)|ACE]] |publisher =[[Future Publishing]] |last =King |first =Arthur |issue =9 |pages= 54–55|issn=0954-8076}}</ref> and 87% by ''[[The Games Machine]]'' who viewed it as an improvement over ''Zarch''; "With more depth than Superior's previous Archimedes game, ''Conqueror'' is a change towards the more strategic style of game and as such is a change for the better - a product that is addictive and challenging in both the arcade and strategy sense of the word".<ref name="tgm arch">{{cite magazine|title =I Came, I Saw - Conqueror |date =September 1988 |url =https://archive.org/details/the-games-machine-10/page/n29/mode/2up |magazine =[[The Games Machine]] |publisher =Newsfield |last =Braben |first =David |issue =10 |pages =30–31 |issn=0954-8092}}</ref>
+
+The later versions generally scored slightly lower in the multi-format magazines with ''ACE'' giving the Amiga and ST versions 925 and 920 respectively,<ref name="ace amiga st">{{cite magazine|title =Screentest - Conqueror |date = March 1990|url =https://archive.org/details/ACEIssue30Mar90/ACE_Issue_30_Mar_90/page/n33/mode/2up |magazine =[[ACE (games magazine)|ACE]] |publisher =[[Future Publishing]] |issue =30 |pages =34–35 |issn=0954-8076}}</ref> while ''The Games Machine'' gave both the ST and DOS versions 80%.<ref name="tgm st pc">{{cite magazine|title =Reviews - Conqueror |date =April 1990 |url =https://archive.org/details/the-games-machine-29/page/n51/mode/2up |magazine =[[The Games Machine]] |publisher =Newsfield |last =Lapworth |first =Warren |issue =29 |page =52 |issn=0954-8092}}</ref> ''[[Amiga Format]]'' called the game "first-class", and said it "will appeal to everyone who likes a good blast but also likes to think they can master a situation by good tactical planning", awarding a score of 93%.<ref name="amiga format">{{cite magazine|title =Screenplay - Conqueror |date =April 1990 |url =https://archive.org/details/AmigaFormat009Apr90/page/n31/mode/2up |magazine =[[Amiga Format]] |publisher =[[Future Publishing]] |last =Smith |first =Andy |issue =9 |pages =32–33 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/conqueror|name=''Conqueror''}}
+*{{abime|id=3079}}
+
+{{Superior Software}}
+
+[[Category:1988 video games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Superior Software games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Rainbow Arts games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Acornsoft games]]
+[[Category:Third-person strategy video games]]

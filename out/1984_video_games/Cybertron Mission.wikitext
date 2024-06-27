@@ -1,0 +1,52 @@
+Cybertron Mission
+Permalink: //en.wikipedia.org/w/index.php?title=Cybertron_Mission&oldid=1224085614
+Accessed on: 2024-06-26T16:56:35.437887
+
+
+
+------
+Cybertron Mission
+{{More citations needed|date=December 2007}}
+{{Infobox video game
+| title = Cybertron Mission
+| image = Cybertronmission.jpg
+| caption = 
+| developer = Matthew Bates<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+| publisher = [[Micro Power]]
+| designer =
+| released = 1983
+| genre = [[Multidirectional shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Acorn Electron]], [[BBC Micro]], [[Commodore 64]]
+}}
+
+'''''Cybertron Mission''''' is a [[multidirectional shooter]] released by [[Micro Power]] in 1983 for the [[BBC Micro]] and [[Acorn Electron]] and ported to the [[Commodore 64]] in the same year. The game is heavily influenced by the 1982 [[Atari 8-bit]] game ''[[Shamus (computer game)|Shamus]]'', which was itself inspired by the 1980 [[arcade video game]] ''[[Berzerk (video game)|Berzerk]]''.
+
+==Gameplay==
+The player controls a man who has penetrated the electrified Cybertron Fortress, in order to retrieve the priceless treasures within: [[gold]]en keys, [[Circle|rings]] and bars.
+
+The player character has 8-directional movement, and may shoot in the direction he is facing. The objective of each level was to find all the listed treasure, and then touch the safe, located at a random position on the level. The amount of treasure required increased by one item every level, up to the maximum of six. Cybertron Mission had four [[maze|maze-like]] levels, repeating the series every four levels, with palette shifts in order to make them appear different.
+
+There are four enemy types. Spinners (appearing on all levels) move blindly towards the player, but cannot harm him even when touching, unless he walks into them. Clones (appearing from level 2 onwards) move pseudo-randomly, and shoot in the direction they were moving/facing. Cyberdroids (appearing from level 3 onwards) move in straight lines for a period. They change direction when they hit a wall, see the player, or after a certain period of time. They will fire towards the player. The fourth enemy type is Spook, the [[ghost]] of a previous entrant to the fortress. He appears if you spend too long on any one screen, moving towards you and ignoring walls. He cannot be destroyed, but may be paralysed if shot. Touching the electrified walls of the maze kills the player.
+
+''Cybertron Mission'' does not end, each level simply brings a greater number of enemies to fight, which fire more frequently and with greater accuracy.
+
+==Reception==
+''[[Electron User]]'' (#1.07, April 1984) concluded, "It's exciting with plenty of variety, excellent graphics and interesting sound effects. You'll be a-mazed. And if you are anything like me, you won't be able to put your Electron down. A winner."<ref>{{cite web |url=http://www.retroalphabet.com/game.asp?Game_Name=CYBERTRON |title=RETROalphabet &#124; CYBERTRON &#124; 1984 |website=www.retroalphabet.com |access-date=14 January 2022 |archive-url=https://web.archive.org/web/20110715174926/http://www.retroalphabet.com/game.asp?Game_Name=CYBERTRON |archive-date=15 July 2011 |url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.triumphoverchallenges.com/working-at-micro-power-program-power-leeds/ Origin of the packaging artwork]
+
+{{Micro Power}}
+
+[[Category:1984 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Maze games]]
+[[Category:Micro Power games]]
+[[Category:Single-player video games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video games developed in the United Kingdom]]

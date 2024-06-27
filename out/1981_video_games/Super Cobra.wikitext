@@ -1,0 +1,124 @@
+Super Cobra
+Permalink: //en.wikipedia.org/w/index.php?title=Super_Cobra&oldid=1225173061
+Accessed on: 2024-06-26T16:52:41.598372
+
+
+
+------
+Super Cobra
+{{Short description|1981 video game}}
+{{for|the helicopter|Bell AH-1 SuperCobra}}
+{{more footnotes needed|date=March 2010}}
+{{Infobox video game
+|title     = Super Cobra / スーパーコブラ
+|image     = Super Cobra.jpg
+|caption   = MSX cover art
+|developer = '''Arcade''' <br> [[Konami]] <br> '''Ports''' <br> [[Entex Industries|Entex]]<br>[[Parker Brothers]]
+|publisher = '''Arcade''' {{vgrelease|[[Japan|JP]]/[[Europe|EU]]|Konami|NA|[[Stern (game company)|Stern]]}} '''Ports''' {{vgrelease|NA|Entex}}{{vgrelease|NA|Parker Brothers}}
+|platforms = [[Arcade video game|Arcade]], [[Adventure Vision]], [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]], [[Colecovision]], [[Intellivision]], [[MSX]], [[Odyssey²]], [[Sord M5]], [[PV-1000]]
+|release = {{collapsible list|title=March 1981|
+'''Arcade'''{{vgrelease|JPN|March 1981|NA|June 22, 1981}}
+'''Sord M5'''{{vgrelease|JPN|1981}}
+'''Adventure Vision'''{{vgrelease|NA|1982}}
+'''Odyssey²'''{{vgrelease|FRA|1982}}
+'''MSX'''{{vgrelease|JPN|1983|EU|1983}}
+'''Atari 2600'''{{vgrelease|NA|1983}}
+'''Atari 5200'''{{vgrelease|NA|1983}}
+'''Atari 8-bit'''{{vgrelease|NA|1983}}
+'''Colecovision'''{{vgrelease|NA|1983}}
+'''Intellivision'''{{vgrelease|NA|1983}}}}
+|genre   = [[Scrolling shooter]]
+|modes   = 1-2 players alternating turns
+|arcade system = [[Namco Galaxian|Konami Scramble]]
+}}
+
+'''''Super Cobra'''''{{efn|{{nihongo|スーパーコブラ|Sūpā Kobura}} in Japanese<ref name="Famitsu">{{cite magazine |url=https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=25909 |title=スーパーコブラ まとめ [アーケード] |author=<!--Not stated--> |magazine=[[Famitsu]] |publisher=[[Enterbrain|Enterbrain, Inc.]], [[Tokuma]] |access-date=2018-07-25 |language=ja |trans-title=Super Cobra Summary (Arcade)}}</ref>}} is a horizontally [[scrolling shooter]] developed by [[Konami]], originally released as an [[arcade video game]] in 1981. It was published by Konami in [[Japan]] in March 1981<ref name="Famitsu"/> and manufactured and distributed by [[Stern (game company)|Stern]] in [[North America]] on June 22.<ref name="GM173">{{cite magazine|title=Overseas Readers Column - Konami Industry Grants a License on "Super Cobra" to 3 Foreign Companies|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=173|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 September 1981|page=31|lang=ja}}</ref><ref name="Stern">{{cite web |url=http://www.tokensonly.com/2012/05/misc/stern-production-numbers-and-more-cci-photos/ |title=Stern production numbers and more CCI photos |date=2012-05-01 |website=Tokens Only |accessdate=2013-07-21}}</ref> It is the spiritual sequel to the ''[[Scramble (video game)|Scramble]]'' arcade game released earlier in 1981. ''Super Cobra'' contains eleven distinct sections, versus six in ''Scramble'', and is significantly more difficult, requiring maneuvering through tight spaces early in the game.
+
+The game was a commercial success, selling 12,337 [[arcade cabinet]]s in the [[United States]] within four months, becoming Stern's third best-selling arcade game. ''Super Cobra'' was widely ported by [[Parker Brothers]], and there are [[Adventure Vision]] and standalone versions from [[Entex Industries|Entex]].
+
+==Gameplay==
+The player controls a helicopter through tight caverns, and the slightest misstep will result in the loss of a life, but unlike ''Scramble'', the game can be continued where the player left off by adding more credits and pressing FIRE (but he/she loses all points upon continuing).{{efn|This option will cease to be available after continuing 4 times in the original Konami version (or 255 in the Stern-licensed version), and can be disabled entirely for operators who dislike it by changing a DIP switch setting.}}
+
+The joystick accelerates, decelerates, moves up, and moves down. The helicopter uses a laser and bomb to destroy defenders, tanks, and UFOs while infiltrating 10 Super Cobra defense systems.<ref name="manual pg 3">{{cite book|author=Stern|title=Super Cobra Manual|url=http://www.arcade-museum.com/manuals-videogames/S/SuperCobra.pdf|accessdate=7 November 2012|page=3|author-link=Stern (game company)}}</ref>
+
+The ship has a limited fuel supply, which is depleted over time. More fuel can be acquired by destroying fuel tanks in the game.<ref name="manual pg 3" />
+
+The game is divided into ten sections, plus a finale, each with a different style of terrain and different obstacles. Players navigate through ten levels and a base, where they must safely make it through the level and remove the booty. The levels are described as follows:<ref name="manual pg 3" />
+
+# Player must maneuver the chopper over mountainous terrain against fast and slow firing rockets.
+# Chopper faces Arcing missiles over a mountain terrain.
+# Smart Bombs flying in groups of four over mountainous terrain. Rockets appear, but do not fire.
+# Single Smart Bombs over mountainous terrain. Again, Rockets appear, but do not fire.
+# Chopper flies through a cavern-like terrain against falling mines.
+# Rapidly firing, roving tanks over mountainous terrain. Rockets appear, but do not fire.
+# Maneuver through a field of meteors which explode when hit with bombs or 3 times with laser, plus a single, green, shadow meteor directly in front of chopper which explodes when hit five times with laser. Rockets appear but do not fire.
+# Chopper flies over mountainous terrain against rapidly firing UFOs. Tanks and rockets appear, but do not fire.
+# Chopper faces arcing missiles over tall buildings.
+# Firing rockets in a building maze.
+# Base: Player must maneuver the chopper over tall buildings against arcing missiles and rapidly firing tanks to reach the Booty and safely carry it away. If the mission is successful, an extra copter is given (plus one when 10,000 points are scored).
+
+There is no intermission between each section; the game simply scrolls into the new terrain. If the player destroys the booty on the final level, he/she must start back at the beginning of the level.
+
+If the booty is safely carried away, the player starts back at the beginning of the first level and the cycle repeats. On the second time through the levels, the tanks fire much more aggressively and fuel is consumed much faster. On the third and subsequent times through the levels, fuel is consumed still faster. The faster rate of fuel consumption on the second and subsequent cycles may make it difficult to complete those cycles without losing at least one chopper due to running out of fuel, although this is compensated somewhat by awarding an extra chopper each time a cycle is completed and the booty is carried away.
+
+==Ports==
+The game was ported to the [[Atari 2600]], [[Atari 5200]], [[ColecoVision]], [[Intellivision]], [[Magnavox Odyssey²|Odyssey²]], and [[Atari 8-bit computers]] by [[Parker Brothers]]. It was also released for [[Sord M5]], [[MSX]], [[Entex Adventure Vision]] and [[Casio PV-1000]]. [[Entex Industries|Entex]] produced a standalone tabletop version.<ref>{{cite web|title=Entex Arcade Defender and Super Cobra Handhelds|url=http://www.retroist.com/2013/05/03/entex-arcade-defender-and-super-cobra-handhelds/|website=Retroist|date=May 3, 2013|access-date=May 2, 2016|archive-date=September 3, 2018|archive-url=https://web.archive.org/web/20180903050002/https://www.retroist.com/2013/05/03/entex-arcade-defender-and-super-cobra-handhelds/|url-status=dead}}</ref>
+
+==Reception==
+{{Video game reviews
+| rev1 = ''Arcade Express''
+| rev1Score = 9/10 (Adventure Vision)<ref name="express"/>
+| rev2 = ''Computer Entertainer''
+| rev2Score = {{Rating|7|8}} (ColecoVision)<ref>{{cite magazine |title=Critically Speaking..ColecoVision-Compatible |magazine=Computer Entertainer |date=January 1984 |volume=2 |issue=10 |page=150 |url=https://www.ataricompendium.com/archives/newsletters/video_game_update/video_game_update_jan84.pdf#page=6}}</ref>
+| award1Pub = [[Electronic Games#Arcade Awards|Arkie Awards]] (1983)
+| award1 = [[List of Game of the Year awards|Best Action Videogame]] <br> (Certificate of Merit)<ref name="award"/>
+}}
+
+The game was a commercial success, selling 12,337 [[arcade cabinet]]s in the United States within four months, by October 2, 1981, becoming Stern's third [[List of best-selling video games|best-selling]] [[Golden age of arcade video games|arcade classic]] after ''[[Berzerk (video game)|Berzerk]]'' and ''Scramble''. ''Scramble'' sold 15,136 cabinets in the U.S. in five months earlier that year, adding up to 27,473 U.S. cabinet sales for both.<ref name="Stern"/>
+
+''Arcade Express'' in November 1982 gave the Adventure Vision port a score of 9 out of 10. They concluded that it "takes real skill to master, and represents the state-of-the-art of scrolling shoot-outs".<ref name="express">{{cite news|title=The Hotseat: Reviews of New Products|url=http://www.digitpress.com/library/newsletters/arcadeexpress/arcade_express_v1n7.pdf|accessdate=2 February 2012|newspaper=Arcade Express|date=November 7, 1982|pages=6–8 [6]}}</ref>
+
+The Atari 2600 version was awarded a Certificate of Merit in the category of "[[List of Game of the Year awards|Best Action Videogame]]" at the 5th annual [[Electronic Games#Arcade Awards|Arkie Awards]] for 1983.<ref name="award">{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= January 1984 |title= Arcade Alley: The Arcade Awards, Part 1 |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 10|pages= 40–42|issn= 0147-8907}}</ref>{{rp|42}} They compared it to ''[[Vanguard (video game)|Vanguard]]'' and said it "provides the same brand of relentless, multi-scenario action".<ref name="EG-Jan84Awards">{{cite journal|last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz |date=January 1984|title = 1984 Arcade Awards |journal = [[Electronic Games]] |publisher = Reese Communications |volume = 2 |issue = 11 |pages = 71–72 |issn = 0730-6687}}</ref>
+
+==Legacy==
+''Super Cobra'' appeared alongside ''Scramble'' on the retro compilation ''[[Konami 80's Arcade Gallery|Konami Arcade Classics]]'', released for the [[PlayStation (console)|Sony PlayStation]] in 1999.
+
+==See also==
+* ''[[Cosmic Avenger]]''
+* ''[[Vanguard (video game)|Vanguard]]''
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{KLOV game|id=9883}}
+* [http://www.arcade-history.com/?page=detail&id=2707 ''Super Cobra''] at the Arcade History database
+* [http://www.atarimania.com/game-atari-400-800-xl-xe-super-cobra_s5158.html ''Super Cobra''] for the Atari 8-bit family at Atari Mania
+* {{Internet Archive game|a8b_cart_Super_Cobra_1983_Parker_Brothers}} (Atari 8-bit port)
+* {{moby game|id=/super-cobra}}
+
+[[Category:1981 video games]]
+[[Category:Adventure Vision games]]
+[[Category:Arcade Archives games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Entex Industries games]]
+[[Category:Handheld electronic games]]
+[[Category:Helicopter video games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Intellivision games]]
+[[Category:Konami arcade games]]
+[[Category:Konami games]]
+[[Category:Magnavox Odyssey 2 games]]
+[[Category:MSX games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Parker Brothers video games]]
+[[Category:Stern video games]]
+[[Category:Video games developed in Japan]]

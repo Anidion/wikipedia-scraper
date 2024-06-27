@@ -1,0 +1,53 @@
+Sheep in Space
+Permalink: //en.wikipedia.org/w/index.php?title=Sheep_in_Space&oldid=1193236578
+Accessed on: 2024-06-26T16:57:34.448702
+
+
+
+------
+Sheep in Space
+{{Refimprove|date=October 2017}}
+{{Infobox VG
+|title = Sheep in Space
+|image = [[File:SheepInSpace Title.jpg|frameless|Sheep in Space]]
+|caption = Title screen
+|developer = [[Llamasoft]]
+|publisher = {{vgrelease|NA|Llamasoft<ref name="gamefaqs">{{cite web|url=http://www.gamefaqs.com/c64/566121-sheep-in-space/data|title=Sheep in Space Release Information for Commodore 64 - GameFAQs|website=Gamefaqs.com|accessdate=21 October 2017}}</ref>|EU|Llamasoft<ref name="gamefaqs"/>}}
+|programmer =  [[Jeff Minter]]<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|released = {{vgrelease|NA|1984<ref name="gamefaqs"/>|EU|1984<ref name="gamefaqs"/>}}
+|genre = [[Scrolling shooter]]
+|modes = 1-2 player alternating
+|platforms = [[Commodore 64]]
+}}
+
+'''''Sheep in Space''''' is a [[video game]] written by [[Jeff Minter]] for the [[Commodore 64]] and published in 1984 by [[Llamasoft]]. It is a horizontally [[scrolling shooter]] which borrows gameplay from ''[[Defender (1981 video game)|Defender]]'' re-themed to involve sheep.<ref name="blueyonder.co.uk">{{cite web |url=http://www.medwaypvb.pwp.blueyonder.co.uk/gruntingoxfiles/Sheep%20In%20Space.htm |title=Sheep in Space |accessdate=2014-11-27 |url-status=dead |archiveurl=https://web.archive.org/web/20141219050809/http://www.medwaypvb.pwp.blueyonder.co.uk/gruntingoxfiles/Sheep%20In%20Space.htm |archivedate=2014-12-19 }} 
+</ref> The title screen features an arrangement of [[Johann Sebastian Bach|Bach]]'s "[[Sheep May Safely Graze]]" by pianist [[James Lisney]].
+
+==Gameplay==
+The player controls a small flying sheep and has the task of defending the planet by shooting down aliens, and preventing them from charging up their "planet buster" gun.<ref name="blueyonder.co.uk"/>
+
+Like Llamasoft's 1984 release ''Ancipital'', the game makes use of multiple gravitational fields - there is a landscape across the bottom of the screen as per a normal shoot 'em up, but also an inverted one across the top. If the player is in the centre of the screen, the projectiles the sheep fires fly straight. Getting closer to the land at the top or the bottom of the screen will cause the projectiles to curve up or down respectively, allowing the shooting of aliens close to the surface.  Proximity to the upper and lower surfaces also affects movement speed which becomes slower when near either surface.<ref name="the-commodore-zone.com">{{cite web|url=http://www.the-commodore-zone.com/articlelive/articles/84/7/The-Goatbuster/Page7.html|title=The Goatbuster|website=The-commodore-zone.com|accessdate=21 October 2017}}</ref>
+
+The player can land the sheep on areas of grass on either the top or bottom of the screen, in order to reduce its hunger. A stomach meter shows the player's current state of hunger - overfeeding or allowing the sheep to starve will result in the loss of a life.  Feeding also replenishes the sheep's shields.<ref name="the-commodore-zone.com"/>
+
+Destroying all of the aliens advances the player to the next [[Level (video games)|level]], which has different topography and is slightly more difficult.  There are 48 levels in total.<ref name="the-commodore-zone.com"/>
+
+==Influenced games and clones==
+
+Just as ''Sheep in Space'' was influenced by ''Defender'', it in turn inspired the [[Sensible Software]] title ''Insects in Space''.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{lemon64 game|id=2291|name=Sheep in Space}}
+*[https://www.youtube.com/watch?v=A0ibHqKEZwc ''Sheep in Space''] longplay video
+
+{{Jeff Minter}}
+
+[[Category:1984 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Fictional sheep]]

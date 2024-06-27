@@ -1,0 +1,110 @@
+Microchess
+Permalink: //en.wikipedia.org/w/index.php?title=Microchess&oldid=1224149838
+Accessed on: 2024-06-26T16:47:37.611303
+
+
+
+------
+Microchess
+{{good article}}
+{{short description|1976 computer chess software}}
+{{For|a chess variant called Microchess|Minichess}}
+{{Infobox video game
+| title = Microchess
+| image = Microchess Kim-1.jpg
+| caption = ''Microchess'' on a KIM-1 microcomputer
+| alt =A chess game being played on a board, next to a circuit board with several buttons as inputs connected to a cassette player
+| developer = [[Peter R. Jennings]]
+| publisher = Micro-Ware / [[VisiCorp|Personal Software]]
+| released = December 18, 1976
+| platforms = [[KIM-1]], [[Altair 8800]], [[Apple II series|Apple II]], [[Atari 8-bit]], [[Commodore PET|PET]], [[TRS-80]], [[TRS-80 Color Computer]]
+| genre = [[Computer chess]]
+}}
+
+'''''Microchess''''', sometimes written as ''MicroChess'', is a [[computer chess|chess program]] developed for the [[KIM-1|MOS Technology KIM-1]] microcomputer by [[Peter R. Jennings]] in 1976, and published by his company Micro-Ware. The game plays chess against the human player at a beginner level, with the player entering moves via a keyboard and the computer responding, both in a custom [[chess notation]]. The game was [[porting|ported]] to many other microcomputers such as the [[TRS-80]], [[Apple II]], [[Commodore PET]], and [[Atari 8-bit computers]] by Micro-Ware and its successor company Personal Software (later [[VisiCorp]]) between 1976 and 1980, with later versions featuring graphics and more levels of play. A dedicated hardware version of the game called ''ChessMate'' was produced by [[Commodore International]] in 1978, and the game's engine was licensed to Novag for its dedicated ''Chess Champion Mk II'' chess computer in 1979.
+
+The game was created by Jennings over the course of around six months in 1976. He developed it with the aim of making a product that could be widely sold, rather than as the most advanced chess engine possible. It was possibly the first computer game to be sold commercially, and was the first commercial chess program for microcomputers and the first software package to sell 50,000 copies. Micro-Ware itself was possibly the first software publishing company. ''Microchess'' ultimately sold over a million copies across all of its versions by the mid-1980s, and variants were sold into the early 1990s. Despite being commercially successful, it has been largely regarded by critics as a poor chess game.
+
+== Gameplay ==
+''Microchess'' is a [[computer chess|chess program]] that allows the user to play against a low-level computer opponent. Earlier versions of the game did not have video output: the player would use the keyboard to enter moves using a custom [[chess notation|notation]], and the program would provide its replies using the same notation.<ref name="CHinterview47:50-48:45"/> Later versions of the game for other microcomputers had visual outputs of the chess board. The program can run at one of three speeds: it could respond instantly, after calculating for 5–10 seconds, or it could use enough time that a full game may last an hour. While calculating its move, it looks up to three [[Ply (game theory)|plies]] ahead. It has been estimated to have the strength of a beginning player, at around 1100 [[Elo rating system|Elo]].<ref name="CHinterview1:17:30-1:19:00"/>
+
+==Development==
+''Microchess'' was developed by [[Peter R. Jennings]] in Toronto, Canada in 1976. Jennings had wanted to create a chess program for many years after reading a ''[[Scientific American]]'' article on the subject. Upon reading an article about [[MOS Technology]]'s new [[KIM-1]] microcomputer, Jennings decided to buy one and try writing his own program. His intention during development was to create a game he could sell—first for the KIM-1, and then for other microcomputers—rather than to design the best possible chess engine.<ref name="CHinterview24:00-25:30"/>
+
+Jennings began work on the game in May 1976. Within weeks, he had a program that could play chess against a human player. Over the next six months, he continued to iterate on the game, improving the computer's ability to understand moves and strategy while working within the KIM-1's limitations, including its 1[[kilobyte|kB]] of memory.<ref name="CHinterview28:25-36:00"/><ref name="CHinterview36:00-40:00"/> In 1976, the KIM-1 also lacked both a video display and a full keyboard. The game was designed such that players would input their moves using a custom notation, and the computer would respond with the notation for its own moves printed on a small [[seven-segment display]], with the player possibly making use of a physical chess board to keep track of the game.<ref name="CHinterview47:50-48:45"/><ref name="CHinterview40:00-43:50"/> A short announcement previewing the game was made in the ''KIM-1 User Notes'' fan magazine in November 1976, after another Toronto KIM-1 user played the game and wrote in. The announcement led to Jennings receiving calls and letters from enthusiasts asking when the game would be complete.<ref name="K1UN"/><ref name="CHinterview36:00-40:00"/> That same month, an incomplete version of the game was demonstrated at a trade show by MOS Technology. The game was completed in December.<ref name="CHinterview1:21:30-1:24:30"/>
+
+==Release==
+[[File:Microchess TRS-80.jpg|thumb|right|Graphical ''Microchess 1.5'' on a TRS-80 microcomputer|alt=Black and white depiction of a chessboard on a computer screen]]
+Jennings released ''Microchess'' on December 18, 1976, and sent announcements of the game to hobbyist magazines and catalogues. On April 1, 1977, he founded Micro-Ware for the purpose of selling the game.<ref name="CHinterview49:00-51:45"/> Initial sales of ''Microchess'' were not of the program on a [[cassette tape]], but were instead a printed booklet of computer code which the player would need to type into the computer to write the program and then save it to their own tape. According to Jennings this was because he was working at another job and did not have time to make copies of tapes to sell, as it was a difficult process at the time. Additionally, there was no commercial software market and most programs were distributed via printed source code in books and magazines to computer enthusiasts, the target audience of the game.<ref name="CHinterview40:00-43:50"/> After a couple of months, Micro-Ware began selling [[punched tape|paper tapes]] and cassette tapes of the program directly and through distributors, though the source code to the game was still included in the manual. ''Microchess'' was sold for $10 per copy, in either US or Canadian currency; $12 for a copy that included a paper tape; and $13 for a copy on cassette tape.<ref name="CHinterview49:00-51:45"/>
+
+[[Chuck Peddle]], president of MOS Technology, offered to buy the rights to the game for $1,000, but Jennings refused to sell, believing his mail-order sales would make more.<ref name="Firebook"/><ref name="Pumpbook"/> The game was widely sold for KIM-1 computers, partially due to MOS Technology including advertisements for the game with the computer. Reportedly some sales of the computer were specifically to play the game; according to Jennings, the price of the computer plus the game was similar to that of Fidelity Electronics's Chess Challenger (1977), the first dedicated chess computer.<ref name="CHinterview56:30-58:35"/> Versions of ''Microchess'' were released for other microcomputer in 1977, with minimal changes as Jennings was not interested in improving the program, only selling it more widely.<ref name="CHinterview1:04:30-1:07:00"/> A version for the [[Altair 8800]] was produced in April 1977, with the [[porting|port]] done by Terry O'Brian, a member of the local Toronto computer club. For that and later versions the source code was no longer printed in the manual as it was much longer than it had been for the KIM-1.<ref name="CHinterview58:35-1:01:45"/>
+
+In 1978, Jennings and Micro-Ware produced an improved, dedicated chess computer version of the game, ''ChessMate'', which was produced by [[Commodore International]].<ref name="CHinterview1:07:30-1:10:30"/> The game's engine was also licensed to Novag for its dedicated ''Chess Champion Mk II'' in 1979.<ref name="harding1985"/> Former World Chess Champion [[Bobby Fischer]] met with Jennings, and played against ''ChessMate''. He considered licensing his name for the product, but ultimately decided against it.<ref name="Firebook"/><ref name="CHinterview1:27:15-1:33:00"/> That same year, version 1.5 was released for the TRS-80, as well as version 2.0 for the [[Apple II]], [[Commodore PET]], and [[Atari 8-bit]] computers—which included black-and-white graphics of a chessboard. Other features added in these versions included multiple levels of play, with 1.5 having three levels, and 2.0 having eight.<ref name="CHinterview1:19:30-1:20:00"/><ref name="KBfeatureaandad"/> A final version of ''Microchess'' with color graphics was released for the [[TRS-80 Color Computer]] in 1980. As the successor to Micro-Ware, [[Personal Software]], did not deal with computer games at the time, Jennings created the port himself.<ref name="CHinterview1:34:00-1:36:00"/>
+
+==Reception==
+''Microchess'' was a major success for the late 1970s computer market. According to Jennings, it was the first computer game to be sold commercially, while video game and computer historians have termed it the first "commercially sold home computer game", the first commercial computer game "not released by a hardware company" and the first commercial chess program for microcomputers.<ref name="CHinterview40:00-43:50"/><ref name="TCW363364"/><ref name="CHMmicrochess"/><ref name="HCG26"/> Over 1,000 copies of the game were sold by mid-1977, leading Jennings to quit his job and run Micro-Ware full-time.<ref name="CHinterview49:00-51:45"/> The game's success grew as Jennings released it for more microcomputer systems and the overall microcomputer market expanded. The game made Micro-Ware over $1 million by 1978, and was claimed in 1981 by Personal Software to have been the first computer program of any kind to do so.<ref name="CHinterview1:40:00-1:42:00"/><ref name="AppleGold"/> It sold 50,000 copies by 1979, also claimed by Personal Software to be the first software product to do so, and according to Jennings at one point copies of ''Microchess'' had been sold to 30% of computer owners in existence.<ref name="CHinterview1:17:30-1:19:00"/><ref name="TCW363364"/><ref name="iw19800121"/> The majority of the copies sold in the 1970s were for the TRS-80, as [[Radioshack]] carried that version of the game in stores.<ref name="TCW363364"/> ''ChessMate'' also sold tens of thousands of copies. Over one million copies of the game in its various versions were sold by the mid-1980s, and the TRS-80 color chess version was sold into the early 1990s.<ref name="CHinterview1:40:00-1:42:00"/>
+
+According to Jennings, many buyers of the game did not know how to play chess nor were interested in learning, but were instead interested in having software that had a real-world analogue to show people.<ref name="Firebook"/> As the commercial video game industry was only beginning, ''Microchess'' did not receive reviews like more recent video games, and its ability to play chess and thus interest among chess players was quickly surpassed by games such as ''[[Sargon (chess)|Sargon]]'' (1978).<ref name="Pumpbook"/> ''[[Byte (magazine)|BYTE]]'' in 1981 wrote that when chess programs such as ''Microchess'' appeared, "we all laughed and proceeded to demolish them ... microcomputer chess programs had a poor reputation".<ref name="martellaro198101"/> Chess player and historian [[Tim Harding (chess player)|Tim Harding]], in a 1985 book on chess computers, called ''Microchess'' "dreadful" and vastly inferior to ''[[Sargon II (video game)|Sargon II]]'' (1979).<ref name="harding1985"/>
+
+==Legacy==
+''Microchess'' led to the creation of Micro-Ware, possibly the first software publishing company. In 1978, Micro-Ware merged with software publisher Personal Software, operated by [[Dan Fylstra]], who had seen the game at the November 1976 show and bought the third-ever sold copy, with Fylstra and Jennings as co-owners.<ref name="CHinterview1:21:30-1:24:30"/> The resulting company, still named Personal Software, paid royalties to Jennings for ''Microchess'', but Jennings soon funneled that money into funding the development of [[VisiCalc]] (1979), the first [[spreadsheet]] software. This led the company to rebrand as [[VisiCorp]] in 1982.<ref name="CHinterview54:15-56:10"/>
+
+Chuck Peddle later said that ''Microchess'' was a critical success for the KIM-1, and that it and Jennings were crucial to successfully launching the Commodore PET in 1977.<ref name="OTE80"/> As the source code was included with the game, Jennings encouraged players to write their own additions to the program. He claims that most additions were for supporting additional input or output types or adding the ability to recognize more [[chess opening]]s than the limited memory of the base KIM-1 had allowed, and that no bugs or mistakes in the code were ever found.<ref name="CHinterview46:30-47:15"/> Jennings later noted that Micro-Ware sold many more early copies of the game for the KIM-1 than for the Altair 8800 microcomputers, despite the latter being much more popular. He attributes this to the more popular microcomputers having hobbyist clubs that shared software, while less popular microcomputer owners all had to purchase their own copies.<ref name="CHinterview44:20-45:00"/>
+
+==References==
+{{Reflist|refs=
+<ref name="CHinterview24:00-25:30">[[#CITEREF_OralHistory|Jennings]], 24:00–25:30</ref>
+<ref name="CHinterview28:25-36:00">[[#CITEREF_OralHistory|Jennings]], 28:25–36:00</ref>
+<ref name="CHinterview36:00-40:00">[[#CITEREF_OralHistory|Jennings]], 36:00–40:00</ref>
+<ref name="CHinterview40:00-43:50">[[#CITEREF_OralHistory|Jennings]], 40:00–43:50</ref>
+<ref name="CHinterview44:20-45:00">[[#CITEREF_OralHistory|Jennings]], 44:20–45:00</ref>
+<ref name="CHinterview46:30-47:15">[[#CITEREF_OralHistory|Jennings]], 46:30–47:15</ref>
+<ref name="CHinterview47:50-48:45">[[#CITEREF_OralHistory|Jennings]], 47:50–48:45</ref>
+<ref name="CHinterview49:00-51:45">[[#CITEREF_OralHistory|Jennings]], 49:00–51:45</ref>
+<ref name="CHinterview54:15-56:10">[[#CITEREF_OralHistory|Jennings]], 54:15–56:10</ref>
+<ref name="CHinterview56:30-58:35">[[#CITEREF_OralHistory|Jennings]], 56:30–58:35</ref>
+<ref name="CHinterview58:35-1:01:45">[[#CITEREF_OralHistory|Jennings]], 58:35–1:01:45</ref>
+<ref name="CHinterview1:04:30-1:07:00">[[#CITEREF_OralHistory|Jennings]], 1:04:30–1:07:00</ref>
+<ref name="CHinterview1:07:30-1:10:30">[[#CITEREF_OralHistory|Jennings]], 1:07:30–1:10:30</ref>
+<ref name="CHinterview1:17:30-1:19:00">[[#CITEREF_OralHistory|Jennings]], 1:17:30–1:19:00</ref>
+<ref name="CHinterview1:19:30-1:20:00">[[#CITEREF_OralHistory|Jennings]], 1:19:30-1:20:00</ref>
+<ref name="CHinterview1:21:30-1:24:30">[[#CITEREF_OralHistory|Jennings]], 1:21:30–1:24:30</ref>
+<ref name="CHinterview1:27:15-1:33:00">[[#CITEREF_OralHistory|Jennings]], 1:27:15-1:33:00</ref>
+<ref name="CHinterview1:34:00-1:36:00">[[#CITEREF_OralHistory|Jennings]], 1:34:00–1:36:00</ref>
+<ref name="CHinterview1:40:00-1:42:00">[[#CITEREF_OralHistory|Jennings]], 1:40:00–1:42:00</ref>
+<ref name="K1UN">{{cite magazine |title=Kim-1/6502 Power! |first=Eric |last=Rehnke |magazine=Kim-1 User Notes |volume=1 |issue=2 |date=November 1976}}</ref>
+<ref name="Firebook">[[#CITEREF_Fire|Freiberger; Swaine]], p. 288</ref>
+<ref name="Pumpbook">[[#CITEREF_Priming|Welsh; Welsh]], ch. 4</ref>
+<ref name="KBfeatureaandad">{{cite magazine |title=Microchess |magazine=[[Kilobaud Microcomputing]] |pages=75, 99 |issue=19 |date=1978 |issn=0192-4575<!--https://books.google.com/books?id=Sj9WAAAAMAAJ&printsec=frontcover&dq=%22microchess%22&q=%22microchess%22&newbks=0&hl=en&ovdme=1&ovso=1-->}}</ref>
+<ref name="AppleGold">[[#CITEREF_Apple|Stanton; Dickey]], p. [https://archive.org/details/tboacs1982/page/288/mode/2up 289]</ref>
+<ref name="TCW363364">[[#CITEREF_TCW|Smith]], pp. 363–364</ref>
+<ref name="CHMmicrochess">{{cite web |title=Microchess 1.5 running on a Radio Shack TRS-80 microcomputer |url=https://www.computerhistory.org/chess/stl-431e1a080c29f/ |publisher=[[Computer History Museum]] |access-date=July 28, 2023 |archive-date=May 26, 2022 |archive-url=https://web.archive.org/web/20220526142046/https://www.computerhistory.org/chess/stl-431e1a080c29f/ |url-status=live }}</ref>
+<ref name="HCG26">[[#CITEREF_Gaming|Zhouxiang]], p. 26</ref>
+<ref name="iw19800121">{{cite magazine |title=Personal Software Introduces Backgammon & Checkers Programs |magazine=[[InfoWorld|Intelligent Machines Journal]] |publisher=[[International Data Group]] |date=January 21, 1980 |page=10 |issue=20 |issn=0199-6649<!--https://books.google.com/books?id=Lz4EAAAAMBAJ&pg=PA10 -->}}</ref>
+<ref name="OTE80">[[#CITEREF_Edge|Bagnall]], p. 80</ref>
+<ref name="martellaro198101">{{cite magazine |url=https://archive.org/stream/byte-magazine-1981-01/1981_01_BYTE_06-01_Hand-held_Computers#page/n209/mode/2up |title=The Newest Sargon - 2.5 |magazine=[[Byte (magazine)|Byte]] |publisher=[[McGraw-Hill Education|McGraw-Hill]] |date=January 1981 |access-date=October 18, 2013 |last=Martellaro |first=John |pages=208–212 |volume=6 |issue=1 |issn=0360-5280}}</ref>
+<ref name="harding1985">[[#CITEREF_CompChess|Harding]], pp. 76, 155</ref>
+}}
+
+==Sources==
+* {{cite web |url=https://www.computerhistory.org/chess/orl-4334404555680/ |title=Oral History of Peter Jennings |publisher=[[Computer History Museum]] |date=February 1, 2005 |access-date=July 27, 2023 |ref=CITEREF_OralHistory}}
+* {{cite book |title=On the Edge: The Spectacular Rise and Fall of Commodore |first=Brian |last=Bagnall |publisher=Variant Press |date=2006 |isbn=978-0-9738649-0-8 |ref=CITEREF_Edge}}
+* {{cite book |title=Fire in the Valley: The Making of the Personal Computer |last1=Freiberger |first1=Paul |author-link1=Paul Freiberger |last2=Swaine |first2=Michael |author-link2=Michael Swaine (technical author) |publisher=[[McGraw Hill Education|Osborne/McGraw-Hill]] |year=1984 |isbn=0-88134-121-5 |ref=CITEREF_Fire}}
+* {{cite book |author-link=Tim Harding (chess player) |title=The New Chess Computer Book |publisher=[[Pergamon Press]] |last=Harding |first=Tim |year=1985 |edition=2nd |isbn=978-1-4831-4032-2 |editor-last1=Price |editor-first1=Jill |editor-last2=Levy |editor-first2=David N. L. |editor-link2=David Levy (chess player) | series=Pergamon Chess Series |ref=CITEREF_CompChess<!--https://books.google.com/books?id=pECeBQAAQBAJ&q=%22dreadful%20Microchess%22&pg=PA155-->}}
+* {{cite book |last1=Smith |first1=Alexander |title=They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry, Vol. I: 1971-1982 |date=2019 |publisher=[[CRC Press]] |isbn=978-0-429-75261-2 |ref=CITEREF_TCW}}
+* {{cite book |title=The Book of Apple Computer Software 1982 |first1=Jeffrey |last1=Stanton |first2=John |last2=Dickey |publisher=Book Company |date=1981 |url=https://archive.org/details/tboacs1982 |ref=CITEREF_Apple}}
+* {{cite book |title=Priming the Pump: How TRS-80 Enthusiasts Helped Spark the PC Revolution |first1=Theresa |last1=Welsh |first2=David |last2=Welsh |publisher=The Seeker Books |date=2007 |isbn=978-0-9793468-1-1 |ref=CITEREF_Priming}}
+* {{cite book |title=A History of Competitive Gaming |first=Lu |last=Zhouxiang |publisher=[[Routledge]] |date=2022 |isbn=978-1-00-058853-8 |ref=CITEREF_Gaming}}
+
+==External links==
+* [http://www.benlo.com/microchess/microchess.html The history of ''Microchess'' by Jennings], with manuals and complete source code
+* [https://archive.computerhistory.org/projects/chess/related_materials/software/4-1.MicroChess_%20Source.1976.JENNINGS/4-1.MicroChess_%20Source.1976.JENNINGS.pdf KIM-1 source code] at the [[Computer History Museum]]
+* [http://www.andreadrian.de/schach/index.html Windows port of ''Microchess''] {{in lang|de}}
+
+[[Category:1976 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Chess software]]
+[[Category:Commodore PET games]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80 Color Computer games]]

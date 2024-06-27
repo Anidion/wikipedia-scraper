@@ -1,0 +1,57 @@
+Video Checkers
+Permalink: //en.wikipedia.org/w/index.php?title=Video_Checkers&oldid=1193233438
+Accessed on: 2024-06-26T16:52:00.131867
+
+
+
+------
+Video Checkers
+{{Use mdy dates|date=October 2023}}
+{{short description|1980 game for Atari 2600}}
+{{Infobox video game
+|title = Video Checkers
+|image = Cover_art_of_Video_Checkers.jpg
+|caption =
+|programmer = [[Carol Shaw]]
+|developer = [[Atari, Inc.]]
+|publisher = Atari, Inc.
+|platforms = {{ubl|[[Atari 2600]]}}
+|released = {{vgrelease|US|1980}}
+|genre = [[Strategy video game|Strategy]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+}}
+'''''Video Checkers''''' is a video game developed and published by [[Atari, Inc.]] in 1980 for the Atari VCS, renamed to [[Atari 2600]].<ref name="Weiss">{{cite book |last1=Weiss |first1=Bret |title=Classic Home Video Games, 1972–1984 A Complete Reference Guide |date=December 20, 2011 |publisher=McFarland, Incorporated, Publishers |isbn=9780786487554 |page=117 |url=https://books.google.com/books?id=BzxTtml8Jq4C&dq=%22Video+Checkers%22+%22atari%22&pg=PA44 |access-date=February 28, 2021}}</ref><ref name="Lapetino">{{cite book |last1=Lapetino |first1=Tim |title=Art of Atari (Deluxe) |date=October 26, 2016 |publisher=Dynamite Entertainment |isbn=9781524101060 |pages=217|url=https://archive.org/details/book_art_of_atari/page/116/mode/2up?q=video+checkers |access-date=February 27, 2021}}</ref>
+
+==Gameplay==
+[[File:Video Checkers Atari 2600.jpg|thumb|left|A game is in progress.]]
+The game is based on the traditional game of [[checkers]], called draughts outside North America. It has 19 variations of play.<ref name="TV Gamer" />
+
+==Development==
+The game was developed by [[Carol Shaw]] at Atari. She was one of Atari's earliest female programmers, and ''Video Checkers'' and ''3D Tic-Tac-Toe'' are two of the first commercially-released video games written by a woman.<ref name="Crowhurst">{{cite web|last1=Crowhurst|first1=Anna-Marie|date=July 24, 2018|title=This female gaming pioneer was so successful she retired at 35|url=https://www.stylist.co.uk/visible-women/forgotten-women-carol-shaw-gaming-tech-career-advice-retire/219250|url-status=live|archive-url=https://web.archive.org/web/20190826114815/https://www.stylist.co.uk/visible-women/forgotten-women-carol-shaw-gaming-tech-career-advice-retire/219250|archive-date=August 26, 2019|access-date=February 28, 2021|work=[[Stylist (magazine)|Stylist]]}}</ref> She accepted the project because [[Bob Whitehead]] was working on ''[[Video Chess]]'' at the time. Working with 4 [[kilobyte]]s of [[Read-only memory|ROM]] and the system's 128 [[byte]]s of [[Random-access memory|RAM]], her algorithm uses [[alpha–beta pruning]]. This is more sophisticated than the algorithm developed at the same time by [[Activision]] co-founder Alan Miller for his version of ''Checkers'', which uses 2 kilobytes of ROM. Miller later called Shaw to offer her a job at Activision, impressed with her work on ''Video Checkers''.<ref>{{Cite interview|last=Shaw|first=Carol|interviewer=Benj Edwards|title=VC&G Interview: Carol Shaw, Atari’s First Female Video Game Developer|url=https://www.vintagecomputing.com/index.php/archives/800|archive-url=https://web.archive.org/web/20210108093448/https://www.vintagecomputing.com/index.php/archives/800|archive-date=January 8, 2021|date=October 12, 2011|url-status=live}}</ref>
+
+The artwork for the game was done by Steve Hendricks.<ref name="Lapetino" /><ref>{{Cite book|last=Guins|first=Raiford|chapter-url=https://books.google.com/books?id=ZTOkAgAAQBAJ&dq=Video+Checkers+Atari&pg=PA197|title=Game After: A Cultural Study of Video Game Afterlife|publisher=MIT Press|year=2014|isbn=978-0-262-01998-9|pages=197|chapter=Thinking Outside the (Game Cartridge) Box|lccn=2013017731|access-date=February 28, 2021}}</ref> The game's release was announced at [[Consumer Electronics Show]] in June 1980.<ref name="Ahl">{{cite magazine |last1=Ahl |first1=David H. |title=Random Ramblings |url=https://archive.org/details/CreativeComputingbetterScan198009/page/n17/mode/2up?q=%22video+checkers%22 |access-date=February 28, 2021 |magazine=[[Creative Computing]] |date=September 1980 |page=16}}</ref>
+
+==Reception==
+Writing in ''The Player's Strategy Guide to Atari VCS Home Video Games'' in 1982, ''[[Electronic Games]]'' editors Arnie Katz and [[Bill Kunkel (journalist)|Bill Kunkel]] called the game "moderately challenging", remarking that the [[Artificial intelligence in video games|computer player]] "is usually capable of matching the skill level of just about any player".<ref>{{Cite book|last1=Katz|first1=Arnie|url=https://archive.org/details/book_players_strategy_guide/page/n27/mode/2up?view=theater|title=The Player's Strategy Guide to Atari VCS Home Video Games|last2=Kunkel|first2=Bill|author-link2=Bill Kunkel (journalist)|publisher=Dell Publishing, Reese Publishing|year=1982|isbn=0-440-17058-3|location=New York|page=54}}</ref> In a June 1983 review of ''Video Checkers'', the game was described as "rather limited in its interest [...] unless you are an addict of the game".<ref name="TV Gamer">{{cite magazine|date=June 1983|title=Video Checkers|url=https://archive.org/details/TV_Gamer_1983-06_Boytonbrook_GB/page/n37/mode/2up?view=theater|magazine=TV Gamer|page=38|access-date=February 28, 2021}}</ref> In the 1984 German book, ''Das grosse Handbuch der Video Spiele'', Harmut Huff gave the game a middling score.<ref name="Huff">{{cite book|last1=Huff|first1=Harmut|url=https://archive.org/details/Huff.1984.Heyne.Das.grosse.Handbuch.der.Video.Spiele/page/n79/mode/2up?q=%22video+checkers%22|title=Das grosse Handbuch der Video Spiele|date=1984|publisher=Wilhelm Heyne Verlag|isbn=3453416201|page=77|language=German|access-date=February 28, 2021}}</ref>
+
+In the 2011 book ''Classic Home Video Games, 1972-1984 A Complete Reference Guide'', Brett Weiss praised the computer player, saying it did "a reasonably good job", but criticized the way the screen blanks while planning its turn.<ref name="Weiss" /> In the 2018 book ''The A-Z of Atari 2600 Games: Volume 2'', Kieren Hawken gave a negative review, criticizing the "sluggish" controls, the slow speed at which the computer takes its turns, and the basic graphics, giving the game a score of 3/10 overall.<ref name="Hawken">{{cite book |last1=Hawken |first1=Kieren |title=The A-Z of Atari 2600 Games: Volume 2 |date=2017 |publisher=Andrews UK Limited |isbn=9781785387630 |url=https://books.google.com/books?id=_JE3DwAAQBAJ&dq=%22Video+Checkers%22+%22atari%22&pg=PT94 |access-date=February 28, 2021}}</ref>
+
+==Legacy==
+''Video Checkers'' was re-released in 2003 for Windows in the collection ''Atari: 80 Classic Games in One!''<ref>{{Cite web|title=Atari 80 Classic Games in One|url=https://www.gamepressure.com/games/atari-80-classic-games-in-one/z73479|access-date=February 28, 2021|website=Gamepressure}}</ref> and in 2017 on the [[Atari Flashback series]] of consoles.<ref>{{Cite web|last=Falcone|first=John|date=July 17, 2017|title=Flashback 8 Gold is Atari fans' SNES Classic alternative|url=https://www.cnet.com/reviews/atari-flashback-8-gold-preview/|url-status=live|archive-url=https://web.archive.org/web/20200614121415/https://www.cnet.com/reviews/atari-flashback-8-gold-preview/|archive-date=June 14, 2020|access-date=February 28, 2021|publisher=[[CNET]]}}</ref>
+
+==See also==
+{{Portal|Video games|1980s}}
+* [[List of Atari 2600 games]]
+* [[Othello (1980 video game)|''Othello'' (1980 video game)]]
+
+==References==
+{{Reflist}}
+
+[[Category:1980 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Draughts]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games based on board games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

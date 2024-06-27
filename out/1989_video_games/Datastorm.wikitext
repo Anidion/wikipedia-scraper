@@ -1,0 +1,61 @@
+Datastorm
+Permalink: //en.wikipedia.org/w/index.php?title=Datastorm&oldid=1224444043
+Accessed on: 2024-06-26T17:06:03.534234
+
+
+
+------
+Datastorm
+{{About|the 1989 video game|the software company|Datastorm Technologies, Inc.}}
+{{refimprove|date=March 2018}}
+{{Short description|1989 shooter video game}}
+{{Infobox video game
+| title = Datastorm
+| image = Datastorm Cover.jpg
+| developer = Visionary Design Technologies
+| publisher = Visionary Design Technologies
+| platforms = [[Amiga]]
+| released = {{Video game release|NA|1989}}
+| genre = [[Scrolling shooter]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| programmer = Søren Grønbech
+| composer = Timm Engels
+}}
+
+'''''Datastorm''''' is a horizontally [[scrolling shooter]] for the [[Amiga]] published by Visionary Design in 1989. Written by Søren Grønbech, it was inspired by the ''[[Defender (arcade game)|Defender]]'' arcade video game and the ''Defender''-like ''[[Dropzone]]'' originally released for [[Atari 8-bit computers]].<ref name="sodan"/>
+
+==Gameplay==
+''Datastorm'' allows for a single player to play or two players to play simultaneously or one after the other.<ref name=":0">{{Cite book|url=https://archive.org/details/ACEIssue22Jul89|title=ACE Issue 22 Jul 89|last=Dillon|first=Tony|date=July 1989|pages=[https://archive.org/details/ACEIssue22Jul89/page/n35 36]|language=en}}</ref><ref name=":1">{{Cite book|url=https://archive.org/details/COMPUTEs_Amiga_Resource_Volume_1_Number_4_1989-10_COMPUTE_Publications_US|title=COMPUTE!'s Amiga Resource - Volume 1 Number 4 (1989-10)(COMPUTE! Publications)(US)|date=October 1989|pages=[https://archive.org/details/COMPUTEs_Amiga_Resource_Volume_1_Number_4_1989-10_COMPUTE_Publications_US/page/n85 84]}}</ref> The game takes place on planets in a side scrolling format that wraps around with the player flying above in a spacecraft. The player must protect and rescue the 8 survival pods that roll around on the surface of the planet and take them to a warp gate.<ref name=":1" /> An onslaught of enemies try to destroy the spaceship so constantly destroying these enemies and their missiles is necessary. There is also a special type of enemy called an alien lander that captures the pods and whisks them away to the top of the level.<ref name="cvg" /> In addition to standard enemies, there are also [[Mother ship|mother ships]], which act as bosses within the game. These mother ships come in the form of a fleet of fast luminous ships, a large squid or a large skull.<ref name=":0" />
+
+A radar scanner, which is essentially a mini-map is presented along the bottom of the screen and gives a complete view of the entire planet to help keep track of what is going on.<ref name="cvg" /> The game also features autosave, a highscore table, on-screen instructions and level select.<ref name="cvg" /> In terms of weaponry, the ship has lasers, smart bombs, cloaking technology that makes it invincible for a period of time.<ref name="cvg" /> The points increase for each level: on levels 5, 9, 13 and so on, the player gets a new set of eight and the scoring resets.
+
+== Plot ==
+The game takes place after the planet Xerxes exploded causing its 8 orbiting colonies to drift into deep space. The inhabitants of these colonies must locate a new home planet so they each send a survival pod out into space to achieve this mission. 
+
+==Development==
+The game was announced in May 1989.<ref>{{cite web|url=https://archive.org/details/Info_Issue_26_1989-05_Info_Publications_US/page/n65/mode/2up|title=Show Report|magazine=[[.info (magazine)|.info]]|page=65|date=May 1989|accessdate=November 12, 2022}}</ref>
+
+==Reception==
+{{Video game reviews
+|rev1=''[[C-lehti]]''
+|rev1Score=4/5<ref>{{cite web|url=https://archive.org/details/C-Lehti-1989-4/page/n55/mode/2up|title=Datastorm|magazine=[[C-lehti]]|language=fi|page=57|date=April 1989|accessdate=November 13, 2022}}</ref>
+}}
+Julian Rignall, writing for ''[[Computer and Video Games]]'' in 1989, called ''Datastorm'' "the best shoot 'em up yet seen out of a coin-op cabinet."<ref name="cvg"/> The overall review score was 95%.
+
+==References==
+{{reflist|refs=
+<ref name="sodan">{{cite web|title=Datastorm|last1=Grønbech|first1=Søren |url=http://www.sodan.dk/oldbits/oldbits.html|website=sodan.dk}}</ref>
+<ref name="cvg">{{cite magazine|last1=Rignall|first1=Julian|title=Datastorm|journal=Computer and Video Games|issue=July 1989|page=17|url=https://archive.org/stream/cvg-magazine-093/CVG_093_Jul_1989#page/n15/mode/2up}}</ref>
+}}
+
+==External links==
+* {{Lemon Amiga game|id=307}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Amiga-only games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Video games developed in Denmark]]
+
+
+{{scroll-shooter-videogame-stub}}

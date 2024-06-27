@@ -1,0 +1,99 @@
+Montezuma's Revenge (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Montezuma%27s_Revenge_%28video_game%29&oldid=1224117723
+Accessed on: 2024-06-26T16:57:11.954178
+
+
+
+------
+Montezuma's Revenge (video game)
+{{Infobox video game
+|title =Montezuma's Revenge
+|image=MontezumasRevengeCoverArtC64.jpg
+|caption=Commodore 64 cover
+|designer=Robert Jaeger
+|developer=Utopia Software
+|publisher=[[Parker Brothers]]
+|released={{Video game release|NA|1984}}
+|genre=[[Platform game|Platform]]
+|modes=[[Single-player]]
+|platforms=[[Apple II]], [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[Master System]]<br>'''As ''Panama Joe'':'''<br>[[ZX Spectrum]]
+}}
+
+'''''Montezuma's Revenge''''' is a [[platform game]] for the [[Atari 8-bit computers]], [[Atari 2600]], [[Atari 5200]], [[Apple II]], [[ColecoVision]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]), and [[ZX Spectrum]] (as '''''Panama Joe'''''). It was designed and programmed by Robert Jaeger and published by [[Parker Brothers]] in 1984. The game's title references a [[colloquial]] expression for [[Traveler's diarrhea#Montezuma's revenge|diarrhea contracted while visiting Mexico]].
+
+In 1988, a port was published for the [[Master System]], which retains the basic gameplay and level structure, but with improved graphics, sound, and additional features.
+
+==Gameplay==
+[[File:Montezuma's_Revenge_(video_game)_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot (Atari 8-bit)]]
+''Montezuma's Revenge'' is an early example of the [[Metroidvania]] genre.<ref name="Szczepaniak 148–53">{{cite news|last=Szczepaniak |first=John |title=Backtracking: The History of Metroidvania|work=[[GamesTM]]|issue=116|publisher=[[Imagine Publishing]]|pages=148–53}}</ref> The player controls a character called Panama Joe (a.k.a. Pedro), moving him from room to room in the [[labyrinth]]ine underground pyramid of the 16th century [[Aztec]] temple of emperor [[Moctezuma II|Montezuma II]], filled with enemies, obstacles, traps, and dangers. The objective is to score points by gathering jewels and killing enemies along the way. Panama Joe must find keys to open doors, collect and use equipment such as torches, swords, amulets, etc., and avoid or defeat the challenges in his path. Obstacles are laser gates, conveyor belts, disappearing floors and fire pits.<ref>{{Cite web |url=http://www.atariage.com/manual_page.html?SystemID=5200&SoftwareLabelID=640&ItemTypeID=&currentPage=7&maxPages=16 |title=Game Manual, Atari 5200, p.7 |access-date=2010-10-29 |archive-date=2012-10-16 |archive-url=https://web.archive.org/web/20121016045501/http://www.atariage.com/manual_page.html?SystemID=5200&SoftwareLabelID=640&ItemTypeID=&currentPage=7&maxPages=16 |url-status=dead }}</ref><ref>{{Cite web |url=http://www.atariage.com/manual_page.html?SystemID=5200&SoftwareLabelID=640&maxPages=16&currentPage=8 |title=Game Manual, Atari 5200, p.8 |access-date=2010-10-29 |archive-date=2012-10-16 |archive-url=https://web.archive.org/web/20121016045515/http://www.atariage.com/manual_page.html?SystemID=5200&SoftwareLabelID=640&maxPages=16&currentPage=8 |url-status=dead }}</ref><ref>{{Cite web |url=http://www.atariage.com/manual_page.html?SystemID=5200&SoftwareLabelID=640&maxPages=16&currentPage=9 |title=Game Manual, Atari 5200, p.9 |access-date=2010-10-29 |archive-date=2012-10-16 |archive-url=https://web.archive.org/web/20121016045526/http://www.atariage.com/manual_page.html?SystemID=5200&SoftwareLabelID=640&maxPages=16&currentPage=9 |url-status=dead }}</ref>
+
+Movement is achieved by jumping, running, sliding down [[Firemen's pole|pole]]s, and climbing chains and ladders. Enemies are skulls, snakes, and spiders. The player has a limited number of inventory slots for carrying items, and cannot collect any other items or jewels if all slots are filled. A further complication arises in the bottom-most floors of each pyramid, which must be played in total darkness unless a torch is found.
+
+The pyramid is nine floors deep, not counting the topmost entry room that the player drops into at the start of each level, and has 99 rooms to explore. The goal is to reach the Treasure Chamber, whose entrance is in the center room of the lowest level. After jumping in here, the player has a short time to jump from one chain to another and pick up as many jewels as possible. However, jumping onto a fireman's pole will immediately take the player to the next level; when time runs out, the player is automatically thrown onto the pole.
+
+There are nine difficulty levels in all. Though the basic layout of the pyramid remains the same from one level to the next, small changes in details force the player to rethink strategy. These changes include:
+
+*Blocking or opening up certain paths (by adding/removing walls or ladders)
+*Adding enemies and obstacles
+*Rearrangement of items
+*More dark rooms and fewer torches (in level 9, the entire pyramid is dark)
+*Enemies that do not disappear after they kill Panama Joe (starting with level 5)
+
+The player can reach only the left half of the pyramid in level 1, and only the right half in level 2. Starting with level 3, the entire pyramid is open for exploration.
+
+The sound track of the game for the Atari 8 bit computer is a musical adaptation of [[Spanish Flea]] and the first few notes of [[La Cucaracha]] when collecting items.
+
+==Development==
+Robert Jaeger had previously written ''Chomper'' (a ''[[Pac-Man]]'' clone) and ''Pinhead'' (a ''[[Kick (video game)|Kick Man]]'' clone).<ref name="dpi"/> In 1983, Jaeger's friend Mark Sunshine suggested Jaeger make a game with a Meso-American theme and call it Montezuma's Revenge.<ref name="dpi">{{cite web | url=http://www.digitpress.com/library/interviews/interview_robert_jaeger.html | title= DP Interviews... ...Robert Jaeger | publisher=Digital Press}}</ref> Jaeger, who was only 16 at the time, exhibited the still-unfinished game with his father at a consumer electronics convention. Parker Brothers officials expressed interest and quickly convinced Jaeger to sign the rights over to them.<ref name="dpi"/> On the title screen of the shipping game, Mark Sunshine is credited for the concept.<ref name="dpi"/>
+
+The original game that Jaeger developed for the [[Atari 8-bit computers|Atari 800]] required 48K of memory. Parker Brothers wanted to release the game on cartridge, so they trimmed it down to fit in 16K. One feature removed from the disk version was an unfinished [[Boss (video gaming)|boss]] fight with a gigantic King Montezuma who can stomp the player character to death.<ref name="easter">{{cite web| url=http://www.digitpress.com/eastereggs/a48montezuma.htm|title= Atari systems Easter Eggs: MONTEZUMA'S REVENGE | publisher=Digital Press}}</ref><ref name="aproto">{{cite web| url=http://www.atariprotos.com/8bit/software/monty/monty.htm|title= Atari Protos: Montezuma's Revenge|publisher=Atari Protos.com}}</ref>
+
+Parker Brothers released versions for the ColecoVision, Atari 2600, and Atari 5200 consoles, and for the Apple II, Commodore 64, IBM PC, and Atari 8-bit computers. To reduce costs, Parker Brothers released the Commodore 64 and Atari 8-bit versions on disk instead of cartridge. In the UK and Ireland it was also released on cassette tape for the Atari and Commodore 64 .<ref>{{cite web | url=http://www.atarimania.com/game-atari-400-800-xl-xe-montezuma-s-revenge_6824.html | title=Atari 400 800 XL XE Montezuma's Revenge : Scans, dump, download, screenshots, ads, videos, catalog, instructions, roms }}</ref>
+The C64 and Atari versions came on a single [[flippy disk]]–likewise for the IBM PC and Apple II versions.
+
+The IBM PC port uses a CPU-based speed loop and is too fast to be playable on 286 and up machines.<ref>{{cite web |url=https://www.breadbox64.com/c64-games/montezumas-revenge/ |title = Montezuma's Revenge – breadbox64.com}}</ref> A cassette tape version was developed separately in the UK for the Sinclair Spectrum. The Atari 2600 cartridge is 8K and has half the levels of the other versions.
+
+==Reception==
+From contemporary reviews, ''[[Computer Entertainer|The Video Game Update]]'' described the game as "exciting and frustrating", explaining that "There's nothing more endearing to a dedicated game player than the challenge of beating a seemingly impossible situation, of finding just one more chamber, or of discovering the perfect combination of moves to reach a formerly unreachable object. ''Montezuma's Revenge'' provides just this kind of challenge."
+{{sfn|Computer Entertainer includes The Video Game Update|1984|p=92}}
+
+''[[Computer and Video Games]]'' rated the ColecoVision version 87% in 1989.<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+
+The games sold over 600,000 copies by 1997.<ref>{{cite web|url=http://www.utopiatech.com/press31a.html|archiveurl=https://web.archive.org/web/19990209041548/http://www.utopiatech.com/press31a.html|title=Montezuma Returns|website=utopiatech.com|archivedate=February 9, 1999|date=August 28, 1997|accessdate=June 6, 2022}}</ref>
+
+==Legacy==
+In 1998 a 3D [[First-person (video games)|first-person]] game was developed for [[Microsoft Windows]] by Utopia Technologies called ''[[Montezuma's Return!]]'' A 2D version for the [[Game Boy]] and [[Game Boy Color]] was developed by [[Tarantula Studios]].
+
+An enhanced version of ''Montezuma's Revenge'' was released for [[iOS]] and [[Android (operating system)|Android]].
+
+[[Atari 2600]] games were used as challenges for [[Artificial intelligence]] researchers. In 2013, progress was made on general algorithms which could learn to play multiple games, but they failed on ''Montezuma's Revenge'' and ''[[Pitfall!]]''.<ref>{{Cite journal|last1=Hassabis|first1=Demis|last2=Legg|first2=Shane|last3=Wierstra|first3=Daan|last4=Kumaran|first4=Dharshan|last5=King|first5=Helen|last6=Antonoglou|first6=Ioannis|last7=Sadik|first7=Amir|last8=Beattie|first8=Charles|last9=Petersen|first9=Stig|date=February 2015|title=Human-level control through deep reinforcement learning|journal=Nature|volume=518|issue=7540|pages=529–533|doi=10.1038/nature14236|pmid=25719670|issn=1476-4687|bibcode=2015Natur.518..529M|s2cid=205242740}}</ref><ref>{{Cite web|url=https://medium.com/@awjuliani/on-solving-montezumas-revenge-2146d83f0bc3|title=On "solving" Montezuma's Revenge|last=Juliani|first=Arthur|date=2018-07-13|website=Arthur Juliani|access-date=2019-03-01}}</ref> In 2018, researchers from [[OpenAI]] made progress on ''Montezuma's Revenge''.<ref>{{Cite web|url=https://blog.openai.com/learning-montezumas-revenge-from-a-single-demonstration/|title=Learning Montezuma's Revenge from a Single Demonstration|date=2018-07-04|website=OpenAI Blog|access-date=2019-03-01|bibcode=2018arXiv181203381S|last1=Salimans|first1=Tim|last2=Chen|first2=Richard|arxiv=1812.03381}}</ref><ref>{{Cite web|url=https://blog.openai.com/reinforcement-learning-with-prediction-based-rewards/|title=Reinforcement Learning with Prediction-Based Rewards|date=2018-10-31|website=OpenAI Blog|access-date=2019-03-01}}</ref> Later in the year [[Uber]] developed Go-Explore, a new approach to [[reinforcement learning]], which could easily handle both of these games.<ref>{{Cite web|url=https://www.technologyreview.com/s/612470/uber-has-cracked-two-classic-80s-video-games-by-giving-an-ai-algorithm-a-new-type-of-memory/|title=Uber has cracked two classic '80s video games by giving an AI algorithm a new type of memory|last=Knight|first=Will|website=MIT Technology Review|access-date=2019-03-01}}</ref><ref>{{cite arXiv|last1=Ecoffet|first1=Adrien|last2=Huizinga|first2=Joost|last3=Lehman|first3=Joel|last4=Stanley|first4=Kenneth O.|last5=Clune|first5=Jeff|date=2019-01-30|title=Go-Explore: a New Approach for Hard-Exploration Problems|eprint=1901.10995|class=cs.LG}}</ref>
+
+A remake titled ''Montezuma’s Revenge 40th Anniversary Edition'' is currently in development. Robert Jaeger is involved with the production. A previously unreleased ''Director's Cut'' version of the original game is planned to be included with the remake.<ref>{{cite web |last1=McFerran |first1=Damien |title=1983 Classic Montezuma's Revenge Is Coming Back To Life |url=https://www.timeextension.com/news/2023/03/1983-classic-montezumas-revenge-is-coming-back-to-life |website=Time Extension |publisher=Hookshot Media |access-date=12 March 2023 |date=12 March 2023}}</ref>
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite magazine|magazine=[[Computer Entertainer|Computer Entertainer includes The Video Game Update]]|title=Critically Speaking..Atari 5200-Compatible|date=September 1984|volume=3|issue=6|ref={{harvid|Computer Entertainer includes The Video Game Update|1984}}}}
+
+==External links==
+*[https://web.archive.org/web/20050712082029/http://www.classicgaming.com/rotw/montezuma.shtml ''Montezuma's Revenge'']. Classic Gaming Game Museum.
+*[https://web.archive.org/web/20050308140150/http://www.gamespy.com/articles/488/488789p1.html ''Montezuma's Revenge'']. GameSpy Hall of Fame.
+*{{WoS game|id=0003591|name=Panama Joe}}
+*[https://archive.org/details/games-58-1984-december/page/56/mode/2up Review] in [[GAMES Magazine]]
+
+[[Category:1984 video games]]
+[[Category:Platformers]]
+[[Category:Apple II games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Parker Brothers video games]]
+[[Category:Master System games]]
+[[Category:Video games set in Mexico]]
+[[Category:ZX Spectrum games]]
+[[Category:Metroidvania games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,80 @@
+The Count (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Count_%28video_game%29&oldid=1224255898
+Accessed on: 2024-06-26T16:51:12.450528
+
+
+
+------
+The Count (video game)
+{{Infobox video game
+|title= The Count
+|image= The count box art scott adams.jpg
+|image_size=
+|caption= 
+|developer= [[Adventure International]] 
+|publisher= Adventure International
+|designer= [[Scott Adams (game designer)|Scott Adams]]
+|series= ''[[List of Scott Adams Adventure video games|Adventure]]''
+|engine= 
+|released= 1979
+|genre= [[Interactive fiction]]
+|modes= [[Single-player video game|Single-player]]
+|platforms= [[Acorn Electron]], [[Apple II series|Apple II]], [[Atari 8-bit]], [[BBC Micro]], [[Commodore 64]], [[Dragon 32/64]], [[Commodore PET|PET]], [[TI-99/4A]], [[TRS-80]], [[VIC-20]], [[ZX Spectrum]]
+}}
+
+'''''The Count ''''' is a [[text adventure]] written by [[Scott Adams (game designer)|Scott Adams]] and published by [[Adventure International]] in 1979. The [[player character]] has been sent to defeat the [[vampire]] [[Count Dracula]] by the local Transylvanian villagers, and must obtain and use items from around the vampire's castle in order to defeat him.<ref name="cvg">{{cite journal | last = Matthews| first = Ken | title = Scott Adams' Classic Adventures | journal = Micro Adventurer | issue = 14 | pages = 17, 19| publisher = Sunshine Books| date = December 1984 }}</ref>
+
+==Gameplay==
+The player moves from location to location, picking up any objects found and using them somewhere else to solve puzzles. The interface is text based; commands took the form of [[verb]] and [[noun]], e.g. "Climb Tree". Movement from location to location is limited to North, South, East, West, Up, and Down.
+
+The game differs from earlier Scott Adams adventures due to the use of time.<ref>{{cite web|url=https://www.atarimagazines.com/v2n4/scottadams.html|title=Profiles: Scott Adams}}</ref> Set over three days, certain problems need to be solved on particular days, and events happen at particular times on certain days. The protagonist also has to avoid being attacked on the first two nights to finish the game.
+
+==Development==
+Prior to developing ''The Count'', its developer [[Scott Adams (game designer)|Scott Adams]] was the first person to sell [[Interactive fiction|text adventure]] games. His first was a version of ''Adventure'' released in 1978.{{sfn|Montfort|2005|p=121}} ''The Count'' was developed in the late 1970s and was the fifth game in Adams' ''[[List of Scott Adams Adventure video games|Adventure]]'' series of video games which began with ''[[Adventureland (video game)|Adventureland]]'' (1978). Each of these games took about a month to develop. For ''The Count'', Adams wanted to add new features to the game which included a day and night cycle in the game to have it exist over several days. Adams said that "Dracula is a creature of the night, the player is a creature of the day, so I was going to need multiple days to tell the story."{{sfn|Drury|p=52}} As the game was [[Interactive fiction|text adventure]], he had little memory for the text in the game and counted on players being familiar with imagery from ''[[Dracula]]'' and ''[[Frankenstein]]'' stories and could get too in-depth with text for describing scenarios.{{sfn|Drury|pp=52-53}}
+
+To develop the gameplay Adams envisioned the setting in his mind and what items would populate these areas and how they could be used in a puzzle. Testing these puzzles grew out of playtesting them with friends and family. This involved creating a few rooms and selectable items and watching them play, noting any bugs or how players would try to tackle the problems. Adams never storyboarded a game and said that he often had no idea where the narrative would go.{{sfn|Drury|p=53}}
+
+==Release==
+''The Count'' was released in 1979 for the [[TRS-80]].{{sfn|Drury|p=54}}{{sfn|SoftSide|1979|pp=66-67|ref=Softside}} It was re-released with graphics as part of the SAGA (Scott Adams Grand Adventures) series for the [[Apple II]] and [[Atari 8-bit computers]] and other systems.{{sfn|Drury|p=55}}
+
+==Reception==
+Bruce Campbell reviewed ''The Count'' in ''[[The Space Gamer]]'' No. 45.<ref name="SG">{{cite journal|last= Campbell |first= Bruce |date=November 1981 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=45|page=34}}</ref> Campbell commented that "Unless you are easily frustrated, I highly recommend this program."<ref name="SG"/>
+A review in the ''[[Electronic Games|1984 Software Encyclopedia]]'' gave the game a seven out of ten rating, noting its single-player and gameplay was excellent and that "failure is a fate likely to turn anyone pale."{{sfn|Kunkel|1984|p=77|ref=Kunk84}}
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite magazine|title=Computer Section/VIC-20|magazine=[[Electronic Games|1984 Software Encyclopedia]]|publisher=Reese Communications|issn=0736-8488|issue=2|editor-last=Kunkel|editor-first=Bill|ref=Kunk84}}
+* {{cite magazine|magazine=SoftSide|date=August 1979|title=TSE Market Basket Catalog|publisher=SoftSide Publications|ref=Softside}}
+* {{cite magazine|magazine=[[Retro Gamer]]|title=The Making of The Count|last=Drury|first=Paul|issue=188}}
+* {{cite book|title=Twisty Little Passages: An Approach to Interactive Fiction|last=Montfort|first=Nick|authorlink=Nick Montfort|publisher=[[MIT Press]]|year=2005|ISBN=0-262-13436-5}}
+
+== External links ==
+* [http://aimemorial.if-legends.org/count.html The Count] on The Adventure International Memorial page
+* {{IFDB|id=89qmjvv4cb0z93t5|title=The Count}}
+
+{{Adventure International}}
+{{Dracula}}
+
+{{DEFAULTSORT:Count, The}}
+[[Category:1970s interactive fiction]]
+[[Category:1970s horror video games]]
+[[Category:Interactive fiction based on works]]
+[[Category:1979 video games]]
+[[Category:Adventure games]]
+[[Category:Adventure International games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore PET games]]
+[[Category:VIC-20 games]]
+[[Category:Dragon 32 games]]
+[[Category:TI-99/4A games]]
+[[Category:TRS-80 games]]
+[[Category:Video games based on Dracula]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in castles]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

@@ -1,0 +1,69 @@
+Shoot-'Em-Up Construction Kit
+Permalink: //en.wikipedia.org/w/index.php?title=Shoot-%27Em-Up_Construction_Kit&oldid=1225953998
+Accessed on: 2024-06-26T17:03:04.904245
+
+
+
+------
+Shoot-'Em-Up Construction Kit
+{{ infobox video game
+| title          = Shoot'Em-Up Construction Kit
+| image          = SEUCKboxfront.png
+| caption        = 
+| publisher      = Outlaw
+| platforms      = [[Commodore 64]], [[Amiga]], [[Atari ST]]
+| release        = 1987
+| genre          = [[Game Creation System]]
+}}
+
+'''''Shoot-'Em-Up Construction Kit''''' (a.k.a. '''''SEUCK''''') is a [[game creation system]] for the [[Commodore 64]], [[Amiga]] and [[Atari ST]] created by [[Sensible Software]] and published by Outlaw (part of [[Palace Software]]) in 1987. It allows the user to make simple [[shoot 'em up]]s by drawing [[sprite (computer graphics)|sprites]] and backgrounds and editing attack patterns. The advertising promoted the Kit with the phrase "By the programmers of ''[[Wizball]]'' and ''Parallax''".
+
+== Design ==
+[[File:GK-GameMaker-Sprite-Editor.jpg|thumb|Editing a sprite]]
+
+The Kit presents users with a series of menus for customising every aspect of the game. Level graphics are created with the Background Editor, using a series of blocks for plotting into the level maps' all moving elements are designed with the Sprite Editor. Sprites are assigned to "Objects" - for example, enemy bullets - with separate animation and colour settings. Editing the "enemy bits" changes the behaviour of an enemy (which projectiles it may shoot, how many points it is worth), while "player limitations" does the same for Player 1 (or player 2, if enabled). Whereas the Commodore 64 version contains a simple Sound FX Editor with slider controls, on the Amiga and ST versions this feature is replaced with IFF sounds.
+
+Enemies are added to the game by placing them on the background and then moving them, with options to link enemies together. The front end (title screen) may also be edited.
+
+Games can feature still screens (held for a set number of seconds), "push" scrolling (based on the player's movement) or constant vertical scrolling. Bonus point items are possible, as well as extra lives awarded at regular scoring intervals.
+
+''SEUCK'' is packaged with sample games to demonstrate what may be done with the kit. The Commodore 64 version comes with ''Slap 'n' Tickle'' (inspired by ''[[Slap Fight]]''), ''Outlaw'' (a [[Wild West]] shoot 'em up in the style of the arcade game Commando), ''Transputer Man'' (set inside a computer and partially inspired by the arcade game Robotron 2084), and ''Celebrity Squares'' (featuring graphics drawn by several C64 personalities including video game journalists Gary Liddon and Gary Penn).<ref>{{Cite web|url=http://www.seuck.retrogaming64.com/guide2.html|title = The SEUCK Vault}}</ref> The Amiga and Atari versions (released in 1989)<ref>{{cite magazine | last=Suck | first=Michael | date=February 1989 | title=Konvertierungen | trans-title=Conversions | url=https://www.kultboy.com/index.php?site=t&id=8640 | language=de | magazine=Aktueller Software Markt | page=74 | access-date=2019-10-16 }}</ref>  feature ''Slap 'n' Tickle'', ''Quazar'', and an "army man" game, ''Blood 'N' Bullets'', which features a sound effect of "Okay, suckers" sampled from the ''[[Red Dwarf]]'' episode "[[Queeg (Red Dwarf)|Queeg]]".
+
+At the height of the software's popularity game companies and magazines received many games created with the Kit. <ref>{{Cite web|url=http://www.seuck.retrogaming64.com/megastar.html|title=The SEUCK Vault}}</ref>
+
+== Reception ==
+''SEUCK'' was well received, earning a ''Zzap!'' Gold Medal Award.<ref>{{cite journal |date=December 1987 |title=Zzap! Test: Shoot 'Em Up Construction Kit |journal=Zzap!64 |issue=32 |pages=28–30 |publisher=Newsfield |url=https://archive.org/stream/zzap64-magazine-032/ZZap_64_Issue_032_1987_Dec#page/n28/mode/2up |accessdate=2013-05-29}}</ref> SEUCK was reviewed in ''[[Commodore Disk User#1|Commodore Disk User]]'' Issue 2.
+
+== Legacy ==
+[[File:Screenshot from Spittis Search Game Commodore 64.jpg|thumb|A game built with ''SEUCK'']]
+
+While attending college [[Ray Larabie]], later known for his custom typefaces, created several games using ''SEUCK'' which spread throughout the Amiga community via the BBS network and some were included on magazine coverdisks. These included ''Monster Truck Rally'', ''Wielder Of Atoms'', ''Mulroney Blast'' and ''Smurf Hunt''.{{Citation needed|date=July 2023}}
+
+Italian software company, System Editoriale s.r.l. developed some games with ''SEUCK'' such as [[Emiliano Sciarra]]'s ''Ciuffy'' and ''[[Amadeus Revenge]]''.{{Citation needed|date=July 2023}}
+
+== See also ==
+{{Portal|Amiga}}
+
+* ''[[The Arcade Machine]]''
+* ''[[Garry Kitchen's GameMaker]]''
+* ''[[Arcade Game Construction Kit]]''
+* ''[[Pinball Construction Set]]''
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.seuckvault.co.uk The SEUCK Vault]
+* [http://www.c64-wiki.de/index.php/SEUCK German C64-Wiki]
+
+{{Sensible Software}}
+
+[[Category:1987 video games]]
+[[Category:Sensible Software games]]
+[[Category:Commodore 64 games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video game engines]]
+[[Category:Video game development software]]
+[[Category:Video games with user-generated gameplay content]]

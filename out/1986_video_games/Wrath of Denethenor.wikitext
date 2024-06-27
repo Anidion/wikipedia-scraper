@@ -1,0 +1,61 @@
+Wrath of Denethenor
+Permalink: //en.wikipedia.org/w/index.php?title=Wrath_of_Denethenor&oldid=1215414346
+Accessed on: 2024-06-26T17:01:23.011324
+
+
+
+------
+Wrath of Denethenor
+{{Infobox video game|
+| image = File:On-Line Systems - Wrath of Denethenor.jpg
+| caption= Commodore 64 cover art
+| title = Wrath of Denethenor
+| developer  = 
+| publisher  = [[Sierra Entertainment|Sierra On-Line]]
+| designer   = Christopher Crim
+| programmer = Christopher Crim<br>Kevin Christiansen
+| release    = 1986
+| platforms  = [[Apple II]], [[Commodore 64]]
+| genre      = [[Role-playing video game|Role-playing]]
+}}
+
+'''''Wrath of Denethenor''''' is a [[top-down perspective|top-down]] [[role-playing video game]] originally written for the [[Apple II]] and ported to the [[Commodore 64]]. Both versions were published by [[Sierra Entertainment|Sierra On-Line]] in 1986. Many reviewers noted similarities in themes and game mechanics to the ''[[Ultima (series)|Ultima]]'' series.
+
+==Plot==
+[[Image:Opening_screen_shot_of_Wrath_of_Denethenor.jpg|thumb|Title screen]]
+
+The land of Deledain was once ruled peacefully by four Lords, but war has ravaged their lands, and the evil wizard Denethenor now rules. The player takes on the role of a rogue who starts the game wanting to burglarize local farms and villages. However, solving puzzles and successfully fighting evil hordes leads the character to the ultimate confrontation with Denethenor in the land of Mystenor in order to restore peace to Deledain.<ref name=crpg />
+
+==Gameplay==
+The only user input for character creation is the character's name.<ref name=crpg /> The character starts with 5 Strength, 5 Intelligence, 1000 hit points, 600 Stamina, 300 gold, and no items.<ref name=crpg /> There are a limited number of spells. The character learns about them by talking to [[non-player character]]s.<ref name=crpg />
+
+There are eight grades of weapons to use, and four grades of armor. To attack an opponent, the player hits the TAB key (Apple II) or CTRL key (C64), then specifies the direction to attack, and whether to strike high, medium or low. Killing the opponent results in loot, both gold and items.<ref name=crpg />
+
+The player must look for food to replenish Stamina, since all actions and spells deplete it. Food cannot be found, it must be purchased.<ref name=crpg /> Small amounts of gold are gained by defeating opponents. Larger amounts can be found in dungeon treasure chests. Characters can find an ongoing supply of money via burglary, an idea borrowed from ''Ultima III''.<ref name=crpg />
+
+==Development==
+Christopher Crim, in his final year of high school in [[Bishop, California]] in 1984, was already an experienced programmer, having designed and sold a customer database system written in [[BASIC]] to a local newspaper for $100.<ref>{{cite web | url =http://crimdom.net/wrath.html | title =Wrath of Denethenor | last =Crim | first =Christopher | access-date =2020-05-18}}</ref> Crim was a big fan of ''[[Ultima II]]'' and ''[[Ultima III]]'', and decided to create a similar  style of game  for the Apple II using 6502 [[assembly language]]. His high-school friend Kevin Christiansen built the graphic routines. The result was a top-down fantasy game called ''Wrath of Denethenor''.
+
+After having his friends playtest it, Crim sold the game to Sierra On-Line, who asked him to also port it to the Commodore 64. The resulting game was published in 1986. Crim requested that Sierra reduce the price from the then-usual $50 to only $20, and also asked them to forgo any copy-protection.<ref name=ia />
+
+==Reception==
+In the May 1987 edition of ''[[Computer Gaming World]]'', [[Scorpia (journalist)|Scorpia]] called the game "well-crafted", but criticized it because "it offers nothing fresh (except perhaps in the way it handles hit points) to the RPG genre. It's just another hackneyed 'kill the evil wizard' game, with old ''Ultima''-style playing and graphics, but little in the way of originality or ground-breaking design characteristics."<ref>{{cite magazine | title =Wrath of Denethenor | magazine =Computer Gaming World | date =May 1987}}</ref>
+
+In the April 1987 edition of ''InterAction '' (Issue #2), the reviewer found to it be in "a quality program" despite its low price. The reviewer's biggest complaint was the "day-night cycle" used in the game where everything is closed at night, so the player is forced to wait until the sun rises to resume action — the reviewer called it "an interesting idea, but can get irritating fast." The reviewer also thought the game dragged in the middle stages, but called the grand finale "a masterpiece of programming" and gave the game an excellent rating of 10 out of 10.<ref name=ia>{{cite journal | title =Wrath of Denethenor: A Review | journal =InterAction | issue =2| date = April 1987}}</ref>   
+
+The retrospective website ''My Abandonware'' called the game "an above average fantasy title of its time."<ref>{{cite web | url =https://www.myabandonware.com/game/wrath-of-denethenor-56w | title =Wrath of Denethenor: Commodore 64 - 1986 | website =My Abandonware | access-date =2020-05-18}}</ref>
+
+Writing 30 years after its publication, retrospective game reviewer Chester Bolingbroke called the game "the most competent ''Ultima'' clone that we've seen... Difficult and complicated, it sometimes exceeds ''Ultima I–II''." However, he found the game overly long and not overly original. Bolingbroke gave the game a rating of 31 out of 100, saying "There was some really good work here, marred primarily by size, length, and inability to shortcut certain areas."<ref name=crpg>{{cite web | url =http://crpgaddict.blogspot.com/2017/03/game-246-wrath-of-denethenor-1986.html | title =Game 246: Wrath of Denethenor (1986) | last =Bolingbroke | first =Chester | date =2017-03-22 | website =CRPG Addict | access-date =2020-05-18}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://archive.org/details/info-magazine-23/page/n67/mode/2up Review] in [[.info (magazine)|Info]]
+
+[[Category:1986 video games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:Fantasy video games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United States]]

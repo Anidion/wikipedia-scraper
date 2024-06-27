@@ -1,0 +1,56 @@
+Shooting Arcade
+Permalink: //en.wikipedia.org/w/index.php?title=Shooting_Arcade&oldid=1224580178
+Accessed on: 2024-06-26T16:54:01.988371
+
+
+
+------
+Shooting Arcade
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Shooting Arcade
+| image = Cover_Art_for_Shooting_Arcade_Atari_8-bit.png
+| developer = [[Datasoft]]
+| publisher = Datasoft<br>Gentry Software
+| designer = Mark Riley
+| programmer = '''Atari 8-bit'''<br>Mark Riley<br>'''Color Computer'''<br>James Garon
+| platforms = [[Atari 8-bit]], [[TRS-80 Color Computer]]
+| released = 1982
+| genre= [[Fixed shooter]]
+}}
+
+'''''Shooting Arcade''''' is a [[fixed shooter]] written by Mark Riley<ref name=giantlist/> for [[Atari 8-bit computers]] and published in 1982 by [[Datasoft]]. It was released under Datasoft's Gentry Software budget label as '''''Target Practice'''''.<ref name=targetpractice/> It was ported to the [[TRS-80 Color Computer]] by James Garon<ref name=giantlist/> and released as '''''Shooting Gallery'''''. The game is similar to the 1980 [[Sega]] arcade game ''[[Carnival_(video_game)|Carnival]]''.
+
+==Gameplay==
+[[File:Shooting_Arcade_Atari_8-bit_PAL_screenshot.png|thumb|left|In-game screenshot (Atari 8-bit)]]
+
+''Shooting Arcade'' is based on an amusement park shooting gallery. The player controls a pistol which moves along the bottom of the screen. Targets moving right and left appear in six rows before the player, and the goal of the game is to shoot them all down before the player runs out of bullets. The directions in which the rows of targets move alternate from row to row. The targets move off one edge of the screen and reappear on the other edge. Each target has a different point value and some also have special features: the diamonds give an extra bullet when hit, the bull's eyes change the direction targets are moving and the frowning faces cause an extra rabbit to appear making the player waste an additional bullet. 
+
+Once the player has cleared all the targets, a large brown bear appears. Each time the player hits the bear he is awarded with 50 points. If the player is unable to hit the bear it moves off the screen and the next round starts.
+
+==Reception==
+David Plotkin writing for ''[[SoftSide]]'' called ''Shooting Arcade'' "the finest implementation I've seen of a shooting gallery for the Atari. This program exhibits the DataSoft hallmarks of fine color and music, as well as excellent animation."<ref name=softside/>
+
+==See also==
+*''[[O'Riley's Mine]]''
+
+==References==
+{{Reflist|refs=
+<ref name=softside>{{cite web |title=SoftSide Magazine Issue 50 |date=November 1982 |url=https://archive.org/details/softside-magazine-50/page/n91/mode/2up }}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+<ref name="targetpractice">{{cite web|title=Atarimania - Target Practice|url=http://www.atarimania.com/game-atari-400-800-xl-xe-target-practice_5275.html }}</ref>
+}}
+
+==External links==
+*{{MobyGames|id=/shooting-arcade}}
+*{{atarimania|id=4644}}
+*{{Internet Archive game|id=a8b_Shooting_Arcade_1982_Datasoft_US_k_file}}
+*[https://archive.org/details/1982-10-compute-magazine/page/n127/mode/2up Review] in [[Compute!]]
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Datasoft games]]
+[[Category:Fixed shooters]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in amusement parks]]

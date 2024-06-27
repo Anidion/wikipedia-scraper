@@ -1,0 +1,40 @@
+Gust Buster
+Permalink: //en.wikipedia.org/w/index.php?title=Gust_Buster&oldid=998517023
+Accessed on: 2024-06-26T16:56:55.027840
+
+
+
+------
+Gust Buster
+{{Infobox VG| title = Gust Buster
+|image =
+|developer = Sunrise Software
+|publisher = Sunrise Software
+|designer =  Ed Salvo <ref name="giantlist"/>
+|engine = 
+|released = '''1983:''' ColecoVision<br>'''1984:''' C64 <ref name=gb64/>
+|genre = [[Action game|Action]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[ColecoVision]], [[Commodore 64]]
+}}
+'''''Gust Buster''''' is a [[video game]] written by Ed Salvo for the [[ColecoVision]] console and published by Sunrise Software in 1983.<ref name="giantlist"/> A [[Commodore 64]] port followed in 1984.<ref name=gb64/> Salvo previously developed several [[Atari 2600]] releases for [[Games by Apollo]].<ref name="giantlist"/>
+
+==Gameplay==
+In ''Gust Buster'', the player must navigate through the skies of an amusement park by inflating or deflating balloons. Movement is achieved by catching currents that go in different directions depending on height. This game is one of the only ColecoVision titles not to use the [[joystick]]. 
+
+One gains points by landing in crowded areas and selling balloons, and one can restock his balloon supply by landing on a popcorn truck. The player must be careful not to overinflate the balloons or they will bust, in which case they must be replaced by drawing some from his pocket.
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+<ref name="gb64">{{cite web |title=Gust Buster |url=http://gamebase64.com/game.php?id=3355&d=18&h=0 |website=Gamebase 64}}</ref>
+}}
+
+[[Category:1984 video games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in amusement parks]]
+
+
+{{action-videogame-stub}}

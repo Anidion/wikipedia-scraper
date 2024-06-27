@@ -1,0 +1,140 @@
+Jet Set Willy
+Permalink: //en.wikipedia.org/w/index.php?title=Jet_Set_Willy&oldid=1227582162
+Accessed on: 2024-06-26T16:57:02.089661
+
+
+
+------
+Jet Set Willy
+{{short description|1984 platform video game}}
+{{Use British English|date=January 2021}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox video game
+|title = Jet Set Willy
+|image = JetSet.jpg
+|developer = [[Software Projects]]
+|publisher = {{plainlist|
+* Software Projects
+* [[Tynesoft]] (Atari)}}
+|designer = [[Matthew Smith (games programmer)|Matthew Smith]]
+|composer = [[Rob Hubbard]] (Atari)
+|series = ''[[Miner Willy]]''
+|released = {{plainlist|
+* 1984: ZX Spectrum, Commodore 64
+* 1986: Atari 8-bit
+* 2012: Xbox 360<ref>{{Cite web|url=https://diymag.com/archive/jet-set-willy-remake-for-xbox-360|title=Jet Set Willy Remake for Xbox 360|date=22 August 2012|website=DIY Magazine|archive-url=https://web.archive.org/web/20211130031355/https://diymag.com/archive/jet-set-willy-remake-for-xbox-360|archive-date=30 November 2021|url-status=dead}}</ref>}}
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player]]
+|platforms = [[Amstrad CPC]], [[BBC Micro]], [[Acorn Electron]], [[Atari 8-bit]], [[Commodore 16]], [[Commodore 64]], [[Dragon 32]], [[MSX]], [[Memotech MTX|MTX]], [[PMD 85]], [[TI-99/4A]], [[Xbox 360]], [[ZX Spectrum]]
+}}
+
+'''''Jet Set Willy'''''  is a [[Platform game|platform]] [[video game]] written by [[Matthew Smith (games programmer)|Matthew Smith]] for the [[ZX Spectrum]] [[home computer]]. It was published in 1984 by [[Software Projects]] and ported to most home computers of the time.
+
+The game is a sequel to ''[[Manic Miner]]'' published in 1983, and the second game in the [[Miner Willy]] series. It spent over three months at the top of the charts and was the UK's best-selling [[1984 in video games|home video game of 1984]].<ref name=topten84>{{cite book |chapter=The Year's Top 10 Games|title=Computer and Video Games 1985 Yearbook |publisher=EMAP|page=88 |url=https://spectrumcomputing.co.uk/page.php?issue_id=1783&page=88}}</ref>
+
+The player controls Miner Willy as he tidies up his mansion after a massive party to get some sleep. Players navigate Willy through 60 screens of the mansion and grounds, collecting glowing items while avoiding hazards and guardians.
+
+The game features classical music from [[Ludwig van Beethoven|Beethoven]], [[Edvard Grieg|Grieg]], [[Johann Sebastian Bach|Bach]], and [[Wolfgang Amadeus Mozart|Mozart]]. Initially the game could not be completed due to various bugs, but fixes for these were released by Software Projects. ''Jet Set Willy'' included a copy protection measure in the form of a card with coloured codes, making it more difficult to duplicate. Various expanded versions and ports were released, as well as third-party editing tools that allowed players to design their own rooms and sprites.
+
+==Plot==
+A tired [[Miner Willy]] has to tidy up all the items left around his house after a huge party. With this done, his housekeeper Maria will let him go to bed. Willy's [[mansion]] was bought with the wealth obtained from his adventures in ''[[Manic Miner]]'', but much of it remains unexplored and it appears to be full of strange creatures, possibly a result of the previous (missing) owner's experiments. Willy must explore the enormous mansion and its grounds (including a beach and a yacht) to fully tidy up the house so he can get some much-needed sleep.
+
+==Gameplay==
+[[Image:JetSetWilly-ColdStore.png|256px|thumb|left|Miner Willy in the Cold Store (ZX Spectrum)]]
+
+''Jet Set Willy'' is a [[flip-screen]] platform game in which the player moves the protagonist, Willy, from room to room in his mansion collecting objects. Unlike the screen-by-screen style of its predecessor, the player can explore the mansion at will. Willy is controlled using only left, right and jump. He can climb stairs by walking into them (jumping through them to avoid them) and climb swinging ropes by pushing left or right depending on what direction the rope is swinging. The play area itself consists of 60 playable screens making up the mansion and its grounds and contains hazards (static killer objects), guardians (killer monsters which move along predetermined paths), various platforms and collectable objects. The collectable items glow to distinguish them from other objects in the room.
+
+Willy loses a [[Life (gaming)|life]] if he touches a hazard, guardian or falls too far. He is returned to the point at which he entered the room, which may lead to a game-ending situation where Willy repeatedly falls from a height or unavoidably collides with a guardian, losing all lives in succession.
+
+One of the more bizarrely named rooms in the game is ''We Must Perform a Quirkafleeg''.<ref name="russandem">We must perform a quirkafleeg — Game meets comic. ({{cite web | url = http://www.russandem.co.uk/quirk/ | title = Fat Freddy's Cat #5 — The Quirkafleeg | access-date = 2006-09-07 | last = Juckes | first = Russ}})</ref> On some versions it is misspelled ''We Must {{notatypo|Pef|orm}} a Quirkafleeg''. The pre-release name for the screen was ''The Gaping Pit''.<ref>{{cite magazine|date=April 1984|title=Crash Magazine|magazine=Jetset Willy Preview|issue=3|pages=24–25|quote=The biggest gaping pit you've ever had to swing across.}}</ref> This is a reference to the comic strip ''[[Fat Freddy's Cat]]'', a spin-off from the ''[[Fabulous Furry Freak Brothers]]''; in the original comic, the quirkafleeg was an obscure ritual in a foreign country, required to be performed upon the sight of dead furry animals.<ref name="russandem"/>
+
+===Music===
+Music on the Spectrum version is Beethoven's [[Moonlight Sonata]] for the menu, and Grieg's "[[In the Hall of the Mountain King]]" during the game itself. Early versions played "[[If I Were a Rich Man (song)|If I Were a Rich Man]]" as the in-game music, but this had to be removed when the publishers of the song demanded £36,000 for its use.<ref>{{cite magazine |last1=Carroll |first1=Martyn |title=The Making of Jet Set Willy|magazine=Retro Gamer |issue=150 |pages=74–77 |publisher=Imagine Publishing}}</ref>
+
+Music on the C64 version was Beethoven's Moonlight Sonata during the title screen, and [[Inventions and Sinfonias (Bach)|J.S. Bach - Inventions # 1]] during gameplay. Some rooms also play Mozart's [[Rondo alla Turca]].
+
+Music for the Atari 8-bit series was composed by [[Rob Hubbard]].
+
+===Bugs===
+Upon release, the game could not be completed due to several bugs. Although four completely unrelated issues, they became known collectively as "The Attic Bug".<ref name="skoolkit">{{cite web|url=http://skoolkit.ca/disassemblies/jet_set_willy/reference/bugs.html#theAtticBug|title=JetSet Willy bugs|last=Dymond|first=Richard|date=2022-11-22|work=Skoolkit|access-date=18 December 2022}}</ref> After entering ''The Attic'' screen, various rooms would undergo [[Data corruption|corruption]] for all subsequent playthroughs, including all monsters disappearing from ''The Chapel'' screen, and other screens triggering a game over. This was caused by an error in the path of an arrow in ''The Attic'', resulting in the sprite traveling past the end of the Spectrum's video memory and overwriting crucial game data instead. Initially [[Software Projects]] attempted to pass this bug off as an intentional feature to make the game more difficult,<ref name=yr04_60 /> claiming that the rooms in question were filled with poison gas, but they later rescinded this claim and issued a set of [[PEEK and POKE|POKEs]] to correct the flaws.<ref>{{cite journal | date=July 1984 | title = Jet Set Willy Solved! | journal=[[Personal Computer Games]] | issue=8 | page=21 | url=https://archive.org/stream/personalcomputergames-magazine-08/PersonalComputerGames_08#page/n22/mode/1up | access-date=2014-04-19}}</ref><ref>{{cite journal | date=August 1984 | title=Attic Attacked! | journal=[[Your Spectrum]] | issue=6 | page=5 | url=http://www.users.globalnet.co.uk/~jg27paw4/yr06/yr06_05.htm#JSW | access-date=2014-04-19}}</ref>
+
+Despite these bugs, Ross Holman and Cameron Else won the competition that Software Projects had set for completion of ''Jet Set Willy'' and provided Software Projects with a set of bug fixes.<ref name="yr04_60" /> Software Projects then hired Cameron Else to port both ''[[Manic Miner]]'' and ''Jet Set Willy'' to the [[MSX]].<ref name="cam_msx">{{cite web|url=https://www.generation-msx.nl/software/software-projects/jet-set-willy/2765/|title=Generation MSX|access-date=18 December 2022}}</ref>
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 4, May 1984, page 8</ref>
+}}
+Reviewing ''Jet Set Willy'' for ''[[Your Spectrum]]'' magazine in June 1984, Sue Denham wrote that the game was "every bit as good and refreshing as the original".<ref name=yr04_60>{{cite journal | date=June 1984 | title=Join the Jet Set | journal=[[Your Spectrum]] | issue=4 | pages=60–65 | url=http://www.users.globalnet.co.uk/~jg27paw4/yr04/yr04_60.htm#JSW1 | access-date=2014-04-19}}</ref>
+
+In the final issue of [[Your Sinclair]], the ZX Spectrum version was ranked number 32 on "The Your Sinclair Official Top 100 Games of All Time", and voted number 33 on "The Your Sinclair Readers' Top 100 Games of All Time".<ref>{{cite magazine |editor-last=Nash |editor-first=Dennis |date=September 1993 |title=Let the People Decide! The Results |url=https://archive.org/details/your-sinclair-93 |magazine=[[Your Sinclair]] |publisher=Future Publishing |volume=1 |issue=93 |pages=[https://archive.org/details/your-sinclair-93/page/n53 11]–12 |via=[[Internet Archive]]}}</ref> In 2004, the ZX Spectrum version was voted the 6th best game all of time by ''[[Retro Gamer]]'' readers in an article originally intended for a special issue of ''Your Sinclair'' bundled with ''Retro Gamer''.<ref>{{cite web |url=http://www.ysrnry.co.uk/articles/50bestspeccygames94.htm |date=25 June 2009 |title=The 50 Best Speccy Games Ever! |last=Whitehead |first=Dan |website=The YS Rock'n'Roll Years |publisher=Nick Humphries |archive-url=https://web.archive.org/web/20090713193533/http://www.ysrnry.co.uk/articles/50bestspeccygames94.htm |archive-date=13 July 2009 |url-status=dead}}</ref>
+
+== Copy protection ==
+''Jet Set Willy'' came with a form of copy protection: a card with 180 coloured codes on it was bundled with the cassette. Upon loading, one of the codes from the card had to be entered before the game would start. Although the cassette could be duplicated, a copy of the card was also needed and at the time, home colour reproduction was difficult,<ref>{{cite journal|url=https://intarch.ac.uk/journal/issue45/2/index.html|last1=Aycock|first1=John|last2=Reinhard|first2=Andrew|title=Copy Protection in Jet Set Willy: developing methodology for retrogame archaeology|journal=Internet Archaeology|date=2017 |issue=45|doi=10.11141/ia.45.2|access-date=16 February 2024|doi-access=free}}</ref> making ''Jet Set Willy'' harder to copy than most Spectrum games, but means of circumventing the card were quickly found, and one method was published in a UK computer magazine.<ref>{{cite web|url=https://archive.org/details/your-computer-magazine-1984-06|title=Your letters: getting in #1|date=June 1984|work=[[Your Computer (British magazine)|Your Computer]]|publisher=[[TI Media|IPC Media]]|page=42|access-date=18 December 2022}}</ref>
+
+== Ports ==
+A version of ''Jet Set Willy'' for the Commodore 64 was released by Software Projects and ported by Shahid Kamal Ahmad.<ref>https://x.com/shahidkamal/status/1737833521329389717?s=61&t=t6bgzFpLEllG-Pm0Nh4odA</ref>
+
+The original releases of ''Jet Set Willy'' for the BBC Micro and the Commodore 64 also contained bugs which made it impossible to complete the game. In the Commodore 64 version, it was impossible to reach all of the items in the ''Wine Cellar''.<ref>https://x.com/shahidkamal/status/1738243274878386498?s=61&t=t6bgzFpLEllG-Pm0Nh4odA</ref>
+
+There are two versions of the original ''Jet Set Willy'' for the MSX. The Software Projects version that was sold in the UK is dated 1984 and was programmed by Cameron Else, co-winner of the ''Jet Set Willy'' competition.<ref name=cam_msx /> The other version was published by [[Hudson Soft]] in 1985 as a [[Bee Card (game cartridge)|Bee Card]] in Japan.<ref name="cam_msx" />
+
+[[File:Jet_Set_Willy_Atari_8-bit_PAL_screenshot.png|thumb|right|Atari 8-bit version]]
+
+A port of ''Jet Set Willy'' for the [[Atari 8-bit computers]] was released by [[Tynesoft]] in 1986.<ref>{{cite web |title=Jet Set Willy |url=http://www.atarimania.com/game-atari-400-800-xl-xe-jet-set-willy_2664.html |website=Atari Mania}}</ref> It received generally poor reviews which criticised inferior graphics and animation, but [[Rob Hubbard]]'s theme music, unique to this version, was considered a highlight.<ref>{{cite journal|title=Jet Set Willy game review|journal=[[Atari User]]|date=March 1987}}</ref><ref>{{cite journal|last=Short|first=Jim|title=Jet Set Willy|journal=[[Page 6]]|date=March–April 1987|issue=26|url=http://www.page6.org/archive/issue_26/page_61c.htm}}</ref> Like the Spectrum version, it was impossible to complete but for different reasons. Some of the legitimate items that were needed caused the player to lose a life (e.g. the bottles in the ''Off Licence'').
+
+Ports from Software Projects for the [[Amiga]] and [[Atari ST]] were cancelled before release, but have since been made available on the internet.<ref>{{cite web | url=http://www.atarimania.com/game-atari-st-jet-set-willy_9682.html | title=Jet Set Willy | publisher=AtariMania.com | access-date=2020-08-01}}</ref>
+
+== Legacy ==
+=== Expanded versions ===
+''Jet Set Willy: The Final Frontier'', an expanded version for the [[Amstrad CPC]], was later converted back to the [[ZX Spectrum]] and released as ''[[Jet Set Willy II]]''.<ref>{{cite web|url=http://www.jdawiseman.com/papers/games/jsw2/jsw2_programmer_comments.html|title=Programmer comments on JSW2 — Steve Wetherill and Derrick P. Rowson|last=Wiseman|first=J|access-date=18 December 2022}}</ref> Both the original game and ''Jet Set Willy II'' were released for the [[BBC Micro]], [[Acorn Electron]], [[MSX]], [[Commodore 16]] and [[Commodore 64]].
+
+A differently expanded version of ''Jet Set Willy'' was released for the [[Dragon 32/64]], with extra rooms.<ref>{{cite web|url=http://jswremakes.emuunlim.com/Systems/dragon.htm |title=Jet Set Willy Remakes: Dragon 32/64 |publisher=Jswremakes.emuunlim.com |access-date=2011-03-25}}</ref> This version could also not be completed as it was impossible to traverse ''The Drive'' in a right-to-left direction, which was necessary to return to bed after collecting all the items. The game could, however, be completed using a built-in cheat, accessed by holding down the keys M, A and X simultaneously, allowing the player to start Willy from any position on any screen, using the arrow keys and spacebar.
+
+The Dragon port was itself converted to run on the [[Acorn Archimedes]] computers. Better collision detection meant that "The Drive" could now be completed right-to-left, unlike on the Dragon.<ref name="Archimedes port based on Dragon 32 code">{{cite web|url=http://jswremakes.emuunlim.com/Systems/acorn.htm |title=Archimedes port based on Dragon 32 code |publisher=Jswremakes.emuunlim.com |access-date=2011-03-25}}</ref>
+
+===Third-party modifications===
+In its original Spectrum version, the rooms themselves are stored in a straightforward format, with no [[data compression|compression]], making it relatively easy to create customised versions of the game.
+
+The review of JSW in issue 4 of ''Your Spectrum'' included a section entitled "JSW — A Hacker's Guide"; remarks in this section imply that the author had successfully deduced at least some of the data structures, since he was able to remove sections of wall in the Master Bedroom.<ref name="yr04_60" /> The following year, issue 13 contained a program that added an extra room ("April Showers") to the game,<ref name="russandem"/><ref>[http://www.users.globalnet.co.uk/~jg27paw4/yr13/yr13_41.htm "April Showers"], Your Spectrum, Issue 13, April 1985</ref> and issue 15 described the data formats in detail.<ref>[http://www.users.globalnet.co.uk/~jg27paw4/yr15/yr15_33.htm "Interior Decorating"], Your Spectrum, Issue 15, June 1985</ref>
+
+Several third-party editing tools were published between 1984 and 1986, allowing players to design their own rooms and sprites.{{citation needed|date=June 2018}}
+
+== See also ==
+The following platform games are in the same mould as the ''Miner Willy'' series with the purpose of the game being to collect objects to complete the scenes in the game:
+* ''[[Brian Bloodaxe]]''
+* ''[[Chuckie Egg]]''
+* ''[[Dynamite Dan]]''
+* ''[[Kokotoni Wilf]]''
+* ''[[Roller Coaster (video game)|Roller Coaster]]''
+* ''[[Technician Ted]]''
+* ''[[Blagger (video game)|Blagger]]''
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{WoS_game|id=0002589}}
+* ''[https://worldofspectrum.org/archive/software/games/jet-set-willy-software-projects-ltd Jet Set Willy]'' at World Of Spectrum
+* {{lemon64 game|id=1364|name=Jet Set Willy}}
+* {{atarimania|id=2664}}
+* {{curlie|Games/Video_Games/Platform/Miner_Willy_Games/Jet_Set_Willy_Series|Jet Set Willy Series}}
+
+[[Category:1984 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:Dragon 32 games]]
+[[Category:Hudson Soft games]]
+[[Category:Mobile games]]
+[[Category:MSX games]]
+[[Category:Platformers]]
+[[Category:Single-player video games]]
+[[Category:Software Projects games]]
+[[Category:TI-99/4A games]]
+[[Category:Tynesoft games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games scored by Rob Hubbard]]
+[[Category:ZX Spectrum games]]

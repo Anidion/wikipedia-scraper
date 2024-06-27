@@ -1,0 +1,54 @@
+Torpedo Fire
+Permalink: //en.wikipedia.org/w/index.php?title=Torpedo_Fire&oldid=1097201470
+Accessed on: 2024-06-26T16:52:45.604443
+
+
+
+------
+Torpedo Fire
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Torpedo Fire
+| image = Torpedo Fire.jpg
+| alt = 
+| caption = 
+| developer = 
+| publisher = [[Strategic Simulations]]
+| series = 
+| designer = John Lyon<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+| platforms = [[Apple II]]
+| released = [[1981 in video gaming|1981]]
+| genre = [[Turn-based strategy game|Turn-based strategy]]
+| modes = 
+}}
+
+'''''Torpedo Fire''''' is a turn-based submarine warfare game written by John Lyon for the [[Apple II]] and published by [[Strategic Simulations]] in 1981.<ref name=giantlist/>
+
+==Gameplay==
+''Torpedo Fire'' is a game in which a submarine attack against a convoy is simulated.<ref name="SG"/> It is designed for two players, each turn covering 60 seconds of simulation time.<ref name=proctor/>
+
+==Reception==
+Forrest Johnson reviewed ''Torpedo Fire'' in ''[[The Space Gamer]]'' No. 41.<ref name="SG">{{cite journal|last=Johnson |first=Forrest |date=July 1981 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=41|pages=36}}</ref> Johnson commented that "I cannot help but feel that Strategic Simulations has taken a wrong turn somewhere. I hope they find their way again soon."<ref name="SG"/> In ''Video Games'', Rich Sutton said playability concerns meant that he "only recommended [''Torpedo Fire''] for the advanced player who desires the most accurate simulation on the market".<ref name=videogames>{{cite journal | author=Sutton, Rich | title=War Games: A Battle Plan for Attacking Video Simulations | volume=2 | number=1 | date=October 1993 | journal=Video Games | pages=40, 41, 44–48 }}</ref>
+
+Bob Proctor, in a detailed analysis for ''[[Computer Gaming World]]'', concluded "Although extremely well conceived, the concepts could have been better implemented. "<ref name=proctor/>
+
+==Reviews==
+*''Video Games''<ref>{{cite web | url=https://archive.org/details/Video_Games_Volume_2_Number_01_1983-10_Pumpkin_Press_US/page/n45/mode/2up | title=Video Games - Volume 2 Number 01 (1983-10)(Pumpkin Press)(US) | date=October 1983 }}</ref>
+
+==Legacy==
+In early 1982, designer [[Gary Grigsby]] got his break in the game industry when he called Strategic Simulations' hotline with a question about ''Torpedo Fire'', which he owned a copy of at the time. Getting into a conversation with company head [[Joel Billings]] paved the way for SSI's release of Grigsby's title ''[[Guadalcanal Campaign (video game)|Guadalcanal Campaign]]''.<ref name=witeint>{{cite web | archiveurl=https://web.archive.org/web/20110203052400/http://www.wargamer.com/article/2983/war-in-the-east-developers | url=http://www.wargamer.com/article/2983/war-in-the-east-developers | title=Interview: ''War in the East'' Developers | date=January 23, 2011 | author=Staff | work=[[Wargamer (website)|Wargamer]] | archivedate=February 3, 2011 | url-status=dead }}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="proctor">{{cite magazine |last1=Proctor |first1=Bob |title=Torpedo Fire: Review and Analysis |magazine=Computer Gaming World |date=November–December 1981 |volume=1 |issue=1 |pages=9–12 |url=https://archive.org/details/19811112Issue1/page/n9}}</ref>
+}}
+
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Strategic Simulations games]]
+[[Category:Submarine simulation video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United States]]

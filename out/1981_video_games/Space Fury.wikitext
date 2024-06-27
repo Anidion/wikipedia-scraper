@@ -1,0 +1,76 @@
+Space Fury
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Fury&oldid=1193126856
+Accessed on: 2024-06-26T16:52:38.668195
+
+
+
+------
+Space Fury
+{{Short description|1981 arcade game}}
+{{Infobox video game
+|image = Space_Fury_G80_NA_flyer.jpg
+|developer = [[Gremlin Industries|Gremlin]]<ref name="sdr">{{cite web|url=https://www.sandiegoreader.com/news/1982/jul/15/cover-exactly-zaxxon/|title=San Diego's Gremlin: how video games work|publisher=[[San Diego Reader]]|date=1982-07-15|accessdate=2020-10-25}}</ref>
+|publisher = '''Arcade''' {{vgrelease|NA|[[Sega]]/[[Gremlin Industries|Gremlin]]|JP|[[Sega]]}} '''ColecoVision''' <br> [[Coleco]]
+|release = '''Arcade''' {{vgrelease|NA|June 1981<ref name="cashbox">{{cite journal |title=Our Consultants are Young, Sharp and Full of Ideas |journal=Cash Box |date=1981-06-27 |volume=43 |issue=3 |page=19 (Part III - Coin Machines) |url=https://archive.org/details/cashbox43unse_4/ |access-date=22 March 2021 |language=English}}</ref>|JP|July 1981<ref name="Famitsu">{{cite book |chapter=1981 |title=Sega Arcade History |date=2002 |series=[[Famitsu DC]] |publisher=[[Enterbrain]] |pages=43–4 |chapter-url=https://archive.org/details/segaarcadehistoryfamitsudc/page/n44 |lang=ja}}</ref>}} '''ColecoVision''' <br /> 1983
+|genre = [[Multidirectional shooter]]
+|modes = Up to two players, alternating
+|arcade system = [[List of Sega arcade system boards#Arcade system boards|G80]]
+|platforms = [[Arcade game|Arcade]], [[ColecoVision]]
+}}
+'''''Space Fury''''' is a [[1981 in video games|1981]] [[multidirectional shooter]] [[arcade game]] developed by [[Gremlin Industries|Gremlin]]. [[Gremlin Industries|Sega/Gremlin]] released the game in North America in June 1981,<ref name="cashbox"/> and then [[Sega]] released it in Japan in July 1981.<ref name="Famitsu"/> It is the first game with color [[vector graphics]],<ref>{{cite web|last1=Scott|first1=Brian|title=Vector Graphics: The Rise&mdash;and Fall?&mdash;of a Controversial Display Technique|url=http://www.atarihq.com/othersec/library/vector.html}}</ref><ref name="butler">{{cite web|last1=Butler|first1=Kevin|title=Space Fury FAQ|url=http://www.ign.com/faqs/2004/space-fury-general-faq-arc-496115}}</ref> and it was Sega's second game to use [[speech synthesis]].<ref name="VGP"/><ref>{{KLOV game|9658|Space Fury}}</ref> [[Coleco]] published a [[ColecoVision]] version with [[raster graphics]] in 1983.<ref name="cvman">{{cite book |title=ColecoVision Space Fury Manual |date=1983 |publisher=Coleco |url=https://archive.org/details/Space_Fury_1983_Coleco/mode/2up}}</ref>
+
+==Gameplay==
+[[Image:ARC Space Fury.png|thumb|upright=2|Arcade screenshot]]
+
+The player controls a spaceship battling alien spacecraft. It is controlled by four buttons: rotate left, rotate right, thrust and fire. The player could collect different upgrades for the first three levels. One upgrade allows the player to shoot in a three-way pattern, the second allows the player to fire forward and backwards simultaneously, and the third concentrates firepower in the front.
+
+At the conclusion of the following round, the player picks another shell, although multiple ones cannot be used together. Between rounds and during the attract mode, the Alien Commander taunts the player through the use of synthesized speech. The game continues indefinitely but stops calculating the score after the completion of level four.
+
+At the beginning of each level a synthesized excerpt from [[Aaron Copland]]'s ''[[Fanfare for the Common Man]]'' is played.
+
+===Alien Commander's quotes===
+#"Does anyone dare challenge my Imperial fleet?"
+#"So! A creature for my amusement. Prepare for battle!"
+#"So you defeated my scouts? Well, my cruisers will destroy you." 
+#"You are starting to annoy me, Creature. My destroyers will annihilate you!"
+#"You survived! Warships, dispose of this annoyance at once!"
+#"Well done. Prepare to battle my entire fleet!"
+#"Our battle is completed, Warrior. You were an [easy / amusing / adequate / stimulating / outstanding] opponent" (depending on score).
+
+==Development==
+Space Fury was the first released vector graphics game to use a color monitor, developed by Electrohome. This [[X-Y monitor]] became a standard piece of kit in the G-80 graphics system developed at Sega/Gremlin as an interchangeable arcade system which could feature either a vector or raster game in the arcade cabinet.{{sfn|Horowitz|2017|p=31-32}}
+
+The game was developed and programmed by Sega/Gremlin game designer Murphy Bivens and shares a resemblance to [[Atari, Inc.|Atari]]'s ''[[Asteroids (video game)|Asteroids]]''. Bivens notably reduced the amount of inertia the ship experienced while moving in any direction while keeping features such as the screen wrap-around. To make the gameplay more interesting, he also added the option for players to choose a variable weapon between stages. This marks the first instance of a shoot 'em up game providing players with the option to upgrade their ship's firepower.{{sfn|Horowitz|2017|p=31-33}}
+
+One additional innovation of Space Fury was the use of a character who provided lines via speech synthesis, an alien commander. The speech was generated using the General Instrument SP0256-19 with voice samples provided by a DJ with a deep voice which was easier to modulate. The same voice actor would be responsible for the voice clips used in ''[[Star Trek (arcade game)|Star Trek: Strategic Operations Simulator]]''.{{sfn|Horowitz|2017|p=32-33, 68}}
+
+The monitors used in the game (the G08) were infamous for being unreliable, due to a deflector amplification circuit put in place by the company Electrohome. Reportedly this circuit was in place to circumnavigate vector technology patented by Atari, but caused a great deal of electronic failure as the machines were powered on and off. Later revisions of the G08 vector monitors amended this problem.<ref name="sdr"/>{{sfn|Horowitz|2017|p=34}}
+
+==Reception==
+Raymond Dimetrosky of ''Video Games Player'' gave the ColecoVision version a generally positive review. He called the original arcade game "one of the best games to follow in the wake of ''Asteroids''" while praising the accuracy of the conversion. He criticized the lack of the arcade game's speech synthesis, but praised the replacement music. He also compared the game unfavorably with another ColecoVision arcade port released about the same time, [[Nintendo]]'s ''[[Donkey Kong Jr.]]''<ref name="VGP">{{cite magazine |last=Dimetrosky |first=Raymond |title=Video Game Buyer's Guide: Donkey Kong Jr. (Coleco) vs. Space Fury (Coleco) |magazine=Video Games Player |date=September 1983 |volume=2 |issue=1 |page=56 |publisher=Carnegie Publications |location=United States |url=https://archive.org/details/Video_Games_Player_Vol_2_No_1_1983-09_Carnegie_Publications_US/page/n54}}</ref>
+
+==Legacy==
+The alien commander who appears in the game and on the marquee also makes an appearance in the video game ''[[Zektor]]'', also designed by Murphy Bivens and released by Sega/Gremlin.
+
+The game is included as an unlockable game in the [[PlayStation Portable|PSP]] version of ''[[Sega Genesis Collection]]''.
+
+==References==
+{{reflist}}
+* {{citation |first=Ken |last=Horowitz |year=2017 |title=The Sega Arcade Revolution: A History in 62 Games |publisher=[[McFarland & Company]] |isbn=978-1476672250}}
+
+==External links==
+*{{KLOV game|id=9658}}
+*[https://web.archive.org/web/20060313235107/http://www.arcade-history.com/history_database.php?page=detail&id=2533 ''Space Fury''] at Arcade History
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Coleco games]]
+[[Category:ColecoVision games]]
+[[Category:Gremlin Industries games]]
+[[Category:Multidirectional shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Sega arcade games]]
+[[Category:Sega video games]]
+[[Category:Vector arcade video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,56 @@
+K-Razy Shoot-Out
+Permalink: //en.wikipedia.org/w/index.php?title=K-Razy_Shoot-Out&oldid=1224117473
+Accessed on: 2024-06-26T16:52:21.906762
+
+
+
+------
+K-Razy Shoot-Out
+{{Short description|1981 video game}}
+{{Infobox VG
+| title          = ''K-Razy Shoot-Out''
+| image          = K-Razy Shoot-Out cover.jpg
+| caption        = 
+| developer      = K-Byte
+| publisher      = K-Byte<br>CBS Software<br>[[CBS Electronics]] (5200)
+| designer       = Keith Dreyer<br>Torre Meeder<ref name=giantlist/>
+| series         = 
+| released       = '''1981:''' Atari 8-bit<br>'''1983:''' Atari 5200
+| genre          = [[Multidirectional shooter]]
+| platforms      = [[Atari 8-bit]], [[Atari 5200]]
+}}
+
+'''''K-Razy Shoot-Out''''' is a clone of the arcade video game ''[[Berzerk (video game)|Berzerk]]'' developed by K-Byte, a division of Kay Enterprises, and released for [[Atari 8-bit computers]] in 1981.<ref name=eg/> The game was written by Torre Meeder and Keith Dreyer,<ref name="atarimania">{{cite web|title=K-Razy Shoot-Out|url=http://www.atarimania.com/game-atari-400-800-xl-xe-k-razy-shoot-out_6759.html|website=Atari Mania}}</ref> and was the first Atari 8-bit cartridge from a [[third-party developer]].{{r|ccvag1983spring}} An [[Atari 5200]] version followed in 1983. 
+The team of Dreyer and Meeder also wrote the 1983 Atari 8-bit game ''[[Boulders and Bombs]]''.<ref name=giantlist/>
+
+''K-Razy Shoot-Out'' is part of a series of titles with the "K-" prefix, including ''K-Razy Kritters''<ref>{{cite web|title=K-Razy Kritters|url=http://www.atarimania.com/game-atari-400-800-xl-xe-k-razy-kritters_s2844.html|website=Atari Mania}}</ref> and ''K-Star Patrol''.<ref>{{cite web|title=K-Star Patrol Manual|url=https://archive.org/details/agm_K-Star_Patrol|website=archive.org}}</ref> All of them were published on cartridge. After CBS Software purchased K-Byte,<ref name=ahl/> the games were published under the CBS brand, including the Atari 5200 port of ''K-Razy Shoot-Out''.<ref name="ahq">{{cite web|last1=Iida|first1=Keita|title=Atari 5200 Review: K-RAZY SHOOT-OUT|url=http://www.atarihq.com/reviews/5200/k-razy_shoot-out.html|website=AtariHQ.com}}</ref>
+
+==Gameplay==
+As in ''Berzerk'', the goal is to destroy all of the [[robot]]s occupying a series of randomly generated [[maze]]s. In ''Berzerk'', if the player takes too long to clear a maze, an indestructible bouncing [[ball]] ("Evil Otto") drives the player to an exit. ''K-Razy Shoot-Out'' uses a visible timer instead.<ref name="ap">{{cite web |title=K-Razy Shoot-Out |url=https://www.atariprotos.com/5200/software/shootout/shootout.htm |website=Atari Protos}}</ref> If the timer runs out, the game ends. If the player exits a maze without clearing it, the player has to replay one or two mazes without getting points.<ref name="manual">{{cite book |title=K-Razy Shoot-Out |date=1981 |publisher=CBS Software |url=https://archive.org/details/KRazyShootOutCBS/page/n0}}</ref>
+
+==Reception==
+''K-Razy Shoot-Out'' sold 35,000 copies by June 1982.<ref name="maher20120326">{{cite web | url=http://www.filfre.net/2012/03/the-wizardry-phenomenon/ | title=The Wizardry Phenomenon | work=The Digital Antiquarian | date=2012-03-26 | access-date=9 July 2014 | author=Maher, Jimmy}}</ref> [[John J. Anderson]] of ''[[Creative Computing|Creative Computing Video & Arcade Games]]'', wrote that as a ''Berzerk'' clone, "the only element that's missing is the speech ... lots of fun, and has a great deal of staying power".<ref name="ccvag1983spring">{{Cite magazine |last=Anderson |first=John J. |author-link=John J. Anderson |last2=Small |first2=David |last3=Wolcott |first3=Eric F. |date=Spring 1983 |title=Atari Personal Computer Games |url=http://www.atarimagazines.com/cva/v1n1/ataripcgames.php |magazine=Creative Computing Video & Arcade Games |page=93}}</ref> It won the 1983 Arcade Award for "Best Arcade/Action Computer Game" from ''[[Electronic Games]]'' magazine.<ref name=eg/> The ''[[Berzerk (video game)|Berzerk]]'' similarity was mentioned, but also that the game has "a unique flavor all its own."
+
+==See also==
+*''[[Robot Attack]]''
+*''[[Robon]]''
+*''[[Thief (Apple II game)|Thief]]''
+
+== References ==
+{{reflist|refs=
+<ref name="ahl">{{cite journal|last1=Ahl|first1=David|title=1983 Winter Consumer Electronics Show|journal=Creative Computing|date=April 1983|volume=9|issue=4|page=18|url=https://www.atarimagazines.com/creative/v9n4/18_1983_Winter_Consumer_Elec.php|last2=Staples|first2=Betsy}}</ref>
+<ref name=eg>{{cite journal|title=1983 Arcade Awards|journal=Electronic Games|date=January 1983|page=34 |url=https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US/page/n33}}</ref> 
+<ref name="atarimania">{{cite web|title=K-Razy Shoot-Out|url=http://www.atarimania.com/game-atari-400-800-xl-xe-k-razy-shoot-out_6759.html|website=Atari Mania}}</ref>
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+[[Category:1981 video games]]
+[[Category:Action games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:CBS Software games]]
+[[Category:K-Byte games]]
+[[Category:CBS Electronics games]]

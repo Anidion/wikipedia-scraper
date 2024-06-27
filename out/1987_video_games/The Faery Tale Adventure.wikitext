@@ -1,0 +1,83 @@
+The Faery Tale Adventure
+Permalink: //en.wikipedia.org/w/index.php?title=The_Faery_Tale_Adventure&oldid=1224484021
+Accessed on: 2024-06-26T17:02:04.543469
+
+
+
+------
+The Faery Tale Adventure
+{{Infobox video game
+|title = The Faery Tale Adventure
+|image = The Faery Tale Adventure Coverart.png
+|caption = Cover art by Ed Kline
+|developer = [[MicroIllusions]]{{efn|Ported to Commodore 64 and IBM PC by [[Sculptured Software]] and ported to Sega Genesis by [[New World Computing]].}}
+|publisher = MicroIllusions{{efn|Sega Genesis version published by [[Electronic Arts]].}}
+|designer = [[David Joiner]]
+|released = '''1987:''' Amiga<br>'''1988:''' C64<br>'''1989:''' MS-DOS<br>'''1991:''' Genesis
+|series = 
+|genre = [[Action role-playing game|Action role-playing]]<ref>{{cite web|url=https://www.allgame.com/game.php?id=87547|title=The Faery Tale Adventure|archive-url=https://web.archive.org/web/20140101010101/https://www.allgame.com/game.php?id=87547|archive-date=2014-01-01|url-status=dead|website=[[All Media Network#AllGame|AllGame]]}}</ref>
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Commodore 64]], [[MS-DOS]], [[Sega Genesis|Genesis]]
+}}
+
+'''''The Faery Tale Adventure''''' is a 1987 action role-playing video game designed by [[David Joiner]] and published by [[MicroIllusions]] for the [[Amiga]], and later ported to the [[Commodore 64]], [[MS-DOS]], and [[Sega Genesis]]. The [[MS-DOS]] version is titled '''''The Faery Tale Adventure: Book I'''''.<ref>{{cite web|title=The Faery Tale Adventure: Book I (1987) MS-DOS box cover art|url=http://www.mobygames.com/game/faery-tale-adventure-book-i/cover-art/gameCoverId,115726/|website=MobyGames|publisher=Blue Flame Labs|accessdate=21 December 2015}}</ref> Microillusions also released a "Book 1" version for the Amiga which was going to be the start of a series of games, according to Talin, but bankruptcy prevented it. The initial version was produced for the Amiga 1000 and featured the largest game world to that date.<ref name="Antiquarian">{{cite web|url=http://www.filfre.net/2015/12/the-faery-tale-life-of-microillusions|work=The Digital Antiquarian|title=The Faery Tale Life of MicroIllusions|year=2015}}</ref> A sequel, ''[[Faery Tale Adventure II: Halls of the Dead]]'', was released in 1997.
+
+==Gameplay==
+{{Unreferenced section|date=November 2019}}
+[[Image:FaeryTaleAmigaScreenshot.png|thumb|left|Amiga screenshot]]
+
+The gameplay resembles that of ''[[Ultima VII]]'' (1992).{{Original research inline|date=November 2019}} It had the largest game world at the time of release, with over 17,000 screens.
+
+Each playable character has his strengths and weaknesses. Julian is a brave fighter, Phillip has luck and cleverness, and Kevin is gentle and kind. Each of these attributes affects vital game stats and the success of the quest:
+*A high Bravery score contributes to Vitality ("Vit"), the character's health. It can be increased by slaying enemies.
+*Luck determines the number of times that a brother can be brought back from death if he is killed during the quest. If Luck runs out, the next brother must take up the quest.
+*Kindness is important for certain key chapters in the game. It can be increased by acts of kindness, such as giving alms to beggars.
+
+The technique used to store such a huge world involved creating small-sized maps out of small blocks. Those small maps were reused and fit together seamlessly to form larger areas. Loading is asynchronous, and happens when nearing the boundary of an area, without affecting the scrolling, animation, and music.
+
+==Plot==
+The game is based around the quest of three brothers to retrieve the talisman stolen by the forces of evil and return it to their home village, Tambry, in the country of Holm. The player begins as Julian, the eldest of the three brothers; if unsuccessful with this character, the player then takes control of Philip, the next oldest, then finally the youngest of the three, Kevin. In addition to recovering the talisman, which is kept by an evil [[necromancer]], the player must complete a number of other tasks which ultimately prove vital to the quest - save the king's daughter, gain the aid of a sea turtle, and kill an evil witch in her castle - and gather a number of artefacts which enable access to the strange dimension in which the necromancer resides.<ref>{{cite web|url=https://archive.org/stream/vgmuseum_questbusters_qbustersV4/qbustersV4#page/n13/mode/1up/|title=MOCAGH.ORG: Questbusters: qbustersV4|website=Archive.org|accessdate=8 June 2016}}</ref><ref>{{cite web|url=https://archive.org/stream/commodore-user-magazine-57/Commodore_User_Issue_57_1988_Jun#page/n70/mode/1up/|title=Commodore User Magazine Issue 57|website=Archive.org|date=June 1988|accessdate=8 June 2016}}</ref><ref>{{cite web|url=http://www.gamewinners.com/Cheats/index.php/The_Faery_Tale_Adventure_(PC)|title=The Faery Tale Adventure (PC) cheat codes, hints, and help|website=Gamewinners.com|accessdate=8 June 2016|archive-date=17 August 2016|archive-url=https://web.archive.org/web/20160817094035/http://www.gamewinners.com/Cheats/index.php/The_Faery_Tale_Adventure_(PC)|url-status=dead}}</ref>
+
+==Development==
+David Joiner designed ''The Faery Tale Adventure'' and was also responsible for the audio of ''[[Defender of the Crown|Defender of the Crown II]]'' (1993), engineering for ''[[SimCity 4: Rush Hour]]'' (2003), and contributions{{Vague|date=November 2019}} to ''[[The Sims 2|The Sims 2: Ultimate Collection]]''.<ref>{{cite web|url=http://www.mobygames.com/developer/sheet/view/developerId,36822/|work=MobyGames|title=David Joiner}}</ref>
+
+This game was first released on the [[Amiga]] and then [[porting|ported]] to other systems. Eventually it was released for the [[Commodore 64]] and [[MS-DOS]], although the graphics for these ports were of substantially lower quality due to hardware limitations. The Amiga version displays two screens as seen in the screenshot, one "lowres" 320 and one "hires" 640 pixels wide, allowing 64 + 16 colors.
+
+In 1988, a port was developed for the [[Macintosh]] with 256 color graphics (more colors than the original Amiga version of the game). The only color Macintosh model at the time was the [[Macintosh II]], which was prohibitively expensive for a successful gaming platform. The Macintosh port was never released, but a working beta was completed<ref>[https://www.youtube.com/watch?v=zvTwFImIYX4 Macintosh screen capture of The Faery Tale Adventure]</ref> before the development was cancelled. Eventually [[New World Computing]] acquired MicroIllusions and in [[1991 in video gaming|1991]] ported the game to the [[Sega Genesis]] which was published by [[Electronic Arts]].
+
+==Reception==
+A review in ''[[Computer Gaming World]]'' described the game's user interface as natural and simple, while still being an impressive and playable game.<ref name="CGW">{{Cite magazine |url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=44 |title=The Faery Tale Adventure |last=Wagner |first=Roy |date=February 1988 |magazine=[[Computer Gaming World]] |pages=46–47, 50, 53 }}</ref> The magazine stated that the Sega Genesis version "subtly improved on the original", such as a better teleportation system, while maintaining virtues such as excellent graphics.<ref name="olafson199110">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=87 | title="Console"ing Your Imagination With the Might and Magic of a Faery Tale Adventure | magazine=Computer Gaming World | date=October 1991 | accessdate=18 November 2013 | last=Olafson |first=Peter | pages=68–70 |issue=87}}</ref> ''[[Dragon (magazine)|Dragon]]'' gave the computer game 4 1/2 out of 5 stars,<ref name="Dragon132">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk|journal=Dragon|issue=132|date=April 1988|pages=80–85}}</ref> and 4 out of 5 stars for the Genesis version.<ref name="Dragon175">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk|journal=Dragon|issue=175|date=November 1991|pages=57–66}}</ref> In 1996 ''Computer Gaming World'' ranked it as the 63rd best game of all time, calling it "Real time adventure at its Amiga best."<ref name="cgw199611best">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | accessdate=25 March 2016 | pages=64–80}}</ref>
+
+==Reviews==
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #44 (April 1988)<ref>{{Cite web|url=https://rpggeek.com/rpgissuearticle/139828/ludotique|title = Ludotique &#124; Article &#124; RPGGeek}}</ref>
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #47<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-47/page/66/mode/2up | title=Jeux & stratégie 47 | date=October 1987 }}</ref>
+
+==Legacy==
+The sequel, ''[[Faery Tale Adventure II: Halls of the Dead]]'', was developed by [[The Dreamers Guild]] and released by [[Encore, Inc.]] for [[MS-DOS]] and [[Windows]] in 1997. Its gameplay and graphics resemble ''[[Ultima VIII: Pagan]]''.{{citation needed|date=August 2017}} An Amiga port was under development, but it was cancelled upon the bankruptcy of publisher Hollyware Entertainment.{{citation needed|date=August 2017}}
+
+==References==
+;Notes
+{{notelist}}
+;Footnotes
+{{reflist}}
+
+==External links==
+*{{MobyGames|id=/faery-tale-adventure-book-i}}
+*{{abime|id=485}}
+
+{{DEFAULTSORT:Faery Tale Adventure, The}}
+[[Category:1987 video games]]
+[[Category:Action role-playing video games]]
+[[Category:Amiga games]]
+[[Category:Cancelled classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Electronic Arts games]]
+[[Category:Fantasy video games]]
+[[Category:MicroIllusions games]]
+[[Category:New World Computing games]]
+[[Category:Sculptured Software games]]
+[[Category:Sega Genesis games]]
+[[Category:Single-player video games]]
+[[Category:Video games about witchcraft]]
+[[Category:Video games developed in the United States]]

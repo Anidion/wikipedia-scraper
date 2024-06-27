@@ -1,0 +1,62 @@
+Pilgrim (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Pilgrim_%28video_game%29&oldid=1229892701
+Accessed on: 2024-06-26T17:00:42.416159
+
+
+
+------
+Pilgrim (video game)
+{{Infobox video game
+|title = Pilgrim
+|image = Pilgrim_Cover_art.jpg
+|image_size = 250px
+|caption = Cover art
+|developer = [[CRL Group PLC|CRL]]
+|publisher = CRL
+|designer = Rod Pike
+|programmer =
+|artist =
+|writer =
+|composer =
+|engine = [[The Quill (software)|The Quill]]
+|released = [[1986 in video gaming|1986]]
+|genre = [[Interactive fiction|Text adventure]]
+|modes = [[Single-player]]
+|platforms = [[Commodore 64]]
+}}
+'''''Pilgrim''''' is a [[Interactive fiction|text adventure]] game by [[CRL Group PLC|CRL]] that runs on the [[Commodore 64]] computer.
+
+==Plot==
+After facing a massacre at the wrath of the Silvian army, the player character goes on quest around the land of Meridan to revive the Guardian in order to save the land from the Silvian's carnage.
+
+==Gameplay==
+Most of the text in the screen describe the current whereabouts and situation of the player. The player needs to type in a set of text commands to interact with the location and progress with the quest.
+
+==Reception==
+{{Video game reviews
+ | CVG = 7.6/10<ref name="Pilgrim-C&VG">{{cite magazine |title=Computer and Video Games - Pilgrim |url=https://archive.org/stream/computer-video-games-magazine-056/CVG056_Jun_1986#page/n90 |magazine=Computer and Video Games |issue=56 |page=91 |date=June 1986}}</ref>
+ | rev1 = ''[[Your Computer (British magazine)|Your Computer]]''
+ | rev1Score = {{rating|5|5}}<ref name="Pilgrim-YC">{{cite magazine |title=Your Computer - Pilgrim |url=https://archive.org/stream/your-computer-magazine-1986-06/YourComputer_1986_06#page/n31 |magazine=Your Computer |page=32 |date=June 1986}}</ref>
+ | rev2 = ''[[Computer Gamer]]''
+ | rev2Score = {{rating|4|5}}<ref name="Pilgrim-ComGamer">{{cite magazine |title=Computer Gamer - Pilgrim |url=https://archive.org/stream/Computer_Gamer_Issue_15_1986-06_Argus_Press_GB#page/n39 |magazine=Computer Gamer |issue=15 |page=40 |date=June 1986}}</ref>
+ | rev3 = ''[[Zzap!64]]''
+ | rev3Score = 58%<ref name="Pilgrim-Zzap">{{cite magazine |title=Zzap!64 - Pilgrim |url=https://archive.org/stream/zzap64-magazine-014/ZZap_64_Issue_014_1986_Jun#page/n75 |magazine=[[Zzap!64]] |issue=14 |page=76 |date=June 1986}}</ref>
+}}
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #41<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-41/page/54/mode/2up | title=Jeux & stratégie 41 | date=October 1986 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{lemon64 game|id=1929|name=Pilgrim}}
+
+[[Category:1986 video games]]
+[[Category:Adventure games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Video games developed in the United Kingdom]]
+
+
+{{adventure-videogame-stub}}

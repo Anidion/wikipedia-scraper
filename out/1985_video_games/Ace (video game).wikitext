@@ -1,0 +1,151 @@
+Ace (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Ace_%28video_game%29&oldid=1190089845
+Accessed on: 2024-06-26T16:57:58.580010
+
+
+
+------
+Ace (video game)
+{{Short description|1985 video game}}
+{{good article}}
+{{Infobox video game
+|title = Ace
+|image = Ace ZX Spectrum cover art.png
+|alt = ''Ace'' box cover art for ZX Spectrum version
+|caption = ZX Spectrum box cover
+|developer = Cascade Games
+|publisher = {{Video game release|UK|Cascade Games}}{{Video game release|NA|UXB}}
+|programmer = Ian Martin
+|artist = Damon Redmond
+|released = {{Video game release|UK|1985}}{{Video game release|NA|1986}}
+|platforms = [[Commodore 16]], [[Commodore Plus/4|Plus/4]], [[VIC-20]], [[Commodore 64]], [[ZX Spectrum]], [[Amstrad CPC]], [[Amstrad PCW]], [[Amiga]]
+|genre = [[Combat flight simulator]]
+|modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Ace''''' (stylized as '''''ACE''''' as acronym for '''''Air Combat Emulator''''') is a [[combat flight simulator]] video game published for the [[Commodore 64]], [[VIC-20]], and [[Commodore Plus/4|Plus/4]] in 1985 by Cascade Games. It was ported to the [[Amstrad CPC]], [[Amstrad PCW]], [[Amiga]], and [[ZX Spectrum]].
+
+The player takes the role of a fighter jet pilot defending the English coastland against an enemy invasion, having to fight off aerial, ground and naval forces while [[Allies of World War II|Allied]] bases evacuate. The display shows the plane's instrumentation and cockpit view.
+
+The game was well-received and, despite various issues, it was lauded by critics as one of the best air combat simulators of the time and particularly praised for its accessible gameplay. The game was developed with a budget of £40k by the small UK-based Cascade Games, who later produced two sequels to the game.
+
+== Plot ==
+The game is set on the Southern coastland of England during an enemy invasion against the remaining [[Allies of World War II|Allied]] forces.<ref name="ZXC"/><ref name="Crash"/> The player takes the role of a fighter plane pilot, who must defeat the invasion.<!--ZXC--> To accomplish this, the player pilots one of the three available Mark 2.1 AWAT (All-Weather All-Terrain) combat aircraft and is charged with defending the last three Allied airbases being evacuated in front of the enemy's advance.<!--ZXC--> Despite being the lone defender and greatly outnumbered, they must fight enemy forces on all fronts: aerial, ground and naval.<ref name="ZXC"/> The player progresses through the game engaging different contingents of the invaders.<ref name="YC"/> Initially, they must intercept enemy fighter planes, helicopters and landing ground forces, including tanks, land bases and [[Surface-to-air missile|SAM]] sites.<ref name="ZXC"/> Once the enemy is sufficiently driven back, the player can engage the naval fleet.<ref name="YC"/>
+
+== Gameplay ==
+[[File:Ace (Air Combat Emulator) Commodore 64 gameplay screenshot.png|thumb|left|The player performing aerial refueling using boom and receptacle system (C64).]]
+
+At the start of the game, the player is presented with a range of options that determine the experience.<ref name="Crash"/> The game offers nine selectable levels of difficulty, including a tutorial difficulty in which the enemy forces do not fire back.<ref name="Crash"/> Among the options, the player can choose to play either in summer or winter time and either daytime or nighttime, altering the scenery.<!--ZXC--> The player must choose from the range of weapons that will be mounted on their AWAT plane.<ref name="ZXC"/> These include air-to-air, air-to-ground, air-to-sea and multipurpose missiles, depending on what enemies the player chooses to engage.<ref name="ZXC"/><ref name="Z!64"/> In addition, the plane is equipped with a machine gun and decoy flares against hostile missiles.<ref name="Z!64"/>
+
+The in-game screen shows the cockpit view split between top half for plane's front view and bottom half for plane's instrumentation.<ref name="YC"/> The control panel shows the plane's crucial data, including speed, altitude, thrust, fuel, roll/pitch indicators and a compass.<ref name="Z!64"/> The panel also features a radar that provided an overview of important nearby objects.<ref name="Crash"/> An onboard screen displays various flight information and warning messages, and features a speech synthesizer that occasionally announces dangers, such as approaching enemies or missile attacks.<ref name="Z!64"/> Finally, a small rear-view camera allows the player to observe enemies and missiles on their tail.<!--Z!64--> The game also features a two player mode, where one player flies the plane and the other aims and fires the guns.<ref name="Z!64"/>
+
+At the start of the game, the player has to take off the runway at an Allied base.<ref name="Z!64"/> Afterwards they can fly around and look for enemies to engage. The player can open their Satellite Intelligence Map, which shows a live map of the immediate coastline with items of interest, such as, friendly bases, enemy positions, and refuelling locations.<!--ZXC--> The player can perform various flight manoeuvres and stunts mid-air, such are loops, rolls, or dummy stalls.<ref name="ZXC"/> Flying, especially at high altitudes, spends the plane's fuel and the player must either return to their base or perform an [[aerial refueling]].<!--Z!64--> To refuel mid-air, the player has to rendezvous with a refuelling plane at the specified coordinates and perform a probe and drogue refuelling manoeuvre.<ref name="Z!64"/>
+
+The game ends in defeat if the player crashes, runs out of fuel, or is shot down by taking too much damage.<ref name="CG1"/> The player can also eject, but can only do so safely over Allied territory.<ref name="Z!64"/> The player is victorious if they defeat all enemy forces. During the game, points are awarded and displayed in the control panel for destroyed enemies and on game end tallied up in a high score table.<ref name="CU27"/><!--displayed-->
+
+== Development and release ==
+The game was developed by Cascade Games founded in 1983 by Guy Wilhelmy and Nigel Stevens.<!--RG--> Wilhelmy had a pilot's license and had experience with aircraft control and responsiveness, while Stevens' father had been in British [[Royal Air Force]].<!--RG--> Wilhelmy explained that he wanted to create a fast-paced flying game with responsive graphics that other games of the time struggled with.<ref name="RG"/> Cascade hired programmer Ian Martin and graphics designer Damon Redmond to work on the project in 1985.<!--RG,lemon1--> The first version known as ''A.C.E.: Air Combat Emulator'' was released in 1985 for the [[Commodore 16]] and [[VIC-20]] home computers.<ref name="RG"/><ref name="lemon1"/> Martin describes that an advertisement erroneously promising a [[Commodore Plus/4|Plus/4]] version forced them to develop it under threat of action by [[Advertising Standards Authority (United Kingdom)|Advertising Standards Agency]].<ref name="lemon1"/>
+
+Martin recalls that afterwards the team had creative freedom to pursue different ideas for the planned [[Commodore 64]] version, and after several months of development and a small delay, the C64 version called simply ''ACE'' was released in September 1985.<ref name="lemon1"/> ZX Spectrum version followed the next year.<ref name="SUser53"/> An [[Amstrad CPC]] version was announced and Cascade Games promised a quick delivery with "speed and smoothness exceeding previous simulators".<ref name="AA17"/> Having sold over half a million copies on 8-bit machines, the game's port was announced for [[Amiga]].<ref name="AA1"/> ComTec was tasked with porting the game to [[Amstrad PCW]] and [[Amiga]] (for [[AmigaDOS]]). The game was marketed to America,<!--CVG58--> and the C64 and Amiga versions were released and published in US by UXB in 1986.<ref name="CVG58"/><!--UXB publisher-->
+
+Before the release of ''Ace'', Cascade Games was infamous for their ''Cassette 50'' (1983) game compilation that featured simplistic and subpar games.<ref name="RG"/><ref name="YC72"/> Stevens points out that without the income from the compilation, the project would not have been possible.<!--RG--> The developers estimate the production cost of ''Ace'' at £40k.<ref name="RG"/> Following the release of ''Ace'', Cascade moved into mainstream [[AAA (video game industry)|AAA game development]].<ref name="RG"/><!--That Ace is AAA--><ref name="Crash36"/> Wilhelmy says that Cascade boasted over a million GBP in turnover over the following years.<ref name="RG"/> The company produced two sequels, ''[[Ace 2 (video game)|Ace 2]]'' (1987) and ''ACE 2088'' (1989), and various other games before closing down in 1990.<ref name="RG"/><ref name="lemon1"/>
+
+== Reception ==
+{{video game reviews
+|title = Main release (C64 and ZX) scores
+|CVG = 8.5/10
+|Z64 = 90%
+|CRASH = 81%
+|SUser = {{rating|5|5}}
+|YSinclair = 8/10
+|rev1 = ''[[Computer Gamer]]'' |rev1Score = 4/5
+}}
+
+The first version for C16 and Plus/4 received positive reviews. ''Commodore Horizons'' awarded 8 stars to gameplay, describing it is "as good as anything" within the C16's limitations.<ref name="CHor"/> ''[[Commodore User]]'' noted the C16 version for fast, but involved action.<ref name="CU20"/> Their review of Plus/4 described it similarly, and called it one of the best dedicated Plus/4 games, only giving sound a lower score.<ref name="CU31"/> ''[[Computer Gamer]]'' gave both the C16 and Plus/4 version 5 out of 5 stars and described ''Ace'' as easy to use and understand.<ref name="CG1"/> They later noted that Plus/4 version was the best yet among the available platforms.<ref name="CG13"/> ''[[Your Commodore]]'' criticized the Plus/4 version for poor innovation, but scored it highly on gameplay and graphics, describing them as "realistic".<ref name="YC20"/>
+
+The expanded C64 and [[ZX Spectrum]] versions received the highest critic attention and praise on release. ''[[Zzap!64]]'' rated ''Ace'' 90% and described it as the most exciting flight simulator on C64 to date. They noted good instruction, many available options, and easy controls.<ref name="Z!64"/> ''[[Computer and Video Games]]'' rated C64 version very positively, awarding gameplay 9/10 points calling it the new title for the best of flight simulators. They described it as very well presented with a clear layout.<ref name="CVG"/> ''[[Commodore User]]'' lauded ''Ace''<!--C64--> for having found the right balance between simulation and action.<ref name="CU27"/> ''[[Crash (magazine)|Crash]]'' rated it<!--ZXS--> 81%, criticizing quite sound and calling out the graphics and overall quality as average for the genre.<ref name="Crash"/> ''[[Sinclair User]]'' awarded the game<!--ZXS--> 5/5 stars and praised the game's intentionally accessible gameplay as the high point. They felt the environment graphics were not great, while important objects and effects stood out well.<ref name="SUser54"/> ''[[Your Sinclair]]'' gave the game<!--ZXS--> 8/10 noting it as unrealistic for a simulator, however easy to get into and addictive.<ref name="YSin"/> ''[[Your Computer (British magazine)|Your Computer]]'' gave ''Ace''<!--ZXS--> 4/5 points calling it a simulation that would appeal to arcade players, but they gave the sound 1/5 points.<ref name="YC"/> ''ZX Computing'' review labeled it<!--ZXS--> a "monster hit" and called it a quality flying experience praising good sound, excellent graphics with use of horizon line, and well-defined objects.<ref name="ZXC"/>
+
+Several reviewers regarded ''Ace'' as one of the best available flight simulators of the time.<ref name="Z!64"/><ref name="CU31"/><ref name="CG13"/><ref name="CVG"/><ref name="CU41"/><!--Awarded Best Flight Sim of 1986--> Overall, the critics agreed that the game's arcade-like gameplay was easy to get into and play,<ref name="YC"/><ref name="Z!64"/><ref name="CG1"/><ref name="SUser54"/> but ultimately difficult to master<ref name="CU20"/><ref name="YSin"/> and challenging to finish.<ref name="ZXC"/><ref name="YSin"/> Reviewers also negatively remarked upon the inclusion of [[Lenslok]] copy protection system where the game would display a garbled image and the player would need to use the provided colored lens to view the two-letter code. ''ZX Computing'' and ''[[Computer Gamer]]'' reviewers had trouble getting it to work and pass.<ref name="ZXC"/><ref name="YC"/> ''[[Retro Gamer]]'' called it "notorious Lenslok" in retrospect.<ref name="RG"/>
+
+''[[Computer Gamer]]'' gave the Amstrad version 85%, praising the gameplay and graphics. They noted that it was an approachable flight simulator that can be played without reading the manual.<ref name="CG25"/> ''[[Amstrad Action]]'' rated this version at 54% calling it challenging, but lacking in action. They described environmental detail and fighting as the high points, but criticized sound as poor and graphics as slow.<ref name="AmA18"/>
+
+The game was later sold at bargain prices, bundled with ''Ace 2'' and received several retrospect reviews. ''[[Commodore User]]'' rated the C64 bargain game 8/10 comparing it more to aerial combat simulator than just a flight simulator. They noted plenty of gameplay and some simulation to keep the player occupied.<ref name="CU"/> ''[[Computer and Video Games]]'' awarded the game 90% for C64 and 87% for the Spectrum version praising the game and describing it as "essential purchase".<ref name="CVG108"/> ''[[Zzap!64]]'' gave ''Ace'' 67% and felt that, while the original reviewer's opinions held true, the game did not stand up to time, with graphics being tacky and sparse and having programming issues.<ref name="Z6470"/> ''[[Commodore Force]]'' later gave the game 57% and noted that, although receiving praise during release, its lacking gameplay did not age well.<ref name="CF10"/> On the other hand, ''[[Commodore Format]]'' gave the game 3/4 points and lauded the game even by 1991's standards. While they noted simple start, they also noted good graphics, fast-paced gameplay with superb dogfights and basic simulation.<ref name="CFrm"/> ''[[Commodore Format]]'' rated the ''Ace'' and ''Ace 2'' bundle at 89% calling it an "indisputable bargain". They praised the fast and uncluttered gameplay with simple objectives, while remarked that the graphics were not the best.<ref name="CFrm2"/> ''[[Your Commodore]]'' rated the bundle 87/100 describing the bundle as closer to arcade games rather than flight simulators, concluding that they were good games "with a few bugs".<ref name="YC72"/>
+
+== References ==
+{{reflist|40em|refs=
+<ref name="RG">{{cite magazine |title=From the Archives – Cascade Games |issue=109 |pages=42–47 |date=November 2012 |magazine=[[Retro Gamer]] |publisher=[[Imagine Publishing]]}}</ref>
+
+<ref name="lemon1">{{Cite web |url=http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/reviews/view.php%3Fid%3D799 |title=ACE: Air Combat Emulator |first=Ian |last=Martin |date=2 January 2008 |website=Lemon 64 |access-date=2016-01-25}}<!--Only Martin's general mentions are used, not "review"--></ref>
+
+<ref name="SUser53">{{cite magazine |title=Software Preview – It's an Ace |first=Clare |last=Edgeley |issue=53 |page=98 |date=August 1986 |magazine=[[Sinclair User]] |publisher=[[Emap]] |url=https://archive.org/stream/sinclair-user-magazine-053/SinclairUser_053_Aug_1986#page/n97/mode/1up |access-date=2016-01-21}}</ref>
+
+<ref name="AA17">{{cite magazine |title=Amscene – Flying High |issue=17 |page=16 |date=February 1987 |magazine=[[Amstrad Action]] |publisher=[[Future plc]] |url=https://archive.org/stream/amstrad-action-017/Amstrad_Action_017#page/n15/mode/1up |access-date=2016-02-05}}</ref>
+
+<ref name="AA1">{{cite magazine |title=Snippets |issue=1 |page=8 |date=October 1989 |magazine=[[Amiga Action]] |publisher=Gollner Publishing |url=http://amr.abime.net/issue_74_pages |access-date=2016-02-05}}</ref>
+
+<ref name="CVG58">{{cite magazine |title=News – ACE |issue=58 |page=38 |date=August 1986 |magazine=[[Computer and Video Games]] |publisher=[[Emap]] |url=https://archive.org/stream/computer-and-videogames-058/ComputerAndVideoGames_058_Aug_1986#page/n37/mode/1up |access-date=2016-02-05}}</ref>
+
+<ref name="Crash36">{{cite magazine |title=Lloyd Mangram's Lookback at 1986 |issue=36 |page=57 |date=January 1987 |magazine=[[Crash (magazine)|Crash]] |publisher=[[Newsfield]] |url=https://archive.org/stream/crash-magazine-36/Crash_36_Jan_1987#page/n57/mode/1up |access-date=2016-01-20}}</ref>
+
+<ref name="CHor">{{cite magazine |title=High Flyer |issue=17 |page=13 |date=May 1985 |magazine=Commodore Horizons |publisher=Scot Press |url=https://archive.org/stream/commodore-horizons-17/Commodore_Horizons_Issue_17_1985_May#page/n12/mode/1up |access-date=2016-02-05}}</ref>
+
+<ref name="CU20">{{cite magazine |title=Screen Scene – Ace |issue=20 |page=46 |date=May 1985 |magazine=[[Commodore User]] |publisher=[[Emap]] |url=https://archive.org/stream/commodore-user-magazine-20/Commodore_User_Issue_20_1985_May#page/n45/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="CU31">{{cite magazine |title=Screen Space – Screen Star ACE |issue=31 |page=44 |first=Ferdy |last=Hamilton |date=April 1986 |magazine=[[Commodore User]] |publisher=[[Emap]] |url=https://archive.org/stream/commodore-user-magazine-31/Commodore_User_Issue_31_1986_Apr#page/n43/mode/1up |access-date=2016-01-22}}</ref>
+
+<ref name="CG1">{{cite magazine |title=Software Reviews – ACE |issue=1 |page=46 |date=April 1985 |magazine=Computer Gamer |publisher=Argus Specialist Publications |url=https://archive.org/stream/Computer_Gamer_Issue_01_1985-04_Argus_Press_GB#page/n45/mode/1up |access-date=2016-02-05}}</ref>
+
+<ref name="CG13">{{cite magazine |title=Reviews – ACE |issue=13 |page=66 |date=April 1986 |magazine=[[Computer Gamer]] |publisher=[[Argus Specialist Publications]] |url=https://archive.org/stream/Computer_Gamer_Issue_13_1986-04_Argus_Press_GB#page/n65/mode/1up |access-date=2016-01-25}}</ref>
+
+<ref name="YC20">{{cite magazine |title=Action Replay – Ace |issue=20 |page=47 |date=May 1986 |first=Stuart |last=Cooke |magazine=[[Your Commodore]] |publisher=[[Emap]] |url=https://archive.org/stream/20-your-commodore-magazine/Your_Commodore_Issue_20_1986_May#page/n46/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="Z!64">{{cite magazine |title=ACE |issue=8 |pages=26–27 |date=December 1985 |first=Gary |last=Liddon |magazine=[[Zzap!64]] |publisher=[[Newsfield]] |url=https://archive.org/stream/zzap64-magazine-008/ZZap_64_Issue_008_1985_Dec#page/n25/mode/1up |access-date=2016-01-22}}</ref>
+
+<ref name="CVG">{{cite magazine |title=Software Reviews – ACE |issue=52 |page=31 |date=February 1986 |magazine=[[Computer and Video Games]] |publisher=[[Emap]] |url=https://archive.org/stream/computer-video-games-magazine-052/CVG052_Feb_1986#page/n30/mode/1up |access-date=2016-01-25}}</ref>
+
+<ref name="CU27">{{cite magazine |title=Screen Scene – A.C.E. |issue=27 |page=44 |date=December 1985 |magazine=[[Commodore User]] |publisher=[[Emap]] |url=https://archive.org/stream/commodore-user-magazine-27/Commodore_User_Issue_27_1985_Dec#page/n43/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="Crash">{{cite magazine |title=Reviews – ACE |issue=32 |page=13 |first=Paul |last=Laidlaw |date=May 1985 |magazine=[[Crash (magazine)|Crash]] |publisher=[[Newsfield]] |url=https://archive.org/stream/crash-magazine-32/Crash_32_Sep_1986#page/n12/mode/1up |access-date=2016-01-21}}</ref>
+
+<ref name="SUser54">{{cite magazine |title=Strategy Simulation Review – ACE |issue=54 |page=59 |first=Graham |last=Taylor |date=September 1986 |magazine=[[Sinclair User]] |publisher=[[Emap]] |url=https://archive.org/stream/sinclair-user-magazine-054/SinclairUser_054_Sep_1986#page/n58/mode/1up |access-date=2016-01-21}}</ref>
+
+<ref name="YSin">{{cite magazine |title=ACE |issue=10 |page=78 |date=October 1986 |magazine=[[Your Sinclair]] |publisher=[[Sportscene Specialist Press]] |url=https://archive.org/stream/your-sinclair-10/YourSinclair_10_Oct_1986#page/n79/mode/1up |access-date=2016-01-21}}</ref>
+
+<ref name="YC">{{cite magazine |title=Software Shortlist – ACE |volume=6 |issue=9 |page=46 |first=Francis |last=Jago |date=September 1986 |magazine=[[Your Computer (British magazine)|Your Computer]] |publisher=Riverside Press |url=https://archive.org/stream/your-computer-magazine-1986-09/YourComputer_1986_09#page/n44/mode/1up |access-date=2016-01-25}}</ref>
+
+<ref name="ZXC">{{cite magazine |title=Spectrum Game Review – ACE |first=George |last=Duvall |issue=32 |pages=38–39 |date=September 1986 |magazine=ZX Computing |publisher=[[Argus Specialist Publications]] |url=https://archive.org/stream/ZX-computing-1986-09/ZXComputing_Sep_1986#page/n37/mode/1up |access-date=2016-01-25}}</ref>
+
+<ref name="CG25">{{cite magazine |title=Cheap Thrills – ACE |issue=25 |page=60 |author=TH |date=April 1987 |magazine=[[Computer Gamer]] |publisher=Argus Specialist Publications |url=https://archive.org/stream/Computer_Gamer_Issue_25_1987-04_Argus_Press_GB#page/n59/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="AmA18">{{cite magazine |title=Action test – ACE |issue=18 |page=46 |date=March 1987 |magazine=[[Amstrad Action]] |publisher=[[Future plc]] |url=https://archive.org/stream/amstrad-action-018/Amstrad_Action_018#page/n45/mode/1up |access-date=2016-01-22}}</ref>
+
+<ref name="CU">{{cite magazine |title=Cheapo Round-Up – ACE |issue=57 |page=83 |date=June 1988 |magazine=[[Commodore User]] |publisher=[[Emap]] |url=https://archive.org/stream/commodore-user-magazine-57/Commodore_User_Issue_57_1988_Jun#page/n82/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="CVG108">{{cite magazine |title=Budget – ACE & ACE 2 |issue=108 |page=70 |date=November 1990 |magazine=[[Computer and Video Games]] |publisher=[[Emap]] |url=https://archive.org/stream/cvg-magazine-108/CVG_108_Nov_1990#page/n69/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="Z6470">{{cite magazine |title=Budget! – ACE/ACE 2 |issue=70 |page=64 |date=February 1991 |magazine=[[Zzap!64]] |publisher=[[Newsfield]] |url=https://archive.org/stream/zzap64-magazine-070/ZZap_64_Issue_070_1991_Feb#page/n63/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="CF10">{{cite magazine |title=Round-Up! – ACE |issue=4 |page=18 |date=April 1993 |magazine=[[Commodore Force]] |publisher=[[Argus Specialist Publications]] |url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=094&page=018&thumbstart=0&magazine=zzap <!--All pages http://amr.abime.net/issue_2600_pages--> |access-date=2016-02-05}}</ref>
+
+<ref name="CFrm">{{cite magazine |title=ACE |issue=10 |page=15 |date=July 1991 |magazine=[[Commodore Format]] |publisher=[[Future plc]] |url=https://archive.org/stream/commodore-format-magazine-10/Commodore_Format_Issue_10_1991_07#page/n14/mode/1up |access-date=2016-01-25}}</ref>
+
+<ref name="CFrm2">{{cite magazine |title=Roger Frames Buys Budjit Games – ACE & ACE II |issue=2 |page=32 |date=November 1990 |magazine=[[Commodore Format]] |publisher=[[Future plc]] |url=https://archive.org/stream/commodore-format-magazine-02/Commodore_Format_Issue_02_1990_11#page/n31/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="YC72">{{cite magazine |title=Bargain Bucket – ACE/ACE2 |issue=72 |page=37 |date=October 1990 |first=Rik |last=Henderson |magazine=[[Your Commodore|YC]] |publisher=Alphavite Publications |url=https://archive.org/stream/72-your-commodore-magazine/Your_Commodore_Issue_72_1990_Oct#page/n36/mode/1up |access-date=2016-01-19}}</ref>
+
+<ref name="CU41">{{cite magazine |title=Games of '86 |issue=41 |page=39 |date=February 1987 |magazine=[[Commodore User]] |publisher=[[Emap]] |url=https://archive.org/stream/commodore-user-magazine-41/Commodore_User_Issue_41_1987_Feb#page/n38/mode/1up |access-date=2016-02-04}}</ref>
+}}
+
+[[Category:1985 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:DOS games]]
+[[Category:Combat flight simulators]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Cascade Games games]]

@@ -1,0 +1,79 @@
+Bismarck (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bismarck_%28video_game%29&oldid=1224677710
+Accessed on: 2024-06-26T17:01:42.280758
+
+
+
+------
+Bismarck (video game)
+{{Short description|1987 video game}}
+{{Infobox video game
+|title = Bismarck 
+|image = Bismarck cover.jpg
+|caption = Atari ST cover art
+|developer = [[Personal Software Services]]
+|publisher = {{Video game release|UK|[[Mirrorsoft]]|US|[[Datasoft]]}}
+|series = ''Strategic Wargames''
+|designer = Alan Steel
+|released = {{vgrelease|UK|1987}}{{vgrelease|NA|1988}}
+|genre = [[Turn-based strategy]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Apple II series|Apple II]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Bismarck ''''' is a [[turn-based strategy]] video game developed by [[Personal Software Services]] and published by [[Mirrorsoft]]. It was first released for the [[Commodore 64]] and [[ZX Spectrum]] in 1987 for the United Kingdom. It was ported to [[Amiga]], [[Apple II series|Apple II]], [[Atari ST]], and [[Atari 8-bit computers]] in both the United Kingdom and the United States the following year. The game is the tenth instalment in the ''Strategic Wargames'' series. In the game, the player can choose to control either the German battleship [[German battleship Bismarck|''Bismarck'']] or command the pursuing fleet of [[Royal Navy]] ships.
+
+The game is set during the [[Last battle of the battleship Bismarck|Last battle of the battleship ''Bismarck'']] of [[World War II]] and revolves around the ''Bismarck'' attempting to escape a pursuing fleet of Royal Navy ships, who desire to avenge the deaths of 1,412 men in the sinking of the flagship and "pride of the Royal Navy", [[HMS Hood|HMS ''Hood'']]. The game received positive reviews upon release; critics praised the graphics and presentation, though one reviewer found difficulty with the controls.
+
+==Gameplay==
+[[File:Bismarck gameplay.png|thumb|left|250px|The [[German battleship Bismarck|''Bismarck'']] must evade the pursuing [[Royal Navy]] fleet by either heading to [[Iceland]] or Nazi [[occupied France]].]]
+The game is a [[turn-based strategy]] and takes place during the [[Last battle of the battleship Bismarck|Last battle of the battleship ''Bismarck'']] on 27 May 1941. The battle is a sequel to the [[Battle of the Denmark Strait]], in which the [[Kriegsmarine]] ships [[German battleship Bismarck|''Bismarck'']] and ''[[German cruiser Prinz Eugen|Prinz Eugen]]'' sank the [[Royal Navy]] flagship, [[HMS Hood|HMS ''Hood'']], resulting in the deaths of 1,412 men.<ref name=SU/> Incensed by the loss of the "pride of the Royal Navy", a large British force was dispatched in order to pursue and destroy the ''Bismarck'' and its support ship, the ''Prinz Eugen''.<ref name=CVG/>
+
+The player has the option to choose which side they wish to command at the beginning of the game. If the German side is picked, the objective of the game is to evade the Royal Navy fleet by either sailing to Iceland or heading to the safety of Nazi [[occupied France]]. The player will only have the ability to control the ''Bismarck'' itself, and must defend themselves against Royal Navy and [[Royal Air Force]] attacks if compromised.<ref name=crash/> If the British side is chosen, then the player must command the hunting Royal Navy fleet in order to [[search and destroy]] the ''Bismarck''.<ref name=SU/><ref name=crash/> To achieve both these ends, the player will be able to access an in-game command centre, which will give out alerts depending on the side chosen. If controlling the ''Bismarck'', the player will be reported of hostile British [[U-boat]] sightings. If controlling the Royal Navy fleet, they will be told of radio intercepts, which will pinpoint the ''Bismarck''{{'}}s approximate location.<ref name=crash/>
+
+[[File:Bismarck gameplay 2.png|thumb|right|250px|A diagrammatic representation is displayed once any ship comes into contact with the enemy.]]
+
+If the ''Bismarck'' has been intercepted or compromised by Royal Navy ships, the game will automatically shift to an arcade sequence which will give the player an opportunity to defend the ship against a British attack, or alternatively, if playing as the British, the sequence is utilised in order to destroy the ''Bismarck''.<ref name=SU/> The feature can be displayed at any time, though it is automatically enabled if either side comes into conflict.<ref name=crash/> The interface of the feature is split into three sections; the upper part of the screen shows a view of the ocean in front of the ship and any hostile ship in the vicinity. The middle section contains buttons and icons which are used to control ship movement and to fire weapons. The lower part of the screen displays a diagrammatic representation of the ship from the side chosen (''Bismarck'' or Royal Navy ships); the diagram will change colours once the ship receives damage from shelling.<ref name=crash/>
+
+Once a hostile ship is in range, the player will have the choice to either open fire or outmanoeuvre the enemy. The ''Bismarck'' is able to withstand 99 points of damage; internal fires may break out during battle and will risk destroying the ship if the fires are not contained quickly enough or if they reach fuel tanks.<ref name=crash/> If fires occur, the player is given the option to order fire-fighting crews to contain the blaze, although it will cause the ship to disengage from combat. The game proceeds in real time, and has the option to change speed from slow to fast at any time.<ref name=crash/>
+
+==Reception==
+{{Video game reviews
+| CRASH = 7/10<ref name=crash/>
+| rev1 = ''[[Your Sinclair]]''
+| rev1Score = 7/10<ref name=YS/>
+| rev2 = ''[[Sinclair User]]'' 
+| rev2Score = {{Rating|4|5}}<ref name=SU/>
+| CVG = 8/10<ref name=CVG/>
+| rev3 = ''[[Computer Gamer]]''
+| rev3Score = 84%<ref name=CG/>
+}}
+The game received positive reviews upon release. Peter Berlin of ''[[Your Sinclair]]'' praised the presentation of the game, stating that it was "good to look at" and well organised.<ref name=YS>{{cite web|last1=Berlin|first1=Peter|title=Bismarck review|url=http://www.ysrnry.co.uk/articles/bismarck.htm|publisher=Your Sinclair|access-date=4 December 2015|date=July 1987|archive-url=https://web.archive.org/web/20151208043149/http://www.ysrnry.co.uk/articles/bismarck.htm|archive-date=2015-12-08|url-status=dead}}</ref> Philippa Irving of ''[[Crash (magazine)|Crash]]'' asserted that the graphics and interface were "rather bland" but "pretty". Despite stating that the map of the game was "unexciting", Irving noted that it was offset by "pretty touches" and new graphical additions.<ref name=crash>{{cite journal|last1=Irving|first1=Philippa|title=Bismarck review (ZX Spectrum)|journal=Crash|date=June 1987|issue=41|pages=87, 88|url=http://www.zxspectrumreviews.co.uk/review.aspx?gid=655&rid=6859|access-date=4 December 2015|archive-url=https://web.archive.org/web/20151208161007/http://www.zxspectrumreviews.co.uk/review.aspx?gid=655&rid=6859|archive-date=8 December 2015|url-status=dead}}</ref> A reviewer of Computer and Video Games stated that the game was "historically good". Their only criticism was the unsuitability of using a joystick for the game, which they deemed "virtually unusable".<ref name=CVG>{{cite journal|title=Bismarck and Battle of Britain review|journal=Computer and Video Games|date=July 1987|issue=63|page=98|url=http://wos.meulie.net/pub/sinclair/magazines/C+VG/Issue070/Pages/CVG07000057.jpg|access-date=4 December 2015}}</ref> David Buckingham of ''[[Computer Gamer]]'' considered ''Bismarck'' the best game Personal Software Studios had released at the time, and added that the two genres of strategy and action work "very well".<ref name=CG>{{cite journal|last1=Buckingham|first1=David|title=Bismarck review|journal=Computer Gamer|date=June 1987|issue=27|page=40|url=http://wos.meulie.net/pub/sinclair/magazines/ComputerGamer/Issue27/Pages/ComputerGamer2700040.jpg|access-date=4 December 2015}}</ref>
+
+Gary Rook of ''[[Sinclair User]]'' heralded the gameplay as an "exciting" blend of strategy and arcade simulation.<ref name=SU>{{cite journal|last1=Rook|first1=Gary|title=Bismarck review|journal=Sinclair User|date=June 1987|issue=63|page=96|url=http://wos.meulie.net/pub/sinclair/magazines/SinclairUser/Issue063/Pages/SinclairUser06300098.jpg|access-date=4 December 2015}}</ref> Berlin suggested that ''Bismarck'' was a good introduction for players who were "bored" with the arcade genre and preferred "something a little bit tougher".<ref name=YS/> Irving praised the gameplay as smoothly-presented and "undemanding", stating that the type of game Personal Software Studios were creating was "successful". She also considered the rules of the game to be detailed in all important respects, well-presented and "helpful", albeit "not voluminous".<ref name=crash/> Regarding the arcade aspect of the game, Rook noted that the level of action in it was sufficient, but was sceptical that it was a "true" wargame.<ref name=SU/>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #52<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-52/page/84/mode/2up | title=Jeux & stratégie 52 | date=August 1988 }}</ref>
+
+==References==
+{{Reflist|2}}
+{{Good article}}
+
+{{Personal Software Services}}
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Datasoft games]]
+[[Category:Naval video games]]
+[[Category:Single-player video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:World War II video games]]
+[[Category:ZX Spectrum games]]
+[[Category:Personal Software Services games]]
+[[Category:German battleship Bismarck]]
+[[Category:Mirrorsoft games]]

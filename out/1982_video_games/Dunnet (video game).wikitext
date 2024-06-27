@@ -1,0 +1,57 @@
+Dunnet (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dunnet_%28video_game%29&oldid=1215465108
+Accessed on: 2024-06-26T16:53:19.516595
+
+
+
+------
+Dunnet (video game)
+{{short description|1982 video game}}
+{{distinguish|Dustnet}}
+{{Infobox video game
+| title     = Dunnet
+| image     = Dunnet start.png
+| alt = Screenshot of a computer terminal. Command: emacs -batch -l dunnet. Output: [loading messages]
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>
+| caption   = The first scene of ''Dunnet''
+| developer = [[Ron Schnell]]
+| publisher = 
+| platforms = 
+| released = 1982
+| genre = [[Text adventure]]
+}}
+
+'''''Dunnet''''' is a [[surrealism|surreal]], [[cyberpunk]]<ref>{{cite web|url=http://www.cultofmac.com/223455/there-is-a-surreal-cyberpunk-adventure-game-built-into-os-x-that-you-never-knew-about/|title=There Is A Surreal Cyberpunk Adventure Game Built Into OS X That You Never Knew About|date=15 April 2013 }}</ref> [[Text adventure games|text adventure]] written by [[Ron Schnell]], based on a game he wrote in 1982.<ref>{{cite web|url=https://github.com/Quogic/DunnetPredecessor/|title=Original 1982 Dunnet predecessor found in MIT archives|website=[[GitHub]]|date=8 April 2021}}</ref>  The name is derived from the first three letters of ''dungeon'' and the last three letters of ''[[ARPANET]]''.{{Citation needed|date=March 2017}} It was first written in [[Maclisp]] for the [[DECSYSTEM-20]], then [[porting|ported]] to [[Emacs Lisp]] in 1992.<ref>{{cite web |url=https://groups.google.com/forum/#!search/dunnet$20$20schnell/gnu.emacs.sources/8IkHKl5O2Xo/UhlGf9Y78UwJ |title=dunnet - text adventure for e-lisp |author=Ron Schnell |author-link=Ron Schnell |date=1992-07-28 }}</ref> Since 1994 the game has shipped with [[GNU Emacs]];<ref name=wpNoteworthyWpRs001_A>{{cite book |url=https://books.google.com/books?id=J3UZAQAAIAAJ&q=dunnet+ |title=GNU Emacs Manual |date=1994 |page=314 |author=Richard M. Stallman |publisher=Free Software Foundation |isbn=9781882114047 |author-link=Richard M. Stallman |quote=<code>M-x dunnet</code> runs an adventure-style exploration game, which is a bigger sort of puzzle [compared to the other puzzle-games that ship with GNU Emacs].}}</ref> it also has been included with [[XEmacs]].<ref>{{cite web |url=http://www.xemacs.org/Architecting-XEmacs/xemacs-tour.html |title=A Tour of XEmacs |author=Ben Wing |author-link= |date= <!--undated but sometime before June 2000 --> |archive-url=https://web.archive.org/web/20000619161448/http://www.xemacs.org/Architecting-XEmacs/xemacs-tour.html <!-- note well, the archive-page will appear to be blank, you will have to 'view source' aka Ctrl+u in most browsers nowadays, to see the contents of the website as of June 2000 and verify dunnet is mentioned --> |archive-date=2000-06-19 |access-date=2015-07-27  |quote= Most of the actual editor functionality is written in Lisp and is essentially an extension that sits on top of the XEmacs core.  XEmacs can do very un-editorlike things; for example, try running XEmacs using the command <CODE>xemacs -batch -l dunnet</CODE>.}}</ref>
+
+The game has been recommended to writers considering writing [[interactive fiction]].<ref>{{cite web|url=http://www.getmewriting.com/interactive-fiction/intro-to-interactive-fiction/|title=Interactive Fiction – An introduction (updated)|url-status=dead|archive-url=https://web.archive.org/web/20150823022821/http://www.getmewriting.com/interactive-fiction/intro-to-interactive-fiction/|archive-date=2015-08-23}}</ref>
+
+==Plot==
+The game starts out with the player standing at the end of a dirt road, but it turns to the surreal when players realize that they are actually walking around inside a [[Unix]] system, and [[telnet|teleporting]] themselves around the [[Arpanet]]. There are many subtle jokes in this game, and there are multiple ways of ending the game. Throughout the game the player moves through different areas and rooms trying to collect treasure to earn points.
+
+==Legacy==
+Dunnet is playable on any operating system with the Emacs editor.<ref>{{cite web|url=http://ifdb.tads.org/viewgame?id=ig3zbeoqfv4v1xl8|title=Dunnet|quote=A text adventure that is built into almost every copy of the Emacs text editor.}}</ref> Emacs comes with most [[Unices]], including [[macOS]] (prior to  version 10.15 [[MacOS Catalina|Catalina]])<ref>{{Cite web|title=EmacsForMacOS|url=https://www.emacswiki.org/emacs/EmacsForMacOS#h5o-1|url-status=live|access-date=2021-04-16|website=EmacsWiki|archive-url=https://web.archive.org/web/20081022140441/http://www.emacswiki.org:80/emacs/EmacsForMacOS |archive-date=2008-10-22 }}</ref> and distributions of [[Linux]]. Several articles targeted to Mac OS X owners have recommended it as an [[easter egg]] as a game that can be run in [[Terminal.app]].<ref>{{cite web|url=http://www.macworld.com/article/1047210/oldschooladventure.html|title=Play an 'old-school' adventure game}}</ref><ref>{{cite web|url=http://lifehacker.com/5994581/discover-the-text-based-adventure-game-built-into-your-macs-terminal|title=Discover the Text-Based Adventure Game Built Into Your Mac's Terminal|date=14 April 2013 }}</ref> It can be run by running <code>emacs -batch -l dunnet</code> in a [[shell (computing)|shell]] or the key sequence <code>M-x dunnet</code> within Emacs, the former being the preferred and official way to run it.<ref>Dunnet help command: "NOTE: This game *should* be run in batch mode!"</ref> Dunnet was used as a [[benchmark (computing)|benchmark]] in the effort to port [[Emacs Lisp]] to [[GNU Guile|Guile]], progressing from running standalone games<ref>{{cite web|url=http://news.slashdot.org/story/12/04/02/197221/guile-scheme-emacs-lisp-compatibility-matures|title=Guile Scheme Emacs-Lisp Compatibility Matures|date=2 April 2012 }}</ref> to running the entire Emacs system in less than a person-year of work.<ref>{{cite web|url=https://lwn.net/Articles/615353/|title=Re: Emacs Lisp's future }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IFDB|id=ig3zbeoqfv4v1xl8|title=Dunnet}}
+* [http://git.savannah.gnu.org/cgit/emacs.git/tree/lisp/play/dunnet.el?h=emacs-25 Source code], of the eLisp port, [[GPLv3]] license
+
+{{EmacsNavbox}}
+
+[[Category:1982 video games]]
+[[Category:1980s interactive fiction]]
+[[Category:Emacs]]
+[[Category:Emacs modes]]
+[[Category:Linux games]]
+[[Category:MacOS games]]
+[[Category:Video games developed in the United States]]
+[[Category:Open-source video games]]
+[[Category:Video games with textual graphics]]

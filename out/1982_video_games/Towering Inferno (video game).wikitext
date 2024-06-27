@@ -1,0 +1,65 @@
+Towering Inferno (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Towering_Inferno_%28video_game%29&oldid=1224506213
+Accessed on: 2024-06-26T16:54:16.791765
+
+
+
+------
+Towering Inferno (video game)
+{{Infobox video game
+| title = Towering Inferno
+| image = Towering_Inferno_cover.jpg
+| image_size = 200px
+| developer = [[US Games]]
+| publisher = US Games
+| designer = Jeff Corsiglia<ref name="stilphen">{{cite web|last1=Stilphen|first1=Scott|title=DP Interviews Paul Allen Newell|url=http://www.digitpress.com/library/interviews/interview_paul_allen_newell.html|website=Digital Press}}</ref>
+| programmer = Paul Allen Newell<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+| release = {{vgrelease|NA|1982}}
+| genre = [[Action game|Action]]
+| platforms = [[Atari 2600]]
+}}
+
+'''''Towering Inferno''''' is an [[Atari 2600]] game designed by Jeff Corsiglia and programmed by Paul Allen Newell and released by [[US Games]] in 1982.<ref name="giantlist"/> The player controls a fireman going through a burning skyscraper to save victims and put out the fires. The game was produced under a licence obtained from [[20th Century Fox]] by [[Quaker Oats]], the parent company of US Games, for the video game rights [[The Towering Inferno|to the movie of the same name]].<ref name="Phoenix">{{cite book |last1=Herman |first1=Leonard |last2=Feinstein |first2=Keith |title=Phoenix: The Fall & Rise of Videogames |date=1997 |publisher=Rolenta Press |isbn=0964384825 |pages=76, 93 |url=https://books.google.com/books?id=duITAQAAIAAJ&q=%22US+Games%22|access-date=30 August 2019}}</ref>
+
+Newell also programmed the [[Vectrex]] port of ''[[Scramble (video game)|Scramble]]'',<ref name=stilphen/> and he co-designed (with Duncan Muirhead) and programmed the original maze algorithm that is the basis for the game ''[[Entombed (1982 video game)|Entombed]]'' for the 2600, programmed by Steve Sidley and designed by Tom Sloper.<ref>{{cite web|last1=Stilphen|first1=Scott|title=DP Interviews Paul Allen Newell|url=http://www.digitpress.com/library/interviews/interview_paul_allen_newell.html|website=Digital Press}} "When I left [Western Technologies], there was no "game" [Entombed], just the [maze] algorithm.  Steve Sidley was hired when I left and inherited what became Entombed, with Tom Sloper as game designer.  I have documentation of that in the form of framed games with plaques that WT had in the halls that were rescued when lots of stuff got thrown out (nobody could find the Scramble one).  I quickly versed Steve in 6502 and the nature of the maze algorithm and took my leave." --Paul Allen Newell</ref>
+
+==Gameplay==
+[[File:Towering_Inferno_Screenshot.png|thumb|left|250px|Gameplay screenshot]]
+
+On each floor of the building, the player must put out the flames and reach the panel that opens the doors to get back out. While doing so, there is a meter at the top showing how many people are on that floor. The longer it takes a player to open the doors and get out, the more the meter decreases. Points are scored for putting out flames and rescuing people. The game can be played by one or two players.<ref name="Weiss">{{cite book |last1=Weiss |first1=Brett |title=Classic Home Video Games, 1972-1984: A Complete Reference Guide |date=2011 |publisher=McFarland |isbn=978-0786487554 |page=125 |url=https://books.google.com/books?id=BzxTtml8Jq4C&q=%22Towering+Inferno%22+Atari&pg=PA125 |access-date=30 August 2019}}</ref>
+
+==Reception==
+''Towering Inferno'' was reviewed in ''[[Video (magazine)|Video]]'' magazine in its "Arcade Alley" column where it was described as "an above-average, enjoyable cartridge [that] is a refreshing change from shoot-shoot-shoot". Reviewers emphasized the non-violent nature of the game, noting that it "achieves a respectable level of excitement without having a shot fired in anger", however they also cautioned readers that the game "may be a little too patterned and repetitive for some".<ref name=kunkel>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= November 1982 |title= Arcade Alley: Beyond Science Fiction–A New Breed of Games |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 8|pages= 40, 110|issn= 0147-8907}}</ref>{{rp|40}} ''Videogaming Illustrated'' described the game as "fast-paced entertainment" and listed it as "highly recommended".<ref>{{cite journal |title=Towering Inferno |journal=Videogaming Illustrated |date=February 1983 |page=62 |url=https://archive.org/details/Videogaming_Illustrated_1983-02_Ion_International_US/page/n61 |access-date=2 September 2019}}</ref>
+
+Later reviewers were less forgiving of the graphics but praised the gameplay. In ''Classic Home Video Games, 1972-1984: A Complete Reference Guide'', Brett Weiss describes the graphics as "cheap looking" but describes the gameplay as "original and even compelling".<ref name="Weiss" />
+
+Paul Allen Newell, when asked in the 21st century what he would change if he could "redo" any of his games, said he could not think of anything he would want to change in ''Towering Inferno'', though he would want to rework other games.{{efn|such as to "do [Scramble] right" by making an 8 KB version instead of the 4 KB released version, and to completely rewrite Cube Quest, which was released in an unfinished and underdeveloped form}}<ref name="stilphen"/>
+
+==Reviews==
+*''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n53/mode/2up | title=GAMES Magazine #34 | date=December 1982 }}</ref>
+
+==See also==
+*''[[Fire Fighter (video game)|Fire Fighter]]'', another Atari 2600 fire fighting game from 1982
+
+==References==
+{{reflist}}
+
+==Notes==
+{{notelist}}
+
+==External links==
+*{{atarimania|id=7528}}
+*{{AtariAge software|id=565}}
+*[http://www.digitpress.com/library/interviews/interview_paul_allen_newell.html Documented source code and original instructions] for ''Towering Inferno'' for the Atari VCS, made available by Paul Allen Newell.  (Scroll to the bottom of the webpage to find two hyperlinks to text files, below a statement of limited terms of free use.)
+
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:North America-exclusive video games]]
+[[Category:Video games about firefighting]]
+[[Category:Video games based on films]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in 1974]]
+[[Category:Video games set in San Francisco]]
+[[Category:U.S. Games games]]

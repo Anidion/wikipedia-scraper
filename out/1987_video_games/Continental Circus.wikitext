@@ -1,0 +1,87 @@
+Continental Circus
+Permalink: //en.wikipedia.org/w/index.php?title=Continental_Circus&oldid=1230834004
+Accessed on: 2024-06-26T17:01:51.257977
+
+
+
+------
+Continental Circus
+{{Short description|1987 video game}}
+{{for|the album|Continental Circus (album)}}
+{{More citations needed|date=December 2012}}
+{{Infobox video game
+|title = Continental Circus
+|image = Continental Circus Commodore 64 Cover.jpg
+|caption = Commodore 64 Cover
+|developer = [[Taito]]
+|publisher = [[Taito]]
+|designer =
+|composer = [[Zuntata]]
+|platforms = [[Arcade game|Arcade]] (original)<br>[[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64|C64]], [[MSX]], [[ZX Spectrum]]
+|released = '''Arcade''' {{vgrelease|JP|[[1987 in video gaming|December 1, 1987]]<ref>{{cite web |title=Continental Circus (Registration Number PA0000410002) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=12 June 2021}}</ref>|NA|Late 1987<ref name="gf_arc">{{cite web|url=http://www.gamefaqs.com/arcade/566867-continental-circuit|title=Continental Circuit|work=gamefaqs.com|accessdate=18 May 2016}}</ref>|EU|[[1988 in video gaming|1988]]<ref>{{cite web|url=http://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=5654|title=The Arcade Flyer Archive|work=arcade-museum.com|accessdate=18 May 2016}}</ref>}} '''Amiga'''<ref>{{cite web|title=Release Information for Amiga|url=http://www.gamefaqs.com/amiga/645390-continental-circus/data}}</ref> {{vgrelease|EU|1989}} '''Amstrad CPC'''<ref>{{cite web|title=Release Information for Amstrad CPC|url=http://www.gamefaqs.com/cpc/940289-continental-circus/data}}</ref> {{vgrelease|EU|1989}} '''Commodore 64'''<ref>{{cite web|title=Release Information for Commodore 64|url=http://www.gamefaqs.com/c64/569460-continental-circus/data}}</ref> {{vgrelease|NA|1989|EU|1989}} '''MSX'''<ref>{{cite web|title=Release Information for MSX|url=http://www.gamefaqs.com/msx/936600-continental-circus/data}}</ref> {{vgrelease|EU|1989}} '''ZX Spectrum'''<ref>{{cite web|title=Release Information for Sinclair ZX Spectrum|url=http://www.gamefaqs.com/sinclair/991020-continental-circus/data}}</ref> {{vgrelease|EU|1989}} '''PS2, Xbox, PC'''<br />[[2005 in video gaming|2005]]
+|genre = [[Racing video game|Racing]] [[Sim racing|simulation]]
+|modes = [[Single-player]]
+|arcade system = [[Taito Z System]]<ref name="mame">{{cite web |url=https://github.com/mamedev/mame/blob/master/src/mame/drivers/taito_z.c |title=Taito Z System [twin 68K with optional Z80] |website=[[GitHub]] |accessdate=2015-01-12 |url-status=dead |archive-url=https://web.archive.org/web/20151105142238/https://github.com/mamedev/mame/blob/master/src/mame/drivers/taito_z.c |archive-date=2015-11-05}}</ref>
+}}
+
+'''''Continental Circus''''' is a [[Racing video game|racing]] [[Sim racing|simulation]] [[arcade game]]<ref name="cvg_arc"/> developed and published by [[Taito]] in [[1987 in video gaming|1987]]. In [[1989 in video gaming|1989]], ports for the [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[MSX]] and [[ZX Spectrum]] were published by [[Virgin Interactive|Virgin Games]].
+
+The arcade version of this game comes in both upright and sit-down models, both of which feature [[Alternate-frame sequencing|shutter-type 3D glasses]] hanging above the player's head. According to ''[[Computer and Video Games]]'' in 1988, it was "the world's first [[Stereoscopic video game|three dimensional]] [[Sim racing|racing simulation]]".<ref name="cvg_arc">{{cite web|url=http://www.solvalou.com/subpage/arcade_reviews/93/83/continental_circus_review.html|title=Continental Circus arcade game review|work=solvalou.com|accessdate=18 May 2016}}</ref> The home conversions of ''Continental Circus'' lack the full-on 3D and special glasses of the arcade version.
+
+''Circus'' is a common term for racing in France and Japan, likely stemming from the Latin term for a racecourse.
+
+In [[2005 in video gaming|2005]] the game was made available for the [[PlayStation 2]], [[Xbox (console)|Xbox]], and [[Personal computer|PC]] as part of ''[[Taito Legends]]''.
+
+==Gameplay==
+The in-game vehicle is the 1987 [[Camel (cigarette)|Camel-sponsored]] [[Honda]]/[[Lotus 99T]] [[Formula One]] car as driven by [[Ayrton Senna]] and [[Satoru Nakajima]]. Due to licensing reasons, sponsor names such as "[[Camel (cigarette)|Camel]]" or "[[DeLonghi]]" are intentionally misspelled to prevent [[copyright infringement]] under Japanese law.
+
+The player must successfully qualify in eight different races to win. At the beginning, the player must take 80th place or better to advance. As the player advances, so does the worst possible position to qualify. If the player fails to meet to qualify or if the timer runs out, the game is over. The player does, however, have the option to continue, but if the player fails to qualify in the final race, the game is automatically over, and the player cannot continue.
+
+===Hazards===
+As in the real F1 races, the car is susceptible to damage from contact with another car. Once a player hits a car or a piece of the trackside scenery, they will be called into the pits. If they let the car smoke too long, it will catch fire, and the message "IMPENDING EXPLOSION" will appear. Either way, if they fail to make it back or hit another car, then they will crash or explode, costing several seconds.
+
+Also, if the car reaches speeds in excess of 380 km/h, the speedometer will turn yellow as a warning to the player to let them know the car is going much too fast. If the car hits another car from behind, the collision will send the car into a devastating cartwheel until it explodes, costing several seconds.
+
+In the same light, going too fast through a turn will cause the car to lose grip on the road. If the car loses grip, it will spin out of control. There's a low chance of a wreck happening, but this will definitely take several seconds off the clock. Also, from time to time, a thunderstorm will occur, causing the track to become wet, and causing the car to lose traction. In that case, the message "CHANGE TIRES" will appear, and the player must immediately get into the pits to change to wet-tyres. If the storm dies down, the road will be covered in puddles. This does not pose a threat.
+
+==Sound/Music==
+''Continental Circus'' does not have music during the race, but plays intro/outro music for each race in the vein of ''[[Pole Position]]''. Afterwards, the screen cuts to the start line of the race course, and the announcement, "Gentlemen, start your engines! 30 seconds before the start!" The spoken line was lifted from the 1972 French documentary, which this game bears the same name.
+[[Image:Continental Circus Arcade.png|thumb|left|Arcade screenshot of ''Continental Circus'']]
+
+The entire collection of musical scores, sound effects, and voice clips were featured in a compilation soundtrack known as "究極TIGER -G.S.M.TAITO 2-". The musical score was composed by [[Zuntata]], Taito's [[house band]]. The music in the home versions was composed by [[Ben Daglish]].
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Amstrad Action''
+| award1 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 50, November 1989</ref>
+}}
+The game was commercially successful. Its arcade pre-orders surpassed Taito's previous hit ''[[Operation Wolf]]'' (1987).<ref name="SUser">{{cite magazine |title=Coin Ops |magazine=[[Sinclair User]] |publisher=[[EMAP]] |location=United Kingdom |date=18 August 1988 |issue=78 (September 1988) |pages=74–5 |url=https://worldofspectrum.org/archive/magazines/sinclair-user/78#74}}</ref> In Japan, ''Game Machine'' listed ''Continental Circus'' on their April 15, 1988 issue as being the third most-successful upright arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - アップライト, コックピット型TVゲーム機 (Upright/Cockpit Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=329|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 April 1988|page=21|lang=ja}}</ref> In the United Kingdom, it reached number-two on the monthly ''[[Coinslot]]'' dedicated arcade game chart in 1988, behind ''[[Street Fighter (video game)|Street Fighter]]''.<ref>{{cite web|url=https://archive.org/stream/sinclair-user-magazine-077/SinclairUser_077_Aug_1988#page/n81/mode/2up|title=Sinclair User Magazine Issue 077|work=archive.org|date=August 1988 |accessdate=18 May 2016}}</ref>
+
+The January 1989 issue of ''[[Sinclair User]]'' gave it the award for 1988 "Cock-Up of the Year" because of the title ''Continental Circus'' appearing to spell "circuit" incorrectly.<ref>[http://www.solvalou.com/subpage/arcade_reviews/112/264/power_drift_review.html Cock-Up Of The Year], ''[[Sinclair User]]'', January 1989</ref>
+
+As a home conversion, the game went to number 2 on the UK sales chart, behind [[Sega]]'s ''[[Power Drift]]''.<ref>{{cite web|url=http://ysrnry.co.uk/ys49.htm|title=The YS Rock'n'Roll Years - Issue 49|work=ysrnry.co.uk|accessdate=18 May 2016|url-status=dead|archive-url=https://web.archive.org/web/20160511091636/http://www.ysrnry.co.uk/ys49.htm|archive-date=11 May 2016}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.arcade-history.com/index.php?page=detail&id=496 ''Continental Circus''] at ''Arcade-History''
+* {{KLOV game|id=7388}}
+* {{WoS game|id=0001057}}
+
+{{Formula One games}}
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Formula One video games]]
+[[Category:MSX games]]
+[[Category:Single-player video games]]
+[[Category:Taito arcade games]]
+[[Category:Taito Z System games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games scored by Masahiko Takaki]]
+[[Category:ZX Spectrum games]]

@@ -1,0 +1,84 @@
+Trek73
+Permalink: //en.wikipedia.org/w/index.php?title=Trek73&oldid=1213538874
+Accessed on: 2024-06-26T16:47:24.969186
+
+
+
+------
+Trek73
+{{Short description|1973 video game}}
+{{Infobox video game
+|title          = TREK73
+|collapsible    = 
+|state          =
+|image          = Trek73 video game screenshot.png
+|caption        =
+|developer      =
+|publisher      =
+|designer       = William K. Char<br />Perry Lee<br />Dan Gee
+|series         = ''[[Star Trek]]''
+|engine         =
+|released       = [[1973 in video gaming|1973]]
+|genre          = [[Space combat simulation]]
+|modes          = [[Single-player]]
+|platforms      = [[HP Time-Shared BASIC]]
+}}
+
+'''''TREK73''''' is a [[computer game]] based on the original ''[[Star Trek]]'' television series. It was created in 1973 by William K. Char, Perry Lee, and Dan Gee for the [[Hewlett-Packard 2000]] [[minicomputer]] in [[HP Time-Shared BASIC]]. The game was played via [[teleprinter|teletype]].<ref>{{cite web | url = http://web.me.com/davekorns/Site-DAK/Blog/Entries/2009/5/18_My_First_Favorite_Computer_Game.html | title = My First Favorite Computer Game | access-date = 2010-07-13 | last = Korns | first = Dave | date = 2009-05-18 | archive-url = https://web.archive.org/web/20160303211552/https://www.icloud.com/ | archive-date = March 3, 2016 }} [http://daveslot.com/dl/Blog/Entries/2009/5/18_My_First_Favorite_Computer_Game.html Alt URL] {{Webarchive|url=https://web.archive.org/web/20180503041546/http://daveslot.com/dl/Blog/Entries/2009/5/18_My_First_Favorite_Computer_Game.html |date=2018-05-03 }}</ref> Trek73 is so big that it needs the [[Chain loading|CHAIN]] feature of HP2000 BASIC.
+
+Unlike many other Trek-themed games of the era, ''Trek73'' is not derived from the well known [[Star Trek (1971 video game)|''Star Trek'']] by Mike Mayfield. ''Trek73'' simulates multi-ship starship combat in a smaller play area and does not include the more strategic elements of the original, like starbases and the galactic map layout.
+
+Like most BASIC programs from the 1970s, there are dozens of minor variations on the original. Dave Korns adapted the code to support [[Computer terminal|smart terminals]], using the cursor control characters on the [[Hazeltine 2000]] to produce an in-place updating display. In the mid-1980s, Dave Pare and Chris Williams translated the original [[BASIC]] version into [[C (programming language)|C]] and Jeff Okamoto, Peter Yee, and others corrected and enhanced the [[source code]]. These versions are widely available for [[Unix-like]] and [[DOS]] operating systems.
+
+== Gameplay ==
+The game simulates battles between spaceships of the ''Star Trek'' franchise. Through text commands, a player may order the ship to perform certain tasks in battle against an opposing vessel.
+
+==History==
+In January 1973, William K. Char<ref>{{Cite web|url=http://www.dunnington.u-net.com/public/startrek/|title=Star Trek|archive-url=https://web.archive.org/web/20150303015501/http://www.dunnington.u-net.com/public/startrek/|archive-date=3 March 2015|access-date=20 September 2017|work=Pete Turnbull's website (Clara.net)|date=26 March 2005|url-status=dead}}</ref> began programming a space battle game in [[BASIC]] on a time-shared [[Hewlett-Packard]] [[HP 2100|2000C]] system at Wilson High School in [[San Francisco]]. The first version of what was then called $SPACE was introduced in May 1973. In June 1973, Char, Perry, Lee, and Gee started programming ''TREK73''; it was completed October 8, 1973. Roderick Perkins<ref>{{cite web|url=http://www.interaction-design.org/references/authors/roderick_perkins.html |title=Roderick Perkins Bio |access-date=2007-10-03 }}</ref> adapted ''TREK73'' for the DECISION computer at the [[Lawrence Hall of Science]] in 1974.<ref>{{cite web | url = http://seacliffpartners.com/wordpress/?p=83 | title = Cloud Computing is Just Time Sharing Warmed Over | access-date = 2010-07-13 | last = LaPedis | first = Ron | date = 2009-05-04 | publisher = Seacliff Partners International, LLC | archive-date = 2011-07-16 | archive-url = https://web.archive.org/web/20110716024428/http://seacliffpartners.com/wordpress/?p=83 | url-status = dead }}</ref> The game was played by [[Homebrew Computer Club]] member Steve Dompier, who purchased a Teletype machine for his home so that he could play the game for hours without interruption.<ref name="isbn0-14-100051-1">{{cite book |author=Levy, Steven |title=Hackers: heroes of the computer revolution |publisher=[[Dell Pub.]], 1994 |location=New York |year=2004 |page=193 |isbn=9780385312103 |url= https://books.google.com/books?id=PJvuAAAAMAAJ&q=%22Trek+73%22}}</ref>
+
+==Other versions==
+An updated version was later developed on the HP2000E by the students of the San Mateo High School district.  Then student Oscar Luppi and other members of the  computer department added ranging, aiming and severa cheat codes that became standard in newer versions.
+
+Later, Dave Pare and Chris Williams at the [[University of California, Berkeley]] independently translated ''TREK73'' into the [[C (programming language)|C]] programming language in 1984. In April 1985, Jeff Okamoto and Peter Yee combined the Pare and Williams versions into one. The command set was expanded to 31. This version had enhancements based on the boardgame ''[[Star Fleet Battles]]''. The player was also capable of designing his own ship.<ref>{{cite web | url = http://dascomputerconsultants.com/downloads/TREK73.DOC | title = TREK73: A Star Trek Battle Simulation | access-date = 2010-07-17 | last = Soussan | first = David}}</ref>
+
+David Soussan then ported the Okamoto/Yee version to [[MS-DOS]], having played it in high school.<ref name="soussan">{{cite web|url=http://dascomputerconsultants.com/cool_stuff.htm |title=Cool Stuff |access-date=2009-09-23 |last=Soussan |first=David }} (download at the bottom of the page)</ref>
+
+While at the [[University of Iowa]], Tom Nelson and Mike Higgins played and made modifications to ''TREK73'' on one of the University HP2000 system. In 1984, they created ''[[Begin (computer game)|Begin, A Tactical Starship Simulation]]'' for MS-DOS. Begin was not a port of ''TREK73''. It was written in C and was very much inspired by ''TREK73''.<ref>{{cite web | url = http://games.groups.yahoo.com/group/beginstarshipcombat/message/974 | archive-url = https://archive.today/20120709062040/http://games.groups.yahoo.com/group/beginstarshipcombat/message/974 | url-status = dead | archive-date = July 9, 2012 | title = Begin History - Star Fleet Battles / Trek73 | access-date = 2010-07-17 | last = Nelson | first = Tom | date = 2009-03-14 | work = Begin: A Tactical Starship Simulation | publisher = Yahoo! Groups }}</ref> In 1993, Higgins released ''Begin 2'', a VGA version for MS-DOS, and in 2009 Nelson released ''Begin 3'' for Windows.
+
+In 1985 while at the [[University of Michigan]], Howard Chu wrote a version of TREK73 in [[Turbo Pascal]] for MS-DOS. This may have been the first version to use a screen-oriented interface and function-key command input.<ref name="chu">{{cite web | url = http://highlandsun.com/hyc/ | title = Howard's Miscellaneous Page | access-date = 2010-07-17 | last = Chu | first = Howard | date = 2007-03-05}}</ref>
+
+A version of ''TREK73'' was included on Disk 10 of [[Fred Fish]]'s ''Fish Disks'' for [[Amiga]] computers.<ref>{{cite web|url=http://www.amiga-stuff.com/pd/fish.html |title=Fish Disk 10 |access-date=2009-09-25 |last=Fish |first=Fred |work=Fish Disks}}[http://www.nic.funet.fi/pub/amiga/fish/001-100/ff010/]</ref>
+
+Around 1990, Chu wrote a version in C/curses for the [[Amiga]]. Unlike his Turbo Pascal version, this game is fully implemented. It uses the numeric keys instead of function keys.<ref name="chu"/>
+
+==See also==
+
+*[[Begin (video game)|''Begin'' (video game)]]
+*[[Star Trek (script game)|''Star Trek'' (script game)]]
+*[[Star Trek (1971 video game)|''Star Trek'' (1971 video game)]]
+*[[Star Trek games]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*{{webarchive |url=https://web.archive.org/web/20150305013656/http://www.dunnington.u-net.com:80/public/startrek/TREK73|date=March 5, 2015|title=TREK73 HP 2000 BASIC Source Code}}, retyped by Pete Turnbull
+*[http://apollo.backplane.com/FreeBSDPorts/trek73-4.1.tar.gz TREK73 Free BSD Version], hosted by Matt Dillon of DragonFly BSD
+*[http://kermitmurray.com/trek73/ TREK73],  by Kermit Murray contains many resources
+
+{{Star Trek: The Original Series}}
+{{Star Trek video games}}
+
+[[Category:Video games based on Star Trek: The Original Series]]
+[[Category:Unofficial works based on Star Trek]]
+[[Category:Starship simulators based on Star Trek]]
+[[Category:1973 video games]]
+[[Category:Space combat simulators]]
+[[Category:Mainframe games]]
+[[Category:DOS games]]
+[[Category:Freeware games]]
+[[Category:Video games with textual graphics]]
+[[Category:Public-domain software with source code]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Teleprinter video games]]

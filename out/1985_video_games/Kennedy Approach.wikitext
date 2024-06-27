@@ -1,0 +1,79 @@
+Kennedy Approach
+Permalink: //en.wikipedia.org/w/index.php?title=Kennedy_Approach&oldid=1230759924
+Accessed on: 2024-06-26T16:58:41.900019
+
+
+
+------
+Kennedy Approach
+{{Short description|1985 video game}}
+{{More citations needed|date=August 2019}}
+{{Infobox video game
+|title = 
+|image = [[Image:Kennedy Approach Coverart.png|Kennedy Approach]]
+|caption = Cover art
+|developer = [[MicroProse]]
+|publisher = [[MicroProse]]
+|designer = [[Andy Hollis]]<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+|released = '''1985:''' Atari 8-bit, C64<br>'''1988:''' Amiga, Atari ST
+|genre = [[Simulation game|Simulator]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]]
+}}
+
+'''''Kennedy Approach''''' is an [[air traffic control]] simulation computer game released by [[MicroProse]] for the [[Atari 8-bit computers]] and [[Commodore 64]] in 1985. It was designed by [[Andy Hollis]].<ref name="giantlist"/> Ports for the [[Amiga]] and [[Atari ST]] were published in 1988.
+
+==Gameplay==
+[[File:Kennedyapproach.png|left|thumb|upright|A thunderstorm roams]]
+
+The [[Player (game)|player]] assumes the role of a [[air traffic controller|controller]] in a [[Terminal Radar Approach Control]], giving instructions to [[aircraft]] so that they can safely [[landing|land]], as well as [[takeoff|take off]] and enter their correct [[airway (aviation)|flight corridor]]s. The purpose of the game is to manage the flights that are presented to the player without the flights being delayed or exiting/landing in the wrong location. The aircraft either come flying in on the screen and have preset exit or landing points or show up as wanting to take off with an exit point. It is the player's job to determine the route each aircraft flies and when they may land or take off.
+
+The aircraft cannot be too close to each other, so the player needs to make sure that they are passing each other on different flight levels or with sufficient distance (three grid dots north/south or east/west) between them.  If an aircraft crashes, collides in midair with another aircraft, or exits at the wrong location or altitude, the system will inform the air traffic controller, and the game will end at the end of the shift.  Aircraft do not change course/altitude unless the player tells them to. Incoming aircraft not given clearance to land, however, will go into a holding pattern and wait until given clearance.  When necessary, the player can also give holding instructions to aircraft, as long as their course takes them over a [[VHF Omnidirectional Range|VOR]] tower which is used as the holding fix.
+
+To start with, there are few flights at the same time, but at higher [[general schedule|GS]] levels, there are many flights that need management at the same time.  Also [[storm]]s which the aircraft can not pass through show up and some aircraft have very little [[fuel]] and have to land fast or they will crash.
+
+There are five airspaces in the game: 
+* [[Atlanta]]
+* [[Dallas]]/[[Fort Worth, Texas|Fort Worth]] - Map includes an inaccuracy in that [[Dallas Love Field|Love Field]] is portrayed as northeast of [[Dallas/Fort Worth International Airport]] when in fact it lies to the southeast.
+* [[Denver]] - Includes the [[Rocky Mountains]] to the west, over which planes cannot fly below a certain level.
+* [[Washington, D.C.]] - Includes the [[No-fly zone]] over the [[U.S. Capitol]] through which planes may not fly at all.
+* [[New York City]]
+
+Three types of aircraft are presented in the game: 
+* [[Cessna]] light planes - Referred to as "November" flights, a reference to their [[aircraft registration]] numbers which all start with N in the [[United States]].
+* [[Boeing 747]] - Flies twice as fast as a Cessna light plane.
+* [[Concorde]] - Flies twice as fast as a 747.
+
+Four airlines are depicted in the game: 
+* [[American Airlines]]
+* [[Delta Air Lines]]
+* [[United Airlines]]
+* [[Air France]] - Operates the Concordes
+
+In both the Atari and C64 versions, the conversations between the controller and the aircraft are read out on the TV loudspeaker.  Although they are quite [[concatenative synthesis|ritualized and formal]], and the blocks of words which make up the orders are clearly distinguishable, synthesized speech was an impressive feat for home computers that averaged fewer than 64 [[kilobyte]]s of available [[RAM]].
+
+==Reception==
+''[[Compute!]]'' stated that "the sweat on your palms when you play ''Kennedy Approach'' is quite real", and approved of the documentation. It concluded that the game "is a fascinating, well-designed simulation for someone who wants to get a taste of what air traffic controllers do all day (and night) ... ''Kennedy Approach'' gets a clammy hands rating of 9 out of a possible 10".{{r|minnick198606}}
+
+==References==
+{{Reflist|refs=
+<ref name="minnick198606">{{cite news | url=https://archive.org/stream/1986-06-compute-magazine/Compute_Issue_073_1986_Jun#page/n69/mode/2up | title=Kennedy Approach For Commodore And Atari | work=Compute! | date=June 1986 | accessdate=8 November 2013 | author=Minnick, David and Robin | pages=71}}</ref>}}
+
+==External links==
+*{{atarimania|id=2763}}
+*{{lemon64 game|id=1420|name=Kennedy Approach}}
+*{{atarimania|id=9724}}
+*{{abime|id=2553}}
+
+{{Authority control}}
+
+[[Category:1985 video games]]
+[[Category:Air traffic control simulators]]
+[[Category:Amiga games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:MicroProse games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the United States]]

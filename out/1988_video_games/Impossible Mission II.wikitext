@@ -1,0 +1,100 @@
+Impossible Mission II
+Permalink: //en.wikipedia.org/w/index.php?title=Impossible_Mission_II&oldid=1223351195
+Accessed on: 2024-06-26T17:04:25.328549
+
+
+
+------
+Impossible Mission II
+{{Otheruses|Mission: Impossible (disambiguation)}}
+{{Infobox video game
+| title        = Impossible Mission II
+| image        = Impossible Mission II Coverart.png
+| caption      = 
+| developer    = [[Appaloosa Interactive|Novotrade]]
+| publisher    = [[Epyx]]
+| designer     = 
+| series       = 
+| engine       = 
+| released     = [[1988 in video gaming|1988]]
+| genre        = [[Action game|Action]], [[Platform game|Platform]], [[Puzzle game|Puzzle]]
+| modes        = [[Single-player video game|Single-player]]
+| platforms    = [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Apple IIGS]], [[Atari ST]], [[Commodore 64]], [[DOS]], [[Nintendo Entertainment System|NES]], [[ZX Spectrum]]
+}}
+
+'''''Impossible Mission II''''' is a [[video game]] developed by [[Appaloosa Interactive|Novotrade]] and published by [[Epyx]] in 1988. It was released for the [[Commodore 64]], [[ZX Spectrum]], [[Amstrad CPC]], [[Enterprise (computer)|Enterprise 128]], [[Nintendo Entertainment System]], [[DOS]], [[Atari ST]], [[Apple II]] with at least 128K, [[Apple IIGS]], and [[Amiga]].
+
+''Impossible Mission II'' is a direct sequel to Epyx's 1984 game ''[[Impossible Mission]]''. The game follows directly from the same plot, with Elvin Atombender seeking revenge and the player having to stop him. The overall game structure and basic gameplay is mostly similar, but there are a few differences and new features.
+
+==Gameplay==
+The game takes place in Elvin's [[fortress]], which consists of nine [[tower]]s.<ref name="Retro122">{{cite news | last = Bevan | first= Mike | date = December 2013 | title = The History of... Impossible Mission | work = [[Retro Gamer]] | issue = 122 | pages = 44–49 | publisher = [[Imagine Publishing]]}}</ref> Each of the eight outer towers has a specific theme, such as [[computer]]s, [[automobile]]s, [[furniture]] and so on. Each tower consists of several rooms connected by two vertical corridors with [[elevator]]s and two horizontal corridors leading to other towers. The corridors leading between different towers are locked, and they can only be unlocked by figuring out a numerical puzzle.
+
+Each tower contains the numbers zero through nine in three different colors. The computer interface allows the player to try various number combinations to see if they are correct.
+
+The elevator to the central tower is unlocked by finding a [[password]], which is encoded in a piece of [[music]]. Each of the eight outer towers has a musical piece locked inside a safe.<ref name="Retro122"/> The final password consists of six distinct musical pieces. Two of the pieces in the towers are duplicates. The player must rewind the tape so that the next musical piece records over the duplicate, erasing it.
+
+The main addition over the previous game is the addition of new types of enemy [[robot]]s and devices for the player to use. Whereas the original game only included security bots and a special flying [[ball]] robot, ''Impossible Mission II'' has the following types of robots:
+* Security bot, like in the previous game.
+* Shovel bot, tries to push the player character over the edge of a platform.
+* Suicide bot, like a shovel bot, but also jumps off the edge itself.
+* Mine bot, lays deadly [[land mine]]s on the floor.
+* Pest bot, is harmless to the touch, but rides around on the lifts, foiling the player's designs.
+* Squat bot, springs up from the floor, sending the player character onto a higher floor or crushing him against the ceiling.
+The "ball" type robot is no longer present.
+
+As well as snoozes that temporarily freeze the robots and lift resets, the player can now collect [[bomb]]s and mines that can be used to blow up holes in the floor or to open [[safe]]s. Bombs explode after a specific time, whereas mines explode if the player or an enemy robot touches them.
+
+==Development==
+Unlike most computer game sequels of the time, ''Impossible Mission II'' did not use any code from the original game.<ref name="Retro122"/> The graphics were remade from scratch using a [[raster graphics|bitmap]] animation tool called Film Director.<ref name="Retro122"/> The lead platform was the [[Atari ST]], with work on the [[Commodore 64]] and [[ZX Spectrum]] ports being started once the Atari ST version was nearly complete.<ref name="Retro122"/> All the rooms in ''Impossible Mission II'' were redesigned for the ZX Spectrum version.<ref name="Retro122"/>
+
+According to Novotrade programmer László Szenttornyai, who coded the Spectrum version, the [[Nintendo Entertainment System|NES]] version of the game "almost wasn't released because of the strict situation between [[Epyx]] and [[Nintendo]]."<ref name="Retro122"/>
+
+==Reception==
+{{Video game reviews
+| YSinclair = 9/10<ref name="YSinc">{{cite news | last = David | first = McCandless | date = September 1988 | title = Impossible Mission II review | url = http://www.ysrnry.co.uk/articles/impossiblemissionii.htm | work = [[Your Sinclair]] | issue = 33 | publisher = [[Dennis Publishing]]}}</ref>
+| CRASH = 84%<ref name="Crash">{{cite news | title = Reviews: Impossible Mission II | url = http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue55/Pages/Crash5500016.jpg | work = [[Crash (magazine)|Crash]] | issue = 55 | page = 16 | publisher = [[Newsfield Publications]]}}</ref>
+| SUser = 46%<ref name="SUser">{{cite news | last = Dillon | first = Tony | date = September 1988 | title = Games Review: Impossible Mission 2 | url = http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue078/Pages/SinclairUser07800064.jpg | work = [[Sinclair User]] | issue = 78 | page = 64 | publisher = [[EMAP]]}}</ref>
+| CVG = 90%<ref name="CVG">{{cite news | title = Impossible Mission II review | url = http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue106/Pages/CVG10600060.jpg | work = [[Computer and Video Games]] | issue = 106 | page = 60 | publisher = [[Future Publishing]]}}</ref>
+| rev2 = ''[[ACE (games magazine)|ACE]]''
+| rev2Score = 785<ref name="ACE">{{cite news | last = Conner | first = Pete | date = June 1988 | title = Impossible Mission 2 review | url = http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue09/Pages/ACE0900058.jpg | work = [[ACE (games magazine)|ACE]] | issue = 9 | page = 58 | publisher = [[Future Publishing]]}}</ref>
+| rev3 = ''[[The Games Machine]]''
+| rev3Score = 73%<ref name="GMach">{{cite news | title = Version Update: Impossible Mission II | url = http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue10/Pages/TheGamesMachine1000044.jpg | work = [[The Games Machine]] | issue = 10 | page = 44 | publisher = [[Newsfield Publications]]}}</ref>
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 96%<ref name="ZZap">{{cite web|url=http://www.zzap64.co.uk/zzap100/100thspec5.html |title=Zzap!64 100th Issue Pull-Out Special Page 5 |publisher=Zzap64.co.uk |access-date=2012-02-11}}</ref>
+| award1Pub = Zzap!64
+| award1 = Gold Medal<ref name="ZZap"/>
+}}
+The game received mixed reviews from critics. Common criticisms were the game's overt similarity to and lack of improvement from the original ''Impossible Mission''<ref name="ACE"/><ref name="GMach"/> and the extremely limited sound.<ref name="SUser"/><ref name="GMach"/> However, the challenging puzzles,<ref name="YSinc"/><ref name="ACE"/><ref name="Crash"/> impressive player character animations,<ref name="Crash"/><ref name="YSinc"/><ref name="CVG"/> and the tension of playing against the clock<ref name="Crash"/><ref name="CVG"/> were all praised by multiple critics. It was voted best platform game ("Geschicklichkeitsspiel") of 1988 by German magazine PowerPlay.<ref>{{cite journal |journal=PowerPlay |volume=1/89 |page=14}}</ref>
+
+==Legacy==
+In 2004, ''Impossible Mission'' was one of the games included on the [[C64 Direct-to-TV]]. Both Impossible Mission and its sequel were also included in the C64 Mini.<ref>{{Cite web|url=https://www.engadget.com/2018-04-06-c64-mini-review.html|title = The C64 Mini review: Nostalgia's not enough}}</ref>
+
+''Impossible Mission'' and ''Impossible Mission II'' were followed by ''[[Impossible Mission 2025]]'', an Amiga exclusive. ''Impossible Mission 2025'' abandoned the corridor layout of different rooms and instead includes one big room. The player also has the choice of three different characters: the normal secret agent, a female [[gymnast]], and an [[Android (robot)|android]].
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/impossible-mission-ii|name=''Impossible Mission II''}}
+*{{WoS game|id=0002464}}
+* [http://www.c64sets.com/set.html?id=18 Images of Impossible Mission II manual]
+
+[[Category:1988 video games]]
+[[Category:Platformers]]
+[[Category:Amiga games]]
+[[Category:Appaloosa Interactive games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:ZX Spectrum games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Unauthorized video games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in Hungary]]
+[[Category:Video game sequels]]
+[[Category:Epyx games]]
+[[Category:Virtual Console games]]
+[[Category:Spy video games]]
+[[Category:Single-player video games]]

@@ -1,0 +1,63 @@
+Demons to Diamonds
+Permalink: //en.wikipedia.org/w/index.php?title=Demons_to_Diamonds&oldid=1224506585
+Accessed on: 2024-06-26T16:53:17.117569
+
+
+
+------
+Demons to Diamonds
+{{Short description|1982 video game}}
+{{For|the album by Visage|Demons to Diamonds (album)}}
+{{More citations needed|date=June 2010}}
+{{Infobox video game
+|title = Demons to Diamonds
+|image = DemonstoDiamondsBoxArt.jpg
+|caption = North American cover
+|developer = [[Atari, Inc.]]<ref name="gamefaqs">{{cite web|url=http://www.gamefaqs.com/atari2600/584678-demons-to-diamonds/data|title=Demons to Diamonds|work=[[GameFAQs]]|accessdate=2010-05-23}}</ref>
+|publisher = [[Atari, Inc.]]<ref name="gamefaqs"/>
+|designer = Nick Turner<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+|released = {{Video game release|NA|July 1982}}
+|genre = [[Fixed shooter]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Atari 2600]]
+}}
+
+'''''Demons to Diamonds''''' is a [[fixed shooter]] for the [[Atari 2600]] produced by [[Atari, Inc.]] and released in 1982.<ref>{{Cite web|url=http://uk.ign.com/games/demons-to-diamonds/2600-4649|title = Demons to Diamonds - IGN}}</ref> It was programmed by Nick Turner with graphics designed by Alan Murphy.<ref name="AA">{{cite web|url=http://www.atariage.com/software_page.html?SoftwareLabelID=136|title=Demons to Diamonds|work=AtariAge|accessdate=2010-05-19}}</ref> Nick Turner previously ported ''[[Super Breakout]]'' to the 2600.<ref>{{cite web|title=Super Breakout|url=http://www.atariprotos.com/2600/software/sbreakout/sbreakout.htm|website=AtariProtos.com}}</ref> The manual states that the game was primarily designed for
+children in the 6 to 12 age range.<ref>{{cite web|title=Demons to Diamonds Manual|url=https://atariage.com/manual_html_page.php?SoftwareLabelID=136|website=AtariAge}}</ref>
+
+Players attempt to shoot demons in a "cosmic carnival" and then pick up the diamonds left behind by them while dodging shots from enemy skulls. The game includes both single-player and two-player simultaneous play modes.
+
+==Gameplay==
+[[File:DemonstoDiamondsScreenshot.jpg|250px|left|thumb|Gameplay screenshot]]
+
+The player operates a [[laser]] base at the bottom of a multi-row playfield, using the paddle controller<ref>http://www.atarimania.com/2600/boxes/hi_res/demons_to_diamonds_color_i_7.jpg {{Bare URL image|date=March 2022}}</ref> to move it from side to side and the controller's action button to fire a laser beam<ref name="atarimania.com">http://www.atarimania.com/2600/boxes/hi_res/demons_to_diamonds_color_i_5.jpg {{Bare URL image|date=March 2022}}</ref> vertically up the playfield. The player can control how far onto the playfield the beam advances by releasing the button at the desired height.<ref name="atarimania.com"/> Demons begin to appear at various rows on the playfield and cross the screen horizontally. The player must shoot demons whose color matches that of the gun.<ref name="atarimania.com"/> If successful, the demon transforms into a [[diamond]], which can itself be shot for additional points. If a player shoots a demon of a different color, the demon transforms into a [[human skull|skull]], which can shoot the player with its own laser beam. The skull cannot be destroyed by the player but will disappear after a short time.
+
+The player receives one point for each demon and ten points for each diamond successfully shot. Points are multiplied by the distance from the base to the target. For example, a demon shot one row above the player is worth one point, while a demon shot four rows above the player is worth four points.
+
+In multiplayer mode, the second player operates a laser base at the top of the screen, firing from top to bottom. Again, the second player must shoot demons that match the color of its gun in order to produce diamonds, but the diamonds may be shot by either player.<ref>http://www.atarimania.com/2600/boxes/hi_res/demons_to_diamonds_color_i_10.jpg {{Bare URL image|date=March 2022}}</ref> Also, skulls are capable of shooting both up and down the playfield. In select variations of the game, the players can shoot their opponent's laser gun in order to deplete their stock of extra [[Health (gaming)|lives]].
+
+In both single and multiplayer versions, players begin with five lives. One life is lost when the player's laser base is hit by a laser beam fired by a skull or by an opponent, depending on the game variation being played. The game ends when all lives are lost; in multiplayer versions, the surviving player receives a bonus for each life remaining.
+
+==Reception==
+''Demons to Diamonds'' was released in July 1982.<ref>{{cite magazine|magazine=[[Atari Age]]|title=Atari '82 in Review|date=November 1982|volume=1|issue=4|page=17}}</ref>
+
+[[Bill Kunkel (gaming)|Bill Kunkel]] and Arnie Katz of ''[[Electronic Games]]'' in 1983 described ''Demons to Diamonds'' as a "video [[sleeping pill]]".<ref name="eg198306">{{cite news | url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n37/mode/2up | title=Programmable Arcade | work=Electronic Games | date=June 1983 | accessdate=6 January 2015 | author1=Katz, Arnie | author2=Kunkel, Bill | pages=38–42}}</ref>
+
+==See also==
+{{Portal|Video games}}
+*[[List of Atari 2600 games]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=7821}}
+* {{AtariAge software|id=136}}
+
+[[Category:1982 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Atari games]]
+[[Category:Fixed shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,70 @@
+Heavy on the Magick
+Permalink: //en.wikipedia.org/w/index.php?title=Heavy_on_the_Magick&oldid=1220354053
+Accessed on: 2024-06-26T17:00:09.612624
+
+
+
+------
+Heavy on the Magick
+{{Infobox video game
+| title = Heavy on the Magick
+| image = [[File:HeavyontheMagickBoxShotAmstradCPC.jpg|200px|Heavy on the Magick]]
+| caption = Cover art
+| developer = [[Gargoyle Games]]<ref name="gamefaqs">[http://www.gamefaqs.com/cpc/940626-heavy-on-the-magick/data ''Heavy on the Magick'' information] at [[GameFAQs]]</ref>
+| publisher = [[Gargoyle Games]]<ref name="specom"/>
+| designer = Greg Follis<ref name="giantlist"/><br />Royston Carter<ref name="giantlist"/>
+| composer = Mark Time
+| released = {{vgrelease|EU|1986<ref name="gamefaqs"/>}}
+| genre = [[Adventure game|Adventure]]<ref name="gamefaqs"/>
+| modes = [[Single-player video game|Single-player]]<ref name="specom"/>
+| platforms = [[ZX Spectrum]], [[Amstrad CPC]]
+}}
+
+'''''Heavy on the Magick''''' is a [[video game]] for [[Amstrad CPC]] and [[ZX Spectrum]] published in [[1986 in video gaming|1986]] by [[Gargoyle Games]]. The game's influences draw heavily from the occult, with the Master Therion in the plot below a reference to [[Aleister Crowley]]. To finish the game, the player must invoke numerous demons who are based on their "real" counterparts, e.g. Belezbar is based on [[Beelzebub]].
+
+==Plot==
+{{No plot|date=December 2020}}
+
+==Gameplay==
+The player controls the neophyte wizard Axil the Able and must help him escape from the dungeons below the castle of Colloden's Pile. This a keyboard-only game, and uses a set of commands (called "Merphish" in-game)<ref>https://worldofspectrum.org//pub/sinclair/games-info/h/HeavyOnTheMagick.txt {{Bare URL plain text|date=March 2022}}</ref> such as the standard north, south, east and west (N,S,E,W) and some additional unique commands such as invoke (I), freeze (f), and blast (b) which cast spells.<ref>{{Cite web|url=https://www.retrogamer.net/retro_games80/heavy-on-the-magick/|title = Heavy on the Magick &#124; Retro Gamer| date=19 February 2012 }}</ref> Conversations with certain friendly characters such as Apex the Ogre are initiated in the following syntax: "[character],[speech]" e.g. "Apex, thanks".
+
+The dungeons are full of dangerous and hostile creatures such as [[wyvern]]s, [[goblin]]s and [[vampire]]s. Axil can defend himself using magic to stall or kill these creatures. Not everyone in the dungeon is an enemy, some inhabitants (such as Apex the Ogre) are friendly unless provoked and can be conversed with.
+
+The dungeon itself is separated into several distinct levels which Axil can travel to and from at will provided he can find the staircases up or down.
+
+The game could be finished in three different ways, each way being of
+varying difficulty.{{citation needed|date=April 2018}} The game was planned to be the first part of a trilogy, but the other games were never created.<ref name="specom"/>
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Your Sinclair''
+| award3 = Megagame 
+| award4Pub = ''Amstrad Action''
+| award4 = Mastergame<ref>Game review, Amstrad June magazine, [[Future Publishing]], issue 10, July 1986</ref>
+}}
+Reviews of the game were highly positive all round,{{citation needed|date=April 2018}} with the only common criticism being the blocky graphics.{{citation needed|date=April 2018}} To reduce the memory impact of the large animated graphics, the programmers blew up single graphic cells to create all the sprites and foreground scenery in the game, effectively reducing the resolution of the graphics but compressing them in memory and so increasing the amount of space available for game content.{{citation needed|date=April 2018}}
+
+The game won the award for best adventure game of the year in ''[[Crash magazine|CRASH]]''.<ref>{{Cite web|url=http://www.crashonline.org.uk/38/awards.htm|title = CRASH 38 - Readers' Awards}}</ref> It was also  runner-up in the [[Golden Joystick Awards]].<ref>{{Cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue066/Pages/CVG06600101.jpg|title = Computer & Video Games}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="specom">{{cite web|title=Heavy on the Magick|url=https://spectrumcomputing.co.uk/index.php?cat=96&id=2274|website=Spectrum Computing}}</ref>
+<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=http://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+* {{IFDB|id=kvzvt922j8vdcttu}}
+* [http://www.crashonline.org.uk/29/magick.htm CRASH review from 1986]
+
+[[Category:1980s interactive fiction]]
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Gargoyle Games games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

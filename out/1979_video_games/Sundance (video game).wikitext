@@ -1,0 +1,46 @@
+Sundance (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sundance_%28video_game%29&oldid=1189598040
+Accessed on: 2024-06-26T16:51:25.975278
+
+
+
+------
+Sundance (video game)
+{{Infobox video game
+|title=Sundance 
+|image=Sundance arcade.png
+|caption=Screenshot
+|developer = [[Cinematronics]]
+|publisher = Cinematronics
+|designer=[[Tim Skelly]]
+|released = 1979
+|platforms= [[Arcade video game|Arcade]]
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player video game|Single-player]], 2 players alternating
+|arcade system= Cinematronics hardware
+}}
+
+'''''Sundance''''' is a [[Puzzle video game|puzzle]] [[arcade video game]] using [[vector graphics]] released by [[Cinematronics]] in 1979. The game consists of two grids floating in a [[2.5D|pseudo-3D]] space with small [[star|suns]] bouncing between them.
+
+==Gameplay==
+The player scores points by opening a hole in the grid to capture the suns as they danced/bounced.  The player can shoot a nova from an open hole, thereby saving time by not having to wait for the sun to bounce into the hole. If the nova misses the sun, it bounces between grids until it is swallowed up into an open hole. There can only be one nova on the screen at any given time.  As the suns bounced, the grids moves closer and closer, making gameplay more difficult.  The game ends when the grids fully converged.
+
+==Release==
+The game had only a small production run and was plagued with hardware failures due to its unconventional design.  According to [[Tim Skelly]], the game's designer, ''Sundance'' used an additional [[daughterboard]] that controlled the intensity of certain vectors.  This board and its connections were rather fragile and prone to failure.<ref>{{cite web|url=http://www.dadgum.com/giantlist/archive/cinematronics.html |title=Tim Skelly's History of Cinematronics and Vectorbeam |website=dadgum.com |date=June 1, 1999}}</ref>  Also, the monitor used a defective carbon coating spray which tended to cause the monitor's tube to arc if it was left in a certain position, destroying the monitor.<ref>[http://zonn.com/Cinematronics/history.htm History of Cinematronics Inc<!-- Bot generated title -->]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=9860|name=Sundance}}
+* {{cite web|url=https://arcadeblogger.com/2016/06/03/cinematronics-sundance/|last=Temple|first=Tony|title=Arcade Raid Gone Wrong: Cinematronics Sundance|publisher=ArcadeBlogger.com|date=2016-06-03}} - Account of the salvage and restoration of a surviving Sundance cabinet and the controversy that ensued.
+* {{cite web|url=https://arcadeblogger.com/2017/02/17/sega-sundance-unearthed/|last=Temple|first=Tony|title=Sega Sundance Unearthed!|publisher=ArcadeBlogger.com|date=2017-02-17}} - An account of the discovery of a cabinet for the Sega licensed version of Sundance that had been converted to Asteroids at a later date.
+* {{cite web|url=https://www.youtube.com/watch?v=9hAHuYO8bSc |archive-url=https://ghostarchive.org/varchive/youtube/20211212/9hAHuYO8bSc| archive-date=2021-12-12 |url-status=live|title=SC3 - Spring 2011 Arcade Party - Sundance|publisher=YouTube|date=2011-03-18}}{{cbignore}} - Gameplay Video
+
+[[Category:1979 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Vector arcade video games]]
+[[Category:Video games developed in the United States]]

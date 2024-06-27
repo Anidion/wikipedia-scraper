@@ -1,0 +1,94 @@
+Hydlide
+Permalink: //en.wikipedia.org/w/index.php?title=Hydlide&oldid=1194804084
+Accessed on: 2024-06-26T16:56:59.028868
+
+
+
+------
+Hydlide
+{{Short description|1984 video game}}
+{{Use mdy dates|date=January 2023}}
+{{Infobox video game
+| title = Hydlide
+| image = Hydlide Cover.jpg
+| caption = MSX box art
+| developer = [[T&E Soft]]
+| publisher = T&E Soft
+| designer = Tokihiro Naito
+| programmer = Eiji Kato
+| composer = Keiichi Maruyama, Shigeru Tomita
+| platforms = [[PC-6001]], [[PC-8801]], [[MSX]], [[MSX2]], [[PC-9801]], [[Sharp X1]], [[PC-6601|PC-66]], [[FM-7]], [[Sharp MZ-2000]], [[Famicom/NES]], [[Nintendo Switch]]
+| released = {{collapsible list
+ | title = December 13, 1984
+ | '''PC-6001, PC-8801'''{{vgrelease|JP|December 13, 1984<ref>{{cite magazine|title=Hydlide (PC88)|magazine=[[Famitsu]]|url=http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=28193|access-date=January 14, 2015}}</ref>}}|'''MSX'''{{vgrelease|JP|March 1985<ref>{{cite web|url=http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=28201 |title=ハイドライド （MSX版） (MSX)の関連情報 &#124; ゲーム・エンタメ最新情報のファミ通.com |publisher=Famitsu.com |date= |accessdate=2023-01-29}}</ref>}}|'''FM-7'''{{vgrelease|JP|May 1985}}|'''MSX2'''{{vgrelease|JP|July 1985<ref>{{cite web|url=http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=23423 |title=ハイドライド （MSX2版） (MSX2)の関連情報 &#124; ゲーム・エンタメ最新情報のファミ通.com |publisher=Famitsu.com |date= |accessdate=2023-01-29}}</ref>|EU|1985}}|'''PC-9801'''{{vgrelease|JP|November 1985}}|'''Famicom/NES'''{{vgrelease|JP|March 18, 1986|NA|June 1989}}|'''Nintendo Switch'''{{vgrelease|WW|December 21, 2023}}
+ }}
+| genre = [[Action role-playing game|Action role-playing]]
+| series =
+| modes = [[Single-player video game|Single-player]]
+}}
+
+{{nihongo foot|'''''Hydlide'''''|ハイドライド|Haidoraido|lead=yes|group=lower-alpha}} is an [[action role-playing game]] developed and published by [[T&E Soft]].<ref name="gamasutra"/> It was originally released for the [[NEC PC-6001]] and [[PC-8801]] computers in 1984, in [[Japan]] only;<ref name=Kalata>{{cite web|author=Kurt Kalata & Robert Greene|url=http://www.hardcoregaming101.net/hydlide/hydlide.htm|title=Hydlide|publisher=Hardcore Gaming 101|access-date=May 1, 2011}}</ref> ports for the [[MSX]], [[MSX2]], [[FM-7]] and [[NEC PC-9801]] were released the following year. A [[Nintendo Switch]] port based on the PC-8801 version was released on December 21, 2023 by [[D4 Enterprise]].
+
+A [[Famicom]] version was released under the name '''''Hydlide Special''''' in Japan in 1986. Three years later, it was localized and released in English regions for the [[Nintendo Entertainment System]] by [[Fujisankei Communications International]], known as simply ''Hydlide''. The game sold two million copies in Japan across all platforms.<ref name=john/>
+
+The game spawned the ''Hydlide'' series, followed by the sequels ''[[Hydlide II: Shine of Darkness]]'' in 1985 and ''[[Hydlide 3: The Space Memories]]'' (''Super Hydlide'') in 1987. A 1995 remake was released for the [[Sega Saturn]] as ''[[Virtual Hydlide]]''.
+
+==Plot==
+In the kingdom of Fairyland, three magic jewels were enshrined in the palace to maintain peace in the kingdom. One day, an evil man broke into the palace and stole one of the three magic jewels. Without the third jewel, the two remaining jewels lost their magic sparkle. The magic spell that sealed the power of Varalys, the most vicious demon in the kingdom, was broken. During the turmoil which followed, the last two jewels were stolen. Varalys cast a special magic on Princess Ann, turning her into three fairies, and hid her somewhere in the kingdom. He then let loose a horde of monsters across the land and became the ruler of the kingdom. The young knight Jim stood up and took action to restore peace in the kingdom. He bravely made his way into the wilderness in full armor to fight the monsters.
+
+==Development==
+The game was created by T&E Soft's Tokihiro Naito.<ref name=john/> His idea behind ''Hydlide'' was to mix together [[Action game|action]] and [[Role-playing video game|RPG]] elements into a new "action RPG" genre. He was inspired by ''[[The Tower of Druaga]]'' and ''[[The Black Onyx]]'', especially the former, as ''Hydlide''{{'}}s design leans more towards action than role-playing.<ref name="Szczepaniak">John Szczepaniak (2016), ''The Untold History Of Japanese Game Developers, Volume 2'', pages 38-49</ref> ''Hydlide'' essentially took ''The Tower of Druaga'' formula to a colorful [[open world]],<ref name="gamasutra">[http://www.gamasutra.com/blogs/FelipePepe/20161010/282896/19821987__The_Birth_of_Japanese_RPGs_retold_in_15_Games.php 1982-1987 - The Birth of Japanese RPGs, re-told in 15 Games], [[Gamasutra]]</ref> and added RPG mechanics.<ref name="Szczepaniak"/> ''Hydlide'' also borrowed the [[health meter]] mechanic from ''The Black Onyx'', and took it a step further with a regenerating health meter.<ref name="Szczepaniak"/>
+
+Naito noted that he was completely unaware of Western role-playing games like ''[[Ultima (series)|Ultima]]'' and ''[[Wizardry]]'' when he was developing ''Hydlide'', as he had never used the [[Apple II]] before. He said that he only became aware of two other Japanese action RPG projects, ''[[Dragon Slayer (video game)|Dragon Slayer]]'' and ''Courageous Perseus'', while reading a magazine during ''Hydlide''{{'}}s development, and was shocked to find that ''Hydlide'' was not the only attempt at the concept. He underestimated ''Dragon Slayer'' but felt threatened by ''Courageous Perseus'', believing the latter to be more visually impressive; ''Courageous Perseus'' turned out to be not as successful, whereas ''Dragon Slayer'' went on to become ''Hydlide''{{'}}s biggest competitor, through subsequent sequels.<ref name="Szczepaniak"/>
+
+==Reception and legacy==
+{{Video game reviews
+|EGM=22/40<ref name="EGM">{{cite magazine|author1=Steve|author2=Ed|author3=Donn|author4=Jim|date=July 1989|url=https://archive.org/details/Electronic_Gaming_Monthly_02/page/n11/mode/2up|title=Hydlide|magazine=[[Electronic Gaming Monthly]]|issue=2|page=13|access-date=July 10, 2021}}</ref>
+}}
+[[Image:Hydlide screenshot.png|left|thumb|Original PC-8801 version]]
+
+''Hydlide'' was well-received and considered an innovator when released in Japan in 1984. ''Hydlide'' was one of the first [[action role-playing game]]s, along with ''Courageous Perseus''<ref name=john/><ref name="Szczepaniak"/> and ''[[Dragon Slayer (series)|Dragon Slayer]]''.<ref name="Szczepaniak"/><ref>Kurt Kalata, [http://www.hardcoregaming101.net/dragonslayer/dragonslayer.htm Dragon Slayer]  {{webarchive|url=https://web.archive.org/web/20110723142515/http://www.hardcoregaming101.net/dragonslayer/dragonslayer.htm |date=July 23, 2011}}, Hardcore Gaming 101</ref> ''Hydlide'' was also an early [[open world]] game,<ref name="kojima"/><ref name="gamasutra"/> rewarding exploration in an open world environment.<ref>{{cite web | url = http://in.ign.com/india/82586/feature/ign-india-discusses-game-design-combat-in-open-world-games | title = IGN India discusses game design: Combat in open world games | date = November 2, 2015}}</ref> It also had the ability to switch between attack mode and defense mode, quick [[Saved game|save]] and load options which can be used at any moment of the game, and the introduction of a [[Health (gaming)#Recharging health|health regeneration]] mechanic where health slowly regenerates when standing still.
+
+It sold 2 million copies in Japan, including 1 million for home computers (including the PC-88, PC-98, PC-66, Sharp X1, FM7, MSX, MSX2, and MZ-2000) and 1 million for the Famicom console.<ref name=john>John Szczepaniak, [http://www.kinephanos.ca/2015/history-of-japanese-video-games/ History of Japanese Video Games], ''Kinephanos'', ISSN 1916-985X</ref> It was the first computer game to receive a [[Platinum (award)|Platinum]] award from [[Toshiba EMI]] for a million sales.<ref name="Szczepaniak"/> However, it failed to capture the same attention beyond Japan.
+
+The game was influential on the action RPG genre, including titles such as ''[[Ys (series)|Ys]]''.<ref name="Szczepaniak"/> For example, ''Ys'' uses a similar health-regeneration mechanic.<ref name="gtm_falcom"/> The recharging health mechanic first introduced by ''Hydlide'' in 1984 would, decades later, become a common mechanic widely used in many video games,<ref name="gtm_falcom">{{cite journal|last=Szczepaniak|first=John|title=Falcom: Legacy of Ys|journal=[[GamesTM|Games]]|date=July 7, 2011|issue=111|pages=152–159 [153]|url=http://imageshack.us/f/32/yshistory02.jpg/|archive-url=https://archive.today/20121209065625/http://imageshack.us/f/32/yshistory02.jpg/|url-status=dead|archive-date=December 9, 2012|access-date=September 7, 2011}} ([[cf.]] {{cite web|last=Szczepaniak|first=John|title=History of Ys interviews|url=http://blog.hardcoregaming101.net/2011/07/history-of-ys-interviews-by-john.html|work=Hardcore Gaming 101|access-date=September 6, 2011|date=July 8, 2011}})</ref> including [[shooter game]]s such as ''[[Halo (series)|Halo]]''.<ref name=john/> ''Hydlide''{{'}}s open world game design inspired [[Hideo Kojima]], who designed ''[[Metal Gear Solid V: The Phantom Pain]]'' so that it captures the open-world feel he felt when he first played ''Hydlide'' on PC.<ref name="kojima">{{cite tweet|user=hideo_kojima_en|number=470783176634163200|title=However I was shocked when I first saw "HYDLIDE" on PC, which had the world there. I hope u can feel the same in open-world MGS GZ.}}</ref> [[PlatinumGames]] director [[Hideki Kamiya]] was inspired by the ''Hydlide'' series, which he cited as an influence on ''[[Scalebound]]'', a cancelled open world action RPG.<ref>{{cite web|url=http://www.polygon.com/a/life-in-japan/Hideki-Kamiya-Scalebound|title=Hideki Kamiya: Making Scalebound with a Western publisher &#124; Life in Japan — an 18-part look inside Japan's game industry|website=[[Polygon (website)|Polygon]]}}</ref><ref>{{cite web|url=http://www.eurogamer.net/articles/2015-08-07-scalebound-is-a-different-kind-of-platinum-game|title = Scalebound is a different kind of Platinum Game|website = [[Eurogamer]]|date = August 7, 2015}}</ref>
+
+''Hydlide'' was initially released outside of Japan through the European release of the MSX version. Beyond that, 1989 saw the release of a localization of ''Hydlide Special'' for the NES, simply titled ''Hydlide'' itself. Unlike ''[[Dragon Quest (video game)|Dragon Quest]]'', which was improved upon for its US localization, ''Hydlide'' was left essentially unaltered beyond minor changes to the title screen and some prompts/messages.<ref name=Kalata/> In North America, it was compared unfavorably to ''[[The Legend of Zelda (video game)|The Legend of Zelda]]'' (1986), which had improved significantly upon ''Hydlide''.<ref name=Kalata/> The NES version of ''Hydlide'' became notorious in the West for its repetitive background music that bears similarity to [[John Williams]]' ''[[Indiana Jones]]'' [[Raiders of the Lost Ark (soundtrack)|theme]] or [[Disney]]'s ''[[It's a Small World After All]]''.
+
+In ''[[Electronic Gaming Monthly]]''{{'}}s 1989 review of the NES version, Ed and Donn each scored it 6/10 while Steve and Jim scored it 5/10. Ed called it a "good" game with "average" graphics and "not too terribly annoying" music, and said it is "a good alternative to ''Ultima'', ''Zelda'', and other quest-oriented" RPGs; Steve said he's "not the biggest fan of RPG type games" and it is "a little tricky to get started" but has "some redeeming features" and many surprises despite "rough" graphics and sound; and Jim said the graphics are "not too good" but considered the gameplay as solid.<ref name="EGM"/> Retrospective reception of the game has been generally negative in the West.<ref name=Kalata/>
+
+===Series===
+''Hydlide'' had several follow-ups:
+* ''[[Hydlide II: Shine of Darkness]]'' was originally released for the [[NEC PC-8801]] in 1985 and then ported to the [[MSX]] in Japan. An official English version was released through the Dutch MSX games distribution platform WOOMB.net in late 2006, the first official release outside Japan. The game introduced a morality meter, where the player can be [[Alignment (role-playing games)|aligned]] with Justice, Normal, or Evil. Killing humans or good monsters lowers the player's morality, while fighting evil monsters increases it. If the player has an evil alignment, the townsfolk will ignore the player, denying access to certain clues, dialogues, equipment, and training. The game also introduced a time option, allowing the player to speed up or slow down the gameplay.<ref name=Kalata/>
+* ''[[Super Hydlide|Hydlide 3: The Space Memories]]'' was released in 1987 for the [[MSX]] in Japan; a [[Family Computer]] version (with the subtitle 闇からの訪問者 = yami kara no hōmonsha = visitor from darkness) was released in Japan in 1989. The game retains the morality meter of its predecessor and expands the time option with an in-game clock and a need to sleep and eat. The game uses four distinct character classes. This game was also re-released through the Dutch MSX games distribution platform WOOMB.net in late 2006, with an English translation.<ref name=Kalata/> ''Super Hydlide'' is an updated [[Porting|port]] of ''Hydlide 3'' released for the [[Sega Genesis|Sega Genesis/Mega Drive]]. It was released in Japan in 1989, in North America in 1990, and in Europe in 1991.
+* ''[[Virtual Hydlide]]'' is a 1995 remake of ''Hydlide'', still developed by [[T&E Soft]] but released exclusively for the [[Sega Saturn]]. It uses pseudo-3D graphics, a live action player character, and a system which creates a new game world for each game by randomly selecting from sets of pre-designed level maps.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/hydlide}}
+
+{{Hydlide}}
+
+[[Category:1984 video games]]
+[[Category:Action role-playing video games]]
+[[Category:Cancelled Sega Genesis games]]
+[[Category:FM-7 games]]
+[[Category:MSX games]]
+[[Category:MSX2 games]]
+[[Category:NEC PC-6001 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo Switch games]]
+[[Category:Role-playing video games]]
+[[Category:Sharp MZ games]]
+[[Category:Sharp X1 games]]
+[[Category:Video games developed in Japan]]
+[[Category:Windows games]]
+[[Category:Single-player video games]]
+[[Category:T&E Soft games]]

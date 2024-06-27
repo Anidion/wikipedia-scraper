@@ -1,0 +1,71 @@
+Dodge 'Em
+Permalink: //en.wikipedia.org/w/index.php?title=Dodge_%27Em&oldid=1220915225
+Accessed on: 2024-06-26T16:51:37.098174
+
+
+
+------
+Dodge 'Em
+{{Short description|1980 video game}}
+{{More citations needed|date=May 2015}}
+{{Infobox video game
+|title= Dodge 'Em
+|image=Dodge Em cover.jpg
+|caption=
+|developer= [[Atari, Inc.]]
+|publisher= Atari, Inc.
+|designer =
+|programmer = [[Carla Meninsky]]<ref name="Meninsky"/>
+|released= 1980
+|genre= [[List of maze video games|Maze]]
+|modes= [[Single-player video game|Single-player]], [[Two-player video game|two-player]]
+|platforms= [[Atari 2600]]
+}}
+'''''Dodge 'Em''''' is a driving-themed maze game programmed by [[Carla Meninsky]] and published in 1980 by [[Atari, Inc.]] for the Atari VCS (later renamed to the [[Atari 2600]]). Similar to [[Sega]]'s 1979 ''[[Head On (video game)|Head On]]'' arcade game, ''Dodge 'Em'' is played on a single screen of four concentric roadways. [[Sears]] released the game for the "Sears Video Arcade" as '''''Dodger Cars'''''.<ref>{{cite web|url=http://www.atariage.com/software_page.html?SystemID=2600&SoftwareID=1147|title=Dodger Cars (Sears)|work=AtariAge.com|accessdate=2010-08-26|archive-date=2012-10-15|archive-url=https://web.archive.org/web/20121015085001/http://www.atariage.com/software_page.html?SystemID=2600&SoftwareID=1147|url-status=dead}}</ref>
+
+The ''Dodge 'Em'' cartridge includes three versions of the game, accessible through the ''Game Select'' switch on the [[Atari 2600]].<ref name=atariage/> The first game is for one player, and the remaining two are for two players. The second game has the two players, one player playing the role of the player's car, alternating turns. In the third game, one player plays one car the other player controls the other car at the same time, alternating turns.
+
+==Gameplay==
+[[Image:Dodge_'Em_Screenshot.png|thumb|left|Gameplay screenshot]]
+
+The player controls one car and has to drive counter-clockwise, avoiding computer-controlled cars whose sole aim is to produce a head-on collision. The goal of the player is to collect all the dots from the maze. Each roadway of the maze has four gaps in it, at the top, bottom, left, and right of the screen. The player can use the gaps to change lanes in order to pick up dots or to avoid the computer-controlled cars.<ref name="manual"/>
+
+The player's car can travel at two speeds, a normal speed which is the same speed as computer-controlled cars, or a fast (doubled) speed activated by pressing the controller button. The computer-controlled cars have only one speed. Players change lanes by pushing the controller in the appropriate direction when their car is near one of the gaps in the roadway.
+
+The difficulty switches adjust the speed and the starting position of the computer-controlled car.  Screens 1 and 2 have a single opposing car; 3 through 5 feature two. Screen 6 is as if going back screen 1, losing one life.  The point counter resets at 1,000, although it reads as " 00" (with the hundreds digit blank) due to an error. A [[kill screen]] occurs at " 80" (1080 points) even if a player plays perfectly.
+
+==Reception==
+''Dodge 'Em'' was reviewed by ''[[Video (magazine)|Video]]'' magazine in its "Arcade Alley" column where it was described as "one of those rare videogames that is exciting in either one- or two-player versions". Although the reviewers suggested that "the early stages of each ''Dodge 'Em'' game can become predictable" for some players, the game was recommended to [[arcade game]] fans who were familiar with frequently replaying early levels in order to master them.<ref name=kunkel81/>{{rp|108}} It would go on to be given Honorable Mention in the category of "Best Solitaire Game" at the 3rd annual [[Arkie Awards]].<ref name=kunkel82/>{{rp|76}}
+
+==See also==
+{{Portal|Video games}}
+*[[List of Atari 2600 games]]
+*''[[Dodge Racer]]''
+
+==References==
+{{reflist|refs=
+<ref name=atariage>[http://www.atariage.com/box_page.html?SoftwareLabelID=144 Dodge 'Em - Atari 2600 - Atari - Color Box Style] {{Webarchive|url=https://web.archive.org/web/20110813055025/http://www.atariage.com/box_page.html?SoftwareLabelID=144 |date=2011-08-13 }}. AtariAge.com. Accessed 8 March 2009.</ref>
+<ref name=kunkel81>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Laney, Jr. |first2= Frank |author-link2= Arnie Katz|date= May 1981 |title= Arcade Alley: 'I Want To Be Alone' - Solo Video Games |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 5|issue= 2|pages= 24, 107–108|issn= 0147-8907}}</ref>
+<ref name=kunkel82>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Laney, Jr. |first2= Frank |author-link2= Arnie Katz|date= January 1982 |title= Arcade Alley: The Third Annual Arcade Awards |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 5|issue= 10|pages= 28, 76–77|issn= 0147-8907}}</ref>
+<ref name="Meninsky">{{cite web
+ | url       = http://www.atariage.com/programmer_page.html?ProgrammerID=37
+ | title       = Programmers: Carla Meninsky
+ | first       = Albert
+ | last       = Yarusso
+ | work       = [[AtariAge]]
+ | accessdate       = December 3, 2010
+ | archive-url       = https://web.archive.org/web/20121016082815/http://www.atariage.com/programmer_page.html?ProgrammerID=37
+ | archive-date       = October 16, 2012
+ | url-status       = dead
+ }}</ref>
+<ref name="manual">{{cite web|title=Dodge 'Em Manual|url=https://atariage.com/manual_thumbs.php?SoftwareLabelID=144|website=AtariAge}}</ref>
+}}
+
+[[Category:1980 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari games]]
+[[Category:Maze games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Sears video games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]

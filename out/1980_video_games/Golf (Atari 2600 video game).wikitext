@@ -1,0 +1,98 @@
+Golf (Atari 2600 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Golf_%28Atari_2600_video_game%29&oldid=1230934067
+Accessed on: 2024-06-26T16:51:39.826593
+
+
+
+------
+Golf (Atari 2600 video game)
+{{short description|1980 video game}}
+{{infobox video game
+|title = Golf
+|image = Golf Atari 2600 video game cover.jpg
+|caption = Cover art by Steve Hendricks
+|developer = [[Atari, Inc.]]
+|publisher = Atari, Inc.
+|designer = 
+|programmer = Michael Lorenzen
+|released = 1980
+|genre = [[Sports video game|Sports]]
+|modes = 1-2 players alternating turns
+|platforms = [[Atari 2600]]
+|alt = 
+}}
+
+'''''Golf''''' is a 1980 [[sports video game]] programmed by Michael Lorenzen for [[Atari, Inc.]] for the [[Atari 2600]].{{efn|The system became known as the Atari 2600 only after the release of the [[Atari 5200]] in 1982.{{sfn|Montfort|2006}}}} It is based on the traditional sport of [[golf]]. The game allows one or two players to play nine holes of the game, featuring various obstacles.
+
+''Golf'' was the first game developed at Atari by Lorenzen. On his first day of work, he was instructed to observe a competitors version of a golf video game and duplicate it for Atari. Lorezen's ''Golf'' features similarities ''Computer Golf'' for the [[Magnavox Odyssey 2]], such as the view point appearing closer to the cup. Lorezen recalled the development of the game to be stressful, noting he worked continuously to make the game fit into at two [[kilobyte]] rom cartridge.
+
+Lorezen would also make ''Circus Atari'' (1980) for Atari and later work at [[Activision]] and [[Accolade (company)|Accolade]] before leaving the video game industry. Retrospective reviews of ''Golf'' from [[Allgame]] and ''[[Electronic Games]]'' have been lukewarm, with Brett Alan Weiss noting the game's blocky graphics and simple sound hid an "enjoyably challenging" video game.{{sfn|Weiss}}
+
+==Gameplay==
+{{further|Glossary of golf}}
+[[File:Golf-Atari2600.png|left|thumb|A course in ''Golf''. The course is the green patches while the blue background represents the rough.{{sfn|Atari Corporation|1986|ref=manual}}]]
+''Golf'' is a video game patterned on the traditional game of [[golf]]. It can be played as a single player game or two players taking turns after each course. There are nine courses with the goal of the player to hit the ball into the cup. Each time you hit the ball in an effort to get to the cup is called a stroke. While the number of strokes is unlimited, each course has a designated "par", representing the number of strokes you ideally should take to complete the course. Total par for the game is 36. Using the difficulty switch on the Atari, the "B" position indicates an easier mode with the cup being larger and the ball stopping at the edge of the rough. In the "A" position, the cup is smaller and can be caught in the rough.{{sfn|Atari Corporation|1986|ref=manual}}
+
+The player uses the controller to swing the club and hit the ball. The longer the button is held on the joystick, the longer the backswing and more the ball will travel when hit. The golfer always points towards the ball and the ball will travel perpendicular to the club.{{sfn|Atari Corporation|1986|ref=manual}}
+
+The course is covered in hazards sand traps, trees and the rough. When hitting a tree with sufficient momentum, the ball bounces backwards. When it hits a water hazard, it will be returned to the fairway closest to where it entered the water and will receive an extra stroke penalty. Balls caught in sand traps become invisible and lose momentum when hit. When a ball hits the rough, represented by the blue patches in the game, it will lose all momentum. The ball in the rough will have half its regular momentum and be invisible.{{sfn|Atari Corporation|1986|ref=manual}}
+
+==Development==
+''Golf'' was developed by Mike Lorenzen for [[Atari, Inc.|Atari]] for the [[Atari 2600]] console.{{sfn|Pembrey|2023|p=34}} Lorenzen studied computer science at college. He had got his job at Atari by first calling asking for Atari 2600 hardware manuals as he had been taking apart games at home such as ''[[Combat (video game)|Combat]]'' (1977) and ''[[Basketball (1978 video game)|Basketball]]'' (1978) to see how they worked.{{sfn|Pembrey|2023|p=34}} After discussing with George Simcock, the manager of Atari 2600 software engineers, Lorenzen said he knew the machine well enough that he made his own development system for the console. He was then invited to meet with Simcock at Atari headquarters.{{sfn|Pembrey|2023|p=35}} Simcock met with [[David Crane (programmer)|David Crane]], [[Alan Miller (game designer)|Al Miller]], [[Larry Kaplan]] and [[Bob Whitehead]] and in three months later joined the team at Atari in 1979.{{sfn|Pembrey|2023|pp=34-35}}
+
+On Lorenzen's first day, he was told to go to an address to a store where he could play a competitors game in a lobby. Lorenzen could not confirm, but believes  it may have been ''Computer Golf'' for the [[Magnavox Odyssey 2]]. He was told to implement the game exactly for Atari's console. At the time of development, there were only a few other [[golf]]-themed games on the market, such as the [[Apple II]]'s text-based ''Pro Golf 1''.{{sfn|Pembrey|2023|p=34}} Among the elements similar to the Magnavox game was when the player hit a shot close to the goal, it view point in the game would zoom in to the green and the player. Lorenzen he felt he defied Atari's orders to duplicate the game stating that after a few hours of playing the game and making mental notes "I was not going to make a copy. I was going to make an enhanced version, a statement."{{sfn|Pembrey|2023|p=37}}
+
+It was regular at Atari at the time that developers would develop the games independently, making the game, its graphics and writing the manual. Lorenzen said he spent six months on ''Golf'' and working 100-hours weeks with the biggest challenge of fitting the code into a two [[kilobyte]] (KB) [[Read-only memory|ROM chip]].{{sfn|Pembrey|2023|p=35}} Lorenzen recalled he first made the game about 3.7 KB and would have to constantly optimize it to try and fit it into 2 KB all while retaining the gameplay. He later stated the whole ordeal was "a stressful period. I remember it was three or four days without sleep in the last big push."{{sfn|Pembrey|2023|p=36}} Other issues involved a bug that made the ball in the game vanish between the fairway and green.{{sfn|Pembrey|2023|p=36}}
+
+==Release==
+On the release of ''[[Space Invaders (Atari 2600 video game)|Space Invaders]]'' in early 1980 for the Atari 2600, it became an instant hit for the company earning them over $100 million. This led to Atari rescheduling their product from the holiday season to get as much of their products released throughout the year.{{sfn|Fulton|2008}} ''Golf'' was released in 1980 and was published by Atari.{{sfn|Pembrey|2023|p=34}}{{sfn|Video|1980|p=47|ref=VideoAtariAdds}}{{sfn|Vrabel|2017}} Newspapers promoted the cartridge being available in June 1980.<ref>{{cite news|newspaper=Chicago Heights Star|date=June 15, 1980|title=Atari|quote=We are now taking orders for the new cartridges [...] 9 Hole Golf ... Circus...Night Driver...3D Tic Tac Toe}}</ref> ''Golf'' was re-released in various compilation formats, such as the ''Atari 80 in One'' for Windows in 2003, ''[[Atari Anthology]]'' for [[PlayStation 2]] and [[Xbox]] in 2004, and ''[[Atari Greatest Hits|Atari Greatest Hits: Volume 2]]'' for [[Nintendo DS]] in 2011.{{sfn|Harris|2004}}{{sfn|Atari SA|2011|ref=AGH2-press}}
+
+The cover art of ''Golf'' was done by Steve Hendricks.{{sfn|Lapetino|2016|p=111}} Hendricks had moved to the [[San Francisco Bay Area]] showing his portfolio and meeting with Jim Kelly of Atari. He joined the company in 1977 and worked in the coin-op division creating art for arcade cabinets.{{sfn|Pembrey|2023|p=36}} Hendricks met with developers to implement features of the games in their work with most projects like ''Golf'' being relatively straightforward.{{sfn|Pembrey|2023|p=36}} ''Golf'' featured art in the montage style Cliff Spohn had developed as a regular in-house style for Atari.{{sfn|Pembrey|2023|p=36}} He made two different pieces of work for ''Golf'' with [[acrylic paint|acrylics]] and [[gouache]].{{sfn|Pembrey|2023|p=36}}{{sfn|Lapetino|2016|p=111}} He opted to use the second one for the final art.{{sfn|Pembrey|2023|p=36}}
+
+==Reception and legacy==
+{{Video game reviews
+| Allgame = 3/5{{sfn|Weiss}}
+| rev1 = ''[[Electronic Games]]''
+| rev1Score = 6/10{{sfn|Kunkel|p=92}}
+}}
+From retrospective reviews, the ''1984 Software Encyclopedia'' from the writers of ''[[Electronic Games]]'' rated the audio, graphics and gameplay as fair and the that it was overall good as a single player or two player game, giving it an overall six out of ten rating.{{sfn|Kunkel|p=92}} Brett Alan Weiss writing for [[AllGame]] found the game to be "drastically simplified" noting the simple sound effects and blocky graphics hid the more "enjoyably challenging" nature of the game.{{sfn|Weiss}}
+
+Along with ''Golf'', Lorenzen would make ''[[Circus (video game)|Circus Atari]]'' (1980) for Atari and would later turn-down the offer to make [[Pac-Man (Atari 2600 video game)|''Pac-Man'' for the Atari 2600]]. He worked in the [[Atari 8-bit computers|Atari 8-bit computer]] division before joining [[Activision]] and later [[Accolade (company)|Accolade]]. He left the video games to work in the telephone industry.{{sfn|Pembrey|2023|p=37}}
+
+Between 1984 and 1985, [[Atari Corporation]]{{efn|Atari Corporation is a separate entity and should not be confused with [[Atari, Inc.]], [[Atari Interactive]] or [[Atari SA]].{{sfn|Andersen|2011}}}} would sell filing cabinets filled with game source code, production documents and marketing diagrams. One customer purchased filing cabinets that were set to go into the trash for two dollars a piece. Inside were design diagrams for in-house games and graphics and artwork for several games including ''Golf''. In 2007 [[Sotheby's]] estimated that the documents were worth between $150,000 to $250,000.{{sfn|Andersen|2011}}
+
+==See also==
+{{Portal|Video games}}
+* [[List of Atari 2600 games]]
+* [[List of golf video games]]
+
+==References==
+{{reflist}}
+
+=== Notes ===
+{{notelist}}
+
+===Sources===
+* {{cite book|title=Golf Game Program Instructions|publisher=[[Atari Corporation]]|year=1986|id=C019741-34/A Rev. 1|ref=manual}}
+* {{cite press release|title=Atari Announces Atari Greatest Hits: Volume 2 Featuring Four-Player Multiplayer for the First Time|date=January 6, 2011|work=[[PR Newswire]]|url=https://www.prnewswire.com/news-releases/atari-announces-atari-greatest-hits-volume-2-featuring-four-player-multiplayer-for-the-first-time-113009104.html|publisher=[[Atari SA]]|access-date=February 16, 2024|ref=AGH2-press}}
+* {{cite web|url=https://www.gamedeveloper.com/business/where-games-go-to-sleep-the-game-preservation-crisis-part-1|work=[[Game Developer (website)|Game Developer]]|title=Where Games Go to Sleep: The Game Preservation Crisis, Part 1|date=January 26, 2011|last=Andersen|first=John|archive-url=https://web.archive.org/web/20210828123816/https://www.gamedeveloper.com/business/where-games-go-to-sleep-the-game-preservation-crisis-part-1|archive-date=August 28, 2021|access-date=February 16, 2024}}
+* {{cite web|url=https://www.gamedeveloper.com/business/atari-the-golden-years----a-history-1978-1981|work=Game Developer|title=Atari: The Golden Years -- A History, 1978-1981|last=Fulton|first=Steve|date=August 20, 2008|access-date=February 16, 2024|archive-url=https://web.archive.org/web/20220603091846/https://www.gamedeveloper.com/business/atari-the-golden-years----a-history-1978-1981|archive-date=June 3, 2022}}
+* {{cite web|first=Craig|last=Harris|title=Atari Anthology|url=https://www.ign.com/articles/2004/11/30/atari-anthology|publisher=[[IGN]]|date=November 30, 2004|access-date=January 26, 2023|archive-url=https://web.archive.org/web/20230126195851/https://www.ign.com/articles/2004/11/30/atari-anthology|archive-date=January 26, 2023}}
+* {{cite magazine|title=Programmables/Atari 2600|magazine=[[Electronic Games|1984 Software Encyclopedia]]|publisher=Reese Communications|issn=0736-8488|issue=2|editor-last=Kunkel|editor-first=Bill|editor1-link=Bill Kunkel (journalist)}}
+* {{cite book|title=Art of Atari|last=Lapetino|first=Tim|publisher=[[Dynamite Entertainment]]|isbn=978-1-5241-0103-9|year=2016}}
+* {{cite journal|url=https://gamestudies.org/0601/articles/montfort|title=Combat in Context|last=Montfort|first=Nick|volume=6|issue=1|date=December 2006|issn=1604-7982|access-date=April 28, 2023|journal=Game Studies|author-link=Nick Montfort}}
+* {{cite magazine|magazine=[[Retro Gamer]]|title=The Making of Golf|last=Pembrey|first=Graham|issue=252|year=2023|issn=1742-3155|publisher=Future Publishing Limited}}
+* {{cite web|url=https://www.golfdigest.com/story/37-years-later-atari-2600-golf-remains-the-finest-in-sports-video-game-simulation|work=[[Golf Digest]]|last=Vrabel|first=Jeff|date=June 21, 2017|access-date=February 16, 2024|title=37 Years Later, Atari 2600 'Golf' Remains the Finest in Sports Video Game Simulation}}
+* {{cite magazine|magazine=[[Video (magazine)|Video]]|title=Atari Adds Six Video Games|date=May 1980|volume=4|issue=2|issn=0147-8907|ref=VideoAtariAdds}}
+* {{cite web|url=http://www.allgame.com/game.php?id=8457|archive-url=https://web.archive.org/web/20141114111019/http://www.allgame.com/game.php?id=8457|title=Golf|last=Weiss|first=Brett Alan|access-date=February 16, 2024|archive-date=November 14, 2014|publisher=[[AllGame]]}}
+
+==External links==
+*{{atarimania|id=18199}}
+
+[[Category:1980 video games]]
+[[Category:Atari games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Golf video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

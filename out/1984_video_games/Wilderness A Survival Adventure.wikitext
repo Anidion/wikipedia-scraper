@@ -1,0 +1,67 @@
+Wilderness: A Survival Adventure
+Permalink: //en.wikipedia.org/w/index.php?title=Wilderness%3A_A_Survival_Adventure&oldid=1229885596
+Accessed on: 2024-06-26T16:57:52.838725
+
+
+
+------
+Wilderness: A Survival Adventure
+{{Infobox video game
+|title = Wilderness: a Survival Adventure
+|image = Wilderness A Survival Adventure cover.jpg
+|alt = 
+|developer = Titan Computer Products
+|publisher = Electric Transit
+|programmer = 
+|released = 1985 (Apple II)<br />1986 (DOS)
+|genre = [[Survival game|Survival]]
+|platforms = [[Apple II]], [[DOS]]
+|modes = [[Single-player]]
+}}
+'''''Wilderness: A Survival Adventure''''' is a [[survival game]], with gameplay revolving around surviving in a harsh landscape. The game created by [[Wesley Huntress]] and [[Charles Kohlhase]].
+
+==Plot==
+The background of the game's story is minimal. All that is truly known is that the player character has become lost in a wilderness area (the default being the [[Sierra Nevada]]) after his plane crashes, and must actively work to survive and possibly find a way to escape back to civilization.<ref>{{cite magazine |last=McGowan |first=Elizabeth |date=March 1987 |title=High Gear |url=https://books.google.com/books?id=998DAAAAMBAJ&q=%22Wilderness%3A+A+Survival+Adventure%22&pg=PA85 |magazine=Backpacker |access-date=October 23, 2018}}</ref> Interaction with other characters is scarce or entirely absent, depending on the terrain and how the player chooses to progress throughout the game.
+
+==Gameplay==
+Gameplay uses textual input and has 300 different typed commands.<ref>{{cite magazine |last=Stuckey |first=Scott |date=August 1985 |title=A Wilderness Adventure |url=https://books.google.com/books?id=nmYEAAAAMBAJ&q=%22Wilderness%3A+A+Survival+Adventure%22&pg=PA16 |magazine=Boys' Life |access-date=October 23, 2018}}</ref> In order to facilitate this, the game engine has a vocabulary of over 300 words. For example, to drink potable water one might type:
+{| class="wikitable sortable"
+|-
+| carry water
+|''How many ounces?''
+|1
+|''OK what next?''
+|use matches
+|''OK what next?''
+|make fire
+|''be careful''
+|use utensils
+|''OK what next?''
+|boil water
+|''OK what next?''
+|drink water
+|}
+
+The player must keep track of hunger, thirst, and fatigue temperature in addition to  Health; given as a percentage. This requires the accomplishment of everyday tasks such as eating, drinking, and sleeping, as well as hunting, cooking, gathering, and finding a place to rest.
+
+Another important aspect of the game is the item-crafting system. Many are useful, but absent. However, the game allows the player to create tools, weapons, and other items to assist in the player character's survival. For example, to use a splint, required if an injury is sustained, the player must have/acquire rope and a stick.
+
+Many of the items, such as kindling and arrows, degrade over time and ultimately break, making the building of additional items necessary. Foods, such as meats, can go rotten in just an in-game day, but there are some which will not, due to being preserved.
+
+The game features a non-linear structure, giving the player the freedom to progress through the game without specific goals in mind beyond attaining the basic necessities of survival.
+
+==Reviews==
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #30 (Jan 1986)<ref>{{Cite web|url=https://rpggeek.com/rpgissuearticle/139195/ludotique|title = Ludotique &#124; Article &#124; RPGGeek}}</ref>
+*''[[Games (magazine)|Games]]'' #70<ref>{{cite web | url=https://archive.org/details/games701985december/page/n51/mode/2up | title=GAMES Magazine #70 | date=December 1985 }}</ref>
+*''[[Tilt (French magazine)|Tilt]]'' #47<ref>{{cite web | url=https://archive.org/details/Tilt047/page/n119/mode/2up | title=Tilt 047 | date=November 1987 }}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:1984 video games]]
+[[Category:Apple II games]]
+[[Category:DOS games]]
+[[Category:Single-player video games]]
+[[Category:Survival video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the United States]]

@@ -1,0 +1,127 @@
+Quarterstaff: The Tomb of Setmoth
+Permalink: //en.wikipedia.org/w/index.php?title=Quarterstaff%3A_The_Tomb_of_Setmoth&oldid=1175472278
+Accessed on: 2024-06-26T17:04:55.187217
+
+
+
+------
+Quarterstaff: The Tomb of Setmoth
+{{Infobox video game
+|title  = Quarterstaff: The Tomb of Setmoth
+|image  = Quarterstafftombofsetmothcover.jpg
+|developer = [[Infocom]]
+|publisher = [[Activision]]
+|designer = Scott Schmitz and Ken Updike
+|engine = 
+|released = 1988
+|genre = [[Interactive fiction]]/[[role-playing video game]]
+|modes = [[Single player]]
+|platforms = [[Macintosh operating systems#Classic Mac OS|"Classic" Mac OS]], [[NEC PC-9801]], [[Sharp X68000]]
+}}
+'''''Quarterstaff: The Tomb of Setmoth''''' is an [[interactive fiction]] [[role-playing video game]] developed by Scott Schmitz and Ken Updike and released by [[Infocom]] for [[Macintosh]] in 1988. The game features a [[text parser]], graphics, a dynamically updated map, and a [[graphical user interface|graphical interface]] that incorporates [[Mac OS]] hierarchical [[Menu (computing)|menu]]s.
+
+==Overview==
+The player takes the part of Titus, a former blacksmith sent by the Druid Council to explore the remains of an underground colony of [[druid]]s who vanished without a trace. During the course of his adventures, Titus may befriend other characters and persuade them to join his party. Character skills improve with practice, and the game tracks the hunger, thirst and energy levels of characters.
+
+==Release history==
+''Quarterstaff: The Tomb of Setmoth'' was based on ''Quarterstaff'', a game released by Simulated Environment Systems in 1987.<ref name="statusline">{{cite journal|url=http://infodoc.plover.net/nzt/NZT7.3.pdf
+|title=Quarterstaff: Our first role-playing fantasy
+|journal=The Status Line
+|volume= VII
+|issue = 3
+|pages=3
+|date=Fall 1988
+|format=PDF
+|access-date=2006-12-09
+}}</ref> Simulated Environment Systems designed the game to support add-on modularity, and planned to create a town module to serve as a hub from which to send the characters of ''Quarterstaff'' on other adventures, retaining their inventories and experience.<ref name="MacUser">{{cite journal
+|journal=[[MacUser]]
+|volume=4
+|number=3
+|author=BT
+|date=March 1988
+|title=Quick Clicks: Quarterstaff
+|url=https://archive.org/details/MacUser8803March1988/page/n93/
+|pages=90–96
+|publisher=Ziff Davis
+|issn=0884-0997
+}}</ref>
+
+[[Activision]] purchased the rights to the game from Simulated Environment Systems in 1988, and released the game with improvements including color graphics, an upgraded interface,<ref>{{cite web
+|url=http://www.faqs.org/faqs/games/interactive-fiction/part2/
+|title=rec.games.int-fiction FAQ 2/3
+|date=2004-02-15
+|access-date=2006-12-09
+}}</ref> and writing input from [[Amy Briggs]].<ref>{{cite web
+|title=Amy Briggs
+|url=http://www.infocom-if.org/authors/briggs.html
+|publisher=www.infocom-if.org
+|access-date=2006-12-09
+}}</ref> Infocom revised the narrative voice from a mix of second and third person to a consistent third person narration. The box cover art was by [[Ken Barr]] and was reproduced in a color poster packaged with the game. Versions for the [[Apple IIGS]] and [[IBM PC]] were announced<ref name="statusline" /> but never released due to low sales.<ref>{{cite book
+|page=121
+|chapter=Infocom
+|title=High Score! Expanded
+|last=DeMaria
+|first=Rusel
+|publisher=[[CRC Press]]
+|date=2019
+|edition=3rd
+|isbn= 978-1-138-36719-7
+}}</ref> A planned sequel titled ''Storm Giants'' was never released.<ref name="dragon">{{cite journal|title=The Role of Computers |last1=Lesser |last2=Lesser|last3=Lesser|first1=Hartley |first2=Patricia|first3=Kirk |journal=Dragon|issue=133|date=May 1988|pages=46–47}}</ref>
+
+Infocom billed ''Quarterstaff'' as their first fantasy role-playing game,<ref name="statusline" /> although ''[[Beyond Zork]]'', released the previous year, had role-playing game elements. ''Quarterstaff'' was part of Activision's strategy to broaden Infocom's appeal in the wake of [[Infocom#Activision takeover|their acquisition of Infocom]] in 1986. Activision hoped to build on Infocom's tradition of text-based adventures by adding graphics in an attempt to attract players increasingly accustomed to more complex games that made use of rapidly evolving hardware. ''Quarterstaff'' and ''[[BattleTech: The Crescent Hawk's Inception]]'' (1988) were the first two Infocom games developed by outside sources;<ref>{{cite journal
+|journal=[[Compute!]]
+|volume=11
+|issue=106
+|title=Every Picture Tells a Story
+|url=https://archive.org/details/1989-03-compute-magazine/page/n83/
+|date=March 1989
+|publisher=[[ABC Publishing]]
+|page=82
+|last=Scisco
+|first=Peter
+}}</ref> both broke from Infocom traditions as graphically rich role-playing games.<ref>{{cite journal
+|journal=[[Computer and Video Games]]
+|issue=90
+|title=CES-er's Palace
+|url=https://archive.org/details/1989-03-compute-magazine/page/n83/
+|date=April 1989
+|publisher=[[EMAP]]
+|pages=83–84
+|last=Lacey
+|first=Eugene
+}}</ref>
+
+[[StarCraft, Inc.]] released Japanese language versions of ''Quarterstaff'' for [[PC-98]] in 1990 and [[Sharp X68000]] in 1991.
+
+==Reception==
+The Simulated Environment Systems version of ''Quarterstaff'' was reviewed positively in ''[[Dragon (magazine)|Dragon]]'', which called it "among the finest fantasy role-playing games available for any system" and "the most true to form FRP game we've found". ''Dragon'' praised the game's [[Non-player character|NPC]] [[artificial intelligence]] and the need to coordinate the actions of [[player character]]s.<ref name="dragon" /> The ''Dragon'' reviewers gave the game 5 out of 5 stars.<ref name="dragon" />
+
+''[[Macworld]]'' reviewed the Simulated Environment Systems version of ''Quarterstaff'', praising its UI, stating that the "Interface lets you concentrate on solving game puzzles, rather than on the quirks of the interface". ''Macworld'' furthermore praises its "flexible" gameplay, expressing that "''Quarterstaff'' offers a refreshing degree of flexibility in the types of activity it will accept. You can divide your group to explore different rooms ... In combat, you can engage in missile fire across room boundaries - Eolene can stand out of harm's way and fire arrows at a monster in the next room while Bruno and Titus charge in and attack face-to-face. The ability to direct individual or group efforts gives you a certain amount of tactical creativity." ''Macworld'' also praises the sound, automap feature, graphics, and lack of 'instant death' traps, instead allowing the player to escape triggered traps, or bring other members of the party to rescue them. They call ''Quarterstaff'' "a new approach to an old computer-game genre." ''Macworld'' however heavily criticizes a fatal glitch in their 1.0 review copy; one of the puzzles required to complete the game is unable to be completed.<ref>{{cite magazine|title = The Dungeon with a Difference: Quarterstaff 1.0 Review |url= https://archive.org/details/MacWorld_8802_February_1988| magazine=Macworld|publisher=Mac Publishing|pages=[https://archive.org/details/MacWorld_8802_February_1988/page/n208 205]|first=Otto| last=Waldorf|date=February 1988 }}</ref>
+
+''[[MacUser]]'' magazine rated the Simulated Environment Systems version of ''Quarterstaff'' four out of five mice, calling it a "must-have" for fantasy role-playing fans and saying that it "closely approximates what it's like to play a non-computer fantasy role-playing game." ''MacUser'' suggested that newcomers to role-playing games might prefer a lighter, less time-intensive introduction to the genre.<ref name="MacUser" />
+
+''[[Tilt (French magazine)|Tilt]]'' gave the Infocom version of ''Quarterstaff'' 18 out of 20, singling out the game's digitized sound and high quality writing, and describing the interface as a model of flexibility. ''Tilt'' praised the game's blend of role-playing and [[adventure game]] elements and called ''Quarterstaff'' the best game they'd seen on the Macintosh that year.<ref>{{cite magazine|title = Quarterstaff |url=https://archive.org/details/Tilt071/| magazine=[[Tilt (French magazine)|Tilt]]|publisher=Editions Mondiales S.A. |pages=[https://archive.org/details/Tilt071/page/n142 142]|first=Olivier | last=Scamps|date=November 1989 |issue=71|issn=0753-6968|language=French}}</ref>
+
+==Feelies==
+Infocom included extra novelty items called [[feelies]] with their packaged games. Included with ''Quarterstaff'' were:
+* A parchment, titled "The Path to Enlightenment"
+* A wooden druidic coin, which could be used in conjunction with the parchment and an in-game wand to identify items
+* A color poster
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MobyGames|id=/quarterstaff-the-tomb-of-setmoth}}
+* [https://web.archive.org/web/20180506042554/https://www.resonant.org/games/infocom/Infocom_Homepage/quarterstaff.html Quarterstaff] at Resonant.org
+
+{{Infocom games}}
+
+[[Category:1988 video games]]
+[[Category:Classic Mac OS games]]
+[[Category:Infocom games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Role-playing video games]]
+[[Category:X68000 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Russell Lieblich]]

@@ -1,0 +1,156 @@
+Gorf
+Permalink: //en.wikipedia.org/w/index.php?title=Gorf&oldid=1224117282
+Accessed on: 2024-06-26T16:52:19.450639
+
+
+
+------
+Gorf
+{{about|the arcade game|the comic book creator and cartoonist nicknamed "Gorf"|Jordan B. Gorfinkel}}
+{{short description|1981 video game}}
+{{Infobox video game
+|title         = Gorf
+|image         = Gorf flyer.png
+|caption       = Arcade flyer
+|developer     = [[Midway Games|Midway]]<br>Roklan Corporation<br> (Atari 8-bit/5200)<br>[[CBS#CBS Toys Division|CBS Electronics]] (2600)<br>Nuvatec (ColecoVision)
+|publisher     = {{collapsible list|title=[[Midway Games|Midway]]|titlestyle=font-weight:normal;font-size:inherit;background:transparent;text-align:left|'''Atari 8-bit'''{{vgrelease|NA|Roklan}} '''2600'''{{vgrelease|[[North America|NA]]/[[Europe|EU]]|CBS Electronics}} '''VIC-20'''{{vgrelease|NA|[[Commodore International|Commodore]]|EU|Handic Software}} '''5200'''{{vgrelease|NA|CBS Electronics}} '''BBC Micro'''{{vgrelease|EU|Doctorsoft}} '''ColecoVision'''{{vgrelease|NA|[[Coleco]]|EU|CBS Electronics}} '''C64'''{{vgrelease|NA|Commodore}}
+}}
+|designer      = [[Jamie Fenton]]
+|platforms     = {{cslist|[[Arcade video game|Arcade]]|[[Atari 8-bit]]|[[Atari 2600]], [[Atari 5200]]|[[BBC Micro]]|[[ColecoVision]]|[[Commodore 64]]|[[VIC-20]]}}
+|released      = {{collapsible list|title=February 1981|titlestyle=font-weight:normal;font-size:inherit;background:transparent;text-align:left|'''Arcade'''{{vgrelease|NA|February 1981<ref name="ah">{{cite web|url=https://www.arcade-history.com/?n=gorf-model-873&page=detail&id=991|title=Gorf [Model 873]|website=arcade-history.com|access-date=2018-10-06}}</ref>|EU|1981}} '''Atari 8-bit'''{{vgrelease|NA|1982<ref name="AM">{{cite web|url=http://www.atarimania.com/game-atari-400-800-xl-xe-gorf_6809.html|title=Atari 400 800 XL XE - Gorf|website=atarimania.com|access-date=2020-08-15}}</ref>}} '''2600, VIC-20'''{{vgrelease|WW|1982}} '''5200, C64'''{{vgrelease|NA|1983}} '''BBC Micro'''{{vgrelease|EU|1983}} '''ColecoVision'''{{vgrelease|WW|1983}}
+}}
+|genre         = [[Fixed shooter]]
+|modes         = {{cslist|[[Single-player video game|Single-player]]|2 player alternating}}
+|arcade system = [[Bally Astrocade|Astrocade]]<ref name="ah"/>
+}}
+
+'''''Gorf''''' is an [[arcade video game]] released in 1981 by [[Midway Games|Midway Manufacturing]], whose name was advertised as an acronym for "Galactic Orbiting Robot Force". It is a [[Shoot 'em up#Fixed shooters|fixed shooter]] with five distinct levels, the first of which is based on ''[[Space Invaders]]'' and another on ''[[Galaxian]]''. The game makes heavy use of [[Speech synthesis|synthesized speech]] for the Gorfian robot which taunts the player, powered by the [[Votrax]] speech chip.<ref name="gamespy50">{{cite web|url=http://www.gamespy.com/articles/115/1151159p3.html|title=GameSpy's Top 50 Arcade Games of All-Time (Page 3)|author=GameSpy Staff|work=[[GameSpy]]|date=February 25, 2011|access-date=October 1, 2016|archive-url=https://web.archive.org/web/20160915205516/http://www.gamespy.com/articles/115/1151159p3.html|archive-date=September 15, 2016|url-status=live|df=mdy-all}}</ref> ''Gorf'' allows the player to buy two additional lives per quarter before starting the game, for a maximum of seven lives.
+
+The home ports omit the ''Galaxians'' stage because the Japanese developer [[Namco]] owns the rights to the franchise.
+
+== Gameplay ==
+[[File:ARC Gorf (Astro Battles).png|thumb|left|Astro Battles, the game's first mission]]
+
+''Gorf'' is a fixed shooter in which the players take control of an unnamed starship from the Interstellar Space Force with a mission to prevent the Gorfian Empire from conquering Earth. The ship is capable of moving freely in all directions around the lower third of the screen under the control of a [[joystick]]. This was a departure from older vertically-oriented linear shooters, including ''Space Invaders'' and ''Galaxian'', which allowed only horizontal movement of the player's ship controlled by left and right buttons. At the time the joystick input and two-dimensional movement were still unusual enough that contemporary video game guides noted them as distinctive features of ''Gorf''.<ref name="blanchet_joystick">{{cite book
+ |last=Blanchet
+ |first=Michael
+ |date=1982
+ |title=How to Beat the Video Games
+ |location=New York
+ |publisher=Simon and Schuster
+ |page=101-4
+ |isbn=0671453750
+ |quote=To further complement this game, Midway added a new change to mobility and firepower capabilities. Instead of the standard laser base controls (right and left), ''Gorf'' uses a multidimensional joystick which allows free movement up, down, left or right in a set zone.
+ |quote-page=101}}</ref><ref name="hirschfeld_joystick">{{cite book
+ |last=Hirschfeld
+ |first=Tom
+ |date=1981
+ |title=[[How to Master the Video Games]]
+ |location=Toronto, New York, London, Sydney
+ |publisher=Bantam Books
+ |page=29-36
+ |isbn=0553201646
+ |quote=Also different is the multidirectional joystick with its trigger. The player's ship can move anywhere within a block of space at the bottom of the screen; although it can move in an infinite number of directions and curves, it always points upward. The player can control all of this motion, and fire, with just one hand.|quote-page=30
+}}</ref>
+
+Gameplay comprises five distinct missions; each mission presents its own distinct playstyle, but the central goal of each is to destroy all enemies. Successfully completing all five missions increases the player's rank, which represents the current [[difficulty level]] of the game, which loops back to the first mission. Gameplay continues until the player loses all of their lives.
+
+Before starting a new game, players can buy up to seven additional lives by purchasing more credits; an extra life is also granted after clearing the first five missions. Unlike similar games where the player can only fire their weapon after an existing shot has disappeared from the screen, the ship is equipped with a [[laser cannon]] capable of firing a single vertical shot (called a "quark laser") at any time, although doing so causes the previous shot to disappear.
+
+Players can advance through the ranks of ''Space [[Cadet]]'', ''Space [[Captain]]'', ''Space [[Colonel]]'', ''Space [[General]]'', ''Space [[Warrior]]'' and ''Space Avenger'', which increases the speed and difficulty of the game and introduces more enemy patterns. Depending on the version, the player's current rank is displayed via a series of integrated lit panels on the cabinet.
+
+Along the way, a robotic voice heckles and threatens the player, often calling and mocking the player by their current rank. Examples:
+
+* "Gorfians take no prisoners".
+* "I am the Gorfian consciousness/Empire".
+* "My Gorfian robots are unbeatable".
+* "Prepare yourself for annihilation".
+* "Robot warriors, seek and destroy".
+* "Some galactic defender you are!"
+* "Survival is impossible".
+* "You cannot escape the Gorfian robots".<ref>{{cite web | url=https://www.youtube.com/watch?v=5Io4eJ2fF3A&t=661s | title=Gorf (Arcade Longplay) | website=[[YouTube]]}}</ref> 
+
+=== Missions ===
+# '''Astro Battles''': A clone of ''[[Space Invaders]]''; it is the only mission that takes place on Earth instead of space. 24 enemies attack in the classic pattern set by the original game; however, the player is protected by a [[parabola|parabolic]] force field that switches off temporarily when the player's shots pass through it and is gradually worn away by enemy fire.
+# '''Laser Attack''': The first mission set in space, where the player must battle two formations of five enemies. Each formation contains three yellow enemies that attempt to dive-bomb the player, a white gunner that fires a single [[laser]] beam stream, and a red miniature version of the Gorf robot.
+# '''Galaxians''': As the name implies, this mission is a clone of ''[[Galaxian]]'', with the key differences being the number of enemies and the way enemies fire against the player. Gameplay is otherwise similar to the original game.
+# '''Space Warp''': This mission places the player in a sort of [[wormhole]], where enemies fly outward from the center of the screen and attempt to either shoot down or collide with the player's ship.  It is possible to destroy enemy shots in this level.
+# '''Flag Ship''': The Flag Ship is protected by its own force field, similar to the one protecting the player in Mission 1, and it flies back and forth firing at the player. To defeat it, the player must break through the force field and destroy the ship's core. As with the alien ship in ''[[Phoenix (1980 video game)|Phoenix]]'', the bottom of the flag ship must be blasted away to expose the vulnerable core. If a different part of the ship is hit, the player receives bonus points, and the part breaks off and flies in a random direction, potentially posing a risk to the player's ship. When the player successfully hits the core, the Flag Ship explodes in a dramatic display, the player advances to the next rank, and play continues on Mission One, with the difficulty increased. Later encounters with the Flag Ship on higher ranks include additional enemies during the mission.
+
+== Development ==
+''Gorf'' was originally intended to be a tie-in with ''[[Star Trek: The Motion Picture]]'' but after reading the film's script, the [[Video game design#Game designer|game designer]]s realized that the concept would not work as a video game;<ref name="gamespy50"/><ref name="classicgaming.gamespy.com">{{cite web|url=http://classicgaming.gamespy.com/View.php?view=Articles.Detail&id=387|archive-url=https://archive.today/20130629081159/http://classicgaming.gamespy.com/View.php?view=Articles.Detail&id=387|url-status=dead|archive-date=2013-06-29|title=ClassicGaming Expo 2000: Arcade Games Get A Personality|website=classicgaming.gamespy.com|access-date=2019-04-27}}</ref> however, the player's ship still resembles the [[Starship Enterprise|Starship ''Enterprise'']].<ref name="ah"/> The underlying hardware platform for ''Gorf'' allowed arcade operators to easily swap the pattern, CPU and RAM boards with other similar games such as ''[[Wizard of Wor]]'', since only the game logic and ROM boards are specific to each game.<ref name="ah"/><ref name="am">{{cite web|url=https://www.arcade-museum.com/game_detail.php?game_id=7983|title=Gorf - Videogame by Midway Manufacturing Co.|website=arcade-museum.com|access-date=2017-02-13|archive-url=https://web.archive.org/web/20170610102758/http://www.arcade-museum.com/game_detail.php?game_id=7983|archive-date=June 10, 2017|url-status=live|df=mdy-all}}</ref> The name of the game is also ''Frog'' spelled backwards; "Frog" was the nickname of designer [[Jamie Fenton]] during [[college]].<ref name="ah"/><ref name="am"/><ref name="ms.gorf">{{cite web|last=Fenton|first=Jamie|url=http://www.fentonia.com/bio/|title=1980 - The GORF Coin-op Video Game|website=fentonia.com|access-date=2019-04-27|archive-url=https://web.archive.org/web/20090307010455/http://www.fentonia.com/bio/|archive-date=March 7, 2009|url-status=live|df=mdy-all}}</ref>
+
+== Release ==
+''Gorf'' was released in North America in February 1981 and, notably, became one of the first titles to use synthesised speech (powered by the Votrax speech chip) as well as one of the first games to feature multiple screens.<ref name="ah"/><ref name="gamespy50"/>
+
+=== Ports ===
+''Gorf'' was [[ported]] to the [[Atari 8-bit computers]], [[Atari 2600]], [[Atari 5200]], [[BBC Micro]], [[ColecoVision]], [[Commodore 64]], and [[VIC-20]] by multiple developers between 1982 and 1983. Because of copyright issues, the ''Galaxians'' mission was removed from almost all versions.<ref name="ah"/><ref name="am"/> The Commodore 64 port is the only one with synthesized speech&mdash;via the Magic Voice Speech module.<ref>{{cite web|last=Lemon|first=Kim|url=https://www.lemon64.com/?game_id=1076|title=Gorf - Commodore 64, C64 Games, Reviews & Music!|website=lemon64.com|date=2003|access-date=2019-04-27|archive-url=https://web.archive.org/web/20190422210220/https://www.lemon64.com/?game_id=1076|archive-date=April 22, 2019|url-status=live|df=mdy-all}}</ref>
+
+== Reception ==
+{{Video game reviews
+|Allgame   = (Arcade) {{Rating|4.5|5}}<ref name="AGacGORF">{{cite web|last=Green|first=Earl|url=http://www.allgame.com/game.php?id=3660&tab=review|title=GORF (Arcade) - Review|website=[[AllGame]]|access-date=2019-04-26|archive-url=https://web.archive.org/web/20141114120217/http://www.allgame.com/game.php?id=3660&tab=review|archive-date=14 November 2014|url-status=live}}</ref><br />(2600) {{Rating|2.5|5}}<ref name="AG2600GORF">{{cite web|last=Alan Weiss|first=Brett|url=http://www.allgame.com/game.php?id=8661&tab=review|title=GORF (Atari Video Computer System) - Review|website=[[AllGame]]|access-date=2019-04-26|archive-url=https://web.archive.org/web/20141115002006/http://www.allgame.com/game.php?id=8661&tab=review|archive-date=15 November 2014|url-status=live}}</ref><br />(C64) {{Rating|2.5|5}}<ref name="AGc64GORF">{{cite web|last=Alan Weiss|first=Brett|url=http://www.allgame.com/game.php?id=3661&tab=review|title=GORF (Commodore 64/128) - Review|website=[[AllGame]]|access-date=2019-04-26|archive-url=https://web.archive.org/web/20141114125948/http://www.allgame.com/game.php?id=3661&tab=review|archive-date=14 November 2014|url-status=live}}</ref>
+|CVG       = (VIC-20) 3 / 10<ref name="CVGvic-20GORF">{{cite magazine|url=https://archive.org/stream/computer-video-games-magazine-022#page/n108/mode/1up|title=Software R•E•V•I•E•W•S: Commodore Aliens Back To Basics... - Gorf|magazine=[[Computer and Video Games]]|issue=22|publisher=[[Future plc|Future Publishing]]|date=August 1983|page=109}}</ref><br />(ColecoVision) 65%<ref name="CVG">{{cite magazine|url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46|title=Complete Games Guide|magazine=[[Computer and Video Games]]|issue=1|type=Complete Guide to Consoles|date=16 October 1989|pages=46–77}}</ref>
+|EuroG     = (Arcade) 8 / 10<ref name="EuroGacGORF">{{cite web|last=Spencer|first=Spanner|url=https://www.eurogamer.net/articles/gorf-review|title=Gorf • Too bad, Space Cadet|website=[[Eurogamer]]|date=October 26, 2007|access-date=2019-04-26}}</ref>
+|rev1      = ''[[Electronic Fun with Computers & Games|Electronic Fun]]''
+|rev1Score = (VIC-20) {{Rating|3|4}}<ref name="EFwCaGvic-20GORF">{{cite magazine|url=https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_01_1982-11_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_01_1982-11_Fun__Games_Publishing_US#page/n69/mode/2up|title=Game Reviews - Gorf - Commodore/VIC-20|magazine=[[Electronic Fun with Computers & Games]]|volume=1|issue=1|publisher=Richard Ekstract|date=November 1982|pages=70–71|access-date=April 26, 2019|archive-url=https://web.archive.org/web/20161023130759/https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_01_1982-11_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_01_1982-11_Fun__Games_Publishing_US#page/n69/mode/2up|archive-date=October 23, 2016|url-status=live|df=mdy-all}}</ref><br />(2600) {{Rating|2|4}}<ref name="EFwCaG2600GORF">{{cite magazine|last=Mills|first=Kim|url=https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_03_1983-01_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_03_1983-01_Fun__Games_Publishing_US#page/n68/mode/1up|title=Game Reviews - Gorf - CBS Games/Atari VCS|magazine=[[Electronic Fun with Computers & Games]]|volume=1|issue=3|publisher=Richard Ekstract|date=January 1983|page=69|access-date=April 26, 2019|archive-url=https://web.archive.org/web/20161023130806/https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_03_1983-01_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_03_1983-01_Fun__Games_Publishing_US#page/n68/mode/1up|archive-date=October 23, 2016|url-status=live|df=mdy-all}}</ref><br />(ColecoVision) {{Rating|3.5|4}}<ref name="EFwCaGCVGORF">{{cite magazine|last=Steere|first=Noel|url=https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_10_1983-08_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_10_1983-08_Fun__Games_Publishing_US#page/n55/mode/1up|title=Game Reviews - Gorf - Coleco/ColecoVision|magazine=[[Electronic Fun with Computers & Games]]|volume=1|issue=10|publisher=Richard Ekstract|date=August 1983|page=56}}</ref>
+|rev2      = ''Home Computing Weekly''
+|rev2Score = (VIC-20) {{Rating|5|5}}<ref name="HCWvic-20GORF">{{cite magazine|last=Donald|first=Tom|url=https://archive.org/stream/home-computing-weekly-017/Home_Computing_Weekly_017#page/n32/mode/1up|title=VIC-20 Software Reviews - Gorf - Commodore|magazine=Home Computing Weekly|issue=17|publisher=[[Argus Press#Argus Specialist Publications|Argus Specialist Publications]]|date=June 28, 1983|page=33|access-date=April 26, 2019|archive-url=https://web.archive.org/web/20171011032219/https://archive.org/stream/home-computing-weekly-017/Home_Computing_Weekly_017#page/n32/mode/1up|archive-date=October 11, 2017|url-status=live|df=mdy-all}}</ref>
+|rev3      = ''[[:de:TeleMatch|TeleMatch]]''
+|rev3Score = (ColecoVision) 3 / 6<ref name="TMcvGORF">{{cite magazine|url=https://www.kultpower.de/archiv/heft_telematch_1984-01_seite30|title=TeleMatch Test - Gorf (CBS/Colecovision) - Das "Galaxian-Phoenix-Invaders"-Spiel|magazine=[[:de:TeleMatch|TeleMatch]]|issue=8|publisher=TeleMatch Verlag|date=January 1984|page=30|lang=de|issn=0174-741X}}</ref>
+|rev4      = ''[[Tilt (French magazine)|Tilt]]''
+|rev4Score = (2600) {{Rating|5|6}}<ref name="Tilt2600GORF">{{cite magazine|url=http://download.abandonware.org/magazines/Tilt/tilt_numero006/Tilt6%20039.JPG|title=Tubes - Cassettes - Gorf|magazine=[[Tilt (French magazine)|Tilt]]|issue=6|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=July–August 1983|page=39|lang=fr}}</ref>
+|rev5      = ''Video Games Player''
+|rev5Score = (ColecoVision) B+<ref name="VGPcvGORF">{{cite magazine|last=Dimetrosky|first=Raymond|url=https://archive.org/stream/Video_Games_Player_Vol_2_No_2_1983-11_Carnegie_Publications_US#page/n53/mode/1up|title=Third Wave - Reviews - Video Game Buyer's Guide - Gorf|magazine=Video Games Player|volume=2|issue=2|publisher=Carnegie Publications|date=November 1983|page=54}}</ref>
+|award1Pub = ''[[Video (magazine)|Video]]'' (1983)
+|award1    = Best Solitaire Video Game <small>(2600)</small><ref name="AATFAAA">{{cite magazine|last1=Kunkel|first1=Bill|author-link1=Bill Kunkel (journalist)|last2=Katz|first2=Arnie|author-link2=Arnie Katz|title=Arcade Alley: The Fourth Annual Arcade Awards|magazine=[[Video (magazine)|Video]]|volume=6|issue=11|publisher=Reese Communications|date=February 1983|pages=30, 108|issn=0147-8907}}</ref>{{rp|30}}
+|award2Pub = ''[[Video (magazine)|Video]]'' (1984)
+|award2    = Best Computer Game Audio-Visual Effects <small>(2600)</small><ref name="AAT1984AAPII">{{cite magazine|last1=Kunkel|first1=Bill|author-link1=Bill Kunkel (journalist)|last2=Katz|first2=Arnie|author-link2=Arnie Katz|title=Arcade Alley: The 1984 Arcade Awards, Part II|magazine=[[Video (magazine)|Video]]|volume=7|issue=11|publisher=Reese Communications|date=February 1984|pages=28–29|issn=0147-8907}}</ref>{{rp|28}}
+|award3Pub = ''[[Electronic Gaming Monthly]]'' (2006)
+|award3    = #183 [[List of video games considered the best|Top 200 Best Games of All Time]] <small>(Arcade)</small><ref name="EGM200">{{cite magazine|last=Semrad|first=Steve|url=https://archive.org/stream/electronicgamingmonthlyissue200feb2006600dpi#page/n75/mode/1up|title=The Greatest 200 Videogames Of Their Time|magazine=[[Electronic Gaming Monthly]]|issue=200|publisher=[[Ziff Davis]]|date=February 2006|page=76}}</ref>
+}}
+
+The arcade version reached the top of the US ''[[Play Meter]]'' arcade charts in [[1981 in video games|September 1981]].<ref>{{cite book |last1=Kubey |first1=Craig |title=The Winners' Book of Video Games |date=1982 |publisher=New York: [[Warner Books]] |isbn=978-0-446-37115-5 |page=121 |url=https://archive.org/details/Winners_Book_of_Video_Games/page/n137}}</ref> The Atari 2600 version of the game received a Certificate of Merit in the category of "Best Solitaire Video Game" at the 4th annual [[Arkie Awards]],<ref name="AATFAAA"/><ref>{{cite magazine|url=https://www.kultpower.de/archiv/heft_telematch_1983-05_seite29|title=TeleMatch Test - Gorf (Atari VCS) - Eine Kreuzung aus mehreren Weltraumspielen|magazine=[[:de:TeleMatch|TeleMatch]]|issue=5|publisher=TeleMatch Verlag|date=September 1983|page=28|lang=de|issn=0174-741X|access-date=April 27, 2019|archive-url=https://web.archive.org/web/20130712103106/http://www.kultpower.de/archiv/heft_telematch_1983-05_seite29|archive-date=July 12, 2013|url-status=live|df=mdy-all}}</ref> and received the "1984 Best Computer Game Audio-Visual Effects" award at the 5th Arkies the following year. At the 5th Arkies the judges pointed out that the Atari versions had out-polled both the ColecoVision and Commodore 64 versions of the game, and they suggested that it is the game's "varied action" that "keeps players coming back again and again".<ref name="AAT1984AAPII"/>
+
+Regarding the VIC-20 version, ''[[Electronic Games]]'' wrote that "this fast-moving colorful entry is a must ... one of the best games available for the VIC-20",<ref name="EGvic-20GORF">{{cite magazine|last=Komar|first=Charlene|url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n65/mode/2up|title=Computer Gaming - Gorf - 'Four Scenarios of Fighting Aliens Make Gorf a Tough Test'|magazine=[[Electronic Games]]|issue=16|publisher=Reese Publishing Company|date=June 1983|page=69|access-date=August 1, 2016|archive-url=https://web.archive.org/web/20150107032556/http://www.archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n65/mode/2up|archive-date=January 7, 2015|url-status=live|df=mdy-all}}</ref> and ''[[Ahoy!]]'' stated that the VIC-20 version "still has my vote for the best of the bunch ... The graphics are excellent".<ref name="salm198403">{{cite news | url=https://archive.org/stream/Ahoy_Issue_03_1984-03_Ion_International_US#page/n47/mode/2up | title=VIC Game Buyer's Guide | work=[[Ahoy!]] | date=March 1984 | access-date=27 June 2014 | author=Salm, Walter | pages=49 | archive-url=https://web.archive.org/web/20141210094635/https://archive.org/stream/Ahoy_Issue_03_1984-03_Ion_International_US#page/n47/mode/2up | archive-date=December 10, 2014 | url-status=live | df=mdy-all}}</ref>
+
+''Gorf'' is included in the 2010 book ''[[1001 Video Games You Must Play Before You Die]]''.<ref name="1001vgympbyd">{{cite book|last=Mott|first=Tony|title=[[1001 Video Games You Must Play Before You Die]]|publisher=[[Universe Publishing]]|date=2010|isbn=978-0-7893-2090-2}}</ref>
+
+== Legacy ==
+A planned sequel, ''Ms. Gorf'', was never released. It was programmed in the [[programming language]] [[Forth (programming language)|Forth]]. The [[source code]] for the prototype is owned by Jamie Fenton. The game exists only as source code stored on a set of [[History of the floppy disk#Origins.2C the 8-inch disk|8-inch floppy disks]], and would require access to a development environment that no longer exists in order to compile it into executable machine code.<ref name="classicgaming.gamespy.com"/><ref name="metro_sv">{{cite web|last=Newitz|first=Annalee|author-link=Annalee Newitz|url=http://www.metroactive.com/papers/metro/08.23.01/work-0134.html|title=Secrets of Ms. Gorf|publisher=[[Metro Silicon Valley]]|date=2001|access-date=2013-04-18|archive-url=https://web.archive.org/web/20130607031854/http://www.alternet.org/story/11349/secrets_of_ms._gorf|archive-date=June 7, 2013|url-status=dead|df=mdy-all}}</ref>
+
+In 2006, an unlicensed port of ''Gorf'' was released for the [[Atari Jaguar CD]] by hobbyist developer 3D Stooges Software Studios.<ref>{{cite magazine|title=En Bref... - Jaguar|magazine=ReVival|issue=31|publisher=ABCD Dire|date=June 9, 2006|pages=9–10|lang=fr}}</ref><ref>{{cite web|last=Smith|first=Jason|url=http://www.jaguarsector.com/index.php?autocom=ibwiki&cmd=article&do=print_article&id=379|title=Atari Jaguar Timeline|website=jaguarsector.com|access-date=2018-10-06|archive-url=https://archive.today/20130629025431/http://www.jaguarsector.com/index.php?autocom=ibwiki&cmd=article&do=print_article&id=379|archive-date=2013-06-29|url-status=dead}}</ref><ref>{{cite web|url=https://www.retrogamer.net/top_10/atari-jaguar/|title=Top Ten Atari Jaguar Games|publisher=[[Retro Gamer]]|date=June 23, 2014|access-date=2019-04-27|archive-url=https://web.archive.org/web/20170119112310/http://www.retrogamer.net/top_10/atari-jaguar/|archive-date=2017-01-19|url-status=live}}</ref> Another hobbyist clone for the [[Game Boy Advance]] was made available in 2010.<ref>{{cite web|last=Ragan|first=Jess|url=https://www.gbadev.org/demos.php?showinfo=1375|title=GameBoy Advance GORF|website=gbadev.org|date=April 4, 2010|access-date=2019-04-27|archive-url=https://web.archive.org/web/20150810162830/http://gbadev.org/demos.php?showinfo=1375|archive-date=August 10, 2015|url-status=live|df=mdy-all}}</ref><ref>{{cite web|last=McFerran|first=Damien|url=https://www.timeextension.com/guides/best-atari-jaguar-games|title=Best Atari Jaguar Games - Roar-some 64-bit power|work=Time Extension|publisher=[[Hookshot Media]]|date=July 7, 2023|access-date=2023-07-07|archive-url=https://web.archive.org/web/20230707181323/https://www.timeextension.com/guides/best-atari-jaguar-games|archive-date=2023-07-07|url-status=live}}</ref> Other independent developers have also created titles influenced by ''Gorf'' on other platforms.<ref>{{cite magazine|url=https://archive.org/stream/GameGO_Vol_1_Issue_1#page/n63/mode/1up|title=Left Overs - Hardcore Gaming Info We Couldn't Put Anywhere Else - The Jaguar Roars|magazine=GameGO!|volume=1|issue=1|publisher=Video Game Depot Corp|date=June 2001|page=62}}</ref><ref>{{cite web|last=Dolce|first=Mike|url=http://www.classicgaming.com/jfpn/gorfpluz_preview.htm|title=Preview - Gorf Pluz / Gorf 2K|publisher=Jaguar Front Page News|date=May 19, 2002|access-date=2019-06-22|archive-url=https://web.archive.org/web/20070409012435/http://www.classicgaming.com/jfpn/gorfpluz_preview.htm|archive-date=April 9, 2007|url-status=dead|df=mdy-all}}</ref><ref>{{cite web|url=http://archives.dcemulation.org/consolevision/dreamcast/|title=Gorf Pluz Coming For Jaguar, Dreamcast, and PC|work=DCVision|publisher=Consolevision.com|date=August 5, 2005|access-date=2019-08-12|archive-url=https://web.archive.org/web/20190812015129/http://archives.dcemulation.org/consolevision/dreamcast/|archive-date=2019-08-12|url-status=live|df=dmy-all}}</ref>
+
+=== Competitive play ===
+On July 8, 2019, Matthew Garrett set a new world record score in ''Gorf'' of 1,543,160 points, recognized by [[Twin Galaxies]]. His game spanned 953 missions across 6 hours 41 minutes. Garrett holds the world record for both the arcade 3 & 6 life settings and is the first person recorded to reach mission 500 (having beaten each of the 5 individual levels 100 times) without losing a life. The previous world record was set by Keith Swanson in 2011 with a score of 1,129,660.<ref>{{cite web|url=https://www.twingalaxies.com/game/gorf/arcade|title=Gorf|publisher=[[Twin Galaxies]]|date=July 8, 2019|access-date=2020-08-15|archive-url=https://web.archive.org/web/20200815132310/https://www.twingalaxies.com/game/gorf/arcade|archive-date=2020-08-15|url-status=live}}</ref>
+
+== See also ==
+* ''[[Stratovox]]'' (1980), first arcade game with synthesized voice
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://gamefaqs.gamespot.com/arcade/583973-gorf ''Gorf''] at [[GameFAQs]]
+* {{KLOV game|id=7983}}
+* [https://www.mobygames.com/game/gorf ''Gorf''] at [[MobyGames]]
+
+{{Galaxian}}
+{{Portal bar|1980s|United States|Video games}}
+
+{{DEFAULTSORT:Gorf}}
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Fixed shooters]]
+[[Category:Midway video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:VIC-20 games]]
+[[Category:Video games about robots]]
+[[Category:Video games developed in the United States]]
+[[Category:CBS Electronics games]]

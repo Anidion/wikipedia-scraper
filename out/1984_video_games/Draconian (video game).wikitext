@@ -1,0 +1,54 @@
+Draconian (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Draconian_%28video_game%29&oldid=1184250041
+Accessed on: 2024-06-26T16:56:39.908382
+
+
+
+------
+Draconian (video game)
+{{short description|Multidirectional shooter video game}}
+{{More citations needed|date=April 2019}}
+{{Infobox video game
+| title = Draconian
+| collapsible = 
+| state = 
+| image = Draconian title.png
+| caption = 
+| developer = Mike Hughey<ref>[http://www.speedsolving.com/forum/showthread.php?497-Other-hobbies&s=e3bb40edc7a95e8b048bc7342cc1bbe4&p=11353&viewfull=1#post11353 I wrote a few games for the TRS-80 color computer about 20 years ago.], Mike Hughey 2007-07-23, speedsolving.com</ref><ref>[https://archive.org/stream/the-gamers-connection-1988-09/The_Gamers_Connection_-_2_of_4_September-October_1988#page/n41/mode/1up Draconian], Reviewed by: Joanne Ziskl, Page 40,  Vol 1/Issue 2, The Gamers Connection (September–October 1988), Published:September 1988</ref><ref>[http://blog.simonhardy.com/HOSTING/Dragon2009/approvals/Michael_Hughey.txt Subject: CoCo software archives], Date: Thu, 19 Jun 1997, ''My name is Mike Hughey. I contributed a few games of some value to the CoCo world, and I would be THRILLED to give my permission for these games to be distributed freely. Please feel free to distribute them as desired, in whatever format.  The two "good" games I distributed were both through Tom Mix: Draconian, Grabber''</ref>
+| publisher = Tom Mix Software
+| series = 
+| engine = 
+| released = [[1984 in video gaming|1984]]
+| genre = [[Multidirectional shooter]]
+| modes = [[Single-player]]
+| platforms = [[TRS-80 Color Computer]]
+|alt = 
+}}'''''Draconian''''' is a [[multidirectional shooter]] released in 1984.  It was written by Mike Hughey and published via Tom Mix Software.  The game was initially released for [[TRS-80 Color Computer]] and converted for the [[Dragon 32/64]]. ''Draconian'' is based upon the arcade game ''[[Bosconian]]'' where the player navigates a ship through scrolling space to destroy enemy [[military base|bases]].<ref name=boyle/>
+
+==Gameplay==
+[[Image:Draconian - game tandy Color computer - emulator.png|thumb|Little dragons attacking the player's ship]]
+
+''Draconian'' adds some features to the ''Bosconian'' design:
+#Bases contain [[prisoner]]s who can optionally be freed to gain more points.
+#The space shuttle is attacked by little [[dragon]]s.
+#There is one big indestructible dragon which chases the player when time is running out.
+#The player needs to avoid [[Land mine|mines]] and [[asteroid]]s.
+
+The user needs to destroy all bases to complete a level. If done, a small tunnel will open. The spaceship will explode when the borders of the tunnel are hit.  In case the user flies against the borders of the field, the space shuttle will bounce back.
+
+==References==
+{{reflist|refs=
+<ref name="boyle">{{cite web |last1=Boyle |first1=L. Curtis |title=Draconian |url=http://www.lcurtisboyle.com/nitros9/draconian.html |website=Tandy Color Computer Game List}}</ref>
+}}
+
+==External links==
+*[http://www.colorcomputerarchive.com/coco/Documents/Manuals/Games/Draconian%20%28Tom%20Mix%20Software%29.txt ''Draconian'' manual]
+*{{youtube|iZh-n-VeM9s|DRACONIAN for the Tandy Color Computer - A Closer Look}}
+
+[[Category:1984 video games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+
+
+{{shmup-videogame-stub}}

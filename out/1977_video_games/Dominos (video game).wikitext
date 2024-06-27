@@ -1,0 +1,58 @@
+Dominos (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dominos_%28video_game%29&oldid=1229740536
+Accessed on: 2024-06-26T16:47:43.929926
+
+
+
+------
+Dominos (video game)
+{{short description|1977 video game}}
+{{more citations needed|date=September 2017}}
+{{Infobox video game
+|title = Dominos
+|image = ATARI - DOMINOS.jpg
+|image_size = 250px
+|caption = Promotional flyer
+|developer = [[Atari, Inc.]]
+|released = January 1977
+|genre = [[Snake (video game genre)|Snake]]
+|platforms = [[Arcade game|Arcade]]
+}}
+
+'''''Dominos''''' is a one, two or four-player video action game packaged in its own distinctively styled upright cabinet that rest directly on the floor.
+
+==Gameplay==
+Gameplay is a variation of the [[snake (video game genre)|snake]] genre, in which players compete by surrounding each other with lines of dominos. Players change direction via a set of four directional buttons representing up, down, right, and left respectively. A player loses when they hit a wall, their own dominos, or their opponent's, at which point all the dominos in their line "fall" down. At the end of each round, a point is awarded to the winner of that round until the end point goal is reached. The point goal can be 3, 4, 5, or 6 points.<ref>{{cite web|title=Dominos Manual|url=https://www.arcade-museum.com/manuals-videogames/D/Dominos.pdf|accessdate=19 September 2017}}</ref><ref name="midway">{{cite web|title=Dominos Killer List of Video Games Entry |url=http://www.klov.com/game_detail.php?letter=D&game_id=7604|accessdate = 2007-07-06}}</ref>
+
+==Development==
+''Dominos'' was programmed by Dennis Koble.{{sfn|Drury|2020|p=33|ref=DomRetGame}} He had joined Atari in 1976 and was only the fourth programmer at the company. His first project was ''[[Sprint 2]]'' (1976) made with [[Lyle Rains]] and Dan Van Elderen.{{sfn|Drury|2020|p=32|ref=DomRetGame}}  Koble stated that despite being credited as the programmer on ''Dominos'', Rains was "the brains behind the game", stating that Rains suggested the concept, drew the graphics and created the AI for the computer controlled player.{{sfn|Drury|2020|p=33|ref=DomRetGame}}
+
+Following the release of ''[[Blockade (video game)|Blockade]]'' by [[Gremlin Industries]], Atari wanted to make their own version of the game. Koble said the game was not stolen from ''Blockade'', stating that prior to Gremlin's release, he had seen similar [[snake (video game genre)|snake video games]] on [[ARPANET]] and [[CompuServe]], which made him feel he was not stealing Gremlin's game.{{sfn|Drury|2020|p=32|ref=DomRetGame}} Among the additions made to the game, Koble added a computer-controlled opponent, giving the game a single-player mode.{{sfn|Drury|2020|p=33|ref=DomRetGame}}
+
+Koble claimed it was made in a short amount of time, estimating about 13 weeks from to complete. He recalled that the game was made when Atari was still a "young company and just trying to survive as they made the transition into using [[microprocessors]]. They didn't quite have the standards they developed later".{{sfn|Drury|2020|p=32|ref=DomRetGame}}
+
+==Release and reception==
+''Dominos'' was shipped in January 1977.{{sfn|Akagi|2006|p=110}} Following ''Dominos'', Koble went on to program ''[[Avalanche (video game)|Avalanche]]'', his final game for Atari.{{sfn|Drury|2012|p=88|ref=DruryBio}} Atari would shortly release another snake game, ''[[Surround (video game)|Surround]]'' for the [[Atari 2600]] on September 1977.{{sfn|Bunch|2022|p=114}}
+
+From retrospective reviews, Bret Alan Weiss wrote in [[Allgame]] that ''Dominos'' was a simplistic game in terms of both visuals and gameplay and that it was superior as a two-player game, but it was "more fun than it looks, which isn't saying much".{{sfn|Weiss}}
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite book|trans-chapter=Overseas Edition|chapter=海外編|title=アーケードTVゲームリス 国内 • 海外編 (1971 - 2005)ト|trans-title=Arcade TV Game List  Domestic/Overseas Edition (1971-2005)|last=Akagi|first=Masumi|publisher=Amusement News Agency |language=Japanese |location=Japan |isbn=978-4990251215|year=2006}}
+* {{cite book|title=Atari Archive: Vol.1 1977-1978|last=Bunch|first=Kevin|publisher=[[Limited Run Games|Press Run Books]]|isbn=978-1-955183-21-5|year=2022}}
+* {{cite magazine|magazine=[[Retro Gamer]]|title=Dennis Koble|last=Drury|first=Paul|issue=107|ref=DruryBio|publisher=Imagine Publishing|ISSN=1742-3155|year=2012}}
+* {{cite magazine|magazine=Retro Gamer|last=Drury|first=Paul|title=The Making of Dominos|issue=211|ref=DomRetGame|ISSN=1742-3155|year=2020|publisher=Future PLC}}
+* {{cite web|archiveurl=https://web.archive.org/web/20141114131854/http://www.allgame.com/game.php?id=9930&tab=review|url=http://www.allgame.com/game.php?id=9930&tab=review|title=Dominos|last=Weiss|first=Brett Alan|publisher=[[Allgame]]|accessdate=February 12, 2024|archivedate=November 14, 2014}}
+
+{{1970s Atari arcade games}}
+
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:1977 video games]]
+[[Category:Atari arcade games]]
+[[Category:Snake video games]]
+[[Category:Video games developed in the United States]]
+
+{{arcade-stub}}

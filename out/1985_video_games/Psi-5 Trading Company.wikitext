@@ -1,0 +1,116 @@
+Psi-5 Trading Company
+Permalink: //en.wikipedia.org/w/index.php?title=Psi-5_Trading_Company&oldid=1229478181
+Accessed on: 2024-06-26T16:58:58.368709
+
+
+
+------
+Psi-5 Trading Company
+{{Short description|1985 video game}}
+{{more citations needed|date=March 2014}}
+{{Infobox video game
+| title         = Psi 5 Trading Company
+| image         = Psi 5 Trading Company cover.jpeg
+| caption       = 
+| developer     = [[Distinctive Software]]<ref name="AllGame" />
+| publisher     = {{vgrelease|NA|[[Accolade (company)|Accolade]]|EU|[[U.S. Gold]]}}
+| series        = 
+| engine        =
+| platforms     = [[Amstrad CPC]], [[Commodore 64]], [[IBM PC compatible|IBM PC]], [[ZX Spectrum]]
+| released      = [[1985 in video gaming|1985]]
+| genre         = [[Space trading game]], [[Real-time strategy]]<ref name="AllGame" />
+| modes         = [[Single-player video game|Single-player]]
+| director      = 
+| producer      = 
+| designer      = Mike Lorenzen<ref name="MobyCredits" />
+| programmer    = Mike Lorenzen<ref name="MobyCredits" />
+| artist        = Mimi Doggett<ref name="MobyCredits" />
+| writer        = 
+| composer      = [[Ed Bogas]]<ref name="MobyCredits" />
+}}
+
+'''''Psi-5 Trading Company''''' (also rendered as '''''Psi 5 Trading Company''''', '''''PsiΨ5 Trading Company''''', '''''Psi5 Trading Company''''' and '''''PSI-5 Trading Company''''') is a [[1985 in video gaming|1985]] [[space trading game]], one of the first games published by fledgling [[video game developer]] and [[video game publisher|publisher]] [[Accolade (company)|Accolade]].
+
+The game was released the [[Amstrad CPC]], [[Commodore 64]], [[IBM PC compatible|IBM PC]], and [[ZX Spectrum]].
+
+==Description==
+
+===Setup===
+The player selects the crew to man the ship. Each ship department has various candidates, including aliens and robots. Each candidate is described in a short profile. The candidates differ in abilities, for example, in their degree of autonomy, efficiency, foresight for possible imminent problems, obedience, stress tolerance, physical vulnerability and teamwork. A single "best team" does not exist, since every candidate has advantages and disadvantages. Robots are, for example, particularly obedient and stress-tolerant, but also particularly dependent and poor team players.<ref name="AllGame" /> The team members are animated throughout the game.
+
+;Candidates:
+* Weapons Department: Boris, Q6-D, Yeela, Al, Skulard, Grolo
+* Scanning Department: Jaru, Churglik, Phyzo, Nargo, Mike, Blustan
+* Navigation Department: Nik, KLG-7A, Tegra, Broxaag, Aymu, Yenx
+* Engineering Department: Craven, Anthony, VX-4, Fligronk, Sheema, Wilfo
+* Repair Department: Anxy, Bru, T3XR9, Volfgank, Ryblo, Swiglitz
+
+===Gameplay===
+The game is played by a [[single-player video game|single player]]. The aim is to transport a valuable cargo from the starting planets through a pirate-infested space as undamaged as possible. The target planets have three different routes with different hazards and correspondingly different levels of rewards.<ref name="AllGame" />
+
+The player must give the crew orders to operate and pilot the ship. Herein lies the difficulty: the player must make quick decisions and set priorities in order to handle, for example, several attackers in time and fight them in a sensible manner, with the right weapons and to divide energy for various purposes, such as flying evasive manoeuvres and keeping the life support systems in operation and repairing damage with the limited availability of repair robots, etc. The cargo can be looted by pirates if they aren't fended off in time. Various technical systems can be individually damaged, so the player must often improvise. Crew members can become stressed during flight, so they start to make mistakes. Crew members can also die if the ship becomes too badly damaged.<ref name="AllGame" />
+
+The game is lost if the ship is destroyed beyond repair or completely looted. Victory is achieved by arriving at the target planet having at least one portion of the cargo. The player's score depends on the route chosen (difficult routes give more points), the amount of salvaged cargo and the flight time. The faster the cargo arrives, the more points are awarded.<ref name="AllGame" />
+
+===Graphics===
+In the user interface, the upper left corner is the space view. The top right displays the crew member in the active department. Below this is a narrow indicator bar. The bottom half of the screen is occupied with text fields to follow the details of the respective department, such as lists of detected attackers or details on which robots are divided among repairs.<ref name="AllGame" />
+
+===Sound===
+The sound of the Commodore 64 version was rated very good by many reviewers, and the SID music by [[Ed Bogas]] was described as "diverse".{{citation needed|date=March 2014}}
+
+==Reception==
+{{Video game reviews
+| CGW = {{rating|2.5|5}}{{r|brooks199405}}
+| Allgame = {{rating|3.5|5}}{{r|AllGame}}
+}}
+
+''[[Computer Gaming World]]'' in 1986 called ''Psi-5 Trading Company'' "both challenging and fast-moving. It is extremely absorbing as one crisis after another bombards the player", and concluded that it "blends 'fog of war', tactical options, and smooth playability into an exciting challenge and a stirring space adventure".<ref name="wilson19860607">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1986&pub=2&id=29 | title=Psi-5 Trading Company | magazine=Computer Gaming World | date=Jun–Jul 1986 | accessdate=28 July 2014 | author=Wilson, Johnny | pages=16}}</ref> A 1994 survey of strategic space games set in the year 2000 and later gave the game two-plus stars out of five, stating that as "One of the first 'alien trading' games, it was interesting in its time".<ref name="brooks199405">{{Cite magazine
+ |last=Brooks
+ |first=M. Evan
+ |author=
+ |last2=
+ |first2=
+ |date=May 1994
+ |title=Never Trust A Gazfluvian Flingschnogger!
+ |department=
+ |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118 
+ |magazine=Computer Gaming World
+ |pages=42–58}}</ref> [[AllGame]] reviewed the DOS version of the game and said ''Psi 5'' "offers an impressive deep array of choices" and "the game's display is... laid out logically and is easily accessible," they criticized the use of two executables and said the crewmember view and space views were "mostly useless". Overall, they said that the "complex strategy gameplay is carried out in real time but with an impressively simple and easy to use interface," but that since the player can't carry out any action themselves, but only delegate tasks, that it "gives the game the feeling of a strong management simulation." They gave the game 3½ stars out of 5 and gave the Graphics, Enjoyment and Replay Value the highest marks.<ref name="AllGame" />
+
+==Ports==
+The original Commodore 64 version was released in 1985. Ports to other systems followed:<ref name="MobyGames" />
+* Amstrad CPC, 1985
+* Amstrad PCW, 1986
+* Apple II, 1985
+* IBM PC compatibles with CGA graphics, 1986
+* ZX Spectrum, 1986
+
+==Comic story==
+''Psi-5 Trading Company'' featured in six episodes of ''[[Computer Warrior]]'' in British comic ''[[Eagle (British comics)|Eagle]]'' issues 210 to 215, in 1986.<ref>{{Cite web|url=http://www.cerebus.de/psi5/pics/comic.html|title = Psi 5 Trading Company}}</ref>
+
+==Legacy==
+In 2022, a 20th Anniversary Edition remake by programmer, designer and musician Gary Wong was made available for free.<ref>{{cite web | url=https://www.cerebus.de/psi5/code/anniversary.html | title=Psi 5 Trading Company }}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="AllGame">{{cite web|url=https://www.allgame.com/game.php?id=29018|title=Psi 5 Trading Company|archive-url=https://web.archive.org/web/20140101010101/https://www.allgame.com/game.php?id=29018|archive-date=2014-01-01|url-status=dead|website=[[All Media Network#AllGame|AllGame]]}}</ref>
+<ref name="MobyCredits">{{MobyGames|id=/c64/psi-5-trading-co/credits|name=''Psi-5 Trading Company'' credits}}</ref>
+<ref name="MobyGames">{{MobyGames|id=/psi-5-trading-co}}</ref>
+}}
+
+==External links==
+* {{MobyGames|id=/psi-5-trading-co}}
+* {{IAg|id=msdos_Psi-5_Trading_Company_1986|platform=MS-DOS}}
+* {{lemon64 game|id=2008}}
+
+[[Category:1985 video games]]
+[[Category:Accolade (company) games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Real-time strategy video games]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]
+[[Category:Space trading and combat simulators]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in Canada]]
+[[Category:ZX Spectrum games]]

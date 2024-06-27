@@ -1,0 +1,54 @@
+Rocky's Boots
+Permalink: //en.wikipedia.org/w/index.php?title=Rocky%27s_Boots&oldid=1209678017
+Accessed on: 2024-06-26T16:53:58.792690
+
+
+
+------
+Rocky's Boots
+{{Infobox video game
+| title = Rocky's Boots
+|image = <!-- Image with unknown copyright status removed: [[Image:Rockys_boots_anns_enigma.gif]] -->
+|designer = [[Warren Robinett]]<br>Leslie Grimm
+|publisher = [[The Learning Company]]
+|platforms = [[Apple II series|Apple II]], [[TRS-80 Color Computer|CoCo]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[IBM PCjr]]
+|released = 1982
+|genre = [[Educational game|Educational]]
+|modes = [[Single-player video game|Single-player]]
+}}
+{{Portal|Video games}}
+'''''Rocky's Boots''''' is an educational logic puzzle game by [[Warren Robinett]] and Leslie Grimm, published by [[The Learning Company]] in 1982. It was released for the [[Apple II series|Apple II]], [[TRS-80 Color Computer|CoCo]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]] and the [[IBM PCjr]].<ref>{{Cite web|url=https://atariage.com/forums/topic/160378-fs-my-entire-pcjr-collection/|title=FS: My entire PCjr Collection - Marketplace|website=AtariAge Forums|date=26 March 2010 |access-date=2016-06-16}}</ref> It was followed by a more difficult [[sequel]], ''[[Robot Odyssey]]''.  It won Software of the Year awards from Learning Magazine (1983), Parent's Choice magazine (1983), and Infoworld (1982, runner-up), and received the Gold Award (for selling 100,000 copies) from the Software Publishers Association. It was one of the first educational software products for personal computers to successfully use an interactive graphical simulation as a learning environment.
+
+==Gameplay==
+[[File:Rockys-Boots-screenshot-DOS.png|thumb|right|alt=A screenshot from the Rocky's Boots game (DOS version) showing a message directing the player to build a machine that kicks only blue-colored crosses.|''Rocky's Boots'' directing the player to build a machine that kicks only blue-colored crosses (DOS version)]]
+The object of the beginning part of ''Rocky's Boots'' is to use a mechanical boot to kick a series of objects (purple or green squares, diamonds, circles, or crosses) off a conveyor belt; each object will score some number of points, possibly negative. To ensure that the boot only kicks the positive objects, the player must connect a series of [[logic gate]]s to the boot.
+
+The player is represented by an orange square, and picks up devices (the boot, logic gates, clackers, etc.) by moving their square over them and hitting the joystick button. When the boot has kicked all of the positive objects and none of the negative objects (obtaining a score of 24 points), Rocky (a raccoon) will appear and do a beeping dance.
+
+Later, the player finds that they can use all of the game's objects, including [[AND gate]]s, [[OR gate]]s, [[NOT gate]]s, and [[Flip-flop (electronics)|flip-flop]]s, in an open-ended area to design one's own logic circuits and "games". The colors of orange and white are used to show the binary logic states of 1 and 0. As the circuits operate, the signals can be seen slowly propagating through the circuits, as if the electricity was liquid orange fire flowing through transparent pipes.<ref>{{cite web |url=http://www.warrenrobinett.com/rockysboots/ |title=Rocky's Boots |author=Robinett, Warren |accessdate=2014-03-30}}</ref>
+
+==Development==
+''Rocky's Boots'' was designed by [[Warren Robinett]] and Leslie Grimm. It was conceived as a sequel to ''[[Adventure (1980 video game)|Adventure]]''. Robinett experienced constraints due to [[The Learning Company]] being a start-up, forcing ''Rocky's Boots'' to be less ambitious than he would have liked.<ref>{{cite web |url=https://www.arcadeattack.co.uk/warren-robinett/ |title=Warren Robinett (Atari) – Interview |work=Arcade Attack |date=2 January 2017 |accessdate=May 15, 2023}}</ref>
+
+==Reception==
+''II Computing'' listed ''Rocky's Boots'' ninth on the magazine's list of top Apple II education software as of late 1985, based on sales and market-share data.<ref name="ciraolo198510_11">{{cite news | url=https://archive.org/stream/II_Computing_Vol_1_No_1_Oct_Nov_85_Premiere#page/n51/mode/2up | title=Top Software / A List of Favorites | work=II Computing | date=Oct–Nov 1985 | accessdate=28 January 2015 | author=Ciraolo, Michael | pages=51}}</ref> ''[[Commodore Microcomputers]]'' stated that it "is intuitive and easy for kids of all ages to understand". The magazine approved of the game's lack of "nerve-wracking time limits or invading aliens" and encouragement of "exploratory learning" while teaching "nothing less than the fundamentals of digital computer logic from the ground up".<ref name="beekman198509">{{Cite magazine |last=Beekman |first=George |date=September–October 1985 |title=Gertrude's Secrets, Gertrude's Puzzles and Rocky's Boots |url=https://archive.org/stream/Commodore_MicroComputer_Issue_37_1985_Sep_Oct#page/n19/mode/2up |magazine=Commodore Microcomputers |pages=18, 20}}</ref> ''[[Computer Gaming World]]'' called ''Rocky's Boots'' "outstanding". The review complimented the game's appeal to both children and adults, and its ability to teach Boolean functions in a non-threatening way.<ref name="proctor19830506">{{cite magazine | title=The Learning Game | magazine=Computer Gaming World | date=May–June 1986 | author=Proctor, Bob | pages=30–31}}</ref> ''[[InfoWorld]]'' commented positively on the game combining play with educational value and conveying circuit design and Boolean logic to children.<ref>{{cite journal |url=https://books.google.com/books?id=CDAEAAAAMBAJ&pg=PA20 |title=In Focus - Rocky's Boots teaches tots to design circuits |date=1982-09-06 |last=Mace |first=Scott |journal=[[InfoWorld]] |volume=4 |publisher=InfoWorld Media Group, Inc. |page=20 |accessdate=2014-04-07 |issue=35}}</ref>
+
+==Similar games==
+The engine for the game was used in several other games by The Learning Company, including the sequel ''[[Robot Odyssey]]'', and a later game called ''[[Gertrude's Secrets]]''. The distinctive style of the game was modeled after Robinett's earlier [[Atari 2600]] game [[Adventure (1980 video game)|''Adventure'']], to which ''Rocky's Boots'' was originally going to be a sequel.<ref>{{cite web |url=http://www.dadgum.com/halcyon/BOOK/ROBINETT.HTM |year=2002 |author=Hague, James |title=Warren Robinett |accessdate=2014-03-30}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.warrenrobinett.com/rockysboots/ ''Rocky's Boots'' page by co-author]
+* Play ''Rocky's Boots'' on the [https://archive.org/details/Rockys_Boots_1982_Learning_Company Internet Archive]
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Programming games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:The Learning Company games]]
+[[Category:Video games about raccoons]]
+[[Category:Video games developed in the United States]]

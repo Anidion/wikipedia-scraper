@@ -1,0 +1,85 @@
+Pirate Adventure
+Permalink: //en.wikipedia.org/w/index.php?title=Pirate_Adventure&oldid=1224117939
+Accessed on: 2024-06-26T16:51:20.922764
+
+
+
+------
+Pirate Adventure
+{{Redirect|Pirate Cove (video game)|the 2003 video game|Tropico 2: Pirate Cove|other uses|Pirate Cove (disambiguation){{!}}Pirate Cove}}
+{{about|the 1979 video game|the type of narrative|Pirates in the arts and popular culture|the theme park in Ireland|Pirate Adventure Park}}
+{{Lead too short |date=May 2024}}
+{{Infobox video game
+|title= Pirate Adventure
+|image= Pirate Adventure Coverart.png
+|caption=
+|developer= 
+|publisher= [[Creative Computing (magazine)|Creative Computing Software]]<br />[[Adventure International]]
+|designer= [[Scott Adams (game designer)|Scott Adams]]
+|series= ''[[List of Scott Adams Adventure video games|Adventure]]''
+|engine= 
+|modes= 
+|platforms= [[TRS-80]], [[VIC-20]], [[TI-99/4A]], [[Apple II]], [[Atari 8-bit]], [[Commodore PET|PET]], [[Commodore 64]], [[ZX Spectrum]], [[BBC Micro]], [[Acorn Electron]], [[Dragon 32/64]]
+|released= 1979
+|genre= [[Text adventure]]
+}}
+
+'''''Pirate Adventure ''''' (also known as '''''Pirate Cove''''') is a [[text adventure]] video game written by [[Scott Adams (game designer)|Scott Adams]]. It was published by Adam's company, [[Adventure International]], in 1979.
+
+==Description==
+[[File:Pirate-adventure.jpg|thumb|A map of ''Pirate Adventure'' world by Aaron A. Reed from ''50 Years of Text Games'' project]]
+Published by [[Adventure International]] and the second game of the series, after ''[[Adventureland (video game)|Adventureland]]'', this text-based adventure game was one of many adventure games created by Scott Adams,<ref name="Dragon42">{{cite journal
+|title=The Electric Eye
+|author=Herro, Mark
+|journal=The Dragon
+|issue=42
+|date=October 1980
+|pages=42–43}}</ref> in this case based on his wife Alexis's ideas.{{r|adams198012}} The setting was inspired by [[Robert Louis Stevenson]]'s 1883 novel ''[[Treasure Island]]'' and involved a quest to retrieve [[Long John Silver]]'s lost treasures.<ref>{{cite web | url=http://www.lysator.liu.se/adventure/Adventure_International/Classic.html | title=Scott Adams Classic Adventures }}</ref>
+
+Gameplay involved moving from location to location, picking up any objects found there, and using them somewhere else to unlock puzzles. Commands took the form of [[verb]] and [[noun]], e.g. "Climb Tree".
+
+The player starts the game in a London flat, and progresses via a bit of [[Magic (game terminology)|magic]] to Pirates Island. Here, the player has to build a ship to reach Treasure Island and there find two pieces of [[treasure]]. The player also has to contend with an unpredictable pirate ally; it was the first text adventure game of the Adams series in which the player shared the adventure with a second character.
+
+The magic phrase to reach the island in this game, 'Say Yoho', was the name of a long-running column in ''[[SoftSide]]'' magazine by Scott Adams.
+
+==Source code==
+The [[source code]] for ''Pirate Adventure'' was printed in the December 1980 issue of ''[[Byte (magazine)|BYTE]]'', with an addendum in April 1981.<ref name="adams198012">{{cite news | url=https://archive.org/stream/byte-magazine-1980-12/1980_12_BYTE_05-12_Adventure#page/n193/mode/2up | title=Pirate's Adventure | work=BYTE | date=December 1980 | access-date=18 October 2013 | author=Adams, Scott | pages=192}}</ref><ref name="byte198104">{{cite news | url=https://archive.org/stream/byte-magazine-1981-04/1981_04_BYTE_06-04_Future_Computers#page/n301/mode/2up | title=Adventurous Bugs | work=BYTE | date=April 1981 | access-date=18 October 2013 | pages=302}}</ref> This enabled others to discover how the [[Game engine|engine]] worked and to create their own adventures using this or a similar design.
+
+==Reception==
+''Pirate Adventure'' was reviewed in issue #42 of ''[[Dragon (magazine)|The Dragon]]'' magazine. The reviewer, Mark Herro, commented on the difficulty of the game: "Supposedly one of the "easier" programs of the series, I'm embarrassed to say that I have yet to find a treasure in ''Pirate Adventure''... This Program has been sending me in circles for weeks."<ref name="Dragon42"/>
+
+Bruce Campbell reviewed ''Pirate's Cove'' in ''[[The Space Gamer]]'' No. 36.<ref name="SG">{{cite journal|last=Campbell |first=Bruce |date=February 1981 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=36|pages=27–28}}</ref> Campbell commented that "''Pirate's Cove'' is a good first adventure (some of the others are harder), but also entertaining for the experienced adventurer."<ref name="SG"/>
+
+==Reviews==
+*''Home Computing Weekly'' - Apr 17, 1984<ref>{{cite web|url=http://www.acornelectron.co.uk/mags/hcw/ills/058/lc-p027.jpg|title=Review|website=acornelectron.co.uk}} {{dead link|date=October 2023}}</ref>
+*''[[Commodore User]]'' - Aug, 1985<ref>{{Cite web|url=https://archive.org/details/commodore-user-magazine-23/page/n21/mode/2up|title=Commodore User Magazine Issue 23|date=August 1985}}</ref>
+*''[[Computer and Video Games]]'' #41 - 1985/Mar<ref>{{Cite web|url=https://archive.org/details/Book_of_Adventure_1985-03_EMAP_Publishing_GB_supplement_issue_041/page/n19/mode/2up|title=Book of Adventure (1985-03)(EMAP Publishing)(GB)&#91;supplement, issue 041&#93;|date=March 1985}}</ref>
+*''[[Computer and Video Games]]'' #67 - 1987/May<ref>{{Cite web|url=https://archive.org/details/ComputerAndVideoGamesIssue067May87/page/n65/mode/2up|title = Computer_And_Video_Games_Issue_067_May_87}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{WoS game|id=0006803}}
+*{{MobyGames|id=/pirate-adventure}}
+
+{{Adventure International}}
+{{Treasure Island}}
+
+[[Category:1979 video games]]
+[[Category:Adventure games]]
+[[Category:Adventure International games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore PET games]]
+[[Category:VIC-20 games]]
+[[Category:Dragon 32 games]]
+[[Category:TI-99/4A games]]
+[[Category:TRS-80 games]]
+[[Category:Video games about pirates]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]

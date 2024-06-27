@@ -1,0 +1,110 @@
+The Lords of Midnight
+Permalink: //en.wikipedia.org/w/index.php?title=The_Lords_of_Midnight&oldid=1222393358
+Accessed on: 2024-06-26T16:57:07.225539
+
+
+
+------
+The Lords of Midnight
+{{Short description|1984 epic fantasy video game}}
+{{Use British English|date=February 2023}}
+{{Use dmy dates|date=February 2023}}
+{{Infobox video game
+| title = The Lords of Midnight
+| image = LordsOfMidnight.jpg
+| caption = European cover art
+| developer = [[Mike Singleton]]<br />Chris Wild {{small|(remake)}}
+| publisher = {{Plainlist|
+* [[Beyond Software]] {{small|(SPEC)}}
+* [[Amsoft]] {{small|(CPC)}}
+* [[Mindscape (company)|Mindscape]] {{small|(C64)}}
+}}
+| released = '''ZX Spectrum, Amstrad CPC'''{{vgrelease|EU|1984}}'''Commodore 64'''{{vgrelease|EU|1985|NA|1985}}<br>Remake<br>'''iOS'''{{vgrelease|WW|{{Start date|2012|10|28}}}}'''Android'''{{vgrelease|WW|{{Start date|2013|01|11}}}}'''OS X'''{{vgrelease|WW|{{Start date|2012|07|05}}}}'''Microsoft Windows'''{{vgrelease|WW|{{Start date|2013|07|12}}}}'''BlackBerry OS'''{{vgrelease|WW|{{Start date|2013|10|28}}}}
+| genre = [[Role-playing video game|Role-playing]], [[Computer wargame|wargame]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = {{cslist|[[ZX Spectrum]]|[[Amstrad CPC]]|[[Commodore 64]]|[[iOS]]|[[Android (operating system)|Android]]|[[OS X]]|[[Microsoft Windows|Windows]]|[[BlackBerry OS]]}}
+}}
+
+'''''The Lords of Midnight''''' is an [[epic fantasy]] video game combining aspects of [[Computer wargame|wargames]] and [[graphic adventure]]s, written by [[Mike Singleton]] and originally released in 1984 for the {{nowrap|[[ZX Spectrum]]}}. Very well received from the beginning, it was soon converted for the [[Amstrad CPC]] and [[Commodore 64]]. The game featured an innovative 3-D effect that Singleton called ''landscaping'', which served to bring the [[Player character|player]] into the game much more than usual. ''The Lords of Midnight'' is often named with ''[[Elite (video game)|Elite]]'' as among the top role-playing games of the 1980s. The player must destroy Doomdark, the evil Witchking who has locked the Land of Midnight in perpetual winter. There are multiple ways in which this can be achieved. It was followed by ''[[Doomdark's Revenge]]'' also in 1984, and ''[[Lords of Midnight: The Citadel]]'' in 1995.
+
+==Gameplay==
+''The Lords of Midnight'' is a strategy/role-playing game hybrid. The player starts with four characters (Luxor the Moonprince, Rorthron the Wise, Corleth the Fey, and Morkin, Luxor's son), and then has the option to recruit up to twenty-eight further characters (such as Lords Blood, Ithrorn, Xajorkith, Shadows, etc. plus the Utarg of Utarg, Farflame the Dragon Lord and Fawkrin the Skulkrin) to join in the quest to destroy Doomdark, the evil Witchking who has locked the Land of Midnight in perpetual winter.
+
+The game can be played in three ways, firstly as a straight adventure game, where the goal is for Morkin to destroy the Ice Crown, the source of Doomdark's power. The second is as a [[Computer wargame|wargame]], recruiting other lords and their armies until they are strong enough to defeat Doomdark's armies and storm his citadel in the far north. A third variation, referred to in the manual as the 'Epic', requires the player to complete the game both ways simultaneously.
+
+The player has an advantage in that only one of the two objectives is needed to defeat Doomdark. The game is won whenever the Ice Crown is destroyed or when Doomdark's home citadel of Ushgarak falls. For Doomdark to win, he has to complete two objectives. First, he must kill Morkin, Luxor's son, since as long as Morkin is alive, the game continues. Also, he must subdue the armies of the Free, either by killing Luxor or by conquering Xajorkith, the capital citadel of the Free lands.
+
+The game featured a groundbreaking technique called ''landscaping'' to depict the lands of Midnight from a [[First-person (video games)|first-person perspective]]. Also, even after completion the game may be enjoyed numerous times, since each time Doomdark's armies can attack from different routes and do not always follow the same pattern.
+
+At the time of its release Singleton thought there was no way to defeat Doomdark before Xajorkith fell. Gamers quickly proved him wrong, and even now various Internet groups devoted to the game continue to refine their strategies to defeat Doomdark.<ref>{{cite web|url=http://games.groups.yahoo.com/group/midnight/ |archive-url=https://archive.today/20120630024109/http://games.groups.yahoo.com/group/midnight/ |url-status=dead |archive-date=30 June 2012 |title=Yahoo! Groups |website=Games.groups.yahoo.com |date=1998-09-09 |access-date=2016-06-27}}</ref>
+
+''[[Crash (magazine)|Crash]]'' published a four-page map of the game in 1984.<ref>{{cite book|url=https://archive.org/stream/Crash_No._11_1984-12_Newsfield_GB#page/n121/mode/2up |title=Crash - No. 11 (1984-12)(Newsfield)(GB) |via=Archive.org |date= December 1984|access-date=2016-06-27}}</ref><ref>{{cite book|url=https://archive.org/stream/Crash_No._11_1984-12_Newsfield_GB#page/n125/mode/2up |title=Crash - No. 11 (1984-12)(Newsfield)(GB) |via=Archive.org |date= December 1984|access-date=2016-06-27}}</ref> Hungarian computer magazine ''CoV'' also published a full-detailed map, along with a walkthrough in their 19th issue.<ref>{{cite web|url=http://pcvilag.muskatli.hu/irodalom/CoV/CoV19/cov19.html |title=CoV magazine |date=1991 |website=Pcvilag.muskatli.hu |access-date=2016-06-27}}</ref>
+
+==Development==
+The [[3D computer graphics|3D]] effect used in the game was achieved by "billboarding" (see [[Sprite (computer graphics)|sprite]]) pre-scaled images of mountains, forests, buildings, etc. to create the impression of a perspective-correct landscape scene, available from a view of 8 points of the compass; the technique was self-described as "landscaping".<ref>{{cite web|url=http://www.users.globalnet.co.uk/~jg27paw4/yr09/yr09_29.htm |title=Your Spectrum : Spectrum Adventures |date=November 1984 |website=Users.globalnet.co.uk |access-date=2016-06-27}}</ref> This innovation created a strong impression at the time, and the game received high praise for its graphics; "landscaping" was also used in the sequel ''[[Doomdark's Revenge]]'', but did not see significant further use in other games.
+
+Singleton designed the game, wrote the novella/manual, and developed "landscaping" in the last three months of 1983. He wrote the code in the first three months of 1984 and the game he submitted to the software house in April was entirely his own product.{{r|maher20140107}}
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 7, August 1984, page 72</ref>
+}}
+''[[CRASH (magazine)|CRASH]]'' awarded ''Lords of Midnight'' 10 out of 10 in the adventure column, highlighting the panoramic views, detailed units and "wonderfully coherent" storyline.<ref>{{cite journal|journal=CRASH|title=Lords of Midnight|url=http://www.crashonline.org.uk/07/midnight.htm|issue=7|date=August 1984|author=Brewster, Derek|publisher=Newsfield}}</ref> The game won the award for best adventure game of the year according to ''CRASH'' readers.<ref>{{cite web|url=http://www.crashonline.org.uk/12/awards.htm |title=CRASH 12 - Readers' Awards |website=Crashonline.org.uk |access-date=2016-06-27}}</ref>
+
+Lyndsey Paton reviewed ''The Lords of Midnight'' for ''[[White Dwarf (magazine)|White Dwarf]]'' #60, and wrote that "this should provide a sustained challenge for the experienced adventure gamer, and a complex and absorbing introduction to the complete novice".<ref name="WD60">{{cite journal | last = Paton | first = Lyndsey | title = Microview | journal = [[White Dwarf (magazine)|White Dwarf]] | issue = 60 | pages = 30–31 | publisher = [[Games Workshop]] | date = December 1984}}</ref>
+
+''[[Zzap!64]]'' rated it at 91%, calling it "truly an epic game ... a must for adventurers and strategists alike", although one of the three reviewers expressed disappointment that the Commodore 64 version's graphics did not improve on the Spectrum original.<ref name="zzap198505">{{cite news | url=https://archive.org/stream/zzap64-magazine-001/ZZap_64_Issue_001_1985_May#page/n81/mode/2up | title=The Lords of Midnight | work=Zzap!64 | date=May 1985 | access-date=26 October 2013 |author1=Wade, Bob |author2=Penn, Gary |author3=Rignall, Julian | pages=82–84 | type=review}}</ref> It was also Best Strategy Game of the Year at the [[Golden Joystick Awards]].<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue044/Pages/CVG04400122.jpg |format=JPG |title=World of Spectrum |website=Worldofspectrum.org |access-date=2016-06-27}}</ref>
+
+The ZX Spectrum version was voted the 7th best game of all time in a [[Your Sinclair#Official Top 100 games|special issue]] of ''[[Your Sinclair]]'' magazine in 2004.<ref>{{cite journal | title=Top 50 Games of All Time | journal=Your Sinclair | date=November 2004 | publisher=Imagine Publishing}}</ref><ref name="maher20140107">{{cite web | url=http://www.filfre.net/2014/01/mike-singleton-and-the-lords-of-midnight/ | title=Mike Singleton and The Lords of Midnight | work=The Digital Antiquarian | date=2014-01-07 | access-date=11 July 2014 | author=Maher, Jimmy}}</ref>
+
+== Legacy ==
+A sequel titled ''[[Doomdark's Revenge]]'' took place in a land north of Midnight called the Icemark. The object was to defeat the daughter of Doomdark, who sought revenge against Luxor for her father's death.
+
+The planned final installment of the trilogy, ''[[Doomdark's Revenge#The Eye of the Moon|The Eye of the Moon]]'', was never released.{{r|maher20140107}}
+
+''[[Lords of Midnight: The Citadel]]'' was released for the PC platform much later, but did not repeat the original's success, as by then graphics had become more advanced.{{citation needed|date=December 2012}}
+
+The original games have been adapted for the PC by Chris Wild and can be found online together with [[source code]] generated by [[disassembly]].<ref>{{cite web|author=Chris Wild |url=http://www.icemark.com/downloads/index.html |title=Downloads |website=Icemark.com |access-date=2016-06-27}}</ref>
+
+There has also been some work into creating a new modernized version of ''The Lords of Midnight'' for iPhones and iPads, with a collaboration between the original author of the game, and the author of the game ports for Windows, Chris Wild. Following Singleton's death on 10 October 2012, the new version was released on iOS the same month, followed by Windows, Android and BlackBerry versions in 2013.<ref>{{cite web|url=http://thelordsofmidnight.com/blog/index.php/2012/12/02/the-lords-of-midnight-are-coming/ |title=are coming… |publisher=The Lords of Midnight |date=2012-12-02 |access-date=2016-06-27}}</ref>
+
+As part of the release of the [[ZX Spectrum Next]] in 2020, a port of ''The Lords of Midnight'' was made by Matt Davies and Simon Butler was made based on Singleton's original code.<ref>{{cite web|url=https://www.specnext.com/sn1-2/ |title=System/Next 1.2 |publisher=ZX Spectrum Next |date=2020-02-05 |access-date=2023-01-09}}</ref>
+
+===Novelisation===
+Upon its release, [[Beyond Software]], the publishers of the game, offered to turn the campaign of the first person to offer proof of completing the game into a published novel. While there were not many ways of offering proof that the campaign was completed, many players sent reams of thermal printer paper to Beyond, hoping to get their campaign published. The first person to send in their claim to victory did so within two weeks of the game's release.<ref>{{cite web|url=http://www.icemark.com/tower/retrogamer/part1_04.jpg|title=Retro Gamer Issue 4, March 2004 (scan)|website=Icemark.com|access-date=2016-06-27}}</ref> In the end, however, no publisher was interested in publishing what they deemed a fringe publication, and the offered prize was forfeit.<ref name=ps>{{cite web|url=http://www.nvg.ntnu.no/sinclair/industry/programmers/mikesingleton_sua84.htm|title=Mike Singleton, Lord of Midnight: 2nd Sinclair User Annual, 1984|website=Nvg.ntnu.no|access-date=2016-06-27}}</ref>
+
+Tentative discussions were held, in which Singleton offered to write the novel himself. Ultimately time constraints and the reluctance on the publisher's part made all plans for a novel impossible.<ref name=ps />
+
+In 2016, Drew Wagar began to write a novel covering the War of the Solstice.<ref>{{cite web |url=http://thelordsofmidnight.com/blog/2016/04/10/why-is-the-solstice-so-important/ |title=Why is the Solstice so important? |work=thelordsofmidnight.com |date=10 April 2016}}</ref><ref>{{cite web |url=http://thelordsofmidnight.com/blog/2016/06/20/he-had-heard-the-tales-men-told/ |title=He had heard the tales men told… |work=thelordsofmidnight.com |date=20 June 2016}}</ref><ref>{{Cite web|url=https://www.drewwagar.com/progress-report/he-thinks-again/|title=An update on the Lords of Midnight Novel {{!}} The official website of Drew Wagar|website=www.drewwagar.com|language=en-GB|access-date=2018-01-30|archive-date=30 January 2018|archive-url=https://web.archive.org/web/20180130204553/https://www.drewwagar.com/progress-report/he-thinks-again/|url-status=dead}}</ref> The novel was delayed several times until its release in September 2018.<ref>{{Cite web|url=https://www.drewwagar.com/progress-report/lords-of-midnight-revised-publication-date/|title=Lords of Midnight, revised publication date {{!}} The official website of Drew Wagar|website=www.drewwagar.com|language=en-GB|access-date=2018-05-17|archive-date=18 May 2018|archive-url=https://web.archive.org/web/20180518054543/https://www.drewwagar.com/progress-report/lords-of-midnight-revised-publication-date/|url-status=dead}}</ref>
+
+The Ebook version of the novel was made available on the summer solstice, June 21, 2018<ref>{{Cite web|url=https://www.drewwagar.com/progress-report/lords-of-midnight-ebook-launches/|title=Lords of Midnight Ebook Launch {{!}} The official website of Drew Wagar|website=www.drewwagar.com|language=en-GB|access-date=2018-06-21|archive-date=21 June 2018|archive-url=https://web.archive.org/web/20180621194430/https://www.drewwagar.com/progress-report/lords-of-midnight-ebook-launches/|url-status=dead}}</ref> and was soon followed by the paperback version.<ref>{{Cite web|url=https://www.drewwagar.com/announcements/lords-of-midnight-paperback-available//|title=Lords of Midnight Paperback available! {{!}} The official website of Drew Wagar|website=www.drewwagar.com|language=en-GB|access-date=2018-06-21|archive-date=30 September 2018|archive-url=https://web.archive.org/web/20180930034155/https://www.drewwagar.com/announcements/lords-of-midnight-paperback-available/|url-status=dead}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.mobygames.com/game/lords-of-midnight_ ''The Lords of Midnight''] at [[MobyGames]]
+* {{WoS game|id=0006604}}
+* [http://www.c64sets.com/lords_midnight.html ''The Lords of Midnight''] at Commodore 64 Boxed Sets
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lords of Midnight, The}}
+[[Category:1984 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Android (operating system) games]]
+[[Category:BlackBerry games]]
+[[Category:Commodore 64 games]]
+[[Category:Computer wargames]]
+[[Category:Fantasy video games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:IOS games]]
+[[Category:MacOS games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Windows games]]
+[[Category:Windows Phone games]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]
+[[Category:Amsoft games]]

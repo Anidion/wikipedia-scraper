@@ -1,0 +1,54 @@
+Survivor (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Survivor_%281982_video_game%29&oldid=1224118568
+Accessed on: 2024-06-26T16:54:12.594610
+
+
+
+------
+Survivor (1982 video game)
+{{more citations needed|date=February 2017}}
+{{Infobox video game
+| title = Survivor
+| image = File:Survivor front box cover C64.jpg
+| designer = Richard Carr<ref name="giantlist"/>
+| publisher = [[Synapse Software]]
+| released = '''1982:''' Atari<br/>'''1983:''' C64
+| genre = [[Scrolling shooter]]
+| modes = [[Single-player]]<br/>2-4 player cooperative
+| platforms = [[Atari 8-bit computers|Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''Survivor''''' is a multidirectional [[scrolling shooter]] written by Richard Carr for [[Atari 8-bit computers]] and published in 1982 by [[Synapse Software]].<ref name="giantlist"/> A [[Commodore 64]] port by Peter Adams was released in 1983.<ref name="giantlist"/>
+
+The player controls a spaceship attacking a number of fortresses, attempting to destroy the fort's guns without being hit. There is optional cooperative play, which allows one user to control the motion of the spaceship while another controls its gun.
+
+==Gameplay==
+''Survivor'' takes place on a scrolling map consisting of several areas walled off to form separate but closely spaced fortresses. The fortresses are randomly shaped and bristle with guns that fire continually. The fortresses are also surrounded by a protective wall made of blocks, which take several shots to destroy.
+
+[[File:Survivor_Atari_8-bit_PAL_screenshot.png|thumb|left|In-game screenshot (Atari 8-bit)]]
+
+The player begins in space outside the forts. They begin the action by moving towards one of them and shooting enough of the blocks to provide access to the fort within. They then enter the inner area and shoot out the guns. Some of these may be located on interior sections or in locations close to the wall where they may be difficult to attack. When all of the guns on a fort are destroyed, it explodes and awards the player with two "smart bombs". The player then moves onto another fort, and continues until all of the forts on the map are destroyed and the mission ends.
+
+The player can be destroyed by the fortress guns, or any of the numerous moving enemies. These enemies can be destroyed with the ship's gun, or by using up one of the smart bombs, which destroy all of the enemies on the screen. Some enemies are also blocked by the protective wall, making them easy to avoid by shooting open only small passages in the walls. Others can move through the walls and present more of a challenge. Since some of the fort guns can only be attacked from angles that demand additional holes be punched in the walls, the play can become hectic.
+
+The game begins with three lives and four smart bombs. Another life is awarded with every 10,000 points. At the end of a round, any lives over three award an additional 3000 points.
+
+In single player mode the player uses the [[joystick]] to move in the eight cardinal directions. When the fire button is held down, the ship continues moving in the last direction while slowing down, and the joystick instead fires the gun in those same eight directions. In two player mode, the first player controls motion while the second controls firing, allowing motion and firing at the same time. The Atari version allowed up to four players in a single mission, giving each additional user control over a different guns or weapons.
+
+==Reception==
+Allen Doum reviewed the game for ''[[Computer Gaming World]]'', and stated that "While there have been games that show the action from the player's point of view (Star Raiders, of course), they have always been limited either in what they showed, or in the animation of the scene. Until now."<ref name="CGW10">{{cite magazine |last=Doum |first=Allen |title=The Atari Arena |magazine=Computer Gaming World |date=May–Jun 1983 |volume=1 |issue=10 |pages=28–29}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+}}
+
+==External links==
+*{{IAg|a8b_Survivor_1982_Synapse_Software_US}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Multidirectional shooters]]
+[[Category:Synapse Software games]]
+[[Category:Video games developed in the United States]]

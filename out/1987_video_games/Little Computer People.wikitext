@@ -1,0 +1,121 @@
+Little Computer People
+Permalink: //en.wikipedia.org/w/index.php?title=Little_Computer_People&oldid=1227030252
+Accessed on: 2024-06-26T17:02:32.811500
+
+
+
+------
+Little Computer People
+{{Short description|1985 video game}}
+{{Infobox video game
+|title=Little Computer People
+|image= little computer people cover art.jpg
+|caption=
+|developer=[[Activision]]
+|publisher=Activision
+|designer=[[David Crane (programmer)|David Crane]]<br>Rich Gold
+|released='''Commodore 64''' {{vgrelease|NA|September 27, 1985<ref>{{cite web |title=Little Computer People (Registration Number PA0000301880) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=1 June 2021}}</ref>|EU|November 1985<ref name="Z64"/>}} '''ZX Spectrum, Amstrad''' {{vgrelease|EU|Late 1985}} '''Apple II''' {{vgrelease|NA|December 1985<ref name="CE1985">{{cite magazine |title=1985 Index |magazine=[[Computer Entertainer]] |date=January 1986 |volume=4 |issue=10 |page=6 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf#page=6}}</ref>}} '''Atari ST, Amiga''' <br> 1987
+|genre=[[Social simulation game]]
+|modes=[[Single-player]]
+|platforms=[[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Atari ST]], [[Commodore 64]], [[NEC PC-9801|PC-9801]], [[PC-8801]], [[ZX Spectrum]]
+}}
+
+'''''Little Computer People''''', also called '''''House-on-a-Disk''''', is a [[social simulation game]] released in 1985 by [[Activision]] for the 
+[[Commodore 64]], [[ZX Spectrum]], [[Amstrad CPC]],<ref name="UnsungHeroes">{{citation|url=http://www.gamespot.com/gamespot/features/pc/unsung_heroes/sec2_02.html |title=Unsung Heroes: Ground Breaking Games – Little Computer People |last=Baker |first=T. Byrl |publisher=GameSpot |archiveurl=https://web.archive.org/web/20100707141052/http://www.gamespot.com/gamespot/features/pc/unsung_heroes/sec2_02.html |archivedate=2010-07-07 |accessdate=2014-10-30 |url-status=dead }}</ref> [[Atari ST]] and [[Apple II]]. An [[Amiga]] version was released in 1987. Two Japanese versions were also released in 1987, a [[Family Computer Disk System]] version, published in Japan by DOG (a subsidiary of [[Square (video game company)|Square]]), and a [[PC-8801]] version.
+
+==Gameplay==
+The game has no win conditions, and one setting: a sideways view of the inside of a three-story house.<ref>{{Cite web|url=https://www.retrogamer.net/retro_games80/little-computer-people/|title = Little Computer People &#124; Retro Gamer| date=16 October 2008 }}</ref> After a short time, an animated character will move in and occupy the house. He goes about a daily routine, doing everyday things like cooking, watching television or reading the newspaper. Players are able to interact with this person in various ways, including entering simple commands for the character to perform, playing a game of [[poker]] with him and offering presents. On occasion, the character initiates contact on his own, inviting the player to a game or writing a letter explaining his feelings and needs. Each copy of the game generates its own unique character, so no two copies play exactly the same.<ref name="UnsungHeroes"/> The character's name is randomly selected from a list of 256 names.<ref>[https://archive.org/details/LittleComputerPeople4amCrack 4AM's list of Little Computer People names]</ref>
+
+The documentation accompanying the game fully keeps up the pretense of the "little people" being real, and living inside one's computer (the [[software]] merely "bringing them out"), with the player as their caretaker.
+
+Two versions of the game exist for the Commodore 64: the disk version, which plays as described above, and the [[cassette tape|cassette]] version, which omits several features.<ref>{{Cite news|url=http://www.eurogamer.net/articles/little-computer-people-review|title=Little Computer People|newspaper=Eurogamer.net |date=26 October 2007}}</ref>  On tape versions, the Little Computer Person is generated from scratch every time the game is started up (not only on the first boot, as with other versions), and thus does not go through the "moving in" sequence seen on other versions. Also, on cassette versions the Computer Person has no memory, and does not communicate meaningfully with the user, and the [[card game]]s, such as poker, cannot be played.
+
+==Development==
+The initial idea for ''Little Computer People'' was developed by Rich Gold, who wanted to create a Pet Person computer program similar to that of the [[Pet Rock]] toys of the 1970s. Gold was able to develop some funding for it and hired James Wickstead Design Associates to realize it as a game concept which was in development for about a year.{{sfn|Wild|p=34}}{{sfn|Mott|2005|p=107}} This team refined the concept of a Pet Person who lived in a house.{{sfn|Wild|p=34}} Gold initially struggled to find a publisher for the product.{{sfn|Wild|p=34}}{{sfn|Mott|2005|p=106}} At this point, the game was like screensaver, that the players would be able to [[Booting|boot]] and just see what the character was doing.{{sfn|Mott|2005|p=106}} Gold met with [[Activision]] president [[Jim Levy]] was an interesting enough product to show to game developer [[David Crane (programmer)|David Crane]], who had popular hits with games like ''[[Pitfall!]]'' (1982) and ''[[Ghostbusters (1984 video game)|Ghostbusters]]'' (1984) for his opinion.{{sfn|Mott|2005|p=105}}{{sfn|Wild|p=34}} At this point in time, Activision was one of the largest video game publishers in the industry.{{sfn|Mott|2005|p=106}} Crane said he offered to take on the project, but not as a finished game for publishing but as a starting point for an interactive product.{{sfn|Wild|p=34}} Crane saw the project as going beyond the Pet rock concept in what Crane described as "one of the hardest programming challenges of my career."{{sfn|Mott|2005|p=106}} Crane wanted to add interactivity and argued with Gold with this concept, who said it was contrary to the initial Pet Rock concept.{{sfn|Mott|2005|p=106}} Crane later recalled in 2005 that "Part of me wanted to make him the smartest thing in computing maybe even to pass the [[Turing test]] — but with the constraints of time in the software business that was impractical."{{sfn|Mott|2005|p=106}} Including the development of James Wickstead Design Associates, the game took about two years to develop in a period when most games were developed in four to five months.{{sfn|Mott|2005|p=107}} 
+
+Crane made the game so that each copy of it would be unique. Each copy of the game had built in parameters that gave the character a unique personality and mood parameters.{{sfn|Mott|2005|p=106}} He stated that this turned out to be one of the important aspects of the game as based on his personality and mood, the character could opt to ignore your commands.{{sfn|Mott|2005|p=106}}
+While the game has the character live off a real-time six hour game schedule for a day, Crane thought it may have been better to have the character live off of a real-time schedule such as booting the game up at night would have the character sleeping.{{sfn|Wild|p=35}} 
+
+Playing cards with the character was almost not included due to a lack of time according to Crane, who said that that nearly all the time was focused on giving the character interactivity with its basic brain.{{sfn|Wild|p=33}} [[Steve Cartwright]] was between games when the development of ''Little Computer People'' was closing, with Crane giving Cartwright the parameters to include the card game feature.{{sfn|Wild|p=34}} Marketing staff at Activision formulated promotion through a newspaper story about the discovery of people living in computers everywhere.{{sfn|Wild|p=35}}
+
+==Release==
+The game was first released for the [[Commodore 64]] and later for the [[Amiga|Amiga computers]] in 1987.{{sfn|Wild|pp=34-35}} as well as the [[Apple II]], [[Atari ST]], [[Amstrad CPC]] and [[ZX Spectrum]].{{sfn|Wild|p=34}}
+
+The game was re-released on the Activision C64 15 Pack for [[IBM PC compatible|PC]]. This version allowed the player to generate a new person if the character died off somehow.{{sfn|Wild|p=34}} Initial ideas for expansion included friends visiting and new housing.{{sfn|Mott|2005|p=107}}
+
+===Ports===
+{{Infobox video game
+|title=Apple Town Story
+|image=
+|caption=
+|developer=[[Activision]]
+|publisher=[[Square (video game company)|Square]]
+|composer=[[Nobuo Uematsu]]
+|engine=
+|released={{vgrelease|JP|April 3, 1987}}
+|genre=[[Simulation]]
+|modes=[[Single-player]]
+|platforms=[[Family Computer Disk System]]
+}}
+
+{{nihongo|'''''Apple Town Story'''''|アップルタウン物語}} is a port of ''Little Computer People'' to the [[Family Computer Disk System]]. The port was released by [[Square (video game company)|Square]] in 1987. Unlike previous versions of ''Little Computer People'', the playable character is a girl wearing a pink dress and bow in her hair. The rooms of the house are also in a different configuration, featuring an outdoor balcony on the top floor. When the game is first played, a name for the character is chosen at random from a preprogrammed list. ''Apple Town Story'' lacks many of the features found in other versions of ''Little Computer People''. The game's soundtrack was written by [[Nobuo Uematsu]], who would later become recognized for his work in the ''[[Final Fantasy]]'' series.<ref>{{cite web|title=Uematsu's Music |url=http://www.square-enix-usa.com/uematsu/profile/index.html |work=Square-Enix-USA.com |accessdate=2007-09-01 |url-status=dead |archiveurl=https://web.archive.org/web/20090312044802/http://www.square-enix-usa.com/uematsu/profile/index.html |archivedate=2009-03-12 }}</ref>
+
+In December 1987, a second Japanese version of the game was released for the PC-8801 computer, titled ''Little Computer People'' (リトルコンピュータピープル). Like Apple Town Story, this game also features a female character, only older and more glamorous in appearance. Aside from the character, this version of the game is far more like the original in all other respects.
+
+==Reception==
+{{Video game reviews
+| Z64=97%<ref>Zzap!64 review, [[Newsfield Publications]], issue 7, page 8</ref>
+}}
+Roy Wagner reviewed the game for ''[[Computer Gaming World]]'', and stated that "The game is more cute than fun or challenging. The range of activities are limited and not very exciting, but can be interesting. The 'game' is ideally suited for children. It does a good job of teaching about caring for another."<ref name="CGW26">{{cite magazine |last=Wagner |first=Roy |title=The Commodore Key |magazine=Computer Gaming World |date=March 1986 |volume=1 |issue=26 |pages=38}}</ref>
+
+''Little Computer People'' earned a ''[[Zzap!64]]'' Gold Medal Award in 1985.<ref name="Z64">{{cite journal |date=November 1985 |title=Zzap! Test: The Activision Little Computer People Discovery Kit |journal=Zzap!64 |issue=7 |pages=8–10 |publisher=Newsfield |url=https://archive.org/stream/zzap64-magazine-007/ZZap_64_Issue_007_1985_Nov#page/n8/mode/2up |accessdate=2013-05-29}}</ref> ''[[GAMES Magazine|Games]]'' magazine listed it as one of its top 10 best entertainment software produced in 1985.<ref>{{Cite book |last1=Katz |first1=Arnie |url=http://archive.org/details/games701985december |title=GAMES Magazine #70 |last2=Kunkel |first2=Bill |last3=Worley |first3=Joyce |date=December 1985 |publisher=Playboy Enterprises |pages=47–48 |author-link2=Bill Kunkel (journalist) |issue=70}}</ref> [[Jerry Pournelle]] of ''[[BYTE]]'' named it his game of the month for December 1986, stating "That's not strictly a game, but it sure has consumed all the game time we have around here" and that the Amiga version's graphics were preferable to the Atari ST's.<ref name="pournelle198612">{{cite news | url=https://archive.org/stream/byte-magazine-1986-12/1986_12_BYTE_11-13_Graphics_Algorithms#page/n299/mode/2up | title=The Final Frontier | work=BYTE | date=December 1986 | accessdate=9 May 2015 | author=Pournelle, Jerry | pages=291}}</ref>
+
+''[[Compute!]]'' favorably reviewed the Atari ST version in 1987, stating that it had "enormous and subtle educational appeal" to children and others. The magazine concluded that ''Little Computer People'' "is a delightful program".<ref name="randall198703">{{cite news | url=https://archive.org/stream/1987-03-compute-magazine/Compute_Issue_082_1987_Mar#page/n71/mode/2up | title=Little Computer People | work=Compute! | date=March 1987 | accessdate=9 November 2013 | author=Randall, Neil | pages=70}}</ref> The game was voted best original game of the year at the 1986 [[Golden Joystick Awards]].<ref>{{cite journal|title=Golden Joystick Awards|journal=[[Computer and Video Games]]|date=May 1986|issue=55|page=90|publisher=[[EMAP]]|url=https://archive.org/stream/Computer_Video_Games_Issue_055_1986-05_EMAP_Publishing_GB/Computer__Video_Games_Issue_055_1986-05_EMAP_Publishing_GB#page/n89/mode/2up}}</ref>
+
+===Reviews===
+*''[[Isaac Asimov's Science Fiction Magazine]]'' v11 n1 (1987 01)<ref>{{cite web | url=https://archive.org/details/Asimovs_v11n01_1987-01/page/n19/mode/2up | title=Asimov's v11n01 (1987 01) }}</ref>
+
+==Legacy==
+''Little Computer People'' was described by Kim Wild of ''[[Retro Gamer]]'' as "selling well enough", but that the large amount of money in development and acquiring the property mean that any sequels were not a financial reality.{{sfn|Wild|p=35}} During the development of the Amiga version of the game, Crane was planning add-ons being made available.{{sfn|Wild|p=35}}
+
+''Little Computer People'' is often compared to an early predecessor to ''[[The Sims]]'' game series.{{sfn|Wild|p=35}}{{sfn|Mott|2005|p=105}} When asked about its influence, Crane responded that "Almost everything we touched in those days could be constructed as the precursor to something on the market today. So rather than go there, I simple acknowledge that I took the first baby steps toward the simulation genre when I added human-like interactivity to ''Little Computer People''."{{sfn|Wild|p=35}}
+[[Will Wright (game designer)|Will Wright]], designer of ''[[The Sims (video game)|The Sims]]'', has mentioned playing ''Little Computer People'' and receiving valuable feedback on ''The Sims'' from its designer, Rich Gold.<ref>{{cite web|url= http://www.cnn.com/chat/transcripts/2000/1/wright/index.html | title=Will Wright: A chat about the {{sic|hide=y|two 'the' in source title}} "The Sims" and "SimCity" | publisher=CNN | accessdate=2006-09-03}}</ref>
+
+In 1998, German electro musician [[Anthony Rother]] released a single titled "Little Computer People", which is inspired by the computer game, as part of the group The Little Computer People Project.<ref>{{cite web |title=The Little Computer People Project - Little Computer People |website=[[Discogs]] |year=1998 |url=https://www.discogs.com/master/72609-Little-Computer-People-Little-Computer-People |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite magazine|magazine=[[Edge (magazine)|Edge]]|publisher=Future Publishing|title=The Making of...Little Computer People|
+date=March 2005|editor-last=Mott|editor-first=Tony}}
+* {{cite magazine|magazine=[[Retro Gamer]]|volume=2|issue=6|publisher=Live Publishing|last=Wild|first=Kim|title=Virtually Alive|issn=1742-3155}}
+
+==External links==
+*{{moby game|id=/little-computer-people}}
+*[http://www.pac-attack.com/lcp Little Computer People Information Preservation Article] filed under Pac-Man's Notes at Pac-Attack.com
+*[http://www.the-commodore-zone.com/articlelive/categories/Articles/Little-Computer-People/ Little Computer People Research Project (extensive information on C64 version)] at The-Commodore-Zone
+*[http://www.the-commodore-zone.com/articlelive/articles/7/1/David-Crane/Page1.html Legends of the C64 article on David Crane (includes Little Computer People info)]
+*[http://www.softpres.org/?id=article:game:little_computer_people Technical information on how the random characters were generated] at Software Preservation Society
+*{{WoS game|id=0002897}}
+
+[[Category:1985 video games]]
+[[Category:1987 video games]]
+[[Category:Activision games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Famicom Disk System games]]
+[[Category:God games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Social simulation video games]]
+[[Category:Square (video game company) games]]
+[[Category:Video games scored by Nobuo Uematsu]]
+[[Category:Video games set in computers]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

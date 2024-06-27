@@ -1,0 +1,44 @@
+Bedlam (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bedlam_%281982_video_game%29&oldid=1045864621
+Accessed on: 2024-06-26T16:53:02.231241
+
+
+
+------
+Bedlam (1982 video game)
+{{Infobox video game
+| title          = Bedlam
+| image          = Bedlam manual cover.jpg
+| caption        = Manual cover art
+| developer      = Robert Arnstein
+| publisher      = [[Tandy Corporation]]
+| genre          = [[Interactive fiction]]
+| platforms      = [[TRS-80]], [[TRS-80 Color Computer]]
+| release        = [[1982 in video gaming|1982]]
+}}
+
+'''''Bedlam''''' is a [[TRS-80]] based [[text adventure]] game written for the TRS-80 by Robert Arnstein and released by [[Tandy Corporation]] in 1982.<ref>{{cite book|last1=Pitre|first1=Boisy|title=CoCo: The Colorful History of Tandy's Underdog Computer|date=2014|publisher=CRC Press|location=Boca Raton, Florida|page=45}}</ref> It was ported to the [[TRS-80 Color Computer]].<ref name="boyle">{{cite web |last1=Boyle |first1=L. Curtis |title=Bedlam |url=http://www.lcurtisboyle.com/nitros9/bedlam.html |website=Tandy Color Computer Games}}</ref> The object of the game is to escape a [[lunatic asylum]]. There are several ways to escape but only one random exit is active each time the game is loaded.
+
+== Gameplay ==
+[[File:Bedlam opening screen.png|thumb|right|Opening screen|alt=A computer screen which displays only text about waking up from a very bad dream]]
+The game is text only. Players move through the asylum by typing simple instructions using a [[verb]]-[[noun]] command such as, "go north" or "get the key". There are [[Non-player character|NPCs]] such as Houdini and Picasso that can be either helpful or an obstacle.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.figmentfly.com/bedlam/ Bedlam], a site dedicated to the game along with a web-based emulator to play the actual game.
+* [http://www.dallasobserver.com/music/producer-alex-gerst-talks-tandy-slow-roosevelt-and-the-cyclical-health-of-dallas-music-7054277 An article from the ''Dallas Observer''] which includes a discussion of the manual's cover art.
+* {{IFDB|id=86pdqywaafo2sl9n|title=Bedlam}}
+
+{{Use dmy dates|date=March 2018}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1982 video games]]
+[[Category:Adventure games]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in psychiatric hospitals]]
+
+{{Adventure-videogame-stub}}

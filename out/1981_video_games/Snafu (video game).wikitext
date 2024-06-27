@@ -1,0 +1,59 @@
+Snafu (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Snafu_%28video_game%29&oldid=1215101796
+Accessed on: 2024-06-26T16:52:35.773954
+
+
+
+------
+Snafu (video game)
+{{Infobox video game
+| title = Snafu 
+| image = Snafu cover.jpg
+| caption= 
+| developer = [[Mattel]]
+| publisher = Mattel
+| designer = Mike Minkoff<ref name="INTVlives">{{cite web|url=http://www.intellivisiongames.com/gamepage.php?gameId=87|title=Snafu|work=IntellivisionLives.com|accessdate=2010-08-18|url-status=dead|archiveurl=https://web.archive.org/web/20071015081431/http://intellivisiongames.com/gamepage.php?gameId=87|archivedate=2007-10-15}}</ref>
+| composer = [[Russell Lieblich]]
+| engine =
+| released = {{vgrelease|NA|October 15, 1981<ref>{{Cite web|url=https://history.blueskyrangers.com/mattelelectronics/games/snafu.html|title=Snafu}}</ref>}}
+| genre = [[Snake (video game genre)|Snake game]]
+| modes = [[Single player video game|Single player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[Intellivision]], [[Mattel Aquarius|Aquarius]]
+}}
+
+'''''Snafu''''' is a video game released by [[Mattel]] for its [[Intellivision]] [[gaming console|video game system]] in 1981.<ref>{{cite web|url=http://www.gamefaqs.com/intellivision/565759-snafu/data|title=Snafu Release Information for Intellivision|work=GameFAQs.com|accessdate=2010-08-18}}</ref> One of a number of [[Snake (video game genre)|snake games]] released in the late 1970s and early 1980s, ''Snafu'' features players controlling ever-lengthening serpents as they attempt to corner their opponents and trap them.
+
+A version of ''Snafu'' was released for Mattel's short-lived [[Mattel Aquarius|Aquarius]] personal computer in 1983.<ref name="INTVlives"/><ref>{{cite web|url=http://www.gamefaqs.com/aquarius/931742-snafu/data|title=Snafu Release Information for Mattel Aquarius|work=GameFAQs.com|accessdate=2010-08-18}}</ref>
+
+==Gameplay==
+''Snafu'' contains 16 different game variations based around two game formats, "Trap" (12 variations) and "Bite" (4 variations). Before gameplay begins, players select the speed of the game, then the desired gameplay variation and finally the number of rounds (up to 99) for that game.<ref name="SNInst">{{cite web|url=http://www.intellivisiongames.com/bluesky/games/instructions/action/snafu.txt|title=Snafu instructions|work=IntellivisionLives.com|accessdate=2010-08-18}}</ref>
+
+"Trap" games may be played by either one or two players; if a controller is not used, the computer assumes control of that player's character. When the round starts, colored serpents appear on the screen inside a rectangular playfield and begin to grow. The object is to box in the opponents' serpents, forcing them to collide with the edges of the playfield or with another serpent, including itself. Players may move horizontally or vertically, although some variations allow diagonal movement. There also may be additional obstacles on the screen and/or two extra computer-controlled lines (for a total of four lines on-screen at once), again depending on the gameplay variation selected. Points are scored by the surviving player(s) whenever an opponent line crashes.<ref name="SNInst"/>
+
+"Bite" games are played by two players, with no computer-controlled opponents. At the start of the round, each serpent grows until it reaches a set length. Players must direct their serpents toward the tail of their opponent. Each time the head of a serpent contacts the tail of the opponent, the opponent serpent loses a segment. Segments are also lost if the serpent collides with the edges of the playfield or with an obstacle. After a period of time, serpents can regrow segments up to a maximum of double the original length. When a player's serpent loses all its segments, the surviving serpent wins the round.<ref name="SNInst"/>
+
+==Development==
+Programmer Mike Minkoff began work on the game under the working title ''Blockade+Snakes'', which was based on the inspirations of the two game variations, the board game ''[[Blockade (board game)|Blockade]]'' and a prototype handheld game developed by Mattel Electronics but never released.<ref name="INTVlives"/> As development continued, Minkoff began calling the game ''Ssssnakes!'', to the point of including the name on the game's start-up screen.<ref name="INTVlives"/> However, Mattel had decided to name the game after the military acronym [[SNAFU]], even though Minkoff believed there was no connection between the game and the acronym's meaning.<ref name="INTVlives"/>
+
+==Reviews==
+*''[[Games (magazine)|Games]]'' #44<ref>{{cite web | url=https://archive.org/details/games-44-1983-october/page/n61/mode/2up | title=GAMES Magazine #44 | date=October 1983 }}</ref>
+
+==Legacy==
+''Snafu'' was re-released as part of the ''[[Intellivision Lives!]]'' collection.
+
+An updated version, ''Snafoo'',<ref>{{cite web|title=Intellivision Amico - Tommy Tallarico introduction + Q&A - Page 14 - Intellivision / Aquarius|url=https://atariage.com/forums/topic/288558-intellivision-amico-tommy-tallarico-introduction-qa/?do=findComment&comment=4280626|website=Intellivision Entertainment}}</ref> was announced for the [[Intellivision Amico]].<ref>{{cite press release|url=https://www.prnewswire.com/news-releases/intellivision-reveals-initial-details-for-the-upcoming-amico-home-video-game-console-300734998.html|title=Intellivision® Reveals Initial Details For The Upcoming Amico™ Home Video Game Console!|accessdate=10 October 2020}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.intellivisiongames.com/bluesky/games/credits/action.html#snafu ''Snafu''] at Intellivision Lives
+* {{IAg|Snafu_1982_Mattel|platform=Mattel Aquarius}}
+
+[[Category:1981 video games]]
+[[Category:Intellivision games]]
+[[Category:Mattel video games]]
+[[Category:Snake video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Video games scored by Russell Lieblich]]
+[[Category:Video games developed in the United States]]

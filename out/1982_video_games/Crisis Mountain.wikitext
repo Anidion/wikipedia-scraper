@@ -1,0 +1,75 @@
+Crisis Mountain
+Permalink: //en.wikipedia.org/w/index.php?title=Crisis_Mountain&oldid=1224580207
+Accessed on: 2024-06-26T16:53:14.615546
+
+
+
+------
+Crisis Mountain
+{{short description|1982 video game}}
+{{Infobox video game
+|title = Crisis Mountain
+|image = Crisis_Mountain_Cover_Art.jpg
+|caption = 
+|developer =
+|designer = David H. Schroeder
+|programmer = '''Apple II'''<br>David Schroeder<br>'''Atari 8-bit'''<br>Ron Aldrich<ref name=giantlist/><br>'''Commodore 64'''<br>Lloyd D. Ollman Jr.<ref name=giantlist/>
+|composer = 
+|publisher = [[Synergistic Software]]<br>Creative Software (C64, VIC)<br>Comptiq (FM-7, PC-88)
+|released = '''1982:''' Apple<br>'''1983:''' Atari 8-bit<br>'''1984:''' C64, FM-7, PC-88
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[FM-7]], [[PC-8800 series|PC-88]], [[VIC-20]]
+}}
+
+'''''Crisis Mountain''''' is a [[platform game]] written by David H. Schroeder for the [[Apple II]] and published by [[Synergistic Software]] in 1982. A port to [[Atari 8-bit computers]] was released in 1983. Creative Software published cartridge versions for the [[Commodore 64]] and [[VIC-20]]. Ports for the [[FM-7]] and [[PC-8800 series]] were from Comptiq.
+
+In ''Crisis Mountain'', the player must defuse [[bomb]]s left in a lair below a volcano which was abandoned by [[terrorism|terrorists]]. One of the first games with [[health (game terminology)#Regeneration|regenerating health]], the player is not always killed by an individual mishap. Health—labeled as ''strength''—is shown as a number from 0–3, and after taking damage it slowly increases over time.<ref name=manual/>
+
+Schroeder later developed ''[[Dino Eggs]]'' for the Apple II.
+
+==Gameplay==
+[[File:Crisis_Mountain_Atari_8-bit_PAL_screenshot.png|thumb|left|The player crawled though a tunnel, emerging on the right side of the screen (Atari 8-bit).]]
+
+The player runs, jumps, kneels, and crawls through a volcanic lair, attempting to reach bombs with timed detonators. Digging up a bomb disables it; digging is faster if the shovel has been found. The remaining time on a disabled bomb is added to a bonus clock. After all bombs have been dealt with, the player is given the accumulated time for a "bonus run" where the goal is to collect valuable items left by the terrorists. There are two separate lairs, and the bombs and collectible items are in random locations each play.
+
+The player starts with a [[Health (game terminology)|strength]] of 3 and dies if it falls to 0. Being hit by rocks ejected from lava pits takes away 1 or 2 units, depending on the type of rock. Falling in the lava or being hit by Bertrum the radioactive bat results in immediate death. Strength slowly regenerates over time.
+
+==Development==
+David Schroeder was inspired to write video games after playing ''[[Donkey Kong (arcade game)|Donkey Kong]]'', and ''Crisis Mountain'' started out as a minimalist version of that game in [[Applesoft BASIC]].<ref name=vb/> He chose the Apple II, because that's what was in the lab at [[Seattle Central College|Seattle Central Community College]]. He didn't own a computer until he purchased an [[Apple II Plus]] with royalties from ''Crisis Mountain''.
+
+==Reception==
+Writing for ''[[Compute!]]'', Patrick Parrish found the bat to be a key feature:{{quote|the most remarkable graphic element of the game (and the most confounding to any player) is Bertrum, the bat. Bertrum flits about the cavern in a way that resembles a real bat. If a boulder is blasted from a nearby lava pit, Bertrum will dart toward it for a quick inspection, determine the rock is not prey, and fly off to another part of the cave.
+
+But Bertrum is more than just a visual success. His presence adds a degree of chance to the game which makes it faster and more challenging. This dreaded bat has a knack for determining where your player is at any moment in the game. Sometimes, you can avoid Bertrum with a last minute duck or leap.<ref>{{cite journal |last1=Parrish |first1=Patrick |title=Review: Crisis Mountain for Apple and Atari |journal=Compute! |date=September 1983 |issue=40 |page=184 |url=https://www.atarimagazines.com/compute/issue40/review_crisis_mountain.php}}</ref>
+}}
+He concluded by calling it "a superior programining achievement and a thoroughly entertaining game." ''Softline'' magazine wrote, "One of the nicest things about ''Crisis Mountain'' is that no two games seem alike," and "There are enough things going on all the time that it never becomes boring."
+<ref>{{cite journal |title=Gameline: Crisis Mountain |journal=Softline |date=January 1983 |page=41 |url=https://archive.org/details/Softline_1983_01/page/n41/mode/2up}}</ref> In an ''[[Electronic Games]]'' review, Rick Teverbaugh wrote, "Instead of looking like some uneven lines and ladders, this climbing game has a playfield that actually looks like the inside of a cave", and he called the overall visuals "superb".<ref>{{cite journal |last1=Teverbaugh |first1=Rick |title=Computer Gaming: Crisis Mountain |journal=Electronic Games |date=August 1983 |volume=2 |issue=6 |page=82 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_06_1983-08_Reese_Communications_US/page/n81/mode/2up}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name=vb>{{cite web |last1=Schroeder |first1=David |title=Crisis Mountain's main lesson: No such thing as a random number |url=https://venturebeat.com/2016/01/04/crisis-mountains-main-lesson-no-such-thing-as-a-random-number/ |website=Venture Beat |date=January 4, 2016}}</ref>
+<ref name=manual>{{cite web |title=Crisis Mountain Apple II Manual |url=https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/games/misc/Crisis%20Mountain%20Manual.pdf |date=1982}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=1407}}
+*{{lemon64 game|id=568}}
+*[https://archive.org/details/CreativeComputingbetterScan198302/page/n87/mode/2up Review] in ''[[Creative Computing]]''
+*[https://archive.org/details/inCider_83-11/page/n215/mode/2up Review] in ''[[InCider]]''
+*[https://archive.org/details/softalkv3n02oct1982/page/150/mode/2up Review] in ''[[Softalk]]''
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:FM-7 games]]
+[[Category:Platformers]]
+[[Category:Video games about bomb disposal]]
+[[Category:Video games about terrorism]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Creative Software games]]
+[[Category:Synergistic Software games]]

@@ -1,0 +1,43 @@
+Air Raid (1978 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Air_Raid_%281978_video_game%29&oldid=1124110811
+Accessed on: 2024-06-26T16:47:49.079815
+
+
+
+------
+Air Raid (1978 video game)
+{{short description|none}}
+{{About|the 1978 TRS-80 game|the 1982 Atari 2600 game|Air Raid (1982 video game)}} 
+{{Infobox video game
+| title = Air Raid
+| caption= Title screen
+| image = File:Air Raid (1979 game).png
+| publisher = Small System Software<ref>{{cite magazine |editor-last=Green |editor-first=Wayne |date=February 1980 |title=TRS-80 Products |url=https://archive.org/details/80-microcomputing-magazine-1980-02/page/n91 |magazine=[[80 Microcomputing]] |issue=2 |page=92 |via=[[Internet Archive]]}}</ref>
+| platforms = [[TRS-80]]
+| released = [[1978 in video gaming|1978]]<ref>{{cite magazine |editor-last=Green |editor-first=Wayne |date=October 1978 |title=TRS-80 Machine Language Software |url=https://archive.org/details/kilobaudmagazine-1978-10/page/n102 |magazine=[[Kilobaud Microcomputing|Kilobaud]] |issue=22 |page=101 |via=[[Internet Archive]]}}</ref>
+| genre = [[Fixed shooter]]
+}}
+
+'''''Air Raid''''' is a [[fixed shooter]] video game published by Small System Software for the [[TRS-80]] Level I or II in 1978. It is an [[Video game clone|adaptation]] of the game ''TARGET'',<ref>{{cite web |url=http://www.sol20.org/programs.html |year=2011 |title=Retreads for TRS-80 |last=Battle |first=Jim |website=Sol20.org}}</ref> developed for the [[Sol-20]] by Steve Dompier.<ref>{{cite magazine |editor-last=Younger |editor-first=J. Kelley |title=Brave New Reality |date=January 1986 |url=https://books.google.com/books?id=fPoaAQAAMAAJ&pg=PA45 |magazine=[[PC World]] |publisher=PC World Communications |volume=4 |issue=1 |page=45 |issn=0737-8939}}</ref>
+
+==Gameplay==
+[[File:Air Raid (1979 game) Screen.png|200px|thumb|right|The ASCII display of ''Air Raid''.]]
+
+The player uses a five direction missile launcher to destroy a random sequence of small quickly moving and large slowly moving aircraft (represented by [[ASCII]] characters) crossing the screen at seven altitudes. Collisions between two aircraft destroy both and produce a higher scoring parachute target, while aircraft destroyed by missiles explode, producing a cloud of debris capable of destroying aircraft below.<ref>{{cite magazine |author=Small System Software |year=1979 |title=Air Raid: A Real-Time Shooting Gallery |url=https://archive.org/details/h-and-e-computronics-software-catalog-no-3-19xx/page/n27 |magazine=TRS-80 Software Catalog |publisher=H & E Computronics |location=New City, NY |issue=3 |page=27 |via=[[Internet Archive]]}}</ref><ref>{{cite magazine |editor-last=Blank |editor-first=George |date=May 1979 |title=TSE Market Basket Catalog |url=https://archive.org/details/softside-magazine-08/page/n65 |magazine=[[SoftSide]] |publisher=SoftSide Publications |location=Milford, NH |page=66 |via=[[Internet Archive]]}}</ref>
+
+==Reception==
+Joseph T. Suchar reviewed ''Air Raid'' in ''[[The Space Gamer]]'' No. 30.<ref name="SG">{{cite journal|last=Suchar|first=Joseph T. |date=August 1980 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=30|pages=28}}</ref> Suchar commented that "''Air Raid'' is the best arcade-type game I have played. As an arcade game it is unsurpassed and I recommend it."<ref name="SG"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{YouTube|id=QTReIweyQ3M|title=Air Raid - (1978) - TRS-80 - gameplay HD}}
+*{{YouTube|id=tWzxctVKSu8|title=TRS-80 game "AIR RAID", clone of Sol-20 game "TARGET"}}
+
+[[Category:1978 video games]]
+[[Category:Fixed shooters]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80-only games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]

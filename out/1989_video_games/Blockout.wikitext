@@ -1,0 +1,99 @@
+Blockout
+Permalink: //en.wikipedia.org/w/index.php?title=Blockout&oldid=1223676219
+Accessed on: 2024-06-26T17:05:46.385446
+
+
+
+------
+Blockout
+{{short description|1989 video game}}
+{{About|the video game||Blockout (disambiguation)}}
+{{Infobox video game
+|title = Blockout
+|image = Blockout Cover.jpg
+|platforms = [[Amiga]],<ref>{{cite magazine|title=Block Out|url=https://archive.org/details/videogamesandcomputerentertainment199011/page/206|magazine=[[Video Games & Computer Entertainment]]|date=1 November 1990|page=206|lang=en}}</ref> [[Apple IIGS]], [[Arcade game|Arcade]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[Sega Genesis]], [[Atari Lynx]],<ref name=manuall>{{citation|url=https://archive.org/details/Block_Out_1990_Atari_Corp|title=Blockout Atari Lynx Manual|website=archive.org|year=1990 |access-date=4 April 2023}}</ref> [[Classic Mac OS|Mac OS]], [[PC-98]]<ref>{{cite web|url=https://www.giantbomb.com/blockout/3030-13403|title=Blockout|website=giantbomb.com|access-date=4 April 2023}}</ref>
+|developer = P.Z.Karen Co. Development Group, [[Logical Design Works]]<ref name=manual>{{citation|url=https://archive.org/details/Block_Out-Manual|title=Blockout User's Manual for the Amiga, Atari ST, Macintosh, Tandy, and IBM PC and Compatibles|website=archive.org|access-date=4 April 2023}}</ref>
+|publisher = [[California Dreams (publishing label)|California Dreams]]<br/>[[Technōs Japan|American Technos]] (arcade)<br/>[[Rainbow Arts]]<br/>[[Electronic Arts]]<br/>[[Sega]]<br/>[[Atari Corporation]]<br/>Jelly Beans (PC-98)
+|released = '''Arcade '''<br />{{vgrelease|[[North America|NA]]|October 1989}}'''Mega Drive/Genesis'''{{vgrelease|JP|November 1, 1991}}{{vgrelease|WW|1991}}
+|designer = Aleksander Ustaszewski<ref name=manual></ref>
+|programmer = Mirosław Zabłocki
+|genre = [[Puzzle video game|Puzzle]]
+}}
+
+'''''Blockout''''' is a [[puzzle video game]] published in 1989 by [[California Dreams (publishing label)|California Dreams]]. It was developed in [[Poland]] by Aleksander Ustaszewski<ref name=nyt/> and Mirosław Zabłocki. [[Technōs Japan|American Technos]] published an arcade version. ''Blockout'' is an unlicensed, 3D version of ''[[Tetris]]''.
+
+==Gameplay==
+{{Unreferenced section|date=November 2022}}
+[[File:Block Out (Genesis).png|thumb|left|Mega Drive version]]
+
+The player's perspective is that of looking down into a three-dimensional rectangular pit. [[Polycube]] blocks of various shapes appear, one at a time, and fall slowly toward the bottom of the pit. The player can use three buttons to rotate the block around any of the three [[Cartesian coordinate system|coordinate axes]], and can also maneuver the block horizontally and vertically with a [[joystick]]. Once any part of a block comes to rest on the floor of the pit or in contact with an already-placed [[cube]], the entire block freezes in place and can no longer be moved. The player can press a button on the joystick to quickly drop a block. Once a solid layer of cubes is formed with no gaps (a "face"), it disappears and all cubes above it drop toward the bottom of the pit to fill the space. Completing multiple faces with a single block awards higher scores, and the player earns a "Block Out" bonus for completely emptying the pit.<ref name=manual></ref> A set number of faces must be completed in order to end each round.
+
+[[File:Mirosław Zabłocki 11.08.2023 - by Leszek.jpg|thumb|Mirosław Zabłocki - co-author of the game (2023)]]
+As the game progresses, the blocks begin to drop faster, the dimensions of the pit change from round to round, and differently-shaped blocks begin to appear. A bonus stage is played after every fifth round, in which the player has 30 seconds to form as many faces as possible in a 2x2 pit. The game ends if the blocks stack up to the top of the pit, with the exception of the bonus stages; in the latter case, the stage ends immediately and the player advances to the next round.
+
+The game allows head-to-head competition between two players, each of whom has their own pit and blocks. When one player completes a face, all the cubes in the opponent's pit are raised by one level. A player can win a round by either being the first to complete a set number of faces or by forcing their opponent's cubes to stack up to the top of the pit. The first player to win a set number of rounds may continue the game alone in single-player mode.
+
+==Ports==
+Apart from the other known console [[Porting|ports]] of ''Blockout'', there were also two for [[Nintendo Entertainment System|NES]]: the first is an official unreleased prototype developed in 1990 by [[Technos Japan Corp.]] under the name "Block Out", while the second is an [[Copyright infringement|unauthorized]] [[Video game clone|clone]] programmed by [[Hwang Shinwei]] and published by both himself and RCM Group in 1989/1990 (titled ''3D Block'').
+
+==Reception==
+{{Video game reviews
+| IGN = 8/10 (Lynx)<ref name=ignlynxreview/>
+| rev1 = ''[[MegaTech]]''
+| rev1Score = 91%<ref>MegaTech rating, [[EMAP]], issue 6, page 76, June 1992</ref>
+| rev2 = ''[[Mega (magazine)|Mega]]''
+| rev2Score = 67%<ref>Mega rating, issue 9, page 23, [[Future Publishing]], June 1993</ref>
+| rev3 = ''[[PC Leisure]]''
+| rev3Score = {{Rating|4|5}}<ref name=pc_leisure>{{cite journal |author=Garth Sumpter |title=Blockout |periodical=PC Leisure|publisher=EMAP |type=journal |date=November 1990 |issue=3 |pages=62}}</ref>
+| award1Pub = MegaTech
+| award1 = Hyper Game
+}}
+
+''[[The New York Times]]'' reviewed the game in an article about [[educational software]] for mathematics, writing that ''Blockout'' "doesn't pretend to be educational, but the skills required to master it are not unrelated to mathematics, particularly [[geometry]]."<ref name=nyt>L. R. Shannon: [https://www.nytimes.com/1990/01/23/science/peripherals-no-frills-mathematics-instruction.html No-Frills Mathematics Instruction] ''[[The New York Times]]'', 23 January 1990</ref> A 1993 study found evidence that playing Blockout improved the [[spatial visualization ability]] of 10- to 14-year-olds.<ref>NOSS, A. (1994): Förderung der Raumvorstellung bei 10- bis 14-Jährigen durch das Computerspiel BLOCKOUT. Diploma thesis, [[University of Vienna]].</ref> 
+
+In Japan, ''Game Machine'' listed ''Block Out'' on their March 1, 1990 issue as being the tenth most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=375|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 March 1990|page=29|lang=ja}}</ref>
+
+''[[Dragon (magazine)|Dragon]]'' gave the game's Atari Lynx version a perfect score.<ref name="Dragon181">{{cite journal
+|title=The Role of Computers
+|last1=Lesser |last2=Lesser |last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk|name-list-style=amp
+|journal=[[Dragon (magazine)|Dragon]]
+|issue=181
+|date=May 1992
+|pages=57–62}}</ref> Robert A. Jung reviewed the Atari Lynx version of the game, which was published on ''IGN''. In his final verdict, he wrote: "This is a nice, addictive, no-nonsense strategy game. Without any patterns to memorize and several options to choose from, ''Blockout'' will keep its freshness for quite some time. If you thought ''Tetris'' was too simple, give this title a try." He scored the game eight out of ten.<ref name=ignlynxreview>{{cite web |url=http://uk.ign.com/articles/1999/07/07/blockout |title=Looking for a solid handheld puzzle game? Atari's got the answer. |publisher=IGN Entertainment |author=Robert A. Jung |date=6 July 1999 |access-date=14 August 2018}}</ref>
+
+''[[Entertainment Weekly]]'' gave the game an A,<ref>{{Cite news|url=https://ew.com/article/1991/07/26/blockout/|title=Blockout|work=EW.com|access-date=2018-11-03|language=en|archive-date=2018-09-10|archive-url=https://web.archive.org/web/20180910094649/https://ew.com/article/1991/07/26/blockout/|url-status=dead}}</ref> deeming it the #17 greatest game available in 1991.<ref>{{Cite news|url=https://ew.com/article/1991/11/22/video-games-guide/|title=Video Games Guide|work=EW.com|access-date=2018-11-03|language=en}}</ref>
+
+==Legacy==
+Around 2007<ref name="SFdownloads">[https://sourceforge.net/projects/blockout/files/stats/timeline?dates=2006-12-08+to+2016-12-14 blockout II - Downloads] on [[SourceForge]]</ref> a modernized, authorized [[Video game remake|continuation/remake]]<ref>[http://www.reloaded.org/download/BlockOut-II/382/ Blockout II] on reloaded.org</ref> named ''Blockout II''<ref>[http://www.blockout.net/blockout2/ blockout2] on blockout.net</ref> was released with a [[license]] from Kadon Enterprises, to use the [[trademark]]ed ''Blockout'' name.<ref>[http://www.gamepuzzles.com/polyintr.htm#Blockout The Blockout story] on gamepuzzles.com (Kadon Enterprises) ''"Jean-Luc Pons, a self-declared addicted Blockout player in France, has created an improved [[C++]] clone of the original Blockout version and offers Blockout II as an open source project for other addicted players. All these versions obtained permission from Kadon to use the Blockout name."''</ref> The game is [[open-source video game|open-source]] and was [[Source port|ported]] to many platforms the original wasn't available before, like [[Microsoft Windows]],<ref name="SFdownloads"/> [[Ubuntu]],<ref>[https://apps.ubuntu.com/cat/applications/oneiric/blockout2/ blockout2] on apps.[[ubuntu.com]]</ref> and the [[Pandora (console)|OpenPandora]] [[mobile device|handheld]].<ref>[https://repo.openpandora.org/?page=detail&app=blockout2 blockout2] on repo.openpandora.org</ref>
+
+In 2021, a web browser-based version<ref>[https://blockout.nu made blockout.nu]</ref> written in JavaScript and HTML5 was released. It is officially licensed to use the name ''Blockout''.<ref>{{cite web | url=http://www.gamepuzzles.com/polyintr.htm#Blockout | title=Kadon Enterprises, Inc., More about polyominoes and polycubes }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.blockout.net/blockout2/ Official website for ''Blockout II'']
+*[https://blockout.nu/ Browser version]
+*{{moby game|id=/498/blockout}}
+
+{{Tetris}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Arcade video games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari Lynx games]]
+[[Category:Atari ST games]]
+[[Category:California Dreams (publishing label) games]]
+[[Category:Cancelled Nintendo Entertainment System games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Falling block puzzle games]]
+[[Category:Linux games]]
+[[Category:MegaTech Hyper Game awards winners]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Open-source video games]]
+[[Category:Sega Genesis games]]
+[[Category:Tetris clones]]
+[[Category:Video games developed in Poland]]

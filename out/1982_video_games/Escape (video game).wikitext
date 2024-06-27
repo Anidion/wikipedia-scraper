@@ -1,0 +1,55 @@
+Escape (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Escape_%28video_game%29&oldid=1125872059
+Accessed on: 2024-06-26T16:53:21.443883
+
+
+
+------
+Escape (video game)
+{{Infobox video game|
+|title = Escape
+|image = EscapeCI.jpg
+|developer = [[Malcolm Evans (computer programmer)|Malcolm Evans]]
+|publisher = [[New Generation Software]]
+|released = 1982
+|genre= [[List of maze video games|Maze]]
+|platforms = [[ZX Spectrum]]
+}}
+
+'''''Escape''''' is maze video game for the [[ZX Spectrum]] developed by [[New Generation Software]] and published in 1982.
+
+The cassette inlay reads: "Can you ESCAPE from the monsters? You must search through the
+maze to find the axe which will enable you to break down the door and
+ESCAPE. But it is not that easy&mdash;the [[Triceratops]] hides behind the
+hedges and the [[Pteranodon]] soars over the maze to swoop down upon you"<ref>{{cite journal |year=1982|title = Cassette Inlay |journal=Escape}}</ref>
+
+==Gameplay==
+The player has to search a maze displayed in primitive 3D for an axe, which will allow him to break the exit, and escape.  He is chased by initially a single [[dinosaur]] - each successful escape increases the number of dinosaurs roaming the maze, until level 5, which introduces a [[pterosaur]] that will occasionally take off and fly over the hedges, not being restricted to the maze paths.<ref>{{cite journal |date=February 1984 |title=Review... |journal=[[CRASH (magazine)|Crash]] |issue=1 |pages=50}}</ref>
+
+Upon finding the axe, which is randomly placed for each level, the player slows down allowing the dinosaurs to catch up.
+
+[[Image:EscapeSS.gif|right|thumb|256px|The player (in black) carrying the axe, and being chased by five dinosaurs.  The entrance to the maze is in the bottom right, and the exit (still blocked) in the top left.]]
+
+==Reception==
+''[[Sinclair User]]'': "The game was written by the author of the J K Greye ''[[3D Monster Maze]]'' and is one of the best and most original games we have seen for the Spectrum so far"<ref>{{cite journal |date=November 1982 |title=Escape review |journal=[[Sinclair User]] |issue=8 |pages=S9}}</ref>
+
+''ZX Computing'': "This is not, as it may sound a jump on the 'Pacman' bandwagon, but rather an original and absorbing game which can become extremely difficult and frustrating"<ref>{{cite journal |date=August 1983 |title=Escape review |journal=ZX Computing |issue=8308 |pages=72}}</ref>
+
+''[[Popular Computing Weekly]]'': "I would rate two of the games here ''Escape'' and ''Dictator'' as being amongst the best Spectrum games I have played"<ref name=pcw>{{citation | date = 12 May 1983 | issue = 19 | periodical = Popular Computing Weekly | author = Graham Taylor | title = Absolute power... | page = 15 | url = https://archive.org/details/popular-computing-weekly-1983-05-12/page/n13 | accessdate = 2016-03-26 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WoS_game|id=0001645}}
+
+{{New Generation Software series}}
+
+[[Category:1982 video games]]
+[[Category:New Generation Software games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]
+
+
+{{maze-videogame-stub}}

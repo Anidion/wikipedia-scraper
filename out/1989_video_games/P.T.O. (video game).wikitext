@@ -1,0 +1,171 @@
+P.T.O. (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=P.T.O._%28video_game%29&oldid=1189595003
+Accessed on: 2024-06-26T17:07:01.164227
+
+
+
+------
+P.T.O. (video game)
+{{redirect2|PTO: Pacific Theater of Operations|P.T.O.: Pacific Theater of Operations||PTO (disambiguation){{!}}PTO}}
+{{Infobox video game
+|title = P.T.O.
+|image = TeitokunoKetsudanJPBoxShotGenesis.jpg
+|caption = Japanese Mega Drive cover art
+|developer = [[Koei]]
+|publisher = Koei
+|designer =
+|composer = Hiroshi Miyagawa
+|released = 1989, 1990, 1991, 1992, 1993
+|genre = [[Turn-based strategy]], [[tactical wargame]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]] (up to two players), [[Zero-player game|zero-player]] (CPU vs. CPU)
+|platforms = [[PC-9800 Series|PC-98]], [[PC-8800 Series|PC-88]], [[X68000]], [[MSX2]], [[FM Towns]], [[Sega Genesis|Genesis]], [[Super Nintendo Entertainment System|Super NES]]
+}}
+
+'''''P.T.O.''''' (Pacific Theater of Operations), released as {{nihongo|'''''Teitoku no Ketsudan'''''|提督の決断}} in Japan, is a console [[strategy game|strategy]] [[video game]] released by [[Koei]]. It was originally released for the [[PC-9800 Series|PC-9801]] in 1989 and had been ported to various platforms, such as the [[X68000]], [[FM Towns]], [[PC-8801]] (1990), [[MSX2]] (1991), [[Sega Genesis]] and the [[Super Nintendo Entertainment System|Super NES]] (all three in 1992). Players could assume one side of the [[Asiatic-Pacific Theater|Pacific Theater of Operations]] during World War II, acting as naval commander, organizing fleets, building new ships, appropriating supplies and fuel, and even engaging in diplomacy with other countries. The player can choose one of several World War Two battles to simulate, or could control the entire Pacific campaign well before the [[Attack on Pearl Harbor|Japanese attack on Pearl Harbor]].
+
+A sequel, ''[[P.T.O. II]]'', was released by Koei in 1993. ''Teitoku no Ketsudan III'' was never released outside Japan, but a ''[[P.T.O. IV]]'' was released for the [[PlayStation 2]] in the US and Europe.
+
+==Gameplay==
+===Scenarios===
+Players must choose one of nine scenarios when starting a game. The first scenario (Negotiations Breakdown) is a long-term campaign, where the player must win the war from mid-1941 before the war is declared. Victory can only be obtained by controlling all ports or eliminating all enemy ships. The other scenarios begin in the midst of a certain major Pacific conflict, where the goal is to capture or defend a certain port or sink or protect a number of enemy ships. If a scenario's goal is achieved, the player can continue with the full campaign.
+
+===Naval powers===
+The player has the option of playing as one of the two major World War II Pacific maritime powers: the United States for the [[Allies of World War II|Allies]], or Japan for the [[Axis powers|Axis]]. Other countries begin as allies of the two nations as they were at whatever point in the war gameplay begins; over time, non-allied nations can be convinced to ally with your side after significant gifts and diplomacy. Nations can also break alliances with poor diplomacy, which can lead to the departure of ships loaned from their navy. For instance, if the United Kingdom breaks off from the Allied forces, the US will lose all British ships from their fleet, such as the [[HMS Hermes (95)|Hermes]].
+
+Other countries will behave as they did historically; for example, Italy will cease being a member of the Axis in 1943, due to Allied invasion. The countries available as allies are:
+* [[Nazi Germany|Germany]]
+* [[Kingdom of Italy (1861–1946)|Italy]]
+* England
+* France
+* Holland
+* [[Republic of China (1912–1949)|China]]
+* Australia
+* Thailand
+* India
+* Sweden
+* Switzerland
+* USSR
+* Brazil
+
+===Territory===
+Each power starts out with control over a number of Pacific bases depending on when the scenario begins. The focus of the long-term campaign is to capture enemy territories while defending one's own, reducing the number of ports under enemy control to zero. Territories produce fuel and materials for the power that controls them; fuel refers to both oil for ships, and supplies for soldiers. Materials refer to all ores and metals and can be used for base repair, ship repair, and construction of new warships. Money is used to fund construction of aircraft and transports, and fund improvement in technologies. Capturing territories thus increases the resources available to a player while denying their use to the enemy.
+
+Each power has one home port, to which newly manufactured ships and aircraft are stationed upon completion. During the turn, aircraft, fuel, and materials can be assigned to any base, but depending on the safety and distance of the trade route, some resources may not arrive. Certain ports are capable of 'Urgent Repair', meaning they can affect some small repairs to ships docked there. As not all ports have this capability, control of these key regions is crucial in order to maintain the fighting capabilities of one's fleet at sea with less turnaround time for ship repair when ships are damaged in combat.
+
+===Ships===
+''P.T.O.'' faithfully recreates many of the actual battleships available in the Pacific during the war, and displays a ship icon relative to that ships. Ships are given several attributes: Fortitude, Speed, Anti-air capability, and Anti-ship capability. Ships can also be fitted with radar (search and gunnery), rockets or scouts, and marines for a land invasion. Ships are also given an overall 'Luck' rating from 1 to 99; ships that survived many conflicts in history, like the Enterprise, have a Luck rating of 99.
+
+There are several types of warship available: [[dreadnought|dreadnought battleships]], [[battleships]], [[cruisers]], fleet aircraft carriers, light carriers, [[destroyers]], and [[submarines]]. Each power starts out with a certain number of ships of each type, and a number of ships under construction, usually launching around their historical commission date. Additional ships can be constructed, but only to replace ships previously lost in battle, either by the player or prior to the scenario's start date. Ship construction can be scheduled for 6–24 months out; the closer the launch date, the more industrial power will be expended during construction. Materials are consumed as well, dependent on the type of hull being built, and the ship ratings are chosen during design. The [[ship class]] chosen during construction is cosmetic only; it does not affect actual ship limitations or attributes like the actual hull type does.
+
+Ships are organized into fleets, which can comprise up to 16 ships. Up to 16 fleets can be arranged from inactive ships at the home port. Only one fleet from each side can engage in a battle at any one time, so fleets must attack an enemy in succession rather than at once. Fleets have a rating for Morale and Fatigue, between 0 and 99; morale goes up after victories or during shore leave, and down during defeats or when a flagship is lost. It can also be raised by an emergency banquet at sea. Fatigue goes up after every battle, and when the crew is infected by the plague.
+
+Ships also have individual levels of crew experience; this value starts high for the Japanese, and low for the US. Experience levels gradually increase through combat, or by conducting training drills.
+
+Another type of ship that can be constructed is transports. These are used for carrying additional fuel to extend fleet range, and for transporting resources from territories to home ports.
+
+Additional, non-controlled shipping fleets are constantly active in the game, though not displayed on the tactical maps. Transport fleets supplying bases can be protected by unlisted destroyers and cruisers, but will not engage an enemy fleet.
+
+===Aircraft===
+The following types of aircraft are immediately available: [[Fighter aircraft|fighters]], [[bombers]], and scouts. Later in the game, when technology levels have advanced, [[jet fighters]] and [[Heavy bomber|long-range bombers]] become available. Aircraft carriers can be fitted to allow jets once the technology levels are sufficient; the modified carrier will only carry jet fighters and not normal fighters. Long-range bombers can only be launched from land bases.
+
+Aircraft can be deployed to bases or to aircraft carriers, although some ship types allow scouts to be launched via catapult. Aircraft placed at bases take a defensive role against attacking fleet(s) or aircraft and are used to scout for enemy fleets during the day. After enemy fleets are found, the land-based aircraft will then sortie to attack.
+
+===Commanders===
+Each naval fleet begins with a certain number of fictional fleet commanders, depending on the scenario chosen. These commanders can be placed in command of any of the 16 fleets the player arranges. The player creates the commanders with a set of rolled scores in certain attributes – Air command ability, Sea command ability, Bravery, and overall War ability. Scores range from 01 to 99, and the total between the four scores is 102. Air and Sea abilities affect the actual combat performance of ships and planes under that commander's control. Bravery affects the commander's decision making when the fleet is under AI control. War is an overall rating, which is useful when it comes to convincing the Army and other military officials to agree with your submissions for objectives, budgeting, and industrial production.
+
+==Soundtrack==
+{{Infobox album
+| italic_title = no
+| name         = ''Teitoku no Ketsudan''
+| type         = soundtrack
+| artist       = Hiroshi Miyagawa
+| cover        = 
+| alt          =
+| released     = September 5, 1989
+| recorded     =
+| venue        =
+| studio       =
+| genre        = [[Orchestral]], [[video game music]]
+| length       = {{plainlist|
+*41:01
+}}
+| label        = [[KOEI]] (distributed by Polydor K.K.)
+| producer     = {{plainlist|
+* KOEI Sound Ware Division
+* Kou Shibusawa
+}}
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+The music was composed by longtime anime musician Hiroshi Miyagawa, who wrote a completely orchestral score. The soundtrack was recorded with the Tokyo City Philharmonic Orchestra featuring soprano voice of Kazuko Kawashima among July 18-August 4, 1989. An album CD titled ''Teitoku no Ketsudan'' was published by KOEI Sound Ware and distributed by Polydor K.K. on September 5. The disc covers a total duration of 41:01 with 8 tracks, the first half dedicated to the orchestral suite in four movements.
+
+This soundtrack has the honor of being the first in-game orchestral score for a video game in history, a milestone achieved in April 1990 when it was released on CD-ROM for FM Towns. In fact, the previous version released for PC-88 already used the ''Teitoku no Ketsudan'' album synchronized with the game taking advantage of Sound Ware system made up by KOEI.
+
+=== Track listing ===
+{{track listing
+| all_music       = Hiroshi Miyagawa
+| title1          = First Movement
+| note1           = 第一楽章
+| length1         = 8:13
+| title2          = Second Movement
+| note2           = 第二楽章
+| length2         = 11:56
+| title3          = Third Movement
+| note3           = 第三楽章
+| length3         = 4:36
+| title4          = Fourth Movement
+| note4           = 第四楽章
+| length4         = 6:26
+| title5          = Home Port · Hawaii Theme
+| note5           = 母港・ハワイのテーマ
+| length5         = 2:19
+| title6          = Conference (America)
+| note6           = 会議(アメリカ)
+| length6         = 2:25
+| title7          = American History
+| note7           = アメリカの勝利
+| length7         = 0:35
+| title8          = Lullaby of the Wind
+| note8           = 風の子守唄
+| length8         = 4:31
+| total_length    = 41:01
+}}
+
+==Reception==
+''[[Computer Gaming World]]'' in 1993 approved of the Genesis version of ''P.T.O.'' as suitable for "the core group of strategy wargamers who normally do not play videogames". While criticizing the "inadequate" documentation, it reported that the game's randomized campaigns provided "200-300 hours of play time—more than can be had from any other comparatively priced cartridge". The magazine favorably concluded that "''P.T.O.'' establishes a new trend in video gaming".<ref name="dille199312">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=47 | title=Pacific Theatre Of Operations | magazine=Computer Gaming World | date=December 1993 | accessdate=31 March 2016 | author=Dille, H. E. | pages=234, 236}}</ref>
+
+==References==
+* {{cite web | publisher = Allgame | title = P.T.O. | date = 2003-02-08 | url=http://www.allgame.com/cg/agg.dll?p=agg&sql=1:7448 | archive-url=https://archive.today/20130116120100/http://www.allgame.com/cg/agg.dll?p=agg&sql=1:7448 | url-status=dead | archive-date=January 16, 2013 | accessdate = 2008-03-10}}
+* {{cite web | publisher=Gamespot | title=P.T.O.: Pacific Theater of Operations | date=2003-02-08 | url=http://www.gamespot.com/snes/strategy/teitokunoketsudan/index.html | accessdate=2008-03-10 | url-status=dead | archiveurl=https://web.archive.org/web/20081202154233/http://www.gamespot.com/snes/strategy/teitokunoketsudan/index.html | archivedate=December 2, 2008}}
+
+<references/>
+
+==External links==
+* [http://www.gamespot.com/snes/strategy/teitokunoketsudan/index.html GameSpot P.T.O. page] {{Webarchive|url=https://web.archive.org/web/20081202154233/http://www.gamespot.com/snes/strategy/teitokunoketsudan/index.html|date=2008-12-02}}
+* [http://www.mobygames.com/game/snes/pto-pacific-theater-of-operations MobyGames P.T.O. page]
+* [https://web.archive.org/web/20050312042149/http://faqs.ign.com/objects/008/008195.html IGN Game Guide and Walkthrough]
+* [https://web.archive.org/web/20071025134105/http://www.koei.com/community/index.php?board=31.0 Koei P.T.O. and other games Community Forum]
+
+{{DEFAULTSORT:P.T.O.}}
+[[Category:1989 video games]]
+[[Category:Koei games]]
+[[Category:Koei Tecmo franchises]]
+[[Category:Video games set in China]]
+[[Category:FM Towns games]]
+[[Category:MSX2 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Sega Genesis games]]
+[[Category:X68000 games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Video games developed in Japan]]
+[[Category:World War II video games]]
+[[Category:Video games set in the Soviet Union]]
+[[Category:Video games set in Japan]]
+[[Category:Video games set in the 1940s]]
+[[Category:Video games set in the United States]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Naval video games]]

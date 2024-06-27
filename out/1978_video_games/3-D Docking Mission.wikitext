@@ -1,0 +1,60 @@
+3-D Docking Mission
+Permalink: //en.wikipedia.org/w/index.php?title=3-D_Docking_Mission&oldid=1172680911
+Accessed on: 2024-06-26T16:47:48.342598
+
+
+
+------
+3-D Docking Mission
+{{short description|1978 video game}}
+{{refimprove|date=October 2017}}
+
+{{Infobox VG
+|title =
+|image = File:3-D_docking_mission_cover_art.jpg
+|caption =
+|designer = [[Chris Oberth]]<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|developer =
+|publisher = [[Programma International]]<br>[[The Elektrik Keyboard]]
+|released = [[1978 in video gaming|1978]]
+|genre = [[Simulation game|Simulation]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]]
+}}
+
+'''''3-D Docking Mission''''' is a simulation game for the [[Apple II]] written by [[Chris Oberth]].<ref name=giantlist/> The game was published by [[Programma International]] and [[The Elektrik Keyboard]] of [[Chicago]], Illinois in 1978.<ref name="ek">{{cite book
+|title=The Elektrik Keyboard (catalog)
+|edition=
+|year=c. 1979
+|publisher=The Elektrik Keyboard
+|location=Chicago, Illinois
+}}</ref>
+
+==Gameplay==
+[[file:3-D Docking Mission.png|thumb|left|Gameplay screenshot]]
+
+The object of ''3-D Docking Mission'' is to maneuver a spacecraft through an [[asteroid field]] and safely dock with its mothership.  The ship begins each round with a limited supply of fuel (40 points) which is consumed as the player uses thrusters to pilot the craft.  The game ends as a loss if the player's ship runs out of fuel, collides with an asteroid or runs too quickly into the mothership.  If the ship reaches the mothership and successfully enters the docking port, the player wins the round and a new one begins with more densely grouped asteroids.<ref name="ek" /><ref name="3ddm">{{cite video game
+| title = 3-D Docking Mission
+| developer = Chris Oberth
+| publisher = The Elektrik Keyboard
+| date = 1978
+| platform = Apple II
+}}</ref>
+
+The game presents the player with two views of the playing area — one from above and one from the side.  Using these views, the player selects among six thrusters to fire, controlled by keys on the keyboard: T and B to move up and down, < and > to move left and right, and H and F to move forward or backward. The bottom of the screen shows mission time, amount of fuel remaining, as well as the current score and the high score.<ref name="ek" /><ref name="3ddm" />
+
+==References==
+{{reflist}}
+
+==External links==
+*{{internet archive game|a2_3_D_Docking_Mission_1978_Programma_International}}
+*{{mobygames|/82859}}
+
+{{DEFAULTSORT:3-D Docking Mission}}
+[[Category:1978 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Elektrik Keyboard games]]
+[[Category:Programma International games]]
+[[Category:Simulation video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,73 @@
+Protector (1981 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Protector_%281981_video_game%29&oldid=1227739379
+Accessed on: 2024-06-26T16:52:29.493797
+
+
+
+------
+Protector (1981 video game)
+{{Short description|1981 video game}}
+{{About|the 1981 video game|the Atari Jaguar game|Protector (Atari Jaguar game)|other uses|Protector (disambiguation)}}
+{{Infobox video game
+|title = Protector
+|image = Protector box cover.jpg
+|designer= John Bell
+|programmer = '''Atari 8-bit'''<br/>Mike Potter<ref name="giantlist"/><br/>'''VIC-20'''<br/>Alick Dziabczenko<ref name="giantlist"/>
+|publisher = Crystalware<br/>[[Synapse Software]]<br/>[[Human Engineered Software|HesWare]]
+|released = '''1981:''' Atari 8-bit<br/>'''1983:''' VIC-20
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[VIC-20]]
+}}
+
+'''''Protector''''' is a 1981 [[scrolling shooter]] for [[Atari 8-bit computers]] programmed by Mike Potter<ref name="giantlist"/> and distributed first by Crystalware and then [[Synapse Software]]. A [[VIC-20]] port was published by [[Human Engineered Software|HesWare]] in 1983.<ref name=giantlist/>
+
+The player attempts to rescue the citizens of a city from an impending volcanic explosion. The design of the game is inspired by ''[[Defender (video game)|Defender]]'' from Williams Electronics, though not a direct clone. The sequel, ''[[Protector II]]'', has similar gameplay but is more advanced graphically.
+
+==Gameplay==
+[[Image:Protector in-game.png|thumb|left|''Protector'' near the start of the game. The player's spaceship has picked up a citizen and is in the process of carrying them to New Hope, offscreen to the right.]]
+
+The gameplay of ''Protector'' is inspired by ''Defender'', with the player controlling a rocket fighter of similar design and the general goal being to pick up civilians from the ground to protect them from the enemy. The game is less action-oriented, however, and contains a more strategic component.
+
+''Protector'' has two stages. In the first, the player flies the "Needlefighter" over a city that is under attack by an indestructible enemy spaceship. The spaceship flies over the city, beaming its citizens up one at a time and then flying to a nearby volcano to drop them in. To save them from this threat, the player must fly over each of the people to pick them up, then carries them past the volcano to the City of New Hope.<ref name="anderson"/>
+
+When all of the survivors have been moved to New Hope, the first stage of the game ends. This causes the enemy spacecraft to disappear. However, this also causes the volcano to erupt. Its lava encroaches on New Hope and destroys its buildings, along with anyone on them. The ending of the first stage also opens a passage protected by "laser gates". The player now ferries the people from New Hope through the laser-guarded gauntlet to the entrance of an underground fortress. When the last survivor is deposited in the entrance, the game ends.<ref name="anderson"/>
+
+The mission takes place on a single large side-scrolling map, several times wider than the physical display. Smooth scrolling is used to keep the player roughly centred as they fly. If the player's ship hits the ground, buildings or the enemy spacecraft, it tumbles to the ground before being pulled away by an ambulance. There are several levels with increasingly difficult enemies and terrain.<ref name="anderson"/>
+
+==Development==
+Potter started programming on the Atari home computers in 1980, after graduating from high school. His first product was a set of four games, ''Imperial Walker'', ''Nim'', ''Gun Fight'', and ''Auto Racer'', sold on consignment at local computer stores. While visiting the Electronic Fantasy store in [[Cupertino]], the manager Dave Stillings, mentioned he might want to get in contact with Crystalware in Gilroy.<ref name="mps"/>
+
+Potter met with Crystalware's owners, John Bell and his wife Patty. Bell outlined a new game and gave Potter a $4,000 advance on its completion. This took seven sleepless nights, and after delivering it in May 1981, Potter delivered another eleven programs for Crystalware between May and October. That month Potter questioned his royalties, and in return received a letter firing him, but returning the rights to ''Protector''.<ref name="mps"/><ref group=N>Years later a game with Bell and Potter's names surfaced with the [[Epyx]] label on it, ''Indiana Jones - Pyramids of Giza''. It is assumed to be a game from the Crystalware era that was later sold to Epyx but never released.</ref>
+
+In November 1981, Potter met with Ihor Wolosenko of [[Synapse Software]], which at that time was being run from Wolosenko's apartment in Berkley. Wolosenko took the time to test and debug the program before putting it back on the market. Its re-launch received much better reviews. Over the next year, Potter released five games for Synapse: ''Protector'', ''[[Protector II]]'', ''[[Chicken (video game)|Chicken]]'', ''[[Nautilus (video game)|Nautilus]]'', and ''[[Shadow World (video game)|Shadow World]]''.<ref name="mps"/>
+
+==Reception==
+{{Expand section|date=July 2019}} <!-- put Protector reviews here, not Protector II -->
+
+John Anderson reviewed the game for ''[[Computer Gaming World]]'', and stated that "''Protector'' represents a breakthrough of sorts. The music in the program is excellent, and remains constant throughout the game--with the result of adding much character to its play. When your ship is downed, an ambulance shoots out to drag you away. The overall result is humorous--at least until frustration sets in!"<ref name="CGW2">{{cite magazine |last=Anderson |first=John |title=Atari Arcade |magazine=Computer Gaming World |date=January–February 1982 |volume=1 |issue=2 |pages=22, 36}}</ref>
+
+''[[Creative Computing]] Video & Arcade Games'' in 1983 stated that the Atari 8-bit version of ''Protector''{{'}}s "animation is mirror smooth", praising its horizontally scrolling graphics.<ref name="ccvag1983spring">{{Cite magazine |last1=Anderson |first1=John J. |author-link=John J. Anderson |last2=Small |first2=David |last3=Wolcott |first3=Eric F. |date=Spring 1983 |title=Atari Personal Computer Games |url=http://www.atarimagazines.com/cva/v1n1/ataripcgames.php |magazine=Creative Computing Video & Arcade Games |page=93}}</ref>
+
+==Notes==
+{{Reflist|group=N}}
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|first=James |last=Hague}}</ref>
+<ref name="mps">{{cite web |first=James |last=Hague |url=https://www.dadgum.com/giantlist/archive/potter.html |title=Mike Potter's Story|date=January 17, 2000}}</ref>
+<ref name="anderson">{{cite journal |first=John |last=Anderson |url=http://www.atariarchives.org/creativeatari/Not_Just_Fun_in_Games.php |title=Not Just Fun in Games |journal=Creative Computing |date=November 1981 }}</ref>
+}}
+
+==External links==
+* {{atarimania|id=4153}}
+* {{IAg|a8b_Protector_1981_Synapse_Software_US_k_file}}
+
+[[Category:1981 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Human Engineered Software games]]
+[[Category:Single-player video games]]
+[[Category:Synapse Software games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United States]]

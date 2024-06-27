@@ -1,0 +1,114 @@
+Wizball
+Permalink: //en.wikipedia.org/w/index.php?title=Wizball&oldid=1225953976
+Accessed on: 2024-06-26T17:03:28.159765
+
+
+
+------
+Wizball
+{{Short description|1987 video game}}
+{{Infobox video game
+|title = Wizball
+|image = wizball cover art.jpg
+|developer = [[Sensible Software]]
+|publisher = [[Ocean Software]]
+|producer = D. C. Ward
+|programmer = Chris Yates
+|artist = [[Jon Hare]]
+|composer = [[Martin Galway]]
+|released =  May 1987
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player]], [[Cooperative video game|co-op]]
+|platforms = {{cslist| [[Commodore 64]] | [[Amstrad CPC]] | [[ZX Spectrum]] | [[MS-DOS]] | [[Amiga]] | [[Atari ST]] |[[Thomson MO5]]}}
+}}
+
+'''''Wizball''''' is a horizontally [[scrolling shooter]] written by [[Jon Hare]] and Chris Yates (co-founders of [[Sensible Software]]) and released in 1987 for the [[Commodore 64]]<ref>{{cite web |url=http://gamebase64.com/game.php?id=8669&d=18&h=0 |website=Gamebase 64 |title=Wizball}}</ref> and later in the year for the [[ZX Spectrum]] and [[Amstrad CPC]].<ref name="tgm">{{ citation | url=https://archive.org/stream/the-games-machine-01/TheGamesMachine01#page/n49/mode/2up | journal=The Games Machine | title = Psychedelic Wizardry | date=October 1987 | issue=1 | pages=50–51 }}</ref> Versions for the [[Amiga]] and [[Atari ST]] were released in the following year.<ref name="tgm1">{{ citation | url=https://archive.org/stream/the-games-machine-07/TheGamesMachine07#page/n47/mode/2up | journal=The Games Machine | title = Version Update Wizball | date=June 1988 | issue=7 | pages=49 }}</ref> Wizball was also ported to [[IBM PC compatible]]s (for the [[Color Graphics Adapter]]) and the [[Thomson MO5]].
+
+''Wizball'''s more comical sequel, ''[[Wizkid: The Story of Wizball II|Wizkid]]'', was released in 1992 for the Amiga, Atari ST, and IBM PC compatibles.
+
+==Gameplay==
+[[File:Screenshot of the Commodore64 version of Wizball.png |thumb|left|Commodore 64 original, showing Catellite and Wizball]]
+
+''Wizball'' is set in the once colourful realms of Wizworld, where the evil Zark has stolen all the colour, making it dull and gray. It is up to Wiz and his cat Nifta to restore  it to its former brilliance as Wizball and Catellite.<ref name="cvg">{{citation |url=https://archive.org/stream/computer-video-games-magazine-069/CVG069_Jul_1987#page/n21/mode/2up |journal=C+VG |title=Wizball Review |date=July 1987 |issue=69 |pages=23}}</ref>
+
+''Wizball'' is a [[scrolling shooter]] inspired by ''[[Gradius]]''<ref name="rgamer31">{{citation |title=The making of ''Wizball'' |journal=Retro Gamer |issue=31 |pages=36–39 |date=November 2006 |publisher=[[Imagine Publishing]]}}</ref> with an additional collection dynamic. It is a horizontally scrolling game taking place over eight levels, which involves navigating around a landscape and shooting at [[sprite (computer graphics)|sprite]]s. However, the aim of the game is to collect droplets of coloured [[paint]] to colour the level. Each level starts off as [[monochrome|monochromatic]], drawn in three shades of grey, and needs three colours (red, blue, and green) to be collected to complete it.<ref name="crash">{{citation |url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue45/Pages/Crash4500023.jpg |journal=Crash |title=Wizball Review |date=October 1987 |issue=45 |pages=23}}</ref> The player, a [[wizard (fantasy)|wizard]] who has taken the form of a green ball, can navigate between the levels through portals. At first the wizard only has access to the first three levels, but completing levels gains access to further levels.<ref name="zzap">{{citation |url=http://www.zzap64.co.uk/cgi-bin/displayreview.pl?reviewid=13 |journal=Zzap!64 |title=Wizball Review |date=July 1987 |issue=27 |pages=14–16}}</ref> Each level has bouncing spheres of a different colours, and shooting them releases droplets, which may be collected. Each level needs a different colour to be added, which can be composed by collecting sufficient quantities of the correct colours. On later levels, the spheres of paint start shooting bullets, further adding to the challenge.
+
+The wizard himself is not capable of collecting paint droplets, and is initially capable of very limited movement, bouncing up and down at a fixed rate, with the player only controlling a speed of rotation, and thus how fast it will move horizontally after next touching the ground. Collecting pearls (which appear when certain types enemies have been shot) gives the player tokens which can be used to "buy" enhancements, such as greater control over movement and improved firepower. It also allows the option to summon the companion known as ''Catellite''.<ref name="suser">{{citation |url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue067/Pages/SinclairUser06700052.jpg |journal=Sinclair User |title=Wizball Review |date=October 1987 |issue=67 |pages=52}}</ref> Catellite (ostensibly the wizard's [[cat]]) which is also spherical in form normally follows the wizard, but it can also be moved independently by holding down the fire button whilst moving the [[joystick]] (which meanwhile renders the wizard uncontrollable). Only Catellite is capable of collecting paint droplets and the player has to use it to do so. In the two-player co-op mode, Catellite is controlled by the second player.
+
+==Development==
+The music in the Commodore 64 version was composed by [[Martin Galway]], with input from Jon Hare and Chris Yates.<ref>{{citation | url=http://www.vktv.no/~hbh/abnormal/download/articles/galway_interview.html/ | title = Interview with Martin Galway | archivedate = 2002-07-16 | archiveurl=https://web.archive.org/web/20020716232844/http://www.vktv.no/~hbh/abnormal/download/articles/galway_interview.html}}</ref>
+
+In an interview from 1987 the developers said that development of ''Wizball'' was originally started before their previously launched shooter [[Sensible Software#List of games|''Parallax'']], but that it was put on hold since they managed to code the [[parallax scrolling]] routine used in that game. They also said that they were trying to present new concepts in a familiar way, also that they wanted a company to release it that could give it "a bit of hype".<ref>{{ citation | url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=023&page=050&magazine=zzap | journal=Zzap!64 | title = A Sensible Interview... for a Change | date=March 1987 | issue=23 | pages=50–51 }}</ref>
+
+In a 2006 interview with ''[[Retro Gamer]]'', Jon Hare said that the idea began as a ''Nemesis'' inspired shooter and that it began with the ball and the control method. The ball came first, the Wizard storyline was tagged on at the end.
+He also said, "''Wizball'' was put together in a very organic way, and not really planned in the way modern games are".<ref name="rgamer31"/>
+
+==Ports==
+The Commodore 64 version is the original by Sensible Software. The Atari ST and Amiga versions were ported by Peter Johnson<ref>{{citation | url=http://www.codetapper.com/amiga/interviews/peter-johnson/ | title = An interview with Peter Johnson}}</ref> and other versions coded by different teams.<ref name="rgamer125">{{citation | title= Classic Moments ''Wizball'' | journal=Retro Gamer | issue=130 | pages=36–39 | date= June 2014 |publisher = [[Imagine Publishing]] }}</ref> On the Commodore 64 version, enemy waves spawn in groups, with 4 or 5 on the landscape at a time, at least one of which is always colour spheres; this made the game extremely difficult, but allowed the player to preferentially hunt the spheres if they needed only a small amount of colour to complete their current combination. The Amiga and Atari ST versions spawn only one wave at a time, which makes the game easier, but requires the player to "grind" until a wave of colour spheres is chosen to spawn.
+
+==Reception==
+{{Video game reviews
+| CVG = 36/40<ref name="cvg"/>
+| CRASH = 92%<ref name="crash"/>
+| SUser = {{Rating|10|10}}<ref name="suser"/>
+| YSinclair = 8/10<ref name = "YS">{{ citation | url=http://www.ysrnry.co.uk/articles/wizball.htm | journal=Your Sinclair | title = Wizball Review | date=November 1987 | issue=23 | pages=44 }}</ref>
+| rev1 = ''[[Commodore User]]''
+| rev1Score = 8/10<ref>{{ citation | url=https://archive.org/stream/commodore-user-magazine-45/Commodore_User_Issue_45_1987_Jun#page/n33/mode/2up | journal=Commodore User | title = Wizzball | date=June 1987 | issue=45 | pages=33–34 }}</ref><ref>{{ citation | url=https://archive.org/stream/commodore-user-magazine-57/Commodore_User_Issue_57_1988_Jun#page/n53/mode/2up | journal=Commodore User | title = Wizball | date=June 1988 | issue=57 | pages=55 }}</ref>
+| rev2 = ''[[The Games Machine]]''
+| rev2Score = 87%<ref name="tgm1"/>
+| rev3 = ''[[Zzap!64]]''
+| rev3Score = 96%<ref name="zzap"/>
+| award1Pub = C+VG
+| award1 = C+VG Hit!
+| award2Pub = Crash
+| award2 = Crash Smash
+| award3Pub = Commodore User
+| award3 = C.U. Screen Star
+| award4Pub = Sinclair User
+| award4 = SU Classic
+| award5Pub = Zzap!64
+| award5 = Sizzler
+| award6Pub = ''Amstrad Action''
+| award6 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 25, October 1987</ref>
+}}
+The game has been heralded as one of the best ever original games to appear on the Commodore 64. It is noted for its originality and use of the C64 hardware via graphics, sound and general presentation. The control method has also been described as innovative, initially awkward, but adding to the playability when mastered.<ref name = "zzap"/> The readers of ''Retro Gamer'' in 2011 selected it as the second best game ever made for the platform:
+
+{{blockquote|Quite possibly one of the most beautifully crafted C64 games that you’ll ever have the privilege to play.<ref name="rgamer96">{{citation | title=Top 25 Commodore 64 Games of All Time | journal=Retro Gamer | issue=96 | pages=58–67 | url=http://www.retrogamer.net/top_10/top-ten-commodore-64-games/ | date= November 2011 |publisher = [[Imagine Publishing]]| accessdate=2013-01-11 }}</ref>}}
+
+The game was awarded a Sizzler award in the July 1987 issue of ''[[Zzap!64]]''<ref name="zzap"/> magazine with a rating of 96%, missing out on a "Gold Medal". In November the following year ''Wizball'' was selected by the same magazine the number one Shoot 'em Up for the Commodore 64,<ref>{{ citation | url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=043&page=106&magazine=zzap | journal=Zzap!64 | title = DEF Guide to Shoot 'em Ups | date=November 1988 | issue=43 | pages=105–108 }}</ref> giving it a rating of 98% and a month later went on to be crowned the best game ever by ''Zzap!64'',<ref>{{ citation | url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=044&page=124&magazine=zzap | journal=Zzap!64 | title = The Best and Worst of Six Years of the C64! | date=November 1988 | issue=44 | pages=124 }}</ref> which Jon Hare has stated is one of his proudest career moments, but at the same time that they were disappointed by the sales of the title, attributing it to the marketing of Ocean Software.<ref name="DEFZzap">{{citation | url=http://www.zzap64.co.uk/cgi-bin/displayarticle.pl?article=7 | title=Another Sensible Interview With Jon Hare | journal=DEF Tribute to Zzap!64 | issue=1 | pages=19–21 | date= July 2005  }}</ref> In 1993, ''[[Commodore Force]]'' ranked the game at number 15 on its list of the top 100 Commodore 64 games.<ref>{{cite web|title=Top Ton!|url=https://archive.org/stream/zzap64-magazine-101/ZZap_64_Issue_101_Commodore_Force_Issue_11_1993_Autumn#page/n32/mode/1up/|website=Commodore Force|date=Autumn 1993|accessdate=2017-09-03|page=33}}</ref>
+
+In a 2002 ''Zzap!64'' tribute publication, ''Wizball''  via a community vote was ranked the second best C64 game ever with the comment "How it missed a Gold Medal back in issue 27 is beyond us".<ref name="ZzapTribute">{{citation | url=http://www.zzap64.co.uk/zzap107/zzap107misc.html | title=Zzap64 Def Guide To... The Best C64 Games Ever! | journal=Zzap!64 | issue=107 | pages=10–11 | date= March 2002 }}</ref>
+In a second ''Zzap!64'' tribute in 2005, Gary Penn, editor at the magazine at the time of the game's publication was quoted to say:
+{{blockquote|Distinctive, distinguished, highly playable, audibly accomplished, witty, challenging, satisfying... As was the case with all reviewer's mood on the day played a part - and I must have been really pissy. It should have gotten a Gold Medal.<ref name="DEFZzap 2">{{citation | url=http://www.zzap64.co.uk/cgi-bin/displayarticle.pl?article=7 | title=Zzap Back - Was Wizball Underrated? | journal=DEF Tribute to Zzap!64 | issue=1 | pages=24 | date= July 2005 |publisher = [[Imagine Publishing]] }}</ref>}}
+
+The Spectrum and 16 bit versions generally garnered favorable reviews, with ''Sinclair User'' giving it a perfect 10<ref name="suser"/> and ''The Games Machine'' awarding the Amiga and Atari ST versions 87% and 84% respectively.<ref name = "tgm1"/>
+
+==Legacy==
+In 1992, [[Sensible Software]] developed a sequel ''[[Wizkid (video game)|Wizkid: The Story of Wizball II]]'' published by [[Ocean Software]]. Although the story in ''Wizkid'' continues directly from ''Wizball'', the actual games are only superficially related to each other.
+
+A fan [[Video game remake|remake]] for [[Microsoft Windows]] and [[macOS]], based on the Commodore 64 version, was released in 2007.<ref name="RetroSpec">{{Cite web |url=http://retrospec.sgn.net/game/wizball |title=RetroSpec: Wizball}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{abime|id=1743}}
+*{{Lemon64 game|id=2881}}
+*{{WoS game|id=0005713}}
+*[https://web.archive.org/web/20070927001801/http://www.cpczone.net/index.php?game=968 ''Wizball''] Archived from the original at [http://www.cpczone.net/index.php?game=968 CPC Zone]
+
+{{Sensible Software}}
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Crash Smash! award winners]]
+[[Category:DOS games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Ocean Software games]]
+[[Category:Sensible Software games]]
+[[Category:Video games scored by Martin Galway]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United Kingdom]]

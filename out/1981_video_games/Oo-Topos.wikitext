@@ -1,0 +1,65 @@
+Oo-Topos
+Permalink: //en.wikipedia.org/w/index.php?title=Oo-Topos&oldid=1133514134
+Accessed on: 2024-06-26T16:52:27.713584
+
+
+
+------
+Oo-Topos
+{{short description|Interactive fiction computer game first made for the Apple II in 1981}}
+{{Refimprove|date=October 2019}}
+{{Infobox video game
+|title   = Oo-Topos
+|image   = Oo-Topos.jpg
+|caption = Atari ST box art
+|developer = [[Polarware]]
+|publisher = [[Polarware]]
+|designer =
+|artist = Raimund Redlich<br>Brian Poff
+|writer = [[Michael Berlyn]]<br>Muffy McClung Berlyn
+|engine = 
+|released = 1981, 1986
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Amiga]], [[Atari ST]], [[Commodore 64]], [[DOS]]
+}}
+
+'''''Oo-Topos''''' is an [[interactive fiction]] game published by Sentient Software in 1981 for the [[Apple II]]. In 1986 it was re-released by [[Polarware]] for additional systems and with graphical depictions of scenes described by the game's text. The graphics were designed using [[Penguin Software]]'s ''[[Graphics Magician]]''.
+
+==Plot==
+The pilot of a space vessel is carrying important cargo vital to the survival of humanity. The pilot is attacked by space pirates and forced to land on the planet Oo-Topos. After landing the pilot is captured and imprisoned in a fortress on the alien world. The pilot must escape confinement, retrieve the precious cargo taken from the crashed ship and get off Oo-Topos with it in order to save the human race from extinction.
+
+==Gameplay==
+The player enters commands on the keyboard to progress. Commands usually involve verbs such as "Go, Get, Put, Shoot, Use, etc." and nouns such as "laser, food, rod, etc." Directions such as "North, South, East, West" are used to move through areas and rooms within the game. Abbreviations are allowed such as "N, E, W, S." When entering a new area, the text gives a detailed description of the location and any relevant facts that may or may not help with progress. This can include both objects and living beings.
+
+In the 1986 re-release, the drawn-in graphics overlay the text. When actions are performed on objects that are allowed to be manipulated (retrieved, inserted, dropped, etc.), the objects appear on screen as though they had been manipulated or moved. After commands are executed, some real-time actions are drawn-in such as a bright light flash from a laser gun or wearing goggles to "darken" a room.
+
+==Reception==
+Dale Archibald reviewed ''Oo-Topos'' in ''[[Ares (magazine)|Ares Magazine]]'' #13 and commented that "Aside from the fact that you can be resurrected, this isn't a particularly unusual game. If mental jigsaw puzzles are your favorite hobby, ''Oo-Topos'' should keep you happily occupied for many, many hours."<ref name="Ares">{{cite journal | last=Archibald | first=Dale| title=Software | journal=[[Ares (magazine)|Ares Magazine]] | publisher=[[TSR, Inc.]] | date=Winter 1983| issue=13 | page=20}}</ref>
+
+== Legacy ==
+Many years later, [[Penguin Software]] released ''Oo-Topos'' (with several other games) as [[freeware]].<ref>[http://graphicsmagician.com/polarware/comprehend.htm The Comprehend Adventures] on graphicsmagician.com</ref>
+
+Also after [[End-of-life product|end of official support]], an enthusiast reconstructed a [[source code]] variant of the game's [[Game engine|engine]] to port it to modern platforms.<ref>[https://github.com/RyanMallon/recomprehend recomprehend] by Ryan Mallon on [[github.com]]</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IFDB|id=5irzneiwxk4aqce5}}
+
+{{Penguin Software}}
+{{DEFAULTSORT:Oo-Topos}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1981 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Freeware games]]
+[[Category:ScummVM-supported games]]
+[[Category:Video games developed in the United States]]
+[[Category:Penguin Software games]]
+[[Category:Single-player video games]]

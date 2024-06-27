@@ -1,0 +1,70 @@
+Joust 2: Survival of the Fittest
+Permalink: //en.wikipedia.org/w/index.php?title=Joust_2%3A_Survival_of_the_Fittest&oldid=1226739967
+Accessed on: 2024-06-26T17:00:15.934308
+
+
+
+------
+Joust 2: Survival of the Fittest
+{{Short description|1986 video game}}
+{{Infobox video game
+|title = Joust 2: Survival of the Fittest
+|image = [[File:Joust 2 - Survival of the Fittest Flyer.png|alt=A black, vertical rectangular poster. The poster depicts the face of a bird with yellow eyes and a white beak. The title "Joust 2: Survival of the Fittest" is displayed on the top portion in yellow and red letters. In the lower right corner is text "The Legend continues".]]
+|caption = Promotional flyer
+|developer = [[WMS Industries|Williams Electronics]]
+|publisher = [[WMS Industries|Williams Electronics]]
+|designer = John Newcomer
+|programmer = Joe Hellensen<br>Kristina Donofrio<br>[[Warren Davis (actor)|Warren Davis]]<ref>{{cite web | url = http://www.allgame.com/game.php?id=10335&tab=credits | title = Joust 2: Survival of the Fittest credits | first = Brett Alan | last = Weiss | publisher = [[Allgame]] | access-date = 2010-11-22}}</ref>
+|artist = [[John Newcomer]]<br>Jack Haeger <br>Tim Elliott (cabinet)
+|composer = [[Chris Granner]]
+|released = December 1986
+|genre = [[Action game|Action]]/[[Platform game|Platform]]
+|modes = 1-2 player simultaneous
+|platforms = [[Arcade game|Arcade]]
+|arcade system = '''Williams Rev. 2'''<br>[[Central processing unit|''CPU'']]: M6809 (@ 1 MHz) <br>''Sound CPU'': M6808 (@ 1 MHz), M6809 (@ 2 MHz) <br>''Sound Chips'': [[Yamaha YM2151]] FM, MC1408 DAC, [[Intersil|Harris]] HC55536 [[Continuously variable slope delta modulation|CVSD]]
+}}
+
+'''''Joust 2: Survival of the Fittest''''' is an [[arcade game]] developed by [[WMS Industries|Williams Electronics]] and released in 1986. It is a sequel to Williams' 1982 game ''[[Joust (video game)|Joust]]''. Like its predecessor, ''Joust 2'' is a 2D aerial combat game with platforms to land on. The player uses a button and joystick to control a knight riding a flying ostrich. The object is to progress through levels by defeating groups of enemy knights riding buzzards. ''Joust 2'' features improved audio-visuals and new features such as mutant buzzards created by eggs falling into lava, the ability to transform from an ostrich to a flying horse, and differently themed levels. Waves no longer seamlessly flow into each other; the gameplay is divided into separate screens with transitions between them.
+
+John Newcomer led development again, which began to create a kit allowing arcade owners to convert an existing cabinet into another game. The original ''Joust'' used a horizontal monitor, but Williams chose a vertically oriented screen for the kit as a result of the design's popularity at the time.
+
+Released during the waning days of the [[golden age of arcade games]], ''Joust 2'' did not achieve the success that ''Joust'' reached. The game was not ported to contemporary home systems, but was later released as part of arcade game compilations.
+
+== Gameplay ==
+{{see also|Joust (video game)#Gameplay|l1=Gameplay of Joust}}
+[[File:Joust2-Gameplay.jpg|thumb|left|alt=A vertical rectangular video game screenshot that is a digital representation of a fictional world with platforms. A small yellow character on a yellow Pegasus flies around an area populated with floating blue platforms and red and grey knights riding grey buzzards.|''Joust 2'' introduced a [[pegasus]] creature (top left) with abilities different from the standard birds.]]
+
+''Joust 2'' is a 2D combat game taking place in the air and on landing platforms, like its predecessor. The player controls a yellow knight riding a flying ostrich and navigates the game world with a two-way joystick and a button. The joystick controls the horizontal direction that the knight travels, while pressing the button makes the ostrich flap its wings. The rate at which the player repeatedly presses the button causes the ostrich to fly upward, hover, or slowly descend.<ref name="RG-Joust">{{cite journal | journal = [[Retro Gamer]] | publisher = [[Imagine Publishing]] | title = The Making of Joust | first = Mike | last = Bevan | issue = 63 | pages = 36–41}}</ref> The objective is to defeat groups of enemy knights riding buzzards that populate each level, referred to as a wave. Upon completing a wave, a more challenging one will begin.<ref name="RG-Joust"/><ref name="Arc-Treasure">{{cite video game | title= [[Midway Arcade Treasures]] | developer= [[Backbone Entertainment|Digital Eclipse]] | publisher= [[Midway Games]] | date= 2003-11-18 | platform= [[PlayStation 2]] | level= The Inside Story On Joust 2}}</ref><ref name="Allgame">{{cite web | url = http://www.allgame.com/game.php?id=10335 | title = Joust 2: Survival of the Fittest | first = Brett Alan | last = Weiss | publisher = Allgame | access-date = 2010-11-22}}</ref>
+
+Players navigate the knight to collide with enemies. If the protagonist's jousting lance is higher than that of the enemy, the villain is defeated and vice versa. A collision of equal elevations results in the two knights bouncing off each other.<ref name="RG-Joust"/> ''Joust 2'' introduced a transformation ability that morphs the player's bird into a [[pegasus]], which provides better offensive capabilities while on ground but poor flight capabilities.<ref name="Arc-Treasure"/><ref name="Allgame"/> A second player can join the game. The two players can either cooperatively complete the waves or attack each other while competitively defeating enemies.<ref name="RG-Joust"/> ''Joust 2'' also introduced additional gameplay elements such as eggs landing in the lava spawn larger Shadow Lords flying on scorpion tail buzzards, Crystal Bats (hatching from crystals embedded in the ledges), a Gold Egg that opens a quickly changing random event box when collected (requiring the player to contact the red button on the random event box before time runs out and it disappears), and buy-in to continue preserves the current score. Certain game events also have voice synthesis (such as "Thank you" when inserting a coin, "Let the jousting begin", at the start of the game, "Be careful warrior" when a player has one life left, and "Wish to continue?" when all lives are lost and the continue countdown starts).
+
+The game allows its player(s) to "Choose Thy Skill Level" at the opening; in other words, the player(s) can select a stage to begin on. These levels range, from lowest to highest: Serf (Stage 1), Page (6), Squire (11), Knight (16), Lord (21), King (26).
+
+== Development ==
+{{further|Joust (video game)#Development|l1=Development of Joust}}
+''Joust 2'' was developed by [[Williams Electronics]], with John Newcomer as the lead designer. The game features amplified [[monaural]] sound and [[raster graphics]] on a 19-inch color [[Cathode ray tube|CRT monitor]].<ref name="Arcade-Museum">{{cite web | url = http://www.arcade-museum.com/game_detail.php?game_id=8244 | title = Joust 2: Survival Of The Fittest – Videogame by Williams Electronics | publisher = International Arcade Museum | access-date = 2010-11-22}}</ref> Like other Williams arcade games, ''Joust 2'' was programmed in [[assembly language]].<ref name="Halcyon">{{cite book | title = [[Halcyon Days (book)|Halcyon Days]]: Interviews with Classic Computer and Video Games Programmers | editor = James Hague | year = 1997 | chapter = Eugene Jarvis | publisher = Dadgum Games | chapter-url = http://www.dadgum.com/halcyon/BOOK/JARVIS.HTM | access-date = 2010-07-13}}</ref> Williams' video game department had shrunk following a decline in the video game industry.<ref name="Arc-Treasure-3">{{cite video game | title= Midway Arcade Treasures | developer= Digital Eclipse | publisher= Midway Games | date= 2003-11-18 | platform= PlayStation 2 | level= Joust 2 Interview Clip #2}}</ref> The company wanted to sell an arcade conversion kit for games that use a vertically oriented monitor, which had become popular at the time.<ref name="Arc-Treasure"/><ref name="RG-63">{{cite journal | journal = [[Retro Gamer]] | publisher = [[Imagine Publishing]] | title = The Making of Joust | first = Mike | last = Bevan | issue = 63 | page = 41}}</ref> Management felt that a sequel would improve the kit's saleability.<ref name="RG-63"/> The company decided to release a sequel to either ''[[Robotron: 2084]]'' or ''Joust'', ultimately choosing the latter.<ref name="Arc-Treasure-3"/> Technology had progressed since the original's release, providing more flexibility than before. As a result, Newcomer conceived new elements: additional characters, improved audio-visuals, and new mechanics.<ref name="Arc-Treasure"/> To portray a progression of villains, the staff added a new enemy, Knight Lord.<ref name="RG-63"/> The developers added backgrounds to the levels, inspired by artwork by [[M. C. Escher]], Newcomer's favorite artist. Staff added a transform button to provide players with more variety and balance the gameplay.<ref name="Arc-Treasure"/><ref name="RG-63"/><ref name="Arc-Treasure-2">{{cite video game | title= Midway Arcade Treasures | developer= Digital Eclipse | publisher= Midway Games | date= 2003-11-18 | platform= PlayStation 2 | level= Joust 2 Interview Clip #1}}</ref>
+
+== Reception ==
+Williams shipped around 1,000 units of ''Joust 2'', significantly fewer than its predecessor.<ref name="Arc-Treasure"/><ref name="RG-63"/> Brett Alan Weiss of [[Allgame]] and Mike Bevan of ''[[Retro Gamer]]'' attributed the poor numbers to an industry slump in the mid-1980s.<ref name="Allgame"/><ref name="RG-63"/> ''Joust 2'' arcade cabinets have since become fairly rare among collectors.<ref name="PriceGuide">{{cite book | title = Official Price Guide to Classic Video Games | first = David | last = Ellis | page = [https://archive.org/details/officialpricegui00davi/page/385 385] | chapter = Arcade Classics | publisher = [[Random House]] | isbn = 0-375-72038-3 | year = 2004 | chapter-url-access = registration | chapter-url = https://archive.org/details/officialpricegui00davi/page/385}}</ref> Weiss negatively compared the game to its predecessor, calling ''Joust'' more popular and enjoyable, but commented that ''Joust 2''{{'}}s graphics are more detailed and robust.<ref name="Allgame"/>
+
+In retrospect, Newcomer expressed dissatisfaction with the game's design, specifically the monitor's orientation. He commented that the gameplay works best with a horizontal orientation or with multi-directional scrolling.<ref name="RG-63"/> The vertical orientation proved to be a hindrance for home conversion.<ref name="Arc-Treasure"/>
+
+==Legacy==
+While ''Joust'' was widely ported to home systems, ''Joust 2'' was only made available as part of emulated collections. In 1997, it was released as part of ''Arcade's Greatest Hits: The Midway Collection 2''.<ref>{{cite web | url = http://www.gamefaqs.com/console/psx/data/197938.html | title = Midway Presents Arcade's Greatest Hits: The Midway Collection 2 | publisher = [[GameFAQs]] | access-date = 2010-11-22}}</ref> ''Joust 2'' was also included in the 2003 and 2012 multi-platform compilations ''[[Midway Arcade Treasures]]'' and ''[[Midway Arcade Origins]]'', respectively. It also appeared in 2016's ''[[Lego Dimensions]]''.<ref>{{Cite web | url = http://ps2.ign.com/articles/433/433090p1.html | title = Midway Arcade Treasures | first = Craig | last = Harris | date = 2003-08-11 | publisher = [[IGN]] | access-date = 2010-07-10}}</ref><ref>{{cite web | url = http://www.ign.com/articles/2012/11/14/midway-arcade-origins-review | first = Samuel | last = Claiborn | title = Squeezing 30 fridge-sized games onto a disc proves difficult | website = IGN | publisher = IGN Entertainment, Inc. | date = November 13, 2012 | access-date = July 20, 2014}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Good article}}
+
+[[Category:1986 video games]]
+[[Category:Action games]]
+[[Category:Arcade video games]]
+[[Category:Assembly language software]]
+[[Category:Cooperative video games]]
+[[Category:Head-to-head arcade video games]]
+[[Category:Midway video games]]
+[[Category:Williams video games]]
+[[Category:Video games about birds]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Chris Granner]]

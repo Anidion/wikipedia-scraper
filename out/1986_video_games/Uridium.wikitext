@@ -1,0 +1,97 @@
+Uridium
+Permalink: //en.wikipedia.org/w/index.php?title=Uridium&oldid=1221270558
+Accessed on: 2024-06-26T17:01:15.840745
+
+
+
+------
+Uridium
+{{distinguish|Iridium}}
+{{Infobox video game
+|title     = Uridium
+|image     = Uridium cover.jpg
+|caption   = 
+|developer = [[Graftgold]]<ref name='rgmakingofuridium'>{{cite magazine |title=The Making of Uridium|magazine=Retro Gamer|issue=106|publisher=Imagine|date=16 August 2012|pages=34–39}}</ref>
+|publisher = [[Hewson Consultants]]
+|designer  = [[Andrew Braybrook]]
+|programmer = Andrew Braybrook <small>(C64)</small><ref name='rgmakingofuridium' /><br />[[Dominic Robinson]] <small>(Spectrum)</small><br />Nick Eastridge <small>(NES)</small>
+|composer=[[Steve Turner (game programmer)|Steve Turner]] <small>(C64)</small><br />Rich Shemaria <small>(NES)</small>
+|series    = 
+|engine    = 
+|released  = 28 February 1986<ref>{{cite book |last1=Hewson |first1=Andrew |title=Hints and Tips for Videogame Pioneers |date=2016 |publisher=Lulu|isbn=9781844991365 |page=103 |ref=videogamepioneers}}</ref>
+|genre     = [[Scrolling shooter]]
+|modes     = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64|C64]] (original)<br />[[Amstrad CPC]], [[Atari ST]], [[BBC Micro]], [[DOS]], [[Nintendo Entertainment System|NES]], [[Virtual Console]], [[ZX Spectrum]]
+|alt = 
+}}
+
+'''''Uridium''''' (released on the NES as '''''The Last Starfighter''''')<ref name='retrogamer' /> is a [[science fiction]] [[Side-scrolling video game|side-scrolling]] [[shoot 'em up]] originally designed by [[Andrew Braybrook]] for the [[Commodore 64]], and later ported to other 8-bit machines. It consists of fifteen levels,<ref name="nintendolife">{{Cite web|url=https://www.nintendolife.com/reviews/2008/03/uridium_virtual_console|title=Review: Uridium (Virtual Console / Commodore 64)|date=March 29, 2008|website=Nintendo Life|access-date=October 28, 2021|archive-date=March 4, 2021|archive-url=https://web.archive.org/web/20210304132320/https://www.nintendolife.com/reviews/2008/03/uridium_virtual_console|url-status=live}}</ref> each named after a metal element, with the last level being called ''Uridium'' (a [[List of fictional elements, materials, isotopes and subatomic particles|fictional metallic element]], not to be confused with the real metallic element [[iridium]]). The manual quotes Robert Orchard, who invented the name as saying "I really thought it existed".<ref>{{cite web|url=http://hem.passagen.se/godabe/uridium/game.html |archive-url=https://web.archive.org/web/20010817083522/http://hem.passagen.se/godabe/uridium/game.html |url-status=dead |archive-date=2001-08-17 | title=Uridium | publisher=TEMPE | access-date=2007-04-04}}</ref>
+
+''Uridium'' was later released for the [[Nintendo Entertainment System]] in 1990. [[Mindscape (company)|Mindscape]] purchased a license to release a game based on the film ''[[The Last Starfighter]]''.<ref name='retrogamer'>{{Cite web|url=https://www.retrogamer.net/retro_games80/the-making-of-uridium/|title=The Making Of Uridium &#124; Retro Gamer|website=www.retrogamer.net|date=10 October 2014 |access-date=2018-05-04|archive-date=2019-07-18|archive-url=https://web.archive.org/web/20190718001629/https://www.retrogamer.net/retro_games80/the-making-of-uridium/|url-status=live}}</ref> Rather than program a new game, however, Mindscape decided to take an easier route by recycling an older, relatively obscure game. The title screen, sprites, and soundtrack were modified, but the levels and gameplay were identical. In 2003, it was re-released on the [[C64 Direct-to-TV]].
+
+In 2008, the C64 version was a title on the [[Wii]] [[Virtual Console]],<ref>{{Cite web|url=https://www.nintendolife.com/news/2008/02/commodore_64_coming_to_virtual_console|title=Commodore 64 coming to Virtual Console|date=February 21, 2008|website=Nintendo Life|access-date=October 28, 2021|archive-date=January 20, 2021|archive-url=https://web.archive.org/web/20210120161856/https://www.nintendolife.com/news/2008/02/commodore_64_coming_to_virtual_console|url-status=live}}</ref> released on 28 March for the Virtual Console in Europe, costing 500 [[Wii Points]].<ref name="nintendolife"/>
+
+==Plot==
+The plot of ''Uridium'' is described as follows:
+
+<blockquote>The [[Solar System|solar system]] is under attack! Enemy Super-[[Dreadnought]]s have been placed in orbit around each of the fifteen [[planet]]s in this galactic sector. They are draining mineral resources from the planetary cores for use in their interstellar power units. Each Super-Dreadnought seeks out a different metal for its metal converter.<br />
+Your Manta class Space Fighter will be transported to each planet in turn and it is your task to destroy each Dreadnought. First you must attack the defensive screen of enemy fighters, then you must neutralise the majority of surface defences before you land on the Super-Dreadnought's master runway. Once on board you must pull as many fuel rods as possible from the metal converters before you take off for a final strafing run as the Dreadnought vaporises into the ether.</blockquote>
+
+==Gameplay==
+[[Image:Uridium.png|thumb|right|In-game screenshot from the first level of the [[Amstrad CPC]] version of ''Uridium'']]
+[[File:Uridium Screenshot.png|thumb|right|In-game screenshot from the first level of the [[Commodore 64]] version]]
+In practice, each level takes place at a fixed altitude just above the surface of the Dreadnoughts. The screen scrolls horizontally in both directions as the Manta flies over the Dreadnoughts. Each Dreadnought has a different configuration of walls and other structures which must be negotiated in order to reach the landing zone. This task is hampered by squadrons of enemy fighters that attack the Manta in waves. Lastly, flashing ports on the Dreadnought's surface release homing [[naval mine|mine]]s that cannot be destroyed. It takes a skillful Manta pilot to outfly the mines until they self-detonate.
+
+Only when enough of the Dreadnought's defenses have been destroyed is the "Land Now!" signal activated, allowing the player to slow the Manta's speed to a minimum and land on the sternward landing zone. After this, the pilot presumably enters the interior of the mothership and sets its nuclear reactor to self-destruct. Finally, the Manta takes off again as the Dreadnought below crumbles to atoms. As the Manta flies over the Dreadnought again the player has the opportunity to shoot any remaining defences.<ref name="eurogamer">{{Cite news|url=https://www.eurogamer.net/articles/R-Uridium_c64|title=Uridium|first=Kristan|last=Reed|newspaper=Eurogamer.net |date=October 26, 2007|access-date=October 28, 2021|archive-date=July 12, 2020|archive-url=https://web.archive.org/web/20200712055302/https://www.eurogamer.net/articles/R-Uridium_c64|url-status=live}}</ref>
+
+Later Dreadnoughts have tricky wall configurations where the gap between the walls is so narrow that the Manta must turn sideways in order to pass through it.<ref name="eurogamer"/> This required skillful use of the [[joystick]]. More skill could be exhibited (and more points awarded) by ignoring the "Land Now!" signal and destroying the elite fighters that attacked in waves of one.
+
+The final Dreadnought, Uridium, actually contains only a few screens of gameplay; the bulk of this Dreadnought consists of the "congratulations" message for completing the game (i.e., "''GOOD ZAPPING... TURKEY.''"). This is initially made inaccessible by an impassable wall, but visible in the final overflight when the Dreadnought is destroyed.
+
+==Technical details==
+When ''Uridium'' was originally released, reviewers were impressed by the way the Dreadnoughts were presented. In a simulation of [[parallax scrolling]], the surface of the Dreadnoughts scrolls horizontally, whereas the [[star]]s in the background stay still.
+
+Since the Commodore 64's graphics do not support parallax scrolling, particular trickery was required to achieve this. The way it was done is that the Dreadnoughts' surface is actually the background, and the black empty space and the stars are character glyphs on the foreground. As the Commodore 64's graphics chip scrolls the screen to the left or right, the character glyphs representing the stars change shape by shifting their single lit pixels to the right or left, countering the scroll of the screen and giving the impression they were stationary.<ref>Hytönen, Pasi: ''Uridiumin ja Parallaxin grafiikka''. [[C-lehti]] 1/1987, pp. 50–51. Available online at [http://www.kanerva.org/jemma/Amiga/C-lehti/html/1987/1/] {{Webarchive|url=https://web.archive.org/web/20150610222809/http://www.kanerva.org/jemma/Amiga/C-lehti/html/1987/1/|date=2015-06-10}}.</ref>
+
+==Sequels==
+''Uridium'' was followed by ''Uridium+'' (a modified version containing new levels), and ''[[Uridium 2]]'' on the [[Amiga]] platform.
+
+==Reception and legacy==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 35, December 1986</ref>
+}}
+''[[Computer Gaming World]]'' praised ''Uridium'' for its graphics' ability to display depth, as well as the game's robust controls.<ref name = "CGW">{{Cite news | date = March 1988 | last = Wilson | first = David | magazine = [[Computer Gaming World]] | title = The Best Starfighter: A Comparison of Space Arcade Games | issue = 45 | pages = 24–25 | url = http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=45 | access-date = 2015-06-17 | archive-date = 2018-07-02 | archive-url = https://web.archive.org/web/20180702230412/http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=45 | url-status = live }}</ref> ''Zzap!64'' were similarly enthusiastic, describing the game as "visually awesome, sonically sound, technically stunning and a brilliant shoot em up to boot". It was rated 94% overall.<ref name="zzap64">{{ citation  | journal=[[Zzap!64]] | title = Uridium Review | date=March 1986 | issue=11 | pages=100–101 | url=https://archive.org/stream/zzap64-magazine-011/ZZap_64_Issue_011_1986_Mar#page/n99/mode/2up}}</ref> ''[[Antic (magazine)|Antic]]'' also liked the game, citing its "detailed and lifelike graphics".<ref name="tevervaugh198805">{{Cite magazine |last=Tevervaugh |first=Rick |date=May 1988 |title=New ST Entertainments / From dungeons to outer space |url=http://www.atarimagazines.com/v7n1/newstentertainment.html |magazine=Antic |volume=7 |issue=1 |access-date=2016-12-22 |archive-date=2016-12-22 |archive-url=https://web.archive.org/web/20161222153401/http://www.atarimagazines.com/v7n1/newstentertainment.html |url-status=live }}</ref>
+
+The game won the award for best shooting game of the year according to the readers of ''[[Crash (magazine)|Crash]]'' magazine.<ref name="crash38">{{citation | title=The 1986 CRASH Readers' Awards | publisher=[[Newsfield Publications]] | journal=[[Crash (magazine)|CRASH]] | date= March 1987 | issue=38 | pages=34–35 | url=https://archive.org/stream/Crash_No._38_1987-03_Newsfield_GB#page/n33/mode/2up }}</ref> It was also voted Best Arcade-style Game of the Year at the 1986 [[Golden Joystick Awards]].<ref>{{cite journal|title=Golden Joystick Awards|journal=[[Computer and Video Games]]|date=April 1987|issue=66|url=https://archive.org/stream/Computer_Video_Games_Issue_066_1987-04_EMAP_Publishing_GB/Computer__Video_Games_Issue_066_1987-04_EMAP_Publishing_GB#page/n99/mode/2up|page=101|publisher=[[EMAP]]}}</ref> It received a [[Your Sinclair]] Megagame award.<ref>Your Sinclair magazine, Reviews section, issue 12, page 92</ref>
+
+''Uridium'' reached number one in both the Commodore 64 and all-format charts in early 1986.<ref name='pcw20march86'>{{cite magazine |title=Charts|magazine=Popular Computing Weekly|volume=5|issue=12|publisher=Sunshine Publications|date=20 March 1986|page=43|url=https://spectrumcomputing.co.uk/page.php?issue_id=2900&page=43|access-date=26 January 2023}}</ref> Later in the year, it reached number three in the ZX Spectrum charts.<ref name='ys14charts'>{{cite magazine |title=Hit List|magazine=Your Sinclair|issue=14|publisher=Sportscene Specialist Press|date=February 1987|page=23|url=https://spectrumcomputing.co.uk/page.php?issue_id=235&page=23|access-date=26 January 2023}}</ref>
+
+One of [[Andrew Braybrook]]'s later releases, ''[[Morpheus (1987 video game)|Morpheus]]'', contained a homing mine enemy called an "Uridimine", as a tribute to the homing mines of Uridium. Some aficionados refer to the homing mines as "Uridimines" when talking about ''Uridium'' or ''Uridium 2'', as well.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/uridium}}
+*{{WoS game|id=0005525}}
+*{{Lemon64 game|id=2766}}
+* [http://www.cpczone.net/index.php?game=943 Uridium at CPC Zone] {{Webarchive|url=https://web.archive.org/web/20070927002214/http://www.cpczone.net/index.php?game=943 |date=2007-09-27 }}
+* [http://www.vc-reviews.com/games/c64/uridium Uridium Wii Virtual Console Review on VC-Reviews.com]
+
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:IOS games]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Virtual Console games]]
+[[Category:ZX Spectrum games]]
+[[Category:Hewson Consultants games]]
+[[Category:Graftgold games]]

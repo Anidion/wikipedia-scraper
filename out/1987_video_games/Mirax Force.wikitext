@@ -1,0 +1,48 @@
+Mirax Force
+Permalink: //en.wikipedia.org/w/index.php?title=Mirax_Force&oldid=1224583233
+Accessed on: 2024-06-26T17:02:41.091586
+
+
+
+------
+Mirax Force
+{{short description|1987 video game}}
+{{Infobox video game
+| title = Mirax Force
+| image = Mirax_Force_Cover_Art.jpg
+| caption = 
+| released = 1987
+| designer = 
+| programmer = 
+| composer = 
+| publisher = [[Tynesoft]]<br>[[Zeppelin Games]]
+| developer = Chris Murray<ref name="giantlist"/> 
+| platforms = [[Atari 8-bit]]
+| genre = [[Scrolling shooter]]
+}}
+
+'''''Mirax Force''''' is a horizontally [[scrolling shooter]] video game written by Chris Murray and published by [[Tynesoft]] in 1987 for [[Atari 8-bit computers]].<ref name="giantlist"/> The game is heavily inspired by ''[[Uridium]]'', which was released a year earlier.{{Citation needed |date=April 2024}}
+
+==Gameplay==
+[[File:Mirax_Force_Atari_8-bit_PAL_screenshot.png|thumb|left|The background color changes every time the player loses a life (Atari 8-bit screenshot).]]
+The player's mission in ''Mirax Force'' is to fly a fighter called Star Quest over the gigantic alien mothership, destroying as much of the main superstructure as possible, with the ultimate goal being the mothership's reactor. Many hazards such as tall pylons or buildings must be avoided, and while doing so, the player will come under intense attack from waves of defender ships protecting the mothership. The player's ship flies at a fixed altitude just above the surface of the mothership, with the screen scrolling horizontally in both directions.
+
+==Reception==
+''Mirax Force'' received very positive reviews. In the review for ''[[Atari User]]'' magazine, Neil Fawcett found the game's graphics and colors superb, together making "a stunning display".<ref name="atariuser"/> Similarly, Robert Fripp, who reviewed the game for ''[[Aktueller Software Markt]]'' magazine, ended his positive review with the words, "Buy this thing!".<ref name="asm"/>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="atariuser">{{cite journal |title=Star rating |journal=Atari User |date=January 1988 |page=15 |url=https://archive.org/details/atari-user-uk-magazine-33/page/n13/mode/2upr}}</ref>
+<ref name="asm">{{cite journal |title=XL-tauglich! |journal=Aktueller Software Markt |date=June–July 1988 |page=45 |url=http://archive.org/details/asm_magazine-1988-67/page/n43/mode/2up}}</ref>
+}}
+
+== External links ==
+* {{atarimania|id=6722}}
+* {{MobyGames|id=/mirax-force}}
+
+[[Category:1987 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Tynesoft games]]

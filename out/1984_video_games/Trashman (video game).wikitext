@@ -1,0 +1,72 @@
+Trashman (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Trashman_%28video_game%29&oldid=1125350761
+Accessed on: 2024-06-26T16:57:47.462318
+
+
+
+------
+Trashman (video game)
+{{Infobox video game
+|title = Trashman
+|image = Trashman (1984 video game).jpg
+|developer =
+|publisher = [[New Generation Software]]
+|designer =  [[Malcolm Evans (computer programmer)|Malcolm Evans]]<ref name=suhitsquad>{{cite magazine| title=Hit Squad &mdash; Not just a load of old rubbish| magazine=Sinclair User| date=September 1984| author=Chris Bourne| issue=30]| url=https://spectrumcomputing.co.uk/page.php?issue_id=30&page=58| access-date=2022-12-03}}</ref>
+|engine = 
+|released = [[1984 in video gaming|1984]]
+|genre = [[Action game|Action]]
+|modes = 1-2 players alternating
+|platforms = [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]]
+}}
+
+'''''Trashman''''' is a [[video game]] developed by [[Malcolm Evans (computer programmer)|Malcolm Evans]] for the [[ZX Spectrum]] and released by [[New Generation Software]] in 1984.<ref name=suhitsquad />
+
+Later the same year, it was followed by ''Travel with Trashman''.  The third game in the series, ''Trashman Through Time'', was never completed, however ''Trashman Goes Moonlighting'' was made for the Amstrad CPC although it may only have been distributed in Italy.<ref>[http://www.cpcwiki.eu/forum/games/a-rare-game-for-cpc-wiki/ CPC Wiki]</ref>
+
+==Gameplay==
+[[Image:Trashman screenshot - ZX Spectrum .png|thumb|ZX Spectrum version]]
+
+There are seven levels each consisting of one street each named after streets in and around [[Bath, Somerset]]. The player starts at the bottom of the street and has to empty the bin from each house into the dustcart that moves slowly up the left lane of the road. The first level consists of five houses each with a bin to be emptied, the second level has six houses, and so on. Once all the bins are emptied, the player simply walks to the top of the street to complete the level.
+
+Each level has a time limit, if the player fails to empty all the bins within this limit then the player has to repeat the level. If a level is played three times exceeding the time limit, the game is over. The player must avoid stepping onto grass, as doing so will cause the time counter to decrease very rapidly until they step off it.  But if the player manages to empty a bin without stepping onto any grass, the householder appears at the door and invites the player in for a few seconds. This will increase the time limit, as well as providing a little humorous conversation, such as "Could you look at my TV?" - "I meant mend it, not watch it".
+
+The biggest threat to the player is the passing traffic in the road: if the player is run over by a car the game ends immediately. Sometimes if the player steps onto the grass, a dog comes out of the house and tries to bite the player, making them limp for a minute or two. In later levels, pavement cyclists must be avoided as well.
+
+==Development==
+{{Empty section|date=May 2021}}
+
+== Reception ==
+{{Video game reviews
+<!-- Reviewers -->
+| CVG = 8/10 (average)<ref name="CVGReview">{{cite journal |title=Trashman |journal=Computer & Video Games |issue=31 |date=May 1984 |pages=22–23}}</ref>
+| CRASH = 83%<ref name="CrashReview">{{cite journal |title=Trashman |journal=Crash |issue=4 |date=May 1984 |page=114}}</ref>
+<!-- Custom reviewers -->
+| rev1 = ''[[Personal Computer Games]]''
+| rev1Score = 8/10<ref name="PCGReview">{{cite journal |last=C. |first=S. |title=Trashman |journal=Personal Computer Games |issue=7 |date=June 1984 |page=54}}</ref>
+}}
+The game received good reviews for its detailed graphics, good use of colours, and the use of bright and normal colours to create an effect of shadow.<ref name=suhitsquad />
+
+The ZX Spectrum version reached the top of the UK video game charts in May 1984.<ref>{{cite magazine |title=PCN Games Charts|magazine=Personal Computer News|issue=63|publisher=VNU|date=2 June 1984|page=7|url=https://archive.org/details/PersonalComputerNews/PersonalComputerNews063-02Jun1984/page/n7/mode/2up|access-date=28 July 2021}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{WoS game|id=0005391|name=Trashman}}
+*[http://gb64.com/game.php?id=8107&d=18&h=0 ''Trashman''] at Gamebase 64
+*{{Internet Archive game|zx_Trashman_1984_New_Generation_Software}}
+*[http://worldofstuart.excellentcontent.com/trashman/trashman.htm "Travels with Trashman"], a gamer's report on finding the prototype locations of the game levels in the real-life city of [[Bath, Somerset|Bath]]
+
+{{New Generation Software series}}
+
+{{DEFAULTSORT:Trashman (Video Game)}}
+[[Category:1984 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:New Generation Software games]]
+[[Category:Quicksilva games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in Somerset]]
+[[Category:ZX Spectrum games]]

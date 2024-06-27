@@ -1,0 +1,53 @@
+Fortress (1984 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Fortress_%281984_video_game%29&oldid=1224609502
+Accessed on: 2024-06-26T16:56:48.569138
+
+
+
+------
+Fortress (1984 video game)
+{{for|other videos games titled ''Fortress''|Fortress (disambiguation)#Computing and games{{!}}Fortress § Computing and games}}
+{{Infobox video game
+| title = Fortress
+| image = File:Fortress video game cover for the BBC Micro.jpeg
+| alt = Fortress video game cover for the BBC Micro
+| caption = Cassette inlay cover
+| developer = Amcon
+| publisher = Pace Software
+| programmer = Mat Newman
+| released = 1984
+| genre = [[Shoot 'em up#Scrolling shooters|scrolling shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[BBC Micro]]
+}}
+'''''Fortress''''' is an isometric [[Shoot 'em up#Scrolling shooters|scrolling shooter]] written by Mat Newman, developed by Amcon and released by Pace Software for the [[BBC Micro]] home computer in 1984. It is based on the 1982 [[Sega]] arcade game ''[[Zaxxon]]''.
+
+==Gameplay==
+''Fortress'' is a [[Shoot 'em up#Scrolling shooters|scrolling shooter]] in which the player maneuvers a starfighter along an alley-like terrain in an [[Isometric video game graphics|isometric perspective]], moving toward the top right of the screen. The player craft burns fuel rapidly (even more when flying at altitude) and fuel tanks need to be destroyed to replenish the on-board fuel tank. If the craft runs out of fuel, it crashes. The player must avoid enemy gun turrets, rocket pits, and fighters, as well as deal with additional problems of navigating over and through walls with [[Force field (technology)|force fields]].<ref name="PCG">{{cite magazine | author=Anderson,  Chris | date=June 1984 | title=Screen Test: Game of the Month | url=https://archive.org/details/Personal_Computer_Games_Issue07/page/n65/mode/2up | magazine=[[Personal Computer Games]] | publisher=[[Nielsen Holdings#Verenigde Nederlandse Uitgeverijen|VNU]] | issue=7 | pages=72–4}}</ref> The player has three [[Life (video games)|lives]]. Completing the three stages leads to the enemy headquarters which needs to be destroyed. The game then starts over from the beginning.
+
+==Development and release==
+''Fortress'' was written by then-16 year-old Matthew (Mat) Newman of  [[Amersham]]. He got his start using [[microcomputer]]s with a [[Nascom]].<ref name="PCG"/> He purchased a [[BBC Micro]] in 1981, choosing it over the [[ZX Spectrum]] because of ''Planetoid'', an [[Acornsoft]] clone of his favorite game ''[[Defender (1981 video game)|Defender]]''. He learned how to optimize the graphics and input of the machine by disassembling the code for ''Planetoid'' and studying a BBC Micro circuit diagram.<ref name="AWIP">{{cite book | author1=Hauser, Hermann | author2 =Curry, Chris | author3=Furber, Steve | author4=Wilson, Sophie | author5=Chris Turner | date=December 10, 2021 | title=Acorn: A World in Pixels | url=https://www.idesine.com/cdn/shop/files/fortress_c8daa49d-09e4-4d98-9daf-426a870e9de0_1296x.jpg?v=1699811688 | publisher=idesine | pages=161–2 | isbn=978-1-903527-29-0}}</ref> He then wrote several commercial titles including ''Alien Swirl'' for [[Micro Power|Program Power]], ''Space Hi-way'' for Amcon, and ''Ewgeebez'' for [[Software Projects]].<ref name="PCG"/><ref name="RetroGamer">{{cite magazine | author=Baines, Tom | date=December 2017 | title=Minority Report: BBC Micro | magazine=[[Retro Gamer]] | publisher=[[Imagine Publishing]] | issue=175 | pages=52–3 | issn=1742-3155 | url=https://archive.org/details/retro-gamer-raspberry-pi-buenos-aires/Retro%20Gamer%20175/page/52/mode/2up}}</ref><ref>{{cite magazine | author=Hac Man | date=October 1989 | title=Fuelling the good fight | url=https://archive.org/details/micro-user-080/page/48/mode/1up |
+magazine=[[The Micro User]] | publisher=[[Europress#Database Communications|Database Communications]] | volume=7 | issue=8 | page=48 | issn=0265-4040}}</ref><ref>{{cite magazine | author=Anderson, Chris| date=February 1985 | title=Screen Test | url=https://archive.org/details/PersonalComputerGames05/PersonalComputerGames/PersonalComputerGames15/page/n39/mode/2up | magazine=[[Personal Computer Games]] | publisher=[[Nielsen Holdings#Verenigde Nederlandse Uitgeverijen|VNU]] | issue=15 | pages=40–1}}</ref> His experience essentially allotted him a "toolkit" for game creation.<ref name="AWIP"/>
+
+Newman spent three months coding ''Fortress'' during the evenings, weekends, and holidays. He claimed to have never played the very similar ''[[Zaxxon]]'', but rather was impressed by an illustration his friend drew of the it and decided to try his hand at creating a similar game. ''Fortress'' was released by Pace Software in 1984. Newman announced another game a few years later under the working title ''Nec Pluribus Impar'', which would have been loosely based on ''[[Marble Madness]]''.<ref>{{cite magazine | author=Hac Man | date=December 1987 | title=Hac Man | url=https://archive.org/details/micro-user-058/page/n52/mode/1up | magazine=[[The Micro User]] | publisher=[[Europress#Database Communications|Database Communications]] | volume=5 | issue=10 | pages=53, 55 | issn=0265-4040}}</ref>  He is reported to have sent [[Superior Software]] a very early prototype of his work.<ref>{{cite magazine | author=Lawrence, David | date=February 1988 | title=Reviews | url=https://archive.org/details/AcornUser067-Feb88/page/n138/mode/1up | magazine=[[Acorn User]] | publisher=Addison-Wesley | issue=67 | page=137 | issn=0263-7456}}</ref> ''Fortress'' was re-released by Superior in 1988.<ref name="RetroGamer"/><ref>{{cite magazine | author=Superior Software | date=December 1988 | title=Play It Again Sam 5 | url=https://archive.org/details/AcornUser077-Dec88/page/n97/mode/1up | magazine=[[Acorn User]] | publisher=Addison-Wesley | issue=77 | page=96 | issn=0263-7456}}</ref>
+
+==Reception==
+Both ''[[Personal Computer Games]]'' and ''[[Computer and Video Games]]'' featured ''Fortress'' as "Game of the Month" in their June 1984 issues. Chris Anderson of the former publication praised its isometric graphics as "superb" and how the game "combines 3D realism with hair-raising action." Aside from lacking originality and a [[software bug]] that causes [[Crash (computing)|crashes]] on some machines, he lauded it as "one of the most impressive games available on a home micro."<ref name="PCG"/> The latter magazine positively matched the overall quality, graphics, and sound of ''Fortress'' with the original [[arcade game|arcade]] version of ''Zaxxon''. However, the reviewer found some difficulty using the keyboard for control and criticized the quick rate at which fuel runs out.<ref name="cvg">{{cite magazine | author=''CVG'' staff | date=June 1984 | title=Software Reviews | magazine=[[Computer and Video Games]] | publisher=[[Future plc]] | issue=32 | page=25 | issn=0261-3697 | url=https://archive.org/details/cvg-magazine-032/page/n24/mode/1up}}</ref>
+
+Tom Baines of ''[[Retro Gamer]]'' gave an equally favorable assessment much later on. He proclaimed, "From the variety in enemy types and the mix between dodging projectiles and dogfighting craft, to collecting enough fuel to progress and the game's smart use of height to traverse the environment – ''Fortress'' handles everything that ''Zaxxon'' does, and extremely well, in spite of the BBC Micro's low system power." He expressed minor complaints about the lack of a height indicator and a built-in [[Multiplayer video game|multiplayer]] mode.<ref name="RetroGamer"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://bbcmicro.co.uk/game.php?id=81 ''Fortress''] at the Complete BBC Micro Games Archive
+*[https://www.mobygames.com/game/46543/fortress/ ''Fortress''] at [[MobyGames]]
+
+[[Category:1984 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Scrolling shooters]]
+[[Category:Single-player video games]]
+[[Category:Video game clones]]
+[[Category:Video games with isometric graphics]]
+[[Category:Video games developed in the United Kingdom]]

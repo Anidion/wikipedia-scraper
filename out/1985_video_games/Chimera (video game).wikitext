@@ -1,0 +1,82 @@
+Chimera (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Chimera_%28video_game%29&oldid=1230335576
+Accessed on: 2024-06-26T16:58:14.152690
+
+
+
+------
+Chimera (video game)
+{{Short description|1985 video game}}
+{{multiple issues|
+{{more citations needed|date = January 2012}}
+{{confusing|article|date=December 2011}}
+{{Lead too short|date=January 2020}}
+}}
+{{Infobox video game
+| title = Chimera
+| image = Chimera Cover.jpg
+| caption = 
+| developer = 
+| publisher = [[Telecomsoft|Firebird]]
+| designer = Shahid Ahmad
+| composer = [[Rob Hubbard]] (C64)
+| engine = 
+| released = September 1985
+| genre = [[Action-adventure video game|Action-adventure]], [[Isometric platform game|Isometric adventure]]<ref name=":0">{{Cite journal|editor-last=Jones|editor-first=Darran|title=The Making Of: Chimera|journal=Retro Gamer|publisher=Future|issue=169|pages=64, 65|issn=1742-3155}}</ref>
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Amstrad CPC]], [[Atari 8-bit]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Chimera''''' is an [[action-adventure video game]] written by Shahid Ahmad and published by [[Telecomsoft|Firebird]] in 1985.
+
+==Plot==
+A huge spaceship threatens to destroy Earth. One person must board the vessel and activate its self-destruct mechanism to make it explode, saving Earth.
+
+==Gameplay==
+[[Image:Chimera A800 ingame.png|right|320px|thumb|About to disable an electric fence with a spanner]]
+
+In ''Chimera'', the player moves through an isometric maze of 8 x 8 screens. The player must gain access to hidden or blocked areas of the spaceship, often by finding items in order to circumvent various obstacles.  Once the obstacles are disabled, the player may use items to create a warhead and carry it to one of the "blue" rooms of the ship. Upon activation of all four warheads, the player must reach the green room in order to complete the quest.
+
+The player must also avoid running out of food or water, which are consumed more quickly while carrying something or when in a hot room. Both water and food can be found in the maze occasionally. If the player runs out of food or water, or tries to disable an obstacle with an incorrect item, the player dies and loses the game.
+
+Upon completion of the game, the player receives a key combination granting access to a bonus game in which the player has to shoot at a row of items (similar to ''[[Space Invaders]]''). It has been said that the bonus game on the Atari 800 crashed due to a programming error. However, the game's author claimed<ref>[http://chimera2010.com/about/#comment-312 Chimera 2010 | The 25th Anniversary | Comment by Shahid Ahmad, September 8, 2011]</ref> that the Atari 800 bonus game, ''A Different Kettle of Fish'', was working when the software was shipped to the publisher, [[Firebird Software]].
+
+== Development ==
+In 1984, Shahid Ahmad was feeling disillusioned and was close to giving up video games after converting ''[[Jet Set Willy]]'' for the Commodore 64 in just three weeks. It was rushed, resulting in bugs, with Ahmad also claiming to not be paid what his work was worth. However, in December of that year, he was inspired after seeing ''[[Knight Lore]]'', wanting to make a clone of the game. He began learning to code in [[Zilog Z80|Z80]], writing his own sprite editor and constructing the spaceship setting. The first version of the game was initially rejected by Firebird. Ahmad asked for two more weeks to improve the game, where the need to collect food and water was added, as well as the objects and items, radiators that drained water, the Jack in a Box, and speech samples recorded by Ahmad. He took it back to Firebird, where it was subsequently approved.<ref name=":0">{{Cite journal|editor-last=Jones|editor-first=Darran|title=The Making Of: Chimera|journal=Retro Gamer|publisher=Future|issue=169|pages=64, 65|issn=1742-3155}}</ref>
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[Zzap!64|Zzap!]]''
+| rev1Score = 70%<ref name="zzapreview"/>
+}}
+"Chimera is definitely graphically and sonically superior [...] but the gameplay is unfortunately [...] weak."<br>
+[[Gary Penn]] in ''[[Zzap!64|Zzap!]]'' issue January 1986<ref name="zzapreview">Chimera review in Zzap! issue 9, January 1986, p. 26, ISSN 0954-867X [http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=9&page=26&magazine=zzap here]</ref>
+
+The game was more positively received by ''[[Sinclair User]]''<nowiki>'</nowiki>s Chris Bourne who said it was "terrific value for money".<ref>{{Cite web|url=https://archive.org/details/sinclair-user-magazine-044/page/n26/mode/1up?view=theater|title = Sinclair User Magazine Issue 044|date = November 1985}}</ref>
+
+==Legacy==
+Ahmad claims ''Chimera'' was the first ''Knight Lore'' clone. He has acknowledged the game could've been better, and wished he had added more to the game, such as teleporters, jumping, easier controls, a proper map, and more of a story. However, it was because of ''Chimera'' that Ahmad continued in the video game industry, stating that the happiest day of his game-making life was when Firebird agreed to commission ''Chimera''.<ref name=":0" />
+
+Twenty-five years after the release of "Chimera", original game designer Shahid Ahmad announced he was working on the 25th Anniversary Edition of the game, entitled "Chimera 2010", which was never completed.<ref name="Chimera2010">[http://chimera2010.com/ Chimera 2010 | The 25th Anniversary – Retro Retried]</ref> On 3 September 2017, Ahmad announced a VR spinoff "Chimera Zero" saying, "The only things "Chimera Zero" has in common with the 1985 original are the name, robots and an unashamedly sci-fi setting."<ref>{{Cite web|url=https://twitter.com/shahidkamal/status/904432521240301568|title=I'm about to tell you the name of the VR project I've been working on for about a year in The ShaShed. Are you up for that?|last=Ahmad|first=Shahid Kamal|date=2017-09-03|website=@shahidkamal|access-date=2017-09-04}}</ref> However, the development studio Ultimatum Games which was working on the title was shut down in February 2020.<ref>{{Cite web|url=https://arthands-vr.com/2020/02/19/ultimatum-games-shuts-down-chimera-zero-vr-possibly-dead/|title = Ultimatum Games Shuts Down, "Chimera Zero VR" Possibly Dead|date = 19 February 2020}}</ref>
+
+In June 2022, Ahmad announced a sequel to the game, ''Chimera 2'', and released an alpha build under a [[pay what you want]] model.<ref name="Chimera2">{{cite web |title=Chimera 2 |url=https://shahidkamal.itch.io/chimera-2 |website=itch.io |date = 18 June 2022|access-date=18 June 2022}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{atarimania|id=1035}}
+*{{WoS game|id=0000931|name=Chimera}}
+*{{lemon64 game|id=469|name=Chimera}}
+
+[[Category:1985 video games]]
+[[Category:Action-adventure games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Single-player video games]]
+[[Category:Telecomsoft games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games scored by Rob Hubbard]]
+[[Category:Video games with isometric graphics]]
+[[Category:ZX Spectrum games]]

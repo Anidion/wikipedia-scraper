@@ -1,0 +1,63 @@
+The Sands of Egypt
+Permalink: //en.wikipedia.org/w/index.php?title=The_Sands_of_Egypt&oldid=1230175096
+Accessed on: 2024-06-26T16:53:59.484403
+
+
+
+------
+The Sands of Egypt
+{{Short description|1982 video game}}
+{{More citations needed|date=January 2021}}
+{{Infobox video game
+|title = The Sands of Egypt
+|image = The Sands of Egypt cover.jpg
+|caption = 
+|developer = [[Datasoft]]
+|publisher = [[Datasoft]]<br>[[Tandy Corporation|Tandy]]
+|designer = James Garon
+|programmer = '''Color Computer'''<br>James Garon<br>Ralph Burris<br>Steve Bjork<br>'''Atari 8-bit'''<br>Frank Cohen<ref name=mania/><br>'''Apple II'''<br> Brian Mountford
+|released = '''1982:''' CoCo, Atari<br>'''1983:''' Apple
+|genre = [[Graphic adventure game|Graphic adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[TRS-80 Color Computer]], [[Atari 8-bit]], [[Apple II]]
+|alt = 
+}}
+
+'''''The Sands of Egypt''''' is a 1982 [[graphic adventure game]] written by James Garon, Ralph Burris, and Steve Bjork of [[Datasoft]] for the [[TRS-80 Color Computer]].<ref name=boyle/> It was licensed to [[Tandy Corporation]] and was the first disk-only game for the Color Computer sold by [[RadioShack]].<ref name=boyle/> Ports to [[Atari 8-bit computers]] in 1982 and [[Apple II]] in 1983 were published by Datasoft. Set in 1893, the game follows a  British explorer and archaeologist who is lost in the desert. Text commands are entered in the lower half of the screen, while a sometimes animated image of the current location is displayed in the upper half.
+
+==Gameplay==
+[[File:The_Sands_of_Egypt_Atari_8-bit_PAL_screenshot.png|thumb|left|The player has found a source of water. (Atari 8-bit)]]
+
+The top half of the screen shows an image of the current location. The player interacts with the game by typing commands in the bottom half, as in an [[interactive fiction]] game. Commands are either in a "VERB NOUN" format or single words such as <code>N</code> for "move north". The number of moves made is tracked as the score and can be displayed via the <code>SCORE</code> command. The player needs to periodically drink water to stay alive.
+
+==Reception==
+Owen Linzmayer, reviewing the Color Computer original for ''[[Creative Computing (magazine)|Creative Computing]]'', wrote "In comparison with other adventures, ''The Sands of Egypt'' does feel a bit shallow" and "the game relies strongly on perseverance and patience."<ref>{{cite journal |last1=Linzmayer |first1=Owen |title=Colorful Games for the Color Computer |journal=Creative Computing |date=September 1983 |volume=9 |issue=9 |page=148 |url=https://archive.org/details/creativecomputing-1983-09/page/n151/mode/2up}}</ref> In ''[[Electronic Games]]'', Tracie Forman didn't mention the puzzles, but wrote "By far the most striking thing about ''The Sands of Egypt'' is its eye-pleasing animation" and called it "an exceptional gaming experience."<ref>{{cite journal |last1=Forman |first1=Tracie |title=Computer Gaming: The Sands of Egypt |journal=Electronic Games |date=September 1983 |volume=2 |issue=7 |pages=72–73 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_07_1983-09_Reese_Communications_US/page/n71/mode/2up}}</ref>
+
+In a walkthrough of part of the game for ''TRS-80 Microcomputer News'', Bruce Elliott discussed the <code>HELP</code> command:{{quote|Unfortunately, it is not always helpful in the immediate situation. I was often told that this was a "DRAINING EXPERIENCE." Standing in the middle of the desert, dying of thirst, this was not exactly what I wanted to read. However, the information ultimately proved a valuable clue.<ref>{{cite journal |last1=Elliott |first1=Bruce |title=The Sands of Egypt |journal=TRS-80 Microcomputer News |date=March 1983 |volume=5 |issue=3 |pages=45–47 |url=https://archive.org/details/TRS-80_Microcomputer_News_Volume_5_Issue_03_1983-03_Radio_Shack_US/page/n43/mode/2up}}</ref>}}
+
+==See also==
+*''[[The Dallas Quest]]'', similarly styled game from Datasoft
+
+==References==
+{{reflist|refs=
+<ref name="boyle">{{cite web |last1=Boyle |first1=L. Curtis |title=Sands of Egypt |url=http://www.lcurtisboyle.com/nitros9/sandsofegypt.html |website=Tandy Color Computer Games}}</ref>
+<ref name="mania">{{cite web |title=The Sands of Egypt |url=http://www.atarimania.com/game-atari-400-800-xl-xe-sands-of-egypt-_4494.html |website=Atari Mania}}</ref>
+}}
+
+==External links==
+* [https://colorcomputerarchive.com/repo/Documents/Manuals/Games/Sands%20of%20Egypt,%20The%20(Tandy).pdf TRS-80 Color Computer game manual]
+* [https://archive.org/details/Softline_1983_03/page/n37/mode/2up Review] in ''[[Softline (magazine)|Softline]]''
+* [https://archive.org/details/Page_6_Issue_10_1984-07_ABACUS_GB/page/n35/mode/2up Review] in ''[[Page 6]]''
+* [https://archive.org/details/Page_6_Issue_13_1985-01_ABACUS_GB/page/n17/mode/2up Review] in ''[[Page 6]]''
+* [https://rpggeek.com/rpgissuearticle/149706/ludotique ''Casus Belli''] #22 (Oct 1984)
+
+{{DEFAULTSORT:Sands of Egypt, The}}
+[[Category:1982 video games]]
+[[Category:Adventure games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Datasoft games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Egypt]]
+[[Category:Single-player video games]]

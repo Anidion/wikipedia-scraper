@@ -1,0 +1,53 @@
+Timebomb (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Timebomb_%28video_game%29&oldid=1130904956
+Accessed on: 2024-06-26T16:57:45.393536
+
+
+
+------
+Timebomb (video game)
+{{Infobox video game
+|title = Timebomb
+|image = TimebombZXSpectrumScreenshot.PNG
+|caption = Gameplay screenshot
+|developer = [[CDS Software|CDS Micro Systems]]
+|publisher = CDS Micro Systems
+|designer =
+|engine =
+|released = 1984
+|genre = [[Action game|Action]]
+|modes = [[Single-player]]
+|platforms = [[ZX Spectrum]]
+}}
+
+'''''Timebomb''''' is a 1984 video game for the 16K [[ZX Spectrum]] published in 1984 by [[CDS Software|CDS Micro Systems]]. 
+
+==Gameplay==
+''Timebomb'' is a  [[Video game clone|clone]] of the [[arcade game]] ''[[Check Man]]''. The player moves a character across an 11 by 16 grid of tiles with the goal of diffusing a timebomb occupying one square of the grid. This must be done before the timer on the bomb reaches zero (taking about five seconds<ref name="crash3">{{cite magazine|magazine=[[Crash (magazine)|CRASH]]|title=Reviews: Timebomb|issue=3|page=123|date=April 1984|publisher=Newsfield}}</ref>) Each time the player moves by one tile, a note of Beethoven's [[Für Elise]] are played using the ZX Spectrum's "beeper". Tiles disappear as the player moves over them, preventing the player from reentering that grid location. When the player reaches the timebomb, it is removed and a new one appears in a random location. Diffusing six timebombs resets the tiles, increasing the screen number and adding one "boot", to a maximum of four. The boot is an agent that moves randomly across the tiles and kills the player on contact.
+
+Furthermore, a grid location may contain a skull, which kills the player should they move onto it; or a flag that increases the player's score when collected.
+
+The playing field wraps around, such that moving the character off tone side of the screen has them reappear on the opposite side. Unlike ''Check Man'', the player can cause a horizontal row of tiles to shift left or right, minimizing the risk cutting off a route to the bomb.
+
+==Reception==
+[[Crash (magazine)|CRASH]] magazine's review described ''Timebomb'' as fun, noting the skill required in using the tile scrolling feature in order to reach the bomb within the time limit. The graphics were deemed to be neat and colourful, albeit unanimated. The reviewers were of mixed opinion on the game's addictivity, noting that it was ultimately a "beat the high score" experience.<ref name="crash3" />
+
+==External links==
+* {{WoS game|id=0005285|name=Timebomb}}
+
+==References==
+{{reflist}}
+
+{{CDS Micro Systems series}}
+
+[[Category:1984 video games]]
+[[Category:CDS Software games]]
+[[Category:Single-player video games]]
+[[Category:Video game clones]]
+[[Category:Video games about bomb disposal]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]
+
+
+{{action-videogame-stub}}

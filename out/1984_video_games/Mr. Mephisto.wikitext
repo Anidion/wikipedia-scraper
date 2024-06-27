@@ -1,0 +1,43 @@
+Mr. Mephisto
+Permalink: //en.wikipedia.org/w/index.php?title=Mr._Mephisto&oldid=1186947470
+Accessed on: 2024-06-26T16:57:12.727604
+
+
+
+------
+Mr. Mephisto
+{{refimprove|date=December 2018}}
+
+{{Infobox video game
+|title = Mr. Mephisto
+|image = File:Mr._Mephisto_1984_Commodore_64_Cover_Art.jpg
+|caption = 
+|developer = Euro-Byte
+|publisher = Euro-Byte
+|designer = Dave Lucas<ref name=lemon>{{lemon64 game|id=1737|name=Mr. Mephisto}}</ref>
+|artist = Graham Hunt
+|released = '''1984:''' C64<br>'''1986:''' BBC
+|genre = [[Action game|Action]]
+|modes = [[Single-player]]
+|platforms = [[Commodore 64]], [[BBC Micro]]
+}}
+'''''Mr. Mephisto''''' is a [[video game]] written for the [[Commodore 64]] by Dave Lucas and published by Euro-Byte in 1984.<ref name=lemon/> The graphics are by Graham Hunt. A port to the [[BBC Micro]] followed in 1986.
+
+==Gameplay==
+The game consists of a number of levels through which the player navigates to collect rings and make it safely to an exit. A team of demons attempt to block the player's path. Contact with a demon results in instant death, and one or more scrolling staircases further hamper the player's progress.
+
+==Ports==
+Following success in the C64 market, Euro-Byte commissioned a port of the game to the [[BBC Micro]]. However, no source code was available as the game had been coded in [[MOS Technology 6502|6502]] assembler directly into the C64's monitor program. The game was re-written from scratch. Euro-Byte subsequently commissioned a version for the [[Acorn Electron]], but this was never released.
+
+==References==
+{{reflist}}
+
+[[Category:1984 video games]]
+[[Category:Action games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]
+
+
+{{action-video-game-stub}}

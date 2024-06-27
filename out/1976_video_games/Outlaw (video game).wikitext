@@ -1,0 +1,48 @@
+Outlaw (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Outlaw_%28video_game%29&oldid=1225428386
+Accessed on: 2024-06-26T16:47:38.531918
+
+
+
+------
+Outlaw (video game)
+{{short description|1976 video game}}
+{{distinguish|Outlaw (1978 video game)|Outlaws (1985 video game)|Outlaws (1997 video game)}}
+{{Infobox video game
+|title = Outlaw
+|image = Image:Outlaw Arcade Flyer, 1976.jpg
+|caption = Arcade flyer
+|developer = [[Atari, Inc.]]
+|publisher = {{vgrelease|NA|Atari, Inc.|JP|[[Namco]]<ref name="ATVGL:JaO1971-2005">{{cite book|last=Akagi|first=Masumi|url=https://archive.org/stream/ArcadeGameList1971-2005#page/n52/mode/1up|title=ナムコ Namco|work=アーケードTVゲームリスト 国内•海外編 (1971-2005)|edition=1st|publisher=Amusement News Agency|date=13 October 2006|page=51|isbn=978-4990251215|language=ja}}</ref>}}
+|programmer = 
+| released = '''Arcade'''{{vgrelease|NA|March 1976<ref name="atari_production99">{{cite web|title=Production Numbers|url=http://www.atarigames.com/atarinumbers90s.pdf|publisher=[[Atari]]|year=1999|access-date=2021-03-22|archive-date=2013-05-10|archive-url=https://web.archive.org/web/20130510143012/http://www.atarigames.com/atarinumbers90s.pdf|url-status=dead}}</ref>|JP|May 1976<ref name="ATVGL:JaO1971-2005"/>}}
+|genre = [[Shooter game|Shooter]]
+|platforms = [[Arcade game|Arcade]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Outlaw''''' is a [[Single-player video game|single-player]] [[arcade game]] by [[Atari|Atari Inc.]], originally released in 1976. It simulates an [[American frontier|Old West]] [[Gunfighter|fast draw]] duel between the player and the computer.<ref name="klov">{{cite web | title = Outlaw Killer List of Video Games Entry | url=http://www.klov.com/game_detail.php?game_id=8942 | access-date = 2007-12-27}}</ref> ''Outlaw'' was a response to ''[[Gun Fight]]'', released by [[Midway Games|Midway]] in North America the year before.<ref name="doteaters">{{cite web | title = The Dot Eaters: Draw (those pixels)! | url = http://www.thedoteaters.com/p2_stage1.php | access-date = 2007-12-27 | url-status = dead | archive-url = https://web.archive.org/web/20071231000817/http://www.thedoteaters.com/p2_stage1.php | archive-date = 2007-12-31}}</ref><ref name="gamasutra">
+{{cite web | title = 1976: Coin-Op Business | url=http://www.gamasutra.com/view/feature/2000/the_history_of_atari_19711977.php?page=12 | access-date = 2007-12-27}}</ref>
+
+==Technology==
+The game is housed in a custom cabinet that includes a [[light gun]]. The game [[Printed circuit board|PCB]] is composed of discrete technology, with game sprites stored in [[Read-only memory|ROM]]. Playfield graphics are provided by a screen overlay representing an Old West town street.<ref name="klov" />
+
+==Gameplay==
+Players select one of two characters: Half-fast Pete or Billy-The-Kid. Pete is more accurate while Billy can draw faster. An outlaw appears somewhere in the town, the object being to fast draw a gun as soon as he draws his. Shooting him scores points, with points counting toward end-of-game ratings such as "Dude", "Greenhorn", and "Top Gun".<ref name="klov" />
+
+==References==
+{{reflist}}
+
+{{1970s Atari arcade games}}
+
+[[Category:1976 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Namco arcade games]]
+[[Category:Shooter games]]
+[[Category:Western (genre) video games]]
+[[Category:Discrete video arcade games]]
+[[Category:Video games developed in the United States]]
+
+{{Atari-stub}}
+{{arcade-stub}}

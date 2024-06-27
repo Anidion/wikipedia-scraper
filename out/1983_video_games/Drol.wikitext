@@ -1,0 +1,68 @@
+Drol
+Permalink: //en.wikipedia.org/w/index.php?title=Drol&oldid=1224444170
+Accessed on: 2024-06-26T16:54:55.896620
+
+
+
+------
+Drol
+{{Infobox video game
+|title = Drol
+|image = Drol Cover Art.jpg
+|caption = 
+|developer = 
+|publisher = [[Broderbund]]<br>[[Sega]] (SG-1000)
+|designer = Benny Aik Beng Ngo<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+|released = '''1983:''' Apple, Atari, C64<br>'''1985:''' SG-1000<br>'''1991:''' Amiga
+|genre = [[Action game|Action]]
+|modes = Single-player
+|platforms = [[Amiga]], [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[PC-8800 series|PC-88]], [[SG-1000]]
+}}
+
+'''''Drol''''' is a [[video game]] published by [[Broderbund]] in 1983. It was written for the [[Apple II]] by Benny Aik Beng Ngo,<ref name=giantlist/> then ported to the [[Commodore 64]] and [[Atari 8-bit computers]].<ref>{{cite journal
+ | last = Anderson
+ | first = John J.
+ |date=April 1984
+ | title = Commodore's port
+ | journal = Creative Computing
+ | volume = 10
+ | issue = 4
+ | pages = 214
+ | url = http://www.atarimagazines.com/creative/v10n4/214_Commodores_port.php
+ | accessdate = 2005-12-09
+ }}
+</ref> Versions were released for the [[SG-1000]] in 1985 and [[Amiga]] in 1991.
+
+==Gameplay==
+[[File:Drol Title Screen.gif|thumb|left|C64 title screen]]
+
+The player controls a [[robot]] flying through a four story maze, attempting to rescue people and animals while avoiding traps and enemies such as alien creatures, snakes, eagles, magnets and axes. There are only three levels, but the game repeatedly starts over in a more difficult version if the third level is completed. In the third level of some{{which|date=April 2018}} versions, in order to reach the final floor without being eaten by a plant sprouting from out of nowhere, the player must choose between three different trapdoors, and the correct trapdoor varies from game to game.<ref>{{cite journal |date=October 1984 | title = Drol | journal = Computer Games World | volume = 4 | issue = 5 | pages = 25|url=http://www.cgwmuseum.org/galleries/issues/cgw_4.5.pdf }}</ref>
+
+==Reception==
+When reviewing three new games in February 1984, ''[[ANALOG Computing]]'' said that ''Drol'' was "by far the best thought-out", with "refreshing sound effects and some of the best pseudo-3D graphics I've ever seen", reminding the reviewer of a scene from ''[[The Ninth Configuration]]''.<ref name="kelley198402">{{Cite magazine |last=Kelley |first=Patrick J. |date=February 1984 |title=Three New Games |url=https://archive.org/details/analog-computing-magazine-16/page/n116/mode/1up?view=theater |magazine=ANALOG Computing |pages=115–116 |access-date=2023-12-07}}</ref> ''[[Run (magazine)|Run]]'' magazine, reviewing the Commodore 64 version in May 1984, gave it an "A"–its highest rating&mdash;and described it as "fun, funny, and exciting," although it was criticized for slow loading times.<ref>{{cite journal | last = Annucci | first = Marilyn |date=May 1984 | title = Software Gallery: Drol | journal = [[RUN (magazine)|RUN]] | volume = 1 | issue = 5 | pages = 21–22 | issn = 0741-4285 }}</ref> In 1984 ''[[Softline (magazine)|Softline]]'' readers named the game the seventh most-popular Apple program of 1983.<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | accessdate=28 July 2014 | pages=49}}</ref> ''[[Ahoy!]]'' in 1984 called ''Drol'' "an amusing little game."<ref name="marsh198405">{{cite news | url=https://archive.org/stream/Ahoy_Issue_05_1984-05_Ion_International_US#page/n55/mode/2up | title=Drol | work=Ahoy! | date=May 1984 | accessdate=27 June 2014 | author=Marsh, Jamie | pages=56}}</ref> ''[[Electronic Fun with Computers & Games]]'' gave it 4 out of 4.<ref name="efun">{{cite journal |last1=Berman |first1=Marc |title=Drol |journal=Electronic Fun with Computers and Games |date=March 1984 |volume=2 |issue=5 |page=64 |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_02_No_05_1984-03_Fun_Games_Publishing_US/page/n65/mode/2up}}</ref> Reviewer Marc Berman wrote:
+
+{{blockquote|Once in a while a home game comes along that has hit written all over it. Often it's from an arcade hit or a spinoff of another game. But occasionally it's a totally original idea. Games like that are as rare as honest politicians. Drol is one and I heartily endorse it.<ref name=efun/>}}
+
+David Stone reviewed the game for ''[[Computer Gaming World]]'', and stated that "the high quality of the animation, the cleverness of the animated foes, and the nonsense of the theme, all make Drol well-worth the money."<ref name="CGW18">{{cite magazine |last=Stone |first=David |title=Atari Playfield |magazine=Computer Gaming World |date=October 1984 |volume=1 |issue=18 |pages=25}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Atarimania|id=1744}}
+*{{lemon64 game|id=785|name=Drol}}
+*{{Lemon Amiga game|id=2368}}
+*[https://segaretro.org/Drol ''Drol''] at Sega Retro
+*[https://archive.org/details/C64Gamevideoarchive29-Drol/ Video from the C64 version] on archive.org
+
+[[Category:1983 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Broderbund games]]
+[[Category:Commodore 64 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Sega video games]]
+[[Category:SG-1000 games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,89 @@
+F/A-18 Interceptor
+Permalink: //en.wikipedia.org/w/index.php?title=F%2FA-18_Interceptor&oldid=1224487974
+Accessed on: 2024-06-26T17:04:08.358327
+
+
+
+------
+F/A-18 Interceptor
+{{Infobox video game
+|title = F/A-18 Interceptor
+|image = FA-18 Interceptor Coverart.png
+|caption = Cover art by Simon Roberts
+|developer = Intellisoft
+|publisher = [[Electronic Arts]]
+|director = Steven E. Hayes <small>(technical)</small>
+|producer = [[Richard Hilleman]]
+|designer = Bob Dinnerman
+|programmer = Bob Dinnerman
+|artist = Greg Johnson
+|composer = David Warhol
+|engine =
+|released = 1988
+|genre = [[Combat flight simulation game|Air combat simulation]]
+|modes = [[Single-player]]
+|platforms = [[Amiga]]<ref>{{cite web|first=Jack|last=Warner|url=https://www.newspapers.com/clip/98057130/the-palm-beach-post/|title=Lucasfim's Strike Fleet has feel of real warfare|newspaper=[[The Palm Beach Post]]|page=192|date=August 12, 1988|accessdate=March 21, 2022|via=[[Newspapers.com]]}}</ref>
+}}
+'''''F/A-18 Interceptor''''' is a [[Combat flight simulation game|combat flight simulator]] developed by Intellisoft and published by [[Electronic Arts]] for the [[Amiga]] in 1988. The player mainly flies the [[F/A-18 Hornet]], but the [[F-16 Fighting Falcon]] is also available for [[aerobatics]], free flight and the first mission. Contrary to the title of the game, the real F/A-18 is not a true [[interceptor aircraft]], having been designed instead as a [[Multirole combat aircraft|multirole]] [[Anti-ship warfare|anti-ship]] [[strike fighter]].
+
+==Gameplay==
+The game is set in the [[San Francisco Bay Area]]. Notable landmarks include the [[Golden Gate Bridge]], [[San Francisco–Oakland Bay Bridge]] and [[Alcatraz Island]]. The Electronic Arts headquarters in [[San Mateo, California|San Mateo]] are also depicted.<ref name="steiny.typepad.com"/> The player can also take off and land from the following airfields: [[San Francisco International Airport]], [[Oakland International Airport]], [[Moffett Federal Airfield]], and [[USS Enterprise (CVN-65)|USS ''Enterprise'']], anchored approximately 20 miles offshore. Finally, when selecting a location to start a free flight, pressing the [0] key starts the player on uninhabited ground far away from the main game area. This is in fact supposed to be [[Edwards Air Force Base]], a location that was not actually implemented in the final game.
+
+Only air-to-air weapons are available, and are limited to [[AIM-9 Sidewinder]] missiles, [[AIM-120 AMRAAM]] missiles, and the [[M61 Vulcan]] [[Gatling gun]] (500 rounds). [[Chaff (countermeasure)|Chaff]] and [[Flare (countermeasure)|flare]]s are available for defense against enemy missiles.
+
+There are six missions, enemies being referred as "terrorists". The first takes place on September 1, 1994. The player must complete a successful carrier landing in order to qualify for the missions:
+
+* Visual Confirmation Mission: An unidentified aircraft has been spotted heading towards [[San Francisco]]. The goal is to take off, obtain visual confirmation, and return to base. The briefing states ''"Do not fire unless fired upon"''. Usually the aircraft is one or two [[MiG-29]]s, but occasionally turns out to be a [[Boeing 707]].
+* Emergency Defense Operation: A hostile aircraft is threatening [[Air Force One]]. The player must ensure that the [[President of the United States|President]] reaches San Francisco safely, shooting down the enemy MiG if necessary.
+* Intercept Stolen Aircraft: Two [[General Dynamics F-16 Fighting Falcon|F-16s]] with secret [[electronic countermeasures|ECM]] equipment have been stolen by [[defection|defecting]] pilots. Two MiG-29s are providing air support. The player must attempt to force them to return, but if they refuse, the F-16s must be destroyed.
+* Search and Rescue Operation: An F/A-18 has been shot down, and the pilot has bailed out near the [[Farallon Islands]]. In order to survive he needs a rescue pod dropped from the player's aircraft (by pressing Shift+F). Two or three hostile enemy aircraft are in the area.
+* Intercept Incoming Cruise Missile: A [[cruise missile]] is heading towards San Francisco and must be destroyed. The difficulty here is the missile's high speed, low altitude (200&nbsp;feet) and short time available until impact.
+* Carrier Sub Mission: Hostilities have broken out, and a [[Submarine aircraft carrier|submersible aircraft carrier]] is in the area. Multiple enemy aircraft and the carrier must all be destroyed.
+
+This final mission has become the subject of debate among gamers. It was widely believed that it was impossible to sink the enemy carrier sub, and therefore complete the mission. The game's designer/programmer Robert "Bob" Dinnerman states that it ''is'' possible, but that the carrier does not actually blow up if it is deemed destroyed. It is generally accepted that the mission objectives are incorrect, and that it is only necessary to destroy the patrolling enemy aircraft to complete the mission.<ref>[https://groups.google.com/forum/#!original/comp.sys.amiga.games/tJfzSE0qf4o/_GJdZevrBiUJ] Google Groups: April 1991</ref><ref>[https://www.youtube.com/watch?v=xdojCc3HUT0 F/A-18 Interceptor - Carrier Sub Mission (Mission 6) *completed*] (YouTube)</ref>
+
+Although the missions can each be completed, the game does not feature an ending sequence, or any other indication that it is completed. After completion of the Carrier Sub Mission, the user simply returns to the menu screen, and the Next Active Advanced mission simply loops back to the first mission.
+
+If the user's Amiga has more than 512KB [[Random-access memory|RAM]] installed, a theme song resembling the "[[Top Gun Anthem]]" can be heard. This was at the request of Dinnerman, who asked sound effects engineer Dave Warhol to convey the atmosphere of that particular song from the film ''[[Top Gun]]''.<ref name="steiny.typepad.com">{{Cite web|url=https://steiny.typepad.com/premise/2004/01/interview_with_.html|title=Interview with F/A 18 Interceptor Author Bob Dinnerman|website=Premise}}</ref> There are also bugs left in the game where one can land (and re-take off) on water<ref>{{Cite web |url=http://amigareviews.classicgaming.gamespy.com/fa18inte.htm |title=Amiga Reviews: F/A-18 Interceptor<!-- Bot generated title --> |access-date=2006-07-11 |archive-url=https://web.archive.org/web/20061108023953/http://amigareviews.classicgaming.gamespy.com/fa18inte.htm |archive-date=2006-11-08 |url-status=dead}}</ref> or upside down on a carrier.<ref name="steiny.typepad.com"/>
+
+==Reception==
+''[[Dragon (magazine)|Dragon]]''  gave the game 4 out of 5 stars.<ref name="Dragon140">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk|journal=Dragon|issue=140|date=December 1988|pages=74–79}}</ref> The game was given a positive review in ''[[Computer Gaming World]]''.<ref name = "CGW">{{Cite magazine | date = August 1988 | last = Hockman | first = Daniel | magazine = [[Computer Gaming World]] | title = Into the Hornet's Nest | pages = 14–15}}</ref> In 1996, ''Computer Gaming World'' ranked it as the 87th best game of all time, calling it a jet combat sim that set the state-of-the-art for its era.<ref>''CGW'' 148: 150 Best Games of All Time</ref>
+
+==Reviews==
+* ''[[Amiga Computing]]'' (Jul, 1988)<ref>{{cite web | url=https://amigareviews.leveluphost.com/fa18inte.htm#fa18interceptorac | title=Amiga Reviews: F/A-18 Interceptor}}</ref>
+* ''[[ACE (Advanced Computer Entertainment)]]'' (Oct, 1988)<ref>{{cite web | url=https://archive.org/details/ace-magazine-13/page/n51/mode/2up | title=ACE Magazine Issue 13 | date=October 1988}}</ref>
+* ''[[ACE (Advanced Computer Entertainment)]]'' (Jul, 1988)<ref>{{cite web | url=https://archive.org/details/ace-magazine-10/page/n43/mode/2up | title=ACE Magazine Issue 10 | date=July 1988}}</ref>
+* ''[[Zzap!64|Zzap!]]'' (Dec, 1990)<ref>{{cite web | url=https://archive.org/details/zzapp_64_issue_068_600dpi/page/n46/mode/2up | title=Zzap! 64 Issue 068 (HQ)}}</ref>
+* ''[[The Games Machine]]'' (Jul, 1988)<ref>{{cite web | url=https://archive.org/details/thegamesmachine-magazine-08/page/n43/mode/2up | title=The Games Machine Magazine Issue 08}}</ref>
+* ''[[ST/Amiga Format]]'' (Jul, 1988)<ref>{{Cite web | title=Amiga Format Issue | url=https://archive.org/stream/ST_Amiga_Format_Issue_01_1988-07_Future_Publishing_GB#page/n47/mode/2up}}</ref>
+* ''[[Raze (magazine)|Raze]]'' (Jan, 1991)<ref>{{cite web | url=https://archive.org/details/RAZE_Issue_03_1991-01_Newsfield_Publishing_GB/page/n79/mode/2up | title=RAZE - Issue 03 (1991-01) (Newsfield Publishing) (GB) | date=January 1991}}</ref>
+* ''[[Commodore User]]'' (Jun, 1988)<ref>{{cite web | url=https://archive.org/details/commodore-user-magazine-57/page/n67/mode/2up | title=Commodore User Magazine Issue 57 | date=June 1988}}</ref>
+* ''[[Tilt (French magazine)|Tilt]]'' (Sep, 1988)<ref>{{cite web |title=F-18 Interceptor |url=http://download.abandonware.org/magazines/Tilt/tilt_numero057/TILT%20-%20n057%20-%20septembre%201988%20-%20page028%20et029.jpg |access-date=9 July 2022}}</ref>
+* ''[[Zero (video game magazine)|Zero]]'' (Nov, 1989)<ref>{{cite web | url=https://archive.org/details/zero-magazine-01/page/n26/mode/2up | title=Zero Magazine Issue 01 | date=November 1989}}</ref>
+* ''[[Computer and Video Games]]'' (Dec, 1990)<ref>{{Cite web |title=Video Games Magazine |url=https://archive.org/stream/computer-video-games-magazine-109/CVG109_Dec_1990#page/n97/mode/2up}}</ref>
+* ''[[Commodore Computing International]]'' (Aug, 1988)<ref>{{cite web | url=http://amr.abime.net/review_48506 | title=F/A-18 Interceptor review from Commodore Computing International Vol 7 No 1 (Aug 1988) - Amiga Magazine Rack}}</ref>
+* ''[[Amiga User International]]'' (Jul, 1988)<ref>{{cite web | url=http://amr.abime.net/review_25738 | title=F/A-18 Interceptor review from AUI Vol 2 No 7 (Jul 1988) - Amiga Magazine Rack}}</ref>
+* ''[[Computer and Video Games]]'' (Jul, 1988)<ref>{{cite web | url=https://archive.org/details/cvg-magazine-081/page/n54/mode/2up | title=CVG Magazine Issue 081 | date=July 1988}}</ref>
+* ''Happy Computer'' (Jun, 1988)<ref>{{Cite web|url=https://www.kultboy.com/index.php?site=t&id=302|title=Interceptor|website=www.kultboy.com}}</ref>
+* ''Power Play'' (Jul, 1988)<ref>{{cite web |title=Interceptor |url=https://www.kultpower.de/powerplay_testbericht_extern.php3?im=interceptor.jpg |access-date=9 July 2022}}</ref>
+* ''Amiga Joker'' (Sep, 1991)<ref>{{Cite web|url=https://www.kultboy.com/index.php?site=t&id=6413|title=Klassiker: Interceptor|website=www.kultboy.com}}</ref>
+* ''Australian Commodore and Amiga Review'' (Sep, 1988)<ref>{{cite web | url=http://amr.abime.net/review_35966 | title=F/A-18 Interceptor review from ACAR Vol 5 No 9 (Sep 1988) - Amiga Magazine Rack}}</ref>
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #54<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-54/page/74/mode/2up | title=Jeux & stratégie 54 | date=December 1988}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MobyGames|/fa-18-interceptor}}
+* [https://steiny.typepad.com/premise/2004/01/interview_with_.html Interview with ''F/A 18 Interceptor'' author Bob Dinnerman]
+* [https://web.archive.org/web/20061108023953/http://amigareviews.classicgaming.gamespy.com/fa18inte.htm Reproduced magazine reviews of the game]
+* {{abime|id=469}}
+
+{{DEFAULTSORT:F A-18 Interceptor}}
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Amiga-only games]]
+[[Category:Combat flight simulators]]
+[[Category:Electronic Arts games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]

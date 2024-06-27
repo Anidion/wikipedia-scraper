@@ -1,0 +1,69 @@
+Ant Attack
+Permalink: //en.wikipedia.org/w/index.php?title=Ant_Attack&oldid=1228474025
+Accessed on: 2024-06-26T16:54:29.593474
+
+
+
+------
+Ant Attack
+{{Infobox video game
+|title = Ant Attack
+|image = 3d ant attack cover art.jpg
+|alt=Ant Attack cassette cover art
+|caption = Cover art by David John Rowe<ref>{{cite magazine|url=https://archive.org/details/Crash_Magazine_015/page/130|title=On the Cover|magazine=[[Crash (magazine)|Crash]]|date=April 1985|access-date=2023-12-18|issue=15|page=130}}</ref>
+|developer = Sandy White
+|publisher = [[Quicksilva]]
+|engine = Softsolid 3D<ref name='ace38antattack'>{{cite magazine |title=Hall of Fame: Ant Attack|magazine=ACE|issue=38|publisher=Future Publishing|date=November 1990|page=111|url=https://spectrumcomputing.co.uk/page.php?issue_id=1764&page=111|access-date=22 September 2022}}</ref>
+|platforms = [[ZX Spectrum]] <br> [[Commodore 64]]
+|released = {{vgrelease|EU|1983<ref name="CVG"/>}}(Spectrum)<br> 1984 (C64)
+|genre = [[Action game|Action]]
+|modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Ant Attack''''' is an action game written for the [[ZX Spectrum]] by Sandy White and published by [[Quicksilva]] in 1983. A [[Commodore 64]] version was released in 1984.
+
+While ''[[Zaxxon]]'' and ''[[Q*bert]]'' previously used [[Isometric video game graphics|isometric projection]], ''Ant Attack'' added an extra [[Degrees of freedom (engineering)|degree of freedom]] (ability to go up and down instead of just north, south, east and west), and it may be the first isometric game for [[personal computers]].<ref name="SW homepage">{{cite web | url=http://sandywhite.co.uk/fun/ants | title=Sandy White - an Ant Attack homepage | author=Sandy White | accessdate=2006-03-28 | archiveurl= https://web.archive.org/web/20060406030246/http://sandywhite.co.uk/fun/ants | archivedate= 6 April 2006 | url-status= live}}</ref> The same type of isometric projection was used in Sandy White's later ''[[Zombie Zombie]]''. It was also one of the first games to allow players to choose their gender.<ref name="auto">{{Cite news|url=https://www.eurogamer.net/articles/2013-03-06-code-britannia-sandy-white|title=Code Britannia: Sandy White|first=Dan|last=Whitehead|newspaper=Eurogamer.net |date=Mar 8, 2013}}</ref><ref name='ace38antattack' />
+
+==Gameplay==
+[[File:3d ant attack 1.gif|thumb|upright|left|ZX Spectrum in-game screenshot]]
+
+The player chooses whether to control the character of "Girl" or "Boy",<ref>{{Cite web|url=https://www.crashonline.org.uk/01/antattack.htm|title=CRASH 1 - 3D Ant Attack|website=www.crashonline.org.uk}}</ref> who then enters the [[walled city]] of Antescher to rescue the other,<ref>{{Cite news|url=https://www.eurogamer.net/articles/ant-attack-review|title=Ant Attack|first=Chris|last=Wilkins|newspaper=Eurogamer.net |date=Oct 10, 2007}}</ref> who has been captured and immobilised somewhere in the city.
+
+The city is inhabited by giant ants which chase and attempt to bite the player. The player can defend themselves by throwing grenades at the ants, but these can also harm the humans. Once the hostage is rescued, the two must escape the city. The game then starts again with the hostage located in a different, harder-to-reach part of the city.
+
+==Development==
+Almost all of the game code was written by hand on paper using [[Assembly language#Opcode mnemonics and extended mnemonics|assembler mnemonics]], then manually [[Assembly language#Assembler|assembled]],<ref name="SW homepage"/> with  the resulting [[hexadecimal]] digits typed sequentially into an external [[EEPROM]] emulator device (aka SoftROM<ref>{{cite web|title=SoftROM mini feature, Issue 2, March 1984|url=http://www.users.globalnet.co.uk/~jg27paw4/yr02/yr02_35.htm|work=Your Sinclair online archive}}</ref> or "softie") attached to a host Spectrum.<ref name="interview">{{cite web|title=Video interview with Sandy White| date=23 November 2011 |url=https://www.youtube.com/watch?v=RdrgBwSH9W8 |archive-url=https://ghostarchive.org/varchive/youtube/20211221/RdrgBwSH9W8 |archive-date=2021-12-21 |url-status=live|publisher=Youtube|accessdate=1 October 2013}}{{cbignore}}</ref> Similarly, the character graphics and other custom sprites were all hand-drawn on squared paper and manually converted to strings of hex data. Additionally, some minor add-on routines such as high score registration were added on to the core game using regular [[Sinclair BASIC]].<ref name="sandywhite.co.uk">{{cite web|title=Comments guestbook with owner's replies, page one|url=http://www.sandywhite.co.uk/fun/visitors/visitors1.htm|work=Sandy White personal homepage|accessdate=1 October 2013}}</ref>
+
+The game's setting of "Antescher" is a reference to the artist [[M. C. Escher]].<ref name='ace38antattack' />
+
+==Reception==
+{{VG reviews
+|CRASH = 85%<ref>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Soft Solid 3D Ant Attack|pages=16, 18|issue=1|date=February 1984|url=https://archive.org/stream/crash-magazine-01/Crash_01_Feb_1984#page/n15/mode/2up}}</ref>
+|CVG = 30/40<ref name="CVG">{{cite magazine|magazine=[[Computer and Video Games]]|title=Awesome Ants Leap to the Attack!|pages=31, 33|issue=26 (December 1983)|date=16 November 1983|url=https://archive.org/stream/computer-video-games-magazine-026/CVG026_Dec_1983#page/n29/mode/2up}}</ref>
+|rev1 = ''[[Personal Computer Games]]''
+|rev1Score = 7/10<ref>{{cite magazine|magazine=[[Personal Computer Games]]|title=Screen Test|last=Cooke|first=Steve|page=51|issue=3|date=February 1984|url=https://archive.org/stream/personalcomputergames-magazine-03/PersonalComputerGames_03#page/n53/mode/2up}}</ref>
+}}
+
+''Ant Attack'' was well received by gaming press. The game was nominated in the 1983 [[Golden Joystick Award]]s for Best Original Game of the Year, eventually coming second to ''[[Ah Diddums]]''.<ref name="C&VG">[http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue029/Pages/CVG02900015.jpg "The Golden Joystick Award"], [[C&VG]], Issue 29.</ref> The ZX Spectrum version was rated number 14 in the ''[[Your Sinclair]]'''s Official Top 100 Games of All Time.<ref>{{cite journal|title=Readers' Top 100 Games of All Time|journal=Your Sinclair|date=September 1993}}</ref>
+
+In 2009, the staff of ''[[Edge (magazine)|Edge]]'' wrote that it "marked the very beginnings of the [[survival horror]] genre".<ref name="edge">{{cite web|url=http://www.next-gen.biz/features/making-ant-attack |title=The Making Of: Ant Attack |author=Edge staff |publisher=[[Edge (magazine)|Edge]] |date=2009-07-31 |accessdate=2009-12-08 |archive-url=https://web.archive.org/web/20120515224758/http://www.edge-online.com/features/making-ant-attack|archive-date=2012-05-15}}</ref><ref name="auto"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://sandywhite.co.uk/fun/ants/ Sandy White's official ''Ant Attack'' nostalgia page (includes playable game)]
+* {{moby game|id=/ant-attack}}
+* {{WoS game|id=0000210}}
+* {{lemon64 game|name=Ant Attack|id=119}}
+
+[[Category:1983 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Quicksilva games]]
+[[Category:Single-player video games]]
+[[Category:Video games about ants]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with gender-selectable protagonists]]
+[[Category:Video games inspired by M. C. Escher]]
+[[Category:Video games with isometric graphics]]
+[[Category:ZX Spectrum games]]

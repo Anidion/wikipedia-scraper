@@ -1,0 +1,147 @@
+M.U.L.E.
+Permalink: //en.wikipedia.org/w/index.php?title=M.U.L.E.&oldid=1229781490
+Accessed on: 2024-06-26T16:55:20.035969
+
+
+
+------
+M.U.L.E.
+{{Short description|1983 video game}}
+{{Infobox video game
+| title= M.U.L.E.
+| image=mule box.jpg
+| caption=
+| developer= Ozark Softscape<br/>[[Blue Planet Software|Bullet Proof Software]] (MSX)<br/>Eastridge Technology (NES)
+| publisher= {{vgrelease|NA|[[Electronic Arts]]|EU|[[Ariolasoft]]|JP|[[Blue Planet Software|Bullet Proof Software]]<ref>{{cite web|title=GameFAQs - Game Companies: Bullet Proof Software |url=http://www.gamefaqs.com/features/company/72801.html |publisher=CBS Interactive Inc. |access-date=2012-11-24 |url-status=dead |archive-url=https://web.archive.org/web/20131102191707/http://www.gamefaqs.com/features/company/72801.html |archive-date=2013-11-02 }}</ref>}}
+| designer= [[Danielle Bunten Berry]]
+| released= '''1983:''' Atari 8-bit, C64<br/>'''1985:''' IBM PC<br>'''1987:''' PC-88<br>'''1988:''' MSX2, X1<br>'''1990:''' NES 
+| genre= [[Strategy video game|Strategy]]
+| modes= 1-4 players
+| platforms= [[Atari 8-bit]], [[Commodore 64]], [[IBM PC]], [[MSX|MSX2]], [[Nintendo Entertainment System|NES]], [[PC-88]], [[Sharp X1]]
+}}
+
+'''''M.U.L.E.''''' is a multiplayer [[video game]] written for [[Atari 8-bit computers]]  by Ozark Softscape. Designer [[Danielle Bunten Berry]] (credited as Dan Bunten) takes advantage of the four [[joystick]] ports of the Atari 400 and 800 to allow four-player simultaneous play. Published in 1983, ''M.U.L.E.'' was one of the first five games from new company [[Electronic Arts]], alongside ''[[Axis Assassin]]'', ''[[Archon: The Light and the Dark]]'', ''[[Worms?]]'', and ''[[Hard Hat Mack]]''.<ref>{{cite web |last1=Corriea |first1=Alexa Ray |title=30 years ago Electronic Arts shipped its first batch of five games |url=https://www.polygon.com/2013/5/21/4351144/30-years-ago-electronic-arts-shipped-its-first-batch-of-five-games |website=Polygon |date=May 21, 2013}}</ref><ref>{{cite web |title=28 Years of EA History |url=https://www.ea.com/news/today-in-ea-history |website=Electronic Arts |date=May 20, 2011}}</ref> It is primarily a [[turn-based strategy game]], but incorporates real-time elements where players compete directly as well as aspects that simulate [[economics]].
+
+The game was ported to the [[Commodore 64]], [[Nintendo Entertainment System]], and [[IBM PC compatible]]s (as a [[self-booting disk]]).<ref>{{moby developer|id=8515|name=Danielle Berry}}</ref>  Japanese versions exist for the [[PC-88]],<ref>{{cite web|title=Entry with PC-88 info and shots at Mobygames|url=http://www.mobygames.com/game/pc88/mule|access-date=19 May 2011}}</ref> [[Sharp X1]],<ref>{{cite web|title=Entry at thelegacy.de with screenshots of the X1 port|url=http://www.thelegacy.de/Museum/6820/|access-date=19 May 2011|archive-url=https://web.archive.org/web/20130513100520/http://www.thelegacy.de/Museum/6820/|archive-date=13 May 2013|url-status=dead}}</ref> and [[MSX2]] computers.<ref>{{cite web|title=Entry at Generation-MSX|url=http://www.generation-msx.nl/msxdb/softwareinfo/1224|access-date=19 May 2011}}</ref> Like the subsequent Atari 8-bit models, none of these systems allow four players with separate joysticks. The Commodore 64 version lets four players share joysticks, with two players using the keyboard during action portions.<ref>{{cite web|title=M.U.L.E. Command Summary Card for the Commodore 64 (pages 1 and 2)|url=http://www.c64sets.com/details.html?id=1731}}</ref>
+
+== Gameplay ==
+[[File:M.U.L.E._Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit screenshot]]
+
+Set on the fictional planet Irata (''[[Atari]]'' backward), the game is an exercise in [[supply and demand]] [[economics]] involving competition among four players, with computer opponents automatically filling in for any missing players. Players choose the race of their colonist, which has advantages and disadvantages that can be paired to their respective strategies. To win, players not only compete against each other to amass the largest amount of wealth, but must also cooperate for the survival of the colony.
+
+Central to the game is the acquisition and use of ''Multiple Use Labor Elements'', or ''M.U.L.E.''s, to develop and harvest resources from the player's [[real estate]]. Depending on how it is outfitted, a M.U.L.E. can be configured to harvest Energy, Food, Smithore (from which M.U.L.E.s are constructed), and Crystite (a valuable mineral available only at the "Tournament" level). Players must balance supply and demand of these elements, buying what they need and selling what they don't. Players may exploit or create shortages by refusing to sell to other players or to the "store", which raises the price of the resource on the following turns. Scheming between players is encouraged by allowing [[collusion]], which initiates a mode allowing a private transaction. Crystite is the one commodity that is not influenced by supply and demand considerations, being deemed to be sold off-world, so the strategy with this resource is somewhat different; a player may attempt to maximize production without fear of having too much supply for the demand.
+
+[[Image:M.U.L.E..png|framed|right|A Multiple Use Labor Element, the eponymous M.U.L.E.]]
+Each resource is required to do certain things on each turn. For instance, if a player is short on Food, there is less time to take one's turn. If a player is short on Energy, some land plots won't produce any output, while a shortage of Smithore raises the price of M.U.L.E.s and prevents the store from manufacturing new M.U.L.E.s.
+
+Players must deal with periodic random events such as runaway M.U.L.E.s, sunspot activity, theft by space pirates, and meteorites,<ref>{{cite web|url=http://pc.ign.com/articles/081/081722p1.html|archive-url=https://web.archive.org/web/20070618153951/http://pc.ign.com/articles/081/081722p1.html|archive-date=2007-06-18 |title=PC Retroview: M.U.L.E. - PC Feature at IGN |publisher=Pc.ign.com |date=2000-07-05 |url-status=dead|access-date=2010-07-26}}</ref> with potentially destructive and beneficial effects. Favorable random events almost never happen to the player currently in first place, while unfavorable events never happen to the player in last place.<ref name="cgw199208">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=97 | title=Designing People... | magazine=Computer Gaming World | date=August 1992 | access-date=3 July 2014 | pages=48–54}}</ref> Similarly, when two players want to buy a resource at the same price, the player in the losing position automatically wins. Players also can [[Hunt the Wumpus|hunt the mountain wampus]] for a cash reward.
+
+== Development ==
+
+According to Jim Rushing (one of the four original partners in Ozark Softscape), ''M.U.L.E.'' was initially called ''Planet Pioneers'' during development.<ref>{{cite web | url = http://www.worldofmule.net/tiki-index.php?page=MechanicalDonkeysJimRushing | title = Mechanical Donkeys | access-date = 2009-03-24 | last = Szczepaniak | first = John | work = The Gamer's Quarter, Issue #6 | publisher = World of M.U.L.E. | quote = Rushing: We can discuss more on phone, but ... Trivia: Working title of the game was "Planet Pioneers." | archive-url = https://web.archive.org/web/20080912033147/http://www.worldofmule.net/tiki-index.php?page=MechanicalDonkeysJimRushing | archive-date = 2008-09-12 | url-status = dead }}</ref> It was intended to be similar to ''Cartels & Cutthroats'', with more graphics, better playability, and a focus on multiplayer.<ref name="CGW"/> The real-time auction element came largely from lead designer [[Danielle Bunten Berry|Danielle Bunten]]'s ''Wheeler Dealers''. The board game [[Monopoly (game)|''Monopoly'']] was used as a model for the game because of its encouragement of social interaction and for several of the game's elements: the acquisition and development of land as a primary task, a production advantage for grouped plots, different species (à la the different player tokens), and random events similar to "Chance" cards.<ref name = "CGW">{{Cite news | date = April 1984 | last = Bunten | first = Dan | author-link = Danielle Bunten Berry | magazine = [[Computer Gaming World]] | title = Dispatches / Insights from the Strategy Game Design Front| pages = 17, 42 }}</ref>  Additional game features such as claim jumping, loans, and crystite depletion were discarded for adding complexity without enhancing gameplay.
+
+The setting was inspired by [[Robert A. Heinlein]]'s ''[[Time Enough for Love]]'', wherein galactic colonization is in the style of the [[American Old West]]: A few pioneers with drive and primitive tools. The M.U.L.E. itself is based on the idea of the [[genetically modified animal]] in Heinlein's novel and given the appearance of a [[AT-AT|''Star Wars'' Imperial Walker]]. Another Heinlein novel, ''[[The Moon Is a Harsh Mistress]]'', provided the decision to not have any government or external authority. In the game's original designs, land was sold by auction, but this caused a [[feedback loop]] in which the wealthiest player had the most land and thus made the most money; thus, the developers created the "land authority" that gives each player a free plot of land each turn.<ref name = "CGW" />
+
+Ozark Softscape developed the game for [[Atari 8-bit computers]] first because of its policy of developing for the most advanced computers then [[porting]] them to other platforms, removing or altering features such as [[sprite (computer graphics)|sprite]]s as necessary. Bunten stated that Ozark did not port the game to the [[Apple II]] because "''M.U.L.E.'' can't be done for an Apple".<ref name="bunten198412">{{cite magazine | title=Dispatches / Insights From the Strategy Game Design Front | magazine=Computer Gaming World | date=December 1984 | author=Bunten, Dan | pages=40}}</ref> The [[IBM Personal Computer|IBM PC]] port of ''M.U.L.E'' was developed by K-Byte Software, an affiliate of Electronic Arts, and published by IBM.
+
+== Reception ==
+{{Video game reviews
+| CGW = {{rating|5|5}}{{r|brooks199211}}
+}}
+
+''M.U.L.E.'' only sold 30,000 copies<ref name="CGW2">{{Cite news | date = February 1989 | magazine = [[Computer Gaming World]] | title = Notes on the Conference on Computer Game Design | pages = 16–17, 28–29, 54–55 }}</ref> but was lauded by reviewers.
+
+''[[Computer Gaming World]]'' described it as a "fascinating and very enjoyable game which comes to its very best point with four human players". Minor criticisms included too-weak computer opponents and the lack of a [[saved game|save]] feature.<ref name="curtis19830708">{{cite magazine | title=M.U.L.E. | magazine=Computer Gaming World | date=Jul–Aug 1983 | author=Curtis, Edward | pages=12–13 | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=2&id=11 }}</ref> Praising the "human engineering" that created the Atari 8-bit version's user interface, the magazine called it "All in all, a superior game".<ref name="CGW12">{{cite magazine |last=Doum |first=Allen |title=Atari Arena |magazine=Computer Gaming World |date=October 1983 |volume=1 |issue=12 |pages=43}}</ref> ''[[Softline (magazine)|Softline]]'' called ''M.U.L.E.'' "what computer games should be like. It's a game, and it's a learning experience. It's also stimulating, fun, frustrating, thought provoking, fun, addictive, and fun". The magazine praised it as offering "valuable lessons" on economic topics, noting that "Most of them are learned the hard way", and concluded that "The game ''feels'' good" and "virtually flawless" because of the human-computer and human-human competition.<ref name="yuen19830910">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=13 | title=M.U.L.E. | work=Softline | date=Sep–Oct 1983 | access-date=29 July 2014 | author=Yuen, Matt | pages=42}}</ref>
+
+[[John J. Anderson]] wrote in ''[[Creative Computing]]'', "I should also mention that there is no shooting to be found anywhere in the game. How positively refreshing ... Mule belongs on every Atari software shelf in the world: in every home and every school, near every Atari."<ref name="anderson198312">{{cite news | url=http://www.atarimagazines.com/creative/v9n12/114_MULE.php | title=M.U.L.E | access-date=March 17, 2011 | author=Anderson, John J. | date=December 1983 | publisher=Creative Computing | pages=114}}</ref>
+
+Scott Mace of ''[[InfoWorld]]'' called ''M.U.L.E.'' unusual in the ease with which it allows multiplayer interaction through a single game computer console. He wrote that it would have "incredible lasting power, just like the best of the board games" and stated "I learned more about the economics of the marketplace from M.U.L.E. than I ever did in college".<ref name="mace19831205">{{cite magazine | url=https://books.google.com/books?id=6C8EAAAAMBAJ&q=%22m.u.l.e.%22+%22electronic+arts%22&pg=PA111 | title=Electronic Antics | access-date=March 2, 2011 | author=Mace, Scott | date=1983-12-05 | magazine=InfoWorld | pages=111–112}}</ref> [[Leo Laporte]] of ''Hi-Res'' also said that he learned more economics from the game than during college. He predicted that ''M.U.L.E.'' "may revitalize the [video game] industry. It ought to make them rich anyway", praised its [[video game music|theme]] as "most captivating musical come-on I've ever heard", and concluded "If you ask me, ''M.U.L.E.'' is the perfect game."<ref name="laporte19840506">{{cite news | url=http://www.atarimagazines.com/hi-res/v1n4/reviews.php | title=M.U.L.E. | work=Hi-Res | date=May–June 1984 | access-date=22 December 2014 | author=LaPorte, Leo G. | pages=14}}</ref>
+
+Reporting in ''[[Byte (magazine)|BYTE]]'' that his children loved it, [[Jerry Pournelle]] described ''M.U.L.E.'' as "a cross between ''[[Hamurabi (video game)|Hammurabi]]'', ''[[Diplomacy (game)|Diplomacy]]'', and an arcade game, with lots of strategic decisions—provided that you're skillful enough with a joystick to implement what you've decided to do".<ref name="pournelle198411">{{cite news | url=https://archive.org/stream/byte-magazine-1984-11/1984_11_BYTE_09-12_New_Chips#page/n359/mode/2up | title=NCC Reflections | work=BYTE | date=November 1984 | access-date=23 October 2013 | author=Pournelle, Jerry | pages=361}}</ref> Another reviewer wrote in the magazine that "it is impossible to adequately describe all the interaction and economically realistic subtleties of M.U.L.E.", concluding that it was "an intriguing way to illustrate some of the triumphs and perils of free enterprise".<ref name="smarte198403">{{cite news | url=https://archive.org/stream/byte-magazine-1984-03-rescan/1984_03_BYTE_09-03_Simulation#page/n297/mode/2up | title=M.U.L.E | work=BYTE | date=March 1984 | access-date=2 December 2013 | author=Smarte, Gene | pages=296}}</ref> [[Orson Scott Card]] in ''[[Compute!]]'' in 1983 gave ''M.U.L.E.'' and two other EA games, ''[[Archon: The Light and the Dark]]'' and ''[[Worms?]]'', complimentary reviews, writing that "they are original; they do what they set out to do very, very well; they allow the player to take part in the creativity; they do things that only computers can do".<ref name="card198311">{{cite news | url=http://www.atarimagazines.com/compute/issue42/gamesgrowup.php | title=Home Computer Games Grow Up | work=Compute! | date=November 1983 | access-date=27 January 2015 | author=Card, Orson Scott | pages=162 | author-link=Orson Scott Card}}</ref> The magazine listed the game in May 1988 as one of "Our Favorite Games", stating that it "requires a sense of strategy as well as proficiency at joystick maneuvers".<ref name="compute198805">{{cite news | url=https://archive.org/stream/1988-05-compute-magazine/Compute_Issue_096_1988_May#page/n13/mode/2up | title=Our Favorite Games | work=Compute! | date=May 1988 | access-date=10 November 2013 | pages=12}}</ref>
+
+Steven A. List reviewed ''M.U.L.E.'' in ''[[Space Gamer]]'' No. 70. He commented that "''M.U.L.E.'' is simply a great game, a ''tour de force'' in programming and design, good family entertainment, educational and exciting. If you don't have a computer and disk drive, it may be worth the investment just to be able to play this."<ref name="SG">{{cite journal|last=List |first=Steven A. |date=July–August 1984 |title=Capsule Reviews|journal=[[Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=70|pages=48, 50}}</ref> ''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the game an overall A rating, stating that it "combines some of the best features of ''Monopoly'' with economic simulation games like [Hammurabi]" while teaching "valuable lessons in economies in a fun way". The book noted that "when several people play, the game becomes involved and interactive".<ref name="aw1984">{{cite book | url=https://archive.org/stream/Atari_Software_1984#page/n193/mode/2up | title=The Addison-Wesley Book of Atari Software | publisher=Addison-Wesley | year=1984 | pages=193 | isbn=0-201-16454-X |editor1=Stanton, Jeffrey |editor2=Wells, Robert P. |editor3=Rochowansky, Sandra |editor4=Mellid, Michael }}</ref> Two of ''[[Zzap!64]]''{{'}}s reviewers stated in 1985 that ''M.U.L.E.'' was "an excellent trading game" and "recommended for both novice and skilled", while the third complained that he "found little [excitement] ... nothing to keep me interested".<ref name="zzap198506">{{cite news | url=https://archive.org/stream/zzap64-magazine-002/ZZap_64_Issue_002_1985_Jun#page/n23/mode/2up | title=M.U.L.E | work=Zzap!64 | date=June 1985 | access-date=26 October 2013 |author1=Wade, Bob |author2=Penn, Gary |author3=Rignall, Julian | pages=24–25}}</ref>
+
+In 1984 ''M.U.L.E.'' was awarded "1984 Best Multi-Player Video Game/Computer Game" at the 5th annual [[Arkie Awards]] where judges described it as "a unique blend of boardgame strategy and computer-game pacing" and noted that "since its release, 'M.U.L.E.' has gained an intense cult following".<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|29}} ''Softline'' readers named the game the third most-popular Atari program of 1983.<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | access-date=28 July 2014 | pages=49}}</ref> With a score of 7.44 out of 10, in 1988 ''M.U.L.E.'' was among the first members of the ''Computer Gaming World'' Hall of Fame, honoring those games rated highly over time by readers.<ref name="cgw198803">{{cite magazine | title=The CGW Hall of Fame | magazine=Computer Gaming World | date=March 1988 | pages=44 | url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=45 }}</ref> In 1992 and 1994 surveys of science fiction games the magazine gave the title five of five stars, calling it "An all-time computer classic, this was one of the only games ever devised that was playable and entertaining for four humans. Economics made fun! ... it still holds up well over all these years and, by itself, provides justification for holding onto the 8-bit Atari".<ref name="brooks199211">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Strategy & Wargames: The Future (2000-....) | magazine=Computer Gaming World | date=November 1992 | access-date=4 July 2014 | author=Brooks, M. Evan | pages=99}}</ref>{{r|brooks199405}} In 1996, the magazine named ''M.U.L.E.'' as #3 on its Best Games of All Time list.<ref name="cgw199611best">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | access-date=25 March 2016 | pages=64–80}}</ref> In 2004, ''M.U.L.E.'' was inducted into [[GameSpot]]'s list of the greatest games of all time.<ref name="Gamespot">{{cite web|url=http://www.gamespot.com/gamespot/features/all/greatestgames/p-54.html|title=The Greatest Games of All Time: ''M.U.L.E.''|website=[[GameSpot]]|archive-url=https://web.archive.org/web/20071016094809/http://www.gamespot.com/gamespot/features/all/greatestgames/p-54.html | archive-date=October 16, 2007}}</ref> It was named #5 of the "Ten Greatest PC Games Ever" by ''[[PC World]]'' in 2009.<ref name="pc_world">{{cite magazine | last = Edwards | first = Benj  | title = The Ten Greatest PC Games Ever  | magazine = [[PC World]] | date = February 8, 2009  | url = http://www.pcworld.com/article/158850/best_pc_games.html#slide7 | access-date = 2016-05-01}}</ref> ''M.U.L.E.'' was listed as the 19th most important video game of all time by [[1UP.com]].<ref>{{cite web |last1=Parish |first1=Jeremy |last2=Sharkey |first2=Scott |title=19. ''M.U.L.E.'' |website=[[1UP.com]] |access-date=July 11, 2011 |url=http://www.1up.com/features/essential-50-mule |url-status=dead |archive-url=https://web.archive.org/web/20121019170530/http://www.1up.com/features/essential-50-mule |archive-date=October 19, 2012 }}</ref> [[Chris Crawford (game designer)|Chris Crawford]] said of the game that considering the platform the team had to deal with, ''M.U.L.E.'' was "the greatest game design ever done."<ref>{{cite book|title=Game Design Theory & Practice|version=Second Edition|publisher=Wordware Publishing, Inc.|last=Rouse III|first=Richard|author-link=Richard Rouse III|year=2005|isbn=1-55622-912-7|page=269}}</ref>
+
+== Legacy ==
+[[Shigeru Miyamoto]] cited ''M.U.L.E.'' as an influence on the [[Pikmin|''Pikmin'' series]].<ref>{{Cite web|url=http://www.4gamer.net/games/168/G016837/20130712087/index_2.html|title = 任天堂の宮本 茂氏に聞く，「ピクミン3」の魅力――「インタラクティブメディアは，"自分"が関わっていることが一番面白い」}}</ref> [[Will Wright (game designer)|Will Wright]] dedicated his game ''[[The Sims]]'' to the memory of Bunten. The ''M.U.L.E.'' theme song was included in Wright's later game, ''[[Spore (2008 video game)|Spore]]'', as an [[Easter egg (media)|Easter egg]] in the space stage.
+
+A 2007 remix of the theme song by [[8 Bit Weapon]] is used in the video game ''[[Roblox]]''.
+
+An ability in ''[[StarCraft II]]'' allows Terran players to deploy temporary robotic workers called M.U.L.E.s.
+
+A board game adaptation, ''M.U.L.E. The Board Game'', was released in 2015.<ref>{{Cite web|url=https://boardgamegeek.com/boardgame/182619/mule-board-game|title = M.U.L.E. The Board Game}}</ref>
+
+Unofficial [[video game clone|clones]] are ''[[Subtrade]]'', ''[[Traders (video game)|Traders]]'', and ''Space HoRSE''.
+
+===Enhanced versions===
+In 2005, a netplay component was integrated into the Atari800WinPlus [[emulator]] enabling the original game to be played over the [[Internet]].<ref>{{cite web| last1 = Glicker| first1 = Stephen |title = Atari MULE Online| date = 11 November 2005| url = http://www.gamingsteve.com/archives/2005/11/atari_mule_onli_1.php| access-date = 2007-08-30| url-status = dead| archive-url = https://web.archive.org/web/20070927222253/http://www.gamingsteve.com/archives/2005/11/atari_mule_onli_1.php| archive-date = 27 September 2007}}</ref>
+
+''Computer Gaming World'' printed in April 1994 that EA "was working on a videogame version of the game, but the design was terminated because of creative differences between the publisher and the designer".<ref name="cgw199404">{{Cite magazine
+ |last=Gerhart
+ |first=Emory
+ |date=April 1994
+ |title=Ass-inine Answer
+ |department=Letters from Paradise
+ |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=117 
+ |magazine=Computer Gaming World
+ |pages=146}}</ref> The magazine reported a rumor in May 1994 that a "Genesis version has been completed, but EA is debating over its release",<ref name="brooks199405">{{Cite magazine
+ |last=Brooks
+ |first=M. Evan
+ |date=May 1994
+ |title=Never Trust A Gazfluvian Flingschnogger!
+ |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118 
+ |magazine=Computer Gaming World
+ |pages=42–58}}</ref> and then in August 1994 that Bunten had decided against remaking the game because EA "wanted me to put in guns and bombs". An editorial asked the company to "give us ''M.U.L.E.'' with Smithore and Crystite as its creator intended".<ref name="sipe199408">{{Cite magazine
+ |last=Sipe
+ |first=Russell
+ |date=August 1994
+ |title=You Can't Change That!
+ |department=From the Publisher
+ |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=121
+ |magazine=Computer Gaming World
+ |pages=8
+}}</ref> Bunten was working on an Internet version of ''M.U.L.E.'' until her death in 1998.
+
+An online, licensed [[Video game remake|remake]] called ''[[Planet M.U.L.E.]]'' was released in 2009. The game is free for download for  major platforms.<ref>{{cite web|url=http://www.planetmule.com |title=''Planet M.U.L.E.'' official site |publisher=Planetmule.com |access-date=2010-07-26}}</ref> Comma 8 Studios later acquired the mobile ''M.U.L.E.'' license and released ''[[M.U.L.E. Returns]]'' for [[iOS]] in November 2013.<ref>{{cite web | url = https://www.youtube.com/watch?v=8KiNs4EagPI | title = Presentation "M.U.L.E. Returns" at World of Commodore 2012 | via = [[YouTube]] | access-date = 2013-01-09 | date = December 1, 2012}}</ref>
+
+The source code to ''M.U.L.E.'', believed lost, was revealed in 2020 to be in the possession of [[Julian Eggebrecht]]. In the 1980s he had pitched an enhanced 16-bit version of the game. EA accepted the idea and sent him two discs with the source code of the original.<ref>[https://www.stayforever.de/2020/04/m-u-l-e-nachtrag/ M.U.L.E. – Nachtrag] at [https://www.stayforever.de stayforever.de]</ref>
+
+Another officially licensed version called ''[[M.U.L.E. Online]]'' was released via the [[itch.io]] platform on May 30, 2023. This version faithfully recreates the Atari 8-bit version of the game with both local and online multiplayer included and enhanced keyboard, mouse, and gamepad controls. It is available for [[Microsoft Windows|Windows]], [[macOS]] and [[Linux]].<ref>{{cite web | url = https://puzzud.itch.io/mule-online | title = M.U.L.E. Online | date = June 5, 2023}}</ref>
+
+==World records==
+According to [[Twin Galaxies]], the following records are recognized:
+
+*Nintendo Entertainment System - Jason P. Kelly - 68,273
+*Commodore 64 - John J. Sato - 57,879<ref>{{Cite web|url=http://www.twingalaxies.com/scores.php|title = Twin Galaxies}}</ref>
+
+==See also==
+* [[Legged Squad Support System]], real-life robotic pack animal developed in 2009
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{atarimania|id=3588}}
+* {{Internet Archive game|id=a8b_M.U.L.E._1983_Electronic_Arts_US|platform=Atari 8-bit}}
+* [http://www.arktimes.com/arkansas/dani-bunten-changed-video-games-forever/Content?oid=2059426 Article from ''The Arkansas Times''] about Bunten and ''M.U.L.E.''
+* [https://boardgamegeek.com/boardgame/182619/mule-board-game Review of ''M.U.L.E.'' board game]
+* [https://puzzud.itch.io/mule-online ''M.U.L.E. Online'']
+
+{{Dani Bunten}}
+
+[[Category:M.U.L.E.| ]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:1983 video games]]
+[[Category:Electronic Arts games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Sharp X1 games]]
+[[Category:MSX2 games]]
+[[Category:Ozark Softscape games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Digital tabletop games]]
+[[Category:Ariolasoft games]]
+[[Category:Video games developed in the United States]]
+[[Category:K-Byte games]]

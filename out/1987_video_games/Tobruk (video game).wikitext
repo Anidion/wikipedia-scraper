@@ -1,0 +1,73 @@
+Tobruk (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Tobruk_%28video_game%29&oldid=1214739866
+Accessed on: 2024-06-26T17:03:22.680922
+
+
+
+------
+Tobruk (video game)
+{{Short description|1987 video game}}
+{{Infobox video game
+|title = Tobruk 
+|image = Tobruk cover 1.jpg
+|caption = Amstrad CPC cover art
+|developer = {{ubl|[[Personal Software Services]]|Data Design Systems (Spectrum)}}
+|publisher = [[Personal Software Services]]
+|series = ''Wargamers''
+|designer = Alan Steel
+|released = {{vgrelease|UK|1987}}
+|genre = [[Turn-based strategy]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64]], [[ZX Spectrum]], [[Amstrad CPC]]
+}}
+
+'''''Tobruk: The Clash of Armour''''' is a [[turn-based strategy]] video game developed and published by [[Personal Software Services]]. It was exclusively released in the United Kingdom for the [[Commodore 64]], [[ZX Spectrum]] and [[Amstrad CPC]] in 1987. It is the eleventh instalment of the ''Wargamers'' series. The game is set during the 1941 [[Siege of Tobruk]] of the [[Western Desert Campaign]] in [[World War II]] and revolves around the Allied forces attempts to overthrow German field marshal [[Erwin Rommel]] from the city.
+
+The game is a turn-based strategy which focuses mainly on tank combat and contains elements of [[arcade game|arcade]] gameplay. In the game, the player controls the [[Axis powers]] and must capture and hold various Allied bases in both [[Italian Libya]] and [[British Egypt]], with the city of [[Tobruk]] being the ultimate goal. The game received mixed reviews upon release; critics were divided over the gameplay and were largely negative over its interface and tank [[game mechanics|mechanics]].
+
+==Gameplay==
+[[File:Tobruk gameplay.gif|thumb|left|220px|A map showing the combat and minefields in [[Cyrenaica]], [[Italian Libya]].]]
+The game is a [[Top-down perspective|top-down]] [[turn-based strategy]] which contains elements of [[arcade game|arcade]] gameplay and focuses mainly on tank combat.<ref name=crash/> It is a simulation of the 1941 [[Siege of Tobruk]], a part of the [[Western Desert Campaign]] of [[World War II]]. The battle revolves around Australian and British (collectively referred to [[Allies of World War II|Allied forces]]) attempts to oust German field marshal [[Erwin Rommel]] from the city. If playing alone, the player controls the [[Axis powers]] and is not able to play on the side of the Allies unless a second player is involved.<ref name=crash/> The main objective of the game is to capture and hold as many fortifications in [[Italian Libya]] as possible, with the city of [[Tobruk]] and the defence of Rommel being the ultimate goals.<ref name=crash/><ref name=YS/>
+
+The main display map of the game is focused on [[Cyrenaica]], a representation of the Allied minefield that was laid in the [[Gazala Line]] between [[Gazala]] and Bir Hachieim.<ref name=crash/> The Axis troops begin the game on the western side of the line, whilst Allied forces begin the offensive in [[British Egypt]]. A command box in the game provides the player with an instant report of a unit or landscape once hovered over; data given on units includes their strength in terms of supply of infantry, provisions, artillery, and the number of moves that unit can make on one turn.<ref name=crash/> Every two turns lasts one in-game day and units are available to enter combat phases once a day is finished.<ref name=SU/>
+
+In a combat phase, the game shifts to an "arcade sequence",<ref name=crash/><ref name=CG/> which allows the player to control a tank in the [[Sahara Desert]]. The arcade sequence presents a menu of tank functions; a gun turret, shell loading, firing and navigational buttons. Only one function can be used at a time; in order to drive the tank, the player has to use the navigational buttons to manoeuvre. If the tank becomes under attack, the gun turret or shell-firing mode must be activated for self-defence.<ref name=crash/> Both the arcade sequence and tank controlling is optional, however, and is not required to finish the game.<ref name=crash/><ref name=CG/>
+
+==Reception==
+{{Video game reviews
+| CRASH = 65%<ref name=crash/>
+| rev1 = ''[[Your Sinclair]]''
+| rev1Score = 8/10<ref name=YS/>
+| rev2 = ''[[Sinclair User]]'' 
+| rev2Score = {{Rating|2|5}}<ref name=SU/>
+| rev3 = ''[[Computer Gamer]]''
+| rev3Score = 84%<ref name=CG/>
+}}
+The game received mixed reviews upon release. Richard Blaine of ''[[Your Sinclair]]'' praised the game's playability and value for money, stating that it provides an "interesting challenge".<ref name=YS>{{cite journal|last1=Blaine|first1=Richard|title=Tobruk review|journal=Your Sinclair|date=June 1897|issue=18|page=39|url=http://wos.meulie.net/pub/sinclair/magazines/YourSinclair/Issue18/Pages/YourSinclair1800039.jpg|access-date=6 December 2015}}</ref> Philippa Irving of ''[[Crash (magazine)|Crash]]'', however, criticised the playability and tank mechanics as "stunningly badly designed" and "unplayable", whilst also stating that it was "rather unatmospheric".<ref name=crash>{{cite journal|last1=Irving|first1=Philippa|title=Tobruk review (Crash)|journal=Crash|date=May 1987|issue=40|pages=101, 102|url=http://www.zxspectrumreviews.co.uk/Review.aspx?rid=6770&gid=5899|access-date=6 December 2015}}</ref> Gary Rook of ''[[Sinclair User]]'' summarised that ''Tobruk'' was "pretty disappointing" and "nowhere near as successful" as its direct predecessor, ''[[Bismarck (video game)|Bismarck]]''. Rook criticised the interface of the game as "clumsily" executed and not "half as good" as that of other strategy games at the time of release.<ref name=SU>{{cite journal|last1=Rook|first1=Gary|title=Tobruk review|journal=Sinclair User|date=June 1987|issue=63|pages=99, 100|url=http://wos.meulie.net/pub/sinclair/magazines/SinclairUser/Issue063/Pages/SinclairUser06300099.jpg|access-date=6 December 2015}}</ref> Regarding the arcade sequences of the game, Michael Sandford of ''ZX Computing'' said they worked well but recommended inexperienced player to avoid them, as its difficulty would affect gameplay. However, Sandford praised the overall experience of the game, stating that it was "one of the best" wargames and endorsed it to anybody interested in the genre.<ref name=ZX>{{cite journal|last1=Sandford|first1=Michael|title=Tobruk review|journal=ZX Computing|date=June 1987|issue=5|page=45|url=http://wos.meulie.net/pub/sinclair/magazines/ZXComputing/Issue8705/Pages/ZXComputing870500045.jpg|access-date=6 December 2015}}</ref> 
+
+M. Evan Brooks reviewed the game for ''[[Computer Gaming World]]'', and stated that "Simulations should break new ground or cover old ground in new and/or alternative conceptualizations. While Tobruk has an interesting operational interface, it is not groundbreaking in either of the above senses."<ref name="CGW50">{{cite magazine |last=Brooks |first=M. Evan |title=Tobruk: The Clash of Armour |magazine=Computer Gaming World |date=August 1988 |volume=1 |issue=50 |pages=34, 41}}</ref>
+
+''[[Computer Gamer]]'' asserted that ''Tobruk'' was "undoubtedly one of the most enjoyable wargames ever" and heralded its originality and playability.<ref name=CG>{{cite journal|last1=A.H.|title=Tobruk review (Computer Gamer)|journal=Computer Gamer|date=July 1987|issue=26|page=71|url=http://wos.meulie.net/pub/sinclair/magazines/ComputerGamer/Issue26/Pages/ComputerGamer2600071.jpg|access-date=6 December 2015}}</ref> Irving, however, criticised its authenticity; stating that the game was lacking in both "elusive quality" and atmosphere.<ref name=crash/> Rook found that the developers' intention of attempting to "marry strategy gaming with arcade gaming" was unsuccessful and produced negative results.<ref name=SU/> A 1993 ''[[Computer Gaming World]]'' survey of wargames agreed while giving the game one-plus stars out of five, stating that "the simulation and arcade aspects denigrate each other's appeal".<ref name="brookssurvey199310">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=111 | title=Brooks' Book Of Wargames: 1900-1950, R-Z | magazine=Computer Gaming World | date=October 1993 | access-date=26 March 2016 | author=Brooks, M. Evan | pages=144–148}}</ref>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #43<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-43/page/70/mode/2up | title=Jeux & stratégie 43 | date=February 1987 }}</ref>
+
+==References==
+{{reflist|2}}
+{{Good article}}
+[[Category:1987 video games]]
+[[Category:Video games set in 1941]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Cultural depictions of Erwin Rommel]]
+[[Category:Europe-exclusive video games]]
+[[Category:Single-player video games]]
+[[Category:Tank simulation video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:United Kingdom-exclusive video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in Libya]]
+[[Category:World War II video games]]
+[[Category:ZX Spectrum games]]
+[[Category:Personal Software Services games]]
+[[Category:War video games set in the British Empire]]

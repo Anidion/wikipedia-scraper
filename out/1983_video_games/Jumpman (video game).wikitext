@@ -1,0 +1,123 @@
+Jumpman (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Jumpman_%28video_game%29&oldid=1224501513
+Accessed on: 2024-06-26T16:55:14.198785
+
+
+
+------
+Jumpman (video game)
+{{Hatnote|This article is about the 1983 video game. For the unrelated character originally known as Jumpman in [[Donkey Kong (arcade game)|Donkey Kong]] (1981), see [[Mario]].}}
+{{Primary sources|date=July 2020}}
+
+{{Infobox video game
+|title = Jumpman
+|image = Jumpman_box_cover.jpg
+|caption = Original cover art
+|developer = [[Epyx]]
+|publisher = Epyx
+|designer = Randy Glover<ref>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|first1=James|last1=Hague}}</ref>
+|engine = 
+|released = {{vgrelease|NA|February 26, 1983<ref>{{cite web |title=Jumpman (Registration Number TX0001337562) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=15 June 2021}}</ref>}}
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Atari 8-bit]], [[Apple II]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[ColecoVision]]
+}}
+
+'''''Jumpman'''''  is a [[platform game]] written by Randy Glover and published by [[Epyx]] in 1983. It was developed for the [[Atari 8-bit computers]], and versions were also released for the [[Commodore 64]], [[Apple II]], and [[IBM PC compatible]]s.
+
+The game received very favorable reviews when it was released and was a major hit for its publisher, Automated Simulations. It was so successful that the company renamed itself Epyx, formerly their brand for action titles like ''Jumpman''.{{fact|date=November 2017}}
+
+''Jumpman'' was published on [[diskette]], but a version of the game with 12 new levels instead of 30 was released on [[ROM cartridge| cartridge]] as ''[[Jumpman Junior]]''.<ref name="antic_jr">{{cite journal|last1=Faughn|first1=David|title=Jumpman Junior|journal=Antic|date=March 1984|volume=2|issue=12|page=100|url=http://www.atarimagazines.com/v2n12/productreviews.html}}</ref> It was available on the Atari 8-bit computers, Commodore 64, and [[ColecoVision]].
+
+==Gameplay==
+[[Image:Jumpman_Atari_screenshot.png|thumb|left|Opening screen of the Atari original. Jumpman is centered, in white.]]
+
+According to the story, the base on [[Jupiter]] has been sabotaged by [[terrorism|terrorists]] who have placed bombs throughout the base's three buildings. The object of the game is to defuse all the bombs in a platform-filled screen. Jumpman defuses a bomb by touching it. Jumpman can jump, climb up and down ladders, and there are two kinds of rope each allowing a single direction of climbing only.
+
+The game map is organized into a series of levels, representing the floors in three buildings. When all of the bombs on a level have been deactivated, the map scrolls vertically to show another floor of the building. When all of the levels in a building are complete, a screen shows the remaining buildings and moves onto the next one. The order of the maps is randomized so players do not end up trapped on a level they cannot complete.
+
+Hazards include falling "smart darts" (small bullets that fly slowly across the screen, but when [[orthogonality|orthogonally]] lined up with Jumpman, greatly speed up and shoot straight in his direction), fall damage, and other hazards that are unique to a certain level. Upon being hit or falling from a height, Jumpman tumbles down to the bottom of the screen, with a measure from [[Piano Sonata No. 2 (Chopin)|Chopin's Funeral March]] being played.
+
+Points are awarded for each bomb defused, with bonus points available for completing a level quickly. Jumpman's game run-speed can be chosen by the player, with faster speeds being riskier but providing greater opportunity to earn bonus points.
+
+==Development==
+Randy Glover was living in [[Foster City, California]] and had been experimenting with [[electronics]] when he saw his first computer in 1977 when he played [[Star Trek (1971 video game)|''Star Trek'']] at a [[Berkeley, California|Berkeley]] [[university]] open house.{{sfn|Glover|loc=3:00}} This prompted him to purchase a [[Commodore PET]] in 1978{{sfn|Glover|loc=4:00}}{{efn|Glover refers to this as a VIC-20, but this was not introduced until some years later.}} and then upgrade to a [[TRS-80]] due to its support of a [[hard disk drive|hard drive]].{{sfn|Glover|loc=5:00}}
+
+''Jumpman'' came about after Glover saw ''[[Donkey Kong (arcade game)|Donkey Kong]]''<ref>{{cite journal |first=Darryl |last=Guenther |title=Doin' the Donkey Kong |journal=Classic Gamer Magazine |date=Fall 1999 |page=20 |url=http://www.digitpress.com/library/magazines/cgm/cgm_1.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.digitpress.com/library/magazines/cgm/cgm_1.pdf |archive-date=2022-10-09 |url-status=live}}</ref><ref>{{cite web |url=http://home.arcor.de/cybergoth/gamesa/jumpinterview1.html |title=I talked to Randy Glover about Jumpman. |archive-url=https://web.archive.org/web/20080115074357/http://home.arcor.de/cybergoth/gamesa/jumpinterview1.html | archive-date=15 January 2008 |access-date=3 June 2007}}</ref> in a local [[Pizza Hut]].{{sfn|Glover|loc=10:30}} This led him to become interested in making a version for [[home computer]]s. He visited a local computer store who had the [[TI-99/4A]] and Atari 400. He initially purchased the TI-99 due to its better keyboard,{{sfn|Glover|loc=12:30}} but when he learned the graphics were based on [[character set]] manipulation, he returned it the next day and purchased the Atari.{{sfn|Glover|loc=11:30}}
+
+The initial version was written by Albert Persinger, using a compiler on the [[Apple II]], moving the software to the Atari. A prototype with 13 levels took four or five months to complete. After looking in the back of a computer magazine for publisher, in early 1983 he approached [[Broderbund]].{{sfn|Glover|loc=14:00}} They were interested but demanded that their programmers be allowed to work on it. The next day he met with Automated Simulations, who were much more excited by the game and agreed to allow Glover to complete it himself.{{sfn|Glover|loc=15:00}}
+
+At the time, the company was in the process of moving from the [[strategy game]] market to action titles, which they released under their Epyx brand. ''Jumpman'' was the perfect title for the brand, and the company hired him.{{sfn|Glover|loc=15:45}} Aiming the game at the newly enlarged RAM available on the Atari 800 led to the 32 levels of the final design.{{sfn|Glover|loc=18:00}} The Atari release was a huge hit, and the company soon abandoned their strategic games and renamed as Epyx.<ref>{{cite web |url=http://thedoteaters.com/?bitstory=epyx |title= Epyx Journey |website=The Dot Eaters}}</ref> Glover then moved on to a C64 port, which was not trivial due to a particular feature of the Atari hardware Glover used to ease development.{{sfn|Glover|loc=48:45}}
+
+[[Image:64jumpman.gif|thumb|The C64 port has an improved Jumpman sprite, but is otherwise similar to the Atari version.]]
+
+Other programmers at Epyx ported it to the Apple II, with poor results,{{sfn|Glover|loc=52:15}} and, a year later, contracted Mirror Images Software for an IBM PC/PCjr port. The Atari and Commodore versions were released on disk and cassette tape, the Apple and IBM versions only on disk. The Atari version used a classic [[bad sector|bad-sector]] method of preventing copying, but this had little effect on [[software piracy|piracy]].{{sfn|Glover|loc=39:30}}
+
+After developing the original versions, Glover moved on to ''Jumpman Junior'', a cartridge title with only 12 levels. He stated that it wasn't really a sequel to ''Jumpman'', but more of a "lite" version for Atari and Commodore users who didn't have disk drives. These versions removed the more complex levels and any code needed to run them.{{sfn|Glover|loc=48:00}} Two of its levels (Dumbwaiter and Electroshock Traps) were turned into Sreddal ("Ladders" backwards) and Fire! Fire! on the latter. The C64 version was later ported to the ColecoVision, which used the C64 levels.{{sfn|Glover|loc=53:00}}
+
+Glover continued working at Epyx, working on the little-known ''Lunar Outpost'' and the swimming section of ''[[Summer Games (video game)|Summer Games]]''. He remained at the company for about two years{{sfn|Glover|loc=49:00}} before returning to the [[cash register]] business.{{sfn|Glover|loc=1:06:00}}
+
+===Technical details===
+Movement was controlled through the [[collision detection]] system of the Atari's [[Sprite (computer graphics)|player/missile graphics]] hardware. This system looks for overlap between the sprites and the background, setting [[Processor register|registers]] that indicate which sprite had touched which color.<ref>{{cite book |first= Chris |last=Crawford |title= De Re Atari | publisher =Atari Program Exchange |date= 1982 |chapter= Hardware Collision Detection |url= http://www.atariarchives.org/dere |chapter-url=http://www.atariarchives.org/dere/chapt04.php#H4_8}}</ref>
+
+Glover separated the Jumpman [[sprite (computer graphics)|sprite]] into two parts, the body and the feet. By examining which of these collided, the engine could determine which direction to move. For instance, if both the body and feet collided with the same color, it must be a wall, and the Jumpman should stop moving. If there was no collision with either his feet or body, Jumpman is unsupported and should fall down the screen. Variations on these allowed support for ramps, ropes, and other features.{{sfn|Glover|loc=20:00}}
+
+This not only saved processing time comparing the player location to an in-memory description of the map, but also meant that maps could be created simply by drawing with them and experimenting with the results in the game.{{sfn|Glover|loc=22:00}}
+
+==Reception==
+''Jumpman'' became a best-seller for Epyx, selling about 40,000 copies on the Atari and C64 until 1987,{{sfn|Glover|loc=36:15}} reaching somewhere between #3 and #6 on the then-current [[Billboard (magazine)|''Billboard'' top 100 games]] chart.{{sfn|Glover|loc=37:00}}{{sfn|Glover|loc=1:12:15}} Sales were hindered by the release of ''[[Miner 2049er]]'' only a few months earlier, which held the #1 spot at that time.{{sfn|Glover|loc=38:00}} 
+
+''[[Softline (magazine)|Softline]]'' in 1983 liked ''Jumpman'', calling it "wonderfully addicting" and stating that it was as high-quality as Epyx's ''[[Dunjonquest]]'' games. The magazine cited its large number of levels ("Not one screen faster and harder each time; not ten screens three times; but thirty screens, one at a time"), and concluded that "it's bound to be a hit".<ref name="yuen19830506">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=11 | title=Jumpman | work=Softline | date=May–Jun 1983 | access-date=28 July 2014 | author=Yuen, Matt | pages=45}}</ref> ''[[Compute!]]'' awarded it a lengthy review. They point out that it might be dismissed as yet another platform game, but goes on to state that "Jumpman easily conquers that skepticism and establishes itself as a software classic." They also note the variety of clever level designs that makes each map unique. They go on to compare it to ''[[Miner 2049er]]'' and suggested ''Jumpman'' is "much, much more."<ref>{{cite journal |first= James |last=Trunzo |title=Jumpman |journal=Compute! |date=October 1983 |page=150 |url=http://www.atarimagazines.com/compute/issue41/REVIEWS_Jumpman.php}}</ref>
+
+In 1984 ''Softline'' readers named the game the seventh most-popular Atari program of 1983,<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | access-date=28 July 2014 | pages=49}}</ref> and it received a Certificate of Merit in the category of "1984 Best Computer Action Game" at the 5th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|28}}
+
+''K-Power'' rated the Commodore 64 version of ''Jumpman'' 7 points out of 10. The magazine stated that the game "has very good—not great—graphics, color, and sound. But because it's so enjoyable to play, it will be a long time before it's put away."<ref name="schussheim198402">{{cite news | url=https://archive.org/stream/k-power-magazine-01/K-Power_Issue_01_1984_Feb#page/n61/mode/2up/search/zork | title=Jumpman | work=K-Power | date=February 1984 | access-date=16 January 2015 | author=Schussheim, Adam | pages=61}}</ref> Stating that "the care that goes into its products is obvious in Jumpman", ''The Commodore 64 Home Companion'' wrote that "it's really 30 games in one, with seemingly endless variants on the simple jumping theme to keep you interested".<ref name=C64HC>{{cite web|url=https://archive.org/stream/The_Commodore_64_Home_Companion#page/n171/mode/2up|first=George | last = Beekman | title=Epyx Software|work=The Commodore 64 Home Companion|year=1984|access-date=August 19, 2016|page=170-171}}</ref>
+
+==Legacy==
+In 1998, Randy Glover became aware of the many fans of ''Jumpman'' and started working on ''Jumpman II'', keeping a development diary at the now defunct jumpman2.com site. The last recorded diary entry was made in 2001.<ref>{{cite web |url=http://jlounge.classicgaming.gamespy.com/oldnews.html |title=OLD NEWS| archive-url=https://web.archive.org/web/20071220212208/http://jlounge.classicgaming.gamespy.com/oldnews.html |archive-date=20 December 2007 |access-date=23 September 2012}}</ref>
+
+In 2008, the original ''Jumpman'' was released on the [[Wii]]'s [[Virtual Console]].<ref>{{cite web |title=Jumpman |website=Nintendo UK |url=https://www.nintendo.co.uk/Games/Virtual-Console-Wii-/Jumpman--277699.html}}</ref>
+
+In 2014, Midnight Ryder Technologies shipped ''Jumpman Forever''<ref>[http://www.bizjournals.com/wichita/blog/techflash/2014/05/kickstarter-backed-jumpman-forever-ships-this-week.html Kickstarter-based Jumpman Forever Ships This Week] on Wichita Business Journal website</ref> for the OUYA micro-console, with planned releases for PC, Mac, iOS, and Android platforms.  Originally titled ''Jumpman: 2049'', the game is considered to be an official sequel based on rights given to Midnight Ryder Technologies <ref>[http://www.jumpmanforever.com/the-history-of-jumpman-and-jumpman-forever/ The History of Jumpman (and Jumpman Forever)] {{webarchive|url=https://web.archive.org/web/20140520003337/http://www.jumpmanforever.com/the-history-of-jumpman-and-jumpman-forever/ |date=2014-05-20 }} On JumpmanForever.com</ref> back in 2000 by Randy Glover.
+
+In 2018 ''Jumpman'' was re-released on [[Commodore_64#THEC64 and THEC64 Mini|THEC64 Mini]] as one of the 64 built in games.  A game called ''Jumpman 2'' was also on the machine, but in reality is just ''Jumpman Junior'' rebranded.
+
+=== Unofficial ports and fan remakes ===
+In 1991, ''[[Jumpman Lives!]]'' was released by [[3D Realms|Apogee Software]]. The game consists of four "episodes", each with twelve levels: the first is free, the rest for sale. The game contains levels from ''Jumpman'' and ''Jumpman Junior'', new levels, and a level editor. Apogee withdrew the game soon after release at the request of Epyx, who owned the rights to ''Jumpman'' at the time.<ref>{{cite web |url=http://jlounge.classicgaming.gamespy.com/dsinterview2.html |title=DAVE SHARPLESS INTERVIEW |archive-url=https://web.archive.org/web/20071210231850/http://jlounge.classicgaming.gamespy.com/dsinterview2.html |archive-date=10 December 2007 |access-date=3 June 2007}}</ref>
+
+In 1994, an unofficial MS-DOS port of ''Jumpman'', missing the level "Freeze", was released by Ingenieurbüro Franke.<ref>[http://www.icfs.de/english/jumpman.html Classic Jumpman<!-- Bot generated title -->]</ref>  An updated version which included Freeze was released in 2001.
+
+In 2003, ''The Jumpman Project'', an MS-DOS version of the game that can be run under [[Microsoft Windows]], was released.<ref>[http://www.oldskool.org/pc/jumpman The Jumpman Project]</ref>
+
+==See also==
+*''[[Miner 2049er]]'' (1982)
+*''[[Lode Runner]]'' (1983)
+*''[[Mr. Robot and His Robot Factory]]'' (1984)
+*''[[Ultimate Wizard]]'' (1984)
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+* {{cite AV media |people=Randy Glover, Kevin Savetz, Rob McMullen |date=12 May 2016 |title=ANTIC Interview 171 - Randy Glover, Jumpman | publisher=Antic Podcast |url=http://ataripodcast.libsyn.com/antic-interview-171-randy-glover-jumpman |ref=CITEREFGlover}}
+
+==External links==
+*{{atarimania|id=2713}}
+*{{lemon64 game|id=1394|name=Jumpman}}
+*{{Internet Archive game|Jumpman_1983_Epyx_US}}
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Epyx games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Platformers]]
+[[Category:Video games about bomb disposal]]
+[[Category:Video games about terrorism]]
+[[Category:Video games developed in the United States]]
+[[Category:Virtual Console games]]

@@ -1,0 +1,65 @@
+Sea Dragon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sea_Dragon_%28video_game%29&oldid=1224580188
+Accessed on: 2024-06-26T16:53:59.911881
+
+
+
+------
+Sea Dragon (video game)
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Sea Dragon
+|image = Sea_Dragon_Atari_8-bit_cover.png
+|caption = 
+|developer = 
+|publisher = [[Adventure International]]
+|released = '''1982:''' TRS-80, Apple, Atari<br>'''1983:''' CoCo, IBM PC<br>'''1984:''' C64
+|designer = Wayne Westmoreland<br>Terry Gilman<ref name=giantlist/>
+|programmer = '''TRS-80'''<br>Wayne Westmoreland<br>Terry Gilman<br>'''Apple II'''<br>John Anderson<ref name=giantlist/><br>'''Atari 8-bit'''<br>[[Russ Wetmore]]<ref name=giantlist/><br>'''Commodore 64'''<br>David H. Simmons<br>'''Tandy CoCo'''<br>Jim Hurd<br>'''IBM PC'''<br>Hervé Thouzard<br>
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[MS-DOS]], [[TRS-80]], [[TRS-80 Color Computer]]
+}}
+
+'''''Sea Dragon''''' is a horizontally [[scrolling shooter]] for the [[TRS-80]] computer written by Wayne Westmoreland and Terry Gilman and released in 1982 by [[Adventure International]]. The gameplay is similar to the ''[[Scramble (video game)|Scramble]]'' arcade video game, but underwater. It was ported to the [[Apple II]], [[Atari 8-bit computers]], [[Commodore 64]], [[TRS-80 Color Computer]], and [[MS-DOS]].
+
+In 1995, Wayne Westmoreland placed the game into the [[public domain]].<ref>[http://www.trs-80.org/games-by-wayne-westmoreland-and-terry-gilman/ games-by-wayne-westmoreland-and-terry-gilman]</ref> In January 2016 the [[source code]] for the Atari 8-bit version was released to the public and added to the [[Internet Archive]].<ref>[http://commodore.ninja/three-atari-8-bit-games-source-code-have-been-released/ Three Atari 8-bit games source code have been released] on commodore.ninja by Paulo Garcia (on Jan 5, 2016)</ref>
+
+==Gameplay==
+[[File:Sea_Dragon_2.0_Atari_8-bit_PAL_screenshot.png|thumb|left|The player's sub is heading toward a cave (Atari 8-bit).]]
+
+The player controls a submarine that can shoot torpedoes both forward and upward. The gameplay involves navigating "past underwater mountains and through labyrinthine passages while avoiding webs of explosive mines that rise from the sea bottom. Additional dangers include mine-dropping ships, enemy attack stations, falling stalactites, and deadly lasers—any of which could keep you from your ultimate goal: destruction of the incredibly powerful nuclear reactor at the end of the undersea course." (Adventure International catalog, 1982)
+
+===Speech===
+The Apple II version uses [[Speech synthesis|digitized]] voice that says "Sea Dragon!" When the user starts the game, he or she is told, "Good day, captain! Your ship's computer is now ready. Please wait while I initialize systems!", and during the game will be informed, "Air level critical!", "Checkpoint!", and "Approaching maximum damage!" The use of speech was a novelty, as the Apple II speaker is only able to emit a one-bit click. Programming ''Sea Dragon'' to play back an audio sample is a technical achievement shared with ''[[Castle Wolfenstein]]'' (1981), ''[[Dung Beetles (video game)|Dung Beetles]]'' (1982), ''Creepy Corridors'' (1982), and ''Plasmania'' (1982).
+
+The Color Computer version is the only other version that includes speech. It says "Welcome aboard, Captain!" on the title screen.
+
+==Reception==
+[[File:SeaDragonVideoGameTitleScreen.png|thumb|right|Atari 8-bit title screen]]
+Writing for ''[[Video (magazine)|Video]]'' magazine in 1983, Ivan Berger noted that ''Sea Dragon''{{'}}s graphics were dominated by "simple patterns and primary colors". This Berger contrasted with the "more subtle colors and shadings that go into professional animation", however Berger noted that while ''Sea Dragon'' was emblematic in this regard, the chromatic and graphical simplicity of the game was endemic to the home computer game medium.<ref>{{cite journal |last=Berger |first=Ivan |date= May 1983 |title= Computer Ease: Graphics–What to Expect and Why |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 2|pages= 24–25|issn= 0147-8907}}</ref>{{rp|24}}
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+*[http://www.trs-80.org/sea-dragon/ ''Sea Dragon''] at TRS-80.org
+*{{atarimania|id=4559}}
+*[https://www.youtube.com/watch?v=hPPiWBpAK2A Video TRS-80 gameplay]
+
+[[Category:1982 video games]]
+[[Category:Adventure International games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:DOS games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Public-domain software with source code]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set underwater]]
+[[Category:Submarines in fiction]]

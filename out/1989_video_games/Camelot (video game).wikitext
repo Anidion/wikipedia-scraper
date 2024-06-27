@@ -1,0 +1,55 @@
+Camelot (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Camelot_%28video_game%29&oldid=1218459515
+Accessed on: 2024-06-26T17:05:52.196656
+
+
+
+------
+Camelot (video game)
+{{dablink|This article is about the 1989 game for Acorn computers published by Superior Software. See also [[Conquests of Camelot: The Search for the Grail]], [[Quest for Camelot (video game)]] and [[Camelot (disambiguation)]] for other titles with similar names.}}
+{{Infobox video game
+| title = Camelot
+| image = Camelot cassette front cover (BBC-Electron).png
+| caption=Cassette cover
+| developer = Tony Oakden
+| publisher = [[Superior Software]]<br>[[Blue Ribbon (software house)|Blue Ribbon]]<br>[[Acornsoft]]
+| engine = 
+| released = 1989: ''Play it Again Sam 9'' compilation<br>1990: Standalone
+| genre = [[Platform game|Platform]], [[Action-adventure game|action-adventure]]
+| modes = [[Single-player]]
+| platforms = [[Acorn Electron]]<ref name="8bs-1"/><br />[[BBC Micro]]<ref name="gamespot-1">{{cite web|url=http://uk.gamespot.com/bbc/action/camelot/index.html|title=Camelot for BBC|accessdate=2010-10-10|publisher=[[GameSpot]]|quote=Superior Software Action Release: 1989|archive-url=https://archive.today/20130123233223/http://uk.gamespot.com/bbc/action/camelot/index.html|archive-date=2013-01-23|url-status=dead}}</ref>
+}}
+
+'''''Camelot''''' is a computer game written by Tony Oakden and published in the UK in 1989/90 for the [[BBC Micro]] and [[Acorn Electron]].  The game was first published by [[Superior Software]] and [[Acornsoft]] as part of the ''Play it Again Sam 9'' compilation in 1989 and was subsequently re-published as a standalone title in 1990 by [[Superior Software]] and [[Blue Ribbon (software house)|Blue Ribbon]].<ref name="8bs-1">{{cite web|url=http://8bs.com/elecgame/camelot.htm|title=CAMELOT|accessdate=2010-10-10|publisher=www.8bs.com|quote=Standalone Release(s): 1990: CAMELOT, Superior/Blue Ribbon, £2.99 Compilation Release(s): 1989: PLAY IT AGAIN SAM 9, Superior/Acornsoft, £9.95|archive-date=2013-01-16|archive-url=https://archive.today/20130116105624/http://8bs.com/elecgame/camelot.htm|url-status=live}}</ref><ref name="inlay-1">{{cite journal|year=1990|title = BBC/Electron cassette inlay|journal=Camelot|quote=You have been deposed from the throne of Camelot for mismanaging the kingdom.}}</ref>
+
+==Description==
+[[Image:Camelot in-game screenshot (BBC Micro).png|thumb|left|In-game screenshot (BBC Micro)]]
+The game is very similar to Oakden's previous game ''Quest'' which itself has some elements in common with an earlier BBC/Electron title, ''[[Citadel (video game)|Citadel]]''. ''Camelot'' is also a platform adventure game set in a large [[flip-screen]] castle and the player also has a set amount of energy which runs down when in contact with enemy sprites or hazards.<ref name="8bs-1"/><ref name="inlay-1"/>
+
+The backstory given in the cassette inlay indicates that the player (as the King) has been deposed from the throne for mismanaging the kingdom. To convince the people that the king deserves another chance to return to throne again, the player must fight their way through the castle and surrounding terrain, facing various enemies such as witches, warlocks and soldiers. To complete the quest, 3000 points are needed, which can be obtained by finding six bags of gold, scattered around the game. Each bag is worth 450 points, although the player can gain extra points by killing the enemy sprites.<ref name="8bs-1"/><ref name="inlay-1"/>
+
+The player has four-way directional controls, left, right, up and down (for climbing ladders) and there are also separate keys for jump, firing a fireball, picking up objects and using a spell book. Energy can be replenished by finding hearts hidden in caskets, although some caskets contain daemons instead, which drain the player's energy. The game does have a time limit, but extra time is gained by opening doors and solving puzzles, so the player must work out a logical sequence of puzzle-solving such that the clock does not run down to zero.<ref name="8bs-1"/><ref name="inlay-1"/>
+
+The game is considered quite challenging,<ref name="8bs-2"/> although a small program has been written by C.J. Richardson which enables [[PEEK and POKE|POKE]]s for various cheat modes such as infinite time and energy, big jumps and climb anywhere.<ref name="stairwaytohell-2">{{cite web|url=http://www.stairwaytohell.com/cheats/pokes/index.html?page=homepage|title=CAMELOT|accessdate=2010-10-10|publisher=www.stairwaytohell.com|quote=Version: BBC Description: Various pokes|first=C.J.|last=Richardson|archive-date=2023-11-10|archive-url=https://web.archive.org/web/20231110015906/http://www.stairwaytohell.com/cheats/pokes/index.html?page=homepage|url-status=live}}</ref>
+
+==Reception==
+In the ''[[Electron User]]'' review of the ''Play It Again Sam 9'' compilation, ''Camelot'' received a glowing review with main reviewer Jon Revis concluding "first rate graphics and difficult gameplay make ''Camelot'' a suitable challenge for even the most accomplished arcade adventurers" and in his second opinion, Roland Waddilove said "forget the other games - they can be considered freebies - the main attraction is ''Camelot''. I loved it".<ref name="electron user">[http://8bs.com/elecgame/play_it_again_sam_09.htm "Cool Hand Sam"] {{Webarchive|url=https://archive.today/20130116015420/http://8bs.com/elecgame/play_it_again_sam_09.htm |date=2013-01-16}}, Electron User, 6.11, August 1989</ref>
+
+Crispin Boylan's review of ''Camelot'' praises the graphics as "good" and the colours as "nice and bright" but also states that the game's plot is "a bit thin on the ground" and the animation is not really up the standard of contemporary titles. He also notes that the game has some "beeps" but that there is no in-game music.<ref name="8bs-2">{{cite web|url=http://www.8bs.com/reviews1.htm#Play%20It%20Again%20Sam%209%20Review%20By%20Crispin%20Boylan|title=Play It Again Sam 9 Review By Crispin Boylan (E4W)|accessdate=2010-10-10|publisher=www.8bs.com|quote=For one thing, it focuses a lot more on the Arcade side of the Adventure genre, really the thinking mans shoot-em-up to put it bluntly.|first=Crispin|last=Boylan|archive-date=2023-11-10|archive-url=https://web.archive.org/web/20231110015910/http://www.8bs.com/reviews1.htm#Play%20It%20Again%20Sam%209%20Review%20By%20Crispin%20Boylan|url-status=live}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Superior Software}}
+
+[[Category:1989 video games]]
+[[Category:Acornsoft games]]
+[[Category:Action-adventure games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Platformers]]
+[[Category:Single-player video games]]
+[[Category:Superior Software games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in castles]]
+[[Category:Blue Ribbon (software house) games]]

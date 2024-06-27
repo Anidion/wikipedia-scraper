@@ -1,0 +1,59 @@
+50 Mission Crush
+Permalink: //en.wikipedia.org/w/index.php?title=50_Mission_Crush&oldid=1231140410
+Accessed on: 2024-06-26T16:56:15.163582
+
+
+
+------
+50 Mission Crush
+{{Short description|1984 video game}}
+{{distinguish|text=the book by Donald R. Currier}}
+{{more footnotes needed|date=August 2012}}
+{{Infobox video game
+|title = 50 Mission Crush
+|image = 50 Mission Crush cover.jpg
+|caption =
+|developer = John Gray
+|publisher = [[Strategic Simulations]]
+|released = 1984
+|genre = [[Computer wargame]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[MS-DOS]]
+}}
+
+'''''50 Mission Crush''''' (sometimes '''''Fifty Mission Crush''''') is a turn-based strategy [[computer wargame]] published in 1984 by [[Strategic Simulations]] (SSI) that simulates the career of the crew of a [[B-17 Flying Fortress]] bomber during [[World War II]].  The bomber is based out of the [[RAF Thurleigh]] base just north of [[London]], and is part of the 8th Air Force. While most of SSI's games emphasized long-term strategic planning, ''50 Mission Crush'' was marketed explicitly for its quick, comparatively fast pace: each mission takes no more than about 10 minutes. SSI described it as a "role-playing game".<ref name="ssi catalog">{{Cite web |url=http://www.apple-collection.com/imageJeux/SSI.8511.jpg |title=1985 SSI Catalog |access-date=28 December 2006 |archive-date=7 July 2011 |archive-url=https://web.archive.org/web/20110707153428/http://www.apple-collection.com/imageJeux/SSI.8511.jpg |url-status=dead }}</ref>
+
+==Gameplay==
+[[File:FiftyMissionMap.png|thumb|left|Screenshot]]
+
+Each mission is self-contained, and the player does not have to worry about resupply or repairs in between missions. Every position on the plane (for example, [[tail gunner]], ball gunner, radio operator, and so on) is filled by a character named by the player who gains experience with each mission survived. The more missions a character survives, the more competent he becomes.
+
+Each mission requires that the player bomb a specific target from a specific altitude.  There is no strict time limit, but the amount of fuel the plane can carry is limited.  The player decides upon take off how much fuel to carry and whether to carry an extra-heavy load of bombs.  The player then moves the plane to the target using the number pad keys, and on each turn may ascend or descend in 5,000 foot increments.  When the bomber is over the target, the player is meant to wait until there is no cloud cover before dropping the bombs.  When the player is over an enemy target and there is no cloud cover, the enemy will typically fire [[flak]], which can damage the plane, injure or kill crewmen, or set the plane on fire.  The lower the bomber's altitude, the more intense the flak will be.  The bomber may also be strafed by enemy fighter planes, such as the [[Focke-Wulf Fw 190]], [[Messerschmitt Bf 109]], or [[Messerschmitt Bf 110]].
+
+==Name==
+The name ''50 Mission Crush'' is an allusion to a type of hat. The game manual states: {{quote|text=A "fifty mission crush" is an Army Air Corps, or Air Force, service cap that has the stiffening ring removed, and is worn crushed and battered. This cap is obviously out of uniform, however steeped in tradition. This tradition was started by the 8th Air force flying personnel as a mark that separates the fledgling from the battle hardened survivor of 25+ combat missions. This mangled cap was frowned upon, but tolerated for those who earned the right to wear it.}}
+
+Normally, this cap had stiffeners &ndash; a support piece behind the cap device and a wire around the inside top perimeter to maintain the cap's round shape. These kept the cap in its proper, regulation military shape and angle. However, since pilots wore headsets over their caps during flights, they would remove the wire stiffener to make headset wear more comfortable, causing the sides of the caps to become crushed. Eventually, the caps retained their floppy "crushed" look, giving the pilot who wore it the look of a seasoned veteran. The crush cap identified its wearer as an experienced pro, and was as much a part of his identity as his leather flight jacket.  Army regulations authorized wear of the service cap in this manner in the Army Air Forces, although ground Army officers hated that manner of wearing the cap.  Since most AAF general officers likewise wore the crushed caps, the ground Army could do nothing about it.  The wear of the "50 Mission" cap is prohibited in the current USAF, since headsets are no longer worn over headgear.
+
+==Reception==
+''[[Antic (magazine)|Antic]]'' in 1985 liked ''50 Mission Crush''{{'}}s detailed combat simulation, ease of use, and quick game play, but criticized the "very simple" graphics, slow speed, and overreliance on random events over skill.<ref name="wiegers198505">{{cite news | url=https://archive.org/stream/1985-05-anticmagazine/Antic_Vol_4-01_1985-05_New_Super_Ataris#page/n81/mode/2up | title=50 Mission Crush | work=Antic | date=May 1985 | access-date=8 January 2015 | author=Wiegers, Karl | pages=83}}</ref> The game's realism, however, impressed a former American B-24 bombardier for the [[Fifteenth Air Force]]. In a 1987 article for ''[[Computer Gaming World]]'' in which he recounted incidents from his World War II career that playing the game reminded him of, the author stated "it was all there: bomb load, ammo load, gas load, route out, fighter escort, flak at the target, cloud coverage, bombing accuracy, battle damage, fuel and ammo conservation, route back, more fighter encounters and finally, 'enough fuel to make it across the pond?' I was confronted with decisions, decisions!" The bombardier, shot down during his 50th mission, was killed in action during his seventh simulated mission.<ref name="newby198703">{{Cite magazine |url=http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=35 |title=50 Mission Crush: A 50 Mission Recall |last=Newby, Leroy W. "Ted" |date=March 1987 |magazine=Computer Gaming World |pages=20–21, 54}}</ref> A writer for the magazine, however, rated the game two of five points that year, calling it "realistic but dull, with little room for player abilities".<ref name="brooks198704">{{Cite magazine |url=http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=36 |title=Kilobyte Was Here! |last=Brooks, M. Evan |date=April 1987 |magazine=Computer Gaming World |pages=6}}</ref> A 1993 survey in the magazine of wargames gave the game one-plus stars out of five.<ref name="brooks199309">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=110 | title=Brooks' Book of Wargames: 1900-1950, A-P | magazine=Computer Gaming World | date=September 1993 | access-date=30 July 2014 | author=Brooks, M. Evan | pages=118}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{atarimania|id=1951}}
+*{{lemon64 game|id=26|name=50 Mission Crush}}
+*{{Internet Archive game|msdos_50_Mission_Crush_1984}}
+{{Use dmy dates|date=June 2017}}
+
+[[Category:1984 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Computer wargames]]
+[[Category:DOS games]]
+[[Category:Role-playing video games]]
+[[Category:Single-player video games]]
+[[Category:Strategic Simulations games]]
+[[Category:Video games developed in the United States]]

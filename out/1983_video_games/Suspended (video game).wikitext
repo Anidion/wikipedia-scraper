@@ -1,0 +1,100 @@
+Suspended (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Suspended_%28video_game%29&oldid=1224118578
+Accessed on: 2024-06-26T16:56:00.223714
+
+
+
+------
+Suspended (video game)
+{{Infobox video game
+|title     = Suspended: A Cryogenic Nightmare
+|image     = Suspended box art.jpg
+|caption   =
+|developer = [[Infocom]]
+|publisher = Infocom
+|designer = [[Michael Berlyn]]
+|engine = [[Z-machine|ZIL]]
+|released = Release 5: February 22, 1983
+Release 7: April 19, 1983<br/>
+Release 8: May 21, 1983<br/>
+Release 8: May 21, 1984
+|genre = [[Adventure game|Adventure]], [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[Commodore Plus/4|Plus/4]], [[IBM Personal Computer|IBM PC]], [[Mac (computer)|Mac]], [[TI-99/4A]], [[TRS-80]]
+}}
+
+'''''Suspended: A Cryogenic Nightmare''''' is an [[interactive fiction]] video game written by [[Michael Berlyn]] and published by [[Infocom]] in 1983. Infocom's sixth game, it was released for [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit computers]], [[Commodore 64]], [[Commodore Plus/4]], [[IBM PC compatible]]s (as a [[self-booting disk]]), [[TRS-80]], and [[TI-99/4A]]. It was later available for [[Mac (computer)|Mac]], [[Amiga]], and [[Atari ST]].<ref>{{Cite web |last=jbindeck2015 |date=2019-03-20 |title=50 Underrated Commodore Amiga Games |url=https://www.denofgeek.com/games/underrated-commodore-amiga-games/ |access-date=2022-11-12 |website=Den of Geek |language=en-US}}</ref>
+
+==Plot==
+
+The player's character has been embedded within a facility that controls vital systems, such as moving [[public transport]]ation belts and weather control, for an Earth-settled planet called Contra. During the player's five-hundred-year tenure, the player would normally be kept in [[stasis (fiction)|stasis]] while his sleeping mind serves as the Central Mentality for the largely self-maintaining systems. As the game opens, however, he is awakened by severe error messages; something is going wrong. The facility has suffered catastrophic damage from an [[earthquake]], and the Filtering Computers are shutting down or becoming dangerously unstable. The inhabitants of the city assume that the Central Mentality has gone insane and is purposely harming the city, as a previous CM had done. The player's task is to repair the damage and restore the systems to normal states before a crew arrives at the facility to "disconnect" his mind, killing him, to be replaced with a [[Human cloning|clone]].<ref>{{Cite web |date=2022-10-12 |title=Disconnection Policy |url=https://jeetwin1.in/disconnection-policy/ |access-date=2022-11-12}}</ref>
+
+==Gameplay==
+[[Image:Suspended on Commodore 64.gif|thumb|left|Start of the game (C64)]]
+[[File:Suspended-map.jpg|thumb|Game world (excerpt)]]
+
+Rather than being free to move about and interact with the game world directly, the player's character spends the entire game in a state of [[suspended animation]] (hence the title) and can only interact by controlling the actions of a number of [[robot]] surrogates. Each robot has its own unique strengths and weaknesses, and describes the same rooms and objects in completely different terms based upon those specializations. The robots are:
+
+#Iris - The only robot with visual sensors, Iris can provide visual descriptions of locations and objects. As the game begins, however, Iris has suffered a burnt-out [[integrated circuit|microchip]] and cannot see. Iris is confined to the area surrounding the Central Chamber.
+#Whiz - The most technical robot, Whiz is used mainly for interfacing with a central library computer for historical and technical information.
+#Waldo - The most capable physical manipulator, with several limbs for grasping and holding objects, Waldo perceives the world using [[sonar]]. (The term "[[Waldo (short story)|Waldo]]" was originally coined by [[Robert A. Heinlein]] to describe teleoperated robots.)
+#Auda - Auda is equipped with sensitive audio receptors and can provide information on sounds and vibrations.
+#Poet - A diagnostic robot, Poet can sense the flow of electricity; he tends to communicate in somewhat cryptic language.
+#Sensa - Sensa is specialized for the detection of magnetic and photon emissions.
+
+So, for example, Auda will describe a room primarily in terms of the sounds being generated there, Poet will describe it in terms of diagnostics of the equipment there (and phrase it in amusingly metaphorical language), and Iris will provide a visual description. All six of the robots can be given orders in conjunction, and some of the challenges the player faces require that several of the robots work together to solve them.
+
+There is a seventh robot, an all-purpose multifunction repair robot named Fred, who spends the entirety of the game broken and cannot be repaired.
+
+''Suspended'' has six ways to die.<ref name="nzt1984spring">{{Cite journal |date=Spring 1984 |title=Infocom Scoreboard |url=http://infodoc.plover.net/nzt/NZT3.2.pdf |journal=The New Zork Times |volume=3 |issue=2 |pages=3}}</ref>
+
+==Release==
+The cover of the original release was a three-dimensional moulded plastic mask, with cut-outs that revealed eyes printed on the game's manual. Reissues of the game had a more conventional cover. Each package included the following physical items:
+
+#A map of the facility and small tokens representing each robot. These were intended to allow the player to more easily keep track of each character's whereabouts in the somewhat confusing layout of the facility. Unlike most other text adventure games, the room descriptions of Suspended do not mention the directions of possible exits, which makes the map vital to playing.
+#''Briefing for the Contra Central Mentality'', a booklet that provides an overview of the facility, the robots, the computer system, and the player character's responsibilities
+#A letter from the Contra Central Lottery Commission Headquarters explaining that the player has been chosen to serve as Central Mentality for the next 500 years
+#A Contra Central Mentality Lottery Card
+
+==Reception==
+The game sold 99,956 copies.<ref name="infocom_sales">{{cite web |url=http://www.gamesetwatch.com/2008/09/great_scott_infocoms_alltime_s.php |title=Great Scott: Infocom's All-Time Sales Numbers Revealed |date=September 20, 2008 |work=GameSetWatch |publisher=Think Services |access-date=September 23, 2008 |url-status=live  |archive-url=https://web.archive.org/web/20080924074642/http://www.gamesetwatch.com/2008/09/great_scott_infocoms_alltime_s.php |archive-date=September 24, 2008}}</ref>
+
+''Suspended'' was well received by critics. ''[[Softline (magazine)|Softline]]'' praised the feelies as "continued breakthroughs in packaging and merchandising", and noted the game's replayability. The magazine concluded that "''Suspended'' represents another milestone in the continuing evolution of the interactive computer novel."<ref>{{cite journal | last=Berlyn | first = Michael | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=11 | title=Suspended | journal=Softline | volume = 2 | issue = 5 | date=May–Jun 1983 | page=42 | access-date=28 July 2014}}</ref> ''[[Computer Gaming World]]'' considered each robot to have a unique personality, and praised the use of the library computer as an in-game hint system. The game's parser and time-saving techniques (such as a "follow" command) were similarly praised.<ref>{{cite magazine | last = Stone | first = David P. | url = http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=2&id=11 | title = SUSPENDED : Review | magazine = [[Computer Gaming World]] | volume = 3 | issue = 4 | date = July–August 1983 | pages = 10–11, 46 | access-date = 18 January 2017}}</ref> [[Brian Moriarty]] of ''[[ANALOG Computing]]'' also praised the robots' characterization, stating that "a few hours with these electronic personalities will make them your friends" and comparing the experience to that of "a fine novel". He concluded that ''Suspended'' and other Infocom products "are among the finest examples of a new and entertaining means of self-expression which can now be regarded as 'literature' without apology."<ref name="moriarty198307">{{Cite magazine |last=Moriarty |first=Brian |author-link=Brian Moriarty |date=July–August 1983 |title=SUSPENDED by Michael Berlyn |url=https://archive.org/stream/analog-computing-magazine-12#page/n65/mode/2up |magazine=ANALOG Computing |pages=64–65}}</ref> ''[[Ahoy!]]'' wrote that Berlyn "has lavished a good deal of complexity and eccentricity into his game. I recommend it."<ref name="sodaro198401">{{cite news | url=https://archive.org/stream/Ahoy_Issue_01_1984-01_Ion_International_US#page/n53/mode/2up | title=Suspended | work=Ahoy! | date=January 1984 | access-date=27 June 2014 | author=Sodaro, Robert J. | pages=54–55}}</ref> ''[[Compute!'s Gazette]]'' called ''Suspended'' "an exciting, imaginative adventure game that's likely to keep you glued to your keyboard for hours." Although it also noted how the "response time can be somewhat slow" and "some commands require as long as two or more minutes for a response." But the ''Compute!'' review concluded: "If the small inconvenience of a sometimes slow response does not bother you, then I can highly recommend Suspended."<ref name="Compute">{{cite news | url=https://archive.org/details/1984-02-computegazette | title=Suspended for Commodore 64 | work=Compute! Gazette | date=February 1984 | access-date=4 December 2013 | author=Carmichael, Dan | pages=108–116}}</ref> ''Hi-Res'' wrote that ''Suspended'' "is an excellent game" and "a worthy successor to the ''Zork'' series."<ref name="guber19840506">{{cite news | url=http://www.atarimagazines.com/hi-res/v1n4/reviews.php | title=M.U.L.E. | work=Hi-Res | date=May–June 1984 | access-date=22 December 2014 | author=Guber, Sol | pages=14}}</ref>
+
+The game received a Certificate of Merit in the category of "1984 Best Science Fiction/Fantasy Computer Game" at the 5th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|28}}
+
+Bill Wallace reviewed ''Suspended'' in ''[[Space Gamer]]'' No. 68.<ref name="SG">{{cite journal|last=Wallace |first=Bill |date=March–April 1984 |title=Capsule Reviews|journal=[[Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=68|pages=44}}</ref> Wallace commented that "If you do like text adventures - difficult ones - then this game is a must."<ref name="SG"/>
+
+In 1996, ''Computer Gaming World'' declared ''Suspended'' the 58th-best computer game ever released.<ref name=cgw150>{{cite magazine | author=Staff | title=150 Best (and 50 Worst) Games of All Time | magazine=[[Computer Gaming World]] | date=November 1996 | issue=148 | pages=63–65, 68, 72, 74, 76, 78, 80, 84, 88, 90, 94, 98 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{moby game|id=/suspended |name=''Suspended''}}
+* {{IFDB|id=t47hei9uq10xoar8|title=Suspended}}
+* [http://gallery.guetech.org/suspended/suspended.html Documentation and feelies]
+
+{{Infocom games}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1983 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:Fiction about suspended animation]]
+[[Category:Infocom games]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]
+[[Category:TI-99/4A games]]
+[[Category:Video games about cloning]]
+[[Category:Video games about mental health]]
+[[Category:Video games about robots]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the future]]
+[[Category:Video games set on fictional planets]]

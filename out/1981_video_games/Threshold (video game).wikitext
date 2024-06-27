@@ -1,0 +1,74 @@
+Threshold (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Threshold_%28video_game%29&oldid=1225473767
+Accessed on: 2024-06-26T16:52:43.904922
+
+
+
+------
+Threshold (video game)
+{{short description|1981 video game}}
+{{Infobox video game
+|title = Threshold
+|image = Threshold_1981_box_art.jpg
+|alt = Several fictional spaceships illustrated in front of several fictional planets. The word "Threshold" is printed at the top, and "SierraVision" is printed at the bottom.
+|caption = Box cover with a C64 sticker
+|developer = [[Sierra Entertainment|On-Line Systems]]
+|publisher = [[Sierra Entertainment|On-Line Systems]]<br>[[Tigervision]] (2600)<br>France Image Logiciel (Thomson)
+|designer = Warren Schwader
+|programmer = '''Apple II'''<br>Warren Schwader<br>[[Ken Williams (game developer)|Ken Williams]]<br>'''Atari 8-bit'''<br>[[Peter Oliphant]]<ref name=giantlist/>
+|released = '''1981:''' Apple, Atari, VIC<br>'''1982:''' 2600<br>'''1983:''' C64<br>'''1984:''' ColecoVision, Thomson
+|genre = [[Fixed shooter]]
+|modes =
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Atari 2600]], [[VIC-20]], [[Commodore 64]], [[ColecoVision]], [[Thomson computers|Thomson]]
+}}
+
+'''''Threshold''''' is a space-themed [[fixed shooter]] written by Warren Schwader and [[Ken Williams (game developer)|Ken Williams]] for the [[Apple II]] and published by [[Sierra Entertainment|On-Line Systems]] in 1981.<ref name=giantlist/> Inspired by [[Sega]]'s ''[[Astro Blaster]]'' arcade video game, ''Threshold'' introduces many enemy ship types and wave formations as the game progresses. Reviewers found the variety distinguished the game from the many similar shoot 'em ups.
+
+Ports to other systems were released on ROM cartridge: [[Atari 8-bit computers]] and [[VIC-20]] in 1981, [[Commodore 64]] in 1983, and [[ColecoVision]] and [[Thomson computers]] in 1984. An [[Atari 2600]] adaptation was published by [[Tigervision]] in 1982.<ref>{{cite web |title=Atari 2600 VCS Threshold |url=http://www.atarimania.com/game-atari-2600-vcs-threshold_16952.html |website=Atari Mania}}</ref>
+
+Schwader also wrote the 1983 Apple II platform game ''[[Sammy Lightfoot]]''.<ref name=giantlist/>
+
+==Gameplay==
+The player controls a spaceship, the ''Threshold'', using its laser weapon to destroy waves of alien attackers. When a wave is eliminated, another appears. As in ''[[Astro Blaster]]'', firing the laser increases its temperature, and it cools when not in use. If the temperature bar fills completely, then the weapon cannot be used until it fully cools. Once per ship, pulling back on the joystick activates a "warp drive" that briefly slows the action.<ref name=manual/>
+
+==Development==
+The game was inspired by Ken Williams playing an ''[[Astro Blaster]]'' arcade machine in a store and calling Warren Schwader. In an interview in ''[[Halcyon Days (book)|Halcyon Days]]'', Schwader said: {{quote|Instead of trying to duplicate the game in every detail, I set out to just take the concept and run with it–after first playing ''Astro Blaster'' for hours on end though. No matter how hard we tried, we never could get to the end of that game. There were always more new creatures to discover and that kept us coming back. We set out to provide the same experience for ''Threshold'' players.<ref name=halcyon/>}}
+
+It took two months to implement. Williams only worked on the project for two weeks of that time, writing the Apple II animation routines.<ref name=halcyon/>
+
+==Reception==
+''Threshold'' sold approximately 25,000 copies.<ref name=halcyon/> Tigervision's Atari 2600 port received a "Certificate of Merit" in the "Best Science Fiction/Fantasy Videogame" category of the 1983 Arcade Awards.<ref>{{cite journal |title=1983 Arcade Awards |journal=Electronic Games |date=January 1983 |volume=1 |issue=11 |page=23 |url=https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US/page/n21/mode/2up}}</ref>
+
+Reviewing the Apple II original for ''[[Creative Computing]]'', [[David Lubar]] wrote, "The animation in ''Threshold'' is superb", and he found the number of enemy types and waves to be a strong point.<ref name=lubar/> ''The Book of Atari Software 1983'' gave the Atari 8-bit port a B rating: "It's the usual scenario, with this exception: the game offers unusual depth and variety."<ref>{{cite book |title=The Book of Atari Software 1983 |date=1983 |publisher=The Book Company |page=91 |url=https://archive.org/details/book_atari_software_1983/page/n81/mode/2up}}</ref> They found they sometimes mistook the stars in the animated background as enemy bullets.  In ''[[Ahoy!]]'' magazine, R.J. Michaels led off his review with, "Only humor saves this game from being a run of the mill slide-and-shoot burn-the-alien-invaders game."<ref>{{cite magazine |magazine=Ahoy! |last1=Michaels |first=R.J. |issue=3 |date=March 1984 |page=65 |title=Reviews: Threshold |
+url=https://archive.org/details/ahoy-magazine-03/page/n63/mode/2up}}</ref>
+
+Appraising the Atari 8-bit computer version, ''[[Electronic Games]]'' noticed the ''Astro Blaster'' connection and wrote "The graphics in ''Threshold'' are tremendous."<ref>{{cite journal |last1=Goldstein |first1=Leigh |title=Computer Gaming: Threshold |journal=Electronic Games |date=November 1982 |volume=1 |issue=9 |page=79 |url=http://www.digitpress.com/library/magazines/electronic_games/electronic_games_nov82.pdf}}</ref>  The reviewer disliked the loading that occurs every so often between levels and found the game overall too difficult.
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web |title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first=James}}</ref>
+<ref name=lubar>{{cite journal |last1=Lubar |first1=David |title=Let the Games Begin |journal=Creative Computing |date=April 1982 |volume=8 |issue=4 |page=56 |url=https://archive.org/details/creativecomputing-1982-04-a/page/n57/mode/2up}}</ref>
+<ref name=halcyon>{{cite book |title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers |date=1997 |url=https://dadgum.com/halcyon/BOOK/SCHWADER.HTM}}</ref>
+<ref name=manual>{{cite web |title=Threshold Manual (Atari computer version) |url=https://archive.org/details/agm_Threshold |website=archive.org}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=5355}}
+*[http://gb64.com/game.php?id=7893&d=18&h=0 ''Threshold''] at Gamebase 64
+*[https://archive.org/details/1982-08-anticmagazine/page/n49/mode/2up Review] in ''[[Antic (magazine)|Antic]]''
+*[https://archive.org/details/softalkv2n04dec1981/page/114/mode/2up Review] in ''[[Softalk]]''
+*[https://archive.org/details/creativecomputing-1982-08/page/n43/mode/2up Review] in ''[[Creative Computing]]''
+*[https://archive.org/details/Creative_Computing_1984-09/page/n115/mode/2up Review] in ''[[Creative Computing]]''
+
+[[Category:1981 video games]]
+[[Category:Video games about alien invasions]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 2600 games]]
+[[Category:VIC-20 games]]
+[[Category:Commodore 64 games]]
+[[Category:ColecoVision games]]
+[[Category:Fixed shooters]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Tigervision games]]

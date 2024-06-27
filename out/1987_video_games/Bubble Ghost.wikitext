@@ -1,0 +1,129 @@
+Bubble Ghost
+Permalink: //en.wikipedia.org/w/index.php?title=Bubble_Ghost&oldid=1229303309
+Accessed on: 2024-06-26T17:01:46.288590
+
+
+
+------
+Bubble Ghost
+{{Short description|1987 video game}}
+{{multiple issues|
+{{original research|date=May 2011}}
+{{Lead too short|date=February 2022}}
+}}
+{{Infobox video game
+| title = Bubble Ghost
+| image = Bubble Ghost Coverart.png
+| caption = North American cover art
+| developer = [[ERE Informatique]]<br>Opera House (Game Boy)
+| publisher = {{vgrelease|EU|[[Infogrames]]|NA|[[Accolade (company)|Accolade]]}}'''Game Boy'''{{vgrelease|EU|[[Fujisankei Communications International|FCI]]|NA|FCI|JP|[[Pony Canyon]]}}
+| composer = [[Hitoshi Sakimoto]]
+| engine = <!--wikidata override-->
+| released = {{collapsible list|title=1987|titlestyle=font-weight:normal;font-size:13px;background:transparent;text-align:left|'''Atari ST'''{{vgrelease|EU|1987|NA|1988}}'''Amiga, C64'''{{vgrelease|EU|1988|NA|1988}}'''DOS, Apple IIGS'''{{vgrelease|NA|1988}}'''Amstrad CPC'''{{vgrelease|EU|1988}}'''Game Boy'''{{vgrelease|NA|November 1990|JP|December 21, 1990|EU|1992}}'''Windows'''{{vgrelease|WW|February 8, 2018}}}}
+| genre = [[Action video game|Action]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[Amiga]], [[Amstrad CPC]], [[Apple IIGS]], [[Atari ST]], [[Commodore 64]], [[DOS]], [[Game Boy]], [[SAM Coupé]], [[Microsoft Windows|Windows]]
+| director = Christophe Andréani
+}}
+
+'''''Bubble Ghost''''' is an [[action video game]] created by Christophe Andréani for the [[Atari ST]] in 1987. The player controls a ghost who by blowing guides a floating bubble throughout a number of halls in a haunted house, while avoiding obstacles that can make the bubble pop.
+
+==Gameplay==
+[[File:Bubble ghost st hall04.gif|left|227x227px]]
+The objective is to guide a bubble throughout a number of halls in a [[haunted house]]. If the bubble hits any walls or obstacles, then it will pop and the player loses a life. Obstacles include lit candles, electricity and fans. These can be all controlled by the ghost, who can wander around the level freely and blow at things - such as the bubble to add speed, the candle to put out the flame, or switches to turn them on or off.
+
+The ghost is controlled using the mouse. A press on the left button of the mouse makes the ghost rotate to the left. A press on the right button of the mouse makes the ghost rotate to the right. A press on a keyboard key (Shift) makes the ghost blow.
+
+The game is made of 35 halls (levels). Each time the player makes the bubble exit a hall, he wins 1000 points + left bonus. Action on animation may add 5000 points to the player. The bonus is re-initialized at every new hall. A new bubble is added to the player account each time the bubble exits towards the top of the hall.
+
+==Ports==
+The original ''Bubble Ghost'' was created by Christophe Andréani (design, programming) on an [[Atari ST]] computer. The game has been adapted for other computers throughout the world.
+
+Some years later, [[ERE Informatique]] was bought by [[Infogrames]]. Infogrames published a new version of ''Bubble Ghost'' with updated graphics, ''Bubble +'' (''Bubble Plus'').
+
+A [[Game Boy]] version was published in 1990. It was the first French game adapted for the Game Boy,{{Citation needed|date=May 2011}} and one of the earliest games whose music was written by [[Hitoshi Sakimoto]].
+
+==Development==
+{{Unreferenced section|date=October 2018}}
+
+The game was programmed in [[C (programming language)|C]] (editor and compiler: [[Megamax C]]) and 68000 [[assembly language]] on an [[Atari ST|Atari 1040 ST]] computer. The graphics were made with the [[DEGAS (software)|Degas Elite]] drawing software. The digital sound of the introductory page of the game ("Welcome to Bubble Ghost") was built using ST Replay. This is the author's voice. The other sound effects use the synthesizer inside the [[Atari ST]].
+
+Here are some notes from the author when creating the game:
+<gallery>
+Image:Bubble ghost doc01.jpg|Bubble Ghost, levels order
+Image:Bubble ghost doc02.jpg|Bubble Ghost, hall#9 design
+Image:Bubble ghost doc03.jpg|Bubble Ghost, ghost and bubble animation
+Image:Bubble ghost doc04.jpg|Bubble Ghost, game technical notes
+</gallery>
+
+==Reception==
+{{Video game reviews
+| GamePro = GB: 15/25<ref>{{cite magazine |url=https://retrocdn.net/images/9/90/GamePro_US_017.pdf |title=Game Boy ProView: ''Bubble Ghost'' |author=Andromeda |magazine=[[GamePro]] |date=December 1990 |page=144}}</ref>
+| JXV = 14/20<ref>{{Cite web |date=2012-10-18 |title=Test du jeu Bubble Ghost sur GB |url=https://www.jeuxvideo.com/articles/0001/00017861-bubble-ghost-test.htm |access-date=2024-01-24 |website=[[Jeuxvideo.com]] |language=fr}}</ref>
+}}
+The following French magazines have published ''Bubble Ghost'' reviews:
+*SVM Science et Vie Micro #45, December 1987 (Atari ST version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=48&num=2237&images=oui Download magazine]
+*ST Magazine #14, November/December 1987 (Atari ST version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=6&num=815&images=oui Download magazine]
+*Micro News #6, November/December 1987 (Atari ST version)
+*Le Tatou #10, December 1987 (Atari ST version)
+*1ST (FirST) #4, December 1987 (Atari ST version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=4&num=1142&images=oui Download magazine]
+*Jeux et Stratégie #48, December 1987 (Atari ST version)<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-48/page/82/mode/2up | title=Jeux & stratégie 48 | date=December 1987 }}</ref>
+*Génération 4 #2, December 1987 (Atari ST version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=27&num=389&images=oui Download magazine]
+*Amstrad Cent Pour Cent #1, February 1988 (Amstrad CPC version) [http://abandonware-magazines.org/affiche_mag.php?mag=23&num=178&album=oui Download magazine]
+*Génération 4 Hors série #2, oct/nov/dec 1990 (Game Boy version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=27&num=468&images=oui Download magazine]
+*Génération 4 #31, March 1991 (Game Boy version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=27&num=418&images=oui Download magazine]
+*Player One #18, March 1992 (Game Boy version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=32&num=1076&album=oui Download magazine]
+*Joypad #7, April 1992 (Game Boy version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=84&num=1776&album=oui Download magazine]
+*Consoles + #7, March 1992 (Game Boy version) [http://abandonware-magazines.org/affiche_mag.php?mag=51&num=7824&album=oui Download magazine]
+
+The following US magazines has published ''Bubble Ghost'' reviews:
+*VideoGames and Computer Entertainment, USA, April 1991 (Game Boy version)
+*Antic Vol.7 #7, November 1988 (Atari ST version) [http://www.atarimagazines.com/v7n7/STGamesGallery.html See review]
+*ST-Log Issue 24, October 1988 (Atari ST version) [http://www.atarimagazines.com/st-log/issue24/06_2_ST_NEWS_BUBBLE_GHOST_POPS_ONTO_THE_ST.php See review]
+*ST-Log Issue 26, December 1988 (Atari ST version) [http://www.atarimagazines.com/st-log/issue26/90_1_THE_ST_GAMESHELF_BUBBLE_GHOST.php See review]
+
+The following French magazines have published ''Bubble +'' (''Bubble Plus'') reviews:
+*Génération 4 #22, May 1990 (Atari ST and Amiga version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=27&num=409&images=oui Download magazine]
+*Micro News #35, May 1990 (Atari ST version) [http://www.abandonware-magazines.org/affiche_mag.php?mag=8&num=1030&images=oui Download magazine]
+
+== Posterity ==
+* Book - [[Corey Sandler, Tom Badgett]], ''[[Ultimate Unauthorized Nintendo Game Boy Strategies]]'', Bantam Books, 1991, {{ISBN|0553354833}}. The Game Boy version of the Bubble Ghost game is cited on page 49.
+* Book - [[Anna Anthropy, Naomi Clark]], ''[[A Game Design Vocabulary, Exploring the Foundational Principles Behind Good Game Design]]'', Pearson Education, february 2014, {{ISBN|9780133155211}}. The Atari ST version of the Bubble Ghost game is cited on page 28.
+* Book - [[Julien Mailland, Kevin Driscoll]], ''[[Minitel, Welcome to the Internet]]'', MIT Press, june 2017, {{ISBN|9780262537759 }}. The Atari ST version of the Bubble Ghost game is cited on page 145.
+* Book - [[Brett Weiss]], ''[[Classic Home Video Games, 1989-1990]]'', McFarland Incorporated Publishers, july 2018, {{ISBN|9780786492312}}. The Game Boy version of the Bubble Ghost game is cited on page 300.
+* Book - [[Florent Gorges]], ''[[L'Histoire de Nintendo]]'', Omaké books, {{abbr|coll.|collection}} « Volume 4, 1989-1999 L'incroyable  histoire de la Game Boy», march 2019, {{ISBN|978-2-919603-66-4}}. The Game Boy version of the Bubble Ghost game is cited on page 199.
+* Book - [[Jamie Lendino]], ''[[Faster Than Light, The Atari ST and the 16-Bit Revolution]]'', Steel Gear Press, june 2019, {{ISBN|9781732355217}}. The Atari ST version of the Bubble Ghost game is cited on page 171.
+* Video - Rétro Découverte, novembre 2021, with the interview with Christophe Andréani.<ref>#50 DES TENDANCES DES JEUX VIDÉO
+Bubble Ghost - Rétro Découverte, Youtube : "Retour sur une pépite oubliée de la GameBoy : Bubble Ghost !"</ref>
+* Book - [[Jamie Lendino]], ''[[Starflight, How the PC and DOS Exploded Computer Gaming 1987-1994]]'', Steel Gear Press, 2022, {{ISBN|9781957932019}}. The Atari ST version of the Bubble Ghost game is cited on page 112.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.mobygames.com/game/bubble-ghost ''Bubble Ghost''] at [[MobyGames]]
+*{{atarimania|id=8825}}
+*{{abime|id=226}}
+*{{lemon64 game|id=379|name=Bubble Ghost}}
+*[https://web.archive.org/web/20160308161348/http://www.andreani.net/ Christophe Andréani's website]
+*[https://www.youtube.com/watch?v=aBCHnPMx2Dg Retro Decouverte author's interview]
+
+[[Category:1987 video games]]
+[[Category:Accolade (company) games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple IIGS games]]
+[[Category:Assembly language software]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Fujisankei Communications International games]]
+[[Category:Game Boy games]]
+[[Category:Infogrames games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Piko Interactive games]]
+[[Category:Pony Canyon games]]
+[[Category:Video games about ghosts]]
+[[Category:Video games developed in France]]
+[[Category:Video games scored by Hitoshi Sakimoto]]
+[[Category:Windows games]]

@@ -1,0 +1,76 @@
+Peter Pack Rat
+Permalink: //en.wikipedia.org/w/index.php?title=Peter_Pack_Rat&oldid=1230772579
+Accessed on: 2024-06-26T16:58:56.607508
+
+
+
+------
+Peter Pack Rat
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = Peter Pack Rat
+|image = Peter Pack Rat Cover.jpg
+|developer = [[Atari Games]] (arcade)<br>[[Software Creations (UK)|Software Creations]]
+|publisher = Atari Games (arcade)<br>[[Silverbird Software]]
+|designer = Peter Thompson
+|programmer = Peter Thompson
+|artist = Debbie Hayes
+|composer = [[Brad Fuller (composer)|Brad Fuller]]
+|released = '''Arcade'''<br />July 1985<ref name=history>{{cite web |url=http://mcurrent.name/atarihistory/at_games.html |title=A History of AT Games / Atari Games / Midway Games West |publisher=Atari History |author=Current, Michael D. |accessdate=April 30, 2014}}</ref><br />'''C64, CPC, ZX'''<br />1989
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Arcade game|Arcade]], [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]]
+|arcade system = [[Atari System|Atari System 1]]
+}}
+
+'''''Peter Pack Rat''''' is a 1985 [[platform game]] developed and released by [[Atari Games]] for the [[Atari System|Atari System 1]] arcade hardware. It was programmed by Peter Thompson, with graphics by Debbie Hayes and music by Brad Fuller. The game was only produced in small quantities, either as a standalone cabinet or as an upgrade kit to existing ones<ref name=AH>{{cite web|url=http://www.arcade-history.com/index.php?page=detail&id=1955|title=Peter Packrat at Arcade-History.com|accessdate=2007-12-06}}</ref> (Atari part no. 136028).<ref>{{cite web|url=http://www.sharp-software.com/atariparts.htm|title=Atari Part Numbers|accessdate=2007-12-06 |archiveurl = https://web.archive.org/web/20060715040439/http://www.sharp-software.com/atariparts.htm |archivedate = July 15, 2006}}</ref>
+
+==Gameplay==
+''Peter Pack Rat'' is a [[platform game]] where the player controls Peter, a [[pack rat]], who must gather objects such as bottles, cans, or wrenches and take them back to the starting point to complete each level. The game features three unique stages that repeat in a fixed cycle - a junkyard, a sewer, and a large tree - with the layout, number of enemies, and number of required objects changing each time. A group of enemies known as "The Gang" serve as the main obstacles, and include Riff Rat and the Rats of Flatbush, Clawd the [[cat]], Scrapper the [[bulldog]], Sticky the [[spider]], Slugger the [[bat]], Big Al the [[alligator]], Diamond Jim the [[snake]], and Nite [[Owl]]. Peter can pick up and throw additional items to stun enemies, also allowing him the ability to ride some of them about the stage. Points are awarded based on the amount of time remaining when all items are collected and the number of enemies stunned.<ref>{{cite book |title=Peter Pack Rat arcade flyer |url=http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=780&image=2 |page=2 |publisher=Atari Games |year=1985}}</ref>
+
+The game has four difficulty levels that can be selected before gameplay - Easy, Medium, Hard, and Good Luck - that change the starting level. Jeff Peters holds the official high score with 910,875 points achieved at the Camelot Arcade in [[Anaheim, California]] on March 20, 1986.<ref>{{cite web |url=http://www.twingalaxies.com/scores.php?scores=3363 |title=Score of Points - Peter Packrat |publisher=Official Twin Galaxies Score Database |accessdate=May 1, 2014}}</ref>
+
+==Development==
+''Peter Pack Rat'' was developed by the North American-based [[Atari Games]], and it was designed and programmed by Peter Thompson with graphics and animations by Debbie Hayes (who previously worked as an animator on ''[[Watership Down (film)|Watership Down]]'', ''[[American Pop]]'' and ''[[Fire and Ice (1983 film)|Fire and Ice]]''). Despite there being a 1984 [[copyright]] imprint in the game itself, an official copyright claim was not filed for the title until 1985,<ref name=copyright>{{cite web |url=http://www.copyrightencyclopedia.com/escape-from-the-planet-of-the-robot-monsters-peter-pack-rat/ |title=Escape from the planet of the robot monsters, Peter Pack Rat, Paperboy |publisher=Copyright Encyclopedia |accessdate=April 30, 2014}}</ref> with the game's release being in July of that year.<ref name=history /> It was developed for the [[Atari System|Atari System 1]] upgradable arcade hardware,<ref name=history /> and it uses the same audio and coding processing [[subroutine]]s as ''[[Marble Madness]]'', also released for the platform.<ref name=copyright /> The game was field tested at Merlin's Castle arcade in [[San Jose, California]] for bug-checking and refinements before its widespread release.<ref>{{cite web |archiveurl=https://web.archive.org/web/20080513030818/http://www.wilwheaton.net/2006/01/peter_packrat.php|archivedate=May 13, 2008|url=http://www.wilwheaton.net/2006/01/peter_packrat.php |title=peter packrat |publisher=Wil Wheaton dot Net |author=Wheaton, Wil |author-link=Wil Wheaton |date=January 25, 2006 |accessdate=April 30, 2014}}</ref>
+
+Brad Fuller composed the music for the original arcade version, which used a main [[MOS Technology 6502|6502A]] sound processor and secondary [[Yamaha YM2151|YM2151]] processor for FM stereo.<ref name=spec>{{cite web |url=http://www.arcade-museum.com/game_detail.php?game_id=8998 |title=Peter Pack Rat - Videogame by Atari Games |publisher=Killer List of Video Games |accessdate=May 1, 2014}}</ref> Music from the arcade release was included on the ''That's Atari Music -G.S.M. Atari Games 1-'' compilation album originally released in July 1991.<ref>{{cite web |url=http://vgmdb.net/album/735 |publisher=VGMdb |accessdate=April 30, 2014 |title=PCCB-00066 / That's Atari Music -G.S.M. Atari Games 1-}}</ref> While the first print of the album by [[Pony Canyon]] only included the three primary stage themes and a sound effect track, the second release in December 2003 by [[Scitron]] provided separate tracks for all of the game's individual jingles and short loops.<ref>{{cite web |url=http://vgmdb.net/album/3439 |title=SCDC-00313 / That's Atari Music -G.S.M. Atari Games 1- |publisher=VGMdb |accessdate=April 30, 2014}}</ref>
+
+==Ports==
+Home versions for the [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]] were developed by [[Software Creations (UK)|Software Creations]] and released in early 1989 by [[Telecomsoft|Silverbird Software]]. An additional port for the Japanese [[TurboGrafx-16|PC Engine]] was also planned, even appearing in a May 1992 issue of ''PC Engine Fan'' magazine, but was eventually cancelled.<ref>{{cite web |url=http://www.pcengine.co.uk/HTML_Games/Peter_Pack_Rat.htm |title=Peter Pack Rat |publisher=The PC Engine Software Bible |accessdate=May 30, 2014}}</ref> [[Tim Follin]] of Software Creations provided theme arrangements for the Commodore 64 version.<ref>{{cite web |url=http://vgmdb.net/album/5765 |title=CZCD 007 / The Best Of Tim Follin |publisher=VGMdb |accessdate=April 30, 2014}}</ref>
+
+==Reception==
+{{Video game reviews
+| AAction = 58% (CPC)<ref>{{cite journal |journal=Amstrad Action |url=https://archive.org/stream/amstrad-action-041/Amstrad_Action_041#page/n51/mode/2up |title=Action Test: Peter Pack Rat |publisher=Future plc. |author=Barret, Gary |date=February 1989 |issue=41 |page=53}}</ref>
+| CRASH = 85% (ZX)<ref>{{cite journal |url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue63/Pages/Crash6300083.jpg |title=Budget Bureau: Peter Pack Rat |date=April 1989 |issue=63 |page=82 |journal=Crash |publisher=Newsfield Publications}}</ref>
+| SUser = 83% (ZX)<ref>{{cite journal |url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue088/Pages/SinclairUser08800040.jpg |title=Games Review: Peter Pack Rat |journal=Sinclair User |author=Dillon, Tony |date=July 1989 |page=40 |issue=88 |publisher=EMAP}}</ref>
+| rev1 = ''[[ACE (games magazine)|ACE]]''
+| rev1Score = 695 / 1000 (C64/ZX/CPC)<ref>{{cite journal |url=http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue17/Pages/ACE1700071.jpg |journal=ACE |issue=17 |pages=70–71 |title=Screen Test: Budget: Peter Pack Rat |publisher=Future plc |date=February 1989}}</ref>
+| rev2 = ''[[Zzap!64]]''
+| rev2Score = 76% (C64)<ref>{{cite journal |url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=047&page=063&thumbstart=0&magazine=zzap |title=The Budget Bit!: Peter Packrat |author=Hamza, Kati |date=March 1989 |issue=47 |journal=Zzap!64 |publisher=Newsfield Publications |page=63}}</ref>
+}}
+
+{{clear}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*{{KLOV game|id=8998|name=Peter Pack Rat}}
+*[http://www.arcade-history.com/?page=detail&id=1955 ''Peter Pack Rat''] at the Arcade History database
+
+{{Atari Games}}
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Cancelled TurboGrafx-16 games]]
+[[Category:Commodore 64 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Platformers]]
+[[Category:Software Creations games]]
+[[Category:Video games about mice and rats]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Brad Fuller]]
+[[Category:Video games scored by Tim Follin]]
+[[Category:ZX Spectrum games]]

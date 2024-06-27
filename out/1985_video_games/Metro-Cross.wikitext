@@ -1,0 +1,77 @@
+Metro-Cross
+Permalink: //en.wikipedia.org/w/index.php?title=Metro-Cross&oldid=1189664877
+Accessed on: 2024-06-26T16:58:48.889349
+
+
+
+------
+Metro-Cross
+{{more citations needed|date=June 2008}}
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = Metro-Cross
+|image = File:Metrocross arcadeflyer.png
+|caption = Advertising flyer
+|developer = [[Namco]]
+|publisher = {{vgrelease|JP|Namco|EU|Kitkorp}}
+|designer = Tatsuro Okamoto
+|composer = Nobuyuki Ohnogi
+|released = {{vgrelease|JP|February 17, 1985<ref name="Copyright">{{cite web |title=Metro-Cross. (Registration Number PA0001354017) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=15 June 2021}}</ref>|NA|1985|EU|1985}}
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player]], [[multiplayer]]
+|arcade system = [[Namco Pac-Land]]
+|platforms = [[Arcade game|Arcade]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[Family Computer]], [[ZX Spectrum]]
+}}
+{{nihongo foot|'''''Metro-Cross'''''|メトロクロス|Metoro Kurosu|lead=yes|group=lower-alpha}} is a [[platform game]] released in arcades by [[Namco]] in 1985. It was ported to the [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[Family Computer]], and [[ZX Spectrum]].
+
+''Metro-Cross'' runs on [[Namco Pac-Land]] hardware, but with a video system modified to support a 2048-color [[palette (computing)|palette]] like that used in ''[[Dragon Buster]]''. It uses a [[Motorola 6809|Motorola M6809]] microprocessor, with a [[HD63701|Hitachi HD63701]] sub-microprocessor (both running at 1.536 [[Megahertz|MHz]]) and Namco 8-channel waveform [[Programmable sound generator|PSG]] for audio.
+
+==Gameplay==
+[[File:Metro-Cross screenshot.png|thumb|left|The player leaping over a hurdle]]
+[[File:Metro Cross Screenshot.png|thumb|left|Screenshot from the Commodore 64 version]]
+The player must take control of a man known only as Runner, who is given a time limit to run through each of the game's thirty-two rounds while avoiding obstacles and collecting drink cans. The actual running happens automatically: the job of the player is to avoid the obstacles and collect the cans by moving the Runner with the stick and adjusting his speed accordingly.
+
+If the Runner finishes the round within the time limit, the remaining time will be awarded to him as bonus points and he will proceed to the next round. Every fourth round is special, using the remaining time from the three previous ones as additional time. However, if the Runner has not finished the round by the time the time limit runs out, he will be electrocuted and the game will immediately be over.
+
+Obstacles along the way include Slip Zones which will slow the Runner down if he tries to cross over them, Pitfalls which will break under the Runner's weight and drop him into the holes beneath them, and Crackers which will launch the Runner up into the air and cause him to land on his back. Later rounds also feature Jumbo Tires that bounce towards the Runner, Walls that emerge from the ground before receding back into it, Cubes that move through particular columns of tiles, Mice that attempt to jump onto the Runner and slow him down, and Chess Knights and Kings that bounce from one tile to another.
+
+The rounds also feature Springboards, which can be used to propel the Runner forward at a great speed. Some rounds have a special layout of Springboards, where it is possible to use one Springboard to land directly on the second one. Some other rounds also feature Skateboards which will speed the Runner up and make him immune to Slip Zones. There are also two different types of drink cans; kicking them will either gain the player bonus points (from 100 to 5000) or speed the Runner up, but jumping on them will stop the timer for a few seconds.
+
+==Reception==
+''Game Machine'' listed ''Metro-Cross'' as being the ninth most popular arcade game of June 1985 in Japan.<ref>{{cite magazine |title=Game Machine's Best Hit Games 25 |magazine=Game Machine |issue=262 |publisher=Amusement Press |date=15 June 1985 |page=25 |lang=ja}}</ref>
+
+==Legacy==
+''Metro-Cross'' was re-released as part of ''[[Namco Museum]] Volume 5'' for [[PlayStation (console)|PlayStation]]<ref>{{cite magazine|first1=Stuart|last1=Levy|first2=Ed|last2=Semrad |title=PlayStation Expo '96-'97: Namco Steals the Show with Five New Arcade Conversions! |magazine=[[Electronic Gaming Monthly]]|issue=90|publisher=[[Ziff Davis]]|date=January 1997|page=110}}</ref> and ''[[Namco Museum Virtual Arcade]]'' for [[Xbox 360]] (renamed ''Retro-Cross'' in the [[Europe]]an and [[Australia]]n versions of ''Virtual Arcade'').
+
+A high definition sequel called ''[[Aero-Cross]]'' was being developed for the [[Xbox Live Arcade]] and [[PlayStation Network]] as part of the [[Namco Generations]] line until it was cancelled along with the Namco Generations brand itself being discontinued; multiple players would have been able to play simultaneously, similar to [[Konami]]'s ''[[Hyper Olympic]]'' games.
+
+A theme based on ''Metro-Cross'' is featured in ''[[Pac-Man 99]]'', as special DLC.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=8683}}
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Kitkorp games]]
+[[Category:Namco arcade games]]
+[[Category:Now Production games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in Japan]]
+[[Category:Virtual Console games]]
+[[Category:Virtual Console games for Wii U]]
+[[Category:ZX Spectrum games]]
+[[Category:Arcade Archives games]]
+[[Category:Hamster Corporation games]]
+[[Category:Multiplayer and single-player video games]]

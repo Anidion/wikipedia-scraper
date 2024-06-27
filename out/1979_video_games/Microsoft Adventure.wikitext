@@ -1,0 +1,54 @@
+Microsoft Adventure
+Permalink: //en.wikipedia.org/w/index.php?title=Microsoft_Adventure&oldid=1215639745
+Accessed on: 2024-06-26T16:51:18.719327
+
+
+
+------
+Microsoft Adventure
+{{short description|1979 computer game}}
+{{Infobox video game
+| title = Microsoft Adventure
+| image = Microsoft adventure.jpg
+| alt = 
+| caption = TRS-80/Apple II cover
+| developer = Softwin Associates
+| publisher = {{plainlist|
+*[[Microsoft|Microsoft Consumer Products]] (TRS, Apple)
+*[[IBM]] (IBM PC)}}
+| programmer = [[Gordon Letwin]]
+| series = 
+| engine = 
+| platforms = [[Apple II series|Apple II]], [[IBM Personal Computer|IBM PC]], [[TRS-80]]
+| released = '''1979:''' TRS-80, Apple II<br>'''1981:''' IBM PC
+| genre = [[Interactive fiction]]
+| modes = [[Single-player]]
+}}
+
+'''''Microsoft Adventure''''' is a 1979 [[interactive fiction]] game from [[Microsoft]], based on the [[PDP-10]] mainframe game ''[[Colossal Cave Adventure]]'', and released for the [[TRS-80]], [[Apple II series|Apple II]], and later for the [[IBM Personal Computer|IBM PC]].  It was programmed for the company by [[Gordon Letwin]] of Softwin Associates.<ref>{{cite journal |title=Microsoft Consumer Products Continuing the Microsoft Tradition |journal=[[Byte (magazine)|Byte]] |date=December 1979 |volume=4 |issue=12 |page=179 |quote=Only Microsoft offers Adventure complete, as originally written for the DEC PDP-10, now implemented on personal computers. The ultimate fantasy/logic game, Adventure allows you to explore the depths of the "Colossal Cave,' [...] Adventure fills an entire disk with everything you need for your exploration. Written by Gordon Letwin, of SOFTWIN, Associates. Adventure for the TRS-80 requires a single-disk, 32K system. For the Apple II" a single-disk, 32K system with either the standard disk or language card system. For just $29.95.}}</ref>
+
+==Gameplay==
+''Microsoft Adventure'' is a text game in which the player [[caving|explores caves]] and acquires [[treasure]], using one- or two-word commands to move or manipulate objects, and the game awards [[High score|points]] for successfully exploring areas and gathering treasure.<ref name="SG"/> It contains 130 rooms, 15 treasures, 40 useful objects and 12 problems to be solved. The progress of two games can be saved on a diskette.<ref>{{cite web|url=http://www-03.ibm.com/ibm/history/exhibits/pc25/pc25_fact.html |title=IBM Archives: Product fact sheet |publisher=03.ibm.com |date=1981-08-12 |accessdate=2012-01-29}}</ref> The game features most of the content as ''Colossal Cave Adventure'', along with a few locations unique to this version.
+
+==Release==
+Microsoft originally released ''Microsoft Adventure'' in 1979 for the TRS-80 and the Apple II under its new division, Microsoft Consumer Products. IBM later included ''Microsoft Adventure'' as the only game in the initial software releases for the [[IBM Personal Computer]],<ref name="SG"/> making it one of the first two games available for the new computer<ref name="lemmons198110">{{cite news | url=https://archive.org/stream/byte-magazine-1981-10/1981_10_BYTE_06-10_Local_Networks#page/n27/mode/2up | title=The IBM Personal Computer / First Impressions | work=BYTE | date=October 1981 | accessdate=19 October 2013 | author=Lemmons, Phil | page=36}}</ref> along with ''[[DONKEY.BAS]]'' (which was included in the operating system). It was released on a single-sided 5{{fraction|1|4}} inch disk, required 32K RAM, as a [[self-booting disk]]; it could not be opened from [[DOS]].
+
+==Reception==
+Carrington Dixon reviewed ''Microsoft Adventure'' in ''[[The Space Gamer]]'' No. 49.<ref name="SG">{{cite journal|last= Dixon |first= Carrington |date=March 1982 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=49|pages=34}}</ref> Dixon commented that "No game that exists on several different computers can fully demonstrate the potential of any one computer. Even so, your [money] buys many hours of cave exploring and treasure snatching. There is only one 'set-up' but that one is rich and complex enough to keep anyone busy for many games. I suspect that many people will come back to the one after some flashier games have been permanently set aside."<ref name="SG"/> ''[[PC Magazine]]'' also reviewed the game positively, writing, "This hoary old classic should be included in any player's collection of games for the IBM PC."<ref name="pcmagrev">{{cite journal |title=Adventure (Microsoft) |journal=[[PC Magazine]] |date=December 1982 |volume=1 |issue=8 |pages=179–180}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://archive.org/stream/Compute_s_Guide_to_Adventure_Games/Compute_s_Guide_to_Adventure_Games#page/n77/mode/2up Review] in [[Compute!]]'s Guide to Adventure Games
+
+[[Category:1979 video games]]
+[[Category:1970s interactive fiction]]
+[[Category:Adventure games]]
+[[Category:Apple II games]]
+[[Category:IBM software]]
+[[Category:Microsoft games]]
+[[Category:Single-player video games]]
+[[Category:TRS-80 games]]
+[[Category:Video game remakes]]
+[[Category:Video games developed in the United States]]

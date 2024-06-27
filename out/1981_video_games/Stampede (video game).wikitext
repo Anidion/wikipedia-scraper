@@ -1,0 +1,63 @@
+Stampede (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Stampede_%28video_game%29&oldid=1179828492
+Accessed on: 2024-06-26T16:52:39.316298
+
+
+
+------
+Stampede (video game)
+{{Short description|1981 video game}}
+{{Infobox video game 
+|title = Stampede
+|image = Stampede Coverart.png
+|developer = [[Activision]]
+|publisher = Activision
+|designer = [[Bob Whitehead]]<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+|released = '''1981:''' 2600<br>'''1982:''' Intellivision
+|genre = [[Action game|Action]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 2600]], [[Intellivision]]
+}}
+'''''Stampede''''' is a [[video game]] written by [[Bob Whitehead]] for the [[Atari 2600|Atari Video Computer System]] (later called the Atari 2600) and published by [[Activision]] in 1981.<ref name="giantlist"/> ''Stampede'' is a left-to-right, horizontally-scrolling, [[action game]] with a cattle round-up theme. An [[Intellivision]] version was released the following year.
+
+== Gameplay ==
+[[File:Stampede-2600.png|thumb|left|Atari 2600 original]]
+An [[Activision]] catalog from 1982 advertised ''Stampede'' in the following way:
+{{blockquote|Ready for a little round up? With ''Stampede'' by Activision, you'll have to ride fast and rope even faster. Those little dogies seem to be everywhere, and they're all worth points. But, be careful! Your ol' horse can get a little edgy, especially when you take your eyes off the trail. So, head out West for hours of fun with ''Stampede''!''" <ref>[http://www.atariage.com/catalog_page.html?CatalogID=7&currentPage=2 Atari Age. "Catalog - Activision (AG-940-08)," (retrieved on March 17th, 2009)]</ref>}}
+
+The objective of ''Stampede'' is to round up all of the cattle without letting any pass by. To do so, the player must lasso each one in order to capture it. The player is initially only allowed to let two cattle pass; if a third one slips by, the game is over. All of the cattle run in the same direction as the player, albeit slower. The one exception is the Black Angus calf, which is described by the game as "stubborn", and remains motionless, forcing the player to prioritize the calf.
+
+An important caveat to this is that the player gets one extra free pass for every 1,000 points scored. So, if a player were at 2,000 points and had not yet let any cattle pass, the player would be allowed to let four cattle pass before the fifth one ended the game (assuming the player did not reach 3,000 points).
+
+This makes it possible for an expert player to repeatedly beat the game, as after about 5,000 points or so the game essentially "resets," and the same pattern is repeated. According to David Yancey, there is a bug which makes it so that the game will typically only allow the player to play in a loop for eight play throughs; apparently, however, there is a version of the game with a different binary which allows one to continue to accrue points until the score 99,999 is reached.<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211209/uBPmwTeoFLc Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20131005175908/http://www.youtube.com/watch?v=uBPmwTeoFLc&gl=US&hl=en Wayback Machine]{{cbignore}}: {{cite AV media| url = https://www.youtube.com/watch?v=uBPmwTeoFLc| title = Atari 2600 Stampede | website=[[YouTube]]}}{{cbignore}}</ref>
+
+==Reception==
+''Stampede'' was favorably reviewed in 1982 by ''[[Video (magazine)|Video]]'' magazine where it was described as a "thrilling representation of rope ridin'" boasting "charming visuals". The reviewers noted that although the game only utilized 2k of [[Read-only memory|ROM]], it demonstrated Activision's success in "marketing new and unusual games" and showed that "expanding memory isn't the only way to create solid, playable games".<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= April 1982 |title= Arcade Alley: Ropin', Ridin', and Skatin' with Activision |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 1|pages= 42–43|issn= 0147-8907}}</ref>{{rp|42}}
+
+Richard A. Edwards reviewed the Atari version of ''Stampede'' in ''[[The Space Gamer]]'' No. 53.<ref name="SG">{{cite journal|last=Edwards |first=Richard A. |date=July 1982 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=53|pages=35}}</ref> Edwards commented that "This is one of the best combined strategy and action games for the Atari system.  Go rope yourself a copy, pardners."<ref name="SG"/>
+
+In 1983, ''Video Games'' stated that the Intellivision version of ''Stampede'' was easier than the difficult Atari 2600 original with identical graphics.<ref name="wiswell198303">{{cite news | url=https://archive.org/stream/Video_Games_Volume_1_Number_06_1983-03_Pumpkin_Press_US#page/n67/mode/2up | title=New Games From Well-Known Names | work=Video Games | date=March 1983 | accessdate=26 May 2014 | author=Wiswell, Phil | pages=69}}</ref> [[Danny Goodman]] of ''[[Creative Computing (magazine)|Creative Computing]] Video & Arcade Games'' was surprised that the Intellivision version's graphics "were scarcely more detailed than their Atari ancestors".<ref name="goodman1983spring">{{Cite magazine |last=Goodman |first=Danny |author-link=Danny Goodman |date=Spring 1983 |title=Home Video Games: Video Games Update |url=http://www.atarimagazines.com/cva/v1n1/vgupdate.php |magazine=Creative Computing Video & Arcade Games |page=32}}</ref>
+
+==Reviews==
+*''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-28-1982-march/page/52/mode/2up | title=GAMES Magazine #28 | date=March 1982 }}</ref>
+*''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n53/mode/2up | title=GAMES Magazine #34 | date=December 1982 }}</ref>
+
+==See also==
+{{Portal|Video games}}
+*[[List of Atari 2600 games]]
+*[[List of Activision games: 1980–1999]]
+
+==References==
+{{reflist}}
+
+== External links ==
+*[https://www.atariage.com/software_page.php?SoftwareLabelID=489 ''Stampede''] at AtariAge
+
+[[Category:1981 video games]]
+[[Category:Action games]]
+[[Category:Activision games]]
+[[Category:Atari 2600 games]]
+[[Category:Video games about horses]]
+[[Category:Intellivision games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

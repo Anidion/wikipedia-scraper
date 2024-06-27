@@ -1,0 +1,84 @@
+Thanatos (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Thanatos_%28video_game%29&oldid=1221268102
+Accessed on: 2024-06-26T17:01:09.031117
+
+
+
+------
+Thanatos (video game)
+{{Infobox video game
+|title  = Thanatos
+|image = File:Thanatos_Commodore_64_Cover_Art.jpg
+|caption = Commodore 64 cover art
+|developer = [[Durell Software]]
+|publisher = Durell Software
+|designer = Mike Richardson
+|programmer = Rod Barrington
+|composer = Julian Breeze (original [[AY-3-8910]] song) <br> [[Rob Hubbard]] (Commodore 64 arrangement)
+|released = {{vgrelease|EU|1986}} '''ZX Spectrum'''<br>October 1986<br>'''Amstrad CPC'''<br> November 1986<br>'''Commodore 64'''<br>December 1986
+|genre = [[Action game]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]]
+}}
+'''''Thanatos''''' is an [[action game]] developed and published by [[Durell Software]] in 1986 for the [[ZX Spectrum]], [[Commodore 64]] and [[Amstrad CPC]].
+
+==Plot==
+The player adopts the role of a dragon, Thanatos the Destroyer, who must rescue a sorceress, Eros, from imprisonment by an evil Lord of the underworld. After she is recovered from the first castle, Thanatos must take her across the sea to find her spellbook, then carry her to a cauldron so she can complete a spell which will bring enlightenment to the land.
+
+==Gameplay==
+[[Image:ThanatosZX.png|thumb|left|A screenshot of the ZX Spectrum version of ''Thanatos'']]
+
+The [[player character]] Thanatos has two resources: Flame and Heart. Flame is expended by breathing fire. This attack is required to burn down the gate of the castle and may be used to burn foreground objects such as rocks, knights, horses, soldiers and different dangerous creatures (such as other dragons, huge spiders, and giant sea snakes). Flame may be recovered by eating witches, who may be found tied between stakes, though a knight could still ambush nearby. Heart is depleted as Thanatos is attacked by soldiers, knights, big creatures and rockfalls; this results in a quicker heartbeat and may finally cause an infarction. Heart is also spent when flying too fast for too long. Heart's level may be recovered by landing and walking slowly or staying still without being injured. Thanatos may also attack enemies by picking up an object in his claw and dropping them from a height; rocks and most enemies can be caught this way, even giant sea snakes. Thanatos opens his grasp when flying low - either ready to land or ready to catch something - and can catch an object if flying at a convenient height.
+
+Once Eros is rescued, she clings to Thanatos's neck, and rapidly turning may cause her to fall off. This is generally as well, for Thanatos can usually land near to wait for her climbing back; most of his enemies do not pay attention to her. But there are several special cases, which Thanatos should avoid at all costs: dropping Eros over the sea, for she would drown immediately; dropping Eros inside or even near a spider-infested cave, for she would be killed by a crawling spider, if Thanatos were not to land and take her away immediately; accidentally killing Eros himself, either by burning her (instant death) or catching her with the claw (the game will continue until the next landing, for there is no safe way to put an object back on the ground without crushing it). The player should not mistake her for a soldier, for she constantly waves her hands, drawing Thanatos' attention. If either of the two dies, the game ends, stating a reason why it is impossible to continue and complete it. The game ends in victory if the Thanatos carried Eros safely to her spellbook and then landed with her near the cauldron.
+
+==Development==
+''Thanatos'' was released in 1986; October 1986 for the ZX Spectrum, November 1986 for the Amstrad CPC, and December 1986 for the Commodore 64.<ref>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Thanatos Magazine Advertisement|date=December 1986|issue=35|page=142|publisher=Newsfield|issn=0954-8661|url=https://archive.org/details/crash-magazine-35/page/n141/mode/2up}}</ref>
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[Crash (magazine)|Crash]]''
+| rev1Score = 93% (Spectrum)<ref name=crash35/>
+| rev2 = ''[[Your Sinclair]]''
+| rev2Score =9/10 (Spectrum)<ref name=yoursinclair13 />
+| rev3 = ''[[Computer & Video Games]]''
+| rev3Score = 8/10 (Spectrum)<ref name=CVG64/>
+| rev4 = ''[[Sinclair User]]''
+| rev4Score = {{rating|4|5}} (Spectrum)<ref name=sinclairuser57/>
+| award1Pub = ''Crash''
+| award1 = Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 35, December 1986</ref>
+}}
+''Thanatos'' was critically acclaimed. The ZX Spectrum version was ''[[Popular Computing Weekly]]'''s "Pick of the Week",<ref name=compweek/> and received a "CRASH Smash" accolade from ''[[Crash (magazine)|Crash]]'',<ref name=crash35/> a "Megagame" award from ''[[Your Sinclair]]'',<ref name=yoursinclair13/> 4 out of 5 stars from ''[[Sinclair User]]'',<ref name=sinclairuser57/> and 8 out of 10 from ''[[Computer & Video Games]]''.<ref name=CVG64/>
+
+The size of the protagonist was highlighted in these reviews, the dragon sprite taking up a third of length of the display. On the animation of the dragon Jim Douglas commented that "the graphics really come into their own when you see the dragon flying over the landscape. The wings flap with superbly convincing swooshing sound effects, and the dragon waves his head around too."<ref name=sinclairuser57/> ''[[Crash (magazine)|Crash]]'' opined "the movement of the main dragon is very smooth and realistic"<ref name=crash35/> and ''C&VG'' found that Thanatos "is a big, nicely animated character who performs neat turns and landings on request."<ref name=CVG64/> The [[parallax scrolling]] background was also praised, as was the overall atmosphere and satisfaction of controlling a traditionally villainous creature. There were minor criticisms; ''Crash'' felt that ''Thanatos'' was "a little too hard"<ref name=crash35/> and ''PCW'' concluded "I'm not 100% sure that it would keep you hooked for weeks on end."<ref name=compweek/>
+
+==Further reading==
+*"The making of... ''Thanatos" in [[Retro Gamer]]'' 37
+
+==References==
+{{reflist|refs=
+<ref name=compweek>{{cite magazine|magazine=[[Popular Computing Weekly]]|issn=0265-0509|title=New Releases: Fantastic Adventure from Durell|date=October 1986|pages=44–45|volume=5|issue=43|url=https://archive.org/details/popular-computing-weekly-1986-10-23/page/n43/mode/2up|publisher=Sunshine Publications|first=John|last=Cook}}</ref>
+<ref name=crash35>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Thanatos|date=December 1986|issue=35|pages=152–153|publisher=Newsfield|issn=0954-8661|url=https://archive.org/details/crash-magazine-35/page/n151/mode/2up}}</ref>
+<ref name=yoursinclair13>{{cite magazine|magazine=[[Your Sinclair]]|title=Screen Shots: Thanatos|date=December 1986|issue=13|page=85|publisher=Sportscene Specialist Press|url=https://archive.org/details/your-sinclair-13/page/n85/mode/2up|issn=0269-6983|first=Phil|last=South}}</ref>
+<ref name=CVG64>{{cite magazine|magazine=[[Computer & Video Games]]|title=C+VG Reviews: Thanatos|issue=63|page=21|date=January 1987|issn=0261-3697|first=Tim|last=Metcalfe|url=https://archive.org/details/computer-video-games-magazine-063/page/n19/mode/2up}}</ref>
+<ref name=sinclairuser57>{{cite magazine|magazine=[[Sinclair User]]|title=Arcade Review: Thanatos|first=Jim|last=Douglas|issue=57|date=December 1986|publisher=EMAP Business & Computer Publications|url=https://archive.org/details/sinclair-user-magazine-057/page/n43/mode/2up|issn=0262-5458}}</ref>
+}}
+
+==External links==
+*[http://www.mobygames.com/game/thanatos ''Thanatos''] at [[MobyGames]]
+*{{WoS game|id=0005218|name=Thanatos}}
+
+[[Category:1986 video games]]
+[[Category:Action games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games about dragons]]
+[[Category:Fantasy video games]]
+[[Category:Single-player video games]]
+[[Category:Video games scored by Rob Hubbard]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games about witchcraft]]
+[[Category:ZX Spectrum games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Video games set in castles]]
+[[Category:Durell Software games]]

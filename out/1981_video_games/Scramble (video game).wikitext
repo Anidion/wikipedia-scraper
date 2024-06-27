@@ -1,0 +1,123 @@
+Scramble (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Scramble_%28video_game%29&oldid=1225073558
+Accessed on: 2024-06-26T16:52:34.668228
+
+
+
+------
+Scramble (video game)
+{{short description|1981 video game}}
+{{Infobox video game
+| title = Scramble
+| image = Scramble arcade flyer.jpg
+| caption = North American flyer
+| developer = [[Konami]]
+| publisher = '''Arcade'''{{vgrelease|JP|Konami/Leijac|NA|[[Stern (game company)|Stern]]}} '''Ports''' {{vgrelease|NA|GCE|EU|Compu-Games A/S}}{{vgrelease|EU|[[Milton Bradley]]}}
+| released = '''Arcade'''{{vgrelease|JP|March 1981<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=27 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n27}}</ref>|NA|March 17, 1981<ref name="stern_production_numbers"/><ref name="U.S. Court of Appeals Second Circuit Opinion">''[https://scholar.google.com/scholar_case?q=stern+electronics+inc+v+kaufman&hl=en&as_sdt=2,33&case=7204019639108685629&scilh=0 Stern Electronics, Inc. v. Kaufman]'', 669 F.2d 852 (2nd Cir. 1982)</ref>|EU|1981}}'''Vectrex'''{{vgrelease|NA|1982|EU|1983}}'''Tomy Tutor'''{{vgrelease|JP|1983|NA|1983}}
+| genre = [[Scrolling shooter]]
+| modes = [[Single-player]], [[multiplayer]]
+| platforms = [[Arcade video game|Arcade]], [[Tomy Tutor]], [[Vectrex]]
+| arcade system = [[Namco Galaxian#Konami Scramble|Konami Scramble]]
+}}
+
+{{nihongo|'''''Scramble'''''|スクランブル|Sukuranburu}} is a horizontally [[scrolling shooter]] [[arcade video game]] released in 1981. It was developed by [[Konami]] and manufactured and distributed by Leijac in [[Japan]] and [[Stern (game company)|Stern]] in [[North America]]. It was the first side-scrolling shooter with forced [[scrolling]] and multiple distinct [[Level (video gaming)|levels]],<ref name="lecture">[http://www.cse.ucsc.edu/classes/cmps080k/Winter07/lectures/shmups.pdf Game Genres: Shmups]{{Dead link|date=December 2018 |bot=InternetArchiveBot |fix-attempted=yes}}, Professor Jim Whitehead, January 29, 2007, Accessed June 17, 2008</ref> and it established the foundation for a new genre.
+
+It was Konami's first major worldwide hit. In the United States, it sold 15,136 [[arcade cabinet]]s within five months and became Stern's second best-selling game. ''Scramble'' was not ported to any major contemporary consoles or computers, but there were releases for the [[Tomy Tutor]] and [[Vectrex]] as well as dedicated tabletop/handheld versions. Unauthorized clones for the [[VIC-20]] and [[Commodore 64]] used the same name as the original. The [[BBC Micro]] clone was called Rocket Raid, marketed by Acornsoft from 1982 and primarily within the UK. Scramble's sequel, the more difficult ''[[Super Cobra]]'', was released later that year. ''[[Gradius (video game)|Gradius]]'' (1985) was originally intended to be a follow-up to ''Scramble''.
+
+==Gameplay==
+{{Unreferenced section|date=January 2018}}<!-- Deleted image removed: [[image:Scramble 2.png|thumb|left]] -->
+The player controls a futuristic [[aircraft]], referred to in the game as a jet, and has to guide it across scrolling terrain, battling obstacles along the way. The jet is armed with a forward-firing weapon and bombs; each weapon has its own button. The player must avoid colliding with the terrain and other enemies while simultaneously maintaining its limited fuel supply, which diminishes over time.<ref>{{Cite web|date=26 September 2019|title=Arcade Archives Scramble|url=https://www.nintendo.com/games/detail/arcade-archives-scramble-switch/|url-status=live|archive-url=https://web.archive.org/web/20200814120848/https://www.nintendo.com/games/detail/arcade-archives-scramble-switch/|archive-date=14 August 2020|access-date=22 October 2021|website=Nintendo}}</ref> More fuel can be acquired by destroying fuel tanks in the game.<ref>{{cite web | url=https://www.retrogamer.net/retro_games80/scramble/ | title=Scramble - Retro Gamer | date=16 February 2009}}</ref>
+
+The game is divided into six sections, each with a different style of terrain and various obstacles. There is no intermission between each section; the game seamlessly scrolls into the new terrain. Points are awarded based on the duration of survival, as well as for destroying enemies and fuel tanks. In the final section, the player must destroy a "base". Once this objective is achieved, a flag indicating a completed mission is displayed at the bottom right of the screen. The game then repeats, returning to the first section with a slight increase in difficulty.
+
+===Scoring===
+* Per second the jet is in play: 10 points
+* Rockets: 50 points on ground, 80 in air
+* UFO ships: 100 points
+* Fuel tanks: 150 points
+* Mystery targets: 100, 200, or 300 points
+* Base at ends of levels: 800 points
+
+The player is awarded an extra jet for scoring 10,000 points, and none more thereafter. A jet is lost upon contact with anything. Once the final jet is destroyed, the game is over.
+
+==Development and release==
+The [[United States Court of Appeal]] states the following regarding the game's development and release:
+
+{{Quote|In January 1981 at a London trade exhibit Stern became aware of ''Scramble'', an electronic video game developed in late 1980 by a Japanese corporation, Konami Industry Co., Ltd. The audiovisual display constituting what Stern alleges is the copyrightable work was first published in Japan on January 8, 1981. Stern secured an exclusive sub-license to distribute the ''Scramble'' game in North and South America from Konami's exclusive licensee, and began selling the game in the United States on March 17, 1981.<ref name="U.S. Court of Appeals Second Circuit Opinion"/>}}
+
+===Handheld versions===
+A [[Dedicated console|dedicated]] Tomytronic version of ''Scramble'' was released in 1982.<ref>{{Cite book |url=https://www.computerhistory.org/collections/catalog/102662208 |title=Tomytronic Scramble game |date=1982}}</ref> A second electronic tabletop version of ''Scramble'' was released the same year in the [[UK]] by [[Grandstand (game manufacturer)|Grandstand]]<ref>{{cite web|url=http://www.handheldmuseum.com/Grandstand/Scramble.htm|title=Grandstand Scramble|access-date=20 February 2014}}</ref> under licence from Japanese firm [[Epoch Co.]], who sold the game in Japan under the title '''''Astro Command'''''.<ref name="childofthe1980s">{{cite web|url=http://www.retrogamesnow.co.uk/grandstand-scramble-handheld/|title=Grandstand Scramble|access-date=20 February 2014}}</ref> Gameplay differs from the arcade version as no scenery is rendered and the ship has no need to refuel. A handheld compact LCD version known as "Pocket Scramble" was released the following year. ''Scramble'' was also made available on the 2002 Game Boy Advance cartridge ''[[Konami Collector's Series: Arcade Advanced|Konami Collector Series Arcade Advanced]]''. This version is a close port of the original game in the arcade cabinet.
+
+==Reception==
+''Scramble'' was commercially successful and critically acclaimed. In its February 1982 issue, ''[[Computer and Video Games]]'' magazine said it "was the first arcade game to send you on a mission and quickly earned a big following".<ref>{{cite web|url=http://www.solvalou.com/subpage/arcade_reviews/161/432/scramble_tips.html|title=Home page of Arttu|website=www.solvalou.com|access-date=5 January 2018}}</ref> In the United States, the game sold 10,000 [[arcade cabinet]]s worth {{US$|20,000,000|long=no|year=1981|round=-6}} in sales within two months of release in 1981,<ref>{{cite news |last1=Seaberry |first1=Jane |title=Maker of Pac-Man Claims Asian Firms Cheating at the Arcade |url=https://www.washingtonpost.com/archive/business/1982/04/04/maker-of-pac-man-claims-asian-firms-cheating-at-the-arcade/882b21f3-8ccb-421b-ae2a-65198958f811/ |access-date=20 April 2023 |newspaper=[[Washington Post]] |date=4 April 1982}}</ref> and it topped the US monthly [[1981 in video games|''RePlay'' arcade charts in June 1981]].<ref>{{cite book |last1=Kubey |first1=Craig |title=The Winners' Book of Video Games |date=1982 |publisher=New York: [[Warner Books]] |isbn=978-0-446-37115-5 |page=118 |url=https://archive.org/details/Winners_Book_of_Video_Games/page/n134}}</ref> It sold 15,136 arcade cabinets in the United States within five months, by August 4, 1981, becoming Stern's second [[List of best-selling video games|best-selling]] game after ''[[Berzerk (video game)|Berzerk]]''. Its sequel, the more difficult ''[[Super Cobra]]'', sold 12,337 cabinets in the U.S. in four months that same year, adding up to 27,473 U.S. cabinet sales for both, by October 1981.<ref name="stern_production_numbers">{{cite web|title=Stern Production Numbers and More CCI Photos|url=http://www.tokensonly.com/2012/05/misc/stern-production-numbers-and-more-cci-photos/|access-date=21 July 2013|date=1 May 2012}}</ref> In Japan, ''Scramble'' was tied with ''[[Jump Bug]]'' and ''[[Space Panic]]'' as the 14th highest-grossing [[1981 in video games|arcade video game of 1981]].<ref>{{cite magazine|title="Donkey Kong" No.1 Of '81 — ''Game Machine's Survey Of "The Year's Best Three AM Machines"'' —|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=182|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1982|page=30|url=https://onitama.tv/gamemachine/pdf/19820215p.pdf#page=16}}</ref>
+
+The Vectrex version was reviewed in ''[[Video (magazine)|Video]]'' magazine where it was praised for its fidelity to the original arcade game and was described as the favorite among Vectrex titles they had reviewed.<ref name=kunkel>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= October 1982 |title= Arcade Alley: The First Portable Video Game System |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 7|pages= 32, 118–120|issn= 0147-8907}}</ref>{{rp|120}} The game's overlays were singled out, with reviewers commenting that "when you're really involved with a Vectrex game like ''Scramble'', it's almost possible to forget that the program is in black-and-white".<ref name=kunkel/>{{rp|32}} [[David H. Ahl]] of ''[[Creative Computing]] Video & Arcade Games'' reported in 1983 that no test player was able to get past the fourth level of the Vectrex version.<ref name=ahl1983spring>{{Cite magazine |last=Ahl |first=David H. |author-link=David H. Ahl |date=Spring 1983 |title=The Vectrex Arcade System |url=http://www.atarimagazines.com/cva/v1n1/vectrex.php |magazine=Creative Computing Video & Arcade Games |page=56}}</ref>
+
+In 1982, ''Arcade Express'' gave the Tomytronic version of the game a score of 9 out of 10, describing it as an "engrossing" game that "rates as one of the year's best so far".<ref>{{cite journal|title=The Hotseat: Reviews of New Products|journal=Arcade Express|date=August 15, 1982|volume=1|issue=1|pages=6–7 [6]|url=http://www.digitpress.com/library/newsletters/arcadeexpress/arcade_express_v1n1.pdf|access-date=3 February 2012}}</ref>
+
+''Scramble'' made the list of Top 100 arcade games in the [[Guinness World Records Gamer's Edition]]. In 1996, [[GamesMaster (magazine)|GamesMaster]] ranked the arcade version 60th in their "Top 100 Games of All Time".<ref>{{Cite journal |date=July 1996 |title=Top 100 Games of All Time |url=https://retrocdn.net/images/c/cf/GamesMaster_UK_044.pdf |journal=GamesMaster |issue=44 |pages=76}}</ref>
+
+==Legacy==
+According to the Nintendo Game Boy Advance ''[[Gradius Advance]]'' intro and the ''Gradius Breakdown'' DVD included with ''[[Gradius V]]'', ''Scramble'' is considered the first in the ''[[Gradius]]'' series, but the ''[[Gradius Collection]]'' guidebook issued a few years after by [[Konami]], lists ''Scramble'' as part of their shooting history, and the ''Gradius'' games are now listed separately.
+
+An updated version of ''Scramble'' is available in ''[[Konami Collector's Series: Arcade Advanced]]'' by inputting the [[Konami Code]] in the game's title screen. This version allows three different ships to be chosen: the Renegade, the Shori, and the Gunslinger. The only difference between the ships besides their appearance are the shots they fire. The Renegade's shots are the same as in the original Scramble, the Shori has rapid-fire capabilities triggered by holding down the fire button, and the Gunslinger's shots can pierce through enemies, meaning they can be used for multiple hits with a single shot.
+
+===Impact===
+In an interview with ''RePlay'' magazine in January 1990, Konami founder [[Kagemasa Kōzuki]] (Kaz Kozuki) stated that he considers ''Scramble'' to be Konami's most important game. He said that ''Scramble'' was the company's first major hit that launched Konami into world prominence.<ref>{{cite magazine |title=A Conversation With... Kaz Kozuki: the Konami chief who put TNT into video's arsenal with ''TMNT'' |magazine=RePlay |date=March 1990 |volume=15 |issue=6 |pages=201–2 |url=https://archive.org/details/re-play-volume-14-issue-no.-6-march-1990-600dpi/RePlay%20-%20Volume%2014%2C%20Issue%20No.%206%20-%20March%201990/page/201}}</ref> The game also served as a foundation for the horizontally [[scrolling shooter]] sub-genre.<ref name="ACE">{{cite magazine |title=After ''Pong'' |magazine=[[ACE (magazine)|ACE]] |date=February 4, 1988 |issue=6 (March 1988) |pages=29–32 |url=https://archive.org/details/ACE_Issue_06_1988-03_Future_Publishing_GB/page/n28}}</ref><ref name="GameAxis">{{cite magazine |last1=Santos |first1=Wayne |last2=Lip |first2=Khang |title=Twitch on Live: Xbox Live Arcade Games |magazine=GameAxis Unwired |issue=38 |date=October 2006 |pages=30–1 |url=https://books.google.com/books?id=EekDAAAAMBAJ&pg=PA30 |publisher=SPH Magazines}}</ref> While not the first horizontally scrolling shooter (it was predated by ''[[Defender (video game)|Defender]]'' two months earlier), Wayne Santos of ''GameAxis Unwired'' notes that ''Scramble'' and its sequel ''[[Super Cobra]]'' "created the side-scrolling shooter that progressed to the end of a [[Level (video games)|level]], rather than having a self-enclosed level that warped on itself in an infinite loop, like ''Defender''".<ref name="GameAxis"/>
+
+Konami's ''[[Gradius (video game)|Gradius]]'' (1985), the first title in the ''[[Gradius]]'' series, was originally intended to be a follow-up to ''Scramble'', with the working title ''Scramble 2''. It reused many of its materials and game mechanics.<ref name="Hiroyasu Interviews">{{cite web |title=Machiguchi Hiroyasu Gradius Interviews (Translated) |url=http://shmuplations.com/gradius-machiguchi/ |website=Shmuplations |access-date=8 December 2019 |archive-url=https://web.archive.org/web/20190729084921/http://shmuplations.com/gradius-machiguchi/ |archive-date=29 July 2019}}</ref> Game designer Scott Rogers named ''Scramble'' as well as [[Irem]]'s ''[[Moon Patrol]]'' (1982) as forerunners of the [[endless runner]] platform genre.<ref name=Swipe>''Swipe This!: The Guide to Great Touchscreen Game Design'' by Scott Rogers, Wiley and Sons, 2012</ref>
+
+===In other media===
+''Scramble'' gameplay is featured during the opening credits of the 1982 Spanish film ''[[Colegas]]'' by [[Eloy de la Iglesia]], along with some other arcade games of the era like ''[[Defender (1981 video game)|Defender]]'', ''[[Monaco GP (video game)|Monaco GP]]'' and ''[[Missile Command]]''.
+
+===Re-releases===
+* ''Scramble'' joined the [[Xbox Live Arcade]] library for the [[Xbox 360]] on September 13, 2006.
+* ''Scramble'' was made available on [[Microsoft|Microsoft's]] ''[[Game Room]]'' service on March 24, 2010.
+* ''Scramble'' was re-released in 2002 for [[GBA]] titled Konami Arcade Advanced.
+* ''Scramble'' was re-released in 2005 for [[PlayStation 2]] in [[Japan]] as part of the ''[[Oretachi Geasen Zoku Sono]]''-series.
+* ''Scramble'' was re-released in 2007 for [[Nintendo DS]] as part of ''[[Konami Classics Series: Arcade Hits]]''.
+* ''Scramble'' was re-released for [[PlayStation 4]], [[Nintendo Switch]], [[Xbox One]], and [[Personal computer|PC]] on [[Steam (service)|Steam]] on April 18, 2019 as part of the ''Konami Anniversary Collection Arcade Classics''.
+
+===Clones===
+[[Atari 8-bit]] games ''[[Airstrike (video game)|Airstrike]]''<ref>{{cite journal |last1=Salm |first1=Walter |title=Airstrike |journal=Electronic Fun with Computers & Games |date=February 1983 |volume=1 |issue=4 |page=64 |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_04_1983-02_Fun_Games_Publishing_US/page/n63}}</ref> (1982) and ''Bellum''<ref>{{cite web |title=Bellum |url=http://www.atarimania.com/game-atari-400-800-xl-xe-bellum_587.html |website=Atari Mania}}</ref> (1983) are both ''Scramble'' clones. ''Skramble'' (1983) is a clone for the [[Commodore 64]].<ref>{{lemon64 game|name=Skramble|id=2331}}</ref> ''Whirlybird Run'' (1983) is a [[TRS-80 Color Computer]] clone.<ref>{{cite web |last1=Boyle |first1=L. Curtis |title=Whirlybird Run |url=http://www.lcurtisboyle.com/nitros9/whirlybirdrun.html |website=Tandy Color Computer Games}}</ref>
+
+===Legal history===
+In [[Stern Electronics, Inc. v. Kaufman]], 669 F.2d 852, the Second Circuit held that Stern could copyright the images and sounds in the game, not just the source code that produced them.<ref>{{cite web | url=http://www.patentarcade.com/2005/06/case-stern-elec-v-kaufman-2nd-cir-1982.html | title=Case: Stern Elec. v. Kaufman (2nd Cir. 1982) | publisher=Patent Arcade | author=Brandon Rash | access-date=2006-09-16}}</ref>
+
+==See also==
+* ''[[Cosmic Avenger]]'' (1981)
+* ''[[Harrier Attack]]'' (1984)
+* ''[[Vanguard (video game)|Vanguard]]'' (1981)
+
+==References==
+{{reflist}}{{refbegin}}
+*{{cite book
+| year = 2006
+| title = Gradius Portable Official Guide
+| publisher = [[Konami]]
+| isbn = 4-86155-111-0
+}}
+{{refend}}
+
+==External links==
+* [http://www.hamster.co.jp/american_hamster/arcadearchives/scramble.htm Official Arcade Archives website]
+* {{KLOV game|id=9447|name=Scramble}}
+* [http://www.arcade-history.com/?page=detail&id=2328 ''Scramble''] at the Arcade History database
+
+{{Gradius series}}
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Gradius video games]]
+[[Category:Konami games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:Stern video games]]
+[[Category:Vectrex games]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:Konami arcade games]]
+[[Category:Video games developed in Japan]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Arcade Archives games]]
+[[Category:Hamster Corporation games]]

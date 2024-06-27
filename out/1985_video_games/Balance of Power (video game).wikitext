@@ -1,0 +1,124 @@
+Balance of Power (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Balance_of_Power_%28video_game%29&oldid=1228166066
+Accessed on: 2024-06-26T16:58:03.184607
+
+
+
+------
+Balance of Power (video game)
+{{Short description|1985 video game}}
+{{Use mdy dates|date=May 2014}}
+{{Infobox video game
+|title = Balance of Power
+| image = Balance of Power Coverart.png
+|developer = [[Chris Crawford (game designer)|Chris Crawford]]
+|publisher = [[Mindscape (company)|Mindscape]]
+|designer =
+|series =
+|engine =
+|released = September 1985
+|genre = [[Computer strategy game|Strategy]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|Two-player]]
+|platforms = [[Amiga]], [[Apple II series|Apple II]], [[Atari ST]], [[MS-DOS]], [[Classic Mac OS|Macintosh]], [[MSX]], [[PC-88]], [[PC-98]], [[Windows 1.0]]
+}}
+
+'''''Balance of Power''''' is a [[strategy video game]] of [[geopolitics]] during the [[Cold War]], created by [[Chris Crawford (game designer)|Chris Crawford]] and published in 1985 on the [[Mac (computer)|Macintosh]] by [[Mindscape (company)|Mindscape]], followed by ports to a variety of platforms over the next two years.
+
+In the game, the player takes the role of the [[President of the United States]] or [[General Secretary of the Communist Party of the Soviet Union|General Secretary of the Soviet Union]]. The goal is to improve the player's country's standing in the world relative to the other [[superpower]]. During each yearly turn, random events occur that may have effects on the player's international prestige. The player can choose to respond to these events in various ways, which may prompt a response from the other superpower. This creates [[brinkmanship]] situations between the two nations, potentially escalating to a [[nuclear war]], which ends the game.
+
+Crawford was already well-known, especially for ''[[Eastern Front (1941)]]''. His 1984 announcement that he was moving to the Macintosh platform to work on a new concept generated considerable interest. It was widely reviewed after its release, including an extremely positive review in ''[[The New York Times Magazine]]''. It was praised for its inventive non-action gameplay that was nevertheless exciting and distinct.  It has been named by ''[[Computer Gaming World]]'' as one of the most innovative computer games of all time.
+
+''Balance of Power'' was successful on the Mac, and combined with ports it ultimately sold over a quarter million units.
+
+==Gameplay==
+[[File:Balance_of_Power_(video_game)_Atari_ST_screenshot.png|thumb|left|Gameplay screenshot (Atari ST)]]
+
+The player may choose to be either the President of the United States or the General Secretary of the Communist Party of the Soviet Union, and must lead the chosen [[superpower]] for eight years, seeking to maximize "prestige" and avoiding a [[Nuclear warfare|nuclear war]]. Each turn is one year long; at the beginning of each year, the player is presented with a set of incidents and crises in various countries around the globe and must choose a response to each one. Responses may range from no action to diplomatic notes to the other superpower, to military maneuvers. Each response is then met with a counter-response, which may vary from backing down to escalation. The player then gets a chance to initiate actions, and deal with the opponent's responses.
+
+This core mechanic is similar to that of Bruce Ketchledge's 1983 game ''[[Geopolitique 1990]]'', published by [[Strategic Simulations, Inc.|SSI]]. One difference from the earlier game is how negotiations are resolved. In both games, backing down in a negotiation results in a loss of prestige, which will reverberate politically. Likewise, in both games brinkmanship may result in a global war. In ''Geopolitique'', such wars were actually fought in-game, after which the game continued. In ''Balance of Power'', such a war ends the game instantly, with the following message: "You have ignited a(n accidental) nuclear war. And no, there is no animated display of a mushroom cloud with parts of bodies flying through the air. We do not reward failure."
+
+==Development==
+Crawford had made a name for himself during his years at [[Atari, Inc.]] in the late 1970s and early 1980s. His smash hit ''[[Eastern Front (1941)]]'' made him one of the few game authors known by name, and helped ensure later releases were also successful to a degree. By early 1984, Atari was rapidly going bankrupt due to the effects of the [[video game crash of 1983]]. In March they laid off the majority of their staff, including Crawford. His ample severance was enough to allow him to write a new game as a freelancer.<ref name=gamedesign/>
+
+After considering a sequel to ''Eastern Front'' or a political game about the [[Inca Empire]], he eventually decided to write a cold war "game about peace".{{sfn|Crawford|2003|p=282}} Crawford cited [[Bob Dylan]]'s "[[Blowin' in the Wind]]" as an emotional inspiration to the game.<ref name=gamedesign>{{cite book|title=Game Design Theory & Practice|version=Second Edition|publisher=Wordware Publishing, Inc.|last=Rouse III|first=Richard|author-link=Richard Rouse III|year=2005|isbn=1-55622-912-7|page=266}}</ref>
+
+Considering the Atari platform a lost cause, Crawford began looking at the new [[16-bit]] platforms that were just coming to market; he dismissed the [[IBM Personal Computer|IBM PC]] as too crude, the [[Amiga]] as likely to fail for business reasons, and thus chose the Macintosh as the platform to develop on. At the time this was a non-trivial decision, as there were no development tools; programmers had to buy an [[Apple Lisa]] to write code for the platform.{{sfn|Crawford|2003|p=282}}
+
+During an April 1984 interview at the [[Origins Game Fair]], Crawford stated that he was "working on a game for the Macintosh entitled ARMS RACE based on the philosophy that 'H-bombs don't kill people, geopolitics kills people.'"<ref name="cgw198410">{{cite magazine | title=The CGW Computer Game Conference | magazine=[[Computer Gaming World]] | date=October 1984 | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=2&id=18 | access-date=October 31, 2013 | page=30 | type=panel discussion}}</ref>{{sfn|Crawford|2003|p=285}} By May the initial concept was fleshed out; the game would take place on top of a world map that could show various details,{{sfn|Crawford|2003|p=286}} events would be presented as newspaper stories following an algorithmic concept he developed after considering the headlines in ''[[National Enquirer]]'',{{sfn|Crawford|2003|p=287}} and these events and their outcomes would be expressed in terms of "prestige points".
+
+Crawford had difficulty in finding a publisher for ''Balance of Power'', due in no small part to the lingering effects of the 1983 crash. [[Random House]] eventually agreed to publish it, but there was considerable ill will between Crawford and the editor assigned to him, who had no prior experience with video games. Random House ultimately cancelled the contract and demanded that Crawford return its $10,000 [[advance payment]], almost causing him to lose his home.<ref name="cgw198702">{{cite news | title=Designer Profile: Chris Crawford (Part 2) | url=http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=34 | magazine=Computer Gaming World | date=Jan–Feb 1987 | access-date=1 November 2013 | pages=56–59 }}</ref> His wife demanded he get a "real job".{{sfn|Crawford|2003|p=296}}
+
+The work was saved by a friend at ''[[InfoWorld]]'', who heard of his troubles and published a two-part column on the game. The article was seen by a producer at the newly formed [[Mindscape (company)|Mindscape]], who agreed to publish it. Betas were ready in February 1985 and were polished through the spring and summer. The game was released in September and was an immediate sensation given that the world was then at the height of the Cold War. The fame was in no small part helped by a review in ''The New York Times Magazine'' written by [[David L. Aaron]], [[Jimmy Carter]]'s Deputy Assistant to the President for National Security Affairs, who called it "about as close as one might get to the cut-and-thrust of international politics without going through confirmation by the Senate."<ref name="aarons19851229">{{Cite magazine |last=Aaron |first=David |date=1985-12-29 |title=Playing with Apocalypse |url=https://www.nytimes.com/1985/12/29/magazine/playing-with-apocalypse.html?pagewanted=all |magazine=The New York Times Magazine}}</ref>{{sfn|Crawford|2003|p=297}}
+
+The game was an immediate hit on the initial Macintosh and [[Apple II series|Apple II]] platforms. A release for [[Microsoft Windows|Microsoft Windows 1.0]] in 1986 made it a multiplatform best seller. These were followed by versions on the [[Atari ST]] (1987) and [[Amiga]], among others. In total, the game sold over $10 million during its heyday, during a time when total sales for all gaming hardware and software combined was about $500 million.{{sfn|Crawford|2003|p=297}}
+
+In 1986, Crawford published a book, also called ''Balance of Power'', which details the internals of the game great depth. It explains the background of the politics, the formulas used to calculate prestige and related parameters, and an account of its (lengthy) gestation.<ref>{{cite web |title= Balance of Power the Book |url=http://www.erasmatazz.com/library/my-books/balance-of-power-the-book/index.html |date= 1986 }}</ref>
+
+Around 2013, Crawford released [[source code]] of several of his games into the [[public domain]]{{Citation needed|date=March 2024}}, including ''Balance of Power''.<ref>{{cite web|url=http://www.erasmatazz.com/library/source-code/index.html| title=Source Code|quote=30 months ago, at the 2011 Game Developers Conference, somebody asked me to release the source code for my old games. I said I would look into it. [...] I have begun the process of preparing my source code for general distribution. |access-date=2017-02-24 |year=2013 |first=Chris |last=Crawford}}</ref>
+
+==Reception==
+''[[Computer Gaming World]]'' stated that ''Balance of Power'' "stands in a prestigious circle: that of the most innovative computer games of all time. If there were Academy Awards for computer games, BOP would get my votes for Best Picture and Best Director of 1985".<ref name="boosman198605">{{cite news | title=Macintosh Window | magazine=Computer Gaming World |date = May 1986| access-date=November 1, 2013 | author=Boosman, Frank C. | url=http://www.cgwmuseum.org/galleries/index.php?year=1986&pub=2&id=29 | pages=18, 45}}</ref> A 1992 survey in the magazine of wargames with modern settings gave the game four stars out of five,<ref name="brooks199206">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=95 | title=The Modern Games: 1950 - 2000 | magazine=Computer Gaming World |date = June 1992| access-date=November 24, 2013 | author=Brooks, M. Evan | pages=120}}</ref> a 1994 survey gave it three stars,<ref name="brooks199401">{{Cite magazine |last=Brooks |first=M. Evan |date=January 1994 |title=War In Our Time / A Survey Of Wargames From 1950-2000 |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=114 |magazine=Computer Gaming World |pages=194–212}}</ref> and in 1996 the magazine listed the game's [[Game Over]] scene as #11 on its list of "the 15 best ways to die in computer gaming".<ref name="cgw199611bestwaystodie">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=The 15 Best Ways To Die In Computer Gaming | magazine=Computer Gaming World |date = November 1996| access-date=25 March 2016 | page=107}}</ref>
+
+Roy Wagner reviewed the game for ''[[Computer Gaming World]]'', and stated that "This game is HIGHLY recommended."<ref name="CGW34">{{cite magazine |last=Wagner |first=Roy |title=Amiga Preferences |magazine=Computer Gaming World |date=January–February 1987 |volume=1 |issue=34 |pages=42}}</ref>
+
+''[[Dragon (magazine)|Dragon]]'' recommended the game and called it a "superb game of global strategy that goes beyond other games, wherein thoughtful, calculated geopolitics could prevent a worldwide nuclear war!"<ref name="Dragon110">{{cite journal|title=The Role of Computers|author=Lesser, Hartley and Pattie|journal=The Dragon|issue=110|date=June 1986|pages=38–43}}</ref> as well as "a truly entertaining and thought-provoking simulation of world geopolitics which involves the player in a quest to prevent a worldwide [[nuclear holocaust]], while promoting either the U.S.A. or Russia to world prominence. This is a marvelous program that everyone should experience at least once."<ref name="Dragon116">{{cite journal|title=The Role of Computers|author=Lesser, Hartley and Pattie|journal=[[Dragon (magazine)|Dragon]]|issue=116|date=December 1986|pages=69–76}}</ref>
+
+''[[Byte (magazine)|BYTE]]'' praised the game in 1986, describing the Mac version as "the best game I had ever seen on any computer ... by all means, get the program".<ref name="shapiro198612">{{cite news | url=https://archive.org/stream/byte-magazine-1986-12/1986_12_BYTE_11-13_Graphics_Algorithms#page/n335/mode/2up | title=Stocking Stuffers | work=BYTE |date = December 1986| access-date=9 May 2015 | author=Shapiro, Ezra | pages=321}}</ref> ''[[Info (magazine)|Info]]'' gave the Amiga version four-plus stars out of five, approving of the complex gameplay with a good user interface. While complaining of the lack of sound from the "[[video game porting|obvious Macintosh influence]]", the magazine concluded that it was "An excellent game".<ref name="info198701amiga">{{Cite magazine |last1=Dunnington |first1=Benn |last2=Brown |first2=Mark R. |last3=Malcolm |first3=Tom |date=January–February 1987 |title=Amiga Gallery |url=https://archive.org/stream/info-magazine-13/Info_Issue_13_1987_Jan-Feb#page/n89/mode/2up |magazine=Info |pages=90–95}}</ref>
+
+Bob Ewald reviewed ''Balance of Power'' in ''[[The Space Gamer|Space Gamer/Fantasy Gamer]]'' No. 81.<ref name="SG">{{cite journal|last=Ewald |first=Bob |date=1987|title=Balance of Power: Geopolitics in the Nuclear Age|journal=[[The Space Gamer|Space Gamer/Fantasy Gamer]]|publisher=[[Diverse Talents, Incorporated]]|issue=81|pages=44–45}}</ref> Ewald commented that "In conclusion, if this type of game appeals to you most of the problems are worth suffering through. However, if you're a hardcore wargamer who isn't interested in diplomacy, I suggest that you pass on this one."<ref name="SG"/>
+
+''[[Compute!]]'' presented opposing views of the game in May 1988. The magazine included ''Balance of Power'' in its list of "Our Favorite Games", calling it "an impressive recreation of the world's geopolitical landscape ... call one too many bluffs and you'll see the chilling message ''You have ignited a nuclear war''".<ref name="compute198805">{{cite news | url=https://archive.org/stream/1988-05-compute-magazine/Compute_Issue_096_1988_May#page/n13/mode/2up | title=Our Favorite Games | work=Compute! |date = May 1988| access-date=November 10, 2013 | pages=12}}</ref> [[Orson Scott Card]], however, wrote in his review of the game that Crawford—"the best designer of simulation games I've seen"—was "leaning over your shoulder and bullying you into playing the game his way. He has a sweet delusion that as long as the United States is very nice and doesn't do anything to offend them, the Russians will go home. And if you don't play that way, why, he'll stop the game with a nasty remark about how the world was just destroyed by nuclear war". He added that since no nuclear war had been fought Crawford could not know what would cause one, and "there are a lot of experts who claim that the Soviets seem to behave a lot nicer when we stand up to them than when we disarm", but that "[Crawford] is so sure he's right that ''Balance of Power'' isn't a game, it's propaganda".<ref name="card198805">{{cite news | url=https://archive.org/stream/1988-05-compute-magazine/Compute_Issue_096_1988_May#page/n9/mode/2up | title=Do You Want to Change the World? Two Games Let You Try | work=Compute! |date = May 1988| access-date=November 10, 2013 | author=Card, Orson Scott | pages=9}}</ref>
+
+In 1989, ''Compute!'' stated that the 1990 edition's multipolar features were welcome additions to the game.<ref name="keizer198901">{{cite news | url=https://archive.org/stream/1989-01-compute-magazine/Compute_Issue_104_1989_Jan#page/n81/mode/2up | title=Balance of Power: The 1990 Edition | work=Compute! |date = January 1989| access-date=November 10, 2013 | author=Keizer, Gregg | pages=80}}</ref> That year Card stated that the magazine's 1988 list caused him to reevaluate the game when playing the 1990 edition, stating that it had "the most detailed, carefully extrapolated future world I've worked with". While still criticizing geopolitical "absurdities" such as forcing the United States to passively accept Soviet troops in Syria (contrary to what happened during the [[Yom Kippur War]]) and advisors in Mexico or start nuclear war, Card now concluded that such outcomes probably reflected computer limitations rather than Crawford's political views. He advised players to pretend that ''Balance of Power'' was set on an alien planet "astonishingly similar" to Earth, and to play solely based on the game's assumptions about the world.<ref name="card198906">{{cite news | url=https://archive.org/stream/1989-06-compute-magazine/Compute_Issue_109_1989_Jun#page/n29/mode/2up | title=Light-years and Lasers / Science Fiction Inside Your Computer | work=Compute! |date = June 1989| access-date=November 11, 2013 | author=Card, Orson Scott | pages=29}}</ref> [[Chuck Moss]] disagreed with Card's revised view, describing ''Balance of Power'' in ''Computer Gaming World'' in 1992 as "reflect[ing] extreme bias on the part of [its] designers". He called it a "pacific treatise ... nuclear war erupted if the U.S. so much as sent five million dollars to Panama".<ref name="moss199211">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Spectrum Holobyte's Crisis in the Kremlin | magazine=Computer Gaming World |date = November 1992| access-date=4 July 2014 | author=Moss, Chuck | pages=34}}</ref>
+
+Crawford stated in 1987 that he was most proud of his work on the game: "I feel [it] has made the world a better place ... I think it has made a small number of people much more realistic in their appraisal of world affairs".{{r|cgw198702}} In 1996 ''Computer Gaming World'' ranked it as the 78th best game of all time, calling it "a wonderful game of political intrigue that felt just like the Cold War and didn't require the detail of ''[[Shadow President]]'' or ''[[CyberJudas]]''."<ref name="cgw199611best">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World |date = November 1996| access-date=25 March 2016 | pages=64–80}}</ref> That year it was ranked as the 75th top game of all time by ''[[Next Generation (magazine)|Next Generation]]'', who commented "Although the game's premises are hopelessly outdated (U.S.S.R.? What's that?) and some disagree with the politics, the AI in ''Balance of Power'', combined with its unique play style, make it a classic."<ref>''Next Generation'' 21 (September 1996), p.44.</ref> In 2006, ''[[The Guardian]]'' listed it first on its list of "The 10 political games everyone should play".<ref>{{cite web |url=https://www.theguardian.com/technology/gamesblog/2006/oct/26/tenseriousgam |title=The 10 political games everyone should play |first=Keith |last=Stuart |website=The Guardian |date=26 October 2006 }}</ref>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #46<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-46/page/n79/mode/2up | title=Jeux & stratégie 46 | date=August 1987 }}</ref>
+
+==Legacy==
+After ''Balance of Power'', Crawford began work on an entirely new game, ''[[Trust & Betrayal: The Legacy of Siboot]]'', released in 1987 and selling only a few thousand copies. Mindscape was disappointed, and pressured Crawford to do a follow-up to ''Balance of Power''. The company pressed him hard on it, and Crawford felt that he "owed them one" after publishing ''Siboot''. This sequel was released in 1989 as ''[[Balance of Power: The 1990 Edition]]'' on the [[Apple IIGS]], Windows, Macintosh, Amiga and Atari ST. Crawford does not consider it a proper sequel, saying he was simply "tidying up, adding some bells and whistles."<ref>{{cite book |first=Richard |last=Rouse III |title= Game Design: Theory and Practice, Second Edition |date=August 30, 2004 |url=https://books.google.com/books?id=-YhFl6iAGw4C |pages=168–269|isbn=9780763798116 }}</ref> ''Balance of Power: The 1990 Edition'' adds more countries, advisors to help the player, a new "multi-polar" level that allows countries to generate events of their own (such as declaring war on other countries) and a 2-player [[Hotseat (multiplayer mode)|hotseat]] mode.
+
+In 1992, Crawford left the game industry to make something more interactive and artistic. After many false starts, this emerged as ''The Erasmatron'', and later re-released under the name ''Storytron''. Both systems were used to make complex, interactive storylines. As a demo, Crawford used Storytron to build ''Balance of Power: 21st Century''. This version begins on 12 September 2001 and mostly involves the US's interactions with Asia and other emerging powers. It was not a success; Crawford himself describes it as "crap".<ref>{{cite web |first=Chris |last=Crawford |url=http://www.storytron.com/WhatWentWrong.html |title=Storytron: What Went Wrong |website=Storytron}}</ref>
+
+''Balance of Power'' has been the basis for a number of [[play-by-mail]] versions, manually run and based on moves posted in [[internet forum]] systems. One long-running example is hosted on {{Proper name|eRegime}}.<ref>{{cite web |url=http://eregime.jcink.net/index.php? |website=www.eregime.jcink.net/index/ |title=Balance of Power XV}}</ref>
+
+==See also==
+* [[Balance of power (international relations)]]
+* [[Balance of Power (play-by-mail game)|''Balance of Power'' (play-by-mail game)]]
+* [[Brinkmanship (Cold War)]]
+
+==References==
+
+===Citations===
+{{Reflist|30em}}
+
+===Bibliography===
+* {{cite book |first=Chris |last=Crawford |url=https://books.google.com/books?isbn=0131460994 |title=Chris Crawford on Game Design |date=2003 |publisher=New Riders }}
+
+==External links==
+* [https://www.mobygames.com/game/balance-of-power ''Balance of Power''] at [[MobyGames]]
+* {{IAg|BalanceOfPower2Macintosh}}
+* [https://web.archive.org/web/20021015092944/http://pc.ign.com/articles/090/090970p1.html Retrospective] at [[IGN]]
+
+{{Chris Crawford}}
+{{Authority control}}
+
+{{DEFAULTSORT:Balance Of Power (Video Game)}}
+[[Category:1985 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:Chris Crawford (game designer) games]]
+[[Category:Cold War video games]]
+[[Category:DOS games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Government simulation video games]]
+[[Category:Classic Mac OS games]]
+[[Category:MSX2 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Windows games]]
+[[Category:Mindscape games]]
+[[Category:Multiplayer and single-player video games]]

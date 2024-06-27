@@ -1,0 +1,51 @@
+Gauntlet (Micro Power video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Gauntlet_%28Micro_Power_video_game%29&oldid=1216516915
+Accessed on: 2024-06-26T16:56:51.370787
+
+
+
+------
+Gauntlet (Micro Power video game)
+{{Short description|1984 video game}}
+{{Infobox video game
+| title = Gauntlet
+| image = Gauntlet (1984, Micro Power) cassette front cover (Acorn Electron).png
+| caption=Electron cassette cover
+| programmer = Chris Terran
+| publisher = [[Micro Power]]
+| engine = 
+| released = '''1984:''' BBC, Electron<br>'''1985:''' CPC
+| modes = [[Single-player]]
+| platforms = [[Acorn Electron]], [[BBC Micro]], [[Amstrad CPC]]
+}}
+
+'''''Gauntlet''''' is a clone of ''[[Defender (video game)|Defender]]'' written by Chris Terran published in the UK by [[Micro Power]].<ref name="electronuser198505_gauntlet">{{ cite magazine | url=https://archive.org/details/ElectronUserVolume2/Electron-User-02-08/page/n37/mode/1up | title=Arcade cracker | magazine=Electron User | first1=Keith | last1=Young | date=May 1985 | volume=2 | issue=8 | access-date=31 March 2024 | pages=38 }}</ref> Described as "a very competent implementation of one of the most popular arcade games",<ref name="acornuser198602_gauntlet">{{ cite magazine | url=https://archive.org/details/AcornUser043-Feb86/page/n166/mode/1up | title=Classic Gauntlet | magazine=Acorn User | last1=Acton | first1=David | date=February 1986 | access-date=31 March 2024 | pages=165 }}</ref> it was initially released for the [[Acorn Electron]], and later made available for the [[BBC Micro]],<ref name="acornuser198607_jolly">{{ cite magazine | url=https://archive.org/details/AcornUser048-Jul86/page/n132/mode/1up | title=A Jolly Collection | magazine=Acorn User | last1=Emblem | first1=Bernard | date=July 1986 | access-date=31 March 2024 | pages=131 }}</ref> with an [[Amstrad CPC]] version arriving in 1985.<ref>{{cite web|url=http://www.thelegacy.de/Museum/game.php3?titel_id=10817&game_id=14976|title=TheLegacy::Gauntlet|accessdate=2010-09-25|publisher=The Legacy nostalgic game museum|archive-date=2011-06-22|archive-url=https://web.archive.org/web/20110622005021/http://www.thelegacy.de/Museum/game.php3?titel_id=10817&game_id=14976|url-status=dead}}</ref>
+
+==Gameplay==
+[[Image:Gauntlet (1984, Micro Power) in-game screenshot (Acorn Electron).png|thumb|left|Electron screenshot]]
+
+The player controls an X15 spacecraft, protecting canisters from the hostile ''Reeg'' forces.<ref name="cassette1984">{{cite journal |year=1984|title = Acorn Electron cassette inlay |journal=Gauntlet}}</ref> In the game, Reeg ''landers'' search the landscape for canisters. If a lander grabs a canister and makes it to the top of the screen, it turns into a ''mutant''. The player must shoot the enemy ship to release a grabbed canister, but if it falls too far, then it's destroyed on impact. There are also other ships such as ''cruisers'', which when hit, unleash ''buzzer'' ships.<ref name="cassette1984"/>
+
+The player has smart bombs available which destroy all on-screen enemies. On the higher levels there are additional enemy ships such as ''mine layers'' which are capable of launching ''killer'' ships, unless the player can destroy them quickly. If the player allows destruction of all canisters, then a hoard of mutants attack and the landscape completely disappears.<ref name="cassette1984"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://archive.today/20130124022840/http://uk.gamespot.com/bbc/action/gauntlet/tech_info.html Gamespot entry for Gauntlet (Micro Power)]
+* [http://www.acornelectron.co.uk/mags/eu/ills/2_02n/n-p64.jpg Advertisement for the game in the November 1984 issue of Electron User] {{Webarchive|url=https://web.archive.org/web/20110717131206/http://www.acornelectron.co.uk/mags/eu/ills/2_02n/n-p64.jpg |date=2011-07-17 }}
+* [http://www.triumphoverchallenges.com/working-at-micro-power-program-power-leeds/ Working at Micro Power / Program Power] – mentions how Chris Terran came to write Gauntlet
+* [http://retromuseums.com/micro-program-power-gallery/ Gauntlet covers, and a gallery of Micro Power and Program Power Covers]
+{{Micro Power}}
+
+[[Category:1984 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Micro Power games]]
+[[Category:Single-player video games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United Kingdom]]
+
+
+{{8bitcomputer-game-stub}}

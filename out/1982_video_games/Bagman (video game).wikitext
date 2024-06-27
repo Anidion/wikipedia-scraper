@@ -1,0 +1,62 @@
+Bagman (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Bagman_%28video_game%29&oldid=1218143469
+Accessed on: 2024-06-26T16:52:59.691175
+
+
+
+------
+Bagman (video game)
+{{More citations needed|date=October 2009}}
+{{Infobox video game
+|title=Bagman
+|image=Bagman arcade flyer.png
+|caption=Arcade flyer
+|developer = Valadon Automation
+|publisher = {{vgrelease|EU|Valadon Automation|NA|[[Stern (game company)|Stern]]|JP|[[Taito]]<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |lang=ja |location=Japan |isbn=978-4990251215 |pages=40, 42, 136-7 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n43}}</ref>}}
+|designer=
+|released = {{vgrelease|EU|[[1982 in video gaming|1982]]|NA|February 1983<ref name="Akagi"/>|JP|May 1983<ref name="Akagi"/>}}
+|platforms= [[Arcade video game|Arcade]]
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]], 2 players alternating turns
+}}
+
+'''''Bagman''''' is a [[platform game]] released in [[Arcade video game|arcades]] by Valadon Automation in 1982.<ref>{{KLOV game|id=6995|name=Bagman}}</ref><ref>{{Cite news|url=http://www.lemonde.fr/pixels/visuel/2018/02/15/en-saone-et-loire-sur-les-traces-des-premiers-jeux-video-francais_5257496_4408996.html|title=En Saône-et-Loire, sur les traces des premiers jeux vidéo français|website=Le Monde.fr|language=fr|trans-title=In Saône-et-Loire, on the tracks of the first French video games|access-date=2018-02-15}}</ref>
+It was licensed to [[Stern (game company)|Stern]] for U.S. distribution in 1983 and to [[Taito]] in Japan the same year. In [[France]], the game is titled '''''Le Bagnard''''' ([[English language|English]]: ''The Convict''). ''Bagman'' was followed-up with ''Super Bagman'' in 1984.
+
+==Gameplay==
+The objective of the game is to maneuver the bagman through various [[shaft mining|mine shaft]]s, picking up [[money bag]]s and placing them in a [[wheelbarrow]] at the surface of the mine. The player must avoid pursuing [[Security guard|guards]], moving [[ore cart]]s, and descending [[elevator]]s. The player may temporarily [[Stunning|stun]] the guards by striking them with a [[pickaxe]] or by dropping money bags on them when they are below the player on the same [[ladder]]. The player may move between the three screens which make up the [[Level (video gaming)|level]] via shafts and on the surface.
+
+''Bagman'' is played using one 4-way [[joystick]] and one action button. The joystick is also used to jump out of the ore cart. The action button is used to perform the following tasks:
+
+#Pick up and drop money bags
+#Pick up and drop pickaxe
+#Grab and release the ceiling beam to avoid the ore cart (this can be done while carrying a money bag)
+#Placing a money bag in the wheelbarrow
+#Pick up and drop the wheelbarrow
+
+Points are scored for each horizontal step the player takes, for each money bag placed in the wheelbarrow, and for each guard stunned.
+
+== Reception ==
+In Japan, ''Game Machine'' listed the game on their June 15, 1983 issue as the third most-successful new table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型新製品 (New Videos-Table Type)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=214|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 June 1983|page=27|lang=ja|url=https://onitama.tv/gamemachine/pdf/19830615p.pdf#page=14}}</ref> In the United States, it was among the thirteen highest-grossing [[1983 in video games|arcade games of 1983]].<ref>{{cite magazine |title=AMOA Votes On Annual Game Awards |magazine=[[Cash Box]] |date=October 29, 1983 |page=60 |url=https://archive.org/details/cashbox45unse_20/page/68}}</ref>
+
+==Legacy==
+Aardvark Action Software published clones for the [[Commodore 64]] and [[TRS-80 Color Computer]] as ''Bagitman''. [[Ocean Software]] released a clone for the [[Amstrad CPC]], [[Commodore 64]], and [[ZX Spectrum]] in 1984 titled ''Gilligan's Gold''.<ref>{{WoS game|id=0002047|name=Gilligan's Gold}}</ref>
+
+In 2010 a French programmer [[Reverse engineering|reconstructed]] [[source code]] from the game to [[Porting|port]] it to modern platforms.<ref>[http://jotd.pagesperso-orange.fr/bagman/index.html bagman] on jotd.pagesperso-orange.fr</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{KLOV game|id=6995|name=Bagman}}
+
+{{DEFAULTSORT:Bagman (Video Game)}}
+[[Category:1982 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Platformers]]
+[[Category:Stern video games]]
+[[Category:Taito arcade games]]
+[[Category:Video games developed in France]]

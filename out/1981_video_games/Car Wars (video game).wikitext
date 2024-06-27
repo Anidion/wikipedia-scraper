@@ -1,0 +1,56 @@
+Car Wars (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Car_Wars_%28video_game%29&oldid=1194283442
+Accessed on: 2024-06-26T16:52:09.248275
+
+
+
+------
+Car Wars (video game)
+{{Short description|1981 video game}}
+{{about|the Car Wars computer game|the game by [[Steve Jackson Games]]|Car Wars}}
+{{More citations needed|date=September 2019}}
+{{Infobox VG
+|title=Car Wars
+|image=File:Car Wars Manual Front Cover - 1981.jpg
+|caption=Manual
+|developer=[[Texas Instruments]]
+|publisher=[[Texas Instruments]]
+|programmer=Jim Dramis<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|released=1981
+|genre=[[List of maze video games|Maze]]
+|platform = [[TI-99/4A]]
+}}
+
+'''''Car Wars''''' is a video game for the [[TI-99/4A]] programmed by Jim Dramis and published by TI in 1981.<ref name=giantlist/> ''Car Wars'' is a clone of the 1979 [[Sega]]/[[Gremlin Industries|Gremlin]] arcade game [[Head On (arcade game)|''Head On'']].<ref>[http://my.stratos.net/~hewston95/RTM10/RTM10.html#TI994_Arcade "The TI-99/4A Arcade: Arcade Clones"] {{webarchive |url=https://web.archive.org/web/20070412064248/http://my.stratos.net/~hewston95/RTM10/RTM10.html#TI994_Arcade |date=April 12, 2007 }} from Retrogaming Times Monthly</ref>
+
+The player controls a car starting at the bottom of the screen and navigates it through an open grid full of dots. The object is to collect all the dots while avoiding crashing into other cars. The player's car is always moving counter-[[clockwise]]. The player, who can never stop the car or change direction, is only able to control the relative speed of the car and move the car across one or two lines of the grid.
+
+==Gameplay==
+The player is represented by a red car, and the computer, at the beginning, uses a yellow car. The player's car always moves [[counterclockwise]] around the board, and the computer's cars move [[clockwise]].
+
+There are five "lanes," each of which forms a [[circumference]] around the board. The outer lanes are larger than the inner ones. The lanes (from inner to outer) have 4, 20, 36, 52, and 68 dots respectively. Each lane is divided into four sectors, with breaks at the 12:00, 3:00, 6:00 and 9:00 points. It is at these locations where lane-changing is possible. The player has the ability to switch up to two lanes at each break, while the computer's cars can only switch one lane at a time.
+
+In the center of the screen is a "pit," where spare cars are displayed. The game begins with two cars in the pit. When a level is cleared, a new car is added to the pit, and bonus points are scored. When a crash occurs, a car is removed from the pit. A maximum of four cars can occupy the pit at any given time. If a level is cleared with four cars in the pit, bonus points are scored, but no new cars are added.
+When the game starts, the player's red car and the computer's yellow car face off back-to-back at the bottom of the screen (6:00 position), and start off moving in the opposite direction. The player has the ability to speed up at any time by pressing the [[joystick]] button.
+
+The object is to clear all 180 dots from the board, which will result in bonus points, a new car being added to the pit (unless full), and advancement to the next level. The maximum score is 99,990. The game ends when the player crashes into a computer car while no spare cars are in the pit.
+
+After one level is cleared, the starting position of the computer's yellow car moves to the left of the screen (9:00 position). When the second screen is cleared, the yellow car moves back to its original position, but the computer adds a new ''blue'' car, which starts at the left. After this level is cleared, the blue car shifts to the second-outermost lane.  On the fifth level, the computer adds a third car, which is ''green''. The three cars start at different positions, depending on the level. No new cars are added from this point on.
+
+===Options===
+Prior to the game, the player can select playing options from a menu. These determine the speed of the player's and computer's cars and when the computer cars speed up. There are three speeds, identified as ''creepin', fast, ''and ''flyin'.'' Both the player and the computer will move at the selected speed. The three speed-up options are titled ''late'', ''early'', and ''look-out!''. The computer's cars speed up after clearing 150, 120, and 90 dots, respectively.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.videogamehouse.net/carwars.html ''Car Wars''] at Videogame House
+
+{{DEFAULTSORT:Car Wars (Video Game)}}
+[[Category:1981 video games]]
+[[Category:TI-99/4A games]]
+[[Category:Maze games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Texas Instruments games]]
+[[Category:TI-99/4A-only games]]

@@ -1,0 +1,62 @@
+Red Max
+Permalink: //en.wikipedia.org/w/index.php?title=Red_Max&oldid=1229901110
+Accessed on: 2024-06-26T17:02:58.600767
+
+
+
+------
+Red Max
+{{short description|1987 video game}}{{About|the video game|the fictional character|Wacky Races (1968 TV series)}}{{Infobox video game
+| title = Red Max
+| image = Red_Max_(video_game)_Cover_Art.png
+| caption = 
+| released = 1987
+| publisher = [[Codemasters]]
+| developer = [[David Darling (entrepreneur)|David Darling]]
+| composer = [[David Whittaker (video game composer)|David Whittaker]]
+| programmer = 
+| platforms = [[Atari 8-bit]], [[Commodore 64]]
+| genre = [[Action game|Action]]
+}}
+
+'''''Red Max''''' is an [[action game]] developed by [[David Darling (entrepreneur)|David Darling]] and published by [[Codemasters]] in 1987. It was released for the [[Atari 8-bit computers]] and [[Commodore 64]]. This game closely resembles Darling's earlier work, [[The Last V8]]. The graphics were created by James Wilson, with music composed by [[David Whittaker (video game composer)|David Whittaker]].<ref name="atarimania"/>
+
+==Plot==
+In a dystopian future where the Sun has unexpectedly begun a supernova cycle, the remnants of humanity, surviving a global war, face an urgent need to escape Earth. They colonize the moon and engineer massive anti-gravity orbs to alter its orbit toward the Sun. As the moon approaches the Sun, the orbs are used to propel it through the solar system, aiming to enter a new solar system to sustain human life.
+
+The colonists' strategy includes entering hibernation for twelve hundred years, hoping to outlast the Sun's supernova event. When they believe they are safely past the Sun, an unforeseen threat arises. The Renegade Death Lords, a group of saboteurs, land on the moon and disrupt the colony's power plants by planting fission mines. The player must swiftly deactivate these mines and awaken the crew from hibernation before the power outage leads to their permanent demise.<ref name="manual"/>
+
+==Gameplay==
+[[File:Red_Max_(video_game)_Atari_8-bit_PAL_screenshot.png|thumb|left|Successfully defused a mine (Atari 8-bit)]]
+The gameplay interface is divided into two primary sections. The top portion of the screen serves as the main play area, while the bottom section includes critical game information displays: a speedometer, tachometer, fuel gauge, and shield status indicator. The player can collect fuel during gameplay; however, shields are not replenishable and will diminish upon collision with obstacles. Losing all fuel or shields results in the loss of a life.
+
+The main view is from above, centering the Red Max bike in the midst of the landscape, which scrolls as the bike moves. Acceleration is controlled by pressing the fire button, and releasing it engages the brakes. The bike can also be steered left or right. The objective is to navigate the lunar surface, deactivating flashing mines by driving over them. Successfully clearing the mines triggers an alarm, signaling the player to proceed to a lift that descends to the engineering level.
+
+The mines are strategically placed in challenging locations, guarded by the Moon's automatic defense mechanisms. These defenses include laser fences that can be temporarily disabled by running over specific switches, persistent laser gates that cannot be turned off, and patches of slime that compromise steering and damage the bike's tires. These hazards gradually deplete the bike’s shields. Additionally, collisions with walls and buildings can result in total destruction of the bike.
+
+Subsequent levels follow a similar gameplay structure but introduce more complex labyrinths of buildings and walls, increasing the difficulty of maneuvering the bike through the environment.
+
+==Reception==
+''Red Max'' was met with mostly positive reviews. A critic from ''[[Your Commodore]]'' magazine praised the game, highlighting its replay value by stating: "Red Max is yet another highly addictive budget game that drives you back for another game again, and again."<ref name="yourcommodore"/> Meanwhile, a reviewer from ''[[Atari User]]'' magazine also responded favorably, despite some reservations about the motorcycle console occupying the bottom two-thirds of the screen, which they felt contributed little to gameplay. Nevertheless, the reviewer concluded positively, noting, "Red Max is one of the best budget games I've seen," and awarded it an impressive score of 9 out of 10.<ref name="atariuser"/>
+
+==Reviews==
+*''[[Page 6]]'' #47 (1990-12,01)<ref>{{cite web | url=https://archive.org/details/Page6-47-Dec90/page/44/mode/2up | title=Page6 47 Dec90 }}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="atarimania">{{cite web|title=Atarimania: Red Max|url=https://www.atarimania.com/game-atari-400-800-xl-xe-red-max_4327.html}}</ref>
+<ref name="manual">{{cite web |title=Red Max Manual |url=https://archive.org/details/Red_Max_1987_Codemasters/mode/2up |website=The Internet Archive|date=1987 }}</ref>
+<ref name="yourcommodore">{{cite journal |title=Games Reviews|journal=Your Commodore |date=April 1987 |page=30 |url=https://archive.org/details/31-your-commodore-magazine/page/n29/mode/2up}}</ref>
+<ref name="atariuser">{{cite journal |title=Fight to survive |journal=Atari User |date=March 1987 |page=19 |url=https://archive.org/details/atari-user-uk-magazine-23/page/n17/mode/2up}}</ref>
+}}
+
+==External links==
+*{{MobyGames|id=/red-max}}
+*{{Lemon64 game|id=2116}}
+
+[[Category:1987 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Codemasters games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games scored by David Whittaker]]

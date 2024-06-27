@@ -1,0 +1,81 @@
+Nightshade (1985 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Nightshade_%281985_video_game%29&oldid=1225431126
+Accessed on: 2024-06-26T16:58:51.519487
+
+
+
+------
+Nightshade (1985 video game)
+{{Short description|1985 video game}}
+{{Use British English|date=August 2022}}
+{{Use dmy dates|date=August 2022}}
+{{infobox video game
+| title = Nightshade
+| image = Nightshade cover.png
+| caption = ZX Spectrum cover art
+| developer = [[Tim and Chris Stamper]]
+| publisher = [[Ultimate Play the Game]]
+| designer = 
+| engine = [[Filmation (game engine)|Filmation II]]
+| released = ZX Spectrum{{vgrelease|UK|1985}}Amstrad CPC{{vgrelease|UK|1985}}MSX{{vgrelease|JP|1986}}BBC Micro{{vgrelease|UK|1985}}
+| genre = [[Action-adventure game]]; [[Maze game]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[ZX Spectrum]]<br>[[Amstrad CPC]]<br>[[BBC Micro]]<br>[[MSX]]<br>[[Commodore 64]]
+}}
+
+'''''Nightshade''''' is an [[action game|action]] [[video game]] developed and published by [[Ultimate Play the Game]]. It was first released for the [[ZX Spectrum]] in 1985, and was then [[ported]] to the [[Amstrad CPC]] and [[BBC Micro]] later that year. It was also ported to the [[MSX]] exclusively in Japan in 1986. In the game, the player assumes the role of a knight who sets out to destroy four demons in a plague-infested village.
+
+The game features scrolling [[isometric projection|isometric]] gameplay, an improvement over its [[flip-screen]]-driven predecessors, ''[[Knight Lore]]'' and ''[[Alien 8]]'', all thanks to an enhanced version of the Ultimate Play the Game's [[Filmation (game engine)|Filmation]] game engine, branded Filmation II. The game received positive reviews upon release; critics praised its gameplay traits, graphics and colours, but one critic was divided over its perceived similarities to its predecessors.
+
+== Gameplay ==
+[[Image:Nightshade 3.gif|thumb|left|230px|A green-hued, infected player character is pursued through the village of ''Nightshade'' by demons.]]
+
+The game is presented in an [[Isometric graphics in video games and pixel art|isometric]] format. The player assumes the role of a [[knight]] who enters the [[Bubonic plague|plague]]-infested village of Nightshade to vanquish four [[demon]]s who reside within.<ref name=SU/> Additionally, all residents from the village have been transformed into [[vampires]] and other supernatural creatures.<ref name=CVG/> Contact with these monsters infects the knight, with repeated contact turning the character from white to yellow and then to green, which will lead to the character's death. The knight may be hit up to three times by an enemy, but the fourth hit will result in a [[life (gaming)|life]] being deducted.<ref name=crash/>
+
+The objective of the game is to locate and destroy four specific demons. Each demon is vulnerable to a particular object which must be collected by the player: a [[hammer]], a [[Bible]], a [[crucifix]] and an [[hourglass]].<ref name=crash/> Once the four items have been collected, the player must track down a specific demon and cast the correct item at it in order to destroy it. Once all four demons have been destroyed, the game will end.<ref name=crash/> In order to defend against other enemies such as vampires and monsters, the player can arm themselves with "antibodies", which can then be thrown at enemies.<ref name=crash/> Antibodies can be found in houses around the village, and will slowly deplete once used by the player. Other collectible items include extra lives and boots, the latter of which enables the player character to run at a faster speed.<ref name=SU/><ref name=crash/>
+
+==Background and release==
+Ultimate Play the Game was founded by brothers [[Tim and Chris Stamper]], along with Tim's wife, Carol, from their headquarters in [[Ashby-de-la-Zouch]] in 1982. They began producing multiple video games for the [[ZX Spectrum]] throughout the early 1980s.<ref name=best>{{cite magazine|title=The Best of British – Ultimate|url=http://www.crashonline.org.uk/51/ultimate.htm|magazine=[[Crash (magazine)|Crash]]|issue=51|date=April 1988|access-date=13 August 2015}}</ref> The company were known for their reluctance to reveal details about their operations and upcoming projects. Little was known about their development process except that they used to work in separate teams; one team would work on graphics whilst the other would concentrate on other aspects such as sound or programming.<ref name=best/> When a journalist reviewing ''Nightshade'' for ''[[Crash (magazine)|Crash]]'' asked Tim and Chris Stamper what the object of the game was they responded: "Oh, we can't tell you that".<ref name="crash"/>
+
+The game was developed with the [[isometric projection]] [[game engine]] known as [[Filmation (game engine)|Filmation II]], an upgraded version of the Filmation engine.<ref name=scroll>{{cite magazine | url=http://www.crashonline.org.uk/51/runagain.htm | title=Looking For An Old Angle | magazine=[[Crash (magazine)|Crash]]| issue=51 | date=April 1988 | access-date=3 October 2006}}</ref> The Filmation engine was created by the Stamper brothers to portray 3D imagery. Filmation II used an [[image masking]] technique that drew and filled holes in the background, allowing the game to create composite structures out of pixelated drawings without visual overlay, despite the limitations platforms such as the ZX Spectrum offered.<ref>{{cite magazine|title=Game Design|magazine=[[Crash (magazine)|Crash]]|issue=29|date=June 1986|url=http://www.crashonline.org.uk/29/game_design.htm|access-date=9 September 2015}}</ref> ''Nightshade'' was first released in the United Kingdom for the [[ZX Spectrum]] in 1985, and was then [[ported]] to the [[Amstrad CPC]] and [[BBC Micro]] later that year.<ref>{{cite web|title=Nightshade overview|url=http://uk.ign.com/games/nightshade-879850/msx2-879845|website=IGN|publisher=Ziff Davis|access-date=18 May 2016}}</ref> It was also ported to the [[MSX]] exclusively in Japan in 1986.<ref>{{cite web|title=Nightshade overview (1985)|url=http://www.igromania.ru/gamebase/175642/|publisher=Igromania|access-date=18 May 2016|language=Russian}}</ref>
+
+==Reception==
+{{Video game reviews
+| CRASH = 93%<ref name="crash">{{cite magazine|last1=Irving|first1=Philippa|title=''Nightshade'' review|url=http://www.crashonline.org.uk/21/nightshade.htm|magazine=[[Crash (magazine)|Crash]]|date=October 1985|issue=21|page=10}}</ref>
+| CVG = 92%<ref name="CVG">{{cite magazine|title=Nightshade review|magazine=[[Computer and Video Games]]|date=November 1985|issue=49|page=22|url=https://archive.org/stream/Computer_Video_Games_Issue_049_1985-11_EMAP_Publishing_GB/Computer__Video_Games_Issue_049_1985-11_EMAP_Publishing_GB#page/n21/mode/2up}}</ref>
+| rev1 = ''[[Sinclair User]]''
+| rev1Score = 100%<ref name="SU">{{cite magazine|last1=Bourne|first1=Chris|title=Nightshade review|magazine=[[Sinclair User]]|date=October 1985|issue=43|page=22|url=https://archive.org/stream/sinclair-user-magazine-043/SinclairUser_043_Oct_1985#page/n21/mode/1up}}</ref>
+| rev2 = ''[[Computer Gamer]]''
+| rev2Score = 80%<ref name="CU">{{cite magazine|title=Nightshade review|magazine=[[Computer Gamer]]|date=October 1985|issue=7|page=67|url=https://archive.org/stream/Computer_Gamer_Issue_07_1985-10_Argus_Press_GB#page/n66/mode/1up}}</ref>
+| rev3 = ''Home Computing Weekly''
+| rev3Score = 80%<ref name="HCW">{{cite magazine|title=Nightshade software review|magazine=Home Computing Weekly|date=October 1985|issue=127|page=8|url=https://archive.org/stream/home-computing-weekly-127/Home_Computing_Weekly_127#page/n7/mode/2up}}</ref>
+| rev4 = ''[[Popular Computing Weekly]]''
+| rev4Score = 80%<ref name="PCW">{{cite magazine|title=Enigmatic: Nightshade|magazine=[[Popular Computing Weekly]]|date=9 December 1985|issue=13|page=14|url=https://archive.org/stream/popular-computing-weekly-1985-09-12/PopularComputing_Weekly_Issue_1985-09-12#page/n13/mode/1up}}</ref>
+| award1Pub = Crash
+| award1 = Smash!
+}}
+
+The game received positive reviews upon release. Chris Bourne of ''[[Sinclair User]]'' praised the game's new graphics system, opining that it was "wonderfully" detailed and "juiced up" in contrast to its predecessors, ''[[Knight Lore]]'' and ''[[Alien 8]]''.<ref name=SU/> A reviewer writing for ''[[Computer and Video Games]]'' praised the graphics as "great" and stated that its sound effects were "up to standard" considering the "dumb" ZX Spectrum.<ref name=CVG/> Philippa Irving of ''[[Crash (magazine)|Crash]]'' thought that the visuals and use of colours were "stunning" and up to Ultimate Play the Game's "usual standards", but she did notice a few instances of [[attribute clash]].<ref name=crash/> A reviewer writing for ''[[Computer Gamer]]'' asserted that the graphics were "as good as ever", but they admitted that the game seemed "lacking" in comparison to Ultimate Play the Game's most recent releases.<ref name=CU/> Chris Jenkins of ''[[Popular Computing Weekly]]'' opined that the game's interior visuals looked like "featureless squares", but admitted that the game's background drops were more detailed.<ref name="PCW"/>
+
+The gameplay was also praised by reviewers. Bourne opined that the game was well-paced in similar vein to arcade-style games, but noted "a sense of déjà vu" with the game's concept, stating that the developer's games were starting to "wear thin".<ref name=SU/> The reviewer from ''Computer and Video Games'' appreciated ''Nightshade''{{'}}s "nice touches", summarising that it was an instant classic from Ultimate Play the Game.<ref name=CVG/> Irving criticised the lack of instructions or hints that came with the game, and stated that ''Nightshade'' did not set new standards with programming, unlike ''Knight Lore'' and ''Alien 8'', but admitted that the game was still another "technically brilliant" game.<ref name=crash/> The reviewer from ''Computer Gamer'' enjoyed the wide range of gameplay elements, stating that it was enough to hold their attention for hours.<ref name=CU/> A reviewer from ''Home Computing Weekly'' stated that the gameplay was not as addictive as ''Knight Lore'' or ''Alien 8'' due to the game's lack of obstacles.<ref name=HCW/> Jenkins praised the game's use of its new engine, Filmation II, stating that it was ahead of "everything else" on the ZX Spectrum.<ref name=PCW/>
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* {{WoS game|id=0009383|name=Nightshade}}
+
+{{Good article}}
+{{Ultimate Play the Game}}
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:MSX games]]
+[[Category:Rare (company) games]]
+[[Category:Video games about demons]]
+[[Category:Video games with isometric graphics]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

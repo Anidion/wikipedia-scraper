@@ -1,0 +1,67 @@
+Carnival (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Carnival_%28video_game%29&oldid=1224116710
+Accessed on: 2024-06-26T16:51:34.036866
+
+
+
+------
+Carnival (video game)
+{{Short description|1980 video game}}
+{{more citations needed|date=January 2014}}
+{{Infobox video game
+| title = Carnival
+| image = Carnival (video game) cover.jpg
+| developer = [[Gremlin Industries|Gremlin]]
+| publisher = '''Arcade''' {{vgrelease|JP|[[Sega]]<ref name="Famitsu">{{cite book |chapter=1979 |title=Sega Arcade History |date=2002 |series=[[Famitsu DC]] |publisher=[[Enterbrain]] |pages=37–39 (38) |chapter-url=https://archive.org/details/segaarcadehistoryfamitsudc/page/n39 |language=ja}}</ref>|NA|[[Gremlin Industries|Sega/Gremlin]]<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=131 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n132}}</ref>}} '''Ports''' <br>[[Coleco]] (ColecoVision, 2600, Intellivision)<br>[[ANALOG Computing#analog software|ANALOG Software]] (Atari 8-bit)
+| designer = Lane Hauck<ref>{{cite web|url=https://www.sandiegoreader.com/news/1982/jul/15/cover-exactly-zaxxon/|title=San Diego's Gremlin: how video games work|publisher=[[San Diego Reader]]|date=1982-07-15|accessdate=2020-10-25}}</ref>
+| programmer = '''Atari 2600'''<br>Dan Kitchen<ref name=giantlist/><br>'''Atari 8-bit'''<br>Phil Mork<ref name=giantlist/>
+| platforms = [[Arcade video game|Arcade]], [[Atari 2600]], [[Atari 8-bit]], [[ColecoVision]], [[Intellivision]]
+| release = '''Arcade''' {{Video game release|JP|June 1980<ref name="Famitsu"/>|NA|August 1980<ref name="Akagi"/>}} '''Ports''' <br> 1982
+| genre = [[Fixed shooter]]
+| modes = 1-2 players alternating turns
+| arcade system = [[List of Sega arcade system boards#Arcade system boards|Dual]]
+}}
+
+'''''Carnival''''' is a [[fixed shooter]] developed by Gremlin and released by [[Sega]] in arcades in 1980.<ref>{{cite web |url =http://www.arcade-museum.com/game_detail.php?game_id=7286|title =Carnival |publisher =The International Arcade Museum |accessdate =9 Nov 2013 }}</ref> It was one of the first video games with a [[bonus round]].<ref>{{cite web |last1=June |first1=Laura |title=The Classics: 'Carnival' |url=https://www.theverge.com/2012/12/8/3733578/the-classics-carnival |website=[[The Verge]] |publisher=[[Vox Media]] |access-date=March 23, 2021 |archive-url=https://web.archive.org/web/20160823080357/https://www.theverge.com/2012/12/8/3733578/the-classics-carnival |archive-date=August 23, 2016 |date=December 8, 2012}}</ref>
+
+''Carnival'' was ported to the [[Atari 2600]], [[ColecoVision]], and [[Intellivision]] by Coleco. A licensed version for [[Atari 8-bit computers]] was published in 1982 by [[ANALOG Computing#analog software|ANALOG Software]], the commercial software label of ''[[ANALOG Computing]]'' magazine.<ref>{{cite web|last1=Pappas|first1=Lee|title=ANALOG Software|url=http://www.gearrant.com/atari/analog-software/|website=GearRant|date=May 12, 2014|access-date=January 3, 2016|archive-date=December 8, 2015|archive-url=https://web.archive.org/web/20151208142835/http://www.gearrant.com/atari/analog-software/|url-status=dead}}</ref><ref>{{cite web |title=Carnival |url=http://www.atarimania.com/game-atari-400-800-xl-xe-carnival_899.html |website=Atari Mania}}</ref> In 1983, [[Acornsoft]] published ''Carnival'' for the [[BBC Micro]].
+
+== Gameplay ==
+[[File:ARC Carnival.png|thumb|left|A duck flying toward the player's pistol (arcade)]]
+
+The goal of the game is to shoot at targets while conserving a limited ammunition supply for as long as possible. There are buttons for firing and left/right movement. The cocktail version replaces the directional buttons with a two-way joystick.
+
+Three rows of targets scroll across the screen in alternating directions; these include rabbits, ducks, owls, and extra-bullet targets, with higher rows awarding more points. If a duck reaches the bottom row without being shot, it will come to life and begin flying down toward the player. Any ducks that reach the bottom of the screen in this manner will eat some of the player's bullets. New ducks are added to the top row at intervals. A large pop-up target above the top row can either award or subtract bullets or points when hit. A spinning wheel with eight pipes also sits above the top row; the point value of the pipes decreases for every shot that does not hit one of them. In addition, a bonus counter increases by the value of every target shot in the three rows, and can be collected by shooting the letters of the word "BONUS" in order as they cycle through the rows. The bonus stops increasing as soon as any letter is shot.
+
+A round ends when all targets and pipes have been shot. The player receives bonus points for all unused bullets, then plays a bonus round in which a large bear with a target walks across the screen. Each time the bear is shot, it rears up for a second, then begins walking more quickly in the other direction. The object is to shoot the bear as many times as possible until it escapes off the screen, using unlimited ammunition. Following the bonus round, the next wave begins. Each subsequent bonus round adds a bear to the screen, to a maximum of four.
+
+Higher levels feature increased target point values, more ducks, fewer extra-bullet targets, faster-moving targets, and an increased rate at which new ducks appear. The game ends when the player's ammunition supply is exhausted through firing and/or being eaten by ducks.
+
+==Development==
+''Carnival'' is one of the few games that has two different [[Printed circuit board|PCB]]s, one for each version; normally a game only has one PCB with a [[DIP switch]] that sets it to either upright or cocktail mode. The upright and cocktail cabinets each come in two varieties, one woodgrain and the other painted orange and white.
+
+The tune that plays throughout the game is "[[Sobre las Olas]]" (Over the Waves) by [[Juventino Rosas]], a tune commonly associated with [[carnival]]s and [[funfair]]s. The game's [[General Instrument AY-3-8910]] chip allows for a relatively complex rendition of Rosas's waltz with overlaid sound effects.
+
+==Reception==
+''[[Electronic Games]]'' called the ColecoVision port of ''Carnival'' "a letter-perfect recreation of the arcade original that's not to be missed."<ref name="katz">{{cite journal |last1=Katz |first1=Arnie |last2=Kunkel |first2=Bill |title=Programmable Parade: Carnival |journal=Electronic Games |date=May 1983 |volume=1 |issue=15 |pages=36–37 |url=https://archive.org/details/Electronic_Games_Volume_01_Number_15_1983-05_Reese_Communications_US/page/n37}}</ref>
+
+In a retrospective discussion of the arcade game's music, video game scholar Andrew wrote, "as the track makes use of all three tone-channels—using two for the waltz's characteristic oom-pah-pah and one for its memorable melody—the resulting texture is rich enough to do the music justice. And the inclusion of numerous sound effects, including three different duck quacks and a bear's roar, makes for a veritable sonic feast."<ref>Schartmann, Andrew. ''Maestro Mario: How Nintendo Transformed Videogame Music into an Art''. New York: Thought Catalog, 2013.</ref>
+
+==References==
+{{Reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+[[Category:1980 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Coleco games]]
+[[Category:ColecoVision games]]
+[[Category:Fixed shooters]]
+[[Category:Gremlin Industries games]]
+[[Category:Intellivision games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Sega arcade games]]
+[[Category:Video games developed in the United States]]

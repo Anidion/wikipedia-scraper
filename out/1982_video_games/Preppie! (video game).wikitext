@@ -1,0 +1,81 @@
+Preppie! (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Preppie%21_%28video_game%29&oldid=1224119449
+Accessed on: 2024-06-26T16:53:53.333631
+
+
+
+------
+Preppie! (video game)
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Preppie!
+| image = Preppie! (Cover).jpg
+| caption = Cover art by Scott Ross
+| developer = Star Systems Software
+| publisher = [[Adventure International]]<br>Americana (UK)
+| designer = [[Russ Wetmore]]<ref name=mania/>
+| platforms = [[Atari 8-bit]]
+| released = {{Video game release|NA|1982|EU|1986}}
+| genre= [[Action video game|Action]]
+}}
+
+'''''Preppie!''''' is an [[Action game|action video game]] for [[Atari 8-bit computers]] published by [[Adventure International]] in 1982. It was programmed by [[Russ Wetmore]] of Star Systems Software, whose name is prominently displayed on the box cover.<ref name=mania/> Leaning on the [[preppy]] trend of the early 1980s, the game follows [[College-preparatory school|prep schooler]] Wadsworth Overcash as he navigates the hazards of a country club to retrieve golf balls.<ref name=manual/> ''Preppie!'' borrows heavily from [[Konami]]'s ''[[Frogger]]'',<ref name=kunkel/><ref name=book1983/> with lanes of traffic in the bottom half of the screen and a river crossing the top portion. Alligators are an element from both ''Frogger'' and preppy fashion; an open-mouthed gator is  the icon of shirt brand [[Izod]]. Reviewers recognized the game as derivative, but called the music and visuals some of the best for Atari 8-bit computers.
+
+''Preppie!'' was followed by a maze game, ''[[Preppie! II]]'', from the same author in 1983.<ref name=retro>{{cite web |last1=Mozejko |first1=Michael |title=Preppie! II |url=http://www.retrogamer.net/retro_games80/preppie-ii/ |website=Retro Gamer|date=21 August 2008 }}</ref> In January 2016, Russ Wetmore released the [[source code]] for both games.<ref>{{cite web |last1=Savetz |first1=Kevin |title=Interview 113 - Russ Wetmore |url=https://ataripodcast.libsyn.com/antic-interview-113-russ-wetmore-preppie-sea-dragon-homepak |website=ANTIC: The Atari 8-bit Podcast |date=January 5, 2016}}</ref>
+
+==Gameplay==
+[[File:Preppie!_Atari_8-bit_PAL_Screenshot.png|thumb|left|Wadsworth between the road and river, near a golf ball.]]
+
+Like ''[[Frogger]]'', the player must cross lanes of traffic, then jump between floating objects to reach the other side of a river. The frog is recast as a [[preppy]], and the setting moved to a country club where traffic consists of [[golf cart]]s and reel mower-pushing [[groundskeeper]]s. Canoes, logs, and [[alligator]]s occupy the water.
+
+Instead of simply getting to the other side as in ''Frogger'', the goal is to retrieve all of the golf balls and return them to the bottom of the screen. Each ball requires a separate  trip. The golf  balls appear either in the strip between the two areas or on the far side of the river.<ref name=manual/>
+
+There are ten levels. A bonus preppie is given for reaching 8,000 points.<ref name=manual/>{{clear}}
+
+==Development==
+Programmer Russ Wetmore borrowed an Atari 800 from Adventure International founder [[Scott Adams (game designer)|Scott Adams]] with the intent of writing a video game.<ref name=prepped/> Wetmore's then-spouse, Diana, suggested a "cartoonish" style of game.<ref name=savetz/> Wetmore took inspiration from the preppy fad spawned by 1980's ''[[The Official Preppy Handbook]]''. He wrote the game on in eight weeks using the Atari Macro Assembler. Being more familiar with [[Zilog Z80|Z80]] assembly language from programming the [[TRS-80]], he used macros to give a Z80 flavor to [[MOS Technology 6502|6502]] code.<ref name=savetz/>
+
+Like ''Frogger'', the music consists of multiple short pieces strung together. These include an arrangement of [[Humoresques_(Dvořák)|Humoresque Op. 101 No. 7]] by [[Antonín Dvořák]] and "[[The Fountain in the Park]]".
+
+==Reception==
+In a 1982 review for ''[[Antic (magazine)|Antic]]'', Robert DeWitt concluded "Al has a real winner here, even if the 'cover' concept is only remotely related to the game."<ref name="dewitt">{{cite journal|last1=DeWitt|first1=Robert|title=8-Bit Product Reviews|journal=Antic|date=December 1982|volume=1|issue=5|url=http://www.atarimagazines.com/v1n5/productreviews.html}}</ref>  [[Bill Kunkel (gaming)|Bill Kunkel]] of ''[[Electronic Games]]'' called it a "''Frogger''-inspired delight."<ref name="kunkel">{{cite journal|last1=Kunkel|first1=Bill|title=Computer Gaming: Preppie!|journal=Electronic Games|date=January 1983|url=https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US/page/n71 |page=72}}</ref> He clarified: "Sure it sounds familiar, but what elevates ''Preppie!'' from the score of ''Frogger''-clones on the software market is the enchanting four-part harmony sound effects and the stunning graphics."<ref name=kunkel/>
+
+[[John J. Anderson]] of ''[[Creative Computing|Creative Computing Video & Arcade Games]]'' stated that although gameplay is not original "the implementation is gorgeous."<ref name="anderson">{{Cite magazine |last1=Anderson |first1=John J. |author-link=John J. Anderson |last2=Small |first2=David |last3=Wolcott |first3=Eric F. |date=Spring 1983 |title=Atari Personal Computer Games |url=http://www.atarimagazines.com/cva/v1n1/ataripcgames.php |magazine=Creative Computing Video & Arcade Games |page=93}}</ref> A ''[[Compute!|COMPUTE!]]'' review also lauded the graphics and stated, "this program easily ranks among the best games to appear for the Atari computer to date."<ref name="kinnamon"/> ''The Book of Atari Software 1983'' gave a rating of B-minus, writing "Animation and graphics are very good" and "I can't say it's very original in design; but, like ''Frogger'', it is lots of fun."<ref name=book1983>{{cite book |title=The Book of Atari Software 1983 |date=1983 |publisher=The Book Company |isbn=0-201-10286-2 |page=114 |url=https://archive.org/details/ataribooks-the-book-of-atari-software-1983/page/n115/mode/2up}}</ref>
+
+In an "Antic Pix Ten" article, ''Antic'' chose ''Preppie!'' as "among the most popular, interesting, and valuable programs yet written for your amusement."<ref name="pix">{{cite journal|last1=Burns|first1=Deborah|title=Antic Pix Ten|journal=Antic|date=April 1983|volume=2|issue=1|page=57|url=http://www.atarimagazines.com/v2n1/anticpixten.html}}</ref> In the January 1983 issue of ''Joystik'', David and Sandy Small included ''Preppie!'' on a similar list of their ten "most heavily played, and most recommended, games."<ref name="small">{{cite journal |title=Computer '83 |journal=Joystik |date=January 1983 |volume=1 |issue=4 |last1=Small |first1=David |last2=Small |first2=Sandy |url=https://archive.org/details/joystik_magazine-1983-01/page/n65 |page=64}}</ref>
+
+==Legacy==
+''Preppie!'' was followed by ''[[Preppie! II]]'' in 1983, also by Wetmore.<ref>{{cite web|title=Preppie! II|url=http://www.atarimania.com/game-atari-400-800-xl-xe-preppie-ii_4088.html|website=Atari Mania}}</ref> The sequel is a maze game where the object is to paint the corridors pink by moving through them.<ref name="llamasoft">{{cite web|last1=Minter|first1=Jeff|title=Atarians of Note|url=http://minotaurproject.co.uk/blog/?p=427|website=Llamasoft Blog|date=November 27, 2016}}</ref> Elements of the original return as obstacles, including giant frogs, golf carts, and lawn mowers.<ref name="llamasoft"/>
+
+Wetmore mentioned a possible third game in the series when interviewed by ''[[Electronic Games]]'' in 1983, giving the tentative title as ''Preppies in Space''.<ref name=prepped/> He was asked about this in 2005, and his response was posted to the AtariAge forums: {{quote|Some conceptual work was done on ''Preppie 3'', but nothing ever came of it. When I was interviewed for ''Electronic Games'' (the only place I ever mentioned P3) I was in New York for an awards ceremony and had just come from a brainstorming session to come up with some talking points for the press. The interview was more to generate buzz than to promote future products, and when the bottom fell out of the games market in the coming months, I gave up game writing to focus on other types of software, notably [[HomePak]].<ref name="atariage">{{cite web|title=Preppie Three? - Atari 8-Bit Computer Forums|url=https://atariage.com/forums/topic/65107-preppie-three/|website=AtariAge|date=February 20, 2005}}</ref>}}
+
+==See also==
+*''[[Pacific Coast Highway (video game)|Pacific Coast Highway]]'' (1982)
+
+== References ==
+{{Reflist|refs=
+<ref name=mania>{{cite web |url=http://www.atarimania.com/game-atari-400-800-xl-xe-preppie_s4087.html |website=Atari Mania |title=Preppie!}}</ref>
+<ref name="manual">{{cite book |title=Preppie! Manual |date=1982 |publisher=Adventure International |url=https://archive.org/details/PreppieAdventureInternational}}</ref>
+<ref name="prepped">{{cite magazine|last1=Covert|first1=Colin|title=Russ Wetmore: Prepped for Success|magazine=Electronic Games|date=September 1983|url=https://archive.org/details/Electronic_Games_Volume_02_Number_07_1983-09_Reese_Communications_US/page/n85 |page=85}}</ref>
+<ref name="savetz">{{cite web|last1=Savetz|first1=Kevin|title=ANTIC Interview 113 - Russ Wetmore, Preppie!, Sea Dragon, HomePak|url=http://ataripodcast.libsyn.com/antic-interview-113-russ-wetmore-preppie-sea-dragon-homepak|website=ANTIC the 8-bit Podcast|date=January 4, 2016}}</ref>
+<ref name="kinnamon">{{cite magazine|last1=Kinnamon|first1=Mike|magazine=Compute!|date=January 1983|issue=32|page=140|url=http://www.atarimagazines.com/compute/issue32/069_1_REVIEWS_PREPPIE_FOR_ATARI.php |title=Preppie! For Atari}}</ref> 
+}}
+'''Bibliography'''
+* {{cite magazine |title=Preppie! II review |last1=Yuen |first1=M.T. |magazine=Softline |volume=2 |number=3 |page=42 |date=May 1983 }}
+* {{cite magazine |title=Computer '83 (Preppie! review) |magazine=Video Games |volume=1 |number=4 |page=64 |date=January 1983 }}
+* {{cite magazine |title=Atari Christmas (Preppie! review) |magazine=Softside |volume=6 |number=35 |page=90 |date=1983 }}
+* {{cite magazine |title=Preppie! review |last=Reichmann |first=M. |magazine=InfoAge |volume=1 |number=7 |page=29 |date=December 1982 }}
+* {{cite magazine |title=Screenplay (Preppie! review) |last=Olney |first=D. |magazine=Personal Computer World |volume=6 |page=153 |date=March 1983 }}
+* {{cite magazine |title=Preppie! review |magazine=Computers & Electronics |number=21 |page=102 |date=March 1983 }}
+
+==External links==
+*[http://www.atarimania.com/game-atari-400-800-xl-xe-preppie_s4087.html ''Preppie!''] at Atari Mania
+
+[[Category:1982 video games]]
+[[Category:Adventure International games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Top-down video games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]

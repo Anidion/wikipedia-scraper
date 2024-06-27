@@ -1,0 +1,243 @@
+Twin Hawk
+Permalink: //en.wikipedia.org/w/index.php?title=Twin_Hawk&oldid=1230602111
+Accessed on: 2024-06-26T17:07:45.007682
+
+
+
+------
+Twin Hawk
+{{Use dmy dates|date=February 2020}}
+{{Infobox video game
+|title         = Twin Hawk
+|image         = Twin Hawk arcade flyer.jpg
+|developer     = [[Toaplan]]
+|publisher     = [[Taito]]
+|designer      = Yuichirō Nozawa
+|artist        = Sanae Nitō<br />Yuko Tataka
+|composer      = Osamu Ōta
+|platforms     = [[Arcade game|Arcade]], [[PC Engine]], [[PC Engine CD-ROM²]], [[Sega Mega Drive]]
+|released      = {{vgrelease|WW|June [[1989 in video gaming|1989]]<ref name="ATVGL:JaO1971-2005">{{cite book|last=Akagi|first=Masumi|url=https://archive.org/stream/ArcadeGameList1971-2005#page/n44/mode/1up|title=タイトー (Taito); 東亜プラン (Toa Plan)|work=アーケードTVゲームリスト 国内•海外編 (1971-2005)|edition=1st|publisher=[[:ja:アミューズメント通信社|Amusement News Agency]]|date=13 October 2006|pages=43, 50|isbn=978-4990251215|language=ja}}</ref>}}
+|genre         = [[Shoot 'em up#Types|Vertically scrolling shooter]]
+|modes         = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|arcade system = [[Arcade system board#Taito|Taito X System]]<ref name="s16">{{cite web|url=https://www.system16.com/hardware.php?id=649&page=1#1590|title=Taito X System Hardware (Taito)|website=system16.com|accessdate=2020-02-15|archive-url=https://web.archive.org/web/20190916052636/http://www.system16.com/hardware.php?id=649&page=1#1590|archive-date=16 September 2019|url-status=live}}</ref>
+}}
+
+'''''Twin Hawk'''''{{efn|Also known as {{nihongo|'''''Daisenpu'''''|{{ruby|大旋風|だいせんぷう}}|''Daisenpū''|lit. ''"Great Whirlwind"''|lead=yes}} in Japan.}} is a [[1989 in video gaming|1989]] [[Shoot 'em up#Types|vertically scrolling shooter]] [[Arcade game|arcade]] [[video game]] originally developed by [[Toaplan]] and published by [[Taito]]. Taking place at the end of an alternative [[World War II]] setting, where [[general]] Giovanni and his [[army]] plots to take over the fictional country Gorongo, players assume the role of a wing commander from the Daisenpū [[Squadron (aviation)|squadron]] taking control of a [[Flying Fortress]] [[fighter aircraft]] (known as the A6M Zero) in an effort to overthrow the enemy.
+
+Created by Yuichirō Nozawa, ''Twin Hawk'' was developed as a commission for Taito by most of the same team that previously worked on several projects at Toaplan and made use of the former's [[Arcade system board#Taito|Taito X System]] board. Though it was initially launched for the arcades, the game was later [[Porting#Porting in gaming|ported]] to [[Home video game console|console]]s including the [[Sega Mega Drive]], [[PC Engine]] and [[TurboGrafx-16#TurboGrafx-CD/CD-ROM²|PC Engine CD-ROM²]], with each one featuring several changes and additions compared to the original version.
+
+The rights to the title are currently owned by Tatsujin, a Japanese company formed by former Toaplan member Masahiro Yuge.
+
+== Gameplay ==
+[[File:ARC Twin Hawk (Daisenpū).png|thumb|left|Arcade version screenshot]]
+''Twin Hawk'' is a military-themed vertically scrolling [[shoot 'em up]] game reminiscent of ''[[Flying Shark]]'', in which players assume the role of a wing commander from the Daisenpū squadron taking control of a Flying Fortress fighter aircraft (known as the A6M Zero Fighter) through multiple levels to defeat an assortment of military enemy forces like [[tank]]s, [[battleship]]s, and [[artillery]] to overthrow general Giovanni and his army as the main objective.<ref name="THMDmanual">''Twin Hawk'' manual (Sega Mega Drive, EU)</ref><ref name="THhg101">{{cite web|last=Zverloff|first=Nick|url=http://www.hardcoregaming101.net/twin-hawk/|title=Twin Hawk|publisher=Hardcore Gaming 101|date=4 February 2011|access-date=2020-02-16|archive-url=https://web.archive.org/web/20190701231650/http://www.hardcoregaming101.net/twin-hawk/|archive-date=1 July 2019|url-status=live}}</ref><ref name="THss">{{cite web|url=http://shootingstar.game.coocan.jp/daisenpu.html|title=大旋風|publisher=Shooting Star|access-date=2020-02-17|language=ja|archive-url=https://web.archive.org/web/20191025170507/http://shootingstar.game.coocan.jp/daisenpu.html|archive-date=25 October 2019|url-status=live}}</ref> Like ''[[Tiger-Heli]]'', there are no flying enemies in the game.<ref name="THhg101"/> The title initially appears to be a standard vertical scrolling shooter, with players controlling their craft over a constantly scrolling background and the scenery never stops moving. Enemies are shot down using the main shot that travels a max distance of the screen's height. Common to Toaplan arcade titles, there are various differences between the Japanese and western versions, such as ''Twin Hawk'' versions containing co-operative play.<ref name="ah">{{cite web|url=https://www.arcade-history.com/?n=twin-hawk&page=detail&id=3005|title=Twin Hawk|website=arcade-history.com|accessdate=2020-02-15|archive-url=https://web.archive.org/web/20160421054529/http://www.arcade-history.com/?n=twin-hawk&page=detail&id=3005|archive-date=21 April 2016|url-status=live}}</ref>
+
+A unique gameplay feature is the [[bomb]] mechanic in the form of a group of friendly planes;<ref name="THMDmanual"/><ref name="THhg101"/><ref name="THss"/> pressing the bomb button will call in six Flying Fortresses to surround and protect the player's plane and provide back-up fire. After taking enemy fire, the friendly planes perform a [[kamikaze]] attack against nearest enemies below but players can also lead them to perform kamikaze as well by pressing the bomb button once all planes are already in formation. Double tapping the bomb button activates a bomb capable of obliterating any enemy caught within its [[blast radius]]. There are also various types of [[Item (gaming)|item]]s scattered through every level: "P" icons to upgrade the player's main gun, extra helper/bomb stocks and [[1UP]]s.
+
+Depending on the settings in the arcade version, the title uses either a [[Saved game#Checkpoints|checkpoint]] system in which a downed single player will start off at the beginning of the checkpoint they managed to reach before dying, or a [[respawn]] system where their ship immediately starts at the location they died at.<ref name="ah"/> Getting hit by enemy fire results in losing a live, as well as a penalty of decreasing the ship's [[firepower]] and once all lives are lost, the [[Game over|game is over]] unless the players insert more credits into the arcade machine to [[Glossary of video game terms#Continue|continue]] playing. The game loops back to the first level after completing the last one as with previous titles from Toaplan, with each one increasing the difficulty and enemies fire denser [[bullet]] patterns.
+
+== Synopsis ==
+The plot summary of ''Twin Hawk'' varies between each region and version.<ref name="THMDmanual"/><ref name="DSPflyer">''Daisenpū'' arcade flyer (Taito, JP)</ref><ref name="THflyer">''Twin Hawk'' arcade flyer (Taito, EU)</ref> At the end of an alternate World War II, a new European country is formed called Gorongo. General Giovanni of the Gorongo military was infuriated with the results of the war and what it meant to the country of Gorongo, initiating a rebellion against the country's government that was widely followed by his soldiers. Holing themselves up on Bobo Island, south of Gorongo, Giovanni declared the occupation as the independent state of Fuangania and plotted to take over Gorongo. After taking over the town of Kusunoki, the Fuangania invasion – consisting of massive ground and sea attack forces – started to spread. Gorongo President Bratt ordered a counterattack that focused on the one type of firepower Giovanni lacked: an air force. The special air force "Daisenpū" sets up a mountain base after spotting a secret Fuangania fortress under construction. However, nearing the end of their training, the airforce is spotted by the Fuangania and are preparing to attack. It's up to the player, in the role of a wing commander, to fly into Giovanni's secret base and take him and his commanding unit out.
+
+== Development and release ==
+[[File:Twin Hawk art design.jpg|thumb|150px|right|Most of the artwork were hand-drawn sketches created by the development team before being transpose to [[pixel art]] graphics.]]
+''Twin Hawk'' was created as a commission for Taito by most of the same team that worked on previous projects at Toaplan and made use of the former's Taito X System board.<ref name="s16"/><ref name="STGv4a">{{cite magazine|last1=Kiyoshi|first1=Tane|author2=hally (VORC)|last3=Yūsaku|first3=Yamamoto|title=東亜プラン特集 - 元・東亜プラン 開発者インタビュー: 上村建也|magazine=Shooting Gameside|volume=4|publisher=Micro Magazine|date=3 February 2012|pages=33–40|lang=ja|isbn=978-4896373844}} ([http://shmuplations.com/toaplan-uemura1/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20190906023755/http://shmuplations.com/toaplan-uemura1/|date=2019-09-06}}).</ref> Yuichirō Nozawa, who previously had not worked on shoot 'em up titles, served as its [[Video game design#Game designer|game designer]].<ref name="TFf25v9">{{cite magazine|author1=Iona|author2=VHS|author3=K-HEX|title=東亜プラン FOREVER|magazine=Floor 25|volume=9|date=June 2009|pages=1–70|lang=ja}} ([https://www.gamengai.com/#/cmnt-info?id=2332 Translation] by Gamengai. {{Webarchive|url=https://web.archive.org/web/20201010170328/https://www.gamengai.com/#/cmnt-info?id=2332|date=2020-10-10}}).</ref> Both Sanae Nitō and Yuko Tataka also acted as designers in the development cycle.<ref name="B!MD14">{{cite magazine|url=https://archive.org/details/beep-megadrive-1990-11/page/n88/mode/1up|title=当世ゲーム業界 働く女性事情 - ワーキング・ガール: 田高祐子•二藤早苗 (東亜プラン) Character Designer|magazine=[[Gemaga|Beep! Mega Drive]]|issue=14|publisher=[[SB Creative|SoftBank Creative]]|date=November 1990|page=87|lang=ja}} ([http://shmuplations.com/womenofgamedesign/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20191121223355/http://shmuplations.com/womenofgamedesign/|date=2019-11-21}}).</ref> Osamu "Lee" Ōta scored the [[Soundtrack#Video game soundtracks|soundtrack]], becoming his sole work as [[Video game music#Composers|composer]] for a shoot 'em up title.<ref name="ah"/><ref name="PSGv10">{{cite magazine|last=Abeto|first=Kobatsu|title=東亜プランインタビュー|magazine=PSG|volume=10|publisher=F.S.G Club|date=September 1989|lang=ja}} ([http://shmuplations.com/toaplan-psg/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20170531193430/http://shmuplations.com/toaplan-psg/|date=2017-05-31}}).</ref><ref name="STGv4b">{{cite magazine|last1=Kiyoshi|first1=Tane|author2=hally (VORC)|last3=Yūsaku|first3=Yamamoto|title=東亜プラン特集 - 元・東亜プラン 開発者インタビュー: 弓削雅稔|magazine=Shooting Gameside|volume=4|publisher=Micro Magazine|date=3 February 2012|pages=41–48|lang=ja|isbn=978-4896373844}} ([http://shmuplations.com/toaplan-yuge1/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20190906023744/http://shmuplations.com/toaplan-yuge1/|date=2019-09-06}}).</ref> The game was released by Taito in Japanese and European arcades on June 1989.<ref name="ATVGL:JaO1971-2005"/> On 29 August [[2018 in video gaming|2018]], an album containing its audio, as well as from other Toaplan titles was published exclusively in Japan by [[City Connection (company)|City Connection]] under their Clarice Disk label.<ref name="THvgmdb">{{cite web|url=https://vgmdb.net/album/79672|title=CDST-10068 &#124; Toaplan ARCADE SOUND DIGITAL COLLECTION Vol.9|work=vgmdb.net|publisher=VGMdb|access-date=2020-02-17|archive-url=https://web.archive.org/web/20191208015908/https://vgmdb.net/album/79672|archive-date=2019-12-08|url-status=live}}</ref> It was also featured on a Japanese [[TV show]], with ''[[Pokémon]]'' creator [[Satoshi Tajiri]] reviewing the arcade version.<ref>{{cite video|url=https://www.youtube.com/watch?v=c8tVYKiWtns&t |archive-url=https://ghostarchive.org/varchive/youtube/20211215/c8tVYKiWtns |archive-date=2021-12-15 |url-status=live|work=[[YouTube]]|date=January 5, 2017|author=1983parrothead|title=Satoshi Tajiri Reviewing Games (English Available!)|access-date=2020-02-27}}{{cbignore}}</ref>
+
+''Twin Hawk'' was ported a year later in-house by the same staff from the original arcade release to the Sega Mega Drive in Japan on 23 June [[1990 in video gaming|1990]], and in Europe on 25 July of the same year.<ref name="TFf25v9"/><ref name="WFTMDd"/> The Mega Drive port stays faithful to the original arcade release but has a number of key differences such as having a smaller color palette that lead to sprites being recolored in different ways, along with other presentation and gameplay changes from the original version.<ref name="THhg101"/> Tataka stated that working with the Mega Drive proved to be difficult due to several restrictions imposed by the hardware.<ref name="B!MD14"/>
+
+''Twin Hawk'' was later ported by Center Tech and published by [[NEC Avenue]] to the PC Engine exclusively in Japan on 14 December of the same year after the Mega Drive version.<ref>{{cite web|author=CRV|url=http://gdri.smspower.org/wiki/index.php/Center_Tech|title=Center Tech|website=gdri.smspower.org|date=3 September 2015|access-date=2020-02-17|archive-url=https://web.archive.org/web/20161009183719/http://gdri.smspower.org/wiki/index.php/Center_Tech|archive-date=9 October 2016|url-status=live}}</ref><ref name="WFTPCEd"/> On 26 July 1991, an enhanced re-issue of the PC Engine version for the PC Engine CD-ROM² titled ''Daisenpu Custom''{{efn|{{nihongo|大旋風 カスタム|Daisenpū Custom}}}} was released, which is similar to the previous PC Engine version with the added benefit of arranged [[CD-DA]] soundtrack and additional stages and enemies.<ref name="THhg101"/><ref name="WFTPCECDROMdc"/> However, there are changes between the card and CD versions such as levels now being broken into areas instead of being continuous.<ref name="THhg101"/>
+
+== Reception ==
+{| class="wikitable" style="float:right; font-size:80%; text-align:center; margin:1em; margin-top:0; padding:0; background:none;" cellpadding="0"
+! colspan=5 style="font-size: 100%" | Reception
+|-
+! colspan=5 | [[Video game journalism|Review scores]]
+|-
+! rowspan=2 | Publication
+! colspan=4 | Scores
+|-
+! [[Arcade game|ARC]]
+! [[Sega Mega Drive|SMD]]
+! [[TurboGrafx-16|PCE]]
+! [[TurboGrafx-16#TurboGrafx-CD/CD-ROM²|PCE CD-ROM²]]
+|-
+| ''[[ACE (magazine)|ACE]]''
+| {{N/A}}
+| 715 / 1000<ref name="ACEMDth">{{cite magazine|last=Lacey|first=Eugene|url=https://archive.org/stream/ACEIssue36Sep90#page/n55/mode/2up|title=Screentest - Console: Flying Shark - The Megadrive is under fire from air, sea and land|magazine=[[ACE (magazine)|ACE]]|issue=36|publisher=[[Ascential|EMAP]]|date=September 1990|pages=56–57}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Aktueller Software Markt|ASM]]''
+| {{N/A}}
+| 6 / 12<ref name="ASMMDh">{{cite magazine|last=Oppermann|first=Torsten|url=https://archive.org/stream/Aktueller_Software_Markt_-_Ausgabe_1990.10#page/n98/mode/1up|title=Konsolen - Ein Ziemlich Laues Lüftchen|magazine=[[Aktueller Software Markt]]|issue=45|publisher=Tronic Verlag|date=October 1990|page=99|lang=de}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Gemaga|Beep! Mega Drive]]''
+| {{N/A}}
+| 30 / 40<ref name="B!MDd">{{cite magazine|url=https://retrocdn.net/index.php?title=File:BeepMD_JP_1990-07.pdf&page=17|title=BEメガ•ドッグレース – 大旋風|magazine=[[Gemaga|Beep! Mega Drive]]|issue=10|publisher=[[SB Creative|SoftBank Creative]]|date=July 1990|page=15|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Computer and Video Games|CVG]] [[Mean Machines|MM]]''
+| {{N/A}}
+| 71%<ref name="CVGMMMDfs">{{cite magazine|last=Rignall|first=Julian|author-link=Julian Rignall|url=https://archive.org/details/Complete_Guide_to_Consoles_Volume_IV_1990_EMAP_Publishing_GB/page/n27|title=Complete Guide to Consoles – The Complete Games Guide – Megadrive – Flying Shark|magazine=[[Computer and Video Games]] [[Mean Machines]]|issue=4|publisher=[[Ascential|EMAP]]|date=November 1990|pages=26–39}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:fr:Consoles +|Consoles +]]''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 76%<ref name="C+PCECDROMd">{{cite magazine|last=Kun|first=Kaneda|url=http://download.abandonware.org/magazines/Consoles%20Plus/consoleplus_numero001/Consoles%20%2B%20001%20-%20Page%20059%20(septembre%201991).jpg|title=PC Engine Review - Daisenpu Custom|magazine=[[:fr:Consoles +|Consoles +]]|issue=1|publisher=[[:fr:M.E.R.7|M.E.R.7]]|date=September 1991|page=59|lang=fr|access-date=15 February 2020|archive-url=https://web.archive.org/web/20150918201223/http://download.abandonware.org/magazines/Consoles%20Plus/consoleplus_numero001/Consoles%20%2B%20001%20-%20Page%20059%20(septembre%201991).jpg|archive-date=18 September 2015|url-status=live}}</ref>
+|-
+| ''[[Famitsu]]''
+| {{N/A}}
+| 30 / 40<ref name="WFTMDd">{{cite magazine|title=30 Point Plus: 大旋風|magazine=[[Famitsu]]|issue=309|publisher=[[ASCII Corporation|ASCII]]|date=11–18 November 1994|page=39|lang=ja}}</ref>
+| 23 / 40<ref name="WFTPCEd">{{cite magazine|url=https://archive.org/stream/bi-weekly-famitsu-no.-117-december-21st-1990/Bi-Weekly%20Famitsu%20-%20No.%20117%20December%2021st%2C%201990%20%28Compressed%29#page/n35/mode/1up|title=大旋風 (PCエンジン)|magazine=[[Famitsu]]|issue=117|publisher=[[ASCII Corporation]]|date=21 December 1990|page=36|language=ja}}</ref>
+| 25 / 40<ref name="WFTPCECDROMdc">{{cite web|url=https://www.famitsu.com/games/t/7274/|title=大旋風カスタム (PCエンジン) - ファミ通.com|magazine=[[Famitsu]]|publisher=Kadokawa Game Linkage|year=2020|access-date=2020-02-15|language=ja}}</ref>
+|-
+| ''[[The Games Machine|TGM]]''
+| {{N/A}}
+| 60%<ref name="TGMMDth">{{cite magazine|last=Lapworth|first=Warren|url=https://archive.org/stream/the-games-machine-34#page/n59/mode/1up|title=Reviews - Shorts: Air Attack '44 (Genesis)|magazine=[[The Games Machine]]|issue=34|publisher=[[Newsfield|Newsfield Publications]]|date=September 1990|page=60}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:ja:月刊PCエンジン|Gekkan PC Engine]]''
+| {{N/A}}
+| {{N/A}}
+| 74 / 100<ref name="GPCEd">{{cite magazine|title=大旋風|magazine=[[:ja:月刊PCエンジン|Gekkan PC Engine]]|publisher=[[Shogakukan]]|lang=ja}}</ref>
+| 74 / 100<ref name="GPCECDROMde">{{cite magazine|title=大旋風 カスタム|magazine=[[:ja:月刊PCエンジン|Gekkan PC Engine]]|publisher=[[Shogakukan]]|lang=ja}}</ref>
+|-
+| ''[[:fr:Gen4|Génération 4]]''
+| {{N/A}}
+| {{N/A}}
+| 79%<ref name="G4PCEh">{{cite magazine|url=http://download.abandonware.org/magazines/Generation%204/generation4_numero030/generation%204%20-%20N030%20-%20fevrier%201991%20-%20page082%20et%20page083.jpg|title=Tests CoregrafX - Hurricane|magazine=[[:fr:Gen4|Génération 4]]|issue=30|publisher=Computec Media France|date=February 1991|page=83|lang=fr}}</ref>
+| {{N/A}}
+|-
+| ''[[:fr:Joystick (magazine)|Joystick]]''
+| {{N/A}}
+| 71%<ref name="JstickMDth1">{{cite magazine|last=Demoly|first=Jean-Marc|url=http://download.abandonware.org/magazines/Joystick/joystick_numero008/joystick%20-%20N008%20-%20septembre%201990%20-%20page088%20et%20page089.jpg|title=Consoles News - Megadrive: Flying Shark|magazine=[[:fr:Joystick (magazine)|Joystick]]|issue=8|publisher=[[:fr:Anuman Interactive|Anuman Interactive]]|date=September 1990|page=89|lang=fr}}</ref><br>53%<ref name="JstickMDth2">{{cite magazine|url=http://download.abandonware.org/magazines/Joystick/joystick_numerohs03/Joystick%20HS%20n%b03%20-%20Juillet%20Ao%fbt%201991%20-%20Page%20136.jpg|title=Console News - Megadrive: Twin Hawk|magazine=[[:fr:Joystick (magazine)|Joystick]]|issue=Hors-Serie 3|publisher=[[:fr:Anuman Interactive|Anuman Interactive]]|date=July–August 1991|page=136|lang=fr}}</ref>
+| 61%<ref name="JstickPCEh1">{{cite magazine|last=Demoly|first=Jean-Marc|url=http://download.abandonware.org/magazines/Joystick/joystick_numero013/page%20097.jpg|title=Consoles News - PC Engine: Hurricane|magazine=[[:fr:Joystick (magazine)|Joystick]]|issue=13|publisher=[[:fr:Anuman Interactive|Anuman Interactive]]|date=February 1991|page=97|lang=fr}}</ref><br>46%<ref name="JstickPCEh2">{{cite magazine|last=Demoly|first=Jean-Marc|url=http://download.abandonware.org/magazines/Joystick/joystick_numerohs03/Joystick%20HS%20n%b03%20-%20Juillet%20Ao%fbt%201991%20-%20Page%20080.jpg|title=Console News - PC Engine: Hurricane|magazine=[[:fr:Joystick (magazine)|Joystick]]|issue=Hors-Serie 3|publisher=[[:fr:Anuman Interactive|Anuman Interactive]]|date=July–August 1991|page=80|lang=fr}}</ref>
+| {{N/A}}
+|-
+| ''[[:ja:マル勝PCエンジン|Marukatsu PC Engine]]''
+| {{N/A}}
+| {{N/A}}
+| 27 / 40<ref name="MPCEd">{{cite magazine|title=大旋風|magazine=[[:ja:マル勝PCエンジン|Marukatsu PC Engine]]|publisher=[[Kadokawa Shoten]]|lang=ja}}</ref>
+| {{N/A}}
+|-
+| ''[[Mega Drive Advanced Gaming|MDAG]]''
+| {{N/A}}
+| 56%<ref name="MDAGMDth">{{cite magazine|title=Review: Twin Hawk|magazine=[[Mega Drive Advanced Gaming]]|issue=5|publisher=[[Maverick Magazines]]|date=January 1993|pages=90–95}}</ref><br>41%<ref name="MDAGMDth"/>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:ja:メガドライブFAN|Mega Drive Fan]]''
+| {{N/A}}
+| 16.85 / 30<ref name="MDFMDd">{{cite magazine|title=Mega Drive & Game Gear All Catalog '93 7月号特別付録 - 大旋風|magazine=[[:ja:メガドライブFAN|Mega Drive Fan]]|issue=42|publisher=[[Tokuma Shoten]]|date=15 July 1993|page=61|lang=ja}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[MegaTech]]''
+| {{N/A}}
+| 71%<ref name="MegaTMDth1">{{cite magazine|url=https://retrocdn.net/index.php?title=File:MegaTech_UK_01.pdf&page=78|title=Game Index - Flying Shark|magazine=[[MegaTech]]|issue=1|publisher=[[Ascential|EMAP]]|date=December 1991|page=78}}</ref><br>60%<ref name="MegaTMDth2">{{cite magazine|url=https://retrocdn.net/index.php?title=File%3AMegaTech_UK_01.pdf&page=81|title=Game Index - Twin Hawk|magazine=[[MegaTech]]|issue=1|publisher=[[Ascential|EMAP]]|date=December 1991|page=81}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Micromanía]]''
+| {{N/A}}
+| 7 / 10<ref name="MMMDth">{{cite magazine|last=Barbero|first=José Emilio|url=https://archive.org/stream/micromania-segunda-epoca-35#page/n43/mode/1up|title=Consola Sega - Megadrive: Ases de los cielos - Twin Hawk|magazine=[[Micromanía]]|volume=2|issue=35|publisher=HobbyPress|date=April 1991|page=44|lang=es}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[:ja:PC Engine FAN|PC Engine Fan]]''
+| {{N/A}}
+| {{N/A}}
+| 20.39 / 30<ref name="PCEFPCEdPCECD-ROMdc">{{cite magazine|title=PC Engine All Catalog '93 10月号特別付録 - 大旋風 / 大旋風 カスタム|magazine=[[:ja:PC Engine FAN|PC Engine Fan]]|volume=6|issue=10|publisher=[[Tokuma Shoten]]|date=1 October 1993|page=82|lang=ja}}</ref>
+| 19.43 / 30<ref name="PCEFPCEdPCECD-ROMdc"/>
+|-
+| ''[[:de:Power Play (Zeitschrift)|Power Play]]''
+| {{N/A}}
+| 45%<ref name="PPMDh">{{cite magazine|last=Lenhardt|first=Heinrich|url=https://www.kultboy.com/index.php?site=t&id=14563|title=Power Tests / Video-Spiele: Geschwader-Geselligkeit - Hurrican (Mega Drive)|magazine=[[:de:Power Play (Zeitschrift)|Power Play]]|issue=30|publisher=Future Verlag|date=September 1990|page=119|lang=de}}</ref>
+| 45%<ref name="PPPCEh">{{cite magazine|last=Lenhardt|first=Heinrich|url=https://www.kultboy.com/index.php?site=t&id=10410|title=Power Tests / Videospiele: Hurrican (PC-Engine)|magazine=[[:de:Power Play (Zeitschrift)|Power Play]]|issue=37|publisher=Future Verlag|date=April 1991|page=136|lang=de}}</ref>
+| {{N/A}}
+|-
+| ''[[Raze (magazine)|Raze]]''
+| {{N/A}}
+| 87%<ref name="RMDth">{{cite magazine|last=Ellis|first=Les|url=https://archive.org/stream/RAZE_Issue_06_1991-04_Newsfield_Publishing_GB#page/n43/mode/1up|title=Reviews - Twin Hawk (Mega Drive)|magazine=[[Raze (magazine)|Raze]]|issue=6|publisher=[[Newsfield]]|date=April 1991|page=44|access-date=15 February 2020|archive-url=https://web.archive.org/web/20161007204033/https://archive.org/stream/RAZE_Issue_06_1991-04_Newsfield_Publishing_GB#page/n43/mode/1up|archive-date=7 October 2016|url-status=live}}</ref>
+| 79%<ref name="RPCEh">{{cite magazine|last=Ellis|first=Les|url=https://archive.org/stream/RAZE_Issue_05_1991-03_Newsfield_Publishing_GB#page/n78/mode/1up|title=Import - Hurricane (PC Engine)|magazine=[[Raze (magazine)|Raze]]|issue=5|publisher=[[Newsfield]]|date=March 1991|page=79|access-date=15 February 2020|archive-url=https://web.archive.org/web/20180327094111/https://archive.org/stream/RAZE_Issue_05_1991-03_Newsfield_Publishing_GB#page/n78/mode/1up|archive-date=27 March 2018|url-status=live}}</ref>
+| {{N/A}}
+|-
+| ''[[Sega Power#Sega Power|Sega Power]]''
+| {{N/A}}
+| 60%<ref name="SPowerMDth1">{{cite magazine|url=https://retrocdn.net/index.php?title=File%3ASegaPower_UK_17.pdf&page=44|title=Mega Drive - Twin Hawk|magazine=[[Sega Power#Sega Power|Sega Power]]|issue=17|publisher=[[Future plc]]|date=April 1991|page=44}}</ref><br>{{Rating|3|5}}<ref name="SPowerMDth2">{{cite magazine|last=Jarratt|first=Steve|url=https://retrocdn.net/index.php?title=File:SegaPower_UK_23.pdf&page=52|title=The Hard Line - 1943 (Import)|magazine=[[Sega Power#Sega Power|Sega Power]]|issue=23|publisher=[[Future plc]]|date=October 1991|page=52}}</ref><br>{{Rating|3|5}}<ref name="SPowerMDth3">{{cite magazine|last=Jarratt|first=Steve|url=https://retrocdn.net/index.php?title=File%3ASegaPower_UK_23.pdf&page=55|title=The Hard Line - Twin Hawk (Import)|magazine=[[Sega Power#Sega Power|Sega Power]]|issue=23|publisher=[[Future plc]]|date=October 1991|page=55}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Sega Pro]]''
+| {{N/A}}
+| 64 / 100<ref name="SProMDth">{{cite magazine|title=Mega Drive – ProReview: Twin Hawk|magazine=[[Sega Pro]]|issue=18|publisher=[[Paragon Publishing]]|date=April 1993|page=64}}</ref>
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Tilt (French magazine)|Tilt]]''
+| {{N/A}}
+| 14 / 20<ref name="TiltMDh">{{cite magazine|last=Huyghues-Lacour|first=Alain|url=http://download.abandonware.org/magazines/Tilt/tilt_numero081/TILT%20-%20n081%20-%20septembre%201990%20-%20page086%20et%20087.jpg|title=Rolling Softs - Hurricane (Megadrive, cartouche Sega)|magazine=[[Tilt (French magazine)|Tilt]]|issue=81|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=September 1990|page=87|lang=fr|access-date=15 February 2020|archive-url=https://web.archive.org/web/20160316145037/http://download.abandonware.org/magazines/Tilt/tilt_numero081/TILT%20-%20n081%20-%20septembre%201990%20-%20page086%20et%20087.jpg|archive-date=16 March 2016|url-status=live}}</ref>
+| 13 / 20<ref name="TiltPCEh">{{cite magazine|last=Huyghues-Lacour|first=Alain|url=http://download.abandonware.org/magazines/Tilt/tilt_numero088/TILT%20088%20%28Mars%201991%29%20Page%20067.jpg|title=Rolling Softs - Hurricane (PC Engine, carte NEC Avenue)|magazine=[[Tilt (French magazine)|Tilt]]|issue=88|publisher=[[:fr:Mondadori France|Editions Mondiales S.A.]]|date=March 1991|page=67|lang=fr}}</ref>
+| {{N/A}}
+|-
+| ''[[Your Sinclair]]''
+| 70° / 100°<ref name="YSARCth">{{cite magazine|last=Bielby|first=Matt|url=https://archive.org/details/your-sinclair-46/page/n78/mode/1up|title=Slots Of Fun - Twin Hawk|magazine=[[Your Sinclair]]|issue=46|publisher=[[Dennis Publishing]]|date=October 1989|page=79}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| ''[[Zero (video game magazine)|Zero]]''
+| {{Rating|1|5}}<ref name="ZARCth">{{cite magazine|last=Bielby|first=Matt|url=https://archive.org/stream/zero-magazine-01/Zero_01_Nov_1989#page/n86/mode/1up|title=Dosh Eaters - Twin Hawk (Taito/20p a go)|magazine=[[Zero (video game magazine)|Zero]]|issue=1|publisher=[[Dennis Publishing]]|date=November 1989|page=87|access-date=15 February 2020|archive-url=https://web.archive.org/web/20160611055050/https://archive.org/stream/zero-magazine-01/Zero_01_Nov_1989#page/n86/mode/1up|archive-date=11 June 2016|url-status=live}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+! colspan=5   | Awards
+|-
+! colspan="3" | Publication(s)
+! colspan=5   | Award(s)
+|-
+| colspan=3   | ''[[Gamest|Gamest Mook]]'' (1989)
+| colspan=3   | Annual Hit Game 40th <small>(Arcade)</small><ref name="GM112d">{{cite book|url=https://archive.org/stream/vol.-112-2#page/n21/mode/2up|title=ザ・ベストゲーム2 - アーケードビデオゲーム26年の歴史: ゲーメスト大賞11年史|work=[[Gamest|Gamest Mook]]|volume=5|edition=4th|publisher=[[Shinseisha]]|date=17 January 1998|pages=20–21|language=ja|isbn=9784881994290}}</ref>
+|}
+
+In Japan, ''Game Machine'' listed ''Twin Hawk'' on their August 1, 1989 issue as being the seventh most-successful table arcade unit of the month, outperforming titles such as ''[[Flipull]]'' and ''[[Golden Axe (video game)|Golden Axe]]''.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=361|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 August 1989|page=21|lang=ja}}</ref> On release, ''[[Famitsu]]'' scored the Mega Drive version of the game a 30 out of 40.<ref name="WFTMDd"/>
+
+== Legacy ==
+In more recent years, the rights to the game and many other IPs from Toaplan are now owned by Tatsujin, a company named after its Japanese title that was founded in [[2017 in video gaming|2017]] by Masahiro Yuge and is part of Embracer Group since 2022.<ref>{{cite web|url=http://tatsujin.tokyo/custom.html|title=ライセンス事業|publisher=TATSUJIN Co., Ltd.|date=2019|access-date=2020-02-17|language=ja|archive-url=https://web.archive.org/web/20181225203847/http://tatsujin.tokyo/custom.html|archive-date=2018-12-25|url-status=live}}</ref><ref>{{Cite web |title=Joining the Embracer Group |url=https://www.tatsujin.tokyo/news/news-en/www.tatsujin.tokyo/news/news-en/a27 |access-date=2023-12-07 |website=TATSUJIN ビデオゲーム企画・開発・販売、東亜プランタイトルのライセンス管理 |language=ja}}</ref>
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://gamefaqs.gamespot.com/arcade/566921-twin-hawk ''Twin Hawk''] at [[GameFAQs]]
+* [https://www.giantbomb.com/twin-hawk/3030-21880/ ''Twin Hawk''] at [[Giant Bomb]]
+* [https://www.arcade-museum.com/game_detail.php?game_id=19557 ''Twin Hawk''] at [[Killer List of Videogames]]
+* [https://www.mobygames.com/game/twin-hawk ''Twin Hawk''] at [[MobyGames]]
+* [http://privat.bahnhof.se/wb831590/toaplansite/allyourbase/twinhawk/index.html ''Twin Hawk''] at The Toaplan Museum
+
+{{Sega}}
+{{Toaplan}}
+{{Portal bar|1980s|Japan|Video games}}
+
+{{DEFAULTSORT:Twin Hawk}}
+[[Category:1989 video games]]
+[[Category:Arcade video games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Sega Genesis games]]
+[[Category:Shoot 'em ups]]
+[[Category:Toaplan games]]
+[[Category:TurboGrafx-16 games]]
+[[Category:TurboGrafx-CD games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games scored by Osamu Ōta]]

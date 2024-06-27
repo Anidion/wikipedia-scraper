@@ -1,0 +1,67 @@
+Bone Cruncher
+Permalink: //en.wikipedia.org/w/index.php?title=Bone_Cruncher&oldid=1224483454
+Accessed on: 2024-06-26T17:01:44.562700
+
+
+
+------
+Bone Cruncher
+{{Infobox video game
+| title = Bone Cruncher
+| image = Bonecruncher.jpg
+| caption =
+| developer = Andreas Kemnitz
+| publisher = [[Superior Software]]
+| designer = Andreas Kemnitz
+| released = '''1987:''' BBC, Electron, C64<br>'''1988:''' Amiga
+| genre = [[Puzzle video game|Puzzle]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Acorn Electron]], [[BBC Micro]], [[Commodore 64]], [[Amiga]]
+}}
+'''''Bone Cruncher''''' is a [[puzzle video game]] for the [[Acorn Electron]], [[BBC Micro]], and [[Commodore 64]] first published by [[Superior Software]] in 1987. It uses the "rocks and diamonds" mechanics of ''[[Boulder Dash (video game)|Boulder Dash]]''. An [[Amiga]] version was released in 1988.
+
+==Gameplay==
+[[image:Bonecruncher in-game screen (BBC).png|thumb|left|BBC Micro screenshot showing Fozzy (red), Bono (green), a skeleton, and a Glook (white)]]
+
+The player controls a dragon called Bono, who operates a soap business. He collects bones from around the chambers of his castle and uses them to make soap in a [[cauldron]]. He then delivers the soap to sea-monsters, situated at various exits from the castle.
+
+The game uses the gameplay mechanics popularised in ''Boulder Dash'' and Superior's own ''[[Repton (computer game)|Repton]]'' series. The player can dig through earth and push boulders but where boulders will fall from above if area below them is cleared. The main difference in this game is that, although the characters are depicted in side profile, the camera is meant to be overhead so objects are not subject to gravity in the same way. The 'boulders' are living creatures known as Glooks and rather than just heading down the screen, they will head in the direction of a bathing sea-monster. As such, they change direction during play which changes the layout of the maze. This means the player must decide the order that the soap is delivered. Glooks are generally harmless but can crush the player when they move.
+
+There are two other deadly creatures in the castle: monsters and spiders. Monsters can be trapped by pushing Glooks onto them. If they can't move, they turn to skeletons which Bono can collect to make soap. They can also be lured into trapdoors but then their bones are lost. Spiders, as well as being deadly to Bono, eat skeletons.
+
+Another character in the game is Bono's assistant Fozzy who can be used to hold back monsters or spiders but can become trapped. There are also keys and doors and on each level a hidden 'volcano' that will spew out Glooks if walked over.
+
+It takes five skeletons to make a bar of soap and five bars of soap must be created, and delivered to the sea-monsters, in each chamber. There are 22 chambers in the castle.<ref>Original instructions, Superior Software</ref>
+
+==Development and release==
+The game was designed by German programmer Andreas Kemnitz, originally for the Commodore 64. He submitted the game to Superior Software, who had recently published the similar ''[[Repton 3]]'' on the C64. Superior commissioned conversions to the BBC Micro and Acorn Electron, machines on which they were market leaders, and also Amiga. All versions of the game are almost identical, with no real changes for the [[16-bit]] Amiga version. The game was launched before Christmas 1987 with all four versions being advertised but the Amiga version was delayed,<ref name="games machine"/> finally getting released in Spring 1988.
+
+==Reception==
+The game received mostly positive reviews but there was a mixed response. ''[[ACE (games magazine)|ACE]]'' gave the C64 version a score of 943 (out of 1000)<ref name="ACE C64">[http://amr.abime.net/review_42622 ''Bone Cruncher'' review], Advanced Computer Entertainment, Issue 6, March 1988</ref> and the Amiga version 948.<ref name="ACE Amiga">[http://amr.abime.net/review_42527 ''Bone Cruncher'' review], Advanced Computer Entertainment, Issue 8, May 1988</ref> ''[[Electron User]]'' gave an overall score of 9/10, particularly praising the humour of the game and the "beautifully animated" [[Sprite (computer graphics)|sprites]].<ref name="electron user">[http://8bs.com/elecgame/bonecruncher.htm "Good Clean Fun"], Electron User #5.04, January 1988</ref>
+
+''[[The Games Machine]]'' also picked out the character animation for praise in their review of the BBC Micro and C64 versions and while generally positive, awarding a score of 70%. The review questions the relevance of this type of game: "''Bone Cruncher'' is an old-style game and its general aim is a little tired by today's standards. However, it is cleverly designed, presents sufficient challenge for worthy gameplay and the creatures' representation adds considerable charm".<ref name="games machine">[http://amr.abime.net/review_42884 "It Just Won't Wash"], The Games Machine, Issue 3, February 1988</ref> When reviewing the Amiga version, they gave a lower score of 61% as while conceding it "plays just as well as the 8-bit game", the fact that "it lacks any attempt at improvement" on a much more capable machine was considered a mistake.<ref name="games machine 2">[http://amr.abime.net/review_43152 "Soap operandum"], The Games Machine, Issue 6, May 1988</ref>
+
+''[[Zzap!64]]'' were less impressed, giving a score of 56% and concluding that the game is a "polished, but merely average addition to an already jaded format".<ref name="zzap">[http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=034&amp;page=025&amp;thumbstart=0&amp;magazine=zzap&amp;check=1 ''Bone Cruncher'' review], Zzap!64, Issue 34, February 1988</ref> ''[[Computer and Video Games]]'', reviewing the C64 version, went further, saying the game is "antiquated" and "a load of dross", awarding only 5/10 for playability and 4/10 for sound, graphics and value.<ref name="cvg">[http://amr.abime.net/review_34380 ''Bone Cruncher'' review], Computer and Video Games, Issue 76, February 1988</ref>
+
+==Legacy==
+The BBC and Electron versions were included on the ''Play It Again Sam 7'' compilation in 1989 and reissued as part of the Superior/[[Blue Ribbon (software house)|Blue Ribbon]] budget series in 1990.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Lemon64 game|id=339|name=Bone Cruncher}}
+* {{abime|id=182}}
+
+{{Superior Software}}
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Rocks-and-diamonds games]]
+[[Category:Superior Software games]]
+[[Category:Video games developed in Germany]]
+[[Category:Single-player video games]]
+[[Category:Blue Ribbon (software house) games]]

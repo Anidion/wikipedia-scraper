@@ -1,0 +1,78 @@
+Blasteroids
+Permalink: //en.wikipedia.org/w/index.php?title=Blasteroids&oldid=1226369564
+Accessed on: 2024-06-26T17:01:43.655214
+
+
+
+------
+Blasteroids
+{{short description|1987 video game}}
+{{refimprove|date=October 2018}}
+{{Infobox video game
+|image = Blasteroids arcade.png
+|caption = North American arcade flyer
+|developer = [[Atari Games]]
+|publisher = [[Atari Games]] (arcade)<br>[[Image Works]] (ports)
+|designer = Ed Rotberg<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+|programmer = Ed Rotberg<br>Peter Lipson
+|artist = Sam Comstock
+|composer = [[Brad Fuller (composer)|Brad Fuller]]
+|released = '''1987:''' Arcade<br>'''1989:''' Amiga, Atari ST<br>'''1990:''' C64<ref name=lemon>{{lemon64 game|id=296|name=Blasteroids}}</ref>
+|genre = [[Multidirectional shooter]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Arcade game|Arcade]], [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[MSX]], [[MS-DOS]], [[ZX Spectrum]]
+}}
+
+'''''Blasteroids''''' is the third official [[sequel]] to the 1979 [[multidirectional shooter]] video game, ''[[Asteroids (video game)|Asteroids]]''. It was developed by [[Atari Games]] and released in arcades in 1987.<ref>{{Cite web |title=Blasteroids - Videogame by Atari Games |url=https://www.arcade-museum.com/Videogame/blasteroids |access-date=2024-05-30 |website=Museum of the Game |language=en-US}}</ref> Unlike the previous games, ''Blasteroids'' uses [[raster graphics]] instead of [[vector graphics]], and has power-ups and a [[boss (video games)|boss]].
+
+The game was based in The United States.
+
+Home computer versions were released by [[Image Works]] for the [[Amiga]], [[Amstrad CPC]], [[Atari ST]],<ref>{{cite web|title=Atari ST Blasteroids|url=http://www.atarimania.com/game-atari-st-blasteroids_8738.html|website=Atari Mania}}</ref> [[Commodore 64]],<ref name=lemon/> [[MSX]], [[MS-DOS]], and [[ZX Spectrum]]. An emulated version of ''Blasteroids'' is an unlockable mini-game in ''[[Lego Dimensions]]''.
+
+==Gameplay==
+[[File:Blasteroids Game Screenshot.png|left|thumb|A player engages in battle.]]
+The gameplay is basically the same as  the original. The player controls a spaceship viewed from "above" in a 2D representation of space, by rotating the ship, and using thrust to give the ship momentum. To slow down or completely stop moving, the player has to rotate the ship to face the direction it came from, and generate the right amount of thrust to nullify its momentum. The ship has a limited amount of fuel to generate thrust with. This fuel comes in the form of "Energy" that is also used for the ship's Shields which protect it against collisions and enemy fire. Once all Energy is gone, the player's ship is destroyed. The ship can shoot to destroy asteroids and enemy ships. The ship can also be transformed at will into 3 different versions: the Speeder with greatest speed, the Fighter with the most firepower, and the Warrior with extra armor.
+
+Each of the Easy, Medium, Hard, and Expert difficulty settings has several galaxies, each with 9 or 16 sectors. Once a sector is completed by destroying all the asteroids, an exit portal appears to lead the player to the galactic map screen. Each sector consists of only the visible screen with [[wraparound (video games)|wraparound]].
+
+The objective is to destroy all the asteroids which have a set speed at which they fly through the sector. Asteroids come in varying sizes, and when shot, larger asteroids break into multiple smaller ones. Only shooting the smallest ones will actually remove them from the sector. Asteroids also come in different types. Normal asteroids don't contain anything, but red asteroids can contain [[power-up]]s in the form of Power Crystals that are released by completely destroying asteroids. Crystals decay over time. Popcorn Asteroids require several hits, which expands their size, and eventually makes them stop spinning. They can't be destroyed, but stopping them is enough to finish each sector. Egg asteroids contain leeches which home in on the user's ship and suck out its energy. They can be shot and destroyed. Finally there are Seeker asteroids which home in on the player's ship after being shot.
+
+Mukor is the alien [[boss (video gaming)|boss]], appearing after all sectors are cleared of asteroids. He will try to ram the player and will send miniature enemy ships to aid him. Mukor has tentacles which all must be shot multiple times to be destroyed. Once all tentacles are gone, Mukor is defeated and he will leave some special equipment. He will reappear in the next galaxy with a larger number of tentacles, making him harder to defeat. Mukor must be defeated in all galaxies to be fully conquered and for the player to win the game.<ref>{{Cite web |title=Blasteroids - Videogame by Atari Games |url=https://www.arcade-museum.com/Videogame/blasteroids |access-date=2024-05-30 |website=Museum of the Game |language=en-US}}</ref>
+
+A second player can join the game at any time by pressing the Fire button, using 1 [[credit (finance)|credit]] and turning ''Blasteroids'' into a [[Multiplayer video game|multiplayer]] game. Both players can cooperate by covering each other, and by docking their ships into the ''Starlet''. Docking is possible if one ship is a ''Speeder'', and the other is a ''Warrior''; flying over each other will turn the ''Speeder'' into a stationary ''Turret'' with more firepower, on top of the ''Warrior'', which turns into a ''Spiaret'', with less firepower but full control. The ships undock when either player transforms their ship into something else again. The first player to exit through the Exit Portal gets a large bonus and control of the Galactic Map.
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Computer and Video Games''
+| award1 = C+VG Hit<ref name="CVG">{{cite magazine | title=Game review | magazine=[[Computer and Video Games]] | issue=89 | date=March 1989 | page=16}}</ref>
+}}
+In 1989, ''Computer and Video Games'' bestowed the "C+VG Hit" award.<ref name="CVG"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=7146}}
+* [http://www.arcade-history.com/?page=detail&id=275 ''Blasteroids''] at Arcade History
+
+{{Asteroids series}}
+{{Atari Games}}
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:MSX games]]
+[[Category:Midway video games]]
+[[Category:Multidirectional shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video game remakes]]
+[[Category:Video games scored by Ben Daglish]]
+[[Category:Video games scored by Brad Fuller]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]
+[[Category:Image Works games]]

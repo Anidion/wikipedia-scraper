@@ -1,0 +1,105 @@
+Sargon (chess)
+Permalink: //en.wikipedia.org/w/index.php?title=Sargon_%28chess%29&oldid=1224893835
+Accessed on: 2024-06-26T16:47:57.641957
+
+
+
+------
+Sargon (chess)
+{{short description|Video game series}}
+{{redir|SARGON|other uses|Sargon (disambiguation)}}
+{{Infobox video game
+| title = Sargon
+| image = Sargon cover.jpg
+| caption = Book cover art that was also used in the cassette inlays
+| developer = Dan Spracklen<br>Kathleen "Kathe" Spracklen
+| released = 1978
+| genre = [[Strategy video game|Strategy]]
+}}
+'''''Sargon''''' (stylized in [[all caps]]) is a line of [[chess]]-playing [[software]] for [[personal computer]]s. The original ''Sargon'' from 1978 was written in [[assembly language]] by Dan and Kathleen "Kathe" Spracklen for the [[Zilog Z80|Z80]]-based [[Wavemate Jupiter II]].<ref name='CHM Interview'>
+{{cite news
+  | last = Hendrie
+  | first = Gardner
+  | title = Oral History of Kathe and Dan Spracklen
+  | publisher = [[Computer History Museum]]
+  | date = 2005-03-02
+  | url = http://archive.computerhistory.org/projects/chess/related_materials/oral-history/spacklen.oral_history.2005.102630821/spracklen.oral_history_transcript.2005.102630821.pdf
+  | accessdate = 2007-02-11 }}
+</ref>
+
+==History==
+[[File:Sargon I screenshot.png|thumb|[[Apple II series|Apple II]] version]]
+''Sargon'' was introduced at the 1978 [[West Coast Computer Faire]] where it won the first [[computer chess]] tournament held strictly for [[microcomputer]]s, with a score of 5–0.<ref name="spracklen197810">{{cite news | url=https://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n87/mode/2up | title=First Steps in Computer Chess Programming | work=[[Byte (magazine)|BYTE]] | date=October 1978 | accessdate=17 October 2013 | author=Spracklen, Kathy and Dan | pages=86}}</ref><ref name="harding1985">{{cite book | authorlink=Tim Harding (chess player) | url=https://books.google.com/books?id=pECeBQAAQBAJ&pg=PA24 | title=The New Chess Computer Book | publisher=Pergamon Press | author=Harding, T. D. | year=1985 | edition=2nd | pages=24,25,155,164 | isbn=9781483140322 |editor1=Price, Jill |editor2=Levy, David N. L. | series=Pergamon Chess Series}}</ref> This success encouraged the authors to seek financial income by selling the program directly to customers. Since magnetic media were not widely available at the time, the authors placed an advert in [[Byte (magazine)|''Byte'' magazine]] selling for $15 photocopied listings that would work in any Z80-based [[microcomputer]].<ref name='CHM Interview'/> Availability of the [[source code]] allowed porting to other machines.<ref>{{cite web|archive-url=https://web.archive.org/web/20070614114334/http://madscientistroom.org/chm/Sargon.html |archive-date=14 June 2007 |title=Sargon source code |work=madscientistroom.org |url=http://madscientistroom.org/chm/Sargon.html}}</ref><ref name = 'Sargon Book' /> For example, the March–April 1979 issue of ''[[People's Computer Company|Recreational Computing]]'' describes a project that converted Sargon to an 8080 program by using macros.<ref>{{cite web|last1=Gabrielson|first1=Mike|title=Sargon Diary|url=https://drive.google.com/file/d/19IeMZ6fr4Tu8SKfC5W9kfk-wrz_RCqDV/view|publisher=Recreational Computing|accessdate=28 December 2017}}</ref><ref>{{cite magazine| url=https://archive.org/details/1979-04-recreational-computing/page/17/mode/1up |magazine=Recreational Computing |date=March–April 1979 |pages=28-30 |first=Mike |last=Gabrielson |title=Sargon Diary |issue=5 (38) |volume=7 }}</ref> Later the Spracklens were contacted by [[Hayden Books]] and a book was published.<ref name = 'Sargon Book'>
+{{cite book
+  | last1 = Spracklen
+  | first1 = Dan
+  | first2 = Kathe
+  | last2 = Spracklen
+  | title = Sargon: A Computer Chess Program
+  | publisher = [[Hayden Book Company]]
+  | date = 1978-11-01
+  | isbn = 0-8104-5155-7
+  | url-access = registration
+  | url = https://archive.org/details/sargoncomputerch00spra
+  }}
+</ref>
+
+===Commercialization===
+[[Image:Sargon I screenshot (notation).png|thumb|250px|The notation screen from ''Sargon I'' for the Apple II]]
+
+When magnetic media publishing became widely available, a US Navy petty officer, Paul Lohnes, ported ''Sargon'' to the [[TRS-80]], altering the graphics, input, and housekeeping routines but leaving the Spracklens' chess-playing algorithm intact. Paul consulted with the Spracklens, who were both living in San Diego at the time, to make the TRS-80 version an instant success with the help of Hayden Book's newly established software division: [[Hayden Software]]. Paul was not involved in further refinements to the TRS-80 version due to his reassignment to sea duty shortly after signing the deal with Hayden Software.
+
+In the early 1980s, SARGON CHESS was ported to the [[Nascom (computer kit)|Nascom]] (by Bits & PCs, 1981), [[Exidy Sorcerer]], and [[Sharp MZ|Sharp MZ 80K]].<ref>{{cite web |url=http://www.sharpmz.org/mz-80k/sargonchess.html |title=SARGON CHESS | date=11 September 2003 |archive-url=https://web.archive.org/web/20170425193313/http://www.sharpmz.org/mz-80k/sargonchess.html |archive-date=25 April 2017 }}</ref> A [[Rewrite (programming)|complete rewrite]] was necessary later for the [[Apple II series|Apple II]], programmed by Kathleen's brother Gary Shannon. Both were published by Hayden Software.
+
+===Improved versions===
+The Spracklens made significant improvements on the original program and released ''[[Sargon II (video game)|Sargon II]]''.<ref name='CHM Interview'/> J. Mishcon reviewed ''Sargon II'' in the October 1980 issue of ''[[The Space Gamer]]'' magazine, stating that the program beat him regularly on level 5, which took 40 minutes per move.<ref name=TSG80>{{cite magazine|last=Mishcon|first=J.|title= Capsule Reviews: Sargon II|magazine=[[The Space Gamer]]|date= October 1980|number=32|page=28 }}</ref> He often beat the program at level 3—when it considered moves for about two minutes—and stated that "Level 0 is an idiot but responds instantly".<ref name=TSG80/>{{efn|Mishcon stated, "As a reference, I play medium chess, know a few openings, and play regularly with a guy rated 1200+ by the United States Chess Federation."<ref name=TSG80/>}}
+
+''Sargon 2.5'', sold as a ROM module for the Chafitz Modular Game System, was identical to ''Sargon II'' but incorporated [[Permanent brain|pondering]].<ref name="martellaro198101">{{cite news | url=https://archive.org/stream/byte-magazine-1981-01/1981_01_BYTE_06-01_Hand-held_Computers#page/n209/mode/2up | title=The Newest Sargon - 2.5 | work=BYTE | date=January 1981 | accessdate=18 October 2013 | author=Martellaro, John | pages=208–212}}</ref> It received a 1641 rating at the [[Paul Masson]] tournament in June–July 1979, and 1736 at the San Jose City College Open in January 1980.{{r|harding1985}}
+
+<!-- Unclear whether 3.0 is same or different from III discussed above -->
+''Sargon 3.0'' finished in seventh place at the October 1979 North American Computer Chess Championship. The competition had improved, but 3.0 drew against [[Cray Blitz]] and easily defeated ''Mychess'', its main microcomputer rival. In December, 3.0 easily won the second microcomputer championship in London.{{r|harding1985}}
+
+<!-- Unclear whether III is same or different from 3.0 discussed above -->
+''[[Sargon III]]'' was a complete rewrite. Instead of an ''[[Exchange (chess)|exchange]] evaluator'', this version used a ''capture search'' [[algorithm]]. Also included was a [[chess opening]] repertoire. This third version was written originally for the [[MOS Technology 6502|6502]] assembler. In 1978, Sargon was converted to Z80 neumonics/assembler code by Paul H. Lohnes, as self taught computer enthusiast while he was still in the US Navy. He sold the publishing rights to Hayden Software for the Radio Shack TRS-80 platform. It was commercially published for other computing platforms by [[Hayden Software]] in 1983. Apple contacted the Spracklens and, after a port for [[Motorola 68000|68000]] [[assembly language|assembly]], ''Sargon III'' was the first third-party executable software for the [[Macintosh]].<ref name='CHM Interview'/>
+
+==Legacy==
+After the demise of Hayden Software, later chess programs were also released under the name ''Sargon'', including ''[[Sargon 4]]'' ([[Spinnaker Software]]), ''[[Sargon V: World Class Chess|Sargon V]]'' ([[Activision]]) and a [[CD-i]] title simply named ''Sargon Chess''. The CD-i game received 75% from the French magazine ''Génération 4''.<ref name="Gen4">{{cite magazine |last1=Renouard |first1=Yann |title=CD-i Test - Sargon Chess |journal=Génération 4 |date=December 1992 |issue=50 |url=https://archive.org/details/generation4-magazine-050/page/n79/mode/2up |language=French}}</ref> A compilation titled ''4-in-1 Fun Pak'' was released for the [[Game Boy]] in 1992. One of the games in the compilation is ''Sargon Chess''.<ref name="ASM">{{cite magazine |title=Game Boy Corner - 4-in-1 Fun Pak |journal=[[Aktueller Software Markt]] |date=December 1992 |volume=7 |issue=12 |page=149 |url=https://retrocdn.net/images/f/fe/ASM_DE_1992-12.pdf |language=German}}</ref>
+
+The Spracklens concurrently wrote the engines for the dedicated chess computers produced by Fidelity Electronics, which won the first four [[World Computer Chess Championship#World Microcomputer Chess Championship|World Microcomputer Chess Championships]].
+
+===The Botvinnik game===
+[[File:Botvinnik vs Sargon, 1983.gif|thumb|Animation of game against Botvinnik]]
+The three-time [[world chess champion]] [[Mikhail Botvinnik]] played a game with Sargon in 1983 at [[Hamburg]]. He did not play his best moves but only tested the program's capabilities. Botvinnik himself was also involved in chess program development.
+
+White: Mikhail Botvinnik
+
+Black: SARGON
+
+Hamburg, 1983
+
+1.c4 e5 2.Nc3 d6 3.g3 Be6 4.Bg2 Nc6 5.d3 Nf6 6.f4 Be7 7.Nf3 O-O 8.O-O Qd7 9.e4 Bg4 10.h3 Bxh3 11.f5 Bxg2 12.Kxg2 Nb4 13.a3 Na6 14.b4 c5 15.b5 Nc7 16.Rh1 a6 17.b6 Nce8 18.Ng5 Qc6 19.Rb1 Bd8 20.Nd5 h6 21.Nf3 Nxd5 22.exd5 Qd7 23.g4 a5 24.Nd2 Ra6 25.Ne4 Rxb6 26.Rxb6 Bxb6 27.f6 Nxf6 28.Nxf6+ gxf6 29.Bxh6 Re8 30.Qf3 Bd8 31.Qh3 Qa4 32.Bd2 Kf8 33.Rf1 Kg8 34.Qh6 Qd7 35.Kg3 f5 36.Rh1 f4+ 37.Kf3 1-0
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{MobyGames|id=-group/sargon-series|name=''Sargon'' series}}
+
+{{Sargon series}}
+
+{{DEFAULTSORT:Sargon 01}}
+[[Category:1978 video games]]
+[[Category:Apple II games]]
+[[Category:Chess software]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Hayden Software games]]
+[[Category:VIC-20 games]]
+[[Category:CP/M games]]
+[[Category:Assembly language software]]
+[[Category:Sargon (chess)]]
+[[Category:Video game franchises introduced in 1978]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,74 @@
+Target (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Target_%28video_game%29&oldid=1124106551
+Accessed on: 2024-06-26T16:47:46.662513
+
+
+
+------
+Target (video game)
+{{short description|1976 or 1977 video game}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Target
+| image = 
+| alt = 
+| caption = 
+| developer = 
+| publisher = 
+| series = 
+| engine = 
+| platforms = 
+| released = 1976 or 1977
+| genre = 
+| modes = 
+}}
+
+'''''Target''''', or '''TARG''', was an action [[video game]] written by [[Steve Dompier]] for the [[VDM-1]] [[video card]] for [[S-100 bus]] [[microcomputer]]s. It is among the earliest computer video games,{{sfn|Freiberger|1982|p=21}} released some time in 1976 or 1977.{{efn|There is no clear release date that can be found in available materials. This is discussed [http://allincolorforaquarter.blogspot.com/2015/10/preliminary-report-was-devils-dungeon.html in this post about early games].}}
+
+The game used the VDM-1's graphics characters in a game that Dompier described as a "shoot the airplanes sort of game". The player had a gun that could be rotated left and right, firing at targets moving sideways across the top of the screen.{{sfn|Swaine|Freiberger|2014|p=223}}
+
+''Target'' is almost certainly the first microcomputer game to be shown on national television. It appeared in late 1976 on [[The Tomorrow Show]], mesmerizing the host [[Tom Snyder]] to the point where he had to be forced to stop playing it in order to finish the episode.{{sfn|Swaine|Freiberger|2014|p=223}}
+
+==Gameplay==
+Target puts the user in control of a missile base centered at the bottom of the screen. The keyboard is used to tilt the launcher to the left and right to angle it. A single missile can be on the screen at any time, and they can be moved left and right after firing, using the same controls.
+
+Enemy "spaceships" enter near the top of the screen travelling to the left or right. There are three types of enemy ships, large cargo ships worth 100 points, smaller scout ships worth 200, and parachutes that appear when two enemies collide, worth 600. When ships are hit, they blow up and fall to the ground, during which time they may hit other spaceships and destroy them as well. There are bonuses for destroying more than one ship with a single missile. 
+
+The score is reduced by 20 when a ship escapes without being destroyed, or 30 when a missile flies off the top of the screen without hitting anything. The game ends automatically when a 90-second timer expires, and 20 seconds extra time is granted if the score has reached 4000 at the 90-second mark.
+
+==Notes==
+{{notelist}}
+
+==References==
+===Citations===
+{{reflist}}
+
+===Bibliography===
+* {{cite book
+|title=Fire in the Valley: The Birth and Death of the Personal Computer
+|first1=Michael |last1=Swaine
+|first2=Paul |last2=Freiberger
+|publisher=Pragmatic Bookshelf
+|date=2014
+|isbn=9781680503524
+|url=https://books.google.com/books?id=-g5QDwAAQBAJ&pg=PT223
+|page=223
+}}
+* {{cite magazine
+|title=Software tools let you paint, show slides on Apple
+|first=Paul |last=Freiberger
+|magazine=InfoWorld
+|date=1 March 1982
+|url=https://books.google.com/books?id=fz4EAAAAMBAJ&pg=PA21
+|page=21
+}}
+
+==External links==
+* [https://www.youtube.com/watch?v=y_E5UnCVll8 TARG video game for the Sol-20 computer], shows gameplay
+
+[[Category:1977 video games]]
+[[Category:Science fiction video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with textual graphics]]

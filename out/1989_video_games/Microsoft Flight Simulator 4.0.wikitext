@@ -1,0 +1,64 @@
+Microsoft Flight Simulator 4.0
+Permalink: //en.wikipedia.org/w/index.php?title=Microsoft_Flight_Simulator_4.0&oldid=1188932011
+Accessed on: 2024-06-26T17:06:51.035903
+
+
+
+------
+Microsoft Flight Simulator 4.0
+{{Short description|1989 video game}}
+{{Infobox video game
+| title = Microsoft Flight Simulator 4.0
+| image = Microsoft Flight Simulator 4.0 cover.jpg
+| alt = 
+| developer = [[Bruce Artwick Organization]]<ref>{{cite web |title=Microsoft Flight Simulator (v4.0) (1989) back cover |url=https://www.mobygames.com/game/microsoft-flight-simulator-v40/cover-art/gameCoverId,6845/ |website=[[MobyGames]] |publisher=Blue Flame Labs |access-date=14 November 2021}}</ref>
+| publisher = [[Microsoft]]
+| designer = Bruce Artwick
+| series = ''[[Microsoft Flight Simulator]]''
+| engine = 
+| platforms = [[MS-DOS]], [[Macintosh]], [[PC-98]]
+| released = 1989 (DOS)<br />1991 (Mac)<br />1992 (PC-98)
+| genre = [[Amateur flight simulation]]
+| modes = [[Single-player]]
+}}
+'''''Microsoft Flight Simulator''''', commonly known as '''''Microsoft Flight Simulator 4.0''''' or '''''FS4''''', is a 1989 video game developed by [[Bruce Artwick Organization]] and published by [[Microsoft]].
+
+==Gameplay==
+''Microsoft Flight Simulator 4.0'' is a game in which the ability to make adjustments to flight characteristics was added, as well as the ability to design new experimental aircraft.<ref name="CGW66"/>  It also included improved aircraft models, random weather patterns, a new [[sailplane]], and dynamic scenery (non-interactive air and ground traffic on and near airports moving along static prerecorded paths). The basic version of FS4 was available for [[Macintosh]] computers in 1991. Like [[Microsoft Flight Simulator 3.0|FS3]], this version included an upgraded converter for the old [[Sublogic]] Scenery Disks into SCN files.
+
+==Add-ons==
+A large series of add-on products were produced for FS4 between 1990 and 1993. First from Microsoft and the [[Bruce Artwick Organization]] (BAO) came the Aircraft and Scenery Designer (ASD) integration module in 1990.<ref>{{cite web |title=Microsoft Flight Simulator: Aircraft & Scenery Designer for DOS (1990) |url=https://www.mobygames.com/game/dos/microsoft-flight-simulator-aircraft-scenery-designer |website=[[MobyGames]] |publisher=Blue Flame Labs |access-date=14 November 2021}}</ref> This allowed FS4 users to build custom scenery units known as SC1 files which could be used within FS4 and traded with other users. Also, with the provided Aircraft Designer Module, the user could select one of two basic type aircraft frames (prop or jet) and customize flight envelope details and visual aspects. ASD provided additional aircraft including a [[Boeing 747]] with a custom dash/cockpit (which required running in 640 × 350 resolution).
+
+Mallard Software and BAO released the Sound, Graphics, and Aircraft Upgrade (SGA), which added digital and synth sound capability (on compatible hardware) to FS4. A variety of high resolution modes also became available for specific types of higher end video cards and chipsets, thus supplying running resolutions up to [[Display resolution|800 × 600]]. As with ASD, the SGA upgrade also came with some additional aircraft designed by BAO, including an Ultra-light.
+
+Another addition was known as the Aircraft Adventure Factory (AAF), which had two components. The first, the Aircraft Factory, was a Windows-based program allowing custom design aircraft shapes to be used within FS4 utilizing a [[Computer-aided design|CAD]]-type interface, supported by various sub menu and listing options. Once the shape was created and colors assigned to the various pieces, it could be tied to an existing saved flight model as was designed in the Aircraft Designer module.  The other component of AAF was the Adventure module. Using a simple language, a user could design and compile a script that could access such things as aircraft position, airspeed, altitude, and aircraft flight characteristics.
+
+Other add-on products (most published by Mallard Software) included: The Scenery Enhancement Edition (SEE4), which further enhanced SC1 files and allowed for AF objects to be used as static objects within SEE4; Pilots Power Tools (PPT), which greatly eased the management of the many aircraft and scenery files available; and finally, a variety of new primary scenery areas created by MicroScene, including [[Hawaii]] (MS-1), [[Tahiti]] (MS-2), [[Grand Canyon]] (MS-3), and [[Japan]] (MS-4). Scenery files produced by Sublogic could also be used with FS4, including Sublogic's final USA East and West scenery collections.
+
+==Reception==
+Russel Sipe reviewed the game for ''[[Computer Gaming World]]'', and stated that ''"In the computer entertainment industry there is an informal rule that determines the value of a product: if the product gives you one hour of playing time per dollar spent it is worth the price. By that formula FS4 is, without a doubt, an exceptional buy in computer entertainment."''<ref name="CGW66">{{cite magazine |last=Sipe |first=Russel |title=Flying Off The Shelf: New Products From subLOGIC |magazine=Computer Gaming World |date=December 1989 |volume=1 |issue=66 |pages=30, 32}}</ref>
+
+Tim Trimble reviewed the game for ''[[Computer Gaming World]]'', and stated that "''Overall, Flight Simulator 4.0 is a great improvement over previous versions and shows that Microsoft is committed to creating a "true" flight simulator that is not only thoroughly enjoyable but also provides a great education to any prospective or existing pilot."''<ref name="CGW83">{{cite magazine |last=Trimble |first=Tim |title=A Flight Toward Reality: Flight Simulator 4.0 |magazine=Computer Gaming World |date=June 1991 |volume=1 |issue=83 |pages=20–21}}</ref>
+
+==Reviews==
+*''[[Tilt (French magazine)|Tilt]]'' - May, 1991<ref>{{Cite web|url=http://download.abandonware.org/magazines/Tilt/tilt_numero090/TILT%20090%20(Mai%201991)%20Page%20056.jpg|title=Tilt, May 1991, p.56|website=download.abandonware.org}}</ref>
+*''[[ASM (Aktueller Software Markt)]]'' - Dec, 1989<ref>{{Cite web|url=http://archive.org/details/asm_magazine-1990-01|title=Aktueller Software Markt (ASM) Magazine (January 1990)|date=January 29, 1990|via=Internet Archive}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.planetmic.com/orbit/fs4web01.htm '''FS4 Webport''']
+*[https://www.mobygames.com/game/microsoft-flight-simulator-v40 ''Microsoft Flight Simulator 4.0''] at [[MobyGames]]
+
+{{Microsoft Flight Simulator}}
+
+[[Category:1989 video games]]
+[[Category:Classic Mac OS games]]
+[[Category:DOS games]]
+[[Category:Microsoft Flight Simulator]]
+[[Category:NEC PC-9801 games]]
+[[Category:Single-player video games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with expansion packs]]

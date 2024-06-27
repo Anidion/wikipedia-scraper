@@ -1,0 +1,69 @@
+Universe (1983 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Universe_%281983_video_game%29&oldid=1224423646
+Accessed on: 2024-06-26T16:56:06.784822
+
+
+
+------
+Universe (1983 video game)
+{{Infobox video game
+|title = Universe
+|image = Universe_(1983_video_game)_Cover_Art.jpg
+|developer = Omnitrend Software
+|publisher = Omnitrend Software
+|designer = William G M Leslie III<br>Thomas Ralph Carbone
+|engine = 
+|released = 1983
+|genre = [[Space trading and combat game|Space trading and combat]]
+|modes = [[Single-player]]
+|platforms = [[Atari 8-bit]], [[Apple II series|Apple II]], [[MS-DOS]]
+}}
+
+'''''Universe''''' (sometimes called '''''Omnitrend's Universe''''') is a [[science fiction]] [[space trading and combat game]] by Omnitrend Software. It was created by William G M Leslie and Thomas R Carbone. The first version was programmed in [[Forth (programming language)|valFORTH]] on an Atari 800, based on a board game created by Leslie. It was Omnitrend's first game.
+
+== Gameplay ==
+The game starts off on the planet Axia within the Local Group, a settlement that took place centuries ago thanks to the discovery of an alien [[Hyperspace (science fiction)|hyperspace booster]]. This technology allowed the Local Group to be settled with supplies being sent from Earth using the booster. However, the supplies have stopped arriving and the player must now search for a second hyperspace booster that was reported in the area.
+
+The game begins with a loan from the bank to finance a [[starship|spaceship]]. Several models are available and offer different capabilities and cargo space. Once the ship is purchased and outfitted, the player then travels to different planets and engages in trading, mining, or piracy.
+
+''Universe'' is a very involving game, like requiring the player to calculate hyperjump coordinates for the navigation computer and calculate minimum orbits for planets in order to launch shuttles. The speed of the game tended to bog down when graphics were involved and when the game performed calculations involving [[orbital mechanics]]. On the Atari, having only one disk drive resulted in numerous disk swaps.
+
+== Release ==
+The game came on four disks and included in the US$89.95 cost was two free hours a month on the Universe [[Bulletin board system|BBS]]. Upon mailing in the included warranty card, users were also mailed subsequent versions of the game on replacement disks, based on suggestions from the BBS. ''[[Computer Gaming World]]'' praised this dedication to customer service.<ref name = "CGW198406">{{citation | date = June 1984 |author1=Fitzsimmons, Nick |author2=Battles, Hosea Jr. | magazine = [[Computer Gaming World]] | title = Universe: A Dual Review | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=2&id=16 | pages = 14–15}}</ref>
+
+==Reception==
+{{Video game reviews
+| CGW = {{rating|3.5|5}}{{r|brooks199405}}
+}}
+
+''[[St.Game]]'' in 1984 criticized ''Universe'' for the Atari's slow performance, stating that "a lethargic running speed and endless disk swaps make it very, very slow going ... slow graphics routines tediously draw pictures that have no bearing on the game". The magazine concluded that "The concept, imagination, and detail behind ''Universe'' are superb. Were it not for the slow speed, it would be a perfect game", but the slow speed made it unplayable.<ref name="bang19840304">{{cite news | title=No Restaurant at the End | work=St.Game | date=Mar–Apr 1984 | author=Bang, Derrick | pages=38–39}}</ref> ''[[Computer Gaming World]]'' in 1984 published two reviews of ''Universe''. One reviewer found it to be "an absorbing game, at least for another six months" given how easy it was to be lose sight of the original objective by either trading or piracy. He also praised the detailed documentation and backstory, and concluded that "this is a 'must have' game for those of you who are interested in complex simulations and role playing. The graphics are excellent, the game play is realistic, and the basic premise makes sense". The other reviewer similarly praised the game, concluding that it was "an excellent interactive space adventure with 3D graphics that will give you months of enjoyment and headaches".<ref name="CGW198406"/> In a 1992 survey of science fiction games the magazine gave the title three of five stars, writing that it was "Still one of the early classics".<ref name="brooks199211">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Strategy & Wargames: The Future (2000-....) | magazine = [[Computer Gaming World]] | date=November 1992 | access-date=4 July 2014 | author=Brooks, M. Evan | pages=99}}</ref> A 1994 survey of strategic space games set in the year 2000 and later gave the game three-plus stars out of five.<ref name="brooks199405">{{Cite magazine
+ |last=Brooks
+ |first=M. Evan
+ |date=May 1994
+ |title=Never Trust A Gazfluvian Flingschnogger!
+ |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118 
+ |magazine=Computer Gaming World
+ |pages=42–58}}</ref> [[Jerry Pournelle]] in ''[[BYTE]]'' called ''Universe'' "the most complicated game I ever did see ... a lot of good planning in this game, and I'm impressed", but criticized the incomplete documentation and user interface.{{r|pournelle198505}}
+
+==Legacy==
+The game spawned two sequels on the [[Atari ST]] and other platforms, '''''Universe II''''' (1986) which was  broadly similar and took place 20 years after the events in the first game, and '''''[[Universe 3 (video game)|Universe III]]''''' (1989) which used the original games backstory but was an [[adventure game]].<ref name="CGW198907">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1989&pub=2&id=61 | title=Light's...Camera...Interaction: Cinema and Computers | periodical=Computer Gaming World Issue 61 | date=July 1989 | access-date=11 March 2016 | pages=43}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="pournelle198505">{{cite news | url=https://archive.org/stream/byte-magazine-1985-05/1985_05_BYTE_10-05_Multiprocessing#page/n307/mode/2up | title=In Search of the Perfect Product | work=BYTE | date=May 1985 | access-date=27 October 2013 | author=Pournelle, Jerry | pages=307}}</ref>
+}}
+
+== External links ==
+*{{Atarimania|id=5617}}
+*[http://www.atarimagazines.com/v3n5/reviews.html ''Antic'' review]
+*[http://www.cyberroach.com/analog/an20/universe.htm ''Analog Computing'' review]
+*{{moby game|id=/universe_|name=''Universe''}}
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:DOS games]]
+[[Category:Omnitrend Software games]]
+[[Category:Role-playing video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]

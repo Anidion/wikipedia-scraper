@@ -1,0 +1,75 @@
+Ranarama
+Permalink: //en.wikipedia.org/w/index.php?title=Ranarama&oldid=1224494074
+Accessed on: 2024-06-26T17:02:57.034941
+
+
+
+------
+Ranarama
+{{Infobox video game
+|title = Ranarama
+|image = File:Ranarama_Commodore_64_Cover_Art.jpg
+|caption = Cover artwork by Steve Weston<ref name='gamesmachineastarothcensored'>{{cite magazine |title=Censored!|magazine=The Games Machine|issue=20|publisher=Newsfield|date=July 1989|pages=54–56|url=https://spectrumcomputing.co.uk/page.php?issue_id=1808&page=55|access-date=20 September 2023}}</ref>
+|developer = [[Graftgold]]
+|publisher = [[Hewson Consultants]]
+|designer = [[Steve Turner (game programmer)|Steve Turner]]
+|programmer = Steve Turner (ZX Spectrum, Amstrad),<ref name='rgranarama'>{{cite magazine |title=The Making of Ranarama|magazine=Retro Gamer|issue=136|publisher=Imagine|date=4 December 2014|page=34-37|url=|access-date=}}</ref> Gary Foreman (C64),<ref name='rgranarama' /> James Hutchby (ST)<ref name='atarilegendranarama'>{{cite web |title=Ranarama|website=Atari Legend|date=|url=https://www.atarilegend.com/games/rana-rama|access-date=13 March 2024}}</ref>
+|engine = 
+|released = 1987
+|genre = [[Hack and slash]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Ranarama''''' (also '''''Rana Rama''''') is a top-down ''[[Gauntlet (1985 video game)|Gauntlet]]''-like<ref name=crash>{{cite magazine|title =Ranarama |date =March 1987 |url =https://archive.org/details/Crash_No._38_1987-03_Newsfield_GB/page/n107/mode/2up |magazine =[[Crash (magazine)|Crash]] |publisher =Newsfield |last1 =Stone |first1 =Ben |last2 =Sumner |first2 =Paul |last3 =Dunn |first3 =Mike |issue =38 |pages =108–109 |issn=0954-8661}}</ref> [[action game]] developed by [[Graftgold]] and published by [[Hewson Consultants]] in 1987. It was released for the [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]] and [[ZX Spectrum]] home computers. The title appears to be a pun on ''[[Rana (genus)|rana]]'', a genus of frogs. The game concept is similar to a previous game by Steve Turner for the [[ZX Spectrum]] called ''[[Quazatron]]'', which was itself inspired by ''[[Paradroid]]'', created by Turner's [[Graftgold]] colleague [[Andrew Braybrook]].<ref name='rgranarama' />
+
+In 2004 it was featured as one of the games on the [[C64 Direct-to-TV]].
+
+==Plot==
+The main character is Mervyn, a [[Magician (fantasy)|sorcerer]]'s apprentice whose botched spell turns him into a [[frog]] just in time to save him from an invasion of evil magic-users who slay his mentors. Mervyn's arcane capabilities are intact, and the game's aim is to hunt down the attackers.<ref name=crash/>
+
+==Gameplay==
+{{Unreferenced section|date=September 2019}}
+Mervyn has four types of magic and eight increasingly potent and power-consuming spells for each: ''Offensive'' spells serve as projectile weaponry, ''defensive'' spells reduce damage etc., ''effect'' spells activate special abilities or act as area-effect attacks, and ''power'' spells fuel the other kinds. The first three are usable indefinitely, but power spells degrade with damage and with a constant drain caused by the other spells that can vary from minimal to vast depending on supply and demand. They drop to level one on expiration; expiring on that level is lethal and ends the game. Commonly found energy [[crystal]]s replenish some power.
+
+The game is set in a [[dungeon]] split into eight levels that are freely traversable (but not necessarily immediately survivable), each of which is split into a labyrinthine network of rooms and houses some benevolent glyphs, 12 hostile [[Magician (fantasy)|wizard]]s, hordes of [[monster]]s and monster generators. Rooms are not visible before they are entered, and their inhabitants only from within. Monsters cause damage by contact, attack ''en masse'' and fall easily, while wizards are much tougher and use attack spells. The latter ''can'' be defeated by attacks, but contact with them triggers a sub-game of unscrambling the mixed up word "RANARAMA" within a strict time limit. Failure expires the current power spell, but victory destroys the wizard and scatters four [[runes]] that can be used at Glyphs of Sorcery to change spells. On average there need to be 7.5 switchings of the letters. The starting positions which require the maximum of 16 switchings of the letters are "MAAAARRN" and "MAAAANRR".
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[Crash (magazine)|Crash]]''
+| rev1Score = 90% (Spectrum)<ref name=crash/>
+| rev2 = ''[[Computer and Video Games|Computer + Video Games]]''
+| rev2Score = 8.5/10 (C64)<ref name=CVG />
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Your Sinclair''
+| award3 = Megagame 
+| award4Pub = ''Amstrad Action''
+| award4 = Mastergame<ref>Game review, Amstrad June magazine, [[Future Publishing]], issue 21, June 1987</ref>
+}}
+''[[Crash (magazine)|Crash]]'' gave the Spectrum version an overall score of 90%, calling it an "innovative" ''Gauntlet'' [[video game clone|clone]].<ref name=crash/> ''[[Computer and Video Games|Computer + Video Games]]'' gave the Commodore 64 version an overall score of 8.5 out of ten, stating that the game requires "a high degree of strategy".<ref name=CVG>{{cite magazine|title =C+VG Reviews 7 - Ranarama |date =May 1987 |url =https://archive.org/stream/computer-video-games-magazine-067/CVG067_May_1987#page/n25/mode/2up |magazine =[[Computer and Video Games|Computer + Video Games]]|publisher =[[EMAP]] |last = Boughton|first =Paul |issue =67 |page =26|issn=0261-3697}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{lemon64 game|name=Ranarama|id=2090}}
+* {{atarimania|id=25285}}
+* {{WoS game|id=0004022|name=Ranarama}}
+
+[[Category:1987 video games]]
+[[Category:Action games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Graftgold games]]
+[[Category:Single-player video games]]
+[[Category:Top-down video games]]
+[[Category:Video games about amphibians]]
+[[Category:Video games about shapeshifting]]
+[[Category:Video games about witchcraft]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Hewson Consultants games]]

@@ -1,0 +1,54 @@
+The Surgeon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Surgeon_%28video_game%29&oldid=1224487293
+Accessed on: 2024-06-26T16:59:17.672185
+
+
+
+------
+The Surgeon (video game)
+{{Short description|1985 video game}}
+{{Orphan|date=December 2019}}
+{{Infobox video game
+|title = The Surgeon
+|image = TheSurgeon screenshot.png
+|developer = Winchell Chung
+|publisher = Information Systems for Medicine
+|designer = Dr. Myo Thant
+|engine = 
+|released = [[1985 in video gaming|1985]]
+|genre = [[Simulation video game|Simulation]]
+|modes = [[Single player]]
+|platforms = [[Macintosh]], [[Amiga]]
+|caption = 
+|alt = 
+}}
+'''''The Surgeon''''' is a [[Video game|computer game]] published in 1985 by Information Systems for Medicine (ISM) for [[Amiga]] and [[Macintosh]]. The game has two sequels, ''The Surgeon II'' and ''The Surgeon III''. In this game, the player is a [[surgeon]]. Dr. Myo Thant, ''The Surgeon's'' designer, would later go on to design ''[[Life & Death]]'', a surgical game with similar elements, albeit with a wider release.
+
+==Gameplay==
+In ''The Surgeon'', the player takes the role of a surgeon in a hospital. The game begins with the player meeting with a patient, and being provided with either an [[X-ray#Medical uses|X-ray]] of the spine or an [[Medical ultrasound|ultrasound]] examination of the abdomen, both of which may need to be requested by the player for further insight rather than being given to begin with.<ref name=tessler /> When meeting with a patient, the player may judge the patient's condition from a description of symptoms from the patient and the information they're given, and the player may choose to observe the patient (do nothing), prescribe painkillers, or operate. Inaction, such as prescribing painkillers or doing nothing if a patient's condition is serious and time-sensitive, may result in the patient's death.<ref name=tessler /> Patients may also die from failed surgery, or abrupt complications during surgery if the player fails to treat them in time.<ref name=tessler /> Patients may also die post-surgery from infection if the player neglects to [[Sterilization (microbiology)|sterilize]] the area with [[antiseptic]] solution before and after surgery, or by not washing their hands.<ref name=dator /><ref name=surgeonmac>''The Surgeon'' (1985), Macintosh. Information Systems for Medicine. Information Systems for Medicine.</ref>
+
+The death of a patient resets the player's progress, and ''The Surgeon'' lacks a save function. ''The Surgeon's'' manual details possible medical afflictions the player will need to diagnose and treat in-game, describing their symptoms and the treatment needed. The manual also offers detailed step-by-step instructions for the surgeries in ''The Surgeon''.<ref name=tessler />
+
+== Reception ==
+''[[Macworld]]'' reviewed the Macintosh version of ''The Surgeon''; the reviewer is a licensed [[doctor of medicine]]. ''Macworld'' says that the beginning of the game becomes "boring" after playing it several times, a necessity due to the game's lack of a save function, and due to a patient's death resetting progress in-game, they express that "you find yourself going through the early steps again and again." ''Macworld'' praises the gameplay and graphics, stating that "The operation consists of a well-defined series of steps that begins with scrubbing yourself and preparing the patient's skin with antiseptic solution. During surgery, any of several potentially fatal complications may arise. If you fail to recognize or treat them properly, the patient will die", calling the gameplay a "reasonably accurate simulation" and "fast paced", but disputes a claim in the game's manual that the game may be valuable to medical students, instead suggesting that "it might prove educational and challenging to nonmedical personnel."<ref name=tessler>{{cite magazine|last = Franklin N. Tessler|first = M.D.|title = The Cutting Edge: The Surgeon 1.1 Review|date = March 1987|url = https://archive.org/details/MacWorld_8703_March_1987/page/n161|magazine = Macworld|publisher = Mac Publishing|page = 154}}</ref>
+
+Frank Boosman reviewed the game for ''[[Computer Gaming World]]'', and stated that "as a friend of mine has pointed out, ''Surgeon'' would excel in applications such as giving medical students their first taste of surgery, or perhaps showing a patient and his or her family exactly what would be done during an operation. The list goes on."<ref name="CGW32">{{cite magazine |last=Boosman |first=Frank |title=Macintosh Windows |magazine=Computer Gaming World |date=November 1986 |volume=1 |issue=32 |pages=15}}</ref>
+
+[[.info (magazine)|''INFO'']] reviewed the Amiga version of ''The Surgeon'', giving it three out of five stars. The reviewer wrote that the game was "definitely not for the squeamish" and an "absolutely realistic simulation where you must make quick, correct decisions to fix an aneurysm." ''INFO'' expressed that "Additional diseases would have given this more stars, but once you've mastered the aneurysm, there's nothing else to do."<ref>{{cite magazine|title = The Surgeon Review|date = November 1987|url = https://archive.org/details/info-magazine-17/page/n17|magazine = INFO|publisher = Info Publications Ltd|first = Tom|last = Malcom|issue = 17|page = 18}}</ref>
+
+''[[:sv:Datormagazin|Datormagazin]]'', the Swedish computer magazine, gave the Amiga version three out of five stars.<ref name=dator /> ''Datormagazin'' praised ''The Surgeon's'' "helpful" UI and that the game offers hints as to what to do during surgery, and stated that "''Surgeon'' seems to be a realistic simulation of an operation, it's not just cutting in, removing the bad part, putting in a new one and sewing them up. There are many steps involved, and if you do not have any medical education or equivalent, it is doubtful if you can do it at all."<ref name=dator /> ''Datormagazin'' further notes the game's difficulty, expressing that "In the manual, there are step-by-step instructions for the operation ... But even if you have those instructions in front of you, it's uncertain that you'll succeed ... Even if you get as far as sewing the patient back together again, he may die after the surgery, because you made a small mistake during the operation."<ref name=dator /> They also say that their interest in the game "only went so far", expressing that "for a doctor or medical student, this game is probably very good, fun, and interesting. For me, who's just an ordinary person, it's not as fun."<ref name=dator /> ''Datormagazin'' calls ''The Surgeon'' "an original and fun idea", but states that "it is worse than games meant for the general public" due to its niche audience.<ref name=dator>{{cite magazine|title = Doktor Amiga|date = August 1987|url = https://archive.org/stream/Datormagazin1987/Datormagazin_1987_nr06#page/n27/mode/2up|magazine = Datormagazin|publisher = Egmont Tidskrifter|first = Erik|last = Lundevall|page = 28}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://archive.org/details/Surgeon_The_v1.0_1986_ISM ''The Surgeon'' Amiga Version] playable in-browser at Archive.org
+* {{abime|id=4671}}
+
+{{DEFAULTSORT:Surgeon (video game), The}}
+[[Category:1985 video games]]
+[[Category:Amiga games]]
+[[Category:Classic Mac OS games]]
+[[Category:Medical video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,92 @@
+Football Manager (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Football_Manager_%281982_video_game%29&oldid=1224396985
+Accessed on: 2024-06-26T16:53:24.958093
+
+
+
+------
+Football Manager (1982 video game)
+{{More citations needed|date=April 2023}}
+{{Infobox video game
+| title  = Football Manager
+| image = FootballManagerZX81.jpg
+| developer = 
+| publisher = [[Addictive Games]]
+| designer = [[Kevin Toms]]
+| series =
+| released = 1982
+| genre = [[Sports video game|Sports]], [[Business simulation game|business simulation]]
+| modes = [[Single-player]]
+| platforms = [[TRS-80]], [[ZX80]], [[ZX81]], [[ZX Spectrum]], [[BBC Micro]], [[VIC-20]], [[Commodore 64]], [[Oric computers|Oric]], [[Amstrad CPC]], [[Acorn Electron]], [[Dragon 32/64]], [[Atari 8-bit]], [[MSX]], [[MS-DOS]], [[Atari ST]], [[Amiga]]
+}}
+
+'''''Football Manager''''' is the first game in the ''[[Football Manager (1982 series)|Football Manager]]'' series.
+
+==Gameplay==
+[[File:Kevin-toms-football-manager-screenshot-1.png|thumb|left|Text based screen on the ZX Spectrum]][[File:Kevin-toms-football-manager-screenshot-2.png|thumb|right|Graphical highlight section on the ZX Spectrum. A goal has just been scored]]The game was written entirely in [[BASIC]]<ref name="ballisround">[http://theballisround.co.uk/2010/07/29/the-original-gamefather/ Interview with Kevin Toms] for the blog The Ball is Round</ref><ref name="computer gamer">[http://www.worldofspectrum.org/showmag.cgi?mag=ComputerGamer/Issue05/Pages/ComputerGamer0500022.jpg "The Spectrum Collection"], Tony Hetherington, Computer Gamer, August 1985</ref> and, apart from the match highlights on some versions, used only text displays and keyboard entry. The player chooses a team and then must try to earn promotion from the [[Football League Fourth Division|fourth]] to the [[Football League First Division|first division]] (although the player can then keep playing for as many [[Season (sports)|seasons]] as they wish). The player also competes in the [[FA Cup]]. Though the team and player names are real, they are not accurately represented, so whichever team is selected, the player always starts in the fourth division and their team is randomly populated with players. Each player has a skill rating and an energy rating. Players must be rested to renew their energy rating or they become injured. The players' skill and energy ratings also change at the end of the season. The team has ratings of defence, midfield and attack (the total skills of all defenders, midfielders or attackers selected), energy (an average of all selected players) and morale (which increases when the team wins and decreases when they lose). The player can select their team to balance the skills based on the opposing team's ratings (e.g. to increase the defence rating if the opposition has a high attack rating).
+
+As the match is played, the screen is updated if a goal is scored. For versions with animated graphics highlights, attempts on goal are shown in [[isometric graphics in video games and pixel art|isometric 3D]] at either end of the pitch with a scoreboard showing the current score. The player cannot affect the game while it is in progress.
+
+The player must also balance finances. Weekly income and expenditure is calculated and bank loans can be taken out. There is also a basic player transfer system. Random players become available to buy which the player can bid for. If the squad reaches the maximum of 16, no players will be available to buy. The player can also list their own players for sale and then accept or reject bids.
+
+Game progress can be saved at any time. A customiser utility was included with the game so players could rename the teams and players.<ref>[http://www.acornelectron.co.uk/info/addictive/i-foot.html ''Football Manager'' Original instructions]{{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes }} reproduced at Acorn Electron World</ref>
+
+==Development and release==
+[[Kevin Toms]] developed the first game, which was text-only, on a [[Video Genie]], a clone of the [[Tandy Corporation|Tandy]] [[TRS-80]]. The title evolved out of a board game Toms first designed aged 11 that was itself inspired by the 1968 football management simulation board game ''Soccerama''. Early iterations were modelled on the cardboard from cereal packets and blank card decks, but Toms was inspired to develop it into a computer game after purchasing a [[ZX81]] and deciding this was a "much better tool to run the game on, especially for automating things like the [[league table]] calculations and fixtures".<ref>{{Cite book |last=Donovan |first=Tristan |title=[[Replay: The History of Video Games]] |publisher=Yellow Ant |year=2010 |isbn=978-0-9565072-0-4 |location=[[Lewes]], [[East Sussex]] |pages=114–115}}</ref>
+
+It was later converted to the [[Sinclair Research|Sinclair]] [[ZX80]] and [[ZX81]],<ref name="advert1">[http://zx81stuff.org.uk/zx81/showmag.php?mag=SinclairUser/Issue002/Pages/SinclairUser00200056.jpg Press advertisement] from [[Sinclair User]], May 1982</ref> and Toms created the software label [[Addictive Games]] to launch the game in 1982. It was then ported to the [[ZX Spectrum]]<ref>{{cite web |url=http://www.mobygames.com/game/zx-spectrum/football-manager |title=Football Manager |publisher=MobyGames |accessdate=2009-09-02}}</ref> with added animated graphics showing match highlights.
+
+The game was a huge success and was ported to a wide range of systems between 1984 and 1987.<ref name="advert2">[http://www.worldofspectrum.org/showmag.cgi?mag=MicroAdventurer/Issue09/Pages/MicroAdventurer0900018.jpg Press advertisement] from Micro Adventurer, July 1984</ref><ref>[http://www.mobygames.com/game/cpc/football-manager Football Manager] at mobygames.com</ref> While the [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[BBC Micro]], [[Commodore 64]], [[MSX]] and [[DOS]] versions, kept or improved all features such as the match highlights graphics, all others (including the [[Acorn Electron]], [[Atari 8-bit computers]],<ref name="Lennox">Converted to Atari Basic by Colin Lennox.</ref> [[Commodore 16]] and [[Commodore Plus/4|Plus/4]] were, like the original, text only.
+
+==Reception==
+''Football Manager'' was a commercial hit, selling 500,000 copies in its first six years available.<ref name=sales2>{{cite journal |title=The Encyclopedia of the Amiga; Activision to Adventure | author=Staff |issue=Special Issue 4 |date=1992 |page=10 |journal=[[Amiga Format]] }}</ref>
+
+The game was well received by the gaming press although ''[[Sinclair User]]'' did comment on the lack of realism of the teams and individual player ratings.<ref name="sinlair user">[http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue011/Pages/SinclairUser01100030.jpg "Getting as Sick as a Parrot"], [[Sinclair User]], February 1983</ref> The excitement of watching the game in progress was often seen as the highlight of the game.<ref name="sinlair user" /> ''[[Electron User]]'' claimed the game was "one of the best strategy games available for home computers" with reviewer Dave Carlos stating "I doubt that this game will ever be bettered".<ref name="electron user">[http://8bs.com/elecgame/football_manager.htm ''Football Manager'' review], Dave Carlos, ''[[Electron User]]'', April 1986</ref>
+
+The game was nominated in the 1983 [[Golden Joystick Awards]] for best strategy game, eventually coming second to the [[Krome Studios Melbourne|Melbourne House]] adventure game ''[[The Hobbit (1982 video game)|The Hobbit]]''.<ref name="C&VG">[http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue029/Pages/CVG02900015.jpg "The Golden Joystick Award"], [[C&VG]], Issue 29</ref> In 1985, Tony Hetherington of Computer Gamer magazine included the game in "The Spectrum Collection" – "15 classic games that all Spectrum owners should have".<ref name="computer gamer" />
+
+By 1991, when reviewing the £2.99 budget release, ''[[Amiga Power]]'' awarded a score of only 19% as the game had been "out-featured by practically every other game in the genre" but was "still massively addictive" and referred to as a "classic" and "one of the legends of computer gaming".<ref name="amiga power">[http://amr.abime.net/review_177 ''Football Manager'' review], [[Amiga Power]], July 1991</ref> The ZX Spectrum version was voted the 26th best game of all time in a special issue of ''[[Your Sinclair]]'' magazine in 2004.<ref name="ys2004">{{cite journal|title=Top 50 Games of All Time|journal=Your Sinclair|date=November 2004|publisher=Imagine Publishing}}</ref>
+
+Steve Mann for ''[[Personal Computer World]]'' said "I can vouch for the satisfaction that can be gained from this program. Recommended."<ref>{{Cite web|url=http://archive.org/details/PersonalComputerWorld1983-05/page/142/mode/2up|title=Personal Computer World (1983-05)|date=May 11, 1983|via=Internet Archive}}</ref>
+
+Bob Wade for ''[[Personal Computer Games]]'' said "It is one of the most addictive games I have ever played and if you will excuse me I'm just off to take Wimbledon to the Cup Final."<ref>{{Cite web|url=http://archive.org/details/Personal_Computer_Games_Issue_11/page/44/mode/2up|title=Personal Computer Games Issue 11|via=Internet Archive}}</ref>
+
+===Reviews===
+*''The ZX Spectrum Book''<ref>{{Cite web|url=http://archive.org/details/ZXSpectrumBook1982To199xThe/page/n17/mode/2up|title=ZX Spectrum Book - 1982 to 199x, The|date=March 11, 2006|via=Internet Archive}}</ref>
+*''[[ACE (Advanced Computer Entertainment)]]'' – Nov, 1989<ref>{{Cite web | url=https://archive.org/details/ace-magazine-26/page/n112/mode/2up | title=ACE Magazine Issue 26 | date=November 1989 }}</ref>
+*''[[ASM (Aktueller Software Markt)]]'' – Feb, 1986
+*''[[Atari ST User]]'' – Jun, 1988<ref>{{Cite web | url=http://www.atarimania.com/atari-magazine-issue-atari-st-user-vol-3-no-04_1072.html | title=Atari ST User (Vol. 3, No. 04) - June - 1988: Atari magazine scans, PDF }}</ref>
+*''[[ASM (Aktueller Software Markt)]]'' – Dec, 1986<ref>{{Cite web | url=https://archive.org/details/asm_magazine-1987-01/page/n61/mode/2up | title=Aktueller Software Markt (ASM) Magazine (January 1987) | date=January 1987 }}</ref>
+*''[[Amiga Power]]'' – Jul, 1991<ref>https://archive.org/details/Amiga_Power_Issue_03_1991-07_Future_Publishing_GB/page/n79/mode/2up {{Dead link|date=February 2022}}</ref>
+
+==Legacy==
+In August 2015, Toms began rewriting the original 1982 ''Football Manager'' game for mobile devices after pitching the idea to his followers, drawing on his work experience of business app development.<ref name=":0" /><ref>{{Citation|title=Andrew speaks to Kevin Toms, author of the first Football Manager – Saturday Sport on Coast and County Radio| date=13 February 2021 |url=https://open.spotify.com/episode/2f0SbNIvFwlmup7HCklrY9|language=en|access-date=2021-08-03}}</ref> The new game, ''Football Star* Manager'' (KTFSM), was released in 2016 to an overwhelmingly positive response from buyers – many of them former players of the original ''Football Manager'' series. KTFSM was first released on iOS and Android; since its release, the game has been ported to macOS, Windows 10 and Amazon Fire. The game is as near to the original ''Football Manager'' as you can get on the new platforms.<ref name=":0">{{cite web | url=http://blog.kevintoms.com/ | title=Kevin Toms Blog}}</ref>
+
+In January 2022, Kevin launched a Kickstarter to fund a new version of his Football Manager game, ''Football New Manager'', to mark the 40th anniversary of the original game.<ref name=":1">{{Cite tweet|number=1479192371581489152|user=KevinToms|title=I am glad to say the Kickstarter has reached 90% funded, just a little way to go. I have an update to Football New Manager in testing. - A notch further along :)|first=Kevin|last=Toms|date=2022-01-06|access-date=2023-10-27}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Football Manager (1982 video game)}}
+[[Category:1982 video games]]
+[[Category:Addictive Games games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Association football video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:BASIC software]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Dragon 32 games]]
+[[Category:Football Manager| ]]
+[[Category:MSX games]]
+[[Category:Oric games]]
+[[Category:Single-player video games]]
+[[Category:TRS-80 games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX81 games]]

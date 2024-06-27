@@ -1,0 +1,91 @@
+Total Eclipse (1988 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Total_Eclipse_%281988_video_game%29&oldid=1220356611
+Accessed on: 2024-06-26T17:05:17.178956
+
+
+
+------
+Total Eclipse (1988 video game)
+{{Use British English|date=August 2023}}
+{{Use dmy dates|date=August 2023}}
+{{Infobox video game
+|title = Total Eclipse
+|image = Total Eclipse (1988 video game) cover.jpg
+|caption = Cover art
+|developer = Major Developments
+|publisher = [[Incentive Software]]
+|designer = Paul Gregory, Chris Andrew, Sean Ellis, and Ian Andrew 
+|engine = [[Freescape]]
+|released = [[1988 in video gaming|1988]]
+|genre = [[Adventure game|Adventure]], [[first-person shooter]]
+|modes = [[Single player]]
+|composer = Wally Beben
+|platforms = [[Amiga]], [[Atari ST]], [[Amstrad CPC]], [[Commodore 64|C64]], [[MS-DOS]], [[ZX Spectrum]]
+}}
+
+'''''Total Eclipse''''' is a [[First person (video games)|first person]] [[adventure game]] released for the [[Amiga]], [[Atari ST]], [[Amstrad CPC]], [[Commodore 64]], [[MS-DOS]] and [[ZX Spectrum]] computers in [[1988 in video gaming|1988]]. It can also be considered an early example of a [[first-person shooter]].
+
+==Plot==
+The game backstory as explained in the manual is that an [[Ancient Egypt]]ian priest has put a curse on a pyramid dedicated to the [[Ra|Sun God Re]]. Any object obstructing Re's shrine from the Sun would be destroyed. The protagonist is an unnamed archaeologist who learns that on 26th October, 1930, a [[total eclipse]] will obstruct the sun above [[Cairo]], and that the curse will cause the [[Moon]] to explode, devastating Earth with debris. He decides to travel to the pyramid and destroy Re's shrine, preventing the curse.
+
+The game starts having just arrived with a biplane parked outside the pyramid he is about to enter, two hours before the eclipse. The player has to enter and explore the pyramid, avoid traps, trigger and activate puzzles and navigate through maze-like rooms. Causes of death include [[dehydration]], and [[heart attack]] caused by various hazards such as falling off ledges, getting crushed by falling stones and taking too many hits from [[poison dart]]s. Throughout the maze the player can discover treasure to accumulate their score, and [[ankh]]s that serve as keys to locked doors.<ref>{{cite journal|title=Zzap!|date=July 1989|issue=51|pages=70|url=http://www.amigareviews.leveluphost.com/totalecl.htm|accessdate=2 November 2011}}</ref><ref>{{cite web|url=https://archive.org/download/World_of_Spectrum_June_2017_Mirror/World%20of%20Spectrum%20June%202017%20Mirror.zip/World%20of%20Spectrum%20June%202017%20Mirror/sinclair/games-info/t/TotalEclipse.pdf|title=Total Eclipse instructions|work=Spectrum Computing|access-date=4 September 2023}}</ref>
+
+==Gameplay==
+[[File:67007-total-eclipse-atari-st-screenshot-plenty-of-doors-and-stairs.png|thumb|250px|right|''Total Eclipse'' added multi-levels and stairs to the 3D environment]]
+Like the previous [[Freescape]] games developed by Major Developments, ''Total Eclipse'' takes place from the point of view of the main character, who can move freely within the 3D environment of the game. This time, however, the emphasis is more on adventure, puzzle-solving and survival; with multi-level environments to move around and explore.
+
+The key elements of the game consist of:
+*A water jar, with water which diminishes as the player progresses; when it is empty the player will die of dehydration. The jar can be refilled with water found around the levels.
+*A heart-rate monitor, which serves as a [[Health (gaming)|health indicator]]. When the player suffers from damage or walks around a dangerous area, the rate will go higher. The player can keep it lower by resting, sacrificing some of the available time.
+*A torch, with a limited battery-life, which allows you to explore some of the darker areas of the game. 
+*A [[magnetic compass]] for navigation
+*A [[wrist watch]] and a depiction of the sun with the moon as it [[Occultation|passes]] across the sun's face, both of which show the remaining time.
+*A [[pistol]] which is used for manipulating the environment, such as shooting at doors, chests and mechanisms to open or trigger them. There are also a few enemies.  The pistol has infinite ammo.
+
+Items that can be found in the pyramid are 
+*Pairs of symbols, which the player must shoot in order to trigger something (e.g. open a locked door)
+*Pools or fountains of water to fill the water jar.
+*[[Ankh]]s that serve as keys to barred doors; these are finite throughout the pyramid, and part of the challenge consists not wasting them.
+*The player can also find treasure, which simply serves as a [[side quest]] and only accumulates [[score (game)|score]].
+
+==Development==
+''Total Eclipse'' was the third game to use the [[Freescape]] [[First person shooter graphics engine|engine]], which allowed the production of full three-dimensional environments using filled polygons in which the player could move around freely. However, the [[First person shooter graphics engine|engine]] was improved for this release, adding spheres to the collection of shapes used for building the 3D environments.<ref>{{citation|last=Fahs|first=Travis|title=IGN Retro}}</ref>
+
+Like the previous [[Freescape]]-based games, it also gave the player the ability to 'crouch', and look up and down,<ref>{{cite web|title=Total Eclipse Keys at ''Lemon Amiga''|url=http://www.lemonamiga.com/games/docs.php?id=1669|accessdate=2 November 2011}}</ref> as well as rotate left and right, something which was rare amongst 3D games of the time. The same engine was used for its sequel, ''[[Total Eclipse II: The Sphinx Jinx]]''.
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Your Sinclair''
+| award2 = Megagame
+| award3Pub = ''Amstrad Action''
+| award3 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 40, January 1989</ref>
+}}
+''[[Amiga Format|Amiga/ST Format]]'' gave ''Total Eclipse'' a score of 78% in its July issue of 1989, bemoaning the similarity to previous [[Freescape]] games as its biggest downfall. The reviewer, Gary Barett, concluded, "Do not misunderstand me, though, ''Total Eclipse'' is the best of Freescape games, but the originality has gone".<ref>{{cite journal|last=Barett|first=Gary|title=Amiga/ST Format|date=July 1989|issue=13|pages=69|url=http://www.amigareviews.leveluphost.com/totalecl.htm}}</ref>
+
+''[[Zzap!64|Zzap!]]'' awarded a higher score of 84%, praising the game's moody music and claustrophobic feel, and stating that "''[[Dark Side (video game)|Dark Side]]'' comes close in terms of realism but to my mind ''Total Eclipse'' has a lot better atmosphere".<ref>{{cite journal|title=Zzap!|date=July 1989|issue=51|pages=70|url=http://www.amigareviews.leveluphost.com/totalecl.htm}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/total-eclipse|name=''Total Eclipse''}}
+*[http://eclipse.ovine.net/ Freeware remake of ''Total Eclipse''] {{Webarchive|url=https://web.archive.org/web/20130523091933/http://eclipse.ovine.net/ |date=2013-05-23 }}
+{{Incentive Software}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:First-person shooters]]
+[[Category:Freescape games]]
+[[Category:Incentive Software games]]
+[[Category:Single-player video games]]
+[[Category:Video games based on Egyptian mythology]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in 1930]]
+[[Category:Video games set in Egypt]]
+[[Category:ZX Spectrum games]]

@@ -1,0 +1,65 @@
+Castle Quest (1985 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Castle_Quest_%281985_video_game%29&oldid=1150450337
+Accessed on: 2024-06-26T16:58:12.465941
+
+
+
+------
+Castle Quest (1985 video game)
+{{Infobox video game
+| title =     Castle Quest
+| image =     Castle Quest BBC Micro cover.jpg
+| caption =
+| programmer = Tony Sothcott
+| publisher = [[Micro Power]]
+| designer =
+| released =  {{video game release|WW|[[1985 in video gaming|1985]]}}
+| genre =     [[Action-adventure game|Action-adventure]]
+| modes =     [[Single-player video game|Single-player]]
+| platforms = [[BBC Micro]]
+}}
+'''''Castle Quest''''' is [[Action-adventure game|action-adventure]] game for the [[BBC Micro]] noted at the time of release as being the best game on the platform in its genre for its [[problem solving]], colourful graphics  and smooth scrolling.
+
+== Gameplay ==
+[[File:Castle Quest BBC Micro in-game.png|thumb|left|The jail]]
+The game is set in a wizard's castle, the player's task being to find the treasure. It employs "very smooth"<ref name="personalcomputernews skinner 19850223" /> [[side-scrolling video game|side-scrolling]] (termed 'Scrollerama')<ref name="acornuser smith 198503" /> and imperfect vertical scrolling.<ref name="personalcomputernews skinner 19850223" /> Play includes climbing ladders, which are sufficiently wide to simplify this aspect of gameplay.<ref name="personalcomputernews skinner 19850223" /> Various objects can be found and used to solve problems. These include everyday items, furniture, specialist equipment and valuables.<ref name="personalcomputernews skinner 19850223" /><ref name="acornuser smith 198503" /> Other characters include guards,<ref name="personalcomputernews skinner 19850223" /> animals,<ref name="personalcomputernews skinner 19850223" /><ref name="acornuser smith 198503" /> a witch<ref name="personalcomputernews skinner 19850223" /> and the wizard.<ref name="acornuser smith 198503" />
+
+Control is via the keyboard, with 13 keys<ref name="acornuser smith 198503" /> having various uses, for example accessing the inventory of objects carried in the backpack, viewing off-screen to left/right.<ref name="personalcomputernews skinner 19850223" /> Play requires both dexterity and lateral thinking.<ref name="acornuser smith 198506" /> A [[saved game]] facility is not provided.<ref name="acornuser smith 198503" />
+
+Scores are awarded based on progression through the game. Upon completion, additional rewards are given for remaining [[life (video games)|lives]] and a bonus is awarded according to elapsed time.<ref name="acornuser smith 198506" /> An expert player may complete the game in "around seven minutes".<ref name="acornuser smith 198506" />
+{{Clear}}
+
+== Development ==
+
+The game was reported as being programmer Tony Sothcott's first [[machine code]] game.<ref name="acornuser smith 198506" /> Its colours are achieved using {{nowrap|Mode 2}},<ref name="acornuser smith 198503" /> requiring more than half of total available [[Random-access memory|RAM]].<ref name="acornuser smith 198506" /> The map is made up from screens comprising {{nowrap|8 × 7}} blocks, there being 13 different types of such block.<ref name="acornuser smith 198506" /> Two adjacent blocks are stored as a single [[byte]] within the map data, which occupies {{nowrap|2 [[kilobyte|kB]]}} in total.<ref name="acornuser smith 198506" /> This technique was noted for its ingenuity.<ref name="acornuser smith 198506" />
+
+=== Marketing ===
+
+The game was marketed as "Probably the most challenging game ever devised for the BBC Micro." The publishers offered small cash prizes to those completing the game within three months of purchase. They also announced a future competition between the four highest scorers, with a prize of computer equipment worth £500.<ref name="acornuser smith 198503" /> The game's retail price (cassette £12.95, disk £14.95)<ref name="acornuser smith 198506" /> was noted as being "not cheap" but nevertheless worthy.<ref name="acornuser smith 198503" />
+
+Self-styled "marketing expert" Chris Payne (at that time a recent graduate employed by Micro Power as a marketing assistant) recalls his memory of Sothcott's game being "terrific".<ref name="triumphoverchallenges payne micropower" /> Micro Power did not commission the marketing from any of their usual agents, instead appointing new agency Kidd's of Leeds. This agency devised a "nicely done logo" on a simple black background.<ref name="triumphoverchallenges payne micropower" />
+
+== Reception ==
+
+The game was listed as a 'star game' in a 1985 review in ''[[Personal Computer News]]'' (''PCN'') and was featured in an illustrated double-page spread in the {{nowrap|June 1985}} issue of ''[[Acorn User]]'' (''AU'').<ref name="acornuser smith 198506" /> ''PCN'' Reviewer Bryan Skinner noted that the programmer had developed "something really special", with both publications noting the "clever"<ref name="personalcomputernews skinner 19850223" /><ref name="acornuser smith 198506" /> use of colourful [[computer graphics|graphics]], but little use of sound,<ref name="personalcomputernews skinner 19850223" /><ref name="acornuser smith 198503" /> possibly due to lack of available RAM.<ref name="personalcomputernews skinner 19850223" /> ''AU'' reviewer Bruce Smith noted the hardware scrolling as being the "best ... yet" on the platform.<ref name="acornuser smith 198503" /> Skinner was of the opinion that ''Castle Quest'' was "the best arcade game" on the [[BBC Micro]] and would qualify as "the best game" were it not for the existence of ''[[Elite (video game)|Elite]]''. He called for readers to join him in demanding that [[Micro Power]] convert the game for the [[Commodore 64]] and [[ZX Spectrum]].<ref name="personalcomputernews skinner 19850223" />
+
+The ''AU'' feature was justified (while acknowledging the earlier March review) by the opinion that the game represented a landmark in game development, both on the BBC Micro and other platforms.<ref name="acornuser smith 198506" /> Micro Power's software development manager Alan Butcher tested and completed the game before release. Marketing assistant Chris Payne recalled that staff predicted the game to be a bestseller.<ref name="triumphoverchallenges payne micropower" />
+
+== References ==
+{{Reflist|refs=
+<ref name="personalcomputernews skinner 19850223">{{cite news | url=https://archive.org/details/PersonalComputerNews/PersonalComputerNews100-23Feb1985/page/n35| title=Gameplay | work=[[Personal Computer News]] | date=23 February 1985 | accessdate=18 April 2023 | author=Skinner, Bryan | pages=35}}</ref>
+<ref name="acornuser smith 198503">{{cite news | url=http://acornuser.com/acornuser/year4/issue32.html | title=Who'll be king of the castle? | work=[[Acorn User]] | date=March 1985 | accessdate=18 February 2014 | author=Smith, Bruce | pages=159}}</ref>
+<ref name="acornuser smith 198506">{{cite news | url=http://acornuser.com/acornuser/year4/issue35.html | title=Wizard treasure | work=[[Acorn User]] | date=June 1985 | accessdate=18 February 2014 | author=Smith, Bruce | pages=164–165}}</ref>
+<ref name="triumphoverchallenges payne micropower">{{cite web | url=http://www.triumphoverchallenges.com/working-at-micro-power-program-power-leeds/ | title=Working at Micro Power / Program Power, Leeds | work=triumphoverchallenges.com | accessdate=18 February 2014 | author=Payne, Chris}}</ref>
+}}
+
+{{Micro Power}}
+
+[[Category:1985 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Metroidvania games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in castles]]
+[[Category:Micro Power games]]

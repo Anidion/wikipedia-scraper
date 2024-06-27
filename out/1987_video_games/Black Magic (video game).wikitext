@@ -1,0 +1,70 @@
+Black Magic (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Black_Magic_%28video_game%29&oldid=1219396236
+Accessed on: 2024-06-26T17:01:42.684003
+
+
+
+------
+Black Magic (video game)
+{{short description|1987 action-adventure video game}}
+{{refimprove|date=October 2017}}
+{{Infobox video game
+| title = Black Magic
+| image = Black Magic Coverart.png
+| caption = 
+| developer = Action Software
+| publisher = [[Datasoft]]<br>[[U.S. Gold]] (UK)<ref name=sc>{{WoS game|id=0000553|name=Black Magic}}</ref>
+| designer = Peter Ward<ref name=manual />
+| released = 1987
+| genre = [[Action-adventure game|Action-adventure]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Amstrad CPC]], [[Apple II]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Black Magic''''' is a multidirectional scrolling [[action-adventure game]] written for the [[Apple II]] by Peter Ward of Action Software and published by [[Datasoft]] in 1987. [[Commodore 64]], [[ZX Spectrum]], and [[Amstrad CPC]] versions were also released.
+
+==Plot==
+The evil wizard Zahgrim has turned the good wizard Aganar to stone, removed his six eyes, and scattered them across the world, though always in the same locations, so they may view the destruction being reaped.<ref name=manual/> The player's objective is to find the six eyeballs.
+
+==Gameplay==
+The player moves through a large, vertically and horizontally scrolling world, picking-up food, arrows, and spells. Roaming enemies can be avoided or shot with arrows; the player can only shoot arrows while moving. The game plays differently depending on the order the eyes are recovered. When one is collected, stronger types of monsters appear in the world and travel becomes more difficult. 
+
+Resources are limited. Food is always on the verge of running out and arrows are in short supply.  A large bird can carry the player to a different part of the world, similar to the bat in ''[[Adventure (1980 video game)|Adventure]]'' for the [[Atari 2600]]. Shooting the bird with an arrow makes it go away temporarily.<ref name=manual/>
+
+Spells are gained by collecting scrolls. They provide alternate approaches to problems. For example, ''Vanish'' prevents damage from monsters and casting ''Chill'' on water immobilizes the creatures in it and allows the frozen surface to be walked across.<ref name=manual/> The player's rank begins at [[apprentice]] and every 4000 points a new rank is awarded: [[Magician (fantasy)|wizard]], [[Magician (fantasy)|sorcerer]], and [[necromancer]]. New spells are unlocked with each rank.
+
+Once all six eyes have been found and placed in the Blind Statue's empty sockets, a message appears explaining how to end Zahgrim's rule over the land once and for all. The player is then able to enter Zahgrim's castle, a difficult maze of traps and monsters.
+
+==Reception==
+The game was reviewed in 1987 in ''[[Dragon (magazine)|Dragon]]'' #124 by Hartley and Patricia Lesser in "The Role of Computers" column. The reviewers called it one of the better games in the arcade/adventure genre, due to its variety of tasks required to complete the quest.<ref name="Dragon124">{{cite journal
+|title=The Role of Computers
+|last1=Lesser|last2=Lesser|first1=Hartley|first2=Patricia
+|journal=Dragon
+|issue=124
+|date=August 1987
+|pages=92–96}}</ref>
+
+==Reviews==
+* ''[[ASM (Aktueller Software Markt)]]'' (November 1987)
+* ''[[Commodore User]]'' (September 1987)<ref>{{Cite magazine|url=https://archive.org/details/commodore-user-magazine-48/page/n37/mode/2up |magazine=Commodore User |title=Black Magic |date=September 1987 |issue=48 |last1=Buciak |first1=Bohdan |page=38}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite book |title=Black Magic manual (Commodore 64)|date=1987 |publisher=Datasoft |url=https://archive.org/details/vgmuseum_datasoft_blackmagic-alt-manual/page/n0 |via=archive.org}}</ref>
+}}
+
+==External links==
+* {{WoS game|id=0000553|name=Black Magic}}
+* {{Lemon64 game|id=287|name=Black Magic}}
+
+[[Category:1987 video games]]
+[[Category:Action-adventure games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:Datasoft games]]
+[[Category:Fantasy video games]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]
+[[Category:U.S. Gold games]]

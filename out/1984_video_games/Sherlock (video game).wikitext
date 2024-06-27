@@ -1,0 +1,56 @@
+Sherlock (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sherlock_%28video_game%29&oldid=1193237920
+Accessed on: 2024-06-26T16:57:34.659706
+
+
+
+------
+Sherlock (video game)
+{{Infobox video game
+|title          = Sherlock
+|image          = Sherlock 1984 video game cover.jpg
+|caption        = Cover of the game
+|developer      = [[Beam Software]]
+|publisher      = [[Krome Studios Melbourne|Melbourne House]]
+|series         =
+|released       = 1984
+|genre          =
+|modes          = [[Single player]]
+|platforms      = [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Sherlock''''' is a 1984 [[text adventure]] developed under the lead of Philip Mitchell<ref>{{Cite web|url=http://www.crashonline.org.uk/09/news.htm|title = CRASH 9 - News}}</ref> by [[Beam Software]]. It was published by [[Krome Studios Melbourne|Melbourne House]]. Five programmers worked for 18 months on the title and a Sherlock Holmes expert was employed full-time for a year to advise the team on accuracy.<ref>Mike Gerrard: ''Adventuring into an Unknown World''. In: The Guardian, 1984-08-30, section Micro Guardian/Futures, page 13.</ref>
+
+Technically, the adventure builds upon the 1982 title ''[[The Hobbit (1982 video game)|The Hobbit]]''. Autonomous [[Non-player character|NPC]]s and realtime gameplay, two sophisticated features of ''The Hobbit'', are present in ''Sherlock'' - as is ''Inglish'', the parser responsible for analyzing the player's commands.<ref>{{Cite web|url=http://www.crashonline.org.uk/03/hobbit.htm|title = CRASH 3 - Melbourne House}}</ref> The game simulated 'real time'; trains ran to a time table and key plot events began at exactly specified moments. There was also an attempt to move beyond 'instructional' communication with characters (in which non-player characters are told or asked to complete actions the player does not wish to or is unable to complete) to 'dialogic' communication in which characters could be questioned, challenged and persuaded with evidence. The latter was an early attempt to simulate changing states of consciousness within an interactive narrative.
+
+==Plot==
+A double murder has been committed in the town of [[Leatherhead]] and Dr. Watson has encouraged the player, who plays Holmes, to investigate. [[Inspector Lestrade]] is also investigating.<ref>{{cite web |url=http://www.zxspectrumreviews.co.uk/review.aspx?gid=4988&rid=5217 |title=Sinclair ZX Spectrum Reviews |website=www.zxspectrumreviews.co.uk |url-status=dead |archive-url=https://web.archive.org/web/20160331213224/http://zxspectrumreviews.co.uk/Review.aspx?rid=5217&gid=4988 |archive-date=2016-03-31}} </ref>
+
+==Bugs==
+The game is notorious for a large number of surreal and amusing bugs due to the complex potential interactions between characters. For example:
+* Policemen can still talk, and obstruct Holmes, while unconscious.
+* Hansom cab drivers can blame Holmes for anyone who fails to pay their fare anywhere on the map, can be used to force improper objects (such as trains) to appear inside cabs, and can be confused into driving the player into a null location which is used as the store for nouns, allowing Holmes to pick up items such as "innocent", "your alibi" and "an opium den".
+* Inspector Lestrade normally arrests the wrong man early in the game, causing a Game Over unless Holmes has shown the man's innocence; however, Holmes can also wait for Lestrade to get in a cab, then tell his cabbie from outside to drive to a random location, causing Lestrade to freeze because he doesn't know what to do there.
+* Watson is described as "the only character with a memory", but if the player allows Watson to see too many events happening, his memory overflows the available RAM of the system and the game crashes.
+
+==References==
+<references />
+
+== External links ==
+* {{WoS game|id=0006968|name=Sherlock}}
+* [http://www.c64sets.com/set.html?id=10 Images of ''Sherlock'' package, manual and screen shots]
+* [http://veronikamegler.com/FL/fl.htm Emulator which shows what's going on 'behind the scene' in the ZX Spectrum version]
+* {{IFDB|id=ug3qu521hze8bsvz|title=Sherlock}}
+
+{{Sherlock Holmes video games}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1984 video games]]
+[[Category:Commodore 64 games]]
+[[Category:Detective video games]]
+[[Category:Interactive fiction based on works]]
+[[Category:Video games based on Sherlock Holmes]]
+[[Category:Video games developed in Australia]]
+[[Category:Video games set in Surrey]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

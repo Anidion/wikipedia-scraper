@@ -1,0 +1,63 @@
+Drelbs
+Permalink: //en.wikipedia.org/w/index.php?title=Drelbs&oldid=1224117054
+Accessed on: 2024-06-26T16:54:55.670608
+
+
+
+------
+Drelbs
+{{short description|1983 video game}}
+{{about|the video game|the unrelated Dungeons & Dragons character|Drelb}}
+{{Infobox video game
+|title = Drelbs
+|image = Drelbs (Cover).jpg
+|alt = UK Commodore 64 box cover
+|caption = UK box cover
+|developer = [[Synapse Software]]
+|designer = Kelly Jones<ref name=giantlist/>
+|programmer = '''Atari 8-bit'''<br>Kelly Jones<br>'''Apple II'''<br>Jonathan Tifft<br>'''Commodore 64'''<br>Miriam Nathan<br>William Mandel
+|publisher = Synapse Software<br>[[U.S. Gold]] (UK)
+|released = '''1983:''' Atari, Apple<br>'''1984:''' C64
+|genre = [[Maze video game|Maze]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''Drelbs''''' is a [[maze video game]] written by Kelly Jones for [[Atari 8-bit computers]] and published by [[Synapse Software]] in 1983. An [[Apple II]] port by Jonathan Tifft was released the same year.<ref name="giantlist"/> A [[Commodore 64]] version followed in 1984 implemented by Miriam Nathan and William Mandel.<ref>{{lemon64 game|id=782|name=Drelbs}}</ref> The objective is to move the walls of the maze to make boxes. Some reviewers found the overall collection of elements to be eccentric and unique.
+
+Jones later teamed with fellow Synapse designer [[Bill Williams (game designer)|Bill Williams]] on the [[biofeedback]] game suite, ''[[Relax (video game)|Relax]]''.<ref>{{cite web|title=Relax|url=http://www.atarimania.com/game-atari-400-800-xl-xe-relax_4336.html|website=Atari Mania}}</ref>
+
+==Gameplay==
+[[File:Drelbs_Atari_8-bit_PAL_screenshot.png|thumb|left|The drelb at left, screwhead tank on the right, and a pink trollaboar between them (Atari 8-bit)]]
+
+The playfield is a maze of gates, similar to the ''[[Lady Bug (video game)|Lady Bug]]'' arcade game, which can be rotated 90 degrees by pushing into them.<ref name=kopp/> The player controls a walking eyeball called a drelb, with the goal of flipping the gates so they create closed boxes. Pursuing the drelb are square trollaboars who can also use the gates, but can't seal them into boxes. There is an empty border on the outside the maze patrolled by screwhead tanks which shoot at the drelb.<ref name=manual/>
+
+Occasionally one of the boxes becomes what the manual calls a "drelbish window to the dark corridor." This leads to a separate screen where the goal is to free—by touching—as many drelbs as possible while avoiding gorgolytes.<ref name=manual/> Completing the dark corridor, or kissing a randomly appearing "mystery lady", awards a bonus based on the number of completed boxes.
+
+There are eight rounds, each named after a gemstone, and three difficulty levels: Novice, Tough, and Super.<ref name="manual"/>
+
+==Reception==
+In a 1984 ''ROM'' magazine review, Tim Ruscheinsky concluded "I highly suggest that you get your copy of ''Drelbs'', especially if you enjoy well made maze games" and scored the game an 8.8 out of 10.<ref name="rom">{{cite magazine|last1=Ruscheinsky|first1=Tim|title=Product Reviews: Drelbs|magazine=ROM|issue=6|page=38|url=http://www.atarimagazines.com/rom/issue6/product_reviews.php|date=June 1984}}</ref> Bryan Welch wrote for ''[[Antic (magazine)|Antic]]'': "Kelly Jones deserves a hand for an excellent job of programming. With great graphics and sound, and a neat idea, ''Drelbs'' is a real winner."<ref>{{cite magazine |last1=Welch |first1=Bryan |title=Product Reviews: Drelbs |magazine=Antic |date=January 1984 |volume=2 |issue=10 |page=108 |url=https://archive.org/details/1984-01-anticmagazine/page/n107}}</ref> In ''[[ANALOG Computing]]'', [[Lee Pappas]] concluded his review with, "If you are on the lookout for something different, ''Drelbs'' combines interesting graphics with a challenging scenario."<ref name="pappas">{{cite magazine |last1=Pappas |first1=Lee |title=Review: Drelbs |magazine=ANALOG Computing |date=November 1983 |issue=14 |page=48 |url=https://archive.org/details/analog-computing-magazine-14/page/n48}}</ref> A 3 out of 5 review in UK-based ''[[Commodore User]]'' stated, "Fun to play and commendably different."<ref>{{cite magazine |title=Screen Scene: Drelbs |magazine=Commodore User |date=January 1985 |issue=16 |pages=58–59 |url=https://archive.org/details/Commodore_User_Magazine_Issue_016}}</ref> ''Games'' magazine called it "visually and aurally beautiful".<ref>{{cite magazine |last=Hochberg |first=Burt |magazine=Games |date=December 1984 |issue=58 |page=56 |title=Computer Capers: Drelbs| url=https://archive.org/details/games-58-1984-december/page/56/mode/2up}}</ref>
+
+George Kopp wrote in ''[[Electronic Fun with Computers & Games]]'': "so much of the game seems to be random. Sometimes you'll get lots of opportunities to transport yourself into Drelbsville. Other times you'll close off every square and still not get a Drelbish window."<ref name=kopp/> He ended with "A little less luck would have made for more interest."
+
+In a 2009 look at the Commodore 64 version for ''Retro Videogames Reviewed'', the author commented, "Even today, this game manages to captivate me with its unique ambience and absolutely weird, but fun gameplay," and "the game is such fun and so easy to discover and is so captivating".<ref>{{cite web|title=Review: Drelbs (C64)|url=https://256colors.wordpress.com/2009/05/28/review-drelbs-c64-by-kelly-jones-miriam-nathan-william-mandel-published-by-synapse-software/|website=Retro Videogames Reviewed|date=May 28, 2009}}</ref> Sean Wheatley included ''Drelbs'' on a 2007 list of "Forgotten Gems of the Maze Chase Genre," calling it "one of the oddest maze chase games out there."<ref>{{cite web|last1=Wheatley|first1=Sean|title=Forgotten Gems of the Maze Chase Genre|url=http://www.the-nextlevel.com/feature/forgotten-gems-of-the-maze-chase-genre/|website=The Next Level|date=April 2, 2007}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name=giantlist>{{cite web|url=https://dadgum.com/giantlist/ |title=The Giant List of Classic Game Programmers |last1=Hague |first1=James}}</ref>
+<ref name=manual>{{cite book|title=Drelbs Manual|date=1983|publisher=Synapse Software|url=http://www.atarimania.com/game-atari-400-800-xl-xe-drelbs_1737.html}}</ref>
+<ref name=kopp>{{cite magazine |last1=Kopp |first1=George |title=Review: Drelbs |magazine=Electronic Fun with Computers & Games |date=March 1984 |volume=2 |issue=5 |page=52 |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_02_No_05_1984-03_Fun_Games_Publishing_US/page/n53}}</ref>
+}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-400-800-xl-xe-drelbs_s1738.html ''Drelbs''] at Atari Mania
+*[http://gamebase64.com/game.php?id=2349&d=18&h=0 ''Drelbs''] at Gamebase 64
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Apple II games]]
+[[Category:Maze games]]
+[[Category:Synapse Software games]]
+[[Category:Video games developed in the United States]]

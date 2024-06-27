@@ -1,0 +1,76 @@
+Dropzone
+Permalink: //en.wikipedia.org/w/index.php?title=Dropzone&oldid=1225047017
+Accessed on: 2024-06-26T16:56:41.422936
+
+
+
+------
+Dropzone
+{{About|the video game|the parachute landing area|Drop zone|other uses|Drop zone (disambiguation)}}
+{{Infobox video game
+|title = Dropzone
+|image = Dropzone_Original_Cover_Art.jpg
+|caption = 
+|developer=Arena Graphics
+|publisher=[[U.S. Gold]]<br>[[Mindscape (company)|Mindscape]]<br>[[Acclaim Entertainment]] (GBC)
+|designer = [[Archer Maclean]]<ref name=halcyon/>
+|released = 1984
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms=[[Atari 8-bit computers|Atari 8-bit]], [[Commodore 64]], [[Game Boy]], [[Game Boy Color]], [[Game Gear]], [[Nintendo Entertainment System|NES]]
+}}
+
+'''''Dropzone''''' is a horizontally [[scrolling shooter]] developed by [[Archer Maclean]] (under the name Arena Graphics) for [[Atari 8-bit computers]] and published in 1984 by [[U.S. Gold]]. It was ported to the [[Commodore 64]], and later released for the [[Nintendo Entertainment System]], [[Game Boy]], [[Game Gear]], and [[Game Boy Color]].
+
+Maclean's first commercial game, ''Dropzone'' is similar in gameplay and style to the arcade game ''[[Defender (1981 video game)|Defender]]'' and borrows many elements,<ref name="edge">{{citation | url=http://www.edge-online.co.uk/archives/2007/01/the_making_of_d_1.php | archive-url=https://web.archive.org/web/20070221212042/http://www.edge-online.co.uk/archives/2007/01/the_making_of_d_1.php | archive-date=2007-02-21 | title=The making of... ''Dropzone'' | magazine=[[Edge (magazine)|Edge]] | date=December 2006}}</ref><ref name="halcyon">{{cite web | url=https://dadgum.com/halcyon/BOOK/MACLEAN.HTM | title=Archer MacLean interview | work=[[Halcyon Days (book)|Halcyon Days]]}}</ref> including the same style of [[font]], aliens, and title screen.<ref name="moby">{{moby game|id=/dropzone}}</ref><ref>{{KLOV game|id=7547|name=Defender}}</ref>
+
+==Plot==
+On the surface of [[Jupiter]]'s moon, [[Io (moon)|Io]], a human scientific research base is under attack by aliens. The player dons a jetpack armed with a [[laser]], a [[cloaking device]] and three [[guided bomb|smart bombs]], to rescue the scientists and return them to the base.
+
+==Gameplay==
+[[File:Dropzone_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot (Atari 8-bit)]]
+The gameplay is in the style of Williams Electronics' ''Defender'', with some influences from ''[[Scramble (video game)|Scramble]]'' and ''[[Robotron: 2084]]''.<ref name="edge"/> Players control the hero trying to rescue the scientists on a horizontally-scrolling game field.<ref name="moby"/> Players must elude or engage various aliens&mdash;some slow, others faster&mdash;and return the scientists to the base's eponymous dropzone. The aliens capture scientists walking along the ground. The player must shoot the enemy aliens and catch the falling scientists. Sometimes the aliens will carry lethal [[android (robot)|android]]s instead, which must be avoided.<ref name="moby"/>
+
+There are 99 levels of gameplay, each increasingly difficult. After level 99, the levels repeat starting level 95.
+
+==Development==
+Maclean purchased an Atari 800 as soon as they were officially launched in the [[United Kingdom|UK]] in 1981 and started writing what would eventually evolve into ''Dropzone''. Maclean converted the game to the Commodore 64 himself:<ref name="edge"/>
+{{cquote|The [Commodore] 64 ''Dropzone'' is about 46k [kilobytes] long and consists of 15,000 lines of sparsely commented code with around 350 subroutines and around 3000 labels. Those who can reach Megastar status on the 64 should have had enough practice to attempt an Atari supervised ''Dropzone'' mission. The Atari, being the Porsche of home computers, is capable of running Dropzone 2.5 times faster than the 64 and can handle any amount of blobs on screen, even when you release a Strata Bomb. It is visually, sonically etc., identical and about 12K shorter. However, the 64 is still a respectable BMW316.<ref>{{citation | journal=[[Zzap!64]] | issue=5 | pages=78–79 | date=September 1985 | title=Zzap!64 Tips Dropzone: An Explanation and Survival Tactics | url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=005&page=079&magazine=zzap}}</ref>}}
+
+The name ''Dropzone'' was not settled on until shortly before the game went gold.<ref name="halcyon"/>
+
+Maclean entered into a publishing deal with [[U.S. Gold]] for the [[Europe]]an distribution of the game. After 18 months, however, they stopped paying him [[royalty payment|royalties]] claiming that the game was no longer selling. In addition, Maclean saw it for sale in areas outside of Europe and even in the [[United States]]. Four years of legal wrangling with the publisher followed, until they finally settled out of court for [[copyright infringement]]. With the proceeds from the settlement, Maclean bought his first [[Ferrari]].<ref name="halcyon"/>
+
+==Reception==
+The Atari 8-bit version received overwhelmingly good reviews. A reviewer for ''[[Computer and Video Games]]'' in a May 1985 review said that ''Dropzone'' was one of the best Atari games and Atari owners could not afford to miss this game.<ref name="cvg"/> [[Personal Computer World]] reviewer agreed with this notion, who also praised the game's graphics and sound.<ref name="pcw"/>
+
+The [[Commodore 64]] version of the game was awarded a gold medal in issue 3 of ''[[Zzap!64]]'' magazine, with an overall rating of 95%.<ref>{{citation | journal=[[Zzap!64]] | issue=5 | pages=18–19 | date=July 1985 | title=Dropzone Review | url=http://www.zzap64.co.uk/zzap3/dropzone.html}}</ref>
+
+==Legacy==
+The sequel, ''Super Dropzone'', added new weapon types and end-level [[Boss (video games)|bosses]]. It is available for the [[Super Nintendo Entertainment System]] (titled ''Super Dropzone'' on all packaging, but only ''Dropzone'' on the title screen), [[Game Boy Advance]] and [[PlayStation]]. Only the Game Boy Advance version saw a North American release; the others were European exclusives.
+
+A fully-playable port of the C64 version can be found in [[Microsoft Windows|Windows]], [[PlayStation (console)|PlayStation]] and [[Dreamcast]] versions of ''[[Jimmy White's 2: Cueball]]'', also by Archer Maclean.
+
+==References==
+{{Reflist|refs=
+<ref name="cvg">{{cite journal |title=Software Reviews |journal=Computer and Video Games |date=May 1985 |page=105 |url=https://archive.org/details/cvg-magazine-043/page/n103/mode/2up}}</ref>
+<ref name="pcw">{{cite journal |title=I got the blues... |journal=Personal Computer World |date=July 1985 |page=209 |url=https://archive.org/details/PersonalComputerWorld1985-07/page/208/mode/2up}}</ref>
+}}
+
+[[Category:1984 video games]]
+[[Category:Acclaim Entertainment games]]
+[[Category:Action games]]
+[[Category:Action-adventure games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Fiction set on Io (moon)]]
+[[Category:Game Boy Color games]]
+[[Category:Game Boy games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Game Gear games]]
+[[Category:Single-player video games]]
+[[Category:Video game clones]]
+[[Category:U.S. Gold games]]
+[[Category:Mindscape games]]
+[[Category:Video games developed in the United Kingdom]]

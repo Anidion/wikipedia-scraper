@@ -1,0 +1,179 @@
+Arkanoid
+Permalink: //en.wikipedia.org/w/index.php?title=Arkanoid&oldid=1228707413
+Accessed on: 2024-06-26T16:59:37.759112
+
+
+
+------
+Arkanoid
+{{Short description|1986 video game}}
+{{Infobox video game
+| title = Arkanoid
+| image = Arkanoid arcadeflyer.png
+| caption = Arcade flyer
+| developer = [[Taito]]
+| publisher = {{vgrelease|JP/EU|Taito<ref name="EU">{{cite web |title=Video Game Flyers: Arkanoid, Taito (EU) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=58 |website=The Arcade Flyer Archive |access-date=9 April 2021}}</ref>|NA|[[Romstar]]<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=137 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n138}}</ref>}}
+| designer = Akira Fujita<br>Hiroshi Tsujino
+| composer = [[Hisayoshi Ogura]]
+| released = {{vgrelease|JP|April 26, 1986<ref>{{cite web |title=Arkanoid (Registration Number PA0000296002) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=6 September 2021}}</ref>|NA|August 1986<ref name="Akagi"/>|EU|November 1986<ref name="CVG"/>}}
+| genre = [[Breakout (video game)|Block breaker]]
+| modes = 1-2 players alternating turns
+| series = ''Arkanoid''
+| platforms = [[Arcade video game|Arcade]], [[Amstrad CPC]], [[Amiga]], [[Apple II]], [[Apple IIGS]], [[Atari 8-bit]], [[Atari ST]], [[BBC Micro]], [[Commodore 64]], [[MS-DOS]], [[Classic Mac OS|Macintosh]], [[MSX]], [[Nintendo Entertainment System|NES]], [[PC-8800 series|PC-88]], [[PC-9800|PC-98]], [[Thomson MO5|Thomson]], [[TRS-80 Color Computer]], [[ZX Spectrum]],<ref>{{cite magazine |last1=Carroll |first1=Martyn |title=Ultimate Guide: Arkanoid |magazine=Retro Gamer |issue=145 |pages=37–39 |publisher=Imagine Publishing}}</ref> [[iOS]], [[Mobile phone]]
+}}
+
+{{nihongo foot|'''''Arkanoid'''''|アルカノイド|Arukanoido|lead=yes|group=lower-alpha}} is a 1986 [[Block kuzushi|block breaker]] [[arcade game]] developed and published by [[Taito]]. In North America, it was published by [[Romstar]]. Controlling a paddle-like craft known as the Vaus, the player is tasked with clearing a formation of colorful blocks by deflecting a ball towards it without letting the ball leave the bottom edge of the playfield. Some blocks contain power-ups that have various effects, such as increasing the length of the Vaus, creating several additional balls, or equipping the Vaus with cannons. Other blocks may be indestructible or require multiple hits to break.
+
+Created by Taito designers Akira Fujita and Hiroshi Tsujino, ''Arkanoid'' expanded on the concept established in [[Atari, Inc.]]'s ''[[Breakout (video game)|Breakout]]'', a successful game in its own right that was met with a large wave of similar clone games from other manufacturers. It was part of a contest within Taito, where two teams of designers had to complete a block breaker game and determine which one was superior to the other. The film ''[[Tron]]'' served as inspiration for the game's futuristic, neon aesthetic. Level designs were sketched on paper before being programmed and tested to make sure they were fun to play. The enemy and power-up designs were 3D models converted into sprite art.
+
+Early location tests for ''Arkanoid'' surpassed Taito's initial expectations. It became a major commercial success in arcades, becoming the highest-grossing [[table arcade cabinet]] of [[1987 in video games|1987]] in Japan and the year's highest-grossing conversion kit in the United States. The game was commended by critics for its gameplay, simplicity, addictive nature, and improvements over the original ''Breakout'' concept. The game revitalized the genre and set the groundwork for many games to follow. ''Arkanoid'' was ported to many home video game platforms, including the [[Commodore 64]], [[Nintendo Entertainment System]], [[ZX Spectrum]], and (years later) [[mobile phone]]s, and it spawned a long series of sequels and updates over the course of two decades.
+
+==Gameplay==
+[[File:Arkanoid.png|thumb|left|The start of a level (arcade version)]]
+''Arkanoid'' is a block breaker video game. Its plot involves the starship Arkanoid being attacked by a mysterious entity from space named DOH. A small paddle-shaped craft, the Vaus, is ejected from the Arkanoid.
+
+The player controls the Vaus, moving it from side to side in order to hit a ball into an pattern of bricks and destroy them. After all bricks have been destroyed, the player advances to the next level and faces a new pattern. Most bricks can be destroyed in one hit; some require multiple hits, and others cannot be destroyed at all. Some bricks release capsules that bestow various power-ups when caught, such as increasing the length of the Vaus, temporarily slowing the ball down, or granting an extra life. Floating enemies/obstacles emerge onto the screen at times and can be hit for bonus points.<ref>{{cite web|url=http://www.arcade-museum.com/game_detail.php?game_id=106 |title=Arkanoid The [Coin-Op] Arcade Video Game by Taito Corp. [Japan]| publisher=The International Arcade Museum|access-date=2014-09-19}}</ref>
+
+On the final stage (33 on most versions, but 36 on the NES), the player takes on the game's [[boss (video games)|boss]], "DOH". Once this point is reached, the player no longer has the option to continue after running out of lives, making this segment more difficult. The game is over regardless of the outcome.
+
+If the player succeeds in defeating "DOH", the game rewards them by showing the ending, in which time starts to flow backwards, and Vaus escapes the distorted space just in time to return to the Arkanoid, which has also reversed back to perfect condition. The game's text warns, however, that the journey has only started, and that the player has not seen the last of "DOH".<ref>{{Cite web|url=https://www.youtube.com/watch?v=Th-Z6QQ5AOQ|title=Arcade Longplay [270] Arkanoid|accessdate=18 December 2022|via=www.youtube.com}}</ref>
+
+==Development and release==
+[[File:Arkanoid concept art.jpg|thumb|Illustration of the ball-and-paddle concept in ''Arkanoid'']]
+''Arkanoid'' was designed by Akira Fujita and Hiroshi "ONIJUST" Tsujino, both of whom were members of [[Taito]]'s Yokohama Research Institute.<ref name="Interview">{{cite web |title=【第6回リレーブログ クリエーター編】"ニンジャウォリアーズ"辻野様 |url=https://www.beep-shop.com/column_entry/22453/ |website=BEEP! |access-date=October 26, 2019 |archive-url=https://web.archive.org/web/20190601132821/https://www.beep-shop.com/column_entry/22453/ |archive-date=June 1, 2019 |date=October 29, 2019}}</ref> The company's sales department requested a new [[Block kuzushi|block breaker]] arcade game due to the genre beginning to see an upturn in popularity, following a steady downfall in the early 1980s.<ref name="Interview"/> This led to a competition being held within the company to design the new game which was jointly won by Fujita and Tsujino, who were then instructed to combine their ideas into a single project.<ref name="Interview"/> The game builds on the overall block breaker concept established in [[Atari]]'s ''[[Breakout (video game)|Breakout]]'', a widely-successful arcade game that spawned a long series of similar clone games by other manufacturers.<ref name="Retro Gamer">{{cite news |last1=Campbell |first1=Stuart |title=The Definitive Arkanoid |url=https://archive.org/details/RetroGamerIssue066-070 |access-date=30 January 2020 |agency=[[Retro Gamer]] |issue=66 |publisher=[[Imagine Publishing]] |date=August 2009 |location=United Kingdom |pages=[https://archive.org/details/RetroGamerIssue066-070/page/n49 54]–61}}</ref>
+
+The development team consisted of Fujita in charge of planning, with Tsujino providing level design and graphics and two others programming the arcade board,<ref name="Interview"/> a modified version of the Taito Classic hardware.<ref name="KLOV">{{cite web |title=Arkanoid - Videogame by Taito |url=https://www.arcade-museum.com/game_detail.php?game_id=6916 |website=[[Killer List of Videogames]] |publisher=The International Arcade Museum |access-date=January 30, 2020 |archive-url=https://web.archive.org/web/20190925015419/https://www.arcade-museum.com/game_detail.php?game_id=6916 |archive-date=September 25, 2019}}</ref> The neon, futuristic aesthetic was inspired by the film ''[[Tron]]'' (1982), which Tsujino was a big fan of.<ref name="Interview"/> Blocks originally never had colors and were simply the same color, which was changed to the minor annoyance of Tsujino.<ref name="Interview"/> The various geometric-like enemies and power-up items were hand-drawn from 3-dimensional models before being converted into sprite art.<ref name="Interview"/> [[Hisayoshi Ogura]], the founder of Taito's "house band" [[Zuntata]], created the game's music.<ref>{{cite web |author1=Rancor |title=Zuntata — 2009 Darius Odyssey Book Interview |url=http://shmuplations.com/zuntatadarius/ |website=Shmuplations |access-date=January 30, 2020 |archive-url=https://web.archive.org/web/20191230190658/http://shmuplations.com/zuntatadarius/ |archive-date=December 30, 2019}}</ref>
+
+The game had a short development time with tight work deadlines, a schedule which Tsujino has since claimed to be "murderous".<ref name="Interview"/> Location testing for the game began only a month after the start of development.<ref name="Interview"/> It was incredibly well received by playtesters, and generated a lot more popularity and income than Taito had expected.<ref name="Interview"/> ''Arkanoid'' was officially released in Japan in July 1986, and in North America later that year by distributor company [[Romstar]].<ref name="KLOV"/>
+
+==Ports==
+''Arkanoid'' was ported to the [[ZX Spectrum]], [[Amstrad CPC]], [[Commodore 64]], [[BBC Micro]], [[MSX]], [[Atari 8-bit computers]], [[Apple II]], [[Nintendo Entertainment System|NES]], [[Amiga]], [[Atari ST]], [[Apple IIGS]]. and [[IBM PC compatible]]s. A [[Mac (computer)|Mac]] version was released in 1987 and a port was released for the [[TRS-80 Color Computer|Tandy Color Computer 3]] in 1989. Computer conversions were published by [[Imagine Software|Imagine]]. The NES and MSX ports were packaged with a custom controller.<ref>{{Cite web |title=Taito Arkanoid Vaus Paddle |url=https://www.msx.org/wiki/Taito_Arkanoid_Vaus_Paddle |url-status=live |archive-url=https://web.archive.org/web/20220907064008/https://www.msx.org/wiki/Taito_Arkanoid_Vaus_Paddle |archive-date=2022-09-07 |access-date=2022-09-07 |website=MSX Resource Center}}</ref>
+
+==Reception==
+{{Video game reviews
+ | ARC = true
+ | AMI = true
+ | AST = true
+ | C64 = true
+ | MAC = true
+ | PC = true
+ | ZX = true
+ | Allgame_ARC = {{rating|3.5|5}}<ref name="Allgame">{{cite web |last1=Alan Weiss |first1=Brett |title=Arkanoid - Review |url=http://allgame.com/game.php?id=2916&tab=review |website=[[Allgame]] |publisher=All Media Network |access-date=October 20, 2020 |archive-url=https://web.archive.org/web/20141115040635/http://allgame.com/game.php?id=2916&tab=review |archive-date=November 15, 2014 |date=1998}}</ref>
+ | CVG_ARC = Positive<ref name="CVG"/>
+ | CVG_AMI = 8/10<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue078/Pages/CVG07800056.jpg|title=World of Spectrum - Magazines|website=Worldofspectrum.org|access-date=21 November 2017}}</ref>
+ | CVG_C64 = 87%<ref>{{cite web|url=http://amr.abime.net/review_12677|title=Arkanoid review from Computer + Video Games 102 (May 1990) - Amiga Magazine Rack|website=Amr.abime.net|access-date=21 November 2017}}</ref>
+ | CVG_ZX = 84%<ref>{{cite web|url=http://amr.abime.net/review_12676|title=Arkanoid review from Computer + Video Games 102 (May 1990) - Amiga Magazine Rack|website=Amr.abime.net|access-date=21 November 2017}}</ref>
+ | Dragon_MAC = {{rating|5|5}}<ref name="Dragon144"/>
+ | Gen4_AMI = 92%<ref>{{cite web|url=http://amr.abime.net/review_45181|title=Arkanoid review from Génération 4 3 (Mar - Apr 1988) - Amiga Magazine Rack|work=[[:fr:Gen4|Génération 4]]|access-date=21 November 2017}}</ref>
+ | TGM_C64 = 87%<ref name="TGM">{{cite web|url=http://amr.abime.net/amr_search.php?search=arkanoid&mag_id=20&action=Find|title=The Games Machine - Amiga Magazine Rack|work=[[The Games Machine]]|access-date=21 November 2017}}</ref>
+ | TGM_PC = 86% <small>([[Amstrad CPC|CPC]])</small><ref name="TGM"/>
+ | TGM_AST = 89%<ref name="TGM"/>
+ | TGM_ZX = 71%<ref name="TGM"/>
+ | CRASH_ZX = 59%<ref>{{cite magazine|vauthors=Ben, Paul, Mike |date=April 1987 |title=Reviews: Arkanoid |journal=[[Crash (magazine)|Crash]] |issue=39 |page=22}}</ref>
+ | rev1 = ''[[Commodore User]]''
+ | rev1_C64 = 8/10<ref>{{cite magazine |last=Lacey |first=Eugene |title=Arkanoid |magazine=[[Commodore User]] |date=26 February 1987 |issue=42 (March 1987) |page=17 |url=https://archive.org/details/commodore-user-magazine-42/page/n16}}</ref>
+ | award1Pub = [[Gamest|''Gamest'' Awards]]
+ | award1 = [[:jp:ゲーメスト大賞|Silver Award]]<ref name=gamest/>
+ | award2Pub = ''[[Compute!]]''
+ | award2 = [[List of Game of the Year awards|Games of the Year]]<ref name="gutman198907"/>
+ | award3Pub = Entertainment Software Trade Awards
+ | award3 = [[Arcade game|Best Arcade Game]]<ref name="CVG76"/>
+ | award4Pub = ''[[Computer Gaming World]]''
+ | award4 = Best Arcade Translation<ref name="cgw198811"/>
+ | award5Pub = ''[[VideoGames & Computer Entertainment]]''
+ | award5 = Best Video/Computer Arcade Translation<ref name="VGCE"/>
+ | award6Pub = ''[[Popular Computing Weekly]]''
+ | award6 = Hall of Fame<ref name="PCW"/>
+}}
+
+===Commercial===
+''Arkanoid'' became one of Taito's most profitable coin-operated games. In Japan, ''Game Machine'' listed it as being the most popular arcade game of August 1986,<ref>{{cite magazine|title=Best Hit Games 25|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=288|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 August 1986|page=25|lang=ja|url=https://onitama.tv/gamemachine/pdf/19860801p.pdf#page=13}}</ref><ref>{{cite magazine|date=15 August 1986|title=Best Hit Games 25|url=https://onitama.tv/gamemachine/pdf/19860815p.pdf#page=11|magazine=[[:ja:ゲームマシン|Game Machine]]|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|issue=289|page=21|lang=ja}}</ref> and it remained the top-grossing [[table arcade cabinet]] for six months through September,<ref>{{cite magazine|title=Best Hit Games 25|magazine=Game Machine|issue=290|publisher=Amusement Press, Inc.|date=1 September 1986|page=23|lang=ja|url=https://onitama.tv/gamemachine/pdf/19860901p.pdf#page=12}}</ref><ref>{{cite magazine|date=15 September 1986|title=Best Hit Games 25|url=https://onitama.tv/gamemachine/pdf/19860915p.pdf#page=11|magazine=Game Machine|publisher=Amusement Press, Inc.|issue=291|page=21|lang=ja}}</ref> October,<ref>{{cite magazine|title=Best Hit Games 25|magazine=Game Machine|issue=292|publisher=Amusement Press, Inc.|date=1 October 1986|page=21|lang=ja|url=https://onitama.tv/gamemachine/pdf/19861001p.pdf#page=11}}</ref><ref>{{cite magazine|date=15 October 1986|title=Best Hit Games 25|url=https://onitama.tv/gamemachine/pdf/19861015p.pdf#page=16|magazine=Game Machine|publisher=Amusement Press, Inc.|issue=293|page=31|lang=ja}}</ref> November<ref>{{cite magazine|title=Best Hit Games 25|magazine=Game Machine|issue=294|publisher=Amusement Press, Inc.|date=1 November 1986|page=29|lang=ja|url=https://onitama.tv/gamemachine/pdf/19861101p.pdf#page=15}}</ref><ref>{{cite magazine|date=15 November 1986|title=Best Hit Games 25|url=https://onitama.tv/gamemachine/pdf/19861115p.pdf#page=13|magazine=Game Machine|publisher=Amusement Press, Inc.|issue=295|page=25|lang=ja}}</ref> and December 1986,<ref>{{cite magazine|title=Best Hit Games 25|magazine=Game Machine|issue=296|publisher=Amusement Press, Inc.|date=1 December 1986|page=23|lang=ja|url=https://onitama.tv/gamemachine/pdf/19861201p.pdf#page=12}}</ref><ref>{{cite magazine|title=Best Hit Games 25|magazine=Game Machine|issue=297|publisher=Amusement Press, Inc.|date=15 December 1986|page=25|lang=ja|url=https://onitama.tv/gamemachine/pdf/19861215p.pdf#page=13}}</ref> up until February 1987.<ref>{{cite magazine|title=Best Hit Games 25|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=301|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 February 1987|page=21|lang=ja|url=https://onitama.tv/gamemachine/pdf/19870201p.pdf#page=11}}</ref> ''Arkanoid'' was Japan's highest-grossing table arcade game during the second half of 1986,<ref name="GM300">{{cite magazine |title=Game Machine's Best Hit Games 25: '86 下半期 |trans-title=Game Machine's Best Hit Games 25: Second Half '86 |magazine=Game Machine |issue=300 |publisher=Amusement Press, Inc. |date=15 January 1987 |page=16 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19870115p.pdf#page=9}}</ref> and the overall sixth highest-grossing table [[1986 in video games|arcade game of 1986]].<ref>{{cite magazine |title=Game Machine's Best Hit Games 25: '86 上半期 |trans-title=Game Machine's Best Hit Games 25: First Half '86 |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=288 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=15 July 1986 |page=28 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19860715p.pdf#page=15}}</ref><ref name="GM300"/> It later went on to be the country's overall highest-grossing table [[1987 in video games|arcade game of 1987]].<ref>{{cite magazine |title=Game Machine's Best Hit Games 25: '87 |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=324 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=15 January 1988 |page=20 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19880115p.pdf#page=11}}</ref>
+
+In the United States, it was the highest-grossing arcade conversion kit of 1987.<ref>{{cite magazine |last1=Compasio |first1=Camille |title=Around The Route |magazine=[[Cash Box]] |date=1987-11-14 |page=32 |url=https://archive.org/details/cashbox51unse_19/page/32 |publisher=Cash Box Pub. Co.}}</ref> In the United Kingdom, it was the fourth highest-grossing arcade game of 1986 on [[London]]'s Electrocoin charts.<ref>{{cite magazine |title=1986 Top Ten Coin-Ops |magazine=[[Sinclair User]] |date=18 January 1987 |issue=59 (February 1987) |page=96 |url=https://archive.org/details/sinclair-user-magazine-059/page/n94/mode/1up}}</ref> ''Euromax'' listed it as being the third most popular arcade game in Europe during 1987.
+
+===Critical===
+{{Video game timeline
+| compressempty = yes
+| title = ''Arkanoid'' series
+| 1986 = ''Arkanoid''
+| 1987 = ''[[Arkanoid: Revenge of Doh]]''
+| 1997a = ''[[Arkanoid: Doh It Again]]''
+| 1997b = ''[[Arkanoid Returns]]''
+| 1999 = ''Arkanoid R 2000''
+| 2007 = ''[[Arkanoid DS]]''
+| 2009a = ''Arkanoid Live!''
+| 2009b = ''Arkanoid HD''
+| 2009c = ''[[Arkanoid Plus!]]''
+| 2017 = ''[[Arkanoid vs. Space Invaders]]''
+| 2022 = ''Arkanoid: Eternal Battle''
+}}
+
+The arcade game was reviewed in ''[[Computer and Video Games]]'' by Clare Edgeley in November 1986, where she compared it to ''[[Pong]]'' and ''[[Space Invaders]]'' in its simplicity and addictiveness. She described ''Arkanoid'' as "a lovely game" that is "fast, colourful, simple and addictive".<ref name="CVG">{{cite magazine|last=Edgeley|first=Clare|url=http://www.solvalou.com/subpage/arcade_reviews/38/28/arkanoid_review.html|title=Arcade Action: Arkanoid|magazine=[[Computer and Video Games]]|issue=62 (December 1986)|date=November 1986|access-date=21 November 2017}}</ref>
+
+The home versions were also well received. ''[[Computer Gaming World]]'' stated in 1988 that ''Arkanoid'' on the Amiga was "a perfect version of the arcade game ... ''incredible''!"<ref name="wagner198802">{{cite magazine | title=Warped in Space! | magazine=[[Computer Gaming World]] | issue=44 | date=February 1988 | url=http://www.cgwmuseum.org/galleries/issues/cgw_44.pdf | access-date=16 April 2016 | last=Wagner | first=Roy | pages=31}}</ref> It named the NES version the Best Arcade Translation for the console that year, praising the graphics and play mechanics.<ref name="cgw198811">{{cite magazine | title=Video Gaming World | magazine=[[Computer Gaming World]] | issue=53 | date=November 1988 | url=http://www.cgwmuseum.org/galleries/issues/cgw_53.pdf | access-date=16 April 2016 | last1=Kunkel | first1=Bill | last2=Worley | first2=Joyce | last3=Katz | first3=Arnie | pages=56}}</ref> The game was reviewed in 1989 in ''[[Dragon (magazine)|Dragon]]'' #144 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 5 out of 5 stars.<ref name="Dragon144">{{cite journal | title=The Role of Computers | last1=Lesser | last2=Lesser | last3=Lesser | first1=Hartley | first2=Patricia | first3=Kirk | journal=Dragon | issue=144 | date=April 1989 | pages=60–68}}</ref> ''[[Compute!]]'' named the game to its list of "nine great games for 1989", describing it as "hypnotic, addictive, and fascinating". Along with ''Breakout'', the magazine noted ''Arkanoid'' also has elements of ''Pong'' and ''Space Invaders'' as well as ''[[Pac-Man]]'' in its use of power-ups.<ref name="gutman198907">{{cite news | url=https://archive.org/stream/1989-07-compute-magazine/Compute_Issue_110_1989_Jul#page/n19/mode/2up | title=Nine for '89 | work=Compute! | date=July 1989 | access-date=11 November 2013 | author=Gutman, Dan | pages=19}}</ref>
+
+===Accolades===
+''Arkanoid'' and its home releases received several awards, including the "Silver Award" from the [[Gamest|''Gamest'' Awards]],<ref name=gamest>''Gamest'', ''The Best Game 2: Gamest Mook Vol. 112'', pp. 6-26</ref> "[[List of Game of the Year awards|Games of the Year]]" from ''[[Compute!]]'' magazine,<ref>[https://archive.today/20150117192541/http://www.solvalou.com/images/arcade/reviews/69.jpg Arcade Action], ''[[Computer and Video Games]]'', December 1987</ref> "Best Arcade Game" from the Entertainment Software Trade Awards,<ref name="CVG76">{{cite magazine |title=News: Games of the Year |magazine=[[Computer and Video Games]] |date=15 January 1988 |issue=76 (February 1988) |page=8 |url=https://archive.org/details/cvg-magazine-076/page/n7}}</ref> "Best Arcade Translation" from ''[[Computer Gaming World]]'',<ref name="cgw198811"/> and "Best Video/Computer Arcade Translation" (for the NES version) from ''[[VideoGames & Computer Entertainment]]''.<ref name="VGCE">{{cite magazine|last1=Katz|first1=Arnie|author2=((Editors of VideoGames & Computer Entertainment))|date=February 1989|title=The Year's Best Video And Computer Games: Our Editors Pick The Outstanding Cartridges And Disks Of 1988|url=https://archive.org/details/vgce_02/page/n55|magazine=[[VideoGames & Computer Entertainment]]|issue=2|pages=56–68|author1-link=Arnie Katz}}</ref> ''Arkanoid'' was the first game to enter the ''[[Popular Computing Weekly]]'' Hall of Fame, in 1987.<ref name="PCW">{{cite magazine |title=Hall of Fame: More than just a clone |magazine=[[Popular Computing Weekly]] |date=1 May 1987 |page=57 |url=https://archive.org/details/popular-computing-weekly-1987-05-01/page/n56/mode/1up}}</ref>
+
+In 1997, ''[[Electronic Gaming Monthly]]'' editors ranked the NES version the 41st best console video game of all time, describing it as "the type of game that you'd pick up because you need a quick video game fix but would end up playing for hours". They particularly noted that despite the ability to shoot lasers, the game demanded a great deal of skill from the player.<ref>{{cite magazine |title=100 Best Games of All Time |magazine=[[Electronic Gaming Monthly]]|issue=100 |publisher=[[Ziff Davis]] |date=November 1997|pages=130, 134}} Note: Contrary to the title, the intro to the article explicitly states that the list covers console video games only, meaning PC games and arcade games were not eligible.</ref>
+
+==Legacy==
+''Arkanoid'' was followed by a number of direct and indirect sequels. ''Tournament Arkanoid'' <ref>{{KLOV game|name=Tournament Arkanoid|id=10174}}</ref> was released in 1987 exclusively in the United States by Romstar. Developed by Taito America rather than Taito Japan, it has the same gameplay as ''Arkanoid'', but adds new levels.  ''[[Arkanoid: Revenge of Doh|Revenge of Doh]]'', a true sequel with new gameplay mechanics, was released in arcades in 1987. ''[[Arkanoid: Doh It Again]]'' and ''[[Arkanoid Returns]]'' were published in 1997, followed by ''[[Arkanoid DS]]'' in 2007.<ref>{{cite web|url=http://ds.ign.com/objects/954/954239.html|title=Arkanoid DS (Nintendo DS)|website=Ds.ign.com|access-date=21 November 2017}}</ref>
+
+''Arkanoid Live!'' was published as on May 6, 2009, for [[Xbox Live Arcade]].<ref>[http://www.xbox.com/en-US/games/a/arkanoidl and ivexboxlivearcade/ Arkanoid Live! Game Detail Page] {{webarchive |url=https://web.archive.org/web/20090507061645/http://www.xbox.com/en-US/games/a/arkanoidlivexboxlivearcade/ |date=May 7, 2009 }}, xbox.com</ref> The [[WiiWare]] game ''Arkanoid Plus!'' was released in the same year in Japan on May 26, PAL regions on August 21, and in North America on September 28.<ref>{{cite web | title=Art Lessons, Auto Racing, and Arcade Action Multiply the Downloadable Fun | url=https://www.nintendo.com/whatsnew/detail/_awl_FLReUbcL1u7VyJEGQAj8UglQUIL | publisher=Nintendo of America | date=28 September 2009 | access-date=28 September 2009 | archive-url= https://web.archive.org/web/20091002234418/http://www.nintendo.com/whatsnew/detail/_awl_FLReUbcL1u7VyJEGQAj8UglQUIL | archive-date= 2 October 2009 | url-status= live}}</ref> A version of ''Arkanoid'' for [[iOS]] was released in 2009.<ref>{{cite web |title=Taito's retro classic Arkanoid coming to iPhone |url=https://www.pocketgamer.com/articles/015282/taitos-retro-classic-arkanoid-coming-to-iphone/ |publisher=Steel Media Ltd. |date=1 September 2009 |access-date=29 October 2019}}</ref>
+
+The mashup ''[[Arkanoid vs. Space Invaders]]'' was released in 2017 for iOS and Android.
+
+''Arkanoid'' appears in ''[[Life Is Strange: True Colors]]''.<ref>{{cite news |last1=Snaith |first1=Kim |title=You Can Play Taito Classic Arkanoid in Life is Strange: True Colors |url=https://www.gamespew.com/2021/09/you-can-play-taito-classic-arkanoid-in-life-is-strange-true-colors/ |access-date=15 May 2022 |work=GameSpew |date=8 September 2021}}</ref>
+
+A modernized version of the game, titled ''Arkanoid: Eternal Battle'', was developed by Pastagames and published by [[Microids]]. It was released in October 2022 for [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Windows]], [[Xbox One]], and [[Xbox Series X/S]]. The original 1986 arcade version is included in this game.{{cn|date=January 2023}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=6916}}
+* {{moby game|id=/arkanoid}}
+* {{abime|id=3307}}
+* {{atarimania|id=22998}}
+* {{lemon64 game|id=145|title=Arkanoid}}
+* {{WoS game|id=0000255}}
+
+{{Arkanoid series}}
+{{Square Enix franchises}}
+
+[[Category:1986 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Arcade video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Breakout clones]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:IOS games]]
+[[Category:MSX games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:NovaLogic games]]
+[[Category:PlayStation (console) games]]
+[[Category:Romstar games]]
+[[Category:Square Enix franchises]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Taito arcade games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games scored by Hisayoshi Ogura]]
+[[Category:Video games scored by Martin Galway]]
+[[Category:Video games scored by Tsukasa Masuko]]
+[[Category:ZX Spectrum games]]

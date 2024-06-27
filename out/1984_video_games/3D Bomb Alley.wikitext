@@ -1,0 +1,61 @@
+3D Bomb Alley
+Permalink: //en.wikipedia.org/w/index.php?title=3D_Bomb_Alley&oldid=1186776399
+Accessed on: 2024-06-26T16:56:14.497393
+
+
+
+------
+3D Bomb Alley
+{{Short description|1984 video game}}
+{{more citations needed|date=October 2017}}
+
+{{Infobox video game
+| title = 3D Bomb Alley
+| image = 3D Bomb Alley Coverart.png
+| caption = 
+| developer = 
+| publisher = Software Invasion
+| designer = Simon Vout
+| series = 
+| engine = 
+| released = 1984
+| genre = Shooter
+| modes = [[Single player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[BBC Micro]], [[Acorn Electron]]
+}}
+
+'''''3D Bomb Alley''''' is a [[video game]] developed by  Simon Vout and published in 1984 by Software Invasion for the [[BBC Micro]] and [[Acorn Electron]].<ref>{{Cite web |title=3D Bomb Alley - Software - Game - Computing History |url=https://www.computinghistory.org.uk/det/4428/3D-Bomb-Alley/ |access-date=2023-04-20 |website=www.computinghistory.org.uk}}</ref> It is based on the 1982 [[Battle of San Carlos (1982)|Battle of San Carlos]] in the [[Falklands War]] when San Carlos Water became known as "Bomb Alley".
+
+==Gameplay==
+A static background is displayed of a sea inlet, looking out to sea with hills on either side, on which the player's ships and enemy aircraft are superimposed.  The player controls an anti-aircraft cannon, located at his or her point of view, with a [[Reticle|crosshair]] on the screen.<ref name=":0" />
+
+Aircraft approach in [[perspective (visual)|perspective]], starting as dots in the distance and increasing in apparent size and speed until they pass overhead or are shot down.  Each aircraft allowed to reach the inlet drops a bomb into the water, destroying one of the ships.  The player starts with three vessels and gains another for every ten aircraft hit.  Their turn ends when the last remaining ship is bombed.<ref name="tmu-review"/>  The number of aircraft approaching at once is proportional to the size of the fleet in the inlet.
+
+== Reception ==
+[[Electron User]] magazine said players must have quick reactions to be successful at the game.<ref>{{Cite web |title=3D Bomb Alley - Acorn Electron World DVD |url=http://www.acornelectron.co.uk/info/electron/sinvasion/3d-Bomb-Alley.html |access-date=2023-04-20 |website=www.acornelectron.co.uk}}</ref> The plane exploding animations on the Election version are in magenta and green. This can lead to reviewers erroneously thinking the game was using graphics designed for [[Anaglyph 3D|3D glasses]].<ref name=":0">{{Citation |title=ACORN ELECTRON - FIVE GAMES FIVE MINUTES #52 |url=https://www.youtube.com/watch?v=pmmjfHNARsE |access-date=2023-04-20 |language=en}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="tmu-review">{{cite journal
+ |date=January 1984
+ | title = Software Scene
+ | journal = [[The Micro User]]
+ | volume = 1
+ | issue = 11
+ | page = 52
+ | publisher = Database Publications
+ | location = Stockport, UK
+}}</ref>
+
+}}
+
+{{DEFAULTSORT:3d Bomb Alley}}
+[[Category:1984 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Shooter games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Multiplayer and single-player video games]]
+
+
+{{gallery-shooter-videogame-stub}}

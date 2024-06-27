@@ -1,0 +1,52 @@
+Frisky Tom
+Permalink: //en.wikipedia.org/w/index.php?title=Frisky_Tom&oldid=1189662174
+Accessed on: 2024-06-26T16:52:17.585472
+
+
+
+------
+Frisky Tom
+{{Infobox video game
+| developer = [[Jorudan|Jorudan Co., Ltd.]]
+| publisher = [[Nihon Bussan|Nichibutsu]]
+| platforms = [[Arcade game|Arcade]]
+| released = {{vgrelease|JP|October 1981}}
+}}
+'''''Frisky Tom''''' is a 1981 [[arcade game|arcade video game]] developed by [[Jorudan]] and published by [[Nihon Bussan|Nichibutsu]].<ref name="GM174">{{cite magazine|title=Overseas Readers Column - Nihon Busan Releases New Video Game "Frisky Tom" featuring the Trade's First Custom C.P.U.|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=174|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 October 1981|page=24|lang=ja}}</ref> In this game, the player assumes the role of a [[plumber]], named Tom, who is tasked with protecting and maintaining a network of [[plumbing]] pipes that route water from a storage tank to a shower.
+
+A Bandai Electronics [[Vacuum fluorescent display|VFD]] handheld version of ''Frisky Tom'' was released in 1982.<ref name="handheld">{{cite web|title=Bandai Frisky Tom|url=http://www.handheldmuseum.com/Bandai/Frisky.htm|website=Handheld Museum}}</ref> A version for the [[Atari 5200]] was programmed in 1983, but never published.<ref>{{cite web |last=Reichert |first=Matt |title=Frisky Tom |website=AtariProtos.com |url=http://www.atariprotos.com/5200/software/friskytom/friskytom.htm |accessdate=2009-01-07}}</ref> Much later, ports of ''Frisky Tom'' were published  for the [[Nintendo]] [[Game Boy]] (in 1995),  then the [[PlayStation (console)|PlayStation]] (in 2002), and as part of the ''[[Arcade Archives]]'' series on [[Nintendo Switch]] and [[PlayStation 4]], courtesy of [[Hamster Corporation]] (in 2021).
+
+==Gameplay==
+Controls consist of a single four-position [[joystick]]. The player assumes the role of a [[plumber]], named Tom, who is tasked with protecting and maintaining a network of [[plumbing]] pipes that route water from a storage tank to a shower. Three different types of [[mouse|mice]] attempt to disrupt the water flow by knocking joints loose to cause leaks and by setting/igniting a bomb to blow up the tank. Tom must pick up the dropped joints, climb the pipes to fit them back in place, and extinguish the bomb before its fuse burns all the way down. Yellow mice can be safely knocked off the pipes, but they turn purple and become dangerous after dislodging a joint, occasionally jumping off the pipes in an attempt to hit Tom. White mice attempt to light the fuse on the bomb.
+
+The water level in the tank steadily decreases over time, and each level ends once it is empty. A bonus counter decreases whenever water is leaking out of the pipes instead of flowing to the shower; at the end of the level, any remaining bonus is added to the player's score.
+
+One life is lost whenever Tom touches a purple mouse or the bomb explodes. The game ends after all lives are lost.
+
+==Reception==
+''[[Famicom Tsūshin]]'' scored the Game Boy version of the game a 19 out of 40.<ref>NEW GAMES CROSS REVIEW: フリスキー・トム. Weekly Famicom Tsūshin. No.344. Pg.32. 21 July 1995.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=7854}}
+*{{mobygames|/162562}}
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Cancelled Atari 5200 games]]
+[[Category:Game Boy games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation (console) games]]
+[[Category:PlayStation Network games]]
+[[Category:PlayStation 4 games]]
+[[Category:Nihon Bussan games]]
+[[Category:Video games developed in Japan]]
+
+
+{{action-videogame-stub}}
+[[Category:Japan-exclusive video games]]
+[[Category:Arcade Archives games]]
+[[Category:Hamster Corporation games]]
+[[Category:Jorudan games]]

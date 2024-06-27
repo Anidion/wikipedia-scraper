@@ -1,0 +1,62 @@
+Chopper Hunt
+Permalink: //en.wikipedia.org/w/index.php?title=Chopper_Hunt&oldid=1224116788
+Accessed on: 2024-06-26T16:56:30.420378
+
+
+
+------
+Chopper Hunt
+{{short description|1984 video game}}
+{{Infobox video game
+|title = Chopper Hunt
+|image = Chopper Hunt.jpg
+|caption = 
+|developer = [[ANALOG Computing#analog software|ANALOG Software]]
+|designer = [[Tom Hudson (programmer)|Tom Hudson]]<ref name=giantlist/>
+|publisher = [[Imagic]]
+|released = '''Buried Bucks'''<br>'''1982:''' Atari 8-bit<br>'''Chopper Hunt'''<br>'''1984:''' Atari 8-bit, C64
+|genre = [[Shoot 'em up]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]]
+|alt = 
+}}
+
+'''''Chopper Hunt''''' is a side-view [[shoot 'em up]] written by [[Tom Hudson (programmer)|Tom Hudson]] and published by [[Imagic]] in 1984 for [[Atari 8-bit computers]] and [[Commodore 64]]. It was one of the last games from [[Imagic]] before the company went out of business.<ref name=retro/> ''Chopper Hunt'' is an enhanced version of the Atari 8-bit game '''''Buried Bucks''''' released by [[ANALOG Computing#analog software|ANALOG Software]] in 1982. In both games, the player files a helicopter that uses bombs to unearth buried items. Contemporaneous reviews were mixed.
+
+==Gameplay==
+{{empty section|date=December 2018}}
+
+==Development==
+ANALOG Software, the game publishing label of Atari 8-bit magazine ''[[ANALOG Computing]]'', published ''Buried Bucks'' in 1982 with the name stylized as ''Buried Buck$''. Programmer Tom Hudson documented the expanding explosion effect used in the game as an article in ''ANALOG Computing'', including the assembly language source code.<ref name=violence/> The same effect was used in another game for the magazine: ''Planetary Defense''.<ref name=defense/> Hudson later told ''Atari Explorer'' that ''Buried Bucks'' was his first Atari 8-bit game and called it "pretty simplistic."<ref>{{cite journal |last1=Jainschigg |first1=John |title=Gradus ad Parnassum |journal=Atari Explorer |date=December 1986 |volume=6 |issue=3 |page=44 |url=https://archive.org/details/Atari_Explorer_Volume_6_Number_3_1986-12_Atari_Explorer_Publications_US/page/n45}}</ref>
+
+The 1984 Imagic release changed the name to ''Chopper Hunt'' and made some alterations to the visuals.<ref>{{cite web |title=Buried Buck$, Chopper Hunt - gameplay, compare |url=https://www.youtube.com/watch?v=U3DoUNxPS0U |website=YouTube}}</ref> A Commodore 64 port was published simultaneously.
+
+==Reception==
+As part of a "Five Great Games for the Atari" article in 1983, [[John J. Anderson]] reviewed ''Buried Bucks'': "once in a while a package appears that takes a unique premise and develops it into a new game that bears little resemblance to anything that has come before."<ref name=anderson/> He commented, "The level of graphics and sound in the program is utterly professional."<ref name=anderson/> ''[[Electronic Fun with Computers & Games]]'' also reviewed the original release, concluding, "This is a cute premise with no promise. My main complaint is that this game is boring. It goes too quickly from ridiculously easy to impossible, and along the way It completely fails to capture your attention or provide excitement for any prolonged gameplay".<ref name=efun/>
+
+In a 1985 review of the Imagic version in ''[[Antic (magazine)|Antic]]'', Jack Powell wrote, "''Chopper Hunt'' would make a very nice public domain game," and "If you plunk down your hard-earned money for this outdated arcade game, you are helping to prove that [[P. T. Barnum|Barnum]] is right."<ref name="powell">{{cite journal |last1=Powell |first1=Jack |title=Product Reviews: Chopper Hunt |journal=Antic |date=November 1985 |volume=4 |issue=7 |page=77 |url=https://archive.org/details/1985-11-anticmagazine/page/n77}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web |title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first=James}}</ref>
+<ref name="violence">{{cite magazine|last1=Hudson|first1=Tom|title=Graphic Violence!|magazine=ANALOG Computing|date=August 1982|issue=8|page=57|url=http://analog.katorlegaz.com/analog_1982-11_120dpi_jpeg_cropped_thumpnugget2/analog_1982-11_057.html|access-date=2018-12-11|archive-url=https://web.archive.org/web/20180831035338/http://analog.katorlegaz.com/analog_1982-11_120dpi_jpeg_cropped_thumpnugget2/analog_1982-11_057.html|archive-date=2018-08-31|url-status=dead}}</ref>
+<ref name="defense">{{cite web |last1=Hudson |first1=Tom |title=Planetary Defense 2012! |url=http://analog.klanky.com/8bit.htm |website=klanky.org}}</ref>
+<ref name="retro">{{cite magazine |title=Imagic |magazine=Retro Gamer |issue=161 |page=55 |url=https://archive.org/details/RetroGamerUKIssue161/page/n53}}</ref>
+<ref name="anderson">{{cite magazine |last1=Anderson |first1=John J. |title=Five Great Games for the Atari |magazine=Creative Computing Video & Arcade Games |date=Fall 1983 |issue=2 |page=110 |url=https://archive.org/details/Creative_Computing_Video_Arcade_Games_02_fall83/page/n111}}</ref>
+<ref name=efun>{{cite magazine |last1=Backer |first1=Paul |magazine=Electronic Fun with Computers & Games |title=Hits & Missiles: Buried Buck$ |date=October 1983 |pages=70, 72 |volume=1 |issue=12 |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_12_1983-10_Fun_Games_Publishing_US/page/n69/mode/2up}}</ref>
+}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-400-800-xl-xe-chopper-hunt_1047.html ''Chopper Hunt''] at Atari Mania
+*[http://www.atarimania.com/game-atari-400-800-xl-xe-buried-bucks_844.html ''Buried Bucks''] at Atari Mania
+*[http://gb64.com/game.php?id=1464&d=18&h=0 ''Chopper Hunt''] at Gamebase 64
+*{{internet archive game|a8b_Chopper_Hunt_1984_Imagic_US_k_file}}
+
+[[Category:1984 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Helicopter video games]]
+[[Category:Imagic games]]
+[[Category:Shoot 'em ups]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,37 @@
+Mystery Mansion (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Mystery_Mansion_%28video_game%29&oldid=1230316132
+Accessed on: 2024-06-26T16:47:56.218492
+
+
+
+------
+Mystery Mansion (video game)
+{{short description|1978 video game}}
+{{italic title}}
+{{unreferenced|date=September 2011}}
+<!-- Deleted image removed: [[File:Mystery Mansion printscreen.JPG|thumb|Mystery Mansion intro]] -->
+
+'''''Mystery Mansion''''' is the name of a [[text adventure]] written in 1978–1981 by Bill Wolpert while at the Naval Undersea Warfare Center in Keyport, Washington. It originally ran only on the [[Hewlett-Packard|HP]] HP-1000 minicomputer on the RTE (Real Time Executive) operating system, but was later ported by persons unknown to run under MPE (Multiprocessing Executive) on the HP-3000. Although the development dates make it contemporaneous with other seminal interactive fiction games such as ''[[Colossal Cave Adventure|Adventure]]'' and ''Dungeon'' (which went on to become the ''[[Zork]]'' series from Infocom), it remains relatively unknown due to the specialized computers and operating systems on which it ran.
+
+==Plot==
+The object of the single-player game is to find one's way through a run-down, foreboding [[mansion]] in order to find various treasures, solve a murder, and avoid getting "killed" in the process all before the mansion is destroyed by fire at [[midnight]] to end the game. In addition to the 3 rooms x 3 rooms x 3 stories cube-shaped mansion, there are gardens, tunnels, nefarious characters, and other obstacles to make one's way through or around.
+
+==Ports==
+Two C-language ports exist, one by James Garnett while a graduate student at the [[University of Colorado at Boulder|University of Colorado]], and another by Bob Sorem of the [[University of Minnesota]]. The former is a line-by-line exact port in K&R-style C that runs on most Unix-flavor operating systems, while the latter is an adaptation with features not in Wolpert's original in Borland C that runs only under MS-DOS/Windows.
+
+== External links ==
+* [http://www.lysator.liu.se/adventure/Mainframe_adventures.html The Mainframe Adventures site has more information about Mystery Mansion] as well as other mainframe-based games
+* [http://www.tc.umn.edu/~sorem002/mm.html Bob Sorem's port of Mystery Mansion written in C for DOS/Windows]
+* [http://www.ifarchive.org/if-archive/games/pc/mansion-19.2.tar.gz Archive file of James Garnett's port into C]: includes the original [[Fortran]] source
+* [https://github.com/garnett1966/Mystery-Mansion Github repository of James Garnett's port], version 19.4 plus bug fixes
+
+[[Category:1970s interactive fiction]]
+[[Category:1978 video games]]
+[[Category:Adventure games]]
+[[Category:Mystery video games]]
+[[Category:HP 3000 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in country houses]]
+
+{{Adventure-videogame-stub}}
+{{computer-game-stub}}

@@ -1,0 +1,42 @@
+Freddy's Rescue Roundup
+Permalink: //en.wikipedia.org/w/index.php?title=Freddy%27s_Rescue_Roundup&oldid=1198364869
+Accessed on: 2024-06-26T16:56:49.295633
+
+
+
+------
+Freddy's Rescue Roundup
+{{unreferenced|date=January 2017}}
+{{Infobox VG
+|title = Freddy's Rescue Roundup
+|image = Freddys_Rescue_Roundup_start.gif
+|image_size = 200px
+|designer = D. P. Leabo<br>A. V. Strietzel
+|developer = [[IBM]]  
+|publisher = [[IBM]]
+|released = 1984
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[IBM PC DOS]]
+}}
+'''''Freddy's Rescue Roundup''''' is a non-scrolling [[platform game]] for [[IBM PC DOS]] released in 1984 by [[IBM]]. The goal of the game is to collect all of the [[roadrunner]]s on a particular level in order to advance through the game. Doorways aid in quickly traveling across a level, while enemy robots work against the player's progress. Visually, it is similar to [[Broderbund]]'s ''[[Lode Runner]]'', but there is less emphasis on puzzles.
+
+==Development==
+[[Image:Freddys_Rescue_Roundup_ingame.jpg|thumb|Gameplay screenshot]]
+
+The development title was ''Roadrunner Rescue''. There was a crude program for editing mazes, but it wasn't in the shipped version, at least partly because IBM felt it made the game too much like ''Lode Runner''.
+
+The game is written mostly in compiled [[BASIC]] v1.0, with a few assembly modules linked in for graphics, sound, and keyboard support.
+
+==References==
+{{reflist}}
+
+[[Category:1984 video games]]
+[[Category:Platformers]]
+[[Category:DOS games]]
+[[Category:DOS-only games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+
+
+{{platform-videogame-stub}}

@@ -1,0 +1,90 @@
+Blockade (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Blockade_%28video_game%29&oldid=1229742054
+Accessed on: 2024-06-26T16:47:34.266822
+
+
+
+------
+Blockade (video game)
+{{short description|1976 video game}}
+{{Infobox video game
+|title=Blockade
+|image= Blockade_Arcade_US_flyer.jpg
+|caption= Arcade flyer
+|developer = [[Gremlin Industries|Gremlin]]
+|publisher= {{vgrelease|NA/AU|[[Gremlin Industries|Gremlin]]<ref name="AU">{{cite web |title=Video Game Flyers: New Gremlin Video Games, Gremlin Industries (AU) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=4377 |website=The Arcade Flyer Archive |access-date=31 May 2021}}</ref>|JP|[[Taito]]{{sfn|Akagi|2006|pp=40-41}}}}
+|designer=
+|released = {{vgrelease|NA|November 1976|JP|March 1977}}
+|platform = [[Arcade video game|Arcade]]
+|genre = [[Snake (video game genre)|Snake]]
+|modes = Two-player competitive
+|arcade system=
+}}
+
+'''''Blockade''''' is an [[arcade video game]] developed by Lane Hauck for [[Gremlin Industries|Gremlin]] and released in November 1976. It is a two-player game where each player controls the direction of an arrow on the screen which creates a trail behind it. The object is the avoid any walls surrounding the playfield or created by each player for a select amount of turns. ''Blockade'' spawned many clones which came to be known as [[Snake (video game genre)|snake games]].
+
+The game was designed by Lane Hauck, who prior to joining Gremlin had taught himself to code and met with the team at Gremlin prior to their entry in the arcade game market. After experimenting with a physics problem in [[assembly language]], he created a game where a trail was left behind a player not allowing them to return to a position they had already visited. After showing the concept to the staff at Gremlin, it was developed into a video game, test marketed and released to great acclaim at the 1976 Music Operators of America in Chicago. As Gremlin were new to developing arcade games, before they could release it publicly, several other companies such as [[Atari, Inc.]], [[Ramtek Corporation|Ramtek]] and [[Meadows Games]] released their own variations on the game, leading to many pre-sales being cancelled for Gremlin.
+
+==Gameplay==
+[[File:Blockade-gameplay-screen.jpg|thumb|left|Two players each control one of the arrows on the screen.]]
+
+''Blockade'' is a two-player game where each player controls the direction of an arrow on the screen. Each player utilizes a set of push button controls to change the direction of the moving arrow. When it moves, the arrow leaves a trail of blocks behind which form a continuous wall. Anytime the player collides with a wall created by either player or the barrier wall on the screen, an explosion sound is heard and the symbol flashes and a point is rewarded to the opponent.{{sfn|Gremlin Industries, Inc.|p=6|ref=GameConcept}}
+
+After a pre-set number of crashes happen by the player, the game ends.{{sfn|Gremlin Industries, Inc.|p=6|ref=GameConcept}} The pre-set number is set by the operator of the arcade, ranging from 3 to 6.{{sfn|Gremlin Industries, Inc.|p=7|ref=GameConcept}}
+{{Clear}}
+
+==Development==
+Gremlin was a San Diego-based coin-op arcade manufacturer that started in 1970.{{sfn|Horowitz|2018|p=21}}
+Designer Lane Hauck, a physics and engineering graduate of UCLA and Cal State and purchased a [[Digital Equipment Corporation]] (DEC) [[PDP-8]] computer to teach himself [[Assembly language]].{{sfn|Horowitz|2018|p=21}} Hauck played games on the system such as ''Moo'' and began to grow interested in simplifying complex technology to make it more affordable. He soldered together twenty-five logic circuits to make a hand held device that could play ''Moo'' and later went on to make other smaller sized machines that could play games like ''[[Blackjack]]''.{{sfn|DeWyze|1982}}
+
+At the time, Gremlin was in the market of Wall games, which were rectangular painting and displayed one static picture, such as series of lights turning on to simulate a game of [[baseball]].{{sfn|DeWyze|1982}} No staff at Gremlin knew anything about [[microprocessors]] at the time, and when meeting at Gremlin's office, the staff met Hauck which led to him developing a Wall game for them called ''Fooswall'' that used microprocessors.{{sfn|DeWyze|1982}}{{sfn|Horowitz|2018|p=22}}
+
+Hauck felt it would be fun to explore a physics problem he referred to as the Drunk and the Lamppost, in which the “drunk” starts out near the lamppost and can move in any direction, at random. The problem involved predicting the direction the drunk will tend to move. To test out the problem visually, Hauck wrote a program in which the computer randomly picked either an up, down left or right direction to move an arrow. On a display screen, Hauck stated that  "the thing flitted around a little bit and sure enough, as physics predicts, the thing stayed close to the lamppost."{{sfn|DeWyze|1982}} Growing bored with the project, he felt it would be more interesting if the drunk could not move to a square he visited before and had it so a square lit up and would remain illuminated even when moving the arrow to a new square and eventually get trapped. Hauck did not expect this result and it led to him developing a game where two players moving and trying to avoid hitting each other, creating a trailing maze behind them. Hauck commented that "It showed me that the video game is not only highly interactive for the player but also for the designer. After a while the model is teaching you some things!"{{sfn|DeWyze|1982}}
+
+Hauck later added small touches, such electronic beeps that sounded when the arrows moved and an explosive noise accompanying the arrows crashing.{{sfn|DeWyze|1982}} He showed it to one of Gremlin founder's Frank Fogleman.{{sfn|Horowitz|2018|pp=21-22}} Fogleman liked the design, and agreed to do a public test of the prototype under the name ''Blockade''.{{sfn|Horowitz|2018|p=22}} Hauck recalls that ''Blockade'', was the very first name that came to Fogleman's mind, and after purchasing a cabinet and monitor they tested the game at a miniature golf course, recalling that they "watched very carefully and we saw a lot of people put money in it and have fun with it. It was exciting."{{sfn|DeWyze|1982}}
+Following successful tests, Hauck worked on turning it into a full game.{{sfn|Horowitz|2018|p=22}} By November 1976, Gremlin had refined the prototype and Hauck developed into a four-player version titled ''Commotion''.{{sfn|DeWyze|1982}}
+
+==Release==
+It was shown at the 1976 Music Operators of America (MOA) Expo in Chicago, where Gremlin received 3000 orders of the game.{{sfn|Horowitz|2018|p=22}}{{sfn|DeWyze|1982}} 
+Hauck recalled that their team realized they did not know anything about wood cabinets or television monitors.{{sfn|DeWyze|1982}} At the times of ''Blockade''{{'}}s release, counterfeiting was high and public demand for the game was not as long-lasting as the company had hoped.{{sfn|Horowitz|2018|p=22}} As they worked to adapt to this new material and tech, other companies released similar games such Atari, Inc. with ''[[Dominos (video game)|Dominos]]'', [[Ramtek Corporation|Ramtek]] with ''[[Barricade (video game)|Barricade]]'', [[Bally Manufacturing|Bally]] with ''Checkmate'' (included in the [[Bally Astrocade]]), and [[Meadows Games]] with ''Bigfoot Bonkers''.{{sfn|DeWyze|1982}}{{sfn|Bunch|2022|pp=158-159}} ''Barricade'' was so similar to ''Blockade'' that Gremlin threatened to sue Ramtek, and dropped their suit after Ramtek agreed to stop releasing the game.{{sfn|Bunch|2022|p=112}} Dennis Koble of Atari stated that ''Blockade'' was "really fun and very popular and, as was common in those days, everyone had to jump on the bandwagon."{{sfn|Drury|2012|p=88|ref=DruryBio}}
+
+Months later, when Gremlin's ''Blockade'' was distributed in November 1976, the market had shrunk, leading to the game releasing only a small fraction they had presold at the show.{{sfn|DeWyze|1982}}{{sfn|Akagi|2006|p=119}} This left Gremlin with a large inventory of circuit boards, cabinets and monitors.{{sfn|Horowitz|2018|p=22}} The company had no legal recourse at the period against the clones of the games.{{sfn|DeWyze|1982}} After the team from Gremlin returned from Chicago, they began filing patents for ''Blockade'', and received faster consideration from the [[patent office]] due to the market of clones already released. It took a year and a half to win the patent, which Hauck stated that at that time "no one even remembered ''Blockade''. The net effect is that in the game business, patents are absolutely worthless."{{sfn|DeWyze|1982}}
+
+==Reception==
+In November 1977, ''[[Play Meter]]'' ranked the top highest ranking arcade games from the past 12 months. ''Blockade'' was Gremlin's highest ranked game, tying for 10th place along with ''[[Indy 4 (video game)|Indy 4]]'' by Atari.{{sfn|Play Meter|1977|ref=PM-Nov}}
+
+From contemporary reviews, Ray Pasziewicz, a Baltimore coin machine operator said that specifically praised ''Blockade'' at the MOA show, noting the games competitiveness and that "I stood there and played it for a long time and I was excited over it."{{sfn|Play Meter|1976|p=15|ref=PlayMeter15}} In a report in ''Play Meter'' magazine, Ralph C. Lally II said that ''Blockade''  was "probably the most played game at the show," and that the game was an "excellent example of a good game based on a rather simple concept" declaring the game great and "could just well turn out to be the ''[[Tank (video game)|Tank]]'' everybody was hoping for this year."{{sfn|Lally II|1976|p=24}}
+
+From retrospective reviews, in his book ''The Video Games Guide'', Matt Fox gave the game a four out of five star rating, stating he could forgive the game for its visual simplicity due to its vintage and that the game had a "timeless quality", declaring it "simple, competitive, addictive fun."{{sfn|Fox|2012|p=31}}
+
+==Legacy==
+{{main|Snake (video game genre)}}
+After witnessing a mother and daughter play ''Blockade'' and constantly hit each other and laugh at them exploding, Lane Hauck developed the arcade game ''Fortress''.{{sfn|DeWyze|1982}} By 1977, Gremlin had no major hit arcade games following ''Blockade'' which led to the company being purchased by [[Sega]] on September 29, 1978.{{sfn|Horowitz|2018|p=22}}
+
+''Blockade'' is the progenitor of the [[Snake (video game genre)|snake video game genre]] which includes hundreds of games, including multiple arcade clones of ''Blockcade'',  the [[Atari 2600|Atari Video Computer System]]'s ''[[Surround (video game)|Surround]]'' (1977), the 1982 single-player home computer game ''[[Snake Byte]]'', and ''[[Snake (1998 video game)|Snake]]'' (1998) for [[Nokia]]'s mobile phones.{{sfn|James|2009}}{{sfn|Bunch|2022|p=112}}{{sfn|Hopkins|2022|p=126}}
+
+Dennis Koble, the developer of Atari's ''Dominos'', said his game was not derivative from ''Blockade''. He said in a 2020 interview that prior to Gremlin's release, he had seen similar games on [[ARPANET]] and [[CompuServe]] prior to Gremlin's game.{{sfn|Drury|2020|p=32|ref=DomRetGame}}
+
+== References ==
+{{reflist}}
+
+===Sources===
+* {{cite book|title=Blockade Owner's Manual|publisher=Gremlin Industries, Inc.|id=707-0001|chapter=Game Concept|ref=GameConcept}}
+* {{cite magazine|magazine=Play Meter|volume=2|issue=14|date=December 1976|title=Polish Music: Conversation with Baltimore Operator Ray Psziewicz|ref=PlayMeter15}}
+* {{cite magazine|magazine=Play Meter|volume=3|issue=21|date=November 1977|publisher=Skybird Publishing|title=Captain Fantastic, Sea Wolf Top Poll|p=25|ref=PM-Nov}}
+* {{cite book|trans-chapter=Overseas Edition|chapter=海外編|title=アーケードTVゲームリス 国内 • 海外編 ( 1971 - 2005 )ト|trans-title=Arcade TV Game List  Domestic/Overseas Edition (1971-2005)|last=Akagi|first=Masumi|publisher=Amusement News Agency |language=Japanese |location=Japan |isbn=978-4990251215|year=2006}}
+* {{cite book|title=Atari Archive: Vol.1 1977-1978|last=Bunch|first=Kevin|publisher=[[Limited Run Games|Press Run Books]]|ISBN=978-1-955183-21-5|year=2022}}
+* {{cite web|url=https://www.sandiegoreader.com/news/1982/jul/15/cover-exactly-zaxxon/|title=San Diego's Gremlin: How Video Games Work|work=[[San Diego Reader]]|first=Jeannette|last=DeWyze|access-date=February 11, 2024|date=July 15, 1982|archive-url=https://web.archive.org/web/20190920073749/https://www.sandiegoreader.com/news/1982/jul/15/cover-exactly-zaxxon/|archive-date=September 20, 2019}}
+* {{cite magazine|magazine=[[Retro Gamer]]|title=Dennis Koble|last=Drury|first=Paul|issue=107|ref=DruryBio|publisher=Imagine Publishing|ISSN=1742-3155|year=2012}}
+* {{cite magazine|magazine=Retro Gamer|last=Drury|first=Paul|title=The Making of Dominos|issue=211|ref=DomRetGame|ISSN=1742-3155|year=2020|publisher=Future PLC}}
+* {{Cite book|title=The Video Games Guide: 1,000+ Arcade, Console and Computer Games, 1962-2012|edition=2|last=Fox|first=Matt|year=2012|publisher=McFarland|isbn=9781476600673}}
+* {{cite book|title=Video Game Audio: A History, 1972-2020|last=Hopkins|first=Christopher|publisher=McFarland|ISBN=978-1-4766-7435-3|year=2022}}
+* {{cite book|title=The Sega Arcade Revolution: A History in 62 Games|last=Horowitz|first=Ken|publisher=McFarland & Company, Inc.|ISBN=978-1-4766-7225-0|year=2018}}
+* {{cite web|archive-url=https://web.archive.org/web/20110723064106/http://conversations.nokia.com/2009/01/20/history-of-nokia-part-2-snake/|url=http://conversations.nokia.com/2009/01/20/history-of-nokia-part-2-snake/|title=History of Nokia Part 2: Snake|author=James|date=January 20, 2009|access-date=February 11, 2024|archive-date=July 23, 2011|publisher=[[Nokia]]}}
+* {{cite magazine|magazine=[[Play Meter]]|volume=2|issue=14|date=December 1976|title=Play Meter Plays the New Games, Volume II|last=Lally II|first=Ralph C.}}
+
+[[Category:1976 video games]]
+[[Category:Arcade-only video games]]
+[[Category:Gremlin Industries games]]
+[[Category:Snake video games]]
+[[Category:Video games developed in the United States]]

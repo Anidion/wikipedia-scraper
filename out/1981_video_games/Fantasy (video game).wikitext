@@ -1,0 +1,43 @@
+Fantasy (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Fantasy_%28video_game%29&oldid=1219033703
+Accessed on: 2024-06-26T16:52:17.145335
+
+
+
+------
+Fantasy (video game)
+{{Infobox video game
+|title= Fantasy
+|image= FantasyVGScreen.png
+|caption= Title screen
+|developer= [[SNK]]
+|publisher= {{vgrelease|JP|SNK|EU|SNK<ref name="eu">{{cite web|title=Fantasy (Germany)|website=The Arcade Flyer Archive|url=http://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=6111|accessdate=2015-01-13}}</ref>}} {{vgrelease|NA|[[Rock-Ola]]}}
+|designer= 
+|series= 
+|engine= 
+|released= {{vgrelease|JP|October 1981|EU|1981<ref name="eu"/>|NA|February 1982}}
+|genre= [[Action game|Action]]
+|modes= [[Single-player video game|Single-player]]
+|platforms= [[Arcade video game|Arcade]]
+|arcade system= [[Arcade system board#SNK|SNK 6502 / SNK&nbsp;Rockola]]
+|width= 
+}}
+
+'''''Fantasy''''' is an [[action game]] developed by [[SNK]] and released for [[Arcade video game|arcades]] in [[1981 in video gaming|October 1981]]. It was licensed to [[Rock-Ola]]<ref>{{cite web|title=Fantasy (USA)|website=The Arcade Flyer Archive|url=http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=1486&image=1|accessdate=2015-01-13}}</ref> for North American release in [[1982 in video gaming|February 1982]]. The game is controlled with a single [[joystick]].<ref name="Fantasy Controls">{{cite web|url=http://www.arcadeflyers.com/?page=flyer&db=videodb&id=1486&image=2|title=Fantasy:Rock-ola|publisher=ArcadeFlyers.com|date=2008-10-30}}</ref> One level plays the melody from the song "[[Funkytown]]".<ref name="funky town">{{cite web |url=http://filmbaycom.forumarena.com/archive/o_t/t_425/keywords_part_2_08.html |title=Keywords |publisher=FilmBayCom |date=2008-10-30 |url-status=dead |archive-url=https://web.archive.org/web/20090131055126/http://filmbaycom.forumarena.com/archive/o_t/t_425/keywords_part_2_08.html |archive-date=2009-01-31 }}</ref> According to the book ''Gamers: Writers, Artists & Programmers on the Pleasures of Pixels'', this is the first [[arcade video game]] to have a [[Continue (video games)|continue]] feature.<ref name="compton">Compton, Shanna. ''Gamers: Writers, Artists & Programmers on the Pleasures of Pixels'' p. 117-118</ref>
+
+The game runs on the [[Arcade system board#SNK|SNK 6502]] [[arcade system board]],<ref name="mame">{{cite web|url=https://github.com/mamedev/mame/blob/master/src/mame/drivers/snk6502.c|archive-url=https://archive.today/20150117221139/https://github.com/mamedev/mame/blob/master/src/mame/drivers/snk6502.c|url-status=dead|archive-date=2015-01-17|title=SNK 6502 Hardware|website=[[MAME]]|accessdate=2015-01-13}}</ref> also known as the SNK Rockola hardware.<ref name="system16">{{cite web|url=http://www.system16.com/hardware.php?id=887&gid=18592|title=SNK Rockola Hardware|website=System 16|accessdate=2008-10-30}}</ref> Other games that run on the same hardware are ''Sasuke vs. Commander'' (1980), ''[[Zarzon]]'' (1981) and ''[[Vanguard (video game)|Vanguard]]'' (1981).<ref name="mame"/><ref name="system16"/>
+
+==References==
+{{Reflist}}
+
+[[Category:1981 video games]]
+[[Category:Action games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:SNK games]]
+[[Category:Video games developed in Japan]]
+[[Category:Single-player video games]]
+[[Category:Rock-Ola games]]
+
+
+{{arcade-stub}}

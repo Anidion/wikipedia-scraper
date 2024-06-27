@@ -1,0 +1,53 @@
+Laser Chess
+Permalink: //en.wikipedia.org/w/index.php?title=Laser_Chess&oldid=1224117546
+Accessed on: 2024-06-26T17:02:30.885714
+
+
+
+------
+Laser Chess
+{{more citations needed|date=September 2023}}
+{{Infobox VG | title = Laser Chess
+|image = 
+|developer =
+|modes = 
+|platforms = [[Atari ST]], [[Amiga]], [[Commodore 64]], [[Apple II]], [[Atari 8-bit]]
+|released = 1987
+|genre = [[Strategy game|Strategy]]
+|designer = Mike Duppong<ref name=OPN>{{cite journal |title=Playing with light: A history of games that incorporate the photon |first=Stephen R. |last= Wilk |journal=Optics and Photonics News |publisher=Optical Society of America |volume=18 |issue=10 |date=October 2007 |pages=18}}</ref> 
+}}
+
+'''Laser Chess''' is a two-player, [[strategy video game]] modeled as a board game with [[chess]]-like pieces, most of which have mirrored surfaces, and one of which is a [[laser]] cannon. ''Laser Chess'' first appeared in ''Compute!'s Atari ST Disk & Magazine'' in 1987, written in [[Modula-2]], winning the $5,000 first prize in the magazine's programming competition.
+
+Ports written in [[BASIC]] and [[machine language]] were published in the June 1987 issue of ''[[Compute!]]'' for the [[Amiga]], [[Commodore 64]], [[Apple II]], and [[Atari 8-bit computers]] as [[type-in program]]s.<ref name="duppong198706">{{cite news | url=https://archive.org/stream/1987-06-compute-magazine/Compute_Issue_085_1987_Jun#page/n25/mode/2up | title=Laser Chess | work=Compute! | date=June 1987 | accessdate=9 November 2013 | author=Duppong, Mike | pages=25}}</ref> ''Laser Chess'' has been re-implemented many times, including a variant ''Advanced Laser Chess'' with a larger board and additional pieces, or the new variant ''LASER CHESS: Deflection'' with a level editor and more pieces like portals available on Steam.<ref>{{Cite web|url=https://archive.org/details/COMPUTEs_Amiga_Resource_Volume_1_Number_2_1989-06_COMPUTE_Publications_US/page/n73|title=Advanced Laser Chess|last=Duppong|first=Mike|date=Summer 1989|website=Compute! Amiga Resource Summer 1989|pages=72–75|archive-url=|archive-date=|access-date=}}</ref>
+
+==Gameplay==
+Players alternate turns taking two actions with their pieces.  An action consists of moving a piece vertically or laterally, rotating a piece 90 degrees, or firing the laser cannon.  One piece can [[Teleportation|teleport]] pieces that it lands on.
+
+Moving a distance of one square takes one action; moving two squares takes two actions. Since a player has only two actions per turn, the maximum distance a piece can be moved on one turn is two squares.  Pieces can be moved forward, backward, left, or right, but not diagonally.  However, a player can effectively move a piece diagonally by using two actions—for example, forward and right.
+
+The player can elect to fire the laser cannon. Firing the laser cannon takes only one action, but can be done only once per turn. Therefore, a player may want to use the first action in a turn to aim the laser, rotate a reflecting piece to set up a reflected shot, or move another piece into position. Laser beams are absorbed if they hit the edge of the board.
+
+The laser will bounce off any mirrored piece, so both a player's own and the opponent's pieces may be used to set up a shot.  Since a player is focused on creating a path from that player's laser cannon to a target of interest, the player must be aware that a return path is also created for the opponent at the same time.
+
+Some mirrored pieces can be destroyed by aiming the beam at one of their non-reflective sides, and others will simply absorb the beam harmlessly. Each player also has a beam splitter.
+
+==Legacy==
+In an [[MS-DOS]] re-implementation by Peter Venable (1994),<ref>[https://archive.org/details/msdos_LSRCHS_shareware Shareware Game: Laser Chess]. archive.org.</ref> the pieces move like normal chess pieces on a 9x9 board, with the laser moving like a king, and a turn consists of making any number of rotations to one's pieces followed by either playing a chess move or firing the laser.
+
+==See also==
+*''[[Lazer Maze]]'' (1982)
+*''[[Deflektor]]'' (1987)
+*''[[Khet (game)|Khet]]'' (2005), board game
+
+==References==
+{{reflist}}
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with available source code]]

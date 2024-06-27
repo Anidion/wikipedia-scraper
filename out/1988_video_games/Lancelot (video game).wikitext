@@ -1,0 +1,60 @@
+Lancelot (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Lancelot_%28video_game%29&oldid=1224481625
+Accessed on: 2024-06-26T17:04:32.725609
+
+
+
+------
+Lancelot (video game)
+{{Infobox VG
+|title = Lancelot
+|image = Lancelot Cover.jpg
+|caption = UK cover art
+|developer = [[Level 9 Computing|Level 9]]
+|publisher = [[Mandarin Software]]
+|released = 1988
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Amstrad PCW]], [[Atari 8-bit]], [[Atari ST]], [[BBC Micro]], [[Commodore 64]], [[MS-DOS]], [[ZX Spectrum]].<ref>[http://www.lysator.liu.se/adventure/Level_9_Computing.html Adventureland] by Hans Persson and Stefan Meier.</ref>
+}}
+
+'''''Lancelot''''' is a [[text adventure]] by [[Level 9 Computing|Level 9]] released in 1988. It has static graphics on some platforms. The plot focuses on [[Lancelot]]'s quest to find the [[Holy Grail]].
+
+==Plot==
+Designed by Peter Austin with in-game text by Christina Erskine and Peter McBride,<ref>[https://www.mobygames.com/game/dos/lancelot/credits MobyGames] ''Lancelot'' Credits (DOS).</ref> ''Lancelot'' describes the adventures of Sir Lancelot as recounted in Sir Thomas Malory's ''[[Le Morte d'Arthur]]''.<ref>[https://ifdb.tads.org/viewgame?id=sv2ogva4urs43jwi The Interactive Fiction Database] ''Lancelot''.</ref>  Like other interactive fiction releases from Level 9 such as [[Scapeghost]], gameplay is divided into three parts.  Lancelot's overall objectives are to complete the Order of the Knights of the Round Table and ultimately to recover the Holy Grail. The lore drawn from Arthurian legend allows for a vast range of familiar settings (such as Camelot, [[Tintagel]], and Winchester) and characters (like Merlin, Arthur, Guenever, and Lancelot's son [[Galahad]]).  As Lancelot grows in power and completes quests, several knights and ladies accompany him on his travels, and many of these non-player characters can be controlled by providing instructions through the game's parser.  These supporting characters include the Damosel Maledisant, Sir Bors de Ganis, Sir Ector de Maris, [[Sir Tristram]], and several others.
+
+Lancelot's first challenge is to face the Black Knight in combat.  If he is merciful with him, Lancelot learns that the knight is really the disguised King Arthur, who invites Lancelot to become part of his order of knights.  At his knighting the next day, Lancelot discovers his feelings for Guenever, and seeks to prove his worth to her.  Arthur tasks Lancelot with scouring the kingdom to recover several lost knights, including Sir Meliot,<ref>[http://www.earlybritishkingdoms.com/bios/meliot.html David Nash Ford's Early British Kingdoms] Sir Meliot de Logres: Arthurian Literary Character.</ref> [[Sir Lamorak]], [[Sir Bors]], and [[Sir Gawain]], many of whom are held captive by rebel lords.  To prove his honor, Lancelot must only engage in combat when provoked.  The final stage of the story sees Lancelot setting off from Castle Vagon with Sir Galahad in search of the Holy Grail.
+
+==Reception==
+{{cleanup rewrite|section=yes|date=June 2018}}
+*''[[Sinclair User]]'': "... up to the usual high standard we have come to expect from Level 9..."<ref name="Sinclair User Review">{{Citation|title=Lancelot Review|newspaper=[[Sinclair User]]|date=December 1988}}</ref>
+*''[[The Micro User]]'': "Lancelot has just ''got'' to be Game of the Year for me."<ref name="Micro User Review">{{Citation|title=Lancelot... joust a legend|author=Mad Hatter|newspaper=[[The Micro User]]|date=January 1989|volume=6|issue=11|page=36}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/lancelot|name=''Lancelot''}}
+* {{abime|id=832}}
+* {{WoS game|id=0006553|name=Lancelot}}
+* {{IFDB|id=sv2ogva4urs43jwi|title=Lancelot}}
+
+{{Level 9}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Fantasy video games set in the Middle Ages]]
+[[Category:Level 9 Computing games]]
+[[Category:Mandarin Software games]]
+[[Category:Single-player video games]]
+[[Category:Video games based on Arthurian legend]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

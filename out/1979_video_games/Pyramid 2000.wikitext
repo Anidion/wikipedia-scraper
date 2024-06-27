@@ -1,0 +1,44 @@
+Pyramid 2000
+Permalink: //en.wikipedia.org/w/index.php?title=Pyramid_2000&oldid=1043843838
+Accessed on: 2024-06-26T16:51:21.399612
+
+
+
+------
+Pyramid 2000
+{{Infobox video game
+| title  = Pyramid 2000
+|image = 
+|developer = Robert Arnstein
+|publisher = [[Radio Shack]]
+|designer = 
+|engine = 
+|released = 1979
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[TRS-80 Model I]], [[TRS-80 Color Computer]]
+}}
+
+'''''Pyramid 2000''''' is an [[interactive fiction]] game.<ref>[http://www.figmentfly.com/pyramid2000/pyramid.html Figmentfly.com]</ref> The game is an altered version of ''[[Colossal Cave Adventure|Colossal Cave]]'' that takes advantage of an Egyptian setting, re-theming some of the locations, objects, and puzzles. For instance, the "little bird" from Adventure is now a "bird statue" and the "clam" is a "sarcophagus."
+
+==Development==
+The system was written by Robert Arnstein using a custom [[p-code machine]] with 32 instructions. Unlike the [[Infocom]] [[z-machine]], this machine was specific to this game (e.g., command 13 asserted the player was carrying the emerald and only the emerald).<ref>{{cite web|title=Pyramid Code|url=http://computerarcheology.com/CoCo/Pyramid/Code.html#ScriptCommands|website=Computer Archeology|accessdate=6 June 2017}}</ref>
+
+==Reception==
+It was panned by ''[[80 Micro]]'': "This game is yet another example of [[Radio Shack]]'s inability to deal with the consumer in a consumer's market... ''Pyramid'' suffers from the lack of a command word base... You can try typing <code>HELP</code>, but don't expect any."<ref>{{cite journal|last1=O'Brian|first1=William|title=Pyramid|journal=80 Microcomputer|date=August 1980|page=21|url=https://archive.org/details/80-microcomputing-magazine-1980-08|accessdate=27 August 2017}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.figmentfly.com/pyramid2000/pyramid.html Pyramid 2000 Solution page]
+* {{IFDB|id=q4kb22d5ukwy0w4a}}
+
+[[Category:Adventure games]]
+[[Category:1970s interactive fiction]]
+[[Category:1979 video games]]
+[[Category:TRS-80 games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games developed in the United States]]
+
+{{adventure-videogame-stub}}

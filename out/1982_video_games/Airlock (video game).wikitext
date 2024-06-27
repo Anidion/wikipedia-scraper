@@ -1,0 +1,70 @@
+Airlock (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Airlock_%28video_game%29&oldid=1224492306
+Accessed on: 2024-06-26T16:52:53.443898
+
+
+
+------
+Airlock (video game)
+{{refimprove|date=October 2017}}
+
+{{Infobox video game
+| title = Airlock
+| image = Airlock.jpg
+| caption = Cover art
+| developer = [[Data Age]]
+| publisher = Data Age
+| released = {{vgrelease|NA|1982}}
+| genre = [[Platform game|Platform]]
+| platforms = [[Atari 2600]]
+| modes = [[Single-player video game|Single-player]]
+}}
+'''''Airlock''''' is a [[platform game|platform video game]] for the [[Atari 2600]] published by [[Data Age]] in 1982. The player runs and jumps through the interior of a crippled submarine with only ten seconds to complete each level.<ref name="agh"/>
+
+==Gameplay==
+In Airlock, players are challenged to think quickly and act decisively as they navigate the interior of a sinking submarine. The game's primary objective is to escape the submarine by progressing through its various levels, all while managing time constraints and avoiding obstacles.
+
+As the player moves up each level of the submarine, they must collect two hatch keys to unlock the elevator that takes them to the next level. The time pressure increases the difficulty, as taking too long will cause the floors to flood, rendering escape impossible and resulting in a loss.
+
+The roaming loose torpedoes from the crash add an additional layer of challenge to the gameplay. Players must jump over these torpedoes to avoid being momentarily stunned and losing precious time. Airlock tests the player's reflexes, decision-making skills, and ability to stay calm under pressure as they race to escape the submarine before it is fully submerged.<ref name=ao_gameplay>
+{{cite web
+| url          = https://atarionline.org/atari-2600/airlock
+| title        = Airlock
+| website      = AtariOnline.org
+| access-date  = April 6, 2023 
+}}</ref>
+
+==Reception==
+Frank Lovece, writing for ''[[Electronic Fun with Computers & Games]]'' in 1982, disliked that "there's little to the game once you've passed the first level." He pointed out that because the remaining time carries over to subsequent levels, the game gets easier as you progress.<ref name="Lovece"/>
+
+In a review long after the game's release, Keita Iida concluded: "Graphics are drab in typical Data Age fashion, and sounds consist of nothing more than blips and beeps. On the other hand, it's one of the better efforts by one of the first casualties of the classic videogame era... although that's not saying much."<ref name="agh">{{cite web|last1=Iida|first1=Keita|title=AGH Atari 2600 Review: AIRLOCK|url=http://www.atarihq.com/reviews/2600/airlock.html|website=AtariHQ}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="Lovece">{{cite journal|last1=Lovece|first1=Frank|title=Airlock|journal=[[Electronic Fun with Computers & Games]]|date=December 1982|volume=1|issue=2|url=https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_02_1982-12_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_02_1982-12_Fun__Games_Publishing_US#page/n59/mode/2up}}</ref>
+<ref name=ao_gameplay>
+{{cite web
+| url          = https://atarionline.org/atari-2600/airlock
+| title        = Airlock
+| website      = AtariOnline.org
+| access-date  = April 6, 2023 
+}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=11531}}
+*{{internet archive game|atari_2600_airlock}}
+
+{{DEFAULTSORT:Airlock (Video Game)}}
+[[Category:1982 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Data Age games]]
+[[Category:North America-exclusive video games]]
+[[Category:Platformers]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]
+
+
+{{platform-videogame-stub}}
+{{atari-console-stub}}

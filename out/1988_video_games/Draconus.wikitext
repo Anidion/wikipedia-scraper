@@ -1,0 +1,61 @@
+Draconus
+Permalink: //en.wikipedia.org/w/index.php?title=Draconus&oldid=1224502472
+Accessed on: 2024-06-26T17:04:04.562438
+
+
+
+------
+Draconus
+{{multiple issues|
+{{cleanup rewrite|date=June 2015}}
+{{more citations needed|date=July 2016}}
+}}
+{{Infobox video game
+|image = Draconus Cover.jpg
+|caption =
+|developer = [[Zeppelin Games]]
+|publisher = Zeppelin Games
+|designer = Kevin Franklin<br>Ian Copeland<br>Brian Jobling<br>Michael Owens
+|composer = Adam Gilmore
+|released = 1988
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player]]
+|platforms = {{cslist| [[Atari 8-bit]] | [[Commodore 64]] | [[ZX Spectrum]]}}
+}}
+
+'''''Draconus''''' is an [[action-adventure game|action-adventure]] [[platform game]] developed and published by [[Zeppelin Games]] in 1988. It was released for the [[Atari 8-bit computers]], [[Commodore 64]], and [[ZX Spectrum]]. ''Draconus'' is similar to ''[[Metroid (video game)|Metroid]]''.<ref name = "Retro Gamer">{{cite journal | title = Atari 8-Bit: De Top 25 | issue = 4/2016 | pages= 165 | journal = [[Retro Gamer]] | publisher = Heise Medien GmbH & Co. KG | quote = "Das Speil folgt dabei grob der Metroid-Formel..." }}</ref>
+
+== Gameplay ==
+[[Image:Draconus ingame.png|left|thumb|Frognum breathes fire]]
+
+The player assumes the role of the hero, Frognum, whose task it is to reclaim his kingdom from the Tyrant beast. The game style is principally a platformer which finds the player running and jumping through various screens, numbering around a hundred. Many of the rooms include enemies, which generally follow fixed paths but may also swarm and chase the player. The player starts the game with two weapons: fire breath which is limited but may be replenished by collecting items, and a punch which is unlimited. Once destroyed, enemies do not [[respawn]] except in the [[Commodore 64|C64]] version, where they can respawn if a room that was only partly cleared is revisited. The main task is to find four special abilities and then face the final battle.
+
+Enemy contact reduces Frognum's life energy, which may be refilled by collectible symbols. On loss of all life energy Frognum loses one life and restarts from the last Record slab. These slabs occur throughout the game world and serve as checkpoints. Impacting upon water whilst in a humanoid form generally results in immediate death, as does falling large distances or touching spikes.
+
+==Reception==
+{{VG Reviews
+|CRASH = 90%<ref>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Draconus|issue=58|page=91|date=November 1988|url=https://archive.org/details/Crash_No._58_1988-11_Newsfield_GB/page/n89/mode/2up}}</ref>
+|SUser = 94/100<ref>{{cite magazine|magazine=[[Sinclair User]]|title=GamesReview|issue=80|page=69|date=November 1988|url=https://archive.org/details/sinclair-user-magazine-080/page/n67/mode/2up}}</ref>
+|Z64 = 92%<ref>{{cite magazine|magazine=[[Zzap!64]]|title=Zzap! Budget Test|issue=38|page=94|date=June 1988|url=https://archive.org/details/zzap64-magazine-038/page/n93/mode/2up}}</ref>
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+}}
+The game twice placed #1 in the Readers' Top Ten of the German ''Atari Magazin''.<ref>Atari Magazin issue 05/89, S. 98; 07/89, S. 74. ISSN 0933-887X.</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{atarimania|id=1704}}
+
+{{Eutechnyx games}}
+
+[[Category:Platformers]]
+[[Category:1988 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Metroidvania games]]

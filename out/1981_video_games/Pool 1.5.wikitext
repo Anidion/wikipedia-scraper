@@ -1,0 +1,61 @@
+Pool 1.5
+Permalink: //en.wikipedia.org/w/index.php?title=Pool_1.5&oldid=1224117990
+Accessed on: 2024-06-26T16:52:28.928276
+
+
+
+------
+Pool 1.5
+{{short description|1981 video game}}
+{{Orphan|date=November 2022}}
+
+{{Infobox video game
+| title = Pool 1.5
+| image = Pool1.5 cover.png
+| developer =  
+| publisher = Innovative Design Software
+| designer = Don Hoffman<br>Howard de St. Germain<br>Dave Morock<ref name=halfhill/>
+| platforms = [[Apple II]], [[Atari 8-bit]]
+| released = 1981
+| genre= [[Sports video game|Sports]]
+|caption = 
+|alt = 
+}}
+
+'''''Pool 1.5''''' is a [[pool (cue sports)|pool]] simulation video game written for the [[Apple II]] and published by Innovative Design Software in 1981. A port for [[Atari 8-bit computers]] was released the same year.<ref name=mania/> ''Pool 1.5'' allows 1 to 4 people to play one of 4 variations: [[straight pool]], [[eight-ball]], [[nine-ball]], and [[rotation (pool)|rotation]]. A trimmed down version was released on cartridge for the Atari 8-bit computers in 1982 as '''''Pool 400'''''. The "400" refers to the Atari 400 computer, which shipped with less memory than the more expensive Atari 800.
+
+==Gameplay==
+The game is played via either the keyboard or paddle controllers. For each shot, {{key press|space}} toggles between three settings: aim, speed, and English (adding spin by hitting the cue ball in different locations).<ref name=manual/> The paddle button shoots the ball with the given parameters. When aiming, {{key press|A}} toggles between coarse and fine modes. Coarse mode allows the paddle to select one of 64 angles. In fine mode, the angle can be adjusted by 16 smaller increments in either direction.
+
+[[Friction]] and animation speed can be changed at any time via key presses.<ref name=manual/> Shots can be replayed using the current speed setting, such as for slow motion.
+
+==Development==
+Howard de St. Germain had simulated the interaction of two spheres on a [[minicomputer]] and proposed that it could be turned into a pool simulation.<ref name=halfhill/> Working with Don Hoffman—who had Apple II graphics experience—and Dave Morock, the game was written in 3–4 months.<ref name=halfhill/>
+
+==Reception==
+''[[ANALOG Computing]]'' wrote, "The ball physics are incredibly realistic, and the movement is real-time and very smooth."<ref name="hudson">{{cite journal |last1=Hudson |first1=Tom |title=Review: Pool 1.5 |journal=ANALOG Computing |date=May 1982 |issue=6 |page=12 |url=https://archive.org/details/analog-computing-magazine-06/page/n15/mode/2up}}</ref> The reviewer found aiming with the paddle controller awkward, because the full precision of the knob isn't used, but did not mention the fine aim feature. The magazine concluded, "POOL 1.5 is a program which is well worth buying." Patrick and Leah O'Connor, writing for ''[[Interface Age]]'', mention that they had been considering creating their own pool simulation, but stopped because "''Pool 1.5'' does everything we wanted, the way we wanted," and gave the game a 10 out 10."<ref>{{cite journal |last1=O'Connor |first1=Patrick & Leah |title=Game Corner |journal=Interface Age |date=May 1982 |volume=7 |issue=5 |page=21 |url=https://archive.org/details/Interface_Age_Vol_7_Issue_5_1982-05_Interface_Age_US/page/n21/mode/2up}}</ref>
+
+==Legacy==
+An Atari 8-bit cartridge version of ''Pool 1.5'' was released in 1982, renamed to ''Pool 400''.<ref name=davidson/> While the original requires 48 KB of memory and a disk drive, ''Pool 400'' works on any Atari 8-bit computer with 16 KB.
+
+A follow-up, ''Trick Shot'', was published for the Apple II in 1982. It includes different game variations and a mode for hand-placing balls to set-up shots.
+
+==References==
+{{Reflist|refs=
+<ref name="mania">{{cite web |title=Pool 1.5 |url=http://www.atarimania.com/game-atari-400-800-xl-xe-pool-15_4061.html |website=Atari Mania}}</ref>
+<ref name="davidson">{{cite magazine|last1=Davidson |first1=Steve |title=Computer Playland: Pool 400 |magazine=Electronic Games |date=October 1982 |volume=1 |issue=8 |page=73 |url=https://archive.org/details/Electronic_Games_Volume_01_Number_08_1982-10_Reese_Communications_US/page/n71/mode/2up}}</ref>
+<ref name="halfhill">{{cite magazine |last1=Halfhill |first1=Tom R. |title=How the Pros Write Computer Games |magazine=COMPUTE! |date=February 1983 |volume=33 |pages=36, 38 |url=https://archive.org/details/1983-02-compute-magazine/page/n39/mode/2up}}</ref>
+<ref name=manual>{{cite web |url=https://www.apple.asimov.net/documentation/games/misc/Pool%201.5.pdf |title=Pool 1.5 Apple Manual}}</ref>
+}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-400-800-xl-xe-pool-400_4062.html ''Pool 400''] at Atari Mania
+*[https://archive.org/details/creativecomputing-1982-12/page/n91/mode/2up Review] in ''[[Creative Computing (magazine)|Creative Computing]]''
+*[https://archive.org/details/softside-magazine-37/page/n91/mode/2up Review] in ''[[SoftSide]]''
+*[https://archive.org/details/softalkv1n10jun1981/page/50/mode/2up Review] in ''[[Softalk]]''
+
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Cue sports video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,102 @@
+Legend of the Red Dragon
+Permalink: //en.wikipedia.org/w/index.php?title=Legend_of_the_Red_Dragon&oldid=1196360638
+Accessed on: 2024-06-26T17:06:44.565736
+
+
+
+------
+Legend of the Red Dragon
+{{For|the unrelated film of the same name|Legend of the Red Dragon (film)}}
+<!-- Deleted image removed: [[Image:LegendOfTheRedDragon.gif|thumbnail|The LORD inn menu]] -->
+{{Infobox video game
+| title = Legend of the Red Dragon
+| image = 
+| developer = [[Robinson Technologies]]
+| publisher = 
+| director = 
+| designer = 
+| composer = 
+| engine = 
+| released = 1989
+| genre = [[Role-playing video game]]
+| modes = [[Multiplayer video game|Multiplayer]]
+| platforms = {{Plainlist|
+*[[DOS]]
+*[[Microsoft Windows]]
+*[[OS/2]]}}
+}}
+
+'''''Legend of the Red Dragon''''' ('''''LORD''''') is a text-based online [[role-playing video game]], released in 1989 by [[Robinson Technologies]].<ref name="gamasutra">{{cite web|url=http://www.gamasutra.com/features/20070223b/barton_pfv.htm|title=The History of Computer Role-Playing Games Part 2: The Golden Age (1985-1993)|author=Barton, Matt|work=Gamasutra|date=17 May 2005|accessdate=2014-02-11|archive-date=2016-03-03|archive-url=https://web.archive.org/web/20160303175727/http://www.gamasutra.com/features/20070223b/barton_pfv.htm|url-status=dead}}</ref> ''LORD'' is one of the best known [[BBS door|door games]].<ref name="gamasutra"/><ref name="escapist">{{cite web |author=Marks, Robert B. |date=29 Jul 2008 |title=Sex and Dragon Slaying |url=https://www.escapistmagazine.com/sex-and-dragon-slaying/ |work=The Escapist |accessdate=2022-03-13}}</ref> The player's goal is to improve their skills in order to defeat the Red Dragon which has been attacking the village. The software is compatible with [[DOS]], [[Microsoft Windows]], and [[OS/2]].   The game was sold to and is currently owned by [[Metropolis Gameport]]. 
+
+==History==
+''LORD'' was created by Seth Robinson of [[Robinson Technologies]] and is currently maintained by Michael Preslar. Robinson began to write ''LORD'' in [[Pascal (programming language)|Pascal]] to run on his [[bulletin board system]]. As he did not have access to other [[BBS door|door game]]s such as ''[[Trade Wars]]'', he needed something that would occasionally bring people back to the BBS. The first version of ''LORD'' only featured the chatting and flirting systems. Over time, Robinson incorporated features that he had seen work well in other games: for example, the restricted number of turns per day, and the concept of random events. Eventually ''LORD'' became a mixture of action and romance.<ref name="escapist"/>
+
+Initially only intended to run on his own BBS, Robinson eventually received offers from users who wanted to run it on other systems. After the first sale, word-of-mouth advertising increased its popularity.
+
+''LORD'' was a successful game, and by 1993 many BBSs had active communities of players.<ref name="escapist"/> Over the next few years, [[MUDs]] began to overtake BBS door games as the multiplayer online format of choice,<ref name="escapist"/>  and in 1998 Robinson sold the game and its sequel to [[Metropolis Gameport]]. He went on to write other small games for [[IBM PC compatible|PC]] and mobile platforms. His final release of ''LORD'' was version 4.00a.
+
+Metropolis Gameport contracted Michael Preslar on January 8, 2001, to continue the game's development. The most recent version of ''LORD'' (4.08) was released in 2009  as a patch (via the DOSEMU patch archive), and was labeled as "Patch for Lord 4.07 for OS/2, dosemu, and most all other emulated environments".
+The latest version available on the official site is 4.07, with the full package for 4.08 being under inspection since Oct 22, 2007.<ref name="Lord News on official site">{{Cite web |url=http://lord.lordlegacy.com/news.php |title=Lord News on official site |access-date=2013-06-02 |archive-date=2012-06-27 |archive-url=https://web.archive.org/web/20120627032439/http://lord.lordlegacy.com/news.php |url-status=dead }}</ref> According to Preslar, further updates to the ''LORD'' software were planned, including a web application and versions for [[Executable and Linkable Format|ELF]]-compatible Linux and Unix systems (completed but available only to beta testers), but his latest statement on the matter, in 2013, is that he no longer has a system that allows him to work on the game.<ref name="Lord News on official site"/>
+
+==Gameplay==
+The premise of ''LORD'' is that a red dragon is wreaking havoc in a town where the player has recently arrived. Multiple players compete over a period of weeks to advance their skills and to kill the dragon. In order to achieve this goal, players must face combat to gain experience.  Once they have gained enough experience, they must face their master at Turgon's Warrior Training and advance in skill level. Advancement increases the players fighting stats and gives an additional skill point in the current skill (up to 40). Advancement also presents stronger enemies and masters; a player must challenge and defeat master Turgon himself to reach level 12, the final level, before attempting to search for and slay the dragon.
+
+As a BBS game, ''LORD'' uses a text-only interface.<ref name="gamasutra"/> Later versions of ''LORD'' also gave the option of using [[Remote imaging protocol|RIP (Remote Imaging Protocol)]] graphics, which required the use of a RIP client to view.
+
+Players select a [[character class]], choosing from among ''Death Knight Skills'', ''Mystical Skills'', and ''Thieving Skills''.  While a player is training in a particular skill, s/he is subject to random events in the woods for that particular skill, which provide opportunities for advancement. Eventually, players may master all three skills.
+
+Players can take a certain number of actions every day. Actions could be to fight monsters in the forest, attack other players or to attempt to slay the red dragon itself. In addition, every day a player can send a "flirt" to another player character which may range from a shy wink, to sex, to a marriage proposal. Sometimes this can be done more than once a day. Sex may result in contracting sexually transmitted diseases, and female characters might become pregnant.<ref name="escapist"/>
+
+While a player is looking for forest monsters a number of random forest events can occur; these involve simple events such as finding gold or gems as well as interactions with a number of [[non-player character]]s such as Olivia, men/maidens in distress, The old hag, the old man, etc. and the opportunity to advance in your skill if they pass the test. This is also where a player encounters the Flowers in the fairy garden and meets up with a group of fairies bathing.
+
+There are three [[non-player character]]s located at the Inn: Seth Able the [[bard]], Violet the [[barmaid]], and the unnamed Bartender. Seth Able the bard will sing a song for a player. Once a day, players can listen to Seth's song and receive a bonus, such as the doubling of one's bank account, or additional forest or player vs. player fight opportunities. The Bartender provides services and information to any warrior who can pay him in gold or gems, but provides nothing for free.
+
+Male players can also flirt with Violet, and female players with Seth Able (named after Robinson<ref name="escapist"/>), in a fashion similar to flirting with other players. Success is based on the player's charm points. A marriage to Violet or Seth may last one day or two months or more; unlike player-player marriages, the software may terminate these bonds at any time. During marriage, offspring are possible for male players, and more likely for female players. Offspring bring sometimes surprising benefits to warriors.
+
+''LORD'' allows many players to play simultaneously, in BBSs that support it. This allows real-time player-versus-player battles.
+
+''LORD'' features several in-game [[message board]]s, as well as a limited [[electronic mail]] system, which allow players to converse.  Players may use the mail system to send flirtations to other players of the opposite sex, propose trysts, or marriage.
+
+The registration system let all players play until level six, then it wouldn't allow players to get past to level 7 until the program was registered. Users often sent in funds for that very purpose. Some players even registered their own copy of LORD for local use so they could practice skills and test strategies.
+
+===IGMs===
+In-Game Modules (IGMs) are small [[Plug-in (computing)|software extensions]] written by third-party developers that add functionality to ''LORD''. A number of these were created and widely distributed. IGM software was first developed on the [[Amiga]], and then ported to [[MS-DOS]].<ref name="gamasutra"/> Some IGMs were written to allow a "cheating" style of game play,<ref>[http://archives.thebbs.org/ra98a.htm IGM list and descriptions]</ref><ref>[http://www.oocities.org/dratsab_mm/ IGM tips]</ref> and others have presented bugs or loopholes to be exploited by players.<ref>{{Cite web |url=http://lord.lordlegacy.com/fanfare/mylord4.php#78 |title=Lord FAQ on official L.O.R.D. site |access-date=2012-12-10 |archive-date=2015-02-28 |archive-url=https://web.archive.org/web/20150228112515/http://lord.lordlegacy.com/fanfare/mylord4.php#78 |url-status=dead }}</ref><ref>{{Cite web |url=http://kiteria.lordlegacy.com/ |title=Kiteria's Korner |access-date=2012-12-10 |archive-date=2012-06-26 |archive-url=https://web.archive.org/web/20120626004600/http://kiteria.lordlegacy.com/ |url-status=dead }}</ref> The current maintainer of the ''LORD'' software, has introduced a scripting language called ''Lady'' in order to allow smoother development of game extensions.<ref>{{Cite web |url=http://www.3dham.com/lordfaq/mylord2.html#ladyscript |title=Lord FAQ |access-date=2012-12-10 |archive-date=2010-12-19 |archive-url=https://web.archive.org/web/20101219235805/http://www.3dham.com/lordfaq/mylord2.html#ladyscript |url-status=dead }}</ref><ref>Lady.doc   file within the game's ZIP file gives a thorough explanation</ref>
+
+====Wizardstone====
+Wizardstone was planned to be a major IGM and the author was so enthusiastic about it, he convinced Robinson to advertise it by mentioning its two main characters in a forest event within the game itself. The IGM had a number of features that Robinson was impressed with, most notably its blackjack game.
+Though the IGM Wizardstone was never released it is, none-the-less, important to the history of the game, perhaps the most important LORD IGM because it is the only IGM mentioned in the game itself and it was the inspiration for the forest event character "Olivia" and was the source of the Blackjack event, thus impacting Lord games which don't even have IGMs installed.<ref>whatsnew.txt from version 4.0 zip file  [http://lord.lordlegacy.com/allfiles/versions/ L.O.R.D. game files]</ref>
+
+It was supposed to contain an ending to Olivia's story (which the games states will be continued in it). There was once talk of adding an ending to Olivia's story to the game, but nothing ever came of that.
+
+==Reception==
+The game sold only seven copies in its debut year, but [[word of mouth]] drove sales to 30,000 units over the next seven years of release.<ref name=sages>{{cite book | author=Saltzman, Marc | title=Game Design: Secrets of the Sages, Second Edition | date=May 18, 2000 | publisher=[[Brady Games]] | isbn=1566869870 | page=[https://archive.org/details/gamedesign00marc/page/333 333] | url-access=registration | url=https://archive.org/details/gamedesign00marc/page/333 }}</ref>
+
+In [[Gamasutra]]'s essay on the history of computer [[role-playing video game]]s, ''LORD'' was considered to be a highly playable and memorable game, with colorful text and humor.<ref name="gamasutra"/> ''[[The Escapist (magazine)|The Escapist]]'' magazine highlighted the way ''LORD'' handled sexuality, which became more mature as Robinson developed the game over the years.<ref name="escapist"/>
+
+==Ports and sequels==
+<!-- Deleted image removed: [[Image:LegendOfTheRedDragon2.gif|thumbnail|Exploring a village in LORD II.]] -->
+Robinson developed an official sequel, ''Legend of the Red Dragon II: New World'', in 1992. It featured real-time multiplayer gameplay, with [[ANSI art]] graphics, in a [[Roguelike]]<ref name="gamasutra"/> top-down view. ''LORD II''<nowiki>'s</nowiki> final release came in 1998, before its sale to Metropolis Gameport.
+
+The first ''LORD'' spin-off, ''Tournament LORD'', was written by Robinson. It was a multiplayer version designed for the MBBS/Worldgroup BBS systems.<ref name="escapist"/>
+
+The second port was ''Wildcat Tournament Legend of the Red Dragon'' (WT-LORD), a multi-player version created for [[Wildcat! BBS]] systems, written by Joseph Marcelletti and Allan Benjamin. Robinson was impressed with this port and used some of its features in the next version of TLORD.<ref name="escapist"/>  It was maintained by IceRage Technologies but is now freeware and no longer developed or supported.
+
+===''Legend of the Green Dragon''===
+''Legend of the Green Dragon'' is a Web-based variation with major differences in game play. Despite the similarity in name, it is an entirely different game that is not written or authorized by the author or the current owners of ''Legend of the Red Dragon''. ''Legend of the Green Dragon'' (also referred to as ''LotGD'') is an open-source game that allows any Web developer to customize and create their own version of the game using the PHP language.<ref name="gamasutra"/>
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Official|http://lord.lordlegacy.com/}}{{dead_link|date=October 2023}}
+
+{{DEFAULTSORT:Legend Of The Red Dragon}}
+[[Category:1989 video games]]
+[[Category:Door games]]
+[[Category:DOS games]]
+[[Category:Video games about dragons]]
+[[Category:Massively multiplayer online role-playing games]]
+[[Category:OS/2 games]]
+[[Category:Video games developed in Japan]]
+[[Category:Windows games]]
+[[Category:Robinson Technologies games]]

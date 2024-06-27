@@ -1,0 +1,95 @@
+Chaos: The Battle of Wizards
+Permalink: //en.wikipedia.org/w/index.php?title=Chaos%3A_The_Battle_of_Wizards&oldid=1230335509
+Accessed on: 2024-06-26T16:58:13.692380
+
+
+
+------
+Chaos: The Battle of Wizards
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = Chaos: The Battle of Wizards
+|image = Chaoscomputergame.jpg
+|caption = Cover art by Julek Heller
+|designer = [[Julian Gollop]]
+|publisher = [[Games Workshop]]
+|released = {{vgrelease|EU|1985}}
+|genre = [[Turn-based tactics]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[ZX Spectrum]]
+}}
+
+'''''Chaos: The Battle of Wizards''''' is a [[turn-based tactics]] video game released for the [[ZX Spectrum]] in 1985. It was written by [[Julian Gollop]] and originally published by [[Games Workshop]]. Based on Gollop's 1982 design for a board game / card game hybrid,<ref name=gollopgames/> ''Chaos'' received a positive reception and went on to influence various games, including ''[[Darwinia (video game)|Darwinia]]'' and  [[King's Bounty]], and spawned a sequel, ''[[Lords of Chaos (video game)|Lords of Chaos]]'', in 1990.
+
+== Gameplay ==
+{{Unreferenced section|date=October 2023}}
+In ''Chaos'', players embody wizards who strive to outsmart and outlast each other. The goal is to be the last wizard standing, achieved by eliminating all opponents. The game can include two to eight wizards, and these can be either human players or computer-controlled entities. The skill level for computer-controlled wizards can range from 1 to 8, affecting combat statistics but not their AI. Notably, these AI wizards do not cooperate with each other; their sole objective is to eliminate both human and computer-controlled adversaries. 
+
+=== Spells and magic ===
+Each wizard starts with a random array of spells for battle. Spells can be categorized as Lawful, Neutral, or Chaotic, with their success rate during casting represented as a percentage. Spells can only be cast once, except for the "Disbelieve" spell that remains at a wizard's disposal throughout. New spells can be obtained solely through the "Magic Wood" spell. 
+
+The nature of spells cast during the game can affect the success rate of subsequent spells. Casting multiple lawful spells cultivates a lawful environment, consequently making other lawful spells easier to cast. The same principle applies to chaotic spells. Casting spells of opposing alignment doesn't make them more challenging. Neutral spells remain unaffected by the environment, and their difficulty remains constant. This dynamic plays a significant role in the game's strategy, prompting players to cast multiple easy spells of a certain alignment to make casting more potent spells of the same alignment easier. 
+
+=== Wizard and creature characteristics ===
+Wizards have attributes such as attack and defense ratings, move ratings, maneuver ratings, and magic resistance, governing their effectiveness, movement capability, combat exit ease, and defense against magic, respectively. They also have a magic rating determining the number of initial spells. 
+
+Creature spells can summon a creature next to the wizard. These creatures vary in difficulty to summon and power, with the most formidable ones being hardest to summon. Like wizards, creatures also have attack, defense, move, and maneuver ratings, along with magic resistance. 
+
+=== Turn-based gameplay ===
+In each turn, human wizards can examine the board and their spells, and choose a spell to cast in the next turn. To prevent unfair advantage, other human players typically look away during a player's spell choice. After all players have chosen their spells, they try to cast them in sequence. Interestingly, computer-controlled wizards select their spells during each turn's play stage, often leading to actions seemingly requiring foreknowledge of other players' actions.
+
+After casting spells, surviving wizards take turns to move their characters and any creatures they control, unless they are engaged in combat. They can attack other wizards or creatures by moving or flying into them, which also engages the enemy for immediate combat. Successful attacks eliminate the enemy, and the victorious entity moves onto its square. The success of an attack depends on the attacker's combat rating, defender's defense rating, and a degree of randomness. Some creatures can execute ranged attacks if they have a clear line of sight. 
+
+All computer-controlled entities always attempt to move each turn, even when it might not be beneficial, unless they are in a Magic Wood, Castle, or Citadel. All creatures or spells created by a wizard vanish immediately if that wizard is destroyed. For human players, none of the actions are compulsory; they can skip any actions they wish to. The turn sequence restarts after all wizards have taken their turn to move and fight.
+
+==Development==
+''Chaos'' was created entirely by [[Julian Gollop]], based on his 1982 design for a traditional card game, itself inspired by the early [[Games Workshop]] board game ''Warlock''.<ref name=retro81/> He was an avid card game designer and saw computers as a way of hiding game rules too complicated for pen-and-paper scenarios. Thus the board used in the card game became the tiled map in the video game.<ref name="edge"/>
+
+==Reception==
+''[[Crash (magazine)|CRASH]]'' awarded ''Chaos'' 8 out of 10,<ref name=crash16/> praising the neatness of the presentation, efficient sound effects, pleasing sprites and concluding that it was a very good multiplayer strategy game. Criticisms included the sparseness of the initial playing area, lack of status report for the wizards and information on how much damage was being dealt. The reviewer also felt there could have been a wider range of missile attack spells. ''[[Sinclair User]]'' rated ''Chaos'' 4 out of 5 stars, calling it "fast-moving and colourful" with simple, functional graphics. It was seen to be complex enough to appeal to players of both [[Dungeons & Dragons]] and [[strategy game]]s.<ref name=su38/> ''[[White Dwarf (magazine)|White Dwarf]]'' awarded it 7 out of 10, finding particular fun in the spells "Magic Fire" and "Gooey Blob" but criticised the poor quality of the instruction booklet.<ref name=whitedwarf68/>
+
+==Legacy==
+In the final issue of ''[[Your Sinclair]]'' in 1993, ''Chaos'' was listed at fifth place of the Your Sinclair Readers' Top 100 Games Of All Time.<ref name=ys93/> 
+
+One of [[Jagex]]'s early games was Cyber Wars – a browser-based online multiplayer clone of ''Chaos'' that switched the fantasy theme of the game for a sci-fi one; it was part of the Castle Games Domain online lobby. Developers of the indie PC strategy game ''[[Darwinia (video game)|Darwinia]]'' cite ''Chaos'' as an influence during its early development.<ref name=darwinia/> ''Chaos'' has also been the subject of many [[Homebrew (video gaming)|homebrew]] [[Video game remake|remake]]s such as ''Chaos Funk'':<ref name=retro81/><ref name=retro1/> Gollop regularly receives requests from people wishing to create remakes.<ref name=retro81/>
+
+In March 2014, Gollop began raising funds for ''[[Chaos Reborn]]'' on [[Kickstarter]]. The project, described as "part sequel, part re-imagining of [the] original game"<ref>{{cite web|url=https://www.kickstarter.com/projects/1206403106/chaos-reborn-from-the-creator-of-the-original-x-co/|title= Chaos Reborn - From the Creator of the Original X-COM|website=kickstarter.com}}</ref> exceeded its target within a month, raising $210,854 out of its $180,000 goal, and was released in October 2015.
+
+==References==
+{{reflist|refs=
+<ref name=gollopgames>{{cite web|url=http://www.gollopgames.com/2012/12/a-history-of-chaos.html|title=A History of Chaos|access-date=2012-12-07|archive-url=https://web.archive.org/web/20121210115551/http://www.gollopgames.com/2012/12/a-history-of-chaos.html|archive-date=2012-12-10|url-status=dead}}</ref>
+
+<ref name=retro81>{{cite magazine|magazine=Retro Gamer|issue=81|publisher=Imagine|year=2010|page=29|title=Lord of Chaos|author=Bevan, Mike}}</ref>
+
+<ref name="edge">{{cite journal|journal=Edge|issue=114|pages=96–99|date=September 2002|title=The Making of Chaos}}</ref>
+
+<ref name=crash16>{{cite journal|journal=CRASH|issue=16|date=May 1985|title=Chaos review|url=http://www.crashonline.org.uk/16/chaos.htm|url-status=dead|archiveurl=https://web.archive.org/web/20030606005821/http://www.crashonline.org.uk/16/chaos.htm|archivedate=2003-06-06}}</ref>
+
+<ref name=su38>{{cite journal |last=Gilbert |first=John |date=May 1985 |title=Spectrum Software Scene 2 |journal=Sinclair User |issue=38 |url=http://www.sincuser.f9.co.uk/038/sftwreb.htm |accessdate=2008-10-22 |url-status=dead |archiveurl=https://web.archive.org/web/20071105181811/http://www.sincuser.f9.co.uk/038/sftwreb.htm |archivedate=2007-11-05}}</ref>
+
+<ref name=whitedwarf68>{{cite journal|journal=White Dwarf|title=Chaos: The Battle of Wizards|issue=68|author=Mendham, Trevor|page=13|date=August 1985}}</ref>
+
+<ref name=ys93>{{cite journal|journal=Your Sinclair|title=Chaos: The Battle of Wizards|issue=93|date=September 1993}}</ref> 
+
+<ref name=darwinia>{{cite web|url=http://www.darwinia.co.uk/extras/development.html|title=Darwinia . Extras . Development|access-date=2008-06-21|archive-url=https://web.archive.org/web/20080830022529/http://darwinia.co.uk/extras/development.html|archive-date=2008-08-30|url-status=dead}}</ref>
+
+<ref name=retro1>{{cite magazine|magazine=Retro Gamer|volume=2|issue=1|title=Creating Chaos|author=Dan Whitehead|page=51|quote=With its broad scope, but simple design, ''Chaos'' was always an obvious choice for homebrew retroheads looking to stretch their coding skills.}}</ref>
+}}
+
+== External links ==
+* {{moby game|id=/chaos|name=''Chaos''}}
+* {{WoS game|id=0000894|name=Chaos}}
+* [http://groups.google.com/group/comp.sys.sinclair/browse_thread/thread/8738ded362317185/a8fb9b35c2c89559 A USENET message] describing the internal structure of ''Chaos'' and naming the missing spells
+* [https://web.archive.org/web/20141222213159/http://www.chaosonline.co.uk/ Chaos Online], detailed analysis of ''Chaos'' and discussion of ''Chaos Reborn''
+
+{{Games Workshop}}
+
+[[Category:1985 video games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Fantasy video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Turn-based tactics video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

@@ -1,0 +1,57 @@
+Shadow World (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Shadow_World_%28video_game%29&oldid=1224119481
+Accessed on: 2024-06-26T16:55:50.338012
+
+
+
+------
+Shadow World (video game)
+{{Short description|1983 video game}}
+{{Infobox video game
+|title = Shadow World
+|image = Shadow_World_box_cover.jpg
+|programmer = Mike Potter
+|publisher = [[Synapse Software]]
+|engine = 
+|released = 1983
+|genre = [[Shoot 'em up]]
+|modes = [[Single-player]], [[Cooperative video game|co-op]]
+|platforms = [[Atari 8-bit]]
+}}
+
+'''''Shadow World''''' is a [[shoot 'em up]] for [[Atari 8-bit computers]] written by Mike Potter and published by [[Synapse Software]] in 1983. Players are defending their planet from an alien invasion. The game supports two players at once, splitting the screen vertically into two halves, and merging them on the fly when both players are in the same location.
+
+==Gameplay==
+[[File:Shadow_World_screen_snap.gif|thumb|left|Even in early stages, the screen quickly fills with enemies. The large blue diamond is a seed crystal. The pile of blue blocks below it is a crystal that has reached the ground and mutated into a colonizer.]]
+
+The game shares elements of Potter's first Atari game, [[Protector (video game)|''Protector'']], itself based graphically on the [[arcade video game]], [[Defender (1981 video game)|''Defender'']]. Like ''Defender'', the action is primarily side-scrolling on a map that wraps around to allow continual travel to the left or right. ''Shadow World'' adds a limited amount of vertical scrolling motion as well. Compared to ''Protector'', ''Shadow World'' has much more action with significant numbers of moving objects. The game also shares elements with his earlier game [[Nautilus (video game)|''Nautilus'']], notably the way the planet is laid out onscreen and the way the player has to destroy certain enemies by shooting their core.{{sfn|Hague|2000}}
+
+In ''Shadow World'', the players are in charge of defending the planet of Jantor, which is under attack by the alien Rigillians who are attempting to steal the planet's supply of tricasmium, an element with unique multi-dimensional properties that are used as the basis of all modern technology. The Rigillians have launched "seed crystals" towards the planet from space, which emit small defensive drones as they fall towards the ground. The crystal can be destroyed by shooting through its outer shell to reach its inner core, but it periodically repairs its shell to counter these attacks.{{sfn|Potter|1983}}
+
+If the crystal touches the ground it mutates into a "colonizer" which cannot be destroyed by shooting it. These colonizers constantly emit seeker drones, acting as a defensive station protecting new seed crystals that are dropped. If five seed crystals manage to land and form colonizers, the planet explodes. The seed crystals also drop a surface skimmer which begins to collect the tricasmium nuggets found on the surface. The skimmer can be destroyed to save the supply of nuggets, which can be picked up and dropped on the colonizers to destroy them.{{sfn|Potter|1983}}
+
+The player's fighters, shaped either like the fighter from ''Protector'' (and thus ''Defender'') or the helicopter from ''[[Fort Apocalypse]]'', are armed with a gun firing to the left and right, as well as three smart bombs that destroy all the drones that are on the screen at the time it's activated. Using the smart bomb also returns the player to their base, which prevents it from being used immediately prior to attacking a crystal. The area around the base is protected by shields that prevent any Rigillians from entering the area above it.{{sfn|Potter|1983}}
+
+==Development==
+''Shadow World'' was the last in a series of games Potter wrote for Synapse. All make use of smooth scrolling and demonstrated an evolution in technique, growing more graphically complex over time, and becoming much faster paced.{{sfn|Hague|2000}} Potter's royalties were shrinking over time, eventually reaching 80 cents a game sold. At the same time [[copyright infringement]] was rampant. When he saw that his own brother in law had made unlicensed copies of all his games, he decided to leave the video game market. He turned to the nascent [[IBM PC]] market, but also released a few more Atari games with other labels.{{sfn|Hague|2000}}
+
+Mike Potter called ''Shadow World'' his favorite of the games he wrote.{{sfn|Hague|2000}}
+
+==Reception==
+''[[Antic (magazine)|Antic]]'' commented only on its frenetic pace, noting "After playing this game, you may never complain about rush-hour traffic again."{{sfn|Morgan|1984}} 
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite web |first=James |last=Hague |title=Mike Potter's Story |url=https://dadgum.com/giantlist/archive/potter.html |date=17 January 2000 |website=The Giant List of Classic Game Programmers }}
+* {{cite journal |first=Caitlin |last=Morgan |title=New Products |journal=[[Antic (magazine)|ANTIC]] |date=February 1984 |url=http://www.atarimagazines.com/v2n11/newproducts.html }}
+* {{cite work |first=Mike |last=Potter |title=Shadow World User's Manual |url=http://www.atarimania.com/documents/Shadow%20World%20Manual.pdf |publisher=Synapse Software |date=1983 }}
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Cooperative video games]]
+[[Category:Shoot 'em ups]]
+[[Category:Synapse Software games]]
+[[Category:Video games developed in the United States]]

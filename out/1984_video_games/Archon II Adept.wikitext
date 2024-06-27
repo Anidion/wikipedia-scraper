@@ -1,0 +1,78 @@
+Archon II: Adept
+Permalink: //en.wikipedia.org/w/index.php?title=Archon_II%3A_Adept&oldid=1231140986
+Accessed on: 2024-06-26T16:56:18.052990
+
+
+
+------
+Archon II: Adept
+{{Short description|1984 video game}}
+{{more citations needed|date=August 2012}}
+{{Use mdy dates|date=May 2014}}
+{{Infobox video game
+|title = Archon II: Adept
+|image = Archon 2 cover.jpg
+|developer = [[Free Fall Associates]]
+|publisher = {{vgrelease|NA|[[Electronic Arts]]|EU|[[Ariolasoft]]}}
+|designer = [[Jon Freeman (game designer)|Jon Freeman]] <br> [[Paul Reiche III]] <br> [[Anne Westfall]]
+|series = 
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[ZX Spectrum]]
+|released = 1984
+|genre = [[Turn-based strategy]], [[Action game|action]]
+|modes = [[Single-player]], [[Multiplayer video game|multiplayer]]
+}}
+
+'''''Archon II: Adept''''' is a [[strategy video game|strategy]]/[[Action game|action]] [[video game]] developed by [[Free Fall Associates]]: [[Jon Freeman (game designer)|Jon Freeman]], [[Paul Reiche III]], and [[Anne Westfall]]. It was published in 1984 by [[Electronic Arts]] for the [[Atari 8-bit computers]] and [[Commodore 64]].<ref>{{cite web|url=http://www.ign.com/games/archon-ii-adept/c64-760926|title=Archon II: Adept|work=IGN}}</ref> Ports followed for the [[Apple II]], [[Amstrad CPC]],[[ZX Spectrum]], and [[Amiga]].
+
+''Archon II'' takes place on a game board. When a piece lands on another player's piece, both are moved to a battle arena where they duel to the death. It is the sequel to the 1983 ''[[Archon: The Light and the Dark]]''.
+
+== Gameplay ==
+''Adept'' is a game for two players or one player against the computer. The starting side can be chosen or randomized. The side that goes second receives more magical power. Order plays with yellow pieces and Chaos with blue on a game board with concentric bands of Fire, Air, Water, and Earth, two Void squares, and two decorative citadels. Each player starts with four wizards called "Adepts" that can place other pieces into play.
+
+[[Image:Archonii.gif|thumb|left|Game board (C64)]]
+
+''Adept'' introduces resource management in the form of magical power. Magic is gained by having pieces on power points, and spent as an Adept moves or casts a spell. The summoning spell places a demon (which are common to both players) or elemental (specific to each) piece on the board, where it incurs a per-turn upkeep cost. Adepts can also cast spells that heal, hinder, or remove pieces. Or they can cast Apocalypse, which makes the citadels uproot, transform into luminous Adepts that base their strength on the state of the board, and face each other in a Void arena for the outcome of the game.
+
+Order and Chaos alternate turns. On a turn, a player must move a piece or use an Adept to cast a spell. Summoned pieces may move any number of squares in their elemental band, or one square in any direction. Adepts teleport anywhere. Neither may enter occupied squares, except to attack an opponent's piece by ending the turn on its square. An Adept piece can target spells onto the elemental band it is on. Pieces can be summoned into empty squares or, for a surcharge, directly onto the opponent's summoned piece. The cost of summoning and maintaining a piece varies per type.
+
+There are four power points on the outer edges of one elemental band at a time. After each player has taken their turn, the points move one band inward. Two stationary power points with a lower income rate are on the Void squares. The game is won by having pieces on all six power points at the same time, by destroying all the enemy's pieces, or by winning Apocalypse. Conversely, a player who is unable to move during their turn loses instantly. The computer can concede to a human player, typically when down to a single Adept with no magical power to summon new pieces for several turns. If a player loses their last Adept, "the Masters intervene" triggering Apocalypse.
+
+=== Combat ===
+Pieces in battle are moved to an arena to fight in real time. Pieces can move and attack in eight directions. A chime sounds (higher for Order, lower for Chaos) when their attack has recharged. Attacks that land decrease the target's life bar. Once a life bar is depleted, the piece dies and is removed from the game. The survivor is returned to the board, its injuries persisting. Combat can end in a draw if both pieces die.
+
+In ''Archon'', a piece would either have a melee attack, a projectile, or deal damage in an area around itself. ''Adept'' elaborates on this. Chimeras cycle between three attacks, juggernauts transform to and from their own projectiles, and krakens' projectiles lose strength as they travel. Adepts can switch between moving the piece and guiding its projectile in flight, and gorgons sap speed instead of health. The previous game's area-attacking pieces, phoenix and banshee, are revisited as firebirds, which can abort attacks, and wraiths, which drain health and are invisible save as they attack or reload (or against computer opponents). Sirens must be stationary to sing, and their singing automatically damages their opponents.
+
+In ''Archon'', the battlefield had obstacles that blocked pieces and projectiles. ''Adept'' elaborates on this as well. In battles on Earth squares obstacles act in ''Archon'', in Water they slow, in Air they slow pieces and divert projectiles, and in Fire they admit projectiles but damage pieces. Void arenas are empty.
+
+==Reception==
+''II Computing'' stated that the Apple II version of ''Archon II'' "is even more challenging than its predecessor, and features exciting innovations", and concluded, "It's good to see a sequel to a successful game that is not only as good as the first but extends the boundaries of the game's system."<ref name="shapiro198510_11">{{cite news | url=https://archive.org/stream/II_Computing_Vol_1_No_1_Oct_Nov_85_Premiere#page/n25/mode/2up | title=Of Jewels and Ghouls and Butterflies and Strategies of War | work=II Computing | date=Oct–Nov 1985 | accessdate=28 January 2015 | author=Shapiro, Neil | pages=24–26}}</ref> Reviewing the Amiga version, ''[[Computer Gaming World]]'' recommended both ''Archon'' and ''Adept'' for those interested in challenging strategy games.<ref name="wagner198611">{{cite magazine | title=Amiga Preferences | magazine=[[Computer Gaming World]] | issue=32 | date=November 1986 | url=http://www.cgwmuseum.org/galleries/issues/cgw_32.pdf | accessdate=April 16, 2016 | last=Wagner | first=Roy | pages=38}}</ref>
+
+==See also==
+* ''[[Archon Ultra]]''
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{atarimania|id=5974}}
+* {{lemon64 game|id=327|name=Archon II: Adept}}
+* {{WoS_game|id=0000244}}
+* [http://www.c64sets.com/archon2.html Box, manual and screenshots]
+*[https://archive.org/details/games-58-1984-december/page/54/mode/2up Review] in ''[[GAMES Magazine|GAMES]]'' magazine
+
+{{Portal bar|Video games}}
+
+[[Category:1984 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Ariolasoft games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Digital board games]]
+[[Category:Electronic Arts games]]
+[[Category:Free Fall Associates games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video game sequels]]
+[[Category:ZX Spectrum games]]

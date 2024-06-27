@@ -1,0 +1,70 @@
+Mangia
+Permalink: //en.wikipedia.org/w/index.php?title=Mangia&oldid=1224499248
+Accessed on: 2024-06-26T16:55:21.042030
+
+
+
+------
+Mangia
+{{Infobox video game
+|title = Mangia
+|image = File:Mangia'_1983_Atari_2600_Cover_Art.jpg
+|developer = 
+|publisher = [[Spectravideo|Spectravision]]
+|designer =
+|engine = 
+|released = {{vgrelease|NA|1983<ref>[http://www.gamefaqs.com/atari2600/584872-mangia/data ''Mangia''] at [[GameFAQs]]</ref>}}
+|genre = [[Action video game|Action]]
+|modes = [[Single-player]]
+|platforms = [[Atari 2600]]
+}}
+
+'''''Mangia''''' (also styled '''''Mangia{{'}}''''', with a trailing apostrophe) is a [[video game]] for the [[Atari 2600]] released by [[Spectravideo|Spectravision]] in 1983. The title "Mangia" is an [[Italian language|Italian]] word meaning "eat!".<ref name=mangia /> The North American version is one of the rarest games for the 2600.<ref name="AArarity" />
+
+==Gameplay==
+[[Image:Mangia explosion screenshot.png|thumb|left|Screenshot]]
+
+The player controls a young boy who must eat plates of [[pasta]] placed in front of him by his mother, who will keep feeding him until his stomach explodes on-screen.<ref name="AAmanual" /> To prevent this, the player can throw it to a cat, who occasionally appears at the window, and a dog, who walks across the bottom of the screen. However, if the mother sees the pasta being thrown to the cat or dog, she brings three times as much pasta the next time she returns.<ref name="AAmanual" />
+
+The joystick is used to control the player: pressing right causes the boy to grab a plate of pasta, pressing left causes him to eat it, and pressing up or down causes him to toss the pasta to the cat (named Frankie in the manual) or the dog (named Sergio) respectively. If the cat and dog are not nearby when the food is thrown to them, the mother returns with extra pasta to "punish" the player. The fire button is not used.<ref name="AAmanual" />
+
+If, instead of eating the pasta or throwing it to the animals, the player is idle, the pasta will accumulate on the table until it breaks, causing the player to lose a turn. Attempting to eat all the pasta without giving any to the cat or dog will cause the boy's stomach to swell, changing colors from blue to yellow to red, before finally exploding in a mass of chunky blue pixels.<ref name="AAmanual" />
+
+== References ==
+{{Reflist|refs=
+<ref name="AArarity">{{cite web
+ | url = http://www.atariage.com/software_search.html?SystemID=2600
+ | title = Atari 2600 Rarity Guide
+ | work = [[AtariAge]]
+ | access-date = September 23, 2010
+ | archive-url = https://web.archive.org/web/20080501165134/http://www.atariage.com/software_search.html?SystemID=2600
+ | archive-date = May 1, 2008
+ | url-status = dead
+ }}</ref>
+<ref name="AAmanual">{{cite web
+ | url  = http://www.atariage.com/manual_html_page.html?SoftwareLabelID=283
+ | title = Atari 2600 Manuals: Mangia (Spectravision)
+ | work = [[AtariAge]]
+ | access-date = September 23, 2010 }}
+</ref>
+<ref name=mangia>{{cite web
+ | url  = https://www.duolingo.com/dictionary/Italian/mangiare-verb-infinitive/911386cd06adb9e633b8e339b612e80f
+ | title = Mangiare
+ | work = Duolingo
+ | access-date = July 11, 2017 }}
+</ref>
+}}
+
+==External links==
+*{{atarimania|id=16708}}
+
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:North America-exclusive video games]]
+[[Category:Single-player video games]]
+[[Category:Spectravideo games]]
+[[Category:Video games about children]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]

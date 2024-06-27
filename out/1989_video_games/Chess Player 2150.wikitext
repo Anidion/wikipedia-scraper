@@ -1,0 +1,64 @@
+Chess Player 2150
+Permalink: //en.wikipedia.org/w/index.php?title=Chess_Player_2150&oldid=1224582659
+Accessed on: 2024-06-26T17:05:55.063454
+
+
+
+------
+Chess Player 2150
+{{Short description|1989 video game}}
+{{use dmy dates|date=April 2023}}
+{{Infobox video game
+| title         = Chess Player 2150
+| image         = Chess Player 2150 cover.jpg
+| developer     = Oxford Softworks
+| publisher     = Oxford Softworks
+| producer      = 
+| designer      = Chris Whittington<ref name="tilt"/>
+| programmer    = 
+| artist        = 
+| writer        = 
+| composer      = 
+| engine        = 
+| series        = 
+| platforms     = [[Amiga]], [[Atari ST]], [[MS-DOS]]
+| released      = {{vgrelease|EU|1989<ref>{{cite journal |title=Game diskette (Atari ST) |journal=Chess Player 2150 |url=https://www.mobygames.com/game/24828/chess-player-2150/cover/group-96793/cover-264502/ |publisher=Oxford Softworks |quote=© 1989}}</ref>}}
+| genre         = [[Computer chess]]
+| modes         = [[Single-player]], [[multiplayer]]
+}}
+
+'''''Chess Player 2150''''' is a 1989 [[chess]] video game by [[Oxfordshire]]-based Oxford Softworks released for the [[Amiga]], [[Atari ST]], and [[MS-DOS]].<ref>{{cite web |title=Contact Us |url=http://www.oxfordsoftworks.com/contact.php |website=Oxford Softworks |access-date=4 May 2023 |archive-url=https://web.archive.org/web/20070625202213/http://www.oxfordsoftworks.com/contact.php |archive-date=25 June 2007 |url-status=dead}}</ref> A successor, ''[[Chess Champion 2175]]'', was released in 1990.<ref name="AP">{{cite magazine |last1=Foster |first1=Karl |title=Game Reviews - Chess Champion 2175 |journal=[[Amiga Power]] |date=April 1992 |issue=12 |page=77 |url=https://amr.abime.net/review_501 |publisher=[[Future plc]]}}</ref>
+
+==Gameplay==
+The board can be viewed in 2D or 3D perspective. The game includes a mode where the player's [[Elo rating]] is determined after solving 24 chess puzzles.<ref name="ASTU"/><ref name="tilt"/> The DOS version features [[Color Graphics Adapter|CGA]] and [[Enhanced Graphics Adapter|EGA]] graphics.<ref name="TGM"/>
+
+==Reception==
+{{Video game reviews
+| ASM = 46/50 (Amiga)<ref name="ASM">{{cite magazine |last1=U.W. |title=Denk(-)mal! - Strategie-, Denk- & Simulationsspiele - Da mußte sogar Sargon passen! |journal=[[Aktueller Software Markt]] |date=May 1990 |issue=5/90 |page=91 |url=https://retrocdn.net/images/d/da/ASM_DE_1990-05.pdf |publisher=Tronic-Verlag |language=German |quote=PC/Amiga: Grafik 7/8, Handhabung: 9/9, Technik/Strategie: 10/10, Spielwert: 10/10, Preis/Leistung: 9/9}}</ref><br>45/50 (DOS)<ref name="ASM"/>
+| TGMIt = 82% (Amiga)<ref name="TGM">{{cite magazine |title=Review - Chess Player 2150 |journal=[[The Games Machine (Italy)|The Games Machine]] |date=May 1990 |issue=20 |page=76 |url=https://archive.org/details/the-games-machine-italia-20/page/n75/mode/2up |publisher=Edizioni Hobby s.r.l. |language=Italian}}</ref><br>80% (DOS)<ref name="TGM"/>
+| TILT = 19/20 (ST)<ref name="tilt">{{cite magazine |last1=Harbonn |first1=Jacques |title=Hits - Chess Player 2150 |journal=[[Tilt (French magazine)|Tilt]] |date=December 1989 |issue=73 |pages=60–62 |url=https://archive.org/details/Tilt073/page/n59/mode/2up |publisher=Editions Mondiales S.A. |language=French}}</ref>
+| rev1 = ''Amiga Joker''
+| rev1Score = 63%<ref name="AJ">{{cite magazine |last1=Hiersekorn |first1=Werner |title=Test - Chess Player 2150 |journal=Amiga Joker |date=February 1990 |issue=2/90 |page=24 |url=https://archive.org/details/Amiga_Joker_1990-02_Joker_Verlag_DE/page/n23/mode/2up |publisher=Joker-Verlag |language=German}}</ref>
+| rev2 = ''[[Atari ST User]]''
+| rev2Score = 9/10<ref name="ASTU">{{cite magazine |last1=Scott |first1=Alastair |title=Software - Grade A gambit |journal=[[Atari ST User]] |date=February 1990 |volume=4 |issue=12 |pages=28–29 |url=http://www.atarimania.com/atari-magazine-issue-atari-st-user-vol-4-no-12_1137.html |publisher=[[Europress|Database Publications Ltd.]]}}</ref>
+}}
+''[[Aktueller Software Markt]]'' pitted the game against ''[[Sargon III]]'' and found that ''Chess Player'' won four out of six games. In conclusion, the game was "absolutely recommended for chess fans".<ref name="ASM"/> ''Amiga Joker'' said that in terms of playing strength, ''Chess Player'' is stronger than ''[[Chessmaster 2000]]'' and ''[[Colossus Chess X]]'', and equal to ''[[Chessmaster 2100]]''.<ref name="AJ"/> The Italian [[The Games Machine (Italy)|Games Machine]] called it a very powerful program worthy of consideration, with the one flaw of not being very fast.<ref name="TGM"/> ''{{interlanguage link|Svenska Hemdatornytt|sv}}'' gave a negative review for the Amiga version and said the program is not as strong as advertised.<ref name="SH">{{cite magazine |last1=Nordström |first1=Ari |title=Arkad Revyn - Chess Player 2150 |journal=Svenska Hemdatornytt |date=March 1990 |volume=5 |issue=2 |page=16 |url=https://archive.org/details/SvenskaHemdator1990-02/page/n15/mode/2up |publisher=Selda Media AB |language=Swedish}}</ref> ''[[Atari ST User]]'' said that "The program seems to be able to calculate much deeper in the time given than its rivals." The 3D view was said to be better than in ''Chessmaster 2000'' or ''Colossus Chess X''.<ref name="ASTU"/> ''[[Tilt (French magazine)|Tilt]]'' pitted the game against ''Chessmaster 2000'', ''Chessmaster 2100'', and ''Colossus Chess X''. ''Chess Player 2150'' was the strongest of the four.<ref name="tilt"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/24828/chess-player-2150}}
+*{{abime|id=3004}}
+*{{atarimania|id=8911}}
+*{{Internet Archive game|msdos_Chess_Player_2150_1990|Chess Player 2150}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Chess software]]
+[[Category:DOS games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Oxford Softworks games]]

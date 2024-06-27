@@ -1,0 +1,65 @@
+Squish 'em
+Permalink: //en.wikipedia.org/w/index.php?title=Squish_%27em&oldid=1224490345
+Accessed on: 2024-06-26T16:55:55.618240
+
+
+
+------
+Squish 'em
+{{Short description|1983 video game}}
+{{Infobox video game
+|title = Squish 'em
+|image=Squish-Em-Colecovision.jpg
+|caption= ColecoVision cover art
+|developer = Interphase
+|publisher = [[Sirius Software]]<br>Interphase (ColecoVision)
+|designer = Tony Ngo<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+|programmer = MSX: Uriah Barnett<ref name=giantlist/>
+|engine =
+|released = {{vgrelease|EU|1983}}
+|genre =
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]], [[VIC-20]], [[MSX]]
+}}
+
+'''''Squish'em''''', also known as '''''Squish'em Sam''''', is a 1983  [[action game]] designed by Tony Ngo and published by [[Sirius Software]]<ref name="giantlist"/> for the [[Atari 8-bit computers]], [[VIC-20]], [[Commodore 64]], [[MSX]], and [[ColecoVision]]. The ColecoVision version plays digitised speech without additional hardware and was published as '''''Squish'em Featuring Sam'''''. The game is the sequel to ''Sewer Sam''.<ref name="squishalias"/>
+
+==Gameplay==
+The player controls Sam in an attempt to climb a series of vertically scrolling, uncompleted, 48 storey buildings.<ref name="ref4"/> Each time Sam reaches the top of a building he grabs a suitcase full of money and parachutes to the start of the next building. Each building is represented by a grid of girders connected vertically and horizontally in different patterns; sometimes there is only a single way up to the next storey of the building. The style of buildings does not change, but the grid layout and colors change as Sam progresses through the game. Sam moves by shimmying horizontally across the grid and climbing upwards; once he has moved up a storey he cannot climb back down.<ref name="ref5"/><ref name="ref6"/>
+
+[[File:squishemC64screenshot.png|thumb|left|alt=Commodore 64 screenshot|Commodore 64 screenshot]]
+
+The buildings are patrolled by dangerous enemies which move horizontally across the grid. Debris is dropped from above which Sam must avoid. Making contact with an enemy without jumping on them or being hit by falling debris results in Sam being knocked from the building and losing a life. The player starts the game with four lives; extra lives can be collected during play and up to 128 can be held by the player. Enemies can be 'squished' by being jumped on, they can also be jumped over or avoided by ascending to the next storey. Once an enemy has been squished it is rendered harmless for a short period, before turning white and becoming invulnerable. Once an enemy has turned white it must be avoided or jumped over; jumping over enemies is more difficult than landing on and squishing them. As play progresses enemies become taller and faster, making them harder to squish or avoid. The falling debris prevents players from climbing too many storeys at once, so enemies must be avoided skillfully in order to prevent Sam being cornered by a now invulnerable enemy which is too tall to be easily jumped over.<ref name="ref5"/><ref name="ref6"/>
+
+In the Colecovision version of the game digitised speech is employed when Sam performs certain actions, for instance he exclaims "squish 'em" after successfully attacking an enemy and "money, money, money" after collecting the suitcase at the top of each building. It is one of the few Colecovision games to contain speech.<ref name="ref5"/><ref name="ref6"/>
+
+==Reception==
+Craig Holyoak of ''[[Deseret News]]'' rated the ColecoVision version 3 out of 5, praising the game's voice effects but criticizing it for being unoriginal, despite the boundaries of technology being pushed. He stated that the game contains "plenty of cute", enabling it to appeal to all ages and both genders. He also stated that "there is little new here that will keep an experienced gamer long at the screen." Holyoak played the game intensely for a number of days, but lost interest after mastering the ability to squish the more dangerous enemies. He finished by stating, "if you are less jaded and are looking for a climbing game with a new twist, ''Squish 'em ''may well be it."<ref name="ref4"/>
+
+In a "B−" review of the Commodore 64 version, ''Video Games Player'' wrote, "Once you really learn to slide and squish, it feels like dancing. But don't expect this game to keep you occupied over the long winter."<ref>{{cite journal |title=Computer Game Buyer's Guide |journal=Video Games Player |date=November 1983 |volume=2 |issue=2 |url=https://archive.org/details/Video_Games_Player_Vol_2_No_2_1983-11_Carnegie_Publications_US/page/n61/mode/2up |publisher=Carnegie Publications}}</ref>
+
+==Legacy==
+An unofficial clone, even using the same name, was released for the [[Atari 2600]] in 2007.<ref name="ref3" />
+
+==References==
+{{Reflist|refs=
+<ref name="squishalias">The cover of Atari version shows "Squish'em" as game's title (see http://www.atarimania.com/game-atari-400-800-xl-xe-squish-em_4967.html), while Colecovision's one says "Squish'em Featuring Sam" (see http://spong.com/asset/187212/3/11016877/entity)</ref>
+<ref name="ref3">https://www.atariage.com/software_page.php?SoftwareLabelID=2777</ref>
+<ref name="ref4">{{cite journal | last = Holyoak| first = Craig | title = A Game to Spur Shrieking, Sneaking and Talking Back| journal = [[Deseret News]]| pages = 75| publisher = [[Deseret News Publishing Company]]| date = June 13, 1984 }}</ref>
+<ref name="ref5">{{cite web| url = http://www.allgame.com/game.php?id=23326 | title= Overview - Squish'em Featuring Sam | author = Weiss, Brett| publisher = [[allgame]]| access-date = 2011-10-15}}</ref>
+<ref name="ref6">{{cite web|url = http://www.allgame.com/game.php?id=23326&tab=review | title= Review - Squish'em Featuring Sam | author = Weiss, Brett| publisher = [[allgame]]| access-date = 2011-10-15}}</ref>
+}}
+
+==External links==
+*{{Lemon64 game|id=2443}}
+*{{atarimania|id=4967}}
+
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:MSX games]]
+[[Category:ColecoVision games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:Sirius Software games]]
+[[Category:Video games developed in the United States]]

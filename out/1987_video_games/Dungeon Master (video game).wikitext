@@ -1,0 +1,223 @@
+Dungeon Master (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dungeon_Master_%28video_game%29&oldid=1224484817
+Accessed on: 2024-06-26T17:01:59.867014
+
+
+
+------
+Dungeon Master (video game)
+{{About|the late 1980s video game|other unrelated games of similar name|Dungeon Master (disambiguation)#Gaming}}
+{{more citations needed|date=February 2016}}
+{{Infobox video game
+| title      = Dungeon Master
+| image      = Dungeon Master Box Art.jpg
+| caption    = Cover art by David R. Darrow
+| developer  = [[FTL Games]]<br />[[JVCKenwood Victor Entertainment#Video games|Victor Musical Industries]] <small>(X68000)</small><ref name="x68000">{{Cite web|url=https://gamefaqs.gamespot.com/x68000/991678-dungeon-master/data|title=Dungeon Master Release Information for Sharp X68000 - GameFAQs|website=gamefaqs.gamespot.com}}</ref>
+| publisher  = FTL Games<br />Victor Musical Industries <small>(X68000)</small><ref name="x68000"/>
+| director   = [[Doug Bell (game designer)|Doug Bell]]
+| producer   = Wayne Holder
+| designer   = Doug Bell
+| programmer = {{ubl|Doug Bell|Dennis Walker|Mike Newton}}
+| artist     = Andrew Jaros
+| composer   = Wayne Holder<ref name="making">{{cite web |url=http://www.meanmachinesmag.co.uk/upload/media/scans/retrogamer_dungeonmaster.pdf |title=The Making of Dungeon Master|last=McFerran|first=Damien|work=Issue 34 |year=2006 |publisher=[[Retro Gamer]] Magazine |pages=30–31|access-date=2011-01-19}}</ref>
+| released   = {{vgrelease|NA|December 15, [[1987 in video gaming|1987]]<ref name="maher20151211"/>|EU|[[1988 in video gaming|1988]]|JP|[[1990 in video gaming|1990]]<ref name="x68000"/>}}
+| genre      = [[Role-playing video game|Role-playing]], [[dungeon crawl]]
+| modes      = [[Single player]]
+| platforms  = [[Atari ST]], [[Amiga]], [[Apple IIGS|Apple II<small>GS</small>]],<ref>{{cite web|archive-url=https://web.archive.org/web/20001205013200/http://freespace.virgin.net/daniel.durgan/vault/interview.htm |date=October 1998 |archive-date=2000-12-05 |title=Interview with the Apple Dungeon Master programmer Don Jordan|publisher=The Un-Official Dungeon Master Web Site|url=http://freespace.virgin.net/daniel.durgan/vault/interview.htm|author=Daniel Durgan}}</ref> [[MS-DOS]] ([[x86]]), [[Super Nintendo Entertainment System|SNES]], [[TurboGrafx-CD]], [[X68000]], [[PC-9801]], [[FM Towns]]
+}}
+
+'''''Dungeon Master''''' is a [[role-playing video game]] featuring a [[2.5D|pseudo-3D]] [[First-person (video games)|first-person perspective]]. It was developed and published by [[FTL Games]] for the [[Atari ST]] in 1987,<ref name=gamasutra>{{cite web
+ |first=Matt 
+ |last=Barton 
+ |date=2007-02-23 
+ |work=The History of Computer Role-Playing Games 
+ |title=Part 2: The Golden Age (1985–1993) 
+ |url=http://www.gamasutra.com/features/20070223b/barton_06.shtml 
+ |publisher=[[Gamasutra]] 
+ |access-date=2009-03-26 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20090330222054/http://www.gamasutra.com/features/20070223b/barton_06.shtml 
+ |archive-date=2009-03-30 
+}}</ref> almost identical [[Amiga]] and [[MS-DOS|PC (DOS)]] ports following in 1988 and 1992.
+
+''Dungeon Master'' sold 40,000 copies in its year of release alone,<ref name="Dragon #200">{{cite magazine
+  | last = Petersen
+  | first = Sandy
+  | title = Eye of the Monitor
+  | magazine = [[Dragon (magazine)|Dragon]]
+  | issue = 200
+  | pages = 73
+  | publisher = TSR, Inc.
+  | location = [[Lake Geneva, Wisconsin]]
+  | date = December 1993
+  | url = https://archive.org/details/DragonMagazine260_201801/DragonMagazine200/page/n74/mode/1up?view=theater
+  }}</ref> and went on to become the ST's best-selling game of all time. The game became the prototype for the genre of the 3D [[dungeon crawl]]ers with notable [[Video game clone|clones]] like ''[[Eye of the Beholder (video game)|Eye of the Beholder]]''.<ref name="owens199106">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=83 | title=Beauty is in the Eye of the Beholder | magazine=Computer Gaming World | date=June 1991 | access-date=17 November 2013 | last=Owens |first=Dennis | page=14 |quote=''This personalized combat perspective undoubtedly earned much of the praise for FTL's CGW Hall of Fame member, Dungeon Master. In a very real sense, Eye of the Beholder (SSI's first entry in the "Legend Series," a new line of AD&D computer role-playing games) is Dungeon Master meets veteran storyteller George MacDonald.''}}</ref>
+
+== Gameplay ==
+[[File:Dungeon_Master_Gameplay_Screenshot.png|thumb|left|Fighting a group of screamers (Atari ST)]]
+In contrast to the traditional [[turn-based game|turn-based]] approach that was, in 1987, most common, ''Dungeon Master'' added real-time combat elements (akin to [[Active Time Battle]]).<ref>{{cite book |first=Matt |last=Barton |url=https://books.google.com/books?id=qPPRBQAAQBAJ&pg=PA236 |title=Dungeons and Desktops: The History of Computer Role-Playing Games |page=236 |publisher=A. K. Peters, Ltd. |isbn=978-1-4398-6524-8|date=December 2008}}</ref> Other factors in immersion were the use of sound effects to indicate when a creature was nearby, and (primitive) dynamic lighting. Abstract ''[[Dungeons & Dragons|Dungeons and Dragons]]'' style experience points and levels were eschewed in favor of a system where the characters' skills were improved directly via using them. ''Dungeon Master'' was not the first game to introduce these features. ''[[Dungeons of Daggorath]]'' for the [[TRS-80 Color Computer]] first employed them in 1982. ''Dungeon Master'' was, however, responsible for popularizing these elements. Other features of ''Dungeon Master'' included allowing players to directly manipulate objects and the environment by clicking the mouse in the enlarged first-person view.<ref name="milestone"/> It also introduced some novel control methods including the spell casting system, which involved learning sequences of runes which represented the form and function of a spell's effect. For example, a fireball spell was created by mixing the fire symbol with the wing symbol.
+
+While many previous games such as ''[[Alternate Reality (series)|Alternate Reality: The Dungeon]]'', ''[[The Bard's Tale (1985 video game)|The Bard's Tale]]'', ''[[Ultima (series)|Ultima]],'' and ''[[Wizardry]]'' offered ''[[Dungeons & Dragons]]''-style role-playing, ''Dungeon Master'' established several new standards for [[role-playing video game]]s and first-person video games in general,<ref name="milestone">{{cite web|url=http://gameapparent.com/wp-content/uploads/2007/10/Narrative_in%20Immersive-Video_Games.pdf|title=Exploring the Virtual Frontier: The Evolution of Narrative Form in Immersive Video Games|last=Stahl|first=Edwin Robert|year=2002|publisher=[[St Louis University]]|pages=44–45|access-date=2008-06-19|quote=''It was the most advanced RPG experience available and a true immersive milestone. [...] What made Dungeon Master so important [...] was its combination of a first-person 3D engine, point-and-click interface, and enveloping sound.''|url-status=dead|archive-url=https://web.archive.org/web/20080626030309/http://gameapparent.com/wp-content/uploads/2007/10/Narrative_in%20Immersive-Video_Games.pdf|archive-date=2008-06-26}}</ref> such as the [[paper doll (gaming)|paper doll]] interface.
+
+As Theron, the player cannot progress past the first section of the game until they have selected at least one and up to four champions from a small dungeon containing 24 mirrors, each containing a frozen champion. The frozen champions are based upon a variety of fantasy archetypes to allow diversity within the player's party.<ref>{{cite web |title=Dungeon Master Champions |url=http://dmweb.free.fr/?q=node/199 |website=Dungeon Master Encyclopaedia |access-date=23 June 2018}}</ref>
+
+== Plot ==
+Many champions have been sent into the dungeon with the quest to recover Librasulus' (the Grey Lord) firestaff. With the firestaff, Librasulus can take physical form again and defeat Lord Chaos. The player is Theron, the apprentice of the Grey Lord, that goes into the dungeon with the task to resurrect four champions, and guide them through the dungeon, to find the firestaff and defeat Lord Chaos.
+
+If the player finds the firestaff and uses it to defeat Lord Chaos, this will be the real ending of the game. But there is also an alternative ending if the player finds the firestaff and then leaves the dungeon without destroying Lord Chaos.
+
+== Development ==
+Originally, Dungeon Master was started with the name ''Crystal Dragon'' coded in [[Pascal (programming language)|Pascal]], and targeted the Apple II platform. Doug Bell and Andy Jaros (Artwork) began development in their development studio ''PVC Dragon'', before they joined in 1983 ''FTL Games''.<ref name=making/> It was finished there in [[C programming language]] and published in 1987 for the [[Atari ST]] first. A slightly updated [[Amiga]] version ported by Phil Mercurio was released the following year, which was the first video game to use [[3D audio effect|3D sound effects]].
+
+''Dungeon Master'' was [[porting|ported]] later to many platforms like [[IBM PC compatible|PC]], [[Apple IIGS]], [[TurboGrafx-CD]], [[Super Nintendo Entertainment System|SNES]], [[Sharp X68000]], [[PC-9801]] and [[FM Towns]]. The game was also [[translation|translated]] from [[English language|English]] into [[German language|German]], [[French language|French]], [[Japanese language|Japanese]], [[Chinese language|Chinese]] and [[Korean language|Korean]].
+
+According to "The Definitive CDTV Retrospective: Part II" <ref>{{cite web|url=http://ninjaw.ifrance.com/cd32/_docs/cdtv%20retrospective%20ii.htm |archive-url=https://web.archive.org/web/20060318110950/http://ninjaw.ifrance.com/cd32/_docs/cdtv%20retrospective%20ii.htm |url-status=dead |archive-date=2006-03-18 |title= The Definitive CDTV Retrospective: Part II |author=Peter Olafson|access-date=2008-07-16 }}</ref> by Peter Olafson, Dungeon Master was ported to the Amiga CDTV but this version was never completed because FTL could not obtain reliable information from Commodore about saving games to memory cards.
+Dungeon Master was also ported to Macintosh but never released.
+There exists a prototype for the [[Atari Lynx]] under the name ''Dungeon Slayers''.<ref>{{cite web|url=https://atariage.com/software_page.php?SoftwareLabelID=1979|title=Dungeon Slayers|website=[[AtariAge]]|access-date=2019-04-21}}</ref><ref>{{cite web|last=Dodgson|first=Harry|url=http://atariage.com/forums/topic/191065-dungeonmaster-aka-dungeon-slayers-for-the-lynx/#entry2429654|title=DungeonMaster (aka "Dungeon Slayers") for the Lynx?|website=[[AtariAge]]|date=December 22, 2011|access-date=2019-04-21|archive-url=https://web.archive.org/web/20140820024632/http://atariage.com/forums/topic/191065-dungeonmaster-aka-dungeon-slayers-for-the-lynx/#entry2429654|archive-date=2014-08-20|url-status=live}}</ref>
+
+The packaging cover art was designed and illustrated by David R. Darrow,<ref>[http://dmweb.free.fr/?q=node/247#toc36 DM Original Artwork] - Dungeon Master Encyclopedia</ref> for which Andy Jaros posed as the leftmost character pulling on the torch. The woman in the scene was Darrow's wife, Andrea, and the muscular man in the background is unknown, but hired by Darrow from a local fitness club.<ref>[http://spelpappan.se/2013/09/this-is-how-the-cover-art-of-dungeon-master-1987-was-made/ This is how the cover art of Dungeon Master (1987) was made] - Spelpappan.se (2013)</ref> The painting itself is 25 to 30 inches high and doesn’t contain the word "Master". Darrow’s painting portrays a scene from the prologue in the manual for ''Dungeon Master''. It shows the three (or four) main characters' last few minutes alive, and is a portrayal of the player’s challenge to defeat the antagonist, Lord Chaos. The heroes in the painting are Halk the Barbarian, Syra Child of Nature, Alex Ander – and Nabi the Prophet who’s been reduced to a bunch of skulls.
+
+A soundtrack album, titled ''Dungeon Master: The Album'', was released later. This album featured music composed by Darrell Harvey, Rex Baca, and Kip Martin.<ref>{{Cite web|url=http://www.ibiblio.org/GameBytes/issue18/misc/dmaster.html|title=DUNGEON MASTER: THE ALBUM from FTL. Review of the Dungeon Master Album in Game Bytes issue 18|website=www.ibiblio.org}}</ref> The original ST version and its faithful Amiga and PC ports contain no music. The album features music composed for the [[FM Towns]] game, as well as FM Towns version of ''[[Chaos Strikes Back]]'', and some original tracks that were inspired by the games.<ref>{{Cite web|url=http://dmweb.free.fr/?q=node/639|title=Audio CD - Dungeon Master The Album &#124; Dungeon Master Encyclopaedia|website=dmweb.free.fr}}</ref>
+
+==Reception==
+''Dungeon Master'' debuted on 15 December 1987 on the Atari ST, and by early 1988 was a strong seller, becoming the best-selling game for the computer of all time; Bell estimated that at one point more than half of all Atari ST owners had purchased the game. Because of FTL's sophisticated [[copy protection]], many who otherwise pirated their software had to purchase ''Dungeon Master'' to play the game. The Amiga version was the first prominent game to require 1 MB of RAM, likely causing many to purchase additional memory; at least one manufacturer of Amiga memory bundled ''Dungeon Master'' with its memory-expansion kit. As with ''Wizardry'', many others offered for sale [[strategy guide]]s, [[game trainer]]s, and [[map editor]]s, competing with FTL's own hint book.<ref name="maher20151211">{{cite web | url=http://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/ | title=Dungeon Master, Part 1: The Making of | work=The Digital Antiquarian | date=2015-12-11 | access-date=11 December 2015 | author=Maher, Jimmy}}</ref>
+
+Hosea Battles Jr. of ''[[Computer Gaming World]]'' in 1988 praised the attention to detail in the dungeons' graphics, allowing players to "practically feel the damp chill of the dungeons portrayed", as well as those of the monsters, including the multiple facial expressions on the ogres. He said the control system works "extremely well" and "one's adrenaline really flows because the game is in real-time." Battles also praised the extensive use of sound effects, uncommon to RPGs. He complained that the manual does not describe monsters or their attributes, of a "frustrating" shortage of food and water replenishments and that the lack of a map makes the game "extremely difficult". Battles called the game "fantastic" and said "It is a welcome addition to any fantasy player's library. Those who want a good fantasy/role-playing game will love this one."<ref name="CGW review">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=46 | title=In The Eye of a Beholder! | magazine=Computer Gaming World | date=April 1988 | access-date=25 March 2016 | author=Battles, Hosea Jr. | pages=18–19}}</ref> [[Scorpia (journalist)|Scorpia]] stated in the magazine in 1992 that the newly released IBM PC version's graphics "are surprisingly good, all things considered" despite the game's age, but wrote that "No endgame has ever given me so much trouble or frustration". Although she believed that the game "is still eminently worth playing, even years later[, and] still has something to offer the seasoned adventurer", because of the endgame Scorpia "can't give it a blanket recommendation".<ref name="scorpia199211">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Dungeon Master | magazine=Computer Gaming World | date=November 1992 | access-date=4 July 2014 | author=Scorpia | pages=94–96}}</ref> In 1993 she stated that "the game still holds up well after seven years, even graphically, and is worth playing today", but because of the ending was "not for the easily-frustrated".<ref name="scorpia199310">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=111 | title=Scorpia's Magic Scroll Of Games | magazine=Computer Gaming World | date=October 1993 | access-date=25 March 2016 | author=Scorpia | pages=34–50}}</ref>
+
+''[[Computer and Video Games]]'' in 1988 called the story a "cliché" but praised the graphics, sound and controls. The reviewer said ''Dungeon Master'' is an example of a title which "changes the way we think about games" and a "must for all roleplayers".<ref name="CVG review">April 1988, ''[[Computer and Video Games]]'' (issue 78), p. 92</ref> ''[[Antic (magazine)|Antic]]'' called the game as "revolutionary" as ''[[Zork]]'' and ''[[History of Microsoft Flight Simulator#sublogicfs2|Flight Simulator II]]'', citing "spectacular" graphics and stating that the game was "almost worth buying for the sound-effects alone". Despite the "commonplace" story "where once again, an Evil Wizard has taken over control of the world", the magazine advised readers to "buy this game".<ref name="bernstein198805">{{Cite magazine |last=Bernstein |first=Harvey |date=May 1988 |title=New ST Entertainments / From dungeons to outer space |url=http://www.atarimagazines.com/v7n1/newstentertainment.html |magazine=Antic |volume=7 |issue=1}}</ref> ''[[ACE (games magazine)|Advanced Computing Entertainment]]'' said the graphics are "largely repetitive" but "wonderfully drawn" and wrote the "Sound is sparse but the effects are great." The reviewer called it a "thrilling game with plenty in it to keep you searching, fighting and pondering for a long time." He summarised the game as a "huge, immensely playable and very atmospheric mixture of role-playing and adventure. If you've been looking for a real-time role-playing game that manages to keep you interested for long periods of time, then your prayers have been answered."<ref name="ACE ST review">{{cite magazine |url=https://archive.org/details/ace-magazine-08/page/n53/mode/1up |last=Smith |first=Andy |title=Dungeon Master |date=May 1988 |magazine=[[ACE (games magazine)|Advanced Computing Entertainment]] |issue=8 |pages=54–55}}</ref> ''[[The Games Machine]]'' wrote: "the innovative character selection system and icon display are both neatly implemented and quick to use", praised the "superb" atmosphere - enhanced by the spare but apt sound effects - and called the game universe "believable because of its details". The magazine praised the color and clarity of the monster graphics and the shading of the surroundings. It called the story and setting a "wholly engrossing scenario [which] creates a complete world which can be manipulated at will: its depth fully reflects the two years it took to program it. The presentation - an interesting and evocative novella neither too involved to prove turbid not too short to be unhelpful - is superb." The reviewer summarised: "Dungeon Master is a role-player's dream, but capable of providing a good deal of enjoyment for any ST owner."<ref name = "games machine">{{Cite magazine | date = April 1988 | magazine = [[The Games Machine]] | title = Men Down Under | url=https://archive.org/details/thegamesmachine-05/page/n63/mode/1up | issue=5 | pages = 64–65}}</ref> ''[[STart]]'' told readers to "be prepared to shed every preconception you ever had about computer games. This is Dungeon Master". Noting the strong sales, the reviewer called it "a true video game phenomenon" and reported that "not talking to my boyfriend for a week because he lost our master spell list was certainly not an overreaction".<ref name="brumbaugh1988summer">{{Cite magazine |last=Brumbaugh |first=Heidi |date=Summer 1988 |title=The Dungeon Master Experience |url=http://www.atarimagazines.com/startv3n2/intothedungeon.html |magazine=STart |volume=3 |issue=2 #13}}</ref>
+
+Kati Hamza of ''[[Zzap!64]]'' said of the Amiga version: "The first-person perspective ensures an incredibly realistic atmosphere - you just can't help really getting into the feeling of walking through damp echoing caverns looking for ghosts." The reviewer also said: "The puzzles are incredibly devious, the spell system is really flexible and the need to practise magic and spells gives the whole thing that extra-special depth." The reviewer asserted: "This has to be the most amazing game of all-time, anywhere, ever". In the same issue Gordon Houghton said: "This is just about the most incredible game I've ever seen. When you pick it up you find you lose whole days of your life." He said: "The best time to play it is late at night in a room by yourself - it's guaranteed to scare the life out of you. It's like ''[[Gauntlet (1985 video game)|Gauntlet]]'' in 3D, but about a hundred times better. If you enjoy arcade adventures, RPGs or combat games, but it: it's the perfect combination of all three." Reviewer Maff Evans professed to be little enthused by RPGs generally but said "I know a brilliant game when I see one and this is a brilliant game." He praised the scares delivered by ambushing monsters and said "you'd have to be deaf, dumb and blind not to be affected by the atmosphere". The magazine complained that saving games is "a bit laboured" but praised the "extremely detailed and accessible" controls, "interactive, detailed and extremely atmospheric" scenery and said the clarity of the graphics made the game an unusually accessible RPG. It summarized: "you'll be playing for months" and said ''Dungeon Master'' was "The best game we've ever seen".<ref name="zzap">{{cite magazine
+|title=Dungeon Master
+|last1=Hamza |first1=Kati 
+|last2=Evans |first2=Maff 
+|last3=Houghton |first3=Gordon |magazine=[[Zzap!64]]
+|url=https://archive.org/details/ZZap64Issue0481989Apr/page/n59/mode/1up
+|issue=48
+|date=April 1989
+|pages=60–62}}</ref>
+
+Also reviewing the Amiga version, Graham Kinsey of ''[[Amazing Computing]]'' wrote that ''Dungeon Master'' "completely blows away any other RPG on the Amiga market today, and may do for some time".<ref name="amazing computing">{{Cite magazine | first = Graham | last = Kinsey | date = July 1989 | magazine = [[Amazing Computing]] | title = Dungeon Master | volume = 4 | issue = 7 | pages = 47–49 | url = https://archive.org/details/amazing-computing-magazine-1989-07/page/n48/mode/1up}}</ref> Dave Eriksson of ''[[Amiga Computing]]'' praised the "brilliant" graphics, sound effects and replay-value and said "''Dungeon Master'' is the most stunning role-playing game I have seen on the Amiga".<ref name="amiga computing">{{cite magazine
+|title=Into the famous dungeon
+|url=https://archive.org/details/amiga-computing-issue-13-june-1989-volume-2-number-1/Amiga%20Computing%20Issue%2011%20April%201989%20%28Volume%201%20Number%2011%29/page/n13/mode/1up
+|last=Eriksson
+|first=Dave
+|journal=[[Amiga Computing]]
+|volume=1
+|issue=11
+|date=April 1989
+|pages=14–18}}</ref> ''[[Antic's Amiga Plus]]'' felt the game "captures the essence of Dungeons & Dragons role-playing games". The reviewer praised the "dazzling" graphics, called the user-friendly controls "a real joy" and said the game was the "best graphics adventure for the Amiga to date."<ref name="antic's">{{cite magazine
+|title=Dungeon Master
+|last=Rimpilainen
+|first=Aki
+|url=https://archive.org/details/Antics_AMIGA_Plus_Volume_1_Number_3_1989-08_Antic_Publishing_US/page/n51/mode/1up
+|magazine=[[Antic's Amiga Plus]]
+|volume=1
+|issue=3
+|date=August–September 1989
+|page=52-53}}</ref> ''[[Your Amiga]]'' called the sound "extremely well done" and said the "most striking feature of the game is the attention to detail". The reviewer called the game "amazing" and recommended: "If you never buy another game, by [sic] this one."<ref name="your amiga">{{cite magazine
+|title=Review: Dungeon Master
+|last=Webb 
+|first=Allen
+|magazine=[[Your Amiga]]
+|date=June 1989
+|pages=44–45}}</ref>
+
+Andy Smith of ''Advanced Computing Entertainment'' several months after its release called ''Dungeon Master'' "one of the all time classics" and said "What makes ''Dungeon Master'' really special (apart from the marvellous 3D graphics and eerie sound effects) are the puzzles".<ref name="ACE2">{{cite magazine
+|title=Dungeon Master: Update Special
+|url=https://archive.org/details/ace-magazine-19/page/n84/mode/1up
+|last=Smith |first=Andy
+|magazine=[[ACE (games magazine)|Advanced Computing Entertainment]]
+|issue=19
+|date=April 1989
+|page=85}}</ref> The game was reviewed in 1988 in ''[[Dragon (magazine)|Dragon]]'' #136 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 4½ out of 5 stars.<ref name="Dragon136">{{cite magazine
+|title=The Role of Computers
+|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk
+|magazine=Dragon
+|issue=136
+|date=August 1988
+|url=https://archive.org/details/DragonMagazine260_201801/DragonMagazine136/page/n77/mode/1up
+|pages=76–81}}</ref> The Lessers reviewed the PC/MS-DOS version in 1993 in ''Dragon'' #195, giving this version 5 stars.<ref name="Dragon195">{{cite magazine
+|title=The Role of Computers
+|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk
+|magazine=Dragon
+|issue=195
+|date=July 1993
+|url=https://archive.org/details/DragonMagazine260_201801/DragonMagazine195/page/n58/mode/1up
+|pages=57–64}}</ref> In 1997, ten years after release, ''Dungeon Master'' got again a 5 out of 5 stars score in a review.<ref>{{cite web|author=Rosemary Young|date=1997-01-01|title=Dungeon Master dust off after 10 years 5/5 Stars rating |archive-date=2007-04-11 |archive-url=https://web.archive.org/web/20070411120038/http://www.quandaryland.com/jsp/dispArticle.jsp?index=166 |url=http://www.quandaryland.com/jsp/dispArticle.jsp?index=166 |access-date=2011-01-05}}</ref>
+
+=== Awards ===<!-- This section is linked from [[FTL Games]] -->
+''Dungeon Master'' received the ''Special Award for Artistic Achievement'' from ''Computer Gaming World'' in 1988.<ref name = "CGWaward">{{Cite magazine | date = October 1988 | magazine = [[Computer Gaming World]] | title = Announcing Computer Gaming World's 1988 Game of the Year Awards | issue=52 | pages = 54 | url=https://archive.org/details/Computer_Gaming_World_Issue_52/page/n53/mode/1up }}</ref><ref name = "CGWaward2">{{Cite magazine | date = November 1988 | magazine = [[Computer Gaming World]] | title = Game of the Year Awards | issue=53 | pages = 21, 35 | url=https://archive.org/details/Computer_Gaming_World_Issue_53/page/n20/mode/1up}}</ref> It achieved the top place in the magazine's game rankings system,<ref name = "CGWrankings">{{Cite magazine | date = October 1989 | magazine = [[Computer Gaming World]] | title = Computer Gaming World's Top 100 Games | issue=64 | pages = 36–37 | url=https://archive.org/details/Computer_Gaming_World_Issue_64/page/n35/mode/1up}}</ref> and was entered into its hall of fame in November 1989.<ref name = "CGWhalloffame">{{Cite magazine | date = November 1989 | magazine = [[Computer Gaming World]] | title = Computer Gaming World's Top 100 Games | issue=65 | pages = 48–49 | url=https://archive.org/details/Computer_Gaming_World_Issue_65/page/n47/mode/1up}}</ref> In 1990 the game received the second-highest number of votes in a survey of ''Computer Gaming World'' readers' "All-Time Favorites".<ref name="cgw199001">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=67 | title=CGW Readers Select All-Time Favorites | magazine=Computer Gaming World | date=January 1990 | access-date=15 November 2013 | pages=64}}</ref> In 1996, the magazine named ''Dungeon Master'' the 49th best game ever.<ref name="cgw150">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | access-date=25 March 2016 | pages=64–80}}</ref> In 1996, GamesMaster listed the game 42nd in their Top 100 Games of All Time.<ref>{{Cite journal |date=July 1996 |title=Top 100 Games of All Time |url=https://retrocdn.net/images/c/cf/GamesMaster_UK_044.pdf |journal=GamesMaster |issue=44 |pages=76}}</ref>
+
+The following is a comprehensive list of other awards received by the game.<ref>{{cite web|archive-url=https://web.archive.org/web/20001204125900/http://freespace.virgin.net/daniel.durgan/ftl/dmawards.html|date=October 1998|archive-date=2000-12-04 |title=Awards|publisher=The Un-Official Dungeon Master Web Site|url=http://freespace.virgin.net/daniel.durgan/ftl/dmawards.html|author=Daniel Durgan}}</ref>
+{{div col|small=yes|colwidth=40em}}
+* ''Special Award for Artistic Achievement'' awarded in 1988 by ''[[Computer Gaming World]]''
+* ''Adventure Game of the Year, 1988'' &mdash; [[UK Software Industry Awards]]
+* ''Best Selling Atari ST Title, 1988'' &mdash; UK Software Industry Awards
+* ''Best Role Playing Game, 1988'' &mdash; {{ill|lt=Power Play|Power Play (magazine)|de|Power Play (Zeitschrift)}} (German)<ref>{{cite web |url=http://www.kultpower.de/archiv/heft_powerplay_1988-02_seite78 |title= Dungeon Master|publisher=PowerPlay|date=February 1988 |access-date=2010-11-18 |language=de |first=Boris |last=Schneider}}</ref>
+* ''Best Role Playing Game, 1988'' &mdash; ''[[Tilt (French magazine)|Tilt]]''
+* ''Best Sound Effects, 1988'' &mdash; ''Tilt''
+* ''[[List of Game of the Year awards|Game of the Year]], 1988'' &mdash; ''[[Computer Play]]''
+* ''Best Atari ST Game, 1988'' &mdash; ''Computer Play''
+* ''Game of the Year, 1988'' &mdash; ''[[Génération 4]]'' (French)
+* ''"Golden Sword" Award, 1988'' &mdash; The Adventurer's Club of the UK
+* ''Best Role Playing Game, 1988'' &mdash; The Adventurer's Club of the UK
+* ''"Beastie Award", 1988'' &mdash; ''[[Dragon (magazine)|Dragon]]''
+* ''Best Atari ST Title, 1988'' &mdash; ''Dragon''
+* ''Best Game, 1989'' &mdash; ''[[Amiga World]]''
+* ''Best Role Playing Game, 1989'' &mdash; ''Amiga World''
+* ''Best Amiga Game, 1989'' &mdash; ''[[Game Players]]''
+* ''Best Amiga Game, 1989'' &mdash; ''{{ill|Datormagazin|sv}}'' (Swedish)
+* ''"Beastie Award" Best Apple //GS Title, 1989'' &mdash; ''Dragon''
+* ''Best Game, 1989'' &mdash; ''[[.info (magazine)|.info]]''
+* ''Best of the Amiga, 1989'' &mdash; ''[[Compute!]]''
+* Inducted as an original member in the ''Computer Gaming World Hall of Fame'' in 1989
+* Designated as one of the ''100 Best Games'' by ''PowerPlay'' (German, January 1990)<ref>{{cite web|url=http://www.kultpower.de/archiv/heft_powerplay_1989-beste-spiele_seite34|title=Die 100 Besten Spiele: Dungeon Master – Mumien, Monster, Mutationen und Magie |first=Michael |last=Hengst |publisher=PowerPlay |date=January 1990 |access-date=2010-11-18|language=de}}</ref>
+* 16th best game of all time in ''[[Amiga Power]]'' (May 1991)<ref>Amiga Power magazine issue 0, [[Future Publishing]], May 1991</ref>
+{{div col end}}
+
+=== Sequels and legacy ===
+While ''Dungeon Master'' itself was inspired by early ''Ultima'' games,<ref name=making/> it amazed  ''Ultima'' developer [[Origin Systems]]'s employees; Origin founder [[Richard Garriott]] said that he was "ecstatic" at discovering the "neat new things I could do" in the game. It influenced ''[[Ultima VI]]''{{'}}s [[graphical user interface]] and seamless map,<ref name="maher20170407">{{Cite web |url=http://www.filfre.net/2017/04/ultima-vi/ |title=Ultima VI |last=Maher |first=Jimmy |date=2017-04-07 |website=The Digital Antiquarian}}</ref> and the later ''[[Ultima Underworld]]''.<ref name=ttlg>{{cite web |archive-url=https://web.archive.org/web/20010309140053/http://www.ttlg.com/articles/uw1.asp|archive-date=2001-03-09|url=http://www.ttlg.com/articles/uw1.asp |title=The Story of Ultima Underworld|author=Paul Neurath |access-date=2011-01-04|date=2000-06-23 |publisher=Looking Glass Studios}}</ref> Game journalist [[Niko Nirvi]] wrote that no 3D role-playing title before ''Ultima Underworld'' (1992) could challenge ''Dungeon Master'' as a game.
+
+In 1989, FTL Games released a ''Dungeon Master'' sequel, ''[[Chaos Strikes Back]]''.
+
+To date, ''Dungeon Master'' retains a small but faithful following online, with several [[fan-made]] ports and [[Video game remake|remake]]s available or in development.<ref>{{cite web|title=Clones|url=http://dmweb.free.fr/?q=view/Clones|quote=''Dungeon Master opened a new way for computer role-playing games, inspiring many developers. A lot of commercial games tried to improve the genre (like Eye of the Beholder I, II and III, Captive, Lands Of Lore, etc...) [...] More recently, some fans have been active at keeping the dream alive.''|publisher=Dungeon Master Encyclopaedia|first=Christophe |last=Fontanel |access-date=2011-08-04}}</ref> Notable reception received a faithful reconstruction of the [[Atari ST]] version, called ''"CSBWin"'', which was released in 2001. [[Reverse engineering|Reverse engineered]] in six months work from the original by Paul R. Stevens, the available [[source code]] of CSBwin led to many ports for modern platforms like [[Windows]] and [[Linux]].<ref>{{cite web|url=http://www.rockpapershotgun.com/2012/03/29/you-could-be-playing-dungeon-master-right-now/|title=You Could Be Playing Dungeon Master Right Now |first=John |last=Walker |date=2012-03-29 |access-date=2015-08-03 |publisher=[[Rock, Paper, Shotgun]] |quote=''There is a version that just works, without an emulator, and it’s free. [...] A madman by the name of Paul Stevens spent six months, eight hours a day, writing 120,000 lines of what he calls "pseudo-assembly language" to rebuild it in C++. And then released the game and source code for free. Can he do that? I’ve decided that yes, he can, which legitimises my promoting it to you.''}}</ref> In 2014, Christophe Fontanel released another reverse engineering project which tries to recreate all existing versions and ports.<ref>[http://www.dungeon-master.com/forum/viewtopic.php?f=25&t=29805 Back to the source: ReDMCSB] by Christophe Fontanel (18-Jan-2014)</ref>
+
+The villagers in the sandbox game [[Minecraft]] were inspired by the shopkeepers from ''Dungeon Master 2''.<ref>{{Cite web |last=Rahaman |first=Reyadh |date=2020-12-02 |title=Minecraft: 10 Things You Never Knew About Villages & Villagers |url=https://gamerant.com/minecraft-villages-villagers-facts/ |access-date=2022-08-09 |website=Game Rant |language=en-US}}</ref>
+
+==Reviews==
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #44 (April 1988)<ref>{{Cite web|url=https://rpggeek.com/rpgissuearticle/139828/ludotique|title=Ludotique &#124; Article &#124; RPGGeek|website=rpggeek.com}}</ref><ref>{{cite magazine|magazine=Casus Belli |date=April 1988 |lang=fr |title=Ludotique - Dungeon Master |page=102 |first1=Pierre |last1=Rosenthal |first2=Frank |last2=Stora}}</ref>
+*''{{ill|Jeux & Stratégie|fr|Jeux et Stratégie|}}'' #51<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-51/page/80/mode/2up | title=Jeux & stratégie 51 | date=June 1988 }}</ref>
+
+== See also ==
+* ''[[Legend of Grimrock]]''
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* {{moby game|id=/dungeon-master|name=''Dungeon Master''}}
+* [http://www.atarimania.com/game-atari-st-dungeon-master_s8018.html ''Dungeon Master''] at Atari Mania
+* {{abime|id=441}}
+
+{{Dungeon Master series}}
+{{Authority control}}
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:Cancelled Atari Lynx games]]
+[[Category:DOS games]]
+[[Category:Fantasy video games]]
+[[Category:First-person party-based dungeon crawler video games]]
+[[Category:FM Towns games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Role-playing video games]]
+[[Category:X68000 games]]
+[[Category:Single-player video games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Tsukasa Tawada]]
+[[Category:Video games with expansion packs]]
+[[Category:TurboGrafx-CD games]]
+[[Category:FTL Games games]]

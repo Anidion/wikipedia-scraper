@@ -1,0 +1,102 @@
+Rescue on Fractalus!
+Permalink: //en.wikipedia.org/w/index.php?title=Rescue_on_Fractalus%21&oldid=1230641170
+Accessed on: 2024-06-26T16:59:01.294125
+
+
+
+------
+Rescue on Fractalus!
+{{Short description|1985 computer game}}
+{{more citations needed|date=April 2013}}
+{{Infobox video game
+|title = Rescue on Fractalus!
+|image = Rescue on Fractalus cover.jpg
+|caption = European Commodore 64/128 cover
+|developer = [[Lucasfilm Games]]
+|publisher = [[Epyx]]<br>[[Activision]]<br>[[Atari Corporation]]
+|director = [[David Fox (game designer)|David Fox]]
+|designer = David Fox<br>[[Loren Carpenter]]<br>[[Peter Langston]]<br>Charlie Kellner<br>[[Gary Winnick (game developer)|Gary Winnick]]
+|engine =
+|platforms = [[Atari 8-bit]], [[Atari 5200]], [[Amstrad CPC]], [[Apple II series|Apple II]], [[Commodore 64]], [[TRS-80 Color Computer|Color Computer 3]], [[ZX Spectrum]]
+|released = 1985<ref name="analog-review">{{cite magazine |last=Leyenberger |first=Arthur |date=August 1985 |title=Rescue on Fractalus and Ballblazer - A REVIEW |url=https://archive.org/details/analog-computing-magazine-33/page/n81 |access-date=2021-07-10 |magazine=ANALOG Computing |number=33 |page=81}}</ref>
+|genre = [[Space combat simulator|Space combat]]
+|modes = [[Single-player]]
+}}
+
+'''''Rescue On Fractalus!''''' is a [[space combat simulator]] video game created by [[Lucasfilm Games]]. It was originally released in 1985 for the [[Atari 8-bit computers]] and [[Atari 5200]] console, then ported to the [[Apple II series|Apple II]], [[ZX Spectrum]], [[Amstrad CPC]], [[TRS-80 Color Computer|Tandy Color Computer 3]], and [[Commodore 64]]. The player flies a space fighter near the surface of a planet, with the goal of rescuing downed pilots. The terrain is generated via [[fractal]]s, from which the eponymous planet and game title are taken.
+
+The game was one of the first two products from the fledgling [[Lucasfilm]] Computer Division Games Group led by [[Peter Langston]]. [[David Fox (game designer)|David Fox]] was the project leader and designer. Music was mainly composed by Charlie Kellner.<ref name="antic">{{cite magazine |last=Ciraolo |first=Michael |date=August 1984 |title=Lucasfilm & Atari - Creative Partners |url=http://www.atarimagazines.com/v3n4/lucasfilm.html |access-date=2021-07-10 |magazine=[[Antic (magazine)|Antic]] |volume=3 |number=4 |pages=40–42}}</ref>
+
+==Gameplay==
+===Flying===
+[[File:A5200_Rescue_On_Fractalus.png|thumb|left|Cockpit view (Atari 5200)]]
+
+The game uses [[fractal]] technology to create the craggy mountains of an alien planet,<ref name="compute">{{cite magazine |last=Halfhill |first=Tom R. |date=September 1985 |title=Rescue On Fractalus! And Ballblazer |url=https://www.atarimagazines.com/compute/issue64/review_rescue.php |access-date=2021-07-10 |magazine=[[Compute!]] |volume=7 |issue=9 #64 |department=Reviews |pages=61–62}}</ref> where the visilibility was drastically reduced by the dense [[atmosphere]]. The player controls a fictional "Valkyrie" space fighter<ref name="5200-manual">{{cite AV media notes |title=''Rescue on Fractalus!'' |type=Game manual |date=1986 |publisher=[[Atari Corporation]] |url=https://atariage.com/manual_thumbs.php?SoftwareLabelID=658 |access-date=2021-07-10}}</ref>{{rp|11}} (converted for [[search and rescue]] duty) from a [[first person (video games)|first-person view]], attempting to land and pick up downed Ethercorps pilots.<ref name="5200-manual"/>{{rp|2}} Some of these mountains hold [[anti-aircraft warfare|anti-aircraft guns]],<ref name="compute"/> which have to be avoided or destroyed. Due to the varied terrain, the [[direction finding|direction finder]] has to be used to locate the pilots, whose visual beacons are often masked by mountain ridges.
+
+At higher levels, the enemy Jaggis begin flying ''[[kamikaze]]'' saucers. The mission area also moves into day/night boundaries. Night missions are particularly difficult, requiring diligent use of the [[radar altimeter|altimeter]] to avoid crashing.<ref name="compute" />
+
+Flying consumes fuel. The way to replenish this supply is to rescue downed pilots who bring their remaining fuel supplies on board.
+
+The thick atmosphere is sufficiently acidic that downed pilots' craft are being slowly disintegrated. An exposed pilot's survival time outside his craft is less than a minute, due to his flight suit and helmet literally dissolving. This makes it imperative that the player rescue pilots as quickly and efficiently as possible.
+
+===Rescue===
+After landing within sufficient "walking" proximity to the pilot, the player shuts down the engine, also turning off the ship's shields.<ref name="5200-manual"/>{{rp|4}} Turning on the engines prematurely would incinerate the exposed pilot and the shields would prevent him from entering the ship.<ref name="5200-manual"/>{{rp|7}} The downed pilot then disembarks his crashed ship, runs down to the Valkyrie's cockpit, and knocks on the crew entry door; the player can then open up and let the pilot in to complete the rescue. Failing to open the door kills the pilot; his knocking on the hatch becomes at first frantic, then slower and more feeble as he perishes in the corrosive environment. Sometimes the pilot found is an Ace Pilot, indicated visually by their purple helmet. These are worth ten times the score awarded for a normal pilot to the player.<ref name="5200-manual"/>{{rp|9}}
+
+[[File:Rescue_on_Fractalus!_Atari_8-bit_PAL_Jaggi.gif|thumb|right|Jaggi attacks (Atari 8-bit)]]
+As a twist on this relatively straightforward premise, added at the suggestion of [[George Lucas]],<ref name="foxinterview">{{cite web|url=https://dadgum.com/halcyon/BOOK/FOX.HTM|title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers|last1=Hague|first1=James|date=1997}}</ref><ref>[https://www.youtube.com/watch?v=HDvEFbh6I2g&t=14m39s GameSpot, "Classic Studio Postmortem: Lucasfilm Games"], ''David Fox'', 24 March 2014, accessed 03 April 2015</ref> some of the "pilots in distress" are actually hostile aliens in disguise; this twist was kept out of the game's manual and marketing.<ref>{{cite web|url=https://twitter.com/DavidBFox/status/1078409226152599552|title=It was George Lucas' idea that sometimes the pilot you're rescuing turns out to be an alien. We figured out how to make that happen, and got Atari to agree to keep it a complete secret in their marketing/box/manual text.|first=David Fox, in|last=an 🔌 🚙|date=27 December 2018}}</ref> After landing near a downed pilot, the player watches him run off-screen, and then has to wait for several tense seconds—if it were human, the familiar, frantic "tap-tap" noise would be heard from the ship's hatch; otherwise, the alien Jaggi would suddenly jump back into view, sans helmet, roaring and trying to smash into the cockpit. Unless the player restores the ship's shields, the windscreen cracks open and the pilot is killed. Likewise, inadvertently letting a Jaggi pilot into the player's ship has disastrous results — it begins to dismantle the ship. In early levels, the Jaggi can be distinguished by their green heads versus the white human helmets, but in later levels the aliens evidently learn to don the human helmet and become identical in appearance. This, along with an unpredictable pause between the human/alien approach and the tap-tap/alien jump makes for a tense experience. According to head developer [[David Fox (LucasArts game designer)|David Fox]], this shock moment made ''Rescue on Fractalus!'' "the first computer game to really scare people".<ref name="foxinterview"/>
+
+==Development==
+''Rescue on Fractalus!'', together with ''[[Ballblazer]]'', were the first two games developed by the fledgling [[Lucasfilm Games|Lucasfilm Computer Division Games Group]]. The Games Group had been established in 1982 on a $1 million funding from [[Atari, Inc.]] in exchange for the "right of first refusal" for Atari as publisher.<ref name="filfire">{{cite web |last=Maher |first=Jimmy |title=A New Force in Games, Part 1: Fractal Dreamers |website=The Digital Antiquarian |date=2015-07-10 |url=https://www.filfre.net/2015/07/a-new-force-in-games-part-1-fractal-dreamers/ |access-date=2021-07-10}}</ref> Both games were developed with the [[Atari 8-bit computers]] and [[Atari 5200]] console in mind.
+
+During development, ''Rescue on Fractalus!'' was named ''Behind Jaggi Lines!''. This name refers both to the Jaggis, the fictional race of hostile aliens in the game, as well as the lack of [[spatial anti-aliasing]] in the game's graphics, resulting in jagged diagonal (or curved) lines, colloquially known as "[[jaggies]]".<ref name="foxinterview"/> The squiggles visible on the Jaggi's suit when it attacks are actually the initials of the development team rotated by 90 degrees; [[Atari]] at the time famously barred developers from having their name displayed in games.<ref>{{cite web|url=https://twitter.com/DavidBFox/status/1078434823901896704|title=We weren't allowed (by Atari) to have our names in credits on any of the screens, so we found ways around that. Fun Easter Egg:pic.twitter.com/POVDu9eGh0|first=David Fox, in|last=an 🔌 🚙|date=27 December 2018}}</ref>
+
+The developers of ''Rescue on Fractalus'' wanted the game to be set in ''Star Wars'' universe but were not allowed to do so by George Lucas.<ref>{{cite web |last=McWhertor |first=Michael |title=Lucasfilm Games vets look back on the earliest days of George Lucas' game company |website=[[Polygon (website)|Polygon]] |date=2014-03-20 |url=https://www.polygon.com/2014/3/20/5530942/lucasfilm-games-vets-look-back-on-the-earliest-days-of-george-lucas |access-date=2021-07-10}}</ref>
+
+The games were ready by March 1984<ref>{{cite web |url=http://www.lucasarts.com/20th/history_1.htm |archiveurl=https://web.archive.org/web/20060428061222/http://www.lucasarts.com/20th/history_1.htm |archivedate=28 April 2006 |title=LucasArts Entertainment Company &#124; 20th Anniversary |work=[[LucasArts]] |date=2006-04-28 |accessdate=2021-07-10 |url-status=dead}}</ref> and were first publicly revealed on a Lucasfilm press conference on May 8.<ref name="ce-84-5">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=May 1984 |title=Secret Project Unveiled |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n300 |magazine=[[Computer Entertainer]] |volume=3 |number=2 |page=1}}</ref> Cartridge versions for the Atari computers and the 5200 were planned to be the released first in the third quarter of 1984, with disk versions for the [[Commodore 64]], [[IBM Personal Computer|IBM PC]] and [[Apple IIc]] and [[Apple IIe|IIe]] coming under the [[Atarisoft]] label in the fourth quarter of that year.<ref name="sentinel">{{cite news |last=Sirard |first=Jack |title=Atari, Lucasfilm join forces for new video games |work=[[Santa Cruz Sentinel]] |volume=128 |number=111 |department=Business |date=1984-05-09 |place=San Rafael |page=B-7 |url=https://cdnc.ucr.edu/?a=d&d=SCS19840509.1.21&e=-------en--20--1--txt-txIN--------1 |access-date=2021-07-10}}</ref><ref name="mercury-8">{{cite news |last=Greer |first=Jonathan |title='Star Wars' creator teams up with Atari|work=[[San Jose Mercury News]] |date=1984-05-08 |place=San Rafael |page=1G |url=http://www.langston.com/LFGames/SJMN19840508.html |access-date=2021-07-10}}</ref><ref name="mercury-9">{{cite news |last=Greer |first=Jonathan |title='Star Wars' creator teams up with Atari|work=[[San Jose Mercury News]] |date=1984-05-09 |place=San Rafael |page=1G |url=http://www.langston.com/LFGames/SJMN19840509.html |access-date=2021-07-10}}</ref><ref name="upi">{{cite press release |last=Leighty |first=John M. |date=1984-05-08 |title=Lucasfilm 'force' enters video game market |url=https://www.upi.com/Archives/1984/05/08/Lucasfilm-force-enters-video-game-market/9795452836800/ |location=San Rafael, California |publisher=[[United Press International]] |access-date=2021-07-10}}</ref><ref name="infoworld">{{cite magazine |last=Mace|first=Scott |date=1984-06-04 |title=Atari unveils Lucasfilm games |url=https://books.google.com/books?id=vi4EAAAAMBAJ&pg=PA12 |access-date=2021-07-10 |magazine=[[InfoWorld]] |volume=6 |issue=23 |page=12}}</ref> ''Rescue on Fractalus!'' and ''Ballblazer'' were also scheduled to be released for the then-upcoming [[Atari 7800]] console.<ref name="atari-1984-05-21">{{cite press release |author=<!--Not stated--> |date=1984-05-21 |title=Atari unveils advanced video game that is expandable to introductory computer |url=http://www.atari7800.org/museum/PressDoc1s.htm |location=New York City |publisher=[[Atari, Inc.]] |access-date=2021-07-10}}</ref>
+
+On July 3, [[Warner Communications]] sold all assets of the Consumer Division of Atari, Inc. to [[Jack Tramiel]], and the agreement with Lucasfilm fell through. On the Winter [[Consumer Electronics Show]] on January 5–8, 1985, with both ''Rescue on Fractalus!'' and ''Ballblazer'' not yet being released on any platform, [[Epyx]] became a distributor for both games, which would be released in disk format for the Atari 8-bit and Commodore 64 computers. The Atari 5200 versions were not part of the distribution deal.<ref name="ce-85-2">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=February 1985 |title=Looking Back on an Interesting C.E.S. |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n444 |magazine=[[Computer Entertainer]] |volume=3 |number=11 |page=1}}</ref> Epyx finally published the Atari 8-bit versions of both games by May 1985,<ref name="ce-85-5">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=May 1985 |title=Ballblazer and Rescue on Fractalus! |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n493 |magazine=[[Computer Entertainer]] |department=Critically Speaking..Atari Computers |volume=4 |number=2 |page=2}}</ref> and the Commodore 64 version of ''Rescue'' by August of that year.<ref name="ce-85-8">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=August 1985 |title=Availability Update |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n553 |magazine=[[Computer Entertainer]] |volume=4 |number=5 |page=14}}</ref>
+
+Besides the Atari 8-bit and Commodore 64 computers, ''Rescue on Fractalus'' was ported to the [[Apple II series|Apple II]] and [[TRS-80 Color Computer]]; and to [[Amstrad CPC]] and [[ZX Spectrum]] computers by [[Activision]], who published the game in Europe. While the IBM PC port announced in 1984 never materialized, Tramiel's [[Atari Corporation]] eventually released the Atari 5200 cartridge version in limited quantities in late 1986, manufactured from the stock inherited from the July 1984 buyout of Atari, Inc.;<ref name="ce-87-2">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=February 1987 |title=Atari 2600 and 7800 Sellouts in '86 |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n838 |magazine=Computer Entertainer |volume=5 |number=11 |page=11}}</ref> and the cartridge version for the Atari 8-bit computers in December 1987, packaged for their new [[Atari XEGS|XE Game System]].<ref name="ce-88-1">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=January 1988 |title=Initial Games for the XE Game System Ship |url=https://archive.org/details/ComputerEntertainer/computerentertai00unse/page/n17 |magazine=Computer Entertainer |volume=6 |number=10 |page=12}}</ref>
+
+The Atari 7800 version was cancelled before the game was completed. In 2004, an unfinished prototype was found in the possession of its original programmers, with a significant amount of gameplay elements not implemented.<ref>{{cite web |last=Reichert |first=Matt |title = Rescue on Fractalus |website=AtariProtos.com |url=http://www.atariprotos.com/7800/software/rof/rof.htm |access-date = 2021-07-10}}</ref>
+
+==Reception==
+''[[Computer Gaming World]]'' stated that ''Fractalus'' and ''[[Ballblazer]]'' "are slightly weak in the finer points of game design, but ... set a new standard for arcade-style games that will set out future expectations".<ref name="williams19850607">{{cite magazine | title=Lucasfilm Enters Home Gaming | magazine=Computer Gaming World | date=June–July 1985 <!-- | accessdate=31 October 2013  --> | author=Williams, Gregg | page=22}}</ref> In 1996, the magazine named ''Rescue on Fractalus!'' the 82nd best game ever, with the editors remarking that "many keep old computers around just to play it".<ref name=cgw150>{{cite magazine | author=Staff | title=150 Best (and 50 Worst) Games of All Time | magazine=[[Computer Gaming World]] | date=November 1996 | issue=148 | pages=63–65, 68, 72, 74, 76, 78, 80, 84, 88, 90, 94, 98}}</ref> ''Commodore User'' thought the game was "nothing special" and said it "provides reasonable, if unchanging, gameplay with a good flight simulator, but it lacks something, probably a proper identity".<ref>{{cite magazine |last=Lacey |first=Eugene |date=September 1985 |title=Rescue on Fractalus |url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=024&magazine=cu&page=26 |access-date=2021-07-10 |magazine=[[Commodore User]] |issue=24 |department=Screen Scene |publisher=[[EMAP|EMAP Business and Computer Publications]] |page=26}}</ref> ''Zzap!64'' were impressed by the game, awarding it a score of 91%. They said that it was an excellent shoot-em-up.<ref>{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=September 1985 |title=Rescue on Fractalus |url=https://archive.org/details/zzap64-magazine-005/page/n99 |access-date=2021-07-10 |magazine=[[ZZap!64]] |issue=5 |department=ZZap! Test |publisher=[[Newsfield]] |pages=100–101}}</ref>
+
+==Legacy==
+[[LucasArts]] and [[Factor 5]] began work on a sequel titled ''Return to Fractalus'' for the [[Amiga]] in the late 1980s, but it was decided that the hardware couldn't handle the concept being worked on. An [[Amiga]] port of ''Rescue On Fractalus'' to be published by [[Rainbow Arts]] was announced in a February 1991 issue of ''[[The One (magazine)|The One]]'', but was never released.<ref name=theone>{{cite magazine |title=Fractal Feature |date=February 1991 |url=https://archive.org/details/theone-magazine-29/page/n11 |magazine=The One |department=News |publisher=[[EMAP|EMAP Images]] |issue=29 |page=12}}</ref> By 1994, Factor 5 believed that the current generation of 3D consoles had the technology the ''Fractalus'' sequel required and again began work on the game. Eventually, the work on game was converted to ''[[Star Wars: Rogue Squadron]]'' for the [[Nintendo 64]] instead.<ref name="RG p20">{{cite magazine |title=The History of... Star Wars Rogue Squadron |magazine=[[Retro Gamer]] |volume=168 |last=Thorpe |first=Nick |date=June 2017 |publisher=[[Future plc|Future]] |page=20}}</ref>
+
+==See also==
+* ''[[Ballblazer]]''
+* ''[[The Eidolon]]''
+* ''[[Koronis Rift]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.mobygames.com/game/rescue-on-fractalus ''Rescue on Fractalus!''] at [[MobyGames]]
+* {{atarimania|id=4352}}
+* {{WoS game|id=0004111}}
+* [http://www.langston.com/LFGames/ Personal history from Peter Langston] (January 2005)
+* [http://www.qlam.com/atari/s_rescue.html ''Rescue on Fractalus''] at Reminiscing: Atari 8-bit Games
+* [http://www.electriceggplant.com/rescue.html Video from the 1984 Lucasfilm press conference] introducing ''Rescue on Fractalus!''
+
+{{DEFAULTSORT:Rescue On Fractalus!}}
+[[Category:1985 video games]]
+[[Category:Action games]]
+[[Category:Activision games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Cancelled Atari 7800 games]]
+[[Category:Commodore 64 games]]
+[[Category:Epyx games]]
+[[Category:LucasArts games]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games set on fictional planets]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United States]]

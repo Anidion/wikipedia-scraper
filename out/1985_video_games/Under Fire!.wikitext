@@ -1,0 +1,76 @@
+Under Fire!
+Permalink: //en.wikipedia.org/w/index.php?title=Under_Fire%21&oldid=1181156592
+Accessed on: 2024-06-26T16:59:25.335700
+
+
+
+------
+Under Fire!
+{{Short description|1985 video game}}
+{{original research|date=August 2016}}
+{{Italic title}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Under Fire!
+| image = Under Fire video game cover.jpg
+| alt = 
+| caption = 
+| developer = [[Avalon Hill]]
+| publisher = [[Avalon Hill]]
+| series = 
+| engine = 
+| platforms =  [[Apple II series|Apple II]], [[Commodore 64]], [[DOS]]
+| released = 1985
+| genre = [[Tactical wargame]]
+| modes = 
+}}
+
+'''''Under Fire!''''' is a [[tactical wargames|tactical level]] [[computer game]] released by [[Avalon Hill]]'s computer division in 1985. The game was released for [[Apple II series|Apple II]], [[Commodore 64]], and [[DOS]] systems. Initial packaging had the name of the designer, Ralph H. Bosson, over the title on the box front so as to read ''Ralph Bosson's UNDER FIRE!'', but subsequent packaging replaced his name and read ''Avalon Hill's UNDER FIRE!'' instead. The C64 port was by Dyadic Software Associates.<ref name="lemon64">{{lemon64 game|name=Under Fire|id=3383}}</ref>
+
+The game was not billed as a computer version of [[Squad Leader]], though it did bear some similarities in that players commanded roughly company sized forces.  Only three maps were available for play.  The game was unique in that for each of the nine scenarios, victory was not declared at game's end.  A results screen would show losses in men and equipment, and list possession of objectives, leaving the determination of "victory" to the player.
+
+An ''Extended Capabilities Disk'' was sold by Avalon Hill also, adding 56 more US, German and Russian assault guns and tanks to the game, as well as providing Japanese, British and Italian forces, with two additional maps and six more scenarios. A ''Second Extended Capabilities Disk'' also underwent initial development, bringing a campaign layer to the game, increasing the speed of play, and making use of 64K of additional memory (where available).
+
+==Gameplay==
+The player would select display options and game scale at the start of play (the map was divided into squares, which could represent a variable number of metres per square, selected by the player at the outset of the game). The display as very simple, with units represented by crude tank, halftrack, or soldier icons. The display was a four-color output for the IBM PC and 16-color for the Apple II. A scenario and map were selected (with only three choices of each, for a total of nine combinations to choose from). However, forces were randomly selected for each nationality, and the player could also choose to either attack or defend, providing even more diversity to gameplay. The player also had the option of playing either a human opponent, or against a computer opponent.
+
+The game was "WEGO" in concept (the same concept later made famous by ''[[Combat Mission]]'') in that both players entered their orders, and then watched the order resolution unfold simultaneously.
+
+The computer opponent was actually a form of [[artificial intelligence]]; in the words of the designer: "I attempted to create a player that would try to win, not simply fire back.  The computer has been given a knowledge of small arms {{sic}} tactics. It will, when possible, co-ordinate its attacks."{{Ref label|NumberedRef|1}}
+
+==Reception==
+William Harrington of ''[[Computer Gaming World]]'' in 1985 called ''Under Fire!'' "highly playable" and predicted that the ability to construct scenarios would keep the game "on the cutting edge of computer war gaming in months and even years to come". While noting slow performance on the Apple II series, it concluded that the game was "a must for Apple computer wargamers".<ref name="CGW25">{{cite magazine |last=Harrington |first=William |title=Under Fire! |magazine=Computer Gaming World |date=Jan–Feb 1986 |volume=1 |issue=25 |pages=11, 46}}</ref> The magazine in 1987 described it as "conceived in flexibility and designed to improve with future expansion".<ref name="cgw198711">{{cite magazine | title=Christmas Buyers Guide | magazine=[[Computer Gaming World]] | date=November 1987 | pages=20 |url=https://archive.org/details/Computer_Gaming_World_Issue_41/page/n19/mode/2up |issue=41}}</ref> A overview in the magazine that year of squad-level games approved of the graphics and documentation, and described ''Under Fire!'' as "exceptional in its versatility" but difficult to learn as a result.<ref name="selover198705">{{cite magazine | title=A Survey of WW II Tactical Infantry Systems | magazine=Computer Gaming World | date=May 1987 | access-date=2 November 2013 | author=Selover, Jay C. | url=http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=37 | pages=22}}</ref> An overview of World War II simulations in the same issue rated the game four out of five points.<ref name="brooks198704">{{cite magazine | title=Kilobyte Was Here! | magazine=Computer Gaming World | date=April 1987 | access-date=2 November 2013 | author=Brooks, M. Evan | url=http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=37 | pages=6}}</ref> A 1993 survey of wargames gave the game two-plus stars out of five, stating that "it does show its age".<ref name="brookssurvey199310">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=111 | title=Brooks' Book Of Wargames: 1900-1950, R-Z | magazine=Computer Gaming World | date=October 1993 | access-date=26 March 2016 | author=Brooks, M. Evan | pages=144–148}}</ref>
+
+''[[Compute!]]'' called ''Under Fire!'' "one of the best [wargames] I've ever seen", and stated that the game was "so flexible it truly lives up to Avalon Hill's boast that it's a 'War Game Construction Set'". It concluded that Avalon Hill and the game's author "have created what is sure to become a standard for computerized war games in the future".<ref name="trunzo198603">{{cite news | url=https://archive.org/stream/1986-03-compute-magazine/Compute_Issue_070_1986_Mar#page/n53/mode/2up | title=Under Fire For Apple | work=Compute! | date=March 1986 | access-date=8 November 2013 | author=Trunzo, James V. | pages=53}}</ref>
+
+The game was reviewed in Issue #50 (Sep/Oct 1986) of ''[[Fire & Movement]]'' magazine, in an article by Omar L. DeWitt:
+
+{{Quote|There is much to keep you busy with this game; skills to learn, new situations to face, and new conflicts to be created.  I am very favourably impressed by this game; much enjoyment per dollar.
+
+The game has been criticized for being slow.  For those used to arcade games, it certainly is.  Perhaps it could be faster; a few functions lend themselves to being speeded up, and some simple shortcuts could have been taken, but I did not find the time factor a drawback. ...
+
+If I have a criticism, it is with winning. ... I suspect that level one in ''Under Fire'' is too good.}}
+
+==Reviews==
+*''The V.I.P. of Gaming Magazine'' #5 (Sept./Oct., 1986)
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #49<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-49/page/n79/mode/2up | title=Jeux & stratégie 49 | date=February 1988 }}</ref>
+
+==Notes==
+1 {{Note|NumberedRef}}''Fire & Movement Magazine'', Issue #50 (Sep/Oct 1986).  The designer probably meant "small unit tactics" rather than "small arms tactics".
+
+==References==
+{{Reflist}}
+
+{{Avalon Hill}}
+
+[[Category:1985 video games]]
+[[Category:Apple II games]]
+[[Category:Avalon Hill video games]]
+[[Category:Commodore 64 games]]
+[[Category:Computer wargames]]
+[[Category:DOS games]]
+[[Category:Turn-based tactics video games]]
+[[Category:Video games developed in the United States]]
+[[Category:World War II video games]]

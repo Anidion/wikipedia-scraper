@@ -1,0 +1,129 @@
+Tau Ceti (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Tau_Ceti_%28video_game%29&oldid=1230892839
+Accessed on: 2024-06-26T16:59:18.774637
+
+
+
+------
+Tau Ceti (video game)
+{{Short description|1985 video game}}
+{{Use British English|date=September 2022}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox video game
+| title = Tau Ceti
+| image = Tau Ceti Title.jpg
+| caption = Atari ST box art
+| developer = [[CRL Group PLC]]
+| publisher = [[CRL Group PLC]]
+| designer = [[Pete Cooke]], Chris Newcombe (128K Spectrum enhancements)
+| engine =
+| released = '''1985: ''' Spectrum<br />'''1986:''' Atari ST, Amstrad, C64<br />'''1987:''' MS-DOS
+| genre = [[Action game|Action]], [[simulation]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Amstrad CPC]], [[Amstrad PCW]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[ZX Spectrum]]
+}}
+
+'''''Tau Ceti''''' is a [[video game]] published in 1985 by [[CRL Group PLC|CRL]] for the [[ZX Spectrum]] and converted to the [[Amstrad CPC]], [[Amstrad PCW]], [[Atari ST]], [[Commodore 64]], and [[MS-DOS]]. It was designed and programmed by [[Pete Cooke]]. The world, set on Tau Ceti III orbiting [[Tau Ceti]], is displayed using 3D graphics with shadow effects. The planet has a day and night cycle.
+
+''Tau Ceti: The Special Edition'', was released for the 128K Spectrum and [[Amstrad CPC]] in 1987, with extra coding by Chris Newcombe. A sequel, ''[[Academy (video game)|Academy]]'', was released in 1986.
+
+==Origins and development==
+
+The origins of ''Tau Ceti'' and its game engine came from Cooke attempting to work out how the spheres in the game ''[[Gyron (video game)|Gyron]]'', released by [[Firebird Software]] for the ZX Spectrum in 1985, had been created:
+
+{{cquote|...for a long while it had puzzled me how on earth they did the spheres. It obviously couldn't be a sprite because they didn't have enough memory to have that many sprites.
+
+I finally twigged that they must have used a table of line widths, and I thought about it a bit, then realised I could split it three quarters and a quarter, and then it would look like a shadow.
+
+I just went away and played with that for quite a long while and got it so that I had the sun in the sky and the shadow in the right place. And it sort of came from that, really.<ref name = "interview">{{cite web | url = http://www.crashonline.org.uk/42/cooke.htm | title = Interview with Pete Cooke from 1987| accessdate = 2007-01-13}}</ref>}}
+
+Having created the basics of a game engine, Cooke had to decide on a scenario for his new game:
+
+{{cquote|It was all made up as I went along. I know a bit about astronomy, so I looked around for a likely location - because the way the routine works meant it couldn't be in space; you couldn't have the sun above because the line-draw routine wouldn't work, it would have to be on the surface of a planet.
+
+And I thought 'Right, it can't be Earth because it looks a bit barren for Earth, it's got to be another planet.' So I looked round for nearby stars that might be inhabited and Tau Ceti had a nice-sounding name.<ref name = "interview" />}}
+
+Cooke was also inspired when writing ''Tau Ceti'' by the works of the science-fiction writers [[Larry Niven]] and [[Isaac Asimov]],<ref>{{Cite web|url=https://www.retrogamer.net/profiles/developer/pete-cooke/|title=Pete Cooke &#124; Retro Gamer|date=15 July 2014 }}</ref> and the space-simulator ''[[Elite (video game)|Elite]]''.<ref>{{cite web | url = http://www.crashonline.org.uk/22/tauceti.htm | title = Preview of Tau Ceti in CRASH magazine| accessdate = 2007-01-13}}</ref>
+
+==Plot==
+Humanity has spread out and colonised nearby star systems but a plague in 2150 led to the colonies being abandoned and left to their automated robotic maintenance systems. While several of these colonies have been successfully re-inhabited, the colony on the planet Tau Ceti III (orbiting the star [[Tau Ceti]]) has been uncontactable since a [[meteor]] smashed into the planet. A mission sent to Tau Ceti III in 2164 landed on the planet but broadcast a mayday message followed by silence. Experts decided that the planet's robots were running amok as a result of the meteorite impact. The only chance, it was decided, of successfully stopping the defence systems without destroying the cities already there is to send a single pilot in an armoured Gal-Corp skimmer to the planet's surface with the task of shutting down the central reactor in Tau Ceti III's capital, Centralis.
+
+==Gameplay==
+[[Image:Tau Ceti Gameplay.png|thumb|right|Atari ST gameplay]]
+
+The planet Tau Ceti III consists of several cities which themselves consist of clusters of buildings with their defensive laser towers and patrolling robot Hunter ships. The player's skimmer can dock with some of these buildings and find parts needed to help shut down the central reactor as well as refuel and find vital information. The cities themselves can be travelled to by means of a "jump pad" which makes the long trips between them much quicker.
+
+When taking the long trip between cities, a bug in the Amstrad CPC version meant players stayed in the same city when next using a jump pad.  This can be used as an advantageous way of returning quickly to the center of the map, without traveling back through every city.  This also allowed the player to jump to non-existent cities off the map{{Citation needed|date=April 2007}}.
+
+The gameworld is displayed in a [[first person (video games)|3D view from the skimmer]]. As well as displaying these 3D graphics, Cooke's game engine renders them with simple shadows in order to simulate the day and night cycle of Tau Ceti III. These days are much shorter than Earth's consisting of one spin of the planet per hour with sixteen "spins" to a Cetian day.
+
+The cities of Tau Ceti III are extremely hostile places as they are full of robot defences. These consist of laser towers, Fortresses (which are essentially better-armoured Towers), Hunter ships (of which there are three types: Mark I, Mark II and Mark III), and slowly moving mines. To defend itself against these, the skimmer is armed with lasers, missiles, and AMMs (to destroy missiles fired by robot Hunters). The skimmer also has a shield although its power is limited and if the shield is badly depleted or exhausted, the skimmer will take damage and some of its systems will fail.  They can be repaired at any supply centre.
+
+Any static defences (e.g. buildings) which are destroyed are permanently destroyed.  Any mobile defences (Hunters, droids, etc.) are renewed when the player leaves a city; so cities are never fully cleared.  Cities vary greatly in their defences; a few cities are almost undefended (just minefields), a few cities are intensely defended (e.g. Centralis, where the main reactor is).
+
+The skimmer is also fitted with a scanner in order to detect buildings or Hunters not in its forward view or at a distance, and a compass to aid navigation.  To cope with Tau Ceti III's frequent hours of darkness, the skimmer has an infra-red display mode and also carries a limited number of short-lived flares.
+
+Although ''Tau Ceti'' is primarily an action game, it has some text-input sections when the skimmer docks or lands on the planet's surface. When this happens, the player can communicate with the skimmer using simple commands such as "HELP", "STATUS" or "SCORE" to get access to game information. If docked with a building, "LOOK" will display a picture of the inside of the building and "EQUIP" will allow access to anything useful in that building.
+
+As with some other Cooke games, the game also has an inbuilt note-taking system (accessed via the command "PAD") to take notes without using pen and paper.
+
+===Reactor rods===
+
+In order to shut down the central reactor, the main objective of the game, the player must first locate the forty pieces of the reactor cooling rods and assemble them into twenty complete rods which can then be inserted into the reactor to shut it down. The assembly of the rods is achieved by using the command "RODS" which displays a screen showing found rod-pieces which can then be assembled in a manner similar to a simple [[jigsaw puzzle]].
+
+==Reception==
+{{Video game reviews
+<!-- Reviewers -->
+| CVG = 9.5/10 (average)<ref name="CVGReview">{{cite journal |title=Tau Ceti review |journal=Computer & Video Games |issue=50 |date=December 1985 |pages=14–15}}</ref>
+| SUser = {{Rating|5.0|5}}<ref name="SinclairUserReview">{{cite journal |last=Bourne |first=Chris |title=Tau Ceti review |journal=Sinclair User |issue=46 |date=January 1986 |page=26}}</ref>
+| YSinclair = 9/10<ref name="YourSinclairReview">{{cite journal |title=Tau Ceti review |journal=Your Sinclair |issue=1 |date=January 1986 |page=32}}</ref>
+<!-- Custom reviewers -->
+| rev1 = ''[[Crash (magazine)|Crash]]''
+| rev1Score = 94%<ref name="CrashReview">{{cite journal |title=Tau Ceti review |journal=Crash |issue=23 |date=December 1985 |pages=86–87}}</ref>
+| rev2 = [[Your Computer (British magazine)|Your Computer]]
+| rev2Score = {{Rating|4.0|5}}<ref name="YourComputerReview">{{cite journal |last=Paddon |first=Lee |title=Tau Ceti review |journal=Your Computer |issue=8601 |date=January 1986 |page=38}}</ref>
+| rev3 = ''[[Zzap!64]]''
+| rev3Score = 93%<ref name="Zzap!64Review">{{cite journal |title=Tau Ceti review |journal=Zzap!64 |issue=16 |date=August 1986 |pages=18–19}}</ref>
+<!-- Awards -->
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+| award3Pub = ''Your Sinclair''
+| award3 = Megagame 
+}}
+Response from the gaming media was very positive. ''[[CRASH (magazine)|CRASH]]'', a Spectrum gaming magazine, summed ''Tau Ceti'' up in 1985 as "an excellent game, combining several elements with stunning graphics" and gave it an overall rating of 94%.<ref name="CrashReview"/> Another Spectrum magazine, ''[[Sinclair User]]'', gave it a 5 star rating and declared "It's hard to imagine a better space game, unless one's talking about ''[[Elite (video game)|Elite]]'', with its intergalactic scope and strategic depth. Viewed as a shoot 'em up with a purpose to the carnage, ''Tau Ceti'' has to be one of the all-time greats."<ref name="SinclairUserReview"/>
+
+''[[Commodore User]]'' magazine provoked controversy in their tips page for the [[Commodore 64]] version of the game, when they announced that the final two reactor parts necessary could never be made to fit, and that it was impossible to complete the game<ref>https://archive.org/stream/commodore-user-magazine-35/Commodore_User_Issue_35_1986_Aug#page/n71/mode/2up Tau Ceti "Play to Win", Commodore User issue 35, page 73</ref> which is contradicted on the C64-Wiki Tau Ceti page.<ref>https://www.c64-wiki.com/wiki/Tau_Ceti#Tips Tau Ceti - C64-Wiki - Tips</ref>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #39<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-39/page/76/mode/2up | title=Jeux & stratégie 39 | date=June 1986 }}</ref>
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' HS #3<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-hs-3/page/72/mode/2up | title=Jeux & stratégie HS 3 | date=1986 }}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{moby game|id=/tau-ceti-the-lost-star-colony|name=''Tau Ceti''}}
+* {{WoS game|id=0005153|name=Tau Ceti}}
+* [http://www.crashonline.org.uk/22/tauceti.htm Preview in ''Crash'']
+* [http://www.crashonline.org.uk/23/tauceti.htm Review in ''Crash'']
+* [https://web.archive.org/web/20060506034214/http://www.sincuser.f9.co.uk/046/sftwreb.htm Review in Sinclair User]
+
+{{CRL Group}}
+
+{{DEFAULTSORT:Tau Ceti (Video Game)}}
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:CRL Group games]]
+[[Category:DOS games]]
+[[Category:Fiction set around Tau Ceti]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]
+[[Category:Telecomsoft games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set on fictional planets]]
+[[Category:ZX Spectrum games]]

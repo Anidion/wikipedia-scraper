@@ -1,0 +1,78 @@
+Bank Panic
+Permalink: //en.wikipedia.org/w/index.php?title=Bank_Panic&oldid=1226260336
+Accessed on: 2024-06-26T16:56:20.166399
+
+
+
+------
+Bank Panic
+{{Short description|1984 video game}}
+{{about|the video game|financial crises involving banks|Bank panic}}
+{{more citations needed|date=February 2008}}
+{{Infobox video game
+|title = Bank Panic
+|image = Bank Panic Cover.jpg
+|caption = Arcade flyer
+|developer = [[Sanritsu Denki]]
+|publisher = '''Arcade''' {{vgrelease|JP/EU|[[Sega]]<ref name="CVG47"/>|NA|[[Bally-Midway]]<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=131 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n132}}</ref>}} '''MSX''' <br> [[Pony Canyon]]
+|released = '''Arcade''' {{vgrelease|JP|September 28, 1984<ref name="Copyright"/>|NA|November 1984<ref name="Akagi"/>|EU|Early 1985<ref name="CVG43"/>}} '''MSX''' <br> 1985 <br> '''Master System''' <br> 1987
+|platforms = [[Arcade Game|Arcade]], [[SG-1000]], [[MSX]], [[Master System]]
+|genre = [[Action game|Action]]
+|modes = 1-2 players alternating turns
+}}
+
+{{nihongo foot|'''''Bank Panic'''''|バンクパニック|Banku Panikku}} is an [[Arcade video game|arcade]] [[shooter game]] developed by [[Sanritsu Denki]] and released by [[Sega]] in 1984.<ref name="Copyright">{{cite web |title=Bank Panic (Registration Number PA0000228015) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=6 May 2021}}</ref> [[Bally-Midway]] manufactured the game in the US. The player assumes the part of an [[Old West]] [[sheriff]] who must protect a [[bank]] and its customers from masked robbers.
+
+==Gameplay==
+[[Image:Bankp.png|thumb|left|The cowboy in the left door is making a deposit, while the masked cowboy on the right is about to rob the bank.]]
+
+Controls consist of a two-position [[joystick]] and three buttons to fire at the left, center, and right positions.
+
+The layout of the bank is implicitly a circle with twelve numbered doors and the player in the center. The player can rotate to the left or right using the joystick, viewing three doors at a time, and shoot at a door by pressing the button corresponding to its position on the screen. The doors will open to reveal one of the following:
+
+* A customer, who will make a deposit by dropping a [[bag of money]] onto the counter.
+* A robber, who will attempt to shoot the player.
+* A young boy wearing a stack of hats, which the player can rapidly shoot to gain a deposit or bonus time.
+
+The level ends once every door has received at least one deposit. If a customer makes a deposit at a door where a bank teller is sitting, the player earns bonus points.
+
+The status of each door is indicated by a row of numbered boxes across the top of the screen, with a red dollar sign representing a door with a completed deposit. A bar gauge above each box shows how close a person is to reaching that door. The disappearance of a dollar sign indicates that a robber has just stolen a deposit; the player must then turn to that door and shoot the robber to recover it.
+
+At random intervals, a bomb will be placed on one of the doors and a rapid timer will count down from 99. The player must move to that door and destroy the bomb with gunfire. Shooting a customer, being shot by a robber, failing to destroy a bomb, or failing to complete the level before the overall timer runs out (shown by a bar at the bottom of the screen) costs the player one life.
+
+Some robbers will wear white boots; these robbers need to be shot twice to be eliminated. At times, a robber may push a customer aside or duck out of view to avoid the player's gunfire, or a door may open to reveal a customer tied up with rope. In the latter case, the player has a short time to fire one shot and free the customer, who will then make three deposits instead of one; if the player waits too long, a robber pushes the customer aside.
+
+Shortly after a robber appears in a doorway, a timer appears above his head and begins to count quickly up to 0:30 and back down to 0:00, leading to a "FAIR" kill if he is shot during this period. Higher point values are awarded for shooting when the timer is closer to 0:00, but any shot fired before the timer appears leads to an "UNFAIR" kill and a minimum value. At the end of a level, the player earns bonus points for all deposits made and any remaining time, and a further bonus based on the average time of all FAIR kills made during the level.
+
+Each time the player shoots a red-shirted robber when the timer displays 0:00, one letter in the word EXTRA is awarded, shown at the bottom of the screen. Completing the word awards a large bonus and an extra life and immediately advances the player to the next level.
+
+== Reception ==
+In Japan, ''Game Machine'' listed ''Bank Panic'' on their November 1, 1984 issue as being the second most-successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=247|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 November 1984|page=31|lang=ja}}</ref>
+
+''[[Computer and Video Games]]'' magazine gave the arcade game a positive review, calling it a well-designed game.<ref name="CVG43">{{cite magazine |title=Can You Brave the Bandit Bank? |magazine=[[Computer and Video Games]] |date=16 April 1985 |issue=43 (May 1985) |page=95 |url=https://www.solvalou.com/arcade/reviews/214/583}}</ref> They later noted the game is similar to [[Nintendo]]'s ''[[Hogan's Alley (video game)|Hogan's Alley]]'', which was released in the same year.<ref name="CVG47">{{cite magazine |title=Arcade Action: Hogan's Alley |magazine=[[Computer and Video Games]] |date=16 August 1985 |issue=47 (September 1985) |page=119 |url=https://www.solvalou.com/arcade/reviews/218/593}}</ref> ''[[Computer Gamer]]'' magazine wrote that the "colourful and {{sic|humurous}} graphics make this an enjoyable, if simple in concept, game".<ref>{{cite magazine |last1=Roberts |first1=Mike |title=Coin-Op Connection |magazine=[[Computer Gamer]] |date=June 1985 |issue=3 |publisher=[[Argus Press]] |pages=18–9 |url=https://archive.org/details/Computer_Gamer_Issue_03_1985-06_Argus_Press_GB/page/n17/mode/2up}}</ref>
+
+==Legacy==
+''West Bank'' is a clone from [[Dinamic Software]] for the [[ZX Spectrum]],<ref>{{WoS_game|id=0005664|name=West Bank}}</ref> [[Commodore 64]], [[MSX]], and [[Amstrad CPC]]. A clone for [[Atari 8-bit computers]] 
+was released in 1992 as ''Bang! Bank!''<ref>{{cite web|title=Bang! Bank!|url=http://www.atarimania.com/game-atari-400-800-xl-xe-bang-bank_493.html|website=Atari Mania}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=7012}}
+
+[[Category:1984 video games]]
+[[Category:Arcade video games]]
+[[Category:Master System games]]
+[[Category:Midway video games]]
+[[Category:MSX games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Sanritsu Denki games]]
+[[Category:Sega arcade games]]
+[[Category:Sega video games]]
+[[Category:SG-1000 games]]
+[[Category:Video games about police officers]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games set in the United States]]
+[[Category:Western (genre) video games]]

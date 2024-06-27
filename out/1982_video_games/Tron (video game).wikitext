@@ -1,0 +1,98 @@
+Tron (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Tron_%28video_game%29&oldid=1215101427
+Accessed on: 2024-06-26T16:54:17.968520
+
+
+
+------
+Tron (video game)
+{{for|other video games based on the Tron franchise|Tron (disambiguation)}}
+{{Infobox video game
+| title = Tron
+| image = Tron Flyer.png
+| caption = North American arcade flyer
+| developer = [[Bally Midway]]
+| publisher = Bally Midway
+| designer = Bill Adams
+| programmer = Bill Adams
+| composer = Earl Vickers
+| series = 
+| engine = 
+| released = {{vgrelease|NA|August 1982<ref name="cashbox">{{cite magazine |title=Manufacturers Equipment |magazine=[[Cash Box]] |date=5 February 1983 |page=35 |url=https://archive.org/details/cashbox44unse_33/page/n34 |publisher=Cash Box Pub. Co.}}</ref>}}
+| genre = [[Action game|Action]]
+| modes = [[Single player]] or 2 players alternating
+| platforms = [[Arcade game|Arcade]], [[Xbox 360]]
+| arcade system = Midway MCR-II
+}}
+
+'''''Tron''''' is a coin-operated [[arcade video game]] manufactured and distributed by [[Bally Midway]] in 1982. The game consists of four subgames inspired by the events of the [[Walt Disney Pictures|Walt Disney Productions]] motion picture ''[[Tron]]'' released earlier in the summer. The [[lead programmer]] was Bill Adams.<ref name="alphaWorks">{{cite web | title = About the technology author(s) | work = IBM Multimodal Annotation Tool | publisher = alphaworks.ibm.com | date = 2002-08-09 | url = http://www.alphaworks.ibm.com/tech/multimodalannotation | format = Web | access-date = 2007-09-15 | archive-date = 2013-01-21 | archive-url = https://web.archive.org/web/20130121224444/https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=18d10b14-e2c8-4780-bace-9af1fc463cc0 | url-status = dead}}</ref> The music programmer was Earl Vickers.
+
+''Tron'' was followed by a 1983 sequel, ''[[Discs of Tron]]'', which was not as successful. A number of other licensed ''Tron'' games were released for home systems, but these were based directly on elements of the movie and not the arcade game.
+
+== Gameplay ==
+''Tron'' consists of four sub-games based on events and characters in the movie. In general, the player controls Tron, either in human form or piloting a vehicle, using an eight-way joystick for movement, a trigger button on the stick to fire (or slow down the player's light cycle), and a rotary dial for aiming. The goal of the game is to score points and advance through the game's twelve levels by completing each of the sub-games. Most of the 12 levels are named after programming languages: [[RPG (programming language)|RPG]], [[COBOL]], [[BASIC]], [[FORTRAN]], [[SNOBOL]], [[PL/I|PL1]], [[Pascal (programming language)|PASCAL]], [[ALGOL]], [[Assembly language|ASSEMBLY]], [[operating system|OS]], [[Job Control Language|JCL]], [[User (computing)|USER]].<ref name="3gcs">{{cite web | title = Tron Arcade | website =3gcs.com| url = http://www.3gcs.com/tron/games/tron/index.htm | format = Web | access-date = 2007-09-15 | quote = Information about technical specifications, cabinets, gameplay, level keywords. |archive-url = https://web.archive.org/web/20070702060611/http://www.3gcs.com/tron/games/tron/index.htm |archive-date = July 2, 2007}}</ref> The game supports two players alternating.<ref name="3gcs"/>
+
+At the start of each level, the player is taken to a "Game Grid" selection screen divided into four quadrants. The player must choose a quadrant, each of which corresponds to a different sub-game. The sub-game in each quadrant is not known to the player until it is selected. If the player fails the game and loses a life, they are taken back to this selection screen and an icon representing that game is now visible. Failure to choose a quadrant before an on-screen timer runs out results in a sub-game being chosen at random. Once the player completes a particular sub-game, it is taken out of play until the start of the next level.
+
+The sub-games are as follows:
+
+;I/O Tower
+The player must guide Tron to the flashing circle of an Input/Output Tower within a set time limit while avoiding or destroying Grid Bugs. This game is based on the I/O Tower scene in the film, while adding the Grid Bugs as enemies (which were only briefly mentioned in the film). A [[bit]] occasionally appears on the screen and can be picked up for bonus points.
+
+;MCP Cone
+The player must break through a rotating shield wall protecting the MCP cone and enter the cone without touching any of the shield blocks. This game is based on Tron's final battle with the MCP in the film, but changes the nature of the MCP's shield. Bonus points are awarded for destroying every block in the shield.
+
+;Light Cycles
+In a player-vs-AI variant of the [[Snake (video game genre)|Snake]] game concept, the player guides Tron's blue [[Light Cycle]] in an arena against one or more yellow opponents. The objective is to force the enemy cycles to crash into walls, jet trails, or each other, while simultaneously avoiding them. When an enemy cycle crashes, both it and its trail disappear. This game is based on the Light Cycle Arena sequence in the film, though the colors of the friendly and enemy characters are reversed. This is the only sub-game in ''Tron'' to not use the rotary dial.
+
+;Battle Tanks
+The player must guide Tron's red battle tank through a maze and destroy all of the opposing blue enemy tanks by shooting each of them three times. The tank can warp to a random location in the maze by moving into a diamond in the center, and its shots bounce off walls or obstructions until reaching their maximum travel distance. In higher difficulty levels, the enemy tanks are replaced by red Recognizers that are much faster and attempt to collide with the player instead of shooting at him/her. This game is not based on any particular scene, but is rather based on Tank Program elements, including Clu's failed intrusion into the ENCOM mainframe and the "Space Paranoids" game featured at the beginning of the film.
+
+==Development==
+[[File:Tron Arcade Machine.jpg|left|thumb|''Tron'' arcade machine]]
+[[Bally Midway]] had two different design teams submit pitches for the game. One team planned a first-person [[vector graphics]] game, while the second team suggested a collection of five minigames using existing Bally Midway technology; the second proposal was used because it had a better chance of being completed by the deadline.<ref name=EGM103>{{cite magazine |title=The Tron Competition|magazine=[[Electronic Gaming Monthly]] |publisher=Ziff Davis |issue=103 |date=February 1998 |page=90}}</ref> One of the five minigames was ultimately left out due to the time constraints.<ref name=EGM103/>
+
+== Reception ==
+''Tron'' was awarded "Coin-Operated Game of the Year" by ''[[Electronic Games]]'' magazine.<ref name="alphaWorks" />
+
+''[[The New York Times]]'' reported that 800 arcade cabinets were sold in 1982.<ref>{{cite news|last=Harmetz|first=Aljean|title=Movie Themes Come To Video Games |url=https://news.google.com/newspapers?id=OwEzAAAAIBAJ&pg=5470,748067|access-date=28 February 2012|newspaper=[[Star-News]]|date=3 July 1982}}</ref> By January 1983, it was number-four on the ''RePlay'' arcade charts.<ref>{{cite magazine |title=The Top Ten |magazine=[[Electronic Fun with Computers & Games]] |date=January 1983 |volume=1 |issue=3 |page=91 |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_03_1983-01_Fun_Games_Publishing_US/page/n90}}</ref> The book ''The naked computer'' reported that ''Tron'' made $45,000,000 by 1983.<ref>{{citation|title=The naked computer: a layperson's almanac of computer lore, wizardry, personalities, memorabilia, world records, mind blowers, and tomfoolery|author=Jack B. Rochester & John Gantz|publisher=[[William Morrow and Company]]|year=1983|isbn=0-688-02450-5|url=https://books.google.com/books?id=walFAAAAYAAJ|access-date=20 April 2011|page=164|quote=Although the Disney Studios expected to make over $400&nbsp;million from this siliconic extravaganza, our source at Variety tells us that its North American rentals were $15&nbsp;million and estimated total gross, $30&nbsp;million. The arcade game Tron, made by Bally, grossed more.}}</ref> In USgamer's estimation 10,000 cabinets were sold and the game made more than $30,000,000 in revenue by 1983.<ref>{{Cite web |last=Rignall |first=Jaz |date=2013-12-30 |title=Top 10 Biggest-Grossing Arcade Games of All Time |url=https://www.usgamer.net/articles/top-10-biggest-grossing-arcade-games-of-all-time-old |access-date=2022-07-20 |website=USgamer |archive-url=https://web.archive.org/web/20220730040244/www.usgamer.net/articles/top-10-biggest-grossing-arcade-games-of-all-time-old |archive-date=2022-07-30}}</ref> In 1995, [[Flux (magazine)|Flux]] magazine ranked the arcade version 49th on their Top 100 Video Games.  They praised the soundtrack and said at the time: "Even many of today's coin-ops can't compete with the mighty Tron."<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=30}}</ref>
+
+== Records ==
+The world record high score for ''Tron'' was set in July 2011 by David Cruz of Brandon, Florida. Cruz scored 14,007,645 points based on Twin Galaxies rules and settings for the game.<ref name="Twin Galaxies Scoreboard TRON">{{cite web | title = Twin Galaxies Scoreboard of TRON | website = twingalaxies.com | url = https://www.twingalaxies.com/game/tron/arcade/points/ | format = Web | access-date = 2010-12-29}}</ref>
+
+== Legacy ==
+''[[Discs of Tron]]'' (1983) is an arcade game which was originally intended as a fifth segment of ''Tron'' but was left out because programming was not finished in time.<ref name=EGM103/><ref name="3gcs" /> In it, the player engages in disc throwing combat, similar to the film sequence. ''Discs of Tron'' was not widely released.
+
+Two clones of the game, ''ElecTron'' (1984) and ''Kron'' (1983), were released for the [[TRS-80 Color Computer]].<ref>{{cite web | url=http://www.lcurtisboyle.com/nitros9/clones.html | title=Tandy (TRS-80) Color Computer Games - Arcade Clones Index }}</ref>
+
+The light cycles segment of ''Tron'' has led to [[Snake (video game genre)|''Snake'']] games sometimes being called "Light Cycles" games, despite the concept dating from 1976. Some post-''Tron'' snake games use themes or terminology from the film.
+
+The 2004 [[Game Boy Advance]] game ''[[Tron 2.0|Tron 2.0: Killer App]]'' contains ports of the original ''Tron'' and ''Discs of Tron'' arcade games.
+
+''Tron'' was released for [[Xbox Live Arcade]] in January 2008, ported by [[Digital Eclipse]] and branded by [[Disney Interactive]].
+
+A miniature ''Tron'' arcade cabinet showing a looping video of the game's attract screens is featured as a toy in the ''Tron Legacy'' pinball machine, released in 2011 by [[Stern Pinball]].
+
+In October 2021, [[Arcade1Up]] released a recreated cabinet of the original ''Tron'' arcade game.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Tron (video game)}}
+* {{KLOV game|id=10204|name=Tron}}
+* [http://www.csh.rit.edu/~jerry/arcade/tron/ ''Tron'' homage site]
+
+{{Tron}}
+
+[[Category:Tron video games]]
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Arcade video games]]
+[[Category:Midway video games]]
+[[Category:Minigame compilations]]
+[[Category:Snake video games]]
+[[Category:Tank simulation video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:Multiplayer and single-player video games]]

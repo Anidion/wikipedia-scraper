@@ -1,0 +1,57 @@
+Jump Bug
+Permalink: //en.wikipedia.org/w/index.php?title=Jump_Bug&oldid=1225453631
+Accessed on: 2024-06-26T16:52:21.143017
+
+
+
+------
+Jump Bug
+{{Short description|1981 video games}}
+{{Infobox video game
+|title = Jump Bug
+|image = Jump Bug Poster.png
+|caption = North American arcade flyer
+|developer = [[Hoei Corporation]]<br />[[ADK (company)|Alpha Denshi]]
+|publisher = {{vgrelease|JP/EU|[[Sega]]<ref name="Game-Machine"/>|NA|[[Rock-Ola]]}}
+|engine =
+|designer =
+|platforms = [[Arcade video game|Arcade]], [[Arcadia 2001]], [[PC-98]]
+|released = {{vgrelease|WW|December 1981<ref name="Game-Machine"/><ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |edition=First |url=https://archive.org/details/ArcadeGameList1971-2005/page/n51 |accessdate=16 August 2019}}</ref><ref name="Game Machine 2">{{cite web|title=Jump Bug Advert (Japanese, new Sega coin-ops, 3rd page from left, bottom left)|url=https://archive.org/details/game-machine-magazine-19820101p/page/n9/mode/2up?view=theater|work=Game Machine Magazine 1st. Jan. '82| date=January 1982 |publisher=Amusement Press Inc., Osaka, Japan|accessdate=12 October 2022}}</ref>}}
+|genre = [[Scrolling shooter]], [[Platform game|platform]]
+|modes = 1-2 players, alternating
+|arcade system = [[Namco Galaxian]]
+}}
+
+{{nihongo foot|'''''Jump Bug'''''|ジャンプバグ|Janpu Bagu|lead=yes|group=lower-alpha}} is a 1981 [[scrolling shooter]] [[platform game]] developed by [[Alpha Denshi]] under contract for [[Hoei Corporation]].<ref>{{cite web | url=http://www.ne.jp/asahi/retro/retro/review/sa/jumpbug.html | title=ジャンプバグ レトロゲームしま専科 | accessdate=2008-06-18 | archive-url=https://web.archive.org/web/20080211104613/http://www.ne.jp/asahi/retro/retro/review/sa/jumpbug.html | archive-date=2008-02-11}}</ref> It was distributed in [[Arcade video game|arcades]] by [[Sega]] in Japan and Europe, and by [[Rock-Ola]] in North America.<ref name="Game-Machine">{{cite magazine|title=Overseas Readers Column - Hoei Grants "Jump Bug" —Rock-Ola for U.S.A. and Sega for Other Areas—|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=179|publisher=Amusement Press, Inc.|date=15 December 1981|page=30|url=https://onitama.tv/gamemachine/pdf/19811215p.pdf#page=16}}</ref> The player controls a bouncing [[Volkswagen]]-esque car in a forced scrolling world. The car can eliminate enemies by shooting them and collect money bags by landing on them. The world is divided into several separately themed areas which are seamlessly connected. ''Jump Bug'' was ported to the [[Arcadia 2001]], [[Leisure Vision]], and [[PC-98]] home systems.
+
+''Jump Bug'' is one of the earliest forced scrolling horizontal shooters, following in the wake of ''[[Scramble (video game)|Scramble]]'' and ''[[Super Cobra]]'' from earlier in 1981. It is the first game in the nascent [[platform game]] genre to include [[Side-scrolling video game|horizontal]] and, in one segment, vertical [[scrolling]].  It uses a limited form of [[parallax scrolling]], with the main scene scrolling while starry night sky is fixed and clouds move slowly, adding depth to the scenery. This was a year before ''[[Moon Patrol]]'' (1982), with its three moving layers.<ref>{{cite book |last1=Uduslivii |first1=Igor |title=iPhone Game Blueprints |date=26 December 2013 |publisher=[[Packt Publishing Ltd]] |isbn=978-1-84969-027-0 |page=339 |url=https://books.google.com/books?id=C5R4AgAAQBAJ&pg=PT339}}</ref>
+
+==Gameplay==
+The player controls a constantly bouncing car, which resembles a [[Volkswagen Beetle]] (or "bug"), driving through a city, mountains, pyramid, and underwater. The height of the jump and speed of a fall are controlled with the joystick. The player can shoot various enemies that appear. Points are gained by collecting treasure, killing enemies, and jumping on clouds.<ref>{{KLOV game|8250}}</ref> Each treasure collected adds to a meter; an extra life the first time it is filled.
+
+The game smoothly scrolls as the player's car moves to the right, but in the pyramid segment the game also scrolls vertically in a coarser manner. Here the player is able to move in any direction, including to the left, while looking for the exit.
+
+==Reception==
+In Japan, ''Jump Bug'' was tied with ''[[Scramble (video game)|Scramble]]'' and ''[[Space Panic]]'' as the 14th highest-grossing 1981.<ref>{{cite magazine|title="Donkey Kong" No.1 Of '81 — ''Game Machine's Survey Of "The Year's Best Three AM Machines"'' —|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=182|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1982|page=30|url=https://onitama.tv/gamemachine/pdf/19820215p.pdf#page=16}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.arcade-history.com/?n=jump-bug&page=detail&id=1236 ''Jump Bug''] at Arcade History
+
+[[Category:1981 video games]]
+[[Category:ADK (company) games]]
+[[Category:Arcade video games]]
+[[Category:Banpresto games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Platformers]]
+[[Category:Rock-Ola games]]
+[[Category:Scrolling shooters]]
+[[Category:Sega arcade games]]
+[[Category:Video games developed in Japan]]

@@ -1,0 +1,50 @@
+Phasor Zap
+Permalink: //en.wikipedia.org/w/index.php?title=Phasor_Zap&oldid=1133723726
+Accessed on: 2024-06-26T16:47:56.933079
+
+
+
+------
+Phasor Zap
+{{Short description|1978 video game}}
+{{Infobox VG
+|title =
+|image = 
+|developer = 
+|publisher = [[The Elektrik Keyboard]]
+|programmer = [[Christian Oberth|Chris Oberth]]
+|released = [[1978 in video gaming|1978]]
+|genre = 
+|modes = [[Single-player]]
+|platforms = [[Apple II family|Apple II]]
+}}
+
+'''''Phasor Zap''''' is a game for the [[Apple II series|Apple II]] family of computers, created in 1978 by programmer [[Christian Oberth|Chris Oberth]] and published by [[The Elektrik Keyboard]] of [[Chicago, Illinois]].<ref name="ek">{{cite book
+|title=The Elektrik Keyboard (catalog)
+|edition=
+|year=c. 1979
+|publisher=The Elektrik Keyboard
+|location=Chicago, Illinois
+}}</ref>
+
+==Game play==
+''Phasor Zap'' presents the player with a purple-tinted starfield that represents the view from the player's spacecraft.  Enemy spacecraft appear from the edges of the screen and move straight across it, and it's up to the player to use to the [[paddle (game controller)|paddles]] to focus four "phasor" beams onto each ship to destroy it, earning points.  The player begins with a limited amount of phasor energy, one point of which is consumed each time the player shoots.  When the amount of remaining energy reaches zero, the phasor is depleted and the game is over.
+
+When an enemy ship crosses either the vertical or horizontal center line of the screen, it fires, scoring a hit.  When this happens, the word "ZAP!" briefly fills the screen.  If the player hasn't already run out of phasor energy, the game will end when the enemies score 99 hits.<ref name="ek" /><ref name="pz">{{cite video game
+| title = Phasor Zap
+| developer = Chris Oberth
+| publisher = The Elektrik Keyboard
+| date = 1978
+| platform = Apple II
+}}</ref>
+
+The term "phasor" alludes to the [[Weapons in Star Trek#Phasers|phaser]] energy weapons used in the ''[[Star Trek: The Original Series|Star Trek]]'' science fiction series.
+
+==References==
+{{reflist}}
+
+[[Category:1978 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Elektrik Keyboard games]]
+[[Category:Video games developed in the United States]]

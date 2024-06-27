@@ -1,0 +1,75 @@
+Quedex
+Permalink: //en.wikipedia.org/w/index.php?title=Quedex&oldid=1122159612
+Accessed on: 2024-06-26T17:02:54.509881
+
+
+
+------
+Quedex
+{{Refimprove|date=January 2019}}
+{{Infobox video game
+|title = Quedex
+|image = Quedex.jpg
+|developer = [[Thalamus Ltd|Thalamus]]
+|publisher = [[Thalamus Ltd|Thalamus]]<br>[[Epyx]]
+|designer = Stavros Fasoulas
+|composer = Matt Gray<ref>{{cite web|url=http://www.retrogamesmaster.co.uk/matt-gray-interview/|title=Matt Gray Interview|website=Retrogamesmaster.co.uk|date=18 March 2017 |access-date=5 January 2019}}</ref>
+|released = '''1987:''' C64<br>'''1988:''' Amiga, MS-DOS<br>'''1989:''' TRS-80 Color Computer
+|platforms = [[Amiga]], [[Commodore 64]], [[MS-DOS]], [[TRS-80 Color Computer]]
+|modes = [[Single-player]]
+}}
+
+'''''Quedex''''' is a game released for the [[Commodore 64]] in 1987 by [[Thalamus Ltd|Thalamus]]. It is the third game developed by Finnish game programmer Stavros Fasoulas. The game consists of ten planes where the player steers a silvery ball and must find an exit square in order to leave the maze-like play-area. The name ''Quedex'' derives from the subtitle "The Quest for Ultimate Dexterity". In 1988, [[Epyx]] released ports of ''Quedex'' for the [[Amiga]] and [[MS-DOS]] under the name '''''Mindroll'''''.
+
+==Gameplay==
+The ten levels can be played in any order the player chooses.<ref name="zzap64">{{cite web|url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=31&page=130|title=View a Scan|website=Zzap64.co.uk|access-date=5 January 2019}}</ref> The game contains features and challenges such as jumping, going through teleports and finding keys that open gates. Only Planes 4 and 8 feature music, due to their more frenetic nature.
+
+{| class="wikitable"
+|-
+! Plane !! Description
+|-
+| 1 || Introductory level, teaching the player the mechanics of gameplay. Roll over flashing squares to reveal a hole to the next sub-plane. Also introduces time-draining electric pools and lifts.
+|-
+| 2 || Traverse a maze of teleports and doors, which are unlocked by picking up keys. Touching the skull tiles is fatal.
+|-
+| 3 || Teleports and electric tiles abound, and a sub-maze of invisible walls that reveal a pickup when you bump into them.
+|-
+| 4 || Race down an obstacle course; bumping into obstacles knocks time off the clock, as does jumping from a lift or into an electric pool. Jumps are limited to 4.
+|-
+| 5 || turn all the tiles textured by rolling over them. Flashing tiles affect several others; black tiles are safe spaces rather than holes. Jumps are limited to 9.
+|-
+| 6 || Navigate a maze of pipes, avoiding electric and skull tiles. Question mark icons litter the plane, some of which reveal the goal; however, some are invisible until you're within range. Jumps are limited to what you can pick up.
+|-
+| 7 || Grab as many time pickups as you can, but the plane is covered with Goal tiles. One slip and you're done. Collect all the pickups to reveal a bonus sub-plane with another 27, greatly enhancing your timer.
+|-
+| 8 || Work your way to the centre of a maze, collecting four keys to unlock the goal as you go. No time to waste, because the maze collapses around you. The route to the goal differs depending on the colour of the plane.
+|-
+| 9 || Destroy all the blocks. This can only be done by grabbing a cross pickup that turns the sphere blue and running into the blocks at high speed. Non-path tiles only drain your clock while flashing.
+|-
+| 10 || Hop across small islets of tiles, the height of which differs depending on how light or dark they are. Also features the game's only use of conveyor belts.
+|}
+
+Completing a plane took you to a brief bonus plane, in which a set sequence of directions had to be repeated.
+
+==Ports==
+''Quedex'' was released in America by [[Epyx]] under the name ''Mindroll'' on the [[Amiga]] and MS-DOS in 1988, and on the [[TRS-80 Color Computer]] in 1989. Silent Software was behind the conversion. The game also bore Thalamus copyrights. The look and feel of ''Mindroll'' was more bizarre and arcane in nature, with the sphere becoming an eyeball or 8-ball and the plane walls being ornately decorated. However, while the graphics were more colourful, the frame rate dropped greatly on both formats.
+
+==Reception==
+The game was positively reviewed by ''[[Zzap!64]]'' who described it as "an original, beautifully designed and superbly implemented puzzle package". It was given an overall score of 92%, earning the magazine's ''Sizzler'' accolade.<ref name="zzap64"/>  ''[[Commodore User]]'' were also impressed by the game, praising the "superb" graphics and sound and stating that it was "a strange game but a great game". It was awarded a 9/10 overall rating.<ref>{{cite web|url=http://amr.abime.net/issue_793_reviews|title=Commodore User (October 1987) Reviews - Amiga Magazine Rack|website=Amr.abime.net|access-date=5 January 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://dome.fi/pelit/artikkelit/pelit/suomalaisen-pelialan-varhaiset-vuodet-ja-ensimmaiset-suomalaiset-pelit Dome.fi - Early years of Finnish games (in Finnish)]
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Commodore 64 games]]
+[[Category:Epyx games]]
+[[Category:Puzzle video games]]
+[[Category:Silent Software games]]
+[[Category:Single-player video games]]
+[[Category:Thalamus Ltd games]]
+[[Category:TRS-80_Color_Computer_games]]
+[[Category:Video games developed in Finland]]

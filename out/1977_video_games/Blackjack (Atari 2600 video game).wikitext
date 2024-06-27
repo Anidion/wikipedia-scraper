@@ -1,0 +1,87 @@
+Blackjack (Atari 2600 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Blackjack_%28Atari_2600_video_game%29&oldid=1228565419
+Accessed on: 2024-06-26T16:47:41.578678
+
+
+
+------
+Blackjack (Atari 2600 video game)
+{{short description|1977 video game}}
+{{Use mdy dates|date=September 2017}}
+{{Infobox video game
+|title = Blackjack
+|image = Blackjack Atari 2600 Cover.jpg
+|caption = ''Blackjack'' art by Rick Guidice
+|developer = [[Atari, Inc.|Atari]]{{sfn|Weiss|2007|p=37}}
+|publisher = Atari{{sfn|Weiss|2007|p=37}}
+|designer = [[Bob Whitehead]]
+|released = September 1977
+|genre = [[Digital tabletop game]]{{sfn|Schwartz|Dykman}}
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multi-player]]
+|platforms = [[Atari 2600]]
+}}
+
+'''''Blackjack''''' is a [[video game]] simulation of the [[card game]] [[blackjack]]. It was designed by [[Bob Whitehead]] for the Atari [[Atari 2600|Video Computer System]] (later known as the Atari 2600). The game allows up to three players to play a variation of blackjack. Each player is given 200 chips where they can bet 1 to 25 of each round. The game ends for a player when they either run out of chips or earns 1000 chips or more.
+
+Computer simulations of blackjack have been developed since the 1950s with all the home video game consoles released in the 1970s having a variation of the game released for their system. Whitehead developed the game following his work on ''[[Star Ship]]'' (1977). He was responsible for specific development choices, such as controlling the game via the paddle controllers and initially planning to include other card games on the cart. Whitehead made ''Blackjack'' the first Atari 2600 game that would be able to copy graphics [[on the fly]], which would be used continuously in later games for the system.
+
+On the games release in September 1977, it was the most well received game of the systems launch titles by ''[[Video (magazine)|Video]]'' magazine. ''Blacjack'' was no longer promoted by Atari following the release of Whitehead's ''[[Casino (video game)|Casino]]'' in 1979, but still continued to sell in small amounts as late as 1989. Retrospective reviews were generally dismissive, with Brett Weiss and AllGame noting low quality sound and graphics while Kevin Bunch in ''Atari Archive: Vol.1 1977-1978'' found that the release of ''Casino'' made ''Blackjack'' a relatively superfluous game for the Atari 2600.
+
+==Gameplay==
+[[File:Blackjack Atari 2600.jpg|thumb|left|A single player game of ''Blackjack''. The dealer's hand can be seen at the top of the screen while the players is seen below it.]]
+''Blackjack''  can be played by one to three players. Each player stars with 200 chips and can bet 1 to 25 chips each round. The game is dealt by the computer. Each player is dealt two cards face-up, while the dealer is given two cards face down. Each card, has a point value assigned. Number cards have their face value, such as a five card being worth five points. [[Face card|Face cards]] are worth ten points, and an ace can be either be 1 or 11 points. The object of each round is to get 21 points or as close to 21 points without exceeding it. If a player is satisfied with their hand dealt to them, they can choose to stay. If they want to add more points, they can request a hit and receive another card from the dealer. A player can continue to hit until they option to stay or until they exceed 21 points and lose the round. The player wins the round if their hand has more points than the dealer's hand without exceeding 21 or if the dealer's hand exceeds 21 points. If the player wins with a "Black Jack" (an ace, or a face card along with a 10 card), they earn one and a half times their bet. A player's bet is either added or subtracted from their total score depending if they won or lost the round. The game ends when one player earns 1000 chips which "breaks the bank" or if the player has no remaining chips.{{sfn|Atari, Inc.|1977|ref=manual}}
+
+The difficulty switches on the Atari 2600 can effect the game play. If set left difficulty switch is set to position B, the dealer shuffles the deck after ever hand. If set to "A", the computer shuffles the cards after dealing 34 cards. If the right difficult switch is set to A, the dealer must hit a soft 17 or less and will stay on a hard 17. If your hand equals 10 or 11 points, the player must double their bet before their first hit. On option B, the dealer will stay on 17 or more points and all ties default to a win for the dealer and a player can win the game when they hit four times without going over 21 points.{{sfn|Atari, Inc.|1977|ref=manual}}
+
+==Development==
+[[File:Kurecik.jpg|thumb|Developer [[Bob Whitehead]] chose to use the paddle controllers (pictured) in ''Blackjack'' to convince players that enough games used the unique controllers to justify their cost.]]
+''Blackjack'' was designed by [[Bob Whitehead]].{{sfn|Bunch|2022|p=104}} Whitehead was born in San Jose, California and graduated from [[San Jose University]] with a degree in computer mathematics.{{sfn|Cohen|1982|p=104}} He joined the [[Atari, Inc.]] programming department in January 1977.{{sfn|Bunch|2022|p=70}} Whitehead began work on ''Blackjack'' following his adaptation of the arcade game ''[[Starship 1]]'' (1977) with ''[[Star Ship]]'' (1977) for the Atari 2600.{{sfn|Bunch|2022|pp=106-107}} Various blackjack games had been made before the Atari 2600 version, such as [[Los Alamos National Laboratory|Los Alamos]] engineers producing a version of the game for the [[IBM 701]] in the 1950s while most home video games consoles available in the late 1970s would have a Blackjack game on it, such as the [[Fairchild Channel F]] console with ''Videocart-3'' in 1976.{{sfn|Bunch|2022|p=104}}{{sfn|Bunch|2022|p=106}}{{sfn|Bunch|2022|p=272}}   
+
+Whitehead explained that developers for the system wanted to create games they thought they would enjoy themselves, believing that a gambling-themed game would be appealing to the staff. He jokingly described them as "teenagers between the ages 18 and 35."{{sfn|Bunch|2022|p=106}} Halfway through development, Whitehead contemplated adding other card games along with blackjack to the game but held back on the idea as it was important at the time to release more games for the system.{{sfn|Bunch|2022|p=107}} He specifically made the game to be controlled with the paddle controllers as he felt the game would be able to use them appropriately, and wanted owners of the system to feel that enough games used the controllers to justify their cost.{{sfn|Bunch|2022|p=107}}
+
+==Release and reception==
+Other than ''Combat'' which was included with the release of the Atari 2600, ''Blackjack'' was one of the initial eight launch titles that were shipped in September 1977.{{sfn|Weekly Television Digest|1977|p=10|ref=WTD}}{{sfn|Montfort|Bogost|2009|p=123}} The cover art of ''Blackjack'' was done by Rick Guidice.{{sfn|Lapetino|2016|p=60}}  Guidice was originally hired by Atari to for his architectural design skills to create the entrance for their building. This led to contract work with Atari for illustrations he would make based on descriptions of the games.{{sfn|Lapetino|2016|p=106}} Guidice said for ''Blackjack'' he was given creative freedom from the Atari art directors to come up with image ideas and decided to illustrate playing cards and happy people in a casino setting.{{sfn|Lapetino|2016|p=60}} He would go on to make cover art for other early Atari titles, including Whitehead's ''[[Casino (video game)|Casino]]'' (1979).{{sfn|Lapetino|2016|p=106}} ''Blackjack'' was re-released in various compilation formats, such as the ''Atari 80 in One'' for Windows in 2003, the ''[[Atari Anthology]]'' for [[PlayStation 2]] and [[Xbox]] in 2004, and ''[[Atari Greatest Hits|Atari Greatest Hits: Volume 2]]'' for [[Nintendo DS]] in 2011.{{sfn|Harris|2004}}{{sfn|Atari SA|2011|ref=AGH2-press}}
+
+''[[Video (magazine)|Video]]'' gave the game the highest ranking of the early releases for the console, praising the several variations of the game and declaring it a "good game for adults", awarding it a 10 out of 10 rating, the highest of any the releases for the system in 1977.{{sfn|Kaplan|1979|pp=32-33}} David H. Ahl of ''[[Creative Computing (magazine)|Creative Computing]]'' only gave the game a brief mention of the game in their overview of the launch titles for the Atari 2600, categorizing them all as "games are designed with many hours of fun in mind."{{sfn|Ahl|1978|pp=38-39}}
+
+From retrospective reviews, Author and video game enthusiast [[Ken Uston]] listed the game as among his least favourite from Atari in 1983.{{sfn|Uston|1983|p=68}} Michael Schwartz and Joan Dykman of [[Allgame]] dismissed the game, noting poor graphics, irritating audio, and specifying that the worst feature was its slow pace concluding that "''Blackjack'' is just not a fun video game, even by 1977 standards."{{sfn|Schwartz|Dykman}} Brett Weiss in his book ''Classic Home Video Games 1972-1984'' (2007) complimented the control via the paddle allowed for nice rapid play, while finding that the graphics and sound to be "as primitive as possible", noting the lack of suits on the cards and the lack of certain gameplay elements of ''Blackjack'' such as the ability to double down or split pairs.{{sfn|Weiss|2007|p=37}} Kevin Bunch in ''Atari Archive: Vol.1 1977-1978'' found that the release of ''[[Casino (video game)|Casino]]'' (1979) made ''Blackjack'' a relatively superfluous release in the Atari 2600 library, while saying that it "was not a bad rendition of the card game" noting the ease of use in the controller, and highlighted small touches like the sound effect of the dealer cutting the cards if the player gets through an entire deck.{{sfn|Bunch|2022|p=107}}
+
+==Legacy==
+''Blackjack'' was the first game to rewrite copy graphics [[on the fly]], which would make the Atari 2600 display graphics beyond what it was built to do.{{sfn|Bunch|2022|p=107}} Whitehead explained that the Atari 2600 was initially only intended to have a certain amount of object images on the screen, but as the television scans down the screen, the program could actually moves these object images around.{{sfn|Bunch|2022|p=108}} This technique was used in several later games for the system to show six-character score ranges.{{sfn|Bunch|2022|p=107}}
+
+Whitehead's desire to make more card games available was later realized with his game ''Casino'' released in March 1979, which included variants on [[stud poker]], [[Patience (game)|solitaire]] as well as blackjack.{{sfn|Bunch|2022|p=107}} Following the release of ''Casino'', ''Black Jack'' was no longer highlighted in promotional material from Atari and was discontinued by the January 1982 Consumers Electronic Show. The game remained on the market with some remaining small sales figures for the game still appearing as late as 1989.{{sfn|Bunch|2022|p=108}}
+
+==See also==
+{{Portal|Video games}}
+*[[List of Atari 2600 games]]
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite press release|title=Atari Announces Atari Greatest Hits: Volume 2 Featuring Four-Player Multiplayer for the First Time|date=January 6, 2011|work=[[PR Newswire]]|url=https://www.prnewswire.com/news-releases/atari-announces-atari-greatest-hits-volume-2-featuring-four-player-multiplayer-for-the-first-time-113009104.html|publisher=[[Atari SA]]|access-date=February 16, 2024|ref=AGH2-press|archiveurl=https://web.archive.org/web/20110602060647/https://www.prnewswire.com/news-releases/atari-announces-atari-greatest-hits-volume-2-featuring-four-player-multiplayer-for-the-first-time-113009104.html|archivedate=June 2, 2011}}
+* {{cite book|title=Blackjack Game Program Instructions|publisher=[[Atari, Inc.|Atari]]|year=1977|id=C011402-51|ref=manual}}
+* {{cite magazine|magazine=Weekly Television Digest|date=October 17, 1977|volume=17|issue=42|title=Games-Deja Vu Sets In|ref=WTD}}
+* {{cite magazine|magazine=[[Creative Computing (magazine)|Creative Computing]]|date=July-August 1978|volume=4|issue=4|last=Ahl|first=David H.|title=A Creative Computing Equipment Profile... Atari Video Computer System}}
+* {{cite book|title=Atari Archive: Vol.1 1977-1978|last=Bunch|first=Kevin|publisher=[[Limited Run Games|Press Run Books]]|isbn=978-1-955183-21-5|year=2022}}
+* {{cite book|title=Video Games|last=Cohen|first=Daniel|publisher=Pocket Books|year=1982|isbn=0-671-45872-8}}
+* {{cite web|first=Craig|last=Harris|title=Atari Anthology|url=https://www.ign.com/articles/2004/11/30/atari-anthology|publisher=[[IGN]]|date=November 30, 2004|access-date=January 26, 2023|archiveurl=https://web.archive.org/web/20230126195851/https://www.ign.com/articles/2004/11/30/atari-anthology|archivedate=January 26, 2023}}
+* {{cite magazine|magazine=[[Video (magazine)|Video]]|date=Winter 1979|volume=1|issue=5|title=Atari Video Computer|publisher=Reese Communications|editor-last=Kaplan|editor-first=Deeny}}
+* {{cite book|title=Art of Atari|last=Lapetino|first=Tim|publisher=[[Dynamite Entertainment]]|isbn=978-1-5241-0103-9|year=2016}}
+* {{cite book|last1=Montfort|first1=Nick|last2=Bogost|first2=Ian|title=Racing the Beam|publisher=[[MIT Press]]|year=2009|isbn=978-0-262-01257-7|title-link=Racing the Beam|author-link2=Ian Bogost|author-link1=Nick Montfort}}
+* {{cite web|url=http://www.allgame.com/game.php?id=8389&tab=review|archiveurl=https://web.archive.org/web/20141114130101/http://www.allgame.com/game.php?id=8389&tab=review|publisher=[[Allgame]]|last1=Schwartz|first1=Micahel|last2=Dykman|first2=Joan|title=Blackjack|archivedate=November 14, 2014|accessdate=February 26, 2024}}
+* {{cite magazine|magazine=Video Games|date=January 1983|volume=1|issue=4|publisher=Pumpkin Press Inc.|title=Uston's Least Favorite Games|authorlink=Ken Uston|last=Uston|first=Ken}}
+* {{cite book|title=Classic Home Video Games 1972-1984|last=Weiss|first=Brett|publisher=[[McFarland & Company, Inc.]]|isbn=978-0-7864-3226-4|year=2007}}
+
+==External links==
+*{{atarimania|id=7925}}
+
+{{Atari 2600}}
+
+[[Category:1977 video games]]
+[[Category:Atari games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Blackjack video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]

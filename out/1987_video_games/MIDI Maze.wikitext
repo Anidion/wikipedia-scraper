@@ -1,0 +1,109 @@
+MIDI Maze
+Permalink: //en.wikipedia.org/w/index.php?title=MIDI_Maze&oldid=1224495704
+Accessed on: 2024-06-26T17:02:39.208561
+
+
+
+------
+MIDI Maze
+{{citations needed|date=June 2021}}
+{{Infobox video game
+|title = MIDI Maze
+|image = [[Image:MIDI Maze.jpg|200px|MIDI Maze]]
+|caption = Cover art
+|developer = Xanth Software F/X
+|publisher = Hybrid Arts<small> (ST)</small><br>[[Bullet-Proof Software]]<small> (GB, SNES)</small><br/>[[Riverhillsoft]]<small> (PC, GG)</small>
+|released= '''Atari ST'''{{vgrelease|NA|1987}}'''Game Boy'''{{vgrelease|NA|December 1991}}'''SNES'''{{vgrelease|NA|September 1992}}'''Super CD-ROM²'''{{vgrelease|JP|November 26, 1993}}'''Game Gear'''{{vgrelease|JP|December 17, 1993}}
+|genre = [[First-person shooter]] <br> [[Maze game|Maze]]
+|modes = [[Multiplayer video game|Multiplayer]]
+|platforms = [[Atari ST]], [[Game Boy]], [[Game Gear]], [[Super Nintendo Entertainment System|SNES]], [[Super CD-ROM²]]
+}}
+
+'''''MIDI Maze''''', also known as '''''Faceball 2000''''', is a networked [[first-person shooter]] [[maze game]] for the [[Atari ST]] developed by Xanth Software F/X and released in 1987 by Hybrid Arts. The game takes place in a maze of untextured walls. The world animates smoothly as the player turns, much like the earlier ''[[Wayout]]'', instead of only permitting 90 degree changes of direction. Using the [[MIDI]] ports on the Atari ST, the game is said to have introduced [[Deathmatch (video games)|deathmatch]] combat to gaming in 1987.  It also predated the [[LAN party]] concept by several years. The game found a wider audience when it was converted to ''Faceball 2000'' on the [[Game Boy]].
+
+==Gameplay==
+[[Image:ST Midi Maze.png|thumb|Atari ST gameplay]]
+Up to 16 computers can be networked in a "MIDI Ring" by [[Network_topology#Daisy_chain|daisy chaining]] MIDI ports that are built into the Atari ST series.
+
+The game area occupies only roughly a quarter of the screen and consists of a [[First person (video games)|first-person view]] of a flat-shaded maze with a crosshair in the middle. All players are shown as ''Pac-Man''-like [[smiley]] [[Avatar (computing)|avatars]] in various colors.<ref>{{cite web|title=25 years of Pac-Man|publisher=MeriStation|date=July 4, 2005|url=http://www.meristation.com/v3/des_articulo.php?pic=DC&id=cw42b7458f0dfc7&idj=&idp=&tipo=art&c=1&pos=7|access-date=2011-05-06|archive-date=2011-09-29|archive-url=https://web.archive.org/web/20110929150234/http://www.meristation.com/v3/des_articulo.php?pic=DC&id=cw42b7458f0dfc7&idj=&idp=&tipo=art&c=1&pos=7|url-status=dead}} ([https://translate.google.com/translate?u=http%3A%2F%2Fwww.meristation.com%2Fv3%2Fdes_articulo.php%3Fpic%3DDC%26id%3Dcw42b7458f0dfc7%26idj%3D%26idp%3D%26tipo%3Dart%26c%3D1%26pos%3D7&sl=es&tl=en&hl=&ie=UTF-8 Translation])</ref><ref>{{cite web|url=http://www.gamesradar.com/f/gamings-most-important-evolutions/a-20101008102331322035/p-5|title=Gaming's Most Important Evolutions|page=5|publisher=[[GamesRadar]]|date=October 8, 2010|access-date=2011-04-27}}</ref> Bullets are represented as small spheres.
+
+The game is started by a designated master machine, which sets rules, divides players into teams, and selects a maze. A number of mazes come with the game, and additional mazes can be constructed using a text-editor.
+
+==Development==
+The original ''MIDI Maze'' team at Xanth Software F/X consisted of James Yee as the business manager, Michael Park as the graphic and networking programmer, and George Miller writing the AI and drone logic.{{Citation needed|date=October 2019}}
+
+==Ports==
+A [[Game Boy]] version was developed by Xanth, and published in 1991 by [[Blue Planet Software|Bullet-Proof Software]], with the title ''Faceball 2000''.<ref>Schiffmann, William. "In your Face! New toy will wow Game Boy owners." Chicago Sun-Times. 1992-05-22. Retrieved 2012-10-21 via HighBeam Research [https://web.archive.org/web/20140611135346/http://www.highbeam.com/doc/1P2-4111554.html URL].</ref> James Yee, owner of Xanth, had the idea of porting the 520ST application to the Game Boy. George Miller was hired to rewrite the AI-based drone logic, giving each drone a unique personality trait.{{citation needed|date=June 2018}} This version allows two players with a [[Game Link Cable]], or up to four players with the Four Player Adapter.
+
+It is often rumored that the Game Boy version would allow up to 16 players by daisy-chaining Four Player Adapters, which is not the case. According to programmer Robert Champagne, the game does contain a 16-player mode; however, it requires a special connector that would be bundled with the game, to create a "chain" of Game Link Cables. As Nintendo did not allow them to do so, that connector was never released, so the 16-player mode cannot be enabled using Game Boy systems.<ref>{{cite web |last1=Komarechka |first1=Don |title=Interview with Robert Champagne |url=http://fb2k.retro-spect.ca/rchampagne.html |website=Faceball 2000 GB |archive-url=https://web.archive.org/web/20100509163809/http://fb2k.retro-spect.ca/rchampagne.html |access-date=22 November 2020|archive-date=2010-05-09 }}</ref> However, a method exists for players to daisy chain Game Boy Advance link cables, where each purple end connects to the hub of another cable and the gray ends connecting to a Game Boy Advance, to allow up to 15 players.<ref>{{cite web |title=Faceball 2000 - The 3D First Person Shooter for the original Game Boy that supported 16 players! |url=https://redd.it/x6y87z |website=Reddit |access-date=6 September 2022 }}</ref>
+
+A [[Super Nintendo Entertainment System|Super Nintendo]] version, also titled ''Faceball 2000'', was released in 1992, supporting two players in split-screen mode. This version features completely different graphics and levels from the earlier Game Boy version. A variety of in-game music for this version was composed by [[George Sanger (musician)|George "The Fat Man" Sanger]].<ref>{{Citation |title=City Zone - Faceball 2000 (SNES Music) By George Sanger |url=https://soundcloud.com/slugsnail/city-zone-faceball-2000-snes-music-by-george-sanger |language=en |access-date=2022-06-03}}</ref>
+
+A [[Game Gear]] version, also titled ''Faceball 2000'', was released to the [[Japan]]ese market by [[Riverhillsoft|Riverhill Soft]].<ref>Komarechka, Don. "[http://www.electricpickleonline.com/?p=22 Interview: EPO talks to Darren Stone about Faceball 2000] {{Webarchive|url=https://web.archive.org/web/20100108053904/http://www.electricpickleonline.com/?p=22 |date=2010-01-08 }}." Electric Pickle Online. 2006-03-19. Retrieved 2012-10-21.</ref> It is a colorized version of the monochrome Game Boy version, supporting two players with two handheld consoles connected by the Gear-to-Gear Cable.
+
+A [[TurboGrafx-16#TurboGrafx-CD/CD-ROM²|PC-Engine CD-ROM]] version, titled only ''Faceball'' (フェイスボール), was released in Japan by Riverhill Soft.{{citation needed|date=June 2018}}
+
+===Unreleased ports===
+A port of ''MIDI Maze'' for [[Atari 8-bit computers]] was developed by Xanth, but cancelled circa 1989. A prototype was eventually found and the ROM was released.<ref>{{cite web |last=Reichert |first=Matt |title=MIDI Maze |website=AtariProtos.com |url=http://www.atariprotos.com/8bit/software/midimaze/midimaze.htm |access-date = 2007-11-27}}</ref><ref>{{cite web |url=http://www.atarimania.com/game-atari-400-800-xl-xe-midi-maze_3380.html |website=Atari Mania |access-date=12 December 2020|title=Atari 400 800 XL XE MIDI Maze : Scans, dump, download, screenshots, ads, videos, catalog, instructions, roms }}</ref>
+
+According to Robert Champagne, other unreleased ports were worked on at Xanth, including IBM PC and NES.<ref>{{cite web |last1=Komarechka |first1=Don |title=Interview with Robert Champagne |url=http://fb2k.retro-spect.ca/rchampagne.html |website=Faceball 2000 GB |archive-url=https://web.archive.org/web/20100509163809/http://fb2k.retro-spect.ca/rchampagne.html |access-date=22 November 2020|archive-date=2010-05-09 }}</ref>
+
+A port for Nintendo's [[Virtual Boy]] console, to be titled ''NikoChan Battle'' (ニコちゃんバトル) in Japan, was almost completed, but canceled as the system was discontinued in late 1995.<ref>{{cite web |title=NikoChan Battle for Virtual Boy |url=https://gamefaqs.gamespot.com/virtualboy/189285-nikochan-battle |website=GameFAQs |access-date=22 November 2020}}</ref> A prototype was found in 2013, and the ROM was subsequently released.<ref>{{cite web |last1=Suszek |first1=Mike |title=Lost Virtual Boy game NikoChan Battle found and being re-released |url=https://www.engadget.com/2013-01-06-lost-virtual-boy-game-nikochan-battle-found-and-being-re-release.html |website=Engadget |access-date=22 November 2020}}</ref><ref>{{cite web |title=Niko-Chan Battle (Prototype) |url=https://hiddenpalace.org/Niko-Chan_Battle_%28Prototype%29 |website=Hidden Palace |access-date=22 November 2020}}</ref>
+
+==Reception==
+{{Video game reviews
+| GR = 51.67% (SNES)<ref>{{cite web|url=https://www.gamerankings.com/snes/588319-faceball-2000/index.html|title=Faceball 2000 SNEA Review Score|archive-url=https://web.archive.org/web/20190513171252/https://www.gamerankings.com/snes/588319-faceball-2000/index.html|archive-date=2019-05-13}}</ref><br/>73.75 (GB)<ref>{{cite web|url= https://www.gamerankings.com/gameboy/585702-faceball-2000/index.html|title=Faceball 2000 Game Boy Review Score|archive-url=https://web.archive.org/web/20190522084019/https://www.gamerankings.com/gameboy/585702-faceball-2000/index.html|archive-date=2019-05-22}}</ref>
+| CVG = 35/100 (SNES)<ref>{{cite magazine|url=https://archive.org/details/Computer_and_Video_Games_Issue_0138/page/94/mode/2up?q=%22Harley%27s+Humongous+Adventure%22|title=Faceball 2000|magazine=[[Computer and Video Games]]|date=May 1993|issue=138|page=95|accessdate=July 16, 2021}}</ref>
+| VGS = 59% (SNES)<ref>{{cite magazine|last=Paul|first=Michael|url=https://archive.org/details/video-games-de-1992-12/page/54/mode/2up?q=%22Faceball+2000+%22|title=Faceball 2000|date=December 1992|language=de|magazine=[[:de:Video Games|Video Games]]|page=55|accessdate=July 16, 2021}}</ref>
+}}
+In 1994, [[Sandy Petersen]] reviewed the game for ''[[Dragon (magazine)|Dragon]]'' magazine, giving it 2 out of 5 stars.<ref name="Dragon201">{{cite magazine
+|title=Eye of the Monitor
+|author=Petersen, Sandy
+|magazine=Dragon
+|issue=201
+|date=January 1994
+|pages=57–62
+|author-link=Sandy Petersen}}</ref> Super Gamer magazine gave an overall review score of 82% writing: "Ultra successful on the little Game Boy, this 3-D maze shoot-'em-up has been totally uprated for the SNES."<ref>{{Cite journal|date=May 1994|title=Faceball 2000 SNES Review|url=https://archive.org/details/super-gamer-02/page/122/mode/2up|journal=Super Gamer|location=[[United Kingdom]]|publisher=[[Paragon Publishing]]|issue=2|pages=122|access-date=March 13, 2021}}</ref>
+
+''[[Entertainment Weekly]]'' picked ''Faceball 2000'' as the #5 greatest game available in 1991, saying: "The Game Boy meets virtual reality (i.e., artificial, computer-enhanced, first-person perspective). In ''Faceball 2000'', you assume the identity of a Holographically Assisted Physical Pattern Yielded for Active Computerized Embarkation — or HAPPYFACE — and hunt down your opponents. You can play alone or link up with as many as three additional players. More fun than real-life tag, and much more stimulating."<ref>[https://ew.com/article/1991/11/22/video-games-guide/ Video Games Guide],  Bob Strauss, November 22, 1991, EW.com</ref> [[CNET|CNET Gamecenter]] called ''MIDI Maze'' one of the 10 most innovative computer games of all time.<ref>[https://web.archive.org/web/20000615070900/http://www.gamecenter.com/Features/Exclusives/Hallofgame/ss04.html Features - The Hall of Game Innovation], GAMECENTER.COM, ''...Midi Maze...Hybrid Arts...Derivatives: Doom and its countless clones...''</ref> In 2018, [[Den of Geek]] ranked the game 25th on their "25 Underrated Game Boy Games."<ref>{{Cite web|last=Freiburg|first=Chris|date=2018-08-27|title=25 Underrated Game Boy Games|url=https://www.denofgeek.com/games/25-underrated-game-boy-games/|access-date=2022-01-09|website=Den of Geek|language=en-US}}</ref>
+
+==Legacy==
+''[[Personal Computer World]]'' said that in 1987, ''MIDI Maze'' introduced the concept of [[Deathmatch (video games)|deathmatch]] combat, using the built-in [[MIDI]] ports of the Atari ST for networking.<ref name="Gaming Timeline">{{cite magazine | magazine=[[Personal Computer World]] | date=February 21, 2008 | first=Iain | last=Thomson | title=Gaming Timeline | url=http://www.highbeam.com/doc/1G1-175206283.html | url-status=dead | archive-url=https://web.archive.org/web/20140629100106/http://www.highbeam.com/doc/1G1-175206283.html | archive-date=June 29, 2014 | access-date=June 14, 2020}}</ref>
+
+''MIDI-Maze II'' was later developed by Markus Fritze for Sigma-Soft and released as [[shareware]].{{Citation needed|date=October 2019}}
+
+''iMaze'' is an [[open-source video game|open source]] [[Video game clone|clone]] of the game for [[Unix-like]] systems.<ref>{{cite web |last=Wilson |first=Hamish | date=2023-01-23 | title=Building a Retro Linux Gaming Computer - Part 26: Coming to You Live | url=https://www.gamingonlinux.com/2023/02/building-a-retro-linux-gaming-computer-part-26-coming-to-you-live/ | website=GamingOnLinux | accessdate=2023-02-20}}</ref>
+
+==See also==
+*''[[Maze War]]''
+*''[[Wayout]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=9972}}
+* [https://web.archive.org/web/20040820221008/http://www.1up.com/do/feature?cId=3133741 ''Faceball 2000''], #25 of [[1Up.com|1UP's]] Essential 50
+* [https://web.archive.org/web/20120210183432/http://www.electricpickleonline.com/?p=22 ''Darren Stone (Xanth Programmer) talks about Faceball 2000''], at EPO
+
+{{DEFAULTSORT:Midi Maze}}
+[[Category:1987 video games]]
+[[Category:1991 video games]]
+[[Category:1992 video games]]
+[[Category:1993 video games]]
+[[Category:Atari ST games]]
+[[Category:TurboGrafx-CD games]]
+[[Category:Blue Planet Software games]]
+[[Category:Cancelled Atari 8-bit computer games]]
+[[Category:Game Boy games]]
+[[Category:Game Gear games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Cancelled Virtual Boy games]]
+[[Category:Split-screen multiplayer games]]
+[[Category:Maze games]]
+[[Category:Multiplayer null modem games]]
+[[Category:First-person shooters]]
+[[Category:Video games scored by David Whittaker]]
+[[Category:Video games scored by George Sanger]]
+[[Category:Video games developed in the United States]]
+[[Category:Riverhillsoft games]]

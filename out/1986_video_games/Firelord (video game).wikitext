@@ -1,0 +1,61 @@
+Firelord (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Firelord_%28video_game%29&oldid=1220290678
+Accessed on: 2024-06-26T16:59:59.740551
+
+
+
+------
+Firelord (video game)
+{{Infobox video game
+|title = Firelord
+|image = Firelord poster.jpg
+| alt = Firelord promotional poster
+|designer = [[Stephen Crow]]
+|composer = [[Ben Daglish]]
+|publisher = [[Hewson Consultants]]
+|developer = 
+|released = 29 October 1986 (Spectrum/Amstrad), 25 November 1986 (C64)<ref name='cvgfirelord'>{{cite magazine |title=Firelord|magazine=Computer and Video Games|issue=61|publisher=EMAP|date=November 1986|page=111|url=https://archive.org/details/ComputerAndVideoGamesIssue061Nov86/page/n110|access-date=11 May 2023}}</ref>
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player]] 
+|platforms = [[ZX Spectrum]], [[Amstrad CPC]], [[Commodore 64]]<ref>{{cite magazine| url=https://archive.org/stream/amtix-magazine-15/Amtix_15_Jan_1987#page/n38/mode/1up |author=<!-- No byline --> |title=Firelord (Ad) |magazine=[[Amtix]] |publisher=[[Newsfield]] |issn=0952-3022 |issue=15 |page=39 |date=January 1987 |access-date=2018-06-13}}</ref>
+}}
+
+'''''Firelord''''' is an [[action-adventure game]]  written by [[Stephen Crow]]<ref>{{cite magazine| url=https://archive.org/stream/amtix-magazine-15/Amtix_15_Jan_1987#page/n38/mode/1up |author=<!-- No byline --> |title=Firelord (Ad) |magazine=[[Amtix]] |publisher=[[Newsfield]] |issn=0952-3022 |issue=15 |page=39 |date=January 1987 |access-date=2018-06-13}}</ref> and released in [[1986 in video gaming|1986]] for [[ZX Spectrum]], [[Amstrad CPC]] and [[Commodore 64]] by [[Hewson Consultants]]. The game's opening theme was composed by [[Ben Daglish]].
+
+==Gameplay==
+The player controls the knight Sir Galaheart, who must explore the cursed kingdom of Torot on a quest to recover the four charms of eternal youth. The Evil Queen has tricked the Dragon into parting with the sacred Firestone and used it to curse the kingdom with ghostly apparitions and deadly fireballs, and will only relinquish it in exchange for the four charms.
+
+Galaheart is initially defenceless and must quickly find an enchanted crystal in order to defend himself against the cursed apparitions the Evil Queen has flooded the kingdom with. He must then explore the kingdom, destroying apparitions and looking for clues to the location of the four charms. Galaheart can trade with various inhabitants for spells, information and items or attempt to steal them - being caught attempting to steal during trading leads to a "trial" in which the player has to attempt to stop on "innocent" rather than "guilty" with three successively faster alternating arrows. Items can only be stolen if the player has sufficient items to trade for them in the first place. Extra enchanted crystals can be found scattered around the kingdom and the player can use these as initial trading items.
+
+Galaheart has a constantly depleting energy level which is sapped further by contact with the apparitions and which can be restored by collecting food, "trading energy" which is depleted during trading and can be restored by collecting trading tokens and weapon energy which is depleted by firing and can be restored by collecting small crystals. Galaheart has an initial allocation of lives which can be lost by running out of energy, colliding with a fireball or being executed after being caught stealing. Extra lives can be found scattered throughout the kingdom. Most collectible items are of a fixed type, but some cycle through the available options allowing the player with careful timing to collect the powerup most needed at the time.
+
+When the game ends (either through successfully returning the Firestone or losing all the lives) the player is ranked in a pseudo-mediaeval ranking from [[serf]] through various English [[titles of nobility]] up to the ultimate accolade of "Firelord". In order to achieve the highest ranking, the player must successfully steal the Firestone rather than trading the four charms for it, however it is only possible to steal the Firestone if the player has the four charms available to trade to begin with as with any other attempted theft.
+
+==Reception==
+{{Video game reviews
+| Amtix = 88%<ref>{{cite magazine |url=https://archive.org/stream/amtix-magazine-15/Amtix_15_Jan_1987#page/n14/mode/1up |author=<!-- No byline --> |title=Firelord |magazine=[[Amtix]] |publisher=[[Newsfield]] |issn=0952-3022 |issue=15 |page=15 |date=January 1987 |access-date=2018-06-13}}</ref>
+| CRASH = 91%<ref>{{cite magazine |url=https://archive.org/stream/crash-magazine-35/Crash_35_Dec_1986#page/n21/mode/2up |author=<!-- No byline --> |title=Firelord |magazine=[[Crash (magazine)|Crash]] |publisher=[[Newsfield]] |issn=0954-8661 |issue=35 |pages=22–23 |date=December 1986 |access-date=2018-06-13}}</ref>
+| SUser = 5/5<ref>{{ cite magazine |url=https://archive.org/stream/sinclair-user-magazine-056/SinclairUser_056_Nov_1986#page/n31/mode/2up |author=<!-- No byline --> |title=Firelord |magazine=[[Sinclair User]] |publisher=[[EMAP]] |issn=0262-5458 |issue=56 |pages=32–33 |date=November 1986 |access-date=2018-06-13}}</ref>
+| YSinclair = 7/10<ref>{{cite magazine |url=https://archive.org/stream/your-sinclair-12/YourSinclair_12_Dec_1986#page/n54/mode/1up |author=<!-- No byline --> |title=Firelord |magazine=[[Your Sinclair]] |publisher=[[Dennis Publishing|Sportscene Specialist Press]] |issn=0269-6983 |issue=12 |page=53 |date=December 1986 |access-date=2018-06-13}}</ref>
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{lemon64 game|id=923|name=Firelord}}
+* [http://www.worldofspectrum.org/infoseekid.cgi?id=0001775 ''Firelord''] at [[World of Spectrum]]
+
+[[Category:1986 video games]]
+[[Category:Action-adventure games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Fantasy video games]]
+[[Category:Video games scored by Ben Daglish]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Hewson Consultants games]]

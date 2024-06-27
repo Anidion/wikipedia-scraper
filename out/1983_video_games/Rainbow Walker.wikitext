@@ -1,0 +1,61 @@
+Rainbow Walker
+Permalink: //en.wikipedia.org/w/index.php?title=Rainbow_Walker&oldid=1224492830
+Accessed on: 2024-06-26T16:55:42.846951
+
+
+
+------
+Rainbow Walker
+{{short description|1983 video game}}
+{{Infobox video game
+|title = Rainbow Walker
+|image = Rainbow Walker coverart.png
+|caption = Cover art by Tim Boxell
+|developer = [[Synapse Software]]
+|designer = Steve Coleman<ref name=plotkin/>
+|publisher = Synapse Software
+|released = '''1983:''' Atari 8-bit<br>'''1984:''' C64
+|genre = [[Action game|Action]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''Rainbow Walker''''' is an [[action game]] designed by Steve Coleman for [[Atari 8-bit computers]] and published by [[Synapse Software]] in 1983.<ref name=plotkin/> A [[Commodore 64]] port followed.<ref name=gb/> The player hops along a rainbow, changing monochromatic squares to color, while avoiding dangerous creatures and gaps in the surface. Coloring the entire rainbow ends the level. There are bonus rounds between levels.
+
+The Atari version was part of a  "Double Play" promotion, where some Synapse games had a second, complete game [[flippy disk|on the other side of the diskette]]. The Double Play re-release of ''Rainbow Walker'' includes the game ''Countdown'' by Ken Rose.<ref>{{cite journal|last1=Powell|first1=Jack|journal=Antic|date=July 1985|volume=4|issue=3|url=http://www.atarimagazines.com/v4n3/SynapseGames.html|title=Eight New Synapse Games}}</ref> Coleman also wrote another game published by Synapse in 1983, ''[[The Pharaoh's Curse (video game)|The Pharaoh's Curse]]''.<ref name=plotkin/>
+
+==Gameplay==
+[[Image:Rainbow Walker A800 ingame.png|left|thumb|Coloring the rainbow at night.]]
+
+The player controls a small creature named Cedrick who hops on a flat rainbow curving into the screen, giving a [[2.5D|pseudo 3D]] quality to the game.<ref>{{cite web|url=https://www.youtube.com/watch?v=fhXzYNNtDRA|title=Rainbow Walker for the Atari 8-bit family |website=YouTube}}</ref><ref name=bell/> The rainbow consists of 8 arcs, each of which contains 16 squares. Hopping along an arc scrolls the rainbow and eventually wraps around to the starting square. Each level omits some parts of this grid to make it more challenging. At the start of each round the squares are gray, and moving onto them adds color. The goal is to color the entire rainbow.
+
+Falling off the rainbow costs one life. Holding the button while moving jumps over a square.<ref name=manual/>
+
+Other creatures attempt to change the squares back to gray or to knock Cedrick off the rainbow. A shooting star moves along an arc then drops Cedrick off, possibly in a location without a square.<ref name=manual/> A demon bird carries Cedrick into the clouds and undoes all of the coloring done in the level.<ref name=mace/> Fragile squares break if Cedrick stands on them for too long. One offensive opportunity is that if Cedrick steps on a fragile square, then it stops creatures moving for a few seconds during which time they can be stomped on and eliminated. The freeze effect is cancelled if the rainbow scrolls.
+
+There are twenty levels in all, with [[bonus stage]]s between them, and then the game ends.<ref name="manual">{{citation|url=https://archive.org/details/agm_Rainbow_Walker|title=Rainbow Walker manual|website=archive.org}}</ref> After reaching level five, it is possible to start a new game at that level, though only in the current play session.<ref name=mace/> In the bonus round, the player must stay on a short chain of squares which moves in four directions. Points are awarded for how long the player lasts without falling.
+
+==Reception==
+In a 1984 ''[[Antic (magazine)|Antic]]'' review, Andrew Bell wrote, "''Rainbow Walker'', Synapse Software's latest arcade-style game, joins the company's previous games as one of the most imaginative, graphically stimulating and playable games on the market."<ref name=bell/> Tracie Forman of ''[[Electronic Games]]'' called ''Rainbow Walker'' "especially ear-pleasing” and concluded, "a pleasant game that has a way of growing on the player."<ref name=forman/> In a review for ''[[InfoWorld]]'', Scott Mace wrote, "as I played, I grew more and more infatuated with the game. Then it became an obsession. Finally, it had my respect".<ref name=mace/> ''[[SoftSide]]'' called it "an artistic masterpiece and a lot of fun to play."<ref name=plotkin/>
+
+In 2014, ''[[Retro Gamer]]'' included ''Rainbow Walker'' on a list of the top ten Atari 8-bit family games.<ref>{{cite web |title=Top Ten Atari 8-Bit Games |url=https://web.archive.org/web/20230929093533/https://www.retrogamer.net/top_10/top-ten-atari-8-bit-games/ |website=Retro Gamer |date=February 17, 2014}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="bell">{{cite journal|last1=Bell|first1=Andrew|title=Product Reviews: Rainbow Walker|journal=Antic|url=https://www.atarimagazines.com/v3n5/reviews.html|date=September 1984|volume=3|issue=5}}</ref>
+<ref name="forman">{{cite journal |last1=Forman |first1=Tracie |title=Software Showcase: Rainbow Walker |journal=Electronic Games |date=September 1984 |volume=2 |issue=14 |page=35 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_14_1984-09_Reese_Communications_US/page/n33}}</ref>
+<ref name="mace">{{cite journal |last1=Mace |first1=Scott |title=Electronic Antics: Rainbows and Trains |journal=InfoWorld |date=March 26, 1984 |page=74 |url=https://archive.org/details/Infoworld-1984-03-26/page/n75}}</ref>
+<ref name="gb">{{cite web |title=Rainbow Walker |url=http://www.gb64.com/game.php?id=6188&d=18&h=0 |website=Gamebase 64}}</ref>
+<ref name="plotkin">{{cite journal |last1=Plotkin |first1=David |title=A Full Broadside from Synapse Software |journal=SoftSide |date=January 1984 |issue=46 |url=https://archive.org/details/softside-magazine-61/page/n79/mode/2up}}</ref>
+}}
+
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Synapse Software games]]
+[[Category:Video games developed in the United States]]
+
+==External links==
+*{{atarimania|id=4277}}
+*{{MobyGames|id=/rainbow-walker}}

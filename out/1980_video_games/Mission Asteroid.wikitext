@@ -1,0 +1,66 @@
+Mission Asteroid
+Permalink: //en.wikipedia.org/w/index.php?title=Mission_Asteroid&oldid=1228198519
+Accessed on: 2024-06-26T16:51:44.023660
+
+
+
+------
+Mission Asteroid
+{{Short description|1980 video game}}
+{{Infobox video game
+|title = Mission Asteroid
+|image = On-Line-Systems-00-Mission-Asteroid.jpg
+|caption = Re-release cover art<ref>{{cite web |title=Mission Asteroid - Boxed Release (Commodore 64) |url=http://vintage-sierra.net/hires/mav3.php |website=Vintage-Sierra.net |access-date=9 March 2019}}</ref>
+|developer = [[On-Line Systems]]
+|publisher = On-Line Systems
+|designer = [[Roberta Williams]]<ref name="giantlist"/>
+|programmer = [[Ken Williams (game developer)|Ken Williams]]<ref name="giantlist"/>
+|series = ''[[Hi-Res Adventures]]''
+|engine = ADL
+|released = '''1980:''' Apple<br/>'''1982:''' Atari<ref name="mania"/><br/>'''1983:''' C64
+|genre = [[Graphic adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II series|Apple II]], [[Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''Mission Asteroid''''' (shown as '''''Mission: Asteroid''''' in the manual and on the title screen)<ref name=mania/> is a [[graphic adventure]] game for the [[Apple II series|Apple II]] written by Ken and Roberta Williams and released in 1980 by [[Sierra Entertainment|On-Line Systems]].<ref name="giantlist"/>
+
+==Publication history==
+The game was released as ''[[List of Hi-Res Adventures video games|Hi-Res Adventures]]'' #0, despite being released after ''[[Mystery House]]'' and ''[[Wizard and the Princess]]''. It was meant as an introduction to the adventure game genre so it was made easier than the rest of ''Hi-Res Adventures'' games.<ref name="cat81">{{cite web | title=On-Line Systems Catalog | url=https://www.sierragamers.com/wp-content/uploads/2019/12/Catalog_1981_On_Line_Systems.pdf | date=1981}}</ref>
+
+It was ported to the [[Atari 8-bit computers]]<ref name="mania"/> and [[Commodore 64]].
+
+==Reception==
+[[File:On-Line Systems - Hi-Res Adventure - June 1981 The On-Line Letter advert.jpg|thumb|left|Advertisement from the June 1981 issue of ''The On-Line Letter'' for some of On-Line Systems' ''Hi-Res Adventure'' games, including ''Mission Asteroid''.]]
+Mark Marlow reviewed ''Mission: Asteroid'', ''Mystery House'', and ''The Wizard and the Princess'' for ''[[Computer Gaming World]]'', and stated that "''Mission: Asteroid'' is the simplest of the group and only requires a few hours to solve".<ref name="CGW2">{{cite magazine | last=Marlow | first=Mark | title=Micro - Reviews | magazine=Computer Gaming World | date=January–February 1982 | volume=1 | issue=2 | pages=31–32}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web|url=http://dadgum.com/giantlist/ |title=The Giant List of Classic Game Programmers |last1=Hague |first1=James}}</ref>
+<ref name="mania">{{cite web|url=http://www.atarimania.com/game-atari-400-800-xl-xe-hi-res-adventure-0-mission-asteroid_2465.html|website=Atari Mania|title=Mission: Asteroid}}</ref>
+}}
+
+==External links==
+* [https://archive.org/details/Mission_Asteroid_Hi-Res_Adventure_0 Apple II manual] at archive.org
+* {{atarimania|id=2465}}
+* [http://gamebase64.com/game.php?id=4899&d=18&h=0 ''Mission Asteroid''] at Gamebase 64
+
+{{Sierra Adventure Games|Hi-Res}}
+
+[[Category:1980 video games]]
+[[Category:Adventure games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Fiction about near-Earth asteroids]]
+[[Category:FM-7 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:ScummVM-supported games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Single-player video games]]
+[[Category:Video games designed by Roberta Williams]]
+[[Category:Video games developed in the United States]]
+
+{{SierraEntertainment-stub}}
+{{adventure-videogame-stub}}

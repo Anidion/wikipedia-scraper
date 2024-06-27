@@ -1,0 +1,62 @@
+Chicken (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Chicken_%28video_game%29&oldid=1227741449
+Accessed on: 2024-06-26T16:53:08.745570
+
+
+
+------
+Chicken (video game)
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Chicken
+|image = Chicken_cartridge_box_art.jpg
+|programmer = Mike Potter<ref name="giantlist"/>
+|publisher = [[Synapse Software]]
+|released = 1982
+|genre = [[action game|Action]]
+|modes = 1-4 players alternating turns
+|platforms = [[Atari 8-bit computers|Atari 8-bit]]
+}}
+
+'''''Chicken''''' is a video game for [[Atari 8-bit computers]] written by Mike Potter and published by [[Synapse Software]] in 1982.<ref name="giantlist"/> The game is similar to [[Atari, Inc.]]'s. 1978 [[arcade video game]] ''[[Avalanche (video game)|Avalanche]]'', replacing the buckets and boulders with a hen trying to catch her eggs.
+
+==Gameplay==
+[[Image:Chicken_gameplay.gif|thumb|left|Two eggs falling toward the chicken's basket at the bottom]]
+
+''Chicken'' follows the design of the 1978 arcade game ''Avalanche'', but with a number of twists. The player is in control of a chicken that can move horizontally back and forth along the bottom of the playfield, pushing a basket. At the top, a fox drops the chicken's eggs over a series of moving blocks. The eggs fall through gaps between the blocks, which randomize their final drop point.
+
+If an egg reaches the ground, it cracks open and hatches into a chick. These form barriers to motion for the player, but the chicken can jump over them by pressing the fire button. If a player steps on a chick, a farmer appears and kicks the player off the screen. The action increases in pace until it becomes extremely fast-paced.<ref name="anderson"/>
+
+The game can be played with a joystick, but is best played with a [[Paddle (game controller)|paddle controller]]. Up to four players can be in a single game, but they take turns using the single controller.<ref name="anderson"/>
+
+==Development==
+Mike Potter joined Synapse in 1981 after writing the game ''[[Protector (video game)|Protector]]'' and initially distributing it through another company, Crystalware. When he questioned his royalties, they released the game back to him. He rereleased a version through Synapse with a number of bug fixes.<ref name="hague">{{cite web |first=James |last=Hague |url=http://www.dadgum.com/giantlist/archive/potter.html |title=Mike Potter's Story |website= The Giant List of Classic Game Programmers |date=17 January 2000}}</ref>
+
+''Chicken'' was his first game written entirely at Synapse, and the first whose idea was given to him by Synapse's founder, Ihor Wolosenko. Wolosenko's primary inspiration was arcade games, and many of Synapse's releases from this era are adaptations of contemporary games for the Atari platform.
+
+==Reception==
+''[[Creative Computing (magazine)|Creative Computing]]'' called the game "silly, but fun" and noted that the players often broke out laughing.<ref name="anderson"/>
+
+==See also==
+* ''[[Eggomania]]''
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|url=https://dadgum.com/giantlist/|title=The Giant List of Classic Game Programmers |last1=Hague |first1=James}}</ref>
+<ref name="anderson">{{cite encyclopedia |first=John |last=Anderson |editor-first1=David |editor-last1=Small |editor-first2=Sandy |editor-last2=Small |editor-first3=George |editor-last3=Blank  |title=Not Just Fun in Games |encyclopedia=The Creative Atari |url=http://www.atariarchives.org/creativeatari/Not_Just_Fun_in_Games.php |publisher=Creative Computing |date=1983 }}</ref>
+}}
+
+==External links==
+* {{internet archive game|a8b_Chicken_1982_Synapse_Software_US}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Synapse Software games]]
+[[Category:Video games about birds]]
+[[Category:Fictional chickens]]
+[[Category:Video games about foxes]]
+[[Category:Video game clones]]
+[[Category:Video games featuring female protagonists]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

@@ -1,0 +1,75 @@
+Pyracurse
+Permalink: //en.wikipedia.org/w/index.php?title=Pyracurse&oldid=1220289350
+Accessed on: 2024-06-26T17:00:45.207875
+
+
+
+------
+Pyracurse
+{{Short description|1986 video game}}
+{{Infobox video game
+|title = Pyracurse
+|image = Pyracurse cover.jpg
+|developer = Mark Goodall<br>Keith Prosser
+|publisher = [[Hewson Consultants]]
+|released = 1986
+|genre = [[Arcade adventure]]
+|modes = [[Single-player]]
+|platforms = [[ZX Spectrum]]
+}}
+
+'''''Pyracurse''''' is an [[Isometric projection|isometric]] [[arcade adventure]] game released by [[Hewson Consultants|Hewson]] in [[1986 in video gaming|1986]] for the [[ZX Spectrum]].
+
+== Plot ==
+The [[archeologist]] Sir Pericles Pemberton-Smythe has disappeared while exploring the mysterious ruins of an ancient city in the forests of [[South America]]. The player must lead the rescue party to the missing scientist and then escape the haunted city and its sinister guardians.
+
+== Gameplay ==
+The player controls the four members of the party, each of whom have different abilities
+
+#Daphne Pemberton-Smythe, daughter of the missing archeologist (good at finding things)
+#Professor Roger Kite (clever but naive and prone to getting lost)
+#Patrick "Legless" O'Donnell, a journalist with a drink problem (strong but clumsy)
+#Frozbie the dog (can find buried objects)
+
+The characters are controlled via the keyboard or joystick in Mobile Mode. Pressing "fire" activates Selection Mode: a menu system which is navigated by the "right" and "left" commands. The "up" and "down" commands return the player to Mobile Mode. Selection Mode allows the player to choose another character to control, use objects, or toggle the character mode between "SOLO" and "LEAD", the latter option causing the [[non-player characters|computer controlled characters]] to follow the player's character.
+
+Useful objects are scattered about the city, and can be picked up by simply walking over them. Certain objects can be thrown as weapons by selecting them in the inventory window, and then pressing "fire" while moving in Mobile Mode. This procedure is also used to drop unwanted items. Different characters use objects in different ways (e.g. Patrick and the Professor can throw further than Daphne.)
+
+Many different monsters can be found guarding the city. Some will ignore the party unless approached. Others will actively pursue interlopers on sight.
+
+== Development ==
+Mark Goodall, one of the game developers:
+<blockquote>"The game was an idea of [[Andrew Hewson]]'s. All we kicked off with was that we wanted a game with four characters and that the working title was to be "Sphinx" ... we wanted it set in the classic adventuring period between the wars like ''[[Raiders of the Lost Ark]]'' ... We moved the setting to [[South America]] from [[Egypt]] because it seemed more mysterious and we could tie in a sort of [[Von Daniken]] mysterious-alien-visitors idea ...</blockquote>
+
+<blockquote>"I got a lot of ideas - specific designs even - for how the game would look from an old catalogue I had from an exhibition of [[Inca]] treasure that had been held at the [[Royal Academy]] ... the animation was the real problem. I spent a good few days crawling around the carpet on all fours trying to work out how a dog walks! ...</blockquote>
+
+<blockquote>"The actual plot of the game developed with the hard programming. We actually wrote a lengthy story featuring the characters which 'explained' how they came to be on the PYRACURSE quest. It also developed the individual characters and their motives. I actually did some work on coding 'personalities' for the characters in the game, but in the end this aspect of the program was dropped making it into something genuinely significant would have taken too much time."<ref name="Sincuser54">{{cite journal|last=Goodall|first=Mark|date=September 1986|title=Background Noise|journal=[[Sinclair User]]|publisher=[[Ascential|EMAP]]|issue=54|page=38|url=https://ia600301.us.archive.org/28/items/sinclair-user-magazine-054/SinclairUser_054_Sep_1986.pdf}}</ref>
+</blockquote>
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+}}
+*''[[ZX Computing]]'': "It does lack that certain something to make it a classic but it's only a near miss."<ref name="ZX Computing Review">{{Citation|title=Pyracurse Review|newspaper=[[ZX Computing]]|date=August 1986}}</ref>
+*''[[Sinclair User]]'': "... a disembodied head and shoulders above most other recent releases."<ref name="Sinclair User Review">{{Citation|title=Pyracurse Review|newspaper=[[Sinclair User]]|date=August 1986}}</ref>
+*''[[Crash (magazine)|Crash]]'': "A rewarding arcade adventure ... 90%."<ref name="Crash Review">{{Citation|title=Pyracurse Review|newspaper=[[Crash (magazine)|Crash]]|date=August 1986}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{WoS game|id=0003952|name=Pyracurse}}
+*{{moby game|id=/Pyracurse|name=''Pyracurse''}}
+
+[[Category:1986 video games]]
+[[Category:Action-adventure games]]
+[[Category:Hewson Consultants games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in South America]]
+[[Category:Video games with isometric graphics]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

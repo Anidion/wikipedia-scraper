@@ -1,0 +1,87 @@
+Seiddab Trilogy
+Permalink: //en.wikipedia.org/w/index.php?title=Seiddab_Trilogy&oldid=1135072876
+Accessed on: 2024-06-26T16:57:33.604357
+
+
+
+------
+Seiddab Trilogy
+{{Short description|Video game series}}
+{{Infobox video game
+| title          = The Seiddab Trilogy
+| image          = 3D Lunattack Inlay.jpg
+| caption        = 
+| developer      = [[Graftgold]]
+| designer       = [[Steve Turner (game programmer)|Steve Turner]]
+| publisher      = [[Hewson Consultants]]
+| series         = The Seiddab Trilogy
+| released       =''3D Space-Wars:'' 1983<br>''3D Seiddab Attack:'' 1984<br>''3D Lunattack:'' 1984
+| genre          = [[Shoot 'em up]]
+| modes          = [[Single-player]]
+| platforms      = [[ZX Spectrum]]
+}}
+
+The '''Seiddab Trilogy''' is a series of video games designed by [[Steve Turner (game programmer)|Steve Turner]] (as [[Graftgold]]) for the [[ZX Spectrum]] and published by [[Hewson Consultants]]. It consists of '''''[[3D Space-Wars]]''''' (1983),<ref>{{WoS game|name=3D Space-Wars|id=0004686}}</ref> '''''3D Seiddab Attack''''' (1984),<ref>{{WoS game|name=3D Seiddab Attack|id=0004393}}</ref> and '''''3D Lunattack'''''.<ref>{{WoS game|name=3D Lunattack|id=0002955}}</ref> All three games were later published together as '''''The Seiddab Trilogy''''' by Hewson for the [[Rotronics Wafadrive]].<ref>{{WoS game|id=0019031}}</ref> The series name is derived from the word "baddies" being spelt in reverse.
+
+'''''Astroclone''''' (1985), also written by Turner is part of this series.<ref>{{WoS game|id=0000299}}</ref>
+
+==3D Space-Wars==
+{{Main|3D Space Wars}}
+
+''3D Space-Wars'' was released in 1983 by [[Hewson Consultants]].<ref>{{WoS game|name=3D Space-Wars|id=0004686}}</ref>
+
+==3D Seiddab Attack==
+''3D Seiddab Attack'' was released in 1984 by Hewson Consultants.
+===Critical reception===
+[[Your Spectrum]]'s review highlighted the realistic 3D effect and split-screen display, but criticized the monochrome graphics and slow game speed.<ref>{{Cite journal|journal=Your Spectrum|title=Spectrum Soft|issue=4|pages=54|date=June 1984|url=http://www.users.globalnet.co.uk/~jg27paw4/yr04/yr04_52.htm}}</ref> [[Sinclair User]] awarded 5 out of 10, criticizing the unclear, flickering display but praising a sophisticated concept and satisfying explosions.<ref>{{Cite journal|journal=Sinclair User|url=http://www.sincuser.f9.co.uk/024/softwre.htm|issue=24|date=March 1984|pages=47|title=Spectrum Software Scene}}</ref> [[Personal Computer Games]] were unimpressed with the 3D effect and felt that the enemy ships were indistinct and the action unexciting.<ref>{{cite journal|date=April 1984|issue=5|pages=81|journal=Personal Computer Games|title=Screen Test: Spectrum}}</ref>
+
+==3D Lunatack==
+''3D Lunattack'' was released in 1984 by Hewson Consultants, and is the only game of the series that was also published for the [[Commodore 64]]. The player takes control of a Z5 Luna Hover Fighter in an attack against the Seiddab command base.   The Z5 must be piloted through three rings of defence before destroying the base.<ref name="CRASH_Review">{{Cite news|title=3D Lunattack Review|newspaper=[[CRASH (magazine)|CRASH]]|date=May 1984}}</ref>
+
+=== Gameplay ===
+<!-- Deleted image removed: [[Image:3D Lunattack ZX Spectrum Screenshot.gif|left|thumb|In-game screen from the ZX Spectrum version of the game]] -->
+The game requires the player to attack the Seiddab base, which is protected by three rings of defense. The first consists of robotically controlled tanks which fire missiles; these tanks can be destroyed by laser fire. The second ring is an area of mountains protected by mines, which are set to explode when the player gets too close. They may be shot using the Z5's lasers, or dodged. An exploding mine rocks the players craft altering its course. The third ring of defence is studded with missile silos, which may be attacked with the Z5's lasers.  If the player manages to penetrate the command zone, the base must be repeatedly strafed while avoiding its defensive firepower.<ref name="CRASH_Review" />
+
+At any time the player may be attacked by Seiddab fighters. The Z5 is armed with air-to-air missiles that can be used to destroy the enemy fighters before they come into range.  Once they are visible, the lasers must be used.  Weapon selection is automatic- if the target is below the horizon lasers will be used, if the target is above then missiles will be fired.<ref name="CRASH_Review" />
+
+The screen displays a cockpit with a horizon of mountains, and enemy craft displayed, and crosshair sights of the Z5's weaponry. There is also a radar display which switches on automatically when an enemy hover fighter is detected, and places a small box near the enemy location indicating the range to the fighter. At this stage missiles may be fired and forgotten.<ref name="CRASH_Review" />
+
+Below the main display are indicators for fuel, armament type in use and hull temperature, which increases to a critical point with each enemy strike.<ref name="CRASH_Review" />
+
+An additional audio track was included on the cassette tape. ''3D Lunattack'' also supported [[Currah Microspeech]].<ref name="CRASH_Review" />
+
+=== Reception ===
+{{Video game reviews
+| CRASH = 90% (A CRASH Smash)<ref name="CRASH_Review" />
+| SUser = 6/10<ref name="SU_Review">{{Cite news|title=3D Lunattack Review|newspaper=[[Sinclair User]]|date=June 1984}}</ref>
+}}
+Reviews were mixed.  While ''[[Sinclair User]]'' only gave the game 6/10,<ref name="SU_Review" /> ''[[CRASH (magazine)|CRASH]]'' awarded it a CRASH Smash at 90%.<ref name="CRASH_Review" />
+
+''Sinclair User'' said of the game "the controls are difficult to handle and of the type where you lose position rapidly through having to over-correct continually",<ref name="SU_Review" /> while ''CRASH'' decided that "the display is wonderful, the best three dimensional [[Battlezone (1980 video game)|Battlezone]]-type game yet... Really excellent, most playable and addictive too."<ref name="CRASH_Review" />
+
+==Astroclone==
+{{Infobox video game
+| title          = Astroclone
+| developer      = [[Graftgold]]
+| designer       = [[Steve Turner (game programmer)|Steve Turner]]
+| publisher      = [[Hewson Consultants]]
+| series         = The Seiddab Trilogy
+| released       = [[1985 in video gaming|1985]]
+| genre          = [[Action-adventure]]
+| modes          = [[Single-player]]
+| platforms      = [[ZX Spectrum]]
+}}
+''Astroclone'' was published in 1985 by Hewson Consultants. Its working title was ''Seiclone'', but was changed to avoid confusion with [[Vortex Software]]'s ''[[Cyclone (video game)|Cyclone]]''.<ref name="astrocrash">{{Cite journal|journal=CRASH|title=Mardoc Meets the Seiddab|issue=21|pages=44–45|author=Robin Candy|publisher=Newsfield}}</ref> The game combines [[shoot 'em up]] sections with [[arcade adventure]] elements that Turner had developed with ''[[Avalon The 3D Adventure Movie|Avalon]]'' (1984) and ''[[Dragontorc]]'' (1985).<ref name="astrocrash"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{WoS game|id=0004393}}
+
+[[Category:1984 video games]]
+[[Category:Shoot 'em ups]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in outer space]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

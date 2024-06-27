@@ -1,0 +1,81 @@
+Sea Wolf (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sea_Wolf_%28video_game%29&oldid=1225427251
+Accessed on: 2024-06-26T16:47:39.044176
+
+
+
+------
+Sea Wolf (video game)
+{{short description|1976 video game}}
+{{about||the 1994 video game|SSN-21 Seawolf|other uses|Seawolf (disambiguation)}}
+{{Infobox video game
+| title = Sea Wolf
+| collapsible = 
+| state = 
+| image = Sea wolf arcade midway flyer.jpg
+| caption = Arcade flyer
+| developer = [[Dave Nutting Associates]]
+| publisher = {{vgrelease|NA/EU|[[Midway Games|Midway]]<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=41, 124 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n42}}</ref><ref name="Germany">{{cite web |title=Video Game Flyers: Sea Wolf, Midway Manufacturing Co. (Germany) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=3305 |website=The Arcade Flyer Archive |access-date=3 May 2021}}</ref>|JP|[[Taito]]<ref name="Akagi"/>}}
+| designer = [[Dave Nutting]]
+| series = 
+| engine = 
+| released = {{vgrelease|NA|April 1976<ref name="Akagi"/>|JP|July 1976<ref name="Akagi"/>|EU|1976<ref name="Germany"/>}}
+| genre = [[Shooter game|Shooter]]
+| modes = 
+| platforms = [[Arcade video game|Arcade]], [[Commodore 64]], [[VIC-20]]
+| arcade system = Midway 8080/BW
+}}
+
+'''''Sea Wolf''''' is an [[arcade video game]] designed by [[Dave Nutting]] and released by [[Midway Games|Midway]] in 1976.<ref name="midway">{{cite web | title = Sea Wolf Killer List of Video Games Entry | url=http://www.arcade-museum.com/game_detail.php?game_id=9459 | accessdate = 2007-05-25}}</ref> It is a video game update of an [[Electro-mechanical game|electro-mechanical]] Midway game, ''Sea Devil'',<ref name="marvin">{{cite web|last=Marvin's Marvelous Mechanical Museum |title=1976 Midway Sea Wolf |url=http://www.marvin3m.com/arcade/seawolf.htm |accessdate=2007-05-25 |url-status=dead |archiveurl=https://web.archive.org/web/20070503082447/http://marvin3m.com/arcade/seawolf.htm |archivedate=May 3, 2007}}</ref> itself based on [[Sega]]'s 1966 electro-mechanical arcade [[submarine simulator]] ''[[Periscope (arcade game)|Periscope]]''.<ref>[[Steve L. Kent]] (2001), ''[[The ultimate history of video games: from Pong to Pokémon and beyond: the story behind the craze that touched our lives and changed the world]]'', p. 102, [[Prima Games|Prima]], {{ISBN|0-7615-3643-4}}</ref> The game was released in Japan by [[Taito]].<ref name="Akagi"/> In ''Sea Wolf'', the player, piloting an unseen submarine, launches torpedoes vertically in an attempt to sink ships moving horizontally across the screen before time runs out. The screen is viewed through a faux periscope mounted on the cabinet.
+
+The game sold 10,000 [[arcade cabinet]]s and was the highest-grossing arcade video game of 1976 and 1977 in the United States and Japan's fifth highest-grossing arcade video game of 1976.
+ 
+Midway released a color arcade sequel, ''Sea Wolf II'', in 1978.<ref name="Kent">{{citation|title=The first quarter: a 25-year history of video games|author=Steven L. Kent|publisher=BWD Press|year=2000|isbn=0-9704755-0-0|url=https://books.google.com/books?id=ny-CAAAAMAAJ|accessdate=2011-04-09|page=83|quote=''Sea Wolf'', which was another creation of Dave Nutting, did solid business, selling more than 10,000 machines. A later color version sold an additional 4000 units.}}</ref> In 1982, [[Commodore International]] produced cartridge ports of ''Sea Wolf'' for the [[VIC-20]] and then-new [[Commodore 64]] computers.<ref>{{cite web |title=Sea Wolf for Commodore 64 (1982) - MobyGames |url=http://www.mobygames.com/game/sea-wolf |accessdate=2012-06-07}}</ref>
+
+==Gameplay==
+{{Unreferenced section|date=January 2020}}
+The player looks through a large periscope to aim at ships moving across the virtual sea line at the top of the screen, using a thumb button on the right handle of the scope to fire torpedoes. The periscope swivels to the right and left, providing horizontal motion of a targeting cross-hair. The cabinet features a mixture of video game and older electro-mechanical technology for player feedback. Using back-lit transparencies reflected inside the scope, the number of torpedoes remaining are displayed, as well as a red "RELOAD" light which lights up momentarily when the player has launched five torpedoes. Additionally, when a ship is hit, a corresponding "explosion" light is reflected onto the screen image at the ship's approximate position. A blue overlay is affixed to the screen to provide a "water color" to the sea. Sounds include a sonar ping, the "whoosh" of launched torpedoes, torpedo explosions, and the klaxon sound of the PT boat racing across the screen.
+
+''Sea Wolf'' is time-limited, with the player having an opportunity to win bonus time by reaching an operator-set score. The player's score is shown on the bottom half of the screen as well as the [[high score]], one of the first known instances of a high score in a video game.<ref name="highscore">{{cite journal | title = Generations of Game Analytics, Achievements and High Scores | first = Ben | last = Medler | journal = Eludamos. Journal for Computer Game Culture | volume = 3 | issue = 2 | pages = 177–194 | date = 2009 | doi = 10.7557/23.6004 | s2cid = 62097541 | doi-access = free}}</ref> Targets include destroyers, a fast-moving PT boat, and mines floating across the screen that serve as obstructions.
+
+== History ==
+''Sea Wolf'' was developed by Dave Nutting Associates head David Nutting and programmer Tom McHugh. The two had previously worked together on ''[[Gun Fight]]'' (1975), an adaptation of Taito’s ''Western Gun'' (1975) re-engineered with a [[microprocessor]]. The hardware for ''Gun Fight'' was developed by Jeffery Frederiksen, an [[Intel 8080]]-based system utilizing a [[framebuffer]]. They decided to use this hardware system for several subsequent games, including ''Sea Wolf''.
+
+David Nutting got the idea for ''Sea Wolf'' from distributor Joe Robbins, who suggested that they create a video game upgrade of the classic electro-mechanical game ''[[Periscope (arcade game)|Periscope]]'' (1965).<ref>{{Cite book |last=Smith |first=Alexander |title=They create worlds: the story of the people and companies that shaped the video game industry |date=2020 |publisher=CRC Press, Taylor & Francis Group |isbn=978-0-429-42364-2 |location=Boca Raton}}</ref> As with a number of prior target shooting games with a submarine theme, a periscope viewing device directed the player's view onto the screen. The periscope had markers for depth level to help players judge the distance, as well as an analog graphical effect for the explosions.
+
+According to programmer Tom McHugh, he got sick towards the very end of developing the game. The final stages of the program were put together by [[Jamie Fenton]],<ref>{{Cite web |last=historyofhowweplay |date=2018-04-03 |title=Interview: Tom McHugh |url=https://thehistoryofhowweplay.wordpress.com/2018/04/03/interview-tom-mchugh/ |access-date=2024-03-16 |website=The History of How We Play |language=en}}</ref> but Fenton does not recall working on the game.
+
+''Sea Wolf'' is one of the first video games to include a high score feature, saving the highest value achieved prior to powering off. A button on the control panel allows the player to reset this score to zero.
+
+==Reception==
+In the United States, ''Sea Wolf'' was the highest-grossing arcade video game for two years in a row: 1976<ref>{{cite journal |title=Profit Chart |journal=RePlay |date=October 1976}}</ref> and 1977.<ref>{{cite journal |title=Top Arcade Games |journal=[[Play Meter]] |date=November 1977}}</ref><ref>{{cite journal |title=Profit Chart |journal=RePlay |date=November 1977}}</ref> It was the third highest-grossing arcade game of 1978 according to ''[[Play Meter]]'',<ref>{{cite magazine |title=The 'Winners' of '78: Top Arcade Games |magazine=[[Play Meter]] |date=1978}}</ref> or the year's fourth highest according to ''RePlay''.<ref name="Replay">{{cite magazine |title=Video Games |magazine=RePlay |date=November 1978}}</ref>
+
+In Japan, ''Sea Wolf'' was a commercial success for Taito. On the first annual ''[[:ja:ゲームマシン|Game Machine]]'' arcade chart, ''Sea Wolf'' was the fifth highest-grossing arcade video game of 1976 in Japan, below Taito's [[List of Taito games|''Ball Park'' (''Tornado Baseball'')]] and [[Speed Race|''Speed Race DX'' (''Wheels'')]], [[Sega]]'s ''[[Heavyweight Champ]]'', and ''[[Breakout (video game)|Breakout]]'' (licensed by [[Namco]] from [[Atari]]).<ref>{{cite magazine|title=本紙アンケー 〜 ト調査の結果|trans-title=Paper Questionnaire: Results of the Survey |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=65|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 February 1977|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19770201p.pdf#page=2}}</ref>
+
+''Sea Wolf'' eventually sold a total of 10,000 [[arcade cabinet]]s. ''Sea Wolf II'' sold another 4,000 units.<ref name="Kent"/>
+
+==Legacy==
+''Sea Wolf'' was followed by ''Sea Wolf II'' in 1978. In 1983, [[Epyx]] [[porting|ported]] ''Sea Wolf II'' and another Midway game, ''[[Gun Fight]]'', to the [[Atari 8-bit computers]] and released them in an "Arcade Classics" compilation.<ref name="atari">
+{{cite web | title = Arcade Classics: Sea Wolf II / Gun Fight | website = Atari Mania | url=http://www.atarimania.com/game-atari-400-800-xl-xe-arcade-classics-seawolf-ii-gun-fight_1169.html | accessdate = 2011-02-01}}</ref>
+
+In 2008, Coastal Amusements released a retro video [[redemption game]] based on the original ''Sea Wolf''.<ref>{{cite web|author=Shaggy |url=http://arcadeheroes.com/2008/04/16/shaggys-review-sea-wolf-by-coastal-amusements/ |title=Shaggy's Review – Sea Wolf by Coastal Amusements |publisher=Arcade Heroes |date= 16 April 2008|accessdate=2011-06-28}}</ref>
+
+==High score==
+The current world record holder for ''Sea Wolf'' is Alan Radue with a score of 11,300 points. The record was set on October 2, 2011, at the Tranquility Base Arcade and verified by [[Twin Galaxies|Twin Galaxies International]] on October 9.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{KLOV game|id=9459|name=Sea Wolf}}
+
+[[Category:1976 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:Midway video games]]
+[[Category:Naval video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set underwater]]
+[[Category:Dave Nutting Associates games]]

@@ -1,0 +1,72 @@
+Halley's Comet (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Halley%27s_Comet_%28video_game%29&oldid=1230840749
+Accessed on: 2024-06-26T17:00:09.078181
+
+
+
+------
+Halley's Comet (video game)
+{{short description|1986 arcade video game}}
+{{Infobox video game
+|title         = Halley's Comet
+|image         = Halley's Comet instruction card.jpg
+|developer     = [[Taito]]
+|publisher     = {{vgrelease|JP|Taito|NA|Coin-it}}
+|designer      = [[Fukio Mitsuji]]
+|composer      = [[Hisayoshi Ogura]]
+|series        = ''Halley''
+|platforms     = [[Arcade game|Arcade]], [[i-mode]], [[Yahoo Mobile]]
+|released      = {{vgrelease|JP|January [[1986 in video gaming|1986]]|NA|April 1986}}
+|genre         = [[Scrolling shooter]]
+|modes         = [[Single-player]], [[multiplayer]]
+}}
+
+'''''Halley's Comet''''' is an [[Arcade game|arcade]] [[video game]] created by Pacific Manufacturing Ltd and manufactured by its parent company [[Taito]].<ref name="MBASICM45">{{cite magazine|author=Exchanger|url=https://archive.org/stream/micomBASIC_1986-03#page/n219/mode/1up|title=Video Game: すい星接近!!君は地球を魔の手から守れるか - 八レ-ずい星|magazine=[[:ja:マイコンBASICマガジン|Micom BASIC Magazine]]|issue=45|publisher=[[:ja:電波新聞社|The Dempa Shimbunsha Corporation]]|date=March 1986|pages=236–237|lang=ja}}</ref> Receiving a worldwide release in 1986, ''Halley's Comet'' is a [[scrolling shooter|vertically scrolling shooter]] where the player defends various [[planet]]s around the [[Solar System]] from a direct collision with [[Halley's Comet]] and the various alien swarms which accompany it.
+
+== Gameplay ==
+[[File:ARC Halley's Comet.png|thumb|left|Arcade version]]
+A player who controls an armed space fighter must overcome waves of enemies, intercept a huge oncoming comet that is descending to destroy a planet in which player is assigned to protect, then infiltrate the inside of a comet to destroy it from within.
+
+The game opens with the player above Earth with the message "Defend the Earth from comets!". The player ship must navigate two stages per planet in the solar system (including Pluto, as the game was released well before the re-classification of Pluto in 2006). As enemy waves spawn at the player, all surviving enemy ships, and in rare cases, shots, will proceed past the player down a mini-map on the right-hand side of the screen and impact the planet. Each impact causes a 1% increase to the planet's damage. If the planet hits 100%, the game is over, regardless of the remaining stock of player lives. Damages done to planets stays as they are and there is no way to reduce them; only increasing damages by survived enemies. Thus letting enemies escape is not acceptable in this game.
+
+The first stage of each planet is divided by a mini-boss fight. This encounter is a large ship that fires large bullets in clusters at the player while standard enemy waves continue to spawn. The second half of the first stage ends with an encounter with the oncoming "comet" which will share the same colour as the planet being defended (blue for Earth, yellow for Venus, Red for Mars, and so on). The comet boss will open a small section of its exterior, revealing a small patch of circuitry from which a bullet will spawn. When the player destroys 5 such openings, the comet will explode and allow the player ship to enter the comet, starting stage two for that planet.
+
+Stage two for each planet encounter takes place inside the comet, which areveals to be an alien ship. Enemy waves continue to spawn until the player reaches the main boss for that planet. A large computer with 10 orange targets that will alternate between covered and uncovered, fires a bullet for each active target when opened. While all these battles go on both inside and outside of a comet, the comet slowly but surely continues to descend towards a stage's planet. If left unhindered, the comet will ultimately collide with and destroy the planet, resulting game over regardless of the remaining stock of player lives. The player must hurry destroying computers hidden inside comets while negotiating waves upon waves of enemy minions.
+
+When the player destroys each of the targets, the boss explodes, and the planet is saved. The screen then changes to a bonus point calculation where points are awarded based inversely on the amount of damage the planet has taken during the level.
+
+== Development and release ==
+''Halley's Comet'' was designed by ''Bubble Bobble'' creator [[Fukio Mitsuji|Fukio "MTJ" Mitsuji]].<ref name="Beep">{{cite magazine|title=開発者インタビュー - 三辻富貴朗|magazine=Beep|publisher=[[SB Creative|SoftBank Creative]]|date=1988|lang=ja}} ([http://shmuplations.com/bubblebobble/ Translation] by Shmuplations. {{Webarchive|url=https://web.archive.org/web/20201022014906/http://shmuplations.com/bubblebobble/|date=2020-10-22}}).</ref> The music was scored by [[Hisayoshi Ogura]].<ref name="R20thCAGE">{{cite book|title=1986年 - ハレーズコメット|work=甦る 20世紀アーケードゲーム大全|volume=2|edition=アクションゲーム・シューティングゲーム熟成期編|publisher=Media Pal|date=20 December 2019|page=33|language=ja|isbn=978-4802110419}}</ref> Mitsuji recounted its development process in a 1988 interview with Japanese magazine ''Beep'', stating that the project originated from a conversation the staff had with the then-president of Taito about creating a title based on Halley's Comet.<ref name="Beep"/> Mitsuji regarded the game to be important for him, as it started his development philosophy based on "thrills and pleasures".<ref name="Beep"/> Mitsuji remarked that the [[Printed circuit board|PCB]] used for the title was underpowered and had no hardware-scrolling support, prompting the team to work with effort under severe limitations on making the background look as if it was scrolling.<ref name="Beep"/>
+
+''Halley's Comet'' was first released by Taito in Japan in January 1986 and later by Coin-it in North America on April of the same year.<ref name="ATVGL:JaO1971-2005">{{cite book|last=Akagi|first=Masumi|url=https://archive.org/stream/ArcadeGameList1971-2005#page/n44/mode/1up|title=タイトー (Taito); Coin-it/Monroe Mfg.; Taito America; H|work=アーケードTVゲームリスト 国内•海外編 (1971-2005)|edition=1st|publisher=[[:ja:アミューズメント通信社|Amusement News Agency]]|date=13 October 2006|pages=43, 114, 137, 154|isbn=978-4990251215|language=ja}}</ref> The game was later ported to Japanese [[mobile phone]] platforms such as [[i-mode]] and [[Yahoo Mobile]] under the title ''Halley Wars'' between January 15, 2003 and January 16, 2004 respectively.<ref>{{cite web|last=Sei|first=Sekiguchi|url=https://k-tai.watch.impress.co.jp/cda/article/news_toppage/12284.html|title=タイトー、J-スカイ向けゲーム配信サイトに新作追加|work=K-Tai Watch|publisher=Impress Corporation|date=January 9, 2003|access-date=2020-11-21|language=ja|archive-date=2020-02-01|archive-url=https://web.archive.org/web/20200201045310/https://k-tai.watch.impress.co.jp/cda/article/news_toppage/12284.html|url-status=live}}</ref><ref>{{cite web|last=Tanaami|first=Yohei|url=https://game.watch.impress.co.jp/docs/20030110/taito.htm|title=タイトー、J-スカイ用コンテンツ -「ハレーウォーズ」、「バブルンボウリング」などを追加|work=GAME Watch|publisher=Impress Corporation|date=January 10, 2003|access-date=2020-11-21|language=ja|archive-date=2020-02-01|archive-url=https://web.archive.org/web/20200201045311/https://game.watch.impress.co.jp/docs/20030110/taito.htm|url-status=live}}</ref><ref>{{cite web|last=Sei|first=Sekiguchi|url=https://k-tai.watch.impress.co.jp/cda/article/news_toppage/17197.html|title=タイトー、iモード向けシューティングゲーム「ハレーウォーズ」|work=K-Tai Watch|publisher=Impress Corporation|date=January 15, 2004|access-date=2020-11-21|language=ja|archive-date=2020-02-01|archive-url=https://web.archive.org/web/20200201045312/https://k-tai.watch.impress.co.jp/cda/article/news_toppage/17197.html|url-status=live}}</ref> Between 2007 and 2008, the title was also included as part of volume 2 in the ''Taito Memories II Gekan'' and ''Taito Memories II: Eternal Hits'' compilations for [[PlayStation 2]].<ref>{{cite web|last=Fernández|first=Ricardo|url=https://as.com/meristation/2007/05/04/avances/1178258520_011617.html|title=Taito Memories II Vol. 2|work=[[:es:MeriStation|MeriStation]]|publisher=[[PRISA]]|date=December 7, 2011|access-date=2020-11-21|language=es|archive-date=2020-11-21|archive-url=https://web.archive.org/web/20201121213448/https://as.com/meristation/2007/05/04/avances/1178258520_011617.html|url-status=live}}</ref><ref>{{cite web|url=https://www.jp.playstation.com/software/title/slpm55018.html|title=エターナルヒッツ タイトーメモリーズ 2 下巻|work=PlayStation Official Site Software Catalog|publisher=[[Sony Interactive Entertainment]]|date=2020|access-date=2020-11-21|language=ja|archive-date=2009-06-01|archive-url=https://web.archive.org/web/20090601010032/http://www.jp.playstation.com/software/title/slpm55018.html|url-status=live}}</ref> In 2021, it was re-released for [[PlayStation Network]] and [[Nintendo eShop]] by [[Hamster Corporation]] as part of their ''[[Arcade Archives]]'' series.<ref>{{cite web|last=Doolan|first=Liam|url=https://www.nintendolife.com/news/2021/01/scrolling_shooter_halleys_comet_is_hamsters_latest_arcade_archives_release|title=Scrolling Shooter Halley's Comet Is Hamster's Latest Arcade Archives Release - Save the solar system|work=[[Nintendo Life]]|publisher=Nlife Media|date=January 28, 2021|access-date=2021-01-28|archive-url=https://web.archive.org/web/20210128200056/https://www.nintendolife.com/news/2021/01/scrolling_shooter_halleys_comet_is_hamsters_latest_arcade_archives_release|archive-date=2021-01-28|url-status=live}}</ref><ref>{{cite web|last=Moyse|first=Chris|url=https://www.destructoid.com/stories/taito-blaster-halley-s-comet-is-the-newest-arcade-archives-release-618063.phtml|title=Taito blaster Halley's Comet is the newest Arcade Archives release - More old-school shmup action from Hamster|work=[[Destructoid]]|publisher=[[Enthusiast Gaming]]|date=January 30, 2021|access-date=2021-02-06|archive-url=https://web.archive.org/web/20210206220950/https://www.destructoid.com/stories/taito-blaster-halley-s-comet-is-the-newest-arcade-archives-release-618063.phtml|archive-date=2021-02-06|url-status=live}}</ref>
+
+== Reception ==
+In Japan, ''Game Machine'' listed ''Halley's Comet'' on their March 15, 1986 issue as being the second most-popular arcade game at the time.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=280|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 March 1986|page=21|lang=ja}}</ref> In North America, ''[[Play Meter]]'' listed the game to be the eight most-popular arcade game at the time,<ref>{{cite magazine|url=https://archive.org/stream/play-meter-volume-12-number-14-august-15th-1986-600dpi/Play%20Meter%20-%20Volume%2012%2C%20Number%2014%20-%20August%2015th%201986%20%28Compressed%29#page/36/mode/2up|title=National Play Meter|magazine=[[Play Meter]]|volume=12|issue=14|publisher=Skybird Publishing|date=August 15, 1986|pages=36–37}}</ref> but the Japanese book ''Revived 20th Century Arcade Game Encyclopedia Vol. 2'' gave the title a negative review.<ref name="R20thCAGE"/> [[Cave (company)|Cave]] programmer Hiroyuki Uchida stated in a 1998 interview that its gameplay served as a basis for ''[[Dangun Feveron]]''.<ref name="VGMDB">{{cite web|url=https://vgmdb.net/album/7644|title=SGCD-0004 &#124; DANGUN FEVERON|work=vgmdb.net|publisher=VGMdb|access-date=2021-01-19|archive-url=https://web.archive.org/web/20130618082619/https://vgmdb.net/album/7644|archive-date=2013-06-18|url-status=live}} ([https://www.gamengai.com/#/cmnt-info?id=1296&p=2 Translation] by Gamengai. {{Webarchive|url=https://web.archive.org/web/20191122014305/https://www.gamengai.com/#/cmnt-info?id=1296&p=2|date=2019-11-22}}).</ref> Likewise, former [[Toaplan]] composer [[Tatsuya Uemura]] claimed in a 2009 interview that ''[[Twin Cobra]]'' was influenced by ''Halley's Comet'', as he wanted to portray the feeling of aiming and shooting.<ref name="TFf25v9">{{cite magazine|author1=Iona|author2=VHS|author3=K-HEX|title=東亜プラン FOREVER|magazine=Floor 25|volume=9|date=June 2009|pages=1–70|lang=ja}} ([https://www.gamengai.com/#/cmnt-info?id=2332&p=2 Translation] by Gamengai. {{Webarchive|url=https://web.archive.org/web/20201010170328/https://www.gamengai.com/#/cmnt-info?id=2332&p=2|date=2020-10-10}}).</ref>
+
+== Legacy ==
+A sequel, '''''Halley Wars''''' is a vertically scrolling shooter released on the [[Family Computer Disk System]] in 1991 and later on the [[Game Gear]].
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Portal|1980s|Japan|Video games}}
+* [https://gamefaqs.gamespot.com/arcade/567812-halleys-comet ''Halley's Comet''] at [[GameFAQs]]
+* [https://www.arcade-museum.com/game_detail.php?game_id=8064 ''Halley's Comet''] at [[Killer List of Videogames]]
+* [https://www.mobygames.com/game/arcade/halleys-comet ''Halley's Comet''] at [[MobyGames]]
+
+{{DEFAULTSORT:Halley's Comet (video game)}}
+[[Category:1986 video games]]
+[[Category:Arcade video games]]
+[[Category:Fiction about Halley's Comet]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:Science fiction video games]]
+[[Category:Square Enix franchises]]
+[[Category:Taito arcade games]]
+[[Category:Taito SJ System games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Video games developed in Japan]]
+[[Category:Arcade Archives games]]
+[[Category:Hamster Corporation games]]

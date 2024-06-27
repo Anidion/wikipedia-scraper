@@ -1,0 +1,67 @@
+SkyChase
+Permalink: //en.wikipedia.org/w/index.php?title=SkyChase&oldid=1229901201
+Accessed on: 2024-06-26T17:05:05.155939
+
+
+
+------
+SkyChase
+{{Infobox video game
+| title = SkyChase
+| image = SkyChase cover.jpg
+| caption = North American cover art
+| developer = [[Maxis]]
+| publisher = {{vgrelease|NA|[[Broderbund]]|EU|[[Image Works]]}}
+| producer = Jeff Braun<ref name="manual">{{cite journal |title=Credits |journal=SkyChase Flight Manual |page=2}}</ref>
+| designer = Ralph Russell<ref name="manual"/>
+| programmer = Ralph Russell<ref name="manual"/>
+| artist = Don Bayless<ref name="manual"/>
+| platforms = [[Amiga]], [[Atari ST]], [[DOS]]
+| released = 1988<br>1990 (DOS)
+| genre = [[Combat flight simulator]]
+| modes = [[Single-player]], [[multiplayer]]
+}}
+
+'''''SkyChase''''' is a [[combat flight simulator]] designed by Ralph Russell in 1988. It is the first game developed by [[Maxis]].
+
+==Gameplay==
+''SkyChase'' is an arcadey combat flight simulator often compared to ''[[Top Gun (1986 video game)|Top Gun]]'' by [[Ocean Software]].<ref name="cvg"/><ref name="cuser"/><ref name="asm"/>
+
+==Reception==
+{{Video game reviews
+| AmComputing = 65%<ref name="amcom">{{cite magazine |last1=Luckham |first1=Mark |title=REVIEWS - SKY CHASE |journal=[[Amiga Computing]] |date=November 1988 |volume=1 |page=41 |issue=4 |publisher=[[Database Publications]]}}</ref>
+| ASM = 26/50<ref name="asm">{{cite magazine |last1= |first1= |title=Ballern mit Bach |journal=[[Aktueller Software Markt]] |date=December 1988 |issue=12/88 |page=44 |publisher=Tronic-Verlag |language=German |quote=Grafik: 5, Sound: 9, Spielablauf: 4, Motivation: 4, Preis/Leistung: 4}}</ref><!-- 10 seems to be the maximum score, so 5+9+4+4+4=26 out of 50 -->
+| CVG = 3/10<ref name="cvg">{{cite magazine |last1=Rignall |first1=Julian |title=Reviews - SKY CHASE |journal=[[Computer and Video Games]] |date=September 1988 |page=72 |publisher=[[EMAP]]}}</ref>
+| rev1 = ''[[Commodore User]]''
+| rev1Score = 5/10<ref name="cuser">{{cite magazine |last1=Whitta |first1=Gary |title=SKYCHASE |journal=[[Commodore User]] |date=September 1988 |pages=50–51 |publisher=[[EMAP]]}}</ref>
+| rev2 = ''[[Zzap!64]]''
+| rev2Score = 78%<ref name="zzap">{{cite magazine |last1= |first1= |title=16-bit - Skychase |journal=[[Zzap!64]] |date=November 1988 |page=88 |issue=43 |publisher=[[Newsfield Publications Ltd]]}}</ref>
+}}
+[[Julian Rignall]] of ''[[Computer and Video Games]]'' compared the game negatively to other flight simulators of the time: ''"Although Sky Chase has an impressive front end, the game itself is very simplistic, and plays similarly to [[Ocean Software|Ocean]]'s failed [[Top Gun (1986 video game)|Top Gun Licence]]; it pales in comparison with Cascade's [[Ace 2 (video game)|Ace II]]. There's little difference between the planes, and the gameplay is very repetitive."''<ref name="cvg"/>
+
+[[Gary Whitta]] of ''[[Commodore User]]'' summarized: ''"[...] I would only advise you to consider buying Skychase if you have a chum to play it with. The computer mode is boring, too easy, and ultimately a drag to play."''<ref name="cuser"/>
+
+''[[Zzap!64]]'' concluded that the game is ''"An exhilarating flying game - at its best with two players at the controls."''<ref name="zzap"/>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #54<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-54/page/76/mode/2up | title=Jeux & stratégie 54 | date=December 1988 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/skychase}}
+*{{abime|id=1966}}
+*{{atarimania|id=22986}}
+*{{Internet Archive game|msdos_SkyChase_1990|DOS version of SkyChase}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Broderbund games]]
+[[Category:Combat flight simulators]]
+[[Category:DOS games]]
+[[Category:Image Works games]]
+[[Category:Maxis games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]

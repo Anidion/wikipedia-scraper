@@ -1,0 +1,54 @@
+Ski Crazed
+Permalink: //en.wikipedia.org/w/index.php?title=Ski_Crazed&oldid=1229946819
+Accessed on: 2024-06-26T17:03:07.559115
+
+
+
+------
+Ski Crazed
+{{Short description|1987 video game}}
+{{Infobox video game
+| title = Ski Crazed
+| image = Ski Crazed cover.jpg
+| alt = 
+| developer = [[Naughty Dog|JAM Software]]
+| publisher = Baudville
+| programmer = {{ubl|[[Jason Rubin]]|[[Andy Gavin]]}}
+| released = October 1987
+| genre = [[Sports video game|Sports]]
+| modes = [[Single-player]]
+| platforms = [[Apple II]]
+}}
+
+'''''Ski Crazed''''' is a 1987 skiing game video game developed by [[Naughty Dog|JAM Software]] and published by Baudville. 
+
+==Development and release==
+In 1984, [[Andy Gavin]] and [[Jason Rubin]], then 14 years old, incorporated the game company [[Naughty Dog|JAM Software]]. Their first published software was a math program titled ''Math Jam'', which was self-published and distributed to schools the following year. Upon encountering an educational bureaucracy that obstructed further distribution of ''Math Jam'', Gavin and Rubin were motivated to pursue projects that appealed to their passion for video games.<ref name=":0">{{Cite web|lang=en|url=https://www.ign.com/articles/2013/10/04/rising-to-greatness-the-history-of-naughty-dog|title=Rising to Greatness: The History of Naughty Dog|author=Colin Moriarty|website=IGN|date=October 4, 2013|access-date=April 12, 2024|archive-date=June 6, 2022|archive-url=https://web.archive.org/web/20220606210127/https://www.ign.com/articles/2013/10/04/rising-to-greatness-the-history-of-naughty-dog|url-status=live}}</ref>
+
+Over the course of a weekend, Rubin programmed a [[skiing]] game titled ''Ski Stud'',<ref name="Game Informer">{{cite web|url=https://archive.org/details/Game_Informer_Issue_066_October_1998/page/n19/mode/2up|title=From Rags to Riches|magazine=[[Game Informer]]|page=18|date=October 1998|access-date=December 20, 2023}}</ref><ref name="OUPM">{{cite web|url=https://archive.org/details/official-u.-s.-play-station-magazine-issue-50-november-2001/page/n53/mode/2up|title=Jason|last=Rubin|magazine=[[Official U.S. PlayStation Magazine]]|page=51|date=November 2001|access-date=December 20, 2023}}</ref> which presented an ethos that Gavin compared to the film ''[[Hot Dog…The Movie]]'' (1984). Rubin used the BASIC programming language, but due to low performance, Gavin later rewrote the game in assembly language, which significantly improved its speed. To create the graphics, Rubin had to work with the imperfect tools of that time. He used the [[Raster graphics editor|pixel editor]] from the ''[[Pinball Construction Set]]'', which had issues with cursor positioning accuracy. As a result, Rubin had to frequently fix errors and to carefully draw the graphics pixel by pixel. Transferring the created images into the game also was challenging. ''Pinball Construction Set'' did not have a function to save graphics, so the developers had to resort to workarounds. They intentionally triggered a reset of the Apple II hardware to gain access to the RAM, where the graphics data was temporarily stored, and then copied it for use in their game. This process had to be repeated multiple times, requiring patience and effort.<ref name=":0" />
+
+Gavin and Rubin pitched ''Ski Stud'' to Baudville, a small [[Michigan]]-based publisher, who requested that the title be changed to ''Ski Crazed'' before purchasing it for {{US$|250}}.<ref name=":0" /><ref name="Game Informer" /> Baudville announced the game for the [[Apple II]] in September 1987 as part of its third-quarter release plans.<ref>{{cite magazine |url=https://archive.org/details/computer-entertainer-6-6/page/n3/mode/2up |title=Baudville Announces Fourth Quarter Plans |magazine=[[Computer Entertainer]] |volume=6 |issue=6 |date=September 1987 |page=5 |via=[[Internet Archive]] |access-date=December 22, 2023}}</ref> It was shipped in October 1987,<ref>{{cite magazine |url=https://archive.org/details/computer-entertainer-6-9/page/14/mode/2up |title=Availability Update |magazine=Computer Entertainer |volume=6 |issue=9 |date=December 1987 |via=[[Internet Archive]] |access-date=December 22, 2023}}</ref> and it became JAM Software's first title.<ref name="OUPM"/><ref>{{cite web|first=Thomas|last=Puha|url=http://high-resolution.com/features/naughty.html|archiveurl=https://web.archive.org/web/19980120183922/http://high-resolution.com:80/features/naughty.html|title=Interview: Naughty Dog's Jason Rubin|website=high-resolution.com|archivedate=January 20, 1998|accessdate=February 8, 2024}}</ref><ref name="LA Times">{{cite web|first=Alex|last=Pham|url=https://www.latimes.com/archives/la-xpm-2007-aug-12-fi-sunprofile12-story.html|archiveurl=https://web.archive.org/web/20210803233038/https://www.latimes.com/archives/la-xpm-2007-aug-12-fi-sunprofile12-story.html|title=Speech balloons are his newest thing|newspaper=[[Los Angeles Times]]|archivedate=August 3, 2021|date=August 12, 2007|accessdate=December 20, 2023}}</ref>
+
+==Reception==
+{{Video game reviews
+|rev1=''[[Computer Entertainer]]''
+|rev1Score=3/4<ref name="CE">{{cite magazine |url=https://archive.org/details/computer-entertainer-6-7/page/n1/mode/2up |title=Ski Crazed |magazine=Computer Entertainer |volume=6 |issue=7 |date=October 1987 |page=3 |via=[[Internet Archive]] |access-date=December 22, 2023}}</ref>
+}}
+
+''[[Computer Entertainer]]'' gave the game a score of 3 out of 4, stating: "There’s nothing serious here, from the funny-looking skier to the messages which your ski instructor indicates to you. Including the construction set gives the game the extra added fun that makes the difference"<ref name="CE"/>
+
+The game sold 1,000 copies.<ref name="LA Times"/> and JAM Software made about {{US$|1,500}} from the game.<ref name="Detroit Free Press">{{cite web|first=Heather|last=Newman|url=https://www.newspapers.com/article/detroit-free-press/91591750/|archiveurl=https://web.archive.org/web/20231220151729/https://www.newspapers.com/article/detroit-free-press/91591750/|title=Game producer is one of the top dogs|newspaper=[[Detroit Free Press]]|page=133|archivedate=December 20, 2023|date=July 31, 2003|accessdate=December 20, 2023|via=[[Newspapers.com]]}}</ref> Gavin and Rubin used the money earned from the game's sales to invest in a second disc drive and continued their relationship with Baudville with their next game ''[[Dream Zone]]'' (1988).<ref name=":0" />
+
+==References==
+{{reflist}}
+
+{{Naughty Dog}}
+
+[[Category:1987 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Baudville games]]
+[[Category:Naughty Dog games]]
+[[Category:Single-player video games]]
+[[Category:Skiing video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,77 @@
+Monaco GP (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Monaco_GP_%28video_game%29&oldid=1229868215
+Accessed on: 2024-06-26T16:51:19.164279
+
+
+
+------
+Monaco GP (video game)
+{{good article}}
+{{short description|1979 video game}}
+{{Infobox video game
+| title = Monaco GP
+| image = Monaco gp flyer.jpg
+| developer = [[Sega]]<ref name=":72"/><ref name="Akagi35">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=34–40 (35) |url=https://archive.org/details/ArcadeGameList1971-2005/page/n35/mode/2up}}</ref>
+| publisher = {{vgrelease|JP|[[Sega]]<ref name=":72"/><ref name="Akagi35"/>|WW|[[Gremlin Industries|Sega/Gremlin]]<ref name="Akagi131">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=131 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n132}}</ref>}}
+| designer = 
+| platforms = [[Arcade game|Arcade]], [[SG-1000]]
+| release = '''''Monaco GP'' Arcade'''{{vgrelease|JP|November 1979<ref name=":72"/><ref name="Akagi35"/>|WW|January 1980<ref name="Akagi131"/>}}'''''Pro Monaco GP'' Arcade'''{{vgrelease|JP|March 1980<ref name=":72"/><ref name="Akagi35"/>|WW|July 1980<ref name="Akagi131"/>}}'''SG-1000'''{{vgrelease|JP|December 1983<ref name="Game Machine Magazine">{{cite web|title=Home Video Game Console(Japanese, top-right)|url=https://archive.org/details/game-machine-magazine-19850715p|work=Game Machine Magazine 15th July '85| date=15 July 1985 |publisher=Amusement Press Inc., Osaka, Japan|accessdate=25 August 2023}}</ref>|EU|1984}}
+| genre = [[Racing game|Racing]]
+| modes = 
+| arcade system = [[Transistor-transistor logic|TTL]]-based
+| alt = A woman in a racing driver uniform sitting in an arcade cabinet behind a steering wheel.
+}}
+
+{{Nihongo foot|'''''Monaco GP'''''|モナコGP|Monako GP|group=lower-alpha|lead=yes}} is an [[arcade racing game]] released by [[Sega]] in November 1979 in Japan, and January 1980 worldwide. An upgraded version, '''''Pro Monaco GP''''', was released later in 1980. One of the last [[Sega games]] to use [[Transistor–transistor logic|TTL]] chips instead of a [[microprocessor]] [[Central processing unit|CPU]], the game has players race against a clock and pass rival racers while attempting to earn points driving through five areas.
+
+The game was commercially successful in arcades. In Japan, it was among the top three highest-grossing games of 1979 and top five in 1980, while in the United States it was the top-grossing driving game of 1981. It continued to regularly appear on Japanese arcade charts through 1983, and made a record number of appearances on US arcade charts from 1980 through 1987. ''Monaco GP'' was ported to the [[SG-1000]] in 1983. The series also had later releases ''[[Super Monaco GP]]'' and ''[[Ayrton Senna's Super Monaco GP II]]''.
+
+==Gameplay==
+[[Image:Musée Mécanique 207.JPG|thumb|left|upright=0.8|The deluxe cockpit cabinet of ''Monaco GP''. Inside, a stick shift is on the left, and a steering wheel and pedal are underneath the monitor.]]
+
+''Monaco GP'' is a racing game played from an overhead perspective,<ref name=":72">{{Cite book |title=Sega Arcade History |publisher=[[Enterbrain]] |year=2002 |isbn=978-4-7577-0790-0 |pages=39–40 |language=ja}}</ref> where the main objective is to finish a course before time runs out. Points are awarded as the player races through five areas. As the game progresses, rival cars controlled by the game's [[artificial intelligence]] get faster, the road narrows, and the road surface changes to ice and gravel.<ref name=":110">{{Cite book|last=Horowitz|first=Ken|title=The Sega Arcade Revolution, A History in 62 Games|publisher=[[McFarland & Company]]|year=2018|isbn=9781476631967|pages=27–29|url=https://books.google.com/books?id=xT1jDwAAQBAJ&pg=PA27|ref=refHorowitz2018}}</ref> Various hazards in the road include puddles, narrow bridges, and tunnels where the driver's view is limited by the range of the car's headlights on screen. The timer continues counting down until 2000 points are scored; then, the system changes to a limited number of [[Life (video games)|lives]]. At 6000 points and again at 8000, rival cars increase in speed. According to ''Sega Arcade History'', the concept for this timer system came from Sega Enterprises president [[Hayao Nakayama]]. ''Pro Monaco GP'', an upgraded version of the game released later, features a higher difficulty level than the original game.<ref name=":72" />
+
+== Development and release ==
+''Monaco GP'' was one of the last arcade games made by Sega to use [[transistor–transistor logic]] (TTL) based discrete [[Integrated circuit|logic circuits]] instead of a [[microprocessor]]-based [[central processing unit]] (CPU). The game is operated by over 100 chips across two circuit boards. Images are stored in small custom [[read-only memory]] (ROM) chips, including [[Sprite (computer graphics)|sprites]], cars, and the "[[game over]]" message. Sound effects, such as the cars' engines, a siren, and the sound of wheels slipping on the pavement, are generated by [[operational amplifiers]] and other analog circuitry. The scoring information appears on various LEDs located on the cabinet, including the player's score and the high score table.<ref name=":110" /> ''Pro Monaco GP'' also features a [[Uninterruptible power supply|battery backup]] system to save high scores if the cabinet loses power.<ref name=":72" />
+
+Multiple styles of arcade cabinet exist for the game, including a deluxe cockpit cabinet which was designed in approximation to sitting behind the wheel of a race car with a padded steering wheel and accelerator pedal.<ref name=":110" /> A tabletop housing and a smaller upright cabinet were also created.<ref name=":72" />
+
+Initially displayed at the Japan Amusement Association show in Tokyo in 1979, ''Monaco GP'' received a positive reception at its debut. Sega chairman [[David Rosen (businessman)|David Rosen]] called the game's warm reception at the show evidence of the world's growing acceptance of coin-operated arcade games.<ref name=":1">{{Cite magazine |date=December 8, 1979 |title=Chairman with Hit Game |magazine=[[Cashbox (magazine)|Cashbox]] |page=42}}</ref> ''Monaco GP'' was released in November 1979 in Japan,<ref name=":72" /> and in January 1980 worldwide via [[Gremlin Industries|Sega/Gremlin]].<ref name="Akagi35" /> ''Pro Monaco GP'', an upgraded version with a higher difficulty level, was released in Japan in March 1980,<ref name=":72" /> and worldwide in July of the same year.<ref name="Akagi35" /> The original game was later ported to the [[SG-1000]] and SC-3000, Sega's first video game consoles.<ref name=":2" /> The SG-1000 port was released in 1983 in Japan,<ref name="SegaSoft">{{cite web |title=SG-1000 |url=http://sega.jp/fb/segahard/sg1000/soft.html |url-status=live |archive-url=https://web.archive.org/web/20130209183709/http://sega.jp/fb/segahard/sg1000/soft.html |archive-date=February 9, 2013 |access-date=February 12, 2014 |publisher=[[Sega|Sega Corporation]] |language=ja |df=mdy-all}}</ref> and by March 1984 in Europe.<ref name=":2" />
+
+==Reception==
+[[File:Monacogp.jpg|alt=An arcade cabinet with a wheel and a pedal|thumb|A Pro Monaco GP upright arcade cabinet, with a steering wheel for control and accelerator pedal at the bottom]]
+''Monaco GP'' became highly successful in arcades. In Japan, it was the third highest-grossing arcade game of 1979,<ref name="GM136">{{cite magazine|title=ベストスリー 本紙調査|trans-title=Best 3 Paper Survey |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=136|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=February 1980|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19800201p.pdf#page=2}}</ref> then the fifth highest-grossing arcade game of 1980,<ref name="GM159">{{cite magazine|title=ベストスリー 本紙調査 (調査対象1980年) 〜 アーケードゲーム機|trans-title=Best Three Book Survey (Survey Target 1980) ~ Arcade Game Machines|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=159|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1981|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19810215p.pdf#page=2}}</ref> and then the 20th highest-grossing arcade video game of 1982.<ref>{{cite magazine |date=1 March 1983 |title="Pole Position" No. 1 Video Game: ''Game Machine''{{'}}s "The Year's Best Three AM Machines" Survey Results |url=https://onitama.tv/gamemachine/pdf/19830301p.pdf#page=16 |magazine=Game Machine |publisher= |issue=207 |page=30}}</ref> Japanese magazine ''Game Machine'' later listed ''Monaco GP'' on their July 15, 1983 issue as being the fifth top-grossing upright/cockpit [[arcade cabinet]] of the month in Japan.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - アップライト, コックピット型TVゲーム機 (Upright/Cockpit Videos)|magazine=Game Machine|issue=216|publisher=Amusement Press|date=15 July 1983|page=37|lang=ja}}</ref> In North America, ''[[Cashbox (magazine)|Cashbox]]'' reported that ''Monaco GP'' was the most popular arcade driving game in the US in 1981, and it was among the highest-grossing games of the year.<ref>{{Cite magazine|date=January 9, 1982|title=Industry News: New Equipment, Formula 1 Race|magazine=[[Cash Box]]|page=40|url=https://archive.org/details/cashbox43unse_31/page/40}}</ref> The game appeared on the monthly arcade earnings charts of arcade industry magazine ''RePlay'' from April 1980 until April 1987, a record number of appearances to which [[Namco]]'s ''[[Galaga]]'' was the next closest to reaching.<ref name=":110" /> In 1985, Eddie Adlum of ''RePlay'' called ''Monaco GP'' the "most evergreen" arcade hit to emerge from 1979.<ref>{{cite magazine |last=Adlum |first=Eddie |title=The Replay Years: Reflections from Eddie Adlum |magazine=RePlay |date=November 1985 |volume=11 |issue=2 |pages=134-175 (159-60) |url=https://archive.org/details/re-play-volume-11-issue-no.-2-november-1985-600DPI/RePlay%20-%20Volume%2011%2C%20Issue%20No.%202%20-%20November%201985/page/159}}</ref> French magazine ''[[Tilt (French magazine)|Tilt]]'' gave the SC-3000 version of the game 6 of 6 stars in graphics, and 4 of 6 in gameplay.<ref name=":2">{{Cite magazine |date=March 1984 |title=Tubes: Monaco GP |magazine=[[Tilt (French magazine)|Tilt]] |language=fr |issue=10 |page=32}}</ref>
+
+== Legacy ==
+Sega revived the ''Monaco GP'' series with ''[[Super Monaco GP]]'' in 1989,<ref name=":110" /> and ''[[Ayrton Senna's Super Monaco GP II]]'' in 1992.<ref>{{Cite magazine|date=October 1992|title=Monthly Hit Chart|magazine=Mega Drive Fan|language=ja|page=67}}</ref> ''Super Monaco GP'' designer [[Hisao Oguchi]] had played ''Monaco GP'' before working for Sega, and when Oguchi decided to design a game based on Formula One, he started with a different name but chose ''Super Monaco GP'' after listening to opinions that the name was a good one. He referenced a parallel between the [[Monaco Grand Prix]] being the top event in racing and Sega being the top company in arcades.<ref>{{Cite magazine |date=February 1991 |title=Sega Masterpiece Development Secret Story - Old Days Story: Monaco GP vs. Super Monaco GP |magazine=Beep! MegaDrive |language=ja |page=123}}</ref><ref name=":12">{{Cite magazine |last=Thorpe |first=Nick |date=April 2016 |title=Ultimate Guide: Super Monaco GP |url= |magazine=[[Retro Gamer]] |issue=153 |page= |pages=42–47 |doi= |pmid= |access-date=}}</ref>
+
+In 2003, [[Sega]] made a remake of ''Monaco GP'' for the [[PlayStation 2]], as a part of the [[Sega Ages|Sega Ages 2500]] collection.<ref name="Eurogamer">{{cite web|last1=Bramwell|first1=Tom|date=November 25, 2003|title=Sega's 3D Ages series for Europe|url=https://www.eurogamer.net/articles/news251103segaages|access-date=September 4, 2020|website=[[Eurogamer]]}}</ref> The remake features a number of additions including more cars and game modes.<ref>{{Cite web|last=Gantayat|first=Anoop|date=May 20, 2012|title=Playtest: Monaco GP|url=https://www.ign.com/articles/2003/08/29/playtest-monaco-gp|access-date=September 4, 2020|website=[[IGN]]}}</ref> Kurt Kalata of ''Hardcore Gaming 101'' applauded the ''2500'' remake in particular for its improvements to the gameplay of the original, believing it would have been worthy of a separate release outside Japan.<ref>{{cite web |last1=Kalata |first1=Kurt |title=Sega Ages 2500 Series Vol. 2: Monaco GP |url=https://hg101.kontek.net/segaages/segaages.htm |website=Hardcore Gaming 101 |access-date=5 September 2020 |archive-url=https://web.archive.org/web/20190825212327/https://hg101.kontek.net/segaages/segaages.htm |archive-date=August 25, 2019 |date=June 9, 2007}}</ref>
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=8733}}
+* [https://www.arcade-museum.com/game_detail.php?game_id=9130 ''Pro Monaco GP''] at the [[Killer List of Videogames]]
+* [https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=5306 German language arcade flyer] from The Arcade Flyer Archive
+* {{IAg|Monaco_GP_Rev_2_1983_Sega_JP_en|platform=SG-1000}}
+
+{{Formula One games}}
+
+{{DEFAULTSORT:Monaco Gp (Arcade Game)}}
+[[Category:1979 video games]]
+[[Category:Arcade video games]]
+[[Category:Discrete video arcade games]]
+[[Category:Gremlin Industries games]]
+[[Category:Racing video games]]
+[[Category:Sega video games]]
+[[Category:Sega arcade games]]
+[[Category:Sega Games franchises]]
+[[Category:SG-1000 games]]
+[[Category:Top-down racing video games]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games set in Monaco]]
+[[Category:Vertically scrolling video games]]

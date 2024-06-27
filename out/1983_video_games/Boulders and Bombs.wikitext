@@ -1,0 +1,65 @@
+Boulders and Bombs
+Permalink: //en.wikipedia.org/w/index.php?title=Boulders_and_Bombs&oldid=1224494617
+Accessed on: 2024-06-26T16:54:39.828891
+
+
+
+------
+Boulders and Bombs
+{{short description|1983 video game}}
+{{refimprove|date=March 2018}}
+{{Infobox video game
+| title = Boulders and Bombs
+| image = BouldersAndBombs.jpg
+| caption = Manual cover
+| released = 1983
+| developer = K-Byte<ref name="mania"/>
+| publisher = CBS Software
+| designer = Keith Dreyer<br>Torre Meeder<ref name="giantlist"/>
+| platforms = [[Atari 8-bit]]
+| genre = [[Action video game|Action]]
+| modes = [[Single-player video game|Single-player]], asymmetric multiplayer
+}}
+
+'''''Boulders and Bombs''''' is a video game for [[Atari 8-bit computers]] published on cartridge by CBS Software in 1983.<ref name="giantlist"/> It was written by Keith Dreyer and Torre Meeder who previously developed the ''[[Berzerk (video game)|Berzerk]]''-clone ''[[K-Razy Shoot-Out]]''. In ''Boulders and Bombs'', the player must dig tunnels so three people can cross from one side of the screen to the other. Bird-like creatures, flying in the upper portion of the screen, launch projectiles into the dirt to thwart the player. While there isn't a separate multiplayer mode, joysticks plugged into each of the remaining 1-3 ports can each control one of the birds. The game generally received poor reviews, with reviewers citing control issues and the lack of excitement.
+
+==Gameplay==
+[[File:Boulders_and_Bombs_Atari_8-bit_PAL_screenshot.png|thumb|left|The player in a clear tunnel, below one filled with green fungus.]]
+
+Presented in a side-view, roughly 40% of the vertical screen is dirt and above that, sky. The dirt extends downward through the non-playable area where the score and other information are displayed.
+
+The player controls both an [[earth auger|auger]]—which digs tunnels when moved through dirt—and a [[Caving|spelunker]] who can only move through clear tunnels.<ref name=manual/> The joystick button switches between control of the auger and spelunker. Boulders slow the auger's drilling. The goal is to clear a path so the spelunker, who starts on the left side of the screen, can exit the right side, then repeat the process for two more spelunkers. All three must be freed over the course of one animated day/night cycle.<ref name=manual/>
+
+The sky is occupied by large and small birds, called ''alien bird creatures'' and ''alien probe birds'' in the manual.<ref name=manual/> The large birds drop rods which block tunnels. The small birds inject a fungus into the ground which spreads and is deadly to spelunkers. Both obstacles can be cleared with the auger.
+
+When controlling the spelunker, moving the joystick in a circle drops a bomb which removes dirt, rods, and fungus.<ref name=manual/> The probe birds can be killed if an exploding bomb hits the fungus injector before the injection process is complete.
+
+===Multiplayer===
+From 1 to 3 other players (depending on the number of joystick ports) can control probe birds, affecting the primary player's game.<ref name="efun"/> This can be done at any time without enabling a specific mode.
+
+==Reception==
+In a 2 out of 4 joystick review for ''[[Electronic Fun with Computers & Games]]'', Paul Backer complained of the difficulty in planting bombs with a circular joystick motion and also pointed out that a secondary player can easily finish off a spelunker by planting fungus directly in front of it.<ref name="efun"/> He concluded, "This is a sound premise upon which to build a game. Unfortunately, the designers failed to provide an exciting challenge."<ref name="efun"/>
+
+''The Addison-Wesley Book of Atari Software 1984'' gave the game a "D" rating: "The game just isn't exciting and can become frustrating, and I think most players will lose interest quickly."<ref>{{cite book |title=The Addison-Wesley Book of Atari Software 1984 |date=1984 |publisher=Addison-Wesley |page=181 |url=http://www.atarimania.com/documents/Atari_Software_1984.pdf}}</ref> In a 1989 retrospective of Atari 8-bit computer software in ''[[ANALOG Computing]]'', Arthur Leyenberger wrote, "''Boulders and Bombs'' was another CBS disappointment. It was difficult to play, uninteresting, and not challenging."<ref>{{cite journal |last1=Leyenberger |first1=Arthur |title=End User |journal=ANALOG Computing |date=August 1989 |issue=75 |page=48 |url=https://archive.org/details/analog-computing-magazine-75/page/n47/mode/}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="manual">{{cite web|title=Boulders and Bombs Manual|url=https://archive.org/details/BouldersAndBombs|website=archive.org|publisher=CBS Software|date=1982}}</ref>
+<ref name="efun">{{cite journal|last1=Backer|first1=Paul|title=Boulders and Bombs|journal=Electronic Fun with Computers & Games|date=September 1983|page=56|url=https://archive.org/stream/Electronic_Fun_with_Computer_Games_Vol_01_No_11_1983-09_Fun_Games_Publishing_US/Electronic_Fun_with_Computer__Games_Vol_01_No_11_1983-09_Fun__Games_Publishing_US#page/n57/mode/2up}}</ref>
+<ref name="mania">{{cite web|title=Boulders and Bombs|url=http://www.atarimania.com/game-atari-400-800-xl-xe-boulders-and-bombs_747.html|website=Atari Mania}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=747}}
+*[http://www.ataricompendium.com/game_library/easter_eggs/a48/a48bouldersbombs.html Bug list] at Atari Compendium
+
+[[category:1983 video games]]
+[[Category:Action games]]
+[[Category:Asymmetrical multiplayer video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:CBS Software games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:K-Byte games]]

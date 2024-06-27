@@ -1,0 +1,53 @@
+River Rescue
+Permalink: //en.wikipedia.org/w/index.php?title=River_Rescue&oldid=1224118203
+Accessed on: 2024-06-26T16:53:57.961371
+
+
+
+------
+River Rescue
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = River Rescue
+|image = River Rescue Cover.jpg
+|caption = 
+|publisher = [[Thorn EMI Computer Software]]
+|designer = Jeremy Smith{{cn|date=December 2022}}
+|programmer = '''VIC-20'''<br>Will Kemp<ref name='willkemp'>{{cite web|title=About Me|website=November Echo Romeo Delta - A Blog by Will Kemp|date=2009-03-26|url=https://willkemp.net.au/techblog/about}}</ref>
+<br>'''Atari 8-bit'''<br>Kevin Buckner<ref name="atarimania">[http://www.atarimania.com/game-atari-400-800-xl-xe-river-rescue_4391.html River Rescue], Atarimania. Article retrieved 2010-08-28.</ref><br>'''ZX Spectrum'''<br>Phil Snell<ref name='crashmar84'>{{cite magazine |title=River Rescue|magazine=Crash|issue=2|publisher=Newsfield|date=March 1984|page=9|url=https://archive.org/details/Crash_No._02_1984-03_Newsfield_GB/page/n59/mode/2up
+|access-date=3 December 2022}}</ref>
+|released = '''1982:''' VIC-20<br>'''1983:''' Atari 8-bit, Spectrum<br>'''1984:''' C64
+|genre = [[Action game|Action]]
+|modes = Up to 2 players
+|platforms = [[VIC-20]], [[Atari 8-bit]], [[ZX Spectrum]], [[Commodore 64]] 
+}}
+
+'''River Rescue''' is an [[action game]] for the [[VIC-20]] published by [[Thorn EMI Computer Software]] in 1982. It was designed by Jeremy Smith and programmed by Will Kemp. Ports were released for the [[Atari 8-bit computers]]<ref name="atarimania" /> and [[ZX Spectrum]] in 1983 and the [[Commodore 64]] in 1984. A [[TI-99/4A]] version was advertised but never released.<ref name='thornemiadvert'>{{cite magazine |title=Thorn EMI Advertisement|magazine=Personal Computer Games|issue=2|publisher=VNU|date=December 1983|page=4|url=https://archive.org/details/Personal_Computer_Games_Issue02/page/n35/mode/2up|access-date=25 November 2022|quote=''Submarine Commander'' and ''River Rescue'' now on TI 99/4A, Vic-20 and Atari 400/800.}}</ref>
+
+==Gameplay==
+[[Image:River Rescue-screenshot.png|thumb|left|VIC-20 version]]
+
+The player guides a boat along a river, which scrolls from right to left across the screen in a top-down view.  The boat must avoid colliding with various hazards in the river - these include small islands, crocodiles and logs. The aim is to rescue explorers lost in the jungle.
+
+The boat periodically passes a pair of docks arranged across from each other on either side of the river. If the boat moves to the upper dock, an explorer will run out of the jungle onto the boat. Stopping at the lower dock causes any explorers already on the ship walk back off to safety. Because of the scrolling motion, it is not possible to land at both docks in one go, you must pick up an explorer and then continue along the river until the dock reappears.
+
+Depending on the version and level, between three and five explorers have to be rescued to complete a round. Once the round is complete, the game starts again, faster.
+
+==Reception==
+
+[[Alternative Software]] acquired the rights to the game when [[Thorn EMI Computer Software|Creative Sparks Distribution]] went into receivership in 1987.<ref>{{cite magazine|title=Equinox may see the light of day|magazine=Popular Computing Weekly|volume=6|issue=38|publisher=Focus Magazines|date=25 September – 1 October 1987|page=11|url=https://spectrumcomputing.co.uk/mag.php?issue_id=2977&page=11|access-date=14 March 2023}}</ref><ref>{{cite magazine|title=Risen from the ashes|magazine=Popular Computing Weekly|volume=6|issue=49|publisher=Focus Magazines|date=10–16 December 1987|page=32|url=https://spectrumcomputing.co.uk/mag.php?issue_id=2988&page=32|author=David Lester|access-date=14 March 2023}}</ref> Their subsequent budget release of ''River Rescue'' reached number 4 in the Gallup Atari 8-bit chart in 1988.<ref name='atariuserjuly88'>{{cite magazine |title=Gallup Software Chart|magazine=Atari User|volume=4|issue=3|publisher=Database Publications|date=July 1988|page=4|url=|access-date=}}</ref>
+
+==See also==
+*''[[River Patrol (video game)|River Patrol]]'' (1981)
+
+==References==
+{{reflist}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Thorn EMI video games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

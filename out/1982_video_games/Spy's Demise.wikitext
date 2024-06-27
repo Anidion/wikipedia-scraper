@@ -1,0 +1,64 @@
+Spy's Demise
+Permalink: //en.wikipedia.org/w/index.php?title=Spy%27s_Demise&oldid=1224118459
+Accessed on: 2024-06-26T16:54:07.850024
+
+
+
+------
+Spy's Demise
+{{Short description|1982 video game}}
+<!-- Deleted image removed: [[Image:Spysdemise-apple2.jpg|thumb|''Spy's Demise'' on the Apple II]] -->
+{{Infobox video game
+| title = Spy's Demise
+| image = Spy's_Demise_Cover_Art.jpg
+| released = {{Video game release|NA|1982}}
+| designer = Alan Zeldin<ref name=giantlist/>
+| publisher = [[Penguin Software]]
+| developer = 
+| platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[TI-99/4A]], [[Vector-06c]]
+| genre= [[Action game|Action]]
+}}
+
+'''''Spy's Demise''''' is an [[action game]] written by Alan Zeldin for the [[Apple II]] and published by [[Penguin Software]] in 1982.<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref> It was ported to the [[Atari 8-bit computers]], [[Commodore 64]], [[TI-99/4A]], and [[Vector-06c]]. The game contains a puzzle which at the time of release could be solved for a ''Spy's Demise'' T-shirt. According to ''[[Antic (magazine)|Antic]]'' magazine in June 1984, only four people had solved it. The game was followed by a 1983 sequel, ''The Spy Strikes Back''.
+
+==Gameplay==
+The first level of ''Spy's Demise'' consists of twelve floors.  The player must cross the series of floors, one at a time, while avoiding seven [[elevator]]s at varying positions.  Being hit by an elevator results in loss of a life.  Finishing all floors starts the next level.  Floors are gradually removed from level to level making it more difficult for the player to avoid the elevators. Ports of the game had a music loop of renditions of Eastern European classical and folk tunes, including:
+* ''[[Hungarian Dances (Brahms)|Hungarian Dance]] #5''
+* ''[[The Comedians (Kabalevsky)|The Comedians]]'' "Gallop"
+* "[[Katyusha (song)|Katyusha]]"
+* ''[[The Nutcracker]]'' "Trepak"
+
+The puzzle consisted of a nine-line cryptogram, one line of which was displayed after completing the corresponding level.  It revealed a phone number to call, and a person's name for whom to ask.<ref>{{cite web|title=Easter Eggs: Spy's Demise |url=http://www.digitpress.com/eastereggs/a48spysdemise.htm |website=Digital Press}}</ref>  There is a tenth line in the programming code which is never displayed in the game itself. That tenth line gives a code word that is to be spoken to the person who answers the phone, but it was a trap planted by Penguin Software to foil anyone who tried to solve the puzzle by scanning the program code instead of playing through the end of the game!
+
+==Development==
+The original title of the game was ''Poof!'', with identical gameplay. For marketing reasons, it was decided to change the graphics to fit a spy theme and Mary Locke at Penguin Software created the animated spy character. The ''Spy's Demise'' title was inspired by a drink name at a spy-themed bar in Milwaukee named ''[[Safe House Restaurant|The Safe House]]''.<ref>{{cite web
+ |url=http://graphicsmagician.com/polarware/arcade.htm
+ |title=Arcade-style Animated Action Games
+ |publisher=Polarware Archive site
+ |access-date=July 25, 2017
+}}</ref>
+
+==Reception==
+In the July/August 1983 "New Products" column of Atari computer magazine ''[[ANALOG Computing]]'', the author wrote "''SPY'S DEMISE'' is the winner of this issue's 'Potato Chip' award. You can't stop playing it."<ref>{{cite journal|title=New Products|journal=ANALOG Computing|date=July 1984|issue=12|page=18}}</ref>
+
+In 1984 ''[[Softline (magazine)|Softline]]'' readers named the game the eighth-worst Atari program of 1983, tied with ''Gwendolyn''.<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | accessdate=28 July 2014 | pages=49}}</ref>
+
+==Legacy==
+The 1983 sequel, ''The Spy Strikes Back'',<ref name="antic_ssb">{{cite journal|title=Product Review: The Spy Strikes Back|journal=Antic|date=June 1984|volume=3|issue=2|url=http://www.atarimagazines.com/v3n2/productreviews.html|first1=Mark|last1=Cotone}}</ref> was not written by Zeldin, but Penguin Software founder [[Mark Pelczarski]] and Robert Hardy. Both games, along with Penguin's ''Thunderbombs'', were later released together as ''Arcade Album #1'' for the Apple II, Atari 8-bit, and Commodore 64.<ref name="album">{{cite web|title=Arcade Album #1|url=http://www.atarimania.com/game-atari-400-800-xl-xe-arcade-album-1_1166.html|website=Atari Mania}}</ref>
+
+In the UK, the game and the sequel were released together in a single package in 1985. [[U.S. Gold]] published the compilation on its "Electric Dreams" label (not to be confused with [[Electric Dreams Software]])<ref name='zzap8review'>{{cite magazine |title=Review: Spy's Demise / The Spy Strikes Back|magazine=Zzap|issue=8|publisher=Newsfield|date=December 1985|page=22|url=https://archive.org/details/zzap64-magazine-008/page/n21/|access-date=2 February 2023}}</ref><ref name='zzap7advert'>{{cite magazine |title=Advertisement: Electric Dreams|magazine=Zzap|issue=7|publisher=Newsfield|date=November 1985|page=105|url=https://archive.org/details/zzapp_64_issue_007_600dpi/page/n105|access-date=2 February 2023}}</ref> for the Commodore 64 and Atari 8-bit computers. Reviewers for ''[[Zzap!64]]'' magazine were extremely critical of the games and awarded the release an overall score of 10%.
+
+A machine language [[type-in program]] for a [[Video game clone|clone]] of ''Spy's Demise'' was printed in Atari computer magazine ''[[ANALOG Computing]]'' as ''Elevator Repairman'' (1985).<ref>{{cite journal|last1=Caprilli|first1=Fred|title=Elevator Repairman|journal=ANALOG Computing|date=September 1985|issue=34|pages=73–79}}</ref> Another clone is ''Elevator'' (1986) by David Bayliss for [[MS-DOS]].
+
+==References==
+{{reflist}}
+
+{{Penguin Software}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:TI-99/4A games]]
+[[Category:Video games developed in the United States]]
+[[Category:Penguin Software games]]

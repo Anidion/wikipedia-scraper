@@ -1,0 +1,57 @@
+Meltdown (1986 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Meltdown_%281986_video_game%29&oldid=1202264738
+Accessed on: 2024-06-26T17:00:27.618824
+
+
+
+------
+Meltdown (1986 video game)
+{{Infobox video game
+|title  = Meltdown
+|image = Meltdown splash screen.png
+|developer =
+|publisher = [[Alligata]]
+|designer = Ross Goodley
+|engine =
+|released = [[1986 in video gaming|1986]]
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player]]
+|platforms = [[Amstrad CPC]]
+}}
+
+'''''Meltdown''''' is an [[Isometric projection|isometric]] [[action-adventure game]] for the [[Amstrad CPC]] published by [[Alligata]] in 1986. There are two versions: a 64k version with basic [[speech synthesis]] and a 128k version featuring much more speech synthesis. A version was also released in [[French language|French]] called '''''Le Syndrome'''''.
+
+==Gameplay==
+The player has to navigate three mazes from the 1st floor down to the 3rd floor of a [[nuclear reactor]] to prevent a [[nuclear meltdown]]. There are eight [[computer terminal]]s on each floor, the first allowing access to previous floors. Six of the terminals provide access to a different [[recursion|game within a game]] which the player must win in order to get a [[password]]. Once all six passwords have been retrieved the eighth computer allows the player access to an [[Boss (video games)|end-of-level]] game which the player must complete before being allowed access to the next floor. Altogether there are 24 games (three isometric mazes, 18 sub-games and three end-of-level games) which must be completed to win the whole game. The final game is a [[typing|text-input]] only [[robot]] system for adjusting the [[control rods]] of the reactor so it won't [[Explosion#Nuclear|explode]].
+
+
+== Reception ==
+
+{{ video game reviews 
+
+| AAction = 67%<ref name=AA>{{cite magazine|magazine=Amstrad Action|issue=11|date=1986|title=Meltdown|url=https://archive.org/details/Amstrad_Action_Issue_011/page/n57}}</ref>
+
+| rev1 = ''Your Computer''
+| rev1Score = {{Rating|5|5}}<ref name=YC>{{cite magazine|magazine=Your Computer|title=Meltdown|pages=44|date=August 1986|url=https://archive.org/details/yourcomputer198608/page/n43}}</ref>
+
+}}
+
+''Your Computer'' characterized the game as "outstanding", highlighting its "excellent animation" and found it to make the most of the capabilities of the Amstrad.<ref name=YC/> ''Amstrad Action'' assessed the game as a "good package" with "plenty of depth", highlighting its variety of levels, but found the game "lacked polish", citing the "very disappointing" graphics and "appalling" minigames.<ref name=AA/>
+
+==See also==
+*''[[Scram (video game)|Scram]]''
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20160303195631/http://tacgr.emuunlim.com/downloads/filedetail.php?recid=566 ''Meltdown''] at the Amstrad CPC Games Resource
+
+[[Category:1986 video games]]
+[[Category:Action-adventure games]]
+[[Category:Alligata games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad CPC-only games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with isometric graphics]]

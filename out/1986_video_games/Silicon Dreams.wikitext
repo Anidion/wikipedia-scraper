@@ -1,0 +1,126 @@
+Silicon Dreams
+Permalink: //en.wikipedia.org/w/index.php?title=Silicon_Dreams&oldid=1224964259
+Accessed on: 2024-06-26T17:00:56.268251
+
+
+
+------
+Silicon Dreams
+{{About|the 1986 video game|the British video game developer|Silicon Dreams Studio}}
+{{Infobox video game
+| title = Silicon Dreams
+| image = Silicon Dreams Rainbird cover.jpg
+| developer = [[Level 9 Computing]]
+| publisher = {{Video game release|NA|[[Telecomsoft#Firebird|Firebird]]|EU|[[Telecomsoft#Rainbird|Rainbird]]}}
+| designer = '''Snowball'''<br />Nick Austin, Mike Austin and Pete Austin with additional help from Ian Buxton. Art by Tim Noyce<br />'''Return to Eden'''<br />Nick Austin and Chris Queen with art by Tim Noyce<br />'''The Worm in Paradise'''<br />Nick Austin, Mike Austin and Pete Austin with art by James Horsler
+| engine = 
+| released = 1983 (''Snowball'')<br>1984 (''Return to Eden'')<br>1985 (''The Worm in Paradise'')<br>1986 (''Silicon Dreams'')
+| genre = [[Interactive fiction]]
+| modes = [[Single-player]]
+| platforms = [[Amiga]], [[Amstrad CPC]], [[Amstrad PCW]], [[Apple II]], [[Atari 8-bit]], [[Atari ST]], [[BBC Micro]], [[Commodore 64]], [[MS-DOS]], [[Classic Mac OS]], [[MSX]], [[ZX Spectrum]]
+}}
+
+'''''Silicon Dreams''''' is a trilogy of [[interactive fiction]] games developed by [[Level 9 Computing]] during the 1980s. The first game was '''''Snowball''''', released during 1983, followed a year later by '''''Return to Eden''''', and then by '''''The Worm in Paradise''''' during 1985. The next year they were vended together as the first, second and last of the Silicon Dreams.
+
+As with most Level 9 games, the trilogy used an [[interpreted language]] termed A-code and was usable in all major types of home computer of the time, on either [[Floppy disk|diskette]] or [[cassette tape|cassette]]. Level 9 self-published each game separately, but the compilation was published by [[Telecomsoft]], which sold it in the United States with the tradename Firebird and in Europe with the tradename Rainbird.<ref name="factsheet">{{cite web |last = Schmidt | first = Miron |author2=Schulz, Manuel  | date = 1999-01-25 | url = http://ftp.ifarchive.org/if-archive/level9/info/Level9_Facts.txt | title = Level 9 Fact Sheet | access-date = 2007-10-08 | work = The Interactive Fiction Archive}}</ref>
+
+The trilogy is set in a not too-distant future when humans have started colonising space.  For the first two instalments the player has the role of Kim Kimberley, an undercover agent, whose goal in ''Snowball'' is to save the colonist's spacecraft from crashing into a star, and in ''Return to Eden'' to stop the defence system at the destination planet of Eden from destroying the craft.  In ''The Worm in Paradise'', the player, with the role of an unnamed citizen of Eden, must travel around the city of Enoch, learn its secrets, earn money and save the planet.
+
+==Gameplay==
+The games use a [[text parser]] for entering commands at the "What now?" [[Command line interpreter|prompt]].<ref name="Snowball_instructions">{{cite web | author = Level 9 Computing | year = 1983 | url = ftp://ftp.worldofspectrum.org/pub/sinclair/games-info/s/Snowball.txt | title = Snowball instructions | access-date = 2008-07-20}}</ref>  The parser can [[Interpreter (computing)|interpret]] more than a thousand words<ref>{{cite journal | last = Medley | first = Sue | title = Silicon Dreams review | journal = SynTax | issue = 2  | date = September 1989 | url = http://www.syntax2000.co.uk/issues/02/silirev.asc.txt | format = [[Text file|TXT]] | access-date = 2008-07-20}}</ref> to control movement or actions.  It looks at the command, picking out two or three words it knows, ignoring the order, and tries to guess what is meant.<ref name="Snowball_instructions" />  For movement, the usual commands for moving 'NORTH', 'SOUTH', 'EAST' and 'WEST' are available (and their abbreviated forms of 'N', 'S', 'E' and 'W') as well as 'UP' and 'DOWN' ('U' and 'D' respectively) and a number of other directions and 'modes' of movement (like 'JUMP').  For actions, it understands how to pick up objects, opening doors, lighting lamps, as well as dropping objects and wielding them.<ref name="Snowball_instructions" />  Additionally, there are commands to invoke 'SAVE' and 'RESTORE' of game positions to cassette tape or floppy disk (for some systems also to [[Random access memory|RAM]]), ask for 'HELP', turn off pictures and turn them on again with 'WORDS' and 'PICTURES' respectively, an 'OOPS' command to [[undo]] previous commands.<ref name="silicon_dreams_instructions">{{Cite web | year = 1986 | title = Silicon Dreams: Loading Instructions and Gameplay Guide | url=https://archive.org/stream/SiliconDreamsRainbird/Silicon_Dreams_Rainbird_djvu.txt | publisher = Level 9 Computing |access-date=2021-02-09 }}</ref>
+
+''Silicon Dreams'' can be played as three separate games, but to obtain a maximum score the games must be completed in order, carrying the score from one adventure to the next. Points are not scored for collecting treasures, but rather for doing specific tasks helping to satisfy the goal of the individual game. For ''Snowball'' the goal is to get to the main control room and prevent the starship ''Snowball 9'' from crashing into a star. For ''Return to Eden'' the goal is to get into the city of Enoch and stop the robots from destroying ''Snowball 9''. And for ''Worm in Paradise'' the goal is to find as much information about the city as possible, obtain money, and then become a member of the governing party of Eden, saving the planet in the process.<ref name="silicon_dreams_instructions" />
+
+==Setting==
+The trilogy is set in the future, when the human race is colonizing the stars. A transport network has been developed for the entire Solar System using accelerator chains, and the "Big 5" nations of Earth have initiated a plan to colonise the galaxy. This is known as the Terran Expansionary Phase. It lasted ninety years from 2120 to 2210.
+
+The first major activity was to launch probes into outer space. The probes reported any Earth-sized planet they encountered during their centuries-long voyage. Each probe was followed by a survey ship ten years later. The ship's mission was to map the planet and, if it was habitable, it would signal Earth and then, while waiting for the colonists to arrive, [[Terraforming|terraform]] the planet.
+
+This is the second part of the phase. The survey ship mined materials from asteroids and used them to build a robot factory in space &mdash; a process that could take decades. The resulting robots built more space factories that in turn produced better robots. They also built large satellite dishes to collect data sent from Earth containing the latest technological advances. Then terraforming was performed. The robots landed on the planet and built cities while also launching more probes and survey ships further into space.
+
+Once Earth received news of a habitable planet, the third and final part was done. Ten giant passenger discs, each carrying two hundred thousand colonists in [[Stasis (fiction)|stasis]], were towed into space. Next came the engine unit, which was linked to the front of the discs, and then the colony ship was completed and ready to go.
+
+During the 2190s fifty colony ships were launched from the EEC's Ceres base, among them the ''Snowball 9'', which carried the first colonists for planet Eden on the [[40 Eridani|Eridani A]] system. For the next three years, the accelerator chains beyond Pluto fired ten-ton blocks of [[ammonia]] ice at the travelling ship. The ''Snowball 9'' caught the ice blocks with hooks and piled it around the passenger discs, forming a hollow shell that would cover most of the ship and would serve as a shield until it was needed to fuel the [[Nuclear fusion|fusion]] engines on the later part of the trip. This ice shell gave the Snowball series its name.
+
+After receiving the last ice block, the crew put the ship in autopilot and went to hibernate with the passengers, leaving the ship's maintenance to robots. Except for a brief period of activity to start deceleration, the crew slept for most of the trip, awaking one year before reaching Eden. The plan was to continue deceleration while consuming the last of the ice shell, and then put the ship in orbit around the planet, delivering the passengers down by gliders that would be retrieved by hooks to be reused.
+
+===Kim Kimberley===
+The protagonist of the two first instalments, Kim Kimberley, is a tall, athletic, intelligent woman with brown eyes and fair hair. She was born and raised at Hampstead Crèche, which was closed when she was thirteen years old due to violations of the Android Protection Acts. She finished her education at the Milton Keynes School of Life in Malta, then returned to England for [[National service|National Service]]. She started doing standard security work with the occasional surveillance of subversive members of society, but ended working as a [[Counter-intelligence|counter-espionage]] agent. Whilst in her mid-twenties, Kim accepted to travel undercover on the ''Snowball 9'' to be there as the last resort for the worst-case scenario.
+
+==''Snowball''==
+[[File:SnowballScreen.png|frame|right|Commodore 64 screen copy of ''Snowball'' as it appears in the expanded version of ''Silicon Dreams''.]]
+
+===Plot===
+As the ''Snowball 9'' approaches Eden, something goes wrong. A crew member murders her shipmates, destroys the communication system and sets the ship on a collision course with the sun. The robots, being little more than [[Automaton|automata]], continue their everyday operations oblivious to the danger but the ship's computer, capable of thinking, awakens Kim Kimberley before the deranged crew member destroys it.  She exits her modified stasis chamber with the goal of finding a way to reach the control room and avert disaster.
+
+===Development===
+''Snowball'' was originally released during 1983 as the company's fourth adventure game using the A-Code system.<ref name="factsheet" />  Nick, Mike, and Pete Austin headed development. Though Level 9's previous games featured a fantasy theme, the Austin brothers chose a science fiction theme.<ref name="RG-57">{{cite journal| journal = [[Retro Gamer]]| title = Company Profile: Level 9| publisher = [[Imagine Publishing]]| issue = 57| date = December 2008| first = Paul| last = Rigby| pages = 24–25}}</ref> The original release used version 1 of this system<ref>{{cite web | last = Jensen | first = Henrik | url = http://users.cybercity.dk/~bse16410/adv/level9/le9main.htm | title = Level 9 | access-date = 2008-07-13 | language = da}}</ref> and was initially released for the [[BBC Micro]], [[ZX Spectrum]], and [[Nascom]],<ref name="thenextlevel_part1">{{cite journal | last = Hewison | first = Richard |date=July 2004 | title = The Next Level - part 1 | journal = [[Retro Gamer]] | publisher = Live Publishing| issue = 6 | pages = 53–57}}</ref> but was later followed by versions for the [[Commodore 64]], [[Camputers Lynx]], [[Oric-1]], [[Atari 8-bit computers]]<ref>{{cite journal |date=November 1983 | title = Level 9 advertisement | journal = [[Micro Adventurer]] | issue = 1 | pages = 2 | publisher = [[Sunshine Books]] | url = http://www.worldofspectrum.org/showmag.cgi?mag=MicroAdventurer/Issue01/Pages/MicroAdventurer0100002.jpg | format = [[JPEG]] | access-date = 2008-07-26}}</ref> as well as for the [[Memotech MTX]], [[Amstrad CPC]], [[Enterprise (computer)|Enterprise]] and [[MSX]].<ref>{{cite journal |date=March 1985 | title = Level 9 advertisement | journal = [[Micro Adventurer]] | issue = 17 | pages = 2 | publisher = [[Sunshine Books]] | url = http://www.worldofspectrum.org/showmag.cgi?mag=MicroAdventurer/Issue17/Pages/MicroAdventurer1700002.jpg | format = [[JPEG]] | access-date = 2008-07-26}}</ref>  It is noteworthy for including over seven thousand locations.  To achieve this sixty-eight hundred locations on the passenger disks form a colour-coded maze with minimal descriptions.<ref name="RG-57"/><ref>{{cite web | last = Granade | first = Stephen | url = http://brasslantern.org/community/history/level9.html | title = History of Interactive Fiction: Level 9 | access-date = 2007-10-08 | work = Brass Lantern}}</ref>
+
+In an interview for ''[[Sinclair User]]'', Chris Bourne asked, "Is the [[Androgyny|androgynous]] Kim a man or woman?"  Pete Austin pointed out that "there's a credit at the end for the design of 'Ms Kimberley's costume,'" but also admitted that Kim Kimberley was "a deliberately [[unisex]] name."<ref name="RG-57"/><ref name="onthelevel">{{cite journal | last = Bourne | first = Chris | date = May 1985 | title = Hit Squad: On the level | journal = [[Sinclair User]] | issue = 38 | pages = 60–62 | url = http://www.sincuser.f9.co.uk/038/htsquad.htm | access-date = 2007-10-08 | url-status = dead | archive-url = https://web.archive.org/web/20071008083858/http://www.sincuser.f9.co.uk/038/htsquad.htm | archive-date = 2007-10-08 }}</ref> The debate came to an end with the release of ''Return to Eden'', where it was made more explicit that Kim was not a man, because the surviving crew members confuse her with the woman who tried to destroy the ship.
+
+==''Return to Eden''==
+[[File:ReturnToEdenScreen.png|frame|Commodore 64 screenshot of ''Return to Eden'']]
+
+===Plot===
+With the ''Snowball 9'' orbiting Eden, the surviving crew members put Kim on trial. The only evidence against her is the "mempak" from the control room, which shows her as the hijacker rather than the saviour. Despite the fact that the recording is damaged and thus is unreliable, they sentence her to death. About to be thrown into space, Kim manages to escape aboard a "stratoglider" and an hour later, lands on Eden. At this point the game starts.
+
+The first thing the player must do is find a shelter for Kim, because a few moves into the game the ''Snowball 9'' crew use the ship's engine to try to burn her down. The native robots take this as proof that the ''Snowball 9'' is not the ship they were expecting but a hostile alien craft they must destroy. The objective is to contact the robots before time ends for the ''Snowball 9'' and everyone aboard it.
+
+===Development===
+Unlike its predecessor, ''Return to Eden'' only had about two hundred and fifty locations,<ref>{{cite journal | last = Price | first = Richard |date=January 1985 | title = Spectrum Software Scene: Snowbound in Eden | journal = [[Sinclair User]] | issue = 34 | pages = 50 | url = http://www.sincuser.f9.co.uk/034/sftwre.htm | access-date = 2007-10-08 }}</ref> but it was Level 9's first game to feature graphics.<ref name="RG-57"/> Other adventure games had included graphics before, but version 2 of the A-Code system allowed Level 9 to [[Code|encode]] location graphics into as little as forty [[byte]]s. This size made it possible to add graphics to every location of the game for all formats with more than 32 [[Kilobyte|K]] RAM.<ref name="thenextlevel_part1" /> The user could choose not to display them and play the game in text-only mode. It was released for the same platforms as its predecessor.<ref name="Adventureland">{{cite web | last = Meier | first = Stefan |author2=Persson, Hans  | url = http://adventure.if-legends.org/Level_9_Computing.html | title = Level 9 Computing | access-date = 2008-07-20 | work = Adventureland}}</ref>
+
+The game's first cover depicted a robot fighting a monster plant in Enoch. The robot resembled a comic book character, so to avoid legal troubles, Level 9 commissioned Godfrey Dowson to do a new cover. Dowson's illustration depicted another robot in the jungle looking towards Enoch. They liked the second cover so much, they hired Dowson to do artwork for the re-release of their old games as well as for their future titles.<ref>{{cite web | last = Hewison | first = Richard | url = http://ifguide.if-legends.org/essays/Level-9.html | title = Level 9: Past masters of the adventure game | access-date = 2008-07-20}}</ref>
+
+Pete Austin commented on the game: "It's an alien [[amusement park|theme park]] gone wild. The Eden universe is more like [[Larry Niven]]'s future space", and "intended as a comment on [[superpower]] [[Humanitarian intervention|intervention]] in the [[Third World]]."<ref name="RG-57"/>
+
+==''The Worm in Paradise''==
+{{Main|The Worm in Paradise}}
+
+==The trilogy==
+''Silicon Dreams'' was the second title published by Telecomsoft, the first being ''[[Jewels of Darkness]]'',<ref name="factsheet" /> in a four-game publishing deal signed by Level 9 during April 1986.<ref>{{cite journal |date=March 1988 | title = News | journal = [[CRASH (magazine)|CRASH]] | issue = 50 | pages = 8 | url = http://www.crashonline.org.uk/50/news.htm | access-date = 2008-08-15}}</ref>  This deal gave Level 9 (which was often referred to as "British [[Infocom]]"<ref>{{cite web | last = Maher | first = Jimmy | date = 2006-07-10 | url = http://home.grandecom.net/~maher/if-book/if-6.htm | title = Chapter 6: The Rest of Commercial IF | access-date = 2008-08-15 | work = Let's Tell a Story Together (A History of Interactive Fiction)}}</ref>) an opportunity to revise their previous titles and add support for the [[16-bit]] market as well as a possible entry into the potential lucrative US market.<ref name="thenextlevel_part2">{{cite journal | last = Hewison | first = Richard |date=August 2004 | title = The Next Level - part 2 | journal = [[Retro Gamer]] | publisher = Live Publishing| issue = 7 | pages = 59–63}}</ref>  Subsequently, the trilogy was released for a total of twelve platforms, leaving out the BBC Micro and Enterprise compared to ''The Worm in Paradise'', but adding support for the [[Apple II series|Apple II]], [[Amiga]], [[Amstrad PCW]], [[Atari ST]], [[IBM Personal Computer|IBM PC]] [[DOS]] and [[Macintosh]].<ref name="silicon_dreams_instructions" />  All the games were updated to version 3 of the A-Code system<ref name="factsheet" /> with updated text and new graphics for inclusion in the release of the ''Silicon Dreams'' trilogy in 1986<ref>{{cite journal | last = Gerrard | first = Mike |date=May 1987 | title = YS Adventures: Silicon Dreams | journal = [[Your Sinclair]] | issue = 15 | pages = 58 | url = http://www.ysrnry.co.uk/articles/silicondreams.htm | access-date = 2007-10-08 }}</ref> with expanded, text-only versions for some releases.<ref name="ZXComputing8703">{{cite journal | last = Sweasey | first = Peter |date=March 1987 | title = Mindplay: Silicon Dreams | journal = [[ZX Computing]] | issue = 8703 | pages = 90 | url = http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8703/Pages/ZXComputing870300078.jpg | format = [[JPEG]] | access-date = 2008-07-25}}</ref>
+
+The "Rainbird" release came in a 215 x 153 x 27&nbsp;mm [[Paperboard|cardboard]] box while the "Firebird" release came in a 227 x 163 x 30&nbsp;mm black, plastic box.  Both featured a 150 x 210&nbsp;mm, 68-page [[book]]let with loading instructions, a guide to playing the game and [[Peter McBride (writer)|Peter McBride's]] [[novella]] ''Eden Song'' which served as an introduction to ''The Worm in Paradise''.<ref name="factsheet" />  The novella was also used as a [[copy protection]] device, from which, upon restore of a saved game, the player had to enter a word from a page and line reference.<ref name="ZXComputing8703" />
+
+Level 9 never released a version of the trilogy for the [[Sinclair QL]].
+
+==Reception==
+The games were released individually and generally received good initial reviews.<ref name="RG-57"/>  ''Snowball'' won the Best Text-only Adventure prize at ''[[Crash (magazine)|Crash]]'' 1984 ''Readers Awards'',<ref>{{cite journal |date=Christmas 1984| title = Crash Readers Awards 1984 | journal = [[CRASH (magazine)|Crash]] | issue = 12 | pages = 94–105 | url = http://www.crashonline.org.uk/12/awards.htm | access-date = 2008-07-25}}</ref> ''Return to Eden'' received a 90% score in ''Sinclair Programs'',<ref>{{cite journal | author = Sinclair Programs staff |date=February 1985 | title = Soft Focus: Return to Eden review | journal = [[Sinclair Programs]] | issue = 8502 | pages = 14 | publisher = [[EMAP]] | url = http://www.worldofspectrum.org/showmag.cgi?mag=SinclairPrograms/Issue8502/Pages/SinclairPrograms850200014.jpg | format = [[JPEG]] | access-date = 2008-07-24}}</ref> and ''The Worm in Paradise'' was rated a ''Your Sinclair Megagame''<ref>{{cite journal | last = Wilson | first = John |date=February 1986 | title = Beast of Eden | journal = [[Your Sinclair]] | issue = 2 | pages = 80–81 | url = http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue02/Pages/YourSinclair0200080.jpg | format = [[JPEG]] | access-date = 2008-07-25 }}</ref> and a ''Sinclair User Classic''.<ref>{{cite journal | last = Price | first = Richard |date=March 1986 | title = Adventure review: Worm in Paradise | journal = [[Sinclair User]] | issue = 48 | pages = 70–71 | url = http://www.sincuser.f9.co.uk/048/worminp.htm | access-date = 2008-07-25 }}</ref>
+
+When the trilogy was released it received unanimously good reviews from the ZX Spectrum press. ''Sinclair User'' gave it a ''Sinclair User Classic'', terming it an "unqualified success for Level 9 and Rainbird."<ref>{{cite journal | last = Rook | first = Gary |date=February 1987 | title = Adventure review: Silicon Dreams | journal = [[Sinclair User]] | issue = 59 | url = http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue059/Pages/SinclairUser05900090.jpg | format = [[JPEG]] | access-date = 2008-07-25 }}</ref> [[Your Sinclair]] awarded a ''Your Sinclair Mega Game'',<ref name="YourSinclair15">{{cite journal | last = Gerrard | first = Mike |date=March 1987 | title = YS Adventures: Silicon Dreams | journal = [[Your Sinclair]] | issue = 15 | pages = 58 | url = http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue15/Pages/YourSinclair1500058.jpg | format = [[JPEG]] | access-date = 2008-07-25}}</ref> and ZX Computing a ''Monster Hit''.<ref name="ZXComputing8703" />  The Commodore 64 magazine [[Zzap!64]] gave it a 90% score which awarded it with a ''Zzap!64 Sizzler''.<ref>{{cite journal | author = Zzap!64 staff "White Wizard" |date=February 1987 | title = Zzap!64 adventure: Silicon Dreams review | journal = [[Zzap!64]] | issue = 22 | pages = 44 | publisher = [[Newsfield Publications]] | url = http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=22&page=44 | format = [[JPEG]] | access-date = 2008-07-25}}</ref>  However, some reviews found the graphics "truly abysmal. Blotchy, often unrecognisable...simple in design..."<ref name="ZXComputing8703" /> while others called it "smidgens better than those added to ''Jewel of Darkness'', possibly even two smidgens, and are far from being the disappointment."<ref name="YourSinclair15" />
+
+The ZX Spectrum version was placed fourth in September<ref>{{cite journal |date=September 1987 | title = Street Life | journal = [[Your Sinclair]] | issue = 21 | pages = 34 | url = http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue21/Pages/YourSinclair2100034.jpg | format = [[JPEG]] | access-date = 2008-09-06}}</ref> and third in October 1987<ref>{{cite journal |date=October 1987 | title = Street Life | journal = [[Your Sinclair]] | issue = 22 | pages = 66 | url = http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue22/Pages/YourSinclair2200066.jpg | format = [[JPEG]] | access-date = 2008-09-06}}</ref> of the ''Your Sinclair'' adventure charts.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{moby game|id=-group/silicon-dreams-series}}
+* [https://ifdb.org/search?searchfor=series:Silicon+Dreams Silicon Dreams] in the [[Interactive Fiction Database]]
+* [http://www.if-legends.org/~l9memorial/html/sdt.html ''Silicon Dreams''] at The Level 9 Memorial
+* [https://www.mocagh.org/loadpage.php?getgame=silicondreams Silicon Dreams] at the Museum of Computer Adventure Game History
+* {{WoS game|id=0011350}}
+
+{{Level 9}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1986 video games]]
+[[Category:Adventure games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Level 9 Computing games]]
+[[Category:MSX games]]
+[[Category:Science fiction video games]]
+[[Category:Video game trilogies]]
+[[Category:Video game compilations]]
+[[Category:Video game remakes]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games featuring female protagonists]]
+[[Category:Video games set on fictional planets]]
+[[Category:ZX Spectrum games]]

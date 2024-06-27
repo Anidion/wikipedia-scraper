@@ -1,0 +1,80 @@
+Firezone
+Permalink: //en.wikipedia.org/w/index.php?title=Firezone&oldid=1224582866
+Accessed on: 2024-06-26T17:04:12.605535
+
+
+
+------
+Firezone
+{{Short description|1988 video game}}
+{{use dmy dates|date=May 2023}}
+{{Infobox video game
+| title         = Firezone
+| image         = Firezone cover.jpg
+| developer     = Arcadia<ref name="developer">{{cite video game |title=Firezone |developer=Arcadia |publisher=[[Personal Software Services]] |date=1988 |platform=[[MS-DOS]] |version= |level=Main menu |language= |quote=(C) PSS 1988. This version by Arcadia.}}</ref>
+| publisher     = [[Personal Software Services]]<ref name="ACE1"/><ref name="info"/>
+| producer      = 
+| designer      = 
+| programmer    = 
+| artist        = 
+| writer        = 
+| composer      = 
+| engine        = 
+| series        = 
+| platforms     = [[Amstrad CPC]], [[Commodore 64]], [[Amiga]], [[Atari ST]], [[MS-DOS]]
+| released      = 1988<ref name="developer"/>
+| genre         = [[Computer wargame]]
+| modes         = [[Single-player]], [[multiplayer]]
+}}
+
+'''''Firezone''''' is a 1988 [[computer wargame]] developed by Arcadia and published by [[Personal Software Services]] (PSS) for the [[Amstrad CPC]].<ref name="DM"/> It is part of PSS' ''Wargamers'' series.<ref name="AUI"/> Ports for [[Commodore 64]], [[Amiga]], [[Atari ST]], and [[MS-DOS]] were released later.
+
+==Gameplay==
+''Firezone'' is a [[turn-based strategy]] game played on a [[Hex map|hexagonal grid]] and is set in the 21st century during a war between the superpowers of the Pacific Combine and the European League.<ref name="AUI"/> On their turn, the player can move a unit or fire at the enemy. The damage values are left to random chance. The objective of the game is to destroy all enemies on the map or force them to retreat.<ref name="ACE1"/> The game features sci-fi concepts like [[anti-gravity|grav]] tanks and [[Raygun|beam weapons]].<ref name="AUI"/><ref name="info"/> The disk version comes with nine scenarios, cassette version comes with three. A scenario designer is also included.<ref name="ACE1"/> A two-player multiplayer is supported.<ref name="AUI"/> The DOS version supports [[Color Graphics Adapter|CGA]] and [[Enhanced Graphics Adapter|EGA]] graphics modes.<ref name="DOS-I"/>
+
+==Reception==
+{{Video game reviews
+| ACE = 710/1000 (CPC)<ref name="ACE1">{{cite magazine |title=Strategy Special - Firezone |journal=[[ACE (magazine)|ACE]] |date=May 1988 |issue=8 |page=75 |url=https://archive.org/details/ace-magazine-08/page/n73/mode/2up |publisher=[[Future plc]]}}</ref><br>734/1000 (ST)<ref name="ACE2">{{cite magazine |title=Screen Test Updates - Firezone |journal=[[ACE (magazine)|ACE]] |date=February 1989 |issue=17 |page=68 |url=https://archive.org/details/ace-magazine-17/page/n67/mode/2up |publisher=[[Future plc]]}}</ref><br>735/1000 (Amiga)<ref name="ACE3">{{cite magazine |title=Screen Test Updates - Firezone |journal=[[ACE (magazine)|ACE]] |date=May 1989 |issue=20 |page=77 |url=https://archive.org/details/ace-magazine-20/page/n75/mode/2up |publisher=[[Future plc]]}}</ref>
+| AmUI = 8/10<ref name="AUI">{{cite magazine |last1=Keighley |first1=Len |title=Entertainment - Firezone |journal=[[Amiga User International]] |date=July 1989 |page=100 |url=https://archive.org/details/Amiga_User_International_1989007/page/n99/mode/2up |publisher=Croftward Limited |quote=Value: 8}}</ref>
+| AAction = 64%<ref name="AA">{{cite magazine |last1=GBH |title=Action Test - Firezone |journal=[[Amstrad Action]] |date=April 1988 |issue=31 |page=46 |url=https://archive.org/details/amstrad-action-031/page/n45/mode/2up |publisher=[[Future plc]]}}</ref>
+| ASM = 39/60 (ST)<ref name="ASM">{{cite magazine |last1=Blum |first1=Torsten |title=Denk(-)mal - Liga Contra Kombinat |journal=[[Aktueller Software Markt]] |date=March 1989 |issue=3/89 |page=77 |url=https://retrocdn.net/images/8/87/ASM_DE_1989-03.pdf |publisher=Tronic-Verlag |language=German |quote=Grafik: 9/12, Handhabung: 8/12, Strategie: 8/12, Motivation: 7/12, Preis/Leistung: 7/12}}</ref>
+| TILT = 14/20 (DOS)<ref name="tilt">{{cite magazine |last1=Hautefeuille |first1=Olivier |title=Rolling Softs - Firezone |journal=[[Tilt (French magazine)|Tilt]] |date=June 1989 |issue=67 |page=66 |url=https://archive.org/details/Tilt067/page/n65/mode/2up |publisher=Editions Mondiales S.A. |language=French}}</ref>
+| rev1 = ''The Australian Commodore and Amiga Review''
+| rev1Score = 85/100 (Amiga)<ref name="ACAR">{{cite magazine |last1=Bolitho |first1=Barry |last2=Spiteri |first2=Michael |title=Adventure's Realm - Review: Firezone |journal=The Australian Commodore and Amiga Review |date=June 1989 |volume=6 |issue=6 |page=70 |url=https://archive.org/details/Australian_Commodore_and_Amiga_Review_The_Volume_6_Issue_6_1989-06_Saturday_Magazine_AU/page/n71/mode/2up |publisher=Saturday Magazine Pty Ltd.}}</ref>
+| rev2 = ''{{ill|Datormagazin|sv}}''
+| rev2Score = 3/10 (Amiga)<ref name="DM">{{cite magazine |last1=Ekholm |first1=Hans |title=Amiga-spel - Se upp för Firezone |journal=Datormagazin |date=March 1990 |volume=5 |issue=7 |page=24 |url=https://archive.org/details/Datormagazin1990/Datormagazin_1990_nr07/page/n23/mode/2up |publisher=Bröderna Lindströms Förlags AB |language=Swedish |quote=Firezone konverterades till Amiga från Amstrad via C64:an...}}</ref>
+| rev3 = ''{{ill|PC Magazin|lt=DOS International|de}}''
+| rev3Score = 7/10<ref name="DOS-I">{{cite magazine |last1=Müller |first1=Dieter |title=Spiele - Kurz angespielt |journal=DOS International |date=November 1989 |issue=11/89 |page=122 |url=https://archive.org/details/dos-international_1989-11/page/122/mode/2up |publisher=DMV Daten und Medien Verlag |language=German}}</ref>
+| rev4 = ''{{ill|Gen4|lt=Génération 4|fr}}''
+| rev4Score = 84% (Amiga, ST)<ref name="Gen4">{{cite magazine |title=Reflexion - Fire Zone |journal=Génération 4 |date=March 1989 |issue=9 |pages=46–47 |url=https://archive.org/details/generation4-magazine-009c/page/n45/mode/2up |publisher=SARL Pressimage |language=French}}</ref>
+| rev5 = ''[[.info (magazine)|.info]]''
+| rev5Score = 3/5 (C64)<ref name="info">{{cite magazine |last1=Brown |first1=Mark R. |title=Games For Your C64 - Firezone |journal=[[.info (magazine)|.info]] |date=March 1989 |issue=25 |page=63 |url=https://archive.org/details/info-magazine-25/Info_Issue_25_1989_Mar_Apr/page/n63/mode/2up |publisher=Info Publications Ltd}}</ref>
+| rev6 = ''{{ill|Jeux et Stratégie|fr}}''
+| rev6Score = 7/10 (DOS, ST)<ref name="J&S">{{cite magazine |title=Micro Top - Fire Zone |journal=Jeux et Stratégie |date=June 1989 |issue=59 |page=72 |url=https://archive.org/details/jeux-et-strategie-59/page/72/mode/2up |publisher=Excelsior Publications |language=French}}</ref>
+}}
+''[[ACE (magazine)|ACE]]'' reviewed the Amstrad CPC version and said that "[w]hile the display is colourful, the screen updating is tediously slow, as the screen is re-drawn rather than scrolled." The review was concluded: "A simple wargame then that provides a nice design feature and a vicious computer opponent but not much else."<ref name="ACE1"/> ''[[Amstrad Action]]'' said the sound and graphics are simple, the play area is too small, and each scenario is over too quickly.<ref name="AA"/> In a review of the Amiga version, ''ACE'' noted that the "scrolling and sound effects are much better than the [[8-bit]] versions [...]"<ref name="ACE3"/> ''[[.info (magazine)|.info]]'' said: "Wargames come and wargames go, and Firezone will be no memorable than most of the rest, but it's a pleasant enough
+diversion to burn up a few afternoons."<ref name="info"/> ''[[Amiga User International]]'' concluded: "The game is simple to play, but is nevertheless addictive in its qualities".<ref name="AUI"/> ''The Australian Commodore and Amiga Review'' noted the game as very user friendly and the overall presentation as excellent. The game was said to be "[a] good introductory game for newcomers, which still provides experienced veterans with a serious challenge."<ref name="ACAR"/> ''{{ill|Datormagazin|sv}}'' didn't recommended to buy the game since there are much better strategy games on the Amiga.<ref name="DM"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/45064/firezone}}
+*{{abime|id=555}}
+*{{atarimania|id=23559}}
+*{{Internet Archive game|msdos_Firezone_1988|Firezone}}
+
+{{Personal Software Services}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Computer wargames]]
+[[Category:DOS games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Personal Software Services games]]
+[[Category:Science fiction video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games set in the 21st century]]

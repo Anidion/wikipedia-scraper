@@ -1,0 +1,74 @@
+Submarine Commander
+Permalink: //en.wikipedia.org/w/index.php?title=Submarine_Commander&oldid=1224490885
+Accessed on: 2024-06-26T16:54:10.770657
+
+
+
+------
+Submarine Commander
+{{Short description|1982 video game}}
+{{About|the Atari 8-bit family game|the Atari 2600 game|Submarine Commander (Atari 2600)}}
+{{Infobox video game
+|title = Submarine Commander
+|image = Submarine_Commander_box_art.jpg
+|alt=scan of the cover art on the box for the original Atari 8-bit family release
+|designer = Dean Lock<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+|programmer = '''Atari 8-bit'''<br>Dean Lock<br>'''Apple II'''<br>[[Patrick Buckland]]<br>'''VIC-20'''<br>Gary York
+|publisher = [[Thorn EMI Computer Software]]
+|released = '''1982:''' Atari 8-bit<br/>'''1983:''' Apple II, VIC-20
+|genre = [[Submarine simulator]]
+|modes = [[single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[VIC-20]], [[Apple II]]
+}}
+
+'''''Submarine Commander''''' is a [[simulation video game]] for [[Atari 8-bit computers]] written by Dean Lock and published by [[Thorn EMI Computer Software]] in 1982. A [[VIC-20]] port by Gary York was released in 1983<ref>{{cite journal |title= Battle Games |url=http://www.atarimagazines.com/compute/issue40/news_battle_games.php |journal=Compute! |date= September 1983 |page=285}}</ref> and an [[Apple II]] version by [[Patrick Buckland]] the same year.<ref>{{cite web |title=Play Submarine Commander Online APPLE |url=http://www.vizzed.com/play/submarine-commander-appleii-online-apple-ii-6355-game |website=Vizzed Retro Game Room}}</ref> The Atari version was re-released in 1985 on [[cassette tape|cassette]] on the Sparklers budget label.  A version for the [[TI-99/4A]] was announced<ref>{{cite journal |title=WCES Games |url=https://books.google.com/books?id=ATAEAAAAMBAJ&pg=PA37 |journal= InfoWorld |date=31 January 1983 |page=37}}</ref> but was not released until 1986 when a third party bought the rights.
+
+''Submarine Commander'' [[Simulation|simulates]] the operations of a [[Germany|German]] [[U-boat]] during [[World War II]]. The action takes place in the [[Mediterranean Sea]], where the player has to track down a number of [[Allies of World War II|allied]] [[List of Allied convoys during World War II by region|convoys]] and then approach them underwater to attack with their [[torpedo]]es. ''Submarine Commander'' plays in [[Real-time computing|real time]]: the actions of the player and those of the enemy [[Convoy|convoys]] occur simultaneously.
+
+==Gameplay==
+[[File:Submarine Commander attack.png|thumb|left|View from the periscope as the submarine lines up for a shot on a cargo ship.]]
+
+The game opens displaying the control console, whose square middle section shows a map of the Mediterranean with your current location displayed as a white cross and the locations of enemy ships as black dots.{{sfn|Manual|1982|p=4}} Various status details are shown in the two rectangular areas on either side of the map.{{sfn|Manual|1982|pp=6–8}} Forward movement is controlled by the number keys, 1 for slow and 9 for maximum. On the surface the [[submarine]] moves more rapidly and recharges its [[Electric battery|batteries]] and [[Atmosphere of Earth|air]] supply. The [[joystick]] provides directional control through the [[Rudder|rudders]] and [[Diving plane|dive planes]]. This is a slow process, turning the [[ship]] around in a 360-degree [[circle]] takes considerable time even at full speed.{{sfn|Manual|1982|p=12}}
+
+The main display in the center can be switched between three modes, the map, a [[sonar]] display, and the [[periscope]]. Typically a mission proceeds by starting on the map display while surfaced, and chasing down one of the convoys. When one is sighted, announced by a bonging sound, the player lowers the submarine to attack depth and continues the approach using the sonar display. Once the range has closed, they raise the periscope and attack the ships with the torpedoes. The periscope shows ships if they are within one [[mile]] and the submarine is above 50 [[Foot (unit)|feet]] [[Depth (coordinate)|depth]].{{sfn|Manual|1982|p=5}}
+
+There are four types of ships in the convoys; [[Oil tanker|oil tankers]], [[Cargo ship|cargo ships]], [[Destroyer|destroyers]] and [[Patrol boat|patrol boats]]. All of the ships are [[Armament|armed]] with at least one [[gun]], and will fire on a surfaced submarine. If the submarine is underwater, the destroyers and patrol boats will attack, while the tankers and cargo ships attempt to flee. Successful attacks cause damage to the ship, which repairs slowly over time. The game ends when the air runs out, the [[Hull (watercraft)|hull]] reaches damage level 9, there are no torpedoes or [[fuel]] left, or all the convoys have been destroyed.{{sfn|Manual|1982|p=10}} The game then assigns a [[Score (game)|score]] based on various factors.{{sfn|Manual|1982|p=11}}
+
+The game features nine [[difficulty levels]], which change the number and makeup of the convoys, along with consumables. At the lowest level there are five convoys and the player has 80 torpedoes, 250 fuel and battery that holds a [[Electric charge|charge]] of 70. At the highest level, 9, there are 9 convoys, 40 torpedoes, 140 fuel and a battery that can be charged to 30. In levels 7 through 9, more than one torpedo may be needed to sink a ship.{{sfn|Manual|1982|p=9}}
+
+==Reception==
+''[[Electronic Fun with Computers & Games|Electronic Fun]]'' gave it a rare 4 out of 4 rating, noting that in spite of the complexity the game was still very fun, and that "Whenever you hit an enemy ship, you want to jump up and cheer."<ref>{{cite journal |first=Walter |last=Salm |url=http://2600connection.com/library/magazines/electronic_fun/electronic_fun_jan83.pdf |title=Submarine Commander |journal=Electronic Fun |date=January 1983 |pages=72–73}}</ref>
+
+Hosea Battles reviewed the game for ''[[Computer Gaming World]]'', and stated that "This game will appeal to those who like arcade graphics and sounds, but enjoy a sense of wargaming."<ref name="CGW9">{{cite magazine |last=Battles |first=Hosea |title=Micro-Reviews |magazine=Computer Gaming World |date=Mar–Apr 1983 |volume=1 |issue=9 |pages=43}}</ref>
+
+''[[Antic (magazine)|Antic]]'' awarded it a spot in its 10 best games in 1982 list, calling it "an extremely sophisticated simulation with the added fun of gaming excitement."<ref>{{cite journal |first=David |last=Duberman |title=Antic Pix Ten Again |url=http://www.atarimagazines.com/v2n2/anticpixtenagain.html |journal=Antic |date=May 1983}}</ref> The ''Hi-Res'' review was extremely favourable, saying "There is no question about Submarine Commander. It is the underwater Star Raiders!".<ref>{{cite journal |first= Jim |last=Wooding |title= Jumbo Jet Pilot, Submarine Commander |url=http://www.atarimagazines.com/hi-res/v1n1/reviews.php |journal=Hi-Res |date=November 1983 |page=20}}</ref>
+
+The game was mentioned in a ''[[New Scientist]]'' article covering Thorn's entry into the videogame market,<ref>{{cite journal |first=Jenny |last=Bryan |title=Entertainment in a screen |url=https://books.google.com/books?id=4xhJY6ZtyO4C&pg=PA758 |journal=New Scientist |date=16 December 1982 |page=758}}</ref> and a similar article in ''[[Billboard (magazine)|Billboard]]''.<ref>{{cite magazine |first=Irv |last=Lichtman |title=Thorn-EMI to Market Video Games |url=https://books.google.com/books?id=-SMEAAAAMBAJ&pg=PT54 |magazine=Billboard |date=22 May 1982 |page=68}}</ref>
+
+The [[Creative Sparks|Sparklers]] budget re-release was reviewed in 1986 by ''[[Computer Gamer]]'', who gave it a "Red Giant" rating on their star scale..<ref>{{cite journal |title=Submarine Commander |url=https://archive.org/stream/Computer_Gamer_Issue_19_1986-10_Argus_Press_GB#page/n19/mode/1up |journal= Computer Gamer |date=October 1986 |page=20}}</ref> The long-delayed release on the TI-99 gained a A rating.<ref>{{cite journal |first=John |last=Koloen |title=A maritime challenge |url=http://ftp.whtech.com/magazines/micropendium/mp8611.pdf |journal=MICROpendium |date=November 1986 |pages=44, 47}}</ref>
+
+==Legacy==
+A 1993 ''[[Computer Gaming World]]'' survey of wargames gave ''Submarine Commander'' one star out of five, describing it as "innovative in its time, but now offers next to nothing for the simulation gamer".<ref name="brookssurvey199310">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=111 | title=Brooks' Book Of Wargames: 1900-1950, R-Z | magazine=Computer Gaming World | date=October 1993 | accessdate=26 March 2016 | author=Brooks, M. Evan | pages=144–148}}</ref>
+
+A 2009 review noted that "''Submarine Commander'' has brought to the video gaming industry what ''[[Eastern Front (1941)|Eastern Front 1941]]'' done; that is making the computer to be separate medium to those traditional board games. Yet ''Submarine Commander'' added an extra flavour of being immersed in 3D which is a dramatic step in contrast to those many, many side-scrolling shoot-em up games."<ref>{{cite web |title=One of the first true submarine simulation to hit the video gaming market |url=http://www.gamespot.com/submarine-commander/user-reviews/2200-410662/ |website=Gamespot |date=7 January 2009}}</ref> Another reviewer noted it is "one of the most complex games produced for the VIC-20."<ref>{{cite web |first=Ben |last=C. |url=http://www.retrogamer.net/retro_games80/submarine-commander/ |title=Submarine Commander |date=29 August 2008 |website=Retro Gamer}}</ref>
+
+===TI-99/4A version===
+After Thorn announced the TI version, Texas Instruments announced and then rapidly exited the home computer field.<ref>{{cite news |url=https://news.google.com/newspapers?nid=1755&dat=19831101&id=2Z4cAAAAIBAJ&pg=2978,96758&hl=en |title=TI's Pullout Leaves Home Computer Market to Commodore |newspaper=Sarasota Herald-Tribune - |date=1 November 1983 |page=5B}}</ref> Tenex Computer Express of Mishawaka, Indiana obtained the rights to the games in 1986 and released the three games on disk in a single pack. TI reseller Howard Greenberg also sold them in the UK in the same format starting in December 1986.<ref>{{cite web |url=http://www.ti99ers.org/timeline/computer%20war.html |title=Computer War (aka War Games) |website=TI99ers}}</ref><ref>{{cite journal |first= Stephen |last=Shaw |title= Thorne EMI games released |url=http://shawweb.myzen.co.uk/stephen/timram13.htm |journal=TI*MES |date=Summer 1986 |issue=13}}</ref>
+
+==References==
+===Citations===
+{{Reflist}}
+
+===Bibliography===
+* {{cite work |title=Submarine Commander: Instructions for use |url= http://www.atarimania.com/game-atari-400-800-xl-xe-submarine-commander_5129.html |publisher=Thorn-EMI |date=1982 |ref=CITEREFManual1982}}
+
+==External links==
+* {{atarimania|id=5129}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:VIC-20 games]]
+[[Category:Thorn EMI video games]]
+[[Category:Submarine simulation video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

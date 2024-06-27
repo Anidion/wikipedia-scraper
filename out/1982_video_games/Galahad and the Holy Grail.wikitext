@@ -1,0 +1,61 @@
+Galahad and the Holy Grail
+Permalink: //en.wikipedia.org/w/index.php?title=Galahad_and_the_Holy_Grail&oldid=1224491150
+Accessed on: 2024-06-26T16:53:27.183103
+
+
+
+------
+Galahad and the Holy Grail
+{{Short description|1982 video game}}
+{{Infobox video game
+| title = Galahad and the Holy Grail
+| released = 1982
+| designer = [[Douglas Crockford]]<ref name="giantlist"/>
+| publisher = [[Atari Program Exchange]]<br>[[Antic Software]]
+| platforms = [[Atari 8-bit]]
+| genre = [[Action-adventure game|Action-adventure]]
+}}
+
+'''''Galahad and the Holy Grail''''' is an [[action-adventure game]] for [[Atari 8-bit computers]]. It was designed and programmed by [[Douglas Crockford]] and published by the [[Atari Program Exchange]] in 1982.<ref name="giantlist"/> Influenced by ''[[Adventure (Atari 2600)|Adventure]]'' for the [[Atari 2600|Atari VCS]] and [[Matter of Britain|Arthurian legend]], it contains almost 100 rooms–according to the manual–which are switched between with a [[flip screen]] technique.<ref name="manual"/> The game resulted in Crockford being hired at Atari Research. Following the closure of the Atari Program Exchange, a lightly updated version of ''Galahad and the Holy Grail'' was published by [[Antic Software]].
+
+==Gameplay==
+The player explores the world, which is divided into single-screen areas representing indoor and outdoor locations, finding objects and overcoming obstacles. There are no enforced goals in the game, and the manual suggests choosing one or more goals and swearing to complete them, such as "to find the three keys" or "to find the [[Holy Grail]]."<ref name="manual" />
+
+The game contains references to Atari's ''Adventure'' as well as other popular games of the day. With a nod to the film ''[[Monty Python and the Holy Grail]]'', one of the objects found in the game is a [[holy hand grenade]].
+
+==Development and release==
+[[Douglas Crockford]] wrote the game over a period of four months on an [[Atari 8-bit computers|Atari 800]] using the [[Atari Assembler Editor]] cartridge.<ref name="manual"/> The game was titled ''Knightsoil'' when submitted, but after Atari learned that [[night soil]] was a euphemism for excrement, it proposed changing the title.{{r|boosman198703}} According to Crockford, "they wanted to change the name to ''Lancelot and the Holy Grail,'' and I said, 'That's OK, but Lancelot never found the Holy Grail.' So, it became ''Galahad and the Holy Grail''."{{r|boosman198703}} [[Atari Program Exchange]] director Fred Thorlin said the game "contained some rather risque scenes when it was initially submitted."<ref name="thorlin"/>
+
+After the Atari Program Exchange shut down, [[Antic Software]] re-released ''Galahad and the Holy Grail'' in 1985 with the formerly printed manual on the second side of the disk.<ref name="atarimania2" /> The game was sold under the same name, but the title screen was changed to read "Sir Galahad and the Holy Grail."<ref name="atarimania2" /> According to an [[AtariAge]] forum member who disassembled the room structure of the game, the Antic Software version fixed a number of traversal glitches and other bugs.<ref name="aaf" />
+
+==Reception==
+''Galahad and the Holy Grail'' was included in ''[[Antic (magazine)|Antic]]'' magazine's December 1983 holiday buyer's guide.<ref name="antic_guide"/> ''The Addison-Wesley Book of Atari Software 1984'' rated the game a C. The reviewer wrote, "I hate to criticize a creative game, but Galahad has features that seem illogical to the player, features not explained in the very sparse documentation."<ref name="atari1984"/>
+
+''Galahad and the Holy Grail'' was one of four finalists for the 1982 Atari Star Award.<ref name="antic_star" /> The winner was ''[[Typo Attack]]''.<ref name="antic_star" />
+
+==Legacy==
+''Galahad and the Holy Grail'' caused game designer [[Chris Crawford (game designer)|Chris Crawford]] to hire Crockford at the research division of [[Atari, Inc.]] where he worked on hardware and programming environments.{{r|boosman198703}}
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague|first1=James}}</ref>
+<ref name="boosman198703">{{cite magazine | title=Designer Profile: Doug Crockford | magazine=[[Computer Gaming World]] | issue=35 | date=March 1987 |url=http://www.cgwmuseum.org/galleries/issues/cgw_35.pdf | accessdate=23 April 2016| last=Boosman | first=Frank | pages=40–42, 44 | type=interview}}</ref>
+<ref name="manual">{{cite book|last1=Crockford|first1=Douglas|title=Galahad and the Holy Grail Manual|date=1982|publisher=The ATARI Program Exchange|url=http://www.atarimania.com/8bit/files/APX_Galahad_and_the_Holy_Grail.pdf}}</ref>
+<ref name="antic_star">{{cite journal|title=Inside Atari: Star Award Winner|journal=Antic|date=April 1983|volume=2|issue=1|url=http://www.atarimagazines.com/v2n1/insideatari.html}}</ref>
+<ref name="thorlin">{{cite web|last1=Savetz|first1=Kevin|title=Fred Thorlin: The Big Boss at Atari Program Exchange|url=http://www.atariarchives.org/APX/thorlininterview.php|website=atariarchives.org|date=April 2000}}</ref>
+<ref name="antic_guide">{{cite journal|title=Buyer's Guide|journal=Antic|date=December 1983|volume=2|issue=9|url=http://www.atarimagazines.com/v2n9/Buyersguide.html}}</ref>
+<ref name="atarimania2">{{cite web|title=Galahad and the Holy Grail|url=http://www.atarimania.com/game-atari-400-800-xl-xe-galahad-and-the-holy-grail_6499.html|website=Atari Mania}}</ref>
+<ref name="aaf">{{cite web|title=Galahad and the Holy Grail?|url=https://atariage.com/forums/topic/155796-galahad-and-the-holy-grail/|website=AtariAge Forums|date=2 January 2010 }}</ref>
+<ref name="atari1984">{{cite book|last1=Stanton|first1=Jeffrey|title=The Addison-Wesley Book of Atari Software 1984|date=1984|isbn=9780912003047 |url=https://archive.org/stream/Book_of_Atari_Software_1984/Book_of_Atari_Software_1984_djvu.txt}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=6499}}
+
+[[Category:1982 video games]]
+[[Category:Action-adventure games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Atari Program Exchange software]]
+[[Category:Video games based on Arthurian legend]]
+[[Category:Video games developed in the United States]]

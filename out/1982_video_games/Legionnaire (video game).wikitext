@@ -1,0 +1,87 @@
+Legionnaire (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Legionnaire_%28video_game%29&oldid=1224496748
+Accessed on: 2024-06-26T16:53:36.586971
+
+
+
+------
+Legionnaire (video game)
+{{short description|1982 video game}}
+{{Infobox video game
+|title = Legionnaire
+|image = Legionnaire box art.jpg
+|developer =
+|publisher = [[Avalon Hill]]
+|designer = [[Chris Crawford (game designer)|Chris Crawford]]
+|engine = 
+|released = 1982
+|genre = [[Computer wargame]], [[real-time strategy]]<ref name="encycinfsci">{{cite book | title=Encyclopedia of Information Science and Technology | edition=Third | first = Mehdi | last = Khosrow-Pour | date=July 31, 2014 | pages=3071 | publisher = IGI Global | quote = Legionnaire developed by Chris Crawford, published by Avalon Hill in 1982, is one of the earliest examples of real-time strategy games. | isbn = 978-1-4666-5889-9}}</ref>
+|modes = [[Single-player]]
+|platforms = [[Atari 8-bit computers|Atari 8-bit]], [[Commodore 64]], [[Apple II]]
+}}
+
+'''''Legionnaire''''' is a [[computer wargame]] for [[Atari 8-bit computers]] created by [[Chris Crawford (game designer)|Chris Crawford]] released through [[Avalon Hill]] in 1982. Recreating [[Julius Caesar]]'s campaigns in a semi-historical setting, the player takes command of the [[Roman legion]]s in real-time battles against the [[barbarian]]s.
+
+==Gameplay==
+Similar to Crawford's earlier groundbreaking ''[[Eastern Front (1941)]]'' in terms of display and general gameplay,{{sfn|Crawford|1982|p=13}} ''Legionnaire'' added a [[turns, rounds and time-keeping systems in games|real-time]] computer opponent, and is one of the earliest examples of a [[real-time tactics]] (RTT) game.{{Citation needed|date=March 2009}}
+
+In the game, the player takes the side of the Romans, playing the role of Julius Caesar and giving orders to their forces in real time. The computer plays as generic barbarian tribes, in blue, with the player's legions in pink. There are three types of units: infantry is represented by a sword, cavalry by a horse head, and Caesar's own Imperial Guard by an eagle.{{sfn|McMahon|1983|p=128}} Orders are given to the units by moving a cursor over them with the joystick and then holding down the joystick button; existing commands are displayed as a moving arrow, and new orders can be entered by pressing the joystick in the four cardinal directions.{{sfn|McMahon|1983|p=128}}
+
+[[Image:Legionnaire in-game.png|thumb|right|256px|Mid-game in ''Legionnaire''. The Roman forces are moving into position on a hill (pink is the highest elevation), awaiting the arrival of the barbarian forces moving in from the right. [[Cicero]]'s legion is selected, under the pink square cursor, and the display shows that it is in the process of moving to a new location, shown in blue.]]
+
+Like ''Eastern Front'', the ''Legionnaire'' playfield consists of a large grid of square cells with various terrain features displayed on it. Unlike ''Eastern Front'', the new map includes varying altitudes, displayed as a series of [[contour line]]s. Movement is affected by the contours as well as by the underlying terrain, making positional combat an important part of the game's overall strategy.{{sfn|Crawford|1982|p=13}} The screen shows only a small portion of the entire map at one time, smooth-scrolling around it when the [[joystick]]-controlled cursor reaches the edge of the screen. Unlike ''Eastern Front'', the map contains no cities or strategic locations, and the game starts with both forces placed at random locations on the map.{{sfn|Crawford|1982|p=13}}
+
+While the player is entering orders for their units, the computer is calculating moves for its own units. A basic form of [[Computer multitasking|multitasking]] was implemented by having the "easy" jobs of reading the joystick and recording the user's inputs during the [[vertical blank interrupt]] (VBI), while the computer AI ran during non-interrupt time.{{sfn|Crawford|1982}} The player is forced to search the map for the enemy and then attempt to gather their units into a fighting line on favorable terrain. The challenge is doing this quickly enough, before the enemy forces arrive and attack your units piecemeal.{{sfn|McMahon|1983|p=128}} As in ''Eastern Front'', the AI is not particularly strong, but the real-time action makes the game more difficult, as well as eliminating several "tricks" one could use to fool the AI.
+
+The game lacks any strategic component driving the gameplay, so it is possible for the player to simply move to an advantageous position, form up a solid line, and wait.{{sfn|McMahon|1983|p=128}} Historically, Roman forces were in general much more adept in close combat than their barbarian opponents and would win any one-on-one fight. The game's scoring system attempted to make up for this, awarding higher points for faster victories. In pursuit of a higher score the player is forced to seek out and attack the barbarian units on terms that might not be as favorable and which, without quick retreats after combat, might result in encirclement or exhaustion.{{sfn|McMahon|1983|p=128}}
+
+==Development==
+Chris Crawford wrote an early version of ''Legionnaire'' for the [[Commodore PET]] in 1979. This was a fairly simple game using [[ASCII art|character graphics]] and a limited amount of logic. He later [[porting|ported]] this to the Atari 8-bit computers and released it as ''Centurion'', but the game saw limited sales.{{sfn|Crawford|1982|p=13}}
+
+After writing ''[[Eastern Front (1941)]]'', Crawford was looking for ways to use the new scrolling-map technology introduced in that game. [[Avalon Hill]] had approached Crawford with positive comments about ''Eastern Front'', and he promised to make a game for them. After three months of preliminary work, he started development in January 1982, delivering the first version in February and a final version in June.{{sfn|Crawford|1982|p=13}} Crawford published an article on game design in the December 1982 issue of ''[[BYTE]]'', using ''Legionnaire'' as an example.<ref name="crawford198212">{{cite news | url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n97/mode/2up | title=Design Techniques and Ideas for Computer Games | work=BYTE | date=December 1982 | access-date=19 October 2013 | author=Crawford, Chris | pages=96}}</ref>
+
+''Legionnaire'' was the last game Crawford would release using the original ''Eastern Front'' engine. His next game for the Atari was ''[[Excalibur (computer game)|Excalibur]]'', which used a different model of interaction based on moving from room to room within a virtual castle. When Atari collapsed in 1984, he turned his attention to the [[Macintosh]] computer, releasing the famous ''[[Balance of Power (computer game)|Balance of Power]]'' in [[1985 in video gaming|1985]].
+
+==Reception==
+''[[Computer Gaming World]]'' in 1982 described ''Legionnaire'' as "a game that anyone can sit down and play without reading endless instructions or learning complex strategies". The reviewer stated that "the real time action in this game is my favorite point ... I know I'll be at the computer for an hour at the most", and concluded it was "as challenging as ''Eastern Front'' and immensely more playable".<ref name="willett19821112">{{cite magazine | title=Legionnaire: Review and Analysis | magazine=[[Computer Gaming World]] | volume=2 | issue=6 | date=November–December 1982 | url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=7 | access-date=24 April 2016 | last=Willett | first=Bill | pages=27–28, 30, 45}}</ref> In 1990 and 1993 surveys of strategy and war games, however, the magazine gave the game two-plus stars out of five, calling it a "marginally historical simulation of Roman tactics".<ref name="brooks199010">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=75 | title=Computer Strategy and Wargames: Pre-20th Century | magazine=Computer Gaming World | date=October 1990 | access-date=16 November 2013 | author=Brooks, M. Evan | pages=11}}</ref><ref name="brooks199306">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=107 | title=An Annotated Listing of Pre-20th Century Wargames | magazine=Computer Gaming World | date=June 1993 | access-date=7 July 2014 | author=Brooks, M. Evan | pages=136}}</ref> ''[[Compute!]]'' compared the game to ''Eastern Front'' and felt it would "appeal to a much broader audience because the game is faster-paced, has fewer units to control, and is, therefore, a faster game."{{sfn|McMahon|1983|p=128}} ''[[Softline (magazine)|Softline]]'' called ''Legionnaire'' "a well-documented and thought-out program ... easy to learn and difficult to play well", with graphics that were "a fine piece of work", and concluded that "On a scale of 1 to 100, this is a 95".<ref name="lynch198303">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 | title=Legionnaire | work=Softline | date=March 1983 | access-date=28 July 2014 | author=Lynch, Donald | pages=38–39}}</ref>
+
+''Creative Computing''{{'}}s review was mixed, calling it a "successful effort" but pointing out several issues.<ref>James Trunzo, [http://www.atarimagazines.com/creative/v9n12/132_Legionnaire.php "Legionaire"], ''Creative Computing'', December 1983, p. 132</ref> ''InfoWorld''{{'}}s lengthy review was much more positive, rating it highly in its checkbox review, but giving a somewhat more muted conclusion that "Legionnaire is a special game for a certain kind of player."<ref>Robert DeWitt, [https://books.google.com/books?id=-C8EAAAAMBAJ&pg=PA56 "With Legionnaire, fight Caesar's battles on Atari"], ''InfoWorld'', 14 February 1983, pp. 56-57</ref> ''BYTE'' mocked ''Legionnaire''{{'}}s cover art as being of poor quality, but called the game "great entertainment, even for those who haven't been war-game fans before".<ref name="byte198212">{{cite news | url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n85/mode/2up | title=The Coinless Arcade - Rediscovered | work=BYTE | date=December 1982 | access-date=19 October 2013 |author1=Clark, Pamela |author2=Williams, Gregg | pages=84}}</ref> A later review called it "the perfect solitaire game", citing as improvements on ''Eastern Front'' multiple scenarios and durations and real-time play, and concluded that ''Legionnaire'' "is a wonderful game that ... combines the graphics and movement of arcade games with the depth of strategy games".<ref name="williams198303">{{cite news | url=https://archive.org/stream/byte-magazine-1983-03/1983_03_BYTE_08-03_Mass_Storage#page/n249/mode/2up | title=Legionnaire | work=BYTE | date=March 1983 | access-date=19 October 2013 | author=Williams, Gregg | pages=248}}</ref>
+
+By contrast, ''BYTE'' columnist [[Jerry Pournelle]], a fan of Avalon Hill board games, disliked ''Legionnaire''. He stated that its real-time made it "an arcade game masquerading as a game of strategy", and described the [[Apple II]] version's interface and graphics as poor.<ref name="pournelle198405">{{cite news | url=https://archive.org/stream/byte-magazine-1984-05/1984_05_BYTE_09-05_Computers_and_the_Professions#page/n59/mode/2up | title=Chaos Manor's Hard-Disk System | work=BYTE | date=May 1984 | access-date=23 October 2013 | author=Pournelle, Jerry | pages=58}}</ref> ''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the game an overall A rating, criticizing the "annoying" sound but praising the graphics, and concluded that it was "a very good introduction to war game playing".<ref name="aw1984">{{cite book | url=https://archive.org/stream/Atari_Software_1984#page/n185/mode/2up | title=The Addison-Wesley Book of Atari Software | publisher=Addison-Wesley | year=1984 | pages=186 | isbn=0-201-16454-X |editor1=Stanton, Jeffrey |editor2=Wells, Robert P. |editor3=Rochowansky, Sandra |editor4=Mellid, Michael }}</ref>
+
+==Legacy==
+''Legionnaire'' was nominated for "Best Adventure Game for Home Computer" at the 1983 [[Origins Game Fair]].<ref name="jackson19840102">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=15 | title=Origins Story | work=Softline | date=Jan–Feb 1984 | access-date=29 July 2014 | author=Jackson, Steve | pages=44}}</ref> Even as the game was being released, however, Crawford expressed his doubt that it would have the lasting power of ''Eastern Front''.{{sfn|Crawford|1982|p=13}} He later wrote in ''[[Chris Crawford on Game Design]]'' that he considered it competent, but "Neither the original version nor the Avalon-Hill version of the game was a great game ...certainly no masterpiece. It was good experience for me, but I would have spent my time better had I moved on to something that fired my imagination."<ref>Chris Crawford, '"Chris Crawford on Game Design", New Riders, 2003, p. 218</ref>
+
+In 2013, Crawford publicly released the [[source code]] of several of his games, including ''Legionnaire''.<ref>{{cite web|url=http://www.erasmatazz.com/library/source-code/index.html| title=Source Code|quote=30 months ago, at the 2011 Game Developers Conference, somebody asked me to release the source code for my old games. I said I would look into it. [...] I have begun the process of preparing my source code for general distribution. |access-date=2017-02-24 |year=2013 |first=Chris |last=Crawford}}</ref>
+
+==References==
+{{reflist}}
+
+===Bibliography===
+{{refbegin}}
+* {{cite journal |first=Chris |last=Crawford |url=http://www.atarimagazines.com/v1n5/greatceasershost.html |title=Great Ceaser's Host |journal=Antic |date=December 1982 }}
+* {{cite journal |first=E. P. |last=McMahon |url=http://www.atarimagazines.com/compute/issue38/048_1_REVIEWS_LEGIONNAIRE_FOR_ATARI.php |title=Reviews: Legionnare for Atari |journal=Compute! |date=July 1983 }}
+{{refend}}
+
+==External links==
+*[https://www.mobygames.com/game/legionnaire ''Legionnaire''] at [[MobyGames]]
+*{{atarimania|id=2959}}
+
+{{Chris Crawford}}
+{{Avalon Hill}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Avalon Hill video games]]
+[[Category:Chris Crawford (game designer) games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Computer wargames]]
+[[Category:Depictions of Julius Caesar in video games]]
+[[Category:Microcomputer Games games]]
+[[Category:Real-time strategy video games]]
+[[Category:Real-time tactics video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the Roman Empire]]

@@ -1,0 +1,84 @@
+Chisholm Trail (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Chisholm_Trail_%28video_game%29&oldid=1194283456
+Accessed on: 2024-06-26T16:53:08.967592
+
+
+
+------
+Chisholm Trail (video game)
+{{notability|Products|date=August 2016}}
+
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Chisholm Trail
+| image = Chisholm_Trail_Video_Game.jpg
+| alt = 
+| caption = 
+| developer = [[Texas Instruments]]
+| publisher = Texas Instruments
+| programmer = John C. Plaster<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+| series = 
+| platforms = [[TI-99/4A]]
+| released = 1982
+| genre = [[Action game|Action]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Chisholm Trail''''' is a [[video game]] released in July 1982 by [[Texas Instruments]] for its [[TI-99/4A]] home computer.<ref name= "book" /> It was written by John C. Plaster, who previously wrote ''[[Tombstone City: 21st Century]]'' for the TI-99/4A.
+
+==Gameplay==
+Players take the role of a [[cattle drive]]r on the [[Chisholm Trail]], bringing their cattle to set destinations while defending them against [[Cattle raiding|cattle rustlers]] and wranglers. The game has nine levels.<ref name=book/> You can choose any of the levels from the start menu and the level selected determines how long you have been on the trail, how many steers you have, how many shots you have, and how many wranglers and rustlers must be eliminated. 
+{| class="wikitable" style="text-align: center
+! Level !! Day !! Number of Steers !! Shots per Steer !! Number of Rustlers
+|-
+! 1
+| 1 || 4 || 50 ||12
+|-
+! 2
+| 8  || 6 || 50 || 16
+|-
+! 3
+| 15 || 8 || 100 || 16
+|-
+! 4
+| 22 || 10 || 100 || 16
+|-
+! 5
+| 29 || 12 || 100 || 16
+|-
+! 6
+| 36 || 14 || 100 || 16
+|-
+! 7
+| 43 || 16 || 100 || 16
+|-
+! 8
+| 50 || 18 || 100 || 16
+|-
+! 9
+| 57 || 20 || 100 || 16
+|}
+
+Wranglers are in the form of brands and will try to [[Livestock branding|brand]] the steers for themselves. Mileage counts as the score and Rustlers are worth 250 miles and Wranglers are 150 miles. Every time 10,000 miles is reached another steer is added to the group.<ref name= "book">{{cite book|title=Chisholm Trail Command Module|date=1982|publisher=Texas Instruments Incorporated}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.elisoftware.org/index.php/Chisholm_Trail_(TI99%5C4A,_Cartridge)_Texas_Instruments_-_1981_USA,_Canada_Release Eli's Software Encyclopedia: Chisholm Trail]
+* [https://www.giantbomb.com/chisholm-trail/3030-22001 Giant Bomb: Chisholm Trail]
+* [https://www.videogamehouse.net/chisholmtrail.html TI-99/4A Video Game House: Chisholm Trail]
+* [https://4apedia.com/index.php?title=Chisholm_Trail TI-99/4A-Pedia: Chisholm Trail]
+
+[[Category:1982 video games]]
+[[Category:Single-player video games]]
+[[Category:Texas Instruments games]]
+[[Category:TI-99/4A games]]
+[[Category:Video games developed in the United States]]
+[[Category:Western (genre) video games]]
+[[Category:TI-99/4A-only games]]
+
+
+{{action-videogame-stub}}

@@ -1,0 +1,59 @@
+Polaris (1980 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Polaris_%281980_video_game%29&oldid=1229859016
+Accessed on: 2024-06-26T16:51:49.741130
+
+
+
+------
+Polaris (1980 video game)
+{{Short description|1980 video game}}
+{{about|the 1980 arcade game|the 2024 game|Polaris (2024 video game){{!}}Polaris (2024 video game)|other uses|Polaris (disambiguation)}}
+{{Infobox video game
+| title = Polaris
+| image = Polaris cover.jpg
+| developer = [[Taito]]<br>[[Tigervision]] (ports)
+| publisher = Taito<br>Tigervision (ports)
+| designer = 
+| released = '''1980:''' Arcade<br>'''1983:''' 2600, VIC-20
+| genre = [[Fixed shooter]]
+| modes = 1-2 players alternating turns
+| arcade system = 
+| platforms = [[Arcade video game|Arcade]], [[Atari 2600]], [[VIC-20]]
+}}
+
+'''''Polaris''''' is a [[fixed shooter]] [[arcade video game]] released in 1980 by [[Taito]]. The player controls a [[submarine]] which can shoot [[missile]]s upward. The goal is to destroy all of the airplanes in each level while avoiding bombs dropped from the aircraft, as well as mines launched by enemy submarines and depth charges dropped from boats that speed by. Versions for the [[Atari 2600]] and [[VIC-20]] were released by [[Tigervision]] in 1983.
+
+==Gameplay==
+Subs are sunk if players touch a projectile, any enemy sub or boat, depth charge, mine, the ocean floor, torpedoes, or reef. Game ends upon last sub sunk.
+
+*'''Small airplane''': Depending on which level the player is on, there will be six to ten small aircraft in the air when the level begins. One half of the aircraft are pink and move right to left, and the other half are blue and move from left to right. These planes drop bombs (which can be shot at and destroyed), and "wrap around" (when they reach one side of the screen, they reappear on the other). The small aircraft also move at different speeds according to how many of the same color aircraft have already been destroyed. For example, a pink plane will move slowest when all pink planes are intact, and will move fastest when it is the only one remaining.
+*'''Large airplane''': This aircraft appears after all of the small aircraft have been destroyed. Unlike the small aircraft, the large aircraft moves in a complicated pattern, moving all across the sky and performing loops as it drops [[Missile guidance|homing]] missiles. These missiles drop vertically until they are on the same elevation as the player's submarine, then they move horizontally towards it. These missiles cannot be destroyed. Destroying the large aircraft ends the level.
+*'''Submarine''': The enemy submarine periodically shoots an indestructible red mine upward and moves from left to right along the bottom of the screen. Most submarines can be destroyed by moving under then and shooting a missile upward, but in each level there is one submarine which lies close to the ocean floor and cannot be destroyed. In later levels, a smaller white submarine appears which also cannot be destroyed. Like the small planes, the submarine "wraps around" when it reaches the side of the screen.
+*'''Boat''': A yellow boat moves across the surface of the water, alternating from left to right and from right to left. In later levels, there is a shorter period of time between the boat's appearance, up until the time where it appears almost instantaneously after the previous boat has left the screen or has been destroyed. When the boat moves over the player's submarine, it drops depth charges that can be destroyed. When a boat is destroyed, it drops an indestructible mine.
+
+Players gain a bonus life at 5,000 points. Every three levels, the player is awarded bonus points. After Level 3, the player gains 1,000 points, and each bonus that follows is worth 1,000 points more than the previous, until Level 27 is completed, at which point the bonus maxes out at 9,000 points.
+
+==Reception==
+''Polaris'' gained a Certificate of Merit in the category of "1984 Best Action Videogame" at the 5th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= January 1984 |title= Arcade Alley: The Arcade Awards, Part 1 |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 10|pages= 40–42|issn= 0147-8907}}</ref>{{rp|42}}
+
+==Reviews==
+*''[[Electronic Fun with Computers & Games]]'' #11<ref>{{cite web | url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_11_1983-09_Fun_Games_Publishing_US/page/n49/mode/2up | title=Electronic Fun with Computer & Games - Vol 01 No 11 (1983-09)(Fun & Games Publishing)(US) | date=September 1983 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=9062|name=Polaris}}
+*{{atarimania|id=16950}}
+
+[[Category:1980 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Fixed shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Naval video games]]
+[[Category:Taito arcade games]]
+[[Category:Tigervision games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in Japan]]

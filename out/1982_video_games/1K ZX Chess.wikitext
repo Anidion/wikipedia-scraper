@@ -1,0 +1,49 @@
+1K ZX Chess
+Permalink: //en.wikipedia.org/w/index.php?title=1K_ZX_Chess&oldid=1205066937
+Accessed on: 2024-06-26T16:52:51.242373
+
+
+
+------
+1K ZX Chess
+{{Infobox video game
+|title = 1K ZX Chess
+|image= 1K ZX Chess - Sinclair - ZX81.jpg
+|caption=Box cover
+|developer=
+|publisher=
+|designer=David Horne
+|released=1982<ref name="stokelwalker20150920">{{Cite web |last=Stokel-Walker |first=Chris |date=2015-09-20 |title=The bitter rivalry behind the world's smallest chess program |url=http://kernelmag.dailydot.com/issue-sections/headline-story/14353/small-chess-program-bootchess-nanochess/ |archive-url=https://web.archive.org/web/20150923133713/http://kernelmag.dailydot.com/issue-sections/headline-story/14353/small-chess-program-bootchess-nanochess/ |archive-date=2015-09-23 |access-date=2021-03-07 |website=The Kernel |publisher=The Daily Dot |quote=In mid-1982, a small quarter-page advert appeared in a computer hobbyist magazine. For just £5 (about US$26.50 today), the ad’s pixelated block text promised a computer chess program with “absolutely flicker-free display” and an opponent who would make its move on average just six seconds after yours. “Sensational 1K ZX 81 Chess,” claimed the copy, and ignoring that today-inexplicable numerical assemblage, the important points are “sensational” and “chess.” |url-status=dead }}</ref>
+|genre=[[Abstract strategy]]
+|modes= [[Single-player]] 
+|platforms= [[Sinclair ZX81]]
+}}
+
+'''''1K ZX Chess''''' is a 1982 chess program for the unexpanded [[Sinclair ZX81]].
+
+==Description==
+''1K ZX Chess'''s code takes up only 672 bytes in memory,<ref name="horne198302">{{Cite news |url=https://archive.org/stream/YourComputer_198302/YourComputer8302#page/n99/mode/2up |title=Full ZX-81 Chess in 1K |last=Horne |first=David |date=February 1983 |work=Your Computer |access-date=5 March 2018 |pages=100–102}}</ref> but implements [[chess]] rules except for [[castling]], [[promotion (chess)|promotion]], and [[en passant]], including a computer opponent.{{r|gilbert198303}} It was the smallest implementation of chess on any computer at the time.
+Developer David Horne discussed ''1K ZX Chess'' and published the full [[source code]] as a [[type-in program]] in a series of articles in ''[[Your Computer (British magazine)|Your Computer]]'' in 1982 and 1983.<ref name="horne198212">{{cite news | url=https://archive.org/stream/your-computer-magazine-1982-12/YourComputer_1982_12#page/n67/mode/2up | title=Chess in 1K | work=Your Computer | date=December 1982 | accessdate=21 January 2015 | author=Horne, David | pages=68–69}}</ref><ref name="horne198301">{{cite news | url=https://archive.org/stream/your-computer-magazine-1983-01/YourComputer_1983_01#page/n79/mode/2up | title=1K Chess | work=Your Computer | date=January 1983 | accessdate=21 January 2015 | author=Horne, David | pages=81, 83}}</ref>{{r|horne198302}}
+
+==Reception==
+''[[Popular Computing Weekly]]'' in 1982 called ''1K ZX Chess'' "one of the most interesting ZX tapes to pass through our office in recent weeks". It approved of the computer displaying moves while considering them and noted "the skills which went into writing a chess program in 1K of machine code. Is there anyone reading this who could even contemplate doing the same?" The magazine concluded, "Despite the limitations this is one cassette, at £3, which I would recommend."<ref name="scot19820715">{{cite news | url=https://archive.org/stream/popular-computing-weekly-1982-07-15/PopularComputing_Weekly_Issue_1982-07-15#page/n11/mode/2up | title=1K ZX Chess | work=Popular Computing Weekly | date=1982-07-15 | accessdate=1 February 2015 | author=Scot, Duncan | pages=12}}</ref> ''[[Sinclair User]]'' in 1983 stated that "it takes some technical wizardry to squeeze this kind of game into the unexpanded ZX81". The magazine praised the game's quick loading speed, and found that it "makes its moves very fast for the amount of memory available for it".<ref name="gilbert198303">{{cite news | url=https://archive.org/stream/sinclair-user-magazine-012/SinclairUser_012_Mar_1983#page/n61/mode/2up | title=Sinclair acts to improve the standard of its named software | work=Sinclair User | date=March 1983 | accessdate=28 January 2015 | author=Gilbert, John | pages=62–63}}</ref> ''Home Computing Weekly'' gave the game three out of five stars, criticizing the confusing user interface but stating that "it still produces play which needs some thought to beat".<ref name="elder19830308">{{cite news | url=https://archive.org/stream/home-computing-weekly-001/Home_Computing_Weekly_001#page/n21/mode/2up | title=Which ZX81 programs are best? | work=Home Computing Weekly | date=1983-03-08 | accessdate=1 February 2015 | author=Elder, Ray | pages=21–22}}</ref> [[Tim Harding (chess player)|Tim Harding]] wrote in a 1985 book on computer chess that "the man who did it must be some sort of genius". While describing ''1K ZX Chess''{{'}} quality of play as "so appalling that it would be hard to make it beat you" and criticizing the backward [[algebraic notation (chess)|algebraic notation]], he concluded that "the program is nevertheless a fantastic technical achievement".<ref name="harding1985">{{cite book | authorlink=Tim Harding (chess player) | url=https://books.google.com/books?id=pECeBQAAQBAJ&pg=PA161 | title=The New Chess Computer Book | publisher=Pergamon Press | author=Harding, T. D. | year=1985 | edition=2nd | pages=161 | isbn=9781483140322 |editor1=Price, Jill |editor2=Levy, David N. L. | series=Pergamon Chess Series}}</ref>
+
+''1K ZX Chess'' came in second place for best software in a poll of ZX81 users. ''Retrogaming Times Monthly'' described it as "history's greatest game programming feat";<ref name="sabbatini200901">{{cite news | url=http://my.stratos.net/~hewston95/RTM56/RTM56.html#ZX81 | title=The Thrill of Defeat: Catching the 1k Bug | work=Retrogames Times Monthly | date=January 2009 | accessdate=21 January 2015 | author=Sabbatini, Mark}}</ref> [[Kuro5hin]] agreed, calling ''1K ZX Chess'' "the greatest program ever written". ''BootChess'' author Olivier Poudade praised ''1K ZX Chess''{{'}}s code, stating that at first writing a smaller chess program "seemed impossible ... Horne had nailed it so much already". Poudade acknowledged replicating some of Horne's methods as he could not improve them.{{r|stokelwalker20150920}}
+
+==See also==
+*[[Microchess]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://users.ox.ac.uk/~uzdm0006/scans/1kchess/ Full ZX-81 Chess in 1K]
+*[http://www.zx81stuff.org.uk/zx81/tape/1KZXChess ''1K ZX Chess''] ZX81 Collection entry with the original inlay scan and program listing.  An emulator is available on the site to play the game online.
+{{chess|state=collapsed}}
+
+[[Category:1982 video games]]
+[[Category:Chess software]]
+[[Category:ZX81 games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

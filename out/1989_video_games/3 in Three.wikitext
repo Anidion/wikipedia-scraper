@@ -1,0 +1,149 @@
+3 in Three
+Permalink: //en.wikipedia.org/w/index.php?title=3_in_Three&oldid=1229473598
+Accessed on: 2024-06-26T17:05:29.455178
+
+
+
+------
+3 in Three
+{{Short description|1989 video game}}
+{{Infobox video game
+|title = 3 in Three
+|image = 3 in Three cover.jpg
+|developer = [[Cliff Johnson (game designer)|Cliff Johnson]]
+|publisher = [[Cinemaware]]<br />Inline Design
+|designer = 
+|engine = 
+|released = 1989
+|genre = 
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Mac OS]]
+|caption = 
+|alt = 
+}}'''''3 in Three''''' is a 1989 [[metapuzzle]] [[video game]] designed by [[Cliff Johnson (game designer)|Cliff Johnson]] and published by [[Cinemaware]] and Inline Design.
+
+While bearing some similarities to his previous game, ''[[The Fool's Errand]]'', ''3 in Three'' took place inside a [[computer]].  The game is about a [[number]] [[3 (number)|3]], lost in the innards of the computer by a [[Voltage spike|power surge]].  The 3 attempts to repair the damage caused by the power surge and make her way back to the [[spreadsheet]], providing the background story for the game.
+
+== Gameplay==
+The game consists of many separate sections, each of which contains one puzzle.  However, unlike Fool's Errand, each section may need to be visited multiple times, as it may carry along part of the story at times when it does not contain a puzzle.  Each puzzle (upon completion) places one [[Letter (alphabet)|letter]] in the Letter [[Legislature]].  When the entire legislature is in place, a logic puzzle (see below) is used to properly order them, at which point the endgame begins; the hints found in previous puzzles are used to complete the [[meta-puzzle]] and finish the game.
+
+Unlike ''The Fool's Errand'', the puzzles in 3 in Three are rarely traditional puzzles like [[cryptogram]]s or [[word search]]es; instead, the puzzles tend to take advantage of the possibilities of computer games.<ref name="moss" />  Some of the prominent puzzle types include:
+
+* Lift puzzles - the 3 must navigate across a field of lifts by putting her lift and the lift to her right at the same level.
+* Mesh puzzles - the 3 must change a mesh (of sizes ranging from 3x3 to 9x9) to match a given pattern.
+* Missing vowels - the 3 must add missing [[vowel]]s to common [[proverb]]s or [[homophone]]s.
+* Trapdoor puzzles - the 3 must open or close all of a set of doors; clicking on one door will toggle the open state of several others, with the exact set of doors, toggled depending on the state of the door clicked.  (Thus clicking on door 3 may open or close doors 1, 3, and 9 if it is open, but 3, 4, and 5 if it is closed.)
+* Reordered word puzzles - the 3 must rearrange a word to spell another word in 3 clicks.  Each click switches two letters; the letters switched depend on which letter is clicked and its position in the word.
+* Logic puzzles - A grid of items must be rearranged to meet specific rules.  (For example, a set of [[Roman numerals]] may include a rule like 'XVI is north of XIV'.)
+
+== Release ==
+Unlike the developer's earlier games, ''3 in Three'' was never ported but was released only for the [[Macintosh]].  It was initially released by [[Cinemaware]], which went out of business in 1991; the license was then picked up by Inline Design, which went out of business in 1995.<ref name="moss" /> It is now [[freeware]] and can be found on the author's website.<ref>{{cite web |url=http://thefoolserrand.com/07-DL/index.htm|title=Downloads|publisher= [[Cliff Johnson (game designer)|Cliff Johnson]] |website=thefoolserrand.com}}</ref> It includes information which allows the game to be played on Windows PCs.
+
+==Reception==
+''3 in Three'' was reviewed positively in ''[[Macworld]]'', which described it as "an ultramodern ''[[Alice's Adventures in Wonderland]]''" with an "obsessively good set" of puzzles. ''Macworld'' noted occasional issues with puzzles that were too easy or frustrating, but overall praised the game as mostly "creative, fun, entertaining, and best of all, challenging."<ref>{{cite journal
+|title=3 in Three
+|journal=[[Macworld]]
+|page=282
+|date=February 1992
+|volume=9
+|number=2
+|publisher=Macworld Communications, Inc.
+|last=Sharp
+|first=Wendy
+}}</ref> ''Macworld'' named ''3 in Three'' as runner-up to ''[[Tesserae (video game)|Tesserae]]'' in the Best Brain Game category of its 1991 Macintosh Game Hall of Fame.<ref name="macworld_hof">{{cite journal
+|title=The 1991 Macintosh Game Hall of Fame
+|journal=[[Macworld]]
+|pages=148–149
+|date=January 1992
+|volume=9
+|number=1
+|publisher=Macworld Communications, Inc.
+|last=Levy
+|first=Steven
+|authorlink=Steven Levy
+}}</ref>
+
+''[[MacUser]]'' awarded ''3 in Three'' five out of five mice, claiming that Cliff Johnson had "achieved a new level of weirdness" with the game's variety of puzzles. ''MacUser'' called the game's plot "a bit ''[[Tron]]''-esque", with abundant humor and infuriating puzzles. The review praised the game's graphics, sound, animation, and stability.<ref>{{cite journal
+|title=3 in Three
+|journal=[[MacUser]]
+|page=87
+|date=October 1991
+|volume=7
+|number=10
+|publisher=[[Ziff Davis|Ziff-Davis Publishing Co.]]
+|last=Gruberman
+|first=Ken
+}}</ref> ''MacUser'' named ''3 in Three'' best game in its 1991 Editors' Choice Awards, ahead of ''[[Spaceship Warlock]]'' and ''[[Spectre (1991 video game)|Spectre]]''.<ref name="macuser_hof">{{cite journal
+|title=The Seventh Annual Editors' Choice Awards
+|journal=[[MacUser]]
+|page=104
+|date=March 1992
+|volume=8
+|number=3
+|publisher=[[Ziff Davis|Ziff-Davis Publishing Co.]]
+}}</ref>
+
+The ''[[Chicago Tribune]]'' named ''3 in Three'' the best [[brain teaser]] game of 1990 and said that it surpassed previous Cliff Johnson games "with superb animation and intricately connected puzzles."<ref>{{cite news
+|last=Lynch
+|first=Dennis
+|work=[[Chicago Tribune]]
+|title=Computing 1990's best and worst
+|date=1991-01-25
+|page=60
+|department=Section 7
+}}</ref>
+
+''[[Games (magazine)|Games]]'' magazine included ''3 in Three'' in its "[[Games 100|The Games 100]]" feature as the best new puzzle game of 1991. ''Games'' called the game "as witty and challenging as [Cliff Johnson's] earlier head-scratchers," with improved storyline and graphics.<ref name="games" />
+
+[[Bob LeVitus]] recommended ''3 in Three'' as a mind-boggling "tour de force of animation and sound" in ''The Macintosh Reader''.<ref>{{cite book
+|title= The Macintosh Reader 
+|chapter=Part VIII Tips, Secrets & Good Advice
+|last=Clapp
+|first=Doug
+|page=342
+|isbn=0679742425 
+|date=1992
+|publisher=[[Random House]]
+}}</ref> Gaming historian Richard Moss likened the visual style of ''3 in Three'' to "an interactive [[Saul Bass]] advertisement" and noted that the game's puzzles had evolved from the paper-and-pencil adaptions of Cliff Johnson's previous games ''The Fool's Errand'' and ''At the Carnival'' to "computer-native" designs.<ref name="moss">{{cite book
+|title= The Secret History of Mac Gaming
+|chapter=A Story Told by Treasure Hunt
+|last=Moss
+|first=Richard
+|page=121
+|isbn=978-1-78352-487-7
+|date=2018
+|publisher=[[Unbound (publisher)|Unbound]]
+}}</ref>
+
+''The Macintosh Bible Guide to Games'' said that Cliff Johnson took his brilliant game design of ''The Fool's Errand'' to a new level with ''3 in Three'', calling it "one of the better puzzle compilations available."<ref>{{cite book
+|title=The Macintosh Bible Guide to Games
+|last1=Farkas
+|last2=Breen
+|first1=Bart
+|first2=Christopher
+|chapter=Chapter 6: Brain Games
+|pages=177–178
+|publisher=[[Peachpit Press]]
+|date=1996
+|isbn=0201883813
+}}</ref>
+
+=== Awards ===
+* 1991 ''[[MacUser]]'' Game of the Year<ref name="macuser_hof" />
+* 1991 ''[[Macworld]]'' Game Hall of Fame, Best Brain Game runner-up<ref name="macworld_hof" />
+* 1991 ''[[Games (magazine)|Games]]'' Best Puzzle Game of the Year<ref name="games">{{cite magazine |editor-last1= Hochberg|editor-first1= Burt|editor-link1=Burt Hochberg|date= December 1991|title= The Games 100 |magazine= [[Games (magazine)|Games]]|publisher= GAMES Publications |volume= 15 |issue= 106 |page= 53|issn= 0199-9788}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://thefoolserrand.com/04-3T/index.htm}}
+
+[[Category:1989 video games]]
+[[Category:Classic Mac OS games]]
+[[Category:Classic Mac OS-only games]]
+[[Category:Cliff Johnson games]]
+[[Category:Freeware games]]
+[[Category:Inline Design games]]
+[[Category:Puzzle video games]]
+[[Category:Single-player video games]]

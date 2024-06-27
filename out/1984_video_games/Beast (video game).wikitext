@@ -1,0 +1,46 @@
+Beast (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Beast_%28video_game%29&oldid=1209537150
+Accessed on: 2024-06-26T16:56:22.323272
+
+
+
+------
+Beast (video game)
+{{refimprove|article|date=December 2018}}
+{{Infobox video game
+| title = ''Beast''
+| image = 
+| caption = Title screen
+| developer = 
+| publisher = 
+| released = {{vgrelease|NA|1984}}
+| genre = [[Action game|Action]]
+| platforms = [[MS-DOS]]
+}}
+
+'''''Beast''''' is a [[text-based game|text-based]] [[action game]] developed for [[MS-DOS]] by Dan Baker, Alan Brown, Mark Hamilton, and Derrick Shadel. It was distributed as [[shareware]] in 1984.
+
+==Gameplay==
+[[Image:Beast 001.png|thumb|left|Gameplay]]
+
+The object is to survive through a number of levels while crushing "beasts" (represented by the character ├┤) with movable blocks. The H's are attracted to the player's position, represented by a "diamond-like" character ◄►, every move. The player can control the diamond-shaped character by using the arrow keys or the [[numeric keypad]] to move around and/or push blocks.  While the normal green block is movable, the yellow static block cannot be pushed or pulled. In the advanced levels, static blocks also become "explosive", which means that the player will lose a life by moving into one. The beginning levels have only common beasts ("├┤"), but more challenging "super-beasts", represented by "╟╢", appear as the player advances through levels. "Super-beasts" are harder to kill as they must be crushed against a static block. At even more advanced levels eggs appear that eventually hatch into "hatched beasts" (╬╬) with the ability to move blocks to crush the player. A two-player mode is also available in which the second player controls a character using WASD keys.
+
+==Reception==
+
+A review of ''Beast'' in the 1988 book ''Public-domain Software and Shareware'' noted that the game had "original concepts" but the author admitted that "I don't completely understand this game".<ref>{{cite book|title=Public-Domain Software and Shareware: Untapped Resources for the PC User|date=1988|editor1-first=Rusel|editor1-last=DeMaria|editor2-first=George R.|editor2-last=Fontaine|publisher=M & T Books|page=188|isbn=9781558510111}}</ref> In a retrospective review of "classic" ASCII games, ''[[PC Magazine]]'' described ''Beast'' as "so simple yet so replayable" and "stressful at times, but always fun".<ref>{{cite web|url=https://www.pcmag.com/feature/342727/7-classic-pc-games-with-ascii-graphics|title=7 Classic PC Games With ASCII Graphics|website=[[PC Magazine]]|first=Benj|last=Edwards|date=March 10, 2016|access-date=December 7, 2018}}</ref> In his book ''The Video Game Explosion'', scholar Mark Wolf noted that ''Beast'' resembled earlier block-pushing games like ''[[Sokoban]]'' and ASCII text games like ''[[Rogue (video game)|Rogue]]'', but advanced beyond both of those games by introducing "freeform, real-time spatial control" into a block-moving action game with "a level of fluidity that is unexpectedly effective".<ref name=wolf2008>{{cite book|title=The Video Game Explosion: A History from PONG to Playstation and Beyond|first=Mark J. P.|last=Wolf|date=2008|publisher=ABC-CLIO|page=152|isbn=9780313338687}}</ref>
+
+==See also==
+*''[[Rodent's Revenge]]''
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.youtube.com/watch?v=gffS40Djmxc Gameplay video]
+*{{internet archive game|msdos_Beast_1984}}
+
+[[Category:1984 video games]]
+[[Category:DOS games]]
+[[Category:DOS-only games]]
+[[Category:Video games with textual graphics]]
+[[Category:Video games developed in the United States]]

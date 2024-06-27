@@ -1,0 +1,60 @@
+Space Hawk
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Hawk&oldid=1193128109
+Accessed on: 2024-06-26T16:54:05.625884
+
+
+
+------
+Space Hawk
+{{For|the "Space Hawk" collection of science fiction stories|Harry Bates (author)}}
+{{short description|1981 shooter video game}}
+{{Infobox video game
+| title = Space Hawk 
+| image = Space Hawk Intellivision Cover.jpg
+| caption= 
+| developer = [[Mattel]]
+| publisher = Mattel
+| designer = Bill Fisher<ref name="INTVlives">{{cite web|url=http://www.intellivisiongames.com/gamepage.php?gameId=90|title=Space Hawk|work=IntellivisionLives.com|access-date=2010-07-29}}</ref>
+| engine = 
+| released = {{vgrelease|NA|April 19, 1982<ref>{{Cite web|url=https://history.blueskyrangers.com/mattelelectronics/games/spacehawk.html|title = Space Hawk}}</ref>}}{{vgrelease|EU|1982}}
+| genre = [[Multidirectional shooter]]
+| modes = [[Single player video game|Single-player]]
+| platforms = [[Intellivision]]
+}}
+
+'''''Space Hawk''''' is a [[multidirectional shooter]] released by [[Mattel]] for its [[Intellivision]] console in 1982. The game is a re-worked version of a previously planned clone of ''[[Asteroids (video game)|Asteroids]]'' in which the player, in a rocket-powered space suit, is drifting in space and shooting down or avoiding targets, including the titular hawks.<ref name="INTVlives"/><ref name="pi830501"/>
+
+''Space Hawk'' was also released by [[Sears]] for the "Super Video Arcade," its private-label version of the Intellivision console.
+
+==Gameplay==
+The object of ''Space Hawk'' is to survive as long as possible while drifting in the middle of outer space. The player is equipped with a rocket-powered space suit and a "gas blaster" for protection. Three user-selectable settings control the player's interaction with the game. The blaster can fire single shots manually or can be set to automatic rapid fire. The player's movement can include or ignore [[inertia]]. Lastly, the rotation of the space suit can either be instantaneous (by pushing the controller in the desired direction) or gradual (by holding the controller to the left or right until the desired attitude is reached). Each setting can be changed during the game as often as desired.<ref name="SHInst">{{cite web|url=http://www.intellivisiongames.com/bluesky/games/instructions/space/spchawk.txt|title=Space Hawk instructions|work=IntellivisionLives.com|access-date=2010-07-29}}</ref>
+
+The player is attacked by large and small mechanical hawks, which must be shot three times before they are destroyed. There are also gas bubbles and comets that can be shot or avoided. In later stages, space [[amoeba]]s appear that are impervious to the player's weapons and can only be avoided. A collision with any obstacle will cost the player one life. As a last resort, the player's space suit is equipped with a [[hyperspace (science fiction)|hyperspace]] function, that will randomly relocate the player to another section of space; however, the player loses points when the hyperspace function is used. Also, from time to time, the player may encounter invisible [[black hole]]s that will trigger hyperspace automatically.<ref name="SHInst"/>
+
+The player starts with a score of 500 points. Points are earned whenever targets are destroyed and lost whenever the player is destroyed or enters hyperspace. As score increases, multipliers are applied and difficulty increases.<ref name="SHInst"/>
+
+==Development==
+''Space Hawk'' was the second attempt at crafting a version of [[Atari|Atari's]] popular arcade game ''Asteroids''.<ref name="pi830501"/> After company lawyers demanded changes for fear of a lawsuit, the first re-working became ''[[Astrosmash]]''.<ref name="INTVlives"/> Programmer Bill Fisher began working with the previous prototype with the intent of developing a game similar to ''Asteroids'' while being different enough to avoid legal action.<ref name="INTVlives"/>
+
+During development, a [[bug (computing)|bug]] was discovered that would randomly trigger hyperspace even when the corresponding button on the controller was not pressed.<ref name="INTVlives"/> It was determined that simultaneously pressing the controller disc in a certain direction and using the controller's side action buttons was being interpreted by the console as pressing the key on the keypad that activated hyperspace.<ref name="INTVlives"/> Ultimately, as the bug could not be removed completely, the developers added the "black holes" to explain why the player would sometimes jump to hyperspace at random.<ref name="INTVlives"/>
+
+==Legacy==
+The game was re-released as part of the ''[[Intellivision Lives!]]'' collection for personal computers and newer-generation game consoles, and in March 2010, ''Space Hawk'' was one of the launch titles for [[Microsoft]]'s now-defunct ''[[Game Room]]'' service on its [[Xbox 360]] console and on [[Games for Windows Live]].
+
+==References==
+{{reflist|refs=
+<ref name="pi830501">{{cite news |work=[[Philadelphia Inquirer]] |title=A Latecomer Is Issuing Some of the Finest Games |date=May 1, 1983 |page=P09 |quote=You can hardly blame Coleco for attempting to cash in on the popular space game. Mattel did the same thing with its Space Hawk cartridge[...]}}</ref>
+}}
+
+==External links==
+* [http://www.intellivisiongames.com/gamepage.php?gameId=90 ''Space Hawk''] at IntellivisionLives
+* [http://www.gamefaqs.com/intellivision/577271-space-hawk ''Space Hawk''] at GameFAQs
+
+[[Category:1982 video games]]
+[[Category:Intellivision games]]
+[[Category:Intellivision-only games]]
+[[Category:Mattel video games]]
+[[Category:Multidirectional shooters]]
+[[Category:North America-exclusive video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,65 @@
+Legions of Death
+Permalink: //en.wikipedia.org/w/index.php?title=Legions_of_Death&oldid=1180553273
+Accessed on: 2024-06-26T17:02:32.216080
+
+
+
+------
+Legions of Death
+{{Infobox video game
+| title          = 
+| image          = LegionsOfDeath Lothlorien Poster.jpg
+| caption        = 
+| developer      = [[MC Lothlorien]]
+| publisher      = [[Argus_Press#Argus_Press_Software|Argus Press Software]]
+| series         = 
+| engine         = 
+| released       = 1986
+| genre          = [[Strategy video game|Strategy]]
+| modes          = 
+| platforms      = [[Amstrad CPC]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Legions of Death''''' is a one or two-player [[strategy video game]] published for the [[Commodore 64]], [[Amstrad CPC]] and [[ZX Spectrum]] personal computers. It requires players to control the navies of [[ancient Rome]] and [[Carthage]] during the [[Punic Wars]], in order to conquer the [[Mediterranean Sea]].
+
+==Gameplay==
+''Legions of Death'' is a one or two-player strategy game set during the Punic Wars between ancient Rome and Carthage. In single-player mode the player controls the fleet of Carthage, in two-player mode one player controls the Roman navy while the other controls the Carthaginian fleet. Each player must try to destroy their opponent's fleet and gain control of the Mediterranean.
+
+At the start of play each player receives a number of points to construct their navy using a combination of faster [[bireme]]s and [[trireme]]s, along with various heavier combat ships, up to Heptares class. Additional points may be spent to upgrade individual ships, such as adding marine detachments, archer platforms, and boarding hooks. Lighter ships can be used to collect funds from outlying ports and transport it back to the player's home port, while heavier ships are needed to counter the other player's attacking fleet, as they can more effectively ram and sink enemy vessels.
+
+Gameplay is turn-based, with movement resolved simultaneously, and plays out on a square grid. Ships may accelerate or decelerate each turn by one speed point, up to a speed limit which depends on the class of ship. Ships may turn up to 45 degrees maximum per unit of movement (so no right-angle turns). This movement system adds a unique tactical element in which the player must carefully plan out routes and speeds several turns ahead in order to intercept enemy ships, and bring ships into harbours without crashing.<ref name="ys">{{Citation | last = Blaine | first = Richard | title = Legions of Death| newspaper = [[Your Sinclair]]| pages = 39| date = June 1987}}</ref>
+
+==Development==
+
+{{Empty section|date=November 2022}}
+
+==Reception==
+{{Video game reviews
+|AAction = 82%<ref>{{cite magazine|magazine=[[Amstrad Action]]|title=Action Test|last=Wade|first=Bob|pages=52–53|date=June 1987|issue=21|url=https://archive.org/details/amstrad-action-021/page/n51/mode/2up/}}</ref>
+|CRASH = 84%<ref>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Legions of Death|pages=97–98|date=February 1987|issue=37|url=https://archive.org/details/Crash_No._37_1987-02_Newsfield_GB/page/n95/mode/2up/}}</ref>
+|CVG = 32/40<ref>{{cite magazine|magazine=[[Computer and Video Games]]|title=C+VG Reviews|page=37|date=February 1987|issue=64|url=https://archive.org/details/cvg-magazine-064/page/n35/mode/2up/}}</ref>
+|SUser = {{rating|5|5}}<ref>{{cite magazine|magazine=[[Sinclair User]]|title=Legions of Death|last=Rook|first=Gary|pages=88–89|date=May 1987|issue=62|url=https://archive.org/details/sinclair-user-magazine-062/page/n87/mode/2up/}}</ref>
+|YSinclair = 8/10<ref>{{cite magazine|magazine=[[Your Sinclair]]|title=Legions of Death|page=39|date=June 1987|issue=18|url=https://archive.org/stream/YourSinclair37Jan89/YourSinclair/YourSinclair18-Jun87#page/n40/mode/1up}}</ref>
+}}
+''Legions of Death'' received generally positive reviews.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Internet Archive game|id=/zx_Legions_of_Death_1987_MC_Lothlorien_a2}}
+*{{WoS game|id=0002855|name=Legions of Death}}
+*{{lemon64 game|name=Legions of Death|id=1511}}
+
+[[Category:1987 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games set in ancient Rome]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games with historical settings]]
+[[Category:Video games set in the Roman Empire]]
+[[Category:ZX Spectrum games]]
+
+
+{{strategy-videogame-stub}}

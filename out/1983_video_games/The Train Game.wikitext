@@ -1,0 +1,59 @@
+The Train Game
+Permalink: //en.wikipedia.org/w/index.php?title=The_Train_Game&oldid=1230283414
+Accessed on: 2024-06-26T16:56:04.188131
+
+
+
+------
+The Train Game
+{{Short description|1983 video game}}
+{{About|the 1983 simulation game|the 1988 action game|The Train: Escape to Normandy}}
+{{Infobox video game
+| title          = The Train Game
+| image          = The Train Game cover.png
+| caption        = 
+| developer      = [[Microsphere (software company)|Microsphere]]
+| publisher      = [[Microsphere (software company)|Microsphere]]
+| released       = {{vgrelease|EU|1983}}
+| genre          = [[Simulation video game|Simulation]] / [[Puzzle video game|Puzzle]]
+| modes          = [[Single-player video game|Single-player]]
+| platforms      = [[ZX Spectrum]] 16K
+|alt = 
+}}
+'''''The Train Game''''' is a [[simulation video game|simulation]] video game originally published by [[Microsphere (software company)|Microsphere]] for the [[ZX Spectrum]] in 1983.
+
+==Gameplay==
+The player assumes the role of a chief operations manager at a railway. Two different track layouts are included, A and B, each viewed from overhead on a single screen. Trains must be kept running by operating [[railroad switch|switches]] to avoid derailment. To score points, trains must stop at stations to pick up passengers. The player selects a level of play, which determines the number of trains running, and for every 25 passengers picked up, the sub-level increases by one. If passengers are kept waiting too long, they become angry and do not increase the player's score. Up to three trains may be running on the network, and passengers are colour-coded indicating which train they wish to board.
+
+Each switch is designated a letter of the alphabet, corresponding to the keyboard key the player must press to switch it. Track A has 25 points, and track B has 19. While the player may pause the action to consider which points to switch, doing so decreases the score.
+
+Occasionally, [[goods train]]s will enter the network, and must be directed back the way they came.
+
+==Reception==
+''The Train Game'' was critically well received. '' [[Sinclair User]]'' described it as original, well-thought-out and full of action.<ref>{{cite journal|journal=Sinclair User|issue=20|date=November 1983|title=Signalman's nightmare}}</ref> '' [[ZX Computing]]'' considered the game to be an excellent example of what the [[Kilobyte|16K]] Spectrum is capable of, requiring skill and practice to navigate even one train. It was suggested that a training track with eight switches should have been included.<ref name=zxc>{{cite journal|journal=ZX Computing|date=October 1983|page=117|title=Software Reviews}}</ref> ''[[Crash (magazine)|CRASH]]'' observed that ''The Train Game'' was "simple in idea, but sophisticated in its details", with the player required to rapidly check the switches each train is approaching, while also considering the needs of the waiting passengers. The graphics were highlighted as "cute and to the point", and overall a review score of 75% was awarded.<ref name=crash>{{cite journal|journal=CRASH|title=Reviews|issue=1|page=92|publisher=Newsfield|date=February 1984}}</ref>
+
+Criticisms of the game included repetitive sound effects<ref name=zxc/><ref name=crash/> and the indistinct letters used for switch designation.<ref name=zxc/>
+
+In 1991, ''The Train Game'' was ranked at number 95 in ''[[Your Sinclair]]'''s Official Top 100, which highlighted the game's balanced difficulty curve and tendency to put the player under pressure.<ref>{{cite journal|journal=Your Sinclair|date=October 1991|issue=70|publisher=Future|title=The YS Official Top 100 Part 1|url=http://www.ysrnry.co.uk/articles/ystop100.htm|url-status=dead|archiveurl=https://web.archive.org/web/20060816053829/http://www.ysrnry.co.uk/articles/ystop100.htm|archivedate=2006-08-16}}</ref> The list's compiler, [[Rev. Stuart Campbell|Stuart Campbell]], later championed the game for its requirement of "complex spatial awareness, fast reactions and multiple forward planning", comparing it with ''[[Typing of the Dead]]'' (1999).<ref>{{cite web|url=http://worldofstuart.excellentcontent.com/haveyou/typing.htm |author=Campbell, Stuart |title=HAVE YOU MET YOUR FATHER? The secret ancestry of classic games. No.2 - The Typing Of The Dead |accessdate=2009-10-24 |url-status=dead |archiveurl=https://web.archive.org/web/20081210211936/http://worldofstuart.excellentcontent.com/haveyou/typing.htm |archivedate=December 10, 2008 }}</ref>
+
+[[Image:TTGtrackb.png|right|thumb|Track layout B]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Internet Archive game|id=/zx_Train_Game_The_Track_A_1983_Microsphere}}
+* {{mobygames|id=/zx-spectrum/train-game}}
+* {{WoS game|id=0005374}}
+
+{{Microsphere}}
+
+{{DEFAULTSORT:Train Game, The}}
+[[Category:1983 video games]]
+[[Category:Microsphere (software company) games]]
+[[Category:Puzzle video games]]
+[[Category:Railroad business simulation video games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

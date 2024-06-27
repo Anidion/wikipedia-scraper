@@ -1,0 +1,75 @@
+TI Invaders
+Permalink: //en.wikipedia.org/w/index.php?title=TI_Invaders&oldid=1225479643
+Accessed on: 2024-06-26T16:52:44.160544
+
+
+
+------
+TI Invaders
+{{Short description|1981 video game}}
+{{Infobox video game
+|title          =TI Invaders
+|developer      =[[Texas Instruments]]
+|publisher      =[[Texas Instruments]]
+|released       =1981
+|genre          =[[Fixed shooter]]
+|modes          =[[Single-player video game|Single-player]]
+|platforms      =[[TI-99/4A]]
+|image = TI Invaders cover.jpg
+|caption = 
+|alt = 
+}}
+
+'''''TI Invaders''''' is a [[fixed shooter]] video game published by [[Texas Instruments]] in 1981 for the [[TI-99/4A]] home computer. The game is a ''[[Space Invaders]]'' [[video game clone|clone]] where the goal is to shoot all of the aliens before they reach the bottom of the screen. ''TI Invaders'' is part of the TI Arcade Game Series which includes ''[[Tombstone City: 21st Century]]'' and ''[[Car Wars (video game)|Car Wars]]''.<ref>{{cite web | title=Texas Instruments Users' Newsletter (March 1982) : Free Download, Borrow, and Streaming : Internet Archive | website=Internet Archive | date=2020-06-10 | url=https://archive.org/details/tiusers-newsletter-1982-03/page/n1/mode/2up | access-date=2021-04-14}}</ref><ref>{{cite web | title=Electronic Fun with Computer & Games - Vol 01 No 01 (1982-11)(Fun & Games Publishing)(US) : Free Download, Borrow, and Streaming : Internet Archive | website=Internet Archive | date=2020-06-10 | url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_01_1982-11_Fun_Games_Publishing_US/page/n79/mode/2up | access-date=2021-04-14}}</ref>
+
+==Gameplay==
+''TI Invaders'' is a single-player fixed shooter. At the start of the game, the player is face with an enemy fleet eleven creatures wide and five creatures deep.<ref>{{cite web | title=99'er Magazine (January, 1983) : Gary M. Kaplan : Free Download, Borrow, and Streaming : Internet Archive | website=Internet Archive | date=2020-06-10 | url=https://archive.org/details/99er8301/page/n25/mode/2up | access-date=2021-04-14}}</ref> With the joystick or keyboard, the player moves a laser base (called a ''missile'' in the manual) left and right, pressing the fire button to shoot lasers at an 11×5 grid of invaders. Shooting different invaders scores different amounts (see below). As the number of invaders dwindles, they increasingly move faster. Upon shooting the last invader, the player moves on to a bonus round before the next level. As in ''Space Invaders'', which ''TI Invaders'' is a [[video game clone]] of, a [[UFO]] will appear once or twice a round and travel from one end of the screen to the other. The player has the opportunity to hit it to score bonus points, the amount depending on where the UFO is hit.
+
+There are two difficulty levels to choose from:<ref>{{cite web | title=Your Computer : Free Download, Borrow, and Streaming : Internet Archive | website=Internet Archive | date=2020-06-10 | url=https://archive.org/details/YourComputer_198205/page/n15/mode/2up | access-date=2021-04-14}}</ref><ref>{{Cite web|url=https://archive.org/details/retro_gamer/RetroGamer_117/page/60/mode/2up|title=Retro Gamer|via=Internet Archive}}</ref>
+# '''Merely Aggressive:''' invaders fire semi-randomly, targeting the player only sporadically
+# '''Downright Nasty:''' invaders fire rapidly and deliberately at the player and their point values are doubled
+
+[[Image:Tiinvaders2.png|thumb|left|A missile, right of center, heading toward the yellow UFO at the top of the screen]]
+
+===Bonus round===
+After each level is cleared, there is a bonus round consisting only of one UFO. The UFO travels slowly from one end of the screen to the other until it is hit for the first time, then it returns other way at twice its original speed. The player must track it to the other side of the screen and shoot it again, making the UFO return in the other direction again. The UFO's score value increases gradually with each hit, and the UFO gets smaller and smaller. This continues until either the player eliminates the UFO completely, or it escapes off the screen.
+
+===Bonus missiles===
+After earning 3,000 points the player receives an additional missile. Thereafter, at every multiple of 10,000 points, one damaged missile is repaired and again usable. (When a missile is damaged, it rolls off onto a small elevator and off to the right of the screen, and one of the extra missiles rolls onto the elevator from the left hand side and takes its place. When one is repaired, it moves from the damaged end to the extras end fully repaired.)
+
+===End of game===
+When the last missile is destroyed, the closest invader to the bottom then goes down, clears away the area the extra missiles and damaged missiles were, writing "GAME OVER" in the middle of it all, then it and the rest of the remaining invaders on the screen jump up and down, as if laughing or cheering.  If both the last invader on the screen and the last missile are killed at the same time (which is not an uncommon occurrence at any time in the game), the next set of invaders will immediately appear on the screen, with again the invader closest to the bottom doing the game over routine.
+
+Also, as in ''Space Invaders'', if any number of invaders hits the bottom row, the closest one to the missile will shoot it from the side and the game is over regardless of the number of reserve missiles left.
+
+==Reception==
+Lawrence De Rusha, Jr. for ''[[InfoWorld]]'' said "I found this game very entertaining and a challenge to play. Because the options, including the various screens, allow for a wide range of skills and because the level comes harder as you progress, the game has lasting value."<ref>{{Cite web|url=https://archive.org/details/bub_gb_azAEAAAAMBAJ/page/n33/mode/2up|title=InfoWorld|first=Inc|last=InfoWorld Media Group|date=April 26, 1982|publisher=InfoWorld Media Group, Inc.|via=Internet Archive}}</ref>
+
+Dick Olney for ''[[Personal Computer World]]'' said "I long ago tired of this game in the arcades, but having such a good version in my living room did rekindle my interest. If you haven't already spent your quota in ten pences then you'll probably find this module good value for money."<ref>{{Cite web|url=https://archive.org/details/PersonalComputerWorld1982-03/page/104/mode/2up|title=Personal Computer World (1982-03)|date=March 2, 1982|via=Internet Archive}}</ref>
+
+''Unofficial 99/4(A)'' gave the game two stars and said "All I can say is that the aliens keep coming, you shoot them down, they shoot at you, and a space craft flies by. All good fun if you are into that kind of game. Yawn ..."<ref>{{Cite web|url=https://archive.org/details/Un050683/page/n17/mode/2up|title=Un050683|via=Internet Archive}}</ref>
+
+In 1982, ''TI Invaders'' was listed as one of the top-selling computer games for the TI-99/4A along with ''[[Hunt the Wumpus]]''.<ref name="Enterprise-1982">{{citation|title=Cash In On the Video Game Craze|work=[[Black Enterprise]]|date=December 1982|volume=12|issue=5|issn=0006-4165|pages=41–2|url=https://books.google.com/books?id=N6pacvfrf0wC&pg=PA41|accessdate=2011-05-01|last1=Earl g. Graves|first1=Ltd}}</ref>
+
+==Reviews==
+*[https://archive.org/details/MC_microcomputer-030/page/n35/mode/2up Review] in MC Microcomputer (Italian)
+*[https://archive.org/details/Videogiochi_N.33-34/page/n29/mode/2up Review] in Videogiocchi (Italian)
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://archive.org/details/tiinvadersmanual/page/n5/mode/2up Game manual]
+* [http://www.videogamehouse.net/tiinvaders.html TI Invaders] (videogamehouse.net)
+{{Space Invaders}}
+
+[[Category:1981 video games]]
+[[Category:Fixed shooters]]
+[[Category:Single-player video games]]
+[[Category:Space Invaders clones]]
+[[Category:Texas Instruments games]]
+[[Category:TI-99/4A games]]
+[[Category:TI-99/4A-only games]]
+[[Category:Video games about alien invasions]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in outer space]]

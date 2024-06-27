@@ -1,0 +1,153 @@
+Trust & Betrayal: The Legacy of Siboot
+Permalink: //en.wikipedia.org/w/index.php?title=Trust_%26_Betrayal%3A_The_Legacy_of_Siboot&oldid=1219690144
+Accessed on: 2024-06-26T17:03:24.664500
+
+
+
+------
+Trust & Betrayal: The Legacy of Siboot
+{{Infobox video game
+| title        = Trust & Betrayal: The Legacy of Siboot
+| image        = Trust & Betrayal The Legacy of Siboot PC cover art.jpg
+| caption      = 
+| developer    = [[Chris Crawford (game designer)|Chris Crawford]]<ref>{{cite web|first=Steven|last=Kosek|url=https://www.newspapers.com/clip/89520156/chicago-tribune/|title=Here are the absolute, absolute latest computer games|newspaper=[[Chicago Tribune]]|page=210|date=December 11, 1987|accessdate=November 25, 2021|via=[[Newspapers.com]]}}</ref>
+| publisher    = [[Mindscape Group|Mindscape]]
+| designer     = 
+| series       = 
+| engine       = 
+| released     = 1987
+| genre        = [[Simulation video game|Simulation]]
+| modes        = [[Single-player video game|Single-player]]
+| platforms    = [[Mac (computer)|Macintosh]]
+|alt = 
+}}
+'''''Trust & Betrayal: The Legacy of Siboot''''', often abbreviated simply to '''''Siboot''''' (pronounced {{IPAc-en|'|s|iː|b|uː|t}}, {{respell|SEE|boot}}),<ref>{{cite AV media
+|title=Chris Crawford: Siboot
+|url=https://www.youtube.com/watch?v=9tmMFMJDxlw
+|publisher=[[Chris Crawford (game designer)|Chris Crawford]]
+|time=00:01:28
+|via=YouTube
+}}</ref> was a game designed and programmed by [[Chris Crawford (game designer)|Chris Crawford]] for the [[Mac (computer)|Macintosh]] and published by [[Mindscape Group|Mindscape]] in 1987.
+
+== Gameplay ==
+The player, an alien creature named Vetvel, must compete with six other [[acolyte]]s (each a different alien species) for the Shepherdship. Each of these characters has a distinct personality. Each morning, the acolytes wake up knowing one of each of the three "auras" the others possess. They must trade knowledge with each other in order to try to gain enough knowledge for the "mind combat" that takes place every night, which is basically a fancy [[Rock paper scissors|Rock, Paper, Scissors]] game that depends on the aura counts for the players involved. The game is won when a player gets eight auras in all three categories. However, in giving away somebody's aura count, the player betrays that person, which angers them and may make them less likely to trade aura counts with the player. Therefore, a player has to know who to trust and who to betray, hence the title: ''Trust & Betrayal''.
+
+If the player clicks and holds the mouse button on an icon (the game's abstraction of a word), one can see its meaning. The number of icons is small enough, and the pictures intuitive enough, that they can quickly be committed to memory.
+
+The game uses an [[inverse parser]], a method for constructing sentences out of words while only presenting words that make sense for the given context. It also emphasizes facial expressions as form of feedback. Interludes appear through the game present the user with one of several choices which may affect the gameplay. To use an actual example from the game, if game designer Chris Crawford appears and lectures the player, and the player responds "Go to hell, Crawford!", then he or she loses some favor among the other characters, making the game harder to win.
+
+== Development ==
+"Siboot", the name of the first Shepherd, is a reversal of the syllables of "Bootsie", a cat which Crawford had. Bootsie had to be euthanized due to an irreparable injury to his jaw. Crawford suffered much grief while contemplating that he was unable to talk to Bootsie in order to try to comfort him before he had to be put down. One day while pondering this, Crawford had a flash of insight: his next game would be ''Talk to the Animals'', which evolved into the very different ''Trust & Betrayal''.
+
+A preliminary [[IBM PC]] port was made but never finished.
+
+Crawford considered ''Siboot'' the favorite of his games and "the game of which I'm most proud" due to its innovations and creativity.<ref name = "escapist" /><ref name="rouse"/>
+
+== Reception ==
+{{Video game reviews
+| CGW = {{rating|2|5}}{{r|brooks199405}}
+| Dragon = {{rating|4.5|5}}{{r|Dragon150}}
+| rev1 = ''[[MacUser (US edition)|MacUser]]''
+| rev1Score = {{rating|4.5|5}}{{r|macuser}}
+| award1Pub = ''[[Macworld]]''
+| award1 = Best Role-Playing Game (1988){{r|"macworld"}}
+}}
+
+''Siboot'' was poorly received in the marketplace and did not recoup its investment. It sold about 5,000 units on the [[Mac (computer)|Macintosh]].<ref name = "escapist">{{cite journal
+|journal=[[The Escapist (magazine)|The Escapist]]
+|title=A Conversation with Chris Crawford
+|last=Steele
+|first=Max
+|date=2005
+|issue=12
+|publisher=[[WarCry Network#Themis Group|Themis Group, Inc.]]
+}}</ref> After the game's commercial failure, Mindscape pressed Chris Crawford for a sequel to ''[[Balance of Power (video game)|Balance of Power]]'', and he developed ''[[Balance of Power: The 1990 Edition]]'' because "I felt I owed them one."<ref name="rouse">{{cite book |first=Richard |last=Rouse III |title= Game Design: Theory and Practice |chapter=Interview: Chris Crawford |date=2001 |page=274-275|publisher=Wordware Publishing |isbn=1556227353}}</ref>
+
+''[[Macworld]]'' inducted ''Siboot'' into its 1988 Game Hall of Fame in the Best Role-Playing Game category, ahead of runner-up ''[[Reach for the Stars (video game)|Reach for the Stars]]''. ''Macworld'' called the game Crawford's "best effort to date" and praised it as "a landmark in computer gaming, perfectly simpatico with the Macintosh, and deserving of its own cult."<ref name="macworld">{{Cite magazine
+ |last=Levy
+ |first=Steven
+ |authorlink=Steven Levy
+ |date=December 1988
+ |title=The Game Hall of Fame
+ |magazine=Macworld
+ |volume=5
+ |number=12
+ |publisher=PCW Communications, Inc.
+ |page=122}}</ref>
+
+''[[MacUser (US edition)|MacUser]]'' awarded ''Siboot'' 4½ out of 5 mice. The review said that the game's focus on political intrigue and interacting with six distinct artificial personalities resulted in "a brilliant effort to expand the horizons of computer gaming."<ref name="macuser">{{Cite magazine
+ |last=Shapiro
+ |first=Ezra
+ |date=March 1988
+ |title=Move Over Machiavelli
+ |magazine=[[MacUser (US edition)|MacUser]]
+ |publisher=[[Ziff-Davis Publishing Co.]]
+ |volume=4
+ | number=3
+ |pages=175-185}}</ref>
+
+The game received a favorable review in ''[[Computer Gaming World]]'' in 1988, citing the well-written AIs and noting "The context sensitive icon-based language is a technical achievement and deserves praise."<ref name = "CGW">{{Cite magazine | date = May 1988 | last = Carey | first = Regan | magazine = [[Computer Gaming World]] | title = Have I Lied to You... Recently? Chris Crawford's 'Trust and Betrayal: The Legacy of Siboot' | pages = 24–25 }}</ref> In a 1992 survey of science fiction games the magazine stated that the game had "Innovative concepts marred by slow and obtuse game play".<ref name="brooks199211">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Strategy & Wargames: The Future (2000-....) | magazine=Computer Gaming World | date=November 1992 | accessdate=4 July 2014 | author=Brooks, M. Evan | pages=99}}</ref> In 1994, the same publication reprinted its 1992 review of the game for its survey of strategic space games, adding a rating of two stars out of five.<ref name="brooks199405">{{Cite magazine
+ |last=Brooks
+ |first=M. Evan
+ |author=
+ |last2=
+ |first2=
+ |date=May 1994
+ |title=Never Trust A Gazfluvian Flingschnogger! Strategic Space Games from 2000 to Infinity
+ |department=
+ |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118 
+ |magazine=Computer Gaming World
+ |pages=42–58}}</ref>
+
+The game was reviewed in 1989 in ''[[Dragon (magazine)|Dragon]]'' #150 by Mark D. Veljkov in "The Role of Computers" column. It received 4½ out of 5 stars.<ref name="Dragon150">{{cite journal
+|title=The Role of Computers
+|author=Veljkov, Mark D.
+|journal=Dragon
+|issue=150
+|date=October 1989
+|pages=68–73, 95}}</ref>
+
+== Legacy ==
+In 2013 Crawford publicly released the [[source code]] of several of his games, including ''Trust & Betrayal''.<ref>{{cite web|url=http://www.erasmatazz.com/library/source-code/index.html| title=Source Code|quote=30 months ago, at the 2011 Game Developers Conference, somebody asked me to release the source code for my old games. I said I would look into it. [...] I have begun the process of preparing my source code for general distribution. |accessdate=2017-02-24 |year=2013 |first=Chris |last=Crawford}}</ref>
+
+In January 2013, Crawford began work on a redesigned version of ''Siboot'', borrowing the world and premise of the 1987 game and taking advantage of advances in computer power.<ref>{{cite web
+|url=https://www.erasmatazz.com/library/design-diaries/design-diary-siboot/january-2013/the-beginning.html
+|title=The Beginning
+|last=Crawford
+|first=Chris
+|work=Erasmatazz
+|date=January 2013
+|accessdate=2023-07-26
+}}</ref> In June 2015, he launched a Kickstarter project to fund the redesigned game. The project's funding was unsuccessful<ref>{{cite web
+|url=https://www.kicktraq.com/projects/544670315/siboot/
+|title=Siboot
+|publisher=Kicktraq 
+|accessdate=2023-07-26
+}}</ref> and Crawford abandoned developing the redesigned ''Siboot'' in 2018.<ref>{{cite web
+|last=Crawford
+|first=Chris
+|date=2019-10-12
+|accessdate=2023-07-26
+|url=https://www.facebook.com/siboot/posts/pfbid0EzjQffEmDBkYFahsn3yX1yWXk33W8bZptG4G3AqYZ9Lrjx8XKTCeELgWSTYyWtdul?__cft__[0]=AZVWcLjGUfmXWlblWQwY0ZLx9CDH7Bfrse4Aue5oPHLEGbkz1QPARDACflpx8VB6RzH7_4lcP966VpdXIgU0r2xzVZaJsmHt5jPbrc0gv9xXVZUeiqoBX9SnIv7Bb0usNxj4Zh_c2rakH2CtIo5tSXZInsI_mlM4fS9Q9GPbGBVcNBley0Q4vVmr6Xs4lrmkbfIOajy7IVqJtSFFDh7jC0rH&__tn__=%2CO%2CP-R
+|title=Siboot: 12 October 2019
+|publisher=Facebook
+}}</ref>
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+* [http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-1/blowing-my-siboot-horn.html Blowing my Siboot-Horn], article on the game by Chris Crawford 1987 for the [[Journal of Computer Game Design]] Volume #1 Issue 4 October 1987
+
+{{Chris Crawford}}
+
+{{DEFAULTSORT:Trust and Betrayal: The Legacy Of Siboot}}
+[[Category:1987 video games]]
+[[Category:Chris Crawford (game designer) games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Classic Mac OS games]]
+[[Category:Classic Mac OS-only games]]
+[[Category:Social simulation video games]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games developed in the United States]]
+[[Category:Mindscape games]]

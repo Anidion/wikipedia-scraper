@@ -1,0 +1,45 @@
+Pengi
+Permalink: //en.wikipedia.org/w/index.php?title=Pengi&oldid=1215413456
+Accessed on: 2024-06-26T16:57:17.503758
+
+
+
+------
+Pengi
+{{Infobox video game
+|title=Pengi
+|image = Visions-pengi.jpg
+|developer = F. Knock
+|publisher = Visions
+|designer = 
+|engine = 
+|released = 1984
+|genre = [[List of maze video games|Maze]]
+|modes = [[Single-player video game|Single-player]]
+|platforms=[[Acorn Electron]], [[BBC Micro]]
+}}
+'''''Pengi''''' is a game for the [[Acorn Electron]] and [[BBC Micro]], released by ''Visions Software'' in 1984. It is a direct clone of the 1982 [[Sega]] [[arcade game]] ''[[Pengo (video game)|Pengo]]'', even down to calling the enemies "snow bees," as in the original.
+
+==Gameplay==
+The player takes the role of a [[penguin]] named ''Pengi'' who finds himself in a [[maze]] made up of [[ice]] blocks that is surrounded by an [[electric fence]]. If the blocks are kicked, they will slide along until they hit another block or the fence. If however, the block is already touching something else (in the direction it would slide), it breaks and disappears. As in ''[[Pengo (video game)|Pengo]]'', three of the blocks are marked with diamonds and cannot break.
+
+[[Image:Elk-pengi.gif|thumb|left|[[Acorn Electron]] level 1, showing 3 green Snow Bees, one of which has just been crushed.]]
+
+The maze is inhabited by deadly "snow bees". They move in a semi-random way: a bee may sometimes choose to get away from ''Pengi'' instead of chasing him (especially on early levels). The bees can be killed by crushing them with a moving ice block (bees do not stop the blocks so more than one bee can be killed with one kick) or by kicking the fence while they are touching it. This momentarily stuns them and they can be crushed by simply walking over them. Only a set number of bees are on the screen at once (e.g. 3 on level 1) but there are more (a total of 6 on level 1) which emerge from the diamond blocks as others are killed. A level is completed either by killing all of the bees or by lining up the special diamond blocks. This is the preferred way of completing the level because a huge points bonus is awarded (5,000 if they are touching the fence, 10,000 if they are not).
+
+The game continues with different coloured bees in a new maze. The number of bees on screen, the number of "reserve" bees, the speed of the bees and the intelligence of the bees all increase on each successive level, making it much more difficult to successfully line up the diamond blocks.
+
+==Reception==
+''[[Electron User]]'' (#2.04, January 1985) gave a particularly favourable review: "Visions' ''Pengi'' is far superior to any ''[[Pac-Man]]'' program... The graphics are excellent as is the sound... If you're into arcade games, you will love this one."<ref>{{cite journal|title=Review of Pengi|journal=[[Electron User]]|volume=2|issue=4|date=January 1985}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:1984 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Maze games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]
+[[Category:Video games about penguins]]

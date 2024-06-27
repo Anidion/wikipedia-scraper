@@ -1,0 +1,51 @@
+Mancopter
+Permalink: //en.wikipedia.org/w/index.php?title=Mancopter&oldid=1225000793
+Accessed on: 2024-06-26T16:57:08.901641
+
+
+
+------
+Mancopter
+{{Short description|1984 video game}}
+{{Infobox video game
+| title = 
+| image = [[File:MancopterTitleScreen1984Datasoft.png|250px|Mancopter]]
+| caption = 
+| developer = [[Nichibutsu|Nichibutsu USA]]
+| publisher = [[Datasoft]]
+| programmer = Scott Spanburg<ref name=lemon>{{lemon64 game|id=1589|name=Mancopter}}</ref>
+| artist = Kelly Day<ref name=manual/>
+| released = 1984
+| genre = [[Racing video game|Racing]]
+| composer = 
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Commodore 64]]
+}}
+
+'''Mancopter''' is a [[video game]] developed by [[Nichibutsu|Nichibutsu USA]]<ref>{{cite journal |title=Software Preview |journal=Electronic Games |date=May 1984 |volume=2 |issue=12 |page=27 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_12_1984-05_Reese_Communications_US/page/n25?q=mancopter}}</ref><ref name=manual/> and published by [[Datasoft]] for the [[Commodore 64]] in 1984. It was programmed by Scott Spanburg, and the music was composed by John A. Fitzpatrick.<ref name=lemon/> The player controls a person piloting a [[helicopter]]-like flying device over an ocean competing with computer-controlled pilots.  
+
+==Gameplay==
+The player flies the copter by rapidly pressing the fire button on the [[joystick]].  If the player stops pressing the button, or runs into some sort of obstacle, then the copter falls into the sea.  For a few of these falls, the player is saved by a whale who surfaces with the copter on its head and allows the player to continue the game.  If the player runs out of "Fish," (which can be stolen or recaptured from flying pelicans,) then a ''[[Jaws (film)|Jaws]]''-inspired shark eats the player instead and the game is over.
+
+==Reception==
+''[[Compute!'s Gazette]]'' called ''Mancopter'' "challenging enough for adults and picturesque enough for children ... The game is challenging and graphically entertaining".<ref name="cg198501">{{cite news | url=https://archive.org/stream/1985-01-computegazette/Compute_Gazette_Issue_19_1985_Jan#page/n115/mode/2up | title=Reviews: Mancopter | work=Compute!'s Gazette | date=January 1985 | accessdate=6 July 2014 | pages=113}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite web |title=Mancopter manual |url=https://archive.org/details/Mancopter_Manual |website=archive.org |date=1984}}</ref>
+}}
+
+==External links==
+*{{lemon64 game|id=1589|name=Mancopter}}
+*[http://screenmania.retrogames.com/c64/01/c64_0020.html ''Mancopter''] screenshots
+
+[[Category:1984 video games]]
+[[Category:Air racing video games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Datasoft games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]
+
+
+{{racing-videogame-stub}}

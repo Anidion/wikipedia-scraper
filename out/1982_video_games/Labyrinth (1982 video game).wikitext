@@ -1,0 +1,58 @@
+Labyrinth (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Labyrinth_%281982_video_game%29&oldid=1224580148
+Accessed on: 2024-06-26T16:53:35.643504
+
+
+
+------
+Labyrinth (1982 video game)
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Labyrinth
+| image = Cover_art_for_Labyrinth_1982_video_game.jpg
+| developer = [[Broderbund]]
+| publisher = Broderbund
+| designer = Scott Schram<br>[[Doug Carlston]]
+| programmer = '''Apple II'''<br>Scott Schram<br>'''Atari 8-bit'''<br>Corey Kosak
+| platforms = [[Apple II]], [[Atari 8-bit]]
+| released = 1982
+| genre= [[Maze video game|Maze]]
+}}
+
+'''''Labyrinth''''' is a [[Maze video game|maze]] [[Shooter game|shooter]] written by Scott Schram<ref name=giantlist/> for the [[Apple II]], published in 1982 by [[Broderbund]]. It was ported to the [[Atari 8-bit computers]] by Corey Kosak.<ref name=schram/>
+
+==Gameplay==
+[[Image:Labyrinth_Atari_8-bit_screenshot.png|thumb|left|In-game screenshot (Atari 8-bit)]]
+The object of ''Labyrinth'' is to rescue the four men contained inside the four boxes. As the player enter each of the four boxes the prisoner is released. Once all the prisoners are free an X will appear in the opposite corner which must be reached in order to advance to the next level.
+
+The difficulty with all this lies in the fact that the wall of the Labyrinth are moving, with door opening and closing all the time. The player can shoot his way through a wall with the exception of the box walls which contain the four prisoners. Out of the central box will spring guardians of the Labyrinth which will destroy the player by touching or zapping him with the bubble-like projectiles.
+
+There are eight different levels of increasing difficulty.
+
+==Development==
+After finishing his first game for Broderbund Software - [[Genetic Drift (video game)|Genetic Drift]], Scott Schram planned his next game to have a sequence of several games in it. He coded prototypes of three of the different games and sent it off to Broderbund for their review. One of the three games was a maze with sliding walls, monsters to shoot or avoid, and humans to rescue. Broderbund suggested that he should focus in on the maze and give it some depth and interest, rather than having multiple games that would seem unrelated.<ref name=schram/>
+
+==Reception==
+''The [[Addison-Wesley]] Book of Atari Software 1984'' concluded: "The game's concept and graphics are fair. It's another type of eat-the-dots game, but with enough differences to make it a worthwhile addition to your game library."<ref name=wesley/>
+
+==References==
+{{Reflist|refs=
+<ref name=wesley>{{cite web |title=The Addison-Wesley Book of Atari Software 1984 |year=1984 |url=https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n135/mode/2up }}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/#S |last1=Hague |first1=James}}</ref>
+<ref name=schram>{{cite web |title=Homepage of Scott Schram |url=http://schram.net/articles/games/ |last1=Schram |first1=Scott}}</ref>
+}}
+
+==External links==
+*{{MobyGames|id=/labyrinth________}}
+*{{atarimania|id=2869}}
+*{{Internet Archive game|id=a8b_Labyrinth_1982_Broderbund_US_k_file}}
+*[https://archive.org/details/creativecomputing-1982-08/page/n21/mode/2up Review] in [[Creative Computing]]
+*[https://archive.org/details/InCider198304/page/n157/mode/2up Review] in [[InCider]]
+*[https://archive.org/details/softalkv2n10jun1982/page/n115/mode/2up Review] in [[Softalk]]
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Broderbund games]]
+[[Category:Maze games]]
+[[Category:Video games developed in the United States]]

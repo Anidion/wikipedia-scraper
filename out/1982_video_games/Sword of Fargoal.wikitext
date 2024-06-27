@@ -1,0 +1,79 @@
+Sword of Fargoal
+Permalink: //en.wikipedia.org/w/index.php?title=Sword_of_Fargoal&oldid=1227494466
+Accessed on: 2024-06-26T16:54:13.322826
+
+
+
+------
+Sword of Fargoal
+{{Short description|1982 video game}}
+{{Use mdy dates|date=June 2017}}
+{{Infobox video game
+| title = Sword of Fargoal
+| image = Sword of Fargoal.jpg
+| caption = 
+| developer = Jeff McCord
+| publisher = [[Epyx]]
+| released = '''1982:''' VIC-20<br>'''1983:''' C64
+| genre = [[Adventure games| Adventure]], [[roguelike]]
+| modes = 
+| platforms = [[Commodore 64]], [[VIC-20]], [[iOS]]
+}}
+'''''Sword of Fargoal''''' is a [[Dungeon crawl|dungeon exploration]] [[video game]] developed by Jeff McCord and published by [[Epyx]] for the [[VIC-20]] in 1982. It was later published for the [[Commodore 64]] in 1983. The game was originally released on [[Compact Cassette|cassette tape]] and [[floppy disk|5¼" floppy disk]] formats. 
+
+''Sword of Fargoal'' is an example of a [[roguelike]] game. Roguelike games are characterized by their progressively increasing difficulty, [[Procedural generation|procedurally generated]] level design, and [[Permadeath|permanent death]], requiring that the player start from the beginning after each failure.
+
+==Gameplay==
+
+The player controls a warrior who explores numerous levels of a dungeon in search of the titular "Sword of Fargoal".<ref name="fargoal1" /> These levels are populated with a random selection of pathways, barriers, enemies, and items. As the player progresses, the stages get progressively harder. Each level is initially completely dark, but as the player investigates, it gradually grows lighter.<ref>{{Citation |last1=Barton |first1=Matt |title=The Silver Age |date=2019-04-18 |url=https://www.taylorfrancis.com/chapters/mono/10.1201/9781351273404-5/silver-age-matt-barton-shane-stacks |work=Dungeons and Desktops |pages=81–109 |access-date=2023-05-13 |place=[2nd edition]. {{!}} Boca Raton: Taylor & Francis, [2018] |publisher=A K Peters/CRC Press |isbn=978-1-351-27340-4 |last2=Stacks |first2=Shane|doi=10.1201/9781351273404-5 |s2cid=199644566 }}</ref> Once the ''Sword of Fargoal'' is found, a countdown begins and the player must successfully escape the dungeon before the timer runs out, or the sword is lost forever.
+
+The warrior levels up by gaining [[Experience point|experience points]], which increase the character's fighting ability and [[hit points]] as they progress through the dungeon. There are several items in the dungeon that help the character, which can be found in treasure chests or on slain enemies.
+
+There are several enemies in the dungeon. In general, [[humanoid]] enemies are more dangerous than other creatures. Often the game will describe the relative strength of a monster one encounters.
+
+Combat in the game is controlled by the computer, and the player has no control over how their warrior fights. A warrior can flee an attack at any time, unless they fall victim to a sneak attack in which a monster engages in combat before the warrior has a chance to move. The warrior can move freely about the dungeon, whereas monsters take intermittently timed steps.
+
+Each dungeon has a number of staircases that go up or down. Because each map is procedurally generated,<ref>{{Citation |last=Barton |first=Matt |title=Vintage Games 2.0 |date=2019 |url=https://doi.org/10.1201/9780429280542 |work=Vintage Games |pages=44 |access-date=2023-05-13 |publisher=Taylor & Francis Group|doi=10.1201/9780429280542 |isbn=9780429280542 |s2cid=198665591 }}</ref> level layouts do not remain the same after the player leaves them. Stairs also spawn wandering monsters.
+
+The warrior can find bags of gold scattered around the dungeon. The bags can be taken by enemies if they step over them. Gold can also be stolen from the character by humanoid enemies. If those thieves are killed, the gold is returned to the warrior. The warrior can only carry 100 pieces of gold at first, but magic sacks can be found in the dungeons that allow the warrior to carry more.
+
+Each dungeon level contains a temple. When the warrior steps into a temple, their gold is sacrificed to their deity, which earns the character additional experience. While standing in a temple, the warrior is invisible to nearby enemies.
+
+Chests in ''Sword of Fargoal'' present a risk element. Some contain useful items, while others contain traps. Some chests explode, causing damage, and others release crumbling ceiling or pit traps. Chests can be picked up by enemies if they step over them.
+
+==Development==
+''Sword of Fargoal'' was created by author and [[game programmer|programmer]] Jeff McCord based on his original dungeon adventure, ''Gammaquest II'', which was programmed in [[BASIC]] for the [[Commodore PET]] computer<ref>{{Cite book |last=Craddock |first=David L.
+|url=http://dx.doi.org/10.1201/9781003196716 |title=Dungeon Hacks |date=2021-06-18 |publisher=CRC Press |isbn=978-1-003-19671-6 |location=Boca Raton|doi=10.1201/9781003196716 |s2cid=237896008 }}</ref> and written in 1979-81 while they were still in high school in [[Lexington, KY|Lexington, Kentucky]]. ''Gammaquest II'', like ''Sword of Fargoal'', created randomly generated dungeons that were revealed piece-by-piece as the character explored the map, and stayed "lit" behind the character as it moved, emulating the "mapping" of a dungeon level. Mccord based the game's storyline on his personal [[Dungeons & Dragons|Dungeons and Dragons]] quest from high school.<ref>{{cite web | url=https://www.youtube.com/watch?v=8DI8ZGhLVas | title=Matt Chat 40: Sword of Fargoal with Jeff McCord | website=[[YouTube]] }}</ref>
+
+The game graphics, however, were limited to the character set of the computer.<ref name="fargoal1">[http://www.fargoal.com/ Official ''Sword of Fargoal'' website]</ref>
+
+McCord accepted an offer to publish the game from the [[video game developer]] and [[video game publisher|publisher]] [[Epyx]] in 1982 on the [[VIC-20]]. His original name for the new version was ''Sword of Fargaol'', deriving the name from the [[Old English]] spelling of [[jail]] (''gaol''), but his [[video game producer|producer]] at Epyx, Susan Lee-Merrow, convinced him to change it to its present form.<ref name="fargoal1"/>
+
+The following year, with the release of the [[Commodore 64]], McCord was asked to release a version of ''Sword of Fargoal'' for that machine as well. McCord was unable to implement the conversion as it was written in BASIC, and the [[Sprite (computer graphics)|sprite-based graphics]] required [[machine language]] programming. McCord's friend Scott Corsaire (then Carter) and Steve Lepisto wrote all the machine-language code that was needed so that game would perform fast enough to work on the Commodore 64.
+
+==Reception==
+''[[Computer Gaming World]]'' noted some bugs and inconsistencies with the documentation, but called ''Sword of Fargoal'' "an exciting and intriguing adventure game. The graphics are beautifully crafted".<ref name="wilson19830708">{{cite magazine | title=The Commodore Key | magazine=Computer Gaming World | date=July–August 1983 | accessdate=31 October 2013 | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=2&id=11 | author=Wilson, Dr. Johnny L. | pages=42}}</ref> ''[[Ahoy!]]'' called the VIC-20 version "an engrossing adventure-type maze game".<ref name="salm198403">{{cite news | url=https://archive.org/stream/Ahoy_Issue_03_1984-03_Ion_International_US#page/n47/mode/2up | title=VIC Game Buyer's Guide | work=Ahoy! | date=March 1984 | accessdate=27 June 2014 | author=Salm, Walter | pages=49}}</ref> The magazine stated that the Commodore 64 version was "nearly addictive", but criticized the lack of a save-game feature. It also stated that the randomized dungeons removed mapping and solving mysteries, considered to be important aspects of adventure gaming, and concluded, "This game is so close to its goal, and yet so far".<ref name="herring198411">{{cite news | url=https://archive.org/stream/Ahoy_Issue_11_1984-11_Ion_International_US#page/n39/mode/2up | title=Sword of Fargoal | work=Ahoy! | date=November 1984 | accessdate=27 June 2014 | author=Herring, Richard | pages=40}}</ref>
+
+''[[Computer Gaming World]]'' in 1996 listed ''Sword of Fargoal'' as No. 147 on the "Top 150 Best Video Games of All Time".<ref name="cgw199611best">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | accessdate=25 March 2016 | pages=64–80}}</ref>
+
+==Re-releases==
+An enhanced [[iOS]] port was released in December 2009 and briefly was removed from the Apple Store before returning in October 2019 as part of the [[GameClub]] subscription service.<ref name="TouchArcade">{{cite news | url=https://toucharcade.com/2019/03/13/sword-of-fargoal-gameclub-update/ | title=Roguelike Classic 'Sword of Fargoal' Has Been Resurrected by GameClub, and is Returning to the App Store Soon | work=TouchArcade | date=November 1996 | accessdate=13 March 2019}}</ref><ref name="fargoalgameclub">[https://gameclub.io/games/sword-of-fargoal GameClub listing for Sword of Fargoal]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.fargoal.com/ Official website]
+
+{{DEFAULTSORT:Sword Of Fargoal}}
+[[Category:1982 video games]]
+[[Category:BASIC software]]
+[[Category:Commodore 64 games]]
+[[Category:Epyx games]]
+[[Category:GameClub games]]
+[[Category:IOS games]]
+[[Category:Roguelike video games]]
+[[Category:Role-playing video games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games using procedural generation]]

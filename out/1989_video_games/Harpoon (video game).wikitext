@@ -1,0 +1,100 @@
+Harpoon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Harpoon_%28video_game%29&oldid=1229882895
+Accessed on: 2024-06-26T17:06:32.796398
+
+
+
+------
+Harpoon (video game)
+{{Short description|1989 computer wargame}}
+{{Infobox VG
+| title        = Harpoon
+| image        = Harpoon Coverart.png
+| caption      = 
+| developer    = {{Plainlist|
+*[[Three-Sixty Pacific]]
+*Applied Computing Services}}
+| publisher    = [[Three-Sixty Pacific]], [[Personal Software Services|PSS]]
+| designer     = [[Larry Bond]]
+| series       = [[Harpoon (series)|''Harpoon'' series]]
+| engine       = 
+| platforms    = [[Amiga]], [[DOS]], [[Macintosh]]
+| released     = 1989
+| genre        = [[Computer wargame|Real-time wargame]]
+| modes        = [[Single-player]]
+}}
+
+'''''Harpoon''''' is a [[computer wargame]] published by [[Three-Sixty Pacific]] in 1989 for DOS. This was the first game in the [[Harpoon (series)|''Harpoon'' series]]. It was ported to the [[Amiga]] and [[Macintosh]].
+
+==Plot==
+''Harpoon'' is a game in which the player is the commander of either NATO or Soviet forces, making judgment calls and sending orders to ships and aircraft, armed with weapon systems selected from more than 100 available options.<ref name="Dragon156"/> The game mainly focuses on combat in the [[GIUK Gap]].
+
+==Gameplay==
+''Harpoon'' is a naval simulator that uses data regarding real military equipment and weaponry, based on a miniatures wargame. The game does not use preset battle algorithms to control the outcome of combat, and does not control play balance between sides. The game comes with a user's guide with an appendix of information on the politics between superpowers and modern maritime warfare strategies, a ''Harpoon Tactical Guide'' by Larry Bond, and a booklet by author [[Tom Clancy]] about Russian destroyers.<ref name="Dragon156"/> Clancy used the simulation to test the naval battles for ''[[Red Storm Rising]]'', which he co-authored with Bond.<ref>{{cite web|url=http://www.computerharpoon.com/hce|title=Harpoon Naval Warfare Simulation Game - AGSI - Harpoon Commanders Edition (HCE)}}{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Development history==
+In the late 1970s, a manual [[Miniature wargaming|wargame]] called SEATAG was introduced by the [[United States Navy]] for exploring [[Military tactics|tactical]] options. It was available in both [[classified information|classified]] and unclassified versions. SEATAG was developed into a true tactical training game called NAVTAG that ran on three [[Computer network|network]]ed [[microcomputer]]s for the Red Side, Blue Side, and Game Control.
+
+Former naval officer and future author [[Larry Bond]]'s exposure to this system in 1980 while on active duty led to the eventual development of Harpoon.{{citation needed|date=April 2012}}
+
+The original game was expanded with additional releases including ''Harpoon BattleSet 2: North Atlantic Convoys'' (1989), ''Harpoon Battleset 3: The MED Conflict'' (1991), ''Harpoon BattleSet 4: Indian Ocean / Persian Gulf'' (1991), and ''Harpoon Designers' Series: BattleSet Enhancer'' (1992).
+
+A remake was released in 1994 titled '''''Harpoon Classic'''''. Another remake based on ''Harpoon Classic'' was released in 1997 titled '''''Harpoon Classic '97'''''.<ref name="cgw1">{{cite magazine |last1=Cobb |first1=Jim |title=Ship-Shape |magazine=[[Computer Gaming World]] |date=April 1997 |issue=153 |page=150}}</ref>
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[Dragon (magazine)|Dragon]]''
+| rev1Score = {{Plainlist|
+*{{rating|5|5}} (MS-DOS)<ref name="Dragon156" />
+*{{rating|5|5}} (Macintosh)<ref name="Dragon168" />
+*{{rating|5|5}}(Amiga)<ref name="Dragon174" />}}
+| rev2 = ''[[Computer Gaming World]]''
+| rev2Score = {{rating|5|5}} (MS-DOS)<ref name="brooks199002" />
+| rev3 = ''[[Games International]]''
+| rev3Score = {{rating|8|10}} (MS-DOS)| rev4 = ''[[Info (magazine)|Info]]''
+| rev4Score = {{rating|3.5|5}} (Amiga)}}
+Sales of ''Harpoon'' surpassed 80,000 copies by 1993.<ref name=sales>{{cite journal | author=Ferrell, Ed | title=''Harpoon: Battleset Enhancer'' | date=February–March 1993 | journal=[[GamePro#PC Games|PC Games]] | page=78 | publisher=[[International Data Group|IDG]] }}</ref>
+
+In the February 1990 edition of ''[[Computer Gaming World]]'', M. Evan Brooks, a United States military officer, gave the game five stars out of five. He stated that "there is no question that ''Harpoon'' is the most detailed simulation to appear in the civilian marketplace ... a must-have for the serious naval gamer", and that he had learned more from six hours with the game than one year at the [[Naval War College]].<ref name="brooks199002">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=68 | title=Harpoon | magazine=Computer Gaming World | date=February 1990 | accessdate=15 November 2013 | last=Brooks |first=M. Evan | pages=12 |issue=68}}</ref><ref name="brooks199206">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=95 | title=The Modern Games: 1950–2000 | magazine=Computer Gaming World | date=June 1992 | accessdate=24 November 2013 | last=Brooks |first=M. Evan | pages=120}}</ref><ref name="brooks199401">{{Cite magazine |last=Brooks |first=M. Evan |date=January 1994 |title=War In Our Time / A Survey Of Wargames From 1950-2000 |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=114 |magazine=Computer Gaming World |pages=194–212}}</ref>
+
+In the April 1990 edition of ''[[Dragon (magazine)|Dragon]]'' (Issue 156), Patricia, Kirk and Hartley Lesser called this "is a true simulation with data reflecting real-world equipment and weaponry." They thought the game was "a graphical masterpiece". They concluded by giving the PC&nbsp;DOS/MS-DOS version of the game a perfect score of 5 out of 5, saying, "a simulation that is far more than a game – it's war!".<ref name="Dragon156">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley| first2=Patricia|first3=Kirk|journal=Dragon|issue=156|date=April 1990 |pages=89–95}}</ref> A year later, they gave the [[Macintosh]] version a perfect score as well.<ref name="Dragon168">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser| first1=Hartley|first2=Patricia| first3=Kirk|journal=Dragon|issue=168|date=April 1991 |pages=47–54}}</ref> Six months after that, the Lessers gave the [[Amiga]] version another perfect score.<ref name="Dragon174">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk|journal=Dragon |issue=174|date=October 1991|pages=57–64}}</ref>
+
+In the May 1990 edition of ''[[Games International]]'', Mike Siggins noted the complexity of the game and said it "is not a game for wimps." He liked the graphics, saying, "''Harpoon'' looks superb in high resolution colour." He also thought the user interface was "well-handled". He concluded by giving both the game and the graphics an above-average rating of 8 out of 10, saying, "If tactical modern naval is your field, this is the program you've been waiting for."<ref name=gi>{{cite magazine|last=Siggins|first=Mike| date=May 1990 |title=Harpoon|journal=[[Games International]]| issue=14|pages=42, 44}}</ref>
+
+In the December 1990–January 1991 edition of ''[[Info (magazine)|Info]]'', Judith Kilbury-Cobb wrote that a preview copy of the Amiga version of ''Harpoon'' "looks killer", saying it had "more technical detail than any game has a right to."<ref name=info35>{{cite magazine|last=Kilbury-Cobb|first=Judith| date=December 1990 – January 1991 |title=CyberPlay|magazine=[[Info (magazine)|Info]] |issue=35|pages=53}}</ref> In the next issue, her comments about the finished product were more nuanced. While she acknowledged that "the wealth of tactical and strategic data on weapons, ships, subs, etc., is overwhelming", she found performance on a basic Amiga was "unbearably sluggish". She concluded by giving the game an average rating of 3.5 out of 5, saying, "Long on realism, somewhat short on playability."<ref name=info36>{{cite magazine|last=Kilbury-Cobb|first=Judith| date=February–March 1991|title=CyberPlay|magazine=[[Info (magazine)|Info]] |issue=36|pages=38}}</ref>
+
+''[[The One (magazine)|The One]]'' reviewed ''Harpoon'' in 1991, calling it a "combat simulation for purists", due to the lack of "flashy action scenes" or joystick controls. ''The One'' furthermore states that the game requires "careful" and "arduous" strategic planning, and express that "It's hard to fault the accuracy and comprehensiveness of the military hardware database which supports ''Harpoon'', and it would be unfair to criticise the lack of more usual arcade-style sequences. The game makes no claim to be anything other than a realistic and heavily strategic representation of [[Cold War|cold war]] conflict – as such it succeeds." ''The One'' concludes by expressing that "Even so, it's too dryly erudite to appeal to as wide an audience as most simulations."<ref name=theone>{{cite magazine|title = No Cap'n Ahab!|date = February 1991|url = https://archive.org/details/theone-magazine-29/page/n21|magazine = The One|publisher = emap Images|last1 = Houghton|first1 = Gordon|last2 = Hamza|first2 = Kati|issue = 29|page = 22}}</ref>
+
+In 1990, ''Computer Gaming World'' named it "Wargame of the Year".<ref name="cgw199009">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=74 | title=CGW's Game of the Year Awards | magazine=Computer Gaming World | date=September 1990 | accessdate=16 November 2013 | pages=70}}</ref> The editors of ''[[Game Player's PC Strategy Guide]]'' likewise presented the game with their 1990 "Best PC Wargame" award. They dubbed it "the most detailed, authentic, and convincing simulation of modern naval warfare yet devised."<ref name=gpawards>{{cite magazine| title=''Game Player''{{'}}s Annual PC Game Awards 1990 | date=January–February 1991 | volume=4 | number=1 | magazine =[[Game Player's PC Strategy Guide]] | pages=10, 12, 14 }}</ref>
+
+Tim Carter reviewed ''Harpoon Battleset 3: The MED Conflict'' for ''[[Computer Gaming World]]'', and stated that "''Harpoon: Battleset Three: The Mediterranean Conflict'' is an entertaining and thought-provoking addition to the Harpoon system. The combination of imaginative scenarios with new (and/or outdated) platforms and situations give the battleset a distinctive style of play that sets it apart from the Atlantic battlesets."<ref name="CGW94">{{cite magazine |last=Carter |first=Tim |title=The Cub Med Invasion - The Mediterranean Conflict: Harpoon Battleset #3 |magazine=Computer Gaming World |date=May 1992 |volume=1 |issue=94 |pages=90–91}}</ref>
+
+Tim Carter reviewed ''Harpoon BattleSet 4: Indian Ocean / Persian Gulf'' for ''[[Computer Gaming World]]'', and stated that "Despite the lack of creativity in the generation of scenarios, ''Battleset Four: The Indian Ocean/Persian Gulf'' is a useful addition to the Harpoon system. Players who use the ''Scenario Editor'' will find that the new platforms make the package worth the price."<ref name="CGW96">{{cite magazine |last=Carter |first=Tim |title=The Reign in Bahrain Depends Mainly on the Planes: Harpoon Battleset #4: Indian Ocean/The Persian Gulf |magazine=Computer Gaming World |date=July 1992 |volume=1 |issue=96 |pages=110–112}}</ref>
+
+In 1994, ''[[PC Gamer US]]'' named ''Harpoon'' the 36th best computer game ever. The editors called it "probably the best known and most successful naval war game there's ever been. It's still selling today, even five years after its initial release, and military academies have been known to use the game as a training aid. Now that's realism!"<ref name=pcgamerustop40>{{cite journal | author=<!-- Staff writer(s); no by-line --> | journal=[[PC Gamer US]] | title=''PC Gamer'' Top 40: The Best Games of All Time |date=August 1994 | issue=3 | pages=32–42 }}</ref> In 1996, ''Computer Gaming World'' declared ''Harpoon'' the 40th-best computer game ever released.<ref name=cgw150>{{cite magazine | author=<!-- Staff writer(s); no by-line --> | title=150 Best (and 50 Worst) Games of All Time | magazine=[[Computer Gaming World]] | date=November 1996 | issue=148 | pages=63–98 }}</ref> The magazine's wargame columnist Terry Coleman named it his pick for the third-best computer wargame released by late 1996.<ref name=15wargames>{{cite magazine | author=Coleman, Terry | title=Command Decisions | issue=148 | date=November 1996 | magazine=[[Computer Gaming World]] | pages=277, 280 }}</ref>
+
+==Reviews==
+*''[[Computer Gaming World]]'' - Jun, 1991
+*''[[Amiga Action]]'' - Mar, 1991<ref>{{Cite web|url=http://amr.abime.net/review_32564|title=Harpoon review from Amiga Action 18 (Mar 1991) - Amiga Magazine Rack}}</ref>
+*''[[Top Secret (magazine)|Top Secret]]'' - Mar, 1993
+*''[[Aktueller Software Markt]]'' - Feb, 1991
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' nouvelle formule #7<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-nf-7/page/20/mode/2up | title=Jeux & stratégie NF 7 | date=May 1990 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MobyGames|id=/harpoon|name=Harpoon}}
+*[https://archive.org/details/HARPOON_201408 Demo version of ''Harpoon Classic''] at [[Internet Archive]]
+*[https://archive.org/details/HarpoonClassic97Demo Demo version of ''Harpoon Classic '97''] at Internet Archive
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Classic Mac OS games]]
+[[Category:Cold War video games]]
+[[Category:Computer wargames]]
+[[Category:DOS games]]
+[[Category:Naval video games]]
+[[Category:Real-time strategy video games]]
+[[Category:Three-Sixty Pacific games]]
+[[Category:Video games developed in the United States]]

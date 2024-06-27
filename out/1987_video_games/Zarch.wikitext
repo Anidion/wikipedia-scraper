@@ -1,0 +1,129 @@
+Zarch
+Permalink: //en.wikipedia.org/w/index.php?title=Zarch&oldid=1224586203
+Accessed on: 2024-06-26T17:03:32.398008
+
+
+
+------
+Zarch
+{{Short description|1987 computer game}}
+{{About|the computer game|the city in Iran|Zarach, Iran}}
+{{refimprove|date=July 2011}}
+{{Infobox video game
+|title = Zarch
+|image = Zarch box art.jpg
+|caption = Cover art <small>(Acorn Archimedes)</small>
+|developer = [[David Braben]]
+|publisher = [[Superior Software|Superior]]/[[Acornsoft]], [[Telecomsoft#Firebird|Firebird]]
+|platforms = [[Acorn Archimedes]], [[Amiga]], [[Atari ST]], [[DOS]], [[ZX Spectrum]]
+|released = {{vgrelease|EU|1987<ref>{{Cite web |url=http://www.gamefaqs.com/arch/961507-zarch/data |title=Zarch Release Information for Acorn Archimedes |website=GameFAQs |language=en |access-date=2017-12-06}}</ref>}}
+|genre = [[Third-person shooter]]
+|modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Zarch''''' (also known under its [[ported]] name of '''''Virus''''') is a computer game developed by [[David Braben]] (better known as the co-author of ''[[Elite (video game)|Elite]]'') in [[1987 in video gaming|1987]], for the release of the [[Acorn Archimedes]] computer. ''Zarch'' started off as a demo called ''Lander'' which was bundled with almost all releases of the Acorn Archimedes.
+
+In 1988, ''Zarch'' was ported (under the new name, ''Virus'') to the [[Atari ST]], [[Amiga]] (coded by David Braben), and [[IBM PC]] (coded by [[Chris Sawyer]]). It was later ported to the [[ZX Spectrum]] by Steven Dunn.
+
+The game was groundbreaking for the time, featuring a three-dimensional mouse-controlled craft (the "lander") flying over a tile-rendered landscape that dazzled reviewers in a primarily 2D-dominated game industry - ''ACE'' (''[[Advanced Computer Entertainment]]'') magazine led with the headline "''SOLID 3D - the future of games?''" when it reviewed ''Zarch'' with a score of 979, the highest rating ''ACE'' had given at that time, only bettered by the later Amiga port ''Virus'' at 981.
+
+''Virus'' was one of the first solid 3D games and was also the first to have 3D lighting effects and shadowing, although these are less sophisticated than those of ''Zarch''.
+
+==Plot==
+[[File:Zarch screenshot 2.png|320px|right|thumb|alt=Screenshot of Zarch (Archimedes)|The lander flies high in the atmosphere, shooting at an enemy Seeder which is infecting the ground, turning it red.]]
+The plot of the game is reminiscent of the arcade game ''[[Defender (1981 video game)|Defender]]'', in that the player, piloting a lone craft with limited firepower, must defend a finite landscape against ever increasing waves of enemy craft. In ''Zarch'', the landscape is being invaded by aliens who are spreading a [[virus]] across the landscape. The Seeder vessels are slow-moving, predictable, and easily destroyed, but as the game progresses they are supported by increasing numbers of flying support craft, which do not scatter said virus but instead attack the player.
+
+The Seeder vessels scatter red virus particles across the landscape. As they land, they turn the green landscape to brown and red, and cause the trees to mutate. Some flying enemies shoot the mutated trees, to cause themselves to become much more aggressive and dangerous. To clear each attack wave, the player must destroy all enemy vessels.
+
+At the conclusion of each attack wave the player is awarded bonus points for the amount of landscape which remains uninfected. After four attack waves have been successfully repelled, the player is awarded a new landscape, but there is comparatively less land and more water, making complete infection more likely.
+
+==Gameplay==
+''Zarch'' is a notoriously difficult game for beginners.<ref>{{cite web |title=Zarch (Superior/Acornsoft) Review |url=https://www.everygamegoing.com/larticle/Zarch-000/42314/ |website=Computer & Video Games |access-date=21 April 2022}}</ref> Controls are extremely sensitive; simply moving the mouse while taking off can cause the lander to explode on the launchpad.
+
+The lander has a single thruster pointing directly downwards beneath it. Firing the thruster causes the lander to fly straight upwards. The lander has a [[flight ceiling]] above which the thruster will not fire. To fly in any direction requires the lander to be tilted in that direction. The lander can only [[pitch (flight)|pitch]] and [[Yaw angle|yaw]]; it cannot [[roll (flight)|roll]]. Too much tilt can cause the lander to turn upside-down, a position which may be difficult to recover, and can cause the player to crash the lander by accidentally thrusting downwards. The lander, although agile, is vulnerable, and may be destroyed by a single enemy shot.
+
+The lander expends fuel and must occasionally return to the launchpad to refuel, with successful landings being difficult. The lander must be completely level to land. While refueling, it is vulnerable to attack from the air.
+
+Every round fired costs one point, and the lander is equipped with a rapid-fire autocannon. This makes it possible to achieve a negative final score if one does not actually hit anything. At such times the game wryly points out that slugs and dried up bits of lichen have been known to get better scores than that.
+
+No powerups are available in the game, although the player has a limited number of [[smart missile]]s, and [[smart bomb]]s and is awarded a new one of each with each extra life. Some enemy craft are so agile as to be able to outmanoeuvre the missiles, and the smart bombs have a very limited range.
+
+===Radar screen===
+In the top left of the screen is displayed a "[[radar]] screen", which provides a map of the whole landscape, with the position of the lander and enemy craft marked on it. Uninfected territory appears green; infected territory appears red. The radar detection is provided by rotating scanning-towers which are evenly spaced across the landscape; accidental destruction of these results in loss of detection in that area, and black squares appear on the map.
+
+===Notable enemies===
+In some levels a [[fish]]like enemy can be seen patrolling randomly on the water. It does not directly threaten the player, nor is its destruction required to complete the level. It additionally does not appear on the radar screen. When destroyed it emits a puff of virus particles, and bonus points are awarded. Some players insist the fish enemy can be found on every level with diligent searching.
+
+In advanced levels a high-altitude, fast-moving [[bomber]] craft appears, dropping packets of virus particles in profusion. This craft is difficult to destroy, since the angle needed for the lander to match its speed is such that the cannon cannot easily be brought to bear. Meanwhile, it delivers huge amounts of virus particles to the landscape.
+
+==Development==
+[[File:Landerscreenshot.gif|thumb|250px|right|Lander demo]]
+Braben had use of an Acorn A500 development machine for two weeks in January 1987. He had been working on 3D landscape algorithms on the [[BBC Micro]] and then wrote ''Lander'' using [[ARM architecture|ARM]] code.<ref name="TMU 1987-11">{{cite news | first = David | last = Braben | title = Zarch: The Shape of things to come? | date = November 1987 | publisher = Database Publications | work = [[The Micro User]]}}</ref>
+
+===''Lander''===
+''Lander'' was a demo version of ''Zarch'' bundled with new [[Acorn Archimedes]] computers. It was completed in less than three months<ref name="TMU 1987-11"/> as an illustration of their capabilities. Although the graphical environment, controls and handling of the lander were similar to the released version of the game, neither enemies nor virus were present on the landscape. Points were awarded for destroying trees and buildings.
+
+While the lander was stationary on the launchpad, moving the mouse (which would normally tilt the attitude of the craft) would cause it to immediately explode. This was fixed in ''Virus'': the craft would not explode while sitting on the launchpad, but only if a landing were attempted while the craft was not level.
+
+===Game engine===
+The player flies the lander over an undulating landscape of square tiles. The landscape routine uses fixed tile sizes, meaning that the depth of view (amount of terrain being rendered) directly influences the frame rate. In development, a greater depth of view reduced the frame rate to only one or two per second. Bank switching is used, with the display being in 256-color {{nowrap|Mode 13}}. The higher resolution {{nowrap|Mode 15}} was not used because that leaves less available memory and the required VIDC bandwidth also slows down the processor.<ref name="TMU 1987-11"/>
+
+Depth sorting uses bin sorting because objects only need to be approximately in order. The buffering demands memory but does not have the same time overheads as bubble sorting or quicksort. Colour keying is implemented by varying levels of white according to depth.<ref name="TMU 1987-11"/>
+
+Trees, buildings and enemies are drawn in filled light-sourced [[polygon]]s. Shadows of the lander and enemies are projected vertically onto the ground, which does not cater for landscape curvature but is fast. Consequently, shadows are not shown on other scenery.<ref name="TMU 1987-11"/> The shadows allow the player to follow movements of enemy craft by their shadows, even when they are not visible on the screen. In ''Virus'', there is no light-sourcing. The game also provides [[particle system]] effects to depict the thrust from the lander, explosions, the virus spreading over the landscape, and assorted other phenomena such as splashes when shots strike water, and puffs of dust when they strike land. At altitude, when the ground cannot be seen, dust particles in the air give the impression of movement and speed.
+
+Four major routines are used in the game's programming:
+* Animate object (nasties, player, missiles)
+* General particle (bullets, debris, parachutes, spray)
+* Landscape
+* Scenery (trees, houses, radar).<ref name="TMU 1987-11"/>
+
+The hillside landscape is generated from a number of [[pseudorandom sequence]] sine waves.<ref name="TMU 1987-11"/>
+
+==Legacy==
+{{Video game reviews
+| award1Pub = ''Sinclair User''
+| award1 = SU Classic
+| award2Pub = ''Your Sinclair''
+| award2 = Megagame
+}}
+The game was voted the 5th best game of all time in a 1991 issue of ''[[Amiga Power]]''.<ref>Amiga Power magazine issue 0, [[Future Publishing]], May 1991</ref>
+
+===Followup===
+The followup to ''Zarch'' was a game using the same landscape engine, called ''[[Conqueror (video game)|Conqueror]]''. In this game, the player controls a tank, and fights enemy tanks in a realistic manner. It was coded by Jonathan Griffiths and released on the Archimedes, PC, Atari ST and Amiga.
+
+===V2000===
+In 1998, ten years after Zarch was released, a sequel, ''V2000'' (also known as ''Virus 2000''), was released for the [[Personal computer|PC]] and [[PlayStation]]. It was developed by David Braben and his company Frontier Studios, who attempted to make the controls similar to but more forgiving than those of the original game.<ref>{{cite magazine |title=NG Alphas: Virus 2000 |magazine=[[Next Generation (magazine)|Next Generation]]|issue=39 |publisher=[[Imagine Media]] |date=March 1998|pages=86–88}}</ref>
+
+===Clones===
+A few clones based on ''Zarch'' have also been created, including a version for [[Linux]], also called ''Zarch'', a remake for Windows (written in [[Blitz BASIC]]) called ''Z-Virus'', and a version crossing ''Zarch'' with ''[[Pac-Man]]'' called ''ZarchMan''. The [[Amiga]] game ''[[Zeewolf]]'' (1994) and its sequel have a noticeably similar design and appearance to ''Zarch''.
+
+==See also==
+* ''[[Lunar Lander (1979 video game)|Lunar Lander]]'', arcade game
+* ''[[Gravitar]]'', arcade game
+* ''[[Thrust (video game)|Thrust]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Lemon Amiga game|id=1361}}
+* {{atarimania|id=10780}}
+* {{WoS game|id=0005587|name=Virus}}
+* [http://www.frontier.co.uk/ Frontier Developments] official site
+* [https://www.youtube.com/watch?v=XUArgcstwDk Video of waves 8-10] at YouTube
+
+{{Superior Software}}
+
+[[Category:1987 video games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Superior Software games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Atari ST games]]
+[[Category:Amiga games]]
+[[Category:DOS games]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]
+[[Category:Video games about viral outbreaks]]
+[[Category:Acornsoft games]]

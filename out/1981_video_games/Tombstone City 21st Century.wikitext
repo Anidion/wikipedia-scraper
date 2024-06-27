@@ -1,0 +1,65 @@
+Tombstone City: 21st Century
+Permalink: //en.wikipedia.org/w/index.php?title=Tombstone_City%3A_21st_Century&oldid=1208969392
+Accessed on: 2024-06-26T16:52:45.077702
+
+
+
+------
+Tombstone City: 21st Century
+{{About|the TI-99/4A game|the Arizona city|Tombstone, Arizona}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = 
+| image = Tombstone City 21st Century (Cover).jpg
+| alt = 
+| caption = 
+| developer = [[Texas Instruments]]
+| publisher = [[Texas Instruments]]
+| designer = John C. Plaster<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+| series = 
+| engine = 
+| platforms = [[TI-99/4A]]
+| released = 1981
+| genre = [[Multidirectional shooter]]
+| modes = 
+}}
+'''''Tombstone City: 21st Century''''' is a single-player [[multidirectional shooter]] written by John C. Plaster for [[TI-99/4A]] home computer and published by [[Texas Instruments]] in 1981.<ref name="giantlist"/>
+
+==Gameplay==
+The player controls a [[covered wagon|schooner]], shooting aliens (called ''Morgs'') and tumbleweeds in order to woo people back to live in an abandoned city somewhere in the [[Southwestern United States]]. The score is labeled as "Population". The game ends when all schooners are gone.
+
+The player's schooner starts out in the middle of sixteen blocks. These are used as shelter, as the Morgs cannot enter this area. The player must venture out to shoot either tumbleweeds (100 points each) or, more importantly, the Morgs (150 points each). Tumbleweeds replenish when the last one has been eliminated. Morgs are produced via one of the [[cactus|cacti]] out in the field. They can only appear from a cactus that touches another cactus. Whenever a Morg is shot, it turns into another cactus. If a Morg is shot next to two adjacent cacti, the cacti and Morg disappear and a new Morg is immediately spawned. The goal is to leave only cacti standing individually, so that no more Morgs can appear. When all cacti stand alone, one game day ends, the player is awarded a bonus schooner, and a new day begins with cacti repositioned.
+
+If a Morg is killed adjacent to one of the exits, the cactus placed there blocks off the exit for the remainder of the game day. When all exits are blocked, the schooner is automatically moved to somewhere outside the sixteen blocks. If the schooner is killed at this point, the new schooner appears somewhere else on the screen.
+
+==Development==
+In a 1985 interview, programmer John Plaster called the creation of the game "spontaneous": "I started putting it on the screen as fast as I thought of it. So, from the conception of the idea, to the completion of the basics, we're talking about a four-week period."<ref name="99er"/>
+
+The name of the game was originally ''Saguaro City''.<ref name="99er"/>
+
+==Legacy==
+In 2019, Collectorvision released a clone for the [[ColecoVision]] called ''Saguaro City''.<ref name="CollectorVision"/>
+
+==References==
+{{reflist|refs=
+<ref name="99er">{{cite journal|title=Interview with John Plaster|journal=99er Magazine|date=1985|url=http://www.videogamehouse.net/tombstone.html}}</ref>
+
+<ref name="CollectorVision">{{cite web
+  |title=Saguaro City Regular Edition
+  |publisher=CollectorVision
+  |url=https://collectorvision.com/shop/colecovision/saguaro-city-regular/
+  |archive-url=https://archive.today/20200101162125/https://collectorvision.com/shop/colecovision/saguaro-city-regular/
+  |archive-date=2020-01-01
+  |url-status=live
+  |accessdate=2020-01-01}}</ref>
+}}
+
+[[Category:1981 video games]]
+[[Category:Multidirectional shooters]]
+[[Category:Texas Instruments games]]
+[[Category:TI-99/4A games]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games developed in the United States]]
+[[Category:TI-99/4A-only games]]

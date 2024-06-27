@@ -1,0 +1,55 @@
+Dukedom (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dukedom_%28video_game%29&oldid=1124105911
+Accessed on: 2024-06-26T16:47:35.743575
+
+
+
+------
+Dukedom (video game)
+{{short description|1976 video game}}
+{{Infobox video game
+| title = Dukedom
+| image = Dukedom Screenshot.jpg
+| caption = 
+| developer = Vince Talbot
+| publisher = 
+| composer = 
+| release = 1976
+| genre = [[Turn-based strategy]]
+| modes = 
+| platforms = [[PL/1]], [[Personal computer]]
+}}
+'''''Dukedom''''' is a [[turn-based strategy]] [[Text-based game|text-based]] [[video game]] about land management and was created as an expanded version of ''[[Hamurabi (video game)|Hamurabi]]''.
+
+== Gameplay ==
+
+The player is one of several Dukes chosen by the High King to help run the Kingdom. Their Duchy is not in the best of shape, the gameplay goal is to build up its population, land holdings, and grain reserves, ultimately hoping to become powerful enough to overthrow the High King.
+
+The player has to manage their duchy, while paying taxes and sending, on occasion, peasants to the King's service, undergoing [[epidemics]], [[locusts]] and rival lords secretly helped by the High King; they can buy and sell land, itself divided in several categories depending on [[Fertility (soil)|fertility]], and engaging in [[Offensive (military)|offensive]] or [[defensive war]]fare, sending both subjects and [[mercenaries]] against the enemy and winning land and grain.
+
+== Development ==
+
+Dukedom was written in [[PL/I]] D by Vince Talbot in 1976 as an expanded version of ''Kingdom'', which itself is an expanded version of ''[[Hamurabi (video game)|Hamurabi]]''. The game was rewritten (with extensive revision) in I.T.S. EXBASIC by Jamie E. Hanrahan. It was adapted for /GAMES/ by David C. Barber. It was re-written from I.T.S. EXBASIC to [[Hewlett-Packard]] level F BASIC then to [[Digital Equipment Corporation|DEC]] [[RSTS/E]] [[BASIC-PLUS]].<ref>{{cite web|url=http://dukedomsbv.codeplex.com/documentation|title=CodePlex Archive|website=CodePlex Archive}}</ref>
+
+The game was converted to [[Microsoft BASIC]] by [[Richard A. Kaapke]]. The BASIC version appeared in [[Creative Computing]] in February 1980 and was republished in ''Big Computer Games'' (1984).<ref>{{cite web|url=http://www.atariarchives.org/bigcomputergames/showpage.php?page=11|title=Big Computer Games: Dukedom - Challenging land management game|website=www.atariarchives.org}}</ref>
+
+A [[Small Basic]] version called ''Dukedom Small Basic Version'' exists in [[source code]] form on [[CodePlex]].{{cn|date=November 2018}}
+
+A complete [[Python (programming language)|Python]] version is also available on [[GitHub]].<ref>{{Cite web|url = https://github.com/fruitnuke/retro/tree/master/dukedom|title = retro/dukedom|date = |accessdate = November 29, 2014|website = [[GitHub]]|publisher = |last = |first = }}</ref>
+
+It inspired the game ''Manor'', which purported to be more historically accurate.<ref>{{Cite web|url = http://peyre.x10.mx/GWBASIC/index.htm#Manor |title = Back to BASICs |date = |accessdate = November 29, 2014|website = Leon's Web Pages|publisher = |author = Leon}}</ref><ref>{{Cite web|url = http://mmreference.com/product/manor/|title = Manor|date = |accessdate = November 29, 2014|website = MMReference|publisher = |last = |first = |archive-url = https://web.archive.org/web/20141204104645/http://mmreference.com/product/manor/|archive-date = December 4, 2014|url-status = dead}}</ref>
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+*[http://www.atariarchives.org/bigcomputergames/index.php 1984 Big Computer Games] edited by [[David H. Ahl]]
+
+[[Category:Strategy video games]]
+[[Category:City-building games]]
+[[Category:1976 video games]]
+[[Category:Video games set in the Middle Ages]]
+[[Category:Video games with textual graphics]]
+[[Category:Public-domain software with source code]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with available source code]]

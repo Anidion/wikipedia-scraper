@@ -1,0 +1,47 @@
+Gorgon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Gorgon_%28video_game%29&oldid=1130861245
+Accessed on: 2024-06-26T16:52:19.750499
+
+
+
+------
+Gorgon (video game)
+{{Infobox video game
+| title          = Gorgon
+| image          = Gorgon coverart.png
+| caption        = 
+| developer      = [[Sirius Software]]
+| publisher      = [[Sirius Software]]
+| designer       = [[Nasir Gebelli]]<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+| released       = June 1981
+| genre          = [[Scrolling shooter]]
+| modes          = [[Single-player]]
+| platforms      = [[Apple II]]
+}}
+
+'''''Gorgon''''' is a [[video game clone|clone]] of the [[arcade game]] ''[[Defender (1981 video game)|Defender]]'', a [[scrolling shooter|horizontally-scrolling shooter]], for the [[Apple II]]. It was programmed by [[Nasir Gebelli]] and published by [[Sirius Software]]{{r|callamaras198112}} in June 1981.<ref name="giantlist"/>
+
+==Gameplay==
+[[File:Gorgon.png|thumb|right|Gameplay screenshot]]
+In ''Gorgon'', the player flies a spaceship across a side-scrolling landscape while protecting civilians on the ground from aliens that drop down from the top of the screen to try to carry them off.<ref name="manual">{{cite web |title=Gorgon Manual |url=https://archive.org/details/Gorgon_Apple_Manual |website=archive.org}}</ref>
+
+The game uses keyboard controls, with the <code>A</code>, <code>Z</code>, and left/right arrow keys for movement and the space bar for firing.<ref name=manual/>
+
+==Development==
+The graphics were drawn with Sirius's own E-Z Draw software (1980).<ref name=manual/>
+
+==Reception==
+By June 1982, ''Gorgon'' had sold 23,000 copies, making it one of the [[List of best-selling PC video games|best-selling computer games]] at the time.<ref name="cgw_1982">{{Cite magazine|magazine=[[Computer Gaming World]]|date=September–October 1982|volume=2|issue=5|page=2|url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=6 | title=List of Top Sellers}}</ref> [[Bill Kunkel (journalist)|Bill Kunkel]] of ''[[Electronic Games]]'' called the game "another winner from ace designer Nasir" and "fine home version" of ''Defender'', only criticizing the Apple II's lack of joystick support at the time.<ref name="eg198101">{{cite news | url=https://archive.org/stream/electronic-games-magazine-premiere/Electronic_Games_Issue_01_Vol_01_01_1981_Winter_Premiere#page/n57/mode/2up/search/raiders | title=Computer Playland | work=Electronic Games | date=January 1981 | accessdate=28 January 2015 | pages=38}}</ref> ''[[Byte (magazine)|BYTE]]'' stated that ''Gorgon'' "is well programmed and much more enjoyable than the arcade version [and] should provide many hours of enjoyment ... 
+Rest assured that you Nasir Gebelli fans will not be disappointed by this one!"<ref name="callamaras198112">{{cite news | url=https://archive.org/stream/byte-magazine-1981-12/1981_12_BYTE_06-12_Computer_Games#page/n91/mode/2up | title=Gorgon | work=BYTE | date=December 1981 | accessdate=19 October 2013 | author=Callamaras, Peter V | pages=90}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Sirius Software games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

@@ -1,0 +1,52 @@
+Adventure in Time
+Permalink: //en.wikipedia.org/w/index.php?title=Adventure_in_Time&oldid=1224116383
+Accessed on: 2024-06-26T16:52:02.968474
+
+
+
+------
+Adventure in Time
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Adventure in Time
+| image = Adventure in Time (video game) boxart.jpg
+| alt = 
+| caption = 
+| developer = 
+| publisher = Phoenix Software
+| series = 
+| engine = 
+| platforms = [[Apple II]], [[Atari 8-bit]]
+| released = '''1981:''' Apple II<ref>{{cite AV media notes |title=Adventure in Time |year=1981 |url=https://mocagh.org/miscgame/advintime-manual.pdf |author=Staff writer |pages=1–2 |type=Manual |publisher=Phoenix Software |location=[[Lake Zurich, Illinois]] |via=Museum of Computer Adventure Game History}}</ref><br>'''1983:''' Atari 8-bit
+| genre = [[Interactive fiction]]
+| modes = 
+| designer= Paul Berker
+}}
+
+'''''Adventure in Time''''' is a [[text adventure]] written by Paul Berker for the [[Apple II]]. It was published in 1981 by Phoenix Software, followed by a version for [[Atari 8-bit computers]] in 1983.<ref name="mania">{{cite web |title=Adventure in Time |url=http://www.atarimania.com/game-atari-400-800-xl-xe-adventure-in-time_115.html |website=Atari Mania}}</ref>
+
+By means of text descriptions and two word text commands, the player travels through four locations in time, attempting to find and kill Nostradamus before he assembles a world destroying weapon.<ref name="Schuette1984">{{cite book |last=Schuette |first=Kim |year=1984 |title=The Book of Adventure Games |url=https://archive.org/details/the-book-of-adventure-games |publisher=Arrays, Inc. |pages=[https://archive.org/details/the-book-of-adventure-games/page/n25 16]–18, 249 |isbn=0-912003-08-1}}</ref><ref>{{cite book |editor-last1=Fleig |editor-first=Barry A. |editor-last2=Cutler |editor-first2=Robert F. |editor-last3=Chekel |editor-first3=Tom C. |date=1 January 1983 |title=The Blue Book for the Atari Computer |url=https://archive.org/details/The_Blue_Book/page/n154 |publisher=WIDL Video |series=The Blue Book Family of Computer Directories |edition=1st |page=112 |isbn=9780684179216 |via=[[Internet Archive]]}}</ref>
+
+==Development==
+''Adventure in Time'' was the first game released by Illinois software company Phoenix Software, after developer Ron Unrath contacted programmer Paul Berker about writing an adventure game for the Apple II in 1980.<ref>{{cite web |url=http://gue.cgwmuseum.org/galleries/index.php?pub=1&item=5&id=2&key=0 |year=2006 |title=Adventure in Time |author=Staff writer |website=Gallery of Undiscovered Entities}}</ref><ref>{{cite podcast |url=http://ataripodcast.libsyn.com/antic-interview-254-paul-berker-adventure-in-time-and-birth-of-the-phoenix |title=ANTIC Interview 254 - Paul Berker: Adventure in Time and Birth of the Phoenix |website=ANTIC The Atari 8-bit Podcast |host= Randy Kindig |date=19 November 2016 |access-date=17 November 2018}}</ref>
+
+==Reception==
+[[Rudy Kraft]] reviewed ''Adventure in Time'' in ''[[The Space Gamer]]'' No. 49.<ref name="SG">{{cite magazine |last= Kraft |first= Rudy |author-link=Rudy Kraft |date=March 1982 |title=Capsule Reviews |magazine=[[The Space Gamer]] |publisher=[[Steve Jackson Games]] |issue=49 |pages=33}}</ref> Kraft commented that "Although the game does provide a little fun, there are many better games on the market. Your money would be better spent on one of them."<ref name="SG"/> Mike Flyn of ''Hardcore Computing'' commented that while it was relatively easy, "I also found it to be rather entertaining, and on that note I do recommend it."<ref>{{cite magazine |last=Flynn |first=Mike |year=1982 |title=Adventure Tips |url=https://archive.org/details/hardcore-computing-3 |magazine=[[Computist|Hardcore Computing]] |publisher=Softkey Publishing |location=Tacoma, Washington |volume=1 |issue=3 |pages=[https://archive.org/details/hardcore-computing-3/page/n51 18], 50 |via=[[Internet Archive]]}}</ref> In ''[[The Book of Adventure Games]]'', Kim Schuette commented that "The crisp, quick response, tongue-in-cheek style, and save option further add to the game's appeal."<ref name="Schuette1984"/> ''[[Softalk]]'' magazine compared the game to the works of [[Scott Adams (game designer)|Scott Adams]]. Editor [[Margot Comstock]] considered the majority of puzzles in the game to be straight-forward and not too difficult. She noted several unavoidable death traps that reminded her of Adams' game design.<ref>{{cite magazine | author=Margot Comstock | date=1981-09-01 | title=Marketalk | url= | magazine=Softalk | page=70 | location=North Hollywood | publisher=Softalk Publishing | access-date= | volume=2 | issue=1}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Internet Archive game|a8b_Adventure_in_Time_1983_Phoenix_Software_US_k_file}}
+* {{IFDB|id=wl6280s5mg75wepf}}
+* [https://archive.org/details/tboacs1982/page/264/mode/2up Review] in ''The Book Of Apple Computer Software 1982''
+
+[[Category:1980s interactive fiction]]
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Video games about dinosaurs]]
+[[Category:Video games about time travel]]
+[[Category:Video games developed in the United States]]

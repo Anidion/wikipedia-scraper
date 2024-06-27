@@ -1,0 +1,109 @@
+The Hobbit (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Hobbit_%281982_video_game%29&oldid=1212546176
+Accessed on: 2024-06-26T16:53:31.033430
+
+
+
+------
+The Hobbit (1982 video game)
+{{Use British English|date=January 2022}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox video game
+|title = The Hobbit
+|image = Hobbit adventure packaging.jpg
+|caption = ZX Spectrum cover art
+|developer = [[Beam Software]]
+|publisher = [[Krome Studios Melbourne|Melbourne House]]
+|designer = [[Veronika Megler]]<br />Philip Mitchell
+|engine =
+|released = {{vgrelease|PAL|[[1982 in video gaming|November 1982]]<ref>{{cite magazine |title=Special Feature: Happy Birthday! |magazine=[[Popular Computing Weekly]] |date=1 May 1987 |pages=14–8 |url=https://archive.org/details/popular-computing-weekly-1987-05-01/page/n13/mode/2up}}</ref>}}
+|genre = [[Interactive fiction]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = {{plainlist|
+* [[Amstrad CPC]]
+* [[Apple II]]
+* [[BBC Micro]]
+* [[Commodore 64]]
+* [[Dragon 64]]
+* [[IBM PC]]
+* [[Macintosh]]
+* [[Oric computers|Oric]]
+* [[MSX]]
+* [[ZX Spectrum]]}}
+}}
+
+'''''The Hobbit''''' is an [[interactive fiction|illustrated text adventure]] computer game released in 1982 for the [[ZX Spectrum]] home computer and based on the 1937 book ''[[The Hobbit]]'', by [[J. R. R. Tolkien]]. It was developed at [[Beam Software]] by Philip Mitchell and [[Veronika Megler]]<ref name=TheRegister>{{cite web | url=http://www.reghardware.com/2012/11/18/hobbit_author_veronika_megler_reminisces/ | title=Author of 80's classic The Hobbit didn't know game was a hit | website=The Register | date=2012-11-18 | author=Simon Sharwood | access-date=2012-11-18}}</ref><ref>Original game packaging</ref> and published by [[Krome Studios Melbourne|Melbourne House]]. It was later converted to most [[home computer]]s available at the time including the [[Commodore 64]], [[BBC Micro]], and [[Oric computers]].<ref>{{cite journal|title=Hobbit Ringers|journal=Personal Computer Games|date=February 1984|issue=3|pages=4|url=https://archive.org/details/Personal_Computer_Games_Issue03/page/n5/mode/2up|access-date=3 May 2016}}</ref> By arrangement with the book publishers, a copy of the book was included with each game sold.
+
+The [[parsing|parser]] was very advanced for the time and used a subset of English called ''Inglish''.<ref name="maher20121116">{{cite web | url=http://www.filfre.net/2012/11/the-hobbit/ | title=The Hobbit | work=The Digital Antiquarian | date=2012-11-16 | access-date=10 October 2014 | author=Maher, Jimmy}}</ref><ref name="HobbitFandom">[http://playitagainproject.org/ruminations-on-the-hobbit-fandom/ Ruminations On "The Hobbit" Fandom] {{Webarchive|url=https://web.archive.org/web/20141010063858/http://playitagainproject.org/ruminations-on-the-hobbit-fandom/ |date=2014-10-10}}</ref> When it was released, most adventure games used simple verb-noun parsers (allowing for simple phrases like "get lamp"), but Inglish allowed the player to type advanced sentences such as "ask [[Gandalf]] about the curious map then take sword and kill troll with it". The parser was complex and intuitive, introducing pronouns, adverbs ("viciously attack the goblin"), punctuation and prepositions and allowing the player to interact with the game world in ways not previously possible.
+
+==Gameplay==
+Many locations are illustrated by an image, based on originals designed by Kent Rees. On the tape version, to save space, each image was stored in a compressed format by storing outline information and then [[flood fill]]ing the enclosed areas on the screen.<ref name="PGarrat">[https://wos.meulie.net/pub/sinclair/magazines/ZXComputing/Issue8304/Pages/ZXComputing830400076.jpg "The Hobbit: Phil Garratt, after a brief sojourn in Middle Earth, takes time off to tell us what he found there"] Garratt, Phil (1983) ''ZX Computing'' issue 8304, page 76</ref> The slow CPU speed meant that it would take up to several seconds for each scene to draw. The disk-based versions of the game used pre-rendered, higher-quality images.
+
+The game has an innovative text-based physics system, developed by Veronika Megler.<ref name="HobbitLady">{{cite web | url=http://www.avventuretestuali.com/interviste/megler-eng/ | title=The Hobbit and his Lady | work=L'avventura è l'avventura | date=April 2002 | access-date=10 October 2014}}</ref> Objects, including the characters in the game, have a calculated size, weight, and solidity. Objects can be placed inside other objects, attached together with rope and damaged or broken. If the main character is sitting in a barrel and this barrel is then picked up and thrown through a trapdoor, the player would go through.
+
+Unlike other works of interactive fiction, the game is also in real time, insofar as a period of idleness causes the "WAIT" command to be automatically invoked and the possibility of events occurring as a result. This can be suppressed by entering the "PAUSE" command, which stops all events until a key is pressed.
+
+The game has a cast of [[non-player character]]s (NPCs) entirely independent of the player and bound to precisely the same game rules. They have loyalties, strengths, and personalities that affect their behaviour and cannot always be predicted. The character of [[Gandalf]], for example, would roam freely around the game world (some fifty locations), picking up objects, getting into fights and being captured.
+
+The volatility of the characters, coupled with the rich physics and impossible-to-predict fighting system, enabled the game to be played in many different ways, though this would also lead to problems (such as an important character being killed early on). There are numerous possible solutions and with hindsight, the game might be regarded as one of the first examples of [[emergent gameplay]]. This also resulted, however, in many bugs; for example, during development Megler found that the animal NPCs killed each other before the player arrived. The game's documentation warned that "Due to the immense size and complexity of this game it is impossible to guarantee that it will ever be completely error-free". Melbourne House issued a version 1.1 with some fixes, but with another bug that resulted in the game being [[unwinnable]], forcing it to release version 1.2, and the company never fixed all bugs.{{r|maher20121116}}
+
+==Development==
+Beam acquired the licence for computer rights to ''The Hobbit'' in 1980.<ref name="history"/>
+
+==Reception==
+''[[Info (magazine)|Info]]'' in 1985 rated ''The Hobbit'' on the Commodore 64 three-plus stars out of five, stating that the graphics were "pleasant but no show-stoppers", and that the game's parser and puzzles were "typical of most adventures today". The magazine concluded that "Tolkien fans will most likely be pleased with this title".<ref name="info198601">{{Cite magazine | last1=Dunnington | first1=Benn | last2=Brown | first2=Mark R. | date=December 1985 – January 1986 | url=https://archive.org/stream/info-magazine-09/Info_Issue_09_1985_Dec-Jan_1986#page/n5/mode/2up | title=C-64/128 Gallery | magazine=Info | pages=4-5,88-93 | access-date=2019-03-19}}</ref>
+
+''The Hobbit'' was a bestseller in the UK on the ZX Spectrum in 1983<ref>{{cite journal|title=Melbourne House Advertisement|journal=Sinclair User|date=April 1983|issue=13|pages=4|url=https://wos.meulie.net/pub/sinclair/magazines/SinclairUser/Issue013/Pages/SinclairUser01300004.jpg|access-date=3 May 2016}}</ref> and on both the C64 and BBC by the end of the year.<ref>[https://wos.meulie.net/pub/sinclair/magazines/C+VG/Issue028/Pages/CVG02800163.jpg "Chart Toppers"], [[C&VG]] issue 28, page 163,</ref> The game won the 1983 [[Golden Joystick Award]] for best strategy game.<ref name="C&VG">[https://wos.meulie.net/pub/sinclair/magazines/C+VG/Issue029/Pages/CVG02900015.jpg "The Golden Joystick Award"], [[C&VG]] issue 29, page 15</ref> The game was also a huge commercial success, selling over 100,000 copies in its first two years at a retail price of £14.95.<ref name="adventuring1984">Mike Gerrard: ''Adventuring into an Unknown World''. In: The Guardian, 1984-08-30, section Micro Guardian/Futures, page 13.</ref> The game sold over 500,000 units in Europe.<ref name="history">{{cite web|url=http://www.beam.com.au/E3/comphist.htm|archive-url=https://web.archive.org/web/19971021035824/http://www.beam.com.au/E3/comphist.htm|title=Beam Software Company History|website=beam.com.au|archive-date=October 21, 1997|access-date=March 17, 2022}}</ref><ref>{{cite web|first=Fred|last=Milgrom|url=https://www.newspapers.com/clip/97755746/the-age/|title=Innovator keeps firing|newspaper=[[The Age]]|page=14|date=September 29, 1997|access-date=March 17, 2022|via=[[Newspapers.com]]}}</ref> The use of images on many of the locations as opposed to mostly text-only adventure games of the time, the flexibility of the ''Inglish'' parser, the innovative independence of the non-player characters, the popularity of Tolkien's work, all contributed to the game's phenomenal success.
+
+In 1989, ''[[Macworld]]'' reviewed the Macintosh versions of ''The Hobbit'', ''[[Lord of the Rings: Game One|The Fellowship of the Ring]]'' and ''[[Shadows of Mordor|The Shadows of Mordor]]'' simultaneously, criticising ''The Hobbit'', calling it "particularly clumsy" as it is "handicapped by a 400-word input vocabulary" as opposed to the latter two games' 800 words. ''Macworld'' called ''The Fellowship of the Ring'' "particularly intricate" and recommended it as an entry point to the series as opposed to ''The Hobbit''. They praised ''The Hobbit's'' graphics, but stated that in the later titles the art adds little to the games' overall appeal. Furthermore, ''Macworld'' criticised the dated and rigid nature of the text-adventure format (although conceding that "the programming was undertaken almost a decade ago"),<ref>{{cite magazine|last = McCandless|first = Keith|title = New Hobbits For Old|date = May 1989|url = https://archive.org/details/MacWorld_8905_May_1989/page/n219|magazine = Macworld|publisher = Mac Publishing|page = 209}}</ref> but acknowledged that the three games were "literate and faithful in spirit to original books".
+
+==Legacy==
+To help players, a book called ''A Guide to Playing The Hobbit'' by David Elkan was published in 1984.<ref>David Elkan: ''A Guide to Playing the Hobbit''. Melbourne House, 1984, {{ISBN|0-86161-161-6}}</ref>
+
+Developer Beam Software followed up ''The Hobbit'' with 1985's ''[[Lord of the Rings: Game One]]'', 1987's ''[[Shadows of Mordor|Shadows of Mordor: Game Two of Lord of the Rings]]'', and 1989's ''The Crack of Doom''. They would also reuse Inglish in ''[[Sherlock (video game)|Sherlock]]''.
+
+In 1986, a parody of the game was released by [[CRL Group|CRL]], ''[[The Boggit]]''.
+
+A phrase from the game which has entered [[popular culture]] is "Thorin sits down and starts singing about gold".<ref>{{cite journal|last=Campbell |first=Stuart |url=https://archive.org/stream/your-sinclair-72/YourSinclair_72_Dec_1991#page/n27/mode/2up |title= Top 100 Speccy Games |journal=[[Your Sinclair]] |issue= 72 |date= December 1991 |page=28}}</ref>
+
+Also, the game is mentioned in [[Nick Montfort]]'s, ''Twisty Little Passages'', a book exploring the history and form of the interactive fiction genre.
+
+''[[Discworld Noir]]'' references ''The Hobbit'': when the protagonist, Lewton, discovers that someone concealed themselves in a wine barrel, he wonders why that brings to mind the phrases "You wait – time passes" and "Thorin sits down and starts singing about gold".
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/hobbit|name=''The Hobbit''}}
+* {{WoS game|id=0006440|name=The Hobbit}}
+* {{Internet Archive game|msdos_Hobbit_The_1983}}
+* [http://www.lysator.liu.se/tolkien-games/entry/hobbit.html Tolkien computer games]
+* {{dmoz|Games/Video_Games/Adventure/Text_Adventures/Tolkien_Series,_The/Hobbit,_The|The Hobbit}}
+* [http://www.avventuretestuali.com/interviste/megler-eng Interview of Veronika Megler about 'The Hobbit' development]
+* [http://veronikamegler.com/WL/wl.htm Wilderland emulator which shows what's going on 'behind the scene' in the ZX Spectrum version]
+* {{IFDB|id=6dzy6mc93tf0nzfs|title=The Hobbit}}
+* [https://if50.substack.com/p/1982-the-hobbit "1982: The Hobbit" from 50 Years of Text Games]
+
+{{Hobbit}}
+{{Middle-earth video games}}
+{{DEFAULTSORT:Hobbit, The}}
+
+[[Category:1980s interactive fiction]]
+[[Category:Interactive fiction based on works]]
+[[Category:1982 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Beam Software games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:Dragon 32 games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:MSX games]]
+[[Category:Oric games]]
+[[Category:Works based on The Hobbit]]
+[[Category:Video games about dragons]]
+[[Category:Video games based on Middle-earth]]
+[[Category:Video games developed in Australia]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

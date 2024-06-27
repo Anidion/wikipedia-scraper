@@ -1,0 +1,87 @@
+Jr. Pac-Man
+Permalink: //en.wikipedia.org/w/index.php?title=Jr._Pac-Man&oldid=1230179613
+Accessed on: 2024-06-26T16:55:13.754499
+
+
+
+------
+Jr. Pac-Man
+{{Short description|1983 video game}}
+{{Distinguish|Baby Pac-Man}}
+{{More citations needed|date=July 2019}}
+{{Infobox video game
+| title = Jr. Pac-Man
+| developer =  [[General Computer Corporation]]
+| publisher = {{vgrelease|NA|[[Midway Games|Bally Midway]]{{sfn|Grannell|p=67}}}}{{vgrelease|[[North America|NA]]/[[Europe|EU]]|[[Namco]]}}{{fact|date=June 2022}}
+| image = Jr pac flyer.png
+| caption = Arcade flyer
+|released = '''Arcade'''{{vgrelease|NA|1983}}'''Atari 2600'''{{vgrelease|NA|October 1986}}'''MS-DOS'''{{vgrelease|NA|1988}}'''C64'''{{vgrelease|NA|1988}}
+| genre = [[Maze game|Maze]]
+| modes = 1-2 players alternating turns
+| arcade system = [[Namco Pac-Man]]
+| designer = Tim Hoskins
+|series  = ''[[List of Pac-Man video games|Pac-Man]]''
+| platforms = [[Arcade video game|Arcade]], [[Atari 2600]], [[Commodore 64]], [[MS-DOS]]
+}}
+
+'''''Jr. Pac-Man''''' is an [[arcade video game]] developed by [[General Computer Corporation]]<ref>{{Cite web|url = https://www.fastcompany.com/3067296/the-mit-dropouts-who-created-ms-pac-man-a-35th-anniversary-oral-history|title = The MIT Dropouts Who Created Ms. Pac-Man: A 35th-Anniversary Oral History|date = 3 February 2017|access-date = 12 January 2022|archive-date = 15 June 2018|archive-url = https://web.archive.org/web/20180615004912/https://www.fastcompany.com/3067296/the-mit-dropouts-who-created-ms-pac-man-a-35th-anniversary-oral-history|url-status = live}}</ref> and released by [[Midway Games|Bally Midway]] in 1983. It has the same gameplay as prior entries in the series, but the maze in ''Jr. Pac-Man'' scrolls horizontally and has no escape tunnels. The bonus item which moves around the maze changes dots into a form which slows Jr. Pac-Man as they are being eaten.
+
+==Gameplay==
+[[Image:Jrpacman.tim.png|thumb|left|Title screen]]
+
+The core gameplay of ''Jr. Pac-Man'' is similar to its predecessors. The player controls the eponymous Jr. Pac-Man (who wears an animated [[propeller beanie]]), and scores points by eating all of the dots in the maze, while [[Ghosts (Pac-Man)|four ghosts]] (Blinky, Pinky, Inky, and Tim, who replaces Clyde) chase him around the maze and attempt to catch him. Eating a power pellet turns the ghosts blue, briefly allowing the player to eat them for extra points. Once the maze is cleared, a new maze is presented and the gameplay continues.
+
+The mazes are now twice the width of the monitor and scroll horizontally. A total of seven mazes appear throughout the game, and five of them have six power pellets instead of four, but none of them have tunnels that [[wraparound (video games)|wrap around]] from one side of the screen to the other.
+
+Bonus items (such as tricycles, kites, and balloons) appear in each round, starting above the ghosts' lair and moving around the maze as in ''[[Ms. Pac-Man]]''. As an item encounters dots, it changes them into larger ones that award more points but slow Jr. Pac-Man down while he is eating them. After a certain length of time, the item will move toward one of the remaining power pellets (if any) and explode on contact if not eaten, destroying both itself and the pellet. Contact between Jr. Pac-Man and a non-vulnerable ghost costs the player one life and makes any large dots either disappear or revert to normal ones, depending on how many dots overall are left in the maze.
+
+The between-level intermissions show the developing relationship between Jr. Pac-Man and a small red ghost named Yum-Yum who is apparently the daughter of Blinky.
+
+==Development==
+Tim Hoskins worked at [[General Computer Corporation]] (GCC) as ''Jr. Pac-Man''{{'}}s project lead. Hoskins recalled that GCC's founder Doug Macrae came up with the idea of ''Jr. Pac-Man'' as a project to develop referring to the game as ''Pac-Baby'' in his project notes. Macrae echoed this, while adding that  in their previous game ''[[Ms. Pac-Man]]'' they had created intermissions involving Ms. Pac-Man and Pac-Man meeting with "Junior Arriving" being the third and final intermission. As ''Pac-Man'' and ''Jr. Pac-Man'' were what Macrae described as "huge successes", the continued with the series.{{sfn|Grannell|p=67}} During this period in Arcade development, they had the option to develop the game as new arcade cabinet or implement a new hardware kit. Macrae had etched out a plan that involved editing the original ''Pac-Man'' kits which changed the collectible items of fruits in the original to baby-oriented items. He developed new gameplay that would allow the maze to scroll horizontally.{{sfn|Grannell|p=67}}
+
+Just like with ''Ms. Pac-Man'', there was no source code available to the team to develop the game, leading the team to have to reverse-engineer ''Pac-Man'' from [[ROM image|ROM dumps]]. Unlike ''Ms. Pac-Man'' which was developed in a few weeks, ''Jr. Pac-Man'' took months to make. Situations involving adding scrolling to the map led to difficulties handling items such a when the ghosts were off screen.{{sfn|Grannell|p=67}} When investigating the ''Pac-Man'' ROM, the found unused elements such as a "fat dot"  and another that resembled a flame. This led the team to hypothesize what these items may have done, leading them to introduce a fat dot which slowed the player down even more than regular dots did when Jr. Pac-Man ate them. For the bouncing toys, they thought of the flame items they discovered and decided to implement an explosion when the fat dot interacted a power pellet, giving the player urgency to collect the toy item before risking losing a power pellet. They also had it so if the player had died in the game, the fat dots would vanish. This was implemented to encourage more skilled players to collect them as they were worth more points.{{sfn|Grannell|p=69}}
+
+The team also adjusted graphics from the original game, giving Jr. Pac-Man a twirling beanie-cap and giving the game a lower-case font.{{sfn|Grannell|p=67-68}} The group experimented with several ways to show the characters death-sequence, eventually settling on having him shrink down only leaving his beanie-cap. Earlier experiments were coarsers including having Jr. Pac-Man pause then slowly ooze a red substance before the top of his body fell off. {{sfn|Grannell|p=68}} The team described creating the new intermissions as difficult, involving creating new graphics and software to drive them.{{sfn|Grannell|p=68}}
+
+The game would be the final ''Pac-Man'' game made by GCC. Hoskins envisioned other ideas to potentially make as a follow-up, such as a ''Pac-Man'' game from a first-person perspective but this was never made. {{sfn|Grannell|p=69}}
+
+==Ports==
+The [[Atari 2600]] version of the game was programmed in 1984 by Ava Robin-Cohen of GCC. The game was not released until 1986 when the Atari 2600 was experiencing what game historian Brett Weiss described as "a resurgence of sorts" after [[Nintendo]] had success in the marketplace with the [[Nintendo Entertainment System]].{{sfn|Weiss|2014|p=119}} Atari had just re-released the system a smaller budget-priced revision in 1986.<ref name="Atari50">{{cite video game |title=Atari 50 |developer=[[Digital Eclipse]] |publisher=[[Atari SA|Atari]] |date=November 11, 2022 |platform=Nintendo Switch |quote='''Highs and Lows: The 2600 "Jr."''': In addition to the 7800, Atari also rolled out a smaller, budget-priced revision of the 2600. Retailing for just $49.99, it was a very affordable alternative, and Atari began to put more 2600 games on the shelves.}}</ref> ''Jr. Pac-Man'' was released for the Atari 2600 in October 1986.<ref>{{cite magazine|magazine=[[Computer Entertainer|The Video Game Update]]|date=November 1986|page=14|title=Availability Update}}</ref>
+
+Ports for the [[Atari 5200]] and the [[Atari 8-bit computers]] were finished in 1984, but were scrapped along with ''[[Super Pac-Man]]'' when the home divisions of [[Atari, Inc.|Atari]] were sold to [[Jack Tramiel]].<ref>{{cite web |url=http://www.atariprotos.com/5200/software/jrpacman/jrpacman.htm |title=Jr. Pac-Man (Atari 5200) |last=Reichert |first=Matt |work=AtariProtos.com |access-date=2011-03-05 |archive-date=2011-04-29 |archive-url=https://web.archive.org/web/20110429063422/http://www.atariprotos.com/5200/software/jrpacman/jrpacman.htm |url-status=live }}</ref><ref>{{cite web |url=http://www.atariprotos.com/8bit/software/jrpacman/jrpacman.htm |title=Jr. Pac-Man (Atari 8-bit) |last=Reichert |first=Matt |work=AtariProtos.com |access-date=2011-03-05 |archive-date=2011-07-07 |archive-url=https://web.archive.org/web/20110707182033/http://www.atariprotos.com/8bit/software/jrpacman/jrpacman.htm |url-status=live }}</ref>
+
+An unofficial port for the [[Atari 7800]] was published in 2009 by [[AtariAge]].
+
+==References==
+{{reflist}}
+
+===Sources===
+
+* {{cite magazine|title=The Making of: Jr Pac-Man|last=Grannell|first=Craig|magazine=[[Retro Gamer]]|issue=85}}
+* {{cite book|title=The 100 Greatest Console Video Games 1977-1987|last=Weiss|first=Brett|year=2014|isbn=978-0-7643-4618-7|publisher=[[Schiffer Publishing]]}}
+
+==External links==
+* {{KLOV game|id=8246}}
+* [http://www.arcade-history.com/?page=detail&id=1232 ''Jr. Pac-Man''] at the Arcade History database
+* {{atarimania|id=18225}}
+* {{lemon64 game|id=1389|name=Jr. Pac-Man}}
+* [https://web.archive.org/web/20050318015549/http://www.classicgaming.com/pac-man/Pac-Games/JrPacMan/ ClassicGaming.com entry on ''Jr. Pac-Man''] with screenshots of all the mazes and cutscenes
+
+{{Pac-Man series}}
+{{Portal bar|Video games|1980s}}
+
+[[Category:1983 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Cancelled Atari 5200 games]]
+[[Category:Cancelled Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:General Computer Corporation games]]
+[[Category:Maze games]]
+[[Category:Midway video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Pac-Man arcade games]]
+[[Category:Unauthorized video games]]
+[[Category:Video games about children]]
+[[Category:Video games developed in the United States]]

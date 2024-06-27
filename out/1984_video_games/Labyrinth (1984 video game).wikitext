@@ -1,0 +1,57 @@
+Labyrinth (1984 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Labyrinth_%281984_video_game%29&oldid=1120985047
+Accessed on: 2024-06-26T16:57:05.965019
+
+
+
+------
+Labyrinth (1984 video game)
+{{Infobox video game
+| title     = Labyrinth
+| image     = Acornsoft_Labyrinth_for_the_BBC_Micro_package.jpg
+| caption   = 
+| developer = Michael Mathison
+| publisher = [[Acornsoft]]
+| designer  = 
+| engine    = 
+| released  = 1984
+| genre     = [[Action-adventure game|Action-adventure]]
+| modes     = [[Single-player]]
+| platforms = [[BBC Micro]]
+}}
+
+'''''Labyrinth''''' is an [[action-adventure game]] published in 1984 by [[Acornsoft]] for the [[BBC Micro]]. Its author, Michael Mathison, describes it as: 
+{{blockquote|text=an amalgam of what I'd seen and liked visually and I wanted to make something like an 'arcade' version of an adventure game - with lots of creatures and lots of running around shooting at things but also with some simple puzzle elements.<ref>{{cite book |title=Acorn - A World in Pixels |publisher=idesign publishing ltd |location=Interview with Michael Mathison |isbn=978-1-903527-24-5 |pages=306–307 |edition=first}}</ref>}}
+
+==Gameplay==
+Labyrinth consists of a complex [[labyrinth]] made up of multiple [[level (computer and video games)|levels]]. Each level is made up of a number of rooms, with the player only able to see a single room at any one time. Doorways are provided allowing the player to move between rooms.
+
+Each level contains two special rooms: the "Gate Room," and the "Key Room". The Gate Room contains the doorway to the next level which is barred by a deadly forcefield. The Key Room contains a magical crystal which will remove the forcefield, and is generally the most well-guarded and dangerous room in the level.
+
+Rooms are populated with a variety of [[monster]]s which become more dangerous as the [[player (game)|player]] progresses through the game as they move more quickly, shoot at the player, or lay poisonous mushrooms. The player can choose to avoid the various monsters (though they may well follow the player through the labyrinth), or try to kill them by [[shooting]] at them (though some monsters are invulnerable in this way and reflect the shots back), or squash them with a "boulder" that the player is able to push around with them as they travel (trickier and more risky than shooting and therefore scores more points).  Colliding with a monster will kill it but causes the player to lose health, often leading to the player's death.
+
+Different types of fruit are scattered throughout the labyrinth, which will increase the player's [[health]] when eaten. The player slowly loses health at all times while in the Labyrinth, and will eventually die if they don't progress through the game.
+
+==Legacy==
+In 1987 the game was reissued on [[Superior Software]]'s ''Acornsoft Hits'' compilation.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.bbcmicro.co.uk/game.php?id=2869 BBC Micro Games Archive]
+* [http://www.stairwaytohell.com/gamehelp/MAP-Labyrinth-JK.html Game maps]
+* [ftp://8bitfiles.net/bbc8bits/Extras/manuals/Scans/Labyrinth Instruction leaflet and poster] accompanying the game
+* [http://chrisacorns.computinghistory.org.uk/Ephemera/Acornsoft_Labyrinth_Badge.html Promotional badge] produced by Acornsoft
+
+{{Acornsoft}}
+
+[[Category:1984 video games]]
+[[Category:Action-adventure games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Acornsoft games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]
+
+{{8bitcomputer-game-stub}}

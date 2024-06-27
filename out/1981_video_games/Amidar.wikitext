@@ -1,0 +1,80 @@
+Amidar
+Permalink: //en.wikipedia.org/w/index.php?title=Amidar&oldid=1221633109
+Accessed on: 2024-06-26T16:52:04.272191
+
+
+
+------
+Amidar
+{{for|the Israeli government-operated housing firm|Amidar (Company)}}
+{{more citations needed|date=October 2013}}
+
+{{Infobox video game
+| title = Amidar
+| image = Amidar.jpg
+| caption = North American Atari 2600 cover
+| developer = [[Konami]]
+| publisher = {{vgrelease|JP|Konami|NA|[[Stern (game company)|Stern]]}}[[Parker Brothers]]<small> (2600)</small><br/>[[Casio]]<small> (PV 1000)</small>
+|released= '''Arcade'''{{vgrelease|NA|October 1981|JP|1981}}'''Atari 2600'''{{vgrelease|NA|November 1982<ref>{{Cite news |date=November 12, 1982 |title=Name the Game... |url=https://www.newspapers.com/image/630067786 |access-date=April 30, 2024 |work=[[The Miami Herald]] |pages=40 |quote=Parker Brothers Games for Atari VSC//''Amidar'' (November)}}</ref>}}'''PV-1000'''{{vgrelease|JP|1983}}
+| genre = [[List of maze video games|Maze]]
+| modes = 1-2 players alternating
+| platforms = [[Arcade game|Arcade]], [[Atari 2600]], [[PV-1000]]
+| arcade system = 
+}}
+
+'''''Amidar''''' is a [[video game]] developed by [[Konami]] and released in arcades in 1981 by [[Stern (game company)|Stern]].<ref name="GM183">{{cite magazine|title=Overseas Readers Column - Konami's "Amidar" and "Gattang Gottong" Licensed in U.S.A. and W.Germany|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=183|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 March 1982|page=30|lang=ja}}</ref> The format is similar to that of ''[[Pac-Man]]'': the player moves around a fixed [[rectilinear polygon|rectilinear]] lattice, attempting to visit each location on the [[level (video games)|board]] while avoiding the enemies. When each spot has been visited, the player moves to the next level. The game and its name have their roots in the Japanese lot drawing game [[Ghost Leg|Amidakuji]]. The bonus level in Amidar is a nearly exact replication of an Amidakuji game and the way the enemies move conform to the Amidakuji rules; this is referred to in the [[attract mode]] as "Amidar movement."
+
+''Amidar'' was the first in the [[List of maze video games#Grid capture games|grid capture]] sub-genre of maze games and was highly cloned in arcades and for home systems.
+
+==Gameplay==
+[[Image:Amidar screenshot.gif|left|thumb|The player engaging a sequence]]
+As in ''Pac-Man'', the player is opposed by enemies who kill on contact.<ref name="fox">{{cite book|url=https://books.google.com/books?id=LVc1QNGo_g0C|title=The Video Games Guide: 1,000+ Arcade, Console and Computer Games, 1962-2012|first=Matt|last=Fox|publisher=McFarland|page=11|year=2013|isbn=9781476600673}}</ref> The enemies gradually increase in number as the player advances from one level to the next, and their speed also increases.
+On odd-numbered levels, the player controls an [[ape]] (in some versions labeled "Copier") and must collect coconuts while avoiding [[headhunting|headhunter]]s (labeled "Police" and "Thief"). On even-numbered levels, the player controls a paint roller (labeled "Rustler") and must paint over each spot of the board while avoiding [[pig]]s (labeled "Cattle" and "Thief"). Each level is followed by a short [[bonus stage]].
+
+Whenever a rectangular portion of the board is cleared (either by collecting all surrounding coconuts, or painting all surrounding edges), the rectangle is colored in, and in the even levels, bonus points are awarded (In odd-numbered levels, the player collects points for each coconut eaten). When the player clears all four corners of the board, he is briefly empowered to kill the enemies by touching them (just as when ''Pac-Man'' uses a "power pill"). Enemies killed in this way fall to the bottom of the screen and revitalise themselves after a few moments.
+
+The game controls consist of a joystick and a single button labeled "Jump," which can be used up to three times, resetting after a level is cleared or the player loses a life. Pressing the jump button does not cause the player to jump, but causes all the enemies to jump, enabling the player to walk under them.
+
+Extra lives can be earned at different point levels, depending on the set-up of the machine.
+
+===Enemy movement===
+The enemies (and bonus stage pigs) in ''Amidar'' move [[deterministic algorithm|deterministic]]ally; this is described in the game as "Amidar movement". Each normal-type enemy moves vertically from the top to the bottom of the screen, and then back to the top, and so on. While moving in a constant vertical direction, the enemy will take every horizontal turn available until they reach the top or bottom of the grid, when they will continue to move either left or right in the direction they are headed and then take the first vertical turn available to re-enter the game board. This ensures that, while the movement of the enemies can be predicted and avoided, there are no safe points on the grid in which the player can stay still for too long. Each level has one special enemy (the "Tracer", colored white) which, at the beginning of each stage, simply patrols around the perimeter of the gameboard in an anti-clockwise direction. However, following a certain number of "laps", The Tracer will begin to relentlessly pursue the player by following the path their on-screen avatar takes. While the Tracer cannot deviate from following the player's exact route, it does not mimic any pauses the player makes, meaning that hesitations or backtracking will eventually allow the Tracer to catch up and kill the player. Later levels increase difficulty by adding more complex game grids, adding more enemies, and reducing the delay before the Tracer begins pursuit, until eventually it gives chase after a single lap at the beginning of each stage.
+
+===Level differences===
+In the even-numbered levels where the player controls a paint roller, the roller cannot move too far from grid rectangles that have already been filled without running out of paint and having to return to completed parts of the map to refresh its supply. When this happens, any painted lines which are not part of a filled rectangle will vanish and must be painted again. In practical terms, this means that the player must build their completed squares around the starting point of the level (which always has a fresh supply of paint) and spread outwards, rather than completing squares in any part of the game board they please, as they can on the odd-numbered levels. This also makes filling the corner rectangles and becoming invincible more difficult.
+
+==Ports==
+[[Image:Amidar 2600 screenscreenshot.png|thumb|Atari 2600 version. The player is the white sprite at right.]]
+
+''Amidar'' was ported by Parker Brothers to the [[Atari 2600]] in 1982<ref name="fox"/> and the Casio [[PV-1000]] console in 1983. [[Gakken]] released a handheld version of ''Amidar'' in 1982. It was one of a series of three flip-top games with [[Vacuum fluorescent display|VFD]] screen and magnifying [[Fresnel lens]].
+
+==Legacy==
+{{main|List of maze video games#Grid capture games}}
+
+Numerous clones and spins on ''Amidar'' have been written.  ''[[Time Runner (video game)|Time Runner]]'' is an ''Amidar''-like game for the TRS-80, Atari 8-bit family, and C64. ''[[Kid Grid]]'' was published for the Atari 8-bit computers in 1982. Windmill Software produced ''Rollo and the Brush Brothers'' for IBM compatibles in 1983. ''Spiderdroid'' is a reskinning of the Atari 2600 version of ''Amidar'' published in 1987 by [[Froggo]].<ref name="DigitalPress">{{cite magazine |last1=Santulli |first1=Joe |title=The 40 Worst Golden Age Video Games Ever Made - Spiderdroid |journal=Digital Press |date=July 1995 |issue=26 |page=10 |url=https://archive.org/details/Digital_Press_Issue_26_1995-07_Santulli_Joe_US/page/n9/mode/2up}}</ref> ''Omidar'' was published by Profiteam/M&T for the C64 in 1987.
+
+Rollo and the Brush Bros. is a clone of Konami's arcade game Amidar published by Windmill software in 1984 as a copy-protected, self-booting disk for the IBM PC. The player controls "Rollo" while attempting paint the entire maze and avoiding the "Brush Brothers."
+
+The arcade game ''[[Pepper II]]'' has a grid spread across four screens, while the grid in ''[[Triple Punch]]'' is wider than the screen and scrolls horizontally.
+
+=== Competition ===
+There are two ROM sets for ''Amidar'': a harder version distributed by Stern and an easier set created by Konami. According to [[Twin Galaxies]], Scott Karasek, of Racine, Wisconsin, USA, scored a world record 3,208,870 points on the Stern ROM set on June 22, 1982. On the Konami ROM set, Todd Lamb reached 19,225,030 points in Kenosha, Wisconsin, USA, on October 1, 1983.
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=6883}}
+*[http://www.arcade-history.com/?page=detail&id=80 ''Amidar''] at the Arcade History database
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Konami arcade games]]
+[[Category:Konami games]]
+[[Category:Maze games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Parker Brothers video games]]
+[[Category:Stern video games]]
+[[Category:Video games developed in Japan]]

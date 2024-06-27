@@ -1,0 +1,96 @@
+International Karate +
+Permalink: //en.wikipedia.org/w/index.php?title=International_Karate_%2B&oldid=1222384483
+Accessed on: 2024-06-26T17:02:23.723442
+
+
+
+------
+International Karate +
+{{Short description|Video game published by System 3 in 1987}}
+
+{{Infobox video game
+|width =
+|title = International Karate +
+|image = International Karate + cover.jpg
+|image_size =
+|caption = 
+|developer = [[System 3 (company)|System 3]]
+|publisher = System 3 <small>([[Europe]])</small><br/>[[Activision]] <small>([[United States|U.S.]])</small><br/>[[Ignition Entertainment]] <small>(PS1/GBA)</small>
+|designer = [[Archer Maclean]]
+|composer = [[Rob Hubbard]]
+|series =
+|engine =
+|released = October 1987<br>'''Virtual Console''' (C64)<br>{{vgrelease|EU|July 25, 2008}}
+|genre = [[Fighting game|Fighting]]
+|modes = [[Single-player]], [[two player]]
+|platforms = [[Commodore 64]], [[Amstrad CPC]], [[ZX Spectrum]], [[Atari ST]], [[Amiga]], [[Amiga CD32|CD32]], [[Game Boy Advance]], [[PlayStation]], [[Virtual Console]]
+|alt = 
+}}
+
+'''''International Karate +''''', stylized as '''''IK+''''', is a [[fighting game]] written by [[Archer Maclean]] and published in 1987 by [[System 3 (company)|System 3]] for the [[Commodore 64]], [[Amstrad CPC]], and [[ZX Spectrum]]. It is a successor to ''[[International Karate]]'' (1985). [[Activision]] published the Commodore 64 version in the US as '''''Chop N' Drop'''''.
+
+==Gameplay==
+[[file:C64 IKPlus.png|thumb|left|C64 screenshot]]
+Three [[Karate|karateka]] fight against each other on a beach, trying to be the first to score six points. After every two rounds, there is a bonus game which is either deflecting [[bouncing ball]]s or kicking away bombs. The C64 version of the game only has the ball bouncing bonus game, and not the bomb bonus game. The game can be played by one or two [[player (game)|human player]]s; at least one fighter is always controlled by the computer. Unlike its predecessor, ''[[International Karate]]'', there is only one backdrop. However, different parts of the backdrop can be recoloured to several different themes by the players using specific keystrokes. The Amiga, Atari and C64 versions of the game (and possibly other versions, unconfirmed) had a number of "background antics", a Pac-Man would appear, a spider would descend, and a U-boat's periscope would occasionally be seen in the harbour. In addition, pressing a certain key or keys would cause the trousers of all three protagonists to fall down, after which they would do a double-take. Additionally, it was possible (on the Amiga version, at least) to type in four-letter curse words; the game would respond first by rebuking the player for their use of such language, and upon the second offence would reset the game.
+
+==Development==
+[[Archer Maclean]] did most of the work on developing the game, and the music was written by [[Rob Hubbard]]. Music for the Amiga version was arranged by [[David Lowe (video game composer)|Dave Lowe]]. In August 2005, the music from the game was performed at the third Symphonic Game Music Concert in [[Leipzig]], [[Germany]].
+
+The packaging illustration for the Activision Commodore 64 release version of ''IK+'', entitled "Chop 'N Drop", was created by Marc Ericksen.
+
+==Ports==
+16-bit versions of the game were released in 1988 for the [[Atari ST]] and [[Amiga]] home computers. Apart from the music, which was arranged by [[David Lowe (video game composer)|Dave Lowe]], the Atari ST version was created entirely by Archer Maclean.<ref name="schwaiger89">Toni Schwaiger: "Archer Maclean. Von Karate verstehe ich nicht viel". In: ST Magazin, No. 3, 1989. ISSN 0934-3237 (German, [http://www.stcarchiv.de/stm1989/03/archer-maclean online full text] via stcarchiv.de, accessed 2020-10-04)</ref> The bitmap editor [[NeoChrome]] was used to draw background graphics and sprites<ref name="schwaiger89" /> and the code was written in [[assembly language]] on an IBM PC-based development system that cross-compiled the 800&nbsp;KB of [[source code]] in seven seconds and transferred the program to the RAM of the Atari ST via a parallel cable.<ref name="schwaiger89" /> Development took six months. The subsequent Amiga port took just seven days.<ref name="schwaiger89" />
+
+==Reception==
+{{Video game reviews
+| YSinclair = 7/10<ref>{{cite web |url=http://www.ysrnry.co.uk/articles/ikplus.htm |title=Archived copy |accessdate=2012-02-11 |url-status=dead |archiveurl=https://web.archive.org/web/20120213204800/http://www.ysrnry.co.uk/articles/ikplus.htm |archivedate=2012-02-13}}</ref>
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 97%<ref>{{Cite web|url=http://www.zzap64.co.uk/zzap100/100thspec5.html|title = Zzap!64 100th Issue Pull-Out Special Page 5}}</ref>
+| award1Pub = Zzap!64
+| award1 = Gold Medal
+| award2Pub = [[Golden Joystick Award]]
+| award2 = Best Soundtrack
+| award3Pub = Crash
+| award3 = Smash<ref>IK+ review, Crash magazine, issue 49, February 1988, page 88</ref>
+}}
+The game was voted Best 16-Bit Soundtrack of the Year at the 1988 [[Golden Joystick Awards]].<ref>{{Cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue092/Pages/CVG09200062.jpg|title = Computer & Video Games}}</ref>
+
+==Legacy==
+Another ''International Karate Deluxe'' game (AKA ''IK++'') was ready but unreleased for the Atari ST and Amiga in 1987/1988.<ref>In the chair with ... Archer Maclean. Retrogamer Magazine, issue 63 (2009).</ref>
+
+It was also released by Activision in 1988 for the Commodore 64 under the title ''Chop 'N Drop''. A version for [[Amiga CD32]] was released in 1994.
+
+In 2003, Maclean's [[Ignition Entertainment]] released ''IK+'' for the [[Game Boy Advance]] and [[PlayStation]] in Europe, which remained faithful to the 16-bit iterations.
+
+The C64 version was re-released on the [[Virtual Console]] in Europe on July 25, 2008.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{lemon64 game|id=1271}}
+* {{WoS game|id=0002503}}
+* ''[https://archive.today/20120911153344/http://www.next-gen.biz/features/making-ik The Making of International Karate +.]'' Edge Online, November 27, 2009. – interview with Archer Maclean
+
+{{Authority control}}
+
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Amiga CD32 games]]
+[[Category:Commodore 64 games]]
+[[Category:Game Boy Advance games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:Karate video games]]
+[[Category:PlayStation (console) games]]
+[[Category:Fighting games]]
+[[Category:Video game sequels]]
+[[Category:Video games scored by David Lowe]]
+[[Category:Video games scored by Rob Hubbard]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Virtual Console games]]
+[[Category:ZX Spectrum games]]
+[[Category:UTV Ignition Games games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:System 3 (company) games]]

@@ -1,0 +1,60 @@
+Zarzon
+Permalink: //en.wikipedia.org/w/index.php?title=Zarzon&oldid=1219736721
+Accessed on: 2024-06-26T16:52:50.256425
+
+
+
+------
+Zarzon
+{{short description|1981 video game}}
+{{Infobox VG
+| title        =
+| image        = Zarzon Arcade Flyer.jpg
+| caption      = Arcade flyer
+| developer    = [[SNK]]
+| publisher    = {{vgrelease|JP|SNK|NA|[[Taito]]<ref>{{cite web|url=http://www.gamefaqs.com/arcade/568658-satan-of-saturn/data|title=Zarzon Release Information for Arcade Games - GameFAQs|website=www.gamefaqs.com}}</ref>}}
+| designer     = 
+| series       = 
+| engine       = 
+| released     = {{vgrelease|JP|March 1981<ref>{{cite web|url=http://www.arcade-history.com/?n=satan-of-saturn&page=detail&id=2318|title=Satan of Saturn arcade video game by SNK (1981)|website=www.arcade-history.com}}</ref>}}{{vgrelease|NA|1981<ref>{{cite web|url=http://cheats.ign.com/objects/839/839638.html|title=Satan of Saturn - IGN.com}}</ref><ref>{{cite web|url=http://cheats.ign.com/objects/839/839638.html|title=Satan of Saturn|work=[[IGN]]|access-date=2009-06-02}}</ref>}}
+| genre        = [[Fixed shooter]]
+| modes        = 102 players alternating turns
+| platforms    = [[Arcade video game|Arcade]]
+| arcade system = [[Arcade system board#SNK|SNK 6502]]<ref name="mame"/>
+}}
+
+'''''Zarzon''''' ({{nihongo2|ザルゾン}}, {{nihongo2|ザーゾン}}), also known as '''''Satan of Saturn''''' ({{nihongo2|サタン・オブ・サターン}}), is a [[1981 in video gaming|1981]] [[fixed shooter]] arcade game developed and manufactured by [[SNK]] and licensed to [[Taito]] for North American release. The gameplay is a variation of ''[[Space Invaders]]''.<ref name="Green">{{cite web|url=http://www.allgame.com/game.php?id=32540|title=Satan of Saturn|last=Green|first=Earl|work=[[Allgame]]|publisher=[[All Media Guide]] / [[Macrovision Corporation]]|access-date=2009-06-02}} [http://www.allgame.com/game.php?id=11608 version for 'Zarzon']</ref>
+
+==Gameplay== 
+[[Image:Zarzon Arcade screen shot.jpg|thumb|left|150px|Gameplay screenshot]]
+
+The goal is to fly a spaceship to [[Saturn]], then destroy as many Satans as possible. Additional bonus points can be accumulated by destroying the [[comet]] or attacking dragonflies. An additional spaceship is rewarded if the players score reaches 5,000 or 10,000 points. If the attacking UFOs or enemy rockets are destroyed points will be scored. The game progresses through 4 different screens.
+
+The arcade cabinet has one joystick to move the spaceship left to right and guide the missiles.
+
+==Technical details==
+The game ran on the SNK 6502 [[arcade system board]].<ref name="mame">{{cite web|url=https://github.com/mamedev/mame/blob/master/src/mame/drivers/snk6502.c|title=SNK 6502 Hardware|website=[[MAME]]|access-date=2015-01-13}}</ref> Other games that ran on the same hardware include ''Sasuke vs. Commander'' (1980), ''[[Vanguard (video game)|Vanquard]]'' (1981) and ''[[Fantasy (video game)|Fantasy]]''.<ref name="mame"/>
+
+==Legacy==
+The ''Zarzon'' upright [[arcade cabinet]] appeared in the 1983 film ''[[Joysticks (film)|Joysticks]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.klov.com/game_detail.php?game_id=10521 Zarzon], {{KLOV game|id=9435|name=Satan of Saturn}}
+*[http://www.coinop.org/Game/102440/Zarzon Zarzon], [http://www.coinop.org/Game/101468/Satan_of_Saturn Satan of Saturn] at Coinop.org
+*[http://mamereview.blogspot.com/2008/11/satan-of-saturn.html MAME Review]
+*[http://faqs.ign.com/articles/716/716430p1.html FAQ] at IGN
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Fixed shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:SNK games]]
+[[Category:Video games developed in Japan]]
+
+
+{{fixed-shooter-videogame-stub}}

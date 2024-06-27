@@ -1,0 +1,32 @@
+Sleuth (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sleuth_%28video_game%29&oldid=1105575658
+Accessed on: 2024-06-26T16:55:51.530805
+
+
+
+------
+Sleuth (video game)
+'''''Sleuth''''' is a text-based "[[whodunit]]" [[video game]] created by Eric N. Miller of Norland Software (now defunct).<ref name="pcsig">{{cite book| last=Interest Group |first=PC Software |title=The PC-SIG Encyclopedia of Shareware: Encyclopedia of Shareware |year=1991 |publisher=Windcrest| location=Sunnyvale, CA| url=https://books.google.com/books?id=S69QAAAAMAAJ| page=236|isbn=9780830626694 }}</ref><ref name="pcibm">{{cite book| last=Communications| first=Software| title=PC: The Independent Guide to IBM Personal Computers| publisher=IBM Microcomputers| url=https://books.google.com/books?id=HXhVAAAAMAAJ&q=sleuth+game+murder+committed+computer| page=463| date=July 1988}}</ref><ref name="pcsm">{{cite book| last=Learning Company| first=ProQuest Information| title=Personal Computing: The Personal Systems Magazine| publisher=Gale Group| url=https://books.google.com/books?id=isFVAAAAMAAJ&q=sleuth+game+murder+committed+computer| page=203| year=1989}}</ref><ref name="softalk">{{cite book| last=Publishers | first=Softalk| title=Softalk for the IBM Personal Computer| publisher=Softalk Publishers| url=https://books.google.com/books?id=mWtVAAAAMAAJ&q=sleuth+game+murder+committed+computer| page=15| year=1983}}</ref><ref name="pccom">{{cite book| last=Publishing | first=EBSCO| title=PC/Computing| publisher=Ziff-Davis Publishing Company| url=https://books.google.com/books?id=CY1VAAAAMAAJ&q=sleuth+pc+magazine+game| page=165| date=October 1989}}</ref> It was first released in 1983.[[Image:Sleuth titlescreen.png|thumb|right|150px|''Sleuth'' titlescreen (running under [[DOSBox]])]]
+[[Image:Sleuth gamestart.png|thumb|right|150px|''Sleuth'' (running under [[DOSBox]])]]
+
+== Gameplay ==
+
+When the game starts, a murder has just been committed in the victim's estate. As an investigator, the player must solve the murder mystery by examining the estate and talking to its occupants.<ref name="pcsig" /><ref name="pcibm" /><ref name="pcsm" /><ref name="softalk" /><ref name="pccom" /> The player can move the character using the arrow keys, and interact with persons and objects (after locating the magnifying glass located randomly in one of the rooms) by issuing commands (from a fairly limited vocabulary list) at the game's prompt (similar to [[Sierra Entertainment|Sierra's]] "Quest" games). To win the game, the player must accurately identify the murder weapon, room the murder took place, and the murderer.<ref name="pcsig" /><ref name="pcibm" /><ref name="pcsm" /><ref name="softalk" /><ref name="pccom" /> The player can do this by examining different objects in the game, talking to the occupants and observing their behavior. The murderer is the one whose alibi contradicts everyone else's. After identifying the three clues, the player must then collect the murder weapon, gather everyone in the room of the murder, and accuse the murderer.
+
+The game is made challenging by the fact that the player has to keep track of everyone's stories and also can only question people once or twice before the murderer becomes suspicious. If the player takes too long to solve the mystery, the murderer will eventually kill the player's character and the game ends.<ref name = "pcsig" /><ref name = "pcibm" /><ref name = "pcsm" /><ref name = "softalk" /><ref name = "pccom" /> The game has two modes: a "Basic" mode and a "Personalized" mode. The only difference between the two modes is in the naming of in-game characters. In "Basic" mode, the game randomly generates the name of the characters, whereas in "Personalized" mode, the player can supply the names of the characters. Although the game is simple, no two murder scenarios are exactly alike as the game randomizes attributes of the game like the victim, murder scene, murder weapon, and murderer.<ref name = "pcsig" /><ref name = "pcibm" /><ref name = "pcsm" /><ref name = "softalk" /><ref name = "pccom" />
+
+The game can be run on Mac with the use of the freeware program "boxer", and has been cloned in Javascript, enabling users to play it in an internet browser.<ref>{{Cite web |url=http://www.gotogosub.com/sleuth/ |title=Sleuth JS |access-date=2017-01-07 |archive-date=2017-01-08 |archive-url=https://web.archive.org/web/20170108094142/http://www.gotogosub.com/sleuth/ |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20081008073203/http://ascii.classicgaming.gamespy.com/download_files/sleuth/sleuth.html Sleuth]
+*[http://www.calcaprt.com/share.htm Sleuth: A Murder Mystery]
+
+[[Category:1983 video games]]
+[[Category:Adventure games]]
+[[Category:Detective video games]]
+[[Category:DOS games]]
+[[Category:DOS-only games]]
+[[Category:Video games developed in the United States]]

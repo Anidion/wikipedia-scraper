@@ -1,0 +1,81 @@
+Deathstar (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Deathstar_%28video_game%29&oldid=1230498677
+Accessed on: 2024-06-26T16:58:19.233633
+
+
+
+------
+Deathstar (video game)
+{{Short description|1985 video game}}
+{{Infobox video game
+| title = Deathstar
+| image = Deathstar cassette front cover (BBC-Electron).png
+| caption=
+| developer = Peter Johnson<ref name="beebgames-2">{{cite web|url=http://www.beebgames.com/rhinterv.php|title=Interview: The Superior Software Years And The Future|first=Richard|last=Hanson|publisher=www.beebgames.com|year=1998|accessdate=2010-10-17|quote=Another prolific and talented author, Peter Johnson, wrote ''Overdrive'', ''Space Pilot'', ''Deathstar'' and six other games.}}</ref><ref name="mobygames-1">{{cite web|url=http://www.mobygames.com/developer/sheet/view/developerId,15939/|title=Peter Johnson Developer BIO|publisher=[[MobyGames]]|accessdate=2010-10-17|quote=He decided to sign with Superior Software as he'd seen a lot of Richard Hanson's games and he seemed prepared to give Johnson any help he needed.}}</ref>
+| publisher = [[Superior Software]]<ref name="gamespot-1">{{cite web|url=http://uk.gamespot.com/bbc/action/deathstar/tech_info.html?tag=tabs%3Bsummary|archive-url=https://archive.today/20130123210245/http://uk.gamespot.com/bbc/action/deathstar/tech_info.html?tag=tabs;summary|url-status=dead|archive-date=2013-01-23|title=Deathstar for BBC Micro|publisher=[[GameSpot]]|accessdate=2010-10-17|quote=Publisher: Superior Software, Developer: Superior Software, Genre: Shoot-'Em-Up}}</ref><br />
+[[Blue Ribbon (software house)|Blue Ribbon]]
+| engine = 
+| released = 1985
+| genre = [[Multidirectional shooter]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Acorn Electron]]<br />[[BBC Micro]]
+}}
+
+'''''Deathstar''''' (also written as '''''DeathStar''''') is [[multidirectional shooter]] for the [[Acorn Electron]] and [[BBC Micro]] developed by Peter Johnson and originally published in the UK by [[Superior Software]] in 1985. It is a clone of the arcade game ''[[Sinistar]]''.
+
+==Gameplay==
+[[Image:Deathstar in-game screenshot (BBC Micro).png|200px|thumb|left|BBC Micro screenshot]]
+
+The player uses four keys, two to rotate the ship (which is always moving forwards), one for fire and one to launch a starbomb. Firing can destroy both enemy workers and warriors, but only a starbomb can be used against the eponymous Deathstar itself. Collisions with workers, warriors or asteroids (referred to in the instructions as planetoids) do not harm the player.<ref name="inlay-1">{{cite journal|year=1991|title = Acorn Electron cassette inlay (re-release)|journal=DeathStar}}</ref><ref name="8bs-2"/>
+
+The job of the workers is to build the Deathstar by transporting crystals to it, whilst the job of the warriors is to mine the crystals and also defend the Deathstar by attacking the player. The initial objective is to keep on firing at the asteroids until they start to shed crystals, which are then picked up in order to score points, but more importantly the crystals are converted into starbombs. The starbombs are ultimately used against the Deathstar, once the workers have finished constructing it. The player must successfully defeat the Deathstar to progress into the ''Worker Zone'' which has very few planetoids, with a bonus screen between each zone.<ref name="inlay-1"/><ref name="8bs-2"/>
+
+The game employs 16-way scrolling<ref name="8bs-4"/> over a multi-coloured starfield and runs at a fast rate<ref name="8bs-3"/> on both the BBC Micro and Acorn Electron hardware.
+
+Despite the inferior hardware of the Acorn Electron, the in-game sound can be improved up to BBC Micro standards with the addition of Project Expansions' Sound Cartridge.<ref name="acornelectron-5">{{cite web|url=http://www.acornelectron.co.uk/eug/09/a-elken.html|title=Articles From Issue #09|first=Andy|last=Gilfillan|publisher=Electron User Group (issue 9)|accessdate=2010-10-17|quote=However, if you have Slogger's Turbo Board and Project Expansions' Sound Cartridge, the picture changes dramatically!|archive-date=2011-07-17|archive-url=https://web.archive.org/web/20110717131626/http://www.acornelectron.co.uk/eug/09/a-elken.html|url-status=dead}}</ref>
+
+==Development==
+{{Further|Sinistar|Atarisoft}}
+[[Image:Sinistar (Atarisoft, unreleased) title screen (BBC Micro).png|thumb|right|Title screen of the unreleased Atarisoft version, before the game was renamed to ''Deathstar'' (BBC Micro).]]
+Originally, the game was to be published by [[Atarisoft]] as an official port of the arcade version under its original name, ''Sinistar'',<ref name="stairwaytohell-2">{{cite web|url=http://www.stairwaytohell.com/lostandfound/index.html?page=alt|title=LOST AND FOUND|first=Dave|last=Moore|publisher=Stairway to Hell|accessdate=2010-10-17|quote=''Sinistar'' (Atarisoft) was released as ''DeathStar'' by Superior}}</ref><ref name="gameandwrite-1">{{cite web|url=http://www.gameandwrite.co.uk/?p=126|title=Great Oaks From Little Acorns Grow|last=Johnson|first=Marc|publisher=Game & Write|date=2010-06-26|accessdate=2010-10-17|quote=''Deathstar'', while expertly avoiding one lawsuit by setting itself up for a second much larger, successfully recreates that soil-your-pants thrill ride that is ''Sinistar''.|archive-url=https://web.archive.org/web/20100925164754/http://www.gameandwrite.co.uk/?p=126|archive-date=2010-09-25|url-status=dead}}</ref> but the Atarisoft brand was dropped in 1984 and Atari decided to pull out of the Acorn computer market altogether whilst a number of games were still under development.
+
+The game was instead renamed ''Deathstar'' and a new title screen designed, allowing it to be released as an unofficial clone by [[Superior Software]] in 1985. The game was released shortly after another popular game ''[[Repton (video game)|Repton]]'' and is regarded as being part of a successful run of titles from Superior Software in a short space of time.<ref name="acornelectron-3">{{cite web|url=http://www.acornelectron.co.uk/mags/eu/arts/a-head.html|title=Heading For The Century|first=Tony|last=Leah|publisher=[[Electron User]] (issue 7.02)|accessdate=2010-10-17|quote=In the summer of the same year came ''REPTON'', another tremendous success, swiftly followed by ''DEATHSTAR''.|archive-date=2011-07-17|archive-url=https://web.archive.org/web/20110717131526/http://www.acornelectron.co.uk/mags/eu/arts/a-head.html|url-status=dead}}</ref>
+
+The then-renamed ''Deathstar'' was first published solely by Superior Software in 1985 and later re-released in 1989 by Superior Software and [[Blue Ribbon (software house)|Blue Ribbon]] as a budget title. The game also appeared on the Beau Jolly compilations ''Five Star Games''<ref name="8bs-5">{{cite web|url=http://8bs.com/elecgame/five_star_games.htm|title=FIVE STAR GAMES|publisher=Beau Jolly|year=1987|accessdate=2010-10-17|quote="This is probably the best arcade shoot 'em up on the BBC and Electron. A thoroughly enjoyable game." BJ Overall rating 92%}}</ref> and ''10 Computer Hits 4'',<ref name="8bs-4">{{cite web|url=http://8bs.com/elecgame/10computerhits4.htm|title=10 Computer Hits 4: Review (Electron User) - "Rehashed Compilation"|first=Martin|last=Reed|publisher=[[Electron User]] (issue 5.06)|accessdate=2010-10-17|quote=''DEATHSTAR''{{'}}s most impressive feature is the 16-way scrolling: As you move, the screen moves with you. A great blast.}}</ref> and Superior Software's own ''Superior Collection'' compilations (vol. 2 on the BBC, vol. 3 on the Electron).<ref name="8bs-2">{{cite web|url=http://8bs.com/elecgame/deathstar.htm#Instructions|title=Instructions|publisher=[[Superior Software]] (from SUPERIOR COLLECTION 3 Inner Inlay)|accessdate=2010-10-17|quote=You have four basic controls: two to turn your ship clockwise and anticlockwise and the FIRE and STARBOMB controls.}}</ref> A cheat loader program for the game was also published in 1988 by [[The Fourth Dimension (company)|Impact Software]] on the compilation ''Cheat it again Joe 1''.<ref name="8bs-6">{{cite web|url=http://8bs.com/elecgame/cheat_it_again_joe_1.htm|title=CHEAT IT AGAIN JOE 1|publisher=[[The Fourth Dimension (company)|Impact Software]]|accessdate=2010-10-17|quote=1988: CHEAT IT AGAIN JOE 1, Impact, £2.95}}</ref> An in-built cheat was discovered to have been left in the BBC version of the game and was published in the March 1989 edition of [[The Micro User|Micro User]] magazine.<ref name="stairwaytohell-1">{{cite web|url=http://www.stairwaytohell.com/cheats/builtin/index.html?page=homepage|title=BUILT IN CHEATS|publisher=[[The Micro User|Micro User]]|date=March 1989|accessdate=2010-10-17|quote=If you press Caps Lock + Control + Escape you will be promoted to the next level.}}</ref>
+
+''Deathstar'' was prominently advertised with full-page dedicated ads<ref name="acornelectron-2">{{cite web|url=http://www.acornelectron.co.uk/mags/eu/cats/eu3_02.html|title=Electron User #3.02 (November 1985)|publisher=[[Electron User]] (issue 3.02)|date=November 1985|accessdate=2010-10-17|quote=Ads (1 page) ... DEATHSTAR ... 64|archive-date=2011-07-17|archive-url=https://web.archive.org/web/20110717131551/http://www.acornelectron.co.uk/mags/eu/cats/eu3_02.html|url-status=dead}}</ref> in various Acorn-related publications of the 1980s and was also reviewed in magazines such as [[Acorn User]]<ref name="computinghistory-1">{{cite web|url=http://www.computinghistory.org.uk/cgi-bin/sitewise.pl?act=det&p=3896|title=Acorn User - September 1986|publisher=[[Acorn User]]|date=September 1986|accessdate=2010-10-17|quote=REVIEWS: Games: Deathstar}}</ref> and [[Electron User]].<ref name="8bs-3">{{cite web|url=http://8bs.com/elecgame/deathstar.htm#Review|title=Review (Electron User)|first=Roland|last=Waddilove|publisher=[[Electron User]] (issue 3.02)|accessdate=2010-10-17|quote=''DEATHSTAR'' is a super fast, all-action arcade classic. It's the sort of game that you can't put down.}}</ref> In the 21st century, ''Deathstar'' was again reviewed in the 2009 book ''The 8-Bit Book - 1981 to 199x'' by Jerry Ellis, published by ''Hiive books''.<ref name="hiivebooks-1">{{cite web |url=http://www.hiivebooks.com/bookdetails.aspx?ISBN=9780977998326 |title=hiive books: book publishing: BOOK DETAIL |first=Jerry |last=Ellis |publisher=hiive books |date=2008-09-03 |accessdate=2010-10-17 |quote=DeathStar (Beeb) ... 1984 |url-status=dead |archiveurl=https://web.archive.org/web/20081205035502/http://www.hiivebooks.com/bookdetails.aspx?ISBN=9780977998326 |archivedate=December 5, 2008}}</ref><ref name="ellis-1">{{cite book|last=Ellis|first1=Jerry|title=The 8-Bit Book - 1981 to 199x|publisher=hiive books|year=2009|isbn=978-0-9779983-2-6}}</ref>
+
+A similar title ''[[Mega Apocalypse]]'', also for the BBC Micro, was due to be released by ''Martech Games Ltd'', but was ultimately abandoned half-finished in 1988.<ref name="beebgames-1">{{cite web|url=http://www.beebgames.com/lostgames.php|title=Lost Games|first=C|last=Boylan|year=2009|publisher=www.beebgames.com|accessdate=2010-10-17|quote=Half-finished copies, according to Jeremy Grayson, did leak out, and is supposedly a bit like the Superior Software game ''Deathstar''.}}</ref>
+
+===Speech chip support===
+{{Unreferenced section|date=September 2019}}
+The ''Sinistar'' arcade game uses sampled speech, which is beyond the abilities of standard BBC Micro and Electron hardware. The BBC Micro has a speech synthesiser chip available as an official add-on, but it has a limited vocabulary. Users who played with this hardware would hear the speech chip say "R, R, R, I an complete" (using the letter "R" repeated for the laugh, and "an" instead of "am"), though this is not a line from the arcade original. Programmer Peter Johnson said at the time: "I knew very few gamers would have that speech chip fitted, but I would have loved to see the expression of surprise on their faces the first time they heard the ''DeathStar'' speak".
+
+==Reception==
+Roland Waddliove, writing in ''[[Electron User]]'' magazine stated that "DEATHSTAR is a super fast, all-action arcade classic", "it's the sort of game that you can't put down" and "you've got to have just one more go".<ref name="8bs-3"/> Martin Reed also in Electron User described the game as "an excellent conversion" and "a great blast".<ref name="8bs-4"/>
+
+The Electron User Group describe the game as "furiously fast", "supremely playable" and as having "a large playing window",<ref name="acornelectron-1">{{cite web|url=http://www.acornelectron.co.uk/eug/revs/beau_jolly/r-5st1.html|title=Product: FIVE STAR GAMES|last=E|first=Dave|publisher=Electron User Group (issue 67)|accessdate=2010-10-17|quote=''DEATHSTAR'' is a furiously fast number, with a radar screen at the top of the screen and a large playing window situated beneath|archive-url=https://web.archive.org/web/20110717131646/http://www.acornelectron.co.uk/eug/revs/beau_jolly/r-5st1.html|archive-date=2011-07-17|url-status=dead}}</ref> whilst the Monkey's Brain website describes the game as "another top-quality arcade conversion".<ref name="themonkeysbrain-1">{{cite web|url=http://www.themonkeysbrain.karoo.net/Pages/ElecGames.htm|title=Electron Games|first=Rob|last=Dewick|publisher=The Monkey's Brain|accessdate=2010-10-17|quote=Shoot the asteroids to gather bombs to fire at the deathstar when it is built.}}</ref> Oliver Robinson on the bbcmicrogames.com website describes the game as "almost arcade perfect" and as "an example of how well the BBC could replicate fast paced, action arcade games".<ref name="bbcmicrogames-1">{{cite web|url=http://www.bbcmicrogames.com/superior.html|title=Only the Best BBC Micro Games - Superior Games|first=Oliver|last=Robinson|publisher=www.bbcmicrogames.com|accessdate=2010-10-17|quote=Almost arcade perfect, this was an example of how well the BBC could replicate fast paced, action arcade games.}}</ref>
+
+Game programmer Jason Sobell stated that he "liked Peter Johnson's ''DeathStar''", pointing out the similarity to the game ''[[Asteroids (video game)|Asteroids]]''.<ref name="stairwaytohell-3">{{cite web|url=http://www.stairwaytohell.com/authors/jsobell/SG-Sobell.html|title=2007 Interview with Jason Sobell|first=Stuart|last=Goodwin|publisher=www.stairwaytohell.com|year=2007|accessdate=2010-10-17|quote=I also liked Peter Johnson's ''DeathStar'' and ''Space Pilot'', but then I always was an ''Asteroids'' fan.}}</ref>
+
+The game was given a ''BJ score'' of 92% on the ''Five Star Games'' compilation, although this rating was awarded by Beau Jolly themselves, the publisher of the compilation and therefore can not be considered to originate from a neutral source.<ref name="8bs-5"/>
+
+Since the end of the BBC Micro commercial era, some players<ref name="acornelectron-4">{{cite web|url=http://www.acornelectron.co.uk/eug/62/m-appe.html|title=EUG APPEAL OF ELK ON BEEB Letter From Dave M In EUG #62|first=Dave|last=M|publisher=Electron User Group (Issue 62)|accessdate=2010-10-17|quote=I'm forever playing Electron ''DEATHSTAR'' instead of the official BBC one.}}</ref> using emulation have expressed a preference for playing the Acorn Electron version over the BBC Micro version, because it uses keys 'Z' and 'X' to rotate the spacecraft rather than 'CAPS LOCK' and 'left-CTRL' which are vertically aligned on many modern-day keyboards.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.computinghistory.org.uk/big/4298/Deathstar/ Game cover for original Superior Software BBC Micro release at the centre for computing history]
+
+{{Superior Software}}
+
+[[Category:1985 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Blue Ribbon (software house) games]]
+[[Category:Multidirectional shooters]]
+[[Category:Single-player video games]]
+[[Category:Superior Software games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United Kingdom]]

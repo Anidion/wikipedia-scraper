@@ -1,0 +1,58 @@
+Sabotage (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sabotage_%28video_game%29&oldid=1226497254
+Accessed on: 2024-06-26T16:52:33.930078
+
+
+
+------
+Sabotage (video game)
+{{Short description|1981 video game}}
+{{For|the game with the working title "Sabotage"|Velvet Assassin}}
+{{Refimprove|date=January 2007}}
+{{Infobox video game
+|title = Sabotage
+|image = Sabotage Coverart.png
+|caption = 
+|developer = [[Mark Allen (software developer)|Mark Allen]]<ref name=giantlist/>
+|publisher = [[Sierra Entertainment|On-Line Systems]]
+|designer = Mark Allen
+|engine = 
+|released = 1981
+|genre = [[Fixed shooter]]
+|modes = [[Single-player]]
+|platforms = [[Apple II]]
+}}
+
+'''''Sabotage''''' is a [[fixed shooter]] [[video game]] for the [[Apple II]] written by [[Mark Allen (software developer)|Mark Allen]] and published by [[Sierra Entertainment|On-Line Systems]] in 1981.
+
+==Gameplay==
+[[Image:Sabotage computer game.png|thumb|left|Gameplay screenshot]]
+
+The player controls a [[gun turret]] at the bottom of the screen by either keyboard, [[Paddle (game controller)|paddle]] control, or a single axis of a joystick.  The turret can swivel to cover a large area of the screen, but cannot move from its base.  [[Helicopter]]s fly across the screen at varying heights, progressively lower over time, dropping [[paratrooper]]s. Waves consist of helicopters coming at progressively lower altitudes, a brief rest, then a wave of jets.
+
+The player earns points by shooting helicopters (5 points), paratroopers (2 points), jets (5 points), and bombs (25 points).  Firing a shell costs the player one point, so if one is playing for score, there is an incentive to conserve ammo.  The score never drops below zero.
+
+The game ends when the player's turret is hit by a bomb, when a single paratrooper lands directly on the turret base, when three paratroopers safely land atop each other immediately adjacent to the turret base (allowing the third to jump onto the base), or when four paratroopers safely land on either the left or right of the turret (that is four on one side, not four total).  If four land on a side, they are able to build a [[human pyramid]] and climb up to the turret and blow it up once the sky is clear.
+
+==Legacy==
+The ''Sabotage'' concept has been [[video game clone|cloned]] a number of times:
+
+* ''Commando Raid'' ([[Atari 2600]], 1982)
+* ''M.A.D.'' ([[Atari 2600]], 1982) "Missile Attack and Defense"
+* ''[[Paratrooper (video game)|Paratrooper]]'' (IBM PC, 1982)
+* ''Incoming!'' ([[Atari 8-bit computers]], 1986) by Conrad Tatge in ''[[ANALOG Computing]]'' magazine<ref>{{cite journal|last1=Tatge|first1=Conrad|title=Incoming!|journal=ANALOG Computing|date=January 1986}}</ref>
+* ''ParaShooter!'' ([[Apple IIGS]], 1989) by Lane Roathe
+* ''Night Raid'' (IBM PC, 1992)<ref>{{cite web|url= http://blastmagazine.com/the-magazine/technology/2008/11/the-old-shoebox-night-raid/|title= Night Raid (DOS, 1992)|date= 16 November 2008}}</ref>
+* ''Parachute'', (preloaded on the third-generation) [[iPod]] and later models.
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|url=https://dadgum.com/giantlist|title=The Giant List of Classic Game Programmers|last1=Hague|first1=James}}</ref>
+}}
+
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Fixed shooters]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]

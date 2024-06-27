@@ -1,0 +1,73 @@
+Starglider 2
+Permalink: //en.wikipedia.org/w/index.php?title=Starglider_2&oldid=1224586113
+Accessed on: 2024-06-26T17:05:10.166484
+
+
+
+------
+Starglider 2
+{{Infobox video game
+| title = Starglider 2
+| image = Spectrum - Starglider 2.jpg
+| caption = Cover art
+| developer = [[Argonaut Games|Argonaut Software]]
+| publisher = [[Rainbird (software company)|Rainbird]]
+| designer = [[Jez San]], Rick Clucas
+| engine = 
+| released = [[1988 in video gaming|1988]]
+| genre = [[Space combat simulator]]
+| modes = [[Single player]]
+| platforms = [[Amiga]], [[Atari ST]], [[MS-DOS]], [[Macintosh]], [[ZX Spectrum]]
+}}
+
+'''''Starglider 2''''' is a [[3D computer graphics|3D]] [[space combat simulator]] published in 1988 by [[Rainbird (software company)|Rainbird]] as the [[sequel]] to 1986's ''[[Starglider]]''. It was released for the [[Amiga]], [[Atari ST]], [[MS-DOS]], [[Macintosh]], and [[ZX Spectrum]]. Instead of the wireframe graphics of the original, ''Starglider 2'' uses [[Flat shading|flat shaded]] polygons.
+
+==Plot and gameplay==
+The game features open, continuous gameplay without [[Level (computer and video games)|levels]] or [[loading screen]]s after the game had started, despite taking place across an entire planetary system. The player can fly through space, enter a planet's atmosphere, explore the surface, and penetrate tunnels in one seamless movement.
+
+The goal of ''Starglider 2'' is to destroy an enemy [[space station]] with a [[neutron bomb]], and the majority of the gameplay consists of collecting parts for the bomb, or fulfilling other prerequisites (e.g. finding the nuclear professor capable of constructing the bomb, or trade goods for the bombs necessary to destroy the shield generators protecting the space station), while fighting off enemy spacecraft, and delivering collected items to depots inside planetary tunnel systems. The various objects needed to complete the game are distributed across the many planets of the solar system, as well as in the intervening space (e.g. asteroids and space pirates), or even in the atmosphere of the gas giant planet.
+
+[[Image:Amiga Starglider 2.png|thumb|250px|left|Screenshot of ''Starglider 2'' for the Amiga.]]
+The flight model is arcade-style as opposed to realistic, as the game features no inertia; the spacecraft banks like an aircraft to turn, in air, outer space, and underground; and it is possible to [[Levitation (physics)|hover]]. In addition, the game features many graphic display options, including the ability to eliminate [[Flight dynamics|roll]], or view the game from outside the cockpit from a non-chase-camera, making it difficult to fly but allowing the player to view the polygonal model of the spacecraft.
+
+The construction of the shield generators and the space station itself progresses continuously over the course of the game, and failure to destroy the space station before construction was complete will result in loss of the game (the space station would be used to destroy the player's home planet). Successfully destroying the space station will not end the game, despite treating the player to a spectacular explosion and congratulatory text; instead, it will simply reset the construction of the space station, and the player can again begin attempting to gain possession of another neutron bomb with which to destroy the station.
+
+==Atari ST and Amiga versions==
+The Atari ST version is one of the few action games that could run on that machine's monochrome display.{{citation needed|date=June 2017}}
+
+The Atari ST and Amiga versions use Argonaut's "Argonaut Dual Loading System", a system whereby the disks are supposed to be interchangeable meaning the Atari ST disk can be used to load the game on an Amiga and vice versa.<ref>http://birdsanctuary.co.uk/adls/ The Bird Sanctuary's article on ADLS</ref> This was supposed to save money, by allowing publishers to produce a single boxed version of the game for both formats. In practice, the system was unreliable, and after ''Starglider 2'' it was abandoned.
+
+According to [[The One (magazine)|The One]] magazine the Atari ST version "is slightly slower and rather less smooth" and digital sounds effects were not used in the ST version since it would have made the game 20% slower. They consider a lack of "atmosphere" created by sampled sound effects as a major problem in the ST version.<ref>The One, October 1988, pages 24-26</ref>
+
+==Reception==
+A review in ''[[Computer Gaming World]]'' praised the game for being a vast improvement over the original, saying the game had "no real weak points". Minor criticisms were levelled at the game's joystick controls (preferring to control the game with a mouse) and at the game's philosophy of leaving players no clue as to how to succeed.<ref name = "CGW">{{citation | date = Dec 1988 | last =Eva | first = Frank | magazine = [[Computer Gaming World]] | title = Starglider II | pages = 31}}</ref> ''[[Compute!]]'' cited the game's dual-booting feature as "just one of the achievements" of the developers, praising the addition of solid graphics without losing its predecessor's speed.<ref name="anderson198812">{{cite news | url=https://archive.org/stream/1988-12-compute-magazine/Compute_Issue_103_1988_Dec#page/n67/mode/2up | title=Dynamic Duo | work=Compute! | date=December 1988 | access-date=10 November 2013 | author=Anderson, Rhett | pages=66}}</ref>
+
+''[[Zzap!64]]'' called the game a perfect demonstration of Amiga and the best Amiga game, and gave an overall score of 98%.<ref>{{cite journal |journal=Zzap!64 |date=October 1988 |issue=42 |pages=94 |url=http://www.classicgaming.com/amigareviews/stargli2.htm |title=Amiga Reviews: Starglider 2|archive-url=https://web.archive.org/web/20050904183143/http://www.classicgaming.com/amigareviews/stargli2.htm |archive-date=2005-09-04}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Lemon Amiga game|id=1208}}
+* {{atarimania|id=11389}}
+* {{WoS game|id=0004867}}
+
+{{Argonaut Games}}
+{{Authority control}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Argonaut Games games]]
+[[Category:Classic Mac OS games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:ZX Spectrum games]]
+[[Category:Space combat simulators]]
+[[Category:Science fiction video games]]
+[[Category:Telecomsoft games]]
+[[Category:Video game sequels]]
+[[Category:Video games scored by Barry Leitch]]
+[[Category:Video games scored by David Lowe]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set on fictional planets]]
+[[Category:Single-player video games]]

@@ -1,0 +1,74 @@
+Codename MAT
+Permalink: //en.wikipedia.org/w/index.php?title=Codename_MAT&oldid=1190016531
+Accessed on: 2024-06-26T16:56:32.064578
+
+
+
+------
+Codename MAT
+{{Short description|1984 video game}}
+{{Use British English|date=October 2022}}
+{{Use dmy dates|date=October 2022}}
+{{Infobox video game
+|title = Codename MAT
+|image = Codename MAT cover.jpg
+|developer = Derek Brewster<ref name=giantlist/>
+|publisher = Micromega
+|series = 
+|designer = 
+|engine = 
+|released = 1984
+|genre = [[Space combat simulator]],
+|modes = [[Single-player]]
+|platforms = [[ZX Spectrum]], [[Amstrad CPC]]
+}}
+
+'''''Codename MAT''''' is a [[space combat simulator]] published in 1984 by Micromega for the [[ZX Spectrum]]<ref>{{WoS game|id=0001002}}</ref> and [[Amstrad CPC]]<ref>[http://www.cpczone.net/game/1574 Codename MAT] {{Webarchive|url=https://web.archive.org/web/20080829155140/http://www.cpczone.net/game/1574 |date=29 August 2008 }} at CPCZone</ref> written by Derek Brewster.<ref name=giantlist/> The game is similar to [[Atari, Inc.]]'s ''[[Star Raiders]]'' from 1979.<ref name="su"/><ref name="cvg"/> Both games allow switching between front and aft-facing views and have strategic chart and scan modes. While ''Star Raiders'' has the player fighting Zylons, in ''Codename MAT'' the enemies are Myons.
+
+A sequel, ''Codename MAT II'', also by Brewster, was published in 1985.
+
+==Plot==
+[[Image:codenamematchart.png|thumb|left|The solar chart]]
+[[Image:codenamemat.png|thumb|First-person cockpit view]]
+
+The [[Solar System]] is under threat from Myon invaders. MAT ("Mission: Alien Termination") is a teenager implanted with all the combined tactical skills of the planetary leaders. MAT pilots a prototype spacecraft, the USS ''Centurion'', in an attempt to defend the system from the alien's all-out attack.<ref name="crash2">{{cite magazine |date=May 1984 |title=''Codename MAT'' review |magazine=CRASH |issue=4 |url=http://www.crashonline.org.uk/04/codemat.htm |access-date= 2007-11-13}}</ref>
+
+==Gameplay==
+The game's action takes place in a realtime 3D representation of MAT's view from the ship. The player has access to forward and rear views, which switch automatically if the tracking computer is active. Threats come in the form of Myon Fighters which engage the player immediately, Cruisers which only engage at short range, and Starbases which also attack immediately but withdraw when their shields are damaged.<ref name="crash2"/>
+
+The player's ship can suffer damage. If the ''Centurion''{{'}}s energy is reduced to zero, it is destroyed and the game ends. The ships instruments, engines and weapons can also be damaged; these can be repaired if the ship docks at a planet.<ref name="crash2"/>
+
+The strategy element of the game arises through use of the "solar chart" and "sector scan" modes. The Myon progress independently through the Solar System, starting with Pluto and working their way inwards. The sector scan shows a planetary system, displaying the planet, moons, Myon units, defensive units and stargates. The player may travel between sectors in a planetary system using stargates and between planetary systems using stargates, in order to contain the Myon's movement through the system. In "Pilot" mode, the Planetary Defence Fleet are autonomous and controlled by the computer, whereas in "Commander" setting, the player controls the fleet and can direct them to specific locations.<ref name="crash2"/>
+
+==Development==
+''Codename MAT'', described as a "mammoth space arcade strategy epic",<ref name="crash1">{{cite magazine |date=April 1984 |title=News Update |magazine=CRASH |issue=3 |url=http://www.crashonline.org.uk/03/news.htm |access-date= 2007-11-13}}</ref> was developed early in 1984 under the working title of ''Invasion 2000''. Micromega, having never used Brewster's names in the past, were struggling to find a title for it, even calling the game ''Hank'' at one point.<ref name="crash1"/>  A running joke in Crash was that the game had been named after being previewed by staff writer Matthew Uffindell.<ref name="NoNowt">{{cite web|url=http://www.nonowt.com/magfold/crashfol/crash03.html|title=The History of CRASH - issue 3|last=Mangram|first=Lloyd|work=TheNoNowt eZine X|access-date=6 October 2022}}</ref>
+
+''Codename MAT'' was written using Brewster's own [[Polar coordinate system|polar 3D]] graphics engine,<ref>{{cite magazine |date=April 1984 |title=Codename MAT preview |magazine=CRASH |issue=3}}</ref> the code for which is only 200 [[bytes]] long.<ref name="su">{{cite magazine |title=The Plot Thickens |last=Gilbert|first=John|date=June 1984|magazine=[[Sinclair User]]|publisher=ECC Publications|issue=27|page=62}}</ref>
+
+==Reception==
+''[[CRASH (magazine)|CRASH]]'' reviewed ''Codename MAT'', rating it at 93% and a "CRASH Smash" award. The reviewers highlighted the fast 3D graphics, damage system (allowing a ship to limp back to a planet for repairs if the engine is stuttering) and balanced combination of strategy and action.<ref name="crash2"/>
+
+''[[C&VG]]'' awarded 8 out of 10, initially finding the control system to be daunting but concluding "...it would probably be the best £5.50 you could spend on your Spectrum".<ref name="cvg">{{cite magazine |date=July 1984 |title=Codename MAT review |magazine=C&VG |issue=33}}</ref>
+
+Both C&VG and ''[[Sinclair User]]'' compared ''Codename MAT'' with Atari's ''[[Star Raiders]]''.<ref name="su"/><ref name="cvg"/>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #35<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-35/page/50/mode/2up | title=Jeux & stratégie 35 | date=October 1985 }}</ref>
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' HS #3<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-hs-3/page/96/mode/2up | title=Jeux & stratégie HS 3 | year=1986 }}</ref>
+
+==Legacy==
+''Codename MAT II'', also written by Brewster, was published later in 1985 by [[Domark]] for the [[ZX Spectrum]],<ref>{{WoS game|name=Codename MAT II|id=0001003}}</ref> [[Commodore 64]] and [[Amstrad CPC]]. It has a new ship, the ''Centurion II'' with two different weapons and a more complex damage system where onboard droids can be assigned repair tasks by the player. The inclusion of ship batteries, directional shields and reactors requires the player to consider energy management in addition to the overall strategy of defending the system from Myon invaders.
+
+''Codename MAT II'' received mixed reviews. ''CRASH'' awarded 81%, again highlighting the mix of arcade action and strategy, but criticizing the average graphics and confusing instructions.<ref>{{cite magazine |date=September 1985 |title=Codename MAT II review |magazine=CRASH |issue=20 |quote=A fast tactical space game felt to be well above average to good.}}</ref> Sinclair User awarded 3 out of 5,<ref>{{cite magazine |last=Bourne |first=Chris |date=October 1985 |title=Spectrum Software Scene |magazine=Sinclair User |issue=43 |url=http://www.sincuser.f9.co.uk/043/sftwreb.htm |access-date=2007-11-14 |archive-url=https://web.archive.org/web/20060924103003/http://www.sincuser.f9.co.uk/043/sftwreb.htm |archive-date=2006-09-24 |url-status=dead}}</ref> whilst Your Spectrum's average rating was only 6 out of 10, finding that whilst better than the original ''Codename MAT'', it did not compare favourably with ''[[Elite (video game)|Elite]]'' or ''Starion''.<ref>{{cite magazine |date=November 1985 |title=Joystick Jury |magazine=Your Spectrum |issue=20 |url=http://www.users.globalnet.co.uk/~jg27paw4/yr20/yr20_51.htm |access-date= 2007-11-14}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+}}
+
+[[Category:1984 video games]]
+[[Category:ZX Spectrum games]]
+[[Category:Amstrad CPC games]]
+[[Category:Space combat simulators]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United Kingdom]]

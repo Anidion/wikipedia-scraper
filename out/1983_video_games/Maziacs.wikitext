@@ -1,0 +1,60 @@
+Maziacs
+Permalink: //en.wikipedia.org/w/index.php?title=Maziacs&oldid=1180698546
+Accessed on: 2024-06-26T16:55:23.746308
+
+
+
+------
+Maziacs
+{{Use dmy dates|date=May 2017}}
+{{Infobox video game
+|title  = Maziacs
+|image = Maziacs video game cover.jpg
+|developer = [[DK'Tronics]]
+|publisher = [[DK'Tronics]]
+|designer = [[Don Priestley]]<ref name='crashdpinterview'>{{cite magazine |title=Terry, Arfur and 'Im Upstairs|magazine=Crash|issue=34|publisher=Newsfield|date=November 1986|page=108|url=https://spectrumcomputing.co.uk/page.php?issue_id=1001&page=107|access-date=23 July 2021}}</ref>
+|programmer = Andy French (C64)
+|engine = 
+|released = [[1983 in video gaming|1983]]
+|genre = [[Action adventure game|Action adventure]]
+|modes = [[Single Player]]
+|platforms =  [[ZX Spectrum]], [[Commodore 64]], [[MSX]]
+|caption = 
+|alt = 
+}}'''''Maziacs''''' is an [[action adventure game|action adventure]] [[List of maze video games|maze game]] published by [[DK'Tronics]] in 1983 for the [[ZX Spectrum]],<ref>[http://www.worldofspectrum.org/infoseekid.cgi?id=0003100 ''Maziacs''] at World of Spectrum</ref> [[Commodore 64]],<ref name=lemon64/> and [[MSX]].<ref>[http://www.generation-msx.nl/msxdb/softwareinfo/3222 ''Maziacs''] at Generation-MSX</ref>
+
+==History==
+''Maziacs'', written by [[Don Priestley]], was based on his earlier [[ZX81]] game ''[[Mazogs]]''<ref name="YS100">[http://www.ysrnry.co.uk/articles/ystop100.htm "The YS Official Top 100 Part 1"] {{webarchive|url=https://web.archive.org/web/20060816053829/http://www.ysrnry.co.uk/articles/ystop100.htm |date=16 August 2006 }} at The Your Sinclair Rock 'n' Roll Years</ref> which was published by [[Bug-Byte]] in 1982.<ref>[http://www.zx81stuff.org.uk/zx81/tape/Mazogs ''Mazogs''] at ZX81stuff.org</ref> ''Mazogs'' was one of the most successful ZX81 games<ref name="YS100"/> so Don Priestley adapted it for the higher-resolution, colour-screen ZX Spectrum and MSX. The Commodore 64 port was written by Andy French.<ref name="lemon64">{{lemon64 game|id=1626|name=Maziacs}}</ref>
+
+==Gameplay==
+[[Image:Maziacs2.png|thumb]]
+''Maziacs'' takes place in a randomly generated, scrolling, overhead-view maze, in which the player-controlled protagonist must find gold and exit the level. The gold is placed at least 200 moves from the start position, and the maze is patrolled by monsters called maziacs. Prisoners are sometimes found in the walls of the maze, who can highlight the path to the gold for a short period of time. Moving through the maze and fighting maziacs decreases the player's energy, which can be replenished by finding food. The main game screen shows one fiftieth of the maze, but a "view mode" expands the view to show one twelfth. Whilst this mode is useful for scouting purposes, the player cannot move whilst viewing it. 
+
+Maziacs can only be killed effectively with swords, several of which are found in the maze but can only be used once. A sword cannot be carried at the same time as the gold. These last two factors lead to the tactic of avoiding groups of maziacs, but killing as many as possible before collecting the gold.<ref name="crash">''Maziacs'' review, CRASH issue 1, February 1984</ref>
+
+''Maziacs'' supported the [[Currah|Currah MicroSpeech]] peripheral.<ref name='currahadvert'>{{cite magazine |title=Currah Micro Speech Advert|magazine=ZX Computing|issue=12|publisher=Argus Specialist Publications|date=April 1984|page=155|url=https://spectrumcomputing.co.uk/page.php?issue_id=348&page=155|access-date=18 October 2023}}</ref>
+
+==Reception==
+When ''Maziacs'' was published, critical reception was good. ''[[Crash (magazine)|CRASH]]'' magazine awarded 82%, highlighting the appealing graphics and animation.<ref name="crash"/> In a retrospective later in the year, ''CRASH'' criticized the slightly unresponsive keyboard controls and felt it was less addictive, but continued to praise the animation techniques.<ref>[http://www.crashonline.org.uk/07/crshback.htm "Crashback"] from CRASH issue 7</ref>
+
+''Maziacs'' was ranked at number 99 in the ''[[Your Sinclair]]'' official top 100 ZX Spectrum games of all time, because of the game's claustrophobic atmosphere, choreographed animation, and general character.<ref name="YS100"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{WoS game|game=Maziacs|id=3100}}
+*{{lemon64 game|name=Maziacs|id=1626}}
+*[https://archive.org/search.php?query=maziacs Play several versions of Maziacs on the web browser] at the [[Internet Archive]].
+
+{{DK'Tronics}}
+
+[[Category:1983 video games]]
+[[Category:Commodore 64 games]]
+[[Category:DK'Tronics games]]
+[[Category:MSX games]]
+[[Category:ZX Spectrum games]]
+[[Category:Action games]]
+[[Category:Maze games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

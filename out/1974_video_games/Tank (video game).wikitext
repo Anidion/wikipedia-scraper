@@ -1,0 +1,106 @@
+Tank (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Tank_%28video_game%29&oldid=1193248438
+Accessed on: 2024-06-26T16:47:27.718588
+
+
+
+------
+Tank (video game)
+{{about|the arcade game|the 1985 [[SNK]] video game T.A.N.K.|TNK III|other uses|Tank (disambiguation)}}
+{{short description|1974 arcade game}}
+{{good article}}
+{{Infobox video game
+|title = Tank
+|image = Tank (arcade game).jpg
+|caption = Promotional flyer showing the original cabinet
+|developer = [[Kee Games]]
+|publisher = {{vgrelease|NA|Kee Games|JP|[[Namco]]<ref name="ATVGL:JaO1971-2005"/>}}
+|designer = Steve Bristow<br/>[[Lyle Rains]]
+|genre = [[List of maze video games|Maze]]
+|modes = [[Multiplayer video game|Multiplayer]]
+|released = {{Video game release|NA|November 1974|JP|September 1975<ref name="ATVGL:JaO1971-2005"/>}}
+|platforms =[[Arcade game|Arcade]]
+}}
+
+'''''Tank''''' is an [[arcade game]] developed by [[Kee Games]], a subsidiary of [[Atari, Inc.|Atari]], and released in November 1974. It was one of the few original titles not based on an existing Atari property developed by Kee Games, which was founded to sell [[video game clones|clones]] of Atari games to distributors as a fake competitor prior to the merger of the two companies. In the game, two players drive tanks through a maze viewed from above while attempting to shoot each other and avoid mines, represented by X marks, in a central minefield. Each player controls their tank with a pair of joysticks, moving them forwards and back to drive, reverse, and steer, and firing shells with a button to attempt to destroy the other tank. The destruction of a tank from a mine or shell earns the opposing player a point, and tanks reappear after being destroyed. The winner is the player with more points when time runs out, with each game typically one or two minutes long.
+
+''Tank'' was designed by Steve Bristow, who had previously worked with the founders of Atari on ''[[Computer Space]]'', the first arcade video game, and was developed by [[Lyle Rains]]. It was created as part of Bristow's vision to move the company away from only producing copies of Atari's games into also developing original titles. The game's cabinet was designed by Peter Takaichi. In September 1974, Atari announced a merger with Kee, which went into effect a month after the release of the game. The game was commercially successful, selling over 10,000 units and buoying Atari's then-troubled finances. It led to a [[Video game arcade cabinet#Cocktail or table cabinets|cocktail cabinet]] release of the game and to four sequels: ''Tank II'' (1974), ''Tank III'' (1975), ''Tank 8'' (1976), and ''Ultra Tank'' (1978). A [[dedicated console]] version of ''Tank II'' was announced in 1977 but cancelled later that year; the joysticks for the game, however, became the standard joystick controllers for the [[Atari 2600]] (1977). Variations on the game were included in the Atari 2600 game ''[[Combat (Atari 2600)|Combat]]'', as well as in the [[Coleco]] [[Telstar (game console)|Telstar]] game ''Telstar Combat!'', both in 1977.
+
+==Gameplay==
+''Tank'' is a two-player [[list of maze video games|maze game]] in which the players, each controlling a tank, attempt to shoot each other. The maze is a set of blocks set at right angles to each other with an empty square central area all viewed from above; the shape of the maze is not symmetric, and is the same between games. One of the tank [[sprite (computer graphics)|sprites]] is white and the other is black, while the central area is filled with black X marks representing land mines. The tanks can fire shells, which destroy the other tank if they hit; tanks are also destroyed if they hit a land mine. The destruction of a tank grants the opposing player a point and causes a brief explosion and accompanying sound, during which time the other tank cannot shoot, before restoring the tank at the same position. Destroyed land mines do not return.<ref name="TVG"/> Points are displayed above the play area, and flash during the final twenty seconds of the round. The game continues until the time runs out, after which the player with the higher point value wins the match. Each game typically costs a [[quarter (United States coin)|quarter]] and lasts for 60 seconds, but an internal toggle adjusts it to two quarters and 120 seconds. The time can be further adjusted by operators.<ref name="manual"/>
+
+The game is displayed on a black-and-white television screen, and the tanks are controlled by two joysticks each. Pushing both joysticks moves the player's tank forward, and pulling them both back causes the tank to stop. Pulling them in different directions or amounts causes the tank to turn in place or while moving, respectively. A button on the top of the right joystick fires a shell.<ref name="manual"/>
+
+==Development==
+[[File:Tank arcade gameplay.jpg|thumb|right|Photo of gameplay; the two tanks are at the bottom and neither player has scored.]]
+The arcade game market is split into manufacturers, distributors, and operators; manufacturers like [[Atari]] sell game machines to distributors—who handle several types of electronic machines—who in turn sell them to the operators of locations. In the early 1970s, distributors bought games on an exclusive basis, meaning that only one distributor in each distribution region would carry products from a given arcade game manufacturer, restricting the manufacturer to only the operators that distributor sold to. Atari, in 1973 just over a year old and largely based on their hit first game ''[[Pong]]'', felt that as a smaller manufacturer this setup severely limited their ability to sell arcade games: they could only contract with a limited number of distributors, who would only buy a limited number of games per year.<ref name="AtariInc120"/> To work around this, Atari set up a secret subsidiary company in September 1973, [[Kee Games]], which was intended to sell [[video game clone|clones]] of Atari's games, in effect doubling their potential reach. Kee did have its own manufacturing equipment and therefore the ability to develop original titles, and after several clone games lead engineer Steve Bristow developed the idea for a new title. Bristow, who had previously worked with the Atari founders on ''[[Computer Space]]'', the first arcade video game, came up with the idea while thinking of how he could improve ''Computer Space''. His idea to correct the perceived shortcomings of the game were to replace its difficult to control rocket ships with more straightforward tanks, and to make it a two-player game instead of a single-player one.<ref name="AtariInc127130"/>
+
+As the company's only engineer, Bristow rapidly developed a prototype himself before turning the game over to new hire [[Lyle Rains]] to develop into a finished product, codenamed K2 Tank. Rains added the maze and central minefield to the game design and developed the final hardware, including the simple control scheme.<ref name="AtariInc127130"/> Peter Takaichi designed a large custom cabinet to house it.<ref name="CabPat"/> ''Tank'' was one of the first games to use [[integrated circuit]]-based [[Read-only memory|memory]]—specifically, [[mask ROM]] (read-only memory)—to store graphical data, rather than the [[diode]] arrays that previous arcade games used; it is sometimes claimed in sources to be the very first, but was preceded at minimum by Atari's ''[[Gran Trak 10]]'' (1974).<ref name="NG"/><ref name="RTB"/><ref name="AtariInc249"/><!-- Specifically, some sources claim that Gran Trak 10 used a diode-based ROM instead and so Tank was the first to use a mask ROM; GT10, however, used a 74168 chip, which is not diode-based. The confusion seems to come from a metaphor in the GT10 operators manual that a ROM was like an array of diodes. Ramtek's Clean Sweep may have also used a mask ROM earlier than Tank--> Integrated circuit-based memory thereafter became the standard for arcade and console video games.<ref name="NG"/><ref name="RTB"/> Before the game could be completed, Kee Games was merged into Atari in September 1974; ''Tank'' was released that November.<ref name="AtariInc127130"/><ref name="release"/>
+
+==Reception and legacy==
+''Tank'' was a commercial success and is credited with buoying the finances of the newly merged Atari at a critical time for the company.<ref name="EGMtimeline"/> Atari produced a second version of the game, a [[Video game arcade cabinet#Cocktail or table cabinets|cocktail cabinet]] form in which the two players sat across a circular table from each other.<ref name="IAM"/> ''Tank'' sold over 10,000 units, considered a large hit at the time, though [[Ralph H. Baer]] claims that was only the 1974 sales, with a further 5,000 sold in 1975.<ref name="AtariInc131"/><ref name="AICsales"/> This would make ''Tank'' the best-selling [[1974 in video games|arcade video game of 1974]] in the United States as well as the second best-selling [[1975 in video games|title of 1975]] in America (below ''[[Speed Race|Wheels]]''), according to Baer.<ref name="BaerSales"/>
+
+A sequel, ''Tank II'', was released in 1974 to sales of around 1,000 units; gameplay was identical, though the maze could be changed to a new format by modifying the circuitry and more sound effects were added.<ref name="AICsales"/><ref name="IAM2"/> In March 1976, ''RePlay'' magazine published a survey of the top 20 arcade games in use, and listed ''Tank'' and ''Tank II'' together as the highest-earning game in the prior year in the United States.<ref name="RePlayChart"/> ''Tank II'' was later the 15th highest-grossing [[1977 in video games|arcade game of 1977]] in the United States according to ''[[Play Meter]]'' (or 14th highest video game, excluding the [[Electro-mechanical games|electro-mechanical]] game ''[[F-1 (arcade game)|F-1]]'').<ref>{{cite magazine |title=Top Arcade Games |magazine=[[Play Meter]] |date=November 1977}}</ref> It was followed by three further sequels: ''Tank III'' in 1975, the first game to be third in a series;<ref name="IAM3"/><ref name="TVGE"/> the color ''Tank 8'' in 1976, which featured eight tanks and players simultaneously;<ref name="IAM8"/> and ''Ultra Tank'' in 1978, which reverted to a two-player black and white game with the ability to select multiple different maze types and have invisible tanks.<ref name="IAMUlt"/>
+
+A [[dedicated console]] version of ''Tank II'' was announced by Atari at the [[Consumer Electronics Show]] in 1977, but was cancelled by the end of the year; the joysticks for the game, designed by Kevin McKinsey, became the standard joystick controllers for the [[Atari 2600]] (1977).<ref name="AOA300"/> The [[Atari 2600]] game ''[[Combat (Atari 2600)|Combat]]'', released in 1977, includes several variations of ''Tank'', including ones with bouncing shots or invisible tanks. ''Combat'' was initially developed as a console version of the arcade game, like the cancelled dedicated console version, with additional plane-based game modes added during development. Despite Atari's cancellation of the dedicated console version of ''Tank'', a dedicated console game inspired by ''Tank'' was still released in 1977 by [[Coleco]]: the [[Telstar (game console)|Telstar]] game ''Telstar Combat!'' plays four variations of ''Tank'', and was released prior to the Atari 2600 and ''Combat''.<ref name="RTB"/>
+
+The success of ''Tank'', along with 1975 title ''[[Western Gun]]'' (''Gun Fight''), led to the popularization of one-on-one dueling video games.<ref name="Smith188"/> The 1980 arcade [[first-person shooter]] game ''[[Battlezone (1980 video game)|Battlezone]]'' (1980) was primarily inspired by ''Tank''. According to ''Battlezone'' designer Ed Rotberg, his concept was to update ''Tank'' with the advent of [[vector graphics]] in the arcades.<ref name="Guns35"/>
+
+==References==
+{{reflist|refs=
+<ref name="manual">{{cite book |title=Tank Operation and Service Manual |publisher=Kee Games |date=November 1974 |url=http://www.arcade-museum.com/manuals-videogames/T/Tank.pdf |access-date=2016-12-05 |archive-url=https://web.archive.org/web/20140328064120/http://www.arcade-museum.com/manuals-videogames/T/Tank.pdf |archive-date=2014-03-28 |url-status=live}}</ref>
+<ref name="TVG">[[#CITEREF_Guide|Fox]], p. 291</ref>
+<ref name="ATVGL:JaO1971-2005">[[#CITEREF_TVGame|Akagi]], [https://archive.org/stream/ArcadeGameList1971-2005#page/n51/mode/1up p. 51]</ref>
+
+<ref name="AtariInc120">[[#CITEREF_Atari|Goldberg, Vendel]], p. 120</ref>
+<ref name="AtariInc127130">[[#CITEREF_Atari|Goldberg, Vendel]], pp. 127–130</ref>
+<ref name="AtariInc131">[[#CITEREF_Atari|Goldberg, Vendel]], p. 131</ref>
+<ref name="CabPat">{{cite patent |country=US |number=D243624 |status=patent |title=Game cabinet |pubdate= |gdate=1977-03-08 |fdate= |pridate= |invent1=Peter Takaichi |assign1=[[Atari, Inc.]] |url=http://pdfpiw.uspto.gov/.piw?Docid=D0243624&idkey=NONE&homeurl=http%3A%252F%252Fpatft.uspto.gov%252Fnetahtml%252FPTO%252Fpatimg.htm}}</ref>
+<ref name="NG">{{cite magazine |title=Atari: From Boom to Bust and Back Again |magazine=[[Next Generation (magazine)|Next Generation]] |issue=4 |publisher=[[Imagine Media]] |date=April 1995 |page=37 |issn=1078-9693}}</ref>
+<ref name="RTB">[[#CITEREF_Beam|Bogost, Montfort]], pp. 19–21</ref>
+<ref name="AtariInc249">[[#CITEREF_Atari|Goldberg, Vendel]], p. 249</ref>
+<ref name="release">{{cite magazine |url=http://www.digitpress.com/library/magazines/video_games/video_games_dec82.pdf#page=40 |title=From Cutoffs to Pinstripes |magazine=Video Games |page=40 |publisher=Pumpkin Press |date=December 1982 |volume=1 |issue=3 |last=Bloom |first=Steve |issn=0733-6780 |access-date=2018-10-12 |archive-url=https://web.archive.org/web/20180403185540/http://www.digitpress.com/library/magazines/video_games/video_games_dec82.pdf#page=40 |archive-date=2018-04-03 |url-status=live}}</ref>
+
+<ref name="EGMtimeline">{{cite magazine |title=Video Game Timeline |magazine=[[Electronic Gaming Monthly]] |issue=102 |publisher=[[Ziff Davis]] |date=January 1998 |page=116 |issn=1058-918X |quote=Kee releases ''Tank'', the top game of the year, and surpasses Atari in sales, while opening distribution routes that Atari could never have opened on its own. Kee is later revealed to be a subsidiary of Atari and merges back with its parent company, successful in having widened the reach of the biggest game maker in the arcade industry.}}</ref>
+<ref name="AICsales">{{cite web |url=https://allincolorforaquarter.blogspot.com/2012/08/what-was-best-selling-us-arcade-video.html |title=What Was The Best-Selling U.S. Arcade Video Game Prior to Space Invaders? |date=2012-08-30 |last=Smith |first=Keith |publisher=The Golden Age Arcade Historian |access-date=2016-12-06 |archive-url=https://web.archive.org/web/20161006102515/http://allincolorforaquarter.blogspot.com/2012/08/what-was-best-selling-us-arcade-video.html |archive-date=2016-10-06 |url-status=live}}</ref>
+<ref name="BaerSales">[[#CITEREF_Begin|Baer]], [https://archive.org/details/VideogamesInTheBeginningRalphH.Baer/page/n31/mode/2up pp. 31–32]</ref>
+<ref name="RePlayChart">{{cite magazine |title=The Nation's Top Arcade Games |magazine=RePlay |date=March 1976 |issn=1534-2328}}</ref>
+<ref name="IAM">{{cite web |url=http://www.arcade-museum.com/game_detail.php?game_id=12989 |title=Tank |publisher=International Arcade Museum |access-date=2016-12-05 |archive-url=https://web.archive.org/web/20160915181947/http://www.arcade-museum.com/game_detail.php?game_id=12989 |archive-date=2016-09-15 |url-status=live}}</ref>
+<ref name="IAM2">{{cite web |url=http://www.arcade-museum.com/game_detail.php?game_id=10029 |title=Tank II |publisher=International Arcade Museum |access-date=2016-12-06 |archive-url=https://web.archive.org/web/20170613060836/http://www.arcade-museum.com/game_detail.php?game_id=10029 |archive-date=2017-06-13 |url-status=live}}</ref>
+<ref name="IAM3">{{cite web |url=http://www.arcade-museum.com/game_detail.php?game_id=10030 |title=Tank III |publisher=International Arcade Museum |access-date=2016-12-06 |archive-url=https://web.archive.org/web/20170613021820/http://www.arcade-museum.com/game_detail.php?game_id=10030 |archive-date=2017-06-13 |url-status=live}}</ref>
+<ref name="TVGE">[[#CITEREF_Explode|Wolf 2007]], p. 39</ref>
+<ref name="IAM8">{{cite web |url=http://www.arcade-museum.com/game_detail.php?game_id=10025 |title=Tank 8 |publisher=International Arcade Museum |access-date=2016-12-06 |archive-url=https://web.archive.org/web/20170616005455/http://www.arcade-museum.com/game_detail.php?game_id=10025 |archive-date=2017-06-16 |url-status=live}}</ref>
+<ref name="IAMUlt">{{cite web |url=http://www.arcade-museum.com/game_detail.php?game_id=10261 |title=Ultra Tank |publisher=International Arcade Museum |access-date=2016-12-06 |archive-url=https://web.archive.org/web/20170802003457/http://www.arcade-museum.com/game_detail.php?game_id=10261 |archive-date=2017-08-02 |url-status=live}}</ref>
+<ref name="AOA300">[[#CITEREF_Art|Lapetino]], p. 300</ref>
+<ref name="Smith188">[[#CITEREF_TCW|Smith]], pp. 188–195</ref>
+<ref name="Guns35">[[#CITEREF_Guns|Wolf 2012]], pp. 35-36</ref>
+}}
+
+==Sources==
+{{refbegin}}
+* {{cite book |last=Akagi |first=Masumi |url=https://archive.org/stream/ArcadeGameList1971-2005 |title=アーケードTVゲームリスト 国内•海外編 (1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |publisher=Amusement News Agency |date=2006-10-13 |isbn=978-4-9902512-1-5 |language=ja |ref=CITEREF_TVGame}}
+* {{cite book |title=Videogames: In the Beginning |last1=Baer |first1=Ralph H. |author1-link=Ralph H. Baer |date=2005 |publisher=Rolenta Press |isbn=978-0-9643848-1-1 |url=https://archive.org/details/VideogamesInTheBeginningRalphH.Baer |ref=CITEREF_Begin}}
+* {{cite book |title=[[Racing the Beam]] |last1=Bogost |first1=Ian |last2=Montfort |first2=Nick |author-link1=Ian Bogost |author-link2=Nick Montfort |publisher=[[MIT Press]] |date=2009-03-31 |isbn=978-0-262-01257-7 |ref=CITEREF_Beam}}
+* {{cite book |title=The Video Game Guide: 1,000+ Arcade, Console and Computer Games, 1962-2012 |edition=2nd |last=Fox |first=Matt |publisher=[[McFarland & Company]] |date=2013-01-03 |isbn=978-0-7864-7257-4 |ref=CITEREF_Guide}}
+* {{cite book |title=Art of Atari |last=Lapetino |first=Tim |publisher=[[Dynamite Entertainment]] |date=2016-10-26 |isbn=978-1-5241-0106-0 |ref=CITEREF_Art}}
+* {{cite book |title=Atari Inc.: Business Is Fun |last1=Goldberg |first1=Marty |last2=Vendel |first2=Curt |publisher=Syzygy Press |date=2012-11-25 |isbn=978-0-9855974-0-5 |url-access=registration |url=https://archive.org/details/atariincbusiness0000gold |access-date=2019-09-07 |archive-url=https://web.archive.org/web/20200111212147/https://archive.org/details/atariincbusiness0000gold |archive-date=2020-01-11 |url-status=live |ref=CITEREF_Atari}}
+* {{cite book |last1=Smith |first1=Alexander |title=They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry, Vol. I: 1971-1982 |date=2019-11-19 |publisher=[[CRC Press]] |isbn=978-0-429-75261-2 |ref=CITEREF_TCW}}
+* {{cite book |title=The Video Game Explosion: A History from PONG to PlayStation and Beyond |last=Wolf |first=Mark J. P. |date=2007-11-30 |publisher=[[Greenwood Publishing Group]] |isbn=978-0-313-33868-7 |ref=CITEREF_Explode}}
+* {{cite book |last1=Wolf |first1=Mark J. P. |chapter=''BattleZone'' and the Origins of First-Person Shooting Games |editor-last1=Call |editor-first1=Joshua |editor-last2=Voorhees |editor-first2=Gerald A. |editor-last3=Whitlock |editor-first3=Katie |title=Guns, Grenades, and Grunts: First-Person Shooter Games |date=2012-08-09 |publisher=[[Bloomsbury Academic]] |isbn=978-1-4411-4224-5 |ref=CITEREF_Guns}}
+{{refend}}
+
+==External links==
+* {{KLOV game}}
+
+{{1970s Atari arcade games}}
+{{Atari hardware}}
+
+[[Category:1974 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari arcade games]]
+[[Category:Head-to-head arcade video games]]
+[[Category:Kee Games games]]
+[[Category:Maze games]]
+[[Category:Namco arcade games]]
+[[Category:Tank simulation video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,68 @@
+Agent USA
+Permalink: //en.wikipedia.org/w/index.php?title=Agent_USA&oldid=1231140619
+Accessed on: 2024-06-26T16:56:16.747134
+
+
+
+------
+Agent USA
+{{Short description|1984 video game}}
+{{refimprove|date=July 2020}}
+{{Infobox video game
+|title=Agent USA
+| image= Agent USA Coverart.png
+|caption=
+|developer=[[Soup2Nuts|Tom Snyder Productions]]
+|publisher=[[Scholastic Corporation|Scholastic]]
+|designer=[[Tom_Snyder_(animator)|Tom Snyder]]
+|programmer='''Atari 8-bit'''<br>[[Tom_Snyder_(animator)|Tom Snyder]]<br>Omar Khudari<br>'''Apple II''', '''C64''', '''IBM PC'''<br>Leonard Bertoni
+|artist=
+|composer=
+|engine=
+|platforms=[[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]]
+|released=1984
+|genre=[[Adventure video game|Adventure]], [[educational video game|educational]]<ref>1985 Arkie Awards, Electronic Games, 1/1985, p. 27</ref>
+|modes=[[Single-player]]
+}}
+
+'''''Agent USA''''' is an [[adventure game]] designed to teach children spelling, US geography, time zones, and state capitals.<ref>{{cite web |url=http://www.atarimania.com/game-atari-400-800-xl-xe-agent-usa_138.html |title=Agent USA |website=Atari Mania}}</ref> It was developed by Tom Snyder Productions and published in 1984 by [[Scholastic Corporation|Scholastic]] for the [[Apple II]], [[Atari 8-bit computers]], [[Commodore 64]], and [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]).
+
+==Plot==
+A giant mutated television set known as the "Fuzzbomb" has begun infecting cities across America and turning people into walking balls of TV static. The player controls a secret agent assigned to defeat the Fuzzbomb and rescue fuzzed people.
+
+==Gameplay==
+[[File:Agent_USA_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot (Atari 8-bit)]]
+Agent USA travels to different locations in the United States via normal or high-speed train (the latter only in large cities). Tickets are acquired at booths in each city. A list of available cities is presented and the player must type the name exactly as shown to get a train ticket. When the correct train shows up, it may be boarded for the next destination. Time zones change depending on what area of the country Agent USA is in. State capitals will also have an info booth which shows a map of the US along with fuzzed cities and the location of the Fuzzbomb (which moves around the country).
+
+The location of the Fuzzbomb can only be learned from stations at State capitals, so learning the capital city of each State is useful.
+
+The player begins the game with 10 crystals. If dropped on the ground and there's space adjacent to them, the crystals will begin to multiply into more, which can then be picked up. Civilians will try to grab them. They may be pushed out of the way, onto the next screen, or onto a train. Larger cities will have more sections at stations and more civilians.
+
+Cities are de-fuzzed by dropping crystals in the path of fuzzed people, turning them back into civilians. Some civilians will also be carrying crystals (the info map shows how many crystals are present in a city). Civilians are turned into fuzzed people when touched by a fuzzed person.  If Agent USA is touched by a fuzzed person, it will drop the player's crystal inventory by half, rounded up. If touched while carrying none, Agent USA turns into an uncontrollable fuzzed person who will wander around aimlessly and board trains to different cities until he touches a crystal. Fuzzed people may also enter from a nearby contaminated city via train.
+
+The ultimate object is to acquire 100 crystals, mainly by growing them from dropping them on the ground and having them multiply, and enter the city with the Fuzzbomb. Agent USA then has to avoid all fuzzed people in the town the Fuzzbomb occupies, and then touch the Fuzzbomb to win the game.
+
+==Reception==
+''[[Electronic Games]]'' reviewed the game in the October 1984 issue and appreciated its educational merits: "From a gamer's viewpoint ''Agent USA'' is one of the most successful educational titles now on the market. Unlike many learning programs, it stands up well as a fun activity."<ref name="eg"/> Jill Basset (age 13) who reviewed the game for ''K-Power'' magazine agreed: "What surprises and impressed me most about this game is that it really is educational! I was so caught up in having fun that I wasn't even thinking about the fact that map reading, U.S. geography, math and other kinds of skills were being exercised."<ref name="kp"/>
+
+==References==
+{{reflist|refs=
+<ref name="eg">{{cite journal |title=Computer Gaming |journal=Electronic Games |date=October 1984 |page=61-62 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_15_1984-10_Reese_Communications_US/page/n61/mode/2up}}</ref>
+<ref name="kp">{{cite journal |title=Screening Room |journal=K-Power |date=September 1984 |page=58 |url=https://archive.org/details/k-power-magazine-07/page/n63/mode/2up}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=138}}
+*[https://web.archive.org/web/20081005093724/http://classicgaming.gamespy.com/View.php?view=GameMuseum.Detail&id=33 ''Agent USA''] Game of the Week at GameSpy Classic Gaming
+*[http://c64-wiki.com/index.php/Agent_USA ''Agent USA''] at C64 Wiki
+
+[[Category:1984 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Children's educational video games]]
+[[Category:Commodore 64 games]]
+[[Category:Scholastic Corporation video games]]
+[[Category:Single-player video games]]
+[[Category:Tom Snyder Productions games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the United States]]

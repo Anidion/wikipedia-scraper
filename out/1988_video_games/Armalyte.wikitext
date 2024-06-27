@@ -1,0 +1,98 @@
+Armalyte
+Permalink: //en.wikipedia.org/w/index.php?title=Armalyte&oldid=1225046999
+Accessed on: 2024-06-26T17:03:41.732424
+
+
+
+------
+Armalyte
+{{more citations needed|date=October 2017}}
+
+{{Infobox video game 
+|title = Armalyte
+|image = ArmalyteUSBoxShotC64.jpg
+|caption = North American cover art
+|developer = Cyberdyne Systems
+|publisher = [[Thalamus Ltd]]
+|released = {{vgrelease|NA|1988<ref name="gamefaqs">[http://www.gamefaqs.com/c64/564842-armalyte/data ''Armalyte''] at [[GameFAQs]]</ref>|EU|November 1988<ref name="gamefaqs"/>}}
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]<br>[[Multiplayer video game|Multiplayer]]
+|platforms = [[Commodore 64]], [[Amiga]], [[Atari ST]]
+}}
+
+''Armalyte'' is a left-to-right scrolling shooter in the style of ''[[Gradius]]'' released for the [[Commodore 64]] by [[Thalamus Ltd]]. It was marketed by [[Thalamus Ltd|Thalamus]] as the sequel to ''[[Delta (video game)|Delta]]'', which was also a left-to-right horizontally scrolling shoot 'em up, but ''Delta'' was created by a different programming team.
+
+==Gameplay==
+{{Unreferenced section|date=March 2023}}
+
+The aim of Armalyte is to progress to the end of a long, horizontally scrolling level where the screen will cease scrolling and battle will commence with a [[boss (video games)|boss]]. Beating the Boss allows the player to progress to the next level. There are eight levels in all. Smaller Bosses are encountered midway through each level and these also have to be beaten to progress further.
+
+During each level the player encounters numerous small enemy ships, many of which fly in fixed formation. Levels also feature scenery which can destroy the player's ship if touched. Weapons can be upgraded through an upgrade system (see below).
+
+A crucial difference with a number of earlier scrolling shooters is that any weapons upgrades gained during a level are not lost if the player's ship is destroyed. However, at the start of the next level, the player's ship loses all upgrades (except for the Batteries and Generators).
+
+===Weapon system===
+The player's ship (coloured blue) begins the game with a forward-firing laser that produces two shots, and a battery with a single storage cell that powers the ship's 'Super Weapon' (see below). In the one player game there is also an automatic drone ship that has the same capability as the main ship and which follows the main ship around the screen. In the two player game the drone is replaced by a second ship (coloured red and with a different design) that is fully controllable by the second player.
+
+A number of "munitions pods" are positioned throughout the levels and, if shot repeatedly, transform sequentially into a variety of power-ups:
+
+*Extra forward fire - increases the number of forward shots from two to four.
+*Tail fire - adds rear-firing shots.
+*Vertical cannon - adds vertical fire (both up and down directions on screen).
+*Trident - adds two flanking guns to enhance the forward firing rate.
+*Converge - adds two more shots to the forward-firing gun by diverting ammo from the tail gun.
+*Generator - increases the recharge rate of the ship's battery.
+*Battery - adds an extra storage cell to the ship's battery, up to a maximum of four.
+
+The power-ups are collected simply by colliding the ship with them. If the munitions pod is captured without having been converted to a power-up then it makes the ship invulnerable for 5 seconds.
+
+When there is charge in the ship's battery, the player can fire a 'Super Weapon'. There are three types of Super Weapon each of which is fired in the forward direction:
+
+* Type A - a long, sustained blast that can pass through scenery features.
+*Type B - releases several small laser blasts around the spacecraft.
+* Type C - similar to Type A, only the blast is much shorter and does not pass through scenery features.
+
+Firing these weapons reduces the charge in the battery, with Type A the greatest drain, and Type C the least.
+
+The drone ship in single player mode is indestructible and follows the player's ship around the screen. When the main ship fires any of its weapons, the drone will fire the same weapon at the same time. The drone ship can be made to freeze in its position by pressing the space bar on the keyboard, thus allowing the main ship to move independently.
+
+In the Two Player Mode, the drone ship is replaced by another ship which is fully controllable by the second player and has all the same features. The number of Munitions Pods is doubled in the Two Player Mode.
+
+==Development==
+The in-game credits list the members of Cyberdyne Systems as John Kemp (systems programming), Dan Phillips (main programming), and Robin Levy (all graphics, attack waves, level design). Music and sound effects were provided by Martin Walker, who was the programmer of Thalamus' fourth release Hunter's Moon.
+
+==Reception==
+{{Video game reviews
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 97%<ref>{{Cite web|url=http://www.zzap64.co.uk/zzap100/100thspec5.html|title = Zzap!64 100th Issue Pull-Out Special Page 5}}</ref>
+| award1Pub = Zzap!64
+| award1 = Gold Medal
+}}
+Armalyte was critically acclaimed by several magazines and was given the following awards and/or ratings:
+* Gold Medal in issue 46 of ''[[Zzap!64]]'' magazine, with an overall rating of 97%.
+* SuperStar from ''[[Commodore User]]'' magazine.{{citation needed|date=August 2016}}
+* C&VG Hit from ''[[Computer and Video Games]]'' magazine.{{citation needed|date=August 2016}}
+* A FAB award and a 93% rating from Computer Games Week magazine.{{citation needed|date=August 2016}}
+* Best 8-bit Graphics of the Year at the [[Golden Joystick Awards]].<ref>{{Cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue092/Pages/CVG09200062.jpg|title = Computer & Video Games}}</ref>
+
+==Legacy==
+Cyberdyne Systems announced that ''Armalyte 2'' was being developed for the Commodore 64, with an intended 1990 release date. However, the [[Relocation (personal)|moving away]] of key team member Robin Levy made it impossible to progress on the graphical elements, and the game was ultimately cancelled.<ref name="Retro122">{{cite news | last = Fisher | first= Andrew | date = December 2013 | title = The Commodore 64 Games that Time Forgot | work = Retro Gamer | issue = 122 | page = 53 | publisher = Imagine Publishing}}</ref> In 1991 a game called ''Armalyte'' was released on the [[Amiga]] and [[Atari ST]] by Arc Development. This wasn't a port of ''Armalyte'', but a [[remake (software)|remake]] created by Arc Developments. A remake for the [[Game Boy Advance]] was in the works, but never completed.<ref name="Retro122"/>
+
+In 2013 Dan Phillips and Robin Kemp formally announced that they had reunited and were resuming work on ''Armalyte 2''. However, they stressed that due to the geographic separation between them and their lack of access to working Commodore 64 hardware, it would be a very long time before the game was finished, if ever, and that it might consist of no more than a single level.<ref name="Retro122"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{MobyGames|id=/armalyte}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Cancelled ZX Spectrum games]]
+[[Category:Commodore 64 games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Thalamus Ltd games]]
+[[Category:Video games developed in the United Kingdom]]

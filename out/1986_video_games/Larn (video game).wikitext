@@ -1,0 +1,58 @@
+Larn (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Larn_%28video_game%29&oldid=1213287554
+Accessed on: 2024-06-26T17:00:21.604419
+
+
+
+------
+Larn (video game)
+{{Refimprove|date=August 2007}}
+{{Infobox video game
+|title = Larn
+|image = 
+|caption = 
+|developer = Noah Morgan
+|publisher = 
+|designer = Noah Morgan
+|series = 
+|engine = 
+|released = 1986
+|genre = [[Roguelike]] 
+|modes = [[Single-player]]
+|platforms = [[Cross-platform]]
+}}
+
+'''''Larn''''' is a [[roguelike]] [[video game]] written by Noah Morgan in 1986 for the [[UNIX]] [[operating system]]. Morgan's original version of ''Larn'' remains part of the [[NetBSD]] games collection.<ref name="NetBSD-larn">[http://cvsweb.netbsd.org/bsdweb.cgi/src/games/larn/ src/games/larn/]. NetBSD CVS Repositories. Accessed January 18, 2008.</ref>
+
+It can take many hours and tens (or even hundreds) of thousands of game turns to beat other roguelikes, such as ''[[NetHack]]'' or ''[[Ancient Domains of Mystery]]'',<ref>{{cite web |url=http://homepage.mac.com/mhjohnson/mag-r343.html#section-1.3. |title=The Nethack Outline |website=Maniac's Ascension Guide |archive-url=https://web.archive.org/web/20110917143420/http://homepage.mac.com/mhjohnson/mag-r343.html#section-1.3. |archive-date=2011-09-17}}</ref> but ''Larn'' can reasonably be completed in one play session.<ref>{{Cite web|url=http://www.gamesetwatch.com/2008/04/play_larn_or_i_hocked_the_car.php|title=GameSetWatch COLUMN: @Play: Larn, or, I Hocked the Car to Buy a Lance of Death|access-date=2008-12-20|archive-date=2015-09-24|archive-url=https://web.archive.org/web/20150924020737/http://www.gamesetwatch.com/2008/04/play_larn_or_i_hocked_the_car.php|url-status=dead}}</ref>
+
+==History==
+Primary development of ''Larn'' halted in 1991 with version 12.3, but its [[Open-source software|open source]] nature has led to later variants. Developers have ported the game to such diverse [[operating systems]] as [[Solaris (operating system)|Solaris]], [[Amiga OS]], [[Atari TOS]], and [[Microsoft Windows]].
+
+In October 2015, a GitHub repository was created and ''Larn'' started to be developed and maintained once again from the original source code. This makes ''Larn'' one of the oldest video games still being developed.<ref>{{Cite web|url=https://github.com/atsb/RL_M|title = RL_M|website = [[GitHub]]|date = 18 July 2021}}</ref>
+
+===''ULarn''===
+In 1987, Phil Cordier modified the ''Larn'' [[source code]] to form '''''Ultra-Larn''''', or more commonly, '''''ULarn'''''. It introduced true character classes and additional levels, weapons, etc. As with its parent, other developers have maintained and refined ''ULarn'' in the absence of its author.
+
+==Gameplay==
+''Larn'' is one of the first roguelike games to feature a persistent [[Overworld#Home level|home level]] - in this case, a town. In addition to the player's residence, the town offers a bank, a shop, a [[trading post]], a school, a tax administration office, and entrances to two [[Dungeon crawl|dungeons]], one of which is a volcano.
+
+The goal of ''Larn'' is for the player to traverse a dungeon in search of a potion that will cure his ailing daughter of 'dianthroritis'. This quest is [[turn-based|time-limited]], measured in 'mobuls'. Apart from the main dungeon's ten levels, three additional levels are located beneath a volcanic shaft. To obtain the sought-after potion, the player must first acquire adequate experience, power, and gold. ''Larn'' increases in difficulty each time it is finished, making it harder for players to perform in-game actions, such as destroying walls or statues. ''Larn'' also requires the player pay a tax in subsequent games based on the amount of money in the player's possession when the game was last won.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://larn.org The unofficial ''Larn'' game homepage with links to articles, source code, other variants of ''Larn'', and an option to play the DOS and Amiga versions of ''Larn'' online]
+* {{MobyGames|id=/larn}}
+* {{Internet Archive game|id=msdos_Larn_1986}}
+* [https://web.archive.org/web/20050304120323/http://www.ularn.org/ Josh Brandt's ''ULarn'']
+* [http://larn-game.blogspot.com Larn Blog with Strategies/Easter Eggs]
+* [https://nlarn.github.io/ ''NLarn'', an adaptation of ''Larn'' for Linux, Mac OS X, Windows]
+* [https://play.google.com/store/apps/details?id=org.qtproject.dLarn_free&hl=en dLarn - a free (no ads, no in-game purchases) re-implementation of uLarn for Android with graphics]
+* [http://swinfjord-games.com/LarnII-us.html ''XLarn'', a heavily extended version of ''Larn'']
+
+[[Category:Roguelike video games]]
+[[Category:1986 video games]]
+[[Category:Video games with available source code]]
+[[Category:Video games developed in the United States]]

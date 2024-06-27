@@ -1,0 +1,69 @@
+Welltris
+Permalink: //en.wikipedia.org/w/index.php?title=Welltris&oldid=1224477483
+Accessed on: 2024-06-26T17:07:52.872912
+
+
+
+------
+Welltris
+{{Infobox video game
+| title = Welltris
+| image = Welltris box.jpg
+| developer = Doca<br>Sphere<br>Bullet-Proof Software
+| publisher = {{Video game release|EU|[[Infogrames]]|NA|[[Spectrum HoloByte]]}}
+| designer = [[Alexey Pajitnov]]<br>Andrei Snegov
+| released = '''1989:''' MS-DOS<br>'''1990:''' Amiga, Amstrad, Atari ST, Mac<br>'''1991:''' Arcade, C64, Spectrum<br>'''1992:''' PC-98
+| genre = [[Puzzle video game|Puzzle]]
+| modes = [[Single-player video game|single-player]]
+| series = ''Tetris''
+| platforms = [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[ZX Spectrum]], [[Commodore 64]], [[MS-DOS]], [[Macintosh]], [[Arcade video game|Arcade]]
+}}
+
+'''''Welltris''''' is a [[puzzle video game]], developed by [[Doca (video game developer)|Doca]] and licensed to [[Bullet-Proof Software]]. It is an official game in the ''[[Tetris]]'' series. Adaptations were made by Sphere, Inc., for [[Spectrum HoloByte]], and by [[Infogrames]]. It was released for [[MS-DOS]] compatible operating systems in 1989. Ports for [[Macintosh]], [[Amiga]], [[Amstrad CPC]], and [[Atari ST]] followed 1990, then [[ZX Spectrum]] and [[Commodore 64]] 1991.
+
+==Gameplay==
+''Welltris'' was the first ''[[Tetris]]'' sequel designed by original designer [[Alexey Pajitnov]], with Andrei Sgenov. It retains that game's falling-block puzzle gameplay but extends the pit into three dimensions while the blocks remain two-dimensional, with the board viewed from above.
+
+As blocks descend into the well, they can be rotated or moved left or right along the walls, from one wall to another if desired. Once a block reaches the floor, it will slide as far as possible until stopped by an edge or another piece. Whenever the player completes a solid horizontal or vertical line, it disappears and the remaining squares slide to fill the open space.<ref name=st_action>{{cite journal|first=Nick|last=Clarkson|journal=[[ST Action]]|issue=34|date=February 1991|title=Welltris|url=http://www.atarimania.com/mags/pdf/atari_st_action_34.pdf|page=90}}</ref>
+
+If a falling block comes to rest with any part of itself still on a wall, that wall is temporarily frozen; no blocks can be moved onto it during this time. Freezing all four walls ends the game.<ref name=st_action />
+
+==Reception==
+<!--DOS, Mac, Amiga and Atari ST review scores to go here (being the earlier releases)-->In 1990, ''[[Dragon (magazine)|Dragon]]'' gave the [[Macintosh IIx]] version of the game 5 out of 5 stars.<ref name="Dragon159">{{cite journal |title=The Role of Computers |last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk |journal=Dragon |issue=159 |date=July 1990 |pages=47–53}}</ref> ''[[MacUser]]'' reviewed the Macintosh version of ''Welltris'', praising the new playstyle as compared to its predecessor, and stating that "''Welltris'' is both thoughtful and highly addictive."<ref>{{cite magazine|last = Breen|first = Christopher|title = Welltris Review|date = October 1990|url = https://archive.org/details/MacUser9010October1990/page/n81|magazine = MacUser|publisher = Dennis Publishing Ltd.|pages = 80–81}}</ref> ''[[Macworld]]'' also reviewed the Mac version, praising its gameplay, music and graphics, summarizing their thoughts by stating "[''Welltris''] successfully extends the ''Tetris'' metaphor; cheery folk music and captivating scenes; very challenging." ''Macworld'' criticizes the steep learning curve and a point in the game where the speed of the falling pieces become unmanagable, referring to the latter as the "one annoying habit" that it shares with ''Tetris''.<ref>{{cite magazine|last = O'Meara|first = Felicity|title = Game Hall of Fame|date = September 1990|url = https://archive.org/details/MacWorld_9009_September_1990/page/n269|magazine = Macworld|publisher = Mac Publishing|page = 263}}</ref>
+
+The ZX Spectrum version had mixed reviews, with ''[[CRASH (magazine)|CRASH]]'' awarding 79%,<ref>{{cite journal |journal=CRASH |issue=87 |date=April 1991 |title=Welltris |page=40 |url=https://archive.org/details/crash-magazine-87}}</ref> ''[[Sinclair User]]'' awarding 45%<ref>{{cite journal |journal=Sinclair User |issue=110 |title=Welltris |page=28 |date=April 1991 |url=https://archive.org/details/sinclair-user-magazine-110}}</ref> and ''[[Your Sinclair]]'' giving 79%.<ref>{{cite journal |journal=Your Sinclair |issue=64 |date=April 1991 |title=Welltris |page=64 |url=https://archive.org/details/your-sinclair-64}}</ref> The actual gameplay and addictiveness were highlighted as good areas, but criticisms included the fiddly controls and minimal sound and looks.
+
+The Commodore 64 version, with its more colourful graphics, received 80% from ''[[Zzap!64]]''.<ref>{{cite journal|url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=071&page=017&magazine=zzap|title=Zzap!Test!|journal=Zzap!64|issue=71|date=March 1991}} at the Def Guide to Zzap!64</ref>
+
+==See also==
+*''[[3D Tetris]]''
+*''[[Blockout]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/welltris|name=''Welltris''}}
+*[http://www.worldofspectrum.org/infoseekid.cgi?id=0005659 ''Welltris''] at [[World of Spectrum]].
+*{{abime|id=1684}}
+
+{{Tetris}}
+{{Authority control}}
+
+[[Category:Tetris games]]
+[[Category:1989 video games]]
+[[Category:Alexey Pajitnov games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Arcade video games]]
+[[Category:Atari ST games]]
+[[Category:Blue Planet Software games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Classic Mac OS games]]
+[[Category:ZX Spectrum games]]
+[[Category:Spectrum HoloByte games]]
+[[Category:Soviet games]]
+[[Category:Video games developed in Russia]]
+[[Category:Single-player video games]]
+[[Category:Doka (video game developer) games]]

@@ -1,0 +1,68 @@
+Pastfinder
+Permalink: //en.wikipedia.org/w/index.php?title=Pastfinder&oldid=1224117888
+Accessed on: 2024-06-26T16:57:17.054336
+
+
+
+------
+Pastfinder
+{{short description|1984 video game}}
+
+{{Infobox video game
+| title = Pastfinder
+| image = Pastfinder_Cover_Art.jpg
+| caption = 
+| released = 1984
+| designer = [[David Lubar]]
+| programmer = 
+| composer = 
+| publisher = [[Activision]]
+| developer =  
+| platforms = [[Atari 8-bit]], [[Commodore 64]], [[MSX]]
+| genre = [[Scrolling shooter]]
+}}
+
+'''''Pastfinder''''' is a vertically [[scrolling shooter]] designed by [[David Lubar]] and published by in 1984 by [[Activision]] for the [[Atari 8-bit computers]], [[Commodore 64]], and [[MSX]].<ref name="giantlist"/>
+
+==Plot==
+The year is 8878, and the player is a member of an elite legion of planetary explorers known as The Pastfinders. His job is to collect artifacts from a mysterious, irradiated planet and deliver them to bases distributed across the lifeless area. Searing radiation and a deadly, mechanized landscape defense are the player's obstacles: the only remnants of an extinct civilization.<ref name="manual"/>
+
+==Gameplay==
+[[File:Pastfinder_Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit gameplay]]
+
+The goal of the ''Pastfinder'' is to collect historical artifacts and deliver them to bases scattered around the planet. Two major obstacles stand in the way of this mission. The first is the planet's automated defense system, consisting of multiple hovering barriers, rising and falling columns, opening and closing doors, fixed obstacles, and drones. Some of these can be destroyed, others simply bypassed or jumped over. The other obstacle is the land itself, large areas of which are intensely radioactive. The player is equipped with a radiation meter and alarm, as well as anti-radiation devices.
+
+At the beginning of the game, the player has access to a very small portion of the planet map, which will be revealed as exploration progresses. After selecting a square of the map to explore, the player is presented with a weapons screen and can choose their equipment. To replenish supplies, the player can collect spare parts that are scattered around the planet. The game ends when a player loses all their ships. Additional ships can sometimes be found on the planet's surface and are also earned every 5000 points.
+
+==Development==
+David Lubar began work on ''Pastfinder'' with a simple top view. Then one of his colleagues suggested that he try a more 45-degree back view. At first, it was a view of just the main character, but then Lubar began adding obstacles in the background. Using a unique Atari 8-bit hardware feature, he was able to make the 3D collisions very accurate. The program checked to see if the player was in collision with an object and if his shadow collided with the shadow of that object. Lubnar wanted the game to be titled "Shadow Walker" but Activision did not agree.<ref name="interview"/>
+
+''Pastfinder'' was released about the same time as [[David Crane (programmer)|David Crane]]'s ''[[Ghostbusters (1984 video game)|Ghostbusters]]'' and Activision focused all of their advertising efforts on that title.<ref name="interview"/>
+
+==Reception==
+''Pastfinder'' received fairly positive reviews. ''[[Zzap!64]]'' in its inaugural issue praised the graphics and presentation, but also criticized the game's sound, giving it an 85% overall. The reviewer praised the game's lastability: "[...] it has plenty in store and it takes quite a while to appreciate its more subtle touches."<ref name="zzap"/> ''[[Commodore Computing International]]'' found the game "a good traditional style arcade skirmish with some great graphical effects."<ref name="cci"/> [[Bill Kunkel (journalist)|Bill Kunkel]] reviewed the game for ''[[Electronic Games]]'' and warned: "Once the novelty of the perspective, a sort of vertically-scrolling Zaxxon, and a leaping fighter craft wear off, it's just another mindless shootout."<ref name="eg"/>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="manual">{{cite web |title=Pastfinder Manual |url=https://archive.org/details/agm_pastfinder |website=The Internet Archive}}</ref>
+<ref name="zzap">{{cite journal |title=Pastfinder Review |journal=Zzap!64 |date=May 1985 |page=21 |url=https://archive.org/details/zzap64-magazine-001/page/n19/mode/2up}}</ref>
+<ref name="cci">{{cite journal |title=Arcade Reviews: Pastfinder |journal=Commodore Computing International |date=May 1985 |page=40 |url=https://archive.org/details/Commodore_Computing_International_Vol_03_No_10_1985-05_Croftward_GB/page/n39/mode/2up}}</ref>
+<ref name="eg">{{cite journal |title=Action Arena: Pastfinder |journal=Electronic Games |date=February 1985 |page=37 |url=https://archive.org/details/Electronic_Games_Volume_03_Number_03_1985-03_Reese_Communications_US/page/n35/mode/2up}}</ref>
+<ref name="interview">{{cite web |title=David Lubar Interview |url=https://dadgum.com/halcyon/BOOK/LUBAR.HTM |website=Halcyon Days}}</ref>
+}}
+
+==External links==
+*{{MobyGames|id=/pastfinder}}
+*[https://archive.org/details/1986-03-anticmagazine/page/n77/mode/2up Review] in [[Antic (magazine)|Antic]]
+
+[[Category:1984 video games]]
+[[Category:Activision games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:MSX games]]
+[[Category:Post-apocalyptic video games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Video games set in the future]]
+[[Category:Video games set on fictional planets]]
+[[Category:Video games developed in the United States]]

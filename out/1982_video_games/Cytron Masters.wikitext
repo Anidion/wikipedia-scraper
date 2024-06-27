@@ -1,0 +1,52 @@
+Cytron Masters
+Permalink: //en.wikipedia.org/w/index.php?title=Cytron_Masters&oldid=1228372012
+Accessed on: 2024-06-26T16:53:15.736603
+
+
+
+------
+Cytron Masters
+{{Infobox video game |title= Cytron Masters
+|image=Cytron Masters boxart.jpg
+|developer= [[Ozark Softscape]]
+|publisher= [[Strategic Simulations]]
+|designer= [[Danielle Bunten Berry|Danielle Bunten]]
+|engine=
+|released= {{vgrelease|NA|July-August 1982}}
+|genre= [[Real-time tactics]] <br> [[Real-time strategy]]<ref name=gamasutra/><ref>{{cite web | last = Moss | first = Richard | title = Build, gather, brawl, repeat: The history of real-time strategy games | magazine = [[Ars Technica]] | date = September 15, 2017| url = https://arstechnica.com/gaming/2017/09/build-gather-brawl-repeat-the-history-of-real-time-strategy-games/}}</ref>
+|modes= [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms= [[Apple II series|Apple II]], [[Atari 8-bit]]
+}}
+
+'''''Cytron Masters''''' is a [[computer game]] by [[Danielle Bunten Berry|Danielle Bunten]] released for the [[Apple II series|Apple II]] and [[Atari 8-bit computers]] in July or August 1982.<ref>{{Citation | last = Sipe | first = Russell | title = Hobby and Industry News | magazine = [[Computer Gaming World]] | pages = 1, 4 | date = July–August 1982 | url = http://www.cgwmuseum.org/galleries/issues/cgw_2.4.pdf}}</ref> Developed by [[Ozark Softscape]] and released by [[Strategic Simulations]], ''Cytron Masters'' is one of the earliest computer games that can be considered a [[real-time strategy]] game,<ref name="gamasutra">{{cite web | last = Barton | first = Matt | publisher = [[Gamasutra]] | url=https://www.gamasutra.com/view/feature/1706/the_history_of_computer_.php?page=3 | title=The History of Computer Role-Playing Games Part 2: The Golden Age (1985-1993) | access-date=October 16, 2017 | quote = "SSI's most famous non-CRPG game is probably Cytron Masters (1982), one of the first (if not ''the'' first) real-time strategy games." }}</ref><ref name=dani_memoirs>{{cite web | url=http://www.anticlockwise.com/dani/personal/biz/memoir.htm | title=Game Design Memoir by Dani Bunten Berry | access-date=13 July 2008 | url-status=dead | archive-url=https://web.archive.org/web/20090312065934/http://anticlockwise.com/dani/personal/biz/memoir.htm | archive-date=12 March 2009 }}</ref> or a [[real-time tactics]] predecessor to the genre,<ref name="1UP">{{cite web|url=http://www.1up.com/do/feature?cId=3134179|title=Hail to the Duke|author=Scott Sharkey|publisher=[[1UP.com]]|access-date=2011-03-01|url-status=dead|archive-url=https://web.archive.org/web/20040913063641/http://www.1up.com/do/feature?cId=3134179|archive-date=2004-09-13}}</ref> requiring the players to build up their forces in order to win.
+
+==Gameplay==
+In the game each player takes the role of the commander, represented on-screen in Command Centers located on opposite sides of the screen. Scattered around the screen are eight "generators" that produce energy. The energy produced by these generators is the resource in the game, similar in function to the more tangible resources gathered in modern RTS games. Energy can then be "spent" to produce the Cytrons, robot warriors, as well as using it to move them about, fire, and other duties.
+
+The playfield consists of a twelve by six grid of possible locations, with the command centers at the (1,3) and (12,3) locations. Five different types of Cytrons can be built and moved about the grid. Shooters fire at the closest of any enemy units with a three-space range, mines detonate when an enemy approaches, bunkers absorb damage, and missiles fly up and over the battlefield to detonate at a selected location. The fifth unit, the Commander, relays commands from the Command Centers out to the units in the field.
+
+Gameplay is somewhat chess-like, a battle for position. Bunkers and mines become important along the front lines, protecting friendly units from attack while they are developed forward.
+
+==Reception==
+Mark Botner reviewed the game for ''[[Computer Gaming World]]'', and stated that "Cytron Masters is an exciting game offering multiple levels of play with variations to suit the individual: Play on all levels guarantees an action-packed episode of futuristic combat."<ref name="CGW6">{{cite magazine |last=Botner |first=Mark |title=Cytron Masters: The View From a Play Tester |magazine=Computer Gaming World |date=September–October 1982 |volume=1 |issue=6 |pages=30, 45}}</ref>
+
+Chris Smith reviewed SSI's ''RapidFire Line'' in ''[[The Space Gamer]]'' No. 59, and commented that "''Cytron Masters'' requires a bit of tactical know-how, and its real-time command system gives it a slight arcade feel. I think this is the perfect combination of arcade and board game."<ref name="SG">{{cite journal|last= Smith |first= Chris |date=January 1983 |title=SSI's RapidFire Line: Featured Review|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=59|pages=14–15}}</ref>
+
+In a 1992 survey of science fiction games, ''[[Computer Gaming World]]'' gave the title two of five stars.<ref name="brooks199211">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Strategy & Wargames: The Future (2000-....) | magazine=Computer Gaming World | date=November 1992 | access-date=4 July 2014 | author=Brooks, M. Evan | pages=99}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Dani Bunten}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Video games designed by Danielle Bunten Berry]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Real-time strategy video games]]
+[[Category:Strategic Simulations games]]
+[[Category:Video games developed in the United States]]
+
+{{strategy-videogame-stub}}

@@ -1,0 +1,49 @@
+Dungeon (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dungeon_%28video_game%29&oldid=1224886664
+Accessed on: 2024-06-26T16:47:29.904924
+
+
+
+------
+Dungeon (video game)
+{{Short description|1975 video game}}
+{{About|the PDP-10 video game|the FORTRAN version of ''Zork''|Zork#MIT|the 1982 Apple II video game|Dungeon! (video game)|the 1993 Acorn Archimedes video game|The Dungeon (1993 video game)|the 2011 Windows video game|Dungeons (video game)}}
+{{Refimprove|date=January 2011}}
+
+{{Infobox video game
+| genre = [[Role-playing]]
+| platform = [[PDP-10]]
+| developer = [[Don Daglow]]
+| released = 1975 or 1976
+}}
+
+'''''Dungeon''''' was one of the earliest [[role-playing video game]]s, running on [[PDP-10]] [[mainframe computer]]s manufactured by [[Digital Equipment Corporation]].
+
+==History==
+''Dungeon'' was written in either 1975 or 1976 by [[Don Daglow]], then a student at Claremont University Center (since renamed [[Claremont Graduate University]]). The game was an unlicensed implementation of the new [[tabletop role-playing game]] ''[[Dungeons & Dragons]]'' (''D&D'') and described the movements of a multi-player party through a [[Dungeon crawl|monster-inhabited dungeon]].  Players chose what actions to take in combat and where to move each character in the party, which made the game very slow to play by today's standards. Characters earned [[experience point]]s and gained skills as their "level" grew, as in ''D&D'', and most of the basic tenets of ''D&D'' were reflected.
+
+Daglow wrote in 1988, "In the mid-seventies I had a fully functioning fantasy role-playing game on the PDP-10, with both ranged and [[melee combat]], [[line of sight (gaming)|lines of sight]], [[automap|auto-mapping]] and [[non-player character|NPC's]] with discrete AI."<ref name="daglow198808">{{cite magazine | title=The Changing Role of Computer Game Designers | magazine=[[Computer Gaming World]] | issue=50 | date=August 1988 | url=http://www.cgwmuseum.org/galleries/issues/cgw_50.pdf | access-date=23 April 2016 | last=Daglow | first=Don L. | pages=18}}</ref> Although the game was nominally played entirely in text, it was also the first game to employ line of sight graphics displays. Its use of [[computer graphics]] consisted of top-down dungeon maps that showed the portions of the playfield the party had seen, allowing for light or darkness, the different "[[infravision]]" abilities of [[Elf (Dungeons & Dragons)|elves]], [[Dwarf (Dungeons & Dragons)|dwarves]], etc.
+
+This advancement was possible because many university computer terminals had switched by the mid-1970s to [[Cathode ray tube|CRT]] screens, which could be refreshed with text in a few seconds instead of a minute or more. Earlier games printed game status for the player on [[Teleprinter|Teletype]] machines or a [[line printer]], at speeds ranging from 10 to 30 characters per second.
+
+While ''Dungeon'' was widely available via [[DECUS]], it was picked up by fewer universities and systems in the mid-1970s than Daglow's earlier ''[[Star Trek (script game)|Star Trek]]'' video game had been in 1971, primarily because it took a then-significant 36K of system [[RAM]] versus 32K for ''Star Trek''.  Many schools viewed games as gimmicks to interest students in computers, but wanted only small, fast-play examples to minimize games' actual use to reserve time for math and science research and student use. As a result, the early-1970s' maximum size of 32K that many schools set as a limit on games had been downgraded on some campuses to as little as 16K.
+
+Years later (ca. 1980)<ref name="iltdungeon">{{cite web|title=Dungeon README|author=Ian Lance Taylor|date=1991-03-11|access-date=2012-12-10|url=http://stuff.mit.edu/afs/athena/contrib/games/src/dungeon/README}}</ref> DECUS distributed another game named ''Dungeon'', that was in fact a version of ''[[Zork#Dungeon|Zork]]'', a text adventure game that would later become the model for early [[Multi-user dungeon|MUD]]s.<ref name="ddream">{{Cite book|first=Brad|last=King|first2=John M.|last2=Borland|url=https://books.google.com/books?id=CvxOAAAAMAAJ |title=Dungeons and Dreamers: The Rise of Computer Game Culture from Geek to Chic |publisher=[[McGraw-Hill|McGraw-Hill/Osborne]] |year=2003 |access-date=2010-09-25 |isbn = 0-07-222888-1 |  ref=borlanddd}}</ref>
+
+A third game called ''Dungeon'' was released on [[PLATO (computer system)|PLATO]] in 1975, by John Daleske, Gary Fritz, Jan Good, Bill Gammel, and Mark Nakada.<ref>{{cite web|first=Matt|last=Barton|date=2007-07-03|url=http://www.armchairarcade.com/neo/node/1396|title=Fun with PLATO|work=Armchair Arcade|access-date=2010-09-08|archive-url=https://web.archive.org/web/20171120234946/http://www.armchairarcade.com/neo/node/1396|archive-date=2017-11-20|url-status=dead}}</ref> <!-- Maybe this is the one that features Rivett and a 3D display? -->
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.gamasutra.com/features/20070223a/barton_pfv.htm The History of Computer Role-Playing Games Part 1: The Early Years (1980-1983)]
+
+{{Dungeons & Dragons video games}}
+
+[[Category:1975 video games]]
+[[Category:Cooperative video games]]
+[[Category:Dungeons & Dragons video games]]
+[[Category:Mainframe games]]
+[[Category:Role-playing video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with textual graphics]]

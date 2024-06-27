@@ -1,0 +1,143 @@
+Battle Chess
+Permalink: //en.wikipedia.org/w/index.php?title=Battle_Chess&oldid=1208708332
+Accessed on: 2024-06-26T17:03:45.514554
+
+
+
+------
+Battle Chess
+{{Short description|1988 video game}}
+{{Infobox video game
+| title = Battle Chess
+| image = Battle Chess.png
+| caption = Cover art showing the red queen killing a blue knight
+| developer = [[Interplay Entertainment|Interplay Productions]]<br>[[Silicon & Synapse]] <small>(C64)</small><ref>{{cite web|url=http://pc.ign.com/articles/090/090953p1.html|title=A Decade of Blizzard|date=2001-02-01|website=IGN|accessdate=2008-07-07|quote=Commodore 64 Battle Chess, Windows Battle Chess, Amiga Battle Chess II, Amiga Lord of the Rings, and Windows Shanghai were some of our early projects.|archive-url=https://web.archive.org/web/20180908074555/http://www.ign.com/articles/2001/02/02/a-decade-of-blizzard|archive-date=2018-09-08|url-status=dead}}</ref>
+| publisher = Interplay Productions  [[Data East]] (NES)
+| designer = Michael Quarles<br>Jayesh J. Patel<br>Troy P. Worrell
+| artist = Todd J. Camasta<br>Bruce Schlickbernd
+| producer = [[Brian Fargo]]
+| released = 1988–1994
+| genre = [[Chess]]
+| modes = [[Single-player]], [[Multiplayer video game|Multiplayer]]
+| platforms = [[Amiga]], [[3DO Interactive Multiplayer|3DO]], [[Acorn Archimedes|Archimedes]], [[Amiga CD32|CD32]], [[Amiga CDTV|CDTV]], [[Apple IIGS]], [[Apple II]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[FM Towns]], [[NES]], [[Mac (computer)|Mac]], [[PC-98]], [[X68000]], [[Windows]]
+}}
+
+'''''Battle Chess''''' is a [[video game]] version of [[chess]] with [[2.5D]] graphics and fighting animations showing the result of one piece moving onto the square of another. It was developed and released by [[Interplay Entertainment]] for the [[Amiga]] in 1988 and ported to many other systems, including the [[3DO Interactive Multiplayer]], [[Acorn Archimedes]], [[Amiga CD32]], [[Amiga CDTV]], [[Apple IIGS]], [[Apple II]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[FM Towns]], [[Nintendo Entertainment System]], [[MacOS]], [[PC-98]], [[X68000]], and [[Microsoft Windows]]. In 1991, '''''Battle Chess Enhanced''''' was released by Interplay for IBM PC compatibles and Macintosh with improved [[VGA]] graphics and a symphonic musical score played from the [[CD-ROM]].
+
+''Battle Chess'' was critically acclaimed and commercially successful, resulting in two official follow-ups as well as several inspired games. A [[Video game remake|remake]], ''Battle Chess: Game of Kings'', was released on [[Steam (service)|Steam]] on December 11, 2015.
+
+== Gameplay ==
+[[File:ST Battle Chess.png|thumb|left|Atari ST screenshot]]
+
+''Battle Chess'' follows the same rules as traditional chess, with [[chess piece|piece]]s moving in an animated fashion and battles playing out so that the capturing piece defeats its target. Furthermore, when [[checkmate]] is delivered, the checkmating piece fights and defeats the king. Since there are six types of pieces for each color, and a king cannot check (let alone capture) another king, there are a total of 35 different battle animations.<ref name = "CGW">{{Cite news | date = Feb 1989 | last = St. Andre | first = Ken | authorlink = Ken St. Andre | magazine = [[Computer Gaming World]] | title =Low Blows and Other Winning Moves | issue = 56 | page = 27}}</ref> The [[Rook (chess)|rook]], for example, turns into a [[Golem|rock monster]] and kills a pawn by smashing its head, and the rook kills the queen by eating her. There are some pop-culture homages; the knight versus knight animation references the [[black knight]] fight in ''[[Monty Python and the Holy Grail]]'', and the king versus bishop fight pastiches the short battle between [[Indiana Jones (character)|Indiana Jones]] and a swordsman in ''[[Raiders of the Lost Ark]]''.
+
+The game can be also played in a 2D version with no animations, and the [[Amiga CDTV]] version has a fully voiced introduction describing the movements of the pieces for the benefit of beginners. Digitized sound is used in the MS-DOS version for all battle sound effects and is played through the [[PC speaker]], without the need for a sound card, using a technique akin to [[RealSound]].
+
+''Battle Chess'' can be played against a human opponent (by [[hotseat (multiplayer mode)|hotseat]], [[null modem]] or over a [[local area network]] in some ports) or against the computer's [[artificial intelligence]] (AI).<ref name="CGW"/> The game has an [[Chess opening book (computers)|opening library]] of over 30,000 moves (which were not available for the [[Commodore 64]] and [[Apple II]] versions). {{clear left}}
+
+== Development ==
+''Battle Chess'' was the first title developed and published by [[Interplay Entertainment]] themselves after ending their relationship with [[Electronic Arts]], besides ''[[Neuromancer (video game)|Neuromancer]]''.
+
+''Battle Chess'' producer and Interplay's founder [[Brian Fargo]] expressed his fondness for the game in a 2006 interview, although he added that he did not think there would be much of an audience for it today.<ref>{{Cite web |url=http://www.firingsquad.com/news/newsarticle.asp?searchid=13641 |title=inXile Entertainment Update - News and Siteseeing<!-- Bot generated title --> |access-date=2007-11-29 |archive-url=https://web.archive.org/web/20070210164815/http://firingsquad.com/news/newsarticle.asp?searchid=13641 |archive-date=2007-02-10 |url-status=live }}</ref>
+
+An apocryphal story of the development was the invention of "The Duck" (an example of Parkinson's [[law of triviality]]): The producers of the game were known to demand changes to the game, presumably to make their mark on the finished product. To this end, one animator added a small duck around the queen piece, but made sure that the sprite would be easily removable. Come review, the producers, predictably, okayed everything but asked for the duck to be removed.<ref>{{cite web|url=http://blog.codinghorror.com/new-programming-jargon/|title=New Programming Jargon|work=codinghorror.com|date=20 July 2012|access-date=2014-08-26|archive-url=https://web.archive.org/web/20150602072210/http://blog.codinghorror.com/new-programming-jargon/|archive-date=2015-06-02|url-status=live}}</ref>
+
+== Reception ==
+{{Video game reviews
+<!-- Reviewers -->
+| CVG = 84%<ref>Battle Chess review from Computer + Video Games 87 (Jan 1989) - Amiga Magazine Rack<!-- Bot generated title --></ref>
+| Dragon = {{rating|3.5|5}}<ref name="Dragon144">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk|journal=Dragon|issue=144|date=April 1989|pages=60–68}}</ref> <br>  {{rating|5|5}} (CD)<ref name="Dragon192">{{cite journal|title=The Role of Computers|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk|journal=Dragon|issue=192|date=April 1993|pages=57–63}}</ref>
+| EGM = 6.2/10 (3DO)<ref name="EGM54"/>
+<!-- Custom reviewers -->
+| rev1 = ''[[Amiga User International]]''
+| rev1Score = 9/10<ref>Battle Chess review from AUI Vol 2 No 12 (Dec 1988) - Amiga Magazine Rack<!-- Bot generated title --></ref>
+| rev2 = ''[[Commodore User]]''
+| rev2Score = 85%<ref>Battle Chess review from Commodore User (Nov 1988) - Amiga Magazine Rack<!-- Bot generated title --></ref>
+| rev3 = ''[[ST/Amiga Format]]''
+| rev3Score = 84%<ref>Battle Chess review from ST Amiga Format 6 (Dec 1988) - Amiga Magazine Rack<!-- Bot generated title --></ref>
+}}
+
+''Battle Chess'' sold 250,000 copies by February 1993.<ref name=cgwsales>{{cite magazine| author=Staff |title=Letters from Paradise |date=February 1993 |issue=103| magazine=[[Computer Gaming World]] | pages=154, 156}}</ref>
+
+[[Ken St. Andre]] reviewed the game for ''[[Computer Gaming World]]'', and stated that "Quibbles aside, every chess player will want a copy of this program, and every Amiga owner owes it to him/herself to see Battlechess in action. Highly recommended."<ref name = "CGW"/>
+
+The Amiga version received favourable reviews from magazines due to its comical battle sequences which were advanced (for the time) in terms of graphics, animation and sound. German game magazine ''ASM'', however, criticized the weak chess AI.<ref>{{cite web |url=http://www.kultboy.com/index.php?site=t&id=584 |title=DIE Kult Seite über die alten Spiele-Magazine und Retro-Games! |publisher=Kultboy.com |accessdate=2012-07-06 |archive-url=https://web.archive.org/web/20131206104108/http://www.kultboy.com/index.php?site=t&id=584 |archive-date=2013-12-06 |url-status=live }}</ref> In a review of the 3DO version, Mike Weigand of ''[[Electronic Gaming Monthly]]'' stated, "If you are a chess fan, then you may want to check this title out."<ref name="EGM54">{{cite magazine|title=Review Crew: Battle Chess|magazine=[[Electronic Gaming Monthly]]|issue=54|publisher=Sendai Publishing|date=January 1994|page=48}}</ref>
+
+In 1994 ''[[Computer Gaming World]]'' said of the [[video game remake|remake]], ''Battle Chess Enhanced'', that "Better artwork, smoother animations, and a much stronger chess algorithm than its disk predecessors make the CD version a good buy".<ref name="cgw199404">{{Cite magazine
+ |date         = April 1994
+ |title        = Invasion Of The Data Stashers
+ |url          = http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=117
+ |magazine     = Computer Gaming World
+ |pages        = 20–42
+ |access-date  = 2017-11-10
+ |archive-url  = https://web.archive.org/web/20171111041726/http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=117
+ |archive-date = 2017-11-11
+ |url-status     = live
+}}</ref>
+
+Interplay won "Best Graphics Achievement In A Non-Graphics Product" from [[Software Publishers Association]] (later renamed to Software and Information Industry Association) for ''Battle Chess''.<ref>{{cite web |url=http://www.mobygames.com/game/battle-chess/cover-art/gameCoverId,25753/ |title=Battle Chess - Cover Art |publisher=MobyGames |accessdate=2013-09-04 |archive-url=https://web.archive.org/web/20131202102243/http://www.mobygames.com/game/battle-chess/cover-art/gameCoverId,25753 |archive-date=2013-12-02 |url-status=live }}</ref> In 1994 ''Computer Gaming World'' added it to the magazine's Hall of Fame honoring those games rated highly over time by readers, describing ''Battle Chess'' as "a showcase product for the first level of multimedia standards".<ref name="cgw199404hof">{{Cite magazine
+ |date         = April 1994
+ |title        = Induction Ceremony!
+ |department   = Computer Gaming World Hall of Fame
+ |url          = http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=117
+ |magazine     = Computer Gaming World
+ |page         = 181
+ |access-date  = 2017-11-10
+ |archive-url  = https://web.archive.org/web/20171111041726/http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=117
+ |archive-date = 2017-11-11
+ |url-status     = live
+}}</ref> In 1996 the magazine ranked it as the 106th-best game of all time for its "funny, elaborate animated sequences and spectacular special effects."<ref name="cgw199611best">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | accessdate=25 March 2016 | pages=64–80 | archive-url=https://web.archive.org/web/20160408023915/http://cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | archive-date=2016-04-08 | url-status=live }}</ref>
+
+== Legacy ==
+[[FIDE_titles#International_Master_(IM)|International Master]] [[Anna Rudolf]] credits ''Battle Chess'' with helping introduce her to chess at a young age.<ref name="chess24-profile">{{cite web |title=Anna Rudolf |url=https://chess24.com/en/read/players/anna-rudolf |website=chess24 |access-date=24 February 2021 |archive-date=17 September 2018 |archive-url=https://web.archive.org/web/20180917183714/https://chess24.com/en/read/players/anna-rudolf |url-status=live }}</ref><ref name="2008-interview">{{cite web |last1=Sellier |first1=Frederic |title=I want to be a member of the Hungarian Olympics Chess Team |url=http://interviews.chessdom.com/anna-rudolf-cappelle-la-grande |website=Chessdom |access-date=23 February 2021 |date=7 February 2008 |archive-date=20 February 2021 |archive-url=https://web.archive.org/web/20210220214037/http://interviews.chessdom.com/anna-rudolf-cappelle-la-grande |url-status=live }}</ref><ref name=battle-chess>{{cite AV media |title=The Game that began my journey to Chess Pro |date=21 May 2020 |publisher=Anna Rudolf |url=https://www.youtube.com/watch?v=LRnruuozTFY  |archive-url=https://ghostarchive.org/varchive/youtube/20211221/LRnruuozTFY |archive-date=2021-12-21 |url-status=live|access-date=23 February 2021}}{{cbignore}}</ref>
+
+The game was featured in the 1992 film ''[[Knight Moves (film)|Knight Moves]]'' about a chess grandmaster who is accused of several murders.<ref>[http://www.chess-in-the-cinema.de/showfilm.php?filmfile=9229.txt&pfad=9094 Knight Moves] {{Webarchive|url=https://web.archive.org/web/20110718211224/http://www.chess-in-the-cinema.de/showfilm.php?filmfile=9229.txt&pfad=9094 |date=2011-07-18 }} Chess in the Cinema</ref>
+
+===Sequels===
+A sequel titled ''[[Battle Chess II: Chinese Chess]]'' was released in 1991, based on [[xiangqi]], commonly known as "Chinese chess". 1992's ''[[Battle Chess 4000]]'' spoofed science fiction movies and television series (such as a battle sequence involving the monolith from ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'') and used a [[clay animation|clay-animation]] art style similar to ''[[ClayFighter (video game)|ClayFighter]]''.
+
+On December 28, 2015, [[Brian Fargo]] revealed that he had started working on a second sequel of the game titled ''Battle Chess 3'' in the late 1990s but the game was cancelled. He also released a footage of the prototype of the game.<ref>{{cite magazine|url= http://www.pcgamer.com/brian-fargo-reveals-battle-chess-3-prototype-fight-video/|title= Brian Fargo reveals Battle Chess 3 prototype "fight" video|author= Andy Chalk|magazine= [[PC Gamer]]|date= December 28, 2015|accessdate= December 29, 2015|archive-url= https://web.archive.org/web/20160101115903/http://www.pcgamer.com/brian-fargo-reveals-battle-chess-3-prototype-fight-video/|archive-date= 2016-01-01|url-status= live}}</ref><ref>{{cite web|url= http://www.gamereactor.eu/news/371363/Brian+Fargo+reveals+Battle+Chess+3+prototype/|title= Brian Fargo reveals Battle Chess 3 prototype|author= Bengt Lemne|work= [[Gamereactor]]|date= December 29, 2015|accessdate= December 29, 2015|archive-url= https://web.archive.org/web/20160204135505/http://www.gamereactor.eu/news/371363/Brian+Fargo+reveals+Battle+Chess+3+prototype/|archive-date= 2016-02-04|url-status= live}}</ref>
+
+===Inspired games===
+''Battle Chess'' also inspired a number of [[video game clone]]s,{{r|cgw199404hof}} such as ''[[Star Wars Chess]]'', ''[[Terminator 2: Judgment Day – Chess Wars]]'',<ref name="kee199403">{{Cite magazine |last=Kee |first=Jay |date=March 1994 |title=Darth Vader vs. The Terminator |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=116 |magazine=Computer Gaming World |pages=90–94 |access-date=2017-11-10 |archive-url=https://web.archive.org/web/20171110115305/http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=116 |archive-date=2017-11-10 |url-status=live }}</ref> ''[[Combat Chess]]'' and ''[[National Lampoon, Inc.#Other media|National Lampoon's Chess Maniac 5 Billion and 1]]''. Another clone, ''[[List of PlayStation 2 games (L–Z)|War Chess]]'' was released by [[XS Games]] for the [[PlayStation 2]] in 2005,<ref>{{cite web |url=http://www.gamefaqs.com/ps2/919610-war-chess/data |title=War Chess Release Information for PlayStation 2 |website=GameFAQs |date=2005-01-01 |accessdate=2013-09-04 |archive-url=https://web.archive.org/web/20131203032652/http://www.gamefaqs.com/ps2/919610-war-chess/data |archive-date=2013-12-03 |url-status=live }}</ref> and was later ported to the PC by [[Big Fish Games]] and released online.<ref>{{cite web |url=http://www.bigfishgames.com/download-games/1228/warchess/index.html |title=War Chess Game Download for PC |publisher=Big Fish Games |accessdate=2013-09-04 |archive-url=https://web.archive.org/web/20130920073918/http://www.bigfishgames.com/download-games/1228/warchess/index.html |archive-date=2013-09-20 |url-status=live }}</ref>
+
+One similar game, titled ''[[Battle vs. Chess]]'', was developed by [[TopWare Interactive]] for "just about every platform".<ref>{{cite web |last=McElroy |first=Griffin |url=http://www.joystiq.com/2010/05/27/battle-vs-chess-coming-this-fall-to-just-about-every-platform/ |title=Battle vs. Chess coming this Fall to just about every platform |publisher=Joystiq |date=2010-05-27 |accessdate=2013-09-04 |archive-url=https://web.archive.org/web/20130616034228/http://www.joystiq.com/2010/05/27/battle-vs-chess-coming-this-fall-to-just-about-every-platform/ |archive-date=2013-06-16 |url-status=dead }}</ref> However, Interplay filed and won an injunction for trademark infringement in 2010 and TopWare was prevented from releasing ''Battle vs. Chess'' in the United States.<ref>{{cite web |url=http://news.bigdownload.com/2010/12/25/interplay-wins-injunction-against-topwares-battle-vs-chess-game/ |title=Interplay wins injunction against Topware's Battle vs Chess game |publisher=News.bigdownload.com |date=2010-12-25 |accessdate=2013-09-04 |archive-url=https://web.archive.org/web/20120307172757/http://news.bigdownload.com/2010/12/25/interplay-wins-injunction-against-topwares-battle-vs-chess-game/ |archive-date=2012-03-07 |url-status=live }}</ref>
+The District Court of California came into session and given that after two years of litigation, TopWare Interactive discharged their lawyer, resulting in Interplay winning the case by default.<ref>{{cite web|url=http://www.brightsideofnews.com/news/2012/2/13/interplay-wins-over-topware-in-battle-vs-chess-affair.aspx |title=Interplay Wins over TopWare in "Battle vs. Chess" Affair - Bright Side Of News* |publisher=Brightsideofnews.com |date=2012-02-13 |accessdate=2013-09-04}}</ref> Topware afterwards released the game in [[North America]] with the name ''Check&nbsp;vs.&nbsp;Mate''.
+
+===Remake===
+In 2012 Subdued Software launched a [[Kickstarter]] campaign to fund an updated version of ''Battle Chess''.<ref>{{cite news |title='Battle Chess' looking to be reborn via Kickstarter |url=https://www.nbcnews.com/tech/tech-news/battle-chess-looking-be-reborn-kickstarter-flna758807 |access-date=8 May 2012 |work=NBC News |language=en}}</ref> Although the campaign was unsuccessful, the game was ultimately published by Interplay under the name ''Battle Chess: Game of Kings'' and released on [[Steam (service)|Steam]] in 2015.<ref>{{Cite web|url=https://gamefaqs.gamespot.com/games/franchise/778-battle-chess|title=Game Franchises - Battle Chess - GameFAQs|website=gamefaqs.gamespot.com|access-date=2020-01-14}}</ref> On whatoplay.com it has a rating of 4.9/10.<ref>{{cite news |title=Battle Chess: Game of Kings for PC Game Reviews |url=https://whatoplay.com/pc/battle-chess-game-of-kings/ |work=Whatoplay |language=en}}</ref>
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commonscat|Battle Chess}}
+*{{moby game|id=/battle-chess|name=''Battle Chess''}}
+*{{Internet Archive game | battle_chess_1988 }}
+
+{{Authority control}}
+
+[[Category:1988 video games]]
+[[Category:3DO Interactive Multiplayer games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Amiga games]]
+[[Category:Apple IIGS games]]
+[[Category:Atari ST games]]
+[[Category:Cancelled Atari Jaguar games]]
+[[Category:Cancelled CD-i games]]
+[[Category:Amiga CD32 games]]
+[[Category:Chess software]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore CDTV games]]
+[[Category:DOS games]]
+[[Category:FM Towns games]]
+[[Category:Games commercially released with DOSBox]]
+[[Category:Interplay Entertainment games]]
+[[Category:Classic Mac OS games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer null modem games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:NEC PC-9801 games]]
+[[Category:X68000 games]]
+[[Category:Windows games]]
+[[Category:Video games developed in the United States]]

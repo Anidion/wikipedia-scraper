@@ -1,0 +1,76 @@
+Slime (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Slime_%28video_game%29&oldid=1229893159
+Accessed on: 2024-06-26T16:54:02.449425
+
+
+
+------
+Slime (video game)
+{{Short description|1982 video game}}
+{{redirect-distinguish|Super Storm|Superstorm}}
+{{Infobox video game
+|title = Slime
+|image = Slime_box_cover.jpg
+|alt = Picture of the early box cover
+|designer = Ihor Wolosenko
+|programmer = Steve Hales
+|developer = [[Synapse Software]]
+|publisher = Synapse Software
+|engine = 
+|released = 1982
+|genre = [[Action game|Action]]
+|modes = [[Single-player video game|Single-player]], [[two player]]
+|platforms = [[Atari 8-bit]]
+}}
+
+'''''Slime''''' is an [[action game]] for [[Atari 8-bit computers]] written by Steve Hales and published by [[Synapse Software]] in 1982. The player attempts to protect their ship from a rain of enormous drops of slime by deflecting them into canisters, while fending off attacks by an alien flying saucer. A [[TI-99/4A]] port was developed as '''''Super Storm''''', but not released.
+
+==Gameplay==
+The player is in control of a ship floating in the [[Sargasso Sea]], which is now filled with a slime created by the evil alien Plexarian Invincibles.{{sfn|Hales|1982|p=2}} The game opens with a slime storm approaching, which causes huge drops of slime to slowly fall from the top of the screen. The slime is deadly, destroying the player's ship if it hits it.{{sfn|Hales|1982|p=4}} To the left and right of the ship, constraining its motion to the center of the screen, are Gamma-Tube Absorbers which can destroy the falling slime if the drops fall into it. Any slime that does not fall into the Absorbers causes the sea level to rise, moving all of the action up the screen.{{sfn|Hales|1982|p=2}}
+
+[[image:Slime screen snap.gif|thumb|left|Opening scene of ''Slime'', with the initial set of wedges in place. A single drop has made it by the wedges and is about to fall into the sea. The red triangle shape is the cursor.]]
+
+The player's task is to cause the slime to fall into the Absorbers using a total of 20 wedges that deflect the slime to the side as it falls.{{sfn|Hales|1982|p=5}} At the start of each level, a number of these wedges are already in place forming diagonal barriers, although there is always a hole in the middle that is left unprotected. The player's joystick controls an on-screen cursor that can be positioned in the empty areas, and pressing the fire button causes a new wedge to appear if that location is empty, or remove one if it is already there. Lines of wedges can be produced by holding down the fire button and moving the joystick in the desired direction.{{sfn|Hales|1982|p=3}}
+
+Additionally, the Plexians have sent a [[flying saucer]] that creates large [[Lightning|lightning bolts]] that destroy some of the wedges it hits. The bolts can also destroy the ship, but they only reach about halfway down the screen so they are only dangerous if the sea level has risen. At higher levels, the saucer also fires fireballs that can destroy individual wedges no matter where they are, and can also seal the Absorbers. In the latter case, a helicopter will appear to attempt to open the Absorber again, and must be protected from the slime.{{sfn|Hales|1982|p=4}}
+
+All of the enemies in the game, including the slime drops, can be destroyed by triggering a wedge on them. Since the wedges appear slowly and the enemies move fairly rapidly, this is not an easy task.{{sfn|Hales|1982|p=4}}
+
+==Development==
+Synapse Software's first success was 1981's ''[[Protector (video game)|Protector]]'', and quickly followed by a number of games written by a small number of programmers. ''Slime'' was one of the many games released during this earlier period. The basic concept was developed by Synapse's president, Ihor Wolosenko.<ref name=halcyon/>
+
+The project was originally given to a new member of the Synapse team and some progress was made, but the programmer decided to leave the company. Hales had been working on another game, ''[[Fort Apocalypse]]'', and was pulled off its development to finish ''Slime''.<ref name=halcyon/> The resulting delay meant [[Broderbund]]'s ''[[Choplifter]]'' reached the market first, and ''Fort Apocalypse'' was often considered a me-too effort.<ref>{{cite web |url=http://atarihq.com/reviews/atari8/fort_apocalypse.html  |title=AGH Atari 8-Bit Computer Review: Fort Apocalypse |website=AGH}}</ref>
+
+==Ports==
+[[Image:Super Storm on TI.png|thumb|''Super Storm'' on the TI-99/4 was never released commercially.]]
+
+[[Atari, Inc.]] ported ''Slime'', renamed ''Super Storm'', to the [[TI-99/4A]] for its [[Atarisoft]] label.<ref>{{cite magazine |magazine=Boy's Life |title=Atarisoft |url=https://books.google.com/books?id=nWYEAAAAMBAJ&pg=PA3 |date=December 1983 |page=3}}</ref> A number of ''Super Storm'' [[game cartridge]]s for the [[TI-99/4A]] were manufactured, but were not released after the company was purchased by [[Jack Tramiel]].
+
+==Reception==
+''[[Antic (magazine)|Antic]]'' said "Slime is a fiendishly clever, delightfully disgusting game that's guaranteed to give you green dreams for weeks after you get it", but complained about the controls, saying they became difficult to use at higher levels and suggested using a [[trackball]] might be a solution.<ref name=Antic>{{cite journal |first=David |last=Duberman |title=Slime |url=http://www.atarimagazines.com/v2n1/productreviews.html |journal=Antic |date=April 1983}}</ref>
+
+''[[Electronic Fun with Computers & Games|Electronic Fun]]'' was unimpressed with the game, giving it a 1.5 out of 4 score, saying it was part of a trend in gaming that was "sacrificing game play in order to achieve originality". Their main complaint was the overly sensitive controls, calling them "unwieldy and terribly jumpy", and to a lesser degree, the sound effects that the reviewer thought were "probably the worst ever heard on any computer game".<ref name=efun>{{cite journal |first=Paul |last=Backer |url=http://2600connection.com/library/magazines/electronic_fun/electronic_fun_mar83.pdf |archive-url=https://web.archive.org/web/20151125001349/http://2600connection.com/library/magazines/electronic_fun/electronic_fun_mar83.pdf |url-status=dead |archive-date=2015-11-25 |title=Slime |journal=Electronic Fun |date=March 1983 |pages=66–67 }}</ref> A more recent retrogameing review gave it a C+ rating, calling it "one of Synapse’s weaker entries into Atari 8-bit games".<ref name=classic>{{cite web |title=Slime |url=http://atarireviews.com/tag/synapse/ |first=Jeff |last=Kerr |website=Atarireviewer |date=June 2011}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name=halcyon>{{cite book|url=https://dadgum.com/halcyon/BOOK/HALES.HTM |title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers |date=1997}}</ref>
+}}
+
+===Bibliography===
+* {{cite web |first=Charles |last=Good |title=Super Storm |website=Microreview |date=May 1998 |url=ftp://nickelbrosindustrial.com/articles/reviews/MAY98.TXT }}{{dead link|date=October 2021}}
+* {{cite work |first=Steve |last=Hales |url=http://www.atarimania.com/8bit/manuals/Slime%20manual.pdf |title=Slime User Manual |publisher=Synapse Software |date=1982 }}
+* {{cite news | url=https://books.google.com/books?id=jC4EAAAAMBAJ&pg=PA50 | title=Atarisoft vs. Commodore | work=InfoWorld | date=1984-04-09 | access-date=4 February 2015 |first=Scott |last=Mace | page=50 }}
+
+==External links==
+{{Portal|Video games}}
+* {{atarimania|id=4722}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Fixed shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Naval video games]]
+[[Category:Synapse Software games]]
+[[Category:Video games about alien invasions]]
+[[Category:Video games developed in the United States]]

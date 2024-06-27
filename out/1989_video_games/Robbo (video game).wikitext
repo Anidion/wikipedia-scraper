@@ -1,0 +1,74 @@
+Robbo (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Robbo_%28video_game%29&oldid=1224257496
+Accessed on: 2024-06-26T17:07:16.731856
+
+
+
+------
+Robbo (video game)
+{{more citations needed|date=November 2017}}
+{{Infobox video game
+| title = Robbo
+| image = Robbo-Atari8BitCover.jpg
+| image_size =
+| caption = Atari 8-bit cover art
+| developer = X LanD Computer Games
+| publisher = [[LK Avalon]]<br>[[Epic MegaGames]] (MS-DOS)
+| platforms = [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[iOS]]
+| released = {{Video game release|POL|1989|NA|1993}}
+| genre = [[Puzzle video game|Puzzle]]
+| modes = [[Single-player video game|Single-player]]
+| designer = Janusz Pelc
+}}
+
+'''''Robbo''''' is a [[puzzle video game]] designed by Janusz Pelc and published by [[LK Avalon]] in 1989 for [[Atari 8-bit computers]]. A success on the [[Poland|Polish]] domestic market,<ref name="wyborcza-pazdan">{{cite web |last=Pazdan |first=Tomasz |title=Polska przestała być krajem z filmu "Miś" |trans-title=Poland no longer the country depicted in the film "Teddy Bear" |website=Wyborcza.pl |language=pl |date=16 February 2009 |url=http://wyborcza.pl/1,95892,6281037,Polska_przestala_byc_krajem_z_filmu__Mis_.html |accessdate=27 May 2014}}</ref> it was later [[Porting|ported]] to other computer platforms and released in the [[United States]] as '''''The Adventures of Robbo'''''.
+
+==Gameplay==
+[[Image:Robbo.jpg|thumb|Gameplay screenshot]]
+The game's design was partly inspired by ''[[Boulder Dash (video game)|Boulder Dash]]'',<ref name="ta-91-2">{{cite journal |date=June 1991 |title=Robbo |language=pl |url=http://tajemnice.atari8.info/2_91/2_91_robbo.html |accessdate=27 May 2014 |journal=Tajemnice Atari |issue=2/91 |page=15 |oclc=839137464}}</ref><ref name="bajtek-94-2">{{cite journal |last1=Borkowski |first1=Marcin |last2=Michalski |first2=Dariusz |date=February 1994 |title=XLand - kraina gier |trans-title=XLand - the land of games |language=pl |journal=Bajtek |issue=2/94 |page=14 |issn=0860-1674}}</ref> but with the gravity aspect removed. The player controls the titular little robot through a series of planets (56 in the original Atari version), each being a vertically-scrolling maze filled with various objects and obstacles. The goal of each level is to collect a preset number of bolts scattered around (there could be extra bolts on the map, and bolts could also be acquired from random item generators), and then reach a capsule that takes the hero to the next planet. On his way Robbo must avoid deadly obstacles that include moving creatures, laser turrets, and large magnets. Various items can be found, including keys that open doors, bullets that kill enemies and destroy impassable walls of rubble, crates that can be pushed, bombs that explode upon being shot, and mirrors that teleport the hero around the level.
+
+==Development and release==
+''Robbo'' was designed and programmed by Polish programmer Janusz Pelc in 1989 for the [[Atari 8-bit computers]], and was the first product of the company [[Laboratorium Komputerowe Avalon]], which he established together with his school mate Tomasz Pazdan that same year in [[Rzeszów]]; both were 19 years old and had just passed the [[matura]].<ref name="wyborcza-pazdan"/><ref name="ss-60">{{cite journal |last=Ożyński |first=Mateusz |date=September 1998 |title=Mała, wielka firma - z wizytą w rzeszowskim LK Avalon |trans-title=Little big company - a visit in LK Avalon of Rzeszów |language=pl |journal=Secret Service |issue=60 |page=12 |issn=1230-7726}}</ref> A [[game demo|demo version]] was also published,<ref name="ta-91-2"/><ref name="atarimania-demo">{{cite web |title=[PREV] Robbo |website=Atarimania.com |url=http://www.atarimania.com/game-atari-400-800-xl-xe-prev-robbo_7082.html |accessdate=2 May 2014}}</ref> as an advertisement for both the game and the company, that contained 4 unique levels, and listed addresses of Avalon's software distributors that sold ''Robbo''.
+
+The game's initial release announced a contest in the on-screen manual, in which the first five players that finished ''Robbo'' and sent description of the ending sequence to Avalon, would receive the company's next game as a prize. By 1991, the company received a few thousand solutions.<ref name="ta-91-2"/>
+
+Pelc created a construction kit called ''Robbo Konstruktor'', published by Avalon in December 1990 in a bundle with another game ''Lasermania''. The utility allowed to edit level layouts and save them as standalone games.<ref name="ta-91-5">{{cite journal |last=Trawka |first=Andrzej |date=September 1991 |title=Nowe przygody Robbo |trans-title=New adventures of Robbo |language=pl |url=http://tajemnice.atari8.info/5_91/5_91_robbokonstruktor.html |accessdate=4 April 2015 |journal=Tajemnice Atari |issue=5/91 |page=15 |oclc=839137464}}</ref> This led to a large number of different ''Robbo'' games being created on the Atari by enthusiasts, with new versions still surfacing as of April 2016.<ref name="aopl-201604">{{cite web |last=Wachowski |first=Adam |title=Robbo – kwietniowe aktualności |trans-title=Robbo – April news |website=AtariOnline.pl |language=pl |date=26 April 2016 |url=http://atarionline.pl/v01/index.php?ct=nowinki&ucat=1&subaction=showfull&id=1461702185 |accessdate=26 April 2016}}</ref>
+
+==Ports==
+Pelc left Avalon in 1990<ref name="ss-60"/> and was hired in a Kraków-based company Doctor Q, which also employed his friend Maciej Miąsik.<ref name="gambler-18">{{cite journal |last=Wrzesiński |first=Maksymilian |date=May 1995 |title=Chaos Works |language=pl |journal=Gambler |page=59 |issue=5/95 |issn=1230-8676}}</ref> Under the wings of Doctor Q both developers began porting ''Robbo'' to the [[IBM PC compatible]] platform, which resulted in a demo version with 6 levels, published in 1991.<ref>{{cite web |title=Robbo na PC - Forum Atarum |trans-title=Robbo for PC - Forum Atarum |website=AtariOnline.pl |language=pl |date=21 November 2014 |url=http://atarionline.pl/forum/comments.php?DiscussionID=3206 |access-date=4 April 2015}}</ref> When that same year Marek Kubowicz, one of the chairmans of Doctor Q, left to establish a new company XLand with the intent to publish video games, he was joined by Pelc and Miąsik.<ref name="gambler-18"/><ref name="miasik-eb">{{cite web |last=Miąsik |first=Maciej |title=20 lat Electro Body |trans-title=20 years of Electro Body |website=Miasik.net |language=pl |date=21 February 2012 |url=https://www.miasik.net/archive/2012/02/20-lat-electro-body/ |accessdate=27 May 2014}}</ref><ref name="galu-miasik">{{cite web |last=Galiński |first=Michał |title=Wywiad z Maciejem Miąsikiem |trans-title=Interview with Maciej Miąsik |website=Galu.info |language=pl |url=http://www.galu.info/artykuly-5-maciej-miasik-wywiad.html |access-date=4 April 2015}}</ref> In the new company the developers finished ''Robbo'' for [[MS-DOS]], which was consequently published by XLand in Poland in 1993.<ref name="galu-miasik"/> This version had enhanced 256-color VGA graphics and digitized sound, included a password system for maintaining game progress, and added four new levels to a total of 60.
+
+Through a deal with [[Epic MegaGames]], the XLand version was also distributed in 1993 in the [[United States]] by mail-order, under the title ''The Adventures of Robbo''. Customers could also order ''Epic Puzzle Pack'', a compilation of three XLand games including ''The Adventures of Robbo'', ''[[Heartlight (video game)|Heartlight]]'' and ''[[Electro Man]]''. ''The Adventures of Robbo'' would be later distributed in a box under the "Monkey Business" label by The B&N Companies, Inc. in 1994.{{citation needed|date=May 2014}}
+
+In 1993, LK Avalon published a [[Commodore 64]] port of the game, developed by high-school student Sebastian Nowak.<ref name="dziubaltowski">{{cite web |last=Dziubałtowski |first=Benedykt |title=Rozrywka w stylu retro |trans-title=Entertainment retro style |website=Chip.pl |language=pl |page=2 |date=9 April 2009 |url=http://www.chip.pl/artykuly/porady/2009/04/rozrywka-w-stylu-retro?b_start:int=1 |accessdate=27 May 2014 |archive-date=28 May 2014 |archive-url=https://web.archive.org/web/20140528051141/http://www.chip.pl/artykuly/porady/2009/04/rozrywka-w-stylu-retro?b_start:int=1 |url-status=dead}}</ref> This version contains 76 new levels,<ref name="c64power">{{cite web |last=Michniewicz |first=Tomek |title=Robbo - jak to działa? |trans-title=Robbo - how does it work? |website=C64Power |language=pl |date=21 February 2010 |url=http://c64power.com/index.php/artykuly/40-programowanie/352-robbo-jak-to-dziaa |accessdate=27 May 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140528045638/http://c64power.com/index.php/artykuly/40-programowanie/352-robbo-jak-to-dziaa |archivedate=28 May 2014}}</ref> and some additional types of objects not found in the original.{{citation needed|date=May 2014}}
+
+An [[Atari ST]] port followed in 1994, developed by Rafał Janicki, Paweł G. Angerman and Michał Juszczak and published in Poland by Larix. This version has 136 levels, including the ones from the Atari 8-bit version. The game sold in only ca. 80 copies.<ref name="aopl-201604"/><ref>{{cite web |last=Ziembik |first=Krzysztof |title="Robbo ST" raz jeszcze |trans-title="Robbo ST" revisited |website=AtariOnline.pl |language=pl |date=23 May 2014 |url=http://atarionline.pl/v01/index.php?subaction=showfull&id=1400840037&archive=&start_from=0&ucat=1&ct=nowinki |accessdate=27 May 2014}}</ref>
+
+==Reception==
+The ''Epic Puzzle Pack'' was reviewed in 1994 in ''[[Dragon (magazine)|Dragon]]'' #206 by [[Sandy Petersen]] in the "Eye of the Monitor" column. Petersen gave the compilation 3 out of 5 stars.<ref name="Dragon206">{{cite journal |title=Eye of the Monitor |author=[[Sandy Petersen|Petersen, Sandy]] |journal=Dragon |issue=206 |date=June 1994 |pages=57–60}}</ref>
+
+==Legacy==
+On 30 June 2000<ref name="gry-online">{{cite web |title=Robbo Millenium (PC) |website=GRY-Online.pl |language=pl |url=http://www.gry-online.pl/S016.asp?ID=1626 |accessdate=27 May 2014}}</ref> Avalon published an enhanced remake for [[Windows]] titled ''Robbo Millennium''. This game contained all the original Atari levels plus more, totalling at 130, along with updated graphics and sound, and a prerendered 3D intro. As of 2014 the game is available for purchase both as a boxed CD<ref name="avalon-robbo-cd">{{cite web |title=Robbo Millennium wersja pudełkowa |trans-title=Robbo Millennium boxed version |website=Avalon24.pl |language=pl |url=http://avalon24.pl/sklep_12/gry-edukacyjne/198-robbo-millennium.html |accessdate=27 May 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140528050703/http://avalon24.pl/sklep_12/gry-edukacyjne/198-robbo-millennium.html |archivedate=28 May 2014}}</ref> and as digital download.<ref name="avalon-robbo-dl">{{cite web |title=Robbo Millennium wersja do pobrania |trans-title=Robbo Millennium downloadable version |website=Avalon24.pl |language=pl |url=http://avalon24.pl/sklep_12/gry-edukacyjne/193-robbo-millennium.html |accessdate=27 May 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140528050521/http://avalon24.pl/sklep_12/gry-edukacyjne/193-robbo-millennium.html |archivedate=28 May 2014}}</ref>
+
+On 25 June 2006, after obtaining approval from the rights holders, Maciej Miąsik released the three games from ''Epic Puzzle Pack'', including ''The Adventures of Robbo'', through the Classic DOS Games website under the [[Creative Commons license|Creative Commons BY-SA 2.5 license]] as [[freeware]].<ref name="miasik-cc">{{cite web |last=Miąsik |first=Maciej |title=Moje gry dla każdego |trans-title=My games for everyone |website=Miasik.net |language=pl |date=25 June 2006 |url=https://www.miasik.net/archive/2006/06/moje-gry-dla-kazdego/ |accessdate=27 May 2014}}</ref><ref>{{cite web |title=Adventures of Robbo |website=RGB Classic Games |date=25 June 2006 |url=http://www.classicdosgames.com/game/Adventures_of_Robbo.html |accessdate=27 May 2014}}</ref>
+
+In 2010 the original ''Robbo'' game was ported to [[iOS]] by U-Play Interactive in close cooperation with Janusz Pelc, and published under the title ''iRobbo''.<ref>{{cite web |title=iRobbo: History of the game |website=UPlayInteractive.com |url=http://www.uplayinteractive.com/iRobbo/iRobbo__History_of_the_game.html |accessdate=27 May 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140522134832/http://www.uplayinteractive.com/iRobbo/iRobbo__History_of_the_game.html |archivedate=22 May 2014}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MobyGames|id=/robbo|name=''Robbo''}}
+
+[[Category:1989 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Creative Commons-licensed video games]]
+[[Category:DOS games]]
+[[Category:Freeware games]]
+[[Category:IOS games]]
+[[Category:LK Avalon games]]
+[[Category:Single-player video games]]
+[[Category:Video games about robots]]
+[[Category:Video games developed in Poland]]
+[[Category:Windows games]]

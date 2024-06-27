@@ -1,0 +1,77 @@
+Star Castle
+Permalink: //en.wikipedia.org/w/index.php?title=Star_Castle&oldid=1223246717
+Accessed on: 2024-06-26T16:51:56.490944
+
+
+
+------
+Star Castle
+{{short description|1980 video game}}
+{{about||the castle on the Isles of Scilly|Star Castle, Isles of Scilly|the rock band|Starcastle}}
+{{more citations needed | date=October 2015}}
+
+{{Infobox video game
+|title = Star Castle
+|image = Star castle flyer.png
+|image_size =
+|developer = [[Cinematronics]]
+|publisher = [[Cinematronics]]
+|designer = [[Tim Skelly]]<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+|programmer = Scott Boden<ref name="giantlist"/>
+|released = '''1980:''' Arcade<br>'''1983:''' Vectrex
+|genre = [[Multidirectional shooter]]
+|arcade system = 
+|platforms = [[Arcade video game|Arcade]], [[Vectrex]]
+}}
+'''''Star Castle''''' is a [[vector graphics]] [[multidirectional shooter]] released in arcades  by [[Cinematronics]] in 1980. The game involves obliterating a series of defenses orbiting a stationary turret in the center of the screen. The display is black and white with the colors of the rings and screen provided by a transparent plastic screen overlay.
+
+''Star Castle'' was designed by [[Tim Skelly]] and programmed by Scott Boden. Skelly created a number of other Cinematronics vector games, including ''[[Starhawk (arcade game)|Starhawk]]'', ''[[Armor Attack]]'', and ''[[Rip-Off]]''.<ref name="giantlist"/> A [[Vectrex]] port of ''Star Castle'' for was released in 1983.
+
+==Gameplay==
+{{Unreferenced section|date=November 2020}}
+
+The object of ''Star Castle'' is to destroy an enemy cannon which sits in the center of three concentric, rotating energy shield rings while avoiding or destroying "mines"&ndash;enemies that spawn from the core, pass through the energy rings, and then home in on the player's ship. The player-controlled [[spacecraft|spaceship]] can rotate, thrust forward, and fire small projectiles. The cannon's shields are composed of twelve sections each, and each section takes two hits to destroy. Once a section is breached, rings beneath it are exposed to fire.
+
+[[File:starcastle.png|thumb|left|upright=2|A color overlay tints the rings yellow, orange, and red and the rest of the playfield blue.]]
+
+Once the innermost ring has been breached, the central weapon is vulnerable to attack from the player. However, the player is also more vulnerable at this point, as with the shield rings eliminated, the gun can fire out a large projectile that hisses with white noise. Moreover, the central core tracks player movement at all times. If the player manages to hit the cannon, it explodes violently, collapsing the remnants of the shield rings, and the player is awarded with an extra ship. The next level then starts with a new gun and fully restored shield rings, with the difficulty increased (the mines move faster, the rings rotate more quickly, and the core tracks the player faster).
+
+If the player completely destroys the outermost shield ring, the cannon will create a new one. The middle ring expands to replace the lost outer ring, the inner ring replaces the middle, and a new ring emerges from the core to become the inner ring. Therefore, in order to penetrate the cannon's defenses, the player must be careful not to completely obliterate the outer ring.
+
+The three homing mines will destroy the player's ship on contact. The mines can be destroyed, but they are very small and difficult to fire on, and the player does not receive points for destroying them. Mines are revived when shield rings regenerate (some variants keep three mines churning constantly so that a new mine respawns from the core as soon as one is destroyed). As the player progresses through the levels, the mines get faster and faster, forcing the player to keep moving to avoid them.
+
+== Reception ==
+Michael Blanchet's 1982 book ''How to Beat the Video Games'' praised ''Star Castle'' as "a standout among the wave of free-flight games that emerged after ''[[Asteroids (video game)|Asteroids]]''", describing the game's increase in difficulty over time, rather than between [[Level (video games)|game levels]], as the "catch" which made it challenging.<ref>{{cite book
+ |last=Blanchet
+ |first=Michael
+ |author-link=
+ |date=1982
+ |title=How to Beat the Video Games
+ |location=New York
+ |publisher=Simon and Schuster
+ |page=109
+ |isbn=0671453750
+}}</ref> In 1995, ''[[Flux (magazine)|Flux]]'' magazine ranked ''Star Castle'' 83rd on their Top 100 Video Games, calling it "One of the all-time great vector graphics classics".<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n31/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=32}}</ref>
+
+==Legacy==
+In an interview, Skelly admitted that the stellar field was made using the shape of a woman from a nude magazine.<ref>{{Cite book |last=De Maria |first=Rusel |title=HIGH SCORE |year=2004 |publisher=Mc Graw Hill |isbn=9780072231724 |edition=Spanish |pages=28}}</ref>
+
+[[Atari, Inc.]] programmer [[Howard Scott Warshaw]] investigated writing a clone of ''Star Castle'' for the [[Atari 2600]], but didn't see the game as a good match for the system, technically. He reconfigured the concept into ''[[Yars' Revenge]]'', which became Atari's top selling original game for the 2600.<ref name="atimes">{{cite web|last1=Onfrichuk|first1=Brendan|title=Howard Scott Warshaw Interview|url=http://ataritimes.com/index.php?ArticleIDX=522|website=The Atari Times|date=April 5, 2006}}</ref> A hobbyist-written clone of ''Star Castle'' for the Atari 2600 was eventually released in 2012.<ref>{{cite web|title=Atari 2600 Star Castle Kickstarter Campaign|url=http://www.kickstarter.com/projects/698159145/atari-2600-star-castle|accessdate=May 3, 2012}}</ref>
+
+Jim Nitchals of [[Cavalier Computer]] wrote a clone for the [[Apple II]] called ''Ring Raiders'' (referenced in-game as ''Raiders of the Lost Ring'') published in 1981.<ref>{{cite web|title=Bio and Gameography of Jim Nitchals|url=http://www.gamedesignersremembered.com/jim-nitchals|website=Game Designers Remembered|date=December 28, 2011}}</ref> Anthony Weber of Stedek Software wrote a clone for [[Atari 8-bit computers]] called ''Star Island'' (1982).<ref>{{cite web|title=Anthony Weber Interview|url=http://www.ataricompendium.com/archives/interviews/anthony_weber/interview_anthony_weber.html|accessdate=June 15, 2020}}</ref>
+ 
+{{portal|1980s|Video games}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{KLOV game|id=9754}}
+
+[[Category:1980 video games]]
+[[Category:Arcade video games]]
+[[Category:Cinematronics games]]
+[[Category:Multidirectional shooters]]
+[[Category:Vector arcade video games]]
+[[Category:Vectrex games]]
+[[Category:Video games developed in the United States]]

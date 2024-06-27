@@ -1,0 +1,62 @@
+Space Eggs
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Eggs&oldid=1224118381
+Accessed on: 2024-06-26T16:52:38.432497
+
+
+
+------
+Space Eggs
+{{Short description|1981 video game}}
+{{Infobox video game
+|title = Space Eggs
+|image = Space Eggs cover.jpg
+|caption = 
+|publisher = [[Sirius Software]]
+|designer = 
+|programmer = '''Apple II'''<br>[[Nasir Gebelli]]<ref>{{cite web|title=The Giant List of Classic Game Programmers|url=http://dadgum.com/giantlist|last1=Hague|first1=James}}</ref><br>'''Atari 8-bit'''<br>Dan Thompson
+|released = 1981
+|genre = [[Fixed shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]]
+}}
+<!-- Deleted image removed: [[Image:Space Eggs title.png|thumb|280px|Title screen]] -->
+<!-- Deleted image removed: [[Image:Space Eggs.png|thumb|280px|The first level]] -->
+
+'''''Space Eggs''''' is a [[fixed shooter]] video game for the [[Apple II]] computer programmed by [[Nasir Gebelli]] and published by [[Sirius Software]] in 1981. A port to [[Atari 8-bit computers]] by Dan Thompson was released the same year.<ref name="mania">{{cite web |title=Space Eggs |url=http://www.atarimania.com/game-atari-400-800-xl-xe-space-eggs_4822.html |website=Atari Mania}}</ref> ''Space Eggs'' is an [[Copyright infringement|unofficial]] version of the [[arcade video game]] ''[[Moon Cresta]]''.<ref name=aw>{{cite book |title=The Addison-Wesley Book of Atari Software 1983 |date=1983 |publisher=Addison-Wesley |page=76 |url=http://www.atarimania.com/documents/The-Book-of-Atari-Software-1983.pdf}}</ref>
+
+==Gameplay==
+The player moves a ship from side to side across the bottom of the screen while trying to avoid colliding with or being shot by the aliens attacking above. Each level pits the player against multiple aliens of a particular class, which become more difficult to destroy as the levels progress.
+
+The game begins with a view of the player's three ships docked together. The first ship, which is the smallest and has only one cannon, splits off from the others and gameplay begins. If an alien touches the ship or successfully hits it with a bomb, the ship is destroyed and replaced by the next one in the set. The second and third ships have progressively wider wingspans and two cannons each. The game ends when all ships are lost. 
+
+Aliens begin as harmless, multi-colored "eggs" bobbing randomly above the ship, and must be shot to release the creatures within. There are four classes of aliens:<ref name="manual">{{cite book |title=Space Eggs Manual |date=1981 |publisher=Sirius Software |url=https://archive.org/details/Space_Eggs/page/n1}}</ref>
+
+*'''Spiders''', insectoid creatures that move randomly around the screen and are worth 15 points.
+*'''Lips''', which move a bit more aggressively. They are worth 30 points.
+*'''Wolves''', which move randomly and often descend to the level of the spaceship. They are worth 45 points.
+*'''Fuzzballs''', which bounce up and down rapidly if they are to the left of the ship, or move to the bottom of the playfield and slide horizontally toward the ship if they are to the right (guaranteeing destruction; this appears to be a bug). They are worth 80 points.
+
+In the first four waves, all eggs hatch to the same creature. In subsequent waves, eggs hatch random creatures. The wave resets to 1 when the player dies.
+
+If the ship is in the second stage (medium width), and the player has scored at least 1,000 points, an opportunity to dock with the first stage will be given. The ship descends from the top of the screen and must be caught by lining up with the ship precisely. If successful, the merged ship will have 3 cannons.<ref name="manual">{{cite book |title=Space Eggs Manual |date=1981 |publisher=Sirius Software |url=https://archive.org/details/Space_Eggs/page/n1}}</ref>
+
+==Reception==
+''Space Eggs'' reached the top spot on ''[[Softalk]]'''s best-selling software list.<ref name="golden-age">{{cite web|title=Nasir Gebelli and the early days of Sirius Software|url=https://allincolorforaquarter.blogspot.com/2015/08/nasir-gebelli-and-early-days-of-sirius.html|website=The Golden Age Arcade Historian|date=August 28, 2015}}</ref>
+
+The ''Addison-Wesley Book of Atari Software 1983'' gave it a "B" rating, calling it "cute and challenging."<ref name=aw/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{internet archive game|a8b_Space_Eggs_1981_Sirius_Software_US_k_file}}
+*[https://6502disassembly.com/a2-space-eggs/ ''Space Eggs'' disassembly and analysis]
+
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Fixed shooters]]
+[[Category:Single-player video games]]
+[[Category:Sirius Software games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]

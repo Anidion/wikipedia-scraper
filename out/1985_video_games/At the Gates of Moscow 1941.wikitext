@@ -1,0 +1,91 @@
+At the Gates of Moscow 1941
+Permalink: //en.wikipedia.org/w/index.php?title=At_the_Gates_of_Moscow_1941&oldid=1230283011
+Accessed on: 2024-06-26T16:58:02.059201
+
+
+
+------
+At the Gates of Moscow 1941
+{{Short description|1985 video game}}
+{{Infobox video game
+| title = At the Gates of Moscow
+| collapsible = yes
+| border = yes
+| developer = [[Strategic Games Publications]]
+| publisher = [[Strategic Games Publications]]
+| series = 
+| engine = 
+| platforms = [[Apple II series|Apple II]]
+| released = 1985
+| genre = [[Simulation video game]], [[Strategy video game]]
+| modes = Single-player, multiplayer
+|image = At the Gates of Moscow 1941 cover.jpeg
+|caption = 
+|alt = 
+}}
+
+'''''At the Gates of Moscow 1941''''' ('''ATGOM''') is 1985 video game published by [[Strategic Games Publications]] for the [[Apple II series|Apple II]]. Based on the board game of the same name that was released the year prior, the game was marketed in magazines as "The only board and computer game that can be played together and separately".<ref name=":0">{{Cite web |title=At The Gates of Moscow: 1941 |url=https://videogamegeek.com/videogame/110249/gates-moscow-1941 |access-date=2023-11-06 |website=VideoGameGeek |language=en-US}}</ref><ref name=":2">{{Cite book |title=Special Game Design Issue |publisher=Computer Gaming World |year=1985 |volume=5.2 |pages=14 |language=en}}</ref>
+
+==Gameplay==
+''At the Gates of Moscow 1941'' is a [[Turn-based tactics|turn-based]], [[Division (military)|divisional-level]], [[Hex map|hex-based]] [[wargame]] set during [[Operation Typhoon]], the German operation to capture [[Moscow]]. Set between 1 September 1941 to 6 March 1942, the game has three scenarios where you can play as either the [[Soviet Union|Soviets]] or the [[Nazi Germany|Germans]].<ref name=":2" /><ref name=":1">{{Cite book |last=Fisher |first=Lew |title=A Kampfgruppe Replay |publisher=Computer Gaming World |year=1986 |volume=25 |pages=35-36 |language=en}}</ref> The first two scenarios are set between 11 November and 30 December 1941. The first scenario is called "To The Gates Of Moscow", focusing on the final German assault on Moscow,<ref name=":0" /> while the second is the same but also features the Russian winter counter-offensive.<ref name=":1" /> The final of the three is the full campaign.<ref name=":0" /><ref name=":1" />
+
+The player would compete with their opponent in order to gain reinforcements, reserves, supplies and victory points, with the ultimate goal in both scenarios being to either defend or capture Moscow.<ref name=":1" /> The game can either be played in "solitaire" (singleplayer) mode (with the computer playing as the Soviets), two player or a multiplayer game.<ref name=":1" /><ref name=":3">{{Cite book |title=Sports Survey, Nine Baseball Games, Crusade In Europe: Design Notes, Game Ratings |publisher=Computer Gaming World |year=1985 |edition=5.3 |pages=32 |language=en}}</ref> The computer has ten difficulty levels, with each difficulty level growing in complexity. The higher the level, the further the computer will think ahead.<ref name=":1" />
+
+The forces available to the player are meant to represent the forces that were available at the time, with ten different kinds of units being available to the player.<ref name=":3" /> Each "turn" in the game represents one week of real time, with each unit representing a single division.<ref name=":2" /><ref name=":1" /> Players can stack up to four units within a single hex, with the map being split between the close-up mode and the strategic mode, containing over 2,960 hexes.<ref name=":1" /><ref name=":3" /> Computer Gaming World would describe this as "the largest computer wargame to date".<ref name=":3" /> Players are also allowed to place their units as they see fit before the game starts, with there being no pre set up.<ref name=":3" /> The player can control the cursor controlled by buttons 1-6 and select the close-up mode with the S key, allowing for easier manoeuvring of units without having to scroll too far. The strategic map shows a broader overview of the situation.<ref name=":1" />
+
+{{Infobox
+| title            = Strategic and close-in map
+| image            = [[File:At the Gates of Moscow 1941 map1.png|200px]]
+[[File:At the Gates of Moscow 1941 map2.png|200px]]
+| caption          = Strategic map on the top, close-in map on the bottom
+}}
+
+The game features variable weather and ground conditions in order to simulate the "[[rasputitsa]]", literally translated as "the season of bad roads", where secondary roads on the game map will disappear and be replaced by "a sea of mud". This means that the German side must allocate 6 divisions to "mud duties" in order to clear the roads.<ref name=":1" /><ref name=":3" /> As the weather worsens, movement also becomes more costly and combat becomes less effective, however this affects the Germans to a greater degree due to the Soviet's obvious advantages of preparedness for the winter. As the game progresses into winter, the Soviet side gains the initiative.<ref name=":1" /> In terms of terrain, there are ten different kinds of terrain.<ref name=":3" />
+
+Initiative determines who moves first each turn, with each half-turn ending once all of the current player's supply points have been expended either through moving units or combat. Thus, the key to succeed in the game is through the proper management of supplies.<ref name=":2" /><ref name=":1" />
+
+The Soviets also have the ability to build entrenchments, fortify towns and cities, build militia units,<ref name=":0" /><ref name=":1" /><ref name=":3" /><ref>{{Cite web |title=At the Gates of Moscow 1941 Details - LaunchBox Games Database |url=https://gamesdb.launchbox-app.com/games/details/87701-at-the-gates-of-moscow-1941 |access-date=2023-11-06 |website=gamesdb.launchbox-app.com}}</ref> while also being able to use ski units and paratroopers.<ref name=":3" /> The Germans must build [[Garrison|garrison units]] in towns, cities and on railroads to protect them from Russian [[Partisan (military)|partisans]].<ref name=":1" /><ref name=":3" />
+
+In the first two turns of the game, Soviet forces have a chance of surrendering. If they do so in sufficient numbers, the Germans must assign two divisions to move for one turn to escort the [[Prisoner of war|prisoners of war]] to the rear.<ref name=":1" /> Additionally, each turn the respective leaders of each nation will issue "directives", stating various goals such as to "take Kursk this turn", not to retreat or to hold a certain position. If either side fails to do so, they may lose the command of a valuable leader. The aforementioned leaders are vital not only for the command, control and activation of units, but they are also valuable in terms of their abilities. They are measured by eight different metrics;<ref name=":1" /><ref name=":3" />
+
+* Offensive ability
+* Defensive ability
+* Aggressiveness
+* Organisational skills
+* Political finesse
+* Initiative
+* Independence
+* The ability to gain reserves from their superiors
+
+This means that while one leader may be better suited to coordinating attacks, another may be better suited to defending a position.<ref name=":1" />
+
+In the fog of war mode, all hostile units in an adjacent hex to friendly units can be seen by the player, with enemies behind friendly lines having around a 35% chance of being spotted. This chance will decrease with inclement weather, simulating the diminished ability or outright cessation of [[Aerial reconnaissance|reconnaissance flights]].<ref name=":1" />
+
+While other wargames simulate air power in some form or another, ATGOM simulates both offensive and defensive [[Close air support|air support]], while also simulating [[interdiction]] of this air support. For the German side, "[[Strategic bombing|terror bombing]]" is also a feature, affecting Russian supply and attempts to form militia units.<ref name=":1" /><ref name=":3" />
+
+Due to the board game and the computer game sharing a ruleset, both could be played either separately or together.<ref name=":2" />
+
+==Reception==
+Lew Fisher reviewed the game for ''[[Computer Gaming World]]'', stating;<ref name=":1" />
+
+{{Quote|text=ATGOM is an excellent effort for the designer's first computer game. I hope to see more scenarios using the same map. Also, they have several other games in the works. If they are anything like this game they should prove interesting as well as innovative.}}
+
+He would also criticise the game, stating;<ref name=":1" />
+
+{{Quote|text=However, several things should be considered before buying it. One, this is a detailed simulation with each turn taking a long time to play. I recommend this game to the serious gamer with time on his hands. Second, although the documentation was well done and easy to digest, there were many holes and inconsistencies. The game can be played, but it takes several games to find out exactly what to do or why certain things are happening.}}
+
+==References==
+{{Reflist}}
+
+[[Category:1985 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Computer wargames]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games about Nazi Germany]]
+[[Category:Video games based on board games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Moscow]]
+[[Category:Video games set in the Soviet Union]]
+[[Category:World War II video games]]

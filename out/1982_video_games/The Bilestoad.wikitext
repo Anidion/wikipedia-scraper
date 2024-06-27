@@ -1,0 +1,58 @@
+The Bilestoad
+Permalink: //en.wikipedia.org/w/index.php?title=The_Bilestoad&oldid=1158244276
+Accessed on: 2024-06-26T16:53:02.518536
+
+
+
+------
+The Bilestoad
+{{more citations needed|date=October 2017}}
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = The Bilestoad
+|image = The_Bilestoad_Apple_II_Cover_Art.jpg
+|caption =
+|developer =
+|publisher = [[Datamost]]
+|designer = Marc Goodman
+|engine = 
+|released = 1982
+|genre = [[Fighting game|Fighting]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Apple II]]
+}}
+
+'''''The Bilestoad''''' is a fighting [[video game]] by Marc Goodman (credited as "Mangrove Earthshoe") for the [[Apple II]] and published in 1982 by [[Datamost]].
+
+In ''The Bilestoad'', players control "meatlings" that hack and battle with axes and shields from a top-view perspective.  The name is derived from the [[German language|German]] words ''Beil'' (axe) and ''Tod'' (death).  The odd spelling reflects Goodman's idea of a future language similar to ''[[A Clockwork Orange (novel)|A Clockwork Orange]]''<nowiki>'</nowiki>s [[Nadsat]] in which [[English language|English]] has been modified by the borrowing of foreign words.<ref name="Marc Goodman">{{cite web|last1=Hague|first1=James|title=Marc Goodman interview|url=https://dadgum.com/halcyon/BOOK/GOODMAN.HTM|website=Halcyon Days: Interviews with Classic Computer and Video Game Programmers|date=1997}}</ref> Although the game may seem medieval, the backstory in the manual explains that the axe fighting is actually a future [[virtual reality]] game designed to reduce real violence.
+
+According to the author, influences for ''The Bilestoad'' include the movie ''[[Excalibur (film)|Excalibur]]'' and ''[[Monty Python and the Holy Grail]]''.<ref name="Marc Goodman"/>
+
+==Gameplay==
+''The Bilestoad'' allows a human player to fight against either a computer-controlled opponent or another human. One can also pit two robots against each other.  Movement and combat is accomplished with the keyboard, pressing keys to swing the gladiator's axe or shield outwards or inwards, or to make the gladiator turn, stop or walk.  Players can lop off their opponents' shield or sword arms, and dispatch them by decapitation. Players progress through levels by successfully defeating their opponent. The highest level is called "Master".
+
+The combat arena is a small island, maps of which (at short, medium, and long range) are shown at the right side of the screen.  Scattered around the arena are various objects, including yin/yang discs which players can stand on to accelerate their movement, stars that transport players to other points in the arena, and "faces" that allow players to leave the level.  The game offers more strategic variation than many [[fighting game]]s, letting the player run away and be chased around the island.  The musical soundtrack begins with [[Beethoven]]'s "[[Für Elise]]".
+
+==Development==
+The [[Apple II]] has no built-in tone generator; all [[Apple II#Sound|sound]] and music is produced by toggling on/off the speaker at appropriate intervals to generate the desired frequency. The game's incorporation of music with gameplay was an impressive technical feat.<ref>[http://rome.ro/news?tag=the%20bilestoad "GameTales: The Bilestoad"], [[John Romero]], January 17, 2010</ref>
+
+==Reception==
+{{Empty section|date=October 2018}}
+
+==Legacy==
+In the mid-1990s, Marc Goodman released an alpha demo of a re-working of the game for the [[Macintosh]].{{citation needed|date=October 2011}} Peter Akemann cited ''The Bilestoad'' as a major inspiration for his game ''[[Die by the Sword]]''.<ref>{{cite magazine |title=NG Alphas: Die by the Sword |magazine=[[Next Generation (magazine)|Next Generation]]|issue=33 |publisher=[[Imagine Media]] |date=September 1997|pages=94–95 |url=https://archive.org/details/NEXT_Generation_33/page/n95}}</ref>
+
+The assembly language source code for ''The Bilestoad'' was found on two 5.25 diskettes retrieved from a dumpster in [[Berkeley, California]] and purchased on eBay by the maintainer of apple2games.com in 2018.<ref>{{cite web |last1=Miyares |first1=Dave |title=Developer Disks Retrieved From Dumpster, Purchased on eBay |url=https://twitter.com/Apple2Games/status/1043340704544645123 |publisher=Twitter |access-date=12 September 2021|date=April 20, 2019}}</ref> It was made available on GitHub in 2019.<ref>{{cite web |title=The Bilestoad source code |url=https://github.com/historicalsource/bilestoad-apple2 |website=GitHub}}</ref>
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Bilestoad}}
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Datamost games]]
+[[Category:Fighting games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Top-down video games]]
+[[Category:Video games developed in the United States]]

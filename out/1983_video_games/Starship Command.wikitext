@@ -1,0 +1,50 @@
+Starship Command
+Permalink: //en.wikipedia.org/w/index.php?title=Starship_Command&oldid=1156751897
+Accessed on: 2024-06-26T16:55:57.126632
+
+
+
+------
+Starship Command
+{{Infobox video game
+| title = Starship Command
+| image = Starship Command cover.jpg
+| publisher = [[Acornsoft]]
+| designer = Peter Irvin<ref name='edgeexile'>{{cite magazine |title=The Making of Exile|magazine=Edge Gaming|issue=91|publisher=Future Publishing|date=November 2000|page=115|url=https://archive.org/details/Edge_Gaming/Edge%20Gaming%20Magazine%20091/page/n115/mode/2up?q=exile&view=theater|access-date=18 May 2023}}</ref><ref name='rg79'>{{cite magazine |title=From the Archives: Superior Software|magazine=Retro Gamer|issue=79|publisher=Imagine|date=22 July 2010|page=46|url=|access-date=}}</ref>
+| released = 1983
+| genre = [[Multidirectional shooter]]
+| modes = [[Single-player]]
+| platforms = [[BBC Micro]], [[Acorn Electron]]
+}}
+[[Acornsoft]]'s '''''Starship Command''''' is a [[multidirectional shooter]] released in 1983 for the [[BBC Micro]] and [[Acorn Electron]]. It was available on cassette as well as 5.25" disc for the BBC and ROM cartridge for the [[Acorn Electron#Acorn Plus 1|Acorn Electron Plus 1]] expansion module. The game was written by Peter Irvin who, along with Jeremy Smith, went on to create the arcade adventure ''[[Exile (1988 video game)|Exile]]''.<ref name='edgeexile' /><ref name='rg79' />
+
+==Gameplay==
+[[Image:Starship Command.png|thumb|left|Acorn Electron version in play]]
+The player assumes the role of captain of a battle starship, charged with defending the frontiers of space from hostile alien ships,<ref name='cvg18starshipcommand'>{{cite magazine |title=Software Reviews – Starship Command|magazine=Computer and Video Games|issue=18|publisher=EMAP|date=April 1983|page=90|url=https://spectrumcomputing.co.uk/page.php?issue_id=1469&page=90|access-date=19 May 2023}}</ref> which come in two sizes — large and small. Some of the larger ships have cloaking devices which make them invisible. Damage is inflicted on ships when they are shot or rammed by other ships.
+
+The player vessel remains locked in the centre of the screen and the world rotates and moves around it. Player shots also have limited range and are subject to the same rotation as everything else, which means the player needs to predict where shots will need to go in order to hit the enemies. The ship has both long range scanners and shields but may only use one at a time.<ref name='cvg18starshipcommand' /> By default, the game will automatically switch between them based on the proximity of enemy vessels but the player can optionally take full control.
+
+Using shields, thrusting, turning and firing all use up energy which is also depleted when hit by enemies. Energy will automatically replenish, most quickly if the shields are off and the starship is not moving, but this leaves the player open to attack.
+
+Unusually, the player is never expected to return their ship from the frontiers. Each individual voyage is a separate command, and lasts either until the player's vessel is destroyed or until they use an escape capsule. If the escape capsule is successfully launched, which means firing it so that it does not collide with any enemy ships, and the player is judged by Star-Fleet to have killed enough enemies during his command then he is given a new commission and a new and visually different ship. 8 points are scored for a small ship and 12 for a large ship. Starfleet's opinion of the player's performance ranges from them being "furious" to "delighted". The number of points required to reach the next level is not fixed. Sometimes a score of 60 will suffice and sometimes a score of 80 will not be enough to guarantee automatic promotion to the next level, assuming the escape capsule was jettisoned safely. Strangely, more points were awarded when an escape capsule collided with and destroyed an enemy ship as opposed to being shot or colliding with the starship.
+
+Later commands take place in faster environments and with greater numbers of enemy. There are 8 different starship designs, which repeat after level 8.
+
+==Reception==
+Although none of the Acorn magazines were in the habit of giving review scores at the time, the game received generally very favourable reviews. Peter Gray, writing in the October 1983 edition of ''[[Electron User]]'', concluded that "The game seems to have everything. The graphics are superb, the instructions thorough and, once you get used to the way your ship stays still while the aliens move, the whole thing is enthralling".<ref>"Starship Command" review, Electron User, October 1983</ref> The BBC version was reviewed in ''[[Computer and Video Games]]'' and received a score of 90%.<ref name='cvg18starshipcommand' />
+
+
+''Starship Command'' reached number one in the BBC games charts replacing ''Snooker'', another Acornsoft title.<ref name='pcw11aug83charts'>{{cite magazine |title=Charts|magazine=Popular Computing Weekly|issue=32|publisher=Sunshine Publications|date=11 August 1983|page=47|url=https://spectrumcomputing.co.uk/page.php?issue_id=2767&page=47|access-date=19 May 2023}}</ref> It spent one week at the top of the charts before being replaced by another Acornsoft game, [[Geoff Crammond|Geoff Crammond's]] ''Super Invaders''.<ref name='pcw18aug83charts'>{{cite magazine |title=Charts|magazine=Popular Computing Weekly|issue=33|publisher=Sunshine Publications|date=18 August 1983|page=47|url=https://spectrumcomputing.co.uk/page.php?issue_id=2768&page=47|access-date=19 May 2023}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Acornsoft}}
+
+[[Category:1983 video games]]
+[[Category:Acornsoft games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Multidirectional shooters]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

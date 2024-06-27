@@ -1,0 +1,66 @@
+Space Wars
+Permalink: //en.wikipedia.org/w/index.php?title=Space_Wars&oldid=1181394248
+Accessed on: 2024-06-26T16:47:44.758104
+
+
+
+------
+Space Wars
+{{Short description|1977 video game}}
+{{Other uses|Spacewar (disambiguation){{!}}Spacewar}}
+{{More citations needed|date=May 2020}}
+{{Infobox video game
+|title = Space Wars
+|image = Space Wars cover.jpg
+|developer = [[Cinematronics]]
+|publisher = {{vgrelease|NA/SPA|[[Cinematronics]]<ref name="flyers">{{cite web |title=Space Wars Video Game Flyers |url=https://flyers.arcade-museum.com/?page=archive&db=videodb&name=Space+Wars |website=The Arcade Flyer Archive |access-date=31 May 2021}}</ref>|JP|[[Taito]]<ref name="MAD">{{cite web |title=Space Wars |url=https://mediaarts-db.bunka.go.jp/id/M732601 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=31 May 2021}}</ref>|DE|[[Vectorbeam]]<ref name="flyers"/>}}
+|programmer = Larry Rosenthal<ref name=giantlist/>
+|release = '''Arcade''' {{vgrelease|NA|November 1977<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |lang=ja |location=Japan |isbn=978-4990251215 |page=114 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n115}}</ref>|JP|July 1978<ref name="MAD"/>|EU|1978<ref name="flyers"/>}} '''Vectrex''' {{vgrelease|NA|1982}}
+|genre = [[Multidirectional shooter]]
+|modes = 2 players, player vs. player
+|arcade system = 
+|platforms = [[Arcade game|Arcade]], [[Vectrex]]
+}}
+
+'''''Space Wars''''' is a [[shooter video game]] released in [[Arcade game|arcades]] by [[Cinematronics]] in 1977. It is based on the [[PDP-1]] game ''[[Spacewar!]]'' (1962) but instead uses [[vector graphics]] for the visuals. The hardware developed for ''Space Wars'' became the platform for most of the vector-based arcade games from Cinematronics. It was distributed in Japan by [[Taito]] in 1978, and a [[Vectrex]] port was published in 1982.
+
+==Gameplay==
+[[File:SPACEWAR.png|225px|thumb|left|Screenshot]]
+
+Two players controlled different ships.  One button rotated ship left, another rotated the ship right, one engaged thrust, one fired a shell, and one entered hyperspace (which causes the ship to disappear and reappear elsewhere on the playfield at random).
+
+The game offered a number of gameplay options, including the presence or absence of a star in the middle of the playfield (which exerted a positive or negative gravitational pull), whether the edges of the playfield [[wraparound (video games)|wrapped around]] to their opposite sides, and whether shells bounced. <!-- Was there an option that controlled whether ships had inertia?  Research? -->The game had three particular features: First, the game could not be played in "one player" mode; a human opponent was required. Second, the player's ship could take a glancing hit without dying, but would suffer damage; a cloud of loose ship fragments would break off and float away, after which the ship would be visibly damaged on screen and would turn and accelerate more slowly. Third and most memorable was that the duration of play for any contest was solely governed by the amount of money deposited; each quarter bought a minute and a half of play. A dollar bought six minutes, and for a ten dollar roll of quarters two players could play non-stop for an hour.
+
+==Development==
+Larry Rosenthal was an [[MIT]] graduate who was fascinated with the original ''[[Spacewar!]]'' and developed his own custom hardware and software so that he could play the game. [[Cinematronics]] worked with Rosenthal to produce the ''Space Wars'' system.
+
+==Reception==
+''Space Wars '' sold 10,000 [[arcade cabinet]]s in 1978.<ref name="Bloom">{{cite book |last1=Bloom |first1=Steve |title=Video Invaders |publisher=Arco Publishing |isbn=978-0-668-05520-8 |page=18 |url=https://archive.org/details/book_video_invaders/page/n38}}</ref> It was the highest-earning [[1978 in video games|arcade video game of 1978]] in the United States.<ref name="Replay">{{cite journal |title=Video Games |journal=RePlay |date=November 1978}}</ref> It was later the sixth highest-earning [[1979 in video games|arcade video game of 1979]] in the United States.<ref>{{cite journal |title=Video Games |journal=RePlay |date=November 1979}}</ref>
+
+''[[Electronic Fun with Computers & Games]]'' magazine gave the Atari VCS version a C rating in 1982.<ref>{{cite magazine |title=Video Game Explosion! We rate every game in the world |magazine=[[Electronic Fun with Computers & Games]] |date=December 1982 |volume=1 |issue=2 |pages=12–7 |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_02_1982-12_Fun_Games_Publishing_US/page/n11/mode/2up}}</ref>
+
+==Legacy==
+''Space Wars'' formed the basis of the platform used by [[Cinematronics]] for their subsequent black-and-white vector games such as ''[[Star Castle]]'' and ''[[Tail Gunner]]''.
+
+==See also==
+*''[[Space War]]'' for the Atari VCS (1978)
+
+==References==
+{{reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+* [http://thedoteaters.com/?bitstory=bitstory-article-2/space-wars-and-cinematronics "''Space Wars'' and Cinematronics"] at The Dot Eaters
+
+[[Category:1977 video games]]
+[[Category:Arcade video games]]
+[[Category:Cinematronics games]]
+[[Category:Head-to-head arcade video games]]
+[[Category:Multidirectional shooters]]
+[[Category:Vector arcade video games]]
+[[Category:Vectrex games]]
+[[Category:Video games developed in the United States]]
+[[Category:Science fiction video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Vectorbeam games]]

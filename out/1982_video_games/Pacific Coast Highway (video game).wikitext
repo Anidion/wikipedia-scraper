@@ -1,0 +1,65 @@
+Pacific Coast Highway (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Pacific_Coast_Highway_%28video_game%29&oldid=1228358460
+Accessed on: 2024-06-26T16:53:47.835838
+
+
+
+------
+Pacific Coast Highway (video game)
+{{Short description|1982 video game}}
+{{Infobox video game
+|title = Pacific Coast Highway
+|image = Pacific Coast Hwy cover.jpg
+|caption = 
+|developer = [[Datasoft]]
+|programmer = Ron Rosen<ref name="giantlist"/>
+|publisher = Datasoft
+|released = 1982
+|genre = [[Action game|Action]]
+|modes = 1-2 player simultaneous
+|platforms = [[Atari 8-bit]]
+|alt = 
+}}
+
+'''''Pacific Coast Highway''''' (stylized as '''''Pacific Coast Hwy''''')<ref name="atarimania"/> is an action video game written by Ron Rosen for [[Atari 8-bit computers]] and published by [[Datasoft]] in 1982.<ref name="giantlist"/> It is a clone of ''[[Frogger]],''<ref name="awp"/> where the objective is to cross from the bottom of the screen to the top. The key differences are that in ''Pacific Coast Highway'' the road and water segments are split into separate, alternating, screens and it allows two-player simultaneous play.<ref name=brannon/> If either player dies, the level starts over.
+
+Ron Rosen later wrote the scrolling shooter ''[[Rosen's Brigade]]'' (1983) and platform game ''[[Mr. Robot and His Robot Factory]]'' (1983).<ref name="giantlist"/>
+
+==Gameplay==
+[[File:Pacific_Coast_Highway_Atari_8-bit_screenshot.png|thumb|left|The highway screen with the rolling sidewalk shown in gray.]]
+
+Each player starts at the bottom of the screen and the goal is to reach the top. Player one is a [[rabbit]] and player two, if present, is a [[tortoise]]. The difference between the two is entirely visual, and the [[The Tortoise and the Hare|tortoise and hare]] theme is not present elsewhere.
+
+The first screen is the highway from the title, with eight lanes of traffic to avoid, divided in the center by a [[median strip]] (called a "rolling sidewalk" in the manual).<ref name="manual"/> The second screen is water-themed, and players must hop on the boats and rafts to reach the top. The median strip equivalent for the water is a row of connected [[Personal flotation device|life preservers]]. In later levels the median strip and life preservers move, first in one direction only, then randomly switching. Getting hit by a vehicle results in an ambulance taking the character away (or a rescue boat for the water sequence), and the level restarts for both players.
+
+The manual describes the second screen as crossing a beach of hot sand by jumping on towels and surfboards, but this isn't present in the game itself.<ref name="manual"/>
+
+==Reception==
+''[[Compute!|COMPUTE!]]'' editorial assistant Charles Brannon wrote, "A frustrating aspect of the game is that if one player gets hit (or takes a plunge), both players have to start over."<ref name="brannon"/>
+
+In a C+ review for ''The Book of Atari Software 1983'' the reviewer wrote, "The graphics and sound are fair in this game; but although it offers something of a challenge to the uninitiated, it cannot lay claim to originality."<ref>{{cite book |last1=Stanton |first1=Jeffrey |title=The Book of Atari Software 1983 |date=1983 |publisher=The Book Company |page=[https://archive.org/details/ataribooks-the-book-of-atari-software-1983/page/n122 121] |url=https://archive.org/details/ataribooks-the-book-of-atari-software-1983}}</ref>
+
+==See also==
+*''[[Preppie! (video game)|Preppie!]]''
+*''[[Frogger II: ThreeeDeep!]]''
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web |title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first=James}}</ref>
+<ref name="atarimania">{{cite web|title=Pacific Coast Highway|url=http://www.atarimania.com/game-atari-400-800-xl-xe-pacific-coast-highway_3853.html|website=Atari Mania}}</ref>
+<ref name="manual">{{cite book|title=Pacific Coast Highway Manual |date=1982 |publisher=Datasoft |url=https://archive.org/details/agm_Pacific_Coast_Highway}}</ref>
+<ref name="brannon">{{cite journal|last1=Brannon|first1=Charles|title=Review: Four Atari Games|journal=Compute!|date=October 1982|issue=29|page=127|url=http://www.atarimagazines.com/compute/issue29/381_1_Review_Four_Atari_Games.php}}</ref>
+<ref name="awp">{{cite journal|last1=Cohen|first1=Frank|title=The Making of AtariWriter Plus|journal=ANALOG Computing|url=http://analog.katorlegaz.com/analog_1987-06_120dpi_jpeg_cropped/analog_1987-06_010.html#tophalf|date=June 1987|page=10}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=3853}}
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Datasoft games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Top-down video games]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,68 @@
+Bomb Alley
+Permalink: //en.wikipedia.org/w/index.php?title=Bomb_Alley&oldid=1129934693
+Accessed on: 2024-06-26T16:54:39.057268
+
+
+
+------
+Bomb Alley
+{{Other uses|Bomb Alley (disambiguation)}}
+{{Expand French|Bomb Alley|topic=|date=October 2020}}
+{{More citations needed|date=June 2008}}
+{{Infobox video game
+|title     = Bomb Alley
+|writer    = [[Gary Grigsby]]
+|image     = Bomb Alley SSI box.png
+|publisher = [[Strategic Simulations]]
+|released  = 1983
+|genre     = [[Computer wargame]]
+|modes     = [[Single player]], [[Multiplayer video game|Multiplayer]]
+|platforms = [[Apple II series|Apple II]]
+}}
+
+'''''Bomb Alley''''' is a 1983 [[computer wargame]] designed by [[Gary Grigsby]] and published by [[Strategic Simulations|Strategic Simulations, Inc.]] (SSI). Covering the [[Mediterranean Theatre of World War II]], it runs on the [[Apple II series|Apple II]] platform. It has the distinction of being the first true land-sea-air computer wargame, where ground troops could advance and retreat across land.
+
+The game's main scenario is the summer of 1942 when [[Erwin Rommel|Rommel]]'s forces threatened to capture [[Cairo]] and [[Alexandria]]. There is also a smaller scenario covering the [[Battle of Crete]] in 1941. ''Bomb Alley'' was Grigsby's second game, following ''[[Guadalcanal Campaign (video game)|Guadalcanal Campaign]]'' (1982). It reuses that title's [[game engine|engine]], and was [[Source code|coded]] and distributed as [[Compiler|uncompiled]] [[Applesoft BASIC]].<ref>[https://archive.org/details/a2_Bomb_Alley_19xx_SSI_RDOS BombAlley source code] on [[archive.org]]</ref> Grigsby developed both games while working full-time for the [[United States Department of Defense]].
+
+Grigsby and SSI followed ''Bomb Alley'' with ''[[North Atlantic '86]]'' (1983), made with the same engine.
+
+== Description ==
+Each turn represented twelve hours, with ground and air combat taking place only during daytime turns.
+
+Grigsby expanded the game from ''[[Guadalcanal Campaign (video game)|Guadalcanal Campaign]]'' with many new features, such as [[Military transport aircraft|transport aircraft]], [[torpedo boat]]s, and the ability to use [[paratroop]]s once per game. Most important of all was the ability of aircraft to support ground troops in combat.
+
+As in the previous game, an AI "player" was available for one side only, but this time it was [[Allies of World War II|the Allies]].  [[The Axis]] had to have a human player. Also in contrast, there were only three scenarios instead of six, and the "long" campaign game ran less than three months.
+
+Both sides faced the problem of how to keep their forces supplied, primarily with ship [[convoy]]s, and how best to disrupt the other side's convoys. Where to base the fighters and bombers, which had been obvious in ''Guadalcanal Campaign'', was now a challenge. Control of the air over [[Africa]] had to be traded off with the air battles over [[Malta]].
+
+==Development==
+''Bomb Alley'' was designed by [[Gary Grigsby]], following his debut title ''[[Guadalcanal Campaign]]'' in 1982. As with his first game, he developed ''Bomb Alley'' in his spare time while working in a [[civil service]] position.<ref name=wargamer>{{cite web | archiveurl=https://web.archive.org/web/20110220105733/http://www.wargamer.com/article/1383/Interview-Joel-Billings-and-Gary-Grigsby?page=1 | url=http://www.wargamer.com/article/1383/Interview-Joel-Billings-and-Gary-Grigsby?page=1 | title=Interview: Joel Billings and Gary Grigsby | date=July 16, 2003 | work=[[Wargamer (website)|Wargamer]] | author1=Zabek, Jim | author2=Wallace, Shaun | archivedate=February 20, 2011 | url-status=dead }}</ref>
+
+==Reception==
+Rich Sutton of ''Video Games'' wrote that he "highly recommended [''Bomb Alley''] for the intermediate player".<ref name=videogames>{{cite magazine | author=Sutton, Rich | title=War Games: A Battle Plan for Attacking Video Simulations | volume=2 | number=1 | date=October 1993 | magazine=Video Games | pages=40, 41, 44–48 }}</ref>
+
+The game's greatest weakness was the scoring system, which strongly favored the [[United Kingdom|British]].{{citation needed|date=October 2017}} While Malta and [[Tobruk]] were worth 500 points each if the Allies held them, the Axis received only 200 points each for capturing them.{{citation needed|date=October 2017}} The only high-value target for the Axis was capturing [[Alexandria]] itself. This meant the Axis had to win decisively or not at all.{{Citation needed|date=June 2008}}
+
+Another problem was the limited types of aircraft available.{{citation needed|date=October 2017}} Historically, the Mediterranean Theatre had a wide mix of German, Italian, British, and American bombers and fighters.{{citation needed|date=October 2017}} Grigsby's system accommodated only one fighter type for each side, and only a few bomber types.{{citation needed|date=October 2017}} A 1983 review in ''[[Computer Gaming World]]'' complained about this lack of detail, which may have contributed to ''Bomb Alley'' selling less well than ''Guadalcanal Campaign''.<ref name="CGW11">{{cite magazine |last=Karr |first=Richard Charles |title=Bomb Alley: A Review and Analysis |magazine=Computer Gaming World |date=Jul–Aug 1983 |volume=1 |issue=11 |pages=35–37 |url=}}</ref> A 1993 survey in the magazine of wargames gave the game one-plus stars out of five.<ref name="brooks199309">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=110 | title=Brooks' Book of Wargames: 1900-1950, A-P | magazine=Computer Gaming World | date=September 1993| accessdate=30 July 2014 | author=Brooks, M. Evan | pages=118}}</ref>
+
+There were some bugs in the [[source code]], but they did not interfere with the playability of the game.{{citation needed|date=October 2017}} A line of code accidentally carried over from ''Guadalcanal Campaign'' halved the accuracy of the British [[torpedo bomber]]s from what the manual said.{{citation needed|date=October 2017}} However, they were still able to inflict serious losses on Axis ships.{{citation needed|date=October 2017}} Another bug prevented the major Allied base at [[Gibraltar]] from receiving additional supplies, but there was a stockpile at the start large enough to last through most games.{{citation needed|date=October 2017}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MobyGames|/bomb-alley}}
+*[https://web.archive.org/web/20071026063449/http://project64.c64.org/games/0-l/index.html An electronic version of the manual] at Project 64 Games
+
+{{Gary Grigsby}}
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Computer wargames]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Strategic Simulations games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United States]]
+[[Category:World War II video games]]
+[[Category:Commercial video games with freely available source code]]

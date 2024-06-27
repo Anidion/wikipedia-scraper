@@ -1,0 +1,60 @@
+Star Rider
+Permalink: //en.wikipedia.org/w/index.php?title=Star_Rider&oldid=1219388634
+Accessed on: 2024-06-26T16:55:56.066692
+
+
+
+------
+Star Rider
+{{more citations needed|date=January 2017}}
+{{Infobox video game
+| title = Star Rider
+| image = Star Rider arcade flyer.png
+| caption = Sales flyer showing the arcade cabinet
+| developer = [[Williams Electronics]]
+| publisher = Williams Electronics
+| designer = [[RJ Mical]]<br>[[John Newcomer]]<br>[[Python Anghelo]]
+| artist = [[Python Anghelo]]
+| programmer = Richard Witt<br>Ken Graham
+| platforms = [[Arcade game|Arcade]]
+| released = {{vgrelease|NA|[[1983 in video gaming|November 1983]]}}
+| genre = [[Racing game|Racing]]
+| modes = [[Single-player]]
+| arcade system = Williams 6809 Rev.1 Videodisk
+}}
+
+'''''Star Rider''''' is a [[racing game|racing]] [[LaserDisc video game]] developed by Computer Creations and [[Williams Electronics]], and released for [[arcade game|arcades]] in 1983. The object of the game is to win a futuristic [[motorcycle]] race that takes place in surrealistic settings.  The tracks themselves and the background graphics are video played from a [[laserdisc]], and are of higher quality than possible with real-time computer graphics at the time. The foreground graphics and racers are superimposed on the video. ''Star Rider'' has a rear view mirror&mdash;possibly the first racing game with one &mdash;which warns of opponents approaching from behind.<ref name="gorzelany"/><ref name="bigk">Arcade Alley [[Big K (magazine)|Big K]], 07 1984-Oct pp.72-73 [https://computerarchive.org/files/computer/magazines/big-k/Big_K_Issue_07_1984_Oct.pdf#page=74]</ref>
+
+''Star Rider'' was produced in both an upright and a sit-down version where the player would sit on a replica of the cycle. It was released after the [[North American video game crash of 1983|video game crash of 1983]] and was not widely distributed. According to [[Eugene Jarvis]] of Williams, ''Star Rider'' was a "major dog" and resulted in or contributed to a loss of [[US$]]50 million.<ref name="halcyon"/> The title character from ''[[Sinistar]]'' and a flying mount from ''[[Joust (video game)|Joust]]'' make cameo appearances in the background graphics.
+
+==Development and release==
+The game was conceived to compete with the laserdisc game ''[[Dragon's Lair]]'' which had just come to market.{{citation needed|date=April 2014}} [[RJ Mical]] coordinated the project,<ref>{{cite web|title=Work History of RJ Mical|url=http://www.mical.org/workhistory/}}</ref> [[Python Anghelo]] was a co-designer, Ken Lantz directed software development, Richard Witt was the lead programmer, Ken Graham was a secondary programmer, and John Newcomer was the "creative director". The hardware was custom build specially for the game;<ref>{{cite web|title=System 16|url=http://www.system16.com/hardware.php?id=592&page=1#3083}}</ref> the laser disc video production was outsourced to a third-party company, Computer Creations, of South Bend, Indiana. The CGI graphics were rendered at Grey and Associates.<ref>{{cite web|title=Interview with Ken Graham|url=https://nantucketebooks.com/ebooks/atgonzalez/Interview_With_Ken_Graham.html#INTERVIEW}}</ref> Witt and Lantz developed a means by which the first few lines of NTSC video signal contained data about the roadway, so that animated riders could appear to follow the track.
+
+''Star Rider'' was first demonstrated at the Amusement & Music Operators Association (AMOA) show in October 1983.<ref name="CashMachine">{{cite magazine |title=Cash Machine |magazine=[[Cash Box]] |date=November 12, 1983 |pages=30–4 |url=https://worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1983/CB-1983-11-12.PDF#page=32}}</ref> It demonstrated the use of [[pre-rendered]] [[3D computer graphics]],<ref name="gorzelany"/> which had previously been demonstrated by [[Funai]]'s ''Interstellar''<ref name="GM226">{{cite magazine|title=立体CGを駆使したVDゲーム 〜 未来の宇宙戦争 〜 フナイから 『インターステラー』|trans-title=VD Game That Makes Full Use of 3D CG – Future Space War: "Interstellar" from Funai|magazine=[[:ja:ゲームマシン|Game Machine]]|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|issue=226|date=15 December 1983|page=24|lang=ja|url=https://onitama.tv/gamemachine/pdf/19831215p.pdf#page=13}}</ref> at the [[Amusement Machine Show]] (AM Show) in September 1983.<ref>{{cite magazine|title=Overseas Readers Column: 21st AM Show Of Tokyo Held Heralding The Age Of The Video Disk|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=223|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 November 1983|page=34|lang=ja|url=https://onitama.tv/gamemachine/pdf/19831101p.pdf#page=18}}</ref> ''Star Rider'' was released in North America in November 1983.<ref>{{cite magazine |title=Manufacturers Equipment |magazine=[[Cash Box]] |date=November 26, 1983 |page=34 |url=https://worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1983/CB-1983-11-26.PDF#page=34}}</ref>
+
+==Reception==
+In the United States, it was the top-grossing laserdisc game at arcade locations on the ''[[Play Meter]]'' charts in August 1984.<ref name="August">{{cite magazine |title=National Play Meter |magazine=[[Play Meter]] |date=August 15, 1984}}</ref> It was later the top laserdisc game at street locations in November 1984.<ref name="November">{{cite magazine |title=National Play Meter |magazine=[[Play Meter]] |date=15 November 1984 |volume=10 |issue=21 |pages=28–9 |url=https://archive.org/details/play-meter-volume-10-number-21-november-15th-1984-600DPI/Play%20Meter%20-%20Volume%2010%2C%20Number%2021%20-%20November%2015th%201984%20%28Compressed%29/page/28}}</ref>
+
+==Legacy==
+In the 1987 slasher horror movie ''[[Blood Rage]]'', two characters, Artie (James Farrell) and Gregg (Chad Montgomery), are seen playing ''Star Rider'' on a television set. Later, Artie and Julie (Jayne Bentzen) are seen playing the game but using joysticks to control the screen.{{Citation needed|date=May 2020}}
+
+==References==
+{{Reflist|refs=
+<ref name="halcyon">{{cite book|last1=Hague|first1=James|title=Halcyon Days: Interviews with Classic Computer and Video Game Programmers|url=http://www.dadgum.com/halcyon/BOOK/JARVIS.HTM|date=1997}}</ref>
+<ref name="gorzelany">{{cite journal|last1=Gorzelany|first1=Jim|title=Going Full Cycle|journal=Video Games|date=April 1984|volume=2|issue=7|pages=24–29|url=https://archive.org/stream/Video_Games_Volume_2_Number_07_1984-04_Pumpkin_Press_US#page/n24/mode/2up}}</ref>
+}}
+
+==External links==
+*{{KLOV game|id=9768}}
+* [http://www.dragons-lair-project.com/games/pages/sr.asp ''Star Rider'' page] at the Dragon's Lair Project* 
+* [https://arcadeblogger.com/2018/02/02/star-rider-arcade-laser-discs-last-stand/ Star Rider: Arcade Laser Disc’s Last Stand] at The Arcade Blogger
+*[https://www.arrowvideo.com/product/blood-rage/693 Star Rider Blu-Ray (2015) by Arrow Video]
+
+[[Category:LaserDisc video games]]
+[[Category:Racing video games]]
+[[Category:1983 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Williams video games]]
+[[Category:Single-player video games]]

@@ -1,0 +1,61 @@
+The Shattered Alliance
+Permalink: //en.wikipedia.org/w/index.php?title=The_Shattered_Alliance&oldid=1229893628
+Accessed on: 2024-06-26T16:52:34.977854
+
+
+
+------
+The Shattered Alliance
+{{infobox video game
+|title=Chronicles of Osgorth:<br/>The Shattered Alliance
+|image=Chronicles of Osgorth The Shattered Alliance.jpg
+|caption=Apple II cover
+|developer=[[Strategic Simulations]]
+|publisher=Strategic Simulations
+|designer=John Lyon<ref name="mania">{{cite web |title=The Shattered Alliance |url=http://www.atarimania.com/game-atari-400-800-xl-xe-shattered-alliance-_4624.html |website=Atari Mania}}</ref>
+|artist=Louis Hsu Saekow<br/>Kevin McElvain
+|writer=Marcia Trusk
+|release=1981
+|genre=[[Wargame (video games)|Wargame]]
+|platform=[[Apple II]], [[Atari 8-bit]]
+}}
+
+'''''Chronicles of Osgorth: The Shattered Alliance''''' is a 1981 [[computer wargame]] published by [[Strategic Simulations]] in January 1982 for the [[Apple II]] and [[Atari 8-bit computers]]. Programmed by John Lyon, it relies on a new game engine, called RapidFire, intended to make faster and easier access to wargames published by the studio. During a turn, the program selects the units each in turn and the player only has to order them to move, attack or cast a spell. The order is then executed immediately before the program selects another unit. The game offers two categories of scenarios. The first is composed of medieval-fantasy confrontation, including a free adaptation of the Battle of Gondor against the Mordor forces in the Lord of the Rings. The second is composed of historical battles of antiquity.
+
+On its release, ''The Shattered Alliance'' was hailed by the trade press, which praised its graphics and its new game engine, which made it quick and easy to handle. Retrospectively, the French magazine ''Jeux et Stratégie'' described it as a very big game by explaining that it is no coincidence that it has held the top of the bill for several years.
+
+==Gameplay==
+''The Shattered Alliance'' is a tactical level swords and sorcery combat game.<ref name="SG"/> The game simulates clashes between two armies in historic or fantastic battles. At the beginning of a game, both armies are displayed, one after the other, on the screen with indications of the types of units, weapons and strengths of each. The players can then choose their side and in the case of a solo part, the computer is assigned the opposite side. The fights take place on a map that can be displayed in two ways: a strategic view and a tactical. The first shows the entire battlefield but does not display the hexagonal boxes that divide it. The tactical view shows these boxes but only displays part of the battlefield.<ref name="SG"/> When the game is started, the computer selects one of the units, which is a group containing multiple soldiers of the same type. The player can then order the unit to move, attack or use a spell.<ref name="CGW2.1p2"/> For movements, the player simply chooses the direction and the unit moves immediately. Movements have a cost, expressed in time points, which vary according to the type of terrain and the type of unit selected. Two types of attack are offered in the game: melee or distance. Six melee weapons and three shooting weapons are available in the game.<ref name="SG"/> Their effectiveness depends on the type of troop and armor of the opposing unit.<ref name="CGW2.1p2"/> Both types of combat are handled in a manner similar to the movements and are simulated immediately. The losses in combat have an impact on the number of soldiers in the unit but also on its morale. The morale of a unit depends on the casualties suffered in combat, the unit's training level and the presence of enemy or allied troops. When a unit moves to attack, its morale is tested by the computer which then determines whether or not it accepts to obey orders. The army as a whole is also affected by a level of morale that depends on the combat success of the units that compose it. When the morale of the army reaches zero, the battle ends. In some scenarios, players may use a limited number of spells that increase troop strength for a given period.<ref name="SG"/>
+
+The game offers two categories of scenario. The first, the chronicles of Osgorth, is composed of four fantastic scenarios in which the player directs armies composed, among others, of man-lizard, of humans riding unicorns, centaurs or amazons. Different creatures can cast spells that allow them to gain an advantage against enemies. One of the missions is freely inspired by the Battle of Gondor against the Mordor forces in ''[[The Lord of the Rings]]''. The second category proposes three scenarios taking place in antiquity: the invasion of [[Ancient Carthage|Carthage]] by [[Alexander the Great]], the [[Barbarian#In classical Greco-Roman contexts|barbarian]] invasions of the [[Roman Empire]] and the attack of the [[Mongol Empire|Mongols]] against the [[Achaemenid Empire|Persians]]. In both categories of scenario, the player has the opportunity to define the field of confrontation (passes, plain, montages ...) as well as the forces involved.<ref name="Tilt10-64">{{cite journal|journal=[[Tilt (French magazine)|Tilt]]|author= Stormbringer|number=10|date=March 1984|pages=64–65|title=Dossier: Kriegspiel!}}</ref>
+
+==Development==
+The game was written by John Lyon<ref name=mania/> and the designer based the combat in the game on his playing experience with ancient miniatures games.<ref name="SG"/> ''The Shattered Alliance'' was programmed by John Lyon in [[BASIC]] and [[assembly language]].<ref name="CGW45">{{cite magazine|magazine=[[Computer Gaming World]]|number=45|date=March 1988|pages=37|title=A History of SSI Games|issn = 0744-6667}}</ref><ref name="BOASp53">{{cite book|title=The Book of Atari Software 1983|url=https://archive.org/details/book_atari_software_1983|author=Jeffrey Stanton, Robert P. Wells and Sandra Rochowansky|editor = The Book Company|date = 1983|page=[https://archive.org/details/book_atari_software_1983/page/n46 53]|chapter=Tactical Space & War Game|journal=The Book of Atari Software|issn = 0736-2706}}</ref> It was based on a new game engine, called RapidFire, designed to make faster and easier to access the wargames published by the studio2. The game was published by Strategic Simulations in 1981 on Apple II and in January 1982 on Atari 8-bit.<ref name="CGW45"/><ref name="CGW2.1p2">{{cite magazine|magazine=[[Computer Gaming World]]|number=1|volume = 2|date=January–February 1982|pages=2|title=Hobby and Industry News|issn = 0744-6667}}</ref> In addition to the floppy disk (or cassette) containing the program, the game's packaging contains an illustrated manual, two command cards, a card containing the combat data of the game and a card offering a brief presentation of its operation.<ref name="Mace6-10">{{cite journal|journal=Mace Journal|author= Richard Staff|number=10|volume = 6|date=November 1986|pages=16–17|title=The Thunder of Hooves and the Clash of Swords!}}</ref> In addition to the game, Strategic Simulations also released ''The Shattered Alliance Tool Kit'' which allows players to customize armies, maps, and game campaigns.<ref name="FC28">{{cite journal|journal=[[Family Computing]]|author= James Delson|number=28|date=December 1985|pages=37–39|title=Group Games for the Holidays|issn = 0899-7373}}</ref>
+
+==Reception==
+Bob Boyd reviewed the game for ''[[Computer Gaming World]]'', and stated that "the graphics are excellent, and the Rapid-Fire system makes playing fast and easy. All in all, I feel ''The Shattered Alliance'' is a very enjoyable game."<ref name="CGW2">{{cite magazine |last=Boyd |first=Bob |title=Micro - Reviews |magazine=Computer Gaming World |date=January–February 1982 |volume=1 |issue=2 |pages=34, 36}}</ref>
+
+David Bolduc reviewed ''The Shattered Alliance'' in ''[[The Space Gamer]]'' No. 48.<ref name="SG">{{cite journal|last=Bolduc |first=David |date=February 1982 |title=Featured Review: The Shattered Alliance|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=48|pages=14–15}}</ref> Bolduc commented that "I'd recommend the game heartily to anyone with an Apple II. It's loads of fun to play, semi-addictive [...] and fast. Despite the problems with the rules, it represents a significant advance in computer gaming and is well worth the investment."<ref name="SG"/>
+
+==Reviews==
+*''[[Casus Belli (magazine)|Casus Belli]]'' #7 (March 1982)<ref>{{cite web | url=https://archive.org/details/casus-belli-007/page/28/mode/2up | title=Casus Belli #007 | date=1982 }}</ref>
+*[https://archive.org/details/softalkv2n01sep1981/page/72/mode/2up ''Softalk'' review]
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #15<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-15/page/44/mode/2up | title=Jeux & stratégie 15 | date=June 1982 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.mobygames.com/game/chronicles-of-osgorth-the-shattered-alliance ''Chronicles of Osgorth: The Shattered Alliance''] at [[MobyGames]]
+*{{internet archive game|a8b_Shattered_Alliance_The_1981_SSI_US_BASIC}}
+*[https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n185/mode/2up Review] in ''The Addison-Wesley Book Of Atari Software 1984''
+
+{{DEFAULTSORT:Shattered Alliance}}
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Computer wargames]]
+[[Category:Science fiction video games]]
+[[Category:Strategic Simulations games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United States]]

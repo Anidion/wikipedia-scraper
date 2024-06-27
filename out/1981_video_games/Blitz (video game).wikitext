@@ -1,0 +1,48 @@
+Blitz (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Blitz_%28video_game%29&oldid=1152676940
+Accessed on: 2024-06-26T16:52:07.881289
+
+
+
+------
+Blitz (video game)
+{{More citations needed|date=June 2020}}
+{{Short description|1981 video game}}
+{{Infobox video game
+|title= Blitz
+|image=BlitzVic20.jpg
+|caption= 
+|developer=
+|publisher= TaySoft (''Vic New York'')<br>[[Commodore International|Commodore]] (''Blitz'')<br>[[Mastertronic]] (''New York Blitz'')
+|designer= Simon Taylor
+|released= 1981
+|genre= [[Action game|Action]]
+|modes= 
+|platforms= [[VIC-20]]
+}}
+
+'''''Blitz''''' is an [[action game]] published by [[Commodore International|Commodore]] for its [[VIC-20]] [[home computer]] in 1981. The game is based on the 1977 arcade video game ''[[Canyon Bomber]]'' from [[Atari, Inc.]], with the goal of clearing boulders replaced with bombing closely packed skyscrapers. Several later clones of the concept also use the urban setting. The game is played with a single button which drops a bomb.
+
+Taylor originally self-published the game as '''''Vic New York'''''. ''Blitz'' was later sold by [[Mastertronic]] as '''''New York Blitz'''''. He also wrote ''Blitz-64'' for the [[Commodore 64]] and ''Blitz-16'' for the [[Commodore 16]].
+
+==Gameplay==
+A plane flies across a single-screen [[cityscape]] at a steady speed. When it reaches the edge of the screen, it wraps to the other side at a lower altitude, with its speed increasing each pass. The player drops bombs from the plane, and each bomb removes one or more segments of the structure it hits. As the plane descends, it risks colliding with remaining buildings. The level is complete when all buildings are destroyed, and the plane has descended safely to the bottom of the screen.
+
+==Development==
+The game was prompted by a verbal description of ''[[Canyon Bomber]]'',{{Citation needed|date=January 2021}} originally released as an arcade video game by [[Atari, Inc.]] in 1977 and ported to the [[Atari 2600|Atari VCS]]. The change from a canyon filled with rock pillars to a city of skyscrapers was copied by later clones including ''Blitz'' (ZX Spectrum), ''City Bomber'' (C64), and ''City Lander'' (ZX81).  
+
+Simon Taylor wrote the game as ''Vic New York'' before he contracted with Commodore in 1982.<ref name=wills/> Taylor later produced versions for the Commodore 64, Commodore 16, and [[Epson HX-20]] portable computer.
+
+==Legacy==
+[[Mastertronic]] later sold the game as the budget-priced ''New York Blitz''.<ref name=wills/>
+
+[[Jeff Minter]] wrote a 1982 [[ZX Spectrum]] game inspired by ''Blitz'' called ''Bomber'' (also published as ''City Bomber'').<ref>{{cite web |title=Bomber |url=https://spectrumcomputing.co.uk/entry/972/ZX-Spectrum/Bomber |website=Spectrum Computing}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="wills">{{cite book |last1=Wills |first1=John |title=Gamer Nation |date=2019 |publisher=Johns Hopkins University Press |isbn=978-1421428703 |page=119 |url=https://books.google.com/books?id=OeqKDwAAQBAJ&q=%22vic+new+york%22+vic-20+game&pg=PA119}}</ref>
+}}
+
+[[Category:1981 video games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United Kingdom]]

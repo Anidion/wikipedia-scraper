@@ -1,0 +1,116 @@
+Yars' Revenge
+Permalink: //en.wikipedia.org/w/index.php?title=Yars%27_Revenge&oldid=1226979404
+Accessed on: 2024-06-26T16:54:23.548913
+
+
+
+------
+Yars' Revenge
+{{confused|Yar's Revenge}}
+{{Lead too short|date=November 2021}}
+{{short description|1982 video game}}
+{{Infobox video game
+|image = Yars Revenge cover.jpg
+|alt = Artwork of a orange, vertical rectangular box. The top half reads "Atari Video Computer System" and below "Yars' Revenge". The bottom half displays a drawn image of a silver robotic fly in battle. On the bottom-right corner there is a tricolor ribbon that says, "New inside. ''Yars' Revenge'' from Atari action-packed comic book".
+|caption = Picture label cover art
+|developer = [[Atari, Inc.]]
+|publisher = Atari, Inc.
+|designer = [[Howard Scott Warshaw]]
+|engine = 
+|released = May 1982
+|genre = [[Multidirectional shooter]]
+|modes = [[Single-player]]
+|platforms = [[Atari 2600]], [[Game Boy Advance]], [[Game Boy Color]]
+}}
+
+'''''Yars' Revenge''''' is a [[video game]] released for the [[Atari 2600]] in 1982.<ref>{{Cite web|title = AtariAge - Catalog - Atari (CO16725-Rev. D)|url = http://atariage.com/catalog_page.html?CatalogID=32&currentPage=18|website = atariage.com|access-date = 2015-11-12}}</ref><ref name=":0">{{cite web |url=http://www.polygon.com/2015/3/9/8163747/yars-revenge-is-a-journey-back-to-a-lost-world-of-video-games |title=The story of Yars' Revenge is a journey back to a lost world of video games |last=Campbell |first=Colin |publisher=[[Polygon (website)|Polygon]] |date=2015-03-09 |access-date=2015-07-02 |quote=This single-screen game of his is not some daffy adventure beloved of crusty collectors and nostalgists. ''Yars' Revenge'', a side-ways ''Space Invaders''-meets-''Breakout'' with touches of ''Asteroids'', was the most successful non-license game on the Atari 2600, a console that sold around 30 million units.}}</ref> It was created by [[Howard Scott Warshaw]] and is Atari's best-selling original game for the 2600.<ref name="Ultimate History of Video Games">{{cite book |last=Kent |first=Steven L. |author-link=Steven L. Kent |title=The Ultimate History of Video Games: The Story Behind the Craze that Touched our Lives and Changed the World |date=2002 |publisher=Random House International |location=New York |isbn=978-0-7615-3643-7 |oclc=59416169 |url=https://books.google.com/books?id=PTrcTeAqeaEC}}</ref>{{rp|236-240}}
+
+==Gameplay==
+[[File:A2600 Yars Revenge.png|thumb|left|Gameplay screenshot]]
+
+The player controls an insect-like creature called a Yar who must nibble or shoot through a barrier in order to fire its Zorlon Cannon into the breach. The objective is to destroy the evil Qotile, which exists on the other side of the barrier. The Qotile can attack the Yar, even if the barrier is undamaged, by turning into the Swirl and shooting across the screen. In early levels the player is warned before the Swirl is fired and can retreat to a safe distance to dodge the attack, and in later levels, the Swirl turns into a guided missile after firing and will chase the Yar until it scrolls off either the top or the bottom of the screen. The Yar can hide from a pursuing destroyer missile within a "neutral zone" in the middle of the screen, but the Yar cannot shoot while in the zone. The Swirl can kill the Yar anywhere, even inside the neutral zone.{{sfn|Bogost|Montfort|2009|p=89}}
+
+To destroy the Qotile or the Swirl, the player has to either touch the Qotile or eat a piece of the shield to activate the Zorlon Cannon, aim the cannon by leading with the Qotile or Swirl, then fire the cannon and fly the Yar out of the path of the cannon's shot. If the weapon finds its mark, the level ends. If the cannon blast hits a piece of the shield or misses, it is expended. The cannon itself is dangerous because, once activated, the fire button launches it instead of firing the Yar's usual shots and, as the cannon tracks the Yar's vertical position, players effectively use the Yar itself as a target and therefore must immediately maneuver to avoid being hit by their own shot.  The cannon shot can also rebound off the shield in later levels. An extra life is earned if the player shoots the Swirl in mid-air.
+
+===Easter egg===
+[[File:YarsRevengeEasterEGG.png|thumb|A screenshot of the Easter egg]]
+
+After killing the Swirl in mid-flight, a black vertical line appears on the screen across the spot where the Swirl was shot (the line is referred to in the manual as the "Ghost of Yars" and warns the player to stay off its "mean streak"). If the Yar is in the lower third of the screen and the black spot on its back across the vertical line at the moment the explosion vanishes, the game ends and goes into the "game select" screen with the programmer's initials, HSW, as HSWWSH in place of the player's score as an [[Easter egg (media)|Easter egg]].<ref>{{cite web|title=Yars Revenge Easter Egg|url=https://www.youtube.com/watch?v=_x_EXUfqQcs|website=Youtube|access-date=February 5, 2016}}</ref>
+
+==Development==
+[[File:Classic Game Postmortem- Yars' Revenge - Howard Scott Warshaw - Thursday, March 5, 2015 GDC (16543702927).jpg|thumb|Warshaw presenting an analysis of the game's development at [[Game Developers Conference|GDC]] 2015]]
+
+The game began as a licensed port of the [[Cinematronics]] arcade game ''[[Star Castle]]''. Warshaw's original design for the Atari 2600 conversion was nearly identical to ''Star Castle'': a powerful cannon is protected by three layers of counter-rotating shields. The player must shoot holes in these shields in order to destroy the cannon inside, but once these holes are made, the cannon can also shoot out at the player. If the outermost layer is completely destroyed, new layers of shields are grown. Three free-roaming mines hunt the player's ship.{{sfn|Bogost|Montfort|2009|p=88}}
+
+However, as Warshaw realized the 2600's limitations would not allow for an accurate port of the game, he readapted the concept into a new game, preserving the "top logical and geometric components of ''Star Castle'' and reorganized them in a way that would better suit the machine". The reimagined game's working title was ''Time Freeze'', because he wanted an action game where time would pause to feature the first full-screen explosion in a video game.<ref name=":0" />
+
+The final game story involves mutated houseflies defending their world against an alien attacker.  Warshaw "liked secret messages and hidden ideas" and thus inverted the name of [[Ray Kassar]], then [[Chief Executive Officer|CEO]] of [[Atari]], to become the titular Yar race and its planet Razak.<ref>{{Cite web|url=https://www.polygon.com/2015/3/9/8163747/yars-revenge-is-a-journey-back-to-a-lost-world-of-video-games|title=The story of Yars' Revenge is a journey back to a lost world of video games|date=2015-03-09|website=Polygon|access-date=2017-05-07}}</ref> This secret was hinted at by the forward-backward letters in the [[Easter egg (media)|Easter egg]]. He wanted to call the game ''Yars' Revenge'' and so lied to one marketing employee that the CEO had approved the name. He then swore that employee to secrecy, assuming that this guy was going to run back and tell everyone.<ref>{{cite web|url=https://arstechnica.com/gaming/2015/03/atari-devs-dissect-yars-revenge-adventure-ataris-woes/|title=Atari devs dissect Yars' Revenge, Adventure, Atari's woes|work=Ars Technica|date=14 March 2015}}</ref>
+
+Play testing by Atari found that the game was popular with women, in contrast to most space shooter games, which were not.<ref>{{Cite web|url=http://www.digitpress.com/library/interviews/interview_howard_scott_warshaw.html|title=DP Interviews...|website=www.digitpress.com|access-date=2017-05-13}}</ref>
+
+==Release==
+As with several other video games for the 2600 system, a miniature [[comic book]] was included with ''Yars' Revenge'' to illustrate the story.<ref>{{cite web|url=http://www.atariage.com/comics/comic_page.html?MagazineID=48&CurrentPage=1 |title=Atari Comic Books - The Qotile Ultimatum! (Page 1) |publisher=AtariAge |access-date=2009-08-24}}</ref> The comic book explains the "revenge" of the game's title in terms of the Yars avenging the destruction of one of their worlds, Razak IV.
+
+Atari also released an album, under the [[Kid Stuff Records]] label, which contains a [[theme music|theme song]] and a [[radio drama]]-style reading of an expansion of the story in the comic book. A different 7" recording explains the tragedy, that a Yar could use himself to target the Zorlon Cannon rather than eating from the barrier. Both recordings were produced by [[John Braden (musician)|John Braden]].
+
+== Reception ==
+{{Video game reviews
+| Allgame = {{Rating|4|5}} <small>(Atari 2600)</small><ref name="All Game Guide 1998">{{cite web|url=http://www.allgame.com/game.php?id=8632&tab=review|title=Yars' Revenge - Review - allgame|last1=Weiss|first1=Brett Alan|year=1998|publisher=[[AllGame|All Game Guide]]|access-date=September 28, 2014}}</ref><br>{{Rating|4|5}} <small>(Game Boy Color)</small><!-- NOTE: This is /not/ the same ref as the former. --><ref name="All Game Guide 1999">{{cite web|url=http://www.allgame.com/game.php?id=18954&tab=review|title=Yars' Revenge - Review - allgame|last1=Weiss|first1=Brett Alan|year=1999|publisher=[[AllGame|All Game Guide]]|access-date=September 28, 2014}}</ref><!-- NOTE: This is /not/ the same ref as the former. -->
+| IGN = 7/10 <small>(Game Boy Color)</small><ref name="IGN 1999-09-29">{{cite web|url=http://www.ign.com/articles/1999/09/30/yars-revenge|title=Yars' Revenge - IGN|last1=Harris|first1=Craig|date=September 29, 1999|publisher=[[IGN]]|access-date=September 28, 2014}}</ref>
+| rev1 = ''[[Tilt (French magazine)|Tilt]]''
+| rev1Score = 5/6 <small>(Atari 2600)</small><ref name="Tilt Nov-Dec 1982">{{cite journal|date=Nov–Dec 1982|title=Cassettes|trans-title=Cartridges|url=http://www.abandonware-magazines.org/affiche_mag.php?mag=28&num=282|journal=[[Tilt (French magazine)|Tilt]]|language=fr|issue=2|pages=15–16|access-date=September 28, 2014}}</ref>
+}}
+
+The original is now considered a classic,<ref>{{Cite news|url=http://www.gamesradar.com/best-atari-2600-games-all-time/2/|title=Best Atari 2600 games of all time|work=gamesradar|access-date=2017-05-07|language=en}}</ref><ref>{{Cite web|url=http://www.ataritimes.com/index.php?ArticleIDX=272|title=The Top 20 Greatest Games For Your Atari - The Atari Times|website=www.ataritimes.com|access-date=2017-05-07}}</ref><ref>{{Cite news |url=https://www.pcmag.com/feature/299591/the-greatest-atari-games-of-all-time|title=The Greatest Atari Games of All Time|work=PCMAG|access-date=2017-05-07|language=en}}</ref> but received some mediocre reviews upon release. The October 1982 issue of ''[[Electronic Games]]'' called the game "too static" due to the game having only one objective that must be repeated indefinitely.<ref>{{Cite web|url=http://www.8bitrocket.com/2017/04/05/pac-man-electronic-games-magazine-and-the-exact-moment-atari-lost-the-video-game-war/|title=Pac-Man, Electronic Games Magazine, And The Exact Moment Atari Lost The Video Game War|last=8bitrocket|website=8bitrocket.com|date=5 April 2017 |access-date=2017-05-07}}</ref>
+
+The following year in the same magazine [[Bill Kunkel (journalist)|Bill Kunkel]] and Arnie Katz called ''Yars' Revenge'' a "video sleeping pill".<ref name="eg198306">{{cite news | url=https://archive.org/stream/electronic-games-magazine-1983-06/Electronic_Games_Issue_16_Vol_02_04_1983_Jun#page/n37/mode/2up | title=Programmable Arcade | work=Electronic Games | date=June 1983 | access-date=January 6, 2015 | author1=Katz, Arnie | author2=Kunkel, Bill | pages=38–42}}</ref> In 1995, ''[[Flux (magazine)|Flux]]'' magazine ranked Yars' Revenge 90th on its "Top 100 Video Games".<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n31/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=32 |access-date=August 4, 2022}}</ref>
+
+==Legacy==
+===Re-releases===
+In 1999, a [[Game Boy|Game Boy Color]] version was developed by Vatical Entertainment and released by [[Telegames]].
+
+A version was created in 2004 for the [[Atari Flashback]] system.<ref>{{cite news|url=http://www.dailytimes.com.pk/default.asp?page=story_26-9-2005_pg6_5|title=Atari Brings Back Bygone Era|date=September 26, 2005|work=[[Daily Times (Pakistan)|Daily Times]]|access-date=April 23, 2010}}</ref>
+
+A 3-in-1 cartridge was released for the [[Game Boy Advance]] in 2005, published by DSI Games. This features ''Yars' Revenge'', ''[[Pong]]'', and ''[[Asteroids (video game)|Asteroids]]''.<ref>{{cite web | url=http://www.gamespot.com/gba/action/pongasteroidsyarsrevenge/index.html?tag=result%3Btitle%3B0 | title=Pong / Asteroids / Yars' Revenge for Game Boy Advance - GameSpot | work=[[GameSpot]] | date = September 23, 2005 | access-date = October 15, 2010}}</ref>
+
+The original version of ''Yars' Revenge'' was published through Xbox's [[Game Room]] in 2010.{{Citation needed|date=May 2015}}
+
+===Remakes===
+A reimagining (titled ''[[Yar's Revenge]]'', rather than ''Yars' Revenge'') was released online on [[Xbox Live Arcade]] and for [[Microsoft Windows]] in April 2011. It was developed by Killspace Entertainment and published by Atari. Yar has been reimagined as a humanoid female in mechanized power armor.<ref>{{cite web | url=http://kotaku.com/5691619/the-new-yars-revenge-looks-more-like-zone-of-the-enders | title=The New Yars' Revenge Looks More Like Zone of the Enders - Kotaku | work=[[Kotaku]] | date= November 17, 2010 | access-date = November 17, 2010}}</ref> It was positively reviewed by Popmatters, for visual appeal and good value.<ref>{{cite web|url=http://www.popmatters.com/review/141543-yars-revenge/|title=Yar's Revenge |work=PopMatters|date=22 May 2011}}</ref> The Microsoft Windows port of the Xbox 360 version was panned by IGN, scoring a rating of only 5.5 out of 10. It was considered to have little connection to the original game and to be too short even at the low price.<ref>{{cite web|url=http://www.ign.com/articles/2011/05/12/yars-revenge-review|title=Yar's Revenge Review|work=IGN|date=12 May 2011}}</ref>
+
+Another remake, a prequel to the original, ''Yars' Revenge: First War'', was released as a part of the Atari GO initiative on April 8, 2011, on [[Facebook]]. It was developed by Teravision Games and published by [[Atari]]. This arcade social game has been acclaimed as remaining faithful to the original and still offering new innovative content.<ref>{{cite web | url=http://www.facebook.com/apps/application.php?id=111292572281103&v=app_6261817190 | title=Yars' Revenge: The First War Facebook App | work=[[Facebook]] | date= April 8, 2011 | access-date = April 8, 2011}}</ref><ref>{{cite web | url=http://www.8-bitcentral.com/blog/2011/yarsRevengeReboot.html | title=Atari's Yar's Revenge Gets A Reboot And Facebook Debut | work=8-bitcentral.com | date= May 20, 2011 | access-date = May 20, 2011}}</ref><ref>{{cite web | url=http://www.8bitrocket.com/2011/05/13/a-look-at-the-atari-facebook-retro-remakes/ | title=A Look at the Atari Facebook Retro-remakes | work=8bitrocket.com | date= May 16, 2011 | access-date = May 16, 2011}}</ref> A revamped version of the game developed by Adamvision Studios and Sneakybox, titled ''[[Yars: Recharged]]'', was released for Microsoft Windows, [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Xbox One]], [[Xbox Series X/S]], [[Google Stadia]], and [[Atari VCS (2021 console)|Atari VCS]] in August 2022 as part of [[Atari, Inc. (1993–present)|Atari's]] ''Recharged'' series.<ref>{{Cite web |date=2022-07-14 |title=Yars: Recharged announced for PS5, Xbox Series, PS4, Xbox One, Switch, PC, and Stadia |url=https://www.gematsu.com/2022/07/yars-recharged-announced-for-ps5-xbox-series-ps4-xbox-one-switch-pc-and-stadia |access-date=2022-07-14 |website=Gematsu |language=en-US}}</ref>
+
+In 2012, Atari.com released another remake, for [[HTML5]] web browsers,<ref>{{cite web | url=http://atari.com/arcade#!/arcade/yarsrevenge/play | title=Yars' Revenge | work=atari.com | access-date=August 30, 2012}}</ref> as part of the ''Atari Arcade'' series in celebration of Atari's 40th anniversary.
+
+=== Sequels ===
+In 2005, a sequel to the original ''Yars' Revenge'', titled ''Yars' Return'', was released on the [[Atari Flashback#Atari Flashback 2|Atari Flashback 2]].<ref>Atari Flashback 2 Instruction Manual, page 10</ref>
+
+In December 2022, Warshaw announced to make a sequel with a release date of 2023 and set in the Yars training grounds.<ref>{{Cite web |last=Zak |first=Robert |date=2022-11-26 |title=40-Year-Old Atari Classic Yars' Revenge Is Getting A Sequel |url=https://www.dualshockers.com/atari-2600-game-yars-revenge-sequel/ |access-date=2022-12-04 |website=DualShockers |language=en-US}}</ref>{{Update inline|date=January 2024|reason=The date of the event predicted near this tag has passed.}}
+
+== References ==
+{{reflist }}
+{{Refbegin}}
+*{{cite book | last1=Bogost |first1=Ian | author-link1=Ian Bogost | last2=Montfort |first2=Nick | title=Racing the Beam: The Atari Video Computer System | publisher=[[The MIT Press]] | year=2009 | isbn=978-0-262-01257-7 | title-link=Racing the Beam: The Atari Video Computer System }}
+{{Refend}}
+
+==External links==
+* {{atarimania|id=18399}}
+* {{AtariAge software|id=603}}
+* [http://www.thealmightyguru.com/Reviews/YarsRevenge/ ''Yars' Revenge''] at TheAlmightyGuru
+* [[iarchive:yars-revenge-extra-atari-2600_202008|''Yars' Revenge'' Extra]] at the [[Internet Archive]]
+* [https://www.youtube.com/watch?v=c0Mvwh_Jjhc Original TV commercial]
+
+{{Yars series}}
+{{Atari 2600}}
+
+[[Category:1982 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Multidirectional shooters]]
+[[Category:Game Boy Color games]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Atari games]]
+[[Category:Video games about insects]]
+[[Category:Video games adapted into comics]]
+[[Category:Video games designed by Howard Scott Warshaw]]

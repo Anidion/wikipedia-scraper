@@ -1,0 +1,61 @@
+Never Mind (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Never_Mind_%28video_game%29&oldid=1224477601
+Accessed on: 2024-06-26T17:06:57.081982
+
+
+
+------
+Never Mind (video game)
+{{Short description|1989 video game}}
+{{Infobox video game
+|title = Never Mind
+|image = Never Mind cover.jpg
+|caption = 
+|developer = [[MC Lothlorien]]
+|publisher = [[Psyclapse (company)|Psyclapse]]
+|released = 1989
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player]]
+|platforms = [[Amiga]]
+}}
+
+'''''Never Mind''''' (also known as '''''Nevermind''''') is a [[puzzle video game]] developed by [[MC Lothlorien]] and published by [[Psygnosis]] under its Psyclapse label in 1989.
+
+==Gameplay==
+The game is played in a [[3D computer graphics|3D]] [[isometric graphics in video games and pixel art|isometric]] environment.  Each isometric square represents a tile.  At the beginning of each level, a picture made up of sixteen tiles will be displayed to the player.  The computer will then rearrange the tiles which make up the picture, and distribute some in other areas of the level.  The player's task is to restore the picture to the way it looked at the beginning of the level.<ref>{{cite magazine|url=https://archive.org/details/New_Atari_User_Issue_043_1990-03_Page_6_Publishing|title=ST Games: Nevermind|date=March 1990|website=[[New Atari User]]|access-date=April 23, 2020|issue=43|page=[https://archive.org/details/New_Atari_User_Issue_043_1990-03_Page_6_Publishing/page/n4 67]}}</ref>  This is achieved by walking around the isometric world, picking up tiles, and placing them in the correct place.  Throughout a level, warps must be found which allow the player to change from walking on the floor to walking on the walls.  Each level has a time limit.  If the time runs out, the player loses.  When the picture is complete, the player progresses to the next level.
+
+From level two onwards, [[chess]] pieces patrol the level.  The chess pieces may move correctly placed tiles to somewhere else on the level, or block the player's path.  In addition, later levels contain several pictures, and several screens.
+
+== Reception ==
+<div style="float:left"> 
+{{Video game reviews
+| ACE = 87% (Amiga), 86% (PC)<ref>{{cite magazine|url=https://archive.org/stream/ace-magazine-29/ACE_Issue_29_1990_Feb#page/n53/mode/2up|title=Screentest: Nevermind|date=February 1990|first=Eugene|last=Lacey|website=[[ACE (magazine)|ACE]]|access-date=April 23, 2020|issue=29|page=54}}</ref>
+| rev1 = [[Amiga Computing]]
+| rev1Score = 53%<ref>{{cite magazine|url=https://archive.org/details/AmigaComputingIssue022Mar90|title=Nevermind: Life Is Too Short|date=March 1990|first=Duncan|last=Evans|website=[[Amiga Computing]]|access-date=April 23, 2020|issue=22|page=[https://archive.org/details/AmigaComputingIssue022Mar90/page/n32 33]}}</ref>
+| rev2 = [[Amiga User International]]
+| rev2Score = 57%<ref>{{cite magazine|url=http://amr.abime.net/review_7372|title=Nevermind|date=February 1990|first=Tony|last=Horgan|website=[[Amiga User International]]|access-date=April 23, 2020|volume=4|issue=2|page=76}}</ref>
+| rev3 = [[The Games Machine]]
+| rev3Score = 76% (Amiga), 75% (PC)<ref>{{cite magazine|url=https://archive.org/stream/the-games-machine-27/TheGamesMachine27#page/n46/mode/2up|title=Never Mind|date=February 1990|first=Warren|last=Lapworth|website=[[The Games Machine]]|access-date=April 23, 2020|issue=27|page=47}}</ref>
+}}
+</div>
+{{clear}}
+
+==Further reading==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' nouvelle formule #5<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-nf-5/page/20/mode/2up | title=Jeux & stratégie NF 5 | date=March 1990 }}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{MobyGames|/never-mind}}
+* {{abime|id=957}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Amiga-only games]]
+[[Category:Psygnosis games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+
+
+{{puzzle-videogame-stub}}

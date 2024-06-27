@@ -1,0 +1,79 @@
+Crush, Crumble and Chomp!
+Permalink: //en.wikipedia.org/w/index.php?title=Crush%2C_Crumble_and_Chomp%21&oldid=1224581743
+Accessed on: 2024-06-26T16:52:13.226534
+
+
+
+------
+Crush, Crumble and Chomp!
+{{Infobox video game
+|title = Crush, Crumble and Chomp!
+|image = Crush, Crumble and Chomp!.jpg
+|developer = [[Epyx]]
+|publisher = Epyx
+|designer = [[Jon Freeman (game designer)|Jon Freeman]]<br/>Jim Connelley
+|released = {{vgrelease|NA|1981|EU|1983}}
+|genre = [[Strategy video game|Strategy]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[MS-DOS]], [[TRS-80]], [[VIC-20]]
+}}
+
+[[Image:Crush crumble chomp advert.jpg|thumb|Magazine ad]]
+
+'''''Crush, Crumble and Chomp!''''' is a 1981 [[video game]]<ref>{{moby game|id=/crush-crumble-and-chomp|name=''Crush, Crumble and Chomp!''}}</ref> where the player takes control of a movie [[monster]] and attacks a major [[city]], such as [[New York City|New York]] or [[San Francisco]]. It was published in 1981 for the [[TRS-80]], [[Apple II]], and [[Atari 8-bit computers]]. Ports to the [[VIC-20]], [[Commodore 64]], and [[IBM PC compatible]]s were released later. Some versions were published under the company's original name of Automated Simulations, while the rest use [[Epyx]].
+
+==Gameplay==
+{{Unreferenced section|date=July 2020}}
+
+''Crush, Crumble and Chomp!'' is a turn-based action game played on a scrolling 2D grid-based map.
+
+The player creates a movie monster and attacks a city, much in the manner of the classic [[horror movie]]s of the 1950s. Specifically, the player can create:
+* Goshilla, a giant [[amphibian]] like [[Godzilla]], with a [[breath weapon]] and leaving a corrosive trail of [[radioactivity|radioactive]] waste. 
+* The [[Kraken]], a giant [[octopus]] or [[squid]]-like monster, that can attack [[bridge]]s and seaside [[port]]s and then slip into the water to hide from attack. However, the Kraken can not go on land.
+* Arachnis, a giant [[spider]], can clog roads with its [[spider web|web]] and can escape underground via its network of secret tunnels. Arachnis can tunnel underwater, but if emerging in water it's trapped, can't move, and needs to tunnel back to dry land.
+* The Glob, akin to the monster in ''[[The Blob]]'', can travel underground in the city's [[sanitary sewer|sewer]] and absorb obstacles in its path, including [[skyscraper]]s. It also leaves a flammable trail of slime in its wake. The Glob shares Arachnis' tunneling ability, but also its limitation.
+* Mechismo, a towering [[robot]]ic menace, sports an exotic array of [[Extraterrestrials in fiction|alien]] weaponry, such as [[ray gun]]s.  It has the advantage over the other monsters in that it does not need to capture and eat people to survive. This is countered by the fact that, as a non-lifeform, it can't heal; the game's customization could allow the player to build a self-repairing robot, but this requires a prohibitive amount of "crunch credits".
+* Mantra, a giant flying monster, like the infamous [[Rodan]]. Mantra can fly over water, but, if landing in it, is stuck like Arachnis or The Glob emerging from its tunneling.
+
+The game also allows the player to "grow" their own monster, with several basic shapes to choose from and a number of "crunch credits" to spend on custom abilities. The number of credits available, and the cost of some abilities, depends on the shape chosen. The player can add a number of abilities until their credits are exhausted.
+
+''Crush, Crumble and Chomp!'' has four cities to attack: [[San Francisco]], [[New York City|New York]], [[Washington, D.C.]], and [[Tokyo]]. After attacking a city—the main activity of the game—players are rated on how well they did. Players are rated even if their monsters die in the attack and can achieve a high score for what they accomplished before expiring.
+
+==Development==
+The [[game engine]] is in [[BASIC]] and uses [[ASCII art|character graphics]] for the map and player, using basic graphics on platforms that support it. On the [[Atari 8-bit computers]], for instance, the map is created out of a custom [[character set]] and presented in a low-resolution mode that allows up to four colors. The same engine was used in most of Epyx's games from the early 1980s.{{citation needed|date=August 2016}}
+
+==Reception==
+Stanley Greenlaw reviewed the game for ''[[Computer Gaming World]]'', and stated that "If you have enjoyed other Automated Simulation games you will not be disappointed in this one. It has the traditional Automated Simulation game mechanics, improved graphics, and a highly entertaining theme."<ref name="CGW1">{{cite magazine |last=Greenlaw |first=Stanley |title=Crush, Crumble and Ch---! |magazine=Computer Gaming World |date=November–December 1981 |volume=1 |issue=1 |pages=22, 34}}</ref>
+
+The game was reviewed in 1982 in ''[[Dragon (magazine)|The Dragon]]'' #65 by Bruce Humphrey. Humphrey concluded that "The game system isn't perfect, from the player/monster point of view," but "The game is satisfying, however, from a fun-to-play standpoint, and that counts more."<ref name="Dragon65">{{cite journal
+|title=Campaigns for the Keyboard
+|author=Humphrey, Bruce
+|journal=The Dragon
+|issue=65
+|date=September 1982
+|pages=73–74}}</ref> [[Jerry Pournelle]] stated that he was "particularly partial" to ''Crush'' in ''[[BYTE]]'' in 1983.<ref name="pournelle198306">{{cite news | url=https://archive.org/stream/byte-magazine-1983-06/1983_06_BYTE_08-06_16-Bit_Designs#page/n411/mode/2up | title=Zenith Z-100, Epson QX-10, Software Licensing, and the Software Piracy Problem | work=BYTE | date=June 1983 | accessdate=20 October 2013 | author=Pournelle, Jerry | volume=8 | issue=6 | pages=411}}</ref> He called it "my all-time favorite" in 1984, writing "there's something exceedingly attractive about burning down and stomping the Pentagon flat, and in general making an even bigger mess of Washington than the politicians have".<ref name="pournelle198401">{{cite news | url=https://archive.org/stream/byte-magazine-1984-01/BYTE-1984-01#page/n61/mode/2up | title=Too Many Leads, or What in *;?!#"*? Goes First? | work=BYTE | date=January 1984 | accessdate=20 January 2015 | author=Pournelle, Jerry | pages=61}}</ref>
+
+Steve Loniewski reviewed ''Crush, Crumble and Chomp'' in ''[[Ares (magazine)|Ares Magazine]]'' #14 and commented that "''Crush, Crumble and Chomp'' is a fine, well thought-out game that ought to keep our subdued destructive impulses at bay for one more evening."<ref name="Ares">{{cite journal | last=Loniewski | first=Steve| title=Software | journal=[[Ares (magazine)|Ares Magazine]] | publisher=[[TSR, Inc.]] | date=Spring 1983| issue=14 | pages=46–47}}</ref>
+
+==Legacy==
+Epyx released a similar game in 1986 as ''[[The Movie Monster Game]]''.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{atarimania|id=1428}}
+*[https://archive.org/details/80_Microcomputing_Issue_26_1982-02_1001001_US/page/n325/mode/2up Review] in ''[[80 Micro]]''
+*[https://archive.org/details/80-U.S._Volume_V_Number_05_1982-05_80-Northwest_Publishing_US/page/n111/mode/2up Review] in ''80-U.S.''
+
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:DOS games]]
+[[Category:Epyx games]]
+[[Category:Kaiju video games]]
+[[Category:TRS-80 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

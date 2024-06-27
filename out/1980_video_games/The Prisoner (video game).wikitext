@@ -1,0 +1,121 @@
+The Prisoner (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Prisoner_%28video_game%29&oldid=1226188245
+Accessed on: 2024-06-26T16:51:49.956873
+
+
+
+------
+The Prisoner (video game)
+{{short description|1980 video game}}
+{{Infobox video game
+|title = The Prisoner
+|image = The Prisoner Coverart.png
+|developer = [[David Mullich]]
+|publisher = [[Edu-Ware]]
+|designer = 
+|series = ''[[The Prisoner]]''
+|released = {{vgrelease|NA|1980}}
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]]
+}}
+
+'''''The Prisoner''''' is a 1980 [[Apple II family|Apple II]] [[computer game]] produced by [[Edu-Ware]]. The game was loosely based on the 1960s [[television series]] ''[[The Prisoner]]'' and incorporates that show's themes about the loss of individuality in a technological, controlling society.  The player's role is that of an intelligence agent who has resigned from his job for reasons known only to himself, and who has been abducted to an isolated island community that seems designed to be his own personal prison. The island's authorities will use any means—including coercion, disorientation, deception, and frustration—to learn why their prisoner has resigned, and every character, location, and apparent escape route seem to be part of a grand scheme to trick the player into revealing a code number representing the prisoner's reason for resigning. The game occasionally breaks the [[fourth wall]] by acknowledging that a game is being played.
+
+In 1982, Edu-Ware released a remake, ''[[Prisoner 2]]'', with improved graphics and a limited number of design changes.
+
+==Themes==
+
+The game's documentation explained Edu-Ware's view that the ''Prisoner'' television series was "a political and social statement concerning the problem of keeping one's individuality and personal freedom in a technological society... [which] is a collective prison and [where] each one of us is, in fact, a prisoner."  With the year [[Nineteen Eighty-Four|1984]] looming only four years away from the date of the game's publication, Edu-Ware held that many of the issues raised in the 1969 television series were as relevant as ever, and thus it was "appropriate that a show concerned with the theme of loss of individuality and influence over... [our] own lives should inspire a game to be played on a computer."
+
+==Differences between the TV series and the game==
+
+The game was reportedly not officially licensed, and despite the fact it used the same font (a modified version of [[Albertus (typeface)|Albertus]] ) as the series, the game's documentation states, "it is not meant to be an adaption of [[The Prisoner|the television series]]". Consequently, a number of changes were made to distance the game from specific elements of the show while preserving its spirit and message:
+
+* The television show's protagonist is called Number 6, while the game's protagonist is referred to as # (the "[[number sign]]" in the United States and Canada).
+* The setting of the TV series is known as [[The Village (The Prisoner)|The Village]], whereas the game's setting is called The Island.<ref>The 2000 episode of ''[[The Simpsons]]'' titled "[[The Computer Wore Menace Shoes]]", which parodied ''The Prisoner'' and featured [[Patrick McGoohan]] as Number Six, also used the name "The Island" for the location in lieu of "The Village".</ref>
+* In the television show, Number 6 is kidnapped from his home. In the game, # is taken from an airport to the Island.
+* The protagonist's residence in the Village is in a building with the numeral 6 on a sign in front of the door. The analogous building on the Island is called the Castle, and it too is labelled with the number 6.
+* The authority figure in the Village is called Number 2. On the Island he is called the Caretaker, and the building in which he is encountered is labelled with the number 2.
+* A major plotline within the game involves # working with a Brotherhood to overthrow the Island's government. There is no analogue to the Brotherhood within the Village (although No. 6 does engage in a short-lived conspiracy with fellow prisoners in the episode "Checkmate").
+
+==Gameplay==
+
+The game begins with the player being told that # has resigned from his job for reasons known only to him. The player is given a three-digit number signifying #'s reason for resigning. The player is warned never to reveal this number, for the game will make numerous attempts to trick the player into doing so, which will cause one to lose the game. # is then taken to an airport where he is asked to choose from several tropical island destinations.  Regardless of the choice made, he is always taken to the Island.
+
+The game's designer, [[David Mullich]], strove to incorporate elements of [[Franz Kafka]]'s ''[[The Castle (novel)|The Castle]]''. #'s home on the Island is called the Castle and it takes the form of a randomly generated maze from which the player must escape.
+
+After leaving the Castle, the player can explore twenty locations on the Island in order to find clues about how to escape.  Only four of these are displayed onscreen at any time, and in the center of the screen is another display providing information often of little value, with the exception of a running tally of credits the player has in the bank. The locations are rearranged each time # returns to the Castle, and some may even disappear periodically. Some locations require the player to have certain possessions before entering, while some are entirely inaccessible at certain times. Each of the locations offers a different gameplay experience:
+
+# ''Hospital,'' where # is administered psychological tests.
+# ''Caretaker's Residence,'' where # carries on an [[ELIZA]]-style conversation with the leader of the Island (during which it is possible to nearly replicate the "Where am I?"/"In the Village" dialog from the opening of most ''Prisoner'' episodes).
+# ''Town Hall,'' where # can spend time running the Island in a fashion quite similar to (but long predating) ''[[Sim City]]''. Running the Island successfully (the definition of "success" being very broad) results in # receiving a gold watch.
+# ''Great Chair,'' where # can fulfill the initial assignment given to him by an underground resistance group called the Brotherhood. (Their final assignment, given the dystopian situation,  is not unpredictable.)
+# ''Carnival,'' where # can use a see-saw in an escape attempt, or fulfill an assignment from the Brotherhood.
+# ''Castle,'' where # begins the game and returns after each failed escape attempt—literally being sent back to square one.  Arrival in the Castle corresponds with a new day or adventure on the Island. To exit the Castle, the player must correctly identify himself/herself (the correct answer is # but it's possible to be tricked into selecting the resignation code).
+# ''Bank,'' where # can deposit or withdraw money, or take out a loan after going on a scavenger hunt to retrieve items representative of business success.
+# ''Courthouse,'' where # can play a game of [[Hangman (game)|hangman]] based on words about freedom and individuality.
+# ''Theater,'' which shows propaganda films incorporating nursery rhymes, but is also a meeting place for the Brotherhood.
+# ''General Store,'' where # can purchase items required to enter buildings or fulfill quests.
+# ''News Stand,'' which provides game clues and where # can fulfill an assignment for the Brotherhood involving changing a newspaper headline.
+# ''Library,'' where # is tested for susceptibility to propaganda, including subliminals, traditional values, and advertising techniques. Losing the test results in a book being burned, while winning is rewarded with a reference to a page in the [[Applesoft BASIC|Applesoft]] manual that contains a clue for winning the game.
+# ''Schoolhouse,'' where correctly remembering number sequences will reward # with a diploma.
+# ''Cat and Mouse Bar,'' where # can play a game of ping pong to win drinks. After consuming too many drinks, # will suffer hallucinations, including one that results in being accused of murder.  
+# ''Church,'' where the player can engage in another ELIZA-style conversation with a priest, be rewarded with a cross, or be absolved of murder.
+# ''Clothing Store,'' where # can purchase clothing required to enter buildings or fulfill quests.
+# ''Milgram Experiment,'' where # is asked to participate in the infamous [[Milgram experiment]], in which he and the Caretaker switch identities and # is required to give electric shocks to his prisoner in an attempt to elicit the resignation code.
+# ''Recreation Hall,'' where # can go through several obstacle courses to escape into the wilderness area surrounding the Island. Here the player will be captured by "Rover" and sent back to the Castle unless he can make it to a train station, which offers a chance at escape.
+# ''Gemini Diner,'' where for 10,000 credits, # can make a clone of himself for use in an escape attempt. 
+# ''Slot Machines,'' which can win # possessions, clues, or a chance at escape.
+
+In addition, each section of the map has a central kiosk where the player can check inventory and other statistics.
+
+Very few of these locations provide any sort of instructions about how to proceed, particularly the ''Great Chair'' and the ''Cat and Mouse Bar.'' Several locations are analogous to episodes in the TV series. For example, the Milgram Experiment building is thematically similar to the episode "Once Upon a Time"; the Gemini Diner references clones whereas the TV series has No. 6 encountering duplicates; the Town Hall sees # placed in charge of the Island much as No. 6 is briefly in charge of the Village in "Free for All," an episode that (like the game) also features a pub called the Cat and Mouse.
+
+Different graphic styles are used throughout. The game is usually displayed in a [[Video game graphics#Top-down perspective|top-down perspective]], showing representations of the different locations while the player is represented by the # symbol. Several segments of the game make use of all-text screens with limited [[ASCII art#Animated ASCII art|ASCII animation]], while other segments use either the Apple II's [[Apple II graphics#Low-Resolution .28Lo-Res.29 graphics|low-resolution]] or [[Apple II graphics#High-Resolution .28Hi-Res.29 graphics|high-resolution]] graphics modes.
+
+There are also times where the escape key on the Apple's keyboard cannot be used, and doing so causes the message "Such thoughts are punishable" to appear onscreen and # may be returned to the Castle. At other times, pressing the escape key helps the player. Such constant flux in the game's rules are a purposeful attempt to frustrate the player.
+
+The game continually tries to trick the player into revealing the secret three-digit code. One of the most nefarious attempts (which occurs in ''Prisoner 2'') is a simulated game crash that includes the error message "Syntax error in line ###", where the line number is the player's resignation code. This was a common error message in the Apple II's [[BASIC]] programming language, and the logical step for users of the time would be to review the erroneous line of code with the command "List ###" (again substituting the specific number in question). Typing the secret three-digit code at any time resulted in the game being lost, however, and that included typing such a BASIC command since, unknown to the player, the game was actually still running. Ironically, being able to list the program's code from within it was one way to solve and win the game by means of analyzing the program and deducing a solution. Yet such a solution was entirely within the spirit of the game, as its clues sometimes broke the [[fourth wall]] with an acknowledgement that a computer game was being played.
+
+The solution to the game was to enter a special string in the Caretaker's Residence, which would display a "plug" that the player could pull out, although doing so required use of the built-in screen editing keys. In later versions of the game, a minimum number of points had to be scored before this would work; points are scored by completing tasks and by certain actions that display free will (for example, most failed attempts to escape score points even if they do not work)
+
+==Prisoner 2==
+{{Main|Prisoner 2}}
+
+In 1982, Edu-Ware released a second version of the game,  entitled, ''[[Prisoner 2]]'', with color and improved graphics (all high-resolution), which replaced the original's [[Video game graphics#Top-down perspective|top-down perspective]] with a [[Video game graphics#First-person perspective|first-person]] view. In addition to the Apple II, this version was also available on the [[Atari 8-bit computers]] and [[IBM PC compatible]]s.
+
+==Reception==
+
+''The Prisoner'' was very popular with the gaming press.  The magazine ''Peelings II'' awarded the game an A+, its highest rating, and noted that if only the game had high-resolution graphics, it would have been a candidate for its Game of the Year Award.<ref name="PeelingsReview">{{cite magazine |last=Martellaro |first=John |date=Jan–Feb 1981 |title=The Prisoner |journal=Peelings II |volume=2 |issue=1 |pages=32–33 |url=https://archive.org/details/Peelings_II_v2n1_ocr |accessdate=21 July 2017 }}</ref> According to ''[[Softalk]]'', "What puts this game head and shoulders above other adventures is that while the player is seeking the information needed to escape from the Island, the computer is actively seeking the information that will make the player lose the game.  The dual challenges of learning about the Island while avoiding the subtle and not-so-subtle traps laid by the computer make the game both interesting and exciting".<ref name=SoftalkPrisReview>{{cite magazine |author=TF |date=March 1981 |title=''The Prisoner'', by David Mullich (review) |magazine=Softalk |page=33 |url=https://archive.org/stream/softalkv1n07mar1981}}</ref> ''[[Softline (magazine)|Softline]]'' stated that the game "that exercises your intellect like few games", and concluded that "''The Prisoner'' is imaginative, well presented and thought provoking. Hats off to Dave Mullich and Edu-ware Services for bringing real mental challenge to the game industry".<ref name="williams198109">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1981&pub=6&id=1 | title=The Prisoner | work=Softline | date=September 1981 | accessdate=13 July 2014 | author=Williams, John | pages=20}}</ref> ''[[BYTE]]'' stated that the game "is not for the easily frustrated ... The Prisoner is complex beyond belief, nearly unbeatable, and at times irrational on purpose". It warned, "if you follow the rules, trust your fellow man, or display anything less than a total commitment to anti-social, anti-island behavior, you will be hopelessly doomed to repeated failure", and concluded," it will appeal to puzzle solvers and seekers of the bizarre".<ref name="liddel198109">{{cite news | url=https://archive.org/stream/byte-magazine-1981-09/BYTE_Vol_06-09_1981-09_Artifical_Intelligence#page/n387/mode/2up | title=The Prisoner | work=BYTE | date=September 1981 | accessdate=19 October 2013 | author=Liddel, Bob | pages=386–387}}</ref>
+
+A.D. Young reviewed ''The Prisoner'' in ''[[The Space Gamer]]'' No. 55.<ref name="SG">{{cite journal|last= Young |first= A.D. |date=September 1982 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=55|pages=40–41}}</ref> Young commented that "''The Prisoner'' is a riot from go to woe and will have you cursing and laughing all the way through."<ref name="SG"/>
+
+''The Prisoner'' was also popular among gamers, who voted it the third most popular adventure game of 1981 in the annual ''[[Softalk]]'' reader poll.<ref name=Softalk1981Poll>{{cite web |url=http://apple2history.org/appendix/aha/aha81/ |title=Appendix A: Apple II Software Hits, 1981|accessdate=2006-09-25 |last=Weyhrich |first=Steven |work=Apple II History }}</ref>
+
+==Reviews==
+*''[[Moves (magazine)|Moves]]'' #58, p30<ref>https://strategyandtacticspress.com/library-files/Moves%20Issue58.pdf</ref>
+
+==References==
+<references/>
+
+==External links==
+* {{moby game|id=/prisoner|name=''The Prisoner''}}
+* {{IMDb title|id=0382922|title=The Prisoner}}
+
+{{The Prisoner}}
+{{The Castle}}
+
+{{DEFAULTSORT:Prisoner, The}}
+[[Category:1980 video games]]
+[[Category:Adventure games]]
+[[Category:Apple II games]]
+[[Category:Apple II-only games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Edu-Ware games]]
+[[Category:Science fiction video games]]
+[[Category:The Prisoner|video game]]
+[[Category:Video games based on television series]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in prison]]
+[[Category:Single-player video games]]

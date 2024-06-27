@@ -1,0 +1,66 @@
+Preppie! II
+Permalink: //en.wikipedia.org/w/index.php?title=Preppie%21_II&oldid=1224119452
+Accessed on: 2024-06-26T16:55:40.093937
+
+
+
+------
+Preppie! II
+{{short description|1983 video game}}
+{{Infobox video game
+| title = Preppie! II
+| image = Preppie!_II_Cover_Art.jpg
+| developer = Star Systems Software
+| publisher = [[Adventure International]]
+| designer = [[Russ Wetmore]]<ref name=giantlist/>
+| writer = Mark Murley (manual)
+| platforms = [[Atari 8-bit]]
+| released = 1983
+| genre= [[Maze video game|Maze]]
+}}
+
+'''''Preppie! II ''''' is a video game written by [[Russ Wetmore]] for [[Atari 8-bit computers]] and published by [[Adventure International]] in 1983. Subtitled "The continuing saga of Wadsworth Overcash",<ref name=mania/> it is a sequel to 1982's ''[[Frogger]]''-inspired ''[[Preppie! (video game)|Preppie!]]''. The game loosely continues the [[preppy]] theme, primarily through a story in the manual, but replaces the country club setting with an abstract, overhead view maze. Some obstacles from the first game appear in the second.
+
+Russ Wetmore stopped writing   games after ''Preppie! II'' and developed the [[HomePak]] application suite. In 2016, he made the [[source code]] for ''Preppie! II'' publicly available.<ref>{{cite web |title=Preppie! II source code |url=https://archive.org/details/Preppie_II |website=archive.org|year=1983 }}</ref>
+
+==Gameplay==
+[[File:Preppie!_II_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot]]
+''Preppie! II'' is a maze game. Walking changes the floor to a different color, and the goal is to paint the entire maze.<ref name=manual/> [[Revolving door]]s rotate when pushed, changing the shape of the maze. Radioactive frogs, golf carts, and reel mowers from the first game are deadly to the touch. The joystick button activates a time-limited cloaking effect which allows the character to walk through enemies and also the revolving doors without activating them.<ref name=manual/>
+
+Each level consists of three connected, fullscreen mazes with differing layouts and obstacles. The player switches mazes at will via passages at the edges of each. When all three have been completed, they repeat with higher difficulty.<ref name=manual/>
+
+==Development==
+The last page of the manual lists the tools that Wetmore used to create the game. These include the Atari Macro Assembler, [[Atari Assembler Editor]], BUG/65 from [[Optimized Systems Software]], Atari Program Text Editor, and [[Datasoft]]'s Micropainter.<ref name=manual/>
+
+==Reception==
+New Zealand magazine ''Bits & Bytes'' called ''Preppie! II'' "a surprisingly difficult maze program."<ref name=fletcher/> Reviewer Michael Fletcher complimented the graphics and music and wrote that "The game play is exciting and often amusing, especially when you are stomped on by a frog."<ref name=fletcher/> Bill Kunkel and Arnie Katz were also impressed by the visuals: "The graphics in ''Preppie! II'' are no more spectacular than in ''Preppie!''. Of course that's like saying that the special effects in [[George Lucas]]' latest movie are no more spectacular than ''Star Wars''".<ref name=kk/> The bold statement "''Preppie! II'' is what computer arcading is all about" ends the review.
+
+Steve Harding wrote for ''Hi-Res'', "Mark Murley's documentation is almost worth the program's suggested retail price of $34.95. It is well written and humorous."<ref name=harding/> He concluded with, "Adventure International and Wetmore are to be commended for a job well done."<ref name=harding/> ''Computer Games'' called it "fresher than the original," giving an overall rating of "B".<ref name=cg/>
+
+==See also==
+*''[[Make Trax]]'' (1981) is a game with the goal of painting the maze.
+*''[[Lady Bug (video game)|Lady Bug]]'' (1981) is a maze game with revolving doors.
+
+==References==
+{{Reflist|refs=
+<ref name="mania">{{cite web |title=Preppie! II |url=http://www.atarimania.com/game-atari-400-800-xl-xe-preppie-ii_4088.html |website=Atari Mania}}</ref>
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+<ref name="manual">{{cite book |last1=Murley |first1=Mark S. |title=Preppie! II manual |date=1983 |publisher=Adventure International |location=Longwood, FL |url=https://archive.org/details/PreppieIIAdventureInternational}}</ref>
+<ref name="harding">{{cite journal |last1=Harding |first1=Steve |title=Reviews: Preppie! II |journal=Hi-Res |date=March 1984 |volume=1 |issue=3 |page=7 |url=https://www.atarimagazines.com/hi-res/v1n3/reviews.php}}</ref>
+<ref name="fletcher">{{cite journal |last1=Fletcher |first1=Michael |title=Up and running |journal=Bits & Bytes |date=July 1984 |volume=2 |issue=10 |page=60 |url=https://archive.org/details/nzbitsandbytes-2-10/page/n61/mode/2up}}</ref>
+<ref name="cg">{{cite journal |title=200 Games |journal=Computer Games |date=February 1985 |volume=3 |issue=5 |page=51 |url=https://archive.org/details/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US/page/n51/mode/2up}}</ref>
+<ref name="kk">{{cite journal |last1=Katz |first1=Arnie |last2=Kunkel |first2=Bill |title=Computer Gaming: Preppie! II |journal=Electronic Games |date=September 1983 |volume=2 |issue=7 |pages=66–68 |url=https://archive.org/details/Electronic_Games_Volume_02_Number_07_1983-09_Reese_Communications_US/page/n65/mode/2up}}</ref>
+}}
+
+==External links==
+*[https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_02_No_02_1983-12_Fun_Games_Publishing_US/page/n71/mode/2up Review] in ''[[Electronic Fun with Computers & Games]]''
+*[https://archive.org/details/Softline_Magazine_Issue_2.5/page/n43/mode/2up Review] in ''[[Softline (magazine)|Softline]]''
+*[https://archive.org/details/softside-magazine-61/page/n73/mode/2up Review] in ''[[SoftSide]]''
+
+[[Category:1983 video games]]
+[[Category:Adventure International games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Maze games]]
+[[Category:Video games developed in the United States]]

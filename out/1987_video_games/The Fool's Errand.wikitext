@@ -1,0 +1,105 @@
+The Fool's Errand
+Permalink: //en.wikipedia.org/w/index.php?title=The_Fool%27s_Errand&oldid=1169085023
+Accessed on: 2024-06-26T17:02:09.856898
+
+
+
+------
+The Fool's Errand
+{{short description|Meta-puzzle computer game from 1987}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox video game
+|title = The Fool's Errand
+|image = The Fool's Errand cover art (Macintosh).jpg
+|caption = Macintosh cover art
+|developer = [[Cliff Johnson (game designer)|Cliff Johnson]]
+|publisher = Miles Computing
+|designer = 
+|engine = 
+|series = <!-- Q99393701, but currently no article -->
+|released = 1987
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Mac OS]], [[MS-DOS]], [[Amiga]], [[Atari ST]]
+}}
+
+<!-- Deleted image removed: [[Image:The Fool's Errand.png|left|The Fool's Errand icon]] -->
+'''''The Fool's Errand''''' is a 1987 [[computer game]] by [[Cliff Johnson (game designer)|Cliff Johnson]]. It is a [[meta-puzzle]] game with storytelling, visual puzzles, and a cryptic [[treasure map]]. It is the tale of a wandering Fool who seeks his fortune in the Land of [[Tarot]] and braves the enchantments of the High Priestess. A sequel titled ''[[The Fool and His Money]]'' was released October 25, 2012.
+
+== Plot ==
+The plot focuses on The Fool card of the tarot, who is portrayed as a silhouette of a young man wearing a peaked, feathered cap, curled-toed shoes, and carrying a knapsack on a stick. The Fool is the protagonist of the story, and he encounters various other cards from the tarot. In the beginning of the story, The Sun gives him a map, which has been scrambled, and directs him to find the "Lost 14 Treasures of the World." The Fool journeys through four kingdoms (each representing a suit from the minor arcana of the tarot), where he encounters other characters, who either give him more information or provide him with additional tasks. The High Priestess card of the tarot is set up as the villain of the story, and all the characters he meets are other cards from the tarot. Each character is drawn as a black silhouette, as is the background art.
+
+== Gameplay ==
+The game is structured as a storybook divided into five parts, each containing a large number of different chapters; the storybook can be paged through and read as continuous prose on screen. However, not every chapter is available at the start of the game, and those chapters which are available are not consecutive. Many chapters have a puzzle (called an ''enchantment'') associated with them; completing such a puzzle unlocks further chapter(s). Every chapter is named after a tarot card in either the [[Major Arcana]] or the [[Minor Arcana]].
+
+Frequently, the puzzles are designed in such a way that the result of the puzzle leads logically into the unlocked chapter; for example, the player may complete an ''[[Acrostic (puzzle)|acrostic puzzle]]'' which results in the phrase "No Ship", which then unlocks part of the story in which a watchman indeed reports that no ship has been sighted and deals with the consequences. Other puzzles feature pictures which portray parts of the story or even clues to other puzzles.
+
+[[Image:Fool'sErrand-MacSun'sMap.png|thumb|right|The Sun's Map in the Macintosh version]]The first chapter, ''The Sun'', features the puzzle ''The Sun's Map''. This is a jigsaw puzzle with one piece for every chapter in the story; each puzzle piece appears only when the appropriate chapter is unlocked. Each piece contains a symbol representing the chapter from which it came, plus part of a continuous path which flows through all pieces in the order in which they are mentioned in the narrative.  Once the map is successfully completed, other designs on the map become active click targets and can be used as clues or processes to decipher the true final puzzle: ''The Book Of Thoth'', hidden within the chapter ''The High Priestess'', which requires the reader to peruse the entire story as continuous prose and identify a number of phrases hidden within the narrative.
+
+==Development==
+[[Cliff Johnson (game designer)|Cliff Johnson]], who at that point had worked as a filmmaker, was inspired by films like ''[[Sleuth (1972 film)|Sleuth]]'' and ''[[The Last of Sheila]]'' which included puzzle-mysteries for the viewer to solve; he aimed to host "mystery" dinner parties where players would uncover clues to find the hidden secrets.
+
+The 1979 work ''[[Masquerade (book)|Masquerade]]'' by [[Kit Williams]] served as further inspiration.<ref name=":0">{{Cite web|url=http://www.gamesetwatch.com/2007/10/column_beyond_tetris_the_fools.php|title=GameSetWatch COLUMN: 'Beyond Tetris' - The Fool's Errand|website=www.gamesetwatch.com|access-date=2019-02-20 |archive-url=https://web.archive.org/web/20190111223401/http://www.gamesetwatch.com/2007/10/column_beyond_tetris_the_fools.php |archive-date=2019-01-11}}</ref> The final chapter of the picture book revealed that the protagonist bunny had lost his treasure, and dared the reader to uncover the clues throughout the book to work out where on Earth it is located; this book sold over 2 million copies and while Johnson was not personally enamoured by the work he felt the idea behind it was exciting.<ref name="maher20151120" />
+
+Johnson decided to create a similar work which he would distribute to his friends as a 1984 Christmas present. The concept, a series of puzzles and a narrative that fit together into an overarching mystery like a jigsaw, was an early incarnation of what became ''The Fool's Errand''. Having recently purchased his first PC, a Macintosh, Johnson began coding the game in 1985.<ref name=":0" /> He learned to program specifically to bring the idea to the interactive entertainment format.<ref>{{Cite web|url=https://fools-errand.com/$articles/CJ-2012-JAE.htm|title=Just Adventure 2012|website=fools-errand.com|access-date=2023-04-29}}</ref> His goal was to “make the experience pleasant and solvable in a single afternoon.”<ref>{{Cite web|url=https://techraptor.net/content/games-never-heard-fools-errand|title=Gaming Obscura: The Fool's Errand|date=2015-04-02|website=Gaming News, Reviews, and Articles - TechRaptor.net|language=en-US|access-date=2019-02-20}}</ref> His initial approach to programming was guided by his experience making animated film, which involved "a very tedious frame-by-frame process", creating a blueprint and putting the pieces together to assemble the whole picture in a manner similar to a jigsaw puzzle.<ref>{{cite journal | title=This Little Game Went to Market |journal= [[Macworld]] |last1=Hahn |first1=Rob |date=March 1988 |publisher=[[PC World Communications|PCW Communications, Inc.]] |page=117 |volume=5 |number=3 }}</ref>
+
+Johnson took out a $50,000 loan to finance the project himself, and he had a nervous breakdown during development.<ref>{{Cite web|url=https://www.gamedeveloper.com/pc/column-playing-catch-up-i-the-fool-s-errand-i-s-cliff-johnson-|title=Column: 'Playing Catch Up: The Fool's Errand's Cliff Johnson'|last=Wallis|first=Alistair|date=October 5, 2006|access-date=2023-04-29}}</ref> By 1986 he had created over 30 individual data-driven programs, which he then had to convert into one application on ''ZBasic.''<ref>{{Cite web|url=https://fools-errand.com/01-CJ/index.htm|title=Sea Jay|website=fools-errand.com|access-date=2023-04-29}}</ref>
+
+== Release ==
+''The Fool's Errand'' was released in 1987 by Miles Publishing.<ref name=":0" /> The game saw slow sales initially, but, as positive reviews began to be published, more customers purchased the title. [[Electronic Arts]] took over the distribution, and it was ported to many other consoles. The game was also circulated illegally on file-sharing sites for many years.<ref name=":0" />
+
+Created with [[Microsoft BASIC]] and [[ZBasic]] for the [[Apple Macintosh]], the game was ported to [[MS-DOS]], Commodore [[Amiga]] and [[Atari ST]].<ref name="maher20151120">{{Cite web |url=https://www.filfre.net/2015/11/cliff-johnsons-fools-errand/ |title=Cliff Johnson's Fool's Errand |last=Maher |first=Jimmy |date=2015-11-20 |website=The Digital Antiquarian}}</ref> The [[Porting|ports]] add color, but in a lower [[Display resolution|resolution]] (320×200, as opposed to the original version's 512×342). In 2002 the game was released as shareware, available for download from Johnson's website Fools-errand.com.<ref>{{Cite web|url=https://www.macworld.com/article/1005941/johnson.html|title=Cliff Johnson's classic Mac games get new lease on life|date=2002-07-11|website=Macworld|language=en|access-date=2019-02-20}}</ref>  The game is now offered free of charge.  Johnson advises PC-based players to download the Macintosh version and play using a Macintosh [[emulator]]. The non-Macintosh versions of the game were protected by a symbol-based [[code wheel]]. The free version currently offered by the author has this mechanism disabled: the challenge screen still appears, but any answer is accepted.{{Citation needed|date=March 2008}}
+
+== Reception ==
+''The Fool's Errand'' did not sell well at first, but after a very positive July 1988 review in ''[[MacUser]]'' it became very successful, causing Miles Computing to port the game to other platforms. 100,000 copies were sold by the end of 1989.{{r|maher20151120}} The ''MacUser'' review gave the game five out of five mice, saying it "goes beyond being 'just' an excellent game" and "ventures into the realm of myth, into the prototypical lands of the epic legend, into the maelstrom of the [[Jungian archetype]], and it returns to our world and offers us a way to extend ourselves beyond the boundaries of our normal existence."<ref>{{cite journal |pages=17–19 |title=The Fool's Errand |journal=[[MacUser]] |date=July 1988 |volume=4 |number=7 |publisher=[[Ziff-Davis Publishing Co.]] |last=Shapiro |first=Neil L. }}</ref> In December 1989, ''MacUser'' named ''The Fool's Errand'' one of the 27 best games available for the Macintosh.<ref>{{cite journal |page=140 |title=''MacUser'' Best 27 Games |journal=[[MacUser]] |date=December 1989 |volume=5 |number=12 |publisher=[[Ziff-Davis Publishing Co.]] }}</ref>
+
+''[[Macworld]]'' reviewed the game positively, calling it a difficult and epic collection of diverse puzzles that demanded "considerable interaction and ingenuity." The review praised the attractive and unique presentation of the puzzles and the beautiful graphics of the animated prologue and finale.<ref>{{cite journal | title=The Enchantment of Puzzling |journal= [[Macworld]] |last1=Kaplan |first1=Linda Joan |date=February 1988 |publisher=[[PC World Communications|PCW Communications, Inc.]] |pages=210–211 |volume=5 |number=2 }}</ref> In a review for Cliff Johnson's next game, ''[[At the Carnival]]'', ''Macworld'' called ''The Fool's Errand'' "a new kind of computer game that transcends traditional categories."<ref>{{cite journal | title=''Puzzle Gallery: At the Carnival 1.0'' |journal= [[Macworld]] |last1=Beekman |first1=George |date=March 1990 |publisher=Macworld Communications, Inc. |page=200 |volume=7 |number=3 }}</ref>
+
+''[[Computer Gaming World]]'' praised the game, stating "You feel like you're matching wits with the author directly, instead of playing 'hunt the parser'";<ref name="CGW">{{citation|last=Roberts|first=Alan|title=the fool's errand|date=Oct 1988|page=18|magazine=[[Computer Gaming World]] |number=52}}</ref> the magazine's [[Scorpia (journalist)|Scorpia]] described it as "one of the best games I've ever played".<ref name="scorpia199002">{{cite magazine|url=https://cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=68|title=Scorpion's Mail|author=Scorpia|date=February 1990|magazine=Computer Gaming World|access-date=29 April 2023|pages=30}}</ref> ''[[STart]]''{{'}}s reviewer confessed that he had come close to finishing ''The Fool's Errand'' but that "I felt like I'd run, and lost, a mental marathon".<ref name="startv5n6">{{Cite magazine|last=Gregg|first=Dave|date=February–March 1991|title=For The Fun Of It|url=https://www.atarimagazines.com/startv5n6/for_the_fun_of_it.html|magazine=STart}}</ref>
+
+''[[The Games Machine]]'' awarded the PC version of ''The Fool's Errand'' its Golden Scroll and rated it 93%, calling it "fresh, original and addictive".<ref>{{cite journal |title=''The Fool's Errand'' |date= September 1990  |page=81  |issue=34  |publisher=[[Newsfield]] |first=Paul |last=Rigby |journal=[[The Games Machine]] }}</ref> ''[[Game Player's PC Strategy Guide]]'' reviewed the PC version positively, singling out the "great graphics", "consistent level of challenge", and above all the fact that the puzzles "play fair" with no obscurely hidden clues or tricks.<ref>{{cite journal | journal=[[Game Player's PC Strategy Guide]] |last=Mizell | first=Leslie |title=''The Fool's Errand'' |date=March–April 1990 | pages=78–79 | volume=3 | number=2| publisher=Signal Research, Inc.}}</ref> ''[[.info (magazine)|.info]]'' magazine called the Amiga version of the game "a magnificent achievement in game design" but dropped the rating from five stars to three stars due to the poor quality of the port, with its unused right mouse button, "insufferable [[Enhanced Graphics Adapter|EGA]]" graphics and poor quality sounds.<ref>{{cite journal |title=''The Fool's Errand'' |first=Tom |last=Malcom |page= 33 |date=November 1990 |issue=34 |journal=[[.info (magazine)|.info]]}}</ref> ''[[Amiga Format]]'' rated the game 70%, praising the "sheer number and variety of the puzzles" and calling it "an intelligent use of the machine" despite reservations about the graphics and sound quality.<ref>{{cite journal |journal=[[Amiga Format]] |page=90 |date=December 1990 |title=The Fool's Errand |issue=17  |publisher=Future Publishing }}</ref>
+
+=== Retrospective reviews ===
+In 2004, ''[[Inside Mac Games]]'' selected ''The Fool's Errand'' as one of the 20 games that made the biggest impact on the Macintosh, calling the game "intriguing and visually-rich", with an "original and compelling" story that was "thick with mysticism, witchcraft, folklore, and hints on how to solve the game's final meta-puzzle".<ref>{{Cite web|last=Dinsdale |first=Jean-Luc |date=2004-02-24 |url=http://www.insidemacgames.com/features/view.php?ID=281|title=Inside Mac Games Feature: The 20 Mac Games that Mattered Most|website=www.insidemacgames.com|access-date=2019-02-20 |archive-url=https://web.archive.org/web/20050313214044/http://www.insidemacgames.com/features/view.php?ID=281 |archive-date=2005-03-13}}</ref> In 2007, ''[[Game Set Watch]]'' deemed it "one of the greatest puzzle games in personal-computing history".<ref name=":0"/> In a 2012 interview with Johnson, ''[[Wired (magazine)|Wired]]'' crowned it "the greatest puzzle game of all time".<ref>{{Cite magazine|url=https://www.wired.com/2012/10/fools-gold-cliff-johnson-puts-his-money-where-his-mouth-is/|title=Fool's Gold: Cliff Johnson Puts His Money Where His Mouth Is|last=Selinker|first=Mike|date=2012-10-29|magazine=Wired|access-date=2019-02-20|issn=1059-1028}}</ref> In 2018, ''[[PC Gamer]]'' selected ''The Fool's Errand'' for its weekly best free PC games feature, saying the "whimsical fantasy" would challenge the player's brain.<ref>{{Cite web|url=https://www.pcgamer.com/au/free-games-of-the-week/78/ |title=Free games of the week|last=Sykes|first=Tom|date=2018-12-12|website=PC Gamer|language=en-US|access-date=2019-02-20 |archive-url=https://web.archive.org/web/20190220181618/https://www.pcgamer.com/au/free-games-of-the-week/78/ |archive-date=2019-02-20}}</ref>
+
+''[[GamesTM]]'' featured ''The Fool's Errand'' in its "Greatest [[retro game|Retro Game]] Ever" column, calling it "obscenely addictive" and "revered by nearly everyone" who played it.<ref>{{cite book |chapter=''The Fool's Errand'' |title= Retro Micro Games Action: The Best of 24 Issues of gamesTM RETRO |volume=1 |publisher=Highbury Entertainment |isbn=9781841790862 |page=139 |date=2004 |author=Various }}</ref> In a 2013 feature on the evolution of puzzle video games, ''[[Retro Gamer]]'' called ''The Fool's Errand'' an excellent strategy fantasy game with "a well-crafted narrative" that "arguably paved the way for games like the ''[[Professor Layton]]'' series, which now feature similar narrative puzzles to solve."<ref>{{cite journal |title=Brain Strain: A Bluffer's Guide to Puzzle Games |page=43 |journal=[[Retro Gamer]] |publisher=[[Imagine Publishing |Imagine Publishing Ltd]] |date=2013-08-15 |issue=119 }}</ref>
+
+===Awards===
+''The Fool's Errand'' was inducted into the 1987 ''Macworld'' Game Hall of Fame as Best Brain-Teasing game.<ref>{{cite journal |title=The Game Hall of Fame Annex |last=Levy |first=Steven |authorlink=Steven Levy |journal=[[Macworld]] | date= December 1987 |volume=4 |issue=12 |page=123 |publisher=[[PC World Communications|PCW Communications, Inc.]]}}</ref> ''[[GAMES Magazine]]'' selected ''The Fool's Errand'' as one of the best computer games of 1988, saying "Some puzzles are easy, others tricky; all are charming and great fun to figure out."<ref>{{cite journal
+|title=Electronic Games: The Best of '88
+|work=[[Games (magazine)|Games]]
+|publisher=PSC Games Limited Partnership
+|date=January 1989
+|last=Marley
+|first=Scott
+|page=48
+|volume=13
+|number=1 Issue 96
+}}</ref>
+
+''[[VideoGames & Computer Entertainment]]'' named ''The Fool's Errand'' Best Computer Strategy Game of 1988, ahead of runners-up ''[[Prime Time (video game)|Prime Time]]'', ''[[Rommel: Battles for North Africa]]'', and ''[[Solitaire Royale]]''. The magazine praised ''The Fool's Errand'' as "the most clever framework for an anthology of word games and puzzles ever devised."<ref>{{cite journal |first=Arnie |last=Katz | title=The Year's Best Video and Computer Games | date=January–February 1989 | journal=[[VideoGames & Computer Entertainment]] | page=59 | publisher=[[LFP, Inc.]]}}</ref>
+
+The editors of ''[[Game Player's PC Strategy Guide]]'' presented the game with their 1990 "Best PC Puzzle Game" award. They wrote, "One of the best puzzle games ever produced — everything from mazes to cryptograms worked into an elaborate, witty narrative, and presented with exceptional graphic flair.<ref name=gpawards>{{cite journal | title=''Game Player''{{'}}s Annual PC Game Awards 1990 | date=January–February 1991 | volume=4 | number=1 | journal=[[Game Player's PC Strategy Guide]] | pages=10, 12, 14 }}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[https://fools-errand.com Official site], with author's information page, including download options.
+*[https://web.archive.org/web/20120710133534/http://www.thefoolandhismoney.com/01-the-fools-errand/index.htm Archived original site]
+*{{MobyGames|id=/fools-errand}}
+*[https://web.archive.org/web/20161008000403/http://www.hardcoregaming101.net/foolserrand/foolserrand.htm ''The Fool's Errand''] at Hardcore Gaming 101 (Snapshot from archive.org Oct 2016)
+*[http://balmoralsoftware.com/fool/fool.htm Hints and Answers] from Balmoral Software.
+
+{{DEFAULTSORT:Fools Errand, The}}
+[[Category:1987 video games]]
+[[Category:Puzzle video games]]
+[[Category:Classic Mac OS games]]
+[[Category:DOS games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Cliff Johnson games]]
+[[Category:Freeware games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Miles Computing games]]

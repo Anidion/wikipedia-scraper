@@ -1,0 +1,109 @@
+Lady Bug (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Lady_Bug_%28video_game%29&oldid=1183074057
+Accessed on: 2024-06-26T16:52:22.871308
+
+
+
+------
+Lady Bug (video game)
+{{Infobox video game
+|title = Lady Bug
+|image =Cover Lady Bug.jpg
+|caption = Box cover for [[Coleco]]'s [[Intellivision]] version
+|developer = [[Universal Entertainment|Universal]]
+|publisher = '''Arcade''' {{vgrelease|JP/NA|Universal|UK|Electrocoin<ref name="GM179"/>|EU|Electrocoin/ADP<ref name="GM179"/>}} '''Ports''' <br> [[Taito]]
+|designer = Kazutoshi Ueda<ref name="AKIBAPCH!">{{cite web|last=Masuda|first=Atsushi|url=https://akiba-pc.watch.impress.co.jp/docs/column/masudaretro/1103437.html|title=『Mr.Do!』の生みの親、上田和敏氏に開発秘話を聞く！～『Mr.Do!』対談編 前編～|work=AKIBA PC Hotline!|publisher=Impress Corporation|date=3 January 2018|access-date=2020-08-23|language=ja|archive-url=https://web.archive.org/web/20191208160038/https://akiba-pc.watch.impress.co.jp/docs/column/masudaretro/1103437.html|archive-date=2019-12-08|url-status=live}} ([https://sourcegaming.info/2020/01/14/mrdo/ Translation] by Source Gaming. {{Webarchive|url=https://web.archive.org/web/20200823201055/https://sourcegaming.info/2020/01/14/mrdo/|date=2020-08-23}}).</ref>
+|release = {{vgrelease|JP|[[1981 in video gaming|October 1981]]<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=15 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n16}}</ref>|WW|December 1981<ref name="GM179"/>}}
+|genre = [[List of maze video games|Maze]]
+|modes = Up to 2 players, alternating turns
+|platforms = [[Arcade game|Arcade]], [[ColecoVision]], [[Intellivision]]
+}}
+
+{{nihongo foot|'''''Lady Bug'''''|レディーバグ|Redī Bagu|lead=yes|group=lower-alpha}} is a [[List of maze chase games|maze chase]] [[video game]] produced by [[Universal Entertainment|Universal]] and released for [[Arcade game|arcades]] in 1981.<ref name="GM179">{{cite magazine|title=Overseas Readers Column - Universal "Lady Bug" Worldwide Sales Begin|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=179|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 December 1981|page=30|lang=ja|url=https://onitama.tv/gamemachine/pdf/19811215p.pdf#page=16}}</ref> Its gameplay is similar to ''[[Pac-Man]]'', with the primary addition to the formula being gates that change the layout of the maze when used, adding an element of [[Strategy video game|strategy]] to the genre. The arcade original was relatively obscure, but the game found wider recognition and success as a [[launch title]] for the [[ColecoVision]] console.<ref name="pearl198306"/>
+
+==Gameplay==
+[[Image:ARC Lady Bug.png|thumb|Arcade screenshot]]
+
+The goal of ''Lady Bug'' is to eat all "flowers," hearts, and letters in the maze while avoiding other insects.  The player is represented by a red, yellow, and green character resembling a [[ladybug]] while the enemy insects' appearance varies by level.  The border of the maze acts as timer, with each circuit signaling the release of an enemy insect from the central area, up to (generally) a maximum of four.  The speed of the circuit increases on stages 2 and 5.
+
+There are eight different enemy insects — a different insect is introduced on each of the first eight levels. Beginning on level 9, each level has four different enemies.
+
+Unlike ''[[Pac-Man]]'', the player can alter the layout of the maze by shifting any of the twenty green gates.  It is not possible to completely isolate a portion of the maze through gate-shifting.
+
+When the fourth enemy insect enters the maze, the central area will show a level-specific vegetable. Eating a vegetable gives the player bonus points and immobilizes the enemy insects for several seconds, though touching them is still lethal. The randomly placed skull icons are lethal to ladybugs and enemy insects. An enemy insect who dies returns to the central area. Once a vegetable is eaten, the central area will remain empty unless an enemy insect dies and is re-released, revealing a new vegetable. A ladybug who dies will shrink from view and be briefly replaced with icons resembling the stereotypical wings and halo of an [[angel]].
+
+The colors of the hearts and letters cycle through a short red, a middling yellow, and a longer blue. The point values are as follows:
+
+*Flower: 10 points (20, 30, or 50 points with appropriate multiplier)
+*Blue letter/heart: 100 points (200, 300, or 500 points with appropriate multiplier)
+*Yellow letter/heart: 300 points (600, 900, or 1500 points with appropriate multiplier)
+*Red letter/heart: 800 points (1600, 2400, or 4000 points with appropriate multiplier)
+*Vegetable: Starts at 1000 points, increases by 500 with each level to a maximum of 9500 points on level 18. Beyond this level, the vegetable's appearance ([[horseradish]]) and point value remain fixed.
+
+If a heart is consumed while it is blue, a point multiplier will come into effect, indicated by the blue section in the upper right corner of the screen. The first blue heart doubles all point values, the second triples them and the third quintuples them. This multiplier lasts until the level is complete.  Eating hearts while they are yellow or red offers no benefit beyond the points collected.
+
+At each level, the maze will contain three letters. The first will be randomly selected from the set of {X, T, R} (which appear only in EXTRA), the second will be randomly selected from the set of {S, P, C, I, L} (which appear only in SPECIAL),  and the third will be an A or an E (which appear in both words). A secondary goal of the player is to complete the words SPECIAL (indicated in red in the top left corner) and EXTRA (in yellow at top center).  If, for example, a letter S is consumed while it is red, the corresponding letter in the word SPECIAL will change from grey to red.  Eating an S while it is any other color (or if the S in SPECIAL is already red) offers no benefit beyond the points collected. Completing the word SPECIAL rewards the player with a free game, while completing EXTRA gives the player an extra life.  Completing either word causes all its letters to return to normal and immediately advances the player to the next level.
+
+The vegetables associated with the first 18 levels and their corresponding point values are:
+{{div col|colwidth=20em}}
+# [[cucumber]] (1000)
+# [[eggplant]] (1500)
+# [[carrot]] (2000)
+# [[radish]] (2500)
+# [[parsley]] (3000)
+# [[tomato]] (3500)
+# [[pumpkin]] (4000)
+# [[bamboo shoot]] (4500)
+# [[Japanese radish]] (5000)
+# [[mushroom]] (5500)
+# [[potato]] (6000),
+# [[onion]] (6500)
+# [[Chinese cabbage]] (7000)
+# [[turnip]] (7500)
+# red peper {{sic}} (8000)
+# [[celery]] (8500)
+# [[sweet potato]] (9000)
+# horseradish (9500)
+{{div col end}}
+
+The melodies that play when a new Lady Bug enters the maze, and when the player is awarded an extra Lady Bug, are snippets of a Japanese pop song called "Ladybug Samba" (てんとう虫のサンバ, ''Tentōmushi no Sanba'').
+
+==Ports==
+''Lady Bug'' was adapted to the home video game systems [[Intellivision]] and [[ColecoVision]]. In the ColecoVision version, completing SPECIAL puts the player into a bonus level (known in-game as a "Vegetable Harvest") where the goal is to consume as many randomly placed vegetables as possible within a fixed time. The SPECIAL register does not appear in the Intellivision version. In 1982, a catalog of [[Atari 2600]] cartridges manufactured by [[Coleco]] said that an Atari 2600 version of Lady Bug would be released, but Coleco never released the game.{{citation needed|date=March 2018}} ''Lady Bug'' was also released as ''Fighting Bug'' on the [[Casio]] [[PV-1000]] in Japan, one of only 13 games released for that platform.<ref>{{Cite web|url=https://www.retroplace.com/en/games/186077--fighting-bug|title = Fighting Bug &#124; Casio PV-1000}}</ref>
+
+==Reception==
+According to ''[[Electronic Games]]'' magazine, ''Lady Bug'' did "just all right in the arcades" but became popular when it was released as a home video game cartridge. They said the ColecoVision port is "proving to be one of the most successful home videogames ever."<ref name="pearl198306">{{cite magazine | url=https://archive.org/details/Electronic_Games_Volume_01_Number_16_1983-06_Reese_Communications_US/page/n81 | title=Closet Classics | magazine=Electronic Games | date=June 1983 | last=Pearl | first=Rick | volume=1 | issue=16 | pages=82–9}}</ref>
+
+The arcade game was recognized for its originality within the maze game genre. In January 1983, the fourth [[Arkie Awards|Arcade Awards]] gave it a Certificate of Merit as runner-up for Most Innovative Coin-Op Game, stating that the "addition of turnstiles to the labyrinth" made the game "a fascinating contest packed with strategic nuances never before equalled in this particular genre of coin-op."<ref>{{cite magazine |title=1983 Arcade Awards: Most Innovative Coin-Op Game |magazine=[[Electronic Games]] |date=January 1983 |volume=1 |issue=11 |page=36 |url=https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US/page/n35/mode/2up}}</ref> ''Electronic Games'' called it "the most wonderful blend of [[Strategy video game|strategy]] and maze-chase thrills ever concocted."<ref name="pearl198306"/>
+
+Reviewing the ColecoVision version, ''[[Creative Computing]] Video & Arcade Games'' said in 1983 that ''Lady Bug'' was not a ''Pac-Man'' clone, stating that the movable turnstiles "set it apart from all other maze games". The magazine reported that the ColecoVision version had become more popular than the arcade game at its office.<ref name=linzmayer1983spring>{{Cite magazine |last=Linzmayer |first=Owen |date=Spring 1983 |title=Home Video Games: Colecovision: Alive With Five |url=http://www.atarimagazines.com/cva/v1n1/colecovision.php |magazine=Creative Computing Video & Arcade Games |page=50}}</ref> It was reviewed in ''Video'' magazine in its "Arcade Alley" column where it was described as "a maze-chase game with all the high-speed action and thrills of ''[[Pac-Man]]'' combined with strategy-oriented play and pinball-style bonus features". The game's sound and graphics were reported to "equal, if not actually surpass, the original", and the reviewers particularly emphasized the innovative use of "color sequencing and the revolving turnstiles". The most significant criticism offered was that "the movement control is stiff and somewhat jerky".<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= January 1983 |title= Arcade Alley: Smurf & Ladybug from ColecoVision |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 10|pages= 50, 122|issn= 0147-8907}}</ref> This version of the game was popular,{{r|pearl198306}} winning the [[List of Game of the Year awards|Videogame of the Year]] award in the "16K or more [[Read-only memory|ROM]]" category at the 5th annual [[Arkie Awards]] where the judges described it as an "outstanding home edition of a coin-op-palace [[Cult video game|cult favorite]]".<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= January 1984 |title= Arcade Alley: The Arcade Awards, Part 1 |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 10|pages= 40–42|issn= 0147-8907}}</ref>{{rp|40}} The game has received appreciation in later years, being praised by some as "the most challenging of the [[List of maze video games|Pac-clones]]... It was, and still is, one of the best [of the clones]."<ref>{{cite web|author=Jonah Falcon|author-link=Jonah Falcon|url=http://classicgaming.gamespy.com/View.php?view=GameMuseum.Detail&id=16 |title=GOTW: Ladybug |publisher=[[GameSpy]] |url-status=dead |archive-url=https://web.archive.org/web/20131201205314/http://classicgaming.gamespy.com/View.php?view=GameMuseum.Detail&id=16 |archive-date=December 1, 2013 }}</ref>
+
+==Legacy==
+[[Image:Bumblebee-videogame.jpg|thumb|''Bumble Bee'', a clone of ''Lady Bug'']]
+
+''Doodle Bug'' is a 1982 clone for the [[TRS-80 Color Computer]].<ref>{{cite web |last1=Boyle |first1=L. Curtis |title=Doodle Bug |url=http://www.lcurtisboyle.com/nitros9/doodlebug.html |website=Tandy Color Computer Games}}</ref> ''Bumble Bee'' replaces the main character with a [[bumblebee]] and the enemies with [[spiders]]; it was released in 1983 and 1984 by [[Micro Power]] for the [[BBC Micro]], [[Acorn Electron]], and [[Commodore 64]].
+
+==See also==
+*''[[Mouse Trap (arcade game)|Mouse Trap]]'' (1981)
+*''[[Drelbs]]'' (1983)
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{KLOV game|id=8374|name=Lady Bug}}
+*[https://web.archive.org/web/20131201205314/http://classicgaming.gamespy.com/View.php?view=GameMuseum.Detail&id=16 Classic Gaming Game of the Week article]
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:ColecoVision games]]
+[[Category:Intellivision games]]
+[[Category:Pac-Man clones]]
+[[Category:Video games about insects]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games featuring female protagonists]]
+[[Category:Universal Entertainment games]]
+[[Category:Multiplayer and single-player video games]]

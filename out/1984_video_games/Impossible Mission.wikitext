@@ -1,0 +1,89 @@
+Impossible Mission
+Permalink: //en.wikipedia.org/w/index.php?title=Impossible_Mission&oldid=1223351277
+Accessed on: 2024-06-26T16:57:00.390895
+
+
+
+------
+Impossible Mission
+{{Distinguish|Mission: Impossible{{!}}''Mission: Impossible''}}
+{{pp-semi-indef}}
+{{Infobox video game
+|title        = Impossible Mission
+|image        = Impossible Mission Coverart.png
+|developer    = [[Epyx]]
+|publisher    = {{vgrelease|NA|Epyx|EU|[[U.S. Gold]]}}
+|designer     = Dennis Caswell<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|platforms    = [[Commodore 64]], [[Acorn Electron]], [[Amstrad CPC]], [[Apple II series|Apple II]], [[Atari 7800]], [[BBC Micro]], [[Master System]], [[ZX Spectrum]] 
+|released     = '''Commodore 64''' {{vgrelease|NA|September 1984<ref>{{cite magazine |title=Year-End Index |magazine=[[Computer Entertainer]] |date=January 1985 |volume=3 |issue=10 |page=156 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan85.pdf#page=12}}</ref>|EU|March 1985<ref name="CVG42"/>}} '''Ports''' <br> June 1985: Apple II<ref name="CE1985">{{cite magazine |title=1985 Index |magazine=Computer Entertainer |date=January 1986 |volume=4 |issue=10 |page=6 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf#page=6}}</ref> <br> 1985: Electron, BBC, Spectrum<br>1986: Amstrad CPC<br>1987: Atari 7800<br>1988: Master System
+|genre        = [[Action game|Action]], [[Platform game|Platform]], [[Puzzle game|Puzzle]]
+|modes        = [[Single-player video game|Single-player]]
+}}
+
+'''''Impossible Mission''''' is a [[video game]] originally written for the [[Commodore 64]] by Dennis Caswell and published by [[Epyx]] in 1984. The game features a variety of gameplay mechanics from [[platform game|platform]] and [[adventure game]]s, and includes [[Speech synthesis|digitized speech]]. ''Impossible Mission'', which casts the player in the role of a [[secret agent]] infiltrating an enemy stronghold, is widely considered one of the best games for several platforms.
+
+From 1985 to 1988, the game was released for the [[Apple II series|Apple II]], [[Atari 7800]], [[ZX Spectrum]], [[Acorn Electron]], [[BBC Micro]], [[Amstrad CPC]], and [[Master System]].
+
+==Gameplay==
+[[Image:C64 Impossible Mission.png|thumb|left|The Commodore 64 original]]
+The player takes the role of a [[secret agent]] who must stop an [[mad scientist|evil genius]], Professor Elvin Atombender, who is believed to be tampering with national security computers. The player races against the clock to reassemble and decrypt the password to Atombender's control room while avoiding deadly robots. Password pieces are found by searching furniture in the rooms. When searching, the player can also reset all moveable platforms and freeze enemy robots for a limited time. The game also features similar rewards for completing bonus puzzles. ''Impossible Mission'' enemies include two types of enemies. The first are the robots. These have a cylindrical main body. Their bodies are electrified, and some are able to use a short-range [[death ray]]. Some are stationary; others move in patterns, and others specifically hunt the player. Some have to actually see the player, and others know where the player is at all times. The second enemy is a hovering, electrified ball. Most of these chase the player.{{Citation needed|date=August 2015}}
+
+The player has six hours of game time to collect 36 puzzle pieces. Every time the player dies, 10 minutes are deducted from the total time. The puzzle pieces are assembled in groups of four. The puzzle pieces overlap so that three pieces can be assembled before the player realizes he must start over. Pieces may be in the wrong orientation, and the player may have to use the horizontal or vertical mirror images. Additionally, the puzzle pieces are randomized in every game. A completed puzzle forms a nine-letter password which lets the player reach Professor Atombender.{{Citation needed|date=August 2015}}
+
+==Development==
+The first element of the game to be created was the player character's animations, which designer Dennis Caswell lifted from a library book about athletics. Caswell recalled, "I animated the [[somersault]] before I had any clear idea how it would be used. I included it because the animations were there for the taking ..."<ref name="Retro122">{{cite news | last = Bevan | first= Mike | date = December 2013 | title = The History of ... Impossible Mission | work = [[Retro Gamer]] | issue = 122 | pages = 44–49 | publisher = [[Imagine Publishing]]}}</ref> Caswell cites ''[[Rogue (video game)|Rogue]]'' as his inspiration for the randomised room layouts, and the [[electronic game]] [[Simon (game)|Simon]] as his inspiration for the musical checkerboard puzzles.<ref name="Retro122"/><ref name="Edge">Edge issue 167, October 2006; "The making of Impossible Mission"</ref> The hovering balls were inspired by the [[Rover (The Prisoner)|Rover]] "security guard" from the ''[[The Prisoner|Prisoner]]'' [[TV series]].<ref name="Retro122"/><ref name="Edge"/>
+
+The Commodore 64 version features early use of digitized speech: ''"Another visitor. Stay a while... stay forever!"'' and ''"Destroy him, my robots!"'' The digitized speech was provided by the company [[Electronic Speech Systems]],<ref name="Mayhem 64">[http://www.mayhem64.co.uk/interview/caswell.htm Dennis Caswell interviewed by Mat "Mayhem" Allen] from ''Mayhem's homepage''</ref> who drastically raised their prices after ''Impossible Mission'' became a successful test case. Epyx did not deal with ESS again as a result.<ref name="Edge"/> Caswell recounted:
+
+{{quote|I never met the performer but, when I supplied the script to the representative from ESS, I told him I had in mind a "50-ish English guy", thinking of the sort of arch-villain [[James Bond]] might encounter. I was told that they happened to have just such a person on their staff. When I was given the initial recordings, the ESS guy was apologetic about them being a touch [[overacting|hammy]], but I thought the over-acting was amusing and appropriate, and they were left as is ...<ref name="Retro122"/>}}
+
+The game's title was one of the last elements to be finished. According to Caswell, "The choice of a name was delayed as long as possible, and ''Impossible Mission'' was more resorted to than chosen. It was, at least, somewhat descriptive, and the obvious allusion to ''[[Mission: Impossible (1966 TV series)|Mission: Impossible]]'' was expedient, to the extent that both the game and the TV show involved high-tech intrigue."<ref name="Retro122"/>
+
+==Reception==
+[[Image:Sega Master Impossible Mission.png|thumb|right|Master System gameplay]]
+
+In March 1985, ''[[Computer & Video Games]]'' rated the Commodore 64 version 38 out of 40 and awarded it Game of the Month.<ref name="CVG42">{{cite magazine |title=Software Reviews: Ghostbusters |magazine=[[Computer & Video Games]] |date=16 March 1985 |issue=42 (April 1985) |pages=29–35 |url=https://worldofspectrum.org/archive/magazines/computer--video-games/42#29}}</ref> In May 1985, ''[[Zzap!64]]'' editors ranked ''Impossible Mission'' second in their list of the best Commodore 64 games, while readers ranked it first, with 26% of votes.<ref name="zzap198506">{{cite magazine | url=https://archive.org/stream/zzap64-magazine-002/ZZap_64_Issue_002_1985_Jun#page/n81/mode/2up | title=YOUR top 64! | magazine=[[Zzap!64]] | issue=2 (June 1985) | date=9 May 1985 | access-date=26 October 2013 | pages=83–86}}</ref> Citing ''Impossible Mission'' as example, ''[[Compute!'s Gazette]]'' in 1986 praised Caswell as "one of those rare people who has all the skills necessary to create and design an outstanding game" while software development teams were becoming more common.<ref name="Yakal198606">{{Cite magazine |last=Yakal |first=Kathy |date=June 1986 |title=The Evolution of Commodore Graphics |url=https://archive.org/details/1986-06-computegazette/page/n35 |magazine=Compute!'s Gazette |pages=34–42 |access-date=2019-06-18}}</ref>
+
+''[[Compute!|COMPUTE!]]'' listed the game in May 1988 as one of "Our Favorite Games", writing that the sound effects of the character committing suicide was one of their guilty pleasures.<ref name="compute198805">{{cite news | url=https://archive.org/stream/1988-05-compute-magazine/Compute_Issue_096_1988_May#page/n13/mode/2up | title=Our Favorite Games | work=COMPUTE! | date=May 1988 | access-date=10 November 2013 | page=12}}</ref> ''[[Console XS]]'' rated the Sega Master System version 89% in 1992.<ref>{{cite magazine |title=Software A-Z: Master System |magazine=[[Console XS]] |date=23 April 1992 |issue=1 (June/July 1992) |publisher=[[Paragon Publishing]] |location=United Kingdom |pages=137–47 |url=https://archive.org/details/console-xs-01/page/137}}</ref> The ZX Spectrum version was voted the 28th best game of all time in a special issue of ''[[Your Sinclair]]'' magazine in 2004.<ref>{{cite journal|title=Top 50 Games of All Time|journal=Your Sinclair|date=November 2004|publisher=Imagine Publishing}}</ref>
+
+Editors have praised it as "the first game that scared me"<ref>{{Cite web |last=Kelly |first=Andy |date=2022-11-03 |title=Impossible Mission Was The First Game That Ever Scared Me |url=https://www.thegamer.com/impossible-mission-was-the-first-game-that-ever-scared-me/ |access-date=2022-11-04 |website=TheGamer |language=en-US}}</ref> thanks to its early use of digitized voice and mood setting audio effects. Stuff magazine listed it as one of the 10 best games for the Commodore 64 in their Commodore 64 at 40 article.<ref>{{Cite web |last=Grannell |first=Craig |date=2022-08-01 |title=The Commodore 64 at 40 – and 10 of the best C64 games |url=https://www.stuff.tv/features/the-commodore-64-at-40-and-10-of-the-best-c64-games/ |access-date=2022-11-04 |website=Stuff |language=en-US}}</ref>
+
+==Legacy==
+The sequel, ''[[Impossible Mission II]]'', followed in 1988. It further complicated the quest with new traps and items. Elvin's stronghold also grew in size, divided into a number of towers which the player had to traverse, all the while picking up pieces of the password.{{Citation needed|date=August 2015}}
+
+The game ''[[Electrocop]]'' was rumored to have started as a sequel to ''Impossible Mission'', but this has not been substantiated.<ref>{{cite news | last = Bevan | first= Mike | date = December 2013 | title = The Electrocop Connection | work = [[Retro Gamer]] | issue = 122 | page = 45 | publisher = [[Imagine Publishing]]}}</ref> In 1994, ''[[Impossible Mission 2025]]'' was released for the [[Amiga]]. It kept the same idea as the previous games, and mainly featured updated graphics and audio, also allowing the player to choose among three different characters. The game also contains the Commodore 64 version of ''Impossible Mission''.<ref name="Retro122"/>
+
+Developers [[System 3 (company)|System 3]] revamped ''Impossible Mission''<ref name="revampedOfficial">[http://games.system3.com/ImpossibleMission/index.html System 3 official website of the revamped game]</ref> for the Sony [[PlayStation Portable|PSP]], [[Nintendo DS]] and [[Wii]].<ref>[http://uk.gamespot.com/psp/action/impossiblemission/news.html?sid=6156004&om_act=convert&om_clk=mostpop&tag=mostpop;title;1 Epyx returns on Wii, PSP, DS] {{Webarchive|url=https://web.archive.org/web/20070930041101/http://uk.gamespot.com/psp/action/impossiblemission/news.html?sid=6156004&om_act=convert&om_clk=mostpop&tag=mostpop;title;1 |date=2007-09-30 }}; retrieved from ''[[GameSpot]]'' UK</ref><ref name="revampedWii">{{Cite web |url=http://www.system3.com/index.jsp?i=108&s=1111 |title=System 3 website of revamped Wii game |access-date=2009-11-28 |archive-url=https://web.archive.org/web/20090404091215/http://www.system3.com/index.jsp?i=108&s=1111 |archive-date=2009-04-04 |url-status=dead }}</ref> In the US, the Nintendo DS version was released exclusively at [[GameStop]] stores by [[Codemasters]]<ref>[http://www.gamestop.com/Catalog/ProductDetails.aspx?product_id=67120 Gamestop's Impossible Mission Page.] {{Webarchive|url=https://web.archive.org/web/20080409125430/http://www.gamestop.com/Catalog/ProductDetails.aspx?product_id=67120 |date=2008-04-09 }} Retrieved on April 22, 2008.</ref> (which, similar to the Amiga sequel, included a filter for graphics and audio to recreate the C64 original of ''Impossible Mission'' in terms of look and sound, albeit slightly remastered) and the Wii version was released in March 2008. This revamped version was later ported to the [[Nintendo Switch]] in 2019.<ref>{{Cite web|title=Impossible Mission for Nintendo Switch - Nintendo Game Details|url=https://www.nintendo.com/games/detail/impossible-mission-switch/|access-date=2021-04-23|website=www.nintendo.com|language=en-US}}</ref>
+
+In late 2022 it was announced that an officially licensed sequel is being developed by Icon64.<ref name="IM3">[https://www.indieretronews.com/2023/01/impossible-mission-3-sequel-to-very.html Indie Retro News]</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=-group/impossible-mission-series|name=The ''Impossible Mission'' series}}
+*{{WoS game|id=0002462}}
+*A full playthrough of the Commodore 64 game can be watched on the [https://archive.org/details/zx_Impossible_Mission_1985_U.S._Gold Internet Archive].
+*[https://archive.org/details/games-58-1984-december/page/56/mode/2up Review] in [[GAMES Magazine]]
+
+{{Authority control}}
+
+[[Category:1984 video games]]
+[[Category:Epyx games]]
+[[Category:Platformers]]
+[[Category:Roguelike video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 7800 games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:PlayStation Network games]]
+[[Category:Master System games]]
+[[Category:Spy video games]]
+[[Category:U.S. Gold games]]
+[[Category:Virtual Console games]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by Yannis Brown]]
+[[Category:Video games with rotoscoped graphics]]
+[[Category:Single-player video games]]

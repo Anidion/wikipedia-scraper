@@ -1,0 +1,65 @@
+Capture the Flag (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Capture_the_Flag_%28video_game%29&oldid=1228838825
+Accessed on: 2024-06-26T16:54:42.110597
+
+
+
+------
+Capture the Flag (video game)
+{{Other uses|Capture the flag (disambiguation)}}
+{{Infobox video game
+| title          = Capture the Flag
+| image          = Cover Capture The Flag.jpg
+| caption        = 
+| developer      = [[Sirius Software]]
+| publisher      = Sirius Software
+| designer       = Paul Allen Edelstein<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+| composer       = [[George Sanger (musician)|George Sanger]]
+| series         = 
+| engine         =
+| released       = 1983
+| genre          = [[List of maze video games|Maze]] 
+| modes          = [[Single-player]], [[multiplayer]]
+| platforms      = [[Atari 8-bit]], [[VIC-20]]
+}}
+
+'''''Capture the Flag''''' is a 3D first-person perspective, [[multiplayer|two player]], video game, released for the [[Atari 8-bit computers]] and [[VIC-20]] by [[Sirius Software]] in 1983. It was written by Paul Allen Edelstein as the follow-up to his 1982 game, ''[[Wayout]]'', which has similar maze-based gameplay for one player. Along with its predecessor, ''Capture the Flag'' was among the first 3D [[maze game]]s to offer the player full 360 degree movement,<ref>{{cite web|url=http://www.mobygames.com/game/capture-the-flag_|work=Moby Games|title=Capture the Flag}}</ref> and one of the earliest [[multiplayer]] games from a first-person perspective within a 3D rendered environment.
+
+==Gameplay==
+[[File:Capture the Flag - Atari 8 bit screenshot.png|thumb|left|The Invader (green) is cornered by the Defender (blue)]]
+
+''Capture the Flag'' is essentially a two player version of ''[[Wayout]]'', with one player (the "Invader") trying to find the exit (or 'flag') in the maze while the other player (the 'Defender') tries to stop them, a role similar to the computer-controlled "Cleptangle" from the first game. The main difference is that the game's display is [[Split screen (computer graphics)|split-screen]], allowing each of the two players to view the maze from their own perspective. In the single-player version, the computer takes the role of the defender.
+
+Each player is represented within the maze as a simple, rectangular-shaped, blue or green [[avatar (computing)|avatar]]. If the Invader finds the flag, or the Defender catches the Invader, a new maze is generated and the chase starts again. Another progression from [[Wayout]] is that instead of a finite number of mazes, ''Capture the Flag'' can create an infinite number of randomly generated mazes.
+
+''Capture the Flag'' also uses the mapmaker feature from ''[[Wayout]]'', which draws the map in 2D in the lower half of the screen as each of the players move around the map. This allows each player to see the whereabouts of their opponent, but the 2D [[automap]] can be switched off to heighten the tension.
+
+===Controls===
+Players can choose to control their character using a [[joystick]] or the [[Computer keyboard|keyboard]] utilizing one of two methods; "Compass Movement" or "Walking Movement". Compass Movement allows the player to simply move as they would in a 2D game and watch their movements via the [[automap]] in the lower half of the screen, whereas Walking Movement allows them to use the 3D view and use the control to move forward and turn left or right.<ref>{{cite web|title=Capture the Flag - Instructions|url=http://www.atarimania.com/8bit/boxes/hi_res/capture_the_flag_i_4.jpg}}</ref>
+
+For the two player option, players must use both the [[joystick]] and the [[Computer keyboard|keyboard]].
+
+==Music==
+''Capture the Flag'' uses layered [[dynamic music]] which changes depending on the proximity of the two players.<ref>{{cite web|title=Electronic Games · May, 1984|url=http://www.atarimania.com/game-atari-400-800-xl-xe-capture-the-flag_888.html|work=Capture the Flag|accessdate=28 October 2011}}</ref> It was composed by [[George Sanger (musician)|George Sanger]] and was one of the first games he worked on.<ref>{{cite web|title=The Fat Man - FAQs (archive.org)|url=http://www.fatman.com:80/faqs.htm#1|archive-url=https://web.archive.org/web/20170806024812/http://www.fatman.com/faqs.htm#1|url-status=dead|archive-date=2017-08-06|access-date=2011-10-28}}</ref>
+
+==Reception==
+''Electronic Fun'' magazine gave a very positive review in its February 1984 issue, scoring the game 4 out of 4, and said that ''Capture the Flag'' was a huge improvement on ''[[Wayout]]''. The reviewer wrote, "it's very rare to see a good game design wholly redone by the same designer, rarer still to see him improve on his original in every single respect."<ref>{{cite web|title=Electronic Fun · February, 1984|url=http://www.atarimania.com/game-atari-400-800-xl-xe-capture-the-flag_888.html|work=Capture the Flag|accessdate=28 October 2011}}</ref>
+
+In their May 1984 issue review, ''Electronic Games'' magazine emphasised the fun aspect of playing against a human opponent, rather than a computer one, and how the music in the game added to the experience: "the music which gets louder with the close proximity of the opposing player begins to get more frenetic, and so the gamer slams into even more walls."<ref>{{cite web|title=Electronic Games · May, 1984|url=http://www.atarimania.com/game-atari-400-800-xl-xe-capture-the-flag_888.html|work=Capture the Flag|accessdate=28 October 2011}}</ref>
+
+==References==
+{{reflist}}
+<!--- After listing your sources please cite them using inline citations and place them after the information they cite. Please see http://en.wikipedia.org/wiki/Wikipedia:REFB for instructions on how to add citations. --->
+
+== External links ==
+* {{atarimania|id=888}}
+
+[[Category:1983 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:VIC-20 games]]
+[[Category:Capture the flag (game)]]
+[[Category:Maze chase games]]
+[[Category:Sirius Software games]]
+[[Category:Split-screen multiplayer games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games scored by George Sanger]]

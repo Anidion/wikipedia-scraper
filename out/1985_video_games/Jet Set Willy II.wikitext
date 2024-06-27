@@ -1,0 +1,95 @@
+Jet Set Willy II
+Permalink: //en.wikipedia.org/w/index.php?title=Jet_Set_Willy_II&oldid=1230759816
+Accessed on: 2024-06-26T16:58:41.389947
+
+
+
+------
+Jet Set Willy II
+{{short description|1985 video game}}
+{{Use British English|date=January 2021}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox video game
+|width = 
+|title = Jet Set Willy II: The Final Frontier
+|image = jsw2_zx_cassette.jpg
+|caption =
+|developer = Derrick P. Rowson and [[Steve Wetherill]] (Amstrad), Derrick P. Rowson (Spectrum), John Darnell and Steve Birtles (C64)<ref name='retrogamer1'>{{cite magazine |title=Hall of the Miner King|magazine=Retro Gamer|issue=1|publisher=Imagine|date=March 2004|pages=24–29|first=Martyn|last=Carroll}}</ref><ref name='retrogamer87'>{{cite magazine |title=The Making of Jet Set Willy II|magazine=Retro Gamer|issue=87|publisher=Imagine|date=3 March 2011|pages=76–81|first=Martyn|last=Carroll}}</ref>
+|publisher = [[Software Projects]]
+|designer = [[Matthew Smith (games programmer)|Matthew Smith]]
+|series = ''[[Miner Willy]]''
+|engine = 
+|released = 1985
+|genre = [[Platform game|Platform]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]], [[Acorn Electron]], [[BBC Micro]], [[Commodore 16]], [[Amiga]], [[MSX]]
+}}
+
+'''''Jet Set Willy II: The Final Frontier''''' is a [[platform game]] released 1985 by [[Software Projects]] as the [[Amstrad CPC]] port of ''[[Jet Set Willy]]''.<ref name='acu10'>{{cite magazine |title=Feature: Jet Set Willy|magazine=Amstrad Computer User|issue=10|publisher=Amsoft|date=September 1985|pages=56–61|url=https://archive.org/details/AmstradComputerUser10-0985/page/n55/mode/2up|access-date=17 March 2023}}</ref> It was then rebranded as the sequel and ported to other home computers. ''Jet Set Willy II'' was developed by Derrick P. Rowson and Steve Wetherill rather than ''Jet Set  Willy'' programmer [[Matthew Smith (games programmer)|Matthew Smith]] and is an expansion of the original game, rather than an entirely new one.
+
+==Gameplay==
+[[Image:jsw2_bathroom.png|thumb|left|''Miner Willy'' in ''The Bathroom'' (Spectrum)]]
+The map is primarily an expanded version of the original mansion from ''Jet Set Willy'', with only a few new elements over its predecessor several of which are based on rumoured events in ''JSW'' that were in fact never programmed (such as being able to launch the titular ship in the screen called "The Yacht" and explore an island). In the [[ZX Spectrum]], [[Amstrad CPC]] and [[MSX]] versions, Willy is blasted from the Rocket Room into space, and for these 33 rooms he dons a spacesuit.
+
+Due to the proliferation of [[hacker (computer security)|hacking]] and [[Cheating (video games)|cheating]] in the original game, ''Jet Set Willy II'' pays homage to this and includes a screen called ''Cheat'' that can only be accessed by cheating.<ref name='acu10' />
+
+Control of Willy also differs from the original:
+* The player can jump in the opposite direction immediately upon landing, without releasing the jump button.
+* Willy now takes a step forward before jumping from a standstill.
+* Some previous "safe spots" in ''Jet Set Willy'' are now hazardous to the player in ''Jet Set Willy II'', the tall candle in "The Chapel" for example.
+
+The ending of the game is also different.
+
+==Development==
+[[Image:JSW2 padlock.jpg|thumb|''Padlock II'' security system]]
+''Jet Set Willy II'' was originally created as the Amstrad conversion of ''Jet Set Willy'' by Derrick P. Rowson and Steve Wetherill, but Rowson's use of an algorithm to compress much of the screen data meant there was enough memory available to create new rooms.<ref name='retrogamer1' /><ref>{{cite web|url=http://www.jdawiseman.com/papers/games/jsw2/jsw2_programmer_comments.html#Derrick_Rowson_20130810|title=Jet Set Willy II: Comment from Steve Wetherill and Derrick P. Rowson|last=Rowson|first=Derek|date=10 August 2013|access-date=27 April 2022}}</ref>
+
+It came with a form of enhanced copy protection called Padlock II. To discourage felt tip copying,<ref>{{Cite web |url=https://retrollection.net/2019/02/16/jet-set-willy-i-ii-software-projects-1984-1985-review/ |title=Jet Set Willy I & II (Software Projects, 1984 & 1985) – REVIEW &#124; Retrollection.net |access-date=27 July 2019 |archive-date=27 July 2019 |archive-url=https://web.archive.org/web/20190727131719/https://retrollection.net/2019/02/16/jet-set-willy-i-ii-software-projects-1984-1985-review/ |url-status=dead}}</ref> it had seven pages, rather than the single page used in ''Jet Set Willy''.
+
+Software Projects later had Rowson remove all of the enhancements from the Amstrad version to produce a straight conversion of the original ZX Spectrum version of ''Jet Set Willy''. This version was included on the [[Ocean Software]] compilation ''They Sold A Million''<ref name='amstradactionnov85'>{{cite magazine|title=Hitsquad attack at Christmas|magazine=Amstrad Action|issue=2|publisher=Future Publishing|date=10 October 1985|page=20|url=|access-date=}}</ref><ref name='acu12'>{{cite magazine|title=Bargain Compilation|magazine=Amstrad Computer User|issue=12|publisher=Amsoft|date=November 1985|page=8|url=|access-date=}}</ref><ref name='amstradactionxmas85'>{{cite magazine|title=They Sold A Million|magazine=Amstrad Action|issue=4|publisher=Future Publishing|date=12 December 1985|pages=62–63|url=|access-date=}}</ref><ref name='retrogamer87' /> released in November 1985.<ref name='cvgtheysoldamillion'>{{cite magazine|title=They Sold A Million Advertisement|quote=1st November 1985 Release Date|magazine=Computer and Video Games|issue=49|publisher=EMAP|date=November 1985|page=108|url=https://spectrumcomputing.co.uk/page.php?issue_id=1500&page=108|access-date=18 March 2023}}</ref>
+
+==Ports==
+The game was ported to the ZX Spectrum, [[Commodore 64]], [[Commodore 16]], [[BBC Micro]], [[Acorn Electron]], and [[MSX]].
+
+Rowson ported the game to the Spectrum alone as Steve Wetherill had moved to [[Odin Computer Graphics]].<ref name='retrogamer87' /> It has a number of small differences, including the loss of coloured backgrounds in certain screens as the CPC version ran in a 4-colour display mode. In an in-depth article about both the game and the code, ''[[Your Sinclair|Your Spectrum]]'' stated that as each room was compressed and took up differing amounts of memory, a room editor would be virtually impossible to write.<ref>[http://www.worldofspectrum.org/showmag.cgi?mag=YourSpectrum/Issue18/Pages/YourSpectrum1800025.jpg Will Meet Again, Your Spectrum issue 18]</ref>
+
+The BBC Micro cassette version has 2 rooms not in the ZX Spectrum version, and omits 60 of the rooms, rather than being a [[subset]] of it as are the CPC and ZX Spectrum versions.<ref>{{cite web | url=http://www.jdawiseman.com/papers/games/jsw2/bbc/jsw2_bbc.html | title=Jet Set Willy II: BBC Micro version | access-date=2010-10-25}}</ref>
+
+The C64 screen was a different format to the Amstrad, so the developers were unable to take the data used in the Amstrad and instead had to lay out again and re-implement all the screens and sprites, but Rowson was able to use much of the data directly from the Amstrad, and hence the game was released sooner.{{Citation needed|date=March 2023}}
+
+==Reception==
+The original Amstrad version, released as ''Jet Set Willy'', reached number 2 in the Amstrad games chart for the four weeks up to April 16, 1985.<ref name='acu7'>{{cite magazine |title=Gallup Software Chart|magazine=Amstrad Computer User|issue=7|publisher=Amsoft|date=June 1985|page=54|url=https://archive.org/details/AmstradComputerUser07-0685/page/n54|access-date=17 March 2023}}</ref> ''Amstrad Computer User'' called it "one of the best CPC games around".<ref name='acu10' />
+
+Its release as ''Jet Set Willy II'' was less well received with ''[[Sinclair User]]'''s Clare Edgeley calling it the "biggest rip off of them all",<ref name='su_dec86'>{{cite magazine |title=Software Scene|magazine=Sinclair User 1986 Annual|issue=57|publisher=EMAP|date=5 October 1985|page=135|url=https://archive.org/details/sinclair-user-magazine-annual-1986/page/n47|access-date=17 March 2023}}</ref> while ''Home Computing Weekly'' accused Software Projects of "trying to flog it as a new game".<ref name='hcw10sep85'>{{cite magazine |title=Reviews: Jet Set Willy II|magazine=Home Computing Weekly|issue=129|publisher=Argus Specialist Publications|date=10 September 1985|page=12|url=https://archive.org/details/home-computing-weekly-129/page/n11|access-date=17 March 2023}}</ref> ''[[Crash (magazine)|Crash]]'' said the game was good, but little progress had been made from the original.<ref name='retrogamer1' />
+
+The Spectrum and Commodore 64 versions of ''Jet Set Willy'' entered the Gallup Top 20 chart in the fortnight up to July 12, 1985, at number 8, rising to number 7 on the following chart.<ref name='hcw121charts'>{{cite magazine |title=Top 20 Software Compiled By Gallup|magazine=Home Computing Weekly|issue=121|publisher=Argus Specialist Publications|date=16 July 1985|page=41|url=https://spectrumcomputing.co.uk/page.php?issue_id=2687&page=41|access-date=17 March 2023}}</ref><ref name='hcw122charts'>{{cite magazine |title=Top 20 Software Compiled By Gallup|magazine=Home Computing Weekly|issue=122|publisher=Argus Specialist Publications|date=30 July 1985|page=41|url=https://spectrumcomputing.co.uk/page.php?issue_id=2689&page=41|access-date=17 March 2023}}</ref>
+
+[[Mastertronic]] released the game on its Ricochet label in late 1988. While reviewers called the game dated, particularly criticizing the graphics as laughable and "stick-like", they conceded that the gameplay was still "pretty excellent" - the same reviewer who accused the graphics of being "stick-like" also stated that it was "one of [his] all-time favourite games" and "worth a peek".<ref name='sinclairuser81'>{{cite magazine |title=Jet Set Willy II|magazine=Sinclair User|issue=81|publisher=EMAP|date=December 1988|page=59|url=https://spectrumcomputing.co.uk/page.php?issue_id=81&page=59|access-date=17 March 2023}}</ref><ref name='zzap46'>{{cite magazine |title=Jet Set Willy: The Final Frontier|magazine=Zzap|issue=46|publisher=Newsfield|date=February 1989|page=92|url=https://archive.org/details/zzap64-magazine-046/page/n91|access-date=17 March 2023}}</ref> The £1.99 release reached number 7 in the ZX Spectrum budget games chart.<ref name='sinclairuser81' /><ref name='zzap46' /><ref name='ys40charts'>{{cite magazine |title=Games Chart: Budget Games|magazine=Your Sinclair|issue=40|publisher=Dennis Publishing|date=April 1989|page=9|url=https://archive.org/details/your-sinclair-40/page/n8/mode/2up|access-date=16 December 2022}}</ref>
+
+==Legacy==
+Unofficial ports have been written for the [[Acorn Archimedes]], [[Microsoft Windows]], [[MS-DOS]], and the [[X Window System]].<ref>{{cite web | url=http://decwarch.free.fr/images/jetset.html | title=The DECWindows Archive - JETSET 1.0 | access-date=2006-12-23 | work=DECWindows and VMS CENA's Archive}}</ref>
+
+In November 2016 Rowson released JSW2+ as an update. Technical improvements allow for more complicated rooms, and it has built-in cheat devices allowing infinite lives and teleportation. Rowson also added some new rooms, and made many of the rooms easier with fewer or slower sprites.<ref>[http://www.jdawiseman.com/papers/games/jsw2/jsw2_updated.html Jet Set Willy II: Updated, by Derrick P. Rowson]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WoS_game|id=0002595}}
+* ''[https://worldofspectrum.org/archive/software/games/jet-set-willy-ii-software-projects-ltd Jet Set Willy II]'' at World Of Spectrum
+* [http://www.jdawiseman.com/papers/games/jsw2/jsw2_index.html Map of the Spectrum version]
+* [http://www.seasip.info/Jsw/jsw2room.html Room format description]
+
+[[Category:1985 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Commodore 64 games]]
+[[Category:MSX games]]
+[[Category:Platformers]]
+[[Category:Software Projects games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

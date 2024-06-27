@@ -1,0 +1,48 @@
+Crystals of Zong
+Permalink: //en.wikipedia.org/w/index.php?title=Crystals_of_Zong&oldid=1082321597
+Accessed on: 2024-06-26T16:54:49.861855
+
+
+
+------
+Crystals of Zong
+{{Infobox video game
+|title = Crystals of Zong
+|image = Crystals of Zong Coverart.png
+|caption =
+|developer =
+|publisher = Cymbal Software<ref name="gamefaqs"/>
+|programmer = Sean McKinnon<ref name=giantlist/>
+|released = {{vgrelease|NA|1983<ref name="gamefaqs"/>|EU|1983<ref name="gamefaqs"/>}}
+|genre = [[List of maze video games|Maze]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Commodore 64]]
+}}
+
+'''''Crystals of Zong''''' is a maze-chase game written by Sean McKinnon for the [[Commodore 64]] and published by Cymbal Software in 1983.<ref name=giantlist/>
+
+==Gameplay==
+Each level consists of nine single-screen rooms arranged in a 3×3 grid. At the centre of each room is a locked treasure area. The treasure areas in eight of the rooms contain different treasures and one of the rooms contains a ladder to the next level. The player's task is to navigate the maze-like corridors of the rooms to unlock the treasure areas and get the treasure. The player can descend to the next level via the ladder once they've unlocked it, collecting all the treasures is not necessary to proceed.
+
+Various [[monster]]s inhabit the rooms. The monsters start out slow and dim-witted, but become faster and smarter on later levels. Contact with a monster kills the player instantly. In each room, there is a sword, collecting which temporarily gives the player the ability to kill the monsters. After some time, the monsters return.
+
+There is a time limit to each level in the form a torch health bar, which decreases slowly as time passes. It can be replenished by collecting the torch power up, and paused altogether once the lantern, one of the treasures, is obtained.
+
+==References==
+{{reflist|refs=
+<ref name="gamefaqs">[http://www.gamefaqs.com/computer/c64/data/565569.html ''Crystals of Zong''] at GameFAQs</ref>
+<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+*{{lemon64 game|id=1466|name=Crystals of Zong}}
+*{{IAg|Crystals_of_Zong_1983_Cymbal_Software}}
+
+[[Category:1983 video games]]
+[[Category:Maze games]]
+[[Category:Commodore 64 games]]
+[[Category:Commodore 64-only games]]
+[[Category:Video games developed in the United Kingdom]]
+
+
+{{action-videogame-stub}}

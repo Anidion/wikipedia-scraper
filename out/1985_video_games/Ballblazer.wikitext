@@ -1,0 +1,97 @@
+Ballblazer
+Permalink: //en.wikipedia.org/w/index.php?title=Ballblazer&oldid=1230639848
+Accessed on: 2024-06-26T16:58:03.496155
+
+
+
+------
+Ballblazer
+{{Short description|1985 video game}}
+{{Infobox video game
+|title = Ballblazer
+|image = Ballblazer Coverart.png
+|developer = [[Lucasfilm Games]]
+|publisher = [[Epyx]]<br />[[Activision]]<br />[[Atari Corporation]]<br />[[Pony Canyon]] (Famicom)
+|director = David Levine
+|designer = David Levine<br />[[Peter Langston]]<br />David Riordan<br />Garry Hare
+|composer = [[Russell Lieblich]]
+|engine =
+|released = '''1985:''' Atari 8-bit,<ref name="analog-review">{{cite magazine |last=Leyenberger |first=Arthur |date=August 1985 |title=Rescue on Fractalus and Ballblazer - A REVIEW |url=https://archive.org/details/analog-computing-magazine-33/page/n81 |access-date=2021-07-10 |magazine=[[ANALOG Computing]] |number=33 |page=81}}</ref> C64, Apple II<br />'''1986:''' 5200, CPC, MSX, Spectrum<br />'''1987:'''  7800, Atari 8-bit cartridge<br />'''1988:''' Famicom
+|genre = [[Sports game|Sports]], [[Action game|action]]
+|modes = [[Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit]], [[Atari 5200]], [[Atari 7800]], [[Commodore 64]], [[Nintendo Entertainment System|Famicom]], [[MSX]], [[ZX Spectrum]]
+}}
+
+'''''Ballblazer''''' is a futuristic sports game created by [[Lucasfilm Games]] and published in 1985 by [[Epyx]]. Along with ''[[Rescue on Fractalus!]]'', it was one of the initial pair of releases from Lucasfilm  Games, ''Ballblazer'' was developed and first published for the [[Atari 8-bit computers]]. The principal creator and programmer was David Levine.<ref name="antic">{{cite magazine |last=Ciraolo |first=Michael |date=August 1984 |title=Lucasfilm & Atari - Creative Partners |url=http://www.atarimagazines.com/v3n4/lucasfilm.html |access-date=2021-07-10 |magazine=[[Antic (magazine)|Antic]] |volume=3 |number=4 |pages=40–42}}</ref>{{rp|41}}<ref>{{cite web|url=http://grokware.com/dl/resume.html |title=Aaron David Levine |publisher= |date= |accessdate=2019-10-28}}</ref> The game was called ''Ballblaster'' during development; some pirated versions bear this name.<ref>''Rogue Leaders: The Story of LucasArts'' pg. 54</ref>
+
+It was ported  to the [[Apple II series|Apple II]], [[ZX Spectrum]], [[Amstrad CPC]], [[Commodore 64]], and [[MSX]]. [[Atari 5200]] and [[Atari 7800]] ports were published  by [[Atari Corporation]]. A version for the [[Nintendo Entertainment System|Famicom]] was released by [[Pony Canyon]].
+
+==Gameplay==
+[[File:Ballblazer_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot (Atari 8-bit)]]
+''Ballblazer'' is a simple one-on-one sports-style game bearing similarities to [[basketball]] and [[association football|soccer]].<ref name="compute">{{cite magazine |last=Halfhill |first=Tom R. |date=September 1985 |title=Rescue On Fractalus! And Ballblazer |url=https://www.atarimagazines.com/compute/issue64/review_rescue.php |access-date=2021-07-10 |magazine=[[Compute!]] |volume=7 |issue=9 #64 |department=Reviews |pages=61–62}}</ref> Each side is represented by a craft called a "rotofoil",<ref name="compute"/> which can be controlled by either a human player or a computer-controlled "droid" with ten levels of difficulty. The game allows for human vs. human, human vs. droid, and droid vs. droid matches. The basic objective of the game is to score points by either firing or carrying a floating ball into the opponent's goal. The game takes place on a flat, checkerboard playfield, and each player's half of the screen is presented from a first-person perspective.<ref name="compute"/>
+
+A player can gain possession of the ball by running into it, at which point it is held in a force field in front of the craft. The opponent can attempt to knock the ball away from the player using the fire button, and the player in possession of the ball can also fire the ball toward the goal. When a player does not have possession of the ball, his or her rotofoil automatically turns at 90-degree intervals to face the ball, while possessing the ball turns the player toward the opponent's goal. The goalposts move from side to side at each end of the playfield, and as goals are scored, the goal becomes narrower.
+
+Pushing the ball through the goal scores one point, firing the ball through the posts from close range scores two points, and successfully scoring from long range (where the goalposts are not visible) scores three points.<ref name="compute"/>  The maximum number of total points between the two players is ten, meaning that any points scored that would take the combined total above ten will cause the opponent's score to be reduced by the same amount, resulting in a kind of [[tug of war]] scoring system. The game ends when either a player successfully scores ten points or the timer runs out. If time runs out and the score is tied, the game goes into "sudden death", where the first player to score wins.
+
+==Development==
+''Ballblazer'', together with ''[[Rescue on Fractalus!]]'', were the first two games developed by the fledgling [[Lucasfilm Games|Lucasfilm Computer Division Games Group]]. The Games Group had been established in 1982 on a $1 million funding from [[Atari, Inc.]] in exchange for the "right of first refusal" for Atari as publisher.<ref name="filfire">{{cite web |last=Maher |first=Jimmy |title=A New Force in Games, Part 1: Fractal Dreamers |website=The Digital Antiquarian |date=2015-07-10 |url=https://www.filfre.net/2015/07/a-new-force-in-games-part-1-fractal-dreamers/ |access-date=2021-07-10}}</ref>
+
+Both games were developed with the [[Atari 8-bit computers]] and [[Atari 5200]] console in mind. The games were ready by March 1984<ref name="lucasarts-history">{{cite web|url=http://www.lucasarts.com/20th/history_1.htm |archive-url=https://web.archive.org/web/20060428061222/http://www.lucasarts.com/20th/history_1.htm |url-status=dead |archive-date=2006-04-28 |title=LucasArts Entertainment Company &#124; 20th Anniversary |date= |accessdate=2019-10-28}}</ref> and were first publicly revealed on a Lucasfilm press conference on May 8.<ref name="ce-84-5">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=May 1984 |title=Secret Project Unveiled |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n300 |magazine=[[Computer Entertainer]] |volume=3 |number=2 |page=1}}</ref> Cartridge versions for the Atari computers and the 5200 were planned to be the released first in the third quarter of 1984, with disk versions for the [[Commodore 64]], [[IBM PC]], and [[Apple IIc]] and [[Apple IIe|IIe]] coming under the [[Atarisoft]] label in the fourth quarter of that year.<ref name="sentinel">{{cite news |last=Sirard |first=Jack |title=Atari, Lucasfilm join forces for new video games |work=[[Santa Cruz Sentinel]] |volume=128 |number=111 |department=Business |date=1984-05-09 |place=San Rafael |page=B-7 |url=https://cdnc.ucr.edu/?a=d&d=SCS19840509.1.21&e=-------en--20--1--txt-txIN--------1 |access-date=2021-07-10}}</ref><ref name="mercury-8">{{cite news |last=Greer |first=Jonathan |title='Star Wars' creator teams up with Atari|work=[[San Jose Mercury News]] |date=1984-05-08 |place=San Rafael |page=1G |url=http://www.langston.com/LFGames/SJMN19840508.html |access-date=2021-07-10}}</ref><ref name="mercury-9">{{cite news |last=Greer |first=Jonathan |title='Star Wars' creator teams up with Atari|work=[[San Jose Mercury News]] |date=1984-05-09 |place=San Rafael |page=1G |url=http://www.langston.com/LFGames/SJMN19840509.html |access-date=2021-07-10}}</ref><ref name="upi">{{cite press release |last=Leighty |first=John M. |date=1984-05-08 |title=Lucasfilm 'force' enters video game market |url=https://www.upi.com/Archives/1984/05/08/Lucasfilm-force-enters-video-game-market/9795452836800/ |location=San Rafael, California |publisher=[[United Press International]] |access-date=2021-07-10}}</ref><ref name="infoworld">{{cite magazine |last=Mace|first=Scott |date=1984-06-04 |title=Atari unveils Lucasfilm games |url=https://books.google.com/books?id=vi4EAAAAMBAJ&pg=PA12 |access-date=2021-07-10 |magazine=[[InfoWorld]] |volume=6 |issue=23 |page=12}}</ref> ''Ballblazer'' and ''Rescue on Fractalus!'' were also scheduled to be released for the then-upcoming [[Atari 7800]] console.<ref name="atari-1984-05-21">{{cite press release |author=<!--Not stated--> |date=1984-05-21 |title=Atari unveils advanced video game that is expandable to introductory computer |url=http://www.atari7800.org/museum/PressDoc1s.htm |location=New York City |publisher=[[Atari, Inc.]] |access-date=2021-07-10}}</ref>
+
+On July 3, [[Warner Communications]] sold all assets of the Consumer Division of Atari, Inc. to [[Jack Tramiel]], and the agreement with Lucasfilm fell through. On the Winter [[Consumer Electronics Show]] on January 5–8, 1985, with both ''Ballblazer'' and ''Rescue on Fractalus!'' not yet being released on any platform, [[Epyx]] became a distributor for both games, which would be released in disk format for the Atari 8-bit and Commodore 64 computers. The Atari 5200 versions were not part of the distribution deal.<ref name="ce-85-2">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=February 1985 |title=Looking Back on an Interesting C.E.S. |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n444 |magazine=[[Computer Entertainer]] |volume=3 |number=11 |page=1}}</ref> Epyx finally published the Atari 8-bit versions of both games by May 1985,<ref name="ce-85-5">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=May 1985 |title=Ballblazer and Rescue on Fractalus! |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n493 |magazine=[[Computer Entertainer]] |department=Critically Speaking..Atari Computers |volume=4 |number=2 |page=2}}</ref> and the Commodore 64 version of ''Ballblazer'' by September of that year.<ref name="ce-85-9">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=September 1985 |title=Availability Update |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n569 |magazine=[[Computer Entertainer]] |volume=4 |number=6 |page=14}}</ref>
+
+Besides the Atari 8-bit and Commodore 64 computers, ''Ballblazer'' was ported to the [[Apple II]] by K-Byte, and to [[Amstrad CPC]], [[MSX]] and [[ZX Spectrum]] computers by [[Activision]], who published the game in Europe. While the IBM PC port announced in 1984 never materialized, Tramiel's [[Atari Corporation]] eventually released the Atari 5200 cartridge version in limited quantities in late 1986, manufactured from the stock inherited from the July 1984 buyout of Atari, Inc.;<ref name="ce-87-2">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=February 1987 |title=Atari 2600 and 7800 Sellouts in '86 |url=https://archive.org/details/ComputerEntertainer/computerentertai01unse/page/n838 |magazine=Computer Entertainer |volume=5 |number=11 |page=11}}</ref> the cartridge version for the Atari 8-bit computers in December 1987, packaged for their new [[Atari XEGS|XE Game System]];<ref name="ce-88-1">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |date=January 1988 |title=Initial Games for the XE Game System Ship |url=https://archive.org/details/ComputerEntertainer/computerentertai00unse/page/n17 |magazine=Computer Entertainer |volume=6 |number=10 |page=12}}</ref> and the Atari 7800 version in March 1988.<ref name="palmbeach">{{cite news |author=<!--Staff writer(s)/no by-line.--> |title=Atari introduces 45 new video game titles |work=[[The Palm Beach Post]] |volume=80 |number=205 |department=Holiday Gift Guide |edition=Final |date=1988-11-24 |page=56 |url=https://palmbeachpost.newspapers.com/search/#query=ballblazer&t=4012&ymd=1988-11-24 |url-access=subscription |access-date=2021-07-10}}</ref> In Japan, [[Pony Canyon]] published a [[Nintendo Famicom]] port in 1987.
+
+==Soundtrack==
+{{listen |filename=Ballblazer.ogg |title=''Ballblazer'' music sample|description=A sample of ''Ballblazer'' music from the Commodore 64 version }}
+
+''Ballblazer''{{'}}s theme music, called "Song of the Grid" and heard between matches, was [[algorithmic composition|algorithmically generated]], a technique designed by Lucasfilm Games team leader [[Peter Langston]] and called "riffology". The lead melody is assembled from a predefined set of 32 eight-note melody fragments, or [[riff]]s, which are put together randomly by an algorithm that also makes choices on several parameters including "how fast to play the riff, how loud to play it, when to omit or elide notes, when to insert a rhythmic break". The melody is accompanied by bassline, drums and chords, which are also assembled on the fly by a simplified version of the above approach. In effect the music plays forever, without repeating itself but without straying too far from the original theme.<ref>{{cite conference |title=Six Techniques for Algorithmic Music Composition |url=http://www.langston.com/Papers/amc.pdf |last=Langston |first=Peter S. |authorlink=Peter Langston |date=1989-11-02 |conference=15th International Computer Music Conference, Columbus, Ohio |page=6 |accessdate=2011-06-03}}</ref><ref>{{cite conference |title=(201) 644-2332 or Eedie & Eddie on the Wire, An Experiment in Music Generation |url=http://langston.com/Papers/2332.pdf |last=Langston |first=Peter S. |authorlink=Peter Langston |year=1986 |conference=Summer, 1986 Usenix Association meeting |pages=4–5 |accessdate=2011-06-03}}</ref> Langston, an experienced jazz, rock, and folk musician, said of ''Ballblazer''{{'}}s music: "One reviewer, an eminent jazz player <nowiki>[</nowiki>[[Pat Metheny]]<ref>{{cite conference |title=The Influence of the UNIX Operating System on the Development of Two Video Games |url=http://www.langston.com/Papers/vidgam.pdf |last=Langston |first=Peter S. |authorlink=Peter Langston |year=1985 |conference=Spring, 1985 European Unix User's Group meeting |page=7 |accessdate=2011-06-03}}</ref>], said it sounded like [[John Coltrane]] did it. I think that's my best compliment so far".<ref name="antic"/>{{rp|41}} The Atari 7800 version was one of the rare releases for the system to use the [[POKEY]] additional sound chip.
+
+==Reception==
+{{Video game reviews
+| Z64=98%<ref>Zzap!64 review, [[Newsfield Publications]], issue 9, page 12</ref>
+|award1Pub = ''Zzap!64''
+|award1 = Gold Medal
+}}
+''[[Computer Gaming World]]'' stated that the "quick and intense" ''Ballblazer'' "squeezes more out of the Atari 400/800 than any game I've ever seen ... spectacular graphics".<ref name="williams19850607">{{cite magazine | title=Lucasfilm Enters Home Gaming | magazine=Computer Gaming World | date=June–July 1985 | author=Williams, Gregg | page=22}}</ref> ''[[Info (magazine)|Info]]'' rated ''Ballblazer'' four stars out of five, stating that "it is undoubtedly the FASTEST game available for the 64" and recommending it to "gamers with strobe-like reflexes".<ref name="info198601">{{Cite magazine | last1=Dunnington | first1=Benn | last2=Brown | first2=Mark R. | date=December 1985 – January 1986 | url=https://archive.org/stream/info-magazine-09/Info_Issue_09_1985_Dec-Jan_1986#page/n5/mode/2up | title=C-64/128 Gallery | magazine=Info | pages=4–5, 88–93 | access-date=2019-03-19}}</ref>
+
+''[[Zzap!64]]'' gave an enthusiastic review of the Commodore 64 version of the game, their only criticism being weak sound effects. With an overall rating of 98% the game was described as being "the best sports simulation to hit the 64 yet".<ref>{{cite web|url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=009&page=013&magazine=zzap |title=View a Scan |publisher= |date= |accessdate=2019-10-28}}</ref> Commodore User were less impressed, stating that playing against the computer gave "little satisfaction" although this "improved slightly" when playing with a human opponent. The reviewer felt "inhibited by the constraints of the game". It was rated 3 out of 5 stars for value.<ref>{{Cite web|url=https://archive.org/details/commodore-user-magazine-29/page/n24/mode/1up?view=theater|title = Commodore User Magazine Issue 29|date = February 1986}}</ref>
+
+''[[Computer and Video Games]]'' gave the Atari 7800 version a 97% score in 1989.<ref>{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref> In a retrospective review, Atari 7800 Forever gave it a 3.5 out of 5, and notes that it has the best audio of any game in the entire 7800 library.<ref>{{cite web|last1=Funkmaster V|title=REVIEW: Ballblazer |website=Atari 7800 Forever |url=http://www.atari7800forever.com/ballblazerreview.html}}</ref>
+
+In a retrospective review of the Commodore 64 version from 2007, Eurogamer's Kristan Reed said "its visual approach has dated hideously" but it remained "a fascinating period piece". It was rated 6/10.<ref>{{Cite web|url=https://www.eurogamer.net/articles/ballblazer-review|title = Ballblazer|website = [[Eurogamer]]|date = 26 October 2007}}</ref>
+
+==Legacy==
+In 1990, LucasArts and [[Rainbow Arts]] released a [[Video game remake|remake]] and follow-up called ''[[Masterblazer]]'' for the [[Amiga]], [[Atari ST]], and [[MS-DOS]]. In 1997, a remake of the original titled ''[[Ballblazer Champions]]'' was released for the [[PlayStation (console)|PlayStation]].
+
+==See also==
+* ''[[Rescue on Fractalus!]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.atarimagazines.com/v3n4/lucasfilm.html 1984 ''Antic'' story on the production of ''Ballblazer'']
+* [http://www.electriceggplant.com/ballblazer.html Video from the 1984 Lucasfilm press conference introducing ''Ballblazer''] and ''[http://www.electriceggplant.com/rescue.html Rescue on Fractalus]''
+* {{MobyGames|id=/ballblazer|name=''Ballblazer''}}
+* [https://archive.org/details/games-58-1984-december/page/52/mode/2up Review] in [[GAMES Magazine]]
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 7800 games]]
+[[Category:Commodore 64 games]]
+[[Category:Fantasy sports video games]]
+[[Category:Epyx games]]
+[[Category:LucasArts games]]
+[[Category:MSX games]]
+[[Category:MSX2 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]
+[[Category:Split-screen multiplayer games]]
+[[Category:K-Byte games]]

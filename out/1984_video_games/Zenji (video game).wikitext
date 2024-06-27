@@ -1,0 +1,67 @@
+Zenji (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Zenji_%28video_game%29&oldid=1224118838
+Accessed on: 2024-06-26T16:57:56.240838
+
+
+
+------
+Zenji (video game)
+{{short description|1984 video game}}
+
+{{more citations needed|date=August 2016}}
+{{Infobox video game
+| title = Zenji
+| image = File:Zenji_Video_Game.jpg
+| alt = 
+| caption = Cover courtesy of the [[Living Computer Museum]]
+| developer = [[Activision]]
+| publisher = Activision (UK) Limited
+| series = 
+| engine = 
+| platforms = [[Atari 5200]], [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]], [[MSX]], [[ZX Spectrum]]
+| released = 1984
+| genre = [[Puzzle video game|Puzzle]]
+| modes = 
+| director = 
+| producer = 
+| designer = Matthew Hubbard <ref name="giantlist"/>
+| programmer = 
+| artist = 
+| writer = 
+| composer = 
+| arcade system = 
+}}
+
+'''''Zenji''''' is a [[puzzle video game]] designed by Matthew Hubbard and published by [[Activision]] in 1984.<ref name="giantlist"/> It was released for the [[Atari 5200]], [[Atari 8-bit computers]], [[ColecoVision]], [[Commodore 64]], [[MSX]], and [[ZX Spectrum]]. Hubbard previously wrote ''[[Dolphin (video game)|Dolphin]]'' for the [[Atari 2600]].<ref name="giantlist"/>
+
+==Gameplay==
+[[File:Zenji_(video_game)_Atari_8-bit_PAL_screenshot.png|thumb|left|Gameplay screenshot (Atari 8-bit)]]
+Zenji is a maze-based game, wherein the player controls a "disembodied, Mandarin-style head". The challenge is to connect a series of randomly rotated maze-segments in an attempt to align them with a glowing artifact, known as "the source", which acts as each maze's focal point. The player moves to each segment of the maze and attempts to rotate that portion so that the source's green light can shine into that region, signifying a correct alignment. If all  portions of the maze are connected successfully before the end of a timer, the player is awarded points, and moves on to the next stage. Successive mazes introduce greater complexity and hazards to the player's survival.<ref name="computegazette"/>
+
+==Reception==
+In the conclusion of the review for the ''[[Commodore 64]]'' edition of ''Zenji'', the author in [[Compute!]] Gazette stated, "Although final understanding of the source remains elusive, Zenji is an undeniably enjoyable game". Of note, the last paragraph of the review also stated that, "Zenji appears to be a multiplayer game...up to 8 acolytes at a time...There's no documentation concerning this, however."<ref name="computegazette"/>
+
+Gregg Williams reviewed the game for ''[[Computer Gaming World]]'', and stated that "If you like geometric puzzles and games like Othello, you should like Zenji. It is a potential classic and gives exceptional value for the money."<ref name="CGW22">{{cite magazine |last=Williams |first=Gregg |title=Micro-Reviews |magazine=Computer Gaming World |date=June–July 1985 |volume=1 |issue=22 |pages=36}}</ref>
+
+''[[Computer and Video Games]]'' rated the ColecoVision version 90% in 1989.<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+
+<ref name="computegazette">{{cite journal |title=Zenji |journal=Compute!'s Gazette |date=February 1985 |volume=03 |issue=2 |page=95 |url=https://archive.org/details/1985-02-computegazette/page/n95 |access-date=27 March 2019}}</ref>
+}}
+
+==External links==
+*{{MobyGames|id=/zenji}}
+
+[[Category:Activision games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:MSX games]]
+[[Category:Puzzle video games]]
+[[Category:ZX Spectrum games]]
+[[Category:1984 video games]]
+[[Category:Video games developed in the United States]]

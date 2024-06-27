@@ -1,0 +1,70 @@
+Zoo Keeper (1983 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Zoo_Keeper_%281983_video_game%29&oldid=1226803188
+Accessed on: 2024-06-26T16:56:13.056523
+
+
+
+------
+Zoo Keeper (1983 video game)
+{{Short description|1983 video game}}
+{{About|the 1983 arcade game|the puzzle game|Zoo Keeper (2003 video game)|other uses|Zookeeper (disambiguation)}}
+{{Infobox video game
+|title = Zoo Keeper
+|image = Zoo Keeper arcade flyer.png
+|caption = Arcade flyer
+|developer = [[Taito|Taito America]]
+|publisher = Taito America
+|designer = Keith Egging<br>John Morgan
+|programmer = John Morgan<br>Mark Blazczyk<br>Rex Battenberg<ref name=dadgum/>
+|composer = Tom Fosha
+|released = 1983
+|genre = [[Action game|Action]], [[Platform game|platform]]
+|modes = 1-2 players alternating
+|platforms = [[Arcade video game|Arcade]]
+}}
+
+'''''Zoo Keeper''''' is an [[arcade video game]] created by [[Taito|Taito America]] and released in 1983. The player controls Zeke, a [[zookeeper]], attempting to rescue his girlfriend Zelda from a zoo where the animals have escaped from their cages. The majority of the game takes place on a screen where the player builds a wall to keep animals in the zoo – jumping escaped animals to avoid contact. Two different [[platform game]] levels are interspersed every few rounds. ''Zoo Keeper'' was sold as a conversion kit for Taito's ''[[Qix]]''.<ref name="flyer">{{cite web|title=Zoo Keeper|url=http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=2437&image=1|website=The Arcade Flyer Archive|publisher=Taito America|date=1983}}</ref>
+
+==Gameplay==
+{{refimprove|date=July 2016|section}}
+''Zoo Keeper'' has three different types of stages. In the zoo stage, Zeke runs around the edges of the screen to build up an outer wall and keep the animals from escaping. Each of these stages is timed, with collectible bonus items appearing at preset points. One item is always a net which can be used for a few seconds to put animals back in the cage at the center of the screen. Multiple nets appear in later zoo stages. When time runs out, points are awarded for every animal inside the wall perimeter.
+
+Points are also earned for jumping over animals. Values grow exponentially for jumping multiple animals. It is possible get 1,000,000 points with a single jump.<ref>{{cite web|url=https://www.youtube.com/watch?v=8fHBWljtsxM |title=Zoo Keeper 1,000,000 point jump arcade gameplay |website=YouTube}}</ref>
+
+After every second zoo stage, the goal is to jump on moving platforms to reach a platform at top center, where Zelda is tied to a tree. Some platforms carry bonus items. A monkey throws down coconuts that bounce among the platforms and must be avoided.
+
+After every platform stage except the first, there is a stage with several escalators and a cage in front of each one. Zeke must cross the screen to get to each escalator, jumping over both the animals running toward him and the cage itself. An extra life is awarded for reaching Zelda, who stands at the top of the last escalator. The first bonus stage has two escalators, the second one has three, and subsequent bonus stages have four.
+
+One life is lost whenever Zeke touches an animal without a net, is hit by a coconut, or falls off the bottom edge of the screen. The game ends when all lives are lost.
+
+==Development==
+The initial design, from Keith Egging, was for a game about a crab that interacted with eggs and tadpoles that emerged from the eggs.<ref name=dadgum>{{cite web|last1=Morgan|first1=John|title=John Morgan's Story of Zoo Keeper|url=https://dadgum.com/giantlist/archive/zookeeper.html|website=dadgum.com|date=January 1, 2001}}</ref> As programmer John Morgan worked on the game, he made substantial changes and it evolved away from the original concept. He described how the art was created:
+
+{{quote|I wrote some software that would allow you to use a modified control panel (with more buttons) so that you could create art (pixel by pixel) on the screen itself, complete with animation control. We hired a part time animator to use it to design the animals, complete with great motion for the time.<ref name=dadgum/>}}
+
+Later in the game, the ledges in the platform level are invisible, which according to Morgan is a bug. Because they always move in the same pattern, it is still possible to beat the level, so he decided to leave the bug unfixed.<ref name=dadgum/>
+
+==Ports==
+''Zoo Keeper'' was not ported to contemporary home systems, but programmer Christopher H. Omarzu partially implemented an [[Atari 2600]] version which was cancelled in 1984.<ref>{{cite web|title=Atari 2600 VCS Zoo Keeper|url=http://www.atarimania.com/game-atari-2600-vcs-zoo-keeper_20317.html|website=Atari Mania}}</ref>
+
+==Legacy==
+''Zoo Keeper'' was re-released in the 2005 ''[[Taito Legends]]'' collection for [[PlayStation 2]], [[Xbox (console)|Xbox]], and [[Microsoft Windows]].
+
+The game's main character, Zeke, later appeared in a [[family-friendly]] version of Taito's mechanical game ''[[Ice Cold Beer]]'' called ''Zeke's Peak''. In this game, Zeke is a mountain climber instead of a [[zookeeper]].
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|10540|name=Zoo Keeper}}
+* [http://www.arcade-history.com/index.php?page=detail&id=3258 ''Zoo Keeper''] at Arcade History
+* [https://web.archive.org/web/20120225173627/http://www.keeperofthezoo.com/ Keeper of the Zoo], one player's quest for a world record
+
+[[Category:1983 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Platformers]]
+[[Category:Taito arcade games]]
+[[Category:Video games developed in the United States]]

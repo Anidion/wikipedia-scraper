@@ -1,0 +1,62 @@
+3-D Monster Chase
+Permalink: //en.wikipedia.org/w/index.php?title=3-D_Monster_Chase&oldid=1231140237
+Accessed on: 2024-06-26T16:56:14.268399
+
+
+
+------
+3-D Monster Chase
+{{Short description|1984 video game}}
+{{refimprove|date=October 2017}}
+
+{{Infobox video game
+|title = 3-D Monster Chase
+|image = 3Dmonster.jpg
+|developer =
+|publisher = Romik
+|designer = Dave Noonan<ref name=giantlist/>
+|engine = [[Freescape]]
+|released = 1984
+|genre = [[List of maze video games|Maze]]
+|modes = [[Single-player video game|Single-player]]
+|composer = 
+|platforms = [[Amstrad CPC]], [[ZX Spectrum]], [[Camputers Lynx]]
+}}
+
+'''''3-D Monster Chase''''' is a [[first-person (gaming)|first-person]] maze game written by Dave Noonan and released by Romik in 1984 for the [[Amstrad CPC]]<ref name=zxsc/> and [[ZX Spectrum]]. A version for [[Camputers Lynx]] titled '''''3-D Monster Craze''''' was developed by Camsoft.<ref>{{cite magazine | date=December 8, 1983 | title=LYNX SOFTWARE NOW AS CLOSE AS THE POST | url=https://archive.org/details/personal-computer-news-040-14-dec-1983/page/39/mode/1up | magazine=[[Personal Computer News]] | publisher=[[Nielsen Holdings#Verenigde Nederlandse Uitgeverijen|VNU Publications]] | issue=40 | page=40 | issn=0265-3494}}</ref>
+
+==Gameplay==
+[[File:3D Monster Chase 1.png|thumb|left|View from inside the maze (Amstrad)]]
+
+The player is trapped within the three floors of a subterranean [[maze]]. Their task is to search for the missing [[lock and key|keys]] whilst avoiding the [[monster]]s guarding them. Each time that the player finds a key and returns to the starting point, a [[bomb]] is activated and must be defused within a limited time.
+
+There are 5 skill levels, level 5 being the hardest.
+
+There are seven keys to be found. Key one has to be found first, then returned to the players starting place. Immediately after returning the key the first bomb starts ticking. If the player does not find the bomb in time then they will lose a life, if they find the bomb in time, they will then have to return to their starting place. Now the player must find key one and  key two before returning to their starting place. Immediately after returning a new bomb begins ticking. The sequence repeat with a new key being added until the player has collected all seven keys.
+
+At the top of the screen there is a radar screen which shows the players position as a solid white dot and the monsters positions as flashing white dots.
+
+The player starts the game with a limited number of grenades, which if used at the correct range will destroy a monster. The number of grenades remaining are shown on the top left of the screen.
+
+The three floors are named Zeta, Alpha & Delta. The player starts on Zeta floor. The keys and the bomb can be on any floor. When they are wandering around the maze they may occasionally see a key with a higher number than the one they are looking for. The player can only pick up the keys in numerical order. To change floors they will need to use lifts. A red coloured lift will take the player down, while a blue coloured lift will take them up. (Taken from the inlay text.)<ref>{{cite web| title=3D Monster Chase | website=CPCWiki | date=2010-09-03|url=http://www.cpcwiki.eu/index.php/3D_Monster_Chase}}</ref>
+
+==Reception==
+''[[Sinclair User]]'' rated ''3-D Monster Chase'' only 3 out of 10, with the comment "a maze game can be exciting, skilful, and even original. 3D Monster Chase is none of those things."<ref>{{cite magazine|journal=Sinclair User|year=1984|issue=24|page=14|url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue024/Supplement/SinclairUser024Supplement14.jpg |department=Soft Centre |title=3-D Monster Chase}}</ref> In the 3rd issue of ''[[Crash (magazine)|Crash]]'' magazine, the reviewer called ''3-D Monster Chase'', "good value for money" (it was £6.99).<ref>{{cite magazine|journal=Crash|year=1984|issue=3|page=69|url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue03/Pages/Crash0300069.jpg |department=Living Guide to Spectrum Software |title=3-D Monster Chase}}</ref> ''ZX Computing'' awarded ''3-D Monster Chase'' 70% for value, describing it as a "good game, but not particularly original".<ref>{{cite magazine|journal=ZX Computing|date=April–May 1984|page=100|url=https://worldofspectrum.org/archive/magazines/zx-computing/n/0/1984/4/0# |department=The Soft Touch |title=3D Monster Chase}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="zxsc">{{cite web |title=3-D Monster Chase |url=https://spectrumcomputing.co.uk/index.php?cat=96&id=3249 |website=ZX Spectrum Computing}}</ref>
+<ref name="giantlist">{{cite web |title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first=James}}</ref>
+}}
+
+==External links==
+* [http://www.cpcwiki.eu/index.php/3D_Monster_Chase ''3-D Monster Chase''] at The CPC Wiki
+
+{{DEFAULTSORT:3-D Monster Chase}}
+[[Category:1984 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Camputers Lynx games]]
+[[Category:ZX Spectrum games]]
+[[Category:Maze games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Single-player video games]]

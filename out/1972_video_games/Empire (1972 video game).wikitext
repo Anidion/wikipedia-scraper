@@ -1,0 +1,51 @@
+Empire (1972 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Empire_%281972_video_game%29&oldid=1161053800
+Accessed on: 2024-06-26T16:47:21.668121
+
+
+
+------
+Empire (1972 video game)
+{{short description|1972 video game}}
+{{For|other games with the name|Empire (disambiguation)#Gaming}}
+{{Infobox video game
+|title = Empire
+|image =
+|publisher = 
+|designer = [[Peter Langston]]<br>Ben Norton
+|engine =
+|released = 1972, 1984, 2003
+|genre = [[4X]], [[Computer wargame|wargame]]
+|modes = 
+|platforms = [[PDP-11/45]] (1972), [[HP2000]] (1972), [[HP3000]] (1984), [[MS-DOS]], [[Amiga]], [[Macintosh]], [[Windows]], [[Linux]] (2003)
+}}
+
+'''''Empire''''' is a [[4X]] [[computer wargame]] created in 1972 by [[Peter Langston]], taking its name from a [[Reed College]] board game of the same name. It was initially created by Langston in BASIC on an [[HP2000]] [[minicomputer]] at [[Evergreen State College]]. When the host computer was retired, the [[source code]] to the game was lost. Subsequently, two other authors each independently wrote a new version of the game, both named ''Empire''. In the decades since, numerous other versions of ''Empire'' have been developed for a wide variety of platforms.
+
+The game is [[turn-based]], with players giving orders at their convenience, and in some versions then executed simultaneously by the game server at set intervals ranging from a few hours to once per day. The [[Virtual world|game world]] consists of "sectors", which may be designated as agricultural, industrial, etc. There are dozens of unit types requiring a variety of raw and manufactured materials for their creation. "Blitz" games may last a few hours, typical games a few months, and some larger games up to a year.
+
+==Gameplay==
+''Empire'' is a [[turn-based]] [[4X]] [[Wargame (video games)|wargame]], where players command armies of units which they use to explore the game world, control territory, and attack opponents. The [[Virtual world|game world]] consists of "sectors", which may be designated as agricultural, industrial, etc. Control of these sectors grants the player a variety of raw and manufactured materials, which they may use to construct dozens of unit types. In each round, the players submit their commands for the activities of their units to the central server, which executes all of the commands either simultaneously or in a sequence. Rounds can last anywhere from a few hours to a day. As such, a full game can take much longer than modern 4X games, depending on the size of the game world; "Blitz" games may last a few hours, while typical games last months and larger games can take up to a year to complete.
+
+==Development==
+''Empire'' was created in 1972 by [[Peter Langston]], taking its name from a [[Reed College]] board game of the same name.<ref name="empire_reed">[http://empire-game.org/empire/history/history-resources/langston-empire/ Langston on Empire vs Empire], Peter Langston, 2011-01-15</ref> It was initially created by Langston in [[BASIC]] on an [[HP2000]] [[minicomputer]] at [[Evergreen State College]].<ref name="empire_origin">{{cite web|url=http://wolfpackempire.com/peter.langston-on-birthdate.txt|format=TXT|title=Subject: The birthdate of Empire|website=Wolfpackempire.com|accessdate=24 May 2018}}</ref> Between 1972 and 1974, Langston expanded on the game, with additions by Ben Norton, Chuck Douglas, Mike Rainwater, and several others.<ref name="WPE">{{cite web |url=http://www.wolfpackempire.com/history.html |title=Wolfpack Empire - History |publisher=Wolfpack Empire |accessdate=2017-01-20}}</ref> When the host computer was retired, the original game was lost. Subsequently, two other authors each independently wrote a new version of the game, both named ''Empire'', and several ports of the game were created for other computer systems, such as ''PSL Empire'' for the [[PDP 11|PDP 11/70]], and a version with added weather effects for the [[VAX-11]].<ref name="WPE"/><ref name="GS">{{cite web |url = http://www.graysage.com/cg/Compilers/index.html |title = Compilers and Programming Languages |first = Chris |last = Gray |date = 2005-04-24 |website=GraySage.com}}</ref> Langston, now at [[Harvard University]], recreated the game in [[C (programming language)|C]], and shared the source code with a few other developers; disliking the changes they made, he stopped doing so, maintaining the canonical version of the game until 1985, when he stopped development.<ref name="WPE"/> Around that time, he gave the source code to a group including Dave Pare, who was attempting to reverse engineer the game.<ref>{{cite web|url=http://www.wolfpackempire.com/peter.langston-on-source.txt|format=TXT|title=Subject: Re: The birthdate of Empire|website=Wolfpackempire.com|accessdate=24 May 2018}}</ref> Pare then adapted the game into a version named ''UCSD Empire'' after the University of California at San Diego, and the following year into ''BSD Empire'' with several additions such as planes.<ref name="WPE"/>
+
+Numerous other versions were created over the next decade for various computer types, including ''KSU Empire'', ''Xerox Development Environment (XDE) Empire'' on [[Xerox]] [[computer workstation]]s, ''PC Empire'' by Gordon Storga for [[DOS]], ''Amiga Empire'' for the [[Amiga]], and ''Wolfpack Empire''.<ref name="WPE"/><ref name="GS"/> In 1984, Ben Norton wrote a version titled ''Empire Classic'' in [[Pascal (programming language)|Pascal]] on an [[HP3000]] and released to the HP3000 Contributed Library, which became the definitive version until the ''Wolfpack Empire'' project began in 1996.<ref name="WPE"/><ref name="Floogle">{{cite web|url=http://empire.floogle.net/|title=Index of /|website=Empire.floogle.net|accessdate=24 May 2018}}</ref> In 2003, the game was ported to the [[C++]] programming language for the [[Linux]] operating system, and a subsequent Java client/server version was produced.<ref name="Floogle"/>
+
+==See also==
+* [[Empire (1977 video game)|''Empire'' (1977 video game)]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* ''[http://empire.openmpe.com/empire/ Empire Classic]'' {{Webarchive|url=https://web.archive.org/web/20180506035815/http://empire.openmpe.com/empire/ |date=2018-05-06 }}
+* ''[http://www.wolfpackempire.com/ Wolfpack Empire]''
+
+[[Category:1972 video games]]
+[[Category:4X video games]]
+[[Category:HP 3000 games]]
+[[Category:Linux games]]
+[[Category:Computer wargames]]
+[[Category:Public-domain software with source code]]
+[[Category:Video games developed in the United States]]

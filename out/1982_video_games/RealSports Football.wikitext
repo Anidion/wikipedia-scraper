@@ -1,0 +1,72 @@
+RealSports Football
+Permalink: //en.wikipedia.org/w/index.php?title=RealSports_Football&oldid=1224499472
+Accessed on: 2024-06-26T16:53:56.167684
+
+
+
+------
+RealSports Football
+{{short description|1982 video game}}
+{{Infobox video game
+|title = RealSports Football
+|image =RealSports Football coverart.png
+|caption = 
+|developer = [[Atari, Inc.]]
+|publisher = Atari, Inc.
+|designer = Robert Zdybel
+|programmer = '''Atari 2600'''<br>Robert Zdybel<br>'''Atari 8-bit / 5200'''<br>Jim Heuther
+| series = ''[[RealSports]]''
+|released = {{vgrelease|NA|December 1982<ref>{{cite journal |journal=[[Computer Entertainer|The Video Game Update]] |title=Availability Update |date=December 1982 |volume=1 |issue=9 |issn=0890-2143 |url=https://retrocdn.net/images/4/48/ComputerEntertainer_US_Vol.1_09.pdf |accessdate=February 27, 2021}}</ref>}}
+'''1983:''' Atari 8-bit, 5200
+|genre = [[Sports video game|Sports]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]]
+}}
+
+'''''RealSports Football''''' is a 1982 [[American football]] [[sports video game]] made by [[Atari, Inc.]] for the [[Atari 2600]]. Versions for the [[Atari 5200]] and [[Atari 8-bit computers]] followed in 1983. It is part of the ''[[RealSports]]'' series of games.<ref name="Retro Gamer" />
+
+''RealSports Football'' presents a simplified version of football for play. Players in the game cannot go out of bounds or fumble the football, and there are no penalties in the game. A [[touchdown]] automatically scores 7 points; there is no kicking for extra points.
+
+==Gameplay==
+{{Unreferenced section|date=July 2020}}
+
+[[Image:RealSports_Football_Screenshot.png|thumb|left|upright=2|Yellow's linebacker and the score are not visible because of a flickering effect on the Atari 2600.]]
+
+Each game is 15 minutes long and is played on a standard 100-yard football field. There are no kickoffs, and each side is given five players. The team on the offensive side of the ball has a [[quarterback]], a [[wide receiver|flanker]], and three [[offensive line]]men (a [[center (American football)|center]] and two [[guard (American football)|guards]]); the user controls the one with the ball. The team on defense has two [[defensive line]]men, two [[cornerback]]s, and one [[linebacker]], which the user controls.
+
+On offense, the user is given these choices for plays: pass left, pass right, run or kick. The game does not recognize a handoff (the usual method of a running play) and has no [[running back]], although the quarterback is allowed to scramble. After the play is selected, the user presses the joystick button to snap the ball and start play. Once the quarterback lets go of the ball on a passing play, user control immediately moves to the receiver. To pass or kick the ball, the user presses the joystick button, and to navigate the field, the user moves the joystick.
+
+In kicking, the game does not differentiate a [[Punt (gridiron football)|punt]] from a [[Field goal (football)|field goal]] kick. Also, there are no kick returns — where the ball lands on a punt are where the opponent starts to play, unless it [[touchback|enters the end zone]] or counts as a field goal, in which case play starts on the 20-yard line.
+
+On defense, there are more choices: full-out [[blitz (American football)|blitz]], left cornerback cover, right cornerback cover, and [[Prevent defense|prevent]] (both cornerbacks deep). [[Interception]]s are incorporated into the game, but play is called dead when one occurs, and possession is turned over to the interceptor.
+
+Seven points are scored for a [[touchdown]], three for a successful field goal, and two for a [[safety (gridiron football score)|safety]]. After each score, the opposing team gains possession at their own 20-yard line. The scoreboard shows a maximum score of 99 per team, but hitting that limit does not stop the game.
+
+The Novice and Expert switches affect the speed of the players on each side of the ball, as well as receivers' ability to catch a pass if the player is human.
+
+== Development ==
+The 2600 version's programming was assigned to Rob Zdybel. Atari asked him that the game should display 22 players at once, but according to Zdybel that was impossible if the players were to move. The 5200 and Atari 8-bit versions were handled by Jim Huether, who wanted to work on a football game since he joined Atari. Development of these versions took about one year, Huether did the design, the programming, the sounds, and even the first draft of the manual himself. He had to demonstrate the game to [[Steven Spielberg]] and the senior management of Atari when Spielberg visited Atari.<ref name="Retro Gamer">{{cite journal |last=Jainschigg |first=John |title=The History of RealSports |journal=[[Retro Gamer]] |issue=183 |date=August 2018 |pages=44–49 |publisher=[[Future plc]]}}</ref>
+
+==Reception==
+''RealSports Football'' received a Certificate of Merit for "1984 Best Sports Videogame" at the 5th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= January 1984 |title= Arcade Alley: The Arcade Awards, Part 1 |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 10|pages= 40–42|issn= 0147-8907}}</ref>{{rp|42}}
+
+==Legacy==
+The [[intellectual property]] rights for the game passed to [[Hasbro Interactive]] and were subsequently bought by [[Infogrames]] in 2001, which was subsequently re-named Atari SA. In 2018 the game was re-released by AtGames on their ''Flashback portable'' platform.<ref>{{Cite web|last=Loguidice|first=Bill|date=2018-11-05|title=Atari Flashback Portable Game Player (2018): The Official Game List|url=https://armchairarcade.com/perspectives/2018/11/04/atari-flashback-portable-game-player-2018-the-official-game-list/|access-date=2020-07-22|website=Armchair Arcade|language=en-US}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{atarimania|id=4314}}
+*{{atarimania|id=18322}}
+
+{{RealSports series}}
+
+[[Category:1982 video games]]
+[[Category:American football video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:North America-exclusive video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]

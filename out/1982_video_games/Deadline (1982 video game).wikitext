@@ -1,0 +1,96 @@
+Deadline (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Deadline_%281982_video_game%29&oldid=1224116987
+Accessed on: 2024-06-26T16:53:16.149379
+
+
+
+------
+Deadline (1982 video game)
+{{More footnotes|date=May 2009}}
+{{Infobox video game
+|title     = Deadline
+|image     = Deadline box art.jpg
+|caption   =
+|developer = [[Infocom]]
+|publisher = Infocom
+|designer  = [[Marc Blank]]
+|engine    = [[Z-machine]]
+|released  = 1982
+|genre     = [[Murder Mystery | Mystery]], [[Interactive fiction]]
+|modes     = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Amstrad PCW]], [[Apple II]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[Mac (computer)|Mac]], [[Osborne 1]], [[TI-99/4A]], [[TRS-80]]
+}}
+
+'''''Deadline''''' is an [[interactive fiction]] [[detective]] video game published by [[Infocom]] in 1982. Written by [[Marc Blank]], it was Infocom's third game. It was released for the [[Amstrad CPC]], [[Apple II series|Apple II]], [[Atari 8-bit computers]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]), [[Osborne 1]], [[TRS-80]], and later for the [[Amiga]] and [[Atari ST]].
+
+''Deadline'' was Infocom's first mystery game, their first non-''[[Zork]]'' game, and the game that started their tradition of [[feelies]]. The number of [[Non-player character|NPCs]], the independence of their behavior from the player's actions, and the [[parser]]'s complexity were considered revolutionary at the time of the game's release.{{Not verified in body|date=January 2023}} Also innovative was its use of "feelies"; physical documents that came with the game to help the player solve the mystery, resulting in its more expensive cost relative to other text adventures of the time.<ref>{{cite web |url=https://www.filfre.net/2012/07/deadline/ |title=Deadline |last=Maher |first=Jimmy |date=July 11, 2012 |website=The Digital Antiquarian |publisher=<!--Self-published--> |access-date=January 24, 2023}}{{Self-published source|date=January 2023}}</ref>
+
+==Plot==
+[[File:Deadline (video game) screenshot.jpg|thumb|right|The beginning of the game]]
+The player's character in ''Deadline'' is an unnamed police [[detective]], summoned to a sprawling [[Connecticut]] estate to investigate the apparent [[suicide]] of [[wealthy]] [[industrialist]] Marshall Robner.<ref name=times>{{citation |url=http://www.cs.uwo.ca/Infocom/Articles/time83.html |magazine=[[Time (magazine)|Time]] |title=Putting Fiction on a Floppy |date=December 1983 |archive-url=https://web.archive.org/web/20111106185041/http://www.csd.uwo.ca/Infocom/Articles/time83.html |archive-date=2011-11-06}}</ref>
+
+The [[suspect]]s, who walk around the [[Estate (land)|estate]] pursuing their own agendas during your investigation, are:
+#Leslie Robner, the victim's wife
+#George Robner, the victim's son
+#Mr. McNabb, the [[gardener]]
+#Mrs. Rourke, the [[Housekeeper (domestic worker)|housekeeper]]
+#Mr. Baxter, Robner's [[business partner]]
+#Ms. Dunbar, Robner's [[secretary]]
+
+==Gameplay==
+New [[Command (computing)|commands]] were implemented to suit the game's detective theme: the player can {{mono|accuse}} or even {{mono|arrest}} any of the suspects at any time. A well-timed accusation can cause an unnerved suspect to reveal previously concealed information. For an arrest to stick, however, the player must possess hard [[evidence]] of the three basics: [[Means, motive, and opportunity|motive, method, and opportunity]]. Without these, the game ends with a description of why the presumed culprit was released. The standard {{mono|examine}} and {{mono|search}} commands are present, but the player can also {{mono|[[fingerprint]]}} objects or ask the invaluable Sgt. Duffy to {{mono|analyze}} them.
+
+There are only two ways for the player to die,<ref name="cg198502">{{cite news |url=https://archive.org/stream/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US#page/n7/mode/2up |title=Hot Gossip |work=Computer Games |date=February 1985 |access-date=15 January 2015 |pages=8}}</ref> but Infocom gave ''Deadline'' a difficulty rating of "Expert", largely due to the abundance of evidence and [[wikt:wild-goose chase|false leads]] to be sorted out within a short timespan.
+
+==Development==
+While writing ''Deadline'', Marc Blank was strongly inspired by the 1930s out-of-print books written by [[Dennis Wheatley]]. The working title of the game was "Who Killed Marshall Robner", a reference to Wheatley's ''[[Who Killed Robert Prentice?]]''. Blank wanted the player to feel like a [[detective]] while playing the game, and designed the game and its [[feelies]] around that. Because ''Deadline'' displayed a timer rather than the movecount and score that other Infocom games of its time showed, the game needed a custom interpreter, which made porting the game to different computers more difficult.<ref>{{cite book|title=Game Design Theory & Practice|version=Second Edition|publisher=Worldware Publishing, Inc.|last=Rouse III|first=Richard|author-link=Richard Rouse III|year=2005|isbn=1-55622-912-7|pages=184, 186}}</ref>
+
+Blank couldn't include all of the game's text in the limited 80[[kilobyte|KB]] of disk space. Working with a newly hired [[advertising agency]], Infocom created physical items to provide information not included within the digital game itself. These items were:
+
+#A police folder in a pouch containing an [[Casebook|Inspector's Casebook]]<ref name=times/>
+#A plastic bag with 3 white pills found near Marshall Robner's body
+#Notes from police interviews with Leslie and George Robner, Mr. Baxter, Ms. Dunbar, and Mrs. Rourke
+#''[[corpus delicti]]'' (summary of findings from the [[coroner]]'s examination)
+#A letter from Mr. Coates, Marshall Robner's [[lawyer]], to the [[Chief of police]]
+#An official [[Memorandum|memo]] from G.K. Anderson of the [[Lakeville, Connecticut]] police department
+#A [[Laboratory report|lab report]] on the teacup Robner drank from before his death
+#A [[Photograph|photo]] of the murder scene, complete with white [[chalk outline]]
+
+In later "grey-box" editions of ''Deadline'', many of these documents were incorporated into the Casebook, rather than existing as separate papers.
+
+==Reception==
+Although ''[[Computer Gaming World]]''{{'}}s reviewer disliked the solution to ''Deadline''{{'}}s mystery, she praised the game's realism, documentation, extensive command vocabulary, and the frustration involved in both finding the killer and presenting enough evidence for a conviction.<ref>{{cite magazine |last=Maloy |first=Deirdre |url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=5 |title=MicroReviews: Deadline |magazine=[[Computer Gaming World]] |volume=2 |issue=4 |date=July–August 1982 |page=34 |access-date=10 July 2017}}</ref> ''[[BYTE]]'' called the game "fascinating" and "great fun", calling the multiple endings "a radical departure from the prototypical mystery".<ref name="morgan198212">{{cite magazine |author=Morgan, Chris |url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n161/mode/2up |title=Deadline |magazine=[[Byte (magazine)|BYTE]] |volume=7 |issue=12 |date=December 1982 |pages=160–161 |access-date=19 October 2013}}</ref> ''[[PC Magazine]]'' called ''Deadline'' "of the highest quality. It is thoroughly researched and tested, and it is virtually flawless".<ref name="pc198212">{{cite magazine |author=Cook, Richard |title=Deadline |magazine=[[PC Magazine]] |volume=1 |issue=8 |date=December 1982 |page=110}}</ref> ''[[The New York Times Book Review]]'' also mentioned the narrative and participatory character of the game.<ref>Rothstein, Edward, ''Reading and Writing: Participatory Novels'', The New York Times Book Review, May 8, 1983.</ref> ''K-Power'' rated ''Deadline'' 8 points out of 10, stating that the game "is very exciting, is as good, or better, than ''Zork'', and will bring long hours of enjoyment and, best of all, intrigue".<ref name="morris198402">{{cite magazine |author=Morris, Anne |url=https://archive.org/stream/k-power-magazine-01/K-Power_Issue_01_1984_Feb#page/n61/mode/2up/search/zork |title=Deadline |magazine=K-Power |issue=1 |date=February 1984 |page=60 |access-date=16 January 2015}}</ref>
+
+The game received an award for "Best Computer Adventure" at the 4th annual [[Arkie Awards]], where judges attributed the "richness and realism" of the game's dialogue to the advanced text parser that allows [[natural language]] input rather than the "telegraphic verb-noun phrases that other such disks generally employ".<ref>{{cite magazine |last1=Kunkel |first1=Bill |author-link1=Bill Kunkel (journalist) |last2=Katz |first2=Arnie |author-link2=Arnie Katz |title=Arcade Alley: The Best Computer Games |magazine=[[Video (magazine)|Video]] |publisher=Reese Communications |volume=6 |issue=12 |date=March 1983 |pages=32–33 |issn=0147-8907}}</ref>{{rp|32}} In 1996, ''Computer Gaming World'' listed ''Deadline'' at #104 among the top 150 best games of all time, calling it "a tough text adventure that placed you in the midst of an intricate police procedural and let you wander around a mansion."<ref name="cgw199611best">{{cite magazine |url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 |title=150 Best Games of All Time |magazine=Computer Gaming World |date=November 1996 |access-date=25 March 2016 |pages=64–80}}</ref>
+
+===Reviews===
+*''The V.I.P. of Gaming Magazine'' #3 (April/May, 1986)
+
+==See also==
+*[[The Witness (1983 video game)|''The Witness'']] (1983)
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IFDB|title=Deadline}}
+*[http://infocom.elsewhere.org/gallery/deadline_grey/deadline.html Packaging and manual]
+*[http://graeme.50webs.com/infobugs/deadline.htm Infocom Bugs List entry]
+
+{{Infocom games}}
+
+[[Category:1980s interactive fiction]]
+[[Category:1982 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:CP/M games]]
+[[Category:Detective video games]]
+[[Category:Infocom games]]
+[[Category:Video games about police officers]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Connecticut]]
+[[Category:Single-player video games]]

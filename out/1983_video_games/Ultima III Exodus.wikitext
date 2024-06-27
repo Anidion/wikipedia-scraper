@@ -1,0 +1,226 @@
+Ultima III: Exodus
+Permalink: //en.wikipedia.org/w/index.php?title=Ultima_III%3A_Exodus&oldid=1226253089
+Accessed on: 2024-06-26T16:56:06.185993
+
+
+
+------
+Ultima III: Exodus
+{{Infobox video game
+|title = Ultima&nbsp;III: Exodus
+|image = Ultima&nbsp;III Exodus cover.jpg
+|developer = [[Origin Systems]]
+|publisher = Origin Systems
+|designer = [[Richard Garriott]]
+|composer = Kenneth W. Arnold<br>[[Tsugutoshi Gotō]] (NES)
+|series = ''[[Ultima (series)|Ultima]]''
+|engine = 
+|platforms = [[Amiga]], [[Apple II]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[FM-7]], [[MSX2]], [[Macintosh]], [[NEC PC-8801]], [[ PC-98]], [[Nintendo Entertainment System|NES]], [[Sharp X1]]
+|released = August 23, 1983
+|genre = [[Role-playing video game|Role-playing]]
+|modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Ultima III: Exodus''''' (originally released as '''''Exodus: Ultima III''''') is the third game in the series of ''[[Ultima (series)|Ultima]]'' [[role-playing video game]]s. [[List of Ultima characters#Exodus|Exodus]] is also the name of the game's principal antagonist. It is the final installment in the "Age of Darkness" trilogy. Released in 1983,<ref>([[United States Copyright Office|USCO]]# PA-317-503)</ref> it was the first ''Ultima'' game published by [[Origin Systems]]. Originally developed for the [[Apple II series|Apple II]], ''Exodus'' was eventually ported to 13 other platforms, including a [[Nintendo Entertainment System|NES/Famicom]] [[Video game remake|remake]].
+
+''Ultima III'' revolves around Exodus, the spawn of [[Mondain]] and [[Minax (Ultima)|Minax]] (from ''[[Ultima I]]'' and ''[[Ultima II]]'', respectively), threatening the world of Sosaria. The [[player character]] travels to Sosaria to defeat Exodus and restore the world to peace.<ref name="u3manual">{{cite book | publisher=Origin Systems | year=1983 | title=Ultima&nbsp;III: Exodus Book of Play}}</ref> ''Ultima&nbsp;III'' hosts further advances in graphics, particularly in animation, adds a musical score, and increases the player's options in gameplay with a larger party and more interactivity with the game world.
+
+''Ultima III'' was followed by ''[[Ultima IV: Quest of the Avatar]]'' in 1985.
+
+==Gameplay==
+''Exodus'' featured revolutionary graphics for its time, as one of the first computer RPGs to display animated characters. Also, ''Exodus'' differs from previous games in that players now direct the actions of a [[Party (role-playing games)|party]] of four characters rather than just one.<ref>{{cite magazine |title=The Ultima Time Line |magazine=[[Next Generation (magazine)|Next Generation]]|issue=39 |publisher=[[Imagine Media]] |date=March 1998|page=65}}</ref> During regular play the characters are represented as a single player icon and move as one. However, in battle mode, each character is represented separately on a tactical battle screen, and the player alternates commands between each character in order, followed by each enemy character having a turn. This differs from the two previous games in the ''Ultima'' series in which the player is simply depicted as trading blows with one opponent on the main map until either is defeated. Enemies on the overworld map can be seen and at least temporarily avoided, while enemies in [[dungeon crawl|dungeons]] appear randomly without any forewarning.
+
+The party of four that a player uses can be chosen at the beginning of the game. There is a choice between 11 [[Character class|classes]]: [[Warrior (character class)|Fighter]], [[Paladin (character class)|Paladin]], [[Cleric (character class)|Cleric]], [[Wizard (character class)|Wizard]], [[Ranger (character class)|Ranger]], [[Thief (character class)|Thief]], Barbarian, Lark, Illusionist, [[Druid (character class)|Druid]], and Alchemist. The player also chooses from among five [[Character race|races]]: Human, [[Elves in fiction|Elf]], [[Dwarf (mythology)|Dwarf]], Bobbit, or Fuzzy. Players then assign points to their [[Statistic (role-playing games)|statistics]]: Strength, Dexterity, Intelligence, and Wisdom. The races determine limitations on maximum stat growth, and thus (in the case of Intelligence and Wisdom) maximum [[Incantation|spellcasting]] ability.<ref name="u3manual" />
+
+Character classes differ in terms of fighting skill, magical abilities, and thieving abilities, with varying degrees of proficiency in each. Fighters, for example, can use all weapons and armor, but lack thieving or magic abilities; clerics can use up to maces and chain armor, and all clerical spells; Alchemists can use only daggers and cloth armor, and half wizard spells and half thieving abilities.<ref name="u3manual" />
+
+Each character begins at [[Experience point|Level]] 1 and increases individually.<ref name="u3manual" /> The maximum effective level for characters is 25. Beyond this point the level will continue to increase; however the number of [[Health (game terminology)|hit points]] is fixed at 2550. Maximum hit points for a character can be calculated by the following formula: HP = 100 * L + 50 (where L is the current level of the character). When a character has gained enough experience points, they must transact with Lord British for the character to level up.
+
+Aside from the ability to talk to townspeople there are other commands that can be used on them. Some of the commands a player can use are bribe, steal, and fight. Bribing can be used to make certain guards go away from their post. Steal can be used on townspeople and some enemies, but can result in conflict with townspeople if caught. A player can choose to fight a townsperson, but it will prompt the guards to chase after the player characters. The guards always come in parties of eight and are very difficult to defeat. You can also choose to fight Lord British, but he cannot be killed, thus resulting in a long, drawn-out fight that the player will ultimately lose. [[Lord British]] can be temporarily killed by cannon fire from a ship in the castle moat, but exiting and re-entering the castle restores him.
+
+[[File:Ultima 3 screenshot.png|thumb|right|The player party is engaged in combat (Apple II version).]]
+
+Unlike the two previous ''Ultima'' games, which had wire-frame [[First-person (video games)|first-person]] dungeons, ''Exodus'' dungeons are solid-[[3D computer graphics|3D]] in appearance and integrated into the game's plot.<ref name="u3manual" /> Dungeons are necessary to obtain certain marks that are needed to finish the game. Each dungeon has 8 [[Level (video games)|levels]], and the deeper the level the more [[Difficulty level|challenging]] the enemies. Note: the monsters that are spawned in dungeons are not based on character level as the overworld monsters are; rather, they are based on the dungeon level they are encountered in, so going too deep into certain dungeons may be too hard for characters in the early stages of the game.  One can find many chests (with gold, weapons, and armor) inside dungeons, but many of them are trapped. Aside from chests and marks, one can find fountains in dungeons: some heal, some cure, and some poison. Peering at gems allows the player to see a map of a given dungeon level; torches or light-casting spells are necessary to be able to see inside dungeons.<ref name="u3manual" />
+
+There are three modes of travel in the game: on foot, horseback, and boat.<ref name="u3manual" /> Getting around on foot is slow and can often lead to monsters catching up to the player character. Horseback gives the player character the advantage of moving faster while consuming less food, making getting away from unwanted fights easier. Getting a boat requires players to reach a certain level so that pirate ships begin appearing. Once a pirate ship is defeated, the boat belongs to the player. Obtaining a boat is necessary in order to visit the island of Ambrosia, and to reach Exodus and thus win the game.
+
+By denying the player the ability to see what's behind mountain peaks, forests, and walls, the overland maps contain many small surprises such as hidden treasure, secret paths, and out-of-the-way informants. The look of the game is no longer based on certain characteristics of the Apple II hardware; it is rather a carefully designed screen layout.{{citation needed|date=May 2018}}
+
+Beating the game requires the player to get all four marks and all four prayer cards. At the altar of Exodus, the player character must insert the cards in a particular order to defeat Exodus.
+
+==Plot==
+After ''[[Ultima&nbsp;II: The Revenge of the Enchantress]]'' was set on Earth,<ref>{{cite book | publisher=Sierra On-Line | year=1982 | title=Ultima II: The Revenge of the Enchantress Manual}}</ref> the story of ''Exodus'' returns the player to [[Sosaria]], the world of ''[[Ultima I]]''.<ref>{{cite video game|title=Ultima I: The First Age of Darkness Manual|developer=Origin Systems |date=1986 |isolang=en }}</ref> The game is named for its chief villain, Exodus, a creation of Minax and Mondain that the series later describes as neither human nor machine. Although a [[demon]]ic figure appears on the cover of the game, Exodus turns out to something like a computer (possibly an [[artificial intelligence]]) and to defeat him the player has to acquire four magic (punch)cards and insert them into the mainframe in a specific order.<ref>{{cite web|url=http://www.hardcoregaming101.net/ultima-iii-exodus/|title=Ultima&nbsp;III: Exodus|date=12 December 2012}}</ref>
+
+[[File:Ultima_3_screenshot,_DOSBox,_Exodus_Project_upgrade.jpg|thumb|left|The overhead view of Ultima III, showing Castle Death and the Great Earth Serpent (PC version). The improved graphics come from the Ultima 3 Upgrade Patch, found on ''The Exodus Project'' website.]]
+
+At the beginning of the game, Exodus is terrorizing the land of Sosaria from his stronghold on the Isle of Fire. The player is summoned by [[Lord British]] to defeat Exodus, and embarks on a quest that takes him to the lost land of Ambrosia, to the depths of the dungeons of Sosaria to receive powerful magical [[Human branding|branding]] marks and to find the mysterious [[Time Lord (Ultima)|Time Lord]], and finally to the Isle of Fire itself to confront Exodus in his lair.<ref name="u3manual" />
+
+The game ends immediately upon Exodus' defeat; but unlike many games in the genre, Exodus cannot simply be killed in battle by a strong party of adventurers, but only through [[Puzzle video game|puzzle]]-solving and by paying attention to the clues given throughout the game. At the end of the game, players were instructed to "REPORT THY VICTORY!" to Origin. Those who did so received a certificate of completion autographed by [[Richard Garriott]].{{citation needed|date=May 2018}}
+
+Places in the game such as Ambrosia and the Isle of Fire make appearances in later games, such as ''[[Ultima&nbsp;VII]]'' and ''[[Ultima Online]]''.{{citation needed|date=May 2018}}
+
+==Development==
+''Ultima III'' was the first game in the series published by [[Richard Garriott]]'s company [[Origin Systems]].<ref name="garriott198807">{{cite magazine | title=Lord British Kisses and Tells All / as told by His Royal Highness, High King of Britannia | magazine=Computer Gaming World | date=July 1988 | access-date=3 November 2013 | author=Garriott, Richard | url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=49 | pages=28}}</ref> Ports appeared on many different systems.
+
+{|class="wikitable sortable"
+|-
+!System
+!Release date
+!Publisher
+!Notes
+|-
+|[[Apple II]]
+|1983
+|[[Origin Systems]]
+|
+* Original version.
+* Complete soundtrack is included; requires the optional [[Mockingboard]] expansion card.
+|-
+|[[Atari 8-bit]]
+|1983
+|Origin Systems
+|
+* Complete soundtrack is included.
+* Most of the code is identical to the original Apple version, as both systems are [[6502]]-based.
+|-
+|[[Commodore 64]]
+|1983
+|Origin Systems
+|
+* Complete soundtrack is included.
+* Most of the code is identical to the original Apple version, as both systems are 6502-based.
+* Unlike the original, dungeons are shown in black-and-white.
+|-
+|[[IBM PC]]
+|1983
+|Origin Systems
+|
+* Does not contain music.
+* Designed for a 4.77&nbsp;MHz processor; requires slowdown measures on faster systems to remain playable.
+|-
+|[[Amiga]]
+| 1986
+| Origin Systems
+|
+* More colorful graphics than the original.
+* Mouse support is present.
+* Complete soundtrack is included.
+|-
+|[[Atari ST]]
+|1986
+|Origin Systems
+|
+* More colorful graphics than the original.
+* Mouse support is present.
+* Complete soundtrack is included.
+|-
+|[[Apple Macintosh|Macintosh]]
+|1986
+|Origin Systems
+|
+* The game is restricted to black and white. Sound effects are supported only on very early Mac models.
+* Mouse support is present
+|-
+|[[PC-8801]]
+|1986
+|Starcraft<sup>*</sup>
+|
+* Came in a small box just large enough to fit the 5.25" disk and the translated maps.
+* Rather than a cloth map, it included a jigsaw puzzle that formed the map.
+|-
+|[[PC-9801]]
+|1986
+|Starcraft<sup>*</sup>
+|
+* Came in a small box just large enough to fit the 5.25" disk and the translated maps.
+* Rather than a cloth map, it included a jigsaw puzzle that formed the map.
+|-
+|[[FM-7]]
+|1986
+|Starcraft<sup>*</sup>
+|
+* Came in a small box just large enough to fit the 5.25" disk and the translated maps.
+* Rather than a cloth map, it included a jigsaw puzzle that formed the map.
+|-
+|[[Nintendo Entertainment System|NES/Famicom]]
+|1987
+|[[Fujisankei Communications International|FCI]]/[[Pony Canyon]]
+|
+* Modified graphics and a new soundtrack.
+* Considerable alterations to gameplay.
+* Significantly expanded dialogue.
+* New menu interface.
+* Only a small instruction booklet rather than the map and manuals.
+* Added endgame sequence after defeating Exodus.
+|-
+|[[MSX|MSX2 - Cartridge]]
+|1988
+|Pony Canyon
+|
+* It was packaged in a VHS like box with only the game cartridge and 40 page manual.
+|-
+|[[MSX|MSX2 - 3.5" Disk]]
+|1989
+|Pony Canyon
+|
+* While still in a VHS like box it contains the manuals and map, both translated. Although the map is very different from the original.
+|-
+|[[Macintosh]]
+|1993
+|LairWare
+|
+* LairWare licensed ''Ultima&nbsp;III'' and created a remake for the Macintosh. Unlike the original Mac version from Origin Systems, the LairWare version is in full color. LairWare continues to sell ''Ultima&nbsp;III'' for Mac OS X and Mac OS Classic today, as a direct download from the LairWare web site.<ref>{{cite web|url=http://www.lairware.com/ultima3/ |title=Ultima&nbsp;III |publisher=LairWare |access-date=2012-11-30}}</ref>
+|}
+:<sup>*</sup>The publisher Starcraft has no relation to the video game ''[[StarCraft]]'' and went out of business in 1996.
+
+==Reception and legacy==
+''Ultima III'' sold over 100,000 copies by August 1986,<ref>{{cite book |last1=Petska-Juliussen |first1=Karen |last2=Juliussen |first2=Egil |title=The Computer Industry Almanac 1990 |date=1990 |publisher=Brady |isbn=978-0-13-154122-1 |location=New York |pages=3.12 |url=https://archive.org/details/computerindustry00kare/page/n267/mode/2up}}</ref> and over 120,000 copies by 1990.<ref>{{cite book |title=The Official Book Of Ultima |edition=second |date=1990 |page=35 |url=https://archive.org/details/TheOfficialBookOfUltima/page/n47}}</ref> ''Video'' magazine listed the game seventh on its list of best selling video games in March 1985<ref>{{cite magazine |last1= Onosco |first1= Tim |last2= Kohl |first2= Louise |last3= Kunkel |first3= Bill |author-link3= Bill Kunkel (journalist) |last4= Garr |first4= Doug |date= March 1985 |title= Random Access: Best Sellers/Recreation |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 8|issue= 12|page= 43|issn= 0147-8907}}</ref> with ''II Computing'' listing it fifth on the magazine's list of top Apple II games as of late 1985, based on sales and market-share data.<ref>{{cite news | url=https://archive.org/stream/II_Computing_Vol_1_No_1_Oct_Nov_85_Premiere#page/n51/mode/2up | title=Top Software / A List of Favorites | work=II Computing | date=October–November 1985 | access-date=28 January 2015 | author=Ciraolo, Michael | pages=51}}</ref>
+
+''Exodus'' is credited as a game that laid the foundation for the [[role-playing video game]] genre, influencing games such as ''[[Dragon Quest]]'' and ''[[Final Fantasy]]''.<ref>{{cite web |url=http://www.gamasutra.com/features/20070223a/barton_04.shtml|title=The History of Computer Role-Playing Games Part 1: The Early Years (1980-1983) |author=Matt Barton|date=February 23, 2007|access-date=2007-04-30|website=[[Gamasutra]]}}</ref> In turn, ''Exodus'' was itself influenced by ''[[Wizardry]]'', which Richard Garriot credited as the inspiration behind the party-based combat in his game.<ref>{{Cite book|first=Matt|last=Barton|url=https://books.google.com/books?id=IMXu61GbTqMC&q=japanese |title=Dungeons & Desktops: The History of Computer Role-Playing Games |publisher=[[A K Peters, Ltd.]] |year=2008 |access-date=2010-09-08 |isbn = 978-1-56881-411-7 |ref=barton_ddesktops | page=76}}</ref> ''[[Computer Gaming World]]'' stated in February 1994 that ''Exodus'' "was the game that became known as ''Ultima'' to hundreds of thousands of cartridge gamers".<ref name="cgw199402">{{Cite magazine |date=February 1994 |title=Computer Gaming World Hall of Fame |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=115 |magazine=Computer Gaming World |pages=221}}</ref>
+
+''[[Softline (magazine)|Softline]]'' stated that ''Ultima&nbsp;III'' "far surpasses" its predecessors, praising the "masterfully unified" plot and individual tactical combat. The magazine concluded that the game "upgrades the market; in several ways it sets new standards for the fantasy gaming state of the art. Happily, it also shows us a maturing artistic discipline on the part of its imaginative author".<ref>{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=14 | title=Exodus: Ultima&nbsp;III | work=Softline | date=Nov–Dec 1983 | access-date=29 July 2014 | author=Durkee, David | pages=16–17}}</ref> ''Computer Gaming World''{{'}}s [[Scorpia (journalist)|Scorpia]] in 1983 called ''Ultima&nbsp;III'' "unquestionably the best in the series so far ... many hours of enjoyment (and frustration!)", although she criticized the ending as anticlimactic.<ref>{{cite magazine | title=Ultima&nbsp;III: Review & Tips | magazine=Computer Gaming World | date=December 1983 | access-date=31 October 2013 | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=2&id=13 | author=Scorpia | pages=18–19, 51}}</ref> The magazine's Patricia Fitzgibbons in 1985 reviewed the Macintosh version. She complimented its graphics but criticized the audio, and stated that the game did not adequately use the computer's user interface, describing using the mouse as "aggravating". Fitzgibbons concluded "Even though the Mac conversion is far from ideal, ''Ultima&nbsp;III'' is a very enjoyable game, and well worth its hefty price".<ref>{{cite magazine | title=Ultima&nbsp;III / The Macintosh Version | magazine=Computer Gaming World | date=November–December 1985 | url=http://www.cgwmuseum.org/galleries/index.php?year=1985&pub=2&id=24 | access-date=1 November 2013 | author=Fitzgibbons, Patricia | pages=47}}</ref> In 1993 Scorpia stated that ''Ultima&nbsp;III'' was the best of the first trilogy, and that its "surprisingly quiet and nonviolent" defeat of the villain presaged the later games' "resolutions that are less combative in spirit".<ref>{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=111 | title=Scorpia's Magic Scroll Of Games | magazine=Computer Gaming World | date=October 1993 | access-date=25 March 2016 | author=Scorpia | pages=34–50}}</ref> The magazine stated in February 1994 that ''Exodus'' "was really the first [''Ultima''] to have a coherent plot beyond the typical dungeon romp".{{r|cgw199402}}
+
+''[[Compute!]]'' in 1984 stated that ''Ultima&nbsp;III'' "ushers in an exciting new era of fantasy role-playing. The combination of superb graphics, music, and excellent playability makes ''Exodus'' a modern-day masterpiece". It noted the cloth map and the extensive documentation, the "thrilling" 3-D dungeons, the game's use of time, and the spell system. The magazine concluded, "Lord British has outdone himself with his latest work of art ... a delight to play".<ref>{{cite news | url=https://archive.org/stream/1984-09-compute-magazine/Compute_Issue_052_1984_Sep#page/n107/mode/2up | title=Exodus: Ultima&nbsp;III For Commodore 64 | work=Compute! | date=September 1984 | access-date=30 October 2013 | author=Peacock, David K. | pages=106}}</ref> ''[[Info Magazine|INFO]]'' stated that "Lord British's latest offering is also his best ... Many wonderful hours will be spent unravelling its secrets".<ref>{{cite magazine | url=https://archive.org/stream/info-magazine-05/Info_Issue_05#page/n33/mode/2up | title=Exodus: Ultima&nbsp;III | author=Salamone, Ted | magazine=INFO | year=1984 | issue=5 | pages=35}}</ref> The magazine gave the Amiga version four stars compared to five stars for the 64 version, stating that "the graphics and user interface could have been better [[video game porting|Amiga-tized]]".<ref>{{Cite magazine |last1=Dunnington |first1=Benn |last2=Brown |first2=Mark R. |last3=Malcolm |first3=Tom |date=January–February 1987 |title=Amiga Gallery |url=https://archive.org/stream/info-magazine-13/Info_Issue_13_1987_Jan-Feb#page/n89/mode/2up |magazine=Info |pages=90–95}}</ref> The ''[[Chicago Tribune]]'' called ''Ultima III'' "one of the best" computer games, providing "an epic adventure which can last for months".<ref>{{cite news | url=http://archives.chicagotribune.com/1985/02/15/page/147/article/ultima-iii-conjures-up-an-epic-video-adventure-game | title=Ultima&nbsp;III conjures up an epic video adventure game | work=Chicago Tribune | date=1985-02-15 | access-date=29 April 2015 | author=Kosek, Steven | pages=Section 7, Page 61}}</ref> ''[[Famitsu]]'' reviewed the 1987 Famicom remake and scored it 32 out of 40.<ref>{{cite web|url=http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=19749|title=ウルティマ 〜恐怖のエクソダス〜 [ファミコン] / ファミ通.com|website=www.famitsu.com}}</ref>
+
+In 1984 ''Softline'' readers named the game the third most-popular Apple and eighth most-popular Atari program of 1983.<ref>{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | access-date=28 July 2014 | pages=49}}</ref> It won the Adventure Game of the Year prize in ''Computer Gaming World''<nowiki>'</nowiki>s 1985 reader poll, about which the editors wrote "Although ''Ultima III'' has been out well over a year, we feel that it is still the best game of its kind."<ref>{{Cite news | date = November–December 1985 | url=http://www.cgwmuseum.org/galleries/index.php?year=1985&pub=2&id=24 | magazine = [[Computer Gaming World]] | title = Game of the Year  | pages = 32–33 }}</ref> With a score of 7.55 out of 10, in 1988 ''Ultima III'' was among the first members of the ''Computer Gaming World'' Hall of Fame, honoring those games rated highly over time by readers.<ref>{{cite magazine | title=The CGW Hall of Fame | magazine=Computer Gaming World | date=March 1988 | url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=45 | access-date=2 November 2013 | pages=44}}</ref> In 1996, the magazine ranked it as the 144th best game of all time, featuring "one of the nastiest villains to grace a computer screen".<ref>{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | access-date=25 March 2016 | pages=64–80}}</ref>
+
+The demon figure that appeared on the front of the box caused some religious fundamentalists to protest. They made accusations that the game was corrupting the youth of America and encouraging Satan worshiping.<ref>''The Official Book of Ultima'', page 34</ref> This, along with other factors, led Richard Garriott to develop his next game (''[[Ultima IV]]'') based on the [[Virtues of Ultima|virtues]] the ''Ultima'' series became famous for.<ref>''The Official Book of Ultima'', page 39</ref>
+
+==Reviews==
+* ''[[Casus Belli (magazine)|Casus Belli]]'' (Issue 18 - Dec 1983)<ref>{{Cite web|url=https://www.rpggeek.com/rpgissuearticle/142014/ludotique|title = Ludotique &#124; Article &#124; RPGGeek}}</ref>
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #26 (June 1985)<ref>{{Cite web|url=https://www.rpggeek.com/rpgissuearticle/139395/ludotique|title = Ludotique &#124; Article &#124; RPGGeek}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{moby game|id=/exodus-ultima-iii}}
+
+{{Ultima|state=expanded}}
+{{Origin Systems}}
+{{Authority control}}
+
+[[Category:1983 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:FM-7 games]]
+[[Category:FM Towns games]]
+[[Category:Games commercially released with DOSBox]]
+[[Category:Classic Mac OS games]]
+[[Category:MSX2 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Open-world video games]]
+[[Category:Role-playing video games]]
+[[Category:Sharp X1 games]]
+[[Category:Single-player video games]]
+[[Category:Ultima (series)]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with gender-selectable protagonists]]
+[[Category:Video games with tile-based graphics]]

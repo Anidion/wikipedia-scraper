@@ -1,0 +1,84 @@
+Spider-Man (1982 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Spider-Man_%281982_video_game%29&oldid=1223061570
+Accessed on: 2024-06-26T16:54:07.297451
+
+
+
+------
+Spider-Man (1982 video game)
+{{Infobox video game
+| title = Spider-Man
+| image = Spider-Man (1982) Coverart.png
+| developer = 
+| publisher = [[Parker Brothers]]
+| programmer = [[Laura Nikolich]]{{sfn|Montfort|Bogost|2009|p=166}}
+| composer = 
+| series = ''[[Spider-Man in video games|Spider-Man]]''
+| released = {{vgrelease|NA|November 1982}}
+| genre = [[Action game|Action]]{{sfn|Milne|2020|p=46}}
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[Atari 2600]]
+}}
+
+'''''Spider-Man''''' is a [[vertical scrolling]] [[action game]] programmed by [[Laura Nikolich]] for the [[Atari 2600]], and released in 1982 by [[Parker Brothers]]. It was both the [[Spider-Man in video games|first video game]] to feature [[Spider-Man]] and the first [[Marvel Comics]] based video game.
+
+==Plot==
+[[Norman Osborn]] has been removed of the [[Green Goblin|Goblin]] formula and incarcerated by Spider-Man. He manages to cause a prison riot, which breaks him out, and decides to blow up the [[Empire State Building]]. Spider-Man catches wind of this, and decides to stop Goblin from using his new creation, a “Superbomb”, to blow up the building. Along the way, he must contend with the Goblin’s group of hired thugs, and, ultimately, the Goblin himself.<ref>Taken from the game's promotional materials.</ref>
+
+==Gameplay==
+[[File:Spider-Man_Screenshot.png|thumb|left|Spider-Man swinging on a web]]
+
+The player controls Spider-Man, who is attempting to scale a building and defuse bombs planted by the [[Green Goblin]].{{sfn|Parker Bros.|1982|ref=manual}} Spider-Man is only able to use his web lines to move up the building either vertically or diagonally. Generic criminals dwell along the many floors of the building, moving randomly from one window to another. Spider-Man counts with limited web fluid to achieve his goal, indicated by a meter at the bottom of the screen. The web fluid meter slowly depletes as time passes, acting like a time limiter of sorts. If the meter depletes completely, Spider-Man will plummet to the ground with no means of saving himself and a life will be lost. If the player has no lives left, the game will be over.
+
+Spider-Man can replenish a little amount of web fluid for each captured criminal or for each small bomb defused. To capture a criminal, Spider-Man must make physical contact with them. However, if a criminal manages to touch his web line, they will cut it and send Spidey plummeting below, though the player can shoot another web in time to save himself.
+
+Near the top of each building, the layout changes to a series of girders where the Goblin has planted many small bombs to hinder Spidey's progress. When a bomb is about to explode, it will change its color from black to red. Defusing a red bomb yields more points than a black one.
+
+Upon reaching the top of the building, Spidey must then face off against the Goblin, who has planted a "super bomb", whose fuse is activated upon defeating a certain number of enemies and/or defusing a certain number of small bombs.<ref name=marvel>{{cite web|url=http://www.marvel.com/blogs/Marvel_Interactive/entry/1089.Looking_Back:_Spider-Man_for_Atari_2600|title=Looking Back: Spider-Man for Atari 2600|publisher=Marvel Comics|date=March 21, 2008|access-date=June 18, 2022|url-status=dead|archive-url=https://web.archive.org/web/20090402174405/http://www.marvel.com/blogs/Marvel_Interactive/entry/1089.Looking_Back:_Spider-Man_for_Atari_2600|archive-date=April 2, 2009}}</ref> Once the fuse is lit, there is a limited time to reach the super bomb before it detonates, claiming one of Spidey's lives. Upon defeating the Goblin (which involves simply avoiding him) and defusing his super bomb, the game starts over at the next level, which may feature faster-moving and/or more instances of the Green Goblin, taller buildings, taller scaffold sections or a quicker-depleting supply of web  fluid. The building is sometimes a different color.
+
+==Development==
+[[Parker Brothers]] began developing video games in June 1982.{{sfn|Billboard|1982|p=8|ref=Billboard}} [[Laura Nikolich]] was hired by recruiters by Parker Brothers when she met the team at a job fair. Impressed that she could code in [[assembly language]], she was brought in for an interview. When she joined the video games division of the company, she was assigned to make a game based on the [[Spider-Man]] comic series.{{sfn|Milne|2020|p=46}} Nikolich had full creative control of the game design and had no contact with [[Marvel Comics]].{{sfn|Campbell|2018}}
+
+Like all games developed at Parker Brothers, the design of the game was a group effort by the firms game team and then was presented to the marketing department. The design team made story boards and initially wanted the game to scroll horizontally, but limitations of the [[Atari 2600]] made it more sense to scroll vertically. Other limitations of the system had it so Spider-Man could only swing from his webs to the top of a building instead of climbing the wall.{{sfn|Milne|2020|p=46}}
+
+Nikolich had the [[Green Goblin]] appears as Spider-Man's villain in the game. She chose him as due to how much easier it would be to have him in the game as they could use the same algorithm that the team used for Spider-Man to fly the Green Goblin around the tower.{{sfn|Milne|2020|p=47}}
+
+==Release and reception==
+''Spider-Man'' was released in November 1982.{{sfn|Billboard|1982|p=8|ref=Billboard}} A version was developed for the [[Magnavox Odyssey 2]] which was never officially released.{{sfn|Milne|2020|p=47}}
+
+Mark Trost of ''[[Electronic Fun with Computers & Games]]'' reviewed the game in February 1983, rating it 3 out of 4. He criticized it for being derivative of the 1980 [[arcade video game]] ''[[Crazy Climber]]'', but said it was a "nice variation on the theme" with web shooting and swinging abilities, and called it "a challenging, graphically acceptable and ultimately engrossing" game.{{sfn|Trost|1983|pp=58-59}} A review in ''[[Computer Entertainer|The Video Game Update]]'' found that the graphics were disappointing compared to the first two releases from Parker Bros. and said the game would only appeal to only the real fans of Spider-Man.{{sfn|The Video Game Update|1982|ref=VGURev}}
+
+== Legacy ==
+Reflecting on the game, Nikolich said she wouldn't change a thing stating she "did the best I could with what I had, so I don't really have any regrets" and "You can't hold it up against the games of today, but it was the first pass at home videogames, and I'm very proud of it."{{sfn|Milne|2020|p=47}} With its release, Spider-Man was the second published superhero to feature in a video game, following ''[[Superman (1979 video game)|Superman]]'' (1979).{{sfn|Kent|2021|p=497}} Following her work on ''Spider-Man'', Nikolich would develop a game based on the [[Care Bears]] franchise for the Atari 2600 which did not get released, and a port of ''[[Frogger II: Threeedeep!]]'' for the [[Colecovision]].{{sfn|Milne|2020|p=46}}{{sfn|Campbell|2018}}
+
+The game's iteration of the Green Goblin makes a cameo appearance in the animated film ''[[Spider-Man: Across the Spider-Verse]]'' (2023). He is depicted as a prisoner of [[Spider-Man 2099|Miguel O'Hara]]'s Spider-Society among other universe-displaced villains.{{sfn|Gvozden|2023}}
+
+==References==
+{{Reflist}}
+
+===Sources===
+* {{cite magazine|magazine=[[Billboard (magazine)|Billboard]]|title=Parker Brothers Releasing 16 New Game Cartridges |date=December 11, 1982|volume=94|issue=49|issn=0006-2510|ref=Billboard}}
+* {{cite web|url=https://www.polygon.com/2018/9/14/17856020/spider-man-game-1982-atari-2600-laura-nikolich-not-ps4|archiveurl=https://web.archive.org/web/20180914180416/https://www.polygon.com/2018/9/14/17856020/spider-man-game-1982-atari-2600-laura-nikolich-not-ps4|date=September 14, 2018|accessdate=January 20, 2024|archivedate=September 14, 2018|last=Campbell|first=Colin|work=[[Polygon (website)|Polygon]]|title=The Story of the First Spider-Man Game}}
+* {{Cite web |last=Gvozden |first=Dan |date=June 4, 2023 |title=The Definitive List of 'Spider-Man: Across the Spider-Verse' Easter Eggs |url=https://www.hollywoodreporter.com/news/general-news/spider-man-across-the-spider-verse-easter-eggs-list-1235506838/ |url-status=live |archive-url=https://web.archive.org/web/20230605002218/https://www.hollywoodreporter.com/news/general-news/spider-man-across-the-spider-verse-easter-eggs-list-1235506838/ |archive-date=June 5, 2023 |access-date=June 5, 2023 |website=[[The Hollywood Reporter]]}}
+* {{cite web |title=Spider-Man Manual |url=https://archive.org/details/Spider-Man_1982_Parker_Bros |website=archive.org |publisher=Parker Bros. |date=1982|ref=manual}} 
+* {{cite magazine|magazine=[[Computer Entertainer|The Video Game Update]]|title=Critically Speaking... Atari-Compatible|date=November 1982|ref=VGURev}}
+* {{cite book|title=The Ultimate History of Video Games|volume=2|last=Kent|first=Steven L.|publisher=[[Crown Publishing Group]]|year=2021|isbn=978-1984825438}}
+* {{cite magazine|magazine=[[Retro Gamer]]|title=The Making of Spider-Man|last=Milne|first=Rory|issue=208|year=2020|ISSN=1742-3155|publisher=Future Publishing}}
+* {{cite book|last1=Montfort|first1=Nick|last2=Bogost|first2=Ian|title=Racing the Beam|publisher=[[MIT Press]]|year=2009|isbn=978-0-262-01257-7|title-link=Racing the Beam|author-link2=Ian Bogost|author-link1=Nick Montfort}}
+* {{cite magazine |last1=Trost |first1=Mark |title=Spiderman |magazine=[[Electronic Fun with Computers & Games]] |date=February 1983 |volume=1 |issue=4  |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_04_1983-02_Fun_Games_Publishing_US/page/n57/mode/2up}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-2600-vcs-spider-man_s7020.html ''Spider-Man''] at Atari Mania
+
+{{Spider-Man in popular media}}
+
+[[Category:1982 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Parker Brothers video games]]
+[[Category:Superhero video games]]
+[[Category:Video games about bomb disposal]]
+[[Category:Video games based on Spider-Man]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in New York City]]

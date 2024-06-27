@@ -1,0 +1,131 @@
+Breakout (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Breakout_%28video_game%29&oldid=1224017580
+Accessed on: 2024-06-26T16:47:34.580820
+
+
+
+------
+Breakout (video game)
+{{Short description|1976 video game}}
+{{Infobox video game
+| title = Breakout
+| image = BreakOut arcadeflyer.png
+| caption = Arcade flyer
+| developer = [[Atari, Inc.]]
+| publisher = {{vgrelease|NA/EU|Atari, Inc.|JP|[[Namco]]<ref name="Akagi">{{cite book|last1=Akagi|first1=Masumi|title=アーケードTVゲームリスト国内•海外編(1971-2005)|trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005)|date=13 October 2006|publisher=Amusement News Agency|language=ja|location=Japan|isbn=978-4990251215|page=51|url=https://archive.org/details/ArcadeGameList1971-2005/page/n52}}</ref>}}
+| platforms = [[Arcade video game|Arcade]], [[Atari 2600]]
+| genre = [[Action game|Action]]
+| modes = Up to 2 players, alternating turns
+| arcade system = 
+| designer = {{plainlist|
+* [[Nolan Bushnell]]
+* [[Steve Wozniak]]
+* Steve Bristow<ref>Kyle Orland (February 25, 2015). "[https://arstechnica.com/gaming/2015/02/obituary-gaming-pioneer-steve-bristow-helped-design-tank-breakout/ Obituary: Gaming pioneer Steve Bristow helped design Tank, Breakout]". ''Ars Technica''</ref> 
+* [[Steve Jobs]]}}
+| programmer = '''Atari 2600'''<br/>Brad Stewart
+| released = '''Arcade'''{{vgrelease|NA|May 13, 1976<ref name="atari"/>|JP|May 1976<ref name="Akagi"/>|EU|1976<ref>{{cite web|title=Video Game Flyers: Breakout, Atari, Inc. (Germany)|url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=3847|website=The Arcade Flyer Archive|access-date=22 March 2021}}</ref>}}'''Atari 2600'''{{vgrelease|NA|November 9, 1978<ref>{{cite web|title=Breakout (Registration Number PA0000175216)|url=https://cocatalog.loc.gov|website=[[United States Copyright Office]]|access-date=1 June 2021}}</ref><ref>{{cite web|last1=Hahn|first1=Duane Alan|title=1978: Atari 2600 Video Game Release Dates with Pop Culture Atmosphere|url=https://www.randomterrain.com/atari-2600-memories-history-1978.html|website=Random Terrain}}</ref>}}
+}}
+'''''Breakout''''' is an [[arcade video game]] developed and published by [[Atari, Inc.]]<ref>{{Cite web|url=http://www.atarigames.com/atarinumbers90s.pdf|title=Atari Unit Selling Prices (1972-1999)|access-date=2013-05-13|archive-date=2013-05-10|archive-url=https://web.archive.org/web/20130510143012/http://www.atarigames.com/atarinumbers90s.pdf|url-status=dead}}</ref> and released on May 13, 1976.<ref name="atari">{{cite web|url=https://www.atari.com/history/1972-1984-0|title=Atari - 1972 - 1984|website=www.atari.com|language=en|access-date=2017-08-30|archive-url=https://web.archive.org/web/20160611075833/https://www.atari.com/history/1972-1984-0|archive-date=2016-06-11|url-status=dead}}</ref> It was designed by [[Steve Wozniak]], based on conceptualization from [[Nolan Bushnell]] and Steve Bristow, who were influenced by the seminal [[1972 in video games|1972]] Atari arcade game ''[[Pong]]''. In ''Breakout'', a layer of bricks lines the top third of the screen and the goal is to destroy them all by repeatedly bouncing a ball off a paddle into them. The arcade game was released in Japan by [[Namco]]. ''Breakout'' was a worldwide commercial success, among the top five highest-grossing [[1976 in video games|arcade video games of 1976]] in both the United States and Japan and then among the top three highest-grossing [[1977 in video games|arcade video games of 1977]] in the US and Japan. The 1978 [[Atari 2600|Atari VCS]] port uses color graphics instead of a monochrome screen with colored overlay. 
+ 
+While the concept was predated by [[Ramtek (company)|Ramtek]]'s ''Clean Sweep'' (1974), ''Breakout'' spawned an entire genre of [[:Category:Breakout clones|clones]]. It was the inspiration for aspects of the [[Apple II]] computer and [[Taito]]'s ''[[Space Invaders]]'' (1978). An official sequel was released in 1978, ''[[Super Breakout]]'', which eventually became the pack-in game for the [[Atari 5200]] console in 1982. ''Super Breakout'' introduced multiple balls in play at once, which became a common feature in the genre. In 1986 the ''Breakout'' concept found new legs with [[Taito]]'s ''[[Arkanoid]]'', which itself spawned dozens of imitators. In Japan, the genre is known as ''block kuzushi'' ("block breaker") games.
+
+==Gameplay==
+[[File:Breakout game screenshot.png|thumb|left|Arcade version screenshot]]
+''Breakout'' begins with eight rows of bricks, with two rows each of a different color. The color order from the bottom up is yellow, green, orange and red. Using a single ball, the player must knock down as many bricks as possible by using the walls and/or the paddle below to hit the ball against the bricks and eliminate them. If the player's paddle misses the ball's rebound, they will lose a turn. The player has three turns to try to clear two screens of bricks. Yellow bricks earn one point each, green bricks earn three points, orange bricks earn five points and the top-level red bricks score seven points each. The paddle shrinks to one-half its size after the ball has broken through the red row and hit the upper wall. Ball speed increases at specific intervals: after four hits, after twelve hits, and after making contact with the orange and red rows.
+
+The highest score achievable for one player is 896; this is done by eliminating two screens of bricks worth 448 points per screen. Once the second screen of bricks is destroyed, the ball in play harmlessly bounces off empty walls until the player restarts the game, as no additional screens are provided. However, a secret way to score beyond the 896 maximum is to play the game in two-player mode. If "Player One" completes the first screen on their third and last ball, then immediately and deliberately allows the ball to "drain", Player One's second screen is transferred to "Player Two" as a third screen, allowing Player Two to score a maximum of 1,344 points if they are adept enough to keep the third ball in play that long. Once the third screen is eliminated, the game is over.
+
+The original arcade cabinet of ''Breakout'' featured artwork that revealed the game's plot to be that of a prison escape. According to this release, the player is actually playing as one of a prison's inmates attempting to knock a ball and chain into a wall of their prison cell with a mallet. If the player successfully destroys the wall in-game, their inmate escapes with others following.
+
+==Development==
+A precursor to ''Breakout'' was ''Clean Sweep'', released by [[Ramtek (company)|Ramtek]] in 1974. In that game, the player uses a paddle to hit a ball up towards a playfield of dots, which disappear as the ball moves through the dots; the goal is to achieve a clean sweep by erasing all the dots.<ref>{{cite web |last1=Hunter |first1=William |title=PONG and Atari |url=https://thedoteaters.com/?bitstory=bitstory-article-2%2Farticle-3&all=1 |website=The Dot Eaters |year=2015 |access-date=9 April 2021 |language=en-us}}</ref> ''Clean Sweep'' was one of the top ten best-selling [[1974 in video games|arcade video games of 1974]] and sold a total of 3,500 [[arcade cabinet]]s.<ref>{{cite book |last1=Baer |first1=Ralph H. |author1-link=Ralph H. Baer |title=Videogames: In the Beginning |date=2005 |publisher=Rolenta Press |isbn=978-0-9643848-1-1 |pages=12–3 |url=https://archive.org/details/VideogamesInTheBeginningRalphH.Baer/page/n33/mode/2up}}</ref>
+
+''Breakout'', a [[Logic gate|discrete logic]] (non-[[microprocessor]]) game, was designed by Nolan Bushnell, Steve Jobs, and Steve Bristow, all three of whom were involved with Atari and its [[Kee Games]] subsidiary. Atari produced innovative video games using the ''Pong'' hardware as a means of competition against companies making "''Pong'' clones".<ref name="UHoVG">{{cite book | title = [[Ultimate History of Video Games]] | first = Steven | last = Kent | authorlink = Steven L. Kent | publisher = Three Rivers Press | isbn = 0-7615-3643-4 | year = 2001}}</ref> Bushnell wanted to turn ''Pong'' into a single player game, where the player would use a paddle to maintain a ball that depletes a wall of bricks. Bushnell was certain the game would be popular, and he and Bristow partnered to produce a concept. [[Al Alcorn]] was assigned as the ''Breakout'' project manager, and he began development with [[Cyan Engineering]] in 1975. Bushnell assigned [[Steve Jobs]] to design a prototype. Jobs was offered [[United States dollar|$]]750, with an award for every TTL ([[transistor-transistor logic]]) chip fewer than 50. Jobs promised to complete a prototype within four days.<ref>{{cite book
+| title = Steve Jobs
+| last = Isaacson | first = Walter
+| author-link = Walter Isaacson
+| page = [https://archive.org/details/stevejobs00isaa/page/166 166]
+| publisher = [[Simon & Schuster]]
+| year = 2011
+| isbn = 978-1-4516-4853-9
+| title-link = Steve Jobs (book)}}</ref>
+
+Bushnell offered the bonus because he disliked how new Atari games required 150 to 170 chips; he knew that Jobs' friend [[Steve Wozniak]], an employee of [[Hewlett-Packard]], had designed a version of Pong that used about 30 chips.{{r|wozniak198412}} Jobs had little specialized knowledge of circuit board design but knew Wozniak was capable of producing designs with a small number of chips. He convinced Wozniak to work with him, promising to split the fee evenly between them if Wozniak could minimize the number of chips. Wozniak had no sketches and instead interpreted the game from its description. To save parts, he had "tricky little designs". Near the end of development, Wozniak considered moving the [[high score]] to the screen's top, but Jobs claimed Bushnell wanted it at the bottom; Wozniak was unaware of any truth to his claims. The original deadline was met after Wozniak worked at Atari four nights straight, doing some additional designs while at his day job at Hewlett-Packard.  This equated to a bonus of $5,000, which Jobs kept secret from Wozniak. Wozniak has stated he only received payment of $350;<ref>{{cite web|url=http://www.woz.org/letters/general/91.html|url-status=dead|archive-url=https://web.archive.org/web/20110612071502/http://www.woz.org/letters/general/91.html|archive-date=2011-06-12|access-date=2016-06-20|title=Letters – General Questions Answered, Woz.org}}</ref><ref name="iWoz">[[Steve Wozniak|Wozniak, Steven]]: "[[iWoz]]", a: pages 147–148, b: page 180. [[W. W. Norton]], 2006. {{ISBN|978-0-393-06143-7}}</ref><ref name="UHVF">Kent, Steven: ''The Ultimate History of Video Games'', pages 71–73. [[Three Rivers Press]], 2001.  {{ISBN|0-7615-3643-4}}.</ref><ref name="DotEaters">{{cite web|url=http://thedoteaters.com/?bitstory=breakout |title=Breakout |publisher=The Dot Eaters |access-date=2018-05-08}}</ref><ref name="ArcadeHistory">{{Cite web|url=https://www.arcade-history.com/?n=breakout&page=detail&id=3397|title=Breakout, Arcade Video game by Atari, Inc. (1976)|website=www.arcade-history.com}}</ref><ref name="ClassicGaming">[http://classicgaming.gamespy.com/View.php?view=Articles.Detail&id=395 Classic Gaming: A Complete History of Breakout] {{webarchive|url=https://web.archive.org/web/20140623034804/http://classicgaming.gamespy.com/View.php?view=Articles.Detail&id=395 |date=2014-06-23}}</ref> he believed for years that Atari had promised $700 for a design using fewer than 50 chips, and $1000 for fewer than 40, stating in 1984 that "we only got 700 bucks for it". Wozniak was the engineer, and Jobs was the [[breadboard]]er and tester. Wozniak's original design used 42 chips; the final, working breadboard he and Jobs delivered to Atari used 44, but Wozniak said: "We were so tired we couldn't cut it down".<ref name="wozniak198412">{{cite news | url=https://archive.org/stream/byte-magazine-1984-12/1984_12_BYTE_09-13_Communications#page/n461/mode/2up | title=The Apple Story / Part 1: Early History | work=BYTE | date=December 1984 | access-date=23 October 2013 | author1=Williams, Gregg | author2=Moore, Rob | pages=A67 | type=interview}}</ref>
+
+The simplicity of the game created a problem when the copyright filing was denied because it "did not contain at least a minimum amount of original pictorial or graphic authorship, or authorship in sounds" and Atari appealed.<ref>{{cite court |litigants=Atari Games Corp. v. Oman |vol=693 |reporter=F. Supp. |opinion=1204 |court=D. D.C. |date=1988}}</ref> In ''[[Atari Games Corp. v. Oman]]'', then Court of Appeals Justice [[Ruth Bader Ginsburg]] found that the work was copyrightable.<ref name="appeal">{{cite court |litigants=Atari Games Corp. v. Oman |vol=979 |reporter=F. (2d) |opinion=242 |court=D.C. Cir. |date=1992}}</ref>
+
+Atari was unable to use Wozniak's design. By designing the board with as few chips as possible, he made the design difficult to manufacture; it was too compact and complicated to be feasible with Atari's manufacturing methods. However, Wozniak claims Atari could not understand the design and speculates "maybe some engineer there was trying to make some kind of modification to it". Atari ended up designing their own version for production, which contained about 100 TTL chips. Wozniak found the gameplay to be the same as his original creation and could not find any differences.<ref name="iWoz"/><ref name="UHVF"/><ref name="DotEaters"/><ref name="ArcadeHistory"/><ref>{{cite web|url=http://www.thelogbook.com/phosphor/1970s/o.htm|url-status=dead|archive-url=https://web.archive.org/web/20071017131038/http://www.thelogbook.com/phosphor/1970s/o.htm|archive-date=2007-10-17|access-date=2016-06-20|title=Phosphor-Dot Fossils: Breakout}}</ref><ref>{{cite web|url=http://www.gamasutra.com/view/feature/1460/woz_was_here__steve_wozniak_on_.php |title=Features - Woz Was Here - Steve Wozniak On His Gaming Past |publisher=Gamasutra.com |date=2007-05-04 |access-date=2018-05-08}}</ref>
+
+The [[arcade cabinet]] uses a black and white [[Computer monitor|monitor]], but the monitor has strips of colored [[cellophane]] placed over it so that the bricks appear to be in color.
+
+==Other versions==
+[[Image:Breakout2600.svg|240px|thumb|Atari 2600 version]]
+A software version of ''Breakout'' was written for the [[Atari 2600]] by Brad Stewart. The game was published in 1978, but with only six rows of bricks, and the player is given five turns to clear two walls instead of three. In the Breakthru variant, the ball does not bounce off of the bricks but continues through them until it hits the wall. [[Atari]] had this term [[trademark]]ed and used it in addition to ''Breakout'' to describe gameplay, especially in look-alike games and remakes.
+
+Atari's 1977 dedicated ''[[Video Pinball series|Video Pinball]]'' console includes a ''Breakout'' game.
+
+On March 16, 2005, during ISOBus plugfest in Lincoln Nebraska, the John Deere engineer has demonstrated ability to run Breakout game on a competitive tractor monitor using ISO 11789-6 standard.{{Citation needed|reason=couldn't find reference to this claim, or Plugfest in Lincoln, NE in 2005|date=January 2024}}
+
+==Reception==
+In October 1976, the annual ''RePlay'' chart listed ''Breakout'' as the fifth highest-earning [[1976 in video games|arcade video game of 1976]] in the United States, below [[Midway Manufacturing]]'s ''[[Sea Wolf (video game)|Sea Wolf]]'', ''[[Gun Fight]]'', and [[Speed Race|''Wheels'']], and Atari's ''[[Indy 800]]''.<ref>{{cite journal |title=Profit Chart |journal=RePlay |date=October 1976}}</ref> ''Breakout'' was later the third highest-earning [[1977 in video games|arcade video game of 1977]] in the US, below ''Sea Wolf'' and ''[[Sprint 2]]'',<ref>{{cite journal |title=Top Arcade Games |journal=[[Play Meter]] |date=November 1977}}</ref><ref>{{cite journal |title=Profit Chart |journal=RePlay |date=November 1977}}</ref> and the fifth highest-earning [[1978 in video games|arcade video game of 1978]] in the US.<ref name="Replay">{{cite journal |title=Video Games |journal=RePlay |date=November 1978}}</ref> ''Breakout'' had a total arcade production run of 11,000 cabinets manufactured by Atari, estimated to have generated over {{US$|{{#expr:(11000*1015-42*925)/1000000 round 0}} million|long=no}} ({{US$|{{inflation|US|11|1976}} million|long=no}} adjusted for inflation) in sales revenue.<ref name="atari_production99">{{cite web|title=Production Numbers|url=http://www.atarigames.com/atarinumbers90s.pdf|publisher=[[Atari]]|year=1999|access-date=2013-05-13|archive-date=2013-05-10|archive-url=https://web.archive.org/web/20130510143012/http://www.atarigames.com/atarinumbers90s.pdf|url-status=dead}}</ref>
+
+''Breakout'' was also a commercial success for [[Namco]] in Japan. On the first annual ''[[:ja:ゲームマシン|Game Machine]]'' arcade chart, ''Breakout'' was the fourth highest-grossing arcade video game of 1976 in Japan, below Taito's [[List of Taito games|''Ball Park'' (''Tornado Baseball'')]] and ''[[Speed Race|Speed Race DX]]'' and [[Sega]]'s ''[[Heavyweight Champ]]''.<ref>{{cite magazine|title=本紙アンケー 〜 ト調査の結果|trans-title=Paper Questionnaire: Results of the Survey |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=65|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 February 1977|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19770201p.pdf#page=2}}</ref> The following year, ''Breakout'' was Japan's third highest-grossing [[arcade game]] of 1977, below only two [[racing games]], Namco's [[Electro-mechanical games|electro-mechanical]] game ''[[F-1 (arcade game)|F-1]]'' and Taito's video game ''Speed Race DX''.<ref>{{cite magazine|title=結果ベスト3|trans-title=Best 3 Results |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=90|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 February 1978|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19780215p.pdf#page=2}}</ref> In total, ''Breakout'' sold 15,000 arcade units worldwide by 1981.<ref>{{cite news |title=Video Games Star War |url=https://www.nytimes.com/1981/10/25/magazine/video-games-star-war.html |access-date=23 September 2021 |work=[[The New York Times]] |date=25 October 1981}}</ref>
+
+The Atari 2600 version sold 256,265 units in 1980. ''Breakout'' went on to sell a total of 1,650,336 units by 1983.<ref name="Atari">{{cite book |title=Cartridge Sales Since 1980 |publisher=[[Atari Corp.]]}} Via {{cite episode |title=The Agony & The Ecstasy |series=Once Upon Atari |date=August 10, 2003 |number=4 |minutes=23 |publisher=Scott West Productions}}</ref>
+
+In 1989, ''[[Computer and Video Games]]'' reviewed the Atari VCS version, giving it a 24% score.<ref>{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+
+In 2021, ''[[The Guardian]]'' listed ''Breakout'' as the fourth greatest [[1970s in video games|video game of the 1970s]], below ''[[Galaxian]]'', ''[[Asteroids (video game)|Asteroids]]'' and ''[[Space Invaders]]''.<ref>{{cite news |title=The 15 greatest video games of the 70s – ranked! |url=https://www.theguardian.com/games/2021/may/13/15-greatest-video-games-of-the-70s-ranked |access-date=23 May 2021 |work=[[The Guardian]] |date=13 May 2021}}</ref>
+
+==Legacy==
+{{more citations needed section|date=April 2017}}
+''Breakout'' was an influential game that had an impact on the video game and computer industries. ''Breakout'' spawned an entire genre of clones. Ten years later, the concept found new legs with [[Taito]]'s 1986 ''[[Arkanoid]]'', which itself spawned dozens of imitators. In Japan, the genre is known as ''block kuzushi'' ("block breaker") games. ''Breakout'' was also the basis and inspiration for certain aspects of the [[Apple II]] [[personal computer]] and [[Taito]]'s arcade [[shoot 'em up]] game ''[[Space Invaders]]'' (1978).
+
+===Apple II influence===
+''Breakout'' directly influenced Wozniak's design for the [[Apple II]] computer. He said: "A lot of features of the Apple II went in because I had designed ''Breakout'' for Atari. I had designed it in hardware. I wanted to write it in software now".<ref>Connick, Jack: "...And Then There Was Apple". Call-A.P.P.L.E. Oct 1986: 24.</ref> This included his design of color graphics circuitry, the addition of game paddle support and sound, and graphics commands in [[Integer BASIC]], with which he wrote ''Brick Out'', a software clone of his own hardware game.<ref name="wozniak20140501">{{cite web | url=https://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636 | title=How Steve Wozniak Wrote BASIC for the Original Apple From Scratch | publisher=Gizmodo | date=2014-05-01 | access-date=2 May 2014 | author=Wozniak, Steve}}</ref> Wozniak said in 1984:<ref name="wozniak198412"/>
+
+{{blockquote|Basically, all the game features were put in just so I could show off the game I was familiar with—''Breakout''—at the [[Homebrew Computer Club]]. It was the most satisfying day of my life [when] I demonstrated ''Breakout''&mdash;totally written in BASIC. It seemed like a huge step to me. After designing hardware arcade games, I knew that being able to program them in BASIC was going to change the world.}}
+
+===''Space Invaders'' influence===
+[[Tomohiro Nishikado]] cited ''Breakout'' as the original inspiration behind his hit ''Space Invaders'' (1978). He wanted to adapt the same sense of achievement and tension from destroying targets one at a time for a [[shooting game]].<ref name="RG-3">{{cite magazine|author=Staff|title=Nishikado-San Speaks|url=https://archive.org/stream/retro_gamer/RetroGamer_003#page/34/mode/2up|magazine=[[Retro Gamer]]|publisher=Live Publishing|issue=3|date=15 April 2004|page=35}}</ref>
+
+===Re-releases and enhanced versions===
+The success of the game resulted in ''[[Super Breakout]]''{{'}}s release in 1978.<ref name="The International Arcade Museum">{{cite web|url=http://www.arcade-museum.com/game_detail.php?game_id=9873|title=Super Breakout|website=The International Arcade Museum|access-date=7 February 2017}}</ref> It contains three separate game modes. The home ports include ''Breakout'' as a fourth mode, using the ''Super Breakout'' visual style.
+
+''[[Breakout 2000]]'' for the [[Atari Jaguar]] adds a 3D playfield and additional features.
+
+A 3D ''Breakout''-inspired game was published simply as ''Breakout'' in 2000 for the PC and [[PlayStation (console)|PlayStation]] by [[Hasbro Interactive]]'s [[Atari Interactive]] subsidiary.
+
+In 2011 [[Atari SA|Atari S.A.]] released an updated version of ''Breakout'' as ''Breakout Boost''. The chief difference is the addition of improved graphics, power-ups, and unique brick types.
+
+Another enhanced version of the game has been announced for release exclusively on the [[Intellivision Amico]].<ref>{{cite press release|title=Intellivision® Reveals Initial Details For The Upcoming Amico™ Home Video Game Console!|url=https://www.prnewswire.com/news-releases/intellivision-reveals-initial-details-for-the-upcoming-amico-home-video-game-console-300734998.html|website=PR Newswire}}</ref>
+
+===''Breakout: Recharged''===
+A revamped version of the game titled, ''Breakout: Recharged'', was released on February 10, 2022, for [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Xbox One]], [[Xbox Series X and Series S|Xbox Series X/S]], [[Microsoft Windows]] and [[Atari VCS (2021 console)|Atari VCS]] as part of the ''[[Atari Recharged]]'' series. It was developed by Adamvision Studios and SneakyBox.<ref>{{cite web|title=Breakout: Recharged announced for PS5, Xbox Series, PS4, Xbox One, Switch, and PC |url=https://www.gematsu.com/2022/01/breakout-recharged-announced-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc|website=Gematsu|date=January 24, 2022}}</ref>
+
+===''Pilgrim in the Microworld''===
+''[[Pilgrim in the Microworld]]'' is an [[autobiography]] by David Sudnow detailing his obsession with ''Breakout''. Sudnow describes studying the game's mechanics, visiting the manufacturer in [[Silicon Valley]], and interviewing the programmers.<ref>{{cite news | url=https://query.nytimes.com/gst/fullpage.html?res=9D04E3DE1039F934A15750C0A965948260 | work=The New York Times | title=When Television Marries Computer; By Howard Gardner | date=March 27, 1983 | access-date=April 26, 2010}}</ref>
+
+===Easter eggs===
+The first-generation [[iPod Classic]] had an [[Easter egg (media)|Easter egg]] where holding down the center button for a few seconds in the "About" menu caused ''Breakout'' to appear.<ref>{{cite web |url=http://www.geek.com/hwswrev/conel/ipod/index.htm |title=Consumer Electronics Review: Apple iPod |publisher=Geek.com |date=2002-01-31 |access-date=2012-12-26 |archive-url=https://web.archive.org/web/20121016085525/http://www.geek.com/hwswrev/conel/ipod/index.htm |archive-date=2012-10-16 |url-status=dead}}</ref><ref>[http://mashable.com/2010/07/08/10-apple-facts/ 10 Fascinating Facts You Didn't Know About Apple] Number 8. The First iPod Had A Secret Easter Egg</ref>
+
+On the 37th anniversary of the game's release, [[Google]] released a [[List of Google Easter eggs|secret]] version of ''Breakout'' accessible by typing "atari breakout" in [[Google Images]]. The image thumbnails form the ''breakout'' bricks, turn different colors, and after a ball and paddle appear the game begins.<ref>{{Cite web|url=https://www.cbsnews.com/news/play-atari-breakout-in-google-image-search/|title=Play Atari "Breakout" in Google image search|website=www.cbsnews.com|date=14 May 2013 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Breakout series}}
+{{1970s Atari arcade games}}
+{{Woz}}
+{{Authority control}}
+
+[[Category:1976 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari arcade games]]
+[[Category:Discrete video arcade games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Namco arcade games]]
+[[Category:Paddle-and-ball video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in prison]]

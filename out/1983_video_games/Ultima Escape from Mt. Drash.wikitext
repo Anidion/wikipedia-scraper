@@ -1,0 +1,67 @@
+Ultima: Escape from Mt. Drash
+Permalink: //en.wikipedia.org/w/index.php?title=Ultima%3A_Escape_from_Mt._Drash&oldid=1214507026
+Accessed on: 2024-06-26T16:56:06.494308
+
+
+
+------
+Ultima: Escape from Mt. Drash
+{{Use dmy dates|date=February 2021}}
+{{Infobox video game
+|title = Ultima: Escape from Mt. Drash
+|image = Ultima Escape from Mt Drash cover.png
+|developer = [[Sierra On-Line]]
+|publisher = Sierra On-Line
+|designer = Keith Zabalaoui
+|series = ''[[Ultima (series)|Ultima]]''
+|platforms = [[VIC-20]]
+|released = 1983
+|genre = [[Role-playing video game|Role-playing]]
+|modes = [[Single-player]]
+}}
+'''''Ultima: Escape from Mt. Drash''''' is a [[role-playing video game]] published for the [[VIC-20]] home computer by [[Sierra On-Line]] in 1983.
+
+==Gameplay and plot==
+In the game, creatures called "garrintrots" have imprisoned the player in Mt. Drash, and the player's task is to escape the dungeons.<ref name=vintage>{{cite book|last1=Loguidice|first1=Bill|last2=Barton|first2=Matt|title=Vintage Games: An Insider Look at the History of Grand Theft Auto, Super Mario, and the Most Influential Games of All Time|date=21 August 2012|publisher=Taylor & Francis|isbn=978-1136137570|page=341}}</ref>
+
+The game itself is a very simple series of three-dimensional randomly generated dungeons, and the idea is to destroy all monsters that stand in way and exit to the next [[Level (video games)|level]]. There is a time limit as well. The game doesn't employ custom graphics, but rather uses the VIC-20's [[PETSCII|standard set of graphical characters]] to draw the game scene.
+
+The game was also notable for its soundtrack; using the 4-voice sound capabilities of the [[MOS Technology VIC]] video chip in the VIC-20 to provide background music. Very few games written for the VIC-20 featured such a background soundtrack that would become commonplace in games for the [[Commodore 64]], [[Nintendo Entertainment System]], etc.
+
+The source code was written in [[Commodore BASIC|VIC-BASIC]], with [[assembly language]] routines for faster animation of graphics and to handle the background music. Unlike most of the more popular VIC-20 games, it wasn't published as a [[ROM cartridge]] but rather on [[cassette tape]]. Due to the complexity of the [[source code]] and the unusual (by VIC-20 standards) length of the game, as well as the fact that unlike a cartridge game all of it had to fit in [[RAM]], an 8 K or 16 K RAM memory expansion cartridge was required to be installed in the VIC-20 before running the game, further limiting the target audience.
+
+Copy protection consisted of the {{Keypress|RUN-STOP}} and {{Keypress|RESTORE}} keys on the VIC-20 keyboard being disabled (to prevent "breaking in" to the [[BASIC]] code), as well as the original cassette being recorded and mastered in a way which made duplicating on a dual-cassette deck troublesome.
+
+The game itself doesn't tie in to the ''[[Ultima (series)|Ultima]]'' series in too many ways. Both have a fantasy setting, Mt. Drash is the name of a dungeon in ''[[Ultima I: The First Age of Darkness|Ultima I]]'', and the name "garrintrots" is an obvious pun on [[Richard Garriott]]'s surname; but there the similarity ends.<ref name=vintage/>
+
+==Development==
+The game was written by Keith Zabalaoui for [[Sierra Entertainment|Sierra On-Line]] in 1983. Sierra, which had published ''[[Ultima II: The Revenge of the Enchantress|Ultima II]]'', named the game an ''Ultima'' to improve its sales. Richard Garriott gave permission to the company and Zabalaoui—a friend who had worked on previous games for him—to do so. Sierra was skeptical of the game's appeal given the declining VIC-20 market and need for memory expansion, and only manufactured the few thousand copies needed to meet contractual requirements, with one advertisement in the July 1983 ''[[Compute!]]'' describing it as "A real-time, fantastic adventure" and part of the ''SierraVenture'' series.<ref name="maher20130516">{{cite web | url=http://www.filfre.net/2013/05/the-legend-of-escape-from-mt-drash/ | title=The Legend of Escape from Mt. Drash | work=The Digital Antiquarian | date=2013-05-16 | access-date=10 July 2014 | author=Maher, Jimmy}}</ref><ref name="compute198307">{{cite news | url=https://archive.org/stream/1983-07-compute-magazine/Compute_Issue_038_1983_Jul#page/n79/mode/2up | title=VIC-20 Owners | work=Compute! | date=July 1983 | access-date=10 July 2014 | pages=79 | type=advertisement}}</ref> Sierra even denied the game ever existed, until Zabalaoui confirmed it actually was finished and was shipped to retailers. Further proof can be found in the Sierra On-Line Consumer Price List for First Quarter 1984 where the game is listed at $19.95 with a stock number of 40245202.<ref>{{cite web|title=Official Consumer price list for the First Quarter 1984 for Sierra On-line|url=http://atariage.com/forums/topic/269239-official-consumer-price-list-for-the-first-quarter-1984-for-sierra-on-line/|website=AtariAge|date=24 August 2017 |access-date=26 August 2017}}</ref> Approximately 3000 units were made, though exact numbers are not available.
+
+A lot of the details surrounding the game were very vague. It was believed the game was a [[ROM cartridge|cartridge]], when it was released for the [[Datasette]]. One of the rumors about the game was that Sierra sold a minimal number of the games, enough to break even, then buried the remaining stock at the foot of a mountain, similar to the [[Atari video game burial]]. A retailer near [[Vancouver, B.C.]] dumped unsold software over a cliff, and this is where one of the only known complete copies were eventually found.<ref>[http://vgmuseum.chaoticmonkey.com/index.html?http%3A//vgmuseum.chaoticmonkey.com/loadpage.php%3Fgetgame%3Ddrash] Mt. Drash at The Computer and Book RPG/Adventure Museum {{webarchive|url=https://web.archive.org/web/20110610022641/http://vgmuseum.chaoticmonkey.com/index.html?http%3A//vgmuseum.chaoticmonkey.com/loadpage.php%3Fgetgame%3Ddrash|date=10 June 2011}}</ref> Many falsely believed that Sierra named the game ''Ultima'' without Garriott's knowledge or authorization.{{r|maher20130516}}
+
+==Legacy==
+In recent years, the game has been extremely sought after by [[Video game collecting|collectors]]. First copies of the game were discovered and announced in 2000. The first online auction of a copy was in September 2003. Since then, there have been some very rare sightings, but due to high demand, there have been quite a few counterfeit games on the market. The first complete, rediscovered copy of the game sold on [[eBay]] in March 2004 for US$3,605 to collector Peter Olafson.<ref>{{cite web|last1=Sarkar|first1=Samit|title=Rare Ultima game sells for more than $3,000 on eBay|url=https://www.polygon.com/2014/3/2/5463490/rare-ultima-escape-from-mt-drash-sells-on-ebay|website=Polygon|access-date=21 March 2018|date=2 March 2014}}</ref> This copy was later purchased from Olafson by an Australian buyer who held onto it for a while and then sold again in 2015 to Erik Elsom from [[Spokane, Washington]] where it currently resides.
+
+On 20 June 2009, another boxed copy (without manual) of the game was listed on eBay. The seller from [[Tucson, Arizona]], had bought the game a decade earlier from a Commodore enthusiast, along with other games, and had it in his closet for ten years. Not knowing the extreme rarity of the game, he listed it on eBay at a starting bid of US$4.99. The extremely rare auction closed on 25 June 2009 with a final bid of US$1,875. There were a total of 31 bids; the winner of this auction was Enrico Ricciardi, an Italian Ultima collector.
+
+On 11 June 2003, the game was [[porting of video games|ported]] to [[Personal computer|PC]] (under [[GPLv2]] [[Software license|license]]) by Kasper Fauerby based on the original BASIC source code and some smaller binary [[Reverse engineering|reverse engineered]] parts.<ref>[http://www.peroxide.dk/projects_old.shtml Escape from Mount Drash] on peroxide.dk "was ported from the Vic20 to PC by Telemachos. Included in the download is the sourcecode for the project. Mount Drash 0.4 Mb .zip" (2003)</ref> The original VIC-20 cassette is also available in a format suitable for VIC-20 emulators, although to detract from the greater likelihood of counterfeiting tapes, the TAP file (a recreation of the entire tape itself) has never been made available.
+
+On 30 November 2017, a still-sealed boxed copy of the game was listed on eBay. The seller from [[North Canton, Ohio]], listed it at a starting bid of US$949.95. The auction closed on 10 December 2017 after 30 bids, with a final bid of US$9,002 from a collector in [[Kirkland, Washington]].
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+*{{moby game|id=/ultima-escape-from-mt-drash}}
+
+{{Ultima}}
+
+[[Category:1983 video games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:VIC-20 games]]
+[[Category:VIC-20-only games]]
+[[Category:Role-playing video games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Single-player video games]]
+[[Category:Ultima (series)]]
+[[Category:Video games developed in the United States]]

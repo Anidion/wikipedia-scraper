@@ -1,0 +1,73 @@
+The Cosmic Balance
+Permalink: //en.wikipedia.org/w/index.php?title=The_Cosmic_Balance&oldid=1224241364
+Accessed on: 2024-06-26T16:53:13.470628
+
+
+
+------
+The Cosmic Balance
+{{More citations needed|date=August 2014}}
+{{Infobox video game
+|title          = The Cosmic Balance
+|image          = The Cosmic Balance Coverart.png
+|developer      = [[Strategic Simulations]]
+|publisher      = Strategic Simulations
+|designer       = Paul Murray<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+|released       = 1982: Atari, Apple<br/>1984: C64
+|genre          = [[Simulation video game|Simulation]], [[Strategy video game|strategy]]
+|modes          = [[Single-player video game|Single-player]]
+|platforms      = [[Apple II series|Apple II]], [[Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''The Cosmic Balance''''' is a game designed by Paul Murray and published in 1982 for the [[Apple II series|Apple II]] and [[Atari 8-bit computers]] by [[Strategic Simulations]] (SSI). It was later released for the [[Commodore 64]]. A sequel, ''[[Cosmic Balance II]]'', also designed by Paul Murray for SSI, was released in 1983.
+
+==Gameplay==
+{{Unreferenced section|date=January 2019}}
+
+This video game is a computerized turn-based version of tactical combat simulation very similar to the Star Fleet Battles pen-paper-map-counter game. While [[Star Fleet Battles]] is explicitly set in the ''[[Star Trek]]'' universe, ''The Cosmic Balance'' is not. That said, the first (and closest to a tutorial) scenario in the game re-creates a meeting between [[Starship Enterprise|Starship ''Enterprise'']] and ''USS Reliant'', like in the film ''[[Star Trek II: The Wrath of Khan]]''.
+
+Ship design is an exercise in resource management, with power, drives, defensive systems, and weapons all vying for a finite amount of hull space.
+
+===Weapons===
+*Light, Heavy, and Siege Phasers,
+*Disruptors,
+*Photon and Plasma Torpedoes,
+*Light and Heavy Seekers (drones),
+*Fighter Squadrons (a swarm of robot shuttles),
+*and Transporters.
+
+In addition to this, the player can set the firing arc of all the direct fire weapons (the bigger the arc, the more space the weapon consumes). Unique to ''Cosmic Balance'', the overall firing arc of any particular direct fire weapon does not need to be [[wikt:contiguity|contiguous]], and can be split into as many as four separate arcs.
+
+===Combat===
+Combat is [[two dimensional]] but rather than using an [[orthogonal]] or [[hexagon grid]], the game utilizes free movement similar to that of some forms of [[miniature wargaming]]. Ships have a speed and heading and travel only according to them.
+
+All encounters in the game are at speeds slower than that of the [[speed of light]]. After playing ten turns, players have the option to activate their [[hyperspace|warp drive]] and escape the scenario. Each turn in the game represents 16 seconds of time and distances are measured in units call Lightmils. A conversion of Lightmils to real-world units is not given.
+
+===Physics===
+The game simulates [[Newton's first law]] in that a ship will maintain its current speed and heading unless it expends power to change them. The game simulates Newtons second law in that the more massive the ship the more power required to accelerate, decelerate, or maneuver it. The game does not, however, simulate Newton's third law. First, every ship has its own unique maximum speed even though they have no limit in the amount of fuel they carry throughout the course of the game. Second, after spending several turns reaching maximum speed, in the course of one turn a ship can be brought about and end the turn traveling in the exact opposite direction at maximum speed. The game does have an absolute [[hard coded]] speed limit, but this is based on a limitation to the [[user interface]] and is in no way related to a simulation of [[Special Relativity]].
+
+==Reception==
+Chris Smith reviewed SSI's ''RapidFire Line'' in ''[[The Space Gamer]]'' No. 59, and commented that "This is a standard game of starship-to-starship combat, complete with phasers, photons, ECM, shields, and various other chrome. The difference between this game and some other comes before combat: You design your own ships."<ref name="SG">{{cite journal|last= Smith |first= Chris |date=January 1983 |title=SSI's RapidFire Line: Featured Review|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=59|pages=14–15}}</ref>
+
+David Long reviewed the game for ''[[Computer Gaming World]]'', and stated that "CB is a tactical simulation, one which plays very smoothly and, as noted earlier, almost too quickly. The shipyard. options and the number of scenarios available will keep this one out and in use for a long time. In the meantime I look forward to the strategic galactic conquest game with CB as its combat resolution interface."<ref name="CGW8">{{cite magazine |last=Long |first=David |title=Cosmic Balance: Review and Analysis |magazine=Computer Gaming World |date=Jan–Feb 1983 |volume=1 |issue=8 |pages=22–23}}</ref>
+
+In a 1992 survey of science fiction games, ''[[Computer Gaming World]]'' gave the title three of five stars, stating that it and the sequel ''[[Cosmic Balance II]]'' "were excellent products in their day".<ref name="brooks199211">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Strategy & Wargames: The Future (2000-....) | magazine=Computer Gaming World | date=November 1992 | accessdate=4 July 2014 | author=Brooks, M. Evan | pages=99}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.mobygames.com/game/cosmic-balance ''The Cosmic Balance''] at [[MobyGames]]
+* [http://www.tomshardware.com/forum/46084-13-space-games-ship-design-cosmic-balance Discussion of ship design]
+* [http://www.textfiles.com/apple/DOCUMENTATION/cosbal.txt Reproduction of the documentation]
+
+{{DEFAULTSORT:Cosmic Balance, the}}
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Science fiction video games]]
+[[Category:Strategic Simulations games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

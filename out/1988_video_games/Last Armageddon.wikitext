@@ -1,0 +1,72 @@
+Last Armageddon
+Permalink: //en.wikipedia.org/w/index.php?title=Last_Armageddon&oldid=1188961970
+Accessed on: 2024-06-26T17:04:33.179844
+
+
+
+------
+Last Armageddon
+{{Short description|1988 video game}}
+{{Infobox video game
+|title = Last Armageddon
+|image = Last Armageddon.jpg
+|caption = Cover art for Famicom
+|developer = '''Family Computer:''' Advance Communication Company<ref name="lanes"/> <br> '''MSX:''' Braingrey.Mind<ref name="msxla"/>
+|publisher=[[Yutaka (video game company)|Yutaka]]<ref name="lanes"/> <small>(Famicom)</small>
+|composer = Michiharu Hasuya, Osamu Kasai, Masaaki Harada, Hiroyasu Nishiyama (Famicom)<br>Hiroharu Hayama
+|released = '''PC-8801 & MSX:'''{{vgrelease|JP|1988<ref name="msxla">{{cite web | url = http://www.gamefaqs.com/computer/msx/data/941536.html | title = Release information (MSX) | publisher = [[GameFAQs]] | date = | accessdate = 2008-05-24}}</ref>}} '''PC Engine CD:''' {{vgrelease|JP|August 30, 1990<ref name="tcdla">{{cite web | url = http://www.gamefaqs.com/console/turbocd/data/916070.html | title = Release information (TurboGrafx-CD) | publisher = [[GameFAQs]] | date = | accessdate = 2008-05-15}}</ref>}} '''Family Computer:''' {{vgrelease|JP|November 10, 1990<ref name="lanes">{{cite web | url = http://www.gamefaqs.com/console/nes/data/579849.html | title = Release information (NES) | publisher = [[GameFAQs]] | date = | accessdate = 2008-04-28}}</ref>}}
+|genre=[[Role-playing video game|Role-playing game]]<ref name="lanes"/><ref name="msxla"/>
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[NEC PC-8801]], [[MSX]], [[Sharp X68000]], [[TurboGrafx-CD|PC Engine CD-ROM²]],<ref name="tcdla"/> [[Nintendo Entertainment System|NES]],<ref name="lanes"/> [[MS-DOS]], [[FM Towns]]
+}}
+
+{{nihongo|'''''Last Armageddon'''''|ラストハルマゲドン|Rasuto Harumagedon}} is a 1988 post-apocalyptic [[role-playing video game]] for the [[NEC PC-8801]],<ref>[http://www.4gamer.net/games/008/G000896/20080501044/ Last Armageddon] ([https://translate.google.com/translate?u=http%3A%2F%2Fwww.4gamer.net%2Fgames%2F008%2FG000896%2F20080501044%2F&sl=ja&tl=en&hl=&ie=UTF-8 Translation]), ''4Gamer.net''</ref> [[MSX]], [[Sharp X68000]], [[MS-DOS]], [[TurboGrafx-CD|PC Engine CD-ROM²]], and [[Nintendo Entertainment System|Nintendo Family Computer]]. The game was exclusively in the [[Japanese language]] until an English translation patch was created for the Nintendo Famicom.<ref>{{Cite web|url=http://www.romhacking.net/translations/6725/|title = English translation patch (NES) at Romhacking.net -}}</ref>
+
+The game had a sequel, ''After Armageddon Gaiden'', released for the [[Sega CD]] in 1994.<ref>{{cite web|title=After Armageddon Gaiden|url=http://www.rpgamer.com/games/other/scd/armageddon/armageddon.html|publisher=RPGamer|accessdate=29 January 2012|archive-url=https://web.archive.org/web/20170813230921/http://www.rpgamer.com/games/other/scd/armageddon/armageddon.html|archive-date=13 August 2017|url-status=dead}}</ref> [[Working Designs]] planned to release the game in North America as ''A Side Story of Armageddon'' in 1995, but the localization was cancelled due to the demise of the Sega CD system.<ref name="Sega-16">{{cite web|author=Pettus, Sam |title=Sega CD: A Console too Soon |publisher=Sega-16 |url=http://sega-16.com/feature_page.php?id=256&title=Sega%20CD:%20A%20Console%20too%20Soon |accessdate=2009-12-17 |date=July 15, 2004 |archiveurl=https://web.archive.org/web/20100114185932/http://sega-16.com/feature_page.php?id=256&title=Sega%20CD%3A%20A%20Console%20too%20Soon |archivedate=January 14, 2010 |url-status=dead}}</ref>
+
+==Plot==
+[[File:Lastarmageddongrimreapergoblin.PNG|250px|left|thumb|A skeleton and a Minotaur are pondering the fate of the devastated planet.]]
+
+The humans, who breathed the [[toxin]]-filled air on Earth's surface, became one with the Earth and kept dissolving. The history of humanity ended and dominion of the planet returned to the demons.<ref name="mobygames"/> These mutant creatures did not depend on [[oxygen]] to survive.<ref name="mobygames"/> Therefore, they were able to breathe the air and use the land.<ref name="mobygames"/> Meanwhile, an army of robots wage World War IV against the demons in order to conquer what is now known as ''Makai - the Demon World''.<ref name="mobygames"/> These robots came to the planet on a wave of [[energy]] that created an explosion that turned the world into a [[:wikt:wasteland|wasteland]].<ref name="mobygames">{{cite web | url = http://www.mobygames.com/game/turbografx-cd/last-armageddon | title = Summary | publisher = [[MobyGames]] | date = | accessdate = 2008-04-28}}</ref> Much later in the game, concurrent themes including [[Adolf Hitler]],<ref name="moemoe"/> war,<ref name="moemoe"/> creating a perfect race of people,<ref name="moemoe"/> and the destruction of humanity in the year 1999 are revealed to the player inside one of the robot's main bases.<ref name="moemoe">{{cite web | url = http://www.moemoe.gr.jp/~yourtoy/last/index.html | title = Game content | publisher = Moemoe | date = | accessdate = 2008-04-28}}</ref>
+
+The demons attempt to gain dominion on the humans' old planet while the robots intend to impose a millennium of logic and dictatorial force throughout Makai. Playing as the robots is not an option open to the player. Therefore, the player must take advantage of their mutant army and crush the robot invaders. The game builds on the theme of an impending world domination through machines, as popularized famously in the ''[[Terminator (franchise)|Terminator]]'' series. The gameplay is similar to ''[[Final Fantasy (video game)|Final Fantasy]]'' featuring turn-based fights viewed from a third-person perspective.<ref name="mobygames"/>
+
+==Gameplay==
+Both the demon soldiers and their enemies may cast [[magic (gaming)|magic]] spells or physical attacks.<ref name="mobygames"/> Some magic attacks have the ability to inflict [[poison]] damage on any of the player's creatures. If a creature is poisoned, the player must spare some of their creature's magic points in order to cure the affected monster through the {{nihongo|"Kuizzu"|キーウッズ}} spell. Letting the creature remain poisoned for a certain amount of time will eventually lead to its death.
+
+The game plays like a [[role-playing video game]] and graves of fallen [[demon]]s by the home base remind the player of the situation of the game. When a player first starts the game, they should not go to the right, as experienced monsters lie there in a stadium-shaped [[power station]] that is in the southeastern corner of the map. It will take a foursome of level 5-10 characters in order to defeat the robots inside the dome. As characters advance in level, the monster images change slightly.<ref name="mobygames"/> By the time the characters advance to levels 17 through 34 (the maximum possible levels), the monsters will look completely slimy and the fusion of the cells will get ugly.
+
+There are two groups of four monsters that the player controls; a "[[daytime]]" group and a "[[night]]time" group. After it becomes night in the game, the daytime group becomes inactive and the nighttime group takes over. However, there is no HP/MP replenishment when a group becomes inactive until the next morning or night phase. Although monsters can use their healing spells to cure conditions like poisoning, there is no known way to cure HP in the game other than via items spread throughout the dungeons in the game, or by using the magic spell {{nihongo|"Shell Key"|シェル・シェルキー}}.
+
+==Version differences==
+The Nintendo Family Computer version lacks the monster [[encyclopedia]] that exists in the other versions of the game. None of the background music in the game resembles that of the PC Engine or the FM Towns version. This was most likely because the Famicom version was not only developed by a different company, but also because four different people worked on the soundtrack.
+
+Two versions existed for the FM Towns version; a "large memory version" with normal levels of animation and the "small memory version" with slightly reduced levels of animation. The FM Towns version also comes in a series of three CD-ROMs and requires 1 megabyte of RAM (for the low memory version) and 2 megabytes of RAM (for the high memory version). Only one character can be equipped with the most powerful sword (Azotto) and this person is pre-determined by the game itself. A 3.5" [[floppy disk]] is needed to save the game; which had to be purchased separately from the game.
+
+In the PC Engine version, all the 3D maps are shown as flat two-dimensional dungeons. Only goblins and orcs can be equipped with swords, unlike in the other versions. Transition time between "daytime" and "nighttime" characters has been eliminated in the PC Engine version, leading to an immediate swap of characters.
+
+==Reception==
+The PC Engine version was rated 25.26 out of 30 by ''[[PC Engine Fan]]'' magazine.<ref>{{cite journal |title=ROLEPLAYING GAME |journal=[[PC Engine Fan]] |issue=PC Engine All Catalog '92: PC Engine Fan Appendix |date=August 1992 |language=ja |pages=33–48 (48) |url=https://archive.org/details/pc-engine-all-catalog-92-pc-engine-fan-appendix-august-1992/PC%20Engine%20All%20Catalog%20%2792%20-%20PC%20Engine%20Fan%20Appendix%20%28August%201992%29/page/48}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MobyGames|id=/last-armageddon}}
+
+[[Category:1988 video games]]
+[[Category:DOS games]]
+[[Category:FM Towns games]]
+[[Category:Japan-exclusive video games]]
+[[Category:NEC PC-8801 games]]
+[[Category:MSX2 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Post-apocalyptic video games]]
+[[Category:Science fiction video games]]
+[[Category:Sharp X1 games]]
+[[Category:X68000 games]]
+[[Category:TurboGrafx-CD games]]
+[[Category:Video games developed in Japan]]
+[[Category:Yutaka games]]
+[[Category:Japanese role-playing video games]]
+[[Category:Single-player video games]]

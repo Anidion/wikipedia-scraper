@@ -1,0 +1,115 @@
+The Sentinel (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Sentinel_%28video_game%29&oldid=1225047073
+Accessed on: 2024-06-26T17:00:54.388169
+
+
+
+------
+The Sentinel (video game)
+{{About|the 1986 computer game||Sentinel (disambiguation)}}
+{{Infobox video game| title = The Sentinel
+|image     = Sentinel-cover.jpg
+|caption   = Cover art by David John Rowe<ref>{{cite web |url= http://www.boxequalsart.com/djrartistpage.html |title= David John Rowe's artist page |accessdate= 25 December 2017 |publisher= Box Equals Art}}</ref>
+|developer = [[Geoff Crammond]]
+|publisher = [[Firebird (software label)|Firebird]]
+|released  = 1986, 1987
+|genre     = [[Puzzle video game|Puzzle]]
+|modes     = [[Single-player]]
+|platforms = [[BBC Micro]], [[Commodore 64]], [[Amstrad CPC]], [[ZX Spectrum]], [[Atari ST]], [[Amiga]], [[DOS]]
+}}
+
+'''''The Sentinel''''', released in the United States as '''''The Sentry''''', is a [[puzzle game|puzzle]] [[video game]] created by [[Geoff Crammond]], published by [[Firebird (software label)|Firebird]] in 1986 for the [[BBC Micro]] and converted to the [[Commodore 64]] (by Crammond himself), [[Amstrad CPC]] (with a cross-compiler written by Crammond), [[ZX Spectrum]] (by [[Mike Follin]]), [[Atari ST]], [[Amiga]] (both by Steve Bak) and [[IBM PC compatible]]s (by Mark Roll). ''The Sentinel'' was among the first games to use solid-filled 3D graphics on home computers. It won numerous awards upon release and has since appeared on several "best video games of all time" lists.
+
+The IBM PC port supports [[Video Graphics Array|VGA]] graphics, with an additional lighting effect: objects and terrain become darker the farther away they are from the point of view. The Amiga port has a sampled soundtrack by [[David Whittaker (video game composer)|David Whittaker]].
+
+==Gameplay==
+[[File:The_Sentinel_(video_game)_Atari_ST_screenshot.png|thumb|left|Atari ST screenshot]]
+In ''The Sentinel'', the player takes the role of a ''Synthoid'' (called just "robot" in the US version), a [[Telepathy|telepathic]] robot who has to take control of a number of surreal, checkered landscapes of hills and valleys, by climbing from the lowest spot, where the hunt begins, to the highest platform, over which the Sentinel looms.<ref>{{cite web | url=https://archive.org/details/Sentinel_The_1984_Firebird_Software | title=Commodore C64 Manual: Sentinel, the (1984)(Firebird Software) | year=1984 }}</ref>
+
+The Synthoid itself cannot move across the level; instead it can look around, accumulate energy by absorbing the objects that are scattered across the landscape, create stacks of [[boulder]]s, generate inert Synthoid shells and transfer its [[consciousness]] from one of these clones to another.
+
+List of executable actions:
+* Looking around by moving the [[pointer (computing WIMP)|pointer]] on the screen
+* Toggle cursor on/off, turning faster with it off
+* Absorbing an object to gain its energy
+* Creating trees in empty squares
+* Creating one or more boulders in empty squares
+* Absorbing one or more boulders
+* Creating a new Synthoid shell in an empty square or on a boulder
+* Transferring consciousness to another Synthoid
+<!-- Deleted image removed: [[Image:Sentinel level.png|thumb|right|250px| First level introduction screen in the [[Commodore Amiga|Amiga]]]] -->
+<!-- Deleted image removed: [[Image:Sentinel amiga ingame.png|thumb|right|250px|[[Commodore Amiga|Amiga]] version. The Sentinel is absorbing the player]] -->
+* Hyperspace to a random part of the level of equal and lower height at the expense of 3 units of energy
+
+Controlling Synthoids that are standing at a higher level is fundamental to the game, because only the objects which occupy a visible square can be interacted with (the player may absorb or create objects on a boulder if the sides can be seen). While doing so, the player must watch for the rotation of the Sentinel and be careful not to stand in an area which the Sentinel can see, or else it will start absorbing energy from the Synthoid, and when the energy is gone, the game is over.
+
+Height is gained by placing a boulder on any visible square, and putting a Synthoid on the boulder. The player may then transfer consciousness to the new Synthoid, and absorb the old one. Stacks of boulders of any height may be created, if the player has enough energy. In order to absorb the Sentinel, the player must create a stack of boulders of sufficient height that the Synthoid on top can look down on the Sentinel's platform. When the Sentinel has been absorbed, the player may no longer absorb any energy from the landscape, although objects may be created as normal.
+
+In later levels, the Sentinel is assisted by a number of ''Sentries''. They behave exactly like the Sentinel, but absorbing them is not necessary to complete the level. Unlike the Sentinel, the Sentries do not stand on a platform but on ordinary squares. If the Sentinel or Sentry cannot see the square the Synthoid is standing on, but its head is visible and there are trees in the vicinity, it may transform one of them into a ''Meanie'', which will force the Synthoid to hyperspace and lose 3 units of energy. If the Meanie cannot see the player's square after a full rotation, it will turn back into a tree and the Sentinel or Sentry will resume rotation.
+
+The rotation of the Sentinel and the Sentries is slow and predictable. However, if there are many Sentries, there will be few safe locations anywhere on the landscape. If either the Sentinel or the Sentries come across a source of energy (boulders or a synthoid), their rotation stops while they absorb the energy, one unit at a time. To keep the total energy of the landscape constant, a tree is created randomly on the landscape for each absorbed unit of energy.
+
+A level is won by absorbing the Sentinel off its platform, creating a new Synthoid in the place of the Sentinel, transferring the consciousness to it and hyperspacing to a new level. Progress is saved via a [[Password (video games)|password system]].
+
+The more energy the player has accumulated when he jumps into hyperspace, the more levels he will skip. Sometimes (depending on the individual skill of the player) it is necessary to replay a level in order to win it with ''less'' energy than the last time, because the difficulty of the levels is not incremental.
+
+==Development==
+''The Sentinel'' has no ending sequence; upon completion of the last level, the player is looped back to level 1. When questioned about this, Crammond said he never thought anyone would go so far as to finish the game.<ref>{{cite magazine |title=NG Alphas: Sentinel Returns |magazine=[[Next Generation (magazine)|Next Generation]] |issue=36 |publisher=[[Imagine Media]] |date=December 1997|page=121}}</ref>
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Smash<ref>Game review, Crash magazine, [[Newsfield Publications]], issue 40, May 1987</ref>
+}}
+''[[Computer Gaming World]]'' called the Commodore 64 version of ''The Sentinel'' "outstanding and addictive ... I highly recommend it for many absorbing hours".<ref name="wagner198709">{{cite magazine | title=Aboard the Ten Thousand Sentries Limited | magazine=Computer Gaming World | date=Aug–Sep 1987 | author=Wagner, Roy | pages=42}}</ref> It received a Gold Medal award by ''[[Zzap!64]]'' magazine,<ref>[http://www.zzap64.co.uk/zzap20/senti.html ''The Sentinel'' review] by ''[[Zzap!64]]''</ref> describing it as an exceptional piece of software in a class of its own, and refusing to give it a numbered rating as a result.
+
+The ZX Spectrum version received a ''[[CRASH (magazine)|CRASH]]'' Smash award,<ref>[http://www.crashonline.org.uk/40/sentinel.htm ''The Sentinel'' review] by ''[[CRASH (magazine)|CRASH]]''</ref> the magazine praising its originality, atmosphere and tension. It was also placed at number 7 in the ''[[Your Sinclair]]'' official top 100. It was also voted Best Original Game of the Year at the [[Golden Joystick Awards]].<ref>{{Cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue066/Pages/CVG06600101.jpg|title = Computer & Video Games}}</ref>
+
+The Amiga version was ranked the 20th best game of all time by ''[[Amiga Power]]'';<ref>Amiga Power magazine issue 0, [[Future Publishing]], May 1991</ref> one of the 50 best computer games ever by ''[[PC Format]]'', who called it "straight out of left field" and "inspired";<ref name=pcformat50>{{cite journal | author=Staff | journal=[[PC Format]] | title=The 50 best games EVER! |date=October 1991 | issue=1 | pages=109–111 }}</ref> and the 53rd best game of all time by ''[[Next Generation (magazine)|Next Generation]]'', who cited the "Absolute, paranoid, scrambling tension" experienced by the players as they try to avoid the sentinel's gaze.<ref>{{cite magazine|title=Top 100 Games of All Time |magazine=[[Next Generation (magazine)|Next Generation]]|issue=21 |publisher=[[Imagine Media]] |date=September 1996|page=52}}</ref>
+
+==Reviews==
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #44<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-44/page/80/mode/2up | title=Jeux & stratégie 44 | date=April 1987 }}</ref>
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #45<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-45/page/58/mode/2up | title=Jeux & stratégie 45 | date=June 1987 }}</ref>
+
+==Legacy==
+A preview of a nonexistent sequel called ''Monolith'' appeared in 1995 in Italian magazine ''[[The Games Machine (Italy)|The Games Machine]]'' as an [[April Fool's Day]] prank. In 1998, the real sequel called ''[[Sentinel Returns]]'' was released for Windows and [[PlayStation]]. In December 2020,<ref>{{cite web|url=https://www.moddb.com/games/monolith|title=Monolith Windows game|date=18 December 2020 }}</ref> a freeware game named ''Monolith'', based on that hoax, actually came out<ref>{{cite web|url=https://devilmaster.altervista.org/monolith.html|title=Monolith}}</ref> and was reviewed in issue 1/86 of [[Zzap!64|Zzap!]] published by the Airons association in Vigevano.<ref>{{cite magazine|title=Monolith |magazine=[[Zzap!64#In Italy|Zzap!]]|issue=1/86 |publisher=Associazione Airons di Vigevano |date=May 2021|page=41}}</ref><ref>{{cite web|url=https://oboli.zzapmagazine.it/product/zzap-singolo/|title=Zzap! Numero 1/86}}</ref>
+
+''[[Archipelagos (video game)|Archipelagos]]'' (1989) has different gameplay but a similar surreal environment.
+
+A number of unofficial remakes and variants of ''The Sentinel'' have been written, such as ''Sentry'' (1989, MS-DOS), ''Zenith'' (2005, Windows freeware), ''Augmentinel'' (2019, Windows freeware) and ''Pinnacle'' (2023, Linux, Mac and Windows freeware).
+
+Annwn: The Otherworld<ref>{{Cite news |last=Tarason |first=Dominic |date=2019-04-15 |title=Annwn: The Otherworld is The Sentinel with Celtic ghosts and a demo |language=en |work=Rock, Paper, Shotgun |url=https://www.rockpapershotgun.com/annwn-the-otherworld-haunts-steam-with-a-free-demo |access-date=2022-12-23}}</ref> (2019) has similar gameplay with a Celtic motif and several changes to user interface and level structure.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.bbcmicro.co.uk/game.php?id=2527 ''The Sentinel''] at BBC Micro Games Archive
+*{{lemon64 game|id=2260}}
+*{{WoS game|id=0004400|name=The Sentinel}}
+*{{atarimania|id=25061}}
+*[http://johnvalentine.co.uk/zenith.php ''Zenith''] at johnvalentine.co.uk
+*[https://simonowen.com/spectrum/augmentinel/ '' Augmentinel''] at Simon Owen homepage
+*[https://viperfish.com.au/games/pinnacle.html '' Pinnacle''] at John Pitchers homepage
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sentinel, The}}
+[[Category:1986 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Crash Smash! award winners]]
+[[Category:Golden Joystick Award winners]]
+[[Category:Puzzle video games]]
+[[Category:Telecomsoft games]]
+[[Category:Video games about robots]]
+[[Category:Video games scored by David Whittaker]]
+[[Category:Video games scored by Tim Follin]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games using procedural generation]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]

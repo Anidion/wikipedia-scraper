@@ -1,0 +1,60 @@
+Apple Panic
+Permalink: //en.wikipedia.org/w/index.php?title=Apple_Panic&oldid=1224495610
+Accessed on: 2024-06-26T16:52:04.490604
+
+
+
+------
+Apple Panic
+{{Short description|1981 video game}}
+{{Infobox video game
+| title = Apple Panic
+| image = Apple panic.jpg
+| caption = Atari box cover
+| developer = 
+| publisher = [[Broderbund]]<br>Funsoft (TRS-80)
+| programmer = '''Apple II'''<br>Ben Serki<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref><br>'''Atari, IBM PC'''<br>Olaf Lubeck<ref name="giantlist"/><br>'''TRS-80'''<br>Yves Lempereur<ref name=reed/>
+| released = '''July 1981:''' Apple II<br>'''1982:''' Atari, IBM PC, VIC-20, TRS-80
+| genre = [[Platform game|Platform]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Apple II series|Apple II]], [[Atari 8-bit computers|Atari 8-bit]], [[IBM Personal Computer|IBM PC]], [[VIC-20]], [[TRS-80]]
+}}
+
+'''''Apple Panic''''' is a game for the [[Apple II series|Apple II]] programmed by Ben Serki and published by [[Broderbund Software]] in 1981.<ref name="giantlist"/> ''Apple Panic'' is an [[Copyright infringement|unauthorized]] version of the 1980 arcade game ''[[Space Panic]]'', the first game with ladders and platforms.{{r|pearl198306}} While the arcade original remained obscure, ''Apple Panic'' became a top seller for home computers. It was ported to the [[Atari 8-bit computers]],<ref name="amania">{{cite web|title=Apple Panic|url=http://www.atarimania.com/game-atari-400-800-xl-xe-apple-panic_297.html|website=Atari Mania}}</ref> [[VIC-20]], [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]), and [[TRS-80]].<ref name=linzmayer/>
+
+==Gameplay==
+
+The player controls a character that walks left and right along platforms made of green brick and climbs up and down ladders between them. The player can use a shovel to dig holes through the platforms, into which enemies will fall and become trapped. Once an enemy is stuck in a hole, the player must strike it repeatedly with the shovel until it falls through and hits the level below.  This must be done quickly, because after about 17 seconds an enemy will be able to free itself, filling in the hole in the process. The player can also refill holes they've dug, or drop through them.
+
+There are three types of enemy in the game, the first and most numerous being the "apples". An apple will die if it falls at a single level. As the player advances, green and blue enemies will start to appear, which must be dropped through at least two or three levels, respectively. This is accomplished by digging a series of holes, one directly below another, and trapping the enemy in the uppermost hole. The player earns extra points if they drop one monster on top of another (killing them both).
+
+On each level, the player has only a limited time to dispatch all the enemies, tracked by a bar at the bottom of the screen.  There are four distinct configurations of platforms and ladders through which the game cycles, but in every one there will always be five platforms in which the player can dig.
+
+==Ports==
+Ports for the [[Atari 8-bit computers]] and [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]) were done by Olaf Lubeck, who also wrote ''[[Cannonball Blitz]]'' for the Apple II. A [[TRS-80]] version was programmed by Yves Lempereur and published by Funsoft.<ref name=reed>{{cite web |last1=Reed |first1=Matthew |title=Apple Panic |url=http://www.trs-80.org/apple-panic/ |website=TRS-80.org}}</ref><ref name="linzmayer">{{cite journal |last1=Linzmayer |first1=Owen W. |title=Pick Six for the TRS-80 |journal=Creative Computing |date=March 1983 |volume=9 |issue=3 |page=152 |url=https://www.atarimagazines.com/creative/v9n3/152_Pick_six_for_the_TRS80.php}}</ref>
+
+==Reception==
+In contrast to ''Space Panic''{{'}}s lack of success in the arcades,<ref name="pearl198306">{{cite magazine | url=https://archive.org/details/Electronic_Games_Volume_01_Number_16_1983-06_Reese_Communications_US/page/n81 | title=Closet Classics | magazine=Electronic Games | date=June 1983 | last=Pearl | first=Rick | volume=1 | issue=16 | pages=82–6}}</ref> ''Apple Panic'' was popular on home computers. Debuting in July 1981, the game sold 15,000 copies by June 1982, appearing on ''[[Computer Gaming World]]''{{'}}s list of top sellers.<ref name="lombardy1982sepoct">{{cite magazine |title=Inside the Industry |url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=6 |format=PDF |magazine=Computer Gaming World |page=2 | date=September–October 1982 | accessdate= 2016-03-28}}</ref> ''[[Softline (magazine)|Softline]]'' reported in 1983 that it was among the top 30 best-selling Apple software for almost two years, in contrast to the "two to four month life span" of the typical arcade game.<ref name="tommervik198303">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 | title=By Golly, That's a Good Game! / Masters of the Mousetrap Maxim Tell Why | work=Softline | date=March 1983 | accessdate=28 July 2014 | author=Tommervik, Margot Comstock | pages=30–32}}</ref> ''[[Electronic Games]]'' described ''Apple Panic'' in 1983 as "deliciously true to" the gameplay of ''Space Panic''.{{r|pearl198306}}
+
+Dick McGrath reviewed the game for ''[[Computer Gaming World]]'', and decided that the game gets a 4 on a scale of 1 to 10, and stated that "After playing ''Time Runner'', ''Apple Panic'' creates a deja-vu, I've-been-here-before."<ref name="CGW8">{{cite magazine |last=McGrath |first=Dick |title=Route 80: The Road to TRS-80 Gaming |magazine=Computer Gaming World |date=Jan–Feb 1983 |volume=1 |issue=8 |pages=38–39}}</ref>
+
+''[[Byte (magazine)|Byte]]'' in 1982 called it "one of the most creative and novel games to be invented for a microcomputer".<ref name="byte198112">{{cite news | url=https://archive.org/stream/byte-magazine-1981-12/1981_12_BYTE_06-12_Computer_Games#page/n37/mode/2up | title=The Coinless Arcade | work=BYTE | date=December 1981 | accessdate=19 October 2013 | pages=38–41}}</ref> ''[[PC Magazine]]'' in 1983 stated "Yes, ''Apple Panic'' is a pretty dumb game. It's also fun to play and pretty to watch ... a welcome change from the endless stream of shoot-em-ups in space".<ref name="sandler198303">{{cite news | url=https://books.google.com/books?id=7wCiNAUEuAMC&pg=RA1-PA213 | title=At Ease With PC | work=PC Magazine | date=March 1983 | accessdate=21 October 2013 | author=Sandler, Corey | pages=213}}</ref>
+
+Owen Linzmayer reviewing the TRS-80 version for ''[[Creative Computing]]'' wrote, "The ''Apple Panic'' packaging promises voice and sound effects. This is a bit misleading. The only time the computer speaks (through the AUX port), is when it displays the banner page. At this time, it says only two words, 'Apple Panic'." He concluded, "''Apple Panic'' from Funsoft may be well on its way to the top of the charts."<ref name=linzmayer/> ''Computer Games'' magazine gave the VIC-20 version a B rating, noting that it is "a slightly revised version" of ''Space Panic'' and stating that it is "better than the Apple game."<ref>{{cite magazine |title=1985 Software Buyer's Guide |magazine=Computer Games |date=February 1985 |volume=3 |issue=5 |pages=11–8 |url=https://archive.org/details/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US/page/n13/mode/2up}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=297}}
+* [http://seed7.sourceforge.net/scrshots/panic.htm Clone] written in the [[Seed7]] programming language.
+
+[[Category:1981 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Broderbund games]]
+[[Category:VIC-20 games]]
+[[Category:Unauthorized video games]]
+[[Category:Platformers]]
+[[Category:Video game clones]]
+[[Category:Video games developed in the United States]]

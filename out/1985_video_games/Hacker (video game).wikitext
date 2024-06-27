@@ -1,0 +1,88 @@
+Hacker (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Hacker_%28video_game%29&oldid=1230716314
+Accessed on: 2024-06-26T16:58:35.656651
+
+
+
+------
+Hacker (video game)
+{{Short description|1985 video game}}
+{{more citations needed|date=October 2013}}
+{{about|the 1985 video game|hackers in online video games|Cheating in online games}}
+{{Infobox video game
+|title = Hacker
+|image = Hacker Coverart.png
+|caption = ZX Spectrum cover art
+|developer = [[Activision]]
+|publisher = Activision
+|designer = [[Steve Cartwright]]
+|producer = Brad Fregger
+|engine = 
+|released = 1985
+|genre = [[Puzzle video game|Puzzle]], [[Strategy game|strategy]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]], [[Macintosh]], [[MSX2]], [[ZX Spectrum]]
+}}
+
+'''''Hacker''''' is a 1985 [[video game]] by [[Activision]]. It was designed by [[Steve Cartwright]] and released for the [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit computers]], [[Atari ST]], [[Commodore 64]], [[Macintosh]], [[MS-DOS]], [[MSX2]], and [[ZX Spectrum]].
+
+==Plot==
+Activision executive [[Jim Levy]] introduced ''Hacker'' to reporters by pretending that something had gone wrong during his attempt to connect on line to company headquarters to demonstrate a new game. After several attempts he logged into a mysterious non-Activision computer, before explaining, "That, ladies and gentlemen, is the game". The player assumes the role of a [[Hacker (computer security)|hacker]], a person experienced in breaking into secure computer systems, who accidentally acquires access to a non-public system. The game was shipped with no information on how to play, thus building the concept that the player did hack into a system.<ref name="compute198510">{{cite news | url=https://archive.org/stream/1985-10-compute-magazine/Compute_Issue_065_1985_Oct#page/n33/mode/2up | title=The New Games | work=Compute! | date=October 1985 | accessdate=16 October 2013 |author1=Bateman, Selby |author2=Yakal, Kathy | pages=32}}</ref>
+
+==Gameplay==
+The player must attempt to hack into the Magma Ltd. computer system at the beginning of the game by guessing the [[login|logon]] [[password]]. The password becomes obvious only after gaining access, through another means of entry, to the later stage of the game, but typing "help" or "h" in the initial command line gives a clue. Since initial attempts consist of guessing (and likely failing), access is eventually granted due to a supposed malfunction in the security system. Once the player is in, the player is asked to identify various parts of a robot unit by pointing the cursor at the relevant parts and pressing the joystick button. Most parts have exotic and technical names, such as "asynchronous data compactor" or "phlamson joint"—this again allows more room for error by initially trying to guess which part each name belongs to. Failure to identify each part correctly forces the player to take a retest until a 100 percent identification is made, at which point the player is then allowed to continue.
+
+[[Image:HackerRobot.gif|thumb|The player guides this [[robot]], as seen on the [[Apple II series|Apple II]] version of the game, through the extensive network of [[tunnel]]s.]]
+The player gains control of the [[robot]] which can travel around the globe via secret [[tunnel]]s, deep within the earth. The game's text states that the robot is powered in some manner by [[magma]]. It is evident that the player has logged into the Magma company's network and is acting as a remote user in its global subterranean transport network, with various strange messages being broadcast hinting at dangerous experiments that the company is doing.
+
+Before getting far, the player is informed that shredded portions of a secret document containing Magma Ltd.'s plans for world domination have been stolen. The player is instructed to retrieve the document by bargaining with the [[espionage|spies]] who stole it, who are located at various locations throughout the globe. The player is warned that it must be retrieved in order to prevent the [[Federal government of the United States|U.S. government]] from thwarting their plans. At this point, the player's objective is clear: retrieve the strips of the stolen document, then deliver them to [[Washington, D.C.]]
+
+The robot's tunnel system is extensive but unmarked, so getting around is initially an exercise in trial and error. Throughout the globe, there are several cities where the robot can surface and interact with people, primarily the spies who want to bargain for their piece of the evidence.
+
+[[Image:HackerPlaces.gif|thumb|200px|The player must navigate tunnels which span the globe to negotiate trades at various locations.]]
+At the various surfacing cities, the player must try to convince the agents to turn over their piece of evidence. Initially the player only has $5,000 to bargain with, but their arsenal of items grows over time and bargaining. The real challenge of the game is determining what each spy wants and how to get it for them. Eventually, all the spies' whims can be satisfied for all the pieces of the secret document. Note that different copies of the game, even on the same computer platform, have differences in which items the spies want.
+
+However, Magma Ltd. discovers the player's break-in shortly after penetration. It launches a security [[satellite]] which, when it intersects with the player's position, demands information which supposedly only a legitimate user would know. The information queried is given to the player previously in the game, but the questions can only be answered if the player has taken careful notes as some of the information asked for is rather obscure. To put more pressure on the player, the Satellites will only allow the player to pass checks four times before another catch will cause the player to get disconnected due to suspicious activity. In addition, the player is under a time limit (tracked by movements the SRU makes); should the player take too long the system will automatically disconnect them anyway, regardless of the Satellites. The sensors of the network will also start to fail, limiting the player's ability to see turns in the tunnels ahead and eventually where their SRU is located, forcing the player to rely on maps of the tunnel network to make it through. If the player goes near [[Australia]] in the network, an automatic game over is issued however the knowledge may help in a future play through for evading a check.
+
+The game lacks a save game feature. A player who fails must start again from the beginning.
+
+==Reception==
+By late 1987 more than 50,000 copies of ''Hacker'' were sold, and it was Activision's third best-selling Commodore game.<ref name="ferrell198712">{{cite news | url=https://archive.org/stream/1987-12-computegazette/Compute_Gazette_Issue_54_1987_Dec#page/n17/mode/2up | title=The Commodore Games That Live On And On | work=Compute's Gazette | date=December 1987 | accessdate=24 January 2015 | author=Ferrell, Keith | pages=18–22}}</ref> ''[[Info (magazine)|Info]]'' rated ''Hacker'' four stars out of five, describing it as "an interesting concept" with "fair to good graphics and sound".<ref name="info198601">{{Cite magazine |last1=Dunnington |first1=Benn | last2=Brown | first2=Mark R. |date=December 1985 – January 1986 |url=https://archive.org/stream/info-magazine-09/Info_Issue_09_1985_Dec-Jan_1986#page/n5/mode/2up | title=C-64/128 Gallery |magazine=Info |pages=4–5, 88–93 |access-date=2019-03-19}}</ref> Roy Wagner reviewed the game for ''[[Computer Gaming World]]'', and stated that "The game is a real challenge (some read that frustrating)."<ref name="CGW25">{{cite magazine |last=Wagner |first=Roy |title=The Commodore Key |magazine=Computer Gaming World |date=Jan–Feb 1986 |volume=1 |issue=25 |pages=19}}</ref> ''[[Ahoy!]]'' wrote that its puzzle nature "is certain to enthrall some and repel others ... repeated play is an integral part of reaching the solution. Those who enjoy a protracted battle of wits will find ''Hacker'' a lively test of their abilities".<ref name="davidson198601">{{cite news | url=https://archive.org/stream/Ahoy_Issue_25_1986-01_Ion_International_US#page/n53/mode/2up | title=Hacker | work=Ahoy! | date=January 1986 | accessdate=2 July 2014 | author=Davidson, Steve | pages=54}}</ref> ''[[Compute!]]'' praised the game's initial realism, and concluded that it was "a worthy addition to your software collection, especially if you enjoy adventure games that require a bit of thought and an investment of time".<ref name="heimarck198604">{{cite news | url=https://archive.org/stream/1986-04-compute-magazine/Compute_Issue_071_1986_Apr#page/n65/mode/2up | title=Hacker | work=Compute! | date=April 1986 | accessdate=8 November 2013 | author=Heimarck, Todd | pages=65}}</ref>
+
+==Reviews==
+*''[[Games (magazine)|Games]]'' #70<ref>{{cite web | url=https://archive.org/details/games701985december/page/n51/mode/2up | title=GAMES Magazine #70 | date=December 1985 }}</ref>
+
+==Legacy==
+This game was followed in 1986 by ''[[Hacker II: The Doomsday Papers]]''. In the sequel, the player is actually recruited based upon their (assumed) success with the activities in the original game. Once again, they are tasked with controlling a robot, this time to infiltrate a secure facility in order to retrieve documents known only as "The Doomsday Papers" from a well-guarded vault to ensure the security of the United States.
+
+==See also==
+*''[[System 15000 (computer game)|System 15000]]''
+*''[[Neuromancer (computer game)|Neuromancer]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/hacker|name=''Hacker''}}
+*{{WoS game|id=0002200|name=Hacker}}
+*{{Internet Archive game|id=a8b_Hacker_1985_Activision}}
+
+[[Category:1985 video games]]
+[[Category:Activision games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Cyberpunk video games]]
+[[Category:DOS games]]
+[[Category:Classic Mac OS games]]
+[[Category:MSX games]]
+[[Category:MSX2 games]]
+[[Category:ZX Spectrum games]]
+[[Category:Puzzle video games]]
+[[Category:Hacking video games]]
+[[Category:Video games designed by Steve Cartwright]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

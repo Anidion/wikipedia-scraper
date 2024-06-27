@@ -1,0 +1,68 @@
+Grand Prix (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Grand_Prix_%28video_game%29&oldid=1220902526
+Accessed on: 2024-06-26T16:53:28.562168
+
+
+
+------
+Grand Prix (video game)
+{{short description|1982 video game}}
+{{for|the 1992 Formula 1 racing game|Formula One Grand Prix (video game)}}
+{{Infobox video game 
+|title = Grand Prix 
+|image = Grand Prix Atari 2600 cover.jpg
+|caption = Box art
+|developer = [[Activision]] 
+|publisher = Activision
+|designer =[[David Crane (programmer)|David Crane]]<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+|programmer =
+|released = {{vgrelease|NA|1982}}
+|genre = [[Racing video game|Racing]]
+|modes = [[Single-player video game|Single-player]] 
+|platforms = [[Atari 2600]] 
+}}
+'''''Grand Prix''''' is a [[Formula One]] [[Grand Prix motor racing]]-themed [[video game]]. It was designed and programmed by [[David Crane (programmer)|David Crane]] for the [[Atari 2600]] and published by [[Activision]] in 1982.<ref name="giantlist"/>
+
+==Gameplay==
+[[File:Grand_Prix_Screenshot.png|thumb|left|A race in progress.]]
+The player drives a [[Formula One car]] on one of four [[race track]]s,<ref name="Weiss">{{cite book |last=Weiss |first=Brett |title=Classic Home Video Games, 1972–1984: A Complete Reference Guide |url=https://books.google.com/books?id=BzxTtml8Jq4C&pg=PA66 |access-date=25 May 2013 |year=2007 |publisher=[[McFarland & Company]] |location=[[Jefferson, North Carolina|Jefferson]] |isbn=9780786432264 |oclc=124036221 |page=66}}</ref> each of which has a different [[difficulty level]]. Difficulty is gauged by the length of the course, the number of cars and oil slicks on the track, and the number of bridges to cross.
+
+The race is viewed from a [[top-down perspective]], and the screen [[Side-scrolling video game|scrolls from right to left]].<ref name="Weiss" /> The player's car maneuvers only on a vertical axis, and loses a little speed when it does so. The [[joystick]]'s button is the [[throttle]]: Depressing it accelerates, and releasing it decelerates.<ref name="instructions">{{cite book |title=Grand Prix Instructions |url=http://atariage.com/manual_page.html?SystemID=2600&SoftwareLabelID=220&maxPages=6&currentPage=0 |access-date=1 June 2013 |year=1982 |publisher=Activision |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303235534/http://atariage.com/manual_page.html?SystemID=2600&SoftwareLabelID=220&maxPages=6&currentPage=0 |url-status=dead }}</ref> Moving the joystick left applies the [[brake]]. The [[Transmission (mechanics)|transmission]] audibly shifts as the player's car accelerates and decelerates.
+
+''Grand Prix'' is a time trial, and the competing cars are obstacles rather than competition for the finish line. The player's car can easily outpace the other cars, but if it collides with one, its speed drops lower than that of the impacted car.<ref name="instructions" /> Driving over an oil slick causes the player's car to skid slightly sideways, but does not slow it down. Once every [[Scale (ratio)|scale]] mile, the player crosses a narrow bridge over blue water. Colliding with any wall of the bridge stops the car, and the player must slowly gain speed to continue. A patch of oil slicks precedes a bridge.<ref name="instructions" /> This both forewarns the player, and presents a hazard while trying to steer onto the bridge. Competing cars do not cross bridges nor the finish line; if they are about to approach either one, they stop suddenly.
+
+===Tracks===
+Each of the game's four race tracks is a named after a real [[List of Formula One circuits|Formula One circuit]]: [[Watkins Glen International]], [[Brands Hatch]], [[Bugatti Circuit]], and [[Circuit de Monaco]]. All courses are tree-lined [[Straight (racing)|straight]] roads, lacking any curves.
+The shortest, simplest course is Watkins Glen. Brands Hatch is about twice as long as Watkins Glen, and has one bridge. Le Mans is about three times as long as Watkins Glen, and has two bridges. Monaco is about five times as long as Watkins Glen, and has three bridges.
+
+==Development==
+When David Crane developed a technique for painting large, multicolored [[Sprite (computer graphics)|sprites]] on the 2600, he made a color pattern that reminded him of Grand Prix [[racing stripe]]s. This inspired him to design a Grand Prix racing game to apply his new technique.<ref>{{cite journal |last=Bartimo |first=Jim |year=1984 |title=Q&A: David Crane |journal=[[InfoWorld]] |volume=6 |issue=11 |page=84 |publisher=[[International Data Group|IDG]] |url=https://books.google.com/books?id=li4EAAAAMBAJ&pg=PA84 |access-date=1 June 2013}}</ref>
+
+==Reception==
+Richard A. Edwards reviewed ''Grand Prix'' in ''[[The Space Gamer]]'' No. 54.<ref name="SG">{{cite journal|last=Edwards |first=Richard A. |date=August 1982 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=54|pages=28}}</ref> Edwards commented that "all in all, the graphics and required skill make ''Grand Prix'' a game worth purchasing".<ref name="SG"/> ''[[Computer and Video Games]]'' rated the game 80% in 1989.<ref name="CVG">{{cite journal |title=Complete Games Guide |journal=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+
+==Reviews==
+* ''JoyStik'' (Dec, 1982)<ref>{{cite web | url=https://archive.org/details/joystik_magazine-1982-12/page/n63/mode/2up | title=Joystik Magazine (December 1982) Volume 1 Number 3 | date=December 1982 }}</ref>
+* ''[[Tilt (French magazine)|Tilt]]'' (Jan, 1983)<ref>http://download.abandonware.org/magazines/Tilt/tilt_numero003/TILT%20003%20(Janvier%20-%20F%E9vrier%201983)%20-%20Page%20036.jpg {{Bare URL image|date=March 2022}}</ref>
+
+==Legacy==
+In 1995, Activision included the game in the anthology ''[[Atari 2600 Action Pack|Activision's Atari 2600 Action Pack for Windows 95]]''.<ref>{{cite web |url=http://www.ign.com/games/activisions-atari-2600-action-pack-for-windows-95/pc-724813 |title=''Activision's Atari 2600 Action Pack for Windows 95'' |author=<!--Staff writer(s); no by-line.--> |website=[[IGN]] |publisher=[[Ziff Davis Media]] |access-date=31 May 2013}}</ref>
+
+==See also==
+{{Portal|Video games|1980s}}
+*[[List of Atari 2600 games]]
+*[[List of Activision games: 1980–1999]]
+*''[[Enduro (video game)|Enduro]]''
+
+==References== 
+{{Reflist}}
+
+[[Category:1982 video games]]
+[[Category:Activision games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Formula One video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Top-down racing video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

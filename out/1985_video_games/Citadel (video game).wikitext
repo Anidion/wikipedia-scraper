@@ -1,0 +1,74 @@
+Citadel (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Citadel_%28video_game%29&oldid=1225953555
+Accessed on: 2024-06-26T16:58:15.039576
+
+
+
+------
+Citadel (video game)
+{{Short description|1985 video game}}
+{{For multi|the 1989 video game|Citadel: Adventure of the Crystal Keep|the 2013 video game|Citadels (video game)}}
+{{Refimprove|date=March 2016}}
+{{Infobox video game
+| title = Citadel
+| image = Citadel (Superior Software) cover.jpg
+| developer = [[Superior Software]]
+| publisher = 
+| designer = Michael Jakobsen
+| engine =
+| released = 1985
+| genre = [[Platform game|Platform]], [[Puzzle game|puzzle]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[BBC Micro]], [[Acorn Electron]]
+}}
+
+'''''Citadel''''' is a [[computer game]] developed by Michael Jakobsen for the [[BBC Micro]], and released by [[Superior Software]] in 1985. It was also ported to the [[Acorn Electron]]. Centred around a castle, this platform game with some puzzle-solving elements requires players to find five hidden crystals and return them to their rightful place.<ref>{{cite web|url=http://www.acornelectron.co.uk/mags/eu/revs/superior/r-cita.html|title=Electron User Review Archive: CITADEL, Superior|website=Acornelectron.co.uk|accessdate=28 October 2018|archive-url=https://web.archive.org/web/20140919054625/http://acornelectron.co.uk/mags/eu/revs/superior/r-cita.html|archive-date=19 September 2014|url-status=dead}}</ref><ref>{{Cite web|url=https://www.gamestm.co.uk/features/8-games-we-wouldnt-have-without-quake/|title=Author and Background Citadel|website=Gamestm.co.uk|date=June 2023}}</ref> It also features some outside areas external to the castle (including a wasteland, a pyramid, a sea and an island).   
+
+Upon returning the crystals, the player must teleport to a separate set of locations to complete the game. Once the game is completed, the player is left free to roam the castle in order to achieve the maximum possible [[Score (gaming)#Video games|score]] if they have not done so already. The only way to see the final congratulatory message is to reach 99 points.
+
+''Citadel'' was unusual at the time for playing synthesized speech before loading the main game (in part to advertise Superior Software's "Speech!" programme package), as well as having other special effects advanced for the time, such as splashing water sounds. Many BBC Micro gamers regard ''Citadel'' as a seminal game and it has spawned social media appreciation pages.<ref>{{Cite web|url=https://www.facebook.com/Citadel-Superior-Software-54270484891/|title=Facebook Page|website=Facebook.com}}</ref>
+
+== Gameplay ==
+<!--[[Image:LoadingScreen.png|thumb|left|Loading Screen {{deletable image-caption|Thursday, February 10, 2011|date=February 2011}}]]-->
+[[Image:ElectronCitadel.png|thumb|left|In game (Acorn Electron)]]
+
+''Citadel'' has a number of distinctive features. Unlike many other [[platform game]]s, the player is not automatically killed if they come into contact with fireballs, snakes or other hazards; instead the player is allocated a set amount of energy, measured by a number, which is depleted through contact, which can be replenished by collecting objects shaped like bottles. If the player continuously loses too much energy in a room, the screen turns red and the player is transported back to where they entered the room. This prevents players from passing through a room simply by walking through enemies and taking the damage.
+
+The game also allows the player to choose the sex of their character and uses a different [[Sprite (computer graphics)|sprite]] accordingly - quite unusual in the days when in-game memory was at a premium (although the chosen gender of the sprite does not affect gameplay). The player sprite is not superimposed over objects that it walks "in front" of; rather, the colour of the pixels of the character sprite is overlaid, using an [[XOR]] bitwise operation, with the colour of the superimposed object, resulting in a completely different colour. For instance, the male player sprite normally has pink hair and yellow skin, but has yellow hair and pink skin when placed in front of the cyan stones of the [[Stonehenge]] screen. This effect is quite distinctive (it was also used in the two "sequels").
+
+Most enemies cannot be destroyed, only avoided. The exceptions to this are the 'monks' which can be destroyed by jumping and firing a projectile-like 'spell' into their face. Each spell expends one unit of energy, which is restored if the player is successful in killing the monk. If a player returns to a room where they had previously destroyed a monk, the monk reappears and must be killed again, often employing a different technique if the room was entered by a different way.
+
+In addition to the crystals, various other items are located throughout the 100 different rooms<ref>{{cite book|url=https://books.google.com/books?id=QZS_gXpshd4C&pg=PT95|title=Classic Videogame Hardware Genius Guide|first=Imagine|last=Publishing|publisher=Imagine Publishing|isbn=9781908222220|accessdate=28 October 2018|via=Google Books}}</ref> of the castle which can be collected and used to solve puzzles in order to obtain the crystals. These include coloured keys which open doors of the same colour, giving access to other areas of the game; an 'ice crystal' which, whilst carried, causes water in its vicinity to freeze, enabling access to previously inaccessible areas; [[trampoline]]s which can be jumped on to reach high areas ordinarily out of reach, and many others.
+
+The player is limited to carrying two items at any one time and a certain combination of objects in their [[inventory]] is often needed to solve particular problems. For example, one crystal is located in a room behind a brick wall. Access is obtained by finding a cannonball and sack of gunpowder and then walking past a cannon. These items are then automatically 'loaded' into the cannon which fires, blasting a hole in the brick wall giving access to the crystal behind.
+
+Most of the items scattered throughout the game are needed to complete it, with the exception of the barrel (which can be used as a platform to jump to a higher area, although the same effect can be achieved with the trampoline), and the metal bars, which can be taken to the Stonehenge screen to be converted into energy, but add no points to the player's score.
+
+The numbers below the name of the screen ("The Prison" in this case) indicate the number of units of energy left, the player's score, and two coordinates indicating the location of the screen. The letter next to the key which is being carried in the inventory was used by players who only had access to a monochrome monitor.
+
+== Ports ==
+In order to port the BBC Micro game to the Electron, which had more limited memory constraints, apparently random multicoloured top and bottom borders had to be left on screen. This was actually machine code that was left on-screen as 'decoration' rather than use more memory to hide it.<ref name="electronuser198602_danes">{{cite magazine | url=https://archive.org/details/ElectronUserVolume3/Electron-User-03-05/page/n7/mode/1up | title=Danes help produce new Electron titles | magazine=Electron User | date=February 1986 | access-date=16 October 2021 | volume=3 | issue=5 | pages=8 | quote="The program overspill appears as a fluctuating patterned strip at the bottom of the screen", said Payne, "It is the only way it could be released on the Electron".}}</ref>
+
+==Reception and legacy==
+''Citadel'' received a great deal of acclaim at the time of its release, and remains one of the classic BBC Micro games.{{citation needed|date=May 2015}} The game ''[[Palace of Magic]]'', released in 1987, used extremely similar gameplay principles, and was in a way a de facto sequel. Although subsequent games from Superior, such as ''Quest'', ''[[Camelot (video game)|Camelot]]'', ''[[Ricochet (1989 video game)|Ricochet]]'' and ''Baron'', used many of the same elements — though without achieving the same cult status — an official sequel to the game was not released until 1993 when Superior decided to release ''The Fort'', yet another such game, as ''[[Citadel 2]]''.<ref>{{cite web|url=http://www.stairwaytohell.com/lostandfound/index.html|title=The BBC Micro and Electron Games Archive|website=Stairwaytohell.com|accessdate=28 October 2018}}</ref> However, by this time the BBC Micro was declining in popularity — ''Citadel 2'', written by "Symo" (Simon Storr) was one of the last BBC Micro games released — and the sequel is little known.
+
+As with most Superior Software games during this period, there was a prize associated with ''Citadel''. The winner was the first person to find three crowns which were hidden around the game map. It is possible for the player to complete the game without picking up the crowns, although the player cannot see the final congratulatory message if they are not collected.
+
+Reconstructed source code obtained by [[disassembler|disassembling]] the BBC Model B version of the game was released in October 2018.<ref name="reconstructed_source">{{cite web | url=https://stardot.org.uk/forums/viewtopic.php?f=1&t=15819 | title=Citadel Disassembly / Reassembly v0.1 | website=stardot.org.uk | date=8 October 2018 | access-date=30 December 2021}}</ref> Final versions of the original Acorn Electron source code, as well as multiple development versions of the BBC Micro source, were made available by the game's author in December 2021 with the released package also including various documents related to the game's development.<ref name="original_source">{{cite web | url=https://stardot.org.uk/forums/viewtopic.php?f=1&t=23925 | title=Citadel Source Code (+ Crypt Capers + more) | website=stardot.org.uk | date=25 December 2021 | access-date=30 December 2021}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.bbcmicrogames.com/maps/citadel-map.gif Map of the Citadel gameworld]
+
+{{Superior Software}}
+
+[[Category:1985 video games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:BBC Micro and Acorn Electron-only games]]
+[[Category:Platformers]]
+[[Category:Single-player video games]]
+[[Category:Superior Software games]]
+[[Category:Video games set in castles]]
+[[Category:Video games with gender-selectable protagonists]]

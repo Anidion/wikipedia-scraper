@@ -1,0 +1,60 @@
+Solo Flight (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Solo_Flight_%28video_game%29&oldid=1228372339
+Accessed on: 2024-06-26T16:55:52.462411
+
+
+
+------
+Solo Flight (video game)
+{{Infobox video game
+| title = Solo Flight
+| image = Solo_Flight_(video_game)_Cover_Art.jpg
+| caption = 
+| developer = [[MicroProse]]
+| publisher = MicroProse<br>[[U.S. Gold]] (UK)<br>FIL (Thomson)
+| designer = [[Sid Meier]]<ref name=giantlist/>
+| released = {{vgrelease|NA|1983}}{{vgrelease|UK|1984}}
+| genre = [[Simulation game|Simulation]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Atari 8-bit]], [[Apple II]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[Thomson computers|Thomson]]
+}}
+
+'''''Solo Flight''''' is a third-person [[amateur flight simulator|flight simulator]] written by [[Sid Meier]] for [[Atari 8-bit computers]] and published by [[MicroProse]] in 1983.<ref name="giantlist"/> It includes a game mode called Mail Pilot. This was the fourth flight simulator Meier wrote for MicroProse—following ''[[Hellcat Ace]]'', ''[[Spitfire Ace]]'', and ''Wingman''—and the first which did not involve aerial combat.
+
+In the UK, ''Solo Flight'' was published by [[U.S. Gold]].<ref>{{cite web|title=Solo Flight (U.S. Gold)|url=http://www.atarimania.com/game-atari-400-800-xl-xe-solo-flight_13354.html|website=Atari Mania}}</ref> It was ported to the [[Apple II]], [[Commodore 64]], and later [[IBM PC compatible]]s. A version for [[Thomson computers]] was published in 1985 by FIL in France with the title '''''Vol Solo'''''.<ref>{{cite web|title=Vol Solo (Thomson Computer)|url=http://dcmoto.free.fr/programmes/vol-solo/index.html|website=DCMOTO|url-status=dead|archive-url=https://web.archive.org/web/20191105054349/http://dcmoto.free.fr/programmes/vol-solo/index.html|archive-date=2019-11-05}}</ref> A Second Edition of the game was released in 1985<ref>{{cite web|title=Solo Flight - Second Edition|url=http://www.atarimania.com/game-atari-400-800-xl-xe-solo-flight-second-edition_11826.html|website=Atari Mania}}</ref> with improved graphics and an instructor. A [[Mega Drive]] version was planned but never released.<ref name="MM17a1">{{cite magazine|url=https://archive.org/details/Mean_Machines_Issue_17_1992-02_EMAP_Images_GB/page/n11/mode/1up|title=News Special - CES Show: Games List - Megadrive|magazine=[[Mean Machines]]|issue=17|publisher=[[EMAP]]|date=February 1992|page=12}}</ref>
+
+==Gameplay==
+[[File:Solo_Flight_(video_game)_Second_Edition_Atari_8-bit_PAL_screenshot.png|thumb|left|Second Edition screenshot (Atari 8-bit)]]
+''Solo Flight'' consists of two parts: a pure flying simulation and a game mode called Mail Pilot.<ref name=leyenberger/> The top half of the screen shows the plane being flown in third person, while the bottom portion contains instruments.<ref name=pappas/> The game allows flying by both [[visual flight rules]] and [[instrument flight rules]].
+
+In Mail Pilot, the player delivers five bags of mail to destination airports chosen from the twenty-one airports in the game. A score is given based on navigation and time. While en route, the plane may suffer mechanical and instrument failures.<ref name=leyenberger/>
+
+==Reception==
+In 1985, ''[[ANALOG Computing]]'' editor [[Lee Pappas]] wrote, "the graphics are somewhat rough, and the control panel is not up to what it should be (there is no stall indicator, and non-standard VORS)," but still concluded, "As a whole, Solo Flight is the best Atari flight simulator published to date."<ref name=pappas/> ''[[Compute!|COMPUTE!]]'' reviewer Arthur Leyenberger praised both the simulation and game aspects of ''Solo Flight''.<ref name=leyenberger/>
+
+Roy Wagner reviewed and compared ''Solo Flight'' and ''[[Flight Simulator II (Sublogic)|Flight Simulator II]]'' for ''[[Computer Gaming World]]'', and stated that "a very good program. The 15 pages of documentation are well written and will teach you all you need to know to taxi, takeoff, fly about, and land. It does not, however, help much in learning how to get from one specific airport to another."<ref name="CGW17">{{cite magazine |last=Wagner |first=Roy |title=Two Flight Simulators |magazine=Computer Gaming World |date=August 1984 |volume=1 |issue=17 |pages=28–29, 39}}</ref>
+
+Kim Nelson praised the game while reviewing it for ''MicroTimes''. She called the flight instruments realistic and the graphics clear and easily understandable. She also described it as an excellent game for [[Visual flight rules]] and [[Instrument flight rules]] pilots, while praising the mail run game for adding a new dimension to the usual flight simulator games.<ref>{{cite magazine |title=Reviews: Solo Flight |magazine=MicroTimes |publisher=BAM Publications Inc. |volume=1 |issue=1 |date=May 1984 |page=7}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="leyenberger">{{cite journal|last1=Leyenberger|first1=Arthur|title=Review: Solo Flight|journal=Compute!|date=March 1985|issue=58|page=70|url=https://www.atarimagazines.com/compute/issue58/review_solo_flight.html}}</ref>
+<ref name="pappas">{{cite journal|last1=Pappas|first1=Lee|title=Review: Solo Flight|journal=ANALOG Computing|date=February 1984|issue=16|url=https://www.atarimagazines.com/compute/issue58/review_solo_flight.html}}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+* {{atarimania|id=13353}}
+* {{lemon64 game|id=2372|name=Solo Flight}}
+
+[[Category:1983 video games]]
+[[Category:Flight simulation video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Cancelled Sega Genesis games]]
+[[Category:MicroProse games]]
+[[Category:Video games designed by Sid Meier]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the United States]]

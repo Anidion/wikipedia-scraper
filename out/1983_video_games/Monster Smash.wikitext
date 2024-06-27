@@ -1,0 +1,68 @@
+Monster Smash
+Permalink: //en.wikipedia.org/w/index.php?title=Monster_Smash&oldid=1224692061
+Accessed on: 2024-06-26T16:55:26.318026
+
+
+
+------
+Monster Smash
+{{short description|1983 video game}}
+
+{{Infobox video game
+| title = Monster Smash
+| image = Monster_Smash_Cover_Art.jpg
+| caption = 
+| released = '''1983:''' Apple, Atari <br>'''1984:''' C64
+| designer = Dave Eisler
+| programmer = '''Apple, Atari'''<br>Dave Eisler<br>'''C64'''<br>Mark Riley<ref name=gb64/>
+| composer = Gary Gilbertson
+| publisher = [[Datamost]]<br>The Software Farm
+| developer = 
+| platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]]
+| genre = [[Action_game|Action]]
+}}
+
+'''''Monster Smash''''' (stylized in-game as '''''Monster Smash!''''') is an [[action game]] written by Dave Eisler and published by [[Datamost]] in 1983 for the [[Apple II]] and [[Atari 8-bit computers]].<ref name="giantlist"/> A [[Commodore 64]] port followed in 1984. The music in the Atari 8-bit version was written by Gary Gilbertson<ref name="atarimania"/> and praised by reviewers.<ref name="page6"/> An earlier version of the game was published by The Software Farm in 1982 as '''''Monster Mash'''''.
+
+==Gameplay==
+[[File:Monster_Smash_Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit gameplay]]
+
+The aim of ''Monster Smash'' is to capture all the monsters that are roaming around a local graveyard. The player must trap the monsters by opening and closing various gates and then smash them using the gravestones. If any monster reaches the right side of the screen it escapes, and if the player lets too many of them escape, as shown by a meter, the game ends. Once a certain number of monsters have been captured the player moves to the next level. In higher levels human visitors are introduced and the player must allow them to safely pass through a graveyard, while busy smashing the monsters.
+
+===Music===
+{{listen|header=
+|type=music
+|filename=MOnster_Smash_Atari_8-bit_PAL_audio_clip.ogg
+|title=Monster Smash Title Music (Atari 8-bit)
+|description=
+}}
+A title theme of the Atari 8-bit version of ''Monster Smash'' was composed by Gary Gilbertson using Philip Price's Advanced Music Processor. Price and Gilbertson later collaborated on the ''[[Alternate Reality (series)|Alternate Reality]]'' games.
+
+==Reception==
+Steven A. Schwartz writing for ''[[Electronic Fun with Computers & Games]]'' praised the graphics and sound of the Apple II version but concluded: "All the features aside, however, it's mostly a test of manual dexterity and often an exercise in frustration."<ref name="efun"/> Jim Short in issue 15 of ''[[Page 6]]'' praised the music of the Atari 8-bit version of a game: "The outstanding thing about ''Monster Smash'' is the opening title tune. It is, without any shadow of doubt, the best musical score I've ever heard in a computer game. It is almost worth purchasing the game just to listen to the music. Yes, it is that good!"<ref name="page6"/>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="atarimania">{{cite web |title=Monster Smash |url=http://www.atarimania.com/game-atari-400-800-xl-xe-monster-smash_3493.html |website=Atari Mania}}</ref>
+<ref name="page6">{{cite journal |title=Three from Datamost |journal=Page 6 |date=May 1985 |page=43 |url=https://archive.org/details/Page6-15-May85/page/42/mode/2up}}</ref>
+<ref name="efun">{{cite journal |title=Monster Smash |journal=Electronic Fun with Computer & Games |date=February 1984 |page=55 |url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_02_No_04_1984-02_Fun_Games_Publishing_US/page/n55/mode/2up}}</ref>
+<ref name="gb64">{{cite web |title=Monster Smash |url=http://gb64.com/game.php?id=4954&d=18&h=0 |website=Gamebase 64}}</ref>
+}}
+
+==External links==
+*{{Internet Archive game|id=a8b_Monster_Smash_1983_Datamost_US}}
+*[https://archive.org/details/ahoy-magazine-06/page/n51/mode/2up Review] in ''[[Ahoy!]]''
+*[https://archive.org/details/Electronic_Games_Volume_01_Number_14_1983-04_Reese_Communications_US/page/n63/mode/2up Review] in ''[[Electronic Games]]''
+*[https://archive.org/details/InCider198303/page/n181/mode/2up Review] in ''[[InCider]]''
+*[https://archive.org/details/CreativeComputingbetterScan198302/page/n99/mode/2up Review] in ''[[Creative Computing (magazine)|Creative Computing]]''
+
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Video games set in cemeteries]]
+[[Category:Commodore 64 games]]
+[[Category:Datamost games]]
+[[Category:Horror video games]]
+[[Category:Video games developed in the United States]]

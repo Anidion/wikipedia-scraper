@@ -1,0 +1,60 @@
+Gift from the Gods
+Permalink: //en.wikipedia.org/w/index.php?title=Gift_from_the_Gods&oldid=1138194580
+Accessed on: 2024-06-26T16:56:53.114705
+
+
+
+------
+Gift from the Gods
+{{More citations needed|date=January 2017}}
+{{Infobox video game
+| title = Gift from the Gods 
+| image = Gift From The Gods.jpg
+| caption = ZX Spectrum cover
+| developer = [[Denton Designs]]
+| publisher = [[Ocean Software|Ocean]]
+| designer =  John Gibson
+| released = {{vgrelease|EU|1984}}
+| genre = [[Adventure game|Adventure]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[ZX Spectrum]]
+}}
+
+'''''Gift from the Gods ''''' is a British [[video game]] published in [[1984 in video gaming|1984]] for the [[ZX Spectrum]]. Written by Denton Designs, a group of programmers and artists who worked on the unfinished ''[[Bandersnatch (video game)|Bandersnatch]]'' for the ill-fated software company [[Imagine Software]].
+
+==Plot==
+In the game you control your character [[Orestes]], who must avenge his father's murder by returning to the palace of Mycenae, entering its catacombs, and solving a puzzle.<ref>{{Cite web|url=http://www.crashonline.org.uk/13/giftgod.htm|title = CRASH 13 - Gift from the Gods}}</ref> The game is based loosely on a Greek myth attributed to Homer, in which Agamemnon, the father of Orestes, is murdered by his wife Clytaemnestra. In the myth, Orestes along with his sister Electra, avenge their father's death by killing their mother, Clytaemnestra.
+
+==Gameplay==
+
+Essentially a maze game, there are 16 rooms each containing four "Euclidean shapes" - six of which are real and must be taken to the Guardians chamber, which will then allow Orestes to escape, the remaining 58 being just illusions.  Orestes' sister Electra will point him in the direction of the nearest room with a real shape, and point at it. Most rooms have four illusions, and a single room can contain several real shapes. If Orestes slays one of the large magical monsters found in the maze the illusions will disappear for a short while making the choice easier.
+
+Clytaemnestra is also in the maze, and will kill Electra if the two meet, making the task all the more difficult to accomplish  Orestes stamina is sapped by the maze monsters, and can be replenished by either entering the Guardians chamber which instantly restores health, or by finding life giving water that drips from the ceiling replenishing at a much slower rate.
+
+Orestes can walk, run, fly and fight using the same set of controls.  If Orestes is near a monster fight mode will be used, whereas if he is near a ledge he will fly over.
+
+The maze is not straightforward, for instance moving first up then right will take Orestes to a different room than moving first right then up, however, it is mappable as the map logic is consistent.<ref>{{cite web|url=https://maps.speccy.cz/map.php?id=GiftfromtheGods|title=Gift from the Gods map|last=Smith|first=Hippy|date=12 September 2011|work=Speccy screenshot maps|access-date=8 February 2023}}</ref>
+
+==Reception==
+{{VG reviews
+|CRASH = 84%<ref>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Reviews|pages=51–52|issue=13|date=February 1985|url=https://archive.org/details/Crash_No._13_1985-02_Newsfield_GB/page/n53/mode/2up}}</ref>
+|CVG = 34/40<ref>{{cite magazine|magazine=[[Computer and Video Games]]|title=Reviews|page=107|issue=41|date=March 1985|url=https://archive.org/details/ComputerAndVideoGamesIssue041Mar85/page/n105/mode/2up}}</ref>
+|SUser = 6/10<ref>{{cite magazine|magazine=[[Sinclair User]]|last=Price|first=Richard|title=Gift from the Gods|page=34|issue=36|date=March 1985|url=https://archive.org/details/sinclair-user-magazine-036/page/n33/mode/2up}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{WoS game|id=0002041}}
+*[http://www.gamefaqs.com/sinclair/947669-gift-from-the-gods/data GameFAQs]
+
+[[Category:1984 video games]]
+[[Category:Action-adventure games]]
+[[Category:Denton Designs games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Ocean Software games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

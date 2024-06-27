@@ -1,0 +1,63 @@
+Cosmic Ark
+Permalink: //en.wikipedia.org/w/index.php?title=Cosmic_Ark&oldid=1225922785
+Accessed on: 2024-06-26T16:53:13.228318
+
+
+
+------
+Cosmic Ark
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Cosmic Ark
+| image = File:Cosmic Ark (Cover).jpg
+| developer = [[Imagic]]
+| publisher = Imagic
+| designer = [[Rob Fulop]]<ref name="dp"/>
+| released = 1982
+| genre = [[Action game|Action]]
+| modes = [[Single-player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[Atari 2600]]
+}}
+
+'''''Cosmic Ark''''' is an [[Atari 2600]] game designed by [[Rob Fulop]] and published by [[Imagic]] in 1982.<ref name=giantlist/> The objective is to gather specimens from different planets in a spaceship which contains the survivors from the city of [[Atlantis (video game)|Atlantis]]. There are two versions of the cartridge. One allows the player to toggle the starfield display with the Black & White / Color TV switch. In the other the starfield cannot be disabled.<ref name=aa/>
+
+==Gameplay==
+[[File:Cosmic Ark 1 Atari 2600.jpg|thumb|left|First stage, showing the mothership fending off meteors]]
+[[File:Cosmic Ark 2 Atari 2600.jpg|thumb|left|Second stage, showing a shuttle beaming up an alien]]
+
+In the first stage, the player must fend off meteor showers from all four sides of the screen by pushing the joystick to fire in the desired direction, similar to the 1980 arcade game ''[[Space Zap]]''. The second stage requires the player to pilot a shuttle to a planet and use its tractor beam to pick up life forms. While near the planet's surface, planetary defenses will fire at the shuttle. If hit, one previously captured specimen will be freed, forcing the player to retrieve another. After a set period of time, a klaxon will warn of renewed meteor activity, and the player must return immediately to defend the ark.<ref name=manual/>
+
+''Cosmic Ark'' does not provide a set number of lives. Instead, the player's ark starts with 40 fuel units, which are lost with each meteor strike or shot fired, and gained by destroying a meteor or capturing a life form. Capturing both life forms from a planet before the warning klaxon will top off fuel reserves. If the ark runs out of energy, the next hit it takes will end the game.<ref name=manual/>
+
+Like its predecessor, ''Atlantis'', ''Cosmic Ark'' ends with the destruction of the Ark but the smaller shuttle ship escaping. This plot thread was not continued in other Imagic games.<ref name=dp/>
+
+==Development==
+According to Fulop, the game was created entirely as a feat of technical one-upmanship: to show off the impressive background starfield effect to Activision programmers [[David Crane (programmer)|David Crane]] and [[Bob Whitehead]].<ref>{{cite web|last1=Fulop|first1=Rob|title=Making Crane Cry — The Origin of Cosmic Ark|url=http://robfulop.com/blog/2008/04/14/making-david-crane-cry-the-origin-of-cosmic-ark|date=April 14, 2008|archiveurl=https://web.archive.org/web/20091227184554/http://robfulop.com/blog/2008/04/14/making-david-crane-cry-the-origin-of-cosmic-ark/|archivedate=December 27, 2009|accessdate=January 4, 2020}}</ref> The starfield effect uses a bug in the Atari 2600 hardware.<ref name=dp/>
+
+==Reception==
+Richard A. Edwards reviewed ''Cosmic Ark'' in ''[[The Space Gamer]]'' No. 59.<ref name="SG">{{cite journal|last= Edwards |first= Richard A. |date=January 1983 |title=Capsule Reviews|journal=[[The Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=59|pages=44}}</ref> Although he called it fun at first, he noted that the game becomes more challenging in later stages.<ref name="SG"/>
+
+==Reviews==
+* ''TeleMatch'' (January 1983)<ref>{{cite web | url=http://www.kultpower.de/archiv/heft_telematch_1983-02_seite19 | title=Kultpower Archiv: Komplettscan Telematch 2/1983}}</ref>
+* ''[[Electronic Fun with Computers & Games]]'' (February 1983)<ref>{{cite web | url=https://archive.org/details/Electronic_Fun_with_Computer_Games_Vol_01_No_04_1983-02_Fun_Games_Publishing_US/page/n57/mode/2up | title=Electronic Fun with Computer & Games - Vol 01 No 04 (1983-02) (Fun & Games Publishing) (US) | date=February 1983}}</ref>
+* ''[[Tilt (French magazine)|Tilt]]'' (March 1983)<ref>{{Cite web |date=1983-03-04 |title=Tubes Casettes |url=https://download.abandonware.org/magazines/Tilt/tilt_numero004/Tilt%20004%20-%20Page%20025%20(1983-03-04).jpg |website=abandonware.org |publisher=[[Tilt (French magazine)|Tilt]] |language=fr}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+<ref name="aa">{{cite web|title=Cosmic Ark|url=https://www.atariage.com/software_page.html?SoftwareLabelID=104|website=AtariAge|access-date=2017-11-08|archive-url=https://web.archive.org/web/20170613132951/http://www.atariage.com/software_page.html?SoftwareLabelID=104|archive-date=2017-06-13|url-status=dead}}</ref>
+<ref name="manual">{{cite web|title=Cosmic Ark Manual|url=https://archive.org/details/Cosmic_Ark_1982_Imagic|website=archive.org|year=1982 |publisher=Imagic}}</ref>
+<ref name="dp">{{cite web|url=http://www.digitpress.com/library/interviews/interview_rob_fulop.html|title=DP Interviews Rob Fulop|last1=Stilphen|first1=Scott|website=Digital Press}}</ref>
+}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-2600-vcs-cosmic-ark_s6775.html ''Cosmic Ark''] at Atari Mania
+
+[[Category:1982 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Imagic games]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games set in outer space]]
+[[Category:Science fiction video games]]

@@ -1,0 +1,74 @@
+Head On (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Head_On_%28video_game%29&oldid=1224257286
+Accessed on: 2024-06-26T16:51:15.873566
+
+
+
+------
+Head On (video game)
+{{Short description|1979 video game}}
+{{Infobox video game
+| title          = Head On
+| image          = Head On promotional flyer.jpg
+| caption        = North American flyer
+| developer      = [[Gremlin Industries|Sega/Gremlin]]
+| publisher      = {{vgrelease|JP|[[Sega]]<ref name="Famitsu"/>|NA/EU|[[Gremlin Industries|Sega/Gremlin]]<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=131 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n132}}</ref><ref name="flyers">{{cite web |title=Head On Video Game Flyers |url=https://flyers.arcade-museum.com/?page=archive&db=videodb&name=Head+On |website=The Arcade Flyer Archive |access-date=31 May 2021}}</ref>}}
+| designer       = Lane Hauck<ref name="SDR"/>
+| platforms      = [[Arcade video game|Arcade]], [[Commodore 64]], [[VIC-20]], [[Game Boy]], {{nowrap|[[PC-8801]]}}, [[Sharp MZ]]<ref name="Famitsu"/>
+| released       = '''''Head On''''' {{Video game release|JP|April 1979<ref name="Famitsu"/>|NA|June 1979<ref name="Akagi"/>|EU|1979<ref name="flyers"/>}} '''''Head On Part II''''' {{vgrelease|JP|October 1979<ref name="Famitsu"/>|NA|November 1979<ref name="Akagi"/>}}
+| genre          = [[Maze video game|Maze]]
+| modes          = 1-2 players alternating turns
+| arcade system  = [[List of Sega arcade system boards#Arcade system boards|Dual]]
+}}
+
+'''''Head On''''' is an [[arcade video game]] developed by [[Gremlin Industries|Sega/Gremlin]] and released by [[Sega]] in 1979. It's the first [[maze game]] where the goal is to run over dots.<ref>{{Cite book |last=Horowitz |first=Ken |url=https://www.worldcat.org/oclc/1041854216 |title=The Sega Arcade Revolution: A History in 62 Games |date=2018 |publisher=[[McFarland & Company]] |isbn=978-1-4766-3196-7 |location=Jefferson, North Carolina |page=26 |oclc=1041854216}}</ref> Designed by Lane Hauck at Sega/Gremlin in the United States, it was the fourth highest-grossing arcade game of 1979 in both Japan and the US.
+
+Sega released a sequel, '''''Head On Part II''''', later the same year. The original inspired a number of clones, as well as [[Namco]]'s ''[[Rally-X]]'' (1980).
+
+==Gameplay==
+[[image:Sega_Head_On.png|thumb|Arcade screenshot]]
+Two cars continuously drive forward through rectangular channels in a simple maze. At the four cardinal directions are gaps where a car can change lanes. The player goal is to collect all dots in the maze while avoiding collisions with the computer-controlled car that is travelling in the opposite direction.
+
+==Development==
+The game was developed by [[Gremlin Industries|Sega/Gremlin]] in the United States, designed by Lane Hauck. He brainstormed the concept in 1978, roughly around the time that [[Sega]] purchased [[Gremlin Industries]]. After the acquisition, veteran Sega engineer Shikanosuke Ochi had a look at a prototype of ''Head On'' and suggested a change. Originally, the rounds in ''Head On'' were dictated by a timer as most games of the 1970s were, but [[Taito]]'s ''[[Space Invaders]]'' introduced the concept of [[Life (video games)|lives]]. Ochi suggested to Hauck that he should get rid of the timer and replace it with a lives system, which Hauck implemented and later said was "key to making the game big".<ref name="SDR">{{cite news|url=https://www.sandiegoreader.com/news/1982/jul/15/cover-exactly-zaxxon/|title=San Diego's Gremlin: how video games work|work=[[San Diego Reader]]|date=1982-07-15|accessdate=2020-10-25}}</ref>
+
+The game has two different orientations for horizontal and vertical monitors. In Japan, the game was released with a vertical orientation to suit the cocktail table [[Arcade cabinet|arcade cabinets]] popular in Japan. In the US, the game was displayed horizontally inside of a standard upright cabinet.
+
+==Reception==
+''Head On'' was a commercial success in arcades. In Japan, it became Gremlin's most successful export and a highly influential game in the period after the ''[[Space Invaders]]'' boom.<ref name="SDR"/> It was Japan's fourth highest-grossing [[1979 in video games|arcade game of 1979]], below ''Space Invaders'', ''[[Galaxian]]'' and Sega's ''[[Monaco GP (video game)|Monaco GP]]''.<ref name="GM136">{{cite magazine|title=ベストスリー 本紙調査|trans-title=Best 3 Paper Survey |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=136|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=February 1980|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19800201p.pdf#page=2}}</ref> ''Head On'' was also the fourth highest-earning arcade video game of 1979 in the United States, below ''Space Invaders'', ''[[Football (1978 video game)|Football]]'' and ''[[Sprint 2]]''.<ref>{{cite magazine |title=Video Games |magazine=RePlay |date=November 1979}}</ref>
+
+==Legacy==
+''Head On''<nowiki/>'s relation to ''[[Pac-Man]]'' (1980) as a game about collecting dots inside of a maze-like structure has been noted by commentators and historians.<ref name=":0">{{Cite book |last=Smith |first=Alexander |title=They create worlds: the story of the people and companies that shaped the video game industry |date=2020 |publisher=CRC Press, Taylor & Francis group |isbn=978-1-138-38990-8 |location=Boca Raton, [Florida] London New York, [New York]}}</ref> Though there has not been direct confirmation on its influence, the importance of ''Head On'' in Japan around the time of ''Pac-Man''<nowiki/>'s development suggests a correlation between the two. Several evolutions on the ''Head On'' formula released in 1979 including ''[[Space Chaser]]'' (1979) and ''Car Hunt'' (1979) bare further resemblance to ''Pac-Man''.
+
+Ports of ''Head On'' for the [[Commodore 64]] and [[VIC-20]] were released in 1982. In Japan, the game was released for the [[PC-8801]] and [[Sharp MZ]] computers.<ref name="Famitsu">{{cite book |chapter=1979 |title=Sega Arcade History |date=2002 |series=[[Famitsu DC]] |publisher=[[Enterbrain]] |pages=37-39 (38) |chapter-url=https://archive.org/details/segaarcadehistoryfamitsudc/page/n39 |lang=ja}}</ref>  ''Head On'' later appeared in the [[Sega Saturn]] collection ''Sega Memorial Selection Vol.1'' and in the [[PlayStation 2]] collection ''Sega Ages Vol. 23''. 
+
+===Sequels===
+A sequel was released the same year as the original: ''Head On 2'' (1979), also known as ''Head On Part II''.<ref name=":0" /><ref name="Famitsu"/> The sequel added side lanes which let the car turn itself around and more complex AI.
+
+Sega's ''Car Hunt'' (1979), informally known as ''Head On III'', added elements to the game such as a more complex maze, elevated roadways, the ability to turn in any direction, and enemy vehicles of varying aggression towards the player. The [[SG-1000]] game ''Pacar'' took elements of ''Car Hunt'' and merged them with ''[[Pac-Man]]''.
+
+A mobile phone version of ''Head On'' was released exclusively in Japan through the Sonic Cafe, Puyo Puyo Sega, and Sega Ages portal during the 2000s.<ref>{{Cite web |date=2002-10-03 |title=Webpage of Sega Games portal (October 2002) |url=http://sega.jp/game/ |access-date=2023-02-14 |archive-url=https://web.archive.org/web/20021003211807/http://sega.jp/game/ |archive-date=2002-10-03 |language=ja}}</ref><ref>{{Cite web |date=2002-10-04 |title=Webpage of Sonic Cafe Portal edition of Head On (October 2002) |url=http://www.sonicteam.com/cafe/index.html |access-date=2023-02-14 |archive-url=https://web.archive.org/web/20021004215338/http://www.sonicteam.com/cafe/index.html |archive-date=2002-10-04 |language=ja}}</ref><ref>{{Cite web |date=2006-07-14 |title=Webpage of Sega Ages portal for Willcom (July 2006) |url=http://sega.jp:80/kt/willcom/segaages/home.html |access-date=2023-02-14 |archive-url=https://web.archive.org/web/20060714160349/http://sega.jp:80/kt/willcom/segaages/home.html |archive-date=2006-07-14 |language=ja}}</ref><ref>{{Cite web |date=2008-02-12 |title=Webpage of Puyo Puyo Sega (February 2008) |url=http://sega.jp:80/kt/docomo/puyosega/ |access-date=2023-02-14 |archive-url=https://web.archive.org/web/20080212053114/http://sega.jp:80/kt/docomo/puyosega/ |archive-date=2008-02-12 |language=ja}}</ref>
+
+===Clones===
+''Crash'' (1979) by [[Exidy]] was announced month after ''Head On'' was released in the United States.<ref>{{cite magazine |date=June 1979 |title=Exidy Brings You Crash |magazine=RePlay Magazine |volume=4 |issue=9 |pages=27}}</ref> This led to Sega/Gremlin contacting Exidy and having the game discontinued.<ref>{{cite magazine |date=1979-11-15 |title=Exidy appoints factory distributors |magazine=Play Meter |volume=5 |issue=21 |pages=97}}</ref> Despite this, ''Crash'' was the seventh highest-grossing arcade game of 1979 in the United States and Exidy followed it up with similar games such as ''Targ'' (1980).<ref>{{cite magazine |title=The Winners of '79: Top Videos |magazine=[[Play Meter]] |year=1979}}</ref>
+
+Licensed clones were developed based on ''Head-On'' in Japan. Licensees included [[Irem]] and [[Nintendo]] who modified and released their version as {{nihongo|''Head On N''|ヘッド・オン・Ｎ|Heddo On N}}.<ref>Gorges, Florent (2010). ''The History of Nintendo'', Pix'n Love Publishing</ref><ref>{{Cite web |date=25 July 2014 |title=Forgottendo: 10 Nintendo Games You've Probably Never Heard Of |url=http://www.usgamer.net/articles/forgottendo-10-nintendo-games-youve-probably-never-heard-of |access-date=2016-02-14 |website=USgamer.net}}</ref> 
+
+[[Namco]]'s ''[[Rally-X]]'' was heavily inspired by ''Head On''.<ref>{{cite book |last1=Smith |first1=Alexander |title=They Create Worlds |date=November 19, 2019 |publisher=CRC Press |isbn=9780429752612 |pages=587―589}}</ref><ref name="Gamest1">{{cite book |title=ザ・ベストゲーム 月刊ゲーメスト7月号増刊 |date=July 1, 1991 |publisher=[[Gamest]] |edition=Volume 6, Number 7 |pages=175―266 |language=ja |asin=B00BHEECW0}}</ref> [[Konami]]'s ''[[Fast Lane (video game)|Fast Lane]]'' arcade game, released in 1987, highly resembles ''Head On'' with improved graphics and some additional features.
+
+''Head On'' proved a popular concept to clone for home systems. Clones include ''Tunnels of Fahad'' for the [[TRS-80]],<ref>{{cite magazine |magazine=U.S-80 |url=https://archive.org/details/80-U.S._Volume_IV_Number_2_1981-03_80-Northwest_Publishing_US/page/n39/mode/2up |last=Liddil |first=Bob |title=Captain 80 |volume=4 |issue=2 |date=March 1981}}</ref> ''[[Car Wars (video game)|Car Wars]]'' for the [[TI-99/4A]],  ''Killer Car'' for [[Spectravideo]],<ref>{{cite web |title=Killer Car for Spectravideo |url=https://www.video-games-museum.com/en/game/Killer-Car/138/3/62291 |website=Video Games Museum}}</ref> ''Car Chase'' for the [[ZX Spectrum]],<ref>{{cite web |title=Car Chase |url=https://spectrumcomputing.co.uk/entry/10464/ZX-Spectrum/Car_Chase |website=Spectrum Computing}}</ref> ''[[Dodge 'Em]]'' for the [[Atari 2600]], and ''[[Dodge Racer]]'' for [[Atari 8-bit computers]]. The number of lanes in these games varies from 3 to 6.
+
+==References==
+{{reflist}}
+
+[[Category:1979 video games]]
+[[Category:Arcade video games]]
+[[Category:Racing video games]]
+[[Category:Maze games]]
+[[Category:Sega arcade games]]
+[[Category:Sega Games franchises]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Gremlin Industries games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:Video games developed in the United States]]

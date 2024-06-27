@@ -1,0 +1,146 @@
+Boulder Dash (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Boulder_Dash_%28video_game%29&oldid=1229993276
+Accessed on: 2024-06-26T16:56:26.305693
+
+
+
+------
+Boulder Dash (video game)
+{{short description|1984 video game}}
+{{Infobox video game
+|image = Boulder_Dash_Original_Cover_Art.jpg
+|developer = {{Unbulleted list|[[Data East]] (1990 arcade, NES)|[[Beam Software]] (Game Boy)}}
+|publisher = {{Video game release|NA|[[First Star Software]]|EU|[[Mirrorsoft]]}}
+|designer = {{Unbulleted list|Peter Liepa|Chris Gray}}
+|programmer = {{Unbulleted list|Kazunori Ishiguri|Toshiyuki Sakai|Hisatada Ohta (1990 arcade)}}
+|artist = 
+|composer = {{Unbulleted list|Azusa Hara|Fuse (1990 arcade)}}
+|released = {{Collapsible list|title={{nobold|March 1984}}|'''Atari 8-bit'''{{Video game release|NA|March 1984<ref name="CE">{{cite magazine |title=Year-End Index |magazine=[[Computer Entertainer]] |date=January 1985 |volume=3 |issue=10 |page=156 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan85.pdf#page=12}}</ref>|UK|August 1985}}|'''C64'''{{Video game release|NA|April 1984|UK|1984}}|'''Apple II'''{{Video game release|NA|October 1984<ref name="CE"/>}}|'''PC-88'''{{Video game release|JP|October 1984}}|'''FM-7'''{{Video game release|JP|November 1984}}|'''ColecoVision'''{{Video game release|NA|December 1984}}|'''Arcade'''{{Video game release|NA|1984|JP|August 1985|JP|May 1990 (1990 arcade)}}|'''IBM PC'''|1984|'''ZX Spectrum'''{{Video game release|UK|1984}}|'''CPC'''{{Video game release|UK|August 1985}}|'''MSX'''|1985|'''Super Cassette Vision'''{{Video game release|JP|1985}}|'''BBC, Electron'''{{Video game release|UK|1988}}|'''NES'''{{Video game release|JP|March 23, 1990|NA|June 1990|EU|1990}}|'''Game Boy'''{{Video game release|JP|September 21, 1990|EU|1990}}|'''Atari 2600'''|June 2012|'''Intellivision'''{{Video game release|NA|March 18, 2015}}}}
+|genre = [[Puzzle video game|Puzzle]], [[Maze game|maze]]<ref name="CG1985"/>
+|modes = [[Single-player]]
+|platforms = {{Collapsible list|title={{nobold|[[Atari 8-bit computers|Atari 8-bit]]}}|
+[[Acorn Electron]], [[Amstrad CPC]], [[Apple II]], [[Arcade video game|Arcade]], [[Atari 2600]], [[BBC Micro]], [[ColecoVision]], [[Commodore 64]], [[FM-7]], [[Game Boy]], [[IBM PC compatible|IBM PC]], [[Intellivision]], [[iOS]], [[MSX]], [[Nintendo Entertainment System|NES]], [[PC-8800 series|PC-88]], [[PMD 85]], [[Super Cassette Vision]], [[ZX Spectrum]]<ref>{{Cite web |title=Boulder Dash |url=https://firststarsoftware.com/boulderdash-htm/ |website=First Star Software}}</ref>}}
+}}
+
+'''''Boulder Dash''''' is a 2D [[Maze game|maze]]-[[puzzle video game]] released in 1984 by [[First Star Software]] for [[Atari 8-bit computers]].<ref name="weber2005">{{Cite web |last=Weber |first=Arno |title=Interview: Peter Liepa |website=Boulder-dash.nl |date=November 2005 |url=http://www.boulder-dash.nl/interview.php?lang=en |access-date=March 8, 2024}}</ref> It was created by Canadian developers Peter Liepa and Chris Gray. The player controls Rockford, who collects treasures while evading hazards.<ref>{{Cite web |title=Boulder Dash |url=http://www.arcade-museum.com/game_detail.php?game_id=7198 |access-date=October 6, 2013 |publisher=The International Arcade Museum}}</ref>
+
+''Boulder Dash'' was ported to many 8-bit and 16-bit systems and turned into a coin-operated [[arcade video game]]. It was followed by multiple sequels and re-releases and influenced games such as ''[[Repton (video game)|Repton]]'' and direct clones such as ''[[Emerald Mine]]''.
+
+As of January 2018, BBG Entertainment GmbH owns the intellectual property rights to ''Boulder Dash''.{{Citation needed|date=June 2020}}
+
+The game's name is a pun on ''[[balderdash]]''.<ref name="weber2005"/>
+
+==Gameplay==
+[[image:Boulderdash-screenshot.png|thumb|left|Rockford drops a series of boulders on butterflies which explode into diamonds and fall down the shafts.]]
+''Boulder Dash'' takes place in a series of caves, each of which is laid out as rectangular grid of blocks. The player guides the player character, Rockford, with a [[joystick]] or [[arrow keys]]. In each cave, Rockford has to collect a set number of diamonds within a time limit. Player has to avoid falling rocks and other obstacles, including amoeba, butterflies, and fireflies. When enough diamonds have been collected, the exit door opens, and going through this exit door completes the cave.<ref name="cvg">{{Cite magazine |date=February 1985 |title=Boulder Dash |url=https://archive.org/details/cvg-magazine-040/page/n41/mode/1up?view=theater |magazine=[[Computer and Video Games]] |pages=42 |issue=40}}</ref> 
+
+==Development==
+As an aspiring game developer, Peter Liepa reached out to a local publisher called Inhome Software. They put him in touch with a young man—Chris Gray—who had submitted a game programmed in [[BASIC]] that was not commercial quality, but had potential.{{sfn|Liepa|loc=7:05}} The project began with the intention of converting this game to machine language and releasing it through Inhome, but according to Liepa, the game was very primitive.{{sfn|Liepa|loc=7:48}} He decided to expand the concept and add more interesting dynamics, and he wrote the new version in [[Forth (programming language)|Forth]]{{sfn|Liepa|loc=5:09}} in about six months.{{sfn|Liepa|loc=10:28}} When it became clear that the game was worth releasing, Liepa rewrote ''Boulder Dash'' in 6502 [[assembly language]].{{sfn|Liepa|loc=5:15}}
+
+Dissatisfied with the lack of a contact from Inhome Software, Liepa searched for a new publisher.{{sfn|Liepa|loc=12:37}} He settled on [[First Star Software]], which, according to him, was very happy to publish the game.{{sfn|Liepa|loc=14:00}}
+
+==Ports==
+The game was licensed by [[Exidy]] for use with their Max-A-Flex [[arcade cabinet]]. Released in 1984, it allows buying 30 seconds of game time.<ref name="retro3">{{Cite journal |last=Campbell |first=Stuart |author-link=Stuart Campbell (blogger) |year=2008 |title=The Definitive Boulder Dash |journal=Retro Gamer |issue=53 |pages=32–41}}</ref> This was the first home computer game to be converted to an arcade console.<ref name="retro3" />
+
+==Reception==
+{{Video game reviews
+| CRASH = 93% ([[ZX Spectrum]])<ref>{{Cite web |title=Archive - Magazine viewer |url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue12/Pages/Crash1200075.jpg |access-date=December 6, 2012 |publisher=World of Spectrum}}</ref>
+| CVG = 34/40 (ZX Spectrum)<ref name="cvg" />
+ <br /> 97% (ColecoVision)<ref>{{cite magazine |title=Complete Games Guide |magazine=[[Computer and Video Games]] |date=16 October 1989 |issue=Complete Guide to Consoles |pages=46–77 |url=https://retrocdn.net/images/9/98/CompleteGuideToConsoles_UK_01.pdf#page=46}}</ref>
+| SUser = 5/10 (ZX Spectrum)<ref>{{Cite web |title=Archive - Magazine viewer |url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue035/Pages/SinclairUser03500023.jpg |access-date=December 6, 2012 |publisher=World of Spectrum}}</ref>
+| YSinclair = 8/10 (ZX Spectrum)<ref>{{Cite web |title=Boulderdash |url=http://www.ysrnry.co.uk/articles/boulderdash-22.htm |url-status=dead |archive-url=https://web.archive.org/web/20130616095534/http://www.ysrnry.co.uk/articles/boulderdash-22.htm |archive-date=June 16, 2013 |access-date=December 6, 2012 |publisher=Ysrnry.co.uk}}</ref>
+| Z64 = 97% (Commodore 64)<ref>{{Cite web |title=Zzap!64 100th Issue Pull-Out Special Page 5 |url=http://www.zzap64.co.uk/zzap100/100thspec5.html |access-date=December 6, 2012 |work=[[Zzap!64]]}}</ref>
+| rev1 = ''Computer Games''
+| rev1Score = B+ ([[home computers]])<ref name="CG1985"/>
+| rev2 = ''Home Computing Weekly''
+| rev2Score = 5/5 (ZX Spectrum)<ref>{{Cite web |title=Archive - Magazine viewer |url=http://www.worldofspectrum.org/showmag.cgi?mag=HomeComputingWeekly/Issue099/Pages/HomeComputingWeekly09900014.jpg |access-date=December 6, 2012 |publisher=World of Spectrum}}</ref>
+}}
+
+''II Computing'' said that "bright, colorful animation coupled with a breezy story line make this game more than just a momentary diversion".<ref name="shapiro198510_11">{{Cite news |last=Shapiro, Neil |date=Oct–Nov 1985 |title=Of Jewels and Ghouls and Butterflies and Strategies of War |pages=24–26 |work=II Computing |url=https://archive.org/stream/II_Computing_Vol_1_No_1_Oct_Nov_85_Premiere#page/n25/mode/2up |access-date=January 28, 2015}}</ref> ''Computer Games'' magazine called it an "incredible addicting [[maze game]]" along the lines of ''[[Dig Dug]]'', but faster and more exciting.<ref name="CG1985">{{cite magazine |title=1985 Software Buyer's Guide |magazine=Computer Games |date=February 1985 |volume=3 |issue=5 |publisher=Carnegie Publications |location=United States |pages=11–8, 51–8 |url=https://archive.org/details/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US/page/n13/mode/2up}}</ref>
+
+''[[Mean Machines]]'' gave the Game Boy port of ''Boulder Dash'' a score of 90%, praising it as "one of the finest video games ever written", describing the game as "one to buy as soon as possible" and noting its faithfulness to the original Commodore 64 version.<ref>{{Cite journal |last1=Rignall |first1=Julian |author-link=Julian Rignall |last2=Richard Leadbetter |date=June 1991 |title=Boulderdash review |url=http://www.meanmachinesmag.co.uk/review/147/boulderdash.php |url-status=dead |journal=[[Mean Machines]] |issue=9 |archive-url=https://web.archive.org/web/20161221000613/http://www.meanmachinesmag.co.uk/review/147/boulderdash.php |archive-date=December 21, 2016 |access-date=June 4, 2009}}</ref> The same publication reviewed the NES version favourably, stating that it was "an extremely impressive title" and "one of the greatest games ever written". It was given a 92% rating.<ref>{{cite web |url=http://www.meanmachinesmag.co.uk/review/168/boulderdash.php |title=Boulderdash - Nintendo Entertainment System - Mean Machines review |website=www.meanmachinesmag.co.uk |url-status=dead |archive-url=https://web.archive.org/web/20071027010727/http://www.meanmachinesmag.co.uk/review/168/boulderdash.php |archive-date=2007-10-27}}</ref>
+
+The ZX Spectrum version of Boulder Dash received a positive review from [[Computer and Video Games]] magazine. The reviewer found the game's sounds and graphics to be adequate, though noted that slow screen scrolling was an issue. Despite this, the reviewer praised the game's "incredible playability" and addictive nature.<ref name="cvg" />
+
+The ZX Spectrum version was placed ninth in the ''[[Your Sinclair]] Top 100 Speccy Games Of All Time (Ever)'' by journalist [[Stuart Campbell (game journalist)|Stuart Campbell]].<ref>{{Cite news |last=Campbell |first=Stuart |author-link=Stuart Campbell (game journalist) |date=January 1992 |title=The YS Top 100 Speccy Games Of All Time (Ever) - Number 24 to 2 |work=Your Sinclair |publisher=Future Publishing |issue=73 |url=https://archive.org/stream/your-sinclair-73#page/n35/mode/2up |access-date=10 May 2018}}</ref> In 1993, ''[[Commodore Force]]'' ranked the game at number 17 on its list of the top 100 Commodore 64 games.<ref>{{cite web|title=Top Ton!|url=https://archive.org/stream/zzap64-magazine-101/ZZap_64_Issue_101_Commodore_Force_Issue_11_1993_Autumn#page/n32/mode/1up/|website=Commodore Force|date=Autumn 1993|accessdate=2017-09-03|page=33}}</ref>
+
+IGN reviewed the Virtual Console release of the Commodore 64 version. Although the graphics and sound were both found to be dated they enjoyed the game stating that it "still feels as fresh as it did in 1984". They concluded by stating "though it doesn't look like much, ''Boulder Dash'' rocks".<ref>{{Cite web|url=http://www.ign.com/articles/2009/06/23/boulder-dash-review|title = Boulder Dash Review|date = 23 June 2009}}</ref>
+
+''Boulder Dash'' was included in the top 30 Commodore 64 games by C't Magazin in Germany.<ref>{{Cite web|url=https://www.heise.de/ct/artikel/c-t-Auswahl-Die-30-besten-Spiele-fuer-den-Commodore-64-3789217.html|title=C't-Auswahl: Die 30 besten Spiele für den Commodore 64|date=4 August 2017}}</ref>
+
+The game sold more than 500,000 copies by August 1994.<ref>{{cite web|url=https://www.newspapers.com/clip/87599174/edmonton-journal/|title=Video game industry set to out-glitz Hollywood|newspaper=[[Edmonton Journal]]|date=August 25, 1994|page=56|access-date=August 24, 2021|via=[[Newspapers.com]]}}</ref>
+
+==Legacy==
+''Boulder Dash'' was the first in a long series of games:
+* '''''Boulder Dash''''' (1985 – Arcade) – in 1985 another arcade version was released on Data East's "DECO Cassette System", with improved graphics but a reduced display grid on a vertical monitor.<ref name="retro3"/>
+* '''''[[Boulder Dash II]]''''' (1985) – published under several different titles; ''Rockford's Riot'' on the MSX, ''Rockford's Revenge'' on the C64. The second release in Japan was titled ''Champion Boulder Dash'',<ref name="retro3"/> but it is not a port of the western game.<ref>{{Cite web |title=Oh! FM-7 Museum |url=http://retropc.net/fm-7/museum/softhouse/comptiq/140901100.html |access-date=December 6, 2012 |publisher=Retropc.net}}</ref>
+* '''''Boulder Dash 3''''' (1986 – Apple II, C64, Spectrum, PC) – monochrome space-themed graphics and poorly designed levels made this a critical failure.<ref name="retro3"/>
+* '''''[[Boulder Dash Construction Kit]]''''' (1986 – Apple II, C64, Spectrum, Atari 8-bit computers, Atari ST) – this release included a small number of levels (12 caves and 3 intermission levels),<ref>[http://www.c64sets.com/details_db.html?id=5616&t=Boulder%20Dash%20Construction%20Kit&i=manual%20page%206 Boulder Dash Construction Kit manual page 6]</ref> but was titled ''Boulder Dash IV – The Game'' for the Spectrum re-release.<ref name="retro3"/> The title allowed players access to tools which allowed them to design their own levels.
+* '''''Super Boulder Dash''''' (1986 – Apple II, C64, PC) – a compilation of ''Boulder Dash'' and ''Boulder Dash II'' published by [[Electronic Arts]].<ref>{{Cite web |title=Super Boulder Dash Manual |url=https://www.apple.asimov.net/documentation/games/misc/Super%20Boulderdash%20Manual.pdf |access-date=June 1, 2019 |website=Electronic Arts}}</ref>
+* '''''[[Rockford (video game)|Rockford]]''''' (1988 – Arcade, Amiga, Atari 8-bit, Atari ST, Arcade, Spectrum,<ref>{{Cite web |title=Rockford |url=http://www.worldofspectrum.org/infoseekid.cgi?id=0004214 |access-date=November 23, 2008 |website=World of Spectrum}}</ref> Amstrad, C64)<ref name="retro3"/> - ''Rockford'' was originally a licensed arcade game produced by [[Arcadia Systems]], and later converted to various home computer formats.
+* '''''Boulder Dash Part 2''''' (1990 – Arcade)<ref name="retro3"/>
+* '''''Boulder Dash''''' (1990 - Game Boy)<ref name="retro3"/>
+* '''''Boulder Dash''''' (1990 - NES)<ref name="retro3"/>
+* '''''[[Boulder Dash EX]]''''' (2002 – Game Boy Advance) - this one has a new "EX mode" and "Classic mode" which is a direct port of the 1984 PC version.<ref name="retro3"/>
+* '''''Boulder Dash Xmas 2002 Edition''''' (2002 – PC)<ref name="retro3"/>
+* '''''GemJam Gold''''' (2003 – PC) – the game's credits claim this is based on ''Boulder Dash'', and is licensed by First Star.<ref name="retro3"/>
+* '''''Boulder Dash – Treasure Pleasure''''' (2003 – PC)<ref name="retro3"/>
+* '''''[[Boulder Dash: Rocks!]]''''' (2007 – DS, [[IOS (Apple)|iOS]])<ref name="retro3"/>
+* '''''Boulder Dash Vol 1''''' (2009 – iOS)<ref name="retro3"/>
+* '''''[[Boulder Dash-XL]]''''' (2011 - [[Xbox Live Arcade]], PC, iOS, 3DS)<ref name="boulderdashxl">{{Cite web |date=November 9, 2010 |title=Boulder Dash XL Announced |url=http://www.bluesnews.com/s/115836/boulder-dash-xl-announced |website=Bluesnews}}</ref>
+* '''''Boulder Dash - The Collection!''''' (2011 – [[Android (operating system)|Android]])<ref>{{Cite web |title=Boulder Dash - The Collection for Android Announced |url=http://bdtc.instantcom.net/ |access-date=2011-09-24 |archive-date=2011-09-26 |archive-url=https://web.archive.org/web/20110926005820/http://bdtc.instantcom.net/ |url-status=dead }}</ref>
+* '''''Boulder Dash''''' (2011 – Atari 2600) - limited edition of 250 copies.<ref>{{cite web |url=http://www.retrocollect.com/News/first-star-softwares-boulder-dash-is-heading-to-the-atari-2600.html |title=First Star Software's Boulder Dash Is Heading To The Atari 2600 {{!}} RetroCollect |website=www.retrocollect.com |url-status=dead |archive-url=https://web.archive.org/web/20131214015135/http://www.retrocollect.com/News/first-star-softwares-boulder-dash-is-heading-to-the-atari-2600.html |archive-date=2013-12-14}}</ref>
+* '''''Boulder Dash 30th Anniversary''''' (2014 – iOS, Android, Switch, PC, Mac) - co-published by TapStar Interactive and First Star Software, Inc., with a world designed by the original creator Peter Liepa as well as another world by TapStar CEO, Chris Gray. This sequel was developed in collaboration by TapStar Interactive, First Star Software, SoMa Play Inc. and Katsu Entertainment LLC (2014 - Android, iOS) as both a premium (paid) and a [[freemium]] game.<ref>{{Cite magazine |last=Hilliard |first=Kyle |date=January 21, 2014 |title=Original Boulder Dash Creators Team-Up For Mobile Remake |url=http://www.gameinformer.com/b/news/archive/2014/01/21/original-boulder-dash-creators-team-up-for-mobile-remake.aspx?PostPageIndex=2 |access-date=January 21, 2014 |magazine=[[Game Informer]] |publisher=[[GameStop]]}}</ref>
+* '''''Boulder Dash''''' (2015 – Intellivision) – co-published by First Star Software, Inc. and Classic Game Publishers, Inc./Elektronite<ref>{{Cite web |title=Boulder Dash Officially Released for Intellivision 30 Years Later &#124; RetroCollect |url=http://www.retrocollect.com/News/boulder-dash-officially-released-for-intellivision-30-years-later.html |url-status=dead |archive-url=https://web.archive.org/web/20160318182233/http://www.retrocollect.com/News/boulder-dash-officially-released-for-intellivision-30-years-later.html |archive-date=2016-03-18 |access-date=2019-08-03}}</ref>
+* '''''Boulder Dash Deluxe''''' (2021 – Switch, Xbox, Atari VCS, Steam (PC and Mac), Windows Store and Mac Store) – developed and published by BBG Entertainment with a world designed by the original creator Peter Liepa and a Retro world with the 20 original levels from 1984.<ref>{{Cite web|url=https://www.bbg-entertainment.com/boulder-dash-deluxe-launches-first-on-atari-vcs|title=Boulder Dash Deluxe Launches First on Atari VCS &#124; BBG-Entertainment|date=10 February 2021}}</ref><ref>{{Cite web|url=https://www.gematsu.com/2021/08/boulder-dash-deluxe-launches-september-9-for-xbox-one-switch-and-pc|title=Boulder Dash Deluxe launches September 9 for Xbox One, Switch, and PC|date=12 August 2021}}</ref>
+* '''''Boulder Dash Ultimate Collection''''' (2022 – Switch)
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+* {{Cite AV media |url=https://ataripodcast.libsyn.com/antic-interview-66-peter-liepa-boulder-dash |title=ANTIC Interview 66 - Peter Liepa, Boulder Dash |date=16 Jun 2015 |last=Kevin Savetz, Peter Liepa |publisher=ANTIC The Atari 8-bit Podcast |ref=CITEREFLiepa}}
+
+==External links==
+* [http://boulder-dash.com/ Official website]
+* [https://web.archive.org/web/20040209221855/http://www.firststarsoftware.com/boulderdash.htm Archived website]
+* {{MobyGames | /4632/boulder-dash/}}
+* {{atarimania|id=742}}
+* {{lemon64 game|id=349}}
+* [http://www.elmerproductions.com/sp/peterb/ Fan site] with mechanics, implementation details
+* [http://www.rhod.fr/boulderdash.html Photos of packaging]
+* "[http://www.electrondance.com/?p=2633 Between a Rock and a Hard Diamond]" Electron Dance, July 2011
+* [https://archive.org/details/games-58-1984-december/page/56/mode/2up Review] in [[GAMES Magazine]]
+
+{{Boulder Dash series}}
+
+[[Category:1984 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Android (operating system) games]]
+[[Category:Apple II games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Beam Software games]]
+[[Category:Boulder Dash]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Data East video games]]
+[[Category:DOS games]]
+[[Category:Exidy games]]
+[[Category:First Star Software games]]
+[[Category:FM-7 games]]
+[[Category:Game Boy games]]
+[[Category:IOS games]]
+[[Category:Mirrorsoft games]]
+[[Category:MSX games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo games]]
+[[Category:Single-player video games]]
+[[Category:Tynesoft games]]
+[[Category:Victor Entertainment games]]
+[[Category:Video games developed in Canada]]
+[[Category:Virtual Console games for Wii]]
+[[Category:ZX Spectrum games]]

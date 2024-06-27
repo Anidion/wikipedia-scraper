@@ -1,0 +1,100 @@
+Caverns of Mars
+Permalink: //en.wikipedia.org/w/index.php?title=Caverns_of_Mars&oldid=1228502712
+Accessed on: 2024-06-26T16:52:10.022469
+
+
+
+------
+Caverns of Mars
+{{Short description|1981 video game}}
+{{Infobox video game
+|title  = Caverns of Mars
+|image = Caverns of Mars cartridge box cover.jpg
+|caption = Cartridge release
+|alt=scan of the box cover art of the cartridge release
+|designer = Greg Christensen
+|programmer = Greg Christensen<ref name=giantlist/><br>Richard Watts{{sfn|Watts|2016}}
+|publisher = [[Atari Program Exchange]]<br>[[Atari, Inc.]]
+|released = '''Winter 1981:''' APX<ref>{{cite book |title=APX Software Catalog |date=Winter 1981 |publisher=[[Atari Program Exchange]] |page=4 |url=https://archive.org/details/APXCatalogWinter1981/page/n3/mode/2up}}</ref> <br> '''April 1982:''' Atari (disk)<ref name="AC"/><br>'''1983:''' Atari (cartridge)
+|genre = [[Scrolling shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit computers|Atari 8-bit]]
+}}
+
+'''''Caverns of Mars''''' is a vertically [[scrolling shooter]] for [[Atari 8-bit computers]]. It was written by Greg Christensen, with some features later added by Richard Watts, and published by the [[Atari Program Exchange]] (APX) in 1981.<ref name="giantlist"/> ''Caverns of Mars'' became the best selling APX software of all-time and was moved into [[Atari, Inc.]]'s official product line, first on diskette, then on cartridge.
+
+In ''Caverns of Mars'', the player descends into cave and at the end must retrace their steps back to the top. Christensen wrote two less successful follow-ups, one of which scrolls horizontally and is very similar to ''Scramble''.
+
+== Gameplay ==
+[[File:Caverns of Mars first level.png|thumb|left|Opening scene showing a fuel tank and static rockets]]
+
+''Caverns of Mars'' is a scrolling shooter similar in concept and visual style to the 1981 Konami arcade video game ''[[Scramble (video game)|Scramble]]''.<ref name=anderson/> Christensen changed the orientation of the levels, having the player fly down into them as opposed to horizontally through them. Unlike ''Scramble'', rockets in ''Caverns of Mars'' remain on the ground.
+
+Using a [[joystick]], the player controls a ship descending through a hole on the surface of [[Mars]] into a vertical tunnel. The player's spacecraft has two cannons, positioned on either side of the craft, firing downward. The player must avoid hitting the walls while shooting targets of opportunity along the way. Fuel tanks give 5 units of fuel when shot, and the craft is destroyed if it runs out.
+
+The cavern is divided into different sections depending on the skill level: the easiest setting has three sections, the hardest has six. The final section is always a reactor which the player lands on and sets to explode. The ship then reverses course and has to fly up and out of the caverns to escape before the detonation occurs.
+
+== Development ==
+Greg Christensen, a high-school senior, purchased an Atari 800 in 1981 and created ''Caverns'' in "little more than a month and a half"<ref name=manual>{{cite web|title=Caverns of Mars User's Guide|url=http://www.atarimania.com/8bit/files/Caverns_of_Mars_Atari_800_series.pdf|website=Atari Mania|publisher=Atari, Inc. |date=1982}}</ref> using the [[Atari Assembler Editor]].<ref>{{cite book |title=The Creative Atari: Dog Daze and Caverns of Mars |date=1983 |url=https://www.atariarchives.org/creativeatari/Dog_Daze_and_Caverns_of_Mars.php}}</ref> It was the first significant program he wrote in [[MOS Technology 6502|6502]] [[assembly language]].<ref name=manual/> Fred Thorlin of [[Atari Program Exchange]] recalled ''Caverns'' arriving at APX:
+
+{{quote| It was received by APX in the morning mail. I saw it at 10:30. We showed it to the president of the company just after lunch. It was not a tough decision for him. Legal got in touch with Greg Christensen in short order. The young man, I think he was a community college freshman, suddenly had a bunch of money inflicted upon him. I was never certain whether he benefited from that in the long run or not.<ref>{{cite web |first= Kevin |last=Savetz |website=AtariArchives.org |title= Fred Thorlin: The Big Boss at Atari Program Exchange |url=http://www.atariarchives.org/APX/thorlininterview.php |date=April 2000}}</ref>}}
+
+In the originally submitted version, when the player reached the end of the selected map, the game ended. Thorlin felt it needed something more. Christensen was too busy, but agreed to use his royalties to pay for someone else to do the work. Thorlin hired Richard Watts of Macrotronics to make a number of modifications. This included a new ending in which the player has to fly back out of the cavern in reverse before a timer runs out.{{sfn|Watts|2016|loc=15:50}}
+
+Two months after sending it to APX, Christensen received his first royalty check for $18,000 and a phone call from an Atari executive who praised the game. ''Caverns'' eventually won the 1981 APX game contest, winning another $3,000, and in December 1982, Atari told Christensen he might receive up to $100,000 in royalties.<ref>Dale Archibald, [http://www.atarihq.com/othersec/library/apx.html "Programming for Dollars"], ''Video Games'', December 1982</ref>
+
+Atari licensed the game in early 1982 for distribution in the main Atari catalog on [[diskette]].<ref name="AC">[http://www.digitpress.com/library/magazines/atari_connection/atari_connection_spring82.pdf "Caverns of Mars"], ''The Atari Connection'', Spring 1982, p. 11</ref> This was the first game crossover from APX to Atari; it was followed by ''[[Eastern Front (1941)]]'' and ''[[Typo Attack]]''. When asked to collaborate on a cartridge-based port, Christensen declined, having started college.<ref name=creative>[http://www.atariarchives.org/creativeatari/Dog_Daze_and_Caverns_of_Mars.php "Caverns of Mars"], The Creative Atari, 1983</ref> Atari released the cartridge version in 1983.<ref>Charlotte Thai, [http://www.stanford.edu/group/htgg/cgi-bin/drupal/?q=comment/reply/1173 "Back to Basics"], ''How they Got Game''</ref><ref>Matt Barton and Bill Loguidice, [http://www.gamasutra.com/view/feature/132144/a_history_of_gaming_platforms_.php "A History of Gaming Platforms: Atari 8-Bit Computers"], ''Gamasutra''</ref>
+
+== Reception ==
+''[[Computer Gaming World]]'' called ''Caverns of Mars'' "delightful ... addictive and excellently paced". It noted the age of the author and stated that the game "has all the look, feel, and play of a 'professional' program".<ref name=anderson/> ''[[Softline (magazine)|Softline]]'' liked the game's use of [[Checkpoint (video gaming)|checkpoints]] after losing a life, and concluded "This game is great; you'll find it difficult to pull yourself away".<ref name="bang198205">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=6&id=5 | title=Caverns of Mars | work=Softline | date=May 1982 | accessdate=15 July 2014 | author=Bang, Derrick | pages=14–15}}</ref> ''[[Compute!]]'' called ''Caverns of Mars''{{'}}s graphics "impressive … an excellent use of the Atari's graphics capabilities," noting that the game takes advantage of a little-used mode allowing four colors per character.<ref name="brannon198207">{{cite news | url=https://archive.org/stream/1982-07-compute-magazine/Compute_Issue_026_1982_Jul#page/n183/mode/2up | title=Caverns of Mars | work=Compute! | date=July 1982 | accessdate=30 October 2013 | author=Brannan, Charles | pages=183 | type=review}}</ref> A ''[[Creative Computing]]'' reviewer opened with "Four minutes later. I was hooked. Four hours later, my wife dragged me away." and concluded by noting that "The Caverns of Mars has that indefinable "something" that makes it arcade-quality".<ref name=creative /> ''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the game an overall B+ rating, calling it "fast-paced and addictive" and "great fun ... a must for any dedicated arcade game player".<ref name="aw1984">{{cite book | url=https://archive.org/stream/Atari_Software_1984#page/n89/mode/2up | title=The Addison-Wesley Book of Atari Software | publisher=Addison-Wesley | year=1984 | pages=89–90 | isbn=0-201-16454-X |editor1=Stanton, Jeffrey |editor2=Wells, Robert P. |editor3=Rochowansky, Sandra |editor4=Mellid, Michael }}</ref> ''[[Electronic Fun with Computers & Games]]'' gave it a 3.5 out of 5, praising the action and pointing out only a few minor flaws.<ref>{{cite journal |first=Phil |last=Gerson |url=http://2600connection.com/library/magazines/electronic_fun/electronic_fun_apr83.pdf |archive-url=https://web.archive.org/web/20160304061721/http://2600connection.com/library/magazines/electronic_fun/electronic_fun_apr83.pdf |url-status=dead |archive-date=2016-03-04 |title=Caverns of Mars |journal=Electronic Fun |date=April 1983 |page=64 }}</ref>
+
+''Caverns of Mars'' received a Certificate of Merit in the category of "Best Science Fiction/Fantasy Computer Game" at the 4th annual [[Arkie Awards]],<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= March 1983 |title= Arcade Alley: The Best Computer Games |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 6|issue= 12|pages= 32–33|issn= 0147-8907}}</ref>{{rp|32}}
+
+== Legacy ==
+===''Mars Mission II''===
+Christensen followed ''Caverns'' with a lesser-known sequel, originally titled ''Caverns of Mars II''. It is very similar to ''Scramble'', scrolling horizontally and with rockets that launch upward from the ground. The game was completed in 1981, but not published until several years later by [[Antic Software]] as ''Mars Mission II''.<ref>{{cite web| website=Atari Mania |url=http://www.atarimania.com/game-atari-400-800-xl-xe-mars-mission-ii_6813.html |title=Mars Mission II}}</ref>
+
+===''Phobos''===
+''Phobos'' keeps the vertical orientation of the original with improved graphics and more sections in each cavern.<ref>Keita Iida, [http://atarihq.com/reviews/atari8/phobos.html "PHOBOS"], Atari HQ</ref> The caverns are narrower and more difficult to maneuver in right from the start. It was released through the Atari Program Exchange in 1982, then later Antic Software.
+
+''Softline'' stated that ''Phobos'' might disappoint ''Caverns of Mars'' players, stating that it was "a reinvention of the wheel" and too easy for them. The magazine noted some improvements, such as a [[pause button]] and multiple skill levels, but advised that "''Mars'' veterans should wait".<ref name="bang19830506">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=11 | title=Phobos | magazine=Computer Gaming World | date=May–Jun 1983 | accessdate=28 July 2014 | author=Bang, Derrick | pages=44}}</ref> ''The Addition-Wesley Book of Atari Software 1984'' gave the game an overall B rating, stating that "whether it is a better game than the original is debatable" and concluding that "it is a good choice for the dedicated arcade game player".{{r|aw1984}}
+
+===Re-release and remake===
+In 2005, a version of ''Caverns of Mars'' was included on the [[Atari Flashback 2]] classic game console.<ref>[http://reviews.cnet.com/consoles/atari-flashback-2/4507-10109_7-31581693.html "Atari Flashback 2 specs"], ''cnet''</ref>
+
+In 2023, the game is set for a March release for [[Microsoft Windows]], [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Xbox One]] and [[Xbox Series X and Series S|Xbox Series X/S]], under the title ''Caverns of Mars: Recharged''.<ref>{{Cite web|url=https://www.gematsu.com/2023/01/caverns-of-mars-recharged-announced-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc|title=Caverns of Mars: Recharged announced for PS5, Xbox Series, PS4, Xbox One, Switch, and PC|last=Romano|first=Sal|website=Gematsu|date=January 25, 2023|access-date=January 25, 2023|quote=Due out on March 9.}}</ref>
+
+===Clones===
+Datamost's ''[[Cavern Creatures]]'' (1983) for the [[Apple II]] is very similar.<ref name="shore19840102">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=15 | title=Cavern Creatures | work=Softline | date=Jan–Feb 1984 | accessdate=29 July 2014 | author=Shore, Howard A. | pages=49–50}}</ref> ''Conquest of Mars'' (2006) for the [[Atari 2600]] is a direct clone.
+
+==See also==
+* ''[[Airstrike (video game)]]''
+
+== References ==
+{{reflist|refs=
+<ref name=anderson>{{cite magazine |title=Atari Arcade |magazine=Computer Gaming World | date=May–June 1982 |first1=John J. |last1=Anderson |page=18 |url=https://archive.org/details/Computer_Gaming_World_Issue_2.3/Computer_Gaming_World_Issue_2.3/page/n19/mode/2up}}</ref>
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+}}
+
+===Bibliography===
+* {{cite interview |last= Watts |first= Richard |subject-link= |title=ANTIC Interview 222 - Richard Watts, Macrotronics
+ |date= 28 July 2016
+ |publisher=ANTIC, the 8-bit podcast
+ |url=https://ataripodcast.libsyn.com/antic-interview-222-richard-watts-macrotronics 
+ |access-date=18 April 2021
+ |interviewer=Kevin Savetz
+}}
+
+== External links ==
+* {{atarimania|id=965}}
+* [https://www.youtube.com/watch?v=j0Oq6p01Yr0 ''Caverns of Mars''] Gameplay video
+* [https://www.youtube.com/watch?v=dMv2cYCUcTw ''Phobos''] Gameplay video
+
+[[Category:1981 video games]]
+[[Category:Atari Program Exchange software]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Vertically scrolling shooters]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]
+[[Category:Video games set on Mars]]

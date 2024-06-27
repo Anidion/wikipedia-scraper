@@ -1,0 +1,67 @@
+Shamus: Case II
+Permalink: //en.wikipedia.org/w/index.php?title=Shamus%3A_Case_II&oldid=1224490969
+Accessed on: 2024-06-26T16:55:50.558113
+
+
+
+------
+Shamus: Case II
+{{Infobox video game
+|title = Shamus: Case II
+|image = Shamus Case II box art.jpg
+|designer = [[Cathryn Mataga]]
+|programmer = '''Atari 8-bit'''<br>Cathryn Mataga<br>'''Commodore 64'''<br>Joe Vierra<ref name=giantlist/>
+|publisher = [[Synapse Software]]
+|released = '''1983:''' Atari<br>'''1984:''' C64
+|genre = [[action game|Action]]
+|modes = [[Single-player]]
+|platforms = [[Atari 8-bit computers|Atari 8-bit]], [[Commodore 64]]
+}}
+
+'''''Shamus: Case II''''' is a 1983 [[video game]] for [[Atari 8-bit computers]] written by [[Cathryn Mataga]] and published by [[Synapse Software]].<ref name=giantlist/> Mataga also wrote the original ''[[Shamus (video game)|Shamus]]'' and the scrolling shooter ''Zeppelin''. A port to the [[Commodore 64]] by Joe Vierra was released in [[1984 in video gaming|1984]].<ref name=giantlist/> Although ostensibly a sequel to ''[[Shamus (video game)|Shamus]]'', the gameplay is very different, combining aspects of [[platform game]]s, [[maze game]]s, and even ''[[Breakout (video game)|Breakout]]''. ''Case II'' was as well received as the original.
+
+==Gameplay==
+[[Image:Shamus Case II screen snap.png|thumb|left|Shamus being attacked by mutant crustaceans; two of his detonators are visible among them.]]
+
+''Shamus: Case II'' is a side-view game in which Shamus chases The Shadow through its underwater lair.{{sfn|Mataga|1983|p=2}}
+
+The game map contains three types of rooms. The first, "pit rooms", are simple maze maps with small open areas connected with ladders, with spiked pits to jump over and small horizontal passages filled with slavering snakes that have to be avoided. The next, "corridors", contain large open areas with a walkway at the bottom that the player has to traverse to get to the next room. Snakes crossing on the floor have to be jumped, and The Shadow appears in the upper area, firing at the player. In both of these types of rooms, pressing the fire button causes Shamus to jump.{{sfn|Mataga|1983|p=4}}
+
+The third type of room is where the majority of the game time takes place. Here the player walks back and forth along the bottom while firing his plasmar detonators upward into the room. At the top of the room are alternating layers of enemies travelling horizontally, which can be attacked with the detonators. Periodically, waves of these enemies leave the horizontal rows and descend into the center of the room, where they are much easier to attack, but can also fire back at Shamus, or collide with him. The detonators are not used up when they hit an enemy, and continue to bounce around the screen like small rubber balls. If these make it to the top, they can get above the rows of enemies and bounce repeatedly, as in the game ''[[Breakout (video game)|Breakout]]''.{{sfn|Mataga|1983|p=5}}
+
+After Shamus has destroyed two waves of enemies, or killed all of the snakes in one of the horizontal rows, the play freezes and the map begins to scroll vertically to reveal a new area above the last room. In this case the floor is not continuous, but instead consists of a number of blocks with open areas between them. The player has to be sure to move over one of the blocks by the time the screen is fully revealed, or he will fall back into the last room and have to try again. The same occurs if enough of the enemies avoid Shamus's detonators and rip up the floor below him.{{sfn|Mataga|1983|p=6}}
+
+The map also contains a number of treasure chests containing various items, most importantly free lives and keys that open other rooms. The room layout is persistent in any one session, allowing it to be mapped.{{sfn|Mataga|1983|p=6}}
+
+{{listen|header=
+|type=music
+|filename=Shamus_Case_II_Atari_8-bit_PAL_audio_clip.ogg
+|title=Shamus: Case II Title Music (Atari 8-bit)
+|description=
+}}
+As in the original, a version of ''[[Funeral March of a Marionette]]'', the theme song from ''[[Alfred Hitchcock Presents]]'', played on the title screen.
+
+==Reception==
+''Softline'' in 1983 called ''Shamus: Case II'' "another masterpiece of compressed programming", and advised readers to "run out and buy it so Mataga will be encouraged to create Case 3!"<ref name="bang19830708">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=12 | title=Shamus: Case 2 | work=Softline | date=July–August 1983 | access-date=28 July 2014 | first=Derrick |last=Bang | pages=25–26}}</ref>
+
+Comparing it to the earlier ''Shamus'', ''Creative Computing'' noted that "It is not just a thinly disguised variation on the original theme. Shamus: Case II has the same clever design and hectic pace of its namesake in a completely new setting." They went on to note that "The addition of the multiple rooms and levels does add to the overall effect though, making it more than just another [[twitch game]]. The sound and graphics are appealing, making this a worthwhile addition to your game library."<ref>{{cite journal |first=Arthur |last=Leyenberger |title=Fun for a summer's day |url=http://www.atarimagazines.com/creative/v10n6/108_Fun_for_a_summers_day.php |journal=Creative Computing |date=June 1984 |page=108}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+===Bibliography===
+* {{cite work |first=William |last=Mataga |title=Shamus: Case II User Manual |publisher=Synapse Software |date=1983 |url=http://www.atarimania.com/game-atari-400-800-xl-xe-shamus-case-ii_4615.html }}
+
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Synapse Software games]]
+[[Category:Commodore 64 games]]
+[[Category:Detective video games]]
+[[Category:Video games developed in the United States]]
+
+==External links==
+*{{atarimania|id=4615}}
+*{{lemon64 game|id=2282|name=Shamus: Case II}}

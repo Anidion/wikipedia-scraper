@@ -1,0 +1,114 @@
+The Last Ninja
+Permalink: //en.wikipedia.org/w/index.php?title=The_Last_Ninja&oldid=1224580532
+Accessed on: 2024-06-26T17:02:31.378782
+
+
+
+------
+The Last Ninja
+{{about|the video game|the series|Last Ninja}}
+{{Short description|1987 video game}}
+{{Infobox video game
+|title = The Last Ninja
+|image = LastNinja-c64 cover01.jpg
+|alt =
+|caption = C64 cover art
+|developer = [[System 3 (company)|System 3]]<br>Eclipse Software Design
+|publisher = [[Activision]]<br>[[Superior Software]]
+|designer = [[Mark Cale]]<BR />Tim Best
+|artist = Hugh Riley <small>(C64)</small><br />Hugh Riley, Erik Simon, Tim Lange <small>(Atari ST & Amiga)</small><br />[[Erol Otus]] <small>(Apple II & MS-DOS)</small><br />Peter Scott <small>(Acorn Electron & BBC Micro)</small>
+|composer = [[Ben Daglish]], Anthony Lees <SMALL>(C64)</SMALL><BR />[[Jochen Hippel]] <SMALL>(Atari ST, Amiga)</SMALL><br />[[Russell Lieblich]] <SMALL>(MS-DOS)</SMALL>
+|series = ''[[Last Ninja]]''
+|released = 1987
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[single-player video game|Single-player]]
+|platforms = [[Commodore 64]], [[Apple IIGS]], [[BBC Micro]], [[Acorn Electron]], [[MS-DOS]], [[Apple II series|Apple II]], [[Atari ST]], [[Amiga]], [[Acorn Archimedes|Archimedes]]
+}}
+
+'''''The Last Ninja''''' is an [[action-adventure game]] originally developed and published by [[System 3 (company)|System 3]] in [[1987 in video gaming|1987]] for the [[Commodore 64]]. It was converted to the [[Apple IIGS]], [[MS-DOS]], [[BBC Micro]] and [[Acorn Electron]] in 1988, the [[Apple II series]] in 1989, the [[Amiga]] and [[Atari ST]] (as '''''Last Ninja Remix''''') in 1990, and the [[Acorn Archimedes]] in 1991.
+
+It is one of the most successful games released on the Commodore 64. It was followed by ''[[Last Ninja 2]]'' and ''[[Last Ninja 3]]''.
+
+==Gameplay==
+{{Unreferenced section|date=August 2022}}
+[[File:NinjaRemix-Amiga Wilderness.png|thumb|left|The Wilderness (Amiga)]]
+
+''The Last Ninja'' contains a blend of exploration, puzzle solving, and combat. The object of the game is to guide the [[ninja]] protagonist Armakuni on his journey to the palace of the evil [[shogun]] Kunitoki to assassinate him, avenge his clan, and retrieve the sacred scrolls. As the player progresses, Kunitoki's henchmen become more challenging as they learn the ways of the ninja.
+
+The interface consists of the opponents' energy and collected inventory (on the right) and player's health (on the bottom). The world is viewed in an [[Isometric projection|isometric]] perspective allowing the player to move in eight directions. Movements are relative to the direction Armakuni is facing but restricted to predefined paths upon inaccessible scenery. Precision must be used when navigating and jumping around obstacles, traps, and fatal features of the terrain. By approaching and kneeling at certain landmarks, such as shrines to [[Gautama Buddha|Buddha]] and water fountains, an indication of what to collect next is revealed. These items are often hidden in trees or bushes and flash shortly after a new screen has been entered.
+
+Attack moves are executed by combinations of directional controls with the fire button for attacking the opponent's head, torso and legs. Weapons, like the [[ninjato]], [[nunchaku]], [[Bō|staff]], [[shuriken]], and [[smoke bomb]]s, can be equipped.
+
+==Development==
+The program was originally developed for [[System 3 (company)|System 3]] in Hungary for almost a year by a team called SoftView<ref name="PixelHeroes">{{cite book |last=Beregi |first=Tamás |title=PixelHeroes - First 50 years of Computer Games |publisher=Vince Kiadó |year=2010 |pages=198–207 |isbn=978-963-303-023-3}}</ref> (an internal development team of [[Appaloosa Interactive|Novotrade Software]])<ref>{{Cite web |title=[Születésnaposok] 35 éves a The Last Ninja |url=http://www.pcguru.hu/hirek/szuletesnaposok-35-eves-a-the-last-ninja/68432 |access-date=2022-09-22 |website=PC Guru |language=HU}}</ref> but the financial advance for the work was refunded<ref name="GamesThatWerent">{{Cite web|url=https://www.gamesthatwerent.com/gtw64/last-ninja-v1/|title=Last Ninja V1 (C64) - 1986 System 3 - GTW64|year=1986}}</ref> and the Hungarian team was uncredited for its work.<ref name="PixelHeroes" /> SoftView developed it in its proprietary [[Forth (programming language)|Forth]]-like language as a foundation for portability. A lot of time was spent developing the programming language and game engine.<ref name="Moleman4">{{Cite web|url=https://moleman4.com/|title=A video game movie: Moleman 4 - Longplay|website=Moleman 4}}</ref> The team had some of the levels done, but missed all the deadlines, so the code was returned to London by Cale, and the engine rewritten for the [[Commodore 64]] by John Twiddy.<ref>{{Cite web|url=http://heechee.net/c64/ninja/crew.php|title=Last Ninja Archives|website=heechee.net}}</ref>
+
+Cale said: "Basically, the whole idea – the whole concept – was mine. The vision of ''The Last Ninja'' as an isometric adventure was something I was very passionate about. Obviously, the machines back then weren't powerful enough to create fully 3D games, so an isometric viewpoint seemed to be the right solution to move away from the standard side-scrolling platform games. We wanted to do something a bit different, something that would really capture the imagination. And there really is no better subject matter than the idea of controlling a ninja, a spiritual warrior. We wanted to combine an arcade experience with adventure elements. So it wasn't like ''[[Double Dragon]]'', where you just go punch, kick, move, punch, kick, move… The whole idea was to solve a series of simple but realistic adventure puzzles. What we were essentially trying to do was take the square cursor blob from ''[[Adventure (1980 video game)|Adventure]]'' on the [[Atari 2600]] and turn it into a fully interactive 3D adventure".<ref name=rr/>
+
+==Ports==
+Versions subsequent to the Commodore 64 original were published by [[Activision]] in 1987 for [[Apple IIGS]] and in 1988 for the [[Atari ST]] and [[MS-DOS]]. [[Superior Software]] published conversions for the [[BBC Micro]], [[Acorn Electron]] in 1988, and [[Acorn Archimedes]] in 1992. The [[Amstrad CPC]] and [[ZX Spectrum]] versions were in production but were never released.<ref>[http://www.worldofspectrum.org/infoseekid.cgi?id=0011841 World of Spectrum - The Last Ninja] - URL last accessed 16 April 2006.</ref> It was re-released on [[Wii]] [[Virtual Console]] in Europe in April 2008 as the fifth Virtual Console Commodore 64 game, and in North America in February 2009 as one of the first three Virtual Console Commodore 64 games.<ref>{{cite web |title=Toppling Cubes, 3-D Characters and Classic Ninja Kicks Lead a Stellar Lineup |url=https://www.nintendo.com/whatsnew/detail/vvQyzJgMZcfM_6onTBZYuf2FOlxfpR9f |publisher=Nintendo of America |date=21 September 2009 |access-date=21 September 2009}}</ref>
+
+==Reception==
+{{Video game reviews
+<!-- Reviewers -->
+| Dragon = {{Rating|3|5}}<ref name="Dragon132">{{cite journal |last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk |title=The Role of Computers |journal=Dragon |date=April 1988 |issue=132  |pages=80–85}}</ref>
+<!-- Custom reviewers -->
+| rev1 = ''[[Commodore User]]''
+| rev1Score = 9/10<ref name="CommodoreUserReview">{{cite magazine |last=Lacey |first=Eugene |title=The Last Ninja: Killer! |magazine=[[Commodore User]] |issue=46 |date=July 1987 |page=17 |url=https://archive.org/details/Commodore_User_Magazine_Issue_046/page/n15/mode/2up}}</ref>
+| rev2 = ''[[Zzap!64]]''
+| rev2Score = 94%<ref name="Zzap!64Review">{{cite magazine |title=The Last Ninja |journal=Zzap!64 |issue=28 |date=August 1987 |page=104 |url=https://archive.org/details/zzapp_64_issue_028_600dpi/page/n103/mode/2up}}</ref>
+| rev3 = ''Datormagazin''
+| rev3Score = 4/5<ref name="DatormagazinReview">{{cite magazine |last=Hybner |first=Tomas |title=The Last Ninja |journal=Datormagazin |issue=6 |date=August 1987 |pages=24–25 |lang=sv |url=https://archive.org/details/DMZ198706046/page/n23/mode/2up}}</ref>
+| rev4 = ''[[.info (magazine)|.info]]''
+| rev4Score = 4/5<ref name="InfoReview">{{cite magazine |last=Dunnington |first=Benn |title=The Last Ninja |journal=[[.info (magazine)|.info]] |issue=18 |date=January–February 1988 |pages=18–19 |url=https://archive.org/details/Info_Issue_18_1988-01_Info_Publications_US/page/n17/mode/2up}}</ref>
+| rev5 = ''[[Electron User]]''
+| rev5Score = 9/10<ref name="ElectronUserReview">{{cite magazine |last=Revis |first=Jon |title=Cut above the average |journal=[[Electron User]] |volume=6 |issue=6 |date=March 1989 |page=20 |url=https://archive.org/details/ElectronUserVolume6/Electron-User-06-06/page/n19/mode/2up}}</ref>
+| rev6 = ''[[Commodore User|CU Amiga]]''
+| rev6Score = 85%<ref name="CUAmigaReview">{{cite magazine |last=Patterson |first=Mark |title=Ninja Remix |journal=[[Commodore User#CU Amiga|CU Amiga]] |date=January 1991 |issue=11 |pages=46–47 |url=https://archive.org/details/cuamiga-magazine-011/page/n45/mode/2up}}</ref>
+| rev7 = ''[[Amiga Format]]''
+| rev7Score = 78%<ref name="AmigaFormatReview">{{cite magazine |last=Webb |first=Trenton |title=Ninja Remix |journal=[[Amiga Format]] |date=February 1991 |issue=19 |page=77 |url=https://archive.org/details/AmigaFormatMagazine_201902/Amiga_Format_Issue_019_1991_02_Future_Publishing_GB/page/n75/mode/2up}}</ref>
+| rev8 = ''[[Amiga User International]]''
+| rev8Score = 81%<ref name="AmigaUserInternationalReview">{{cite magazine |last=Horgan |first=Tony |title=Ninja Remix |journal=[[Amiga User International]] |date=February 1991 |volume=5 |issue=2 |page=88 |url=https://archive.org/details/Amiga_User_International_1991002/page/n87/mode/2up}}</ref>
+| rev9 = ''[[Amiga Force]]''
+| rev9Score = 71%<ref name="AmigaForceReview">{{cite magazine |last1=King |first1=Phil |last2=Hayward |first2=Chris |title=Ninja Remix |journal=[[Amiga Force]] |date=May 1993 |issue=5  |page=28 |url=https://archive.org/details/amiga-force-05/page/20/mode/2up}}</ref>
+}}
+''[[Computer Gaming World]]'' stated that "there is no exaggerating the graphic excellence of" ''The Last Ninja''.<ref name="cgw198711">{{cite magazine | title=Christmas Buyers Guide | magazine=[[Computer Gaming World]] | date=November 1987 | pages=20 | url=https://archive.org/details/Computer_Gaming_World_Issue_41/page/n19/mode/2up | issue=41}}</ref> It was very successful as an original Commodore 64 game. In Europe, its sales alone were in excess of 750,000 units and international multi-format sales exceeded 2,000,000 units. According to System 3's Mark Cale, about 4 million copies of the game were sold in all.<ref name=rr>{{cite journal |title=Mark Cale interrogation |journal=[[Retro Gamer]] |date=October 2005 |issue=18 |pages=56-57 (57) |url=https://archive.org/details/Retro_Gamer_UK_18/page/n51}}</ref> It was the best-selling C64 game at the time.<ref>{{cite news |last1=Marsden |first1=Rhodri |title=Flight of the Commodore: How the iconic computer led to a golden age |url=https://www.independent.co.uk/life-style/gadgets-and-tech/features/flight-commodore-how-iconic-computer-led-golden-age-geeks-6294572.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/life-style/gadgets-and-tech/features/flight-commodore-how-iconic-computer-led-golden-age-geeks-6294572.html |archive-date=2022-06-18 |url-access=subscription |url-status=live |access-date=23 February 2021 |work=[[The Independent]] |date=25 January 2012}}</ref>
+
+The game won many awards and was universally critically acclaimed as original and ground-breaking.<ref>[http://www.studio3.co.uk Studio 3] (formerly System 3) web site - URL last accessed 16 April 2006.</ref> It was a runner up for [[List of Game of the Year awards|Game of the Year]] at the [[Golden Joystick Award]]s '88.<ref>{{cite journal|title=Golden Joystick Awards|journal=[[Computer and Video Games]]|date=April 1987|issue=66|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue079/Pages/CVG07900039.jpg|accessdate=13 January 2012|page=101|publisher=[[Future Publishing]]}}</ref> According to [[UGO]]: "For a 20+ year old game, ''The Last Ninja'' is surprisingly advanced, sporting a combat system which allows specific body parts to be targeted, environmental obstacles, multiple weapons and hidden items galore".<ref>[http://www.ugo.com/games/ninjas-in-games-top-11-the-last-ninja Ninjas in Games | An evolution of ninjas in video games throughout the years.] {{webarchive|url=https://web.archive.org/web/20110615193632/http://www.ugo.com/games/ninjas-in-games-top-11-the-last-ninja |date=2011-06-15}}, UGO.com, June 4, 2008</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Lemon64 game|id=1488}}
+* [http://lastninja.c64.org/ Last Ninja Archives]
+* {{atarimania|id=10564}}
+* [http://hol.abime.net/982/ ''Ninja Remix''] at Amiga Hall of Light
+
+{{Authority control}}
+
+{{DEFAULTSORT:Last Ninja, The}}
+[[Category:1987 video games]]
+[[Category:Amiga games]]
+[[Category:Acorn Archimedes games]]
+[[Category:Action-adventure games]]
+[[Category:Activision games]]
+[[Category:Apple IIGS games]]
+[[Category:Apple II games]]
+[[Category:Atari ST games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Cancelled ZX Spectrum games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Eclipse Software Design games]]
+[[Category:Japan in non-Japanese culture]]
+[[Category:Video games about ninja]]
+[[Category:Superior Software games]]
+[[Category:Virtual Console games]]
+[[Category:Video games scored by Ben Daglish]]
+[[Category:Video games scored by Jochen Hippel]]
+[[Category:Video games with isometric graphics]]
+[[Category:Video games scored by Russell Lieblich]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in feudal Japan]]
+[[Category:Single-player video games]]
+[[Category:System 3 (company) games]]

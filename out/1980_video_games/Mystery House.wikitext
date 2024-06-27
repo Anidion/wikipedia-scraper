@@ -1,0 +1,87 @@
+Mystery House
+Permalink: //en.wikipedia.org/w/index.php?title=Mystery_House&oldid=1226563303
+Accessed on: 2024-06-26T16:51:45.716355
+
+
+
+------
+Mystery House
+{{About|the Apple II video game}}
+{{Distinguish|Mystery Fun House (video game)}}
+{{Use American English|date=November 2022}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox video game
+|title = Mystery House
+|image = On-Line Systems-01-Mystery House.jpg
+|caption = 1982 re-release cover art
+|developer = [[Sierra Entertainment|On-Line Systems]]
+|publisher = On-Line Systems
+|designer = [[Roberta Williams]]
+|programmer = [[Ken Williams (game developer)|Ken Williams]]
+|writer =
+|artist =
+|series = ''[[List of Hi-Res Adventures video games|Hi-Res Adventures]]''
+|engine = ADL
+|released = May 5, 1980
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]]
+}}
+
+'''''Mystery House''''' is an [[adventure game]] released by [[Sierra Entertainment|On-Line Systems]] in [[1980 in video gaming|1980]]. It was designed, written and illustrated by [[Roberta Williams]], and programmed by [[Ken Williams (game developer)|Ken Williams]] for the [[Apple II series|Apple II]].<ref>{{cite web | title=Introduction to The Roberta Williams Anthology | author-link=Ken Williams (game developer) | first=Ken | last=Williams | publisher=The Sierra Help Pages | url=http://www.sierrahelp.com/Misc/IntroductionToRWAnth.html | access-date=January 12, 2015}}</ref> ''Mystery House'' is the first [[Graphic adventure game|graphical adventure game]] and the first game produced by On-Line Systems, the company which would evolve into Sierra On-Line.<ref>{{cite news | url=http://www.highbeam.com/doc/1P2-3915183.html | archive-url=https://web.archive.org/web/20150402104248/http://www.highbeam.com/doc/1P2-3915183.html | url-status=dead | archive-date=April 2, 2015 | first=Sherry | last=McGuinn | title=Mom goes on-line with adventurous computer games | work=[[Chicago Sun-Times]] | date=November 20, 1988 | access-date=March 17, 2015}}</ref> It is one of the earliest [[Horror fiction|horror]] video games.<ref name="Rouse">{{cite book | last1=Rouse III | first1=Richard | editor=Perron, B. | year=2009 | article=Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games | title=Horror in Video Games: Essays on the Fusion of Fear and Play | publisher=McFarland | pages=15 | isbn=978-0-7864547-9-2 | quote = "The horror games kept going from [''Zork''], from one of the first graphical adventures ''Mystery House''..."}}</ref>
+
+==Plot==
+[[File:Mystery House - Apple II render emulation - 2.png|thumb|left|The opening scene]]
+
+The game starts near an abandoned [[Victorian architecture|Victorian]] mansion. The player is soon locked inside the house with no other option than to explore. The mansion contains many interesting rooms and seven other people: Tom, a plumber; Sam, a mechanic; Sally, a [[seamstress]]; Dr. Green, a surgeon; Joe, a grave-digger; Bill, a butcher; Daisy, a cook.
+
+Initially, the player has to search the house in order to find a hidden cache of jewels. Soon, dead bodies (of the other people) begin appearing and it is obvious there is a murderer on the loose in the house. The player must discover who it is or become the next victim.
+
+==Development and release==
+At the end of the 1970s, Ken Williams sought to set up a company for enterprise software for the market-dominating Apple II computer. One day, he took a [[teleprinter#Teleprinters in computing|teletype terminal]] to his house to work on the development of an accounting program. Looking through a catalog, he found a game called ''[[Colossal Cave Adventure]]''. He bought the game and introduced it to his wife, Roberta, and they both played through it. They began to search for something similar but found the market underdeveloped. Roberta decided that she could write her own, and conceived of the plot for ''Mystery House'', taking inspiration from [[Agatha Christie]]'s novel ''[[And Then There Were None]]''.<ref name="OUPAC">{{cite book | title=Once Upon a Point and Click | last=Craddock | first=David L. | date=September 17, 2017 | chapter=1: Interactive Page-Turners}}</ref><ref name="amjplay">{{cite journal | first = Laine | last = Nooney | title = Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game | journal = American Journal of Play | volume = 10 | issue = 1 | date = 2017 | pages = 71–98}}</ref> She was also inspired by the board game ''[[Cluedo|Clue]]'', which helped to break her out from a linear structure to the game.<ref name="high score activision crash">{{cite book | last1=DeMaria | first1=Rusel | last2=Wilson | first2=Johnny L. | title=High Score!: The Illustrated History of Electronic Games | date=2003 | publisher=McGraw-Hill/Osborne | location=New York | isbn=0-07-223172-6 | pages=134–135 | edition=2}}</ref>
+
+[[File:On-Line Systems - Hi-Res Adventure - June 1981 The On-Line Letter advert.jpg|thumb|Advertisement from the June 1981 issue of ''The On-Line Letter'' for some of On-Line Systems' ''Hi-Res Adventure'' games, including ''Mystery House''.]]
+Recognizing that though she knew some programming, she needed someone else to code the game, she convinced her husband to help her. Ken agreed and borrowed his brother's [[Apple II]] computer to write the game on. Ken suggested that adding graphical scenes to the otherwise text-based game would make it more interesting for players, and the couple bought a VersaWriter machine, on which users can trace over a line drawing and convert it to a digital drawing. Roberta drew seventy scenes for the game. Ken found, however, that the resulting digital drawings were too large to fit into a 5¼-inch [[floppy disk]], so he devised a way to convert the images into coordinates and instructions for the program to redraw the lines of the scenes rather than static images, as well as writing a better version of the VersaWriter scanning software. The resulting game is a text-based adventure with a depiction of the character's location displayed above the text. The game's code was completed in only a few days, and was finished on May 5, 1980. The couple took out an advertisement in ''Micro'' magazine as On-Line Systems, and mass-produced [[Ziploc]] bags containing a floppy disk and a sheet of instructions, to be sold at {{US$|24.95|1980}}.<ref name="OUPAC"/><ref name="Mystery House, Part 1">{{cite web | title=Mystery House, Part 1 | first=Jimmy | last=Maher | work=The Digital Antiquarian | url=https://www.filfre.net/2011/10/mystery-house-part-1/ | access-date=September 5, 2019}}</ref>
+
+==Reception and legacy==
+To the Williamses' surprise, what Roberta had initially considered a hobby project sold more than 10,000 copies through mail-order.<ref>{{cite web|first=Dennis|last=Lynch|url=https://www.newspapers.com/clip/90910838/chicago-tribune/|title=Sierra disks offer epic adventures|newspaper=[[Chicago Tribune]]|page=170|date=May 26, 1989|accessdate=December 21, 2021|via=[[Newspapers.com]]}}</ref><ref name="OUPAC"/><ref>{{cite web|first=Michael|last=Bendner|url=http://www.pcme.com/intrview/kwilliam/kwilliam.htm|archiveurl=https://web.archive.org/web/19981206115537/http://www.pcme.com:80/intrview/kwilliam/kwilliam.htm|title=An Interview with Ken Williams|archivedate=December 6, 1998|date=September 1995|accessdate=August 23, 2023}}</ref> Including its 1982 rerelease through the SierraVenture line, 80,000 units were eventually sold worldwide,<ref>{{cite book | last1=DeMaria | first1=Rusel | last2=Wilson | first2=Johnny L. | title=High Score!: The Illustrated History of Electronic Games | year=2003 | publisher=[[McGraw-Hill | McGraw-Hill/Osborne]] | location=New York [u.a.] | isbn=0-07-223172-6 | url=https://books.google.com/books?id=HJNvZLvpCEQC | edition=2. | page=135}}</ref> making it one of the [[List of best-selling PC games|best-selling computer games]] at the time.{{citation needed|date=June 2017}}
+
+Mark Marlow reviewed ''Mission: Asteroid'', ''Mystery House'', and ''The Wizard and the Princess'' for ''[[Computer Gaming World]]'', and stated that "''Mystery House'' is considerably more difficult and provides many traps for the unwary in a wonderfully Victorian setting".<ref name="CGW2">{{cite magazine |last=Marlow |first=Mark |title=Micro - Reviews |magazine=Computer Gaming World |date=January–February 1982 |volume=1 |issue=2 |pages=31–32}}</ref>
+
+''[[Computer Gaming World]]'' in 1996 ranked it fourth on the magazine's list of the most innovative computer games.<ref name="cgw199611mostinnovative">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=The 15 Most Innovative Computer Games | magazine=Computer Gaming World | date=November 1996 | access-date=March 25, 2016 | pages=102}}</ref> ''[[GamePro]]'' named ''Mystery House'' the 51st most important game of all time in 2007, for introducing a visual component to adventure games and for featuring graphics at a time when most [[PC game|computer games]] did not.<ref>{{cite magazine | url = http://www.gamepro.com/gamepro/international/games/features/110028.shtml | title = The 52 Most Important Video Games of All Time | magazine = [[GamePro]] | date = April 24, 2007 | access-date = April 25, 2007 | archive-url=https://web.archive.org/web/20070520142756/http://www.gamepro.com/gamepro/international/games/features/110028.shtml | archive-date=May 20, 2007}}</ref> Though the game is often considered the first adventure game to use graphics, [[dungeon crawl]] [[role-playing video game]]s such as ''[[pedit5]]'' (1975) had already been using graphics prior to its release. Applying graphics to an adventure game, however, was unprecedented as previous story-based adventure games were entirely [[Text-based game|text-based]].
+
+''Mystery House''{{'}}s success led the Williams to create the ''Hi-Res Adventures'' series, and note the game as ''Hi-Res Adventure'' #1. After the follow-on success of their next game, ''[[Wizard and the Princess]]'', the pair moved into game development full-time, and On-Line Systems was incorporated in 1980 as Sierra On-Line.<ref name="OUPAC"/> The game was later released into the [[public domain]] in 1987 as part of Sierra's seventh anniversary celebration.<ref>{{cite web|url=http://toucharcade.com/2009/03/12/1980-adventure-mystery-house-comes-to-the-iphone/ |title=1980 Adventure 'Mystery House' Comes to the iPhone |website=TouchArcade.com |date=December 6, 2013 |access-date=August 7, 2016}}</ref><ref>{{cite web|url=http://www.adventuregamers.com/articles/view/17880 |title=Mystery House review |date=October 7, 2005 |publisher=AdventureGamers.com |access-date=August 7, 2016}}</ref>
+
+[[Video gaming in Japan|In Japan]], several different [[adventure game]]s under the title ''Mystery House'' were released. In 1982, [[MicroCabin]] released ''Mystery House'', which was unrelated to (but inspired by) the On-Line Systems game of the same name. The following year, the Japanese company Starcraft released an [[Video game remake|enhanced remake]] of On-Line Systems' ''Mystery House'' with more realistic art work and [[Video game controversy|depiction of blood]], for the [[NEC PC-6001]] and [[PC-8801]], while ''Mystery House II'' for the [[MSX]] was released as a sequel to MicroCabin's ''Mystery House''.<ref>{{cite web|last=Kalata|first=Kurt|title=The Mystery of the Japanese Mystery House|url=http://blog.hardcoregaming101.net/2010/05/mystery-of-japanese-mystery-house.html|work=Hardcore Gaming 101|access-date=September 19, 2011|date=May 10, 2010}}</ref> The Japanese versions of ''Mystery House'' had sales of 50,000 units, including 30,000 copies on the [[MSX]] and 20,000 copies on the PC-6001, PC-8001, [[PC-8801]], [[PC-9801]], [[FM-7]], and [[Sharp X1|X1]] computers.<ref>{{cite web|title=ミステリーハウスの部屋|url=http://homepage2.nifty.com/furuiotoko/room06/mystery1.htm|website=Homepage2.nifty.com|access-date=January 12, 2015}}{{Dead link|date=October 2023 |bot=InternetArchiveBot |fix-attempted=yes}} ([https://translate.google.com/translate?sl=ja&hl=en&u=http://homepage2.nifty.com/furuiotoko/room06/mystery1.htm Translation])</ref>
+
+''Mystery House'' was satirized in the 1982 adventure game ''[[Prisoner 2]]''. One location from that game is a spooky house, where the player is told, "He's killed Ken!" and must seek absolution for murder. Elements from the game were later reintroduced in the Sierra On-Line game ''[[The Colonel's Bequest]]'' in 1989.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons|Mystery House}}
+* {{mobygames|id=/hi-res-adventure-1-mystery-house}}
+* {{IFDB|id=clc9a8hnvx79pabw}}
+
+{{Sierra Adventure Games|Hi-Res}}
+
+[[Category:1980 video games]]
+[[Category:1980s interactive fiction]]
+[[Category:Adventure games]]
+[[Category:Apple II games]]
+[[Category:DOS games]]
+[[Category:FM-7 games]]
+[[Category:1980s horror video games]]
+[[Category:MSX games]]
+[[Category:NEC PC-6001 games]]
+[[Category:NEC PC-8001 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Public-domain software]]
+[[Category:Sharp X1 games]]
+[[Category:ScummVM-supported games]]
+[[Category:Sierra Entertainment games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in country houses]]
+[[Category:Single-player video games]]
+[[Category:Video games designed by Roberta Williams]]

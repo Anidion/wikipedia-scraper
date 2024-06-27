@@ -1,0 +1,63 @@
+Frak!
+Permalink: //en.wikipedia.org/w/index.php?title=Frak%21&oldid=1218488220
+Accessed on: 2024-06-26T16:56:49.043942
+
+
+
+------
+Frak!
+{{Use dmy dates|date=July 2016}}
+{{other uses|Frak (disambiguation){{!}}Frak}}
+{{Refimprove|date=February 2010}}
+{{Infobox video game
+| title = Frak!
+| image = Frak! Cover.jpg
+| developer = [[Aardvark Software]]
+| publisher = [[Aardvark Software]]<br>State Soft (C64)
+| designer = [[Nick Pelling]]
+| released = '''1984:''' BBC, Electron<br>'''1985:''' C64
+| genre = [[Platform game|Platform]]
+| modes = [[Single-player]]
+| platforms = [[Acorn Electron]], [[BBC Micro]], [[Commodore 64]]
+}}
+
+'''''Frak!''''' is a scrolling [[platform game|platform video game]] programmed by [[Nick Pelling]] for the [[BBC Micro]] and [[Acorn Electron]] and published by his own Aardvark Software in 1984. It was ported to the [[Commodore 64]] the following year by "The B Team" (Jason Perkins, Anthony Clarke, and Mark Rodgers). The BBC and Electron versions were included on the [[Superior Software]] compilation ''Play It Again Sam 4'' in 1987 and re-issued in budget form by Alternative Software in 1989.
+
+== Gameplay ==
+[[Image:Frak screen.png|thumb|left|First level on the BBC micro]]
+[[Image:Acorn-Electron-Frak!-gameplay-level-1.png|thumb|left|First level on the Acorn Electron]]
+[[Image:Frak Screenshot.png|thumb|left|First level on the Commodore 64]]
+
+''Frak!'' is a [[Side scroller|side scrolling]] [[platform game]] in which the player controls a [[caveman]] named Trogg. In each level, Trogg's object is to find three keys located on the level. The platforms and ladders (replaced by logs, ropes and chains on later levels) constituting the level are laid out in a very tricky form. When Trogg steps off a platform, he does not fall straight down, but instead slides diagonally downwards. Added to the fact that long falls will kill Trogg, this calls for very skilful jumping among the platforms. Trogg exclaims "[[Frak (expletive)|Frak!]]" (presumably an expletive) each time he dies. When the user manages to complete the three levels, they are returned to the first level with the screen display upside down.<ref>{{cite web |url=https://www.retrogamer.net/retro_games80/frak/ |title = Frak! {{!}} Retro Gamer |date=18 August 2008 }}</ref> The game then repeats the same three stage sequence, following which it rotates 90 degrees and repeats again. Subsequent loops consist of video being displayed in black and white and rotated, and also the display being flashed on and off in three second intervals.
+
+Enemies in ''Frak!'' come in three forms: the large, hairy Scrubbly, pig-like Poglet and large-nosed Hooter (each static, as "statues"), balloons and daggers. The statues obviously stay still, whereas the balloons fly straight upwards and the daggers fly diagonally downwards. Contact with any enemy will kill Trogg. To combat the enemies, Trogg is armed with a [[yo-yo]] that he can launch straight horizontally. The yo-yo will kill any enemy it comes into contact with, even those off-screen and a side scroll away.
+
+Each level also has a time-limit, which can be topped up by the occasionally found light bulbs, but if the time runs out, the level does not end - instead, the game continues in the dark.<ref>{{cite web |url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=001&amp;page=112&amp;thumbstart=0&amp;magazine=zzap&amp;check=1 |title = Impossible to Display Scan}}</ref> After this point, the yo-yo can still be used to remove the static enemies from the level but will not affect balloons and daggers.
+
+''Frak!'' encodes [[high score]]s as nonsensical secret messages, such as ''Hairy gonks kiss green Buddhas slowly''.
+
+==Ports==
+When the original BBC Micro version was converted for the Acorn Electron, the screen mode was changed from the four-colour, 20&nbsp;[[Kilobyte|KB]], mode 1 to the two-colour, 10&nbsp;KB, mode 4 due to the Electron's reduced performance in the larger, high bandwidth screen modes. Due to other restrictions related to the Electron's video hardware, scrolling of the play area occurred as the main character approached the edge of the screen, being "more like a jump than a scroll". However, it was observed that despite the loss of colour, "the graphics actually seem better" and the game appeared to be "slightly faster and less flickery". The extra RAM freed up by the smaller [[frame buffer]] made it possible to add a screen designer which was not in the BBC original,<ref name="electronuser198604_frak">{{cite magazine | url=https://archive.org/details/ElectronUserVolume3/Electron-User-03-07/page/n12/mode/1up | title=Frak - it's sure to be another classic | magazine=Electron User | last1=Waddilove | first1=Roland | date=April 1986 | access-date=16 October 2021 | volume=3 | issue=7 | pages=13}}</ref> and to include extra levels (bringing the total to nine against the BBC's three). The C64 version<ref>{{Citation|last=Ivan Paduano|title=Game of the day 159 Frak! ( フラク!) State Soft 1985|date=2015-03-02|url=https://www.youtube.com/watch?v=h69pgu_jukc |archive-url=https://ghostarchive.org/varchive/youtube/20211221/h69pgu_jukc |archive-date=2021-12-21 |url-status=live|accessdate=2017-06-21}}{{cbignore}}</ref> was written by MicroProjects Limited (Jason Perkins, Anthony Clarke & Mark Rogers) who were subcontracted by Statesoft to do the conversion. It has six levels. The BBC version has a higher resolution than the C64 and so some of the active playing is off the screen.<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211210/TlFFHu_NtRk Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20160415105752/https://www.youtube.com/watch?v=TlFFHu_NtRk Wayback Machine]{{cbignore}}: {{cite AV media | url = https://www.youtube.com/watch?v=TlFFHu_NtRk | title = [c64] Frak! (1985) | website=[[YouTube]]}}{{cbignore}}</ref>
+
+In 1998, a version of ''Frak!'' was released by RComp Interactive for Acorn's ARM-based series of computers running [[RISC OS]]. Although regarded as "an institution" and having "some of the elusive quality of the original", this new version was criticised for not having been updated to compete with more recent platform games, with the background remaining blank and with the non-player characters remaining unanimated just as in the original. This release did, however, reintroduce a level designer, albeit operating as a separate program from the game itself.<ref name="acornuser199810_frak">{{cite magazine | url=https://archive.org/details/AcornUser199-Oct98/page/n43/mode/1up | title=A blast from the past | magazine=Acorn User | date=October 1998 | access-date=9 February 2022 | last1=Paul | first1=Teri | pages=44}}</ref>
+
+In October 2020 a version for [[Microsoft Windows]] was released on [[Steam (service)|Steam]]. This version stays close to the graphics and sound of the original BBC Micro version, but adds extra levels and gameplay features.
+
+==Reception==
+''Acorn User'' remarked on the "outstanding" graphics and compared its characters to early [[Disney Brothers Cartoon Studio|Disney cartoons]].<ref name="acornuser198409_quinn">{{cite news | url=https://archive.org/details/AcornUser026-Sep84/page/n170/mode/1up | title=Rock with the caveman | work=[[Acorn User]] | date=September 1984 | accessdate=21 October 2021 | last1=Quinn | first1=Tony | pages=155}}</ref>
+
+Reviewing the Commodore 64 version, Zzap!64 also praised the graphics and said it was a challenging game. It was rated 71%.<ref>{{cite web |url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=001&amp;page=112&amp;thumbstart=0&amp;magazine=zzap&amp;check=1 |title = Impossible to Display Scan}}</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:1984 video games]]
+[[Category:Aardvark Software games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Platformers]]
+[[Category:Prehistoric people in popular culture]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in prehistory]]
+[[Category:Alternative Software games]]

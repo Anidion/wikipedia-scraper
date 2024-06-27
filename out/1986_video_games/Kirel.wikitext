@@ -1,0 +1,87 @@
+Kirel
+Permalink: //en.wikipedia.org/w/index.php?title=Kirel&oldid=1230423653
+Accessed on: 2024-06-26T17:00:19.923994
+
+
+
+------
+Kirel
+{{Short description|1986 video game}}
+{{refimprove|date=March 2018}}
+{{Infobox video game
+|title = 
+|image = Kirel Coverart.png
+|developer = Siegfried Kurtz<ref name=wos>{{WoS game|id=0002705|name=Kirel}}</ref>
+|publisher = [[Addictive Games]]
+|released = [[1986 in video gaming|1986]]
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player]]
+|platforms = [[ZX Spectrum]]
+}}
+
+'''''Kirel''''' is an [[Isometric projection|isometric]] [[puzzle video game|puzzle game]] written by Siegfried Kurtz for the [[ZX Spectrum]] and published by [[Addictive Games]] in [[1986 in video gaming|1986]].<ref name=wos/> "Kirel" must defuse the bombs before they explode while evading monsters which will sap his energy.
+
+== Gameplay ==
+{{unreferenced|section|date=March 2018}}
+
+The player controls Kirel, an alien creature in a world made of blocks and inhabited by monsters. Bombs have been set in each level and Kirel must reach and defuse them before they explode.
+
+Kirel can pick up blocks and drop them. He cannot jump higher than one block so must build staircases to reach high places. He cannot descend heights greater than one block, however if he picks up the block or item on which he stands, he will safely fall to the lower level regardless of drop.
+
+He can build a limited number of horizontal Bridges to traverse gaps. (Remaining Bridges are indicated at bottom left of the screen.)
+
+Kirel cannot pick up blocks from the base level, nor place blocks on
+the top level. He cannot pick up the block upon which the Exit door will eventually appear. He can carry only one block at a time.
+
+Monsters move randomly around the map and will drain Kirel's energy if they climb on him. Kirel can kill them in turn by climbing on them, but this costs him Pieces of Cake. (Remaining Pieces are indicated at bottom left of the screen.) If a monster is on the highest level of the map then it cannot be killed. Nor can Kirel be attacked in that position.
+
+Various objects are scattered around the landscape:
+*Pieces of Cake enable Kirel to kill monsters
+*Arrows give Kirel extra Bridges
+*Sweets (resembling cupcakes, toasters, and pies) restore Kirel's energy
+*Balls slow down the Bomb fuse
+*Teleports transport Kirel to other parts of the map
+*Pyramids block Kirel's path and cannot be moved (later levels also feature invisible Pyramids)
+*Cubes destroy sections of the map and enable access to hidden bombs
+
+When all the Bombs have been defused an Exit door will appear to take Kirel to the next level.
+
+=== Controls ===
+*S = Start game (bypass scrolling intro screen)
+*Fire or 0 = pick up or drop block
+*1 = Rotate view 90 degrees clockwise
+*2 = Rotate view 180 degrees
+*3 = Rotate view 90 degrees counter-clockwise
+*H = Pause game (Enter resumes)
+*Space = Pause game and show location of Kirel and the monsters (Enter resumes)
+*B = Build bridge in direction Kirel is facing (if possible)
+*D = Move vertically down (if possible)
+*E = Move vertically up (if possible)
+*V+T = Abort game
+
+A training mode is available to introduce new players to the game.
+
+== Development ==
+''Kirel'' was written by German programmer Siegfried Kurtz. [[Addictive Games]] founder [[Kevin Toms]] flew to Germany to meet Kurtz and sign him up after receiving the game as a submission. Toms told ''[[Retro Gamer]]'' that Kurtz programmed using [[assembly language]] but never actually used an assembler, opting instead to enter the code directly into [[hexadecimal]] from memory. Kurtz later achieved a [[Doctor of Philosophy|PhD]] in [[mathematics]].<ref>{{cite magazine | author=Drury, Paul | date=May 2009 | title=This month we've been chatting to... Kevin Toms | magazine=[[Retro Gamer]] | publisher=[[Imagine Publishing]] | page=82 | issue=63 | issn=1742-3155}}</ref>
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Sinclair User''
+| award1 = SU Classic
+| award2Pub = ''Your Sinclair''
+| award2 = Megagame
+}}
+''[[Your Sinclair]]'':"This is a game you'll either love or hate. You'll find it absolutely infuriating or totally addictive. I played it for hours. Give it a try. It could just be one of the cleverest games of the year."<ref name="Your Sinclair Review">{{Citation|title=Kirel Review|newspaper=[[Your Sinclair]]|date=July 1986}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:1986 video games]]
+[[Category:Addictive Games games]]
+[[Category:Puzzle video games]]
+[[Category:Single-player video games]]
+[[Category:Video games about bomb disposal]]
+[[Category:Video games developed in Germany]]
+[[Category:Video games with isometric graphics]]
+[[Category:ZX Spectrum games]]
+[[Category:ZX Spectrum-only games]]

@@ -1,0 +1,239 @@
+Archon: The Light and the Dark
+Permalink: //en.wikipedia.org/w/index.php?title=Archon%3A_The_Light_and_the_Dark&oldid=1224116457
+Accessed on: 2024-06-26T16:54:31.196819
+
+
+
+------
+Archon: The Light and the Dark
+{{short description|1983 video game}}
+{{Infobox video game
+|title = Archon: The Light and the Dark
+|image = archon box.png
+|developer = [[Free Fall Associates]]
+|publisher = {{vgrelease|NA|[[Electronic Arts]]|EU|[[Ariolasoft]]}}
+|designer = [[Jon Freeman (game designer)|Jon Freeman]]<br>[[Paul Reiche III]]
+|programmer = [[Anne Westfall]]
+|released = 1983
+|genre = [[Strategy video game|Strategy]], [[Action game|action]]
+|modes = [[Single-player video game|Single player]], [[Multiplayer video game|Two-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]], [[Mac (computer)|Mac]], [[Nintendo Entertainment System|NES]], [[NEC PC-8801|PC-88]], [[ZX Spectrum]]
+}}
+
+'''''Archon: The Light and the Dark''''' is a 1983 [[video game]] developed by [[Free Fall Associates]] and one of the first five games published by [[Electronic Arts]]. It is superficially similar to [[chess]], in that it takes place on a board with alternating black and white squares, but instead of fixed rules when landing on another player's piece, an arcade-style fight takes place to determine the victor, and each piece has different combat abilities. The health of the player's piece is enhanced when landing on a square of one's own color.
+
+''Archon'' was originally written for [[Atari 8-bit computers]] and then [[porting|ported]] to the [[Apple II]], [[Commodore 64]], [[Amstrad CPC]], [[ZX Spectrum]], [[Amiga]], [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]), [[Mac (computer)|Mac]], [[NEC PC-8801|PC-88]], and [[Nintendo Entertainment System|NES]]. It was designed by [[Paul Reiche III]] (who also created the graphics for the game) and [[Jon Freeman (game designer)|Jon Freeman]] and programmed by [[Anne Westfall]].
+
+A sequel was released in 1984: ''[[Archon II: Adept]]''.
+
+==Gameplay==
+===Overview and objective===
+[[File:C64 Archon.png|thumb|left|C64 screenshot]]
+The goal of the game is either to occupy five power points located on the board, to eliminate all the opposing pieces, or to eliminate all but one remaining imprisoned piece of the opponent's.  Accomplishing any one of these goals results in a win.<ref name=EA-manual>{{cite web |url=https://archive.org/details/ArchonEAManual/ |title=Archon Manual |author1=Freeman, Jon |author2=Reiche III, Paul |publisher=Electronic Arts |date=1983 |access-date=26 July 2023}}</ref>{{rp|2}}
+
+When one piece lands on the same space as an opposing piece, the removal of the targeted piece is not automatic. Instead, the two pieces are placed into a full-screen 'combat arena' and must battle (action-style, with the players operating the combatants) to determine who takes the square.<ref name=EA-manual/>{{rp|2}}<ref name=mechanics>[http://www.vintagecomputing.com/index.php/archives/44 Secrets of ''Archon'' at vintagecomputing.com] - detailing mechanics of the Atari 800 version.</ref> A stronger piece will generally defeat a weaker piece, but not always, and a fight can result in both pieces being eliminated. This uncertainty adds a level of complexity to the game. Different pieces have different abilities in the combat phase. These include movement, lifespan, and weapon. The weapons vary by range, speed, rate of firing, and power. For example, the [[pawn (chess)|pawn]] (represented by [[knight]]s on the 'light' side and [[goblin]]s on the 'dark' side) attacks quickly, but has very little strength; its weapon, a sword or club, has limited reach and power. A [[dragon]] is stronger and can attack from a distance, while a [[golem]] moves slowly and fires a slow but powerful boulder.
+
+===Game board===
+[[File:Archon board.svg|thumb|right|9×9 board for ''Archon'']]
+The board is visually similar to a chessboard and is laid out with nine columns and nine rows. There are five "power points", arranged at the center of each edge and the center of the board. A piece on a power point heals faster and is immune to spells cast by the opponent.<ref name=EA-manual/>{{rp|3}}
+
+A piece's powers are affected by the square on which the battle takes place, with each player having an advantage on squares of their own color.<ref name=EA-manual/>{{rp|3}} Each quadrant of sixteen squares (e.g., A1:D4) in each corner of the board has six dark squares, six light squares, and four oscillating squares which cycle between light and dark, making them dangerous to hold over time; these quadrants are separated by oscillating squares along the middle column (E) and row (5). In total, 27 squares on the board ({{frac|3}}) oscillate between light and dark.
+
+The three power points in the middle column (E) are on oscillating squares. The two power points on the left and right edges are permanently assigned (A5 = light, I5 = dark) and are the respective starting squares for the spellcaster/leaders of each side.
+
+===Icons===
+Each player starts with 18 icons, or pieces, from 8 different types,<ref name=EA-manual/>{{rp|2}} arranged in the two columns on either side of the board, Light starting on the left and Dark starting on the right.
+
+{|class="wikitable sortable" style="font-size:80%;text-align:center;"
+|+''Archon'' icons<ref name=EA-manual/>{{rp|10–11}}<ref>{{cite web |url=https://www.mocagh.org/ea/archon-creatures.pdf |title=Archon — Quick Reference Card |publisher=Electronic Arts |date=1983 |access-date=26 July 2023}}</ref>
+! style="background:#fff;" colspan=7 | Light
+! style="background:#000;color:#fff;" colspan=7 | Dark
+! rowspan=2 | Qty !! colspan=3 | Movement
+|-
+! style="background:#fff;" | Name
+! Weapon !! F{{efn|name=force|Force measures the impact of an individual attack landing on the opponent, rated on a scale of 1–6, with 1 being "minor", 3 being "moderate", 5 being "great", and 6 being "very great".}} !! S{{efn|name=speed|Speed of an individual attack, rated on a scale of 1–6, with 1 being "slow", 3 being "medium", 5 being "fast", and 6 being "instant".}} !! I{{efn|name=interval|Attack Interval is the recharge time before another attack can be made, rated on a scale of 1–6, with 1 being "long", 3 being "average", 5 being "short", and 6 being "very short".}}
+! Life{{efn|name=life|Length of this icon's life bar, rated on a scale of 1–6, with 1 being "short", 3 being "average", 5 being "long", and 6 being "very long".}}
+! Start{{efn|name=start|Starting square for this icon.}}
+! style="background:#000;color:#fff;" | Name
+! Weapon !! F{{efn|name=force}} !! S{{efn|name=speed}} !! I{{efn|name=interval}}
+! Life{{efn|name=life}}
+! Start{{efn|name=start}}
+! Type !! Range{{efn|Radius of movement, in squares.}} !! Speed
+|-
+! style="background:#fff;" | Wizard
+| fireball || 5 || 3 || 3
+| 3
+| A5
+! style="background:#000;color:#fff;" | Sorceress
+| lightning bolt || 3 || 5 || 3
+| 3
+| I5
+| 1 || Teleport || 3 || Normal
+|-
+! style="background:#fff;" | Djinni
+| whirlwind || 3 || 3 || 3
+| 5
+| A4
+! style="background:#000;color:#fff;" | Dragon
+| fiery breath || 6 || 3 || 1
+| 6
+| I6
+| 1 || Flying || 4 || normal
+|-
+! style="background:#fff;" | Phoenix
+| fiery explosion || 5 || 1 || 1
+| 5
+| A6
+! style="background:#000;color:#fff;" | Shapeshifter
+| varies || var. || var. || var. 
+| unknown
+| I4
+| 1 || Flying || 5 || normal
+|-
+! style="background:#fff;" | Unicorn
+| energy bolt || 3 || 5 || 5
+| 3
+| A3, A7
+! style="background:#000;color:#fff;" | Basilisk
+| eye beam || 5 || 5 || 5
+| 1
+| I3, I7
+| 2 || Ground || 4(3){{efn|Basilisk has a movement radius of 3; unicorn has a movement radius of 4.}} || normal
+|-
+! style="background:#fff;" | Golem
+| boulder || 5 || 1 || 1
+| 5
+| A2, A8
+! style="background:#000;color:#fff;" | Troll
+| boulder || 5 || 1 || 1
+| 5
+| I2, I8
+| 2 || Ground || 3 || slow
+|-
+! style="background:#fff;" | Valkyrie
+| magic spear || 3 || 1 || 3
+| 3
+| A1, A9
+! style="background:#000;color:#fff;" | Banshee
+| scream || 3 || 6 || 1
+| 3
+| I1, I9
+| 2 || Flying || 3 || normal
+|-
+! style="background:#fff;" | Archer
+| arrow || 1 || 3 || 3
+| 1
+| B1, B9
+! style="background:#000;color:#fff;" | Manticore
+| tail quills || 1 || 1 || 3
+| 3
+| H1, H9
+| 2 || Ground || 3 || normal
+|-
+! style="background:#fff;" | Knight
+| sword || 1 || 6 || 6
+| 1
+| B2, B3, B4, B5, B6, B7, B8
+! style="background:#000;color:#fff;" | Goblin
+| club || 1 || 6|| 6
+| 1
+| H2, H3, H4, H5, H6, H7, H8
+| 7 || Ground || 3 || normal
+|}
+;Notes
+{{notelist}}
+
+Each piece has one of three movement types: ground, flying, or teleport. Ground types cannot move diagonally or through an occupied square. Flying and teleport types do not have these restrictions but cannot end their move in a square already occupied by that player's pieces.<ref name=EA-manual/>{{rp|5}}
+
+Most pieces have missile attacks, except the knight/goblin (short-range swinging attacks) and banshee/phoenix (short-range area attacks). Barriers in the combat arena cycle through light and dark; when the barriers match the background color, they are effectively no longer present.<ref name=EA-manual/>{{rp|6}}
+
+Some pieces have special abilities. The [[Phoenix (mythology)|phoenix]] can turn into a ball of fire, both damaging the enemy and shielding itself from enemy attacks. The shapeshifter assumes the shape and abilities of whatever piece it is up against. ''[[MikroBitti]]'' magazine once wrote that the phoenix and the shapeshifter facing each other usually end up as the most boring battle in the entire game; both combatants' capabilities are simultaneously offensive and defensive, and they tend to use it whenever they meet each other, and thus both rarely get damaged.
+
+Each side also has a [[Magician (fantasy)|spellcaster]] piece, who are the leaders: the sorceress for the dark side and the wizard for the light side. The sorceress and the wizard can cast seven different spells. Each spell may be used only once per game by each spellcaster.<ref name=EA-manual/>{{rp|5}}
+
+{|class="wikitable sortable" style="font-size:100%;"
+|+''Archon'' spells<ref name=EA-manual/>{{rp|6–7}}
+! Name !! class="unsortable" | Effect
+|-
+! Teleport
+| Moves a friendly piece to another location, unless the piece is imprisoned or the destination is not already occupied by a friendly piece or is a power point. Opposing pieces cannot be ''teleported''.
+|-
+! Heal
+| ''Heals'' all wounds to a friendly piece, unless the piece is on a power point.
+|-
+! Shift Time
+| Shifts direction of oscillation cycle (e.g., if squares are changing from light to dark, ''shift time'' will result in cycling back towards light); if the cycle is at its peak, it abruptly shifts squares to the opposite peak (e.g., swaps light for dark tiles).
+|-
+! Exchange
+| Swap the locations of two selected pieces. If either piece is imprisoned or on a power point, an ''exchange'' is not possible.
+|-
+! Summon Elemental
+| ''Summons'' a temporary elemental to battle any opponent piece that is not on a power point; the elemental disappears after the battle, regardless of the outcome. The elemental is one of four types (air, earth, fire, or water), chosen randomly.
+|-
+! Revive
+| ''Revives'' any friendly icon previously removed from the board after combat onto an empty square adjacent to the spellcaster.
+|-
+! Imprison
+| ''Imprison'' confines an opponent piece to the square it is currently occupying, preventing it from moving but combat is still possible if a friendly piece is moved onto that square; if the square is shifting colors, the imprisonment is ended once it matches the opponent's color. Imprison cannot be used for pieces on a power point, nor can it be used on a piece that would be freed based on its background color.
+|}
+
+The computer opponent slowly [[dynamic game difficulty balancing|adapts over time]] to help players defeat it.<ref name="bateman198411">{{cite news | url=https://archive.org/stream/1984-11-computegazette/Compute_Gazette_Issue_17_1984_Nov#page/n53/mode/2up | title=Free Fall Associates: The Designers Behind Archon and Archon II: Adept | work=Compute!'s Gazette | date=November 1984 | accessdate=6 July 2014 | author=Bateman, Selby | pages=54}}</ref> The game is usually won when either one side destroys all the opposing pieces or one of the sides is able to occupy all of the five power points.  More rarely, a side may also win by imprisoning its opponent's last remaining piece. If each side has but a single piece, and the two pieces destroy each other in combat, then the game ends in a tie.
+
+==Reception==
+''Archon'' was very well received. ''[[Softline (magazine)|Softline]]'' praised the game's originality and said that "it's an announcement that Free Fall does games. And it does them well."<ref name="yuen19830708">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=12 | title=Archon | work=Softline | date=Jul–Aug 1983 | accessdate=28 July 2014 | author=Yuen, Matt | pages=24}}</ref> ''Video'' magazine reviewed the game in its "Arcade Alley" column where reviewers described it as "truly a landmark in the development of computerized strategy games" and suggested that "no review could possibly do more than hint at [''Archon''{{'s}}] manifold excellence."<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= October 1983 |title= Arcade Alley: From Pinball to Purgatory at Electronic Arts |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 7|pages= 30–32|issn= 0147-8907}}</ref>{{rp|32}} ''[[Computer Gaming World]]''{{'}}s reviewer called ''Archon'' "a very good game, with lots of care put into its development".<ref name="willis198310">{{cite magazine | title=Archon: Review and Analysis | magazine=Computer Gaming World | date=October 1983 | author=Willis, David | pages=16–18}}</ref> For Atari version, the magazine said that it "is a good first step towards what will be an exciting new class of game. Its play, despite the lack of depth or variation that will be possible, is fast moving."<ref name="CGW12">{{cite magazine |last=Doum |first=Allen |title=Atari Arena |magazine=Computer Gaming World |date=October 1983 |volume=1 |issue=12 |pages=43}}</ref> For Amiga version, the magazine recommended both ''Archon'' and ''Adept'' for those interested in a challenging strategy games.<ref name="wagner198611">{{cite magazine | title=Amiga Preferences | magazine=Computer Gaming World | date=November 1986 | author=Wagner, Roy | page=38}}</ref>
+
+[[Orson Scott Card]] reviewed the game for ''[[Compute!]]'' in 1983. He gave ''Archon'' and two other EA games, ''[[M.U.L.E.]]'' and ''[[Worms?]]'', complimentary reviews, writing that "they are original; they do what they set out to do very, very well; they allow the player to take part in the creativity; they do things that only computers can do."<ref name="card198311">{{cite news | url=http://www.atarimagazines.com/compute/issue42/gamesgrowup.php | title=Home Computer Games Grow Up | work=Compute! | date=November 1983 | accessdate=27 January 2015 | author=Card, Orson Scott | pages=162 | authorlink=Orson Scott Card}}</ref> [[Leo LaPorte]] of ''Hi-Res''—a tournament chess player—unfavorably compared the complexity of its rules to that of chess and [[Go (game)|Go]], but concluded that ''Archon'' was "a very good game" that "struck a fine balance between a strategy game and an arcade shoot-'em-up."<ref name="laporte19840506">{{cite news | url=http://www.atarimagazines.com/hi-res/v1n4/reviews.php | title=ARCHON | work=Hi-Res | date=May–June 1984 | accessdate=22 December 2014 | author=LaPorte, Leo G. | pages=14}}</ref> ''[[BYTE]]''{{'}}s reviewer called ''Archon'' one of the best computer games he has ever played, stating it was "rewarding and varied enough to be played again and again."<ref name="williams198406">{{cite news | url=https://archive.org/stream/byte-magazine-1984-06/1984_06_BYTE_09-06_Computers_and_Education#page/n317/mode/2up | title=Archon | work=BYTE | date=June 1984 | accessdate=23 October 2013 | author=Williams, Gregg | page=317}}</ref> ''The [[Addison-Wesley]] Book of Atari Software 1984'' gave the game an overall A+ rating, describing it as "one of the most creative and original games that has come along in several years ... It has great graphics, and will give a lifetime of pleasure."<ref name="aw1984">{{cite book | url=https://archive.org/stream/Atari_Software_1984#page/n161/mode/2up | title=The Addison-Wesley Book of Atari Software | publisher=Addison-Wesley | year=1984 | pages=162 | isbn=0-201-16454-X |editor1=Stanton, Jeffrey |editor2=Wells, Robert P. |editor3=Rochowansky, Sandra |editor4=Mellid, Michael}}</ref>
+
+In 1984 ''Softline'' readers named ''Archon'' the most popular Atari program of 1983.<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | accessdate=28 July 2014 | pages=49}}</ref> It was awarded "1984 Most Innovative Video Game/Computer Game" at the 5th annual [[Arkie Awards]], where judges noted that "few games make better use of a computer's special abilities than ''Archon''."<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|29}} In 1996, ''Computer Gaming World'' ranked ''Archon'' as the 20th best game of all time.<ref name="cgw199611best">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148 | title=150 Best Games of All Time | magazine=Computer Gaming World | date=November 1996 | accessdate=25 March 2016 | pages=64–80}}</ref> It was also ranked as the 50th top game by [[IGN]] in 2003, who called it a "perfect marriage of strategy and action". The reviewer commented: "Whether on the computer or NES, ''Archon'' is an intense, engaging match of wits and reflexes, and boasts some of the coolest battles in gaming history."<ref>{{cite web|url=http://uk.top100.ign.com/2003/41-50.html |title=IGN's Top 100 Games of All Time |publisher=Uk.top100.ign.com |accessdate=2013-11-07 |url-status=dead |archiveurl=https://web.archive.org/web/20131104104024/http://uk.top100.ign.com/2003/41-50.html |archivedate=2013-11-04}}</ref> In 2004, ''Archon'' was inducted into [[GameSpot]]'s list of the greatest games of all time.<ref name="Gamespot">{{cite web|last=|first=|url=http://www.gamespot.com/gamespot/features/all/greatestgames/p-41.html|title=The Greatest Games of All Time: ''Archon''|website=[[GameSpot]]|archiveurl=https://web.archive.org/web/20071008133944/http://www.gamespot.com/gamespot/features/all/greatestgames/p-41.html |archivedate=October 8, 2007}}</ref> They also highlighted it among their ten games that should be remade.<ref>[https://web.archive.org/web/20050131233259/http://www.gamespot.com/features/tenspot_remake/page3.html Ten Games that Should be Remade - Archon] from GameSpot</ref> In 2005, IGN ranked it again as their 77th greatest game.<ref name="IGN 2005">{{cite web | url = http://top100.ign.com/2005/071-080.html | archive-url = https://web.archive.org/web/20050723234200/http://top100.ign.com/2005/071-080.html | url-status = dead | archive-date = 2005-07-23 | publisher = IGN | title = IGN's Top 100 Games (2005)}}</ref>
+
+==Legacy==
+Free Fall developed a sequel for the same platforms, ''[[Archon II: Adept]]'', released by Electronic Arts in 1984. Ten years later an enhanced version of the original was published by [[Strategic Simulations]] as ''[[Archon Ultra]]''.
+
+The original game was rewritten for [[Palm OS]] in 2000 by Carsten Magerkurth, who contacted members Free Fall Associates for feedback on creating an improved version released in 2003.<ref>{{cite web|url=http://palm-os.appmobilize.com/apps/21/archon |archive-url=https://archive.today/20130117024826/http://palm-os.appmobilize.com/apps/21/archon |url-status=dead |archive-date=2013-01-17 |title=Archon - Palm OS Apps |publisher=Palm-os.appmobilize.com |accessdate=2013-11-07}}</ref>
+
+''Archon: Evolution'' used [[source code|code]] from the original 8-bit version with the blessing of Jon Freeman.<ref>{{cite web|url=http://www.archonevolution.com/game/game.asp |title=Archived archonevolution.com website, mentioning Freeman's involvement |date=2004-01-01 |accessdate=2013-11-07 |url-status=dead |archiveurl=https://web.archive.org/web/20040101083910/http://www.archonevolution.com/game/game.asp |archivedate=January 1, 2004}}</ref>
+
+In 2008, React Games acquired the license from Free Fall to develop the ''Archon'' title across multiple platforms. It released an [[iPhone]] version in June 2009.<ref>{{cite web|url=https://itunes.apple.com/app/archon/id320050617?mt=8 |archive-url=https://web.archive.org/web/20130430225600/https://itunes.apple.com/app/archon/id320050617?mt=8 |url-status=dead |archive-date=2013-04-30 |title=App Store - Archon |publisher=Itunes.apple.com |date=2009-10-31 |accessdate=2013-11-07}}</ref> A follow-up title ''Archon: Conquest'' was released in October of the same year for the iPhone.<ref>{{cite web|url=https://itunes.apple.com/us/app/archon-conquest/id331383905?mt=8 |archive-url=https://web.archive.org/web/20101027013633/http://itunes.apple.com/us/app/archon-conquest/id331383905?mt=8 |url-status=dead |archive-date=2010-10-27 |title=App Store - Archon:Conquest |publisher=Itunes.apple.com |date=2009-10-15 |accessdate=2013-11-07}}</ref> ''Archon: Classic'' for Windows was released in November 2010 with optional gameplay elements not found in the original game.<ref>{{cite web|url=http://www.archonclassic.com/ |title=ArchonClassic_Home |publisher=Archonclassic.com |accessdate=2013-11-07 |url-status=dead |archiveurl=https://web.archive.org/web/20131122073348/http://www.archonclassic.com/ |archivedate=2013-11-22}}</ref>
+
+Archon influenced Reiche's game ''[[Star Control]]'', which featured a similar combination of turn based strategy and real-time combat.<ref name="IGN 2005"/>
+
+An updated version of the game has been announced for release exclusively for the [[Intellivision Amico]].<ref>{{cite press release|title=Intellivision Reveals Initial Details For The Upcoming Amico Home Video Game Console!|url=https://www.prnewswire.com/news-releases/intellivision-reveals-initial-details-for-the-upcoming-amico-home-video-game-console-300734998.html|website=PR Newswire}}</ref>
+
+==See also==
+* ''[[Mortal Kombat: Deception]]'', has a Chess Kombat [[Minigame|mini game]] that is very similar, with almost the same rules.
+* ''[[The Unholy War]]'', a 1998 [[PlayStation]] game with a similar structure.
+* ''[[Wrath Unleashed]]'', a 2004 [[PlayStation 2]] and [[Xbox (console)|Xbox]] game with a similar structure.
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+* {{moby game|id=-group/archon-series|name=The ''Archon'' series}}
+* {{Internet Archive game|msdos_Archon_1984|Archon: The Light and the Dark}}
+* [http://www.c64sets.com/archon.html ''Archon'' at c64sets.com] - images of the package and manual.
+* [http://bringerp.free.fr/RE/Archon/news.php5 A reverse engineering of ''Archon'']
+
+{{DEFAULTSORT:Archon: The Light And The Dark}}
+[[Category:1983 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Ariolasoft games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:Digital board games]]
+[[Category:Electronic Arts franchises]]
+[[Category:Electronic Arts games]]
+[[Category:Fighting games]]
+[[Category:FM-7 games]]
+[[Category:Free Fall Associates games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Sharp MZ games]]
+[[Category:Sharp X1 games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]
+[[Category:Action-strategy video games]]

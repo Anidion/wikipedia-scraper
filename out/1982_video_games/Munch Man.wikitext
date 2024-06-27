@@ -1,0 +1,63 @@
+Munch Man
+Permalink: //en.wikipedia.org/w/index.php?title=Munch_Man&oldid=1194283479
+Accessed on: 2024-06-26T16:53:44.863546
+
+
+
+------
+Munch Man
+{{about|the TI-99/4A cartridge game|the tabletop electronic game|Munchman (tabletop electronic game)}}
+{{Short description|1982 video game}}
+{{Infobox VG
+| title        = 
+| image        = New_Version_Munchman_Cover.jpg
+| caption      = 
+| developer    = [[Texas Instruments]]
+| publisher    = [[Texas Instruments]]
+| designer     = Jim Dramis<ref name=giantlist/>
+| released     = 1982
+| genre        = [[List of maze video games|Maze]]
+| modes        = 
+| platforms    = [[TI-99/4A]]
+}}
+
+'''''Munch Man''''' (inconsistently written in the manual as '''''Munchman''''') is a video game written by Jim Dramis for the [[TI-99/4A]] home computer and published as a cartridge by [[Texas Instruments]] in 1982. Based on [[Namco]]'s ''[[Pac-Man]]'', it includes several variations that alter gameplay. Instead of emptying the maze of dots, Munch Man leaves a chain-like pattern as it moves, and the goal is to fill the entire maze. Dramis later wrote ''[[Parsec (video game)|Parsec]]'' for the TI-99/4A.<ref name="giantlist"/>
+
+==Plot==
+From the front of the manual:
+{{quote|Four cunning Hoonos are in hot pursuit of your Munchman while he races to an energizer to change the attack. Can he make it to safety, or does his fate lie in the mouth of the Hoonos? <ref>{{cite web|title=TI-99/4A-Pedia:Munch Man|url=https://ti.mysweetweb.com/index.php?title=Munch_Man}}</ref>}}
+
+== Gameplay ==
+The player controls Munch Man using either the keyboard or joystick. Like ''Pac-Man'', the goal of a level is to visit every part of the maze, but instead of eating dots the player fills the maze with a chain pattern.<ref name=":0">{{Cite web |last=Alpert |first=Ron |last2= |date=2010-09-28 |title=Retro Game of the Day! Munch Man |url=https://www.gamedeveloper.com/production/retro-game-of-the-day-munch-man |access-date=2023-11-12 |website=Game Developer |language=en}}</ref> Four Hoonos (the equivalent of ''Pac-Man'' ghosts) attempt to thwart Munch Man's efforts to complete his mission. However, Munch Man always has his "Energizer" (the equivalent of a ''Pac-Man'' power pill) which gives Munch Man the ability to devour the Hoonos. The game ends when the player's lives are depleted. 
+
+The shape of the Hoonos changes with each level, but their colors remain consistent. Each level has Hoonos colored red, yellow, blue, and purple. There are 20 unique sets of Hoonos. Beginning with level 21, the Hoonos recycle shape.<ref name=":0" />
+
+In level 20, 40, and 60, the maze is invisible and there are no chains.  Instead, Munch Man must eat all the TI logos in the invisible maze.  This gives the odd effect of showcasing the maze at first, but slowly hiding the maze as the player removes the indications of the maze paths by eating the TI logos.
+
+=== Scoring ===
+10 points are earned for every link of the chain made.
+
+70 points are awarded for each of the four Texas-shaped energizers eaten per level.
+
+100 points are given for the first Hoono munched, 200 for the second, 400 for the third, and 800 for the fourth.
+
+For every 10,000 points earned, an extra Munch Man is awarded.
+
+==Development==
+Originally, Munch Man gobbled dots and power-pills, just like Pac-Man. However, TI decided to avoid the risk of a lawsuit to replace the dots with laying down a chain and power pellets were changed out for TI logos.<ref>{{cite web|title=TI-99/4A Video Game House: Munch Man|url=http://www.videogamehouse.net/munchman.html}}</ref>
+
+==Reception==
+{{Empty section|date=December 2020}}
+
+== References ==
+{{Reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist}}</ref>
+}}
+
+
+[[Category:1982 video games]]
+[[Category:Pac-Man clones]]
+[[Category:TI-99/4A games]]
+[[Category:Video games developed in the United States]]
+[[Category:Texas Instruments games]]
+[[Category:TI-99/4A-only games]]

@@ -1,0 +1,49 @@
+Timeslip (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Timeslip_%28video_game%29&oldid=1224582419
+Accessed on: 2024-06-26T16:59:22.925779
+
+
+
+------
+Timeslip (video game)
+{{short description|1985 video game}}
+{{Infobox video game
+| title = Timeslip
+| image = Timeslip_Cover_Art.jpg
+| caption = 
+| released = '''1985:''' C16, Plus/4<br>'''1986:''' Atari
+| designer =
+| programmer = 
+| composer = 
+| publisher = [[English Software]],<br>Byte Back
+| developer = Jon Williams
+| platforms = [[Atari 8-bit]], [[Commodore 16|C16]] / [[Commodore Plus/4|Plus/4]]
+| genre = [[Scrolling shooter]]
+}}
+
+'''''Timeslip''''' is a horizontally [[scrolling shooter]] written by Jon Williams for the [[Commodore 16]] / [[Commodore Plus/4]] computers and published by [[English Software]] in 1985. A version for [[Atari 8-bit computers]] followed a year later.<ref name=giantlist/> The game was described by reviewers as "three versions of [[Scramble (video game)|Scramble]] rolled into one".<ref name="commodoreuser"/>
+
+==Gameplay==
+[[File:Timeslip_Atari_8-bit_PAL_screenshot.png|thumb|left|Atari 8-bit screenshot]]
+In ''Timeslip'' the player is presented with the screen divided into three sections or time zones. The top section is the planet surface with the player controlling a fighter, the middle section is set in underground cavers, and in the bottom section the player controls a mini-sub. The object of the game is to destroy 36 orbs placed within the three sections and synchronize the clocks in all three zones to 00.00 hours. If a player is hit, they receive a 30 minute penalty. In addition, if a player is hit five times, a "timeslip" occurs, which is a desynchronisation of all clocks. Sections are played one at a time and the player can switch zones at will, leaving the other two frozen in time.
+
+==Reception==
+''Timeslip'' received mostly positive reviews. ''[[Your Commodore]]'' reviewer summed up ''Timeslip'' as the best game he had seen on the C16, and he recommended it without hesitation.<ref name="yourcommodore"/> The review in ''[[Computer and Video Games]]'' magazine was equally positive: "Timeslip's designer and programmer, Jon Williams, has come up with a nifty and exciting little game. C16 owners should raise three cheers for him "<ref name="cvg"/>
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name="commodoreuser">{{cite journal |title=Screen Scene |journal=Commodore User |date=August 1985 |page=31 |url=https://archive.org/details/commodore-user-magazine-23/page/n29/mode/2up?view=theater}}</ref>
+<ref name="yourcommodore">{{cite journal |title=Software Spotlight |journal=Your Commodore |date=September 1985 |page=34 |url=https://archive.org/details/12-your-commodore-magazine/page/n33/mode/2up}}</ref>
+<ref name="cvg">{{cite journal |title=Reviews |journal=Computer & Video Games |date=August 1985 |page=27 |url=https://archive.org/details/cvg-magazine-046/page/n26/mode/1up}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=5397}}
+* {{Internet Archive game|id=a8b_Timeslip_1986_English_Software_GB_k_file}}
+
+[[Category:1985 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 16 and Plus/4 games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:English Software games]]

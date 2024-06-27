@@ -1,0 +1,60 @@
+Amnesia (1986 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Amnesia_%281986_video_game%29&oldid=1210049489
+Accessed on: 2024-06-26T16:59:36.616354
+
+
+
+------
+Amnesia (1986 video game)
+{{more citations needed|date=October 2017}}
+{{Infobox video game
+| title = Amnesia
+| image = Amnesia 1986 cover.png
+| developer = Cognetics
+| publisher = [[Electronic Arts]]
+| designer = [[Thomas M. Disch]]
+| programmer = Kevin Bentley
+| released = '''1986:''' Apple, IBM PC<br />'''1987:''' C64
+| genre = [[Interactive fiction]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[Apple II series|Apple II]], [[Commodore 64]], [[IBM PC compatible|IBM PC]]
+|}}
+
+'''''Amnesia''''' is a [[text adventure]] written by [[science fiction]] author [[Thomas M. Disch]],  [[game programmer|programmed]] by Kevin Bentley, and published by [[Electronic Arts]] in 1986 for [[IBM PC compatible]]s (as a [[self-booting disk]]) and [[Apple II series|Apple II]]. A [[Commodore 64]] version was released in 1987. Disch's ironic, rich writing style is in distinct contrast to the functional or tongue-in-cheek tone of most text adventures. Over half of Disch's novel-length manuscript had to be cut from the published version due to the storage limitations 5¼" [[floppy disk]]s.<ref>{{Cite journal |last1=LEHMAN |first1=DAVID |last2=Disch |first2=Tom |date=1988 |title=A Conversation with Tom Disch |url=https://www.jstor.org/stable/43470008 |journal=Southwest Review |volume=73 |issue=2 |pages=220–231 |jstor=43470008 |issn=0038-4712}}</ref>
+
+==Gameplay==
+The game begins as the player's character awakens in a midtown [[Manhattan]] hotel room with absolutely no memory. He has no clothes and no money, and does not even remember what he looks like. The character soon discovers he is engaged to a woman he cannot remember, a strange man is trying to kill him, and the state of [[Texas]] wants him for murder.  From here, the player must unravel the events in his life that led him to this point.<ref name="archive.org">{{cite web | url=https://archive.org/details/msdos_Amnesia_1986 | title=Amnesia | year=1986}}</ref>
+
+In addition to being a text adventure, the game [[life simulation game|simulates life]] in [[Manhattan]]. Disch's model covered every block and street corner south of 110th Street. A hard-copy map of the streets and subways of Manhattan is included in the packaging. Players move from place to place on foot, and have to reach destinations at the correct time of day to initiate plot developments. Stores open and close at the correct times, street lights turn on, and other aspects of [[New York City]] life are simulated. Almost 4000 separate Manhattan locations, including 650 streets, are part of the game.
+
+==Development==
+Programmer Kevin Bentley implemented the game using the King Edward Adventure game authoring system, which was developed by James Terry.<ref name=":0">{{Cite web |title=Amnesia (1986) |url=https://www.mobygames.com/game/amnesia |access-date=2022-06-10 |website=MobyGames}}</ref> The game was acquired and [[game producer|produced]] by [[Don Daglow]].<ref name=":0" />
+
+==Reception==
+[[Scorpia (journalist)|Scorpia]] of ''[[Computer Gaming World]]'' described the game as being "too much like a novel", giving as example the need to answer the phone in the hotel room. The review also noted the main character would collapse after an unrealistically short amount of time if he didn't eat or sleep frequently.<ref name="cgw_34">{{cite magazine | date=January–February 1987 | author=Scorpia | magazine=[[Computer Gaming World]] | issue=34 | url=http://www.cgwmuseum.org/galleries/issues/cgw_34.pdf | title=Amnesia | pages=44–45, 64–65 | accessdate=16 April 2016}}</ref> [[Charles Ardai]] called ''Amnesia'' "a brilliant, witty, and intriguing story", however,<ref name="ardai198612">{{cite magazine | title=Year in Review | magazine=[[Computer Gaming World]] | issue=33 | url=http://www.cgwmuseum.org/galleries/issues/cgw_33.pdf | date=December 1986 | accessdate=16 April 2016 | last=Ardai | first=Charles | authorlink=Charles Ardai | pages=21}}</ref> and stated that "the text is so rich and the story so interesting that one hardly notices that this is probably the least interactive piece of interactive fiction ever made".<ref name="ardai198705">{{cite magazine | title=Titans of the Computer Gaming World / Part II of V: Ardai on Electronic Arts | magazine=[[Computer Gaming World]] | issue=37 | date=May 1987 | url=http://www.cgwmuseum.org/galleries/issues/cgw_37.pdf | accessdate=16 April 2016 | last=Ardai | first=Charles | pages=28}}</ref> ''[[Compute!]]'' stated that the combination of Disch's writing and Electronic Arts' software "makes ''Amnesia'' a text adventure well worth exploring".<ref name="trunzo198705">{{cite magazine | url=https://archive.org/stream/1987-05-compute-magazine/Compute_Issue_084_1987_May#page/n47/mode/2up | title=Amnesia | magazine=[[Compute!]] | issue=84 | date=May 1987 | accessdate=9 November 2013 | last=Trunzo | first=James V. | pages=46}}</ref>
+
+==Legacy==
+One of the last major text-based games published by a major games company other than Infocom, ''Amnesia'' is also the only all-text adventure ever published by EA.{{Citation needed|date=November 2019}}
+
+Disch wrote a [[screenplay]] based on the game's characters and story line and it was optioned to one of the major [[Cinema of the United States|Hollywood]] studios, but the film was never made.{{Citation needed|date=November 2019}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{lemon64 game|id=4120|name=Amnesia}}
+* [http://ascii.textfiles.com/archives/1458 Link to Disch's full manuscript for ''Amnesia''] at ascii.textfiles.com
+* [http://gue.cgwmuseum.org/galleries/index.php?pub=0&item=67&id=3&key=1 ''Amnesia'' packaging and artwork for Apple IIC] with a link to Disch's original manuscript
+* {{IFDB|id=yuek2bwjka7lbdvc|title0Amnesia}}
+
+{{DEFAULTSORT:Amnesia (Video Game)}}
+[[Category:1986 video games]]
+[[Category:1980s interactive fiction]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:Electronic Arts games]]
+[[Category:Video games set in New York City]]
+[[Category:Video games set in the United States]]
+[[Category:Video games about amnesia]]
+[[Category:Works by Thomas M. Disch]]
+[[Category:Single-player video games]]

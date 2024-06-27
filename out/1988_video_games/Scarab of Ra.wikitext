@@ -1,0 +1,71 @@
+Scarab of Ra
+Permalink: //en.wikipedia.org/w/index.php?title=Scarab_of_Ra&oldid=1225196213
+Accessed on: 2024-06-26T17:05:03.217608
+
+
+
+------
+Scarab of Ra
+{{More citations needed|date=October 2015}}
+{{Infobox video game
+|image = Scarab-of-Ra-game-icon.png
+|alt = Scarab of Ra application icon
+|developer = Rick Holzgrafe
+|publisher = Semicolon Software
+|designer = 
+|engine = 
+|released = [[1988 in video gaming|1988]]<ref name="about_semicolon_sw">{{cite web |title=About Semicolon LLC |author=Semicolon Software |author-link=Semicolon Software |url=http://www.semicolon.com/about-semicolon.html |accessdate=2015-10-08}}</ref>
+|genre = [[Adventure game|Adventure]]
+|modes = [[Single-player]]
+|platforms = [[Mac OS Classic]]
+}}
+'''''Scarab of Ra''''' is a [[Mac OS]] [[shareware]] [[computer game]] written in 1987 by Rick Holzgrafe<ref>{{cite book |title=MacUser: MacUser guide to shareware |page=82 |publisher=[[Ziff Davis|Ziff-Davis Press]] |last=Wasson |first=Gregory |year=1993 |isbn=9781562760762}}</ref> and released in 1988<ref name="about_semicolon_sw"/> by Semicolon Software, with a modernized version released in 2022. It is an [[adventure game|adventure]] set within an Egyptian [[pyramid]].<ref>{{cite web |url=http://www.semicolon.com/old/Scarab.html |title=Scarab of RA |publisher=Semicolon Software |date=1999-05-05 |accessdate=2015-10-08}}</ref>
+
+==Story==
+A [[sandstorm]] has uncovered the Great Pyramid of [[Ra]]. The player, a lowly [[archaeology]] student, decides to learn its secrets and tell of its wonders. After securing food and a [[lantern]] on short notice, the player enters the pyramid with hopes of finding and relying on additional equipment abandoned by earlier expeditions.
+
+==Interface==
+The game is rendered in [[monochrome]] from a [[First-person (gaming)|first person perspective]]; the rendering engine only allows grid-based, frame-by-frame movement. The game is played via a [[Adventure game#Point-and-click adventure games|point-and-click]], icon-driven interface in combination with keyboard shortcuts.
+
+==Gameplay==
+[[File:Screenshot of Scarab of RA.png|thumb|right|''Scarab of Ra'' gameplay. The player has encountered a monkey who has just stolen a piece of charcoal from the player.]]
+Gameplay is that of a simplified [[roguelike]] game, utilising [[permadeath]] mechanics. Upon starting a new game, the layout of the game is randomised; the player can only save by quitting, a mechanic put in place to prevent [[Saved game#Time and location of saving|save scumming]]. Death is frequent and quick, forcing players to make the most of their skills and careful use of all items they come across. Many items have several uses that the player must either discover through experimentation or use of an in-game hint system.
+
+Levels are square mazes that grow larger as the player descends, simulating the design of a pyramid. The first level is 3x3, totalling 9 squares. Each succeeding level is one step larger in each dimension (so the next level is 4x4 steps, for a total of 16 squares, and so on). A key on each must be found to unlock the next level. Ascension is impossible, which can strand players if an important item is left behind.
+
+The pyramid also contains traps, which can harm the player in various ways, and animals, including [[cobra]]s, [[lion]]esses, thieving [[monkey]]s, and a [[mummy]], which appears only to players who carry the eponymous Scarab of Ra. Animal threats can be dealt with in a number of ways, but only the mummy can be destroyed; the game's author notes that violence is distasteful, but "the mummy was dead anyway".
+
+Movement is [[turn-based]], with a speed setting that alters how many moves other characters can make after the player acts. Speeds range from 1 (slowest) to 10 (fastest), with a map automatically drawn at speeds 5 and below. The map can be accessed and marked at any point, and is an invaluable tool as the levels become larger and more involved. Traveling at high speeds consumes less food and oil, but the player may blunder into danger and movements will not be recorded on the map if over speed 5. Traps are less likely to be triggered and sleeping animals are less likely to be woken when walking at slower speeds, but it consumes more food and oil.
+
+==Objective==
+In order to complete the game, one must gather three major treasures: the Crown, Staff, and Scarab of Ra.<ref>{{cite book |title=Marvelous Mac Games |author-link=Bob LeVitus |last=LeVitus |first=Bob |year=1991 |publisher=[[Prima Publishing]] |isbn=1559581352}}</ref> Once this task is accomplished, an exit is revealed, yet players can choose to continue playing if they wish to risk death and increase their scores. Once a player picks up the Scarab, mummy-like Guardians immediately began their hunt, delivering an electric shock upon contact.
+
+When the player wins or quits, their character attains a rank based on "prestige points" accrued during the game.
+
+==Reception==
+''[[Macworld]]'' named the Macintosh version of ''Scarab of Ra'' the "Best Egyptian Adventure and 3-D Maze" as part of its Shareware and Public Domain Game Awards in 1987.<ref>{{cite magazine|last = DeMaria|first = Rusel|title = Shareware and Public Domain Game Awards|date = November 1987|url = https://archive.org/details/MacWorld_8711_November_1987|magazine = Macworld|publisher = Mac Publishing|page = [https://archive.org/details/MacWorld_8711_November_1987/page/n165 164]-165}}</ref>
+
+==Legacy==
+The original version of ''Scarab of Ra'' ran only on Macintosh computers under the classic Mac OS. It could formerly be purchased through the author's Kagi page.<ref>{{cite web|title=Kagi - Semicolon Software|url=https://order.kagi.com/cgi-bin/store.cgi?storeID=RH&&|url-status=dead|archive-url=https://web.archive.org/web/20160304111206/https://order.kagi.com/cgi-bin/store.cgi?storeID=RH&&|archive-date=2016-03-04|publisher=Kagi}}</ref> When OS X replaced the classic OS, ''Scarab of Ra'' could no longer be used without an emulator such as [[vMac|Mini vMac]].
+
+In 2022, the original author released a new version compatible with iPhone, iPad, and M1 Macintosh computers.<ref>{{Cite web|title=Scarab of Ra|url=https://www.semicolon.com/scarab/scarab.html|access-date=2022-01-27|website=www.semicolon.com}}</ref> This version is available in the App Store.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.semicolon.com/scarab/scarab.html ''Scarab of Ra'' at Semicolon Software]
+* [https://apps.apple.com/us/app/scarab-of-ra/id1573133975 ''Scarab of Ra'' in the Apple App Store]
+* [https://lightningmanic.github.io/ An online implementation of ''Scarab of Ra'']
+
+{{DEFAULTSORT:Scarab Of Ra}}
+[[Category:1988 video games]]
+[[Category:Adventure games]]
+[[Category:First-person adventure games]]
+[[Category:Roguelike video games]]
+[[Category:Classic Mac OS-only games]]
+[[Category:Classic Mac OS games]]
+[[Category:Video games based on Egyptian mythology]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Egypt]]
+[[Category:Video games using procedural generation]]

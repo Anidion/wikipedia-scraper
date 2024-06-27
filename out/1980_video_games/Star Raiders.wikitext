@@ -1,0 +1,175 @@
+Star Raiders
+Permalink: //en.wikipedia.org/w/index.php?title=Star_Raiders&oldid=1231175140
+Accessed on: 2024-06-26T16:51:56.946171
+
+
+
+------
+Star Raiders
+{{good article}}
+{{Short description|1980 video game}}
+{{Use American English|date=September 2023}}
+{{Use mdy dates|date=September 2023}}
+{{about|the original game|the remake|Star Raiders (2011 video game)}}
+{{Infobox video game
+| title = Star Raiders
+| image = Star-Raiders-Box-Front.jpg
+| alt = 
+| caption = Atari 8-bit cover art
+| developer = [[Atari, Inc.]]
+| publisher = Atari, Inc.
+| series = 
+| engine = 
+| platforms = [[Atari 8-bit]], [[Atari 2600]], [[Atari 5200]], [[Atari ST]]
+| released = {{Collapsible list|
+| title= {{nobold|March 1980}}
+|'''Atari 400/800'''
+|March 1980
+|'''Atari 2600'''
+|September 1982
+|'''Atari 5200'''
+|January 1983}}
+| genre = [[Space combat simulator]]{{sfn|Scoleri III}}
+| modes = [[Single-player]]
+| arcade system = 
+| director = 
+| producer = 
+| designer = 
+| programmer = [[Doug Neubauer]]
+| artist = 
+| writer = 
+| composer = 
+}}
+
+'''''Star Raiders''''' is a [[space combat simulator]] video game created by [[Doug Neubauer]] and published in 1980 by [[Atari, Inc.]] Originally released for the [[Atari 8-bit computers|Atari 400/800 computers]], ''Star Raiders'' was later ported to the [[Atari 2600]], [[Atari 5200]], and [[Atari ST]]. The player assumes the role of a starship fighter pilot, who must protect starbases from invading forces called Zylons. Piloting and combat are shown in the 3D cockpit view, while a 2D galactic map shows the state of the Zylon invasion. Neubauer made the game in his spare time at Atari, inspired by contemporary media such as ''[[Battlestar_Galactica_(1978_TV_series)|Battlestar Galactica]]'' and ''[[Star Wars (film)|Star Wars]]'', as well as the 1971 [[mainframe]] game ''[[Star Trek (1971 video game)|Star Trek]]''. 
+
+''Star Raiders'' became one of the most successful games on Atari's 400 and 800 computers. It influenced space combat games such as ''[[Elite (video game)|Elite]]'' (1984) and ''[[Wing Commander (video game)|Wing Commander]]'' (1990), 
+as well as spawning an [[Star Raiders II|official sequel]] and a [[Star Raiders (2011 video game)|2011 remake]]. ''Star Raiders'' was included in a list of ten games that were submitted as a [[game canon]] to the [[Library of Congress]] in 2007.
+
+==Plot and gameplay==
+[[File:Star-Raiders-Gameplay-footage.webm|thumbtime=14|thumb|alt=Video footage from the game, showing a grid of a map with a cursor to navigate, movement within a 3D space, a battle with the enemy Zylon, and other navigation systems.|left|Gameplay footage of the [[Atari 5200]] version of ''Star Raiders''. This footage shows the galactic map, the hyperwarp, a battle with a Zylon ship and long-range scan.]]
+
+''Star Raiders'' is a [[space combat simulator]] set during a galactic war between the Atarian Federation and the Zylon Empire.{{sfn|Scoleri III}}{{sfn|Atari|p=2|1980|ref=manual}} The player assumes the role of the captain of the Elite Atarian Starship fleet, fighting the Zylons before they eliminate humanity.{{sfn|Atari|p=2|1980|ref=manual}} To win, the player must destroy the Zylon ships before they destroy the Atarian ship and before their own ship runs out of energy.{{sfn|Atari|p=3|1980|ref=manual}}{{sfn|Atari|p=6|1980|ref=manual}} 
+
+''Star Raiders'' is controlled using both a keyboard and a [[joystick]].{{sfn|Atari|p=3|1980|ref=manual}}{{sfn|Atari|p=4|1980|ref=manual}} It is primarily experienced from a first-person, 3D cockpit view and larger, 2D map overviews for long-distance travel.{{sfn|Fleming|2007|p=1}} The player can control the speed of travel in space, and  the angle of display (rear and front-views), and engage a mini-display called the Attack Computer Display that displays the coordinates of enemy ships and other targets. In action sequences, the player will sometimes avoid or destroy asteroids before they damage their starship, while battling enemy ships using photon torpedoes.{{sfn|Atari|p=4|1980|ref=manual}} In this mode, the control panel displays the player's velocity, energy, number of kills, and remaining targets.{{sfn|Atari|p=5|1980|ref=manual}} Energy is consumed by traversing space, using shields, and firing photon torpedoes; energy can be restored by matching coordinates with a friendly starbase.{{sfn|Atari|p=7|1980|ref=manual}} 
+
+The player can activate a long-range scanner, which displays a top-down view of their ship and nearby targets. When the long-range scan is damaged, the player will see the objects in the area and false reflections of them.{{sfn|Atari|p=6|1980|ref=manual}} The player can also view a galactic chart, indicating the player's location, enemy ships, and friendly star bases. The player engages the hyper-warp to visit new sectors.{{sfn|Atari|p=4|1980|ref=manual}}{{sfn|Atari|p=5|1980|ref=manual}} A [[subspace radio]] delivers messages through the galactic chart when star bases are surrounded or destroyed.{{sfn|Atari|p=6|1980|ref=manual}} Six types of equipment can be damaged in action, which is tracked using the acronym PESCLR (for photon torpedoes, engines, shields, computer, long-range scan, and radio). Damaged equipment will affect gameplay, engine damage, for example, slows ship's movement.{{sfn|Atari|p=5|1980|ref=manual}}   
+
+''Star Raiders''{{'}} skill levels are Novice, Pilot, Warrior, and Commander.<ref name="SL-rev2" /> On high-difficulty levels, during hyperwarp moments, players must manually navigate their ship using crosshairs while warping.{{sfn|Bevan|2010|p=66}} Zylon ships will move faster and strike more deliberately, with less randomness in their attack [[algorithm]].{{sfn|Bevan|2010|p=67}}
+
+==Development==
+{{multiple image
+ | align = right
+ | direction = vertical
+ | width = 200
+ | footer_align=left
+ | footer = ''Star Raiders'' was developed for the Atari 400 and 800, the first [[Atari 8-bit computers]].
+ | image1 = Atari-400-Comp.jpg
+ | alt1 = Colored dice with white background
+ | caption1 = Atari 400
+ | image2 = Atari-800-Computer-FL.jpg
+ | alt2 = Atari 800
+ | caption2 = Atari 800
+}}
+[[Doug Neubauer]] worked as an [[Electrical engineering|electrical engineer]] before creating ''Star Raiders''.{{sfn|Bevan|2010|p=64}} While working at [[National Semiconductor]], Neubauer programmed scenes with star backgrounds.{{sfn|Pappas|1986|p=90}} 
+
+National canceled its home computer projects, leading Neubauer to move to [[Atari]], where design manager Richard Simone hired him.{{sfn|Fleming|2007|p=1}}{{sfn|Bevan|2010|p=64}} Neubauer became a key figure in the development of the [[POKEY|POKEY sound chip]], used in the [[Atari 8-bit computers|Atari 400 and 800 computers]].{{sfn|Bevan|2010|p=64}} Using the sound chip he created, Neubauer tried to emulate the sound effects from ''[[Star Trek: The Original Series|Star Trek]]'', such as explosions, engines, and photon torpedoes.
+{{sfn|Fleming|2007|p=1}}{{sfn|Fleming|2007b}}
+
+During a period where Atari had fewer hardware design needs, supervisor [[Jay Miner]] allowed Neubauer to work on software that eventually developed into ''Star Raiders''. Neubauer said he "just did [Star Raiders] for fun" and that "Atari was pretty laid back...I think ''Star Raiders'', along with other early games, helped in finding any bugs in the Atari 400/800 chips".{{sfn|Fleming|2007b}}{{sfn|Bevan|2010|p=65}} Development began in early 1979; Neubauer finished the game after eight to ten months.{{sfn|Pappas|1986|p=89}}{{sfn|Tomczyk|1980|p=75}}
+
+Neubauer was inspired to make the game after discovering the text-based game ''[[Star Trek (1971 video game)|Star Trek]]'' (1971).  He said that it "just didn't look that interesting to play", but liked the idea of the galactic chart within the game.{{sfn|Bevan|2010|p=65}} Neubauer wanted to create something that resembled 3D space combat for the system, and was inspired by science-fiction films such as ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'' (1968), ''[[THX 1138]]'' (1971) and ''[[Star Wars (film)|Star Wars]]'' (1977). He also cited the television series ''[[Battlestar Galactica (1978 TV series)|Battlestar Galactica]]'' (1978) as an influence, specifically for the name of the Zylon enemies. Other game visuals such as the 3D cockpit point of view and the hyper warp were influenced by ''Star Trek'' and ''Star Wars''.{{sfn|Bevan|2010|p=65}}
+
+Neubauer asked fellow employees if they had algorithms for 3D motion, with no success. This led him to spend weeks figuring out the equations without using [[sine and cosine]], which he achieved using pen and paper. After figuring out an algorithm for 3D motion, Neubauer quickly developed a star field and explosions for the game. He described his code for it as "crummy 16-bit multiplier code" that slowed down the game during the explosions. Neubauer did not know how to use the graphics capabilities of the Atari 800 computer, and could only make the screen display two enemies at once. 
+Neubauer initially designed the hyper warp system to involve calculations inspired by [[Isaac Asimov]]'s ''[[The Stars, Like Dust]]'' (1951), but decided to abandon it as "a dumb idea in terms of gameplay for an action game".{{sfn|Bevan|2010|pp=67-68}} The way enemies attacked star bases was also changed during development because Neubauer's algorithm would sometimes make them adhere to the map while approaching star bases. This led him to add random variations to their paths to stop them adhering to the map. Due to the limited memory in the [[ROM cartridge]], Neubauer also abandoned a feature that would allow players to dock at star bases.{{sfn|Bevan|2010|pp=67-68}}
+
+At the end of ''Star Raiders'', the player is ranked using humorous titles such as "Galactic Cook", "[[garbage scow|Garbage Scow]] Captain" and "Star Commander (Class 1)". Neubauer did not want a number-score system and instead applied a military ranking with humorous ratings to poorly performing players.{{sfn|Bevan|2010|p=67}} One week before the game was to be ported to ROM cartridges, Neubauer was adjusting the difficulty of the game to earn certain rankings.{{sfn|Pappas|1986|p=90}} He stated the game had "a lot of ugly [[spaghetti code]]" so ''Star Raiders'' could run on less-expensive Atari 400 computers and fit on an eight-kilobyte cartridge. {{sfn|Bevan|2010|p=67}}
+
+==Release==
+[[File:Atari-Video-Touch-Pad-FL.jpg|thumb|right|The Atari 2600 version shipped with the Video Touch Pad controller.<ref name="vgu-rev-2600" />]]
+''Star Raiders'' was released in March 1980.{{sfn|Fulton|2008}} A port was released for the [[Atari 2600]] in 1982, featuring an eight-button touch pad.<ref name="vgu-rev-2600" /><ref name="vgu-rel-2600">{{cite magazine|magazine=[[Computer Entertainer|The Video Game Update]]|volume=1|issue=6|date=September 1982|title=Availability Update}}</ref>{{sfn|Weiss|2007|p=112}}<ref name="vgu-rev-5200" /> The following year, the game was ported to [[Atari 5200]], becoming the first game to use all 12 buttons on the console's gamepad.{{sfn|Weiss|2007|p=112}}<ref name="vgu-rel-5200">{{cite magazine|magazine=The Video Game Update|volume=2|issue=10|date=January 1984|title=The Year in Review}}</ref> A [[16-bit computing|16-bit]] version of ''Star Raiders'' was released for the [[Atari ST]] computers.{{sfn|Bevan|2010|p=66}}
+
+The Atari 2600 version of the game was re-released in various compilations, such as the ''Atari 80 in One'' for Windows in 2003 and the ''[[Atari Anthology]]'' for [[PlayStation 2]] and [[Xbox]] in 2004.{{sfn|Harris|2004}} The Atari 5200 version was included as part of the ''[[Atari 50|Atari 50: The Anniversary Celebration]]'' (2022) compilation for [[Nintendo Switch]], [[PlayStation 4]], [[Steam (service)|Steam]], and [[Xbox One]].{{sfn|Machkovech|2022}} This port of the game included additional content such as overlays that show player status and rumble effects when entering hyperspace.{{sfn|Musgrave|2022}}
+
+==Reception==
+By October 1982, the Atari 2600 port of ''Star Raiders'' was among the sixth-best-selling console releases and continued to be a top-ten release in November.<ref name="vgu-rank-2600">{{cite magazine|magazine=The Video Game Update|volume=1|issue=7|date=October 1982|title=Video Take-Out's Top 10 Sellers}}</ref><ref name="vgu-rank2-2600">{{cite magazine|magazine=The Video Game Update|volume=1|issue=8|date=November 1982|title=Video Take-Out's Top 10 Sellers}}</ref> 
+
+===Contemporaneous===
+''Star Raiders'' received positive reviews from various computer publications such as ''[[InfoWorld]]'', ''[[Softline (magazine)|Softline]]'', and ''[[Byte (magazine)|Byte]]''. Joretta Klepfer of ''[[Compute!]]'' did not find the game intuitive, but noted that it was both exciting to play and watch, praising the 3D gameplay, use of color and sound.{{sfn|Klepfer|1980|pp=74-75}} 
+
+David C. Cole of ''[[InfoWorld]]'' said the game is "graphically rich" and noted its addictive qualities and challenge.{{sfn|Cole|1980|p=13}} Cole noted difficulty in the game, stating in more-difficult modes if the ship is damaged it is nearly impossible to locate a base for repairs.{{sfn|Cole|1980|p=27}} An anonymous reviewer in ''Softline'' also noted the game's replayability and challenge, while describing the game as bigger and better than its peers made for the Atari 2600.<ref name="SL-rev">{{cite magazine|magazine=Softline|title=Softline Gameline Reviews|date=January 1982|volume=1|issue=3|page=16}}</ref> The review concluded; "the game stands repeat play well and remains quite difficult".<ref name="SL-rev2">{{cite magazine|magazine=Softline|title=Softline Gameline Reviews|date=January 1982|volume=1|issue=3|page=32}}</ref> [[Henry Allen (journalist)|Henry Allen]] echoed the praise in ''[[The Washington Post]]'', saying ''Star Raiders'' is like "the best possible combination of a shooting gallery and a planetarium".{{sfn|Allen|1980}}
+
+Greg Williams of ''[[Byte (magazine)|Byte]]'' proclaimed "no one&nbsp;– I repeat, no one&nbsp;– has created either a home-computer game or a coin-operated video game that is better than ''Star Raiders''"."{{sfn|Williams|1981|p=106}} The review praised the games 3D gameplay, color, sound and controls while stating "the feature that gives it life is its real-time animation".{{sfn|Williams|1981|p=106}}{{sfn|Williams|1981|p=108}} Williams concluded; "to all software vendors, this is the game you have to surpass to get our attention".{{sfn|Williams|1981|p=108}} In ''[[Electronic Games]]'', [[Bill Kunkel (journalist)|Bill Kunkel]] and Frank Laney found the game similar to previous Star Trek-styled games but said; "it is far superior to all past efforts in this field" and is the game that "best demonstrates the outstanding videogame and computer capabilities of [[MOS Technology 6502|6502-based machines]]".{{sfn|Kunkel|Laney|1981}} In the March 1983 issue of ''Softline'', readers voted for ''Star Raiders'' as the best program for Atari computers, with 45% more ballots than the second-place contender  ''[[Jawbreaker (video game)|Jawbreaker]]'' (1981).<ref>{{cite magazine|magazine=Softline|date=March 1983|volume=2|title=The Most Popular Atari Program Ever|pages=44–45}}</ref>
+
+From contemporaneous reviews of the game's ports, ''[[Computer Entertainer|The Video Game Update]]'' called it a "classic space game", while criticizing the Atari 2600 version's relative quality.<ref name="vgu-rev-2600">{{cite magazine|magazine=The Video Game Update|volume=1|issue=7|date=October 1982|title=Critically Speaking... Atari-Compatible}}</ref> Tim Onosko of ''[[The Capital Times]]'' wrote that the Atari 2600 version was poorly made with inadequate graphics, stating [[Activision]]'s similar game ''[[Starmaster]]'' was superior.{{sfn|Onosko|1982}} ''The Video Game Update'' later reviewed the Atari 5200 version of ''Star Raiders'', finding it to be essentially the same as the original home-computer game, and calling "unquestionably one of the best space games in existence."<ref name="vgu-rev-5200">{{cite magazine|magazine=The Video Game Update|volume=1|issue=10|date=January 1983|title=Atari 5200-Compatible}}</ref> Jack Schofield of ''[[The Guardian]]'' gave a negative review to the Atari ST version, stating the improved graphics do not make ''Star Raiders'' a better game and that the original is "still a brilliant game".{{sfn|Schofield|1986}}
+
+===Retrospective===
+''Star Raiders'' was included in [[GameSpot]]'s series "The Great Games of All Time"; writer [[Jeff Gerstmann]] stated the game has a level of complexity that is usually only found within [[text adventures]] of the era and that it launched the space simulation genre.{{sfn|Gerstmann}} In 1995, ''[[Flux (magazine)|Flux]]'' magazine ranked the original computer version of ''Star Raiders'' 46th on its list of "Top 100 Video Games".{{sfn|Amrich|Barbagallo|East|Hudak|1995|p=30}}
+
+From retrospective reviews of the game ports, Mike Bevan of ''[[Retro Gamer]]'' referred to the Atari 2600 version as a "rather weak port" with a smaller galactic chart. The game was more expensive than the average Atari 2600 game because it included a touch-screen pad controller.{{sfn|Bevan|2010|p=66}} Jeff Gerstmann of GameSpot stated the Atari 2600 version "was pretty good on its own, but one look at the Atari 400/800 version of the game was all it took to sour someone on the Atari 2600 version forever".{{sfn|Gerstmann}} A [[16-bit computing|16-bit]] version of ''Star Raiders'' was released for the [[Atari ST]] computers; according to Bevan, the controls feel "floaty", low-quality graphics, and the game was slower-paced than the original.{{sfn|Bevan|2010|p=66}}
+
+==Legacy==
+''Star Raiders'' prompted several [[Video game clone|clones]] following its release.{{sfn|Barton|Loguidice|2009a}} These include ''[[Phaser Patrol]]'', ''[[Starmaster]]'', ''[[Space Spartans]]'', ''Sentinel'', and ''[[Codename MAT]]''.{{sfn|Bevan|2010|p=66}}{{sfn|Barton|Loguidice|2009a}} 
+Schofield stated in 1986 ''Codename Mat'' and ''Sentinel'' were the better attempts.{{sfn|Schofield|1986}} According to Barton and Loguidice, ''Star Raiders'' established many conventions that would be part of the space simulation genre that would rise with later games such as ''[[Elite (video game)|Elite]]'' (1984), ''[[Star Control]]'' (1990), and ''[[Wing Commander (video game)|Wing Commander]]'' (1990).{{sfn|Barton|Loguidice|2009|p=2}}<ref>{{cite magazine|magazine=Compute!|title=Principles of Good Game Design|page=94|date=January 1992|volume=14|issue=1|issn=0194-357X|publisher=Computer Publications International Ltd.}}</ref>
+
+Barton and Loguidice described ''Star Raiders'' is one of the best-known games for Atari's 400 and 800 computers.{{sfn|Barton|Loguidice|2009|p=2}} The game remained popular throughout the 1980s; in 1987, readers of ''The Computer Entertainer'' voted for ''Star Raiders'' as the 14th favorite game of all time.<ref>{{cite magazine|magazine=Computer Entertainer|title=The Computer Entertainer Readers' Hall of Fame Awards|date=April 1988|page=3}}</ref> The popularity of ''Star Raiders'' had negative side effects for the Atari home-computer line, which was intended to seriously compete with other home computers and not to be considered a game machine like the Atari 2600.{{sfn|Fulton|2008}} When asked about the popularity of the game in 1986, Neubauer said: "It's pretty amazing, the way the game caught on. I think it was the first game to combine action with a strategy screen, and, luckily, the concept worked out pretty well."{{sfn|Pappas|1986|p=90}} Neubauer also said the game "looks pretty primitive" by 1986 standards.{{sfn|Pappas|1986|p=90}}
+
+In 2007, Henry Lowood, the curator of the History of Science and Technology Collections at [[Stanford University]], created a project to preserve video games. Lolwood submitted a list of games to the [[Library of Congress]] through a committee  that included himself, game designers [[Warren Spector]] and [[Steve Meretzky]], Matteo Bittanti, and ''[[Joystiq]]'' journalist Christopher Grant. ''Star Raiders'' was included in their initial [[Game canon|game canon]] of ten submitted video games.{{sfn|Chaplin|2007}}
+
+===Follow-ups===
+Neubauer made no profit from the game because Atari did not grant royalties to its developers. Neubauer left the company but later did contract work for it.{{sfn|Barton|Loguidice|2009|p=2}} Atari later released ''[[Star Raiders II]]'' for several home computer systems.{{sfn|Bevan|2010|p=66}} Bevan wrote in ''[[Retro Gamer]]'' fans of ''Star Raiders'' sometimes considered Neubauer's 1986 Atari 2600 game ''[[Solaris (video game)|Solaris]]'' to be the "true successor" to the original game.{{sfn|Bevan|2010|p=65}} Neubauer explained that ''Solaris'' was not a sequel, and that he preferred Star Raiders for its gameplay, cockpit view, and explosion graphics.{{sfn|Bevan|2010|p=65}} In 1994, Atari promoted a game called ''Star Raiders 2000'' for the [[Atari Jaguar]] that was later retitled ''[[Space War 2000]]''. The game was later cancelled.<ref>{{cite news|newspaper=Atari Annual Report 1993|quote="We are currently developing over twenty-five software titles, such as Alien vs. Predator, Kasumi Ninja and Star Raiders 2000|last=Tramiel|first=Sam|title=To Our Shareholders}}</ref><ref>{{cite magazine|magazine=Toad Computers Product Catalogue|title=New Jaguar Titles!|page=5}}</ref>{{sfn|Le Grand|Engel|Wukovitz|Harker|1998|p=10}}
+
+Years later, [[Incinerator Studios]] developed a new version of ''[[Star Raiders (2011 video game)|Star Raiders]]'', which was released in 2011.{{sfn|Thorsen|2010}}{{sfn|Petit|2011}} On the game's release, it received "generally unfavorable reviews" according to [[Metacritic]].<ref name="MetaStarRaiders">{{cite web|url=https://www.metacritic.com/game/star-raiders-2011/critic-reviews/?platform=xbox-360|title=Star Raiders|work=[[Metacritic]]|publisher=[[Fandom, Inc.]]|access-date=July 11, 2023|archive-date=November 7, 2023|archive-url=https://web.archive.org/web/20231107021705/https://www.metacritic.com/game/star-raiders-2011/critic-reviews/?platform=xbox-360|url-status=live}}</ref> Carolyn Petit of GameSpot compared the new version of game to the original, stating the original game is complex and ambitious with a sense of humor while the new version "possesses none of the ambition or fun of its namesake".{{sfn|Petit|2011}}
+
+==See also==
+* [[List of Atari, Inc. games (1972–1984)]]
+* [[List of space flight simulation games]]
+* [[List of Atari 2600 games]]
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite news|author-link=Henry Allen (journalist)|last=Allen|first=Henry|title=Galaxy of Wars|date=September 2, 1980|newspaper=[[The Washington Post]]|access-date=June 11, 2023|url=https://www.washingtonpost.com/archive/lifestyle/1980/09/02/galaxy-of-wars/ea315a08-a9af-41c9-9666-230d2acbc7e2/|archive-url=https://web.archive.org/web/20170828155415/https://www.washingtonpost.com/archive/lifestyle/1980/09/02/galaxy-of-wars/ea315a08-a9af-41c9-9666-230d2acbc7e2/|archive-date=August 28, 2017}}
+*{{cite book | title=Atari 400/800 Computer Adventure Star Raiders | publisher=[[Atari, Inc.|Atari]] | year=1980 | ref=manual|id=C01419-11 Rev 1}}
+* {{Cite magazine |date=April 1995 |url=https://archive.org/details/flux-issue-4/page/n29/mode/2up |magazine=[[Flux (magazine)|Flux]]|title=The Top 100 Video Games|publisher=Harris Publications |issue=4 |issn=1074-5602|last1=Amrich|first1=Dan|last2=Barbagallo|first2=Ralph|last3=East|first3=Mark|last4=Hudak|first4=Chris|last5=Kitts|first5=Jeff|last6=Meston|first6=Zach|last7=Yang|first7=Jeff|author-link1=Dan Amrich}}
+* {{cite web|archive-url=https://web.archive.org/web/20090912081306/http://www.gamasutra.com/view/feature/4127/the_history_of_star_raiders_.php|archive-date=September 12, 2009|date=September 8, 2009a|url=http://www.gamasutra.com/view/feature/4127/the_history_of_star_raiders_.php?page=1|title=The History of Star Raiders: Taking Command|last1=Barton|first1=Matt|last2=Loguidice|first2=Bill|work=[[Game Developer (website)|Gamasutra]]}}
+* {{cite web|archive-url=https://web.archive.org/web/20090912070705/http://www.gamasutra.com/view/feature/4127/the_history_of_star_raiders_.php?page=2|archive-date=September 12, 2009|date=September 8, 2009|url=http://www.gamasutra.com/view/feature/4127/the_history_of_star_raiders_.php?page=2|title=The History of Star Raiders: Taking Command|last1=Barton|first1=Matt|last2=Loguidice|first2=Bill|work=[[Game Developer (website)|Gamasutra]]|page=2}}
+* {{cite magazine|title=The Making Of... Star Raiders|last=Bevan|first=Mike|issue=79|publisher=Imagine Publishing|year=2010|ISSN=1742-3155|magazine=[[Retro Gamer]]}}
+* {{cite news|newspaper=[[New York Times]]|title=Is That Just Some Game? No, It's a Cultural Artifact|date=March 12, 2007|last=Chaplin|first=Heather|url= https://link.gale.com/apps/doc/A160406913/ITOF?u=wikipedia&sid=bookmark-ITOF&xid=d54a44c2|access-date=July 11, 2023}}
+* {{cite magazine|magazine=[[InfoWorld]]|date=July 7, 1980|volume=2|issue=11|title=A Space Adventure to Save the Galaxy: Star Raiders from Atari|last=Cole|first=David C.}}
+* {{cite web|archive-url=https://web.archive.org/web/20091109223222/http://www.gamasutra.com/view/feature/1890/video_games_first_space_opera_.php|archive-date=November 9, 2009|date=September 20, 2007|url=http://www.gamasutra.com/view/feature/1890/video_games_first_space_opera_.php|title=Video Games' First Space Opera: Exploring Atari's Star Raiders|last=Fleming|first=Jeffrey|work=Gamasutra|page=1}}
+* {{cite web|archive-url=https://web.archive.org/web/20091111104414/http://www.gamasutra.com/view/feature/1890/video_games_first_space_opera_.php?page=2|archive-date=November 11, 2009|date=September 20, 2007b|url=http://www.gamasutra.com/view/feature/1890/video_games_first_space_opera_.php?page=2|title=Video Games' First Space Opera: Exploring Atari's Star Raiders|last=Fleming|first=Jeffrey|work=Gamasutra}}
+* {{cite web|archive-url=https://web.archive.org/web/20080827205200/http://www.gamasutra.com/view/feature/3766/atari_the_golden_years__a_.php?page=13|url=http://www.gamasutra.com/view/feature/3766/atari_the_golden_years__a_.php?page=13|title=Atari: The Golden Years -- A History, 1978-1981|last=Fulton|first=Steve|date=August 21, 2008|work=Gamasutra|archive-date=August 27, 2008|access-date=July 11, 2023}}
+* {{cite web|archive-url=https://web.archive.org/web/20040930132448/http://www.gamespot.com/gamespot/features/all/greatestgames/p-57.html|url=http://www.gamespot.com/gamespot/features/all/greatestgames/p-57.html|title=The Greatest Games of All Time|work=[[GameSpot]]|last=Gerstmann|first=Jeff|access-date=July 11, 2023|archive-date=September 30, 2004}}
+* {{cite magazine|magazine=[[Compute!|Compute]]|date=March 1980|issn=0194-357X|title=Star Raiders Defend the Galaxy|last=Klepfer|first=Joretta}}
+* {{cite web|first=Craig|last=Harris|title=Atari Anthology|url=https://www.ign.com/articles/2004/11/30/atari-anthology|publisher=[[IGN]]|date=November 30, 2004|access-date=January 26, 2023|archive-url=https://web.archive.org/web/20230126195851/https://www.ign.com/articles/2004/11/30/atari-anthology|archive-date=January 26, 2023}}
+* {{cite magazine|magazine=[[Electronic Games]]|title=Computer Playland|last1=Kunkel|first1=Bill|author-link1=Bill Kunkel (journalist)|last2=Laney|first2=Frank|volume=1|issue=1|year=1981}}
+* {{cite magazine|magazine=The World of Atari|date=August 12, 1998|title=In the Beginning|last1=Le Grand|first1=Scott|last2=Engel|first2=Doug|last3=Wukovitz|first3=Stephanie|last4=Harker|first4=Tom}}
+* {{cite web|last=Machkovech|first=Sam|url=https://arstechnica.com/gaming/2022/09/the-103-classic-games-that-did-and-didnt-make-the-atari-50-anniversary-cut/|title=The 103 Classic Games That Did, and Didn't, Make the Atari 50 Anniversary Cut — Retailer Leak Suggests Games from Arcade to Jaguar; Surprises Apparently Still Await|work=[[Ars Technica]]|publisher=[[Condé Nast]]|date=September 12, 2022|access-date=May 23, 2023|archive-url=https://web.archive.org/web/20220914101824/https://arstechnica.com/gaming/2022/09/the-103-classic-games-that-did-and-didnt-make-the-atari-50-anniversary-cut/|archive-date=September 14, 2022|url-status=live}}
+* {{cite web|last=Musgrave|first=Shaun|url=https://toucharcade.com/2022/11/11/atari-50-switch-review-tactics-ogre-reborn-eshop-discount-price/|title=SwitchArcade Round-Up: 'Atari 50' Review, Plus 'Tactics Ogre: Reborn' and Today's Other Releases and Sales|work=[[TouchArcade]]|date=November 11, 2022|access-date=January 7, 2023|archive-url=https://web.archive.org/web/20221118185044/https://toucharcade.com/2022/11/11/atari-50-switch-review-tactics-ogre-reborn-eshop-discount-price/|archive-date=November 18, 2022|url-status=live}}
+* {{cite web|url=https://www.newspapers.com/article/the-capital-times-atari-2600-article-fa/73055221/|via=[[Newspapers.com]]|last=Onosko|first=Tim|title=Fall Home Video Game More Fun and Challenge|date=October 22, 1982|page=41|access-date=June 11, 2023|newspaper=[[The Capital Times]]}}
+* {{cite magazine|magazine=[[ANALOG Computing]]|title=An Interview with Doug Neubauer|last=Pappas|first=Lee H.|date=October 1986|issue=47}}
+* {{cite web|url=https://www.gamespot.com/reviews/star-raiders-review/1900-6314535/|title=Star Raiders Review|last=Petit|first=Carolyn|access-date=July 11, 2023|date=May 18, 2011|work=GameSpot|archiveurl=https://web.archive.org/web/20131202105454/https://www.gamespot.com/reviews/star-raiders-review/1900-6314535/|archivedate=December 2, 2013}}
+* {{cite news|newspaper=[[The Guardian]]|title=Computer Guardian|date=October 16, 1986|page=17|last=Schofield|first=Jack}}
+* {{cite web|archive-url=https://web.archive.org/web/20141114094358/http://www.allgame.com/game.php?id=18803|title=Star Raiders|last=Scoleri III|first=Joseph|access-date=July 11, 2023|archive-date=November 14, 2014|work=[[Allgame]]|url=http://www.allgame.com/game.php?id=18803}}
+* {{cite web|url=https://www.gamespot.com/articles/star-raiders-blasts-off-in-early-2011/1100-6281815/|work=GameSpot|title=Star Raiders Blasts Off in Early 2011|access-date=July 11, 2023|date=October 13, 2010|last=Thorsen|first=Tor|archiveurl=https://web.archive.org/web/20140323033822/https://www.gamespot.com/articles/star-raiders-blasts-off-in-early-2011/1100-6281815/|archivedate=March 23, 2014}}
+* {{cite magazine|magazine=Compute|date=March 1980|issn=0194-357X|title=Star Raiders: The Wizard Behind the Game|last=Tomczyk|first=Michael S.}}
+* {{cite book|title=Classic Home Video Games 1972-1984|last=Weiss|first=Brett|publisher=McFarland & Company, Inc.|isbn=978-0-7864-3226-4|year=2007}}
+* {{cite magazine|magazine=[[Byte (magazine)|Byte]]|last=Williams|first=Gregg|title=Byte's Arcade|volume=6|issue=5|date=May 1981}}
+
+==External links==
+*{{MobyGames | /star-raiders}}
+*[https://github.com/lwiest/StarRaiders Reverse engineered source code] with documentation
+
+[[Category:1980 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Space combat simulators]]
+[[Category:Video games adapted into comics]]
+[[Category:Video games developed in the United States]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Single-player video games]]
+[[Category:Articles containing video clips]]

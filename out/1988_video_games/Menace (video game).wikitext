@@ -1,0 +1,91 @@
+Menace (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Menace_%28video_game%29&oldid=1190101955
+Accessed on: 2024-06-26T17:04:39.854074
+
+
+
+------
+Menace (video game)
+{{short description|1988 video game}}
+{{good article}}
+{{Infobox video game
+| title      = Menace
+| image      = Menace Coverart.png
+| caption    = Cover art by Ian Craig
+| developer  = [[DMA Design]]
+| publisher  = [[Psygnosis]]
+| designer   = [[David Jones (video game developer)|David Jones]]
+| programmer = Russell Kay
+| artist     = Tony Smith
+| composer   = [[David Whittaker (video game composer)|David Whittaker]]
+| released   = '''1988''': Amiga<br />'''1989''': ST, C64, MS-DOS
+| genre      = [[Scrolling shooter]]
+| modes      = [[Single-player]]
+| platforms  = [[Amiga]], [[Atari ST]], [[Commodore 64]], [[MS-DOS]]
+}}
+
+'''''Menace''''' is a [[Scrolling shooter|horizontally scrolling shooter]] developed by [[DMA Design]] and published by [[Psygnosis]]. It was originally released for the [[Amiga]] in 1988, and was ported for the [[Atari ST]], [[Commodore 64]], and [[MS-DOS]] in 1989. The game is set on the planet of Draconia, where players are tasked with destroying the planet's defence mechanisms in order to kill the harmful creatures.
+
+The game was designed by [[David Jones (video game developer)|David Jones]], and was the first game developed by his company DMA Design. First developed in his bedroom at his parents' house, Jones began seeking an official development studio and publisher when the game was nearing completion. He eventually settled upon a publishing deal with Psygnosis, who first published the game in 1988 to positive reviews; praise was given to the game's graphics, sound and gameplay, while criticism was directed at its ports to inferior hardware. The game was commercially successful, selling over 20,000 copies.
+
+==Gameplay==
+[[Image:Menace gameplay screenshot.jpg|thumb|left|The player uses a space fighter to attack enemies.]]
+
+The player controls an alien space fighter, moving through six stages on the planet of Draconia to advance through the game. Players use the ship's weaponry—lasers and cannons—to attack all advancing enemies,<ref name="Emulator"/> and defeat the level's [[Boss (video game)|boss]]: a guardian of Draconia.<ref name="CVG Review"/> The six bosses act as Draconia's living defence mechanisms—the planet was created to habituate gruesome and harmful creatures,<ref name="Emulator"/> of which there are over sixty,<ref name="STAmiga Review"/> participating in unlawful tasks.<ref name="Emulator"/> In the game's levels, players discover space debris, which can be converted into upgrades for the ship.<ref name="CVG Review"/> The debris appears as tokens, and grants players additional weapons and upgrades, such as lasers, cannons, and improved ship and weapon power.<ref name="Emulator"/> The ship also has a shield, which provides temporary protection from enemies; contact with enemies and walls depletes the shields, increasing players' vulnerability to death.<ref name="CVG Review"/>
+
+== Development ==
+[[DMA Design]] was founded in 1987 by [[David Jones (video game developer)|David Jones]], Russell Kay, Steve Hammond and [[Mike Dailly (game designer)|Mike Dailly]], in [[Dundee]], Scotland. Originally working under the name Acme Software, they began developing games for the [[Commodore 64]] and [[Amiga]]. Jones began developing ''Menace'' under the working title ''CopperCon1'', in his bedroom at his parents' house.<ref name="History 1.1"/> He was attending the [[Abertay University|Dundee Institute of Technology]] at the time. To publish the game in 1988, Jones first approached [[Hewson Consultants]], where [[Andrew Braybrook]] played the game and recommended it to Hewson. When Jones was informed that Hewson wanted the game to be the "Amiga version of ''[[Zynaps]]''", he realised that sales would be limited, and refused to sign the contract; despite this, Hewson had already promoted the game in ''[[Popular Computing Weekly]]'', before the deal was officially dropped.<ref name="History 1.3"/> After signing a publishing deal with [[Psygnosis]], Acme Software was renamed DMA Design.<ref name="History 1.4"/>
+
+Tony Smith worked on some of the game's backgrounds and graphics,<ref name="History 1.3"/> while Jones designed the levels.<ref name="History 1.4"/> Jones decided for ''Menace'' to be a side-scrolling game after playing arcade games such as ''[[Gradius (video game)|Nemesis]]'' (1985) and ''[[R-Type]]'' (1987).<ref name="Catch Up"/> Psygnosis could not decide a preference for the design of the player ship; as a result, Smith often re-designed the ship with many variations.<ref name="History 1.4"/> The team found difficulty porting the game to the [[Atari ST]], due to the hardware's limitations with smooth scrolling. Brian "Biscuit" Watson, who the team met at a computer club in 1984, discovered a technique to overcome this difficulty. Other limitations included the fewer colours available with the hardware; Smith adapted his designs accordingly.<ref name="History 1.4"/> After completing his own game, Kay was assigned to port ''Menace'' to PC.<ref name="History 2.1"/> During development, the sound effects were temporarily replaced with those from ''[[Salamander (video game)|Salamander]]'' (1986); Jones recorded the sound effects from the game, as Hammond and Dailly played. Prior to this, the temporary sound effects consisted of noises by Jones.<ref name="History 1.3"/> The game's final sound effects were designed by musician [[David Whittaker (video game composer)|David Whittaker]].<ref name="History 1.5"/> The cover art was designed by Ian Craig.<ref>{{citation |title=Menace ''Instruction Booklet'' |editor=[[DMA Design]] |publisher=[[Psygnosis]] |location=[[Liverpool]] |year=1989 |page=2 |url=http://gamesdbase.com/Media/SYSTEM/Commodore_Amiga/manual/Formated/Menace_-_1988_-_Psygnosis_Limited.pdf |access-date=5 October 2015}}</ref> At the end of development, the game was known as ''Draconia'', before being renamed to ''Menace'' shortly before release, upon discovering that another game had the same title.<ref name="History 1.5"/>
+
+== Reception ==
+{{Video game reviews
+| CVG        = (ST) 73%<ref name="CVG Review">{{cite journal|title=Menace |page=40 |journal=[[Computer and Video Games]] |issue=87 |date=November 1988 |last=Brennan |first=Ciaran |editor-last=Lacey |editor-first=Eugene |publisher=[[Future plc]] |url=https://archive.org/stream/cvg-magazine-087/CVG_087_Jan_1989#page/n39/mode/1up |archive-url=https://web.archive.org/web/20160319125722/https://archive.org/stream/cvg-magazine-087/CVG_087_Jan_1989 |archive-date=19 March 2016 |url-status=live |access-date=5 October 2015}}</ref>
+| rev1       = ''[[ACE (games magazine)|ACE]]''
+| rev1Score  = (AMI) 678/1000<ref name="ACE Review AMI">{{cite journal |title=Menace |page=53 |journal=[[ACE (games magazine)|ACE]] |issue=15 |date=December 1988 |last=Lawton |first=Rod |editor-last1=Cooke |editor-first1=Steve |editor-last2=Kidd |editor-first2=Graeme |publisher=[[Future plc]] |url=https://archive.org/stream/ace-magazine-15/ACE_Issue_15_1988_Dec#page/n52/mode/1up |access-date=5 October 2015}}</ref><br />(PC) 625/1000<ref name="ACE Review PC">{{cite journal |title=Menace |page=98 |journal=[[ACE (games magazine)|ACE]] |issue=26 |date=November 1989 |editor-last=Cooke |editor-first=Steve |publisher=[[Future plc]] |url=https://archive.org/stream/ace-magazine-26/ACE_Issue_26_1989_Nov#page/n97/mode/1up |access-date=5 October 2015}}</ref>
+| rev2       = ''[[The Games Machine]]''
+| rev2Score  = (AMI) 78%<ref name="TGM Review AMI">{{cite journal |title=Menace Spring Again... |page=76 |journal=[[The Games Machine]] |issue=13 |date=December 1988 |editor-last=Rose |editor-first=Jon |publisher=[[Newsfield|Newsfield Publications]] |url=https://archive.org/stream/thegamesmachine-magazine-13/TheGamesMachine_13#page/n75/mode/1up |access-date=5 October 2015}}</ref><br />(PC) 78%<ref name="TGM Review PC">{{cite journal |title=Version Updates: Menace |page=85 |journal=[[The Games Machine]] |issue=24 |date=November 1989 |editor-last=Kean |editor-first=Roger |publisher=[[Newsfield|Newsfield Publications]] |url=https://archive.org/stream/the-games-machine-24/TheGamesMachine24#page/n84/mode/1up |access-date=5 October 2015}}</ref><br />(ST) 75%<ref name="TGM Review ST">{{cite journal |title=Menace: Version Update |page=28 |journal=[[The Games Machine]] |issue=15 |date=February 1989 |editor-last=Rose |editor-first=Jon |publisher=[[Newsfield|Newsfield Publications]] |url=https://archive.org/stream/thegamesmachine-magazine-15/TheGamesMachine_15#page/n27/mode/1up |access-date=5 October 2015}}</ref>
+| rev3       = ''[[ST/Amiga Format]]''
+| rev3Score  = (AMI) 90%<ref name="STAmiga Review">{{cite journal |title=Menace |pages=48–49 |journal=[[ST/Amiga Format]] |issue=5 |date=November 1988 |last=Holborn |first=Jason |editor-last1=Taylor |editor-first1=Ben |editor-last2=Williams |editor-first2=Simon |publisher=[[Future plc]] |url=http://www.atarimania.com/mags/pdf/st-amiga-format-issue-05.pdf |access-date=5 October 2015}}</ref>
+| rev4       = ''[[Zzap!64]]''
+| rev4Score  = (C64) 49%<ref name="Zzap Review">{{cite journal |title=Menace |pages=20–21 |journal=[[Zzap!64]] |issue=47 |date=March 1989 |last1=Hamza |first1=Kati |last2=Evans |first2=Maff |editor-last=Houghton |editor-first=Gordon |publisher=[[Newsfield|Newsfield Publications]] |url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=047&page=020&magazine=zzap |access-date=5 October 2015}}</ref>
+}}
+
+The game received mostly positive reviews from critics upon release, particularly for its gameplay, graphical design, and sound. Criticism was also directed at the game's ports, and the limitations met with the inferior hardware.<ref>{{cite web|url=http://ign.com/articles/2013/05/06/ign-presents-the-history-of-grand-theft-auto-2 |title=IGN Presents The History of Grand Theft Auto |last1=McLaughlin |first=Rus |last2=Thomas |first2=Lucas M. |publisher=[[IGN]]. [[Ziff Davis]] |date=6 May 2013 |access-date=4 October 2015 |archive-url=https://web.archive.org/web/20150924200207/http://www.ign.com/articles/2013/05/06/ign-presents-the-history-of-grand-theft-auto-2 |archive-date=24 September 2015 |url-status=live}}</ref> Jason Holborn of ''[[ST/Amiga Format]]'' wrote that the game "provides some of the best arcade action" in an Amiga game.<ref name="STAmiga Review"/> The game generated a considerable amount of money for DMA Design,<ref name="History 1.5"/> allowing the company to develop more games.<ref>{{cite web|url=http://www.dmadesign.net/manual-override/scottish-games-net-1st-column/ |title=Scottish Games NET 1st Column |last=Hammond |first=Steve |publisher=Steve Hammond |access-date=3 October 2015 |archive-url=https://web.archive.org/web/20150924194635/http://www.dmadesign.net/manual-override/scottish-games-net-1st-column/ |archive-date=24 September 2015 |url-status=live}}</ref> The game sold 20,000 copies,<ref name="History 4.1"/> reportedly generating around £20,000.<ref>{{cite web|url=http://www.dailyrecord.co.uk/entertainment/video-games/video-games-news/grand-theft-auto-v-games-2275673 |title=Grand Theft Auto V: Games visionary behind Scotland's biggest cultural export |work=[[Daily Record (Scotland)|Daily Record]] |publisher=[[Trinity Mirror]] |date=17 September 2013 |access-date=3 October 2015 |archive-url=https://web.archive.org/web/20151003021106/http://www.dailyrecord.co.uk/entertainment/video-games/video-games-news/grand-theft-auto-v-games-2275673 |archive-date=3 October 2015 |url-status=live}}</ref>
+
+Holborn of ''ST/Amiga Format'' called the gameplay "exceptional" and "addictive", stating that players will be "hooked for hours on end".<ref name="STAmiga Review"/> Ciaran Brennan of ''[[Computer and Video Games]]'' praised its replayability, writing that it has "enough depth built in to make it last".<ref name="CVG Review"/> Conversely, ''[[Zzap!64]]''{{'}}s Kati Hamza wrote that the gameplay is "rather poor", disliking the pace and level design, and Maff Evans in the same review called it "dull and unrewarding", pointing out the lack of excitement and reward.<ref name="Zzap Review"/> ''[[The Games Machine]]'' condemned the "jerky scrolling" of the PC version,<ref name="TGM Review PC"/> while Rod Lawton of ''[[ACE (magazine)|ACE]]'' called the gameplay of the Amiga version "stubbornly 8-bit".<ref name="ACE Review AMI"/>
+
+The game's graphics received positive reactions. Lawton of ''ACE'' called them "attractive",<ref name="ACE Review PC"/> and Holborn of ''ST/Amiga Format'' named them "beautifully stomach churning", calling ''Menace'' "one of the best presented games available".<ref name="STAmiga Review"/> While ''Zzap!64''{{'}}s Hamza felt that the Amiga version was "blessed with nice graphics", she wrote that the Commodore 64 version has "surprisingly weak presentation"; Evans similarly called the graphics "half-baked".<ref name="Zzap Review"/> ''The Games Machine'' was disappointed by the graphics,<ref name="TGM Review AMI"/> particularly identifying the limited colour capabilities of the Atari ST version.<ref name="TGM Review ST"/>
+
+Reviewers praised the game's use of sound. ''ST/Amiga Format''{{'}}s Holborn lauded the soundtrack's appropriation to gameplay, calling it "brilliant", and writing that the game's speech and sound effects enhance the feel of the game.<ref name="STAmiga Review"/> ''The Games Machine'' favourably compared the soundtrack to ''[[Xenon (video game)|Xenon]]'' (1988),<ref name="TGM Review AMI"/> but noted that the sounds in the Atari ST version are "less clear",<ref name="TGM Review ST"/> and the PC sound effects are "pathetic".<ref name="TGM Review PC"/> ''Zzap!64'' called the soundtrack "average", and wrote that the "pathetic [sound] effects add little atmosphere".<ref name="Zzap Review"/>
+
+== References ==
+{{reflist|refs=
+
+<ref name="Catch Up">{{cite web|url=http://www.gamasutra.com/view/news/103142/Playing_Catch_Up_GTALemmings_Dave_Jones.php |title=Playing Catch Up: GTA/Lemmings' Dave Jones |last=Wallis |first=Alistair |work=[[Gamasutra]] |publisher=[[UBM plc]] |date=21 December 2006 |access-date=3 October 2015 |archive-url=https://web.archive.org/web/20150709143954/http://www.gamasutra.com/view/news/103142/Playing_Catch_Up_GTALemmings_Dave_Jones.php |archive-date=9 July 2015 |url-status=live }}</ref>
+
+<ref name="Emulator">{{cite web|url=https://archive.org/details/msdos_Menace_1989 |title=Menace : DMA Design : Free Streaming |work=Archive.org |publisher=[[Internet Archive]] |date=28 December 2014 |access-date=3 October 2015 |archive-url=https://www.webcitation.org/6c0KKsnZ5?url=https://archive.org/details/msdos_Menace_1989 |archive-date=3 October 2015 |url-status=live }}</ref>
+
+<ref name="History 1.1">{{cite web|url=http://www.javalemmings.com/DMA/DMA1_1.htm |title=The History of DMA - Chapter 1, part 1 |last=Dailly |first=Mike |authorlink=Mike Dailly (game designer) |publisher=[[Mike Dailly (game designer)|Mike Dailly]] |date=2004 |access-date=3 October 2015 |archive-url=https://web.archive.org/web/20160304092442/http://www.javalemmings.com/DMA/DMA1_1.htm |archive-date=4 March 2016 |url-status=live }}</ref>
+<ref name="History 1.3">{{cite web|url=http://www.javalemmings.com/DMA/DMA1_3.htm |title=The History of DMA - Chapter 1, part 3 |last=Dailly |first=Mike |authorlink=Mike Dailly (game designer) |publisher=[[Mike Dailly (game designer)|Mike Dailly]] |date=2004 |access-date=3 October 2015 |archive-url=https://web.archive.org/web/20160304062006/http://www.javalemmings.com/DMA/DMA1_3.htm |archive-date=4 March 2016 |url-status=live }}</ref>
+<ref name="History 1.4">{{cite web|url=http://www.javalemmings.com/DMA/DMA1_4.htm |title=The History of DMA - Chapter 1, part 4 |last=Dailly |first=Mike |authorlink=Mike Dailly (game designer) |publisher=[[Mike Dailly (game designer)|Mike Dailly]] |date=2004 |access-date=3 October 2015 |archive-url=https://web.archive.org/web/20160304062014/http://www.javalemmings.com/DMA/DMA1_4.htm |archive-date=4 March 2016 |url-status=live }}</ref>
+<ref name="History 1.5">{{cite web|url=http://www.javalemmings.com/DMA/DMA1_5.htm |title=The History of DMA - Chapter 1, part 5 |last=Dailly |first=Mike |authorlink=Mike Dailly (game designer) |publisher=[[Mike Dailly (game designer)|Mike Dailly]] |date=2004 |access-date=3 October 2015 |archive-url=https://web.archive.org/web/20170312235121/http://www.javalemmings.com/DMA/DMA1_5.htm |archive-date=12 March 2017 |url-status=live }}</ref>
+<ref name="History 2.1">{{cite web|url=http://www.javalemmings.com/DMA/DMA2_1.htm |title=The History of DMA - Chapter 2, part 1 |last=Dailly |first=Mike |authorlink=Mike Dailly (game designer) |publisher=[[Mike Dailly (game designer)|Mike Dailly]] |date=2004 |access-date=5 October 2015 |archive-url=https://web.archive.org/web/20160304062019/http://www.javalemmings.com/DMA/DMA2_1.htm |archive-date=4 March 2016 |url-status=live }}</ref>
+
+<ref name="History 4.1">{{cite web|url=http://www.javalemmings.com/DMA/DMA4_1.htm |title=The History of DMA - Chapter 4, part 1 |last=Dailly |first=Mike |authorlink=Mike Dailly (game designer) |publisher=[[Mike Dailly (game designer)|Mike Dailly]] |date=2004 |access-date=3 October 2015 |archive-url=https://web.archive.org/web/20160303200848/http://www.javalemmings.com/DMA/DMA4_1.htm |archive-date=3 March 2016 |url-status=live }}</ref>
+}}
+
+{{Rockstar North}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Video games scored by David Whittaker]]
+[[Category:Video games set on fictional planets]]
+[[Category:Psygnosis games]]
+[[Category:DMA Design games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United Kingdom]]

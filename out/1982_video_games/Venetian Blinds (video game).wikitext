@@ -1,0 +1,76 @@
+Venetian Blinds (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Venetian_Blinds_%28video_game%29&oldid=1187356199
+Accessed on: 2024-06-26T16:54:21.081281
+
+
+
+------
+Venetian Blinds (video game)
+{{Short description|1982 simulation video game demo}}
+{{Italic title}}
+{{Use mdy dates|date=October 2023}}
+{{Infobox video game
+| title = Venetian Blinds
+| developer = [[David Crane (programmer)|David Crane]]<br>[[Bob Whitehead]]
+| publisher = [[Activision]]
+| platforms = [[Atari 2600]] (initial)<br>[[Microsoft Windows|Windows]], [[macOS]], [[Game Boy Advance]], [[Xbox 360]], [[Windows Phone 7]] (later ports)
+| released = {{start date and age|2003}} (public release)
+| genre = [[Simulation video game|Simulation]]
+| image = Venetian Blinds Gameplay Screenshot.png
+| caption = In-game screenshot
+| alt = Video Chess Special Edition cover
+}}
+
+'''''Venetian Blinds''''' is a [[simulation video game|simulation]] [[video game]] developed by [[Activision]] co-founders [[David Crane (programmer)|David Crane]] and [[Bob Whitehead]] for the [[Atari 2600]]. The game simulates the raising and lowering of [[Venetian blinds]] on a [[window]], and was facetiously presented as a [[technology demonstration]] of Whitehead's graphical programming technique of the same name, although it does not use the technique.<ref name=":1">{{Cite web |last=Cassidy |date=April 1, 2018 |title=Venetian Blinds |url=https://www.badgamehalloffame.com/venetian-blinds/ |access-date=September 24, 2023 |website=Bad Game Hall of Fame |language=en-US}}</ref>
+
+''Venetian Blinds'' was created as a [[tongue-in-cheek]] [[in-joke]] in 1982 relating to a then-ongoing lawsuit between Activision and [[Atari, Inc.]] about use of Whitehead's Venetian blinds technique. It was not released publicly until 2003, as part of ''[[Activision Anthology]]'' for [[Microsoft Windows|Windows]], [[macOS]], and [[Game Boy Advance]]. It was later released in 2010 through the [[Game Room]] [[retrogaming]] service for Windows, [[Xbox 360]], and [[Windows Phone 7]].
+
+==Gameplay==
+The player controls grey-colored Venetian blinds on an olive-colored window in a brown-colored room. The blinds can be raised or lowered by pressing the [[Atari CX40 joystick|joystick]] up and down. When the blinds are raised, they reveal a detailed sunset behind a green valley. In the bottom left corner of the screen is the Activision logo, a feature of most Activision games of the era.<ref name=":0">{{Cite web |title=Venetian Blinds Demo |url=http://www.atariprotos.com/2600/software/blinds/blinds.htm |access-date=September 24, 2023 |website=AtariProtos}}</ref><ref name=":1"/><ref name=":2">{{Cite web |last=Treese |first=Tyler |date=January 11, 2019 |title=Revisiting Venetian Blinds, one of gaming's greatest moments of pettiness |url=https://www.gamerevolution.com/originals/476651-venetian-blinds-is-gamings-greatest-moment-of-pettiness |access-date=September 24, 2023 |website=[[GameRevolution]] |language=en-US}}</ref>
+
+==Development==
+[[File:David Crane RGE 2011.jpg|thumb|[[David Crane (programmer)|David Crane]], one of the developers of ''Venetian Blinds'', at a panel in 2011]]
+The Venetian blinds technique was created by American video game developer [[Bob Whitehead]] while working for [[Atari, Inc.]], for the 1979 [[chess video game]] ''[[Video Chess]]''. The Atari 2600's hardware limitations can not render more than six unique [[Sprite (computer graphics)|sprites]] simultaneously on a single horizontal [[scan line]]. Though many games such as the 1982 Atari 2600 port of ''[[Pac-Man]]'' use alternating sprite flickering and hiding different sprites per frame to create the illusion of multiple moving sprites at once, it is not a perfect solution and often irritates players or does not display well in videos with certain [[frame rate]]s.<ref name=":1" /> The Venetian blinds technique drew every other horizontal{{Efn|''Bad Game Hall of Fame'' incorrectly says "vertical".}} line of a sprite, which "left you with sprites that looked like they had stripes". This allowed developers to get around the limitation by offsetting every second sprite vertically, lining up rows of pixels with rows of empty space. Its name comes from its resemblance to the type of window blinds.<ref name=":1" /> In ''Video Chess'', which simulates an eight-space [[chessboard]], the Venetian blinds technique simulates up to eight [[chess piece]]s on the same row.<ref name=":2" />
+
+[[Activision]] was formed in 1979 by Whitehead, [[David Crane (programmer)|David Crane]], [[Larry Kaplan]], and [[Alan Miller (game designer)|Alan Miller]]. These developers had left Atari over low pay, lack of recognition and respect, and Atari's policy of not crediting game developers to ensure they did not get scouted by rival companies and to reduce their leverage in contract negotiations.<ref name=":1" /> The releases of several successful Atari 2600 games by Activision in 1980 such as ''[[Boxing (1980 video game)|Boxing]]'', ''Bridge'', ''Checkers'', ''[[Dragster (video game)|Dragster]]'', and ''[[Fishing Derby]]'' prompted Atari to attempt to tarnish Activision's reputation, first through [[attack ad]]s and then, by the end of 1980, a lawsuit alleging Whitehead, Crane, Kaplan, and Miller had violated [[non-disclosure agreement]]s and stolen [[trade secret]]s, including the Venetian blinds technique, despite Activision having then not published any games using said technique.<ref name=":1" /><ref name=":4">{{Cite magazine |last=Reeves |first=Ben |title=Activisionaries: How Four Programmers Changed The Game Industry |url=https://www.gameinformer.com/b/features/archive/2013/02/26/activisionaries-how-four-programmers-changed-the-game-industry-forever.aspx |access-date=September 24, 2023 |magazine=[[Game Informer]] |language=en}}</ref> Atari was reportedly not expecting to win the lawsuit, but was merely using it as a [[scare tactic]] to coerce Activision into leaving the video game industry, dissuade others from doing business with them, or otherwise hinder them with [[red tape]] and costly legal trouble.<ref name=":0" /><ref name=":1" />
+
+Though the Activision team members were aware they had not actually stolen anything from Atari, to improve morale as a result of the lawsuit, Crane and Whitehead developed ''Venetian Blinds'' as an in-joke relating to the lawsuit. Crane said that the sunset in the window was a new and unique innovation.<ref name=":1" />
+
+''Venetian Blinds'' was brought by Activision to the 1982 [[Consumer Electronics Show]] at [[McCormick Place]] in [[Chicago]], [[Illinois]], but it was not on public display. Crane privately displayed the demo to people familiar with the lawsuit, and asked them, "Is this what Atari means by the Venetian Blind Technique?"<ref name=":0" /><ref name=":1" /> A rumor is that these people were Atari's lawyers, who had approached Crane about the Venetian blinds technique;<ref name=":2" /><ref name=":4" /> however, this was a misreporting from the Atari history [[fansite]] ''AtariProtos'', which had first revealed the existence of ''Venetian Blinds'' on the Internet on October 18, 2002, per information from an Activision employee to ''AtariProtos'' site owner Matt Reichert.<ref name=":0" /><ref name=":1" />
+
+Atari and Activision eventually dropped the lawsuit in 1982 under unclear circumstances, most likely an out-of-court settlement, with Activision agreeing to pay royalties to Atari but otherwise legitimizing the third-party development model.<ref name=":1" /><ref name="Gamasutra">{{cite web |last=Flemming |first=Jeffrey |date= |title=The History Of Activision |url=https://www.gamasutra.com/view/feature/1537/the_history_of_activision.php?print=1 |url-status=live |archive-url=https://web.archive.org/web/20161220122651/http://www.gamasutra.com/view/feature/1537/the_history_of_activision.php?print=1 |archive-date=December 20, 2016 |access-date=September 24, 2023 |work=[[Game Developer (website)|Gamasutra]]}}</ref><ref name="forbes kotick">{{cite web |last=Beller |first=Peter |date=January 15, 2009 |title=Activision's Unlikely Hero |url=https://www.forbes.com/forbes/2009/0202/052.html#788254c31a16 |url-status=live |archive-url=https://web.archive.org/web/20170806105646/https://www.forbes.com/forbes/2009/0202/052.html#788254c31a16 |archive-date=August 6, 2017 |access-date=September 24, 2023 |work=[[Forbes (magazine)|Forbes]]}}</ref>
+
+==Release==
+[[File:1982 Consumer Electronics Show - Atari CES Chicago (4507220751).jpg|thumb|[[Atari]] had a presence at the 1982 [[Consumer Electronics Show]], also where ''Venetian Blinds'' was privately displayed by Activision.]]
+''Venetian Blinds'' was not intended for public release and, aside from private displays of the game at the 1982 Consumer Electronics Show, was otherwise unknown to the public. The sunset technique used in ''Venetian Blinds'' was eventually reused in ''[[Barnstorming (video game)|Barnstorming]]''.<ref name=":1" />
+
+''Venetian Blinds'' was first officially released to the public in late 2003, when it was included as part of the [[Microsoft Windows|Windows]], [[macOS]], and [[Game Boy Advance]] ports of ''[[Activision Anthology]]''. These ports include Crane's information on the game's background.<ref name=":0" /><ref name=":1" />
+
+On January 2, 2005, Thomas Jentzsch and Matt Reichert released the binary for ''Venetian Blinds'' online as a free download through Atari fansite ''AtariAge''. The release included an early prototype of ''[[Freeway (video game)|Freeway]]'', titled ''Bloody Human Freeway'', featuring a human character instead of the final game's chicken, and two prototypes for unnamed, unreleased games.<ref>{{Cite web |date=January 2, 2005 |title=Activision Prototypes Released! |url=https://forums.atariage.com/topic/62781-activision-prototypes-released/ |access-date=September 24, 2023 |website=AtariAge |language=en-US}}</ref><ref>{{Cite web |title=AtariAge - Activision Prototypes Revealed |url=https://atariage.com/features/activision_protos/ |access-date=September 24, 2023 |website=AtariAge}}</ref>
+
+On December 22, 2010, ''Venetian Blinds'' was released through the [[Game Room]] service for Windows, the [[Xbox 360]], and [[Windows Phone 7]], as part of Game Pack 013.<ref name=":1" />
+
+==Reception==
+''Bad Game Hall of Fame'', in an article about ''Venetian Blinds'', stated "[i]t's honestly something of a stretch to even call it a 'game'", but noted its historical importance. The article also criticized its inclusion on Game Room, and highlighted Activision allowing it to be sold for money as a sign the company "became the very soulless husk they sought to spite so long ago".<ref name=":1" />
+
+Likewise, ''[[GameRevolution]]'' deemed ''Venetian Blinds'' "one of gaming's greatest moments of pettiness" and categorized it as a "[[Diss (music)|diss game]]", commending its historical importance and rarity but calling its inclusion on Game Room "ridiculous".<ref name=":2" />
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+* [[iarchive:Venetian_Blinds_Demo_1982_Activision_David_Crane|Venetian Blinds]] on the [[Internet Archive]]
+
+[[Category:1982 video games]]
+[[Category:2003 video games]]
+[[Category:Activision games]]
+[[Category:Atari 2600 games]]
+[[Category:In-jokes]]
+[[Category:Parody video games]]
+[[Category:Simulation video games]]
+[[Category:Technology demonstrations]]
+[[Category:Video games developed in the United States]]

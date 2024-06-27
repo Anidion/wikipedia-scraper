@@ -1,0 +1,64 @@
+NATO Commander
+Permalink: //en.wikipedia.org/w/index.php?title=NATO_Commander&oldid=1228372292
+Accessed on: 2024-06-26T16:55:29.574253
+
+
+
+------
+NATO Commander
+{{Infobox video game
+|title = NATO Commander 
+|image = NATO Commander Coverart.png
+|caption = Cover art by David Martin
+|developer = [[MicroProse]]
+|publisher = {{vgrelease|NA|MicroProse|EU|[[U.S. Gold]]}}
+|designer = [[Sid Meier]]
+|programmer = '''Atari'''<br>Sid Meier<br>'''Apple'''<br>Jim Synoski<br>'''Commodore'''<br>Al Duffy<ref>{{cite web |title=Full text of MicroProse Catalog |url=https://archive.org/stream/Microprose_Catalog_1986_Microprose/Microprose_Catalog_1986_Microprose_djvu.txt |website=archive.org |date=1986}}</ref>
+|released = '''1983:''' Atari<ref name="gamefaqs">[http://www.gamefaqs.com/c64/577236-nato-commander/data ''NATO Commander''] at [[GameFAQs]]</ref><br>'''1984:''' Apple, C64
+|genre = [[Real-time strategy]]<ref>{{cite web|url=https://www.allgame.com/game.php?id=31144|title=NATO Commander|archive-url=https://web.archive.org/web/20140101010101/https://www.allgame.com/game.php?id=31144|archive-date=2014-01-01|url-status=dead|website=[[All Media Network#AllGame|AllGame]]}}</ref>
+|modes = [[Single-player]]
+|platforms = [[Atari 8-bit]], [[Apple II]],<ref name="mobygames"/> [[Commodore 64]]<ref name="gamefaqs"/>
+}}
+
+'''''NATO Commander''''' is a [[strategy game|strategy video game]] designed by [[Sid Meier]] for [[Atari 8-bit computers]] and published in 1983 by [[MicroProse]]. Ports to the [[Apple II]], and [[Commodore 64]] were released the following year.
+
+The player takes the role of the [[Supreme Allied Commander]] of [[NATO]] forces in Europe as they respond to a massive [[Warsaw Pact]] attack. The goal is to slow their advance and inflict casualties, hoping to force a diplomatic end to the war before [[West Germany]] is overrun.
+
+The same game engine was also used as the basis for ''Conflict in Vietnam'', ''[[Crusade in Europe (video game)|Crusade in Europe]]'' and ''[[Decision in the Desert]]''.{{Citation needed|date=October 2019}}
+
+==Gameplay==
+The scenario involves a [[Cold War]] [[Soviet Union|Soviet]] invasion of [[West Germany]]. The player is given operational control of [[NATO]] land armies, while the computer controls the Soviets, and must repel the invasion by deploying his forces geographically and choosing their offensive or defensive roles.<ref name="mobygames">[http://www.mobygames.com/game/nato-commander ''NATO Commander''] at [[MobyGames]]</ref> As the battle progresses, both operational and political factors influence the outcome. NATO may lose or win back cities and territory; according to the scenario chosen the player had the option to decide to stave off the [[Warsaw Pact]] onslaught by countercharging head-on, buying time for space awaiting a diplomatic solution, or mounting a counteroffensive.{{Citation needed|date=January 2024}}
+
+[[File:NATO_Commander_Atari_8-bit_PAL_screenshot.png|left|thumb|Gameplay screenshot (Atari 8-bit)]]
+The game's interface has strong similarities to the seminal ''[[Eastern Front (1941)|Eastern Front]]'' in the way the map is displayed and various orders are given to the units, but ''NATO Commander'' takes place in real-time, with one second of time representing 5 minutes passing in the game. It also has various unit types including armor, infantry, armored infantry (mostly for reconnaissance), airborne troops, air force and helicopters. The latter are useful for attacking Soviet units that are isolated or surrounded, which protects them from [[surface-to-air missile]]s from the Soviet side of the map. Another major change is the hidden movement system, which only displays Soviet units that are visible to the allied units. Air forces can be used for air superiority, ground attack or as a reconnaissance force to help reveal the hidden Soviet forces.{{Citation needed|date=January 2024}}
+
+The game has a variety of scenarios, each one larger than the last. The first is simply a limited encounter on the front, while the next include a counterattack around the [[Hannover]]-[[Hamburg]] axis, awaiting the [[French Army]]'s mobilization or the [[Italian Army]]'s decision to enter the fray or not.<ref name="mobygames"/> Tactical nuclear weapons and chemical weapons are available to both sides but their use often carried heavy image penalties and could initiate an escalation.<ref name="mobygames"/> In the end, either the player or the Soviets surrender, based on how much land and combat-ready forces remain.<ref name="mobygames"/>
+
+==Reception==
+''[[Computer Gaming World]]'' in 1984 criticized ''NATO Commander'' for being imbalanced in favor of the Warsaw Pact, but concluded that the game was one of the first combat games to take advantage of computer power, resulting in a "superb strategic simulation".{{r|bausman198402}} A 1992 survey in the magazine of wargames with modern settings gave the game three stars out of five,<ref name="brooks199206">{{cite magazine | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=95 | title=The Modern Games: 1950 - 2000 | magazine=Computer Gaming World | date=June 1992 | accessdate=24 November 2013 | author=Brooks, M. Evan | pages=120}}</ref> and a 1994 survey gave it two-plus stars.<ref name="brooks199401">{{Cite magazine | last=Brooks | first=M. Evan | date=January 1994 | title=War In Our Time / A Survey Of Wargames From 1950-2000 | url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=114 | magazine=Computer Gaming World | pages=194–212}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="bausman198402">{{cite magazine | title=NATO Commander: Review | magazine=[[Computer Gaming World]] | volume=4 | issue=1 | date=February 1984 | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=2&id=14 | accessdate=21 May 2016 | last=Bausman | first=Mark | pages=26, 45}}</ref>
+}}
+
+==External links==
+* {{moby game|id=/nato-commander}}
+* {{atarimania|id=8634}}
+* {{lemon64 game|id=1765}}
+* {{Internet Archive game|a8b_NATO_Commander_1983_MicroProse_US}}
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Cold War video games]]
+[[Category:Commodore 64 games]]
+[[Category:MicroProse games]]
+[[Category:NATO]]
+[[Category:Real-time strategy video games]]
+[[Category:Video games designed by Sid Meier]]
+[[Category:Strategy video games]]
+[[Category:U.S. Gold games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in East Germany]]
+[[Category:World War III video games]]

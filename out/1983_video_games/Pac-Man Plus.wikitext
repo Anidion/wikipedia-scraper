@@ -1,0 +1,68 @@
+Pac-Man Plus
+Permalink: //en.wikipedia.org/w/index.php?title=Pac-Man_Plus&oldid=1224919668
+Accessed on: 2024-06-26T16:55:33.286921
+
+
+
+------
+Pac-Man Plus
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Pac-Man Plus
+| image = Pac-man plus flyer.png
+| caption = North American arcade flyer
+| developer = [[Midway Games|Bally Midway]]
+| publisher = [[Midway Games|Bally Midway]]
+| release = March 1983<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=124–5 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n125/mode/2up}}</ref>
+| genre = [[List of maze video games|Maze]]
+| modes = [[Single-player video game|Single-player]], [[multiplayer]] (alternating turns)
+| arcade system = [[Namco Pac-Man]]
+| series = ''[[List of Pac-Man video games|Pac-Man]]''
+| platforms = [[Arcade game|Arcade]]
+}}
+
+'''''Pac-Man Plus''''' is an [[arcade game]] that was released by [[Midway Games|Bally Midway]] in 1983.<ref name="Akagi"/> It is part of the ''[[Pac-Man]]'' series of games.
+
+== Gameplay ==
+<!-- Deleted image removed: [[Image:Pacplus.png|left|thumb|150px|Arcade Screenshot]] -->
+The gameplay in ''Pac-Man Plus'' is nearly identical to that of the original ''[[Pac-Man]]''. The player controls [[Pac-Man (character)|Pac-Man]] and attempts to score as many points as possible by eating all the Pac-Dots in the maze while avoiding the four ghosts that chase him around the maze and will kill him if they catch him. Eating a Power Pellet will cause the ghosts to turn blue and become vulnerable for a short period of time, allowing Pac-Man to eat them for extra points. Once the maze has been cleared, it will be refilled as the gameplay continues.
+
+The most noticeable differences between the original game and ''Plus'' are various tweaks to the graphics: the maze is green instead of blue, vulnerable ghosts are shorter and have a stem and leaf sticking out of their heads, the fruits have been replaced by new items (including a can of [[Coca-Cola]]) and the ghosts' eyes are now a pixel closer to each other. In addition to these cosmetic changes, ''Plus'' also changes the gameplay slightly: eating a bonus item will cause the ghosts to turn both vulnerable and invisible, and doubles their point value while they are vulnerable. Eating a Power Pellet also sometimes has unpredictable results, such as turning the maze invisible or turning only three of the four ghosts blue (the latter of which makes it impossible to clear a round by using a pattern). The ghosts are also faster and more aggressive than they were in the original ''Pac-Man'', which makes the game seem overall faster-paced and more difficult by comparison.
+
+== Development ==
+{{Expand section|date=February 2011}}
+Midway advertised the game as "the only legal ''PAC-MAN'' conversion package"<ref>Quoted from the official flyer</ref> and called it "Exciting!" and "New!".<ref>{{Cite web |url=http://www.emdkay.net/catalog/pacman-plus-marquee-p-141.html |title=Emdkay.net |access-date=2010-01-08 |archive-date=2010-05-30 |archive-url=https://web.archive.org/web/20100530150014/http://emdkay.net/catalog/pacman-plus-marquee-p-141.html |url-status=live }}</ref> ''Pac-Man Plus'' was an upgrade kit for Namco ''Pac-Man'' boards. It consisted of a module which connected via a ribbon cable to the socket originally occupied by the Z-80 microprocessor. The module contained its own Z-80 microprocessor as well as additional components. It was potted with epoxy to prevent easy reverse-engineering. Additionally, the kit also replaced the four ''Pac-Man'' program roms on the main game board with a new code. Two other roms containing updated data for drawing character and maze were also exchanged. Finally, two relatively tiny supplementary roms containing new color data completed the modification.
+
+==Reception==
+''Arcade Express'' rated the game eight out of ten, stating that it "features all the graphics, challenge and excitement of the original while eliminating patterned play" with random movement and a few surprises making it "an interesting new twist for Pac-fans."<ref>{{cite news |title=The Hotseat: Reviews of New Products |work=Arcade Express |date=April 10, 1983 |volume=1 |issue=18 |pages=6–8 |url=https://archive.org/details/arcade_express_v1n18/page/n5}}</ref>
+
+== Legacy ==
+There were no contemporary home versions. Recent versions include a J2ME mobile version,<ref>[https://web.archive.org/web/20110128232154/http://www.namcogames.com/mobile/pacman-plus_25.html Namcogames.com]</ref> and ports included in several [[TV Games]] from [[Jakks Pacific]] and from Bandai.<ref>[http://phx.corporate-ir.net/phoenix.zhtml?c=106472&p=irol-newsArticle&t=Regular&id=800679 JAKKS Pacific, Inc.] {{Webarchive|url=https://web.archive.org/web/20220219130400/https://jakkspacificinc.gcs-web.com/ |date=2022-02-19 }} press release</ref>
+
+In addition, there have been efforts by some [[Homebrew (video games)|homebrew]] game developers to port ''Pac-Man Plus'' to classic game consoles, such as the [[ColecoVision]] Pac-Man Collection by Opcode Games (press 7587 on the #2 controller at the main menu screen when seeing PLUS press the fire button), [[Atari 2600]],<ref>[http://www.atariage.com/hack_page.html?SystemID=2600&SoftwareHackID=151 Atari 2600 Hacks] {{Webarchive|url=https://web.archive.org/web/20060325133021/http://www.atariage.com/hack_page.html?SystemID=2600&SoftwareHackID=151 |date=2006-03-25 }} from [[AtariAge]].</ref> and more recently the [[Atari 5200]]<ref>[http://www.atariage.com/forums/index.php?showtopic=67617 5200: Pac-Man Plus Version .1] {{Webarchive|url=https://web.archive.org/web/20061020095034/http://www.atariage.com/forums/index.php?showtopic=67617 |date=2006-10-20 }} from AtariAge</ref> and [[Atari 7800|7800]].<ref>[http://www.atariage.com/forums/index.php?showtopic=70576 7800: Pac-Man Plus] {{Webarchive|url=https://web.archive.org/web/20070929102615/http://www.atariage.com/forums/index.php?showtopic=70576 |date=2007-09-29 }} from AtariAge</ref>
+
+In 2018, an arcade cabinet called ''[[List of Namco video game compilations#Pac-Man's Pixel Bash|Pac-Man's Pixel Bash]]'' was released by ''[[Namco|Bandai Namco Amusements]]'' with 31 or 32 classic Namco games included, 1 of which is ''Pac-Man Plus''.
+The arcade cabinet is available in both Coin-Op, and Home versions.<ref>{{Cite web|url=https://www.bandainamco-am.com/game.php?gameid=71|title=BANDAI NAMCO Amusement America - Arcade Game - Pac-Man's Pixel Bash Coin|access-date=2018-12-02|archive-date=2018-08-19|archive-url=https://web.archive.org/web/20180819053806/http://bandainamco-am.com/game.php?gameid=71|url-status=live}}</ref>
+
+In 2018, [[Arcade1Up]] released a new home arcade cabinet that plays both regular ''Pac-Man'' and ''Pac-Man Plus''. In 2020, Arcade 1Up released a ''Pac-Man'' 40th anniversary home arcade cabinet (Generation 3), which included seven games, of which one was ''Pac-Man Plus''.<ref>{{Cite web |url=https://www.arcade1up.com/ |title=Arcade1Up: Classic Arcade Games for the Home |access-date=2018-12-17 |archive-date=2018-12-18 |archive-url=https://web.archive.org/web/20181218054407/https://www.arcade1up.com/ |url-status=live }}</ref>
+
+In 2022, Arcade1Up, in conjunction with Sam's Club, released a ''Pac-Man Plus'' themed cabaret legacy edition with the same game list as 2021's Bandai Namco legacy edition and similar releases. Although the cabinet was mistakenly labeled as ''Super Pac-Man'', it is currently being corrected.<ref>{{Cite web |title=Super Pac-Man with Riser Arcade |url=https://www.samsclub.com/p/super-pacman-wit-riser-arcade/prod26110238 |access-date=2022-03-19 |website=Sam's Club |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{KLOV game|id=8958}}
+*[http://www.arcade-history.com/?page=detail&id=1916 ''Pac-Man Plus''] at the Arcade History database
+
+{{Pac-Man series}}
+
+[[Category:1983 video games]]
+[[Category:Arcade video games]]
+[[Category:Maze games]]
+[[Category:Midway video games]]
+[[Category:Mobile games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Pac-Man arcade games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,440 @@
+Barbarian II: The Dungeon of Drax
+Permalink: //en.wikipedia.org/w/index.php?title=Barbarian_II%3A_The_Dungeon_of_Drax&oldid=1220356691
+Accessed on: 2024-06-26T17:03:44.251922
+
+
+
+------
+Barbarian II: The Dungeon of Drax
+{{Short description|1988 video game}}
+{{For|the 1991 Psygnosis game|Barbarian II}}
+{{EngvarB|date=June 2017}}
+{{good article}}
+{{Infobox video game
+|title = Barbarian II: The Dungeon of Drax
+|image = Barbarain II cover art.jpg
+|alt = A large, scaly, horned creature lies fallen on a cracked floor. A busty woman, wearing a metallic bikini and brandishing a sword, stands on its arm. A man, wearing a loincloth, squats astride the corpse while leaning on his battle axe. The words "Barbarian II" are emblazoned at the top in a banner.
+|caption = C64 box art with [[Maria Whittaker]] and [[Michael Van Wijk]]
+|developer = [[Palace Software]]
+|publisher = {{video game release|EU|Palace Software|NA|[[Epyx]]}}
+|designer = Steve Brown
+|programmer = Rob Stevens
+|artist = Jo Walker<br>Steve Brown
+|composer = [[Richard Joseph]]
+|series = 
+|released = August 1988<ref name='gamesmachine7'>{{cite magazine |title=The Publicity Machine|magazine=The Games Machine|issue=7|publisher=Newsfield|date=June 1988|page=8|url=https://spectrumcomputing.co.uk/page.php?issue_id=1795&page=8|access-date=28 January 2023}}</ref>
+|genre = [[Beat 'em up]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Acorn Electron]], [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[BBC Micro]], [[Commodore 64]], [[MS-DOS]], [[MSX]], [[ZX Spectrum]]
+}}
+
+'''''Barbarian II: The Dungeon of Drax''''' is a [[video game]] first published in 1988 for various [[home computer]]s. It was released as '''''Axe of Rage''''' in North America. The game is the sequel to ''[[Barbarian: The Ultimate Warrior]]'' (''Death Sword'' in North America), which was published in 1987. In ''Barbarian II'', the player controls a princess or barbarian character, exploring the game world to locate and defeat an evil wizard. The game's plot is an extension of its predecessor, although the gameplay is different. While the first game offers two players the opportunity for virtual head-to-head combat, the second is a single-player [[beat 'em up]] with fewer fighting moves. It uses a [[flip-screen]] style instead of scrolling.
+
+[[Palace Software]], the developer of the two ''Barbarian'' games, marketed the sequel with the same strategy they used for the first game. They hired [[Maria Whittaker]], a model known for her topless work, to pose on the cover and posters as the princess in the game, attempting to recapture the controversy that had boosted sales. ''Barbarian II'' received a mixed critical reception. Reviewers were split in their opinions over whether the game was a refreshing and gory adventure, or a boring and lonely sojourn through a confusing digital world.
+
+== Gameplay ==
+[[File:Barbarian II (Palace Software) - Gameplay.png|thumb|left|alt=A digital representation of a barbarian, wearing only a loincloth, holds his axe at the ready as a big humanoid monster kicks him.  On the top left and right corners of the screen are gauges that depict the lives of the combatants.  The word "Barbarian II" lies in the top centre with five globes under it and placed between small pictures of a wizard and the barbarian. The player's score is displayed in the lower right corner. The lower centre of the screen depicts a sword that acts as a compass. The lower left panel shows items collected by the player character.|''Barbarian II'' adopted an adventure format in which the protagonist explores locales to reach his goal, fighting monsters in his way.]]
+Unlike its predecessor which offers sword fighting action to one or two players, ''Barbarian II: The Dungeon of Drax'' features only a single-player mode, in which the player assumes the role of either sword-wielding Princess Mariana or the titular savage, who is armed with a battleaxe.<ref name=cvg82>{{cite journal
+ | last = Rignall
+ | first = Julian
+ | author-link = Julian Rignall
+ |date=August 1988
+ | title = Reviews&mdash;Barbarian II
+ | journal = [[Computer and Video Games]]
+ | issue = 82
+ | pages = 46&ndash;48
+ | publisher = [[Dennis Publishing]]
+ | location = London, United Kingdom
+ | url=https://spectrumcomputing.co.uk/page.php?issue_id=1533&page=46
+ | access-date=28 January 2023
+ | issn = 0261-3697 }}
+</ref>  Their common quest is to pursue the evil wizard Drax, who has fled to his dungeon hideout after his defeat in the first game. The player characters battle their way through an inhospitable wasteland, a system of caves, and a dungeon before facing Drax in his inner sanctum for a showdown.<ref name=dragon150>{{cite journal
+ | first1 = Hartley
+ | last1 = Lesser
+ | first2 = Patricia
+ | last2 = Lesser
+ | first3 = Kirk
+ | last3 = Lesser
+ |date=October 1989
+ | title = The Role of Computers
+ | journal = [[Dragon (magazine)|Dragon]]
+ | volume = 14
+ | issue = 150
+ | pages = 68&ndash;69
+ | publisher = [[TSR, Inc.|TSR]]
+ | location = Wisconsin, United States
+ | issn = 0279-6848 }}
+</ref>
+
+Using a joystick or keyboard, the player moves his or her character through ''Barbarian II''{{'}}s world. Each of the four stages&mdash;wasteland, caves, dungeon, and inner sanctum&mdash;is a series of interconnected rooms, populated by monsters, traps, and items.<ref name=dragon150 /> The game displays one room at a time in a [[flip-screen|flick-screen]] manner: as the protagonist leaves a room, the screen is updated to display the next.<ref name=zzap67>{{cite journal
+ | author = Zzap!64 staff
+ |date=November 1990
+ | title = Budget!
+ | journal = [[Zzap!64]]
+ | issue = 67
+ | page = 38
+ | publisher = [[Newsfield Publications]]
+ | location = Shropshire, United Kingdom
+ | issn = 0954-867X }}
+</ref> The connections among rooms are disjointed: the exit on the left of one room might be connected to the entrance on the same side of another.<ref name=aui>{{cite journal
+ | last = Horgan
+ | first = Tony
+ |date=October 1989
+ | title = Barbarian
+ | journal = [[Amiga User International]]
+ | volume = 3
+ | issue = 10
+ | pages = 42&ndash;43
+ | publisher = Croftward
+ | location = United Kingdom
+ | issn = 0955-1077 }}
+</ref> A compass at the bottom of the interface serves as a directional guide, always pointing to the north.<ref name=ys32>{{cite journal
+ | last = Nash
+ | first = Tommy
+ |date=August 1988
+ | title = YS Megapreview&mdash;Barbarian II
+ | journal = [[Your Sinclair]]
+ | issue = 32
+ | pages = 18&ndash;19
+ | publisher = Dennis Publishing
+ | url = https://spectrumcomputing.co.uk/page.php?issue_id=253&page=18
+ | access-date = 28 January 2023
+ | location = London, United Kingdom
+ | issn = 0269-6983 }}
+</ref> The player directs his or her player through the rooms, seeking the exit to the next stage while avoiding traps and collecting items.<ref name=cvg82 />
+
+The protagonist is also challenged in his or her quest by 20&nbsp;types of creatures.<ref name=cvg81>{{cite journal
+ | last = Boughton
+ | first = Paul
+ |date=July 1988
+ | title = The Axe Man Cometh
+ | journal = Computer and Video Games
+ | issue = 81
+ | pages = 100&ndash;101
+ | publisher = Dennis Publishing
+ | location = London, United Kingdom
+ | url = https://spectrumcomputing.co.uk/page.php?issue_id=1532&page=100
+ | access-date = 28 January 2023
+ | issn = 0261-3697 }}
+</ref> By moving the joystick while pressing its button or by performing the equivalent keyboard commands, the player defends the protagonist with four styles of attacks: a low slash, a high chop, a kick, and a spinning neck chop. The [[Health (gaming)|life]] of the combatants are represented by gauges at the top corners of the screen. Successful attacks on a character reduce its gauge and the character is killed when its life is reduced to zero.<ref name=dragon150 /> A well-timed neck chop (or the bites of certain monsters) decapitates the opponent, killing it instantly.<ref name=machine9>{{cite journal
+ | last1 = Wild
+ | first1 = Nik
+ | last2 = Hogg
+ | first2 = Robin
+ | last3 = Eddy
+ | first3 = Richard
+ | last4 = Rothwell
+ | first4 = Mark
+ | last5 = Candy
+ | first5 = Robin
+ |date=August 1988
+ | title = Off with His/Her Head
+ | journal = [[The Games Machine]]
+ | issue = 9
+ | page = 56
+ | publisher = Newsfield Publications
+ | url = https://spectrumcomputing.co.uk/page.php?issue_id=1797&page=56
+ | access-date = 28 January 2023
+ | location = Shropshire, United Kingdom
+ | issn = 0954-8092 }}
+</ref> Monsters disappear in a puff of smoke when killed, reappearing with a full life gauge in the same room some time later.<ref name=aui /> Although the player character likewise reappears fully rejuvenated in the room after being killed, he or she can only do so for a limited number of times.  This limit (number of lives) is represented in the form of globes at the top centre of the screen.<ref name=cvg82 /> The protagonist increases his or her number of lives by collecting skulls that are scattered throughout the game world.<ref name=cu08>{{cite journal
+ | last = Jarratt
+ | first = Steve
+ | author-link = Steve Jarratt
+ |date=August 1988
+ | title = Screen Scene&mdash;Barbarian II The Dungeon of Drax
+ | journal = [[Commodore User]]
+ | pages = 24&ndash;25
+ | publisher = [[EMAP]]
+ | location = London, United Kingdom
+ | issn = 0265-721X }}
+</ref>
+
+== Development ==
+''Barbarian II''{{'}}s predecessor, ''Barbarian: The Ultimate Warrior'', was a critical and commercial success on its release in 1987. Reviewers enjoyed the game's exciting sword fights, and its profile was greatly enhanced by marketing strategies employed by its developer, [[Palace Software]], a subsidiary of media company Palace Group. The developer had engaged [[Maria Whittaker]], a model known for topless shoots, to pose on the box covers and posters of the game. The image of a bikini-clad Whittaker created a hype that pushed the game beyond the attention of the video game industry, producing a controversy in which members of the public criticised the industry for promoting ''Barbarian'' in a [[Sexism#Sexual objectification|sexist manner]].<ref name=aui /><ref name=retro23>{{cite journal
+ | last = Carroll
+ | first = Martyn
+ | date = 30 March 2006
+ | title = Company Profile: Palace Software
+ | journal = [[Retro Gamer]]
+ | issue = 23
+ | pages = 66&ndash;69
+ | publisher = [[Imagine Publishing]]
+ | location = Bournemouth, United Kingdom
+ | issn = 1742-3155 }}
+</ref>
+
+Palace Software repeated the strategy for the sequel,<ref name=aui /> publishing a poster of Whittaker as Princess Mariana, this time in metal bikini armour, and [[Michael Van Wijk]] as the barbarian.<ref>{{cite journal
+ |date=July 1988
+ | title = True Stories
+ | journal = [[Sinclair User]]
+ | issue = 76
+ | page = 25
+ | url = https://spectrumcomputing.co.uk/page.php?issue_id=76&page=25
+ | access-date = 28 January 2023
+ | publisher = EMAP
+ | location = London, United Kingdom
+ | issn = 0262-5458 }}
+</ref> Steve Brown, creator of the ''Barbarian'' games, recalled that the bikini's chain "snapped a number of times" in a comical ''[[Carry On (film series)|Carry On]]'' fashion during the shoot.<ref name=retro23 /> Brown was behind the concept of the poster, which was brought to fruition by Lee Gibbons, a commercial artist, over the course of four weeks. The image of the barbarian and princess poised over the fallen body of a large, scaly monster was a [[photomontage]], created by superimposing three photographs&mdash;one of each subject&mdash;on one another. The creature was a small scale model made of [[Plasticine]]. After cutting out the subjects from their photos and composing the cut-outs to form a new scene, Gibbons painted the background and added effects such as smoke to form the final image.<ref name=cvg81 />
+
+[[File:Eadweard Muybridge - Athletes. Walking High Leap.jpg|thumb|right|alt=Nine photographs, arranged in 3 rows of 3, show the sequence of a man's jump over a hurdle. The first photo at the top left shows the man in front of a hurdle with his right leg raised. As he propels himself over the hurdle, he pulls his trailing left leg up and in front of him while pushing his arms to the back. The last three photos show him as he clears the hurdle and lands on both feet.|The movements of ''Barbarian II''{{'}}s characters were copied from [[Eadweard Muybridge]]'s work, similar to his sequence of a man's jump over a hurdle.]]
+Brown had filmed sword fights and used the tracings of the combatants' movements to produce the animations in ''Barbarian''. For the animations in the sequel, he turned to the works of photographer [[Eadweard Muybridge]], who made a name for himself through his series of photographs of animals and humans captured in motion. The movements of ''Barbarian II''{{'}}s characters were based on the pictures in Muybridge's book ''Human in Motion'',<ref>{{cite journal
+ | author = Amstrad Cent Pour Cent staff
+ |date=July–August 1988
+ | title = Et Steve Brown créa Barbarian
+ |trans-title= And Steve Brown created Barbarian
+ | journal = Amstrad Cent Pour Cent
+ | pages = 6&ndash;7
+ | publisher = Media Publishing System
+ | location = Paris, France
+ | issn = 0988-8160
+ | language = fr }}
+</ref> which was published in 1901.<ref>{{cite book
+ | first = Marta
+ | last = Hill
+ | editor1-last = Herbert
+ | editor1-first = Stephen
+ | year = 2004
+ | title = Eadweard Muybridge: The Kingston Museum Bequest
+ | url = https://books.google.com/books?id=O0Eu2DdBbHkC
+ | publisher = The Projection Box
+ | location = East Sussex, United Kingdom
+ | page = 33
+ | chapter = Animal Locomotion
+ | chapter-url = https://books.google.com/books?id=O0Eu2DdBbHkC&pg=PA33
+ | access-date = 2010-02-25
+ | isbn = 1-903000-07-6
+}}</ref> The resulting animation was judged very realistic and detailed by several reviewers.<ref name=cvg82 /><ref name=cu08 /><ref name=crash60>{{cite journal
+ | last1 = Caswell
+ | first1 = Mark
+ | last2 = Roberts
+ | first2 = Nick
+ | last3 = King
+ | first3 = Philip
+ |date=January 1989
+ | title = Reviews&mdash;Barbarian II
+ | journal = [[Crash (magazine)|Crash]]
+ | issue = 60
+ | page = 19
+ | url = https://spectrumcomputing.co.uk/page.php?issue_id=1027&page=19
+ | access-date = 28 January 2023
+ | publisher = Newsfield Publications
+ | location = Ludlow, United Kingdom
+ | issn = 0954-8661 }}
+</ref><ref name=zzap40>{{cite journal
+ | last1 = Glancey
+ | first1 = Paul
+ | author-link1 = Paul Glancey
+ | last2 = Houghton
+ | first2 = Gordon
+ | last3 = Sumner
+ | first3 = Paul
+ |date=August 1988
+ | title = Test&mdash;Barbarian II&mdash;The Dungeon of Drax
+ | journal = Zzap!64
+ | issue = 40
+ | pages = 14&ndash;15
+ | publisher = Newsfield Publications
+ | location = Shropshire, United Kingdom
+ | issn = 0954-867X }}
+</ref>
+
+''Barbarian II'' was released in August 1988 for the Amstrad CPC, Atari ST, Amiga, Commodore 64/128 and ZX Spectrum.<ref name='gamesmachine7' /> The various versions differed in features, depending on specifications of the platforms.<ref name=machine9 /> The [[Amiga]] version of the game was given several improvements. It has digitised speech and better graphics in the form of greater details and number of colours. The introductory and disc loading sequences were revamped, featuring animated skeletons with maniacal voices.<ref name=cu89>{{cite journal
+ | last = Pattenden
+ | first = Mike
+ |date=August 1989
+ | title = Barbarian II
+ | journal = [[Commodore User|CU Amiga]]
+ | pages = 50&ndash;51
+ | publisher = EMAP
+ | location = London, United Kingdom
+ | issn = 0963-0090 }}
+</ref> In contrast, the [[ZX Spectrum]] version has monochromatic graphics;<ref name=crash60 /> the first level comprises black-outlined sprites against pink backgrounds.<ref name=sinuser81>{{cite journal
+ | last = Douglas
+ | first = Jim
+ |date=December 1988
+ | title = Games Review&mdash;Barbarian II
+ | journal = Sinclair User
+ | issue = 81
+ | page = 26
+ | url = https://spectrumcomputing.co.uk/page.php?issue_id=81&page=26
+ | access-date = 28 January 2023
+ | publisher = EMAP
+ | location = London, United Kingdom
+ | issn = 0262-5458 }}
+</ref>
+
+As with its predecessor, ''Barbarian II'' was licensed to [[Epyx]] for its release in North America. The game was published there under the title ''Axe of Rage'' and included a tattoo in its packaging.<ref name=dragon150 /> The North American version featured a different cover art, showing the close-up visage of "a screaming berserker with homicidal tendencies".<ref name=cgw60>{{cite magazine
+ | last = Fitzmorris
+ | first = Garth
+ |date=June 1989
+ | title = The Rumor Bag
+ | magazine = [[Computer Gaming World]]
+ | issue = 60
+ | page = 40
+ | publisher = Golden Empire Publications
+ | location = California, United States
+ | issn = 0744-6667 }}
+</ref> ''[[Dragon (magazine)|Dragon]]'' magazine's reviewers found the cover ugly,<ref name=dragon150 /> and according to ''[[Computer Gaming World]]'', a Canadian wholesaler refused to sell ''Axe of Rage'' because it considered the game's box cover art crass enough to offend customers.<ref name=cgw60 /><ref>{{cite magazine
+ | author = Computer Gaming World staff
+ |date=July 1989
+ | title = Taking a Peep
+ | magazine = Computer Gaming World
+ | issue = 61
+ | page = 6
+ | publisher = Golden Empire Publications
+ | location = California, United States
+ | issn = 0744-6667 }}
+</ref> Similarly, in the United Kingdom, pharmacy chain [[Boots UK|Boots]] banned displays of ''Barbarian II'', featuring Whittaker, from their stores.<ref>{{cite journal
+ | author = Commodore Computing International staff
+ |date=August 1988
+ | title = Previews&mdash;Barbarian II
+ | journal = Commodore Computing International
+ | volume = 7
+ | issue = 1
+ | page = 88
+ | publisher = Croftward
+ | location = United Kingdom
+ | issn = 0265-475X }}
+</ref>
+
+==Reception==
+{{Video game reviews
+| YSinclair = 6/10<ref name=ysreview />
+| CRASH = 81%<ref name=crash60 />
+| SUser = 69%<ref name=sinuser81 />
+| CVG   = 9/10<ref name=cvg82 />
+| rev2 = ''[[ACE (games magazine)|ACE]]''
+| rev2Score = 754<ref>{{cite web|url=https://spectrumcomputing.co.uk/page.php?issue_id=1739&page=90 |title=Barbarian II|issue=13|date=October 1988|publisher=Future Publishing|page=90 |access-date=2023-01-28}}</ref>
+| rev1 = ''[[Zzap!64]]''
+| rev1Score = 96%<ref>{{cite web|url=http://www.zzap64.co.uk/zzap100/100thspec5.html |title=Zzap!64 100th Issue Pull-Out Special Page 5 |publisher=Zzap64.co.uk |access-date=2012-08-22}}</ref>
+| award1Pub = Zzap!64
+| award1 = Gold Medal
+| award2Pub = ''Amstrad Action''
+| award2 = Mastergame<ref>Game review, Amstrad Action magazine, [[Future Publishing]], issue 44, May 1989</ref>
+}}
+''Barbarian II'' received praise for its audio, mostly for the versions on more powerful platforms.  Reviewers of ''[[The Games Machine]]'' pointed out that the "most remarkable feature of the ST version is its crystal clear sampled effects".<ref name=machine17>{{cite journal
+ | author = The Games Machine staff
+ |date=April 1989
+ | title = Version Update&mdash;Barbarian II
+ | journal = The Games Machine
+ | issue = 17
+ | page = 45
+ | publisher = Newsfield Publications
+ | location = Shropshire, United Kingdom
+ | issn = 0954-8092 }}
+</ref> ''[[Zzap!64]]''{{'}}s staff and ''[[Computer and Video Games]]''{{'}}s [[Julian Rignall]] were impressed with the digital thuds and whacks produced on the Commodore 64, and particularly the rendition of a certain monster's laughter.<ref name=cvg82 /><ref name=zzap40 /> Mike Pattenden of ''[[Commodore User|CU Amiga]]'' claimed the "manic clucking of the mutant chicken would be enough to send [the player] running in the opposite direction".<ref name=cu89 /> Although rating the audio-visual components of the Amiga version on par with that for the [[Atari ST]], Pattenden and reviewers from ''The Game Machine'' felt the flashy introductory sequence on the Amiga made it stand out;<ref name=cu89 /><ref name=machine23>{{cite journal
+ | author = The Games Machine staff
+ |date=October 1989
+ | title = Version Update&mdash;Barbarian II
+ | journal = The Games Machine
+ | issue = 23
+ | page = 91
+ | publisher = Newsfield Publications
+ | location = Shropshire, United Kingdom
+ | issn = 0954-8092 }}
+</ref> Tony Horgan of ''[[Amiga User International]]'' called it the best introduction he has seen in Amiga games.<ref name=aui />
+
+Although some reviewers were less than impressed with the colour-scheme on systems such as the ZX Spectrum<ref name=sinuser81 /> the colours and large detailed sprites on the higher-end platforms won their acclaim. The animation of the characters also captured their attention.  Tommy Nash of ''[[Your Sinclair]]'' hailed it as "first class",<ref name=ys32 /> while [[Paul Glancey]] of ''Zzap!64'' called the sprites "beautifully defined" and "realistically animated".<ref name=zzap40 />  Similar accolades were given by other reviewers.<ref name=cvg82 /><ref name=cu08 /><ref name=zzap40 /><ref>{{cite journal
+ | last = Roberts
+ | first = Nick
+ |date=December 1990
+ | title = Reviews&mdash;Barbarian II
+ | journal = Crash
+ | issue = 53
+ | page = 19
+ | publisher = Newsfield Publications
+ | location = Ludlow, United Kingdom
+ | issn = 0954-8661 }}
+</ref> The staff of ''The Games Machine'' were "constantly [amazed]" at the designs of the monsters in the game.<ref name=machine9 />
+
+Several reviewers had a common complaint about the game. As the difference between executing an attack and a movement was the pressing of the joystick button, they were irked to find their characters frequently switching directions instead of attacking with a low slash.<ref name=zzap67 /><ref name=cu08 /><ref name=sinuser81 /> Their frustration was increased when the protagonist took damage from enemy attacks as he or she executes the unintentional command to change facing.<ref name=sinuser81 /> Chris Jenkins, however, praised the game for responsive joystick controls in his review for ''[[Sinclair User]]''.<ref>{{cite journal
+ | last = Jenkins
+ | first = Chris
+ |date=November 1990
+ | title = Review&mdash;Barbarian II
+ | journal = Sinclair User
+ | issue = 105
+ | pages = 60&ndash;61
+ | publisher = EMAP
+ | location = London, United Kingdom
+ | issn = 0262-5458 }}
+</ref> Paul Lakin of Zero pointed out that the flick-screen presentation could lead to confusing situations in combat as the protagonist retreats across an exit and appears at the other end of the screen.<ref>{{cite journal
+ | last = Lakin
+ | first = Paul
+ |date=February 1990
+ | title = Déjà Vu
+ | journal =[[Zero (video game magazine)|Zero]]
+ | issue = 4
+ | page = 72
+ | publisher = Dennis Publishing
+ | location = London, United Kingdom
+ | issn = 0957-9303 }}
+</ref> Horgan had another grouse with the combat, moaning the loss of simplicity from the ''Barbarian'' series. According to him, while players could enjoy the first ''Barbarian'' game without much effort, intense practise was needed to defeat the monsters in the second game.<ref name=aui />
+
+The change in combat systems was not the only difference between ''Barbarian II'' and its predecessor that influenced reviewers' opinions about the sequel. The first ''Barbarian'' game was enjoyed by reviewers for providing exciting head-to-head action between two players. ''Barbarian II'' abandoned this, setting up an adventuring experience for the single player. Jim Douglas, reviewing for ''Sinclair User'', doubted that players who were looking for quick action would appreciate plotting a path through the maze to reach the final goal.<ref name=sinuser81 /> ''Your Sinclair''{{'}}s Marcus Berkmann felt the two genres&mdash;slash 'em up and arcade adventure&mdash;were "fundamentally incompatible", agreeing with Douglas that the maze was a distraction.<ref name=ysreview>{{cite journal
+ | last = Berkmann
+ | first = Marcus
+ |date=January 1989
+ | title = Reviews: Barbarian II
+ | journal = [[Your Sinclair]]
+ | issue = 37
+ | page = 49
+ | url = https://spectrumcomputing.co.uk/page.php?issue_id=258&page=49
+ | access-date = 28 January 2023
+ | publisher = Dennis Publishing
+ | location = London, United Kingdom
+ | issn = 0269-6983 }}
+</ref> ''[[Crash (magazine)|Crash]]''{{'}}s reviewers, however, felt the combination of genres made the game interesting.<ref name=crash60 /> James Price wrote in ''[[Amiga Force]]'' that the adventuring element and unending number of enemies made ''Barbarian II'' a far better game than the first,<ref>{{cite journal
+ | last = Price
+ | first = James
+ |date=May 1993
+ | title = Feature
+ | journal = [[Amiga Force]]
+ | issue = 5
+ | page = 16
+ | publisher = [[Europress|Europress Impact]]
+ | location = United Kingdom
+ | issn = 0967-702X }}
+</ref> while ''The Games Machine''{{'}}s staff said the expanded menagerie of foes adequately made up for a reduction in combat moves.<ref name=machine9 />
+
+In their review for ''Dragon'' magazine, the Lessers called ''Axe of Rage'' "an engrossing slash 'n hack that'll please most arcaders."<ref name=dragon150 /> ''Zzap!64''{{'}}s reviewers were unanimous in recommending ''Barbarian II'' to their readers;<ref name=zzap40 /> however, two years later in a re-review, the magazine's staff said the game has aged badly, finding the gameplay "lot more crude and clichéd" and of dubious replay value.<ref name=zzap67 /> Martyn Carroll concurred in his article for ''[[Retro Gamer]]'', 17&nbsp;years after the game's release, calling ''Barbarian II'' "hugely disappointing" for "[messing] up almost everything that was great about the first game."<ref name=retro23 /> Brown and Palace Software's co-founder Richard Leinfellner admitted as much; they said they had mixed feelings about ''Barbarian II'', thinking the idea of a simple fun game was lost by stuffing too many features into it.<ref name=russell>{{cite magazine
+  | last = Russell
+  | first = Jamie
+  |date=October 2010
+  | title = The Making of ... Barbarian: The Ultimate Warrior
+  | magazine = [[Edge (magazine)|Edge]]
+  | issue = 221
+  | pages = 106&ndash;109
+  | location = Bath, United Kingdom
+  | publisher = [[Future plc|Future Publishing]]
+  | issn = 1350-1593}}
+</ref>
+
+In 1993, ''[[Commodore Force]]'' ranked the game at number 29 on its list of the top 100 Commodore 64 games.<ref>{{cite web|title=Top Ton!|url=https://archive.org/stream/zzap64-magazine-101/ZZap_64_Issue_101_Commodore_Force_Issue_11_1993_Autumn#page/n32/mode/1up/|website=Commodore Force|date=Autumn 1993|accessdate=2017-09-03|page=33}}</ref>
+
+==Legacy==
+After ''Barbarian II'' was released, Palace Software went ahead with plans for ''Barbarian III''. For two years, the third game in the series was publicised in gaming magazines. ''[[Your Sinclair]]'' held a contest for its readers, asking them to submit concepts of gruesome monsters. The winning entry would be implemented in ''Barbarian III''. The ''Barbarian'' series of games were, however, brought to a halt in 1991 when Palace Group sold its software subsidiary to fund its expansion into the movie industry.  [[Titus Software]] bought Palace Software and after reviewing its holdings, cancelled several of its new acquisition's projects, including ''Barbarian III''.<ref name=retro23 />
+
+== References ==
+{{Reflist|30em}}
+
+{{Authority control}}
+
+[[Category:1988 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari ST games]]
+[[Category:Video games about barbarians]]
+[[Category:Beat 'em ups]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Video games scored by Richard Joseph]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games featuring female protagonists]]
+[[Category:ZX Spectrum games]]
+[[Category:Single-player video games]]
+[[Category:Epyx games]]
+[[Category:Video game sequels]]
+[[Category:Palace Software games]]

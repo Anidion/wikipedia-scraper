@@ -1,0 +1,76 @@
+Lemonade Stand
+Permalink: //en.wikipedia.org/w/index.php?title=Lemonade_Stand&oldid=1224358196
+Accessed on: 2024-06-26T16:51:17.133621
+
+
+
+------
+Lemonade Stand
+{{Short description|1973 video game}}
+{{other uses|Lemonade stand (disambiguation)}}
+{{primary sources|date=July 2016}}
+{{Infobox video game
+| image          = 
+| caption        = 
+| developer      = Bob Jamison<br>Charlie Kellner (Apple II)
+| publisher      = [[MECC|Minnesota Educational Computing Consortium]]
+| series         =
+| engine         =
+| released       = '''1973:''' Mainframe<br>'''1979:''' Apple II
+| genre          = [[Business simulation game|Business simulation]]
+| modes          = [[Single-player video game|Single-player]]
+| platforms      = [[Mainframe computer|Mainframe]], [[Apple II]]
+}}
+
+'''''Lemonade Stand''''' is a [[business simulation game]] created in 1973 by Bob Jamison of the [[MECC|Minnesota Educational Computing Consortium]] (MECC). In it, the player moves through several rounds of running a [[lemonade stand]], beginning each round by making choices dependent on their current amount of money about their stock, prices, and advertising. In each round, the results are randomized based on the player's inputs, as well as affected by random events such as thunderstorms and street closures. Each round ends with a summary of the player's current status, and the game ends after 12 rounds.
+
+In 1979, the game was [[porting|ported]] by Charlie Kellner to the [[Apple II]]; [[Apple Inc.|Apple]] subsequently included the game with their computers throughout the 1980s. MECC also offered the game for sale as a part of bundles of children's software for Apple computers and [[Atari 8-bit computers]]. Kellner's source code was released, and has since been ported to modern computers as a free, open-source game. Reviewers of the game, both contemporary and retroactive, viewed the game as a good primer for children with regard to business and decision-making processes.
+
+== Gameplay ==
+[[File:Lemonade Stand 1.png|thumb|right|The decision-making screen]]
+
+The game simulates a child's lemonade stand, where choices made by the player regarding prices, advertising, etc. will determine the success or failure of the enterprise. The game owed its success to offering just enough variables to create a complex challenge for users, while still providing an easy-to-grasp introduction to running a business.<ref name="SMH"/><ref name="lauppert"/>
+
+The player is first given a weather report for the day (sunny, cloudy, or hot and dry, each accompanied by a color drawing) and is  prompted for three values: the number of glasses of lemonade to make, the number of advertising signs, and the cost of lemonade per glass. The program then gives a report of the earnings for that day. A thunderstorm, sometimes occurring on cloudy days and accompanied by an animation, will void any profits and cause the player to lose any investment for the day. Other random events, such as street closures or the wind blowing away some signs, can also occur. The game ends after 12 rounds, or days. The game can be played either single-player or with up to 30 players (each player is independent and the sales of one do not affect another).<ref name="CC">{{Cite magazine|title=Six Business Management Games|url=https://archive.org/stream/creativecomputing-1982-04-a/Creative_Computing_v08_n04_1982_April#page/n29/mode/1up|format=jpg|magazine=[[Creative Computing]]|publisher=[[Ziff Davis]]|volume=8|number=4|date=April 1982 |pages=28, 30 |author=David H. Ahl |author-link=David H. Ahl }}</ref><ref name="TW">{{Cite book|title=Tapping the Wisdom That Surrounds You: Mentorship and Women|url=https://books.google.com/books?id=4yKKBAAAQBAJ&pg=PA53 |author=Elizabeth Ghaffari |publisher=ABC-CLIO|date=2014-09-24|pages=53–54|isbn = 9781440832628}}</ref> The Apple II version included music, with bars from "[[Singin' in the Rain (song)|Singin' in the Rain]]" during thunderstorms, "[[Raindrops Keep Fallin' on My Head]]" on cloudy days, "[[Ranz des Vaches|Call to the Dairy Cows]]" on sunny days and "[[Summertime (George Gershwin song)|Summertime]]" on hot and dry days. It also added color to the thunderstorm animation.
+
+==Development==
+[[File:Lemonade Stand 2.png|thumb|right|The report screen]]
+
+''Lemonade Stand'' was originally developed by Bob Jamison of the [[Minnesota Educational Computing Consortium]] in 1973 for [[time-sharing|time-shared]] [[mainframe]] computers.<ref name="hotu">[http://www.hotud.org/component/content/article/46-simulation/22650 Lemonade Stand] {{webarchive|url=https://web.archive.org/web/20100514193640/http://www.hotud.org/component/content/article/46-simulation/22650 |date=2010-05-14 }} on [[Home of the Underdogs]]{{user-generated source|date=September 2016}}</ref><ref name="SMH">[http://www.smh.com.au/news/digital-life/how-tos/lemonade-stand-and-the-apple-revolution/2008/12/23/1229998532318.html Lemonade Stand and the Apple revolution] on [[The Sydney Morning Herald]] (December 24, 2008)</ref>{{failed verification|date=July 2016}}
+
+==Ports==
+Charlie Kellner [[porting|ported]] the game to the [[Apple II]] in February 1979,{{Citation needed|date=July 2016}} and Apple included it for free with their computers throughout the 1980s.<ref name="lauppert">[https://web.archive.org/web/20130226024448/http://theodor.lauppert.ws/games/lemonade.htm Short history of Lemonade Stand], by Theodor Lauppert (archived){{self-published source|date=July 2016}}</ref><ref>{{Cite book|title=The Apple Tapes: Introductory Programs for the Apple ][ plus|url=https://archive.org/stream/The_Apple_Tapes_Introductory_Programs_for_the_Apple_II#page/n4 |publisher=Apple Computer Inc.|year=1979 |pages=4–5}}</ref>
+
+[[Minnesota Educational Computing Consortium]] sold ''Lemonade Stand'' as part of a bundle of seven Apple II games for children for US$25 from MECC.<ref name="CC"/> MECC also included the game in a package for [[Atari 8-bit computers]].<ref>{{Cite journal|title=Instructional Computing Demonstration|url=https://archive.org/stream/APXInstructionalComputingDemonstration_201508/APX_Instructional_Computing_Demonstration#page/n33/mode/2up|format=jpg|publisher=[[Minnesota Educational Computing Consortium]] |journal=Atari Program Exchange |date=24 August 2015 |author-link=Atari Program Exchange |pages=25–26}}</ref>
+
+Another Atari 8-bit version, programmed by Bob Polaro, was published through the [[Atari Program Exchange]] in 1981 as ''Lemonade''.<ref>{{cite web |title=Lemonade |url=http://www.atarimania.com/game-atari-400-800-xl-xe-lemonade_2964.html |website=Atari Mania}}</ref>
+
+==Reception==
+In 1982 [[David H. Ahl]] reviewed the game along with five other business-management simulations in ''[[Creative Computing]]''; he indicated that it was simpler than most, and likely aimed at children, and said that it was a good teaching game for children about businesses.<ref name="CC"/> Elizabeth Ghaffari, in ''Tapping the Wisdom that Surrounds You'', claimed that the game was "the perfect vehicle to introduce the [[microcomputer]] to family and friends and to convince them that technology could be a fun and positive force in their life."<ref name="TW"/>
+
+==Legacy==
+Kellner's [[Applesoft BASIC]] [[source code]] has been available since 1979.{{Citation needed|date=July 2016}} The game was later [[Source port|ported]] to modern [[REALbasic]]<ref name="codenautics" /> and released as [[free and open-source software]] for many platforms like [[Windows]] and [[macOS]].<ref name="codenautics">[http://codenautics.com/lemonade/ Lemonade Stand] on Codenautics "Lemonade Stand is both [[free and open-source]]"</ref><ref name="github">{{cite web|work=LemonadeStand|publisher=GitHub|title=README.txt|url=https://github.com/jefftranter/6502/tree/master/basic/LemonadeStand|first=Jeff|last=Tranter}}{{user-generated source|date=September 2016}}</ref>
+
+==See also==
+*''[[Lemonade Tycoon]]'', a similar, more recent game
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* {{IAg|id=Lemonade_Stand_1979_Apple|platform=Apple II}}
+* [http://codenautics.com/lemonade/ Codenautics' port of the Apple II game] to Windows and Mac OS
+
+[[Category:1973 video games]]
+[[Category:1979 video games]]
+[[Category:Business simulation games]]
+[[Category:Apple II games]]
+[[Category:Educational software]]
+[[Category:Mainframe games]]
+[[Category:Public-domain software with source code]]
+[[Category:Open-source video games]]
+[[Category:Video games developed in the United States]]
+[[Category:The Learning Company games]]
+[[Category:BASIC software]]
+[[Category:Free software programmed in BASIC]]
+[[Category:Single-player video games]]

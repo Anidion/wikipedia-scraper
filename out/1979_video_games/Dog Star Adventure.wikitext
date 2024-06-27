@@ -1,0 +1,91 @@
+Dog Star Adventure
+Permalink: //en.wikipedia.org/w/index.php?title=Dog_Star_Adventure&oldid=1211528468
+Accessed on: 2024-06-26T16:51:13.470675
+
+
+
+------
+Dog Star Adventure
+{{Short description|Text adventure game by Lance Micklus}}
+{{Infobox video game
+|title= Dog Star Adventure
+|image= File:Dog_Star_Adventure_Softside_front_cover.jpg
+|caption= Cover of SoftSide May 1979
+|developer= Lance Micklus
+|publisher= SoftSide
+|designer= 
+|series= 
+|engine= 
+|released= [[1979 in video gaming|1979]]
+|genre= [[Interactive fiction]]
+|modes= 
+|platforms= [[TRS-80]] (original)<br>[[Commodore PET]]
+}}
+'''''Dog Star Adventure''''' is a [[text adventure game]] written by Lance Micklus in [[TRS-80]] [[BASIC (programming language)|BASIC]] and published as the cover article in the May 1979 issue of ''[[SoftSide]]'' magazine. It is historically notable as the first example of the [[source code]] to a text adventure being published,<ref>{{cite web |title=Death Planet: The Dog Star Adventure (Other-Venture #5) |url=http://yois.if-legends.org/vault.php?id=927 |website=Ye Olde Infocomm Shoppe}}</ref><ref>{{cite web |title= Dog Star Adventure |url=http://ifdb.tads.org/viewgame?id=adnqhkzfgrrt5mtv |website=Interactive Fiction Database}}</ref> and as a result, many later text adventures are based on its concepts.
+
+The game takes place in the ''[[Star Wars]]'' universe, loosely following the plot of the movie during the action that takes place on the [[Death Star]]. Names of the various characters are changed to avoid copyright issues. The player has to gather a number of items to repair their ship, rescue princess Leya, and escape without being detected by the many Roche Soldiers.
+
+==Release==
+The game was simultaneously released on [[cassette tape]] by ''SoftSide'' publishing spin-off, [[The Software Exchange]]. A port to the [[Commodore PET]] was made by David Malmberg in 1980, with most of the names returned to their ''Star Wars'' versions. The original source was republished in ''[[The Captain 80 Book of BASIC Adventures]]'' in 1981,<ref>{{cite book |url=https://archive.org/stream/Captain80BasicAdventures/captain_80_basic_adventures#page/n43 |title=Dog Star |work=[[The Captain 80 Book of BASIC Adventures]] |date=1981 |page=43}}</ref> and again in the June 1982 issue of ''[[Computer and Video Games]]''.<ref>{{cite journal |title=Dog Star Adventure |url=https://archive.org/details/cvg-magazine-008 |journal=Computer and Video Games |pages=[https://archive.org/details/cvg-magazine-008/page/n67 58]–63 |date=June 1982}}</ref> It was also sold by [[Adventure International]] under the name ''Death Planet: The Dog Star Adventure''.<ref>{{cite web |title=Death Planet: The Dog Star Adventure |url=http://yois.if-legends.org/vault.php?id=927}}</ref><ref>[http://ifdb.tads.org/viewgame?id=adnqhkzfgrrt5mtv Dog Star Adventure]</ref>
+
+==Gameplay==
+''Dog Star'' is based on a two-word parser, with the user entering [[verb]]/[[noun]] phrases like <code>TAKE CHEESEBURGER</code>. A small number of commands can be shortened to a single word, like <code>NORTH</code>, or even shorter, <code>N</code>. The game is played by the player issuing commands to move about the game map and collect various items.{{sfn|Micklus|1979|p=9}}
+
+The game begins with the player in control of a robot hiding in their spaceship. The ship is disabled and trapped within a hangar. The player needs to collect several items in order to win, including money, the enemy battle plans, and Princess Leia, the leader of the Freedom Fighters. These are scattered around the game map, some of them protected by various puzzles or traps.{{sfn|Micklus|1979|p=9}}
+
+The game had a number of additions to the basic two-word model. Among these was a cheeseburger which had to be fed to a security robot. The cheeseburger cooled off over time, forcing the user to complete this task before that occurred, a concept Micklus refers to as a "time bomb". The game also included a storage depot filled with "all kinds of things", including many of the items needed to complete the game. The player had to find out what items to <code>TAKE</code> by carefully reading hints spread through the game. Finally, the game also included a feature from the classic ''[[Hunt the Wumpus]]:'' in certain locations the game would tell the user about nearby sounds, which the player had to use to avoid dangerous encounters.{{sfn|Scott|2006}}
+
+==Development==
+[[File:Dog_Star_Adventure_PET_splash_screen.png|thumb|The PET conversion changed most of the terminology back to ''Star Wars'', and added this [[character graphic]]s splash screen.]]
+
+Micklus had written several commercial programs before ''Dog Star'', mostly for the TRS-80.<ref>{{cite web|first=Jimmy |last=Maher |website=The Digital Antiquarian |title=Dog Star Adventure |date=28 June 2011 |url=http://www.filfre.net/2011/06/dog-star-adventure/}}</ref> Micklus credits the original ''[[Colossal Cave Adventure]]'' for inspiring him to write ''Dog Star''. ''Adventure'' was written in [[FORTRAN]] on the [[PDP-10]], a system with considerably more memory than early [[microcomputer]]s. The work creating ''Dog Star'' was primarily an effort porting these basic concepts to BASIC while keeping within the small amount of available memory. The game itself is very small and simple as a result.{{sfn|Micklus|1979|p=10}}
+
+''Dog Star'' was written in the very limited TRS-80 [[Level I BASIC]], so many of the techniques used in the game were easily adapted to other dialects of BASIC. The key concept is the way the game uses an [[Array data type|array]] to describe the room layouts, with different numbers representing various objects or connections to other rooms. Since Model I BASIC had only a single array, storing all of the required data required some clever coding. In other BASICs with multiple arrays, this was much easier.{{sfn|Micklus|1979|p=12}}
+
+The basic idea is that the map is drawn out on paper and each location on it, or "room", is assigned a number. That number is used to retrieve information about the room or the items within it. One or more arrays then hold the game state. For instance, a room in ''Dog Star'' allowed six possible exits, up, down and the four [[cardinal direction]]s. Any given room might have one or more of these exits connecting to other rooms around it. This means there are 2<sup>6</sup> = 64 possible variations, which can be represented as a number between 0 (no exits) and 63 (all exits are available) using [[bit manipulation]].{{sfn|Micklus|1979|p=12}}
+
+So for a given room, say room 10, the game can store the exits in slot 10 in the EXIT array, the name of the room, "docking bay", in slot 10 in the NAME array, a longer description, "in the docking bay, the ship sits in the center", in slot 10 of the DESC array, and any items in that location in slot 10 of the ITEM array. If the user picks up an item it is removed from slot 10 of ITEM, and can be added to any other slot if the user drops that item in another location.{{sfn|Micklus|1979|p=12}}
+
+These concepts were widely copied in the early microcomputer field, and can be found almost verbatim in many other adventures of the era, including ''Survival''.{{sfn|Rush|1982}}
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite AV media
+|url=https://archive.org/details/GETLAMP-Micklus
+|title=GET LAMP: Lance Micklus Interview
+|first=Jason |last=Scott
+|date=12 November 2006
+}}
+* {{cite journal
+|first=Lance |last=Micklus
+|title=Dog Star Adventure
+|url=https://archive.org/details/softside-magazine-08
+|journal=SoftSide
+|date=May 1979
+|pages=[https://archive.org/details/softside-magazine-08/page/n41 8]–23
+}}
+* {{cite journal
+|first=Stewart |last=Rush
+|title=Survival
+|url=https://archive.org/details/creativecomputing-1982-01
+|journal=Creative Computing
+|date=January 1982
+|pages=[https://archive.org/details/creativecomputing-1982-01/page/n143 142]–153
+}}
+
+==External links==
+* [https://archive.org/details/softside-magazine-08 SoftSide Magazine Issue 08 (Dogstar Adventure)] at the [[Internet Archive]]
+* {{IFDB|id=adnqhkzfgrrt5mtv}}
+
+[[Category:1970s interactive fiction]]
+[[Category:1979 video games]]
+[[Category:Adventure games]]
+[[Category:BASIC software]]
+[[Category:Commodore PET games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Star Wars video games]]
+[[Category:TRS-80 games]]
+[[Category:Unauthorized video games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,65 @@
+Destroyer (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Destroyer_%28video_game%29&oldid=1224482936
+Accessed on: 2024-06-26T16:59:53.844964
+
+
+
+------
+Destroyer (video game)
+{{Short description|1986 video game}}
+{{About|the 1986 Epyx game|the 1977 Atari game|Destroyer (arcade game)}}
+{{Lead too short|date=January 2022}}
+{{Infobox video game
+| title = Destroyer
+| image = Destroyer video game cover.jpg
+| developer = [[Epyx]]
+| publisher = 
+| platforms = [[Amiga]],<ref>{{cite web|first=Judi|last=Turkel|url=https://www.newspapers.com/clip/89515550/the-south-bend-tribune/|title=This model train set takes little floor space|newspaper=[[South Bend Tribune]]|page=7|date=October 8, 1988|accessdate=November 25, 2021|via=[[Newspapers.com]]}}</ref> [[Apple II series|Apple II]], [[Commodore 64]], [[IBM Personal Computer|IBM PC]]
+| released = [[1986 in video gaming|1986]]
+| genre = Simulation
+}}
+
+'''''Destroyer''''' is a naval combat simulation video game published by [[Epyx]] in 1986 for the [[Amiga]], [[Apple II series|Apple II]], [[Commodore 64]], and [[IBM PC compatible]]s.
+
+==Gameplay==
+''Destroyer'' puts the player in the role of [[Captain (naval)|captain]] of a {{Sclass|Fletcher|destroyer}} in the [[Pacific War|Pacific theatre]] during [[World War II]]. The player can undertake a number of [[Navy|naval]] warfare operations, including hunting [[submarine]]s, [[torpedo]]ing enemy ships, fighting off [[airplane]] attacks, bombarding island installations, rescuing stranded allies, and escorting cargo vessels through enemy waters.
+
+The game uses both [[joystick]] and [[Computer keyboard|keyboard]] controls. The keyboard switches between several different screens, each representing a section of the ship:
+
+*Bridge - A series of switches used to alert stations of status or turn on certain automated functions, such as pursuant or evasive action.
+*Navigation - A map of the sea where the ship was, with the ability to chart specific courses.
+*Observation Deck - A 360-degree view of the ocean around the ship.
+*[[Radar]] - A sweeping radar screen indicating the presence of enemy planes. 
+*[[Sonar]] - A sonar screen indicating the presence of enemy submarines.
+*Guns Forward/Guns Aft - Two separate locations on opposite ends of the ship, each with a set of long-range guns for firing on enemy ships and island locations.
+*[[Anti-Aircraft]] Guns [[Port]]/[[Starboard]] - Two separate locations on opposite sides of the ship, each with a set of anti-aircraft guns for firing on enemy planes.
+*Torpedoes Port/Starboard - Two separate locations on opposite sides of the ship, each with a set of torpedoes for firing on enemy ships.
+*[[Depth Charge]]s - A location for dropping explosive charges to attack enemy submarines.
+*Damage Control - An overview of the ship to see what sections had been damaged by enemy attacks and to what extent the damage affected them.
+
+In each screen, the joystick is used to control the functions within that screen; for example, directing the heading and speed of the ship, or aiming and firing guns. Only one screen can be controlled at any one time; however, there is an informational ticker along each screen where certain stations could report informational updates, such as if enemy planes or submarines are sighted. Each mission was played in [[real-time game|real-time]], so the choice of screen at any given time is important, and switching between them rapidly is part of the strategy.
+
+Attacks from enemies can disable any screen at any time. If a certain area of the ship is damaged by an enemy attack, the player can still access the screen, but all or part of the functions of that screen may be unresponsive. For example, if any of the weapons are damaged, they may not fire at all, or they may still fire but may not be able to be properly aimed. Damage to the [[navigation]] area causes the ship to sail uncontrollably in random headings. As battles progress, repairs—over which the player has no control—may restore functions. Some weapons have certain limitations that if reached could cause damage as well; anti-aircraft guns, for example, can overheat if fired continuously for too long, rendering them inoperable until they cool down. If the ship was to sustain too much damage in the course of a mission (or in certain other circumstances, such as running aground on an island), the ship was deemed sunk and the mission was a failure. Players also had the option of sending an "abandon ship" message, but in terms of gameplay, the result was the same as a sunken ship.
+
+==Reception==
+''[[Computer Gaming World]]'' in 1987 called ''Destroyer'' "an excellent naval simulation [that] doesn't require a vast background in war games ... anyone who has ever played computer games and won at chess should have a ball".{{r|ardai198704}} A 1991 survey of strategy and war games was less positive, however, giving it two and a half stars out of five, stating that "the documentation and scenarios are underdeveloped".<ref name="brooks199111">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=88 | title=Computer Strategy and Wargames: The 1900-1950 Epoch / Part I (A-L) of an Annotated Paiktography | magazine=Computer Gaming World | date=November 1991 | accessdate=18 November 2013 | author=Brooks, M. Evan | pages=138}}</ref> A 1993 survey in the magazine of wargames gave the game two stars out of five.<ref name="brooks199309">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=110 | title=Brooks' Book of Wargames: 1900-1950, A-P | magazine=Computer Gaming World | date=September 1993 | accessdate=30 July 2014 | author=Brooks, M. Evan | pages=118}}</ref> ''[[Compute!]]'' stated that the game successfully combined strategy and arcade elements with excellent graphics.<ref name="thomas19706">{{cite news | url=https://archive.org//1987-06-compute-magazine/Compute_Issue_085_1987_Jun#page/n59/mode/2up | title=Destroyer | work=Compute! | date=June 1987 | accessdate=9 November 2013 | author=Thomas, Scott | pages=58}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="ardai198704">{{cite magazine | title=Titans of the Computer Gaming World / Part 1 of V: Ardai on Epyx | magazine=[[Computer Gaming World]] | issue=36 | date=April 1987 | url=http://www.cgwmuseum.org/galleries/issues/cgw_36.pdf | accessdate=23 April 2016| last=Ardai |first=Charles | pages=53}}</ref>
+}}
+
+== External links ==
+*{{lemon64 game|name=Destroyer|id=678}}
+*{{abime|id=335}}
+*{{mobygames|/11068}}
+
+[[Category:1986 video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Epyx games]]
+[[Category:Ship simulation games]]
+[[Category:Video games developed in the United States]]

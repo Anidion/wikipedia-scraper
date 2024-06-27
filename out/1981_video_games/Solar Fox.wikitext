@@ -1,0 +1,63 @@
+Solar Fox
+Permalink: //en.wikipedia.org/w/index.php?title=Solar_Fox&oldid=1224508582
+Accessed on: 2024-06-26T16:52:36.713372
+
+
+
+------
+Solar Fox
+{{Infobox video game
+|title = Solar Fox
+|image = Solar Fox Front Label.jpg
+| alt =  ''Solar Fox'' Cartridge
+|caption = Atari 2600 cartridge
+|developer = [[Midway Games|Bally/Midway]]
+|publisher = [[CBS Electronics]]<br>[[Commodore International|Commodore]]
+|designer = 
+|programmer = '''Atari 2600'''<br>Bob Curtiss<ref name=giantlist/><br>'''Commodore 64'''<br>Judy Braddick<ref name=giantlist/>
+|engine = 
+|released = '''1981:''' Arcade<br>'''1983:''' Atari 2600, C64
+|genre = [[Action video game|Action]]
+|modes = [[Single-player video game|Single-player]], two-player alternating
+|platforms = [[Arcade game|Arcade]], [[Atari 2600]], [[Commodore 64]]
+}}
+'''''Solar Fox''''' is an [[arcade game]] released in 1981 by Bally/Midway. It was ported to the [[Atari 2600]] console and was also released as a [[Commodore International|Commodore]]-published cartridge for the [[Commodore 64]] computer in 1983.<ref name=lemon>{{lemon64 game|id=3003|name=Solar Fox}}</ref>
+
+==Gameplay==
+[[Image:ARC Solar Fox.png|thumb|left|Arcade screenshot]]
+
+The player's task is to pilot a starship through a series of squared solar cell matrixes inside a rack. While capturing the cells the player must dodge waves of fireballs that are being thrown by Sentinels. These Sentinels move continuously along the perimeter of each cell formation. When an entire field of squares is completed (by flying through each square), the game advances to the next rack. The faster a matrix is cleared, the more points are received. 
+<ref>[http://www.answers.com/topic/solar-fox-game-1 AtariAge Solar Fox Info]</ref>
+
+There are 26 solar cell matrix shapes. Every fifth matrix is a Challenge rack. During challenge racks there are no fireballs; the goal is to clear the entire field before the time runs out. Completing each Challenge round awards a letter, to form the mystery word ''Helios''.<ref>[http://2600connection.atari.org/eastereggs/26solarfox.html 2600 Connection Solar Fox Info] {{webarchive|url=https://web.archive.org/web/20130224041803/http://2600connection.atari.org/eastereggs/26solarfox.html |date=2013-02-24 }}</ref>
+
+==Port==
+The game would later be released on the [[Atari 2600]] console and was also developed as a [[Commodore International|Commodore]]-published cartridge for the [[Commodore 64]] computer in 1983.<ref name=lemon/>
+
+An [[Atari 5200]] port program written by Van Tran (of ''[[Wabbit (video game)|Wabbit]]'' fame) was completed but never released.<ref name="VanTranInterview">{{Cite web |last1=Bunch |first1=Kevin |last2=Willaert |first2=Kate |date=May 13, 2022 |title=Pioneer Rediscovered: The Woman Who Brought Female Representation To Games: The year-long search for Van Mai comes to a happy conclusion. |url=https://gamehistory.org/wabbit |archive-url= |archive-date= |access-date=May 13, 2022 |website=GameHistory}}</ref>
+
+==Tie-in==
+A comic book ad was released in 1983 to support the story of the game.<ref>[http://videogamecomicads.blogspot.com/2013/01/solar-fox-1983.html Solar Fox Comics]</ref>
+
+==Reception==
+The reception of the game was probably good as there was an [[Atari]] port. {{Citation needed|date=June 2023}}
+
+==References==
+{{Reflist|refs=
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+}}
+
+==External links==
+*[http://www.atarimania.com/game-atari-2600-vcs-solar-fox_s7105.html ''Solar Fox''] at Atari Mania 
+*[http://www.atariage.com/software_page.html?SoftwareID=1294 ''Solar  Fox''] at AtariAge
+
+[[Category:1981 video games]]
+[[Category:Action games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:CBS Electronics games]]
+[[Category:Commodore 64 games]]
+[[Category:Midway video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Video games developed in the United States]]

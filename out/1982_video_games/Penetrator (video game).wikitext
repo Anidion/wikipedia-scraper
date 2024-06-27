@@ -1,0 +1,54 @@
+Penetrator (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Penetrator_%28video_game%29&oldid=1157699256
+Accessed on: 2024-06-26T16:53:49.060466
+
+
+
+------
+Penetrator (video game)
+{{Infobox video game
+|title = Penetrator
+|image = Penetrator video game cover.jpeg
+|developer = [[Krome Studios Melbourne|Melbourne House]] 
+|designer = Philip Mitchell<br>[[Veronika Megler]]
+|publisher = [[Krome Studios Melbourne|Melbourne House]] <small>(1982)</small>
+|released = [[1982 in video gaming|1982]]
+|genre = [[Scrolling shooter]]
+|modes = 1-2 players alternating
+|platforms = [[ZX Spectrum]], [[Commodore 64]], [[TRS-80]]
+|caption = 
+|alt = 
+}} 
+'''''Penetrator''''' is a 1982 [[ZX Spectrum]] video game made by [[Krome Studios Melbourne|Melbourne House]] programmers Philip Mitchell and [[Veronika Megler]]. The game is a  clone of [[Konami]]'s 1981 ''[[Scramble (arcade game)|Scramble]]'' arcade game. ''Penetrator'' was ported to the [[TRS-80]] and [[Commodore 64]].
+
+==Gameplay==
+<!-- Deleted image removed: [[Image:penetrator-01.png|thumb|200px|left|Penetrator first level screenshot]] -->
+In ''Penetrator'', the player flies a ship which can shoot forward and drop bombs. Levels scroll from right to left, with a line representing the ground. The first level is in open air, with just mountains to dodge, missiles which try to hit the ship, and animated radars. From the second level onward, the game is inside increasingly complex caverns, so the ceiling is also a danger, as well as new enemies. The missiles are now sometimes replaced with skulls that can move up and down, blocking the path.
+
+The levels flow seamlessly into each other, signified by screen colour changes. After four levels there is a short fifth level where a base needs to be destroyed by dropping a bomb precisely, and then there is a firework animation as a reward. After all levels are finished, the ship goes back through reversed levels. The ultimate level results in a seemingly impassible landscape, however due to a bug if the player accelerates into it, they can get through but the game crashes shortly after.
+
+In addition to the single-player game, there's an alternating two player mode, and a training mode with unlimited lives and access to any of the levels, plus a level editor.
+
+==Reception==
+The ''[[Computer Gamer]]'' review of the Commodore 64 version in highlighted the versatility of the level editor.<ref>{{cite magazine|magazine=[[Computer Gamer]]|page=49|first=Naresh|last=Daswani|title=Software Reviews: Penetrator|date=April 1985|quote=You can make the game as easy or difficult as you wish ... The player can not only restructure the landscape and the battlements but also the various stages in which the changes are made}}</ref> 
+
+''[[BYTE]]'' praised the graphics of the TRS-80 version of ''Penetrator'' and described the game as "eminently playable".<ref name="wszola198212">{{cite news | url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n163/mode/2up | title=Penetrator | work=BYTE | date=December 1982 | accessdate=19 October 2013 | author=Wszola, Stan | pages=162–164}}</ref>
+
+In a summary of game genres, ''[[Computer and Video Games]]'' chose ''Penetrator'' as an exemplary Spectrum ''Scramble''-type game, noting the responsive controls and their "thoughtful" layout on the keyboard. One criticism was the slow pace of the title screen: the player is presented with a fireworks display and slowly-drawn title before play can proceed.<ref>{{cite magazine|magazine=[[Computer and Video Games]]|title=Book of Reviews: Scramble|date=March 1983|page=12|volume=3|issue=4|publisher=EMAP}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.worldofspectrum.org/infoseekid.cgi?id=0003649 ''Penetrator''] at [[World of Spectrum]]
+* [https://github.com/StewBC/penetrator-apple2 Unofficial Apple II and Commander X16 ports]
+
+[[Category:1982 video games]]
+[[Category:ZX Spectrum games]]
+[[Category:Commodore 64 games]]
+[[Category:TRS-80 games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Video game clones]]
+[[Category:Video games developed in Australia]]
+
+{{Scroll-shooter-videogame-stub}}

@@ -1,0 +1,66 @@
+Canyon Bomber
+Permalink: //en.wikipedia.org/w/index.php?title=Canyon_Bomber&oldid=1227691515
+Accessed on: 2024-06-26T16:47:42.118588
+
+
+
+------
+Canyon Bomber
+{{short description|1977 video game}}
+{{more citations needed|date=September 2018}}
+{{Infobox video game
+|title = Canyon Bomber
+|image = Canyon Bomber Cover.jpg
+|caption = 
+|developer = [[Atari, Inc.]]
+|publisher = [[Atari, Inc.]]
+|designer = Howard Delman
+|programmer = '''Arcade'''<br>Howard Delman<br>'''Atari 2600'''<br>[[David Crane (programmer)|David Crane]]
+| released = '''Arcade'''{{vgrelease|NA|1977}}'''Atari 2600'''{{vgrelease|NA|April 1979<ref>{{cite web |last1=Hahn |first1=Duane Alan |title=1979: Atari 2600 Video Game Release Dates with Pop Culture Atmosphere |url=https://www.randomterrain.com/atari-2600-memories-history-1979.html |website=Random Terrain}}</ref>}}
+|genre = [[Action game|Action]]
+|modes = Up to 2 players, simultaneous
+|arcade system = 
+|platforms = [[Arcade game|Arcade]], [[Atari 2600]]
+}}
+'''''Canyon Bomber''''' is a black-and-white 1977 [[arcade game]], developed and published by [[Atari, Inc.]] It was written by Howard Delman who previously programmed ''[[Super Bug (video game)|Super Bug]]'' for Atari.<ref name=ah/> ''Canyon Bomber'' was rewritten in color and with a different visual style for the [[Atari 2600|Atari VCS]] and published in 1979.
+
+==Gameplay==
+[[File:Canyon_Bomber_Screenshot.png|thumb|left|Atari VCS screenshot]]
+The player and an opponent fly a blimp or biplane over a canyon full of numbered, circular rocks, arranged in layers. The player does not control the flight of vehicles, but only presses a single button to drop a bomb which destroys rocks and gives points. Each rock is labeled with the points given for destroying it. As the number of rocks is reduced, it becomes harder to hit them without missing. The third time a player drops a bomb without hitting a rock, the game is over.<ref>{{cite magazine |title=Canyon Bomber Premieres |url=https://archive.org/details/Atari_Coin_Connection_Volume_1_Number_11_October_1977/mode/2up|magazine=Atari Coin Connection |volume=1 |number=11 |date=November 1978 |publisher=[[Atari]]}}</ref>
+
+==Development==
+To create ''Canyon Bomber'', Delman modified a ''[[Sprint 2]]'' board which he then programmed.<ref name=ah/> The first version of the game required 3K of ROM. As ROMs were expensive at the time, Delman's supervisor requested that he fit the game into 2K, which he did.
+
+==Ports==
+An Atari 2600 port was developed by then-Atari employee [[David Crane (programmer)|David Crane]]. It uses solid bricks rather than round rocks. Instead of visible point values, each layer of bricks has a color corresponding to its worth. It also includes ''Sea Bomber'' game modes where players destroy ships instead of rocks.<ref name=vcsmanual/>
+
+==Legacy==
+The 1981 [[VIC-20]] game ''[[Blitz (video game)|Blitz]]'' was inspired by a description of ''Canyon Bomber'' and used buildings as the targets instead of rocks. That change inspired many subsequent ''Blitz'' clones for different systems.
+
+''Canyon Bomber'' was re-released as part of Atari Collection 1 for the [[Evercade]] in 2020 and The Atari 50: The Anniversary Celebration in 2022 for multiple consoles.
+
+==See also==
+{{Portal|Video games}}
+*[[List of Atari 2600 games]]
+
+==References==
+{{reflist|refs=
+<ref name="ah">{{cite web |title=Canyon Bomber |url=https://www.arcade-history.com/?n=canyon-bomber&page=detail&id=377 |website=Arcade History}}</ref>
+<ref name="vcsmanual">{{cite web |title=Atari VCS Canyon Bomber Manual |url=https://archive.org/details/Canyon_Bomber_1978_Atari |website=archive.org |publisher=Atari, Inc.}}</ref>
+}}
+
+==External links==
+* {{KLOV game|id=7265}}
+* {{atarimania|id=7244}}
+
+{{1970s Atari arcade games}}
+
+[[Category:1977 video games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari arcade games]]
+[[Category:Video games developed in the United States]]
+
+
+{{Atari-stub}}
+{{Atari-console-stub}}

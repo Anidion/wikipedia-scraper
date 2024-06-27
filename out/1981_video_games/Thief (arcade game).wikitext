@@ -1,0 +1,63 @@
+Thief (arcade game)
+Permalink: //en.wikipedia.org/w/index.php?title=Thief_%28arcade_game%29&oldid=1219510746
+Accessed on: 2024-06-26T16:52:43.617715
+
+
+
+------
+Thief (arcade game)
+{{Infobox video game
+|title = Thief
+|image =  
+|developer = [[Pacific Novelty]]
+|publisher = [[Pacific Novelty]]
+|designer = 
+|release = 1981
+|genre = [[List of maze video games|Maze]]
+|modes = Up to 2 players, alternating turns
+|arcade system = [[Z80]] with custom board set
+|platforms = [[Arcade game|Arcade]]
+}}
+'''''Thief''''' is a 1981 [[arcade video game]] that is extremely similar to ''[[Pac-Man]]''.
+
+The [[player (game)|player]] operates a car being pursued by several blue [[police]] cars, in a maze that is supposed to represent city streets.  There are eight mazes in all, which change every level in a set order, then repeat starting with the ninth screen.  The ninth through sixteenth levels are identical to the first through eighth, except the cars all move faster and the dollar signs (see next paragraph) don't last as long.  After that, the game loops back to Level 9, even identifying it as such (i.e., the seventeenth stage says "Level 9 completed!" when cleared).  Mazes can have up to three side tunnels that the cars can use to go from one side of the screen to the other, but a few have no tunnels at all.
+
+==Gameplay==
+Each maze is littered with [[United States one-dollar bill|dollar bill]]s which the player collects by running over them.  There are also several (usually four, but the first maze configuration has five) golden [[dollar sign]]s placed throughout the mazes (the equivalent of Pac-Man's energizers); hitting one of these causes the police cars to temporarily turn red.  While the police cars are red the player can crash into them and score extra points (100 for the first, 500 for the second, 1000 for the third, and 2000 for the fourth); if contact with the police cars occurs at any other time the player loses a life.  When all the dollar bills on one screen have been collected, the player advances to the next level.
+
+As the player clears screens, he receives a new title.  There are sixteen titles in all:
+
+*Loitering
+*Joyriding
+*Disturbing The Peace
+*Display of Speed
+*Petty Thief
+*Car Theft
+*Grand Theft Auto
+*Amateur Thief
+*Professional Thief
+*Highway Robber
+*Safe Cracker
+*Con Artist
+*Jewel Thief
+*The Thief
+*The Boss
+*Public Enemy #1
+
+==Audio==
+''Thief'' was notable for using tape-recorded sounds (on an actual tape player in the machine) masquerading as police [[radio]] communications as part of its sound effects (in addition to game-generated sound effects), which ran in a continuous loop while the game was played.  As the chatter goes on, the voices ham it up more and more as well as directly taunting the player. According to various street names that are mentioned in the audio, such as [[Hollywood and Vine]], the game is set in [[Los Angeles]]. Similar tape loops were used in some of Pacific Novelty's other games: ''NATO Defense'' and ''Shark Attack''.
+ 
+==External links==
+{{Wikiquote}}
+*{{KLOV game|id=10086|name=Thief}}
+*[[q:Thief (arcade game)|A full transcript of the game's tape loop]]
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Maze games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Pac-Man clones]]
+[[Category:Video games about crime]]
+[[Category:Video games developed in the United States]]

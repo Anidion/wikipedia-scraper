@@ -1,0 +1,55 @@
+Tunnels of Doom
+Permalink: //en.wikipedia.org/w/index.php?title=Tunnels_of_Doom&oldid=1213051191
+Accessed on: 2024-06-26T16:54:18.873362
+
+
+
+------
+Tunnels of Doom
+{{Infobox video game
+|title          = Tunnels of Doom
+|image          = Tunnels of Doom cover.jpg
+|caption        =
+|developer      = [[Texas Instruments]]
+|publisher      = [[Texas Instruments]]
+|series         =
+|engine         =
+|released       = December 31, 1982
+|genre          = [[Role-playing video game|Role-playing]]
+|modes          =
+|platforms      = [[TI-99/4A]]
+|designer = Kevin Kenney
+|composer = Hank Mishkoff
+}}
+
+'''''Tunnels of Doom''''' is a [[role-playing video game]] programmed by Kevin Kenney for the [[TI-99/4A]] home computer and published by Texas Instruments on December 31, 1982.{{sfn|Tresca|2011|p=138}} It was available in two formats: cartridge with accompanying disk and cartridge with cassette.{{sfn|1984 complete sourcebook of personal computing|p=272}}
+
+Based loosely on the [[tabletop role-playing game]] ''[[Dungeons & Dragons]]'', it is a [[dungeon crawl]] in which players control the fates of 1–4 characters as they navigate a maze of tunnels.{{sfn|Tresca|2011|p=138}}{{sfn|Wolf|2001}} [[Texas Instruments]] used the game in its marketing, citing it as entertainment software involving "strategy and logic".{{sfn|National Geographic|1983|p=288}}<!-- many other magazines in which the ad was featured, such as Newsweek -->
+
+==Gameplay==
+The game has four character classes: hero, fighter, rogue, and wizard. The "hero" class is only available in a single character game.{{sfn|Tresca|2011|p=138}}
+
+Upon encountering an enemy, the game transitions to a separate, graphical, overhead battle screen, where a [[Turn-based tactics|tactical turn-based]] combat system is used that allows for movement and positioning. It's possible to listen at doors for sounds of monsters, which can be negotiated with in combat as well.<ref>[http://www.armchairarcade.com/neo/node/1024 "Review: Texas Instruments' "Tunnels of Doom"(1982)"]</ref>
+
+==Legacy==
+In 2008, Howard Kistler of DreamCodex developed a revised version of the game with the permission of Kevin Kenney.<ref>{{cite web | url = http://www.dreamcodex.com/todr.php | title = Dream Codex: Tunnels of Doom Reboot | access-date = 2010-03-10}}</ref>
+
+==Notes==
+{{Reflist|}}
+
+==References==
+{{refbegin}}
+* {{cite book|title=The Evolution of Fantasy Role-Playing Games|last=Tresca|first=Michael J.|publisher=McFarland|year=2011|isbn=9780786460090}}
+* {{cite book|title=The Medium of the Video Game|editor-last=Wolf|editor-first=Mark J.P.|publisher=[[University of Texas Press]]|year=2001|isbn=029279150X|url-access=registration|url=https://archive.org/details/mediumofvideogam0000unse}}
+* {{cite book|title=1984 complete sourcebook of personal computing|publisher=Bantam Bowker|year=1984|isbn=0835217655|ref={{harvid|1984 complete sourcebook of personal computing}}|url-access=registration|url=https://archive.org/details/bowkerscompletes00bowk}}
+* {{cite news|newspaper=[[The Milwaukee Journal]]|date=14 June 1984|ref={{harvid|The Milwaukee Journal|1984}}}}
+* {{cite journal|journal=[[National Geographic Society|National Geographic]]|volume=163|publisher=National Geographic Society|year=1983|ref={{harvid|National Geographic|1983}}}}
+{{refend}}
+
+[[Category:Video game cleanup]]
+[[Category:Role-playing video games]]
+[[Category:Cooperative video games]]
+[[Category:TI-99/4A games]]
+[[Category:1982 video games]]
+[[Category:Texas Instruments games]]
+[[Category:TI-99/4A-only games]]

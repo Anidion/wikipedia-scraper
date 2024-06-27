@@ -1,0 +1,131 @@
+Tapper (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Tapper_%28video_game%29&oldid=1228899280
+Accessed on: 2024-06-26T16:57:42.799100
+
+
+
+------
+Tapper (video game)
+{{short description|1984 video game}}
+{{Infobox video game
+| title = Tapper
+| image = TapperTitleScreen.png
+| developer = [[Marvin Glass and Associates]]
+| publisher = {{vgrelease|NA/EU|[[Bally Midway]]<ref name="CB"/><ref>{{cite web |title=Video Game Flyers: Root Beer Tapper, Bally-Midway (Germany) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=3861 |website=The Arcade Flyer Archive |access-date=1 June 2021}}</ref>|JP|[[Sega]]<ref name="MAD">{{cite web |title=Tapper |url=https://mediaarts-db.bunka.go.jp/id/M733073 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=1 June 2021}}</ref>}}
+| programmer = Steve Meyer<br>Elaine Ditton
+| artist = Scott Morrison
+| composer = Rick Hicaro
+| released = {{vgrelease|NA|February 1984<ref name="CB">{{cite magazine |title=Manufacturers Equipment |magazine=[[Cash Box]] |date=February 2, 1985 |page=42 |url=https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1985/CB-1985-02-02.pdf#page=42}}</ref>|EU/JP|March 1984<ref name="Akagi">{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=124–5 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n125/mode/2up}}</ref><ref name="MAD"/>}}
+| genre = [[Action game|Action]]
+| modes = 1-2 players alternating turns
+| arcade system = Bally Midway MCR III
+| platforms = [[Arcade video game|Arcade]], [[Apple II]], [[Atari 2600]], [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]], [[ZX Spectrum]], [[MSX]], [[Amstrad CPC]], [[BBC Micro]], [[IBM PC]], [[Palm OS]]
+}}
+
+'''''Tapper''''', also known as '''''Root Beer Tapper''''', is an [[arcade video game]] developed by [[Marvin Glass and Associates]] and released in 1984 by [[Bally Midway]].<ref name="CB"/><ref>{{cite patent | country = US | number = 4643421 | status = patent | title = Video game in which a host image repels ravenous images by serving filled vessels | fdate = 1984-08-31 | gdate = 1987-02-17 | inventor = Steven M. Meyer, R. Scott Morrison, Howard J. Morrison | assign1 = Marvin Glass & Associates}}</ref><ref>{{cite web | url = http://www.kmjn.org/notes/tapper_videogame_patent.html | title = The 'Tapper' videogame patent | author = Mark J. Nelson | date = 2015-08-04 | accessdate = 2015-08-11}}</ref> ''Tapper'' puts the player in the shoes of a [[bartender]] who must serve eager, thirsty patrons (before their patience expires<ref>[http://www.univision.com/uv/video/CLASSIC-GAMES-REVISITED---Tapper--Atari-/id/1724397951 CLASSIC GAMES REVISITED - Tapper (Atari 2600) review] at Univision {{Dead link|date=February 2014}}</ref>) while collecting empty mugs and [[gratuity|tips]]. It was distributed in Japan by [[Sega]] in 1984.
+
+Originally sponsored by [[Anheuser-Busch]], the arcade version features a Budweiser motif.<ref>{{cite web|last1=Undertow|first1=CGR|title=ROOT BEER TAPPER for Arcade Video Game Review|url=http://www.metacafe.com/watch/9215343/cgrundertow_root_beer_tapper_for_arcade_video_game_review/}}</ref> It was intended to be sold to bars, with cabinets sporting a brass rail footrest and drink holders. Early machines had game controllers that were actual Budweiser beer tap handles, which were later replaced by smaller, plastic versions with the Budweiser logo on them.<ref>Rick Hicaro, former Marvin Glass & Associates employee; music composer/sound developer for Tapper</ref> The re-themed ''Root Beer Tapper'' followed in 1984, which was developed specifically for [[Amusement arcade|arcades]] because the original version was construed as advertising alcohol to minors.
+
+==Gameplay==
+The controls consist of a four-position joystick and a tap handle. The game screen features four bars, each with a keg at one end and a door at the other. Customers enter through the doors and slowly advance toward the kegs, demanding service. The player controls a bartender who must pour drinks and slide them down the bar for the customers to catch. Pushing the joystick up or down instantly moves the bartender to the keg at the next bar in the chosen direction, with the top and bottom of the screen wrapping around to one another, while pushing left or right causes him to run along the bar where he is stationed. When the tap handle is pulled down, the bartender instantly moves to the keg (if he is not already standing there) and fills a mug; releasing it causes him to slide the mug along the bar.
+
+[[Image:TapperGameplay.png|thumb|left|In ''Tapper'', the player is a bartender serving drinks to customers. The [[Budweiser]] logo is on the far wall.]]
+[[Image:RootBeerTapperGameplay.png|thumb|left|''Root Beer Tapper'' replaces the bartender with a [[soda jerk]] serving non-alcoholic root beer.]]
+
+Customers slide back toward the doors upon catching a full mug, and disappear through the doors if they are close enough. If not, they stop after a certain distance, consume the drink, and resume their advance while sliding the empty mug back toward the keg. Customers occasionally leave tips on the bar, which the player can pick up for bonus points. Collecting a tip causes a group of female dancers to appear for a few seconds, distracting a portion of the customers so that they will stop advancing. However, distracted customers cannot catch drinks, and any customers who are either drinking or being pushed back at the start of the dancers' show will never be distracted.
+
+One life is lost when any of the following occurs:
+* The player fails to catch an empty mug before it falls off the keg end of a bar and breaks.
+* A full mug slides to the door end of a bar without being caught, where it falls and breaks.
+* Any customer reaches the keg end of a bar, whereupon they grab the bartender and slide him across the bar out the door.
+
+Each screen is completed when the bar is completely emptied of customers. The bartender then pours/consumes a drink of his own with humorous results involving the empty mug, such as getting it stuck on his head or stubbing his toe when he tries to kick it. As the game progresses, the customers appear more frequently, move faster along the bar, and are pushed back shorter distances when they catch their drinks. In addition, the maximum number of customers per bar gradually increases until every bar can have up to four customers at a time.
+
+The player proceeds through four levels, each with its own theme and appropriately dressed customers, and must complete a set number of screens to advance from one level to the next. The levels are:
+
+[[Image:Tapper arcade cabinet - Bally Midway.jpg|thumb|An upright cabinet]]
+
+# A western saloon with [[cowboy]]s (2 screens)
+# A sports bar with [[athlete]]s (3 screens)
+# A punk rock bar with [[punk rock]]ers (4 screens)
+# An outer-space bar with aliens (4 screens)
+
+A bonus round is played after the end of each level, in which six cans of beer (or root beer) are placed on the bar. A masked figure shakes five of the cans, then pounds the bar to shuffle them. Choosing the one unshaken can awards bonus points, while choosing any other results in the bartender being sprayed in the face; in the latter case, the unshaken can flashes briefly to indicate its position.
+
+After completing all four levels, the player returns to the start of the sequence and continues the game at a higher difficulty level.<ref name="A World Without Reality: Inside Marvin Glass's Toy Vault">{{cite book |last1=Paxton |first1=Bill |title=A World Without Reality: Inside Marvin Glass's Toy Vault |date=2019 |publisher=Regent Publishing Services, China |location=USA |isbn=978-0-578-40526-1 |pages=462–474 |edition=First}}</ref><ref>[http://www.giantbomb.com/tapper/61-7912/ Game entry] at Giantbomb</ref>
+
+==Music==
+Music and sound effects for the arcade version of ''Tapper'' were created by Rick Hicaro of Marvin Glass & Associates.<ref name="A World Without Reality: Inside Marvin Glass's Toy Vaultb">{{cite book |last1=Paxton |first1=Bill |title=A World Without Reality: Inside Marvin Glass's Toy Vault |date=2019 |publisher=Regent Publishing Services, China |location=USA |isbn=978-0-578-40526-1 |pages=462–474 |edition=First }}</ref> He used a [[Synclavier#Synclavier II|Synclavier II]] synthesizer running with custom software written by Richard Ditton. The system interfaced directly to the arcade game system so sounds were true to the capabilities of the hardware.
+
+The game's score includes "[[Oh! Susanna]]" (composed by [[Stephen Foster]]), "[[Buffalo Gals]]" (traditional American folk song), the Budweiser theme, and "[[Can-Can]]" by [[Jacques Offenbach]]. The rest of the music was written by Rick Hicaro.
+
+==Ports==
+[[File:Tapper_(video_game)_Atari_8-bit_PAL_screenshot.png|thumb|right|Atari 8-bit version]]
+
+''Tapper''<ref>{{Cite web|last=ClassicGaming.cc|title=Tapper {{!}} Resources, Images and Material from the Classic Arcade Game|url=http://www.classicgaming.cc/classics/tapper/|access-date=2020-09-13|website=Tapper {{!}} Resources, Images and Material from the Classic Arcade Game|language=en-US}}</ref> was ported to the [[Apple II]], [[Atari 8-bit computers]], [[Atari 5200]], [[Atari 2600]], [[BBC Micro]], [[ColecoVision]], [[Commodore 64]], [[MSX]], [[ZX Spectrum]], [[IBM Personal Computer|IBM PC]], and [[Amstrad CPC]]. Most of the home versions of ''Tapper'' featured the [[Mountain Dew]] logo, while the ZX Spectrum and Amstrad CPC versions had the [[Pepsi]] logo, but they retained the bartender character of the original arcade game instead of the soda jerk in ''Root Beer Tapper''.
+
+The ColecoVision version was released in 1984.
+
+The ''Root Beer Tapper'' version also appears on the Midway Legacy Edition [[Arcade1Up]] cabinet.
+
+A version for Commodore Amiga has been released in 2023.<ref>{{Cite web|last=amiga-news.de|title=Arcade port: Amiga version of Tapper completed|url=https://www.amiga-news.de/en/news/AN-2023-05-00135-EN.html|access-date=2023-05-29|website=Arcade port: Amiga version of Tapper completed|language=en-US}}</ref>
+
+==Reception==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+}}
+In Japan, ''Game Machine'' listed ''Tapper'' on their [[1984 in video games|March 15, 1984]] issue as being the most-successful table arcade unit of the month, tied with ''[[10-Yard Fight]]'' and ''[[Tennis (1984 video game)|Vs. Tennis]]''.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=232|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=15 March 1984|page=31|lang=ja|url=https://onitama.tv/gamemachine/pdf/19840315p.pdf#page=16}}</ref>
+
+''[[Compute!'s Gazette]]'' called the Commodore 64 version of ''Tapper'' "one of the most addictive games we've seen lately ... not only fun to play, but also immensely challenging, graphically entertaining, and full of action". The magazine stated that "it's a very well-designed strategy game", and concluded that it was "near the top in entertainment value".<ref name="cg198501">{{cite news | url=https://archive.org/stream/1985-01-computegazette/Compute_Gazette_Issue_19_1985_Jan#page/n113/mode/2up | title=Tapper | work=Compute!'s Gazette | date=January 1985 | accessdate=6 July 2014 | page=113}}</ref> [[Sinclair User]] gave the game a ''SU Classic'' award.
+
+==Legacy==
+The art style is almost identical to a previous game called ''[[Domino Man]]'', and the following game ''[[Timber (video game)|Timber]]''. In fact, the main character in ''Timber'' is a rework of the main character in ''Tapper''. The art is based on Mike Ferris, an artist who taught Scott Morrison art.<ref>[[Retro Gamer]] magazine, issue 74. "The making of ... Tapper", page 67</ref>
+
+===Re-releases===
+''Root Beer Tapper'' has been included in several compilations. It was in the [[Nintendo 64]] version of ''[[Midway's Greatest Arcade Hits]]'', ''[[Arcade's Greatest Hits: The Midway Collection 2]]'' for the [[PlayStation]], ''[[Midway Arcade Treasures]]'' for [[PlayStation 2]], [[Xbox (console)|Xbox]], [[GameCube]], and  [[Microsoft Windows]], and ''[[Midway Arcade Origins]]'' for [[PlayStation 3]] and [[Xbox 360]].
+
+A reinterpretation of the game for mobile devices, ''[[Tapper World Tour]]'', was released in 2011.
+
+===Clones===
+Novasoft published a [[Video game clone|clone]] in 1984 called ''Brew Master'' for the [[TRS-80 Color Computer]]. A slightly altered version of ''Tapper'' appears as the ''Milk Bar'' [[minigame]] in ''[[Barnyard (video game)|Barnyard]]'' (2006). A similar version is on the virtual pet website ''[[Neopets]]'' as one of the minigames for the ''Altador Cup'' event.<ref>{{Cite web|title=Slushie Slinger {{!}} Game Guide {{!}} Jellyneo.net|url=http://www.jellyneo.net/?go=slushie_slinger|access-date=2020-06-23|website=www.jellyneo.net}}</ref>
+
+A clone called ''Nuka Tapper'' is included in ''[[Fallout 76]]'' as a minigame with ''[[Fallout (franchise)|Fallout]]''-themed graphics.<ref>{{cite web |last1=Dingman |first1=Hayden |title=Fallout 76 B.E.T.A. impressions: Hell is other people |url=https://www.pcworld.com/article/3318681/gaming/fallout-76-beta-impressions.html |website=PCWorld |accessdate=15 November 2018 |date=3 November 2018}}</ref>
+
+===In popular culture===
+''Tapper'' is one of the games included in Disney's 2012 film ''[[Wreck-It Ralph]]'' and its 2018 sequel ''[[Ralph Breaks the Internet]]'' with the bartender voiced by [[Maurice LaMarche]]. The version of the game featured in both the films is a combination of the Budweiser and rootbeer versions.
+
+===High score===
+Gregory Erway set the tournament world record on June 5, 2005 with a score of 3,162,125 (first 5 men of game).<ref>{{Cite web|title=Twin Galaxies|url=https://www.twingalaxies.com/game/tapper/arcade|website=www.twingalaxies.com}}</ref><ref>{{Cite web|title=Aurcade|url=https://www.aurcade.com/games/format.aspx?id=371|website=www.aurcade.com}}</ref> William Rosa set the marathon world record on February 16, 2019 with a score of 14,826,200.<ref>{{Cite web|title=Twin Galaxies|url=https://www.twingalaxies.com/game/tapper/arcade/points-marathon/|access-date=2020-11-24|website=www.twingalaxies.com}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=12839}}
+* [https://www.youtube.com/watch?v=zAjRi0UJTms Video of the complete game]
+* [https://www.basementarcade.com/Tapper.html Screenshots of a Tapper arcade machine] at BasementArcade
+* {{IAg|arcade_tapper|Tapper|arcade}}
+* {{IAg|atari_2600_tapper_1984_sega_-_bally_midway_-_beck-tech_010-01|platform=Atari 2600}}
+
+[[Category:1984 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Anheuser-Busch advertising]]
+[[Category:Apple II games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Works about bartending]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:Midway video games]]
+[[Category:Sega arcade games]]
+[[Category:U.S. Gold games]]
+[[Category:Warner Bros. Games franchises]]
+[[Category:Video games about food and drink]]
+[[Category:Video games developed in the United States]]
+[[Category:Works about beer]]
+[[Category:ZX Spectrum games]]

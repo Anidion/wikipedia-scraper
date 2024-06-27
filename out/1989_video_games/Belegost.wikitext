@@ -1,0 +1,58 @@
+Belegost
+Permalink: //en.wikipedia.org/w/index.php?title=Belegost&oldid=1218455131
+Accessed on: 2024-06-26T17:05:44.635762
+
+
+
+------
+Belegost
+{{Infobox video game
+| image = Belegost video game title screen.png
+| caption = Title screen
+| released = 1989
+| platforms = [[Atari ST]], [[ZX Spectrum]]
+| genre = [[Interactive fiction]]
+}}
+
+'''''Belegost''''' is a 1989 Czech [[text adventure]] for the [[ZX spectrum]] and [[Atari ST]]. It is considered part of the [[textovka]] genre—the Czechoslovak text adventure industry.<ref>{{Cite book|url=https://books.google.com/books?id=XWB9DwAAQBAJ&q=textovka&pg=PA321|title=Gaming the Iron Curtain: How Teenagers and Amateurs in Communist Czechoslovakia Claimed the Medium of Computer Games|last=Švelch|first=Jaroslav|date=2018-12-25|publisher=MIT Press|isbn=9780262038843|language=en}}</ref>
+
+== Development ==
+The game was developed by Golden Triangle, a development trio made up of Frantisek Fuka ([[Fuxoft]]), Miroslav Fídler (Cybexlab) and Tomáš Rylek (TRC), who would later go on to make ''[[Jet-Story]]'' and ''[[Tetris 2 (1990 video game)|Tetris 2]]''. The music was composed by [[František Fuka]].<ref name="auto">{{cite web|url=https://www.letemsvetemapplem.eu/2010/12/20/belegost-klasicka-textovka-nyni-zdarma-pro-iphone/|title=Belegost - klasická textovka nyní zdarma pro iPhone|first=LetemSvětemApplem.eu|last=LetemSvětemApplem.com|date=20 December 2010|publisher=}}</ref>
+
+The three met at Prague's Arabská Gymnázium, and before they had access to computers they programmed on squared paper and learned the basics on a scientific calculator; their first computers were ZX Spectrums, which is what essentially all of their games were made for.<ref>{{Cite web|url=http://doupe.zive.cz/clanek/10-osobnosti-ceske-herni-sceny-ktere-byste-meli-znat/ch-146306|title=10 osobností české herní scény, které byste měli znát - 10. kapitola|last=Čepelová|first=Rea|website=Doupe.cz|language=cs|access-date=2019-08-19}}</ref> When they did begin to create games they started on their own, but they eventually started assisting with each other's creations. When Rylek finished the last levels in Fuka's Tetris 2, according to Fuka "That's when we all put the 'Golden Triangle' logo in all our games (no matter who made us the game), with the name of the product always above the top corner of the triangle".<ref name=":0">{{Cite web|url=https://games.tiscali.cz/tema/ceske-a-slovenske-hry-pod-koly-casu-245471|title=České a slovenské hry pod koly času|last=Tiscali|website=Games.cz|language=cs|access-date=2019-08-19}}</ref> All three members of the Golden Triangle participated in this title, although the main driving force behind Belegost was Miroslav Fídler.<ref name=":0" />
+
+In order to make the game more user-friendly than older titles such as Vampire or Exoter, Fidler designed an icon command menu, a context-sensitive help text, and a listing of on-screen motion options.<ref name=":0" /> The script and program were written by Marek Fídler, while the music was composed by František Fuka.<ref>{{Cite web|url=https://www.idnes.cz/hry/magazin/jeden-prsten-vladne-vsem-jeden-jim-vsem-kaze-8230.A040109_tolkienhry_bw|title=Jeden prsten vládne všem, jeden jim všem káže…|date=2004-01-14|website=iDNES.cz|access-date=2019-08-19}}</ref> The player was able to turn the music on and off again during the game.<ref name=":1">[https://dspace.cuni.cz/bitstream/handle/20.500.11956/43165/DPTX_2010_2__0_322733_0_97731.pdf?sequence=1 Diplomová práce] cuni.cz</ref> The help clues could be accessed via the menu, and contained simple nursery rhymes in a fantasy theme.<ref name=":1" /> To orient the players in the game map environment, the game include contextual directions such as 'to the mountain' or 'along the stream', rather than using the cardinal directions.<ref name=":1" /> Unusual for text adventures at the time, the game has a sense of delayed action for certain game events, for instance when the player burns moss, the game indicates that the moss is burning and regardless of if the player completes an action, will later note than the moss flame has extinguished - if the player was not ready to complete their required action they would be unable to successfully complete the game.<ref name=":1" />
+
+Belegost is one of the many text adventures of the time inspired by the works of Tolkien, including the 1979 Norwegian adventure Ringen, a series that began with [[The Hobbit (1982 video game)|''The Hobbit'']], and parodies such as ''The Boggit'' and ''Bored of the Rings''.<ref>{{Cite web|url=http://www.hrej.cz/clanky/hry-podle-pana-prstenu-1356/|title=Hry podle Pána prstenů|website=Hrej.cz|access-date=2019-08-19}}</ref> Specifically, the game draws inspiration from Tolkien's book [[The Silmarillion]] which was not yet available in Czechoslovakia at the time of the game's release.<ref name=":1" /> ''Historie a kontext produkce počítačových her žánru adventure v České republice'' notes that Tolkien's works were a popular subject for video games in the 1980s, and that Belegost fits into that trend alongside [[Melbourne House (company)|Melbourne House]]'s ''[[The Hobbit (1982 video game)|The Hobbit]]'' (1982), and [[Addison Wesley Publishing Company]]'s trio of games ''[[Lord of the Rings: Game One|The Fellowship of the Ring]]'' (1986), ''[[Shadows of Mordor|The Shadows of Mordor]]'' (1987), and ''[[The Crack Of Doom]]'' (1989).<ref name=":1" />
+
+== Ports==
+The game experienced success on the ZX Spectrum and compatible computers, which led to conversions to other platforms including Atari ST, MS-DOS, Psion pocket computers, NeXTStep, and Mac OS X.<ref>{{Cite web|url=http://app.downloadatoz.com/iphone/belegost/|title=Belegost for iPhone Review & Download|website=App Downloads & Reviews|access-date=2019-08-19}}</ref> It was later ported to the Apple iPhone, both in the original Czech language as well as in English translation.<ref name=":1" />
+
+English versions were later made for the [[NeXTSTEP]] and [[Psion (company)|Psion]], while in 2010 a remixed version was created by Lacrima for iOS devices in both [[Czech language|Czech]] and English, featuring the original music.<ref name="auto" /><ref>{{cite web|url=http://www.lacrima.cz/ios|title=iOS software|date=28 May 2011|publisher=|archive-url=https://web.archive.org/web/20110528184748/http://www.lacrima.cz/ios|archive-date=2011-05-28}}</ref> The game is in the public domain.<ref>{{cite web|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0006003|title=Belegost - World of Spectrum|date=8 April 2016|publisher=|archive-url=https://web.archive.org/web/20160408180019/http://www.worldofspectrum.org/infoseekid.cgi?id=0006003|archive-date=2016-04-08}}</ref>
+
+The game has been added to the SNDH archive.<ref>{{Cite web|url=http://sndh.atari.org/history.php|title=SNDH Atari ST YM2149 collection|website=sndh.atari.org|access-date=2019-08-19}}</ref>
+
+==Plot==
+The game is a manifestation of the motifs of [[JRR Tolkien]]'s novels; the title comes from one of the underground dwarf towns in [[The Lord of the Rings]], which is also where the game is set. Within the narrative, the town has been plundered by the [[Orcs]], while the Alqualamir stone remained in the city. The task of the player is to find the stone and escape the city.
+
+==Reception==
+Freegames.cz commented that the "hilarous" Czech game had a simple yet visually pleasing atmosphere.<ref>{{cite web|url=http://www.freegame.cz/hry-ke-stazeni/zdarma/textove-hry/belegost/18143|title=Belegost|website=Freegame.cz}}</ref> In 2002, FreeHry.cz said that while the game was over a decade old it was still quite good-quality.<ref>{{cite web|url=http://freehry.doupe.zive.cz/recenze/belegost/|title=Belegost - FreeHry.cz|last=xixáč|website=freehry.doupe.zive.cz}}</ref> ''Historie a kontext produkce počítačových her žánru adventure v České republice'' praised the title's original features, and its "well-elaborated story".<ref>[https://dspace.cuni.cz/bitstream/handle/20.500.11956/52702/DPTX_2010_2_11230_0_322985_0_111952.pdf?sequence=1 Historie a kontext produkce počítačových her žánru adventure v České republice] cuni.cz</ref> The paper Indiana Jones Fights the Communist Police notes that Belegost was an example of the Czechoslovak text adventure industry drawing inspiration from fantasy.<ref>[http://ironcurtain.svelch.com/wp-content/uploads/sites/4/2018/11/Svelch-IndianaJonesGamingGlobally.pdf Indiana Jones Fights the Communist Police: Local Appropriation of the Text Adventure Genre in the 1980s Czechoslovakia] svelch.com</ref> Database-her.cz noted that by filtering out the Czech games in their database and sorting them by year of release, the oldest Czech game is Belegost, though added that this is only true of DOS games.<ref>{{Cite web|url=https://www.databaze-her.cz/blog/herni-archeolog-1-ceskoslovenske-hry-1984/|title=Herní archeolog #1 - československé hry "1984" – Blog – Databáze-her.cz|website=www.databaze-her.cz|access-date=2019-08-19}}</ref> Root.cz notes that Belegost is one Czech game along with ''[[Indiana Jones a Chrám zkázy|Indiana Jones 2]]'' that didn't "blindly" copy the control system for [[Colossal Cave Adventure]], in that the two titles, both the brainchilds of Fuka, use  icons and drop-down menus.<ref>{{Cite news|url=https://www.root.cz/clanky/historie-vyvoje-pocitacovych-her-136-cast-ceske-textovky-iii/|title=Historie vývoje počítačových her (136. část – české textovky III)|last=Tišnovský|first=Pavel|website=Root.cz|language=cs|access-date=2019-08-19}}</ref> Its reputation led to it being "one of the first games we reviewed within the Free Games server".<ref>{{Cite web|url=https://www.fantasyplanet.cz/uncategorized/historie-her-podle-pana-prstenu-2-dil/|title=Historie her podle Pána prstenů – 2. díl – FantasyPlanet|date=7 March 2002 |language=cs-CZ|access-date=2019-08-19}}</ref> Gaming the Iron Curtain argued that the title's icon based interface led to it being essentially a point n click adventure without graphics.<ref>{{Cite book|url=https://books.google.com/books?id=XWB9DwAAQBAJ&q=%22Belegost%22+%22fuka%22&pg=PA321|title=Gaming the Iron Curtain: How Teenagers and Amateurs in Communist Czechoslovakia Claimed the Medium of Computer Games|last=Švelch|first=Jaroslav|date=2018-12-25|publisher=MIT Press|isbn=9780262038843|language=en}}</ref> CZpug deemed the game "the best Czech game on Spectrum", and "a masterpiece of the Golden Triangle".<ref>{{Cite web|url=http://czpug.lukysoft.cz/clanky/topics/czech_sk.html|website=czpug.lukysoft.cz|access-date=2021-09-23|title=Belegost}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+
+* {{IFDB|id=pqr70u98w7ftpcsx}}
+* https://herniarcheolog.blogspot.com/2019/02/hra-300-belegost-1989.html
+
+[[Category:1989 video games]]
+[[Category:1980s interactive fiction]]
+[[Category:Adventure games]]
+[[Category:Atari ST games]]
+[[Category:Fantasy video games]]
+[[Category:IOS games]]
+[[Category:Works based on Middle-earth]]
+[[Category:Video games developed in the Czech Republic]]
+[[Category:Video games scored by František Fuka]]
+[[Category:ZX Spectrum games]]

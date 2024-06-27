@@ -1,0 +1,76 @@
+Deactivators
+Permalink: //en.wikipedia.org/w/index.php?title=Deactivators&oldid=1220294636
+Accessed on: 2024-06-26T16:59:52.589001
+
+
+
+------
+Deactivators
+{{short description|1986 action-puzzle video game}}
+{{good article}}
+{{Infobox video game
+|title = Deactivators
+|image = Deactivators Coverart.png
+|developer = {{Unbulleted list|Tigress Marketing|System Software}}
+|publisher = [[Ariolasoft]]
+|designer = {{Unbulleted list|David Bishop|Chris Palmer}}
+|release = 6 October 1986
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = {{cslist|[[Amstrad CPC 464]]|[[Commodore 64]]|[[ZX Spectrum]]}}
+}}
+
+'''''Deactivators''''' is a 1986 [[puzzle video game]] designed by David Bishop and Chris Palmer, developed by Tigress Marketing and System Software, and published by [[Ariolasoft]]'s action game imprint Reaktor. The player controls [[remote control vehicle|bomb disposal robot]]s known as deactivators and must use them to deactivate bombs planted by terrorists in five research complexes. The concept for the game came from a [[brainstorming]] session between Bishop and Palmer; its design and development took five to six months to complete. It was released for the [[Amstrad CPC 464]], [[Commodore 64]], and [[ZX Spectrum]] platforms in October 1986.
+
+''Deactivators'' received positive reviews from video game critics for its originality and graphics, and was later ranked by ''[[Your Sinclair]]'' as one of the best games for the ZX Spectrum. Despite the positive reception, the game was not commercially successful and Tigress Marketing closed shortly after its release.
+
+==Gameplay==
+[[File:Deactivators gameplay.png|left|thumb|Screenshot with the rooms shown at the top and the map of the level below them.]]
+
+''Deactivators'' is an [[action puzzle]] video game. The player controls [[remote control vehicle|bomb disposal robot]]s known as deactivators to remove bombs placed in five scientific research complexes by terrorists. Each buildings constitutes a level within the game that must be completed to progress to the next. A time limit based on [[fuse (explosives)|fuses]] of the bombs is set; a burning fuse is displayed when the player  picks up a bomb.<ref name="Instructions">{{cite book|title=Deactivators instructions|publisher=Ariolasoft|date=1986}}</ref> To dispose of the bombs, the player must have the deactivators throw them from adjacent rooms until they can be thrown out of the exit. Security droids reprogrammed by the terrorists serve as obstacles that can destroy the deactivators. If a bomb explodes in a room, everything inside it is destroyed, making it impossible to complete the level.<ref name="CRASH"/> The player can get new deactivators after completing a building.<ref name="CVG2"/>
+
+Four commands can be used in the game: selecting deactivator droids to control, moving the droids, commanding the droids to throw, and scanning the rooms in the building.<ref name="CVG2"/> Each room has different gravity operating from different directions; some rooms have the robots move on the side of the rooms or the ceiling.<ref>{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Preview|page=92|issue=32|date=September 1986|url=https://archive.org/stream/crash-magazine-32/Crash_32_Sep_1986#page/n91/mode/2up}}</ref><ref name="AA"/> There are [[circuit boards]] that appear in different rooms that must be inserted into a [[computer]] in the computer room. The computers are used to activate functions such as opening doors and windows, deactivating [[force field (technology)|force fields]] that block robots from going adjacent rooms, and turning on [[teleporter]]s to warp to different rooms.<ref name="CRASH"/><ref name="SU"/> The game includes a [[level editor]], allowing the player to create rooms.<ref name="CVG">{{cite magazine|magazine=[[Computer and Video Games]]|publisher=[[Future plc]]|title=News|page=13|issue=60|date=October 1986|url=https://archive.org/stream/Computer_Video_Games_Issue_060_1986-10_EMAP_Publishing_GB/Computer__Video_Games_Issue_060_1986-10_EMAP_Publishing_GB#page/n11/mode/2up}}</ref>
+
+==Development==
+''Deactivators'' was designed by David Bishop and Chris Palmer. Bishop was the co-founder of Tigress Marketing, the developers of the game; Palmer joined Tigress after leaving [[Argus Specialist Publications]]. The concept of the game arose from a brainstorming session between Bishop and Palmer for game ideas. The game was designed by hand using paper to work out the tasks in each building and the timing and routes required to complete them. The design process took a month to complete and development took four or five months.<ref name="Retro">{{cite magazine|magazine=[[Retro Gamer]]|publisher=[[Imagine Publishing]]|last=Mason|first=Graeme|title=The Making of: Deactivators|pages=46–47|issue=119|date=2013|url=https://archive.org/stream/RetroGamerIssue117-120/Retro_Gamer_Issue_119#page/n45}}</ref> The programming for the game was done by System Software; it was published by [[Ariolasoft]] under its Reaktor [[Imprint (trade name)|imprint]], which was created to focus on arcade and action games.<ref name="Retro"/><ref>{{cite magazine|magazine=ZX Computing Monthly|title=Branching Out...|page=7|issue=30|date=October 1986|url=https://archive.org/stream/zxcomputing-magazine-1986-10/ZXComputing_1986_10#page/n5/mode/2up}}</ref> The original audio, 'Robot Tango', was composed by Simon PC Frost. ''Deactivators'' was the first game to be released under the imprint.<ref name="AA"/> It was released on 6 October 1986 for the [[Amstrad CPC 464]], [[Commodore 64]], and [[ZX Spectrum]].<ref name="Retro"/><ref>{{cite magazine|magazine=[[Sinclair User]]|title=Droids are Deactivators|issue=54|page=92|date=September 1986|url=https://archive.org/stream/sinclair-user-magazine-054/SinclairUser_054_Sep_1986#page/n91/mode/1up|access-date=2018-02-25|archive-url=https://web.archive.org/web/20160607095729/https://archive.org/stream/sinclair-user-magazine-054/SinclairUser_054_Sep_1986#page/n91/mode/1up|archive-date=2016-06-07|url-status=live}}</ref>
+
+Shortly after ''Deactivators''{{'}}s release, developer Tigress Marketing closed after Ariolasoft, the majority publisher for Tigress, left software publishing. David Bishop continued designing games, later working for [[Virgin Interactive]], [[Mindscape (company)|Mindscape]], and [[PopCap Games]]. Palmer left the video games industry to work in information technology.<ref name="Retro"/>
+
+==Reception==
+{{VG reviews
+|AAction=87%<ref name="AA">{{cite magazine|magazine=[[Amstrad Action]]|publisher=[[Future plc]]|last=Wilton|first=Andrew|title=Action Test|issue=14|pages=46–47|date=November 1986|url=https://archive.org/stream/amstrad-action-014/Amstrad_Action_014#page/n45/mode/2up}}</ref>
+|Amtix=81%<ref name="Amtix">{{cite magazine|magazine=[[Amtix]]|title=Reviews|last1=Paddon|first1=Lee|last2=Eddy|first2=Richard|author3=Paul|issue=13|date=November 1986|page=27|url=https://archive.org/details/amtix-magazine-13/page/n25}}</ref>
+|CVG=9/10 (C64)<br>8.5/10 (CPC/Spec)<ref name="CVG2">{{cite magazine|title=C+VG Nov Software Reviews – Deactivators|magazine=[[Computer and Video Games]]|publisher=[[Future plc]]|last=Metcalfe|first=Tim|page=61|issue=61|date=November 1986|url=https://archive.org/stream/Computer_Video_Games_Issue_061_1986-11_EMAP_Publishing_GB/Computer__Video_Games_Issue_061_1986-11_EMAP_Publishing_GB#page/n45/mode/2up}}</ref>
+|CRASH=85%<ref name="CRASH">{{cite magazine|magazine=[[Crash (magazine)|Crash]]|title=Deactivators|page=138|issue=34|date=November 1986|url=https://archive.org/stream/Crash_No._34_1986-11_Newsfield_GB#page/n137/mode/2up}}</ref>
+|SUser={{rating|5|5}}<ref name="SU">{{cite magazine|magazine=[[Sinclair User]]|title=Arcade Review – Deactivators|last=Taylor|first=Graham|page=37|issue=55|date=October 1986|url=https://archive.org/stream/sinclair-user-magazine-055/SinclairUser_055_Oct_1986#page/n35/mode/2up|access-date=2018-02-23|archive-url=https://web.archive.org/web/20160608113900/https://archive.org/stream/sinclair-user-magazine-055/SinclairUser_055_Oct_1986#page/n35/mode/2up|archive-date=2016-06-08|url-status=live}}</ref>
+|YSinclair=9/10<ref name="YS">{{cite magazine|magazine=[[Your Sinclair]]|publisher=[[Dennis Publishing]]|author=Gwyn|title=Screen Shots|issue=18|page=44|date=June 1987|url=https://archive.org/stream/your-sinclair-11/YourSinclair_11_Nov_1986#page/n81/mode/2up|access-date=2018-02-23|archive-url=https://web.archive.org/web/20170716053652/https://archive.org/stream/your-sinclair-11/YourSinclair_11_Nov_1986#page/n81/mode/2up|archive-date=2017-07-16|url-status=live}}</ref>
+|Z64= 82%<ref name="Zzap">{{cite magazine|magazine=[[Zzap!64]]|title=Zzap Test – Deactivators|pages=116–117|issue=19|date=November 1986|url=https://archive.org/stream/zzapp_64_issue_019_600dpi/Zzap640019Hi#page/n115/mode/2up}}</ref>
+| award1Pub = ''Sinclair User''
+| award1 = SU Classic
+| award2Pub = ''Your Sinclair''
+| award2 = Megagame
+}}
+''Deactivators'' received generally positive reviews from video game critics. The ZX Spectrum version was ranked number 28 in the ''[[Your Sinclair]]'' "Official Top 100 Games of All Time".<ref>{{cite magazine|title=Let the People Decide! The Results!|magazine=[[Your Sinclair]]|publisher=[[Dennis Publishing]]|page=11|issue=93|date=September 1993|url=https://archive.org/stream/your-sinclair-93/YourSinclair_93_Sep_1993#page/n57/mode/2up|access-date=2018-02-25|archive-url=https://web.archive.org/web/20160321221439/https://archive.org/stream/your-sinclair-93/YourSinclair_93_Sep_1993#page/n57/mode/2up|archive-date=2016-03-21|url-status=live}}</ref> A reviewer for ''[[Computer and Video Games]]'' wrote that it was destined to become a [[Cult video game|cult game]].<ref name="CVG2"/> Andrew Wilton from ''[[Amstrad Action]]'' praised its gameplay, describing it as "excellent" and noting the room perspective changes as the most interesting feature in the game.<ref name="AA"/> Critics  also praised the game for its originality.<ref name="CVG2"/><ref name="SU"/><ref name="Zzap"/> ''[[Sinclair User]]''{{'}}s Taylor Graham compared it favorably with 1984's [[Spy vs. Spy (1984 video game)|''Spy vs. Spy'']].<ref name="SU"/>
+
+The graphics received mostly positive reactions for each console. [[Crash (magazine)|''Crash'']] and ''Your Sinclair'' wrote positively of the Spectrum's graphics. The ''Crash'' reviewer praised the details and animations of the droids, and the design of the rooms,<ref name="CRASH"/> as did Gwyn from ''Your Sinclair'', who described the graphics as "clean".<ref name="YS"/> Andrew Wilton was disappointed that the game did not make the most of Amstrad's colour limitations.<ref name="AA"/> The Commodore 64 graphics were also well received by ''[[Zzap!64]]'', which called the game's monochromatic appearance to be "unusual, but effective".<ref name="Zzap"/> The ''Computer and Video Games'' reviewer praised the Commodore 64 version for its sound in preference to the Amstrad and Spectrum versions.<ref name="CVG2"/>
+
+Despite being well received from critics, the game was not commercially successful. In an interview with ''[[Retro Gamer]]'', Chris Palmer said there was a disconnect between the marketing for the game and what it was actually about.<ref name="Retro"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WoS_game|id=0001278}}
+* {{lemon64 game|name=Deactivators|id=642}}
+* {{Internet Archive game|zx_Deactivators_1986_Reaktor_128K}}
+
+[[Category:1986 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Ariolasoft games]]
+[[Category:Commodore 64 games]]
+[[Category:Puzzle video games]]
+[[Category:Video games about bomb disposal]]
+[[Category:Video games about robots]]
+[[Category:Video games about terrorism]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

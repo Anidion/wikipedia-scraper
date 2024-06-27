@@ -1,0 +1,60 @@
+Kagirinaki Tatakai
+Permalink: //en.wikipedia.org/w/index.php?title=Kagirinaki_Tatakai&oldid=1226804485
+Accessed on: 2024-06-26T16:55:15.191531
+
+
+
+------
+Kagirinaki Tatakai
+{{Short description|Sharp X1 platformer/shooter game}}
+{{Infobox video game
+|image = KagirinakiTatakaiCover.jpg
+|developer = Hiroshi Ishikawa
+|publisher = [[Enix]]
+|released = {{vgrelease|JP|October 1983<ref name="LOGiN">{{cite magazine | author=''LOGiN'' staff | date=November 1983 | title=ENIX 続々登場ニュースター!第2回ゲーム·ホビープログラムコンテスト受賞作品 | trans-title=Enix: New stars appearing one after another! Winners of the 2nd Game/Hobby Program Contest | url=https://archive.org/details/login-november-1983/LOGiN%20-%20November%201983/page/n41/mode/2up | magazine=[[:ja:ログイン (雑誌)|LOGiN]] | publisher=[[ASCII Media Works]] | language=ja | pages=42–3}}</ref>}}
+|genre = [[Platformer]], [[Shooter game|shooter]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Sharp X1]]
+}}
+{{nihongo|'''''Kagirinaki Tatakai'''''|限りなき戦い||literally "Endless Battle"}} is a [[platformer]]/[[shooter game]] developed by Hiroshi Ishikawa and published by [[Enix]] exclusively for the [[Sharp X1]] in Japan. Gameplay involves the player descending a vertical, underground shaft while facing enemies and projectiles. Equipped with a [[jet pack]] for maneuvering in the air, the player can engage adversaries with a [[raygun]], a rocket launcher, or bombs. The latter two weapons can also [[destructible environment|destroy any portion of the stage]] for the player to create cover or to dig out new paths to advance.
+
+Inspired by the [[science fiction]] novel ''[[Starship Troopers]]'' by [[Robert A. Heinlein]], Ishikawa developed ''Kagirinaki Tatakai'' in just one month after starting high school. The game was a third-place runner-up in a contest held by Enix to publish software from new designers. It was released in October 1983 and sold meagerly. A [[PC-8801]] port was cancelled and Ishikawa completed only one other game, 1985's ''[[Brain Breaker]]'' for the X1, before changing careers. ''Kagirinaki Tatakai'' has been noted for its inclusion of fully-destructible environments.
+
+==Gameplay==
+[[File:KagirinakiTatakaiGameplay.jpg|thumb|left|The player uses explosives to [[destructible environment|destroy the scenery]] above some enemies. The player's score and remaining lives, bombs, and rockets are displayed at the top.]]
+''Kagirinaki Tatakai'' is a [[platformer]]/[[shooter game]] in which the player must vertically descend an underground shaft while engaging or avoiding hostile enemies and projectiles. The goal is to reach and destroy a red core that lies at a depth of 600 meters. The player character wears a [[Powered exoskeleton|powered suit]] and can use a [[jet pack]] to hover in the air and reach platforms.<ref name="HCG101">{{cite web | author=Szczepaniak, John | date=April 30, 2008 | title=''Kagirinaki Tatakai'' | url=https://hg101.kontek.net/kagiri/kagiri.htm | archive-url=https://web.archive.org/web/20240322080631/https://hg101.kontek.net/kagiri/kagiri.htm | archive-date=March 22, 2024 | website=[[Hardcore Gaming 101]] | accessdate=May 18, 2024}}</ref> The player begins with a set number of [[life (video games)|lives]] and a [[game over]] will result should they deplete. A [[score (game)|score]] increases as the player descends and whenever enemies are defeated.
+
+Enemies and hazards include aliens, gun-wielding infantrymen, stationary turrets, flying saucers, and homing missiles.<ref name="HCG101"/><ref name="OhX">{{cite magazine | author=Urakawa Hiroyuki | date=April 1990 | 
+title=懐かしのゲームシステム 重力と「限りなき戦い」 | trans-title=Game System Nostalgia: Gravity and the ''Endless Battle'' | url=https://archive.org/details/OhX_1990-04/page/n100/mode/1up | magazine=[[:ja:Oh!X|Oh!X]] | publisher=[[SoftBank]] | language=ja | page=99}}</ref> The player can freely switch between three weapons: a [[raygun]] with infinite ammunition and a limited number of both rockets and bombs. The game's standout feature is its fully [[destructible environment]]s, as rockets (fired horizontally) and bombs (thrown at a downward angle) can be used to obliterate any wall or floor. This adds a strategic element, giving the player options like creating cover from enemy fire or digging out new paths to bypass groups of enemies.<ref name="HCG101"/><ref name="OhX"/>
+
+==Development==
+''Kagirinaki Tatakai'' was developed entirely by Hiroshi Ishikawa, who was 16 years-old and just entering high school at the time. He began [[video game programming|programming]] his own games on a [[VIC-20|VIC-1001]] in March 1981 before purchasing a [[Sharp X1]] in May 1983. ''Kagirinaki Tatakai'' was his first commercial product. The game was largely inspired by the [[science fiction]] novel ''[[Starship Troopers]]'' by [[Robert A. Heinlein]], specifically a scene towards its end where the protagonists, wearing [[Powered exoskeleton|powered suits]], use grenades and rockets to fight spider-like aliens in tunnels. The player character's physical movements were borrowed from 1973's ''[[Lunar Lander (video game genre)|Moonlander]]'' while homing missiles that appear in the game were taken from ''[[Time Pilot]]''. It took Ishikawa one month to program the initial version, accomplished with a [[BASIC]] compiler from [[Hudson Soft]].<ref name="interview">{{cite web|author=Szczepaniak, John | date=September 4, 2010 | url=https://hg101.kontek.net/ishikawa/ishikawa.htm|archive-url=https://web.archive.org/web/20240322080201/https://hg101.kontek.net/ishikawa/ishikawa.htm | archive-date=March 22, 2024| title=Professor Hiroshi Ishikawa 石川 博 | website=[[Hardcore Gaming 101]]| accessdate=April 21, 2024}}</ref>
+
+Ishikawa entered his work into the 2nd Game/Hobby Program Contest, which was held by Enix to publish quality computer games from promising, new designers.<ref name="LOGiN"/> He initially called it ''Assault V'' and was unable to use the title {{nihongo|''Starship Troopers''|宇宙の戦士}} because it has been used by another contest entry from the previous year. ''Kagirinaki Tatakai'' was chosen because of its similarity to the title of [[Joe Haldeman]]'s ''[[The Forever War]]'', another science fiction novel that features powered suits.<ref name="interview"/> ''Kagirinaki Tatakai'' was one of ten contestants that received Enix's third-place Selected Program Award and the game was released in October 1983 alongside all the other winners for that year.<ref name="LOGiN"/>
+
+The game sold only around 3,000 units on the X1. Enix subsequently requested that Ishikawa create a [[porting|port]] of the game for the more popular [[NEC]] [[PC-8800 series|PC-8801]]. However, Ishikawa found it impossible for him to effectively scroll the [[Sprite (computer graphics)|sprites]] around the screen on that computer, something he had easily achieved on the X1 with the aid of the Programmable Character Generator (PCG). The company was ultimately displeased with what he presented so the conversion's release was cancelled and Ishikawa went unpaid for his effort. His next project, ''[[Brain Breaker]]'', began development in April 1984 and would be published on the X1 by Enix the following year. Ishikawa exited the gaming industry shortly thereafter to became a college professor of [[natural science]].<ref name="interview"/>
+
+==Reception and legacy==
+The Japanese computer magazine ''[[:ja:ログイン (雑誌)|LOGiN]]'' briefly described ''Kagirinaki Tatakai'' as having a fantastic concept and screen layout.<ref name="LOGiN"/> Hiroyuki Urakawa of another Japanese publication, ''[[:ja:Oh!X|Oh!X]]'', declared that despite it not being fast-paced, there was no other action like ''Kagirinaki Tatakai'' and that its eerie background music was still stuck in his head years later.<ref name="OhX"/> Writing for both ''[[Retro Gamer]]'' and ''[[Hardcore Gaming 101]]'', John Szczepaniak described the game as a "forgotten gem," noting its non-mirrored player sprite, three distinct weapons, variety of enemies, and realistic physics while considering its destructible environments as innovative for the time. Szczepaniak had minor criticisms towards the music, controls, and lack of visual smoothness, but felt he could not be too harsh considering its hardware limitations and the context in which the game was made.<ref name="HCG101"/><ref name="RetroGamer">{{cite magazine | author=Szczepaniak, John | date=September 2009 | title=Five games to discover | magazine=[[Retro Gamer]] | publisher=[[Imagine Publishing]] | issue=67 | page=41 | issn=1742-3155 | url=https://archive.org/details/revistas-brasileiras-de-games-da-net/Retro%20Gamer%20-%20revistas/2009/Retro%20Gamer%20%E2%84%9667/page/41/mode/1up}}</ref>
+
+''Kagirinaki Tatakai'' is largely obscure but gained some attention on internet forums in 2008 after the posting of a  translated interview with [[Treasure (company)|Treasure]] designer Mitsuru Yaida. He mentioned a Sharp X1 title, [[redaction|redacted]] from the interview, as an influence on the development of ''[[Bangai-O]]''. Online sleuths initially presumed the game in question to be ''Kagirinaki Tatakai'', but it was later revealed to be ''Hover Attack'' instead.<ref name="HCG101"/> Designer [[Derek Yu]] was influenced by ''Kagirinaki Tatakai'' when developing his 2016 platformer ''[[Spelunky]]''. Although Yu admitted he had not played the older title, reading about it "stirred his imagination." ''Kagirinaki Tatakai'', alongside the obscure [[rogue-like]] ''[[NetHack]]'', prompted him to include destructible environments in ''Spelunky''.<ref>{{cite book | author=Fullerton, Tracy | date=April 19, 2024 | title=Game Design Workshop: A Playcentric Approach to Creating Innovative Games | url=https://books.google.com/books?id=BgH0EAAAQBAJ&printsec=frontcover&dq=Game+Design+Workshop&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&ovdme=1&sa=X&ved=2ahUKEwivvveY45mGAxVp5MkDHdkiAD8Q6AF6BAgOEAM#v=snippet&q=Kagirinaki&f=false | chapter=Designer Perspectives: Derek Yu | page=98 | edition=5th | publisher=[[CRC Press]] | isbn=978-1-00-385844-7}}</ref><ref>{{cite web | author=[[Derek Yu|Yu, Derek]] | date=March 23, 2016 | title=EXPLORER.GMK: An Excerpt From the ''Spelunky'' Book | url=https://www.gamedeveloper.com/design/explorer-gmk-an-excerpt-from-the-spelunky-book | archive-url=https://web.archive.org/web/20230202020305/https://www.gamedeveloper.com/design/explorer-gmk-an-excerpt-from-the-spelunky-book | archive-date=February 2, 2023 | website=[[Game Developer (website)|Game Developer]] | publisher=[[Informa]] | accessdate=May 25, 2024}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.giantbomb.com/kagirinaki-tatakai/3030-40248/ ''Kagirinaki Tatakai''] at [[Giant Bomb]]
+*[https://www.mobygames.com/game/55866/kagirinaki-tatakai/ ''Kagirinaki Tatakai''] at [[MobyGames]]
+
+[[Category:1983 video games]]
+[[Category:Enix games]]
+[[Category:Japan-exclusive video games]]
+[[Category:Platformers]]
+[[Category:Run and gun games]]
+[[Category:Science fiction video games]]
+[[Category:Sharp X1 games]]
+[[Category:Sharp X1-only games]]
+[[Category:Shooter games]]
+[[Category:Single-player video games]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games developed in Japan]]

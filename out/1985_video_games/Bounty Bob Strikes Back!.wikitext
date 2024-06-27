@@ -1,0 +1,78 @@
+Bounty Bob Strikes Back!
+Permalink: //en.wikipedia.org/w/index.php?title=Bounty_Bob_Strikes_Back%21&oldid=1230383151
+Accessed on: 2024-06-26T16:58:09.969712
+
+
+
+------
+Bounty Bob Strikes Back!
+{{Short description|1985 video game}}
+{{Infobox video game
+|title      = Bounty Bob Strikes Back!
+|image      = Bounty bob strikes back.jpg
+|developer  = [[Big Five Software]]
+|publisher  = {{vgrelease|NA|Big Five Software|EU|[[U.S. Gold]]}}
+|programmer = Bill Hogue
+|artist     = Curtis Mikolyski<br>Bill Hogue
+|genre      = [[Platform game|Platform]]
+|modes      = [[Single-player video game|Single-player]]
+|platforms  = [[Atari 8-bit computers|Atari 8-bit]], [[Atari 5200]], [[Commodore 64]], [[Amstrad CPC]], [[ZX Spectrum]], [[BBC Micro]]
+|release    = '''1985:''' Atari 8-bit,<ref name="analogces">{{cite magazine |last=Leyenberger |first=Arthur |date=1985-04-01 |title=Winter CES: Part 2 |url=https://archive.org/details/analog-computing-magazine-29/page/n86/mode/1up |magazine=[[ANALOG Computing]] |access-date=2023-06-11}}</ref> 5200, C64, CPC, Spectrum
+}}
+
+'''''Bounty Bob Strikes Back!''''' is the sequel to ''[[Miner 2049er]]'' published in 1985 <ref name="analogces" /> for [[Atari 8-bit computers]]. The game adds a pseudo-3D look to the platforms and increases the level count from 10 to 25. As with the original, the Atari 8-bit version was released on ROM cartridge.<ref>{{cite magazine |editor-last=Friedland |editor-first=Nat |title=New Products |date=May 1985 |url=https://archive.org/details/1985-05-anticmagazine/page/n89 |magazine=Antic |publisher=Antic Publishing |location=San Francisco, CA |volume=4 |issue=1 |page=90 |issn=0745-2527 |via=[[Internet Archive]]}}</ref> A port for the [[Atari 5200]] was released the same year, followed by versions for the [[Commodore 64]], [[Amstrad CPC]], and [[ZX Spectrum]] also in 1985.
+
+In 2001,{{efn|The first version of the emulator, published in 2001, contains the "20010720" timestamp on its "Help/About..." window.<ref name="big5emu2001">{{cite web |last=Hogue |first=Bill |title=Big Five Software - Emulator |website=Big Five Software |url=http://www.bigfivesoftware.com/Emulator/emulator.htm |archive-url=https://web.archive.org/web/20010909140838/http://www.bigfivesoftware.com/Emulator/emulator.htm |archive-date=9 September 2001}}</ref>}} Bill Hogue, the game's developer, released the game and its prequel, ''Miner 2049er'', for free online with an embedded Atari 8-bit computer emulator.<ref name="big5emu2007">{{cite web |last=Hogue |first=Bill |title=Big Five Software - Emulator |website=Big Five Software |date=18 January 2007 |orig-date=2001 |url=http://www.bigfivesoftware.com/Emulator/emulator.htm |archive-url=https://web.archive.org/web/20190914002339/http://www.bigfivesoftware.com/Emulator/emulator.htm |archive-date=14 September 2019}}</ref>
+
+==Gameplay==
+[[File:Bounty Bob Strikes Back! Atari 8-bit PAL screenshot.png|thumb|left|Atari 8-bit gameplay]]
+<!-- Deleted image removed: [[File:Bounty Bob Strikes Back! Titel.png|thumb|Commodore 64 title screen]] -->
+
+Gameplay is similar to ''Miner 2049er'' in that the player must inspect every section of 25 mines while avoiding mutants within a set time. One difference from the original game is that after losing a life, sections on platforms remain covered and destroyed enemies do not reappear, thus making it easier to complete a level.
+
+==Development==
+Following the critical and financial success of his game ''[[Miner 2049er]]'', programmer Bill Hogue began work on a game titled ''Scraper Caper'' which would have Bounty Bob become a fire fighter. Following a lot of advertising, the game was never released. Hogue would work on his next game ''Bounty Bob Strikes Back''.{{sfn|Hawken|Jones|p=37}}
+
+The game featured enhancements from the first game, such as a slight 3D effect on the platforms to add dpeth and that when the player loses a life, they did not lose all the progress in their gameplay.{{sfn|Hawken|Jones|p=37}} The game also expanded on the amount of levels, having 25 over the originals 10.{{sfn|Hawken|Jones|p=38}}
+
+On Atari systems, it is a [[Bank switching|bank-switched]] cartridge of 40KB total program and data [[Memory map|mapped]] onto 16KB of [[address space]].<ref>{{cite web |url=https://github.com/atari800/atari800/blob/dc68c7ff6d6d9c7fa6a9574766cc83ad626c553b/DOC/cart.txt#L366 |title=Atari800 emulator supported cartridge images |last=Stehlik |first=Petr |website=[[GitHub]] |date=2023-04-29 |access-date=2023-06-11}}</ref><ref name="analogces" />
+
+The game was shown at the January 1985 [[Consumer Electronics Show|CES]] and then in April 1985 ads began appearing in magazines.<ref name="analogces" />
+
+==Reception==
+The game reached number nine on ''[[Billboard (magazine)|Billboard]]'''s list of top-selling entertainment computer software in June 1985,<ref>{{cite news |author=Billboard Publications |editor-last=Borg |editor-first=Donald G |date=2 June 1985 |title=Software best sellers |url=https://www.newspapers.com/clip/28341077/software_best_sellers_by_billboard/ |newspaper=The Record |publisher=John Borg |location=Hackensack, NJ |volume=90 |issue=305 |page=O-11 |via=[[Newspapers.com]]}}</ref> despite clocking in at a hefty {{Inflation|US|49.95|1985|fmt=eq|orig=yes}}.<ref name="analogces" />
+
+In Steve Panak's column for ''[[ANALOG Computing]]'', he found the large number of screens and the different elements in them to be a strong point: "It is this variety which saves ''Bob'' from mediocrity."<ref>{{cite magazine|last1=Panak |first1=Steve |title=Panak Strikes |journal=ANALOG Computing |date=June 1985 |issue=31 |page=68 |url=https://archive.org/details/analog-computing-magazine-31/page/n69/mode/2up}}</ref> He didn't like the unskippable animations when a new entry is added to the high score table, especially as the scores only persist until the computer is turned off.
+
+In the final issue of ''[[Your Sinclair]]'', the ZX Spectrum version was ranked number 56 on "The Your Sinclair Official Top 100 Games of All Time."<ref>{{cite magazine |editor-last=Nash |editor-first=Dennis |date=September 1993 |title=Let the People Decide! The Results |url=https://archive.org/details/your-sinclair-93/page/n57 |magazine=[[Your Sinclair]] |publisher=Future Publishing |volume=1 |issue=93 |page= |pages=11–12 |via=[[Internet Archive]]}}</ref> In 2004, the ZX Spectrum version was voted the 19th best game of all time by ''[[Retro Gamer]]'' readers in an article originally intended for a special issue of ''Your Sinclair'' bundled with ''Retro Gamer''.<ref>{{cite web |url=http://www.ysrnry.co.uk/articles/50bestspeccygames94.htm |date=25 June 2009 |title=The 50 Best Speccy Games Ever! |last=Whitehead |first=Dan |website=The YS Rock'n'Roll Years |publisher=Nick Humphries |archive-url=https://web.archive.org/web/20090713193533/http://www.ysrnry.co.uk/articles/50bestspeccygames94.htm |archive-date=13 July 2009 |url-status=dead}}</ref>
+
+==Legacy==
+On reflecting on the sequel, Hogue said he thought it was a great follow-up to the original game, but "perhaps not the groundbreaking game we wanted it to be and I guess that still disappoints me."{{sfn|Hawken|Jones|p=37}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Sources===
+* {{cite magazine |magazine=[[Retro Gamer]] |title=Ultimate Guide: Bounty Bob Strikes Back!| url=https://archive.org/details/retro-gamer-raspberry-pi-buenos-aires/Retro%20Gamer%20191/page/36/mode/1up |last1=Hawken| first1=Kieren| last2=Jones| first2=Darran| issue=191}}
+
+==External links==
+*{{atarimania|id=6014}}
+
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Big Five Software games]]
+[[Category:Commodore 64 games]]
+[[Category:Fiction about mining]]
+[[Category:Single-player video games]]
+[[Category:U.S. Gold games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United States]]
+[[Category:ZX Spectrum games]]
+
+
+{{platform-videogame-stub}}

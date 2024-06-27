@@ -1,0 +1,58 @@
+Pathfinder (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Pathfinder_%28video_game%29&oldid=1224580164
+Accessed on: 2024-06-26T16:53:48.565800
+
+
+
+------
+Pathfinder (video game)
+{{short description|1982 video game}}
+{{Multiple issues|
+{{Orphan|date=August 2021}}
+{{Notability|Products|date=January 2021}}
+{{Lead too short |date=May 2024}}
+}}
+
+{{Infobox video game
+| title = Pathfinder
+| image = Pathfinder_Atari_8-bit_cover_art.png
+| developer = Solitare Group
+| publisher = [[Nasir Gebelli#Gebelli Software|Gebelli Software]]
+| designer = Randy Jongens
+| programmer = 
+| platforms = [[Atari 8-bit]]
+| released = 1982
+| genre= [[Maze video game|Maze]]
+}}
+
+'''''Pathfinder''''' is a [[Maze video game|maze]]  [[shooter game|shooter]] written by Randy Jongens<ref name=giantlist/> for [[Atari 8-bit computers]]. It was published in 1982 by [[Nasir Gebelli#Gebelli Software|Gebelli Software]].<ref name=manual/>
+
+==Gameplay==
+[[File:Pathfinder_Atari_8-bit_screenshot.png|thumb|left|In-game screenshot]]
+The object of ''Pathfinder'' is to clean an underground maze of canisters of radioactive waste. These canisters are scattered in the maze and can be collected on contact by the Pathfinder, controlled by the player. Complicating this, radioactive creatures will attempt to stop the player. These are: Nukes, absorbing power from nuclear waste, Phantoms, moving through walls and Minelayers moving throughout the whole level placing mines. To defend himself the player is armed with a plasma gun that can be fired in any of eight directions. If the player shoots a mine, he will start a fire, which can spread through a maze.
+
+A level is completed by removing all radioactive waste. The game has nine levels, each characterized by color changes and sometimes changes in the structure of the maze itself.
+
+==Reception==
+''The [[Addison-Wesley]] Book of Atari Software 1984'' concluded: "It's very hard to classify this game as either good or bad. While on the one hand it appeared to be a superficial and repetitious game, many of the teens who played it enjoyed seeing half of the maze on fire and then trying to put it out."<ref name=wesley/>
+
+==References==
+{{Reflist|refs=
+<ref name=wesley>{{cite web |title=The Addison-Wesley Book of Atari Software 1984 |year=1984 |url=https://archive.org/details/addison-wesley-book-of-atari-software-1984/page/n135/mode/2up }}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/#J |last1=Hague |first1=James}}</ref>
+<ref name="manual">{{cite web|title=Pathfinder Manual|url=https://www.digitpress.com/library/manuals/atari8bit/pathfinder.pdf}}</ref>
+}}
+
+==External links==
+*{{MobyGames|id=/pathfinder_}}
+*{{atarimania|id=3900}}
+*{{Internet Archive game|id=a8b_Pathfinder_1982_Gebelli_Software_US_k_file}}
+*[https://archive.org/details/1983-04-compute-magazine/page/n115/mode/2up Review] in ''[[Creative Computing]]''
+*[https://archive.org/details/1983-04-compute-magazine/page/n115/mode/2up Review] in ''[[Compute!]]''
+
+[[Category:1982 video games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari 8-bit computer-only games]]
+[[Category:Maze games]]
+[[Category:Video games about nuclear technology]]
+[[Category:Video games developed in the United States]]

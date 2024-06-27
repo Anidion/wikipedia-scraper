@@ -1,0 +1,55 @@
+Solar Quest
+Permalink: //en.wikipedia.org/w/index.php?title=Solar_Quest&oldid=1186795543
+Accessed on: 2024-06-26T16:52:37.010175
+
+
+
+------
+Solar Quest
+{{for|the unrelated board game|Solarquest}}
+{{more citations needed|date=February 2013}}
+
+{{Infobox video game
+|title     = Solar Quest
+|image     = Solar Quest Cover.jpg
+|image_size =
+|caption   =
+|developer = [[Cinematronics]]
+|publisher = [[Cinematronics]]
+|designer  =  Scott Boden
+|release   = '''Arcade'''<br>1981<br>'''Vectrex'''{{vgrelease|NA|1982}}{{vgrelease|EU|1983}}
+|platforms = [[Arcade Game|Arcade]], [[Vectrex]]
+|genre     = [[Multidirectional shooter]]
+|modes     = [[Single-player]], 2 player Alternating
+}}
+'''''Solar Quest''''' is a [[monochrome]] [[Vector graphics|vector]] [[arcade game]] created by [[Cinematronics]] in 1981. It was designed and programmed by Scott Boden, who previously worked on ''[[Star Castle]]''.<ref name="giantlist"/> It had a home release for the [[Vectrex]] system in 1982.
+
+==Gameplay==
+The player controls a ship that can rotate to the left and right and thrust forward, similar to the better known ''[[Asteroids (arcade game)|Asteroids]]'', and like that game the player also has a "hail mary" device, hyperspace. In the center of the screen is the sun, which pulls objects into it, in a fashion similar to ''[[Spacewar!]]''. The screen wraps at the edges.
+
+Waves of enemy spaceships appear in groups of up to eight. There are seven different types of ships, growing smaller to make them harder to hit. Each "phase" of the gameplay completes when each of the seven waves is destroyed. The spaceships are a collision hazard and normally fly around the screen randomly. As the game progresses, they become more likely to attempt to ram the player directly. At higher levels, the ships gain weapons and attempt to shoot the player.
+
+The player's ship is armed with two weapons, a cannon and a "nuke". The cannon fires a single shot in the direction your ship is pointed, and the game allows up to four shots on screen at once. The nuke destroys all ships in the area when it is triggered, which occurs with a second button press after being launched from the ship. The player's ship starts the game with three nukes and gains a new one every 10000 points.
+
+Whenever an alien ship is destroyed, a "survivor" is left drifting in space. The player can collect the survivors by flying his ship over them. Alternately he can shoot them, or allow them to fall into the Sun. The player is awarded with points for successful rescues, and eventually free ships.
+
+==Development==
+''Solar Quest'' uses the "classic" monochrome Cinematronics chassis introduced with  ''[[Space Wars]]'', and used a coloured plastic overlay to produce a yellow sun, blue play field, and red scoring information at the top. The game was originally intended to be based on a true color display, but was released in monochrome..
+
+==References==
+{{reflist|refs=
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref>
+}}
+
+==External links==
+*{{KLOV game|id=9612}}
+
+[[Category:1981 video games]]
+[[Category:Arcade video games]]
+[[Category:Cinematronics games]]
+[[Category:Multidirectional shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer hotseat games]]
+[[Category:Vector arcade video games]]
+[[Category:Vectrex games]]
+[[Category:Video games developed in the United States]]

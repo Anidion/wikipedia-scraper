@@ -1,0 +1,66 @@
+Toy Bizarre
+Permalink: //en.wikipedia.org/w/index.php?title=Toy_Bizarre&oldid=1229727597
+Accessed on: 2024-06-26T16:57:46.958278
+
+
+
+------
+Toy Bizarre
+{{Short description|1984 video game}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = Toy Bizarre
+| image = 
+| alt = 
+| caption = 
+| developer = [[Activision]]
+| publisher = [[Activision]]
+| designer = Mark Turmell
+| programmer = Mark Turmell
+| series = 
+| engine = 
+| platforms = [[Commodore 64]], [[ZX Spectrum]]
+| released = '''1984:''' C64<br>'''1985:''' Spectrum
+| genre = [[Platform game|Platform]]
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Toy Bizarre''''' is a [[platform game]] written by Mark Turmell for the [[Commodore 64]] and published by [[Activision]] in 1984.<ref name=retro>{{cite magazine|title=Developer Lookback: Activisionaries|magazine=[[Retro Gamer]]|issue=25|pages=36, 40}}</ref> A port to the [[ZX Spectrum]] was released in 1985.
+
+== Gameplay ==
+Players control Merton, a maintenance man who works at a toy factory, represented by a series of platforms and valves.  During one of his shifts, the toys come to life and rebel.  Merton has to capture all the toys while avoiding a life-sized doll named Hefty Hilda.  Hilda and Merton can freely travel through the factory, jumping on to the various platforms and toggling the valves on or off.  While turned on, the valves create balloons.  If Merton does not pop the balloon in time, it hatches a toy.  Merton can not ordinarily touch the toys or Hilda; doing so causes him to lose one of his five lives.<ref name=pcn/>
+
+Certain special platforms are linked to each other.  If Merton jumps on one of these platforms, any toys on the linked platform are stunned, and he can capture them.  Both Hilda and Merton can be killed through this same process if another character activates a linked platform, though Hilda eventually returns.  The toys can also be stunned and thereafter captured by jumping over them.<ref>{{cite web |url=https://www.lemon64.com/review/toy-bizarre/739 |title= "C64 Review: Toy Bizarre — Hilda Noooooo!"|last=Raad |first=Rik |date=November 4, 2007 |website=Lemon 64 |publisher= |access-date= |quote="Jumping over Clockwork toys stuns them so you can then walk into them."}}</ref>  Once all the toys are captured, a new level is loaded.  Higher levels feature more toys and valves.  Bonus levels, called intermissions, allow the player to collect extra lives.<ref name=pcn/>
+
+== Release ==
+''Toy Bizarre'' was announced alongside ''[[Zenji (video game)|Zenji]]'' and several ports of [[Activision]]'s earlier [[Atari 2600]] games to the Commodore 64.<ref>{{cite magazine|title=Data Statements|magazine=[[Your Commodore]]|volume=1|issue=1|date=October 1984|page=74}}</ref> The ZX Spectrum version was released in May 1985, adapted from the C64 original by James Software Ltd.<ref>{{cite magazine|title=The YS Guide to Everything|magazine=[[Your Sinclair]]|issue=93|date=September 1993|page=46}}</ref>
+
+== Reception ==
+{{Video game reviews
+| rev1 = ''[[Personal Computer News]]''
+| rev1Score = 7/10
+| rev2 = ''[[Your Commodore]]''
+| rev2Score = 5/5
+| rev3 = ''[[Popular Computing Weekly]]''
+| rev3Score = 2/5
+| rev4 = ''[[Your Computer (British magazine)|Your Computer]]''
+| rev4Score = 3/5
+}}
+Reviewing the Commodore 64 version, Peter Worlock of ''[[Personal Computer News]]'' wrote that it "looks like standard platform game" but adds many complications.  Worlock praised the animation and soundtrack, calling it "enjoyable for all the family".<ref name=pcn>{{cite magazine|title=Software Pre-View: Gameplay|last=Worlock|first=Peter|magazine=[[Personal Computer News]]|issue=87|page=49}}</ref>  ''[[Your Commodore]]''{{'}}s reviewer called it an addictive game with good graphics and sound, recommending it to players who enjoy difficult games.<ref>{{cite magazine|title=Software Spotlight|magazine=[[Your Commodore]]|issue=5|date=February 1985|page=62}}</ref>
+
+Reviewing the Spectrum version, John Minson of ''[[Popular Computing Weekly]]'' called it "enjoyable for a while" but criticized the graphics and gameplay, which he said "lacks finesse".<ref>{{cite magazine|title=Reviews: Deadly Toys|last=Minson|first=John|magazine=[[Popular Computing Weekly]]|volume=4|issue=8|page=12}}</ref>  ''[[Your Computer (British magazine)|Your Computer]]'' also criticized the Spectrum version's gameplay, calling it repetitive and unoriginal.<ref>{{cite magazine|title=Star*chart|magazine=[[Your Computer (British magazine)|Your Computer]]|volume=5|issue=4|date=April 1985|page=49}}</ref>  ''[[Your Sinclair]]'' had three authors review the game; one mentioned the platform game format was becoming played out by that point but said ''Toy Bizarre'' had "reasonable entertainment value"; the other two criticized it for having poor controls and being boring.<ref>{{cite magazine|title=Joystick Jury|magazine=[[Your Sinclair]]|issue=14|date=May 1985|page=46}}</ref>  ''[[Sinclair Programs]]'' called it "fun, but not very professionally presented".<ref>{{cite magazine|title=Soft focus|magazine=[[Sinclair Programs]]|date=April 1985|page=16}}</ref>
+
+In a retrospective on 1980s Activision games, ''[[Retro Gamer]]'' said that the game "manages to out-Mario ''[[Mario Bros.]]''"<ref name=retro/>
+
+== References ==
+{{reflist}}
+
+[[Category:1984 video games]]
+[[Category:Commodore 64 games]]
+[[Category:ZX Spectrum games]]
+[[Category:Activision games]]
+[[Category:Platformers]]
+[[Category:Sentient toys in fiction]]
+[[Category:Video games about toys]]

@@ -1,0 +1,53 @@
+Repton (1983 video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Repton_%281983_video_game%29&oldid=1224494518
+Accessed on: 2024-06-26T16:55:45.166161
+
+
+
+------
+Repton (1983 video game)
+{{about|the 1983 Defender-inspired game|the 1985 Superior Software game|Repton (video game)}}
+{{Infobox video game
+| title          = Repton
+| image          = Repton coverart.png
+| caption        = 
+| developer      = [[Sirius Software]]
+| publisher      = Sirius Software
+| programmer     = Dan Thompson<br>Andy Kaluzniacki<ref name=giantlist/>
+| released       = {{Video game release|NA|1983}}
+| genre          = [[Scrolling shooter]]
+| modes          = [[Single-player]]
+| platforms      = {{cslist|[[Apple II]] | [[Atari 8-bit]] | [[Commodore 64]]}}
+}}
+
+'''''Repton''''' is a ''[[Defender (1981 video game)|Defender]]''-inspired [[scrolling shooter]] written by Dan Thompson and Andy Kaluzniacki for the [[Apple II]] and published by [[Sirius Software]] in 1983.<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/ |last1=Hague |first1=James}}</ref> It was ported to the [[Atari 8-bit computers]], and [[Commodore 64]].
+
+==Gameplay==
+The player controls a fighter ship sent to stop a fleet of invading aliens from building an attack base on the planet Repton. The ship is equipped with lasers and a limited number of [[atomic weapon|nukes]] that can destroy all enemies on the screen. The player can use an invulnerable shield for defense, but cannot steer or fire while it is up. If the player puts the shield up while moving, the ship will coast to a stop. In addition, a radar screen indicates the location of enemies on the planet surface.
+
+Each level of the game is played in two parts. During the surface attack, the player fights enemies in order to delay the construction of the base. "Warning" messages indicate that a fresh wave of enemies is arriving, while an "Alert" tells of an attempt to siphon energy from the planet. If the player can fly through the enemy's energy beam in time, then pass through a charging station, the energy will be returned to the planet; otherwise, it will go into building the base.
+
+Once the base is completed, the planet's defenses trigger a bomb that destroys the entire surface and the action shifts to the caverns, where the radar does not function. Here, the player must dodge enemy attacks and eventually destroy the base's power core, after which the next level begins with increased difficulty.
+
+==Reception==
+''[[Softline (magazine)|Softline]]'' in 1983 called ''Repton'' "the latest in ultra-fast action arcade games", praising its "faultless animation".<ref name="shore198301">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=9 | title=Repton | work=Softline | date=January 1983 | accessdate=27 July 2014 | author=Shore, Howard A. | pages=42}}</ref> ''Video'' reviewed the Apple II version of the game in its "Arcade Alley" column where it was described as "pure excitement from start to finish", noting that extra features enhance gaming experience. Reviewers praised the game's "finely detailed graphics" and noted that "action is [its] hallmark".<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= April 1983 |title= Arcade Alley: Zaxxon, Turbo, and Two for Apple II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 1|pages= 26, 28–29|issn= 0147-8907}}</ref>{{rp|29}} ''[[Ahoy!]]'' in 1984 gave ''Repton'' grades of B for graphics and C+ for gameplay. The magazine stated that the game "offered nothing new", and to only buy it if looking for "a definitive ''Defender''-like shoot-em-up".<ref name="meade198401">{{cite news | url=https://archive.org/stream/Ahoy_Issue_01_1984-01_Ion_International_US#page/n57/mode/2up | title=Repton | work=Ahoy! | date=January 1984 | accessdate=27 June 2014 | author=Meade, E. C. | pages=58}}</ref> [[Jerry Pournelle]] wrote in ''[[Byte (magazine)|BYTE]]'' that despite disliking the Apple version of ''Repton'', "I find myself wasting more time than I should on the Atari version".<ref name="pournelle198401">{{cite news | url=https://archive.org/stream/byte-magazine-1984-01/BYTE-1984-01#page/n61/mode/2up | title=Too Many Leads, or What in *;?!#"*? Goes First? | work=BYTE | date=January 1984 | accessdate=20 January 2015 | author=Pournelle, Jerry | pages=61}}</ref> ''The Commodore 64 Home Companion'' stated that the game had "excellent visuals".<ref name=C64HC>{{cite web |url=https://archive.org/stream/The_Commodore_64_Home_Companion#page/n175/mode/2up | first=George | last = Beekman | title=Sirius Software | work=The Commodore 64 Home Companion | year=1984 | access-date=August 19, 2016 | pages=175–176}}</ref> ''Repton'' received a Certificate of Merit in the "1984 Computer [[List of Game of the Year awards|Game of the Year]]" category at the 5th annual [[Arkie Awards]].<ref>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|28}}
+
+==Legacy==
+In 2011, Kaluzniacki released a version of ''Repton'' for the [[iPhone]]. It uses high-resolution visuals instead of [[pixel art]], which [[Jeff Minter]] criticized for losing the flavor of the original.<ref>{{cite web|last1=Minter|first1=Jeff|title=Is higher rez always better?|url=http://minotaurproject.co.uk/blog/?p=165|website=Llamasoft}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{atarimania|id=4343}}
+* {{lemon64 game|id=2121|name=Repton}}
+
+[[Category:1983 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:Sirius Software games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set on fictional planets]]
+[[Category:Single-player video games]]

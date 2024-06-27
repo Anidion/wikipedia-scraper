@@ -1,0 +1,61 @@
+Quest of the Space Beagle
+Permalink: //en.wikipedia.org/w/index.php?title=Quest_of_the_Space_Beagle&oldid=1229828405
+Accessed on: 2024-06-26T16:57:24.107651
+
+
+
+------
+Quest of the Space Beagle
+{{Short description|1984 video game}}
+{{Infobox video game
+|title = Quest of the Space Beagle
+|image = Quest of the Space Beagle.jpg
+|caption =
+|developer =
+|designer = Scott Lamb<ref name=giantlist/>
+|programmer =
+|publisher = [[Avalon Hill|Avalon Hill Microcomputer Games]]
+|released = '''1984:''' Atari<br>'''1985:''' C64
+|genre = [[Action-adventure game|Action-adventure]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Atari 8-bit]], [[Commodore 64]]
+|alt = 
+}}
+
+'''''Quest of the Space Beagle''''' is an [[action-adventure game]] written by Scott Lamb for [[Atari 8-bit computers]] and published by [[Avalon Hill|Avalon Hill Microcomputer Games]] in 1984.<ref name=giantlist/> It is the sequel to ''[[Jupiter Mission 1999]]''.<ref name=mania/> A [[Commodore 64]] port followed in 1985.<ref name=gb64/>
+
+==Gameplay==
+''Quest of the Space Beagle'' is a collection of [[minigame]]s about the player finding and returning to Earth after a failed trip to [[Jupiter]] in the previous game.<ref name=ciraolo/>
+
+==Development==
+Scott Lamb wrote the game in [[Atari BASIC]].<ref name=mania/>
+
+The manual contains a note about a programming technique used to create the visuals: "One effect employs alternating graphics screens every 60th second, which considerably extends the graphics capabilities of the Atari computer. A side effect of this technique is flicker."<ref name=man3/>
+
+==Reception==
+In an ''[[Antic (magazine)|Antic]]'' review, Michael Ciraolo wrote, "there is little incentive to get to the next level so the game gets boring quickly. You do the same thing again and again."<ref name=ciraolo/> He also disliked the flickering effect of the graphics. Steve Hudson wrote in ''[[Compute!]]'': "The game's programmers have used some pretty fancy techniques to jazz up an already exciting game," and called one screen "an incredibly realistic display".<ref name=hudson/>
+
+==References==
+{{reflist|refs= 
+<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+<ref name="ciraolo">{{cite journal |last1=Ciraolo |first1=Michael |title=Product Reviews: Quest of the Space Beagle |journal=Antic |date=January 1985 |volume=3 |issue=9 |pages=80-81 |url=https://archive.org/details/1985-01-anticmagazine/page/n77}}</ref>
+<ref name="mania">{{cite web |title=Quest of the Space Beagle |url=http://www.atarimania.com/game-atari-400-800-xl-xe-quest-of-the-space-beagle-_4232.html |website=Atari Mania}}</ref>
+<ref name="hudson">{{cite journal |last1=Hudson |first1=Steve |journal=Compute! |date=February 1986 |issue=69 |pages=46-47 |url=https://archive.org/details/1986-02-compute-magazine/page/n47 |title=Quest of the Space Beagle}}</ref>
+<ref name="man3">{{cite web |title=Quest of the Space Beagle manual |url=http://www.atarimania.com/8bit/boxes/hi_res/quest_of_the_space_beagle_i_3.jpg |website=Atari Mania |publisher=Avalon Hill |page=3 |date=1984}}</ref>
+<ref name="gb64">{{cite web |title=Quest of the Space Beagle |url=http://www.gamebase64.com/game.php?id=6113&d=36 |website=Gamebase 64}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=4232}}
+
+{{Avalon Hill}}
+
+[[Category:1984 video games]]
+[[Category:Action-adventure games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Avalon Hill video games]]
+[[Category:Commodore 64 games]]
+[[Category:Microcomputer Games games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in outer space]]

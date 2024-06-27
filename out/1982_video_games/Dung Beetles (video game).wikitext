@@ -1,0 +1,53 @@
+Dung Beetles (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Dung_Beetles_%28video_game%29&oldid=1224117071
+Accessed on: 2024-06-26T16:53:18.814507
+
+
+
+------
+Dung Beetles (video game)
+{{Infobox video game
+|title = Dung Beetles
+|image = Dung Beetles cover.jpg
+|caption = 
+|developer = [[Datasoft]]
+|publisher = [[Datasoft]]<br>[[Tandy Corporation|Tandy]]<br>Gentry Software
+|designer = Bob Bishop
+|programmer = '''Apple II'''<br>Bob Bishop<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref><br>'''Atari 8-bit'''<br>Mark Riley<ref name=amanual/><br>'''Color Computer'''<br>Steve Bjork<ref name=boyle/>
+|released = 1982
+|genre = [[Maze game|Maze]]
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]], [[Atari 8-bit computers|Atari 8-bit]], [[PC-6000 series|PC-6001]], [[TRS-80 Color Computer]]
+|alt = 
+}}
+
+'''''Dung Beetles''''' is an [[Apple II]] [[maze game]] written by Bob Bishop published in 1982 by [[Datasoft]].<ref name="giantlist"/> The gameplay is similar to ''[[Pac-Man]]'', but a portion of the maze around the player-controlled character is enlarged as if being viewed through a square [[magnifying glass]].
+
+''Dung Beetles'' was ported to [[Atari 8-bit computers]] and the [[TRS-80 Color Computer]]. The Color Computer version, programmed by Steve Bjork, was sold by [[Tandy Corporation|Tandy]] as '''''Mega-Bug'''''.<ref name=boyle>{{cite web|last1=Boyle|first1=L. Curtis|title=Mega-Bug|url=http://www.lcurtisboyle.com/nitros9/megabug.html|website=Tandy Color Computer Games}}</ref> Later Apple II and Atari versions were renamed to '''''Tumble Bugs'''''.<ref>{{cite web|title=Tumble Bugs|url=http://www.atarimania.com/game-atari-400-800-xl-xe-tumble-bugs_5548.html|website=Atari Mania}}</ref> In 1983, Datasoft moved the game to its Gentry Software label with another name change: '''''Magneto Bugs'''''.<ref>{{cite journal |title=New Products |journal=ANALOG Computing |date=September 1983 |issue=13 |page=17 |url=https://archive.org/details/analog-computing-magazine-13/page/n17/mode/2up}}</ref> In [[Australia]], the game was sold as '''''Bug Attack'''''.{{cn|date=March 2018}} It was also released for the [[PC-6000 series]].
+
+==Gameplay==
+[[Image:Dung_Beetles_Atari_8-bit_screenshot.png|thumb|left|Here the magnified part of the maze overlaps the score (Atari 8-bit).]]
+
+The game concept and gameplay are based on ''[[Pac-Man]]'', but features a much larger, randomly-generated maze and a moving "magnifying rectangle" that shows the player's character, maze details, and nearby enemies close-up. The objective of the game is to score points by eating all of the dots in the maze. As the player character moves through the maze, it leaves a trail of [[manure|dung]] behind. [[Dung beetle]]s navigate the maze searching for the player. When a beetle finds a trail of dung, it will start following that trail, consuming it as it goes. It picks a direction at random when the trail splits, and goes back to searching if the trail ends.
+
+The game ends when the player's character is caught by a dung beetle, at which point the game plays a [[speech synthesis|digitized voice]] that says "We gotcha!" and gives a brief animation.
+
+==Reception==
+''[[Softline (magazine)|Softline]]'' found the magnifying glass "an impressive programming feat," and concluded that it was "a solid game ... It could stand some more variety, but it certainly does not lack challenge".<ref name="durkee198205">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=6&id=5 | title=Tumblebugs | work=Softline | date=May 1982 | accessdate=15 July 2014 | author=Durkee, David | pages=16–17}}</ref> Writing for ''[[ANALOG Computing]]'', Marc Benioff called ''Tumble Bugs'', "an outstanding variation on ''Pac-Man''".<ref>{{cite journal |last1=Benioff |first1=Marc |title=Benioff At Large |journal=ANALOG Computing |date=May 1982 |issue=6 |page=7 |url=https://archive.org/details/analog-computing-magazine-06/page/n9/mode/2up}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name="amanual">{{cite web |title=Tumble Bugs Atari manual |url=https://archive.org/details/TumbleBugs_201509/page/n1 |website=archive.org |publisher=Datasoft |date=1982}}</ref>
+}}
+
+[[Category:1982 video games]]
+[[Category:Apple II games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Datasoft games]]
+[[Category:Maze games]]
+[[Category:NEC PC-6001 games]]
+[[Category:Pac-Man clones]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games about insects]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

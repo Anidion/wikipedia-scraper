@@ -1,0 +1,62 @@
+Auto Racing (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Auto_Racing_%28video_game%29&oldid=1218569255
+Accessed on: 2024-06-26T16:51:31.252553
+
+
+
+------
+Auto Racing (video game)
+{{short description|1980 racing video game}}
+{{distinguish|Mattel Auto Race}}
+{{More citations needed|date=May 2015}}
+{{Infobox video game
+| title = Auto Racing 
+| image = AutoRacingNABoxArtIntellivision.jpg
+| caption = 
+| developer = [[APh Technological Consulting]]
+| publisher = [[Mattel|Mattel Electronics]]<br>[[Sears]]
+| designer = Larry Zwick<ref name="giantlist">{{cite web |last1=Hague |first1=James |title=The Giant List of Classic Game Programmers |url=https://dadgum.com/giantlist/}}</ref>
+| released = {{vgrelease|NA|October 3, 1980<ref>{{Cite web|url=https://history.blueskyrangers.com/mattelelectronics/games/autoracing.html|title = Auto Racing}}</ref>}}
+| genre = [[Racing game|Racing]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| platforms = [[Intellivision]]
+}}
+
+'''''Auto Racing''''' is a [[racing video game]] written by Larry Zwick and released by [[Mattel]] for its [[Intellivision]] [[video game console]] in 1980.<ref>{{cite web|url=http://intellivisionlives.com/credits.php|title=Official Intellivision Classic Videogame Website|website=intellivisionlives.com|access-date=2016-11-04|archive-url=https://web.archive.org/web/20160830093459/http://www.intellivisionlives.com/credits.php|archive-date=2016-08-30|url-status=dead}}</ref> ''Auto Racing'' pits two players against each other (or a single player against the clock) using a [[top-down perspective]] on one of five different race courses. ''Auto Racing'' was released under the same name by [[Sears]] for its private-label version of the Intellivision console, the Super Video Arcade.
+
+==Gameplay==
+In ''Auto Racing'', players begin by selecting one of the five numbered courses, with the higher numbers representing increased difficulty. Players can also allow the computer to randomly choose from the first four courses. Next, players select from one of five [[Formula One]] racing vehicles, each with a different set of capabilities. Players cannot select the same cars, however two of the cars are identical in specifications, allowing for two-player matches for drivers of equal skills. The cars will accelerate to their top speeds automatically, with the player in control of steering and braking.
+
+The courses are shown from a top-down perspective, and there are no computer-controlled cars on the track. Each course has a number of invisible checkpoints. During the race, if a player crashes into an obstacle along the course, or if one player's lead over their opponent pushes the opponent off the screen, the cars will be reset at the last checkpoint passed. In a single-player game, the player must complete five laps of the course as quickly as possible. In a two-player game, players score two points whenever their opponent crashes, or one point when they take a significant lead over their opponent; the game ends when one player scores 50 points.
+
+==Development==
+In its initial release, ''Auto Racing'' used a directional steering mechanic, where players pressed the disc to steer the car towards a screen direction.<ref>{{cite web|url=http://www.intvfunhouse.com/games/auto.php|title=INTV Funhouse - Auto Racing|first=Steven A.|last=Orth|website=www.intvfunhouse.com}}</ref> For example, to steer the car south on the playfield, the bottom of the disc is pressed. The amount of steering depends on where the 16 position disc is pressed. After receiving a number of complaints, Mattel revised the game with a realistic steering mechanic, where to make left turns the left side of the disc is pressed, and for right turns the right side of the disc is pressed. The point on the disc for hard turns stays consistent regardless of the car's orientation. No reference was made on the game's packaging to indicate which steering mechanic that particular cartridge used, with the instructions inside the package indicating the version to be used. The programmer included the preferred realistic steering in the original release as a hidden option.<ref>{{Cite web |url=https://beta.groups.yahoo.com/neo/groups/intvprog/conversations/messages/215 |title=Yahoo! Groups |access-date=2016-11-04 |archive-url=https://web.archive.org/web/20161104142129/https://beta.groups.yahoo.com/neo/groups/intvprog/conversations/messages/215 |archive-date=2016-11-04 |url-status=dead}}</ref> The hidden feature is enabled by holding 1+6+9 on the controller keypad during system start/reset. The option is per controller. The revised cartridge does not have any hidden option.
+
+==Reception==
+In ''[[Video (magazine)|Video]]'' magazine's "Arcade Alley" column, ''Auto Race'' was described as employing a "boldly innovative approach" and as "undeniably the best video game any manufacturer has produced about this subject so far". Reviewers emphasized the game's graphics which were compared favorably to those of ''[[Armor Battle]]'', and praise was given to the realistic gameplay feel afforded by the game's use of a zoomed-in [[Scrolling#Video games|scrolling]] section of racetrack rather than a birds-eye view of the entire track. While describing this "unusual presentation of the playfield" as one of the game's best features, reviewers also noted that an unfortunate side effect is that if two players in a player-versus-player game become too distantly separated the game must compensate by cutting the race short and awarding a victory to the leading car.<ref name=kunkel81>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Laney, Jr. |first2= Frank |author-link2= Arnie Katz|date= November 1981 |title= Arcade Alley: A Sports Trio from Mattel |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 5|issue= 8|pages= 28 and 86|issn= 0147-8907}}</ref>{{rp|28}}
+
+''Auto Race'' was awarded "Best Sports Game" at the third annual [[Arkie Awards]] where it was described as an example of "true blood-and-thunder racing", and as "the racing game even those who hate motor sports ought to love".<ref name=kunkel82>{{cite journal |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (gaming)|last2= Laney, Jr. |first2= Frank |author-link2= Arnie Katz|date= January 1982 |title= Arcade Alley: The Third Annual Arcade Awards |journal= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 5|issue= 10|pages= 28, 76–77|issn= 0147-8907}}</ref>{{rp|76}}
+
+==Legacy==
+''Auto Racing'' is included in the ''[[Intellivision Lives!]]'' compilation.
+
+==See also==
+* ''[[Super Bug (video game)|Super Bug]]'', 1977 arcade game that uses a similar overhead perspective
+* ''[[Rally Speedway]]'', 1983 game of the same style as ''Auto Racing''
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.gamefaqs.com/intellivision/576722-auto-racing ''Auto Racing''] at GameFAQs
+* [http://www.intellivisionrevolution.com/entries/intellivision-gameplay-videos/the-exploring-auto-racing-project The exploring auto racing project] at Intellivision Revolution
+
+[[Category:1980 video games]]
+[[Category:Intellivision games]]
+[[Category:Intellivision-only games]]
+[[Category:Mattel video games]]
+[[Category:North America-exclusive video games]]
+[[Category:Top-down racing video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Sears video games]]

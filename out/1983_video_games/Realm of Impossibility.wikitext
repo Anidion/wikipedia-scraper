@@ -1,0 +1,76 @@
+Realm of Impossibility
+Permalink: //en.wikipedia.org/w/index.php?title=Realm_of_Impossibility&oldid=1224491509
+Accessed on: 2024-06-26T16:55:43.912107
+
+
+
+------
+Realm of Impossibility
+{{Short description|1983 video game}}
+{{Infobox video game 
+|title= Realm of Impossibility
+|image= Realm of Impossibility cover.jpg
+|developer= BRAM
+|publisher= BRAM (''Zombies''){{vgrelease|NA|[[Electronic Arts]]|EU|[[Ariolasoft]]}}
+|designer= Mike Edwards<ref name="giantlist">{{cite web|last1=Hague|first1=James|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/}}</ref>
+|released= '''1983:''' Atari (BRAM)<br>'''1984:''' Atari (EA), Apple, C64<br>'''1985:''' Spectrum
+|genre= [[Action game|Action]]
+|modes= [[Single-player]], [[two-player]]
+|platforms= [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[ZX Spectrum]]
+}}
+
+'''''Realm of Impossibility''''' is an [[action game]] created by Mike Edwards for [[Atari 8-bit computers]] and published by [[Electronic Arts]] in 1984. It was originally released in 1983 as '''''Zombies''''' by BRAM, a company formed by Edwards and a friend. BRAM previously developed and published ''[[Attack at EP-CYG-4]]''.
+
+Electronic Arts ported ''Realm of Impossibility'' to the [[Apple II]] and [[Commodore 64]]. A [[ZX Spectrum]] version was published in 1985 by [[Ariolasoft]].
+
+==Plot==
+The player must traverse 13 dungeons to gather seven crowns to defeat the evil cleric Wistrik.
+
+==Gameplay==
+Each dungeon comprises up to a dozen separate rooms, with the game moving from one to another when the player moves reaches the edge of the screen. The player navigates through the rooms to find the treasure: either a crown or a key that provides access to a locked dungeon.
+
+The rooms contain zombies, snakes, spiders and other creatures which cannot be killed. The joystick button drops crosses which block the creatures. A dozen crosses can be present at once, and they disappear slowly over time.
+
+Scrolls can be collected allowing spells to be cast by pressing the first letter of its name on the keyboard:
+#''Freeze:'' holds a monster in place for a short duration
+#''Protect:'' makes the player immune to damage for a time
+#''Confuse:'' makes the monster wander in a daze for a while
+
+Two players can play cooperatively on the same screen. This doubles the number of crosses visible at once. Both players need to reach the edge of the screen to cause it to move to the next screen.
+
+==Development==
+Edwards worked at [[Boeing]]. When his job changed and he was no longer programming at work, he became interested in the home computer market as a way to continue programming. Checking over various models at a local computer store, he purchased an Atari after seeing ''[[Star Raiders]]''. After having the machine for a while he began programming on it and, at the suggestion of a long-time friend, wrote a simple program in [[Atari BASIC]] to sell locally as a [[tax dodge]].<ref name=interview>{{cite journal |url=http://www.atarimagazines.com/rom/issue4/interview.php |title=Interview: Mike Edwards |journal=ROM Magazine |date=February–March 1984 |page=12 |first=Peter |last=Ellison}}</ref>
+
+He then began programming his first game, ''Attack at EP-CYG-4'', a [[shoot 'em up]] which allowed two players at once. This was licensed to another company for sale on [[game cartridge]], with Edwards helping with the port. He then began work on a maze game, which became ''Zombies'' after adding in 3D effects at the prompting of his partner.<ref name=interview/> The game contained several levels of increasing complexity. The last level, "The Realm of Impossibility", contained a number of optical illusions similar to those popularized by artist [[M. C. Escher]].<ref name=raving>{{cite journal |url=http://www.atarimagazines.com/rom/issue4/raving_reviewer.php |first=Tim |last=Reekie |title=The Raving Reviewer |journal=ROM Magazine |date=February–March 1984 |pages=16}}</ref> Surfaces that appear vertical turn out to be horizontal, and other illusions can confuse the player.
+
+The success of the original release prompted [[Don Daglow]] to acquire the rights for EA. Minor changes were made to the game, new levels were added, and a new soundtrack was added, written by Dave Warhol who had worked with Daglow on the [[Intellivision]] game design team. Officially renamed ''Mike Edwards' Realm of Impossibility'', it was released not long after the original BRAM release, with the box cover touting "Deluxe Edition of The Classic Game Zombies."<ref name="atarimania">{{cite web|title=Realm of Impossibility|url=http://www.atarimania.com/game-atari-400-800-xl-xe-realm-of-impossibility_4312.html|website=Atari Mania}}</ref> The game was part of the "third wave" of titles introduced by Electronic Arts after its founding in 1982.{{citation needed|date=February 2018}}
+
+==Reception==
+''ROM''{{'}}s review began "Zombies is different!" Praising the game's unusual lack of weapons and use of 3D graphics, it concluded that "you've got to see it to believe it".<ref name=raving/> ''[[Antic (magazine)|Antic's]]'' review of the original stated that "Computer enthusiasts who enjoy quick-paced, challenging action games will like ''Zombies''".<ref>{{cite journal |first= Roy |last=Wolford |title=Zombies |journal=Antic |date=March 1984 |url=http://www.atarimagazines.com/v2n12/productreviews.html}}</ref>
+
+''[[Computer Gaming World]]'' said of the revised version, "I do not feel that the changes [from ''Zombies''] are numerous-enough or significant enough to justify buying the both games. However, if you have neither, then ROI is a good addition to your arcade-action game inventory".{{r|stone198501}} Steve Panak of ''[[ANALOG Computing]]'' wrote, "Your problem is that you must be perfectly immobile to cast your spell, and in this game you can't afford to stand still too often, or for very long". He disliked the defensive nature of the game, wanting a way to destroy his pursuers. He concluded, "while the ''Realm of Impossibility'' fails on many levels, it is still not bad enough to make me lose faith in Electronic Arts".<ref name="panak">{{cite journal |last1=Panak |first1=Steve |title=Panak Strikes! |journal=ANALOG Computing |url=http://analog.katorlegaz.com/analog_1985-05_120dpi_jpeg_cropped/analog_1985-05_069.html |date=May 1985 |pages=69–70 |access-date=2018-10-06 |archive-date=2018-10-07 |archive-url=https://web.archive.org/web/20181007040223/http://analog.katorlegaz.com/analog_1985-05_120dpi_jpeg_cropped/analog_1985-05_069.html |url-status=dead }}</ref> ''[[Compute!|COMPUTE!]]'' called it "a classic, run-as-fast-as-you-can, three- dimensional arcade game with a goal", noting that "What distinguishes Realm of Impossibility from the run-of-the-mill chase game is not the three dimensions, but one element: cooperation". The magazine praised the Apple II version's graphics and two-player mode.<ref name="williams198707">{{cite news | url=https://archive.org/stream/1987-07-compute-magazine/Compute_Issue_086_1987_Jul#page/n35/mode/2up | title=Realm of Impossibility | work=Compute! | date=July 1987 | accessdate=10 November 2013 | author=Williams, Michael B. | pages=35}}</ref> 
+
+Ariolasoft's conversion of the game to the ZX Spectrum garnered negative reviews. ''[[Your Sinclair]]'' critic gave it a three out of ten, describing it as an "object lesson in flickery sprites, bad control and the odd bug or three".<ref>Hughes, Gwyn (April 1986). [http://www.zxspectrumreviews.co.uk/Review.aspx?rid=10923&gid=4571 "Realm of Impossibility"] {{Webarchive|url=https://web.archive.org/web/20160304100448/http://www.zxspectrumreviews.co.uk/Review.aspx?rid=10923&gid=4571 |date=2016-03-04 }}. ''[[Your Sinclair]]''. Issue 4, p.21. Retrieved 15 September 2015.</ref> ''[[Crash (magazine)|Crash]]'' scored it a 10%, calling it "one of the worst Spectrum games I've seen in a long while"; it "could have been a passable game a couple of years ago. A joke today".<ref>April 1986. [http://www.zxspectrumreviews.co.uk/review.aspx?gid=4571&rid=5989 "Realm of Impossibility"] {{Webarchive|url=https://web.archive.org/web/20160405085131/http://zxspectrumreviews.co.uk/Review.aspx?rid=5989&gid=4571 |date=2016-04-05 }}. ''[[Crash (magazine)|Crash]]''. Issue 27, p. 31. Retrieved 15 September 2015.</ref> The game took third place for the magazine's 1986 readers' award for "Least Pleasing Game", garnering 4.5% of all votes.<ref>[http://www.crashonline.org.uk/38/awards.htm "The 1986 Crash Readers' Awards"]. ''Crash''. Retrieved 15 September 2015.</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="stone198501">{{cite magazine | title=Spelunker and Realm of Impossibility | magazine=Computer Gaming World | date=February 1985 | author=Stone, David | pages=33}}</ref>
+}}
+
+==External links==
+*{{atarimania|id=4312}}
+*{{WoS game|id=0004051}}
+*[http://gb64.com/game.php?id=6249&d=18&h=0 ''Realm of Impossibility''] at Gamebase 64
+
+[[Category:1983 video games]]
+[[Category:Action games]]
+[[Category:Apple II games]]
+[[Category:Ariolasoft games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Electronic Arts games]]
+[[Category:Video games inspired by M. C. Escher]]
+[[Category:Video games with oblique graphics]]
+[[Category:Video games about zombies]]
+[[Category:ZX Spectrum games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,84 @@
+The Fourth Protocol (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=The_Fourth_Protocol_%28video_game%29&oldid=1230715786
+Accessed on: 2024-06-26T16:58:29.461257
+
+
+
+------
+The Fourth Protocol (video game)
+{{Short description|1985 video game}}
+{{about|the computer game|the novel|The Fourth Protocol|the 1987 film based on the novel|The Fourth Protocol (film)}}
+{{More citations needed|date=October 2020}}
+{{Infobox video game
+|title = The Fourth Protocol
+|image = The Fourth Protocol cover.jpg
+|caption = European cover art
+|developer = Electronic Pencil Company
+|publisher = {{vgrelease|EU|Hutchinson Computer Publishing|EU|[[Ariolasoft]]|NA|Bantam Software}}
+|designer = John Lambshead<br>Gordon Paterson
+|composer = David Dunn
+|engine =
+|released = 1985
+|genre =
+|modes = [[Single-player]]
+|platforms = [[ZX Spectrum]], [[Commodore 64]], [[Amstrad CPC]], [[IBM PC]]
+}}
+'''''The Fourth Protocol''''' is an [[interactive fiction]] [[video game]] based on [[Frederick Forsyth]]'s 1984 spy novel ''[[The Fourth Protocol]]''.  The game was released in 1985 by Hutchinson Computer Publishing, a [[subsidiary]] of the publishing house [[Hutchinson (publisher)|Hutchinson]]. It was designed by John Lambshead and Gordon Paterson, and programmed by Ben Notarianni, Rupert Bowater and Paul Norris of the Electronic Pencil Company.<ref>{{Cite web|url=http://www.crashonline.org.uk/20/zoids.htm|title = CRASH 20 - Electronic Pencil Co}}</ref> The game was released for the [[ZX Spectrum]] in July 1985, with the [[Commodore 64]] release following one month later, and the [[Amstrad CPC]] conversion in [[1986 in video gaming|1986]].
+
+The game is split into three parts, and large sections of the programming were [[outsource]]d to others: [[Andrew Glaister]] (program conversion Spectrum, parts one and two), Dave Jones (programming Spectrum, part three), Ray Owen (graphics Spectrum, part three) and John Gibbons (programming C64, part three). The IBM PC version was developed for the Electronic Pencil company, by a developer named Brian Mallett. The PC version was written in 8086 assembler and used CGA graphics in 4 colour mode. The PC version was ported from the Z80 and 6502 versions. The PC version did not use DOS but booted up from its own floppy disk.
+
+The game was published in the US by Bantam Software. 
+
+==Gameplay==
+The game comprises three sections: "The NATO Documents", "The Bomb" and "The SAS Assault". In order to progress to the last two sections, the player must solve riddles based on the current and any previous sections. [[Macintosh]]-like [[icons]] are used to assign watchers and navigate until text-based interaction becomes available in the third section.
+
+===The NATO documents===
+[[Image:The Fourth Protocol-The NATO Documents.png|left|thumb|The first part of The Fourth Protocol computer game: "The NATO Documents"]]
+
+The scene is Preston's office. The player takes the role of John Preston, the new head of Section C1(A). Somewhere in England, a burglar steals the famous Glen Diamonds, but he also finds some secret [[NATO]] documents. He alerts the [[Ministry of Defence (United Kingdom)|MoD]] by sending them the documents anonymously. The Paragon Committee decides that John Preston's most important task is to find out who is leaking secrets, to whom they are being leaked and why. Other events occur along the way which also demand his attention.
+
+The Cencom icon offers access to Preston's personal files where the player can store information throughout the first part of the game. The Assessment icon gives the player an idea of their progress, telling the player how much of the first stage they have solved and their current rating at [[MI5]]. Using surveillance the player can assign 'watchers' to targets; these are informants who provide valuable information, in addition to memos and reports, which will be brought to the player's attention via the sitreps icon. The calendar icon lets the player know how much time has passed. The telephone icon allows the player to accept calls or call out. It is also possible to save and restore the game at any point.
+{{-}}
+
+===The bomb===
+[[Image:The Fourth Protocol-The Bomb.png|left|thumb|The second part of The Fourth Protocol computer game: "The Bomb"]]
+From the clues in the first section, the player should have an idea about the plot and who could be responsible. This section is similar in gameplay to the first section, but the player is now in the field, on the trail of the [[nuclear device]] which has been smuggled into the country.
+
+This section adds additional icons to control movement, along with a manipulate icon to take, drop and use objects. The player is able to look around and examine objects. The communicate icon allows the player to talk to others, via the phone if needed.
+{{-}}
+===SAS assault===
+[[Image:The Fourth Protocol-The SAS Assault.png|left|thumb|The final part of the game: "The SAS Assault"]]
+In this section, the player has discovered the location of the bomb. Using the information the player has gathered in the previous two parts, they must work out how to defuse the device. This part of the [[trilogy]] requires text input and plays differently depending on the version of the game.
+{{-}}
+==Reviews==
+{{Video game reviews
+| award1Pub = ''Crash''
+| award1 = Crash Smash
+| award2Pub = ''Sinclair User''
+| award2 = SU Classic
+}}
+*''[[Games (magazine)|Games]]'' #70<ref>{{cite web | url=https://archive.org/details/games701985december/page/n51/mode/2up | title=GAMES Magazine #70 | date=December 1985 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{WoS game|id=0006327|name=The Fourth Protocol}}
+*[http://www.gamebase64.com/game.php?id=2891 ''The Fourth Protocol''] at Gamebase 64
+*[http://www.c64sets.com/fourth_protocol.html Images of the package and manual]
+
+{{DEFAULTSORT:Fourth Protocol}}
+[[Category:1985 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Amstrad PCW games]]
+[[Category:Ariolasoft games]]
+[[Category:Cold War video games]]
+[[Category:Commodore 64 games]]
+[[Category:Frederick Forsyth]]
+[[Category:Political video games]]
+[[Category:Single-player video games]]
+[[Category:Spy video games]]
+[[Category:Video games about the Special Air Service]]
+[[Category:Video games based on novels]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:ZX Spectrum games]]

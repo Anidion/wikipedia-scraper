@@ -1,0 +1,72 @@
+The Castles of Dr. Creep
+Permalink: //en.wikipedia.org/w/index.php?title=The_Castles_of_Dr._Creep&oldid=1229868352
+Accessed on: 2024-06-26T16:56:28.928376
+
+
+
+------
+The Castles of Dr. Creep
+{{Short description|1984 video game}}
+{{primary sources|date=January 2021}}
+{{Infobox video game
+| title     = The Castles of Dr. Creep
+| image     = File:The_Castles_of_Dr._Creep_Commodore_64_Cover_art.jpg
+| caption   = 
+| developer = Ed Hobbs
+| publisher = {{vgrelease|NA|[[Broderbund]]|EU|[[Ariolasoft]]}}Strobs Canardly (2016)
+| designer  = 
+| platforms = [[Commodore 64]]<br>'''Re-releases'''<br>[[Microsoft Windows]], [[OS X]], [[Linux]]
+| released  = 
+'''Commodore 64'''
+{{Video game release|NA|1984|EU|1984}}
+'''Windows''', '''OS X''', '''Linux'''
+{{Video game release|WW|2016<ref name="steam">[http://store.steampowered.com/app/517930 ''The Castles of Dr. Creep''] on [[Steam (service)|Steam]]</ref>}}
+'''Xbox'''
+{{Video game release|WW|2023<ref name="xbox">[https://www.xbox.com/en-AU/games/store/the-castles-of-dr-creep/9NJ1QC9PJ8QS ''The Castles of Dr. Creep''] on [[Xbox (service)|Xbox]]</ref>}}
+
+| genre     = [[Puzzle-platform game|Puzzle-platform]]
+| modes     = [[Single-player video game|Single-player]], [[Cooperative video game|cooperative]]
+}}
+'''''The Castles of Dr. Creep''''' is a [[puzzle-platform game]] for the [[Commodore 64]] written by Ed Hobbs and published by [[Broderbund]] in 1984. It takes place in thirteen [[medieval]] [[castle]]s owned by the eponymous doctor, and the player's task is to escape from each castle. One- or two-player games are possible, allowing collaborative gaming for solving the puzzles. It was re-released via [[Steam (service)|Steam]] on September 2, 2016.<ref name="steam"/>
+
+==Gameplay==
+{{unreferenced section|date=December 2020}}
+
+When the game starts, the player can select from any of the thirteen castles, which have horror-movie-style names such as Sylvania, Carpathia, Callanwolde, or Lovecraft, or a tutorial castle (which, if counted, brings the total to fourteen). The player then starts from a specific room inside the castle, and must use his wits and skill to traverse through a vast network of interconnected rooms to find the exit.
+
+The rooms consist of platforms on various levels, connected by [[ladder]]s and [[Firemen's pole|sliding pole]]s. Doors lead from one room to another. Some doors are locked, and the player must find a key to be able to go through them. Most doors are not locked, but may be opened by a doorbell. However, in some cases, the doorbell is only on one "side" of the door (i.e. in one connecting room but not the other), and sometimes the doorbell is difficult to reach.
+
+A central aspect of the game is the imaginative use of various contraptions and devices in the rooms. [[Conveyor belt]]s, [[Force field (science fiction)|force field]]s, and [[laser gun]]s hinder the player's progress. In some places, the player must avoid, trap, or kill [[mummy|mummies]] and [[Frankenstein monster]]s. [[Teleportation|Teleport]] devices are often required to navigate through a room.
+
+The player has an unlimited number of lives. After a death, the player re-enters the castle at the "start" door. The game constantly keeps track of how much time has passed, and when the player manages to escape the castle, the time taken is recorded into the Hall of Fame, but only if the unlimited lives option is turned off (in this case there are three lives). In the original Commodore 64 platform, saving and re-loading a game disqualifies the player from the Hall of Fame.
+
+==Reviews==
+*''[[Games (magazine)|Games]]'' #59<ref>{{cite web | url=https://archive.org/details/games591985january/page/46/mode/2up | title=GAMES Magazine #59 | date=January 1985 }}</ref>
+
+== Legacy ==
+[[Jordan Mechner]] cited ''The Castles of Dr. Creep'' as one of the main inspirations for his 1989 game ''[[Prince of Persia (1989 video game)|Prince of Persia]]''.<ref>{{cite magazine |title=An Interview with Jordan Mechner|magazine=[[Next Generation (magazine)|Next Generation]]|issue=41 |publisher=[[Imagine Media]] |date=May 1998|pages=75–76}}</ref>
+
+A game enthusiast worked on a remake for the game starting in 2010 by [[reverse engineering]] the original. The [[source code]] is on [[GitHub]] under the [[GPLv3]] license.<ref>[https://github.com/segrax/DrCreep DrCreep] on github.com</ref> The [[Video game remake|remake]] was released on Steam by the original author and the remake author in September 2016 for Microsoft Windows, OS X, and Linux.<ref>[http://store.steampowered.com/app/517930 The Castles of Dr. Creep] on steam.com</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://gb64.com/game.php?id=1303&d=18&h=0 ''The Castles of Dr. Creep''] at Gamebase 64
+*[https://www.lemon64.com/games/details.php?ID=428 ''The Castles of Dr. Creep''] at Lemon 64
+*[http://creep.sourceforge.net/ Castles Open source re-implementation]
+
+{{DEFAULTSORT:Castles of Dr. Creep, The}}
+[[Category:1984 video games]]
+[[Category:Ariolasoft games]]
+[[Category:Broderbund games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Commodore 64 games]]
+[[Category:Cooperative video games]]
+[[Category:Linux games]]
+[[Category:MacOS games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Open-source video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in castles]]
+[[Category:Windows games]]

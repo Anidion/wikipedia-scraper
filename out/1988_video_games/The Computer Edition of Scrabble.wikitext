@@ -1,0 +1,64 @@
+The Computer Edition of Scrabble
+Permalink: //en.wikipedia.org/w/index.php?title=The_Computer_Edition_of_Scrabble&oldid=1228910513
+Accessed on: 2024-06-26T17:03:55.816075
+
+
+
+------
+The Computer Edition of Scrabble
+{{Infobox VG
+|title = The Computer Edition of Scrabble
+|image = The Computer Edition of Scrabble Coverart.png
+|caption = Apple II Cover art
+|developer = Peter Turcan, [[Psion (company)|Psion]], Leisure Genius
+|publisher = Little Genius, [[Sinclair Research]], Leisure Genius, [[Virgin Interactive Entertainment|Virgin Games]]
+|engine =
+|released = {{vgrelease|EU|9 September 1982}}<ref name='pcw198209'>{{cite magazine |title=Show Preview|magazine=Personal Computer World|volume=5|issue=9|publisher=|date=September 1982|page=120|url=https://archive.org/details/PersonalComputerWorld1982-09/page/120|access-date=1 June 2024}}</ref> (Apple II Version)
+|genre = [[Strategy video game|Strategy]]
+|modes = [[Single-player]]
+|platforms = [[Amiga]], [[Amstrad CPC]], [[Amstrad PCW]], [[Atari ST]], [[BBC Micro]], [[Apple II series|Apple II]], [[Commodore 64]], [[DOS]], [[Macintosh]], [[MSX]], [[Sinclair QL]], [[Tatung Einstein]], [[Thomson MO5]]/[[Thomson MO6|MO6]], [[Thomson TO7]]/[[Thomson TO8|TO8]]/[[Thomson TO9|TO9]], [[ZX Spectrum]]
+}}
+
+'''''The Computer Edition of Scrabble''''', also known as '''''Computer Scrabble''''' is a computer version of the board game ''[[Scrabble]]'', licensed from [[J. W. Spear & Sons]] and released by Little Genius for the [[Apple II series|Apple II]] in 1982. It was subsequently released for most home computers of the time.
+
+==History==
+''Computer Scrabble'' was initially developed by Peter Turcan at the [[University of Reading]]<ref name='cvg24'>{{cite magazine |title=12,000 Words Into 48K Will Go!|magazine=Computer and Video Games|issue=24|publisher=EMAP|date=October 1983|page=126|url=https://archive.org/details/computer-and-videogames-024/page/n125/|access-date=31 May 2024}}</ref> on an [[International Computers Limited|ICL]] mainframe as part of his PhD research into word structures and then ported to the 48K disc-based Apple II via an [[Intertec Superbrain]].<ref name='practicalcomputing'>{{cite magazine |title=Apple Games|magazine=Practical Computing|issue=1|publisher=IPC|date=January 1983|page=134|url=https://worldradiohistory.com/UK/Practical-Computing/80s/Practical-Computing-1983-01-S-OCR.pdf|access-date=31 May 2024}}</ref> 
+
+Little Genius licensed the game to [[Psion (company)|Psion]]<ref name='ycjune83'>{{cite magazine |title=Psion Scrabble beats writers with 11,000 word memory|magazine=Your Computer|issue=8|publisher=IPC|date=June 1983|page=49|url=https://spectrumcomputing.co.uk/page.php?issue_id=163&page=49|access-date=31 May 2024}}</ref><ref name='pcw12may83'>{{cite magazine |title=Misquoted!|magazine=Popular Computing Weekly|issue=19|publisher=Sunshine Publications|date=12 May 1983|page=66|url=https://spectrumcomputing.co.uk/page.php?issue_id=2754&page=7|access-date=31 May 2024}}</ref> who developed a version for the 48K [[ZX Spectrum]] which was marketed by [[Sinclair Research]]<ref name='pcw02feb84'>{{cite magazine |title=Off the board for Scrabble|magazine=Popular Computing Weekly|issue=5|publisher=Sunshine Publications|date=2 February 1984|page=5|url=https://archive.org/details/popular-computing-weekly-1984-02-02/page/n3|access-date=31 May 2024}}</ref> in 1983. Unlike the Apple version which accessed a 9,100 word dictionary from disc, Psion used a [[Huffman coding|Huffman]] compression algorithm to store a 12,000 word dictionary within the tape-based ZX Spectrum's 48K memory.<ref name='cvg24' />
+
+In 1984, Little Genius formed an associate company, Leisure Genius, which developed and published versions for the [[Commodore 64]] and [[BBC Micro]].<ref name='pcw02feb84' /> Leisure Genius was bought by [[Virgin Interactive Entertainment|Virgin Games]] in 1986<ref name='crashjune86'>{{cite magazine |title=Virgin Hops Into Bed|magazine=Crash|issue=29|publisher=Newsfield|date=June 1986|page=11|url=https://spectrumcomputing.co.uk/page.php?issue_id=996&page=11|access-date=31 May 2024}}</ref> and continued to sell the original versions while also releasing ports for newer machines.<ref name='acemarch88'>{{cite magazine |title=Scrabble|magazine=ACE|issue=6|publisher=Future Publishing|date=March 1988|page=68|url=https://spectrumcomputing.co.uk/page.php?issue_id=1732&page=68|access-date=31 May 2024}}</ref>
+
+==Gameplay==
+''The Computer Edition of Scrabble'' is a game which features on-screen versions of the game board, tiles, and game pieces. The game uses a clock for which the user can define the time limit for turns, in which the player must place a word before the time runs out. The game also has options for lightning-timing and tournament-timing to be used instead. The player can view the rack of available letters at the bottom of the screen and type a word composed of these letters, and if the game accepts the word then the player uses the cursor on the game board to position the word on-screen and score the move. The player may also pass a turn, request a hint for one playable word, and see the values of the tiles at any time by using a pull-down menu.<ref name="Dragon131"/>
+
+==Reception==
+In 1988, ''[[Dragon (magazine)|Dragon]]'' gave the Macintosh version of the game 3 out of 5 stars.<ref name="Dragon131">{{cite magazine | title=The Role of Computers | last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk | magazine=Dragon | issue=131 | date=March 1988 | page=82|url=https://archive.org/details/dragon-magazine-270/Dragon%20Magazine%20131/page/82/}}</ref> ''[[Macworld]]'' reviewed the Macintosh version of ''Computer Scrabble'', praising its faithfulness to the original board game, and challenging AI opponent. They also praise ''Scrabble's'' graphics, stating that the "game board is well designed, with premium-word and -letter squares that are easy to distinguish." ''Macworld'' criticizes its incompatibility with older keyboards, stating that "pressing any key on the bottom row produces the letter to its left", and a glitch where the game refuses any valid words entered, requiring the game to be rebooted.<ref>{{cite magazine|last = Abes|first = Cathy|title = War of the Words: Computer Scrabble Review|date = March 1988|url = https://archive.org/details/MacWorld_8803_March_1988/page/n187|magazine = Macworld|publisher = Mac Publishing|pages = 183–184}}</ref>
+
+M. Evan Brooks reviewed the computer editions of ''[[The Computer Edition of Risk: The World Conquest Game|Risk]]'', ''[[Monopoly (1985 video game)|Monopoly]]'', ''Scrabble'', and ''[[Clue: Master Detective|Clue]]'' for ''[[Computer Gaming World]]'', and stated that "In this reviewer's opinion, ''Scrabble'' is the weakest product (given cumbersome play and graphics), while ''Risk'' and ''Clue: Master Detective'' are the strongest."<ref name="CGW69">{{cite magazine |last=Brooks |first=M. Evan |title=CLASSIC CONVERSIONS |magazine=Computer Gaming World |date=March 1990 |volume=1 |issue=69 |pages=44–45}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/computer-edition-of-scrabble-brand-crossword-game}}
+* {{WoS game|id=0004375|name=Computer Scrabble}}
+* {{WoS game|id=0004376|name=Scrabble Deluxe}}
+*[https://archive.org/details/1990-04-computegazette/page/n79/mode/2up Review] in ''[[Compute!'s Gazette]]''
+*[https://archive.org/details/info-magazine-23/page/n39/mode/2up Review] in ''[[.info (magazine)|Info]]''
+*[https://archive.org/details/Your_Sinclair_050/page/n87/mode/2up Review] in ''[[Your Sinclair]]''
+
+{{Scrabble|state=collapsed}}
+
+{{DEFAULTSORT:Computer Edition of Scrabble}}
+[[Category:1988 video games]]
+[[Category:Apple II games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Commodore 64 games]]
+[[Category:Classic Mac OS games]]
+[[Category:DOS games]]
+[[Category:Leisure Genius games]]
+[[Category:Scrabble software]]
+[[Category:Single-player video games]]
+[[Category:Video games based on board games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Virgin Interactive games]]

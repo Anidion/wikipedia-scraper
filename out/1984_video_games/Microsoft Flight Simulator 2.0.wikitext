@@ -1,0 +1,74 @@
+Microsoft Flight Simulator 2.0
+Permalink: //en.wikipedia.org/w/index.php?title=Microsoft_Flight_Simulator_2.0&oldid=1188931996
+Accessed on: 2024-06-26T16:57:10.854330
+
+
+
+------
+Microsoft Flight Simulator 2.0
+{{Short description|1984 video game}}
+{{for|the Flight Simulator game for 8-bit and 16-bit computers|Flight Simulator II (Sublogic)}}
+{{Infobox video game
+| title         = Microsoft Flight Simulator 2.0
+| image         = Microsoft Flight Simulator 2 cover.jpg
+| developer     = [[Sublogic]]
+| publisher     = [[Microsoft]]
+| designer      = [[Bruce Artwick]]
+| series        = ''[[Microsoft Flight Simulator]]''
+| platforms     = [[IBM Personal Computer|IBM PC]], [[IBM PCjr]], [[PC AT]], [[IBM PC Convertible]], [[MS-DOS]], [[IBM PS/2]]
+| released      = {{release date and age|1984|5}}
+| genre         = [[Amateur flight simulation]]
+| modes         = [[Single-player]]
+}}
+
+'''''Microsoft Flight Simulator''''', commonly known as '''''Microsoft Flight Simulator 2.0''''' or '''''FS2''''', is a [[flight simulator]] [[video game]]. It was released in 1984<ref name="auto1">{{Cite web|url=https://www.mobygames.com/game/microsoft-flight-simulator-v20|title=Microsoft Flight Simulator (v2.0) for PC Booter (1984)|website=MobyGames}}</ref> for the [[IBM PC]] as a [[self-booting disk]].
+
+==Publication history==
+[[File:Flight Simulator 2.13 - Meigs.png|thumb|'''FS 2.0''' – Scenery coverage includes the entire United States.]]
+In May 1984, [[Microsoft]] released their version 2 (v2.10)<ref name="auto1"/> for [[IBM Personal Computer|IBM PCs]]. This version made small improvements to the original version, including the graphics and a more precise simulation in general. It added [[joystick]] and [[Computer mouse|mouse]] input, as well as support for [[RGB monitor|RGB]] (4-color [[Color Graphics Adapter|CGA graphics]]) and composite monitors<ref name="auto">{{Cite web|url=https://archive.org/details/pcworld512unse|title=PC World Dec. 1987, p.209|via=Internet Archive}}</ref> and [[IBM PCjr]].
+
+The new simulator expanded the scenery coverage to include a model of the entire [[United States]],<ref name="auto"/> although the airports were limited to the same areas as in ''[[Microsoft Flight Simulator 1.0]]''.
+
+Version 2.10a,<ref name="auto1"/> released in August 1984, added [[PC AT]] support and minor bug corrections.
+
+Later versions (2.11,<ref name="auto1"/> unreleased and v2.12,<ref name="auto1"/><ref>{{Cite web |date=1985 |title=PC Mag 23 Jul 1985 |url=https://books.google.com/books?id=Dwvc24nC0IQC&dq=%22%22Microsoft+Flight+Simulator+3%22&pg=PA53}}</ref> released in April 1985) fixed a no color problem on PCjr graphics, adding [[Hercules Graphics Card|Hercules graphics]] and [[Enhanced Graphics Adapter|EGA]] support.
+
+Version 2.13,<ref name="auto1"/> released in August 1986, added support for [[IBM PC Convertible]], enhanced keyboard, [[3.5" inch floppy drive]]s, [[MS-DOS 3.2]] and laptop [[LCD]] displays.
+
+Version 2.14,<ref name="auto1"/> released in June 1987 brought [[IBM PS/2]] support.
+
+Over the next year or two, compatibility with [[Sublogic]] Scenery Disks was provided, gradually covering the whole U.S. (including [[Hawaii]]), [[Japan]], and part of [[Europe]].
+
+==Reception==
+David Florance for ''[[Compute!]]'' said "shortcomings are easily outweighed by the sheer delight this program brings."<ref>{{Cite web|url=https://archive.org/details/1984-12-compute-magazine|title=Compute! Magazine Issue 055|date=December 27, 1984|via=Internet Archive}}</ref>
+
+Jason Durbin for ''[[PC World]]'' said of v. 2.13 "for the timid types who wouldn't be caught living or dead at 10,000 feet, ''Microsoft Flight Simulator'' is an excellent way to enjoy the thrill of flight vicariously."<ref name="auto"/>
+
+Dick Aarons for ''[[PC Magazine]]'' said "I've found that the peaceful world of flying in the Microsoft Flight Simulator can provide hours of realistic flying fun."<ref>{{Cite web|url=https://archive.org/details/PC-Mag-1984-10-02|title=PC Mag 1984-10-02|date=October 2, 1984|via=Internet Archive}}</ref>
+
+''Microsoft Flight Simulator, Version 2.0'' was reviewed in 1989 in ''[[Dragon (magazine)|Dragon]]'' #142 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 5 out of 5 stars.<ref name="Dragon142">{{cite journal
+|title=The Role of Computers
+|author=Lesser, Hartley, Patricia, and Kirk
+|journal=Dragon
+|issue=142
+|date=February 1989
+|pages=42–51}}</ref>
+
+==Reviews==
+*''[[Tilt (French magazine)|Tilt]]'' - Dec, 1986<ref>{{Cite web|url=https://archive.org/details/Tilt037|title=Tilt 037|date=December 27, 1986|via=Internet Archive}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.mobygames.com/game/pc-booter/microsoft-flight-simulator-v20 ''Microsoft Flight Simulator 2.0''] at [[MobyGames]]
+
+{{Microsoft Flight Simulator}}
+
+[[Category:1984 video games]]
+[[Category:Microsoft Flight Simulator]]
+[[Category:Single-player video games]]
+[[Category:Sublogic games]]
+[[Category:Video game sequels]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the United States]]

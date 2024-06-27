@@ -1,0 +1,131 @@
+Drakkhen
+Permalink: //en.wikipedia.org/w/index.php?title=Drakkhen&oldid=1227071402
+Accessed on: 2024-06-26T17:06:15.800748
+
+
+
+------
+Drakkhen
+{{Infobox video game
+| title = Drakkhen
+| image = Drakkhen Coverart.png
+| developer = [[Infogrames]] <br> [[Kemco|Kemco-Seika]] (SNES)
+| publisher = Infogrames
+| released = 1989, 1990, 1991
+| genre = [[Role-playing video game|Role-playing]]
+| modes = [[Single-player]]
+| platforms = [[Amiga]], [[Atari ST]], [[DOS]], [[SNES]], [[PC-98]], [[FM Towns Marty]], [[Sharp X68000]]
+}}
+
+'''''Drakkhen''''' is an early-[[3D computer graphics|3D]] [[role-playing video game]], initially developed and published by [[Infogrames]] for the [[Amiga]] and [[Atari ST]], and subsequently ported to several other platforms, including [[MS-DOS]] and [[Super Nintendo Entertainment System]]. It was a very early game in the North American SNES library, and as such, received almost universal coverage in previews of the then-upcoming SNES in gaming magazines of 1990 and early 1991.
+
+''Drakkhen'' was notable for being among the first role-playing games to feature a three-dimensional playing field and for being an early example of the [[real-time tactics]] genre. It did not employ a fully 3D [[game engine]], instead implementing a hybrid approach using vectors and bitmapped [[2.5D#Scaling along the Z axis|character-scaling]] [[algorithms]]. ''Drakkhen'' features an animated day-night cycle, and the ability to wander freely about the game world, both rarities for a game of its era. The game spawned a sequel, ''[[Dragon View]]'', for the [[Super Nintendo Entertainment System|SNES]].
+
+== Gameplay ==
+
+A player may freely travel the entirety of ''Drakkhen''<nowiki/>'s game world not long after beginning a new game, although this can be unwise in practice. Chance encounters with hostile [[monsters]] are regular, but in contrast to other RPGs, the player may be attacked while stationary. All battles are automated by default but allow the player to micromanage their four combatants. The player is given time to focus on the [[real-time tactics]] of each enemy encounter, such as activating defense magic, moving around, or switching weapons on the fly. The player's party may also be accosted at night when viewing constellations in the sky, or any time after bumping into a half-buried urn.
+
+The player may attempt to [[Withdrawal (military)|flee]] from attackers or retaliate against foes who, when defeated, grants all party members [[experience point]]s that go towards leveling up and improving character stats.
+Each of the characters in the player's party have health points, magic points for spellcasting, power, defense, physique, fortune, intelligence, knowledge, and agility; each stat has a direct effect on how a character plays. Character stats are assigned by the player at the start of the game using a cap-and-trade system. Each party member{{efn|The player decides the gender of each character. The Fighter, when female, becomes an Amazon Warrior.}} fills one of the four roles: scout, wizard, fighter, and priest, each with different strengths and abilities.<ref name=":0">{{Cite book|title=Drakkhen Game Manual|last=Seika|first=Kemco|publisher=Nintendo|year=1991|location=United States}}</ref> Items can be purchased from traveling merchants who ambush the party, or at the tavern. Items are categorized as armor, weapons, healing items, rings, and misc. (such as torches).<ref name=":0" />
+
+Past castles{{efn|Often inaccurately referred to as "dungeons" in the game.}} can be revisited at any time, which themselves act like Temples found in [[The Legend of Zelda|''Legend of Zelda'']] games. Castles are self-contained levels with obstacles, loot, enemies, and maze-like architecture; and they each must be visited at least once.
+[[File:Drakkhen_Shadowman.png|thumb|The Shadowman just before engaging the player's party]]
+Drakkhen's gameplay is colored by its early-game brutality and surreal enemy encounters, the former especially in the SNES version. One special enemy is relegated solely to appearing when the player kicks one of the many urns in the ground. Upon doing so, a black, stationary canine head rises from beneath the floor to shoot bolts from its eyes. These encounters are quickly fatal to new players who don't know any better.<ref name=":2">{{Cite journal|last=Rand|first=Paul|date=February 1990|title=Review: Drakkhen|journal=Computer and Video Games|volume=99|pages=54–55}}</ref> They offer no experience points, suggesting that kicking an urn is frowned upon. Another difficult enemy is the "Shadow Man", a tall figure that can unexpectedly lift itself out of the ground, accompanied by an ominous tune. Each enemy has movement and attack differences, some being less subtle than others, such as enemies that zigzag sporadically at a much greater speed than the player's party can keep up with. The game contains over one hundred different enemy variants.<ref name=":3">{{Cite web|url=http://www.flyingomelette.com/drakkhen/oddities.html|title=Drakkhen Oddities|website=Flying Omelette|access-date=18 May 2018}}</ref>
+
+=== Differences between computer and SNES game ===
+The SNES version of Drakkhen is drastically different to its PC predecessor, especially in visual layout and color scheme.
+
+Predating both ''[[Ultima Underworld: The Stygian Abyss|Ultima Underworld]]'' (1992) and ''[[Eye of the Beholder (video game)|Eye of the Beholder]]'' (1991), ''Drakkhen'' was among the first action RPGs to utilize a permanent, real-time, text-adventure log window, demonstrating large influence from [[Multi-user dungeon|MUD]] games. This log functions like a dungeon master, frequently telling the player how much damage an attack did, explaining the outcome of intended actions, acting as the player's five senses, et cetera.<ref name=":2"/> This feature was de-emphasized and presented more elegantly for the SNES. The computer versions made heavier use of the [[adventure game]] buttons within castles to solve deeper and more plentiful obstacles. The originals were criticized for lacking a compass, which the SNES developers took to heart when they made changes to the new version. The SNES doesn't use a visual compass but instead tells the player which of the 360-degrees he or she faces anytime the game is paused.<ref name=":2"/> The computer versions allow for greater nuance when traveling the 3D island, playing to the strength of utilizing a mouse cursor, while the SNES version uses the [[D-pad|directional pad]]. As such, maneuvering around scenery is clunkier.
+
+The short story collection that came with the game, aside from expanding the story of the game itself, also incorporated clues as to what the player needed to do, what enemies would be difficult, and other such context that the player was expected to know before playing.<ref name=":2"/> The SNES re-release of ''Drakkhen'' didn't come with this supplemental book that was written by [[Gary Gygax]], who had a hand in designing the gameplay and story of the original, as well as many enemies. This exclusion was likely because the game story was entirely rewritten, which nevertheless rendered the SNES version without the context necessary to experience the game the way the developers intended. With one or more party members dead at any point in the game, the player is at a crippling disadvantage and is incentivized to go on a pilgrimage to the nearest Anak holy temple to revive their dead. In general, the SNES version has fewer NPCs that can be approached.
+
+Fleeing any battle in the SNES version is as simple as tapping the L and R bumpers, which makes all battles outside castles entirely optional, as this doesn't give enemies the opportunity to attack. The interface was changed to utilize visual means to more quickly communicate ideas, and the clutter originally covering the left half of the screen was condensed into the bottom. In the original two versions, crossing the borders between continental divisions would require a wait while the game loaded. In the SNES version, crossings are instantaneous; however, if the player attempts to cross between areas before the first few [[Plot (narrative)|story beats]], they are sharply rebuked.
+
+== Background ==
+[[File:Drakkhen Francais.jpg|thumb|left|The original French release]]
+
+The setting of ''Drakkhen'' is a large rectangular island, divided laterally into four smaller regions. Each region has its own terrain and climate and is ruled by two members of the Drakkhen caste, with each of them living in their own castle. The continent is bounded on all sides by a vast ocean; walking into this, or any other body of water, will result in the speedy drowning of all party members.
+
+Much of the game is spent traveling between castles, carrying out various political missions at the behest of the ruling Drakkhen elite. A player may also wander around without having a particular goal or destination, perhaps in the spirit of adventure, or exploration, or to fight wildlife, monsters, and strange supernatural entities, who may yield loot if they are defeated. Serious setbacks can easily occur through the death of one or more party members in combat, and bringing them back to life will often involve difficult and arduous travel in order to reach an Anak, where healing and resurrection are performed [[pro bono]]. If all four characters succumb to injury or drowning, the player will be informed of the [[game over|dire consequences]] for the game world, before being returned to the title screen.
+
+==Storyline==
+[[File:Drakkhen bunch of curs.png|thumb|Inside one of the castles]]
+
+The story differs depending on which version is being played.
+
+=== The original versions ===
+Long ago, the magic of "the world" faded away with the slaying of the final [[dragon]] by a selfish paladin all the while a plague is decimating humanity. Long after, a [[caravel]] ship of foreign countrymen shipwrecked on the island where the final dragon died, only to be attacked and sunk by a foe unknown and unseen from their perspective.<ref name=":2" /> These foes revealed themselves to be lizard-people, thought to be the evolved survivors of the ancient dragons and the dominant people of the island. Four survivors made it ashore and vowed to stick together. They soon discovered that to take back the island in the name of humanity and to end the curse, they will need to pillage the nine gem tears and use them to summon the dragon god.<ref name=":2" /> To their surprise, certain princes and princess of the Drakkhen clan offer their support—even their life—for the party, believing that their kind was never meant for Earth. As such, the four heroes get caught up in an ongoing war between those acting for the survival of their own kind, and those who see themselves as abominations.
+
+An included short story book expands the backstory.
+
+=== SNES alternate storyline ===
+The storyline for the SNES game is the result of a broken translation and rewrite of the original, as well as lack of supplemental stories. Drakkhen was developed by a French team, which was then translated into [[Japanese language|Japanese]] for the [[Super Nintendo Entertainment System|Super Famicom]], which was then translated to [[English language|English]] and further rewritten with help from the original French developers. To exemplify the telephone effect of all this, the original game contained a [[French language|French]] translation of an [[Emily Dickinson]] [[wikisource:A Secret told —|poem]] as quoted by a mysterious wizard, and that French translation of an English [[Poetry|poem]] was then translated further into Japanese for the Super Famicom version, and then translated again back into English from Japanese. The version of the Dickinson poem that survived into the SNES version of the game is almost unrecognizable and difficult to comprehend.
+
+According to the SNES game, a subset of humans known as the Drakkonian people are presently doomed, for the dragon gods of the four elements judged them as unworthy and are soon to put an end to their survival. Each god has a son and daughter dragon prince and princess who rule the island of Drakkhen. Drakkhen, himself, is a 5th dragon god, one who the other four stole eight of the nine, magic, blue artifacts (the Nine Tears) from, to do their cruel bidding upon the Drakkonian people. Four warriors stepped up to the challenge of proving their worth as a people to Drakkhen.<ref name=":0" /> Their agreement is that if they can recover his eight Tears, their people will be spared, and the four Gods, their offspring, and their offspring's lizard-people armies will all perish instead. Like in the other version of the story, some sons and daughters of the Gods agree to help the player even if it means they suffer extinction for doing so, demonstrating a deep selflessness.
+
+=== Continental divisions ===
+[[File:Drakkhen map.png|thumb|left|The Drakkhen map (SNES)]]
+
+; Arctic Wasteland:Domain of the Prince and Princess of Air, both of whom live in large glacier-shaped castles.
+; Swampland (dark green):Domain of the Prince and Princess of Water, the former living in a large castle and the latter in what resembles a pagoda. This area has the greatest number of rivers and lakes.
+; Grassland (light green):Domain of the Prince and Princess of Earth, who live in identical-looking castles. This is where the adventure begins. In the centre is a glowing boundary that is heavily guarded.
+; Desert: Domain of the Prince and Princess of Fire, the former living in what resembles an Aztec pyramid and the latter in a large [[Taj Mahal]] or [[mosque]]-like building (incorrectly called a "minaret").
+
+== Music and audio ==
+''Drakkhen'' is known for its unusual sound effects; in lieu of speech, monsters and [[NPCs]] make noises that resemble belching, chittering, or inarticulate rumbling. Early releases made only limited use of music during gameplay, but the game's soundtrack was expanded for the SNES version.<ref>{{cite web|url=http://www.gamefaqs.com/console/snes/data/588297.html|title=Drakkhen Info}}</ref>
+
+The SNES version of the game censors the screams of the "Love Monster." In the original, a shadow shaped like a frantic, giant woman repeatedly shouts "I love you" in a chorus of demonic voices, but in the SNES version, she instead moans not unlike how other enemies do.<ref name=":3" /> This may be related to Nintendo wanting to keep their reputation as a family-friendly operation without any traces of sensuality.
+
+== Development and ports ==
+''Drakkhen'' was originally released in 1989 by Infogrames two years after being presented at gaming expos. It was translated for North American release in 1990 by Draconian, a label from [[Data East]]. By the time review copies of the original were given to the press, Infogrames claimed to have no "immediate" intention of porting the game.<ref name=":2"/> The many subsequent computer ports were unannounced until the DOS port was about to be released in late 1989. In 1991, ''Drakkhen'' was ported to the Super Nintendo by [[Kemco]]-Seika, who made several revisions to the game, mostly by necessity.<ref>{{cite web|url=http://www.hardcoregaming101.net/drakkhen/drakkhen.htm|title=Hardcore Gaming 101: Drakkhen|work=Hardcore Gaming 101|access-date=2010-02-02|archive-url=https://web.archive.org/web/20100107163259/http://www.hardcoregaming101.net/drakkhen/drakkhen.htm|archive-date=2010-01-07|url-status=dead}}</ref>
+
+In February 2018, the DOS version of the game was made available on [[Steam (service)|Steam]]<ref name=":4">{{Cite web|url=https://store.steampowered.com/app/781220/Drakkhen/|title=Drakkhen on Steam|website=store.steampowered.com|language=en|access-date=2018-05-18}}</ref> and in June 2018 on [[GOG.com]].<ref>[https://www.gog.com/news/release_drakkhen Release: Drakkhen - GOG.com]</ref> It was published under [[Piko Interactive]]'s Classics Digital brand.<ref>{{cite web |title=Drakkhen |url=http://classicsdigital.com/all-game-list/drakkhen/ |website=Classics Digital |access-date=5 September 2022 |archive-url=https://web.archive.org/web/20190727195331/http://classicsdigital.com/all-game-list/drakkhen/ |archive-date=27 July 2019}}</ref> It was also released for [[Evercade]], included in ''Piko Interactive Collection 1'' cartridge.
+
+== Reception ==
+{{Video game reviews
+| GR = 65% (SNES)<ref>{{cite web|url=https://www.gamerankings.com/snes/588297-drakkhen/index.html|title=Drakkhen SNES Review Score|archive-url=https://web.archive.org/web/20190513161132/https://www.gamerankings.com/snes/588297-drakkhen/index.html|archive-date=2019-05-13}}</ref>
+}}
+''Drakkhen'' was a commercial success, with sales of more than 350,000 units.<ref name=350k>{{cite book | author=Ichbiah, Daniel | author-link=Daniel Ichbiah | title=La saga des jeux vidéo | date=1997 | publisher=Pocket | page=176 | isbn=2-266-08763-0 }}</ref>
+
+In the May 1990 edition of ''[[Games International]]'', Mike Siggins noted the new-at-the-time [[Sandbox effect|open sandbox]] design, where players could wander in any direction, seeking adventure. However, Siggins was peeved by "the regular use of problems and puzzles to impede progress." He liked the "well-done" documentation, and admired the graphics. He concluded by giving the game an average score of 7 out of 10, although he gave the graphics an excellent rating of 9 out of 10, saying, "These games are really fantasy wargames rather than true role-playing exercises but ''Drakkhen'' at least pushes the standard out a little further and makes for a tough game with plenty of scope, graced with those remarkable Infogrames graphics."<ref name=gi>{{cite magazine|last=Siggins|first=Mike| date=May 1990 |title=Drakkhen|journal=[[Games International]]| issue=14|pages=44–45}}</ref>
+
+In the August 1990 edition of ''[[Dragon (magazine)|Dragon]]'' (Issue #160), Hartley, Patricia, and Kirk Lesser admired the Amiga versions's "amazing graphics, enthralling music, and incredible game environment", but admitted that it was "one of the toughest fantasy adventure games for a novice to survive that we've yet encountered." They gave the game an excellent rating of 4½ out of 5, saying, "If you are easily put off by frustration, avoid this adventure. But if a challenge is your desire, and if superb animation and plot are what you want, ''Drakkhen'' is for you [...] ''Drakkhen'' offers a high dollar-to-entertainment ratio and provides gamers with a chance to experience gaming originality, new programming techniques, and superb sound and music enhancements."<ref name="Dragon160">{{cite journal|title=The Role of Computers|author=Lesser, Hartley, Patricia, and Kirk|journal=Dragon|issue=160|date=August 1990|pages=47–52}}</ref>
+
+Editor Paul Rand of ''Computer and Video Game Magazine'' gave the original versions 83 out of 100, praising the music and graphics, but finding the value of the game to be lukewarm. He was also impressed by the imaginative creatures and the sense of terror some enemies caused him.<ref name=":2"/>
+
+''[[Nintendo Power]]'' gave the SNES version a mixed, aggregate score of 3.1 out of 5 stars.<ref name=":11">{{Cite magazine|last=Tilden|first=Gail|date=November 1991|title=Your Guide to the Latest Releases|magazine=Nintendo Power|volume=30|pages=87}}</ref> Super Gamer reviewed the SNES Version and gave an overall score of 84% writing: "The perspective is unusual for an RPG; a fast-scrolling 3-D landscape heavily populated with well-drawn monsters. Imaginative and unusual this is a decent introduction to RPGs."<ref>{{Cite journal|date=May 1994|title=Drakkhen SNES Review|url=https://archive.org/details/super-gamer-02/page/122/mode/2up|journal=Super Gamer|location=[[United Kingdom]]|publisher=[[Paragon Publishing]]|issue=2|pages=122|access-date=April 4, 2021}}</ref> Retrospective reception of the SNES version has been very mixed, with many [[YouTuber]]s and bloggers calling it confusing and "unplayable" by modern standards, while others find it appealing for its experimental nature; [[Literary criticism|openness-to-interpretation]], unintentionally-cryptic story; and [[Absurdist fiction|intense absurdities]].<ref name=":3" />
+
+==Reviews==
+*''[[White Wolf (magazine)|White Wolf]]'' #24 (Dec./Jan., 1990)
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' nouvelle formule #4<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-nf-4/page/20/mode/2up | title=Jeux & stratégie NF 4 | date=February 1990 }}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{MobyGames|id=/drakkhen}}
+
+{{Authority control}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:FM Towns games]]
+[[Category:Infogrames games]]
+[[Category:Kemco games]]
+[[Category:Linux games]]
+[[Category:MacOS games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Piko Interactive games]]
+[[Category:Role-playing video games]]
+[[Category:X68000 games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Video games about dragons]]
+[[Category:Video games developed in France]]
+[[Category:Video games developed in Japan]]
+[[Category:Windows games]]
+[[Category:Single-player video games]]

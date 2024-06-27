@@ -1,0 +1,60 @@
+Hlípa
+Permalink: //en.wikipedia.org/w/index.php?title=Hl%C3%ADpa&oldid=1230591669
+Accessed on: 2024-06-26T17:06:34.256594
+
+
+
+------
+Hlípa
+{{Short description|1989 video game}}
+{{Infobox video game
+| title = Hlípa
+| image=File:Hlipa Screen.png
+| developer = 4004/482 ZO Svazarmu
+| publisher = 
+| modes = [[Single-player]]
+| director = 
+| designer = Tomáš Švec
+| writer = Karel Šuhajda
+| programmer = Karel Šuhajda
+| composer = [[Jean-Michel Jarre]] and [[Limahl]]<ref name=Borik>{{cite web|last1=Bórik|first1=Roman|title=Hlípa|url=http://pmd85.borik.net/wiki/Hl%C3%ADpa|website=Tesla PMD 85 Infoserver|accessdate=29 June 2014}}</ref>
+| engine   = 
+| platforms = [[PMD 85]], [[Sharp MZ]] and [[Atari ST]]
+| released = 1989 (PMD 85)<br />1990 (Sharp MZ)<br />1992 (Atari ST) 
+| genre = [[Maze game]]
+}}
+'''Hlípa''' is a 1989 video game developed by two developers from Prague. It is a maze game which is considered to be the most complex game for [[PMD 85]]. The game was later ported to [[Atari ST]] and [[Sharp MZ]].<ref name=Root>{{cite web|last1=Tišnovský|first1=Pavel|title=Československé osmibitové počítače: aplikace a emulátory PMD 85|url=http://www.root.cz/clanky/ceskoslovenske-osmibitove-pocitace-aplikace-a-emulatory-pmd-85/|website=Root.cz|accessdate=28 June 2014}}</ref>
+
+==Development==
+The game was created in 1989 by Karel Šuhajda. The idea of the game came from a discussion with his girlfriend in which he mentioned a word ''Hlípa'' as a possibility to be a shortening of words ''hlídané parkoviště'' (guarded parking). He later realised that Hlípa could be some kind of amoeba. He decided to make a game about this creature. As an inspiration he had his older game 3D-Mikrotron and [[Knight Lore]]. He was helped by his friend Tomáš Švec who made a design of the game world consisting of 256 areas. Šuhajda created the programming and wrote a story. The game was programmed in DAM [[Assembler language|Assembler]]. The game was finished in 1989.<ref>{{cite web|last1=Švelch|first1=Jaroslav|title=Volné chvíle s PMD 85: Jak vznikaly hry pro nejznámější československý osmibit|url=http://games.tiscali.cz/tema/volne-chvile-s-pmd-85-jak-vznikaly-hry-pro-nejznamejsi-ceskoslovensky-osmibit-246389|website=Games.cz|accessdate=16 April 2015}}</ref>
+
+Šuhajda started to work on a port for Sharp MZ-800 after the release of Hlípa for PMD-85. He decided to make the game colourful as the original version was black-and-white. The problem was that he had only a monochrome monitor and had to guess the setting of colours. He later admitted that he guessed these colours unsuccessfully. The Sharp MZ Version was released in 1990. In 1992 the game was released for Atari ST with better set of colours.<ref>{{cite web|last1=Krupkaj|first1=Jan|title=České hry Hry pro Atari ST|url=http://www.atariportal.cz/article_detail.php?itmid=9000012|website=Atari Portal.cz|accessdate=16 April 2015}}</ref><ref>{{cite web|title=KAREL ŠUHAJDA - ROZHOVOR|url=http://mz-800.xf.cz/rozhovor_ks.htm|website=MZ-800.xf.cz|accessdate=16 August 2008}}</ref>
+
+== Plot and Gameplay ==
+[[File:Hlipa-pmd85.png|150px|thumbnail|The Beginning of the game. Hlípa can be seen in the middle. The thing moving around is Sivram. Ploxons can be seen in corners.]]
+The game follows a member of Hlípa nation. Hlípas are some kind of [[amoeba]]. Their homeworld is a planet Danepa. They have to face another nation – Sivrams. There are two kinds of Sivrams. The first ones are not very smart but working Falmons while the other ones are intelligent but moveless Ploxons. If a Falmon touch Hlípa, he dries his body and kills him. On the other hand, if Hlípa touches Ploxon he breaks up. Hlípas decide to get rid of Ploxons who control the nation of Sivrams. The protagonist is smuggled to the capital of Sivrams deep in underground. There he has to find 6 ruling Ploxons and kill them but the whole city is a huge complex of corridors and finding Ploxons is a very hard task.<ref name=Narsil>{{cite news|last1=Rous|first1=Karel|title=Hlípa|url=http://www.oldgames.sk/mag/narsil-4/page/10/|accessdate=29 June 2014|work=Narsil|publisher=Empty Head|date=1 April 1994}}</ref>
+
+When the player completes the task and kills the last of Ploxons, Hlípa disappears and is seen with a crown on head while standing on a platform resembling a throne. A text is seen congratulating the player and saying that the heroic act of the Hlípa shall be remembered by nation of Hlípas. When the Hlípa dies, its body will be spilt into a crystal bottle.
+
+The game uses 3D isometric graphics with sophisticated animations. The player controls a character of Hlípa and has to find 6 crowns that represent Ploxons. He has to avoid Falmons who kill him. He can also use a complex system of canals. If player leaves Hlípa alone for a few moments it starts to run around by itself which can cause much trouble to the player.<ref name="Borik"/>
+
+== Trivia ==
+*The basic design of the opening screen was made by Vlastimil Veselý from ''VBG Software''.
+*The game is inspired by [[Knight Lore]].<ref name=ames.cz>{{cite web|last1=Švelch|first1=Jaroslav|title=Vítejte v klubu - Kde se v normalizačním Československu scházeli počítačoví nadšenci?|url=http://games.tiscali.cz/tema/vitejte-v-klubu-kde-se-v-normalizacnim-ceskoslovensku-schazeli-pocitacovi-nadsenci-64408|website=Games.cz|accessdate=29 June 2014}}</ref>
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Hlipa}}
+[[Category:1989 video games]]
+[[Category:Action-adventure games]]
+[[Category:Atari ST games]]
+[[Category:Europe-exclusive video games]]
+[[Category:Maze games]]
+[[Category:PMD 85 games]]
+[[Category:Science fiction video games]]
+[[Category:Sharp MZ games]]
+[[Category:Single-player video games]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games developed in the Czech Republic]]
+[[Category:Video games with isometric graphics]]

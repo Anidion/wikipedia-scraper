@@ -1,0 +1,55 @@
+Star Saga
+Permalink: //en.wikipedia.org/w/index.php?title=Star_Saga&oldid=1140672679
+Accessed on: 2024-06-26T17:07:27.886172
+
+
+
+------
+Star Saga
+{{Infobox VG series
+|title= Star Saga
+|image= 
+|caption= Cover art
+|developer= Masterplay Publishing
+|publisher= Masterplay Publishing
+|creator= [[Andrew C. Greenberg]], Rick Dutton, Walter Freitag, and Michael Massimilla
+|platforms=[[Apple IIGS]], [[Apple II]], [[MS-DOS]]
+|released= 1988 (''[[Star Saga: One]]'')<br/>1989 (''Star Saga: Two'')
+|genre= [[Role-playing video game|Role-playing]]
+}}
+'''''Star Saga''''' is a series of [[video game]]s which combine a computerized game arbiter with a game board and books of printed text. The games blend aspects of paper [[gamebook]]s with [[role-playing video game]]s. They were released for [[MS-DOS]] and the [[Apple II]].{{Citation needed|date=July 2021}}
+
+==Games==
+<!-- Deleted image removed: [[File:Star Saga One.jpg|thumb|left|Oversized ''Star Saga: One'' box]] -->
+'''''[[Star Saga One: Beyond the Boundary|Star Saga: One - Beyond The Boundary]]''''', released in 1988, was the first in a short-lived series of [[science fiction]] [[adventure game|adventure]]/[[role-playing game|role-playing]] games by [[Masterplay Publishing]].
+
+The second title, '''''[[Star Saga: Two - The Clathran Menace]]''''' was the [[sequel]], released in 1989.
+
+Although ''Star Saga'' was to be released as a trilogy, Masterplay went out of business before the third game was released, leaving only ''Star Saga: One - Beyond the Boundary'' and ''Star Saga: Two - The Clathran Menace''.<ref name="gamasutra">{{Citation | url=http://www.gamasutra.com/features/20070223b/barton_pfv.htm | title=The History of Computer Role-Playing Games Part 2: The Golden Age(1985–1993) | last=Barton | first=Matt | publisher=[[Gamasutra]] | date=2007-02-23}}</ref>
+
+==Description==
+As well as the computer software (which acts as a "[[Gamemaster|game master]]" or moderator for the game), ''Star Saga'' ships with a large color fold-out map, six colored tokens that players use to move around the map, and thirteen booklets containing a total of 888 numbered passages of text. Due to the high volume of text, the oversized game box weighs in at over 3 pounds. The second title expands the number of booklets to fourteen, with over 50,000 individual paragraphs.
+
+At the beginning of the game, up to six players choose which character to play as from six sealed character profiles. Both single and multiplayer [[hotseat (multiplayer mode)|hotseat]] options are available, with players interacting both directly (e.g., by trading goods) and indirectly with one another over the course of the game. Each character has a different background story and motivating goals, and players are encouraged to keep these secret from each other. All players begin with a non-upgraded starship which can move between points on the galactic map.
+
+When playing ''Star Saga'', each player physically plots his or her moves on the map, then enters these movements and other desired actions into the ''Star Saga'' computer program.  In response to the entered commands, the program determines the results, updates the character's statistics and inventory, and directs the player to read one or more text passages from the accompanying booklets. Upon reading the section(s), the player discovers the consequences of his or her actions, as well as any new information which has been gleaned. In some cases, the actual results of a turn will be quite different from those planned, due to events such as interception by hostile forces.  Although the large amount of reading slows gameplay, the text is broken out into multiple booklets so that players can (usually) be simultaneously reading from separate sources. Over a number of turns, each player slowly progresses through the game, discovering what lies at each unlabeled planet on the map and otherwise uncovering the mysteries of the galaxy.
+
+The game master software, while lacking any sort of graphical display, is nonetheless relatively advanced for the time period. The software carefully maintains the game state, keeping players honest and preventing them from attempting invalid moves. Between plotting turns, players can use the software to view information about their current status, such as their hand-held items or the contents of their ship's cargo holds.  If one player is not available for a play session (since a game cannot generally be played in one sitting), his or her character can be placed in "suspended animation" while the remaining players continue to play.
+
+Although the central game plot is itself somewhat linear (particularly in the second title), players are generally free to move back and forth between worlds, trade various goods as desired, and otherwise explore the game's various sub-plots. Additionally, certain elements (e.g., which planet is which on the map) are randomized between games, in order to increase replay value.
+
+==Reception==
+''Star Saga'' was hailed as being completely new and different from games which came before.
+
+In 1990, Masterplay sold the series to [[Cinemaware]]<ref name="cgw199005">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=71 | title=Cinemaware Buys, Sells and Restructures | magazine=Computer Gaming World | date=May 1990 | accessdate=16 November 2013 | pages=50}}</ref> because of poor sales. The company attributing the lack of success to its decision to develop the game for the Apple; Greenberg stated "We followed the 'Apple II Forever' hype into oblivion".<ref name="cgw199003">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=69 | title=Electronic Arts Reaffirms Commitment to Disk-Based Software | magazine=Computer Gaming World | date=March 1990 | accessdate=15 November 2013 | pages=14}}</ref> He has nonetheless said that, of the various games he worked on, ''Star Saga'' was the one he is the most proud of, much more so than his commercially more successful ''Wizardry'' games.{{Citation needed|date=October 2009}}
+
+==References==
+{{reflist}}
+
+[[Category:1988 video games]]
+[[Category:1989 video games]]
+[[Category:Adventure games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:DOS games]]
+[[Category:Video games developed in the United States]]

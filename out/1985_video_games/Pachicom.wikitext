@@ -1,0 +1,57 @@
+Pachicom
+Permalink: //en.wikipedia.org/w/index.php?title=Pachicom&oldid=1163708319
+Accessed on: 2024-06-26T16:58:54.317882
+
+
+
+------
+Pachicom
+{{Short description|1985 video game}}
+{{Infobox video game
+| title = Pachicom
+| image = PachicomJPBoxShot.jpg
+| caption = Cover art <small>(MSX)</small>
+| developer = [[Shouei System]] <br> [[Bear's]]<ref>[http://gdri.smspower.org/wiki/index.php/Bear%27s Bear's] at Game Developer Research Institute</ref>
+| publisher = [[EMI Music Japan|Toemiland]]
+| platforms = [[MSX]] <br> [[Nintendo Entertainment System|Family Computer]] <br> [[PC-88]] <br> [[Famicom Disk System]]
+| released = '''MSX''' {{vgrelease|JP|1985}} '''Family Computer''' {{vgrelease|JP|November 21, 1985}} '''PC-88''' {{vgrelease|JP|1987}} '''Famicom Disk System''' {{vgrelease|JP|October 4, 1988}}
+| genre = [[Parlour game|Parlor game]] <small>(Gambling)</small>
+| modes = [[Single-player video game|Single-player]] <br> [[Multiplayer video game|Multiplayer]]
+}}
+
+{{nihongo|'''''Pachicom'''''|パチコン|Pachikon}} is a [[Parlour game|parlor]] video game released for multiple platforms that is themed around [[pachinko]]. It was released in 1985 exclusively to the Japanese market.<ref>{{cite web| url = http://bootgod.dyndns.org:7777/profile.php?id=1453| title = Nintendo Family Computer cartridge information| publisher = NESCartDB| date = | accessdate = 2012-01-19| archive-date = 2017-09-14| archive-url = https://web.archive.org/web/20170914035351/http://bootgod.dyndns.org:7777/profile.php?id=1453| url-status = dead}}</ref>
+
+The game of pachinko is hugely popular in Japan, since it involves playing [[pinball]] with an element of [[slot machine]]s mixed in along with gambling. There are four different gameplay modes to choose from (two of them assign a player with a pachinko machine while the other two allow players to choose their own machine).
+
+==Gameplay==
+[[File:PachiComScreenshot.jpg|200px|left|thumb|Sample game of ''Pachicom'' (Family Computer) in progress. Notice that text on the screen is entirely in English.]]
+{{further|Pachinko}}
+The game is based on standard pachinko rules, replicating the experience of playing pachinko in a parlor. The game board has a layout with nails sticking out. Metal balls would either of or fall in between the holes created by the pegs in order to traverse the board. Certain compartments are added to the board. Should a metal ball find its way to one of these compartments, the player will receive points that are similar to credits on a slot machine.<ref>{{cite web|url=http://faculty.ccp.edu/faculty/dreed/Campingart/pachinko/game.htm |title=How the Game Works |publisher=Faculty.ccp.edu |date= |accessdate=2010-06-25}}</ref> Players can expect to lose that ball (and a point) if it falls below the bottom of the board (similar to falling down a bottomless pit in an [[action game|action]] game). Initially, the player starts off with one hundred balls (points).
+
+In ''Mode A'', the clock goes forward from 000000 seconds until it reaches 999999 seconds (the equivalent of either 16666.65 non-real time minutes, 2777.775 non-real time hours, or 115.740625 non-real time days). Once that occurs, the game is over and any remaining points are stored in the top three score list. ''Mode B'' is the same except that the clock goes backwards from 999999 seconds all the way back to 000000 seconds. It is very easy to mash the "A" button repeatedly around with the direction pad to the right in order to accumulate mass winnings from the pachinko games and "cheat" the system.
+
+==Hidden messages==
+There is a hidden message in the Famicom version that can be found in any [[hex editor]]. Almost five percent of the entire [[ROM image|ROM]] (2.05 kilobytes out of the 41 kilobyte ROM image) is taken up by this otherwise inaccessible message. The message, written in [[Romanization of Japanese|romaji]],<ref name="hiddenmsg">{{cite web | url = http://magweasel.com/2009/08/29/hidden-messagin/| title = Hidden message inside the game | publisher = Magweasel| date = | archive-url = https://web.archive.org/web/20190406010725/http://magweasel.com/2009/08/29/hidden-messagin/ | accessdate = 2010-06-20| archive-date = 2019-04-06 }}</ref> features a lengthy rant towards the game's executives, harshly criticizing them for forcing changes on the fly, particularly the sound effects and even showing how to replace them with the initially intended sounds. A much shorter rant, presumably written by the same person and also in romaji and accessed via a hex editor, was included in the MSX release.<ref>{{cite web | url = https://tcrf.net/Pachi_Com_(MSX)| title = Pachi Com (MSX) - The Cutting Room Floor | publisher = The Cutting Room Floor| date = | accessdate = 2017-08-01}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{MobyGames|id=/pachicom}}
+*[http://www.gamefaqs.com/msx/951373-pachicom/data ''Pachicom'' (MSX)] at [[GameFAQs]]
+*[http://www.gamefaqs.com/nes/578256-pachicom/data ''Pachicom'' (Family Computer)] at [[GameFAQs]]
+*[http://www.gamefaqs.com/famicomds/579337-pachicom/data ''Pachicom'' (Famicom Disk System)] at [[GameFAQs]]
+*[http://fullmotionvideo.free.fr/screen/G2576.html ''Pachicom'' (PC-88)] at NEC PC Data Base
+*[http://www.giantbomb.com/pachicom/61-38605/ ''Pachicom''] at [[Giant Bomb]]
+
+[[Category:1985 video games]]
+[[Category:Famicom Disk System games]]
+[[Category:Japan-exclusive video games]]
+[[Category:MSX games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Pachinko video games]]
+[[Category:Shouei games]]
+[[Category:Toshiba EMI games]]
+[[Category:Video games developed in Japan]]

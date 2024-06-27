@@ -1,0 +1,200 @@
+Centipede (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Centipede_%28video_game%29&oldid=1228268270
+Accessed on: 2024-06-26T16:52:10.362841
+
+
+
+------
+Centipede (video game)
+{{Short description|1981 video game}}
+{{Infobox video game
+| title = Centipede
+| image = Centipede-arcade-flyer.jpg
+| caption = Arcade flyer
+| designer = [[Dona Bailey]]<br>[[Ed Logg]]
+| programmer = '''Arcade'''<br>Dona Bailey<br>Ed Logg<br>'''Atari 8-bit'''<br>Dave Getreu<ref name=giantlist/>
+| developer = [[Atari, Inc.]]
+| publisher = {{vgrelease|NA/EU|Atari, Inc.<ref name="Germany">{{cite web |title=Video Game Flyers: Centipede, Atari, Inc. (Germany) |url=https://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=3851 |website=The Arcade Flyer Archive |access-date=31 May 2021}}</ref>|JP|[[Sanritsu]]/Kiwako<ref name="MAD">{{cite web |title=Sentipido |url=https://mediaarts-db.bunka.go.jp/id/M732305 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=31 May 2021}}</ref>}}
+| platforms = [[Arcade video game|Arcade]], [[Apple II]], [[Atari 8-bit]], [[Atari 2600]], [[Atari 5200]], [[Atari 7800]], [[BBC Micro]], [[ColecoVision]], [[Commodore 64]], [[Game Boy]], [[IBM PC]], [[Intellivision]], [[TI-99/4A]], [[VIC-20]]
+| released = '''Arcade''' {{vgrelease|NA|August 1981<ref>{{Cite news |date=June 28, 1991 |title=Games |url=https://www.newspapers.com/image/227359955 |access-date=March 22, 2024 |work=[[Orlando Sentinel]] |pages=308 |quote="''Centipede'' is supposed to be better than ''Missile Command''," Kubicki said, adding that the real test will come when ''Centipede'' is released in four to six weeks.}}</ref>|EU|1981<ref name="Germany"/>|JP|March 1983<ref name="MAD"/>}} '''Atari 8-bit''' {{vgrelease|NA|1982}} '''2600, 5200''' {{vgrelease|NA|1983<ref>{{Cite web|url=https://www.randomterrain.com/atari-2600-memories-history-1983.html#centipede|title = Atari 2600 Video Game Release Dates for 1983}}</ref>}} '''Intellivision''' {{vgrelease|NA|February 1984<ref name="CE">{{cite magazine |title=Year-End Index |magazine=[[Computer Entertainer]] |date=January 1985 |volume=3 |issue=10 |page=156 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan85.pdf#page=12}}</ref>}} '''C64''' {{vgrelease|NA|March 1984<ref name="CE"/>}} '''7800''' {{vgrelease|NA|1986}}
+| genre = [[Fixed shooter]]
+| modes = 1-2 players alternating turns
+}}
+
+'''''Centipede''''' is a 1981 [[fixed shooter]] [[arcade video game]] developed and published by [[Atari, Inc.]]<ref name="Copyright">{{cite web |title=Centipede (Registration Number PA0000108068) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=24 May 2021}}</ref> Designed by [[Dona Bailey]] and [[Ed Logg]], it was one of the most commercially successful games from the [[golden age of arcade video games]] and one of the first with a [[Women and video games|significant female player base]]. The primary objective is to shoot all the segments of a centipede that winds down the playing field. An arcade sequel, ''[[Millipede (video game)|Millipede]]'', followed in 1982.
+
+''Centipede'' was ported to Atari's own [[Atari 2600]], [[Atari 5200]], [[Atari 7800]], and [[Atari 8-bit computers]]. Under the [[Atarisoft]] label, the game was sold for the [[Apple II series|Apple II]], [[Commodore 64]], [[ColecoVision]], [[VIC-20]], [[IBM Personal Computer|IBM PC]] (as a [[self-booting disk]]), [[Intellivision]], and [[TI-99/4A]].<ref>{{cite web |url=https://4apedia.com/index.php?title=Centipede |title=TI-99/4A-Pedia: Centipede |access-date=2020-06-06}}</ref> [[Superior Software]] published the port for the [[BBC Micro]]. Versions for the [[Game Boy]] and [[Game Boy Color]] were also produced, as well as a version for the short-lived [[Game.com]] developed by [[Handheld Games]] and published by [[Tiger Electronics]].
+
+==Gameplay==
+[[Image:Centipede arcade.png|thumb|left|A new game, with the centipede at the top and a spider in the lower right]]
+
+The player controls the small insect-like creature called the ''Bug Blaster''. It is moved around the bottom area of the screen with a [[trackball]] and fires small [[Dart (missile)|darts]] at a segmented [[centipede]] advancing from the top of the screen through a field of [[mushroom]]s. Each segment of the centipede becomes a mushroom when shot; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the screen, with the rear piece sprouting its own head. If the centipede head is destroyed, the segment behind it becomes the next head. Shooting the head is worth 100 points while the other segments are 10. The centipede starts at the top of the screen, traveling either left or right. When it touches a mushroom or reaches the edge of the screen, it descends one level and reverses direction. The player can destroy mushrooms (a point each) by shooting them, but each takes four shots to destroy. At higher levels, the screen can become increasingly crowded with mushrooms due to player/enemy actions, causing the centipede to descend more rapidly.
+
+[[File:Centipede Arcade Automat.jpg|thumb|Arcade machine]]
+
+Once the centipede reaches the bottom of the screen, it stays within the player area and one-segment "head" centipedes will periodically appear from the side. This continues until the player has eliminated both the original centipede and all heads. When all the centipede's segments are destroyed, another one enters from the top of the screen. The initial centipede is 10 or 12 segments long, including the head; each successive centipede is one segment shorter and accompanied by one detached, faster-moving head. This pattern continues until all segments are separate heads, after which it repeats with a single full-length centipede.
+
+The player also encounters other creatures besides the centipedes. [[Flea]]s drop vertically and disappear upon touching the bottom of the screen, occasionally leaving a trail of mushrooms in their path when only a few mushrooms are in the player movement area; they are worth 200 points each and take two shots to destroy. [[Spider]]s move across the player area in a zig-zag pattern and eat some of the mushrooms; they are worth 300, 600, or 900 points depending on the range they are shot from. [[Scorpion]]s move horizontally across the screen, turning every mushroom they touch into poison mushrooms. Scorpions are also worth the most points of all enemies with 1,000 points each. A centipede touching a poison mushroom will attack straight down toward the bottom, then return to normal behavior upon reaching it. This "poisoned" centipede can be both beneficial and detrimental to the player; the player can destroy them rapidly as it descends down, while at the same time, they can be very challenging to avoid, especially if already split into multiple segments.
+
+The Bug Blaster is destroyed when hit by any enemy, after which any poisonous or partially damaged mushrooms revert to normal. 5 points are awarded for each regenerated mushroom. An extra life is awarded every 12,000 points.
+
+==Development==
+[[Dona Bailey]] and [[Ed Logg]] developed ''Centipede'' for Atari.<ref>{{cite news |url=http://vancouverdesi.com/business/dona-bailey-a-rare-female-programmer-in-ataris-early-days-recalls-birth-of-centipede/ |title=Dona Bailey, a rare female programmer in Atari's early days, recalls birth of 'Centipede' |agency=Associated Press / DesiWireFeed |first=Barbara |last=Ortutay |date=June 30, 2012 |publisher=VancouverDesi.com |access-date=July 15, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121009025633/http://vancouverdesi.com/business/dona-bailey-a-rare-female-programmer-in-ataris-early-days-recalls-birth-of-centipede/ |archive-date=October 9, 2012}}</ref> Logg, a supervisor, said that he did the design, while Bailey did about half of the programming.<ref name="rouse2010">{{Cite book |title=Game Design: Theory and Practice |last=Rouse |first=Richard III |publisher=Jones & Bartlett Learning |year=2010 |isbn=9781449633455 |pages=93–94 |chapter=Chapter 6: Interview: Ed Logg |chapter-url=https://books.google.com/books?id=tGePP1Nu_P8C&pg=PA93}}</ref> Bailey was one of the few [[List of women in the video game industry|female game programmers]] in the industry.<ref name="supercade">{{Cite book |last = Burnham |first = Van |publication-date = 2001 |title = Supercade: a visual history of the videogame age 1971-1984 |location = Cambridge, MA |publisher = MIT Press |page = 220 |isbn = 0-262-02492-6 |url = http://www.supercade.com/ |year = 2001 |access-date = 2008-12-14 |archive-url = https://web.archive.org/web/20081219081930/http://www.supercade.com/ |archive-date      = 2008-12-19 |url-status = live}}</ref> Logg said that the game was intended to attract [[women and video games|women players]]; he believed that its design was not biased by sex, unlike a fighting or sports game. Bailey said: "I really like pastels ... I really wanted it to look different, to be visually arresting".<ref name="krueger198303">{{cite news | url=https://archive.org/stream/Video_Games_Volume_1_Number_06_1983-03_Pumpkin_Press_US#page/n49/mode/2up | title=Welcome to the Club | work=Video Games | date=March 1983 | access-date=26 May 2014 | author=Krueger, Anne | page=51}}</ref>{{r|rouse2010}} Bailey had only recently discovered video games when she heard the song "[[Pretenders (album)|Space Invader]]" (1979) by [[The Pretenders]] and then played ''[[Space Invaders]]'' (1978), but she was one of the few American women at the time with experience in [[assembly language]] programming.<ref name=":2">{{Cite web|url=https://video.vice.com/en_us/video/hello-world-dona-bailey/55e0d8e8def5f894792e5d8d|title=The Unsung Female Programmer Behind Atari's Centipede|website=[[Vice (magazine)|Vice]]|access-date=2019-12-14}}</ref>
+
+==Reception==
+[[File:Centipede computer game for Atari 8 bit computers 1982.jpg|thumb|Atari 8-bit computer cartridge (1982)]]
+
+''Centipede'' was one of the top four highest-grossing [[1982 in video games|arcade games of 1982]] in the United States, along with ''[[Ms. Pac-Man]]'', ''[[Pac-Man]]'' and ''[[Donkey Kong (arcade game)|Donkey Kong]]''.<ref name="cashbox">{{cite magazine |title=1982 Jukebox / Games Route Survey |magazine=[[Cash Box]] |date=20 November 1982 |page=53 |url=https://archive.org/details/cashbox44unse_23/page/53 |publisher=Cash Box Pub. Co.}}</ref> The Atari VCS port of ''Centipede'' sold 1,475,240 cartridges during 1982 to 1983, becoming the [[List of best-selling Atari 2600 video games|11th-best-selling Atari game]].<ref name="Atari">{{cite book |title=Cartridge Sales Since 1980 |publisher=[[Atari Corp.]]}} Via {{cite episode |title=The Agony & The Ecstasy |series=Once Upon Atari |date=August 10, 2003 |number=4 |minutes=23 |publisher=Scott West Productions}}</ref>
+
+It was also one of the first coin-operated [[arcade video game]]s to have a significant female player base.<ref>{{Cite book |title= [[From Pong to Pokémon and beyond: The Ultimate History of Video Games: the story behind the craze that touched our lives and changed the world]].|last= Kent |first= Steven |authorlink = Steven L. Kent|year= 2001 |publisher= Prima Publishing |location= Roseville, California |isbn= 0-7615-3643-4 |pages= 160–162}}</ref><ref>{{cite magazine |title=Girl Power|magazine=[[Electronic Gaming Monthly]] |publisher=Ziff Davis |issue=103 |date=February 1998 |page=86}}</ref> ''How to Win Video Games'' (1982) estimated that half of its players and 60% of ''[[Pac-Man]]''{{'}}s were women, while 95% of ''[[Defender (1981 video game)|Defender]]'' players were men.<ref name="howtowin">{{Cite book |title=How to Win Video Games |publisher=Pocket Books |year=1982 |isbn=0-671-45841-8 |pages=83–84, 87 | url=https://archive.org/stream/book_how_to_win_video_games#page/n83/mode/2up}}</ref>
+
+In 1983, ''[[Softline (magazine)|Softline]]'' readers named ''Centipede'' ninth on the magazine's Top Thirty list of Atari 8-bit programs by popularity.<ref name="softline198303">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 | title=The Most Popular Atari Program Ever | work=Softline | date=March 1983 | access-date=28 July 2014 | page=44 | archive-url=https://web.archive.org/web/20140729044509/http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=10 | archive-date=2014-07-29 | url-status=live}}</ref> The game received the award for "1984 Best Computer Action Game" at the 5th annual [[Arkie Awards]] where the judges described it as "pack[ing] a real roundhouse punch", and suggested that some "insist that [the ''Centipede''] Atari cartridge is the best home-arcade edition you can buy".<ref>{{cite magazine |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|28}} [[David H. Ahl]] of ''[[Creative Computing]] Video & Arcade Games'' said that the Atari 5200 version was "delightful fun".<ref name=ahl1983spring>{{Cite magazine |last=Ahl |first=David H. |author-link=David H. Ahl |date=Spring 1983 |title=Atari 5200 Advanced Game System |url=http://www.atarimagazines.com/cva/v1n1/atari5200.php |magazine=Creative Computing Video & Arcade Games |page=46 |access-date=2017-11-06 |archive-url=https://web.archive.org/web/20171107013857/http://www.atarimagazines.com/cva/v1n1/atari5200.php |archive-date=2017-11-07 |url-status=live}}</ref>
+
+In a 1984 ''[[Video (magazine)|Video]]'' review of the Apple II version of the game, [[Bill Kunkel (journalist)|Bill Kunkel]] and [[Arnie Katz]] commented that "the graphic limits of the Apple crimp the style" and expressed disappointment in the game's "sluggish" interfacing with trackball controllers.<ref>{{cite magazine |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= March 1984 |title= Arcade Alley: We Still Want Action |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 12|page= 23|issn= 0147-8907}}</ref>
+
+In 1995, ''[[Flux (magazine)|Flux]]'' magazine ranked the arcade version 15th on their "Top 100 Video Games".<ref>{{Cite journal |date=April 1995 |title=Top 100 Video Games |url=https://archive.org/details/flux-issue-4/page/n25/mode/2up |journal=Flux |publisher=Harris Publications |issue=4 |pages=27}}</ref> In 1996, ''[[Next Generation (magazine)|Next Generation]]'' listed the arcade version as number 84 on their "Top 100 Games of All Time", praising the cool concept, trackball control, and that it is accessible enough that "any human on the planet can play it well enough to enjoy it" yet "hard enough that even excellent gamers find it challenging".<ref>{{cite magazine|title=Top 100 Games of All Time |magazine=[[Next Generation (magazine)|Next Generation]]|issue=21 |publisher=[[Imagine Media]] |date=September 1996|page=43}}</ref>
+
+In 2020, [[The Strong National Museum of Play]] inducted ''Centipede'' to its [[World Video Game Hall of Fame]].<ref>{{cite web |title=Centipede |url=https://www.museumofplay.org/games/centipede/ |website=[[The Strong National Museum of Play]] |publisher=[[The Strong]] |access-date=6 May 2022}}</ref>
+
+===Reviews===
+* ''[[Games (magazine)|Games]]''<ref>{{cite web | url=https://archive.org/details/games-34-1982-december/page/n45/mode/2up | title=GAMES Magazine #34 | date=December 1982}}</ref>
+
+==Legacy==
+===Re-releases===
+* The game is included in ''[[Arcade Classics]]'' for the Sega Genesis and Game Gear and a similar [[Master System]] compilation titled ''[[Arcade Smash Hits]]''.
+* The game was released for Microsoft Windows 3.x as part of the ''[[Microsoft Arcade]]'' package in 1993.
+* [[Accolade (company)|Accolade]] released a version for the [[Game Boy]] in 1995, as part of their ''Arcade Classics'' series. This version is notable for having [[background music]] in the title screen and different sound effects compared to the other ports.
+* The game is included in the [[Midway Games]] published  ''[[Arcade's Greatest Hits: The Atari Collection 1]]'' for the [[Sega Saturn]], [[Super Nintendo Entertainment System]], and the [[PlayStation]].
+* The arcade original was included in the PlayStation and Dreamcast versions of the [[Centipede (1998 video game)|''Centipede'']] 3D remake, replacing the arcade mode from the PC and Macintosh versions.
+* It is also included in ''Atari Arcade Hits 1'', ''Atari Greatest Hits'', ''[[Atari Anniversary Edition]]'' and ''[[Atari: 80 Classic Games in One!]]''.
+* The game appears as a bonus unlockable minigame in the PlayStation 2 and Xbox versions of ''[[Terminator 3: Rise of the Machines (video game)|Terminator 3: Rise of the Machines]]'', that can be unlocked once the game is beaten.
+* The game has also been made available for the [[Xbox (console)|Xbox]] and [[PlayStation 2]] (in both arcade and Atari 2600 versions) as part of ''[[Atari Anthology]]'' in 2004.
+* The [[Xbox Live Arcade]] and [[PlayStation Portable]]'s ''Atari Arcade Classics'' version was bundled with the sequel ''Millipede'', which included an "evolution mode", featuring high-definition graphics and special effects like motion blur, trails, and particle-based explosions.<ref>[http://www.dailygame.net/news/archives/006081.php]{{Dead link|date=July 2009}}</ref>
+* The game was released via Xbox Live Arcade for the [[Xbox 360]] on May 2, 2007.
+* [[Glu Mobile]] released a licensed cellular phone version of ''Centipede'' that includes the original game as well as updated gameplay, skins, and modes.<ref>{{cite web|url=http://www.glu.com/noram/pages/product.aspx?pr=Centipede  |title=glu games - Centipede |date=2007-10-06 |access-date=2011-02-09 |archive-url = https://web.archive.org/web/20071006192139/http://www.glu.com/noram/pages/product.aspx?pr=Centipede |archive-date = 2007-10-06}}</ref>
+* In 2008, Atari released the game for the [[iPhone]] and [[iPod Touch]].
+* The game is included in ''[[Retro Atari Classics]]'' and ''[[Atari Greatest Hits]] Volume 1'' for the Nintendo DS. The former title also includes a remixed art version.
+* Both the arcade and 2600 versions are part of ''[[Atari Vault]]'' (2016).
+* Both the Atari 2600 and Atari 7800 version was released on the [[Evercade]] as part of Arcade Collection 1 and 2 in 2020.
+
+===Sequels and remakes===
+{{missing information|Centipede Chaos|date=June 2021}}
+''Centipede'' was followed by ''[[Millipede (video game)|Millipede]]'' in 1982.
+
+In 1992, [[Atari Games]] developed a [[prototype]] of an arcade game called ''[[Arcade Classics]]'' for their 20th anniversary, which includes ''Missile Command 2'' and ''Super Centipede'' with co-op 2-player mode.<ref>{{cite web|url=http://www.arcade-museum.com/game_detail.php?game_id=6904 |title=Arcade Classics Videogame by Atari Games (1992) - The International Arcade Museum and the KLOV |publisher=Arcade-museum.com |access-date=2011-02-09}}</ref>
+
+A [[3D computer graphics|3D]] [[fantasy]] [[role-playing game]] based on the original game was being developed by Dark Science for the [[Atari Jaguar CD]] under the working title ''Centipede 2000''.<ref>{{cite web|author=Willard|url=http://www.racketboy.com/forum/viewtopic.php?f=11&t=47770|title=Canceled Centipede RPG on Atari Jaguar CD|website=racketboy.com|date=November 4, 2014|access-date=2018-10-28}}</ref> The [[source code]] of the project no longer exists and the only remaining proof of its existence is a short [[video clip]] from the developer.<ref>{{cite web|author=Willard|url=http://atariage.com/forums/topic/25828-centipede-2000/|title=Centipede 2000|website=[[AtariAge]]|date=May 4, 2003|access-date=2018-09-22}}</ref><ref>{{cite web|last=Reutter|first=Hans|url=http://www.cyberroach.com/jaguarcd/html/c2K.htm|title=Unreleased Or Unfinished Jaguar Games - Centipede 2000 (working title)|website=cyberroach.com|date=November 19, 2000|access-date=2018-09-22|archive-url=https://web.archive.org/web/20180402084609/http://www.cyberroach.com/jaguarcd/html/c2K.htm|archive-date=2018-04-02|url-status=live}}</ref><ref>{{cite video|url=https://www.youtube.com/watch?v=7O4J2hX_LaY |archive-url=https://ghostarchive.org/varchive/youtube/20211212/7O4J2hX_LaY| archive-date=2021-12-12 |url-status=live|work=[[YouTube]]|date=January 24, 2014|author=Jean La Montarde|title=Centipede 2000 for Atari Jaguar - Engine demo}}{{cbignore}}</ref>
+
+In 1998, after acquiring the intellectual property of [[Atari]] from then-owner [[JT Storage]], [[Hasbro Interactive]] released [[Centipede (1998 video game)|a new version of the game]] for [[Microsoft Windows]], [[PlayStation (console)|PlayStation]], [[Dreamcast]], and [[Mac OS]]. It is very different from the original: 3D graphics, free movement around the map, and a campaign which can be played in single-player or multiplayer mode.
+
+In 2011, [[Atari, SA]] released ''[[Centipede: Infestation]]'' for [[Nintendo 3DS]] and [[Wii]].
+
+In 2019, ICE created a remaster of ''Centipede'' known as ''Centipede Chaos'' for arcades.
+
+In 2020, GameTaco released ''Centipede: Cash Blast'' for iOS.<ref>{{Cite web|url=https://appadvice.com/app/atari-centipede-cash-blast/1449639446|title=Atari Centipede: Cash Blast by Game Taco, Inc}}</ref>
+
+A revamped version of the game, titled ''Centipede: Recharged'', was released for [[Microsoft Windows]], [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Xbox One]], [[Xbox Series X and Series S|Xbox Series X/S]], [[Google Stadia]], and [[Atari VCS (2021 console)|Atari VCS]] with exclusive content in September 2021 as part of the company's ''[[Atari Recharged]]'' series.
+
+===Clones===
+The ''Centipede'' concept was widely cloned, especially for home systems.
+
+====Arcade clones====
+* ''War of the Bugs or {{sic|Monsterous Manouvers}} in a Mushroom Maze'', by Food and Fun Corp./Armenia Ltd in 1981<ref>{{cite web|url=http://www.arcade-museum.com/game_detail.php?game_id=10400 |title=War Of The Bugs Videogame by Food and Fun Corp./Armenia Ltd. (1981) - The International Arcade Museum and the KLOV |publisher=Arcade-museum.com |access-date=2011-02-09}}</ref>
+* ''Jackler'', by [[Konami]] in 1982<ref>{{cite web|url=http://www.arcade-museum.com/game_detail.php?game_id=8220 |title=Jackler Videogame by Konami (1982) - The International Arcade Museum and the KLOV |publisher=Arcade-museum.com |access-date=2011-02-09}}</ref>
+* ''Slither'', by GDI in 1982 and ported to ColecoVision<ref>{{cite AV media|year=2008|title=Classic Game Room reviews COLECOVISION ROLLER CONTROLLER|medium=YouTube|url=https://www.youtube.com/watch?v=MLnkQlMaQ1U|access-date=April 2, 2014|format=YouTube|time=4:45|publisher=Lord Karnage|archive-url=https://web.archive.org/web/20150110224731/https://www.youtube.com/watch?v=MLnkQlMaQ1U|archive-date=2015-01-10|url-status=live}}</ref>
+
+====Home system clones====
+<!-- This is ordered by year, then game title -->
+* ''Bug Attack'', 1981, Apple II, by [[Cavalier Computer]]<ref>{{cite web|title=Bio and Gameography of Jim Nitchals (Bug Attack, Microwave, Teleport...)|url=http://www.gamedesignersremembered.com/jim-nitchals/post-title-click-and-type-to-edit|website=Game Designers Remembered|access-date=2016-07-13|archive-url=https://web.archive.org/web/20160822021548/http://www.gamedesignersremembered.com/jim-nitchals/post-title-click-and-type-to-edit|archive-date=2016-08-22|url-status=live}}</ref>
+* ''Arachnoid'', 1982, VIC-20, by UMI
+* ''Centipede'', 1982, ZX81, by [[Llamasoft]]
+* ''Aqua Attack'', BBC Micro as part of the ''Welcome'' disk/tape with the [[BBC Master]]
+* ''[[Bug Off!]]'', 1982, Atari 8-bit, by [[Adventure International]]<ref>{{cite web|title=Bug Off!|url=http://www.atarimania.com/game-atari-400-800-xl-xe-bug-off_818.html|website=Atari Mania|access-date=2016-07-13|archive-url=https://web.archive.org/web/20160829053705/http://www.atarimania.com/game-atari-400-800-xl-xe-bug-off_818.html|archive-date=2016-08-29|url-status=live}}</ref>
+* ''Caterpillar'', TRS-80 Color Computer, by [[Aardvark Software|Aardvark]]<ref name=linzmayer>{{cite journal |last1=Linzmayer |first1=Owen |last2=Ahl |first2=David H. |date=Spring 1983 |page=104 |volume=1 |issue=1 |url=http://www.atarimagazines.com/cva/v1n1/trs80games.php |journal=Creative Computing Video & Arcade Games |title=TRS-80 Color Computer Games |access-date=2011-02-09 |archive-url=https://web.archive.org/web/20110226103716/http://www.atarimagazines.com/cva/v1n1/trs80games.php |archive-date=2011-02-26 |url-status=live}}</ref>
+* ''Exterminator'', 1982, VIC-20, C64, by Nüfekop and [[Bubble Bus Software|Bubble Bus]]
+* ''Katerpillar Attack'', 1982, TRS-80 Color Computer, Dragon 32, by Tom Mix Software<ref name="linzmayer" />
+* ''Megalegs'', 1982, Atari 8-bit, by Megasoft<ref>{{cite web|title=Megalegs|url=http://www.atarimania.com/game-atari-400-800-xl-xe-megalegs_3298.html|website=Atari Mania|access-date=2016-07-13|archive-url=https://web.archive.org/web/20160829050953/http://www.atarimania.com/game-atari-400-800-xl-xe-megalegs_3298.html|archive-date=2016-08-29|url-status=live}}</ref>
+* ''Myriapede'', 1982, Atari 8-bit
+* ''Video Vermin'', 1982, VIC-20, by UMI<ref>{{cite web |url=http://www.zimmers.net/anonftp/pub/cbm/vic20/Cartzilla.html#video-vermin |title=VIC-20 Cartridge Software Reviews |publisher=Zimmers.net |access-date=2011-02-09 |archive-url=https://web.archive.org/web/20110609000756/http://www.zimmers.net/anonftp/pub/cbm/vic20/Cartzilla.html#video-vermin#video-vermin |archive-date=2011-06-09 |url-status=live}}</ref>
+* ''Arthropod'', 1983, TI-99/4A by North Hills
+* ''Bug Blaster'', 1983, C64, BBC Micro, Acorn Electron, by [[Alligata]]<ref>{{lemon64 game|id=3715|name=Bug Blaster}}</ref>
+* ''Bug Blaster'', 1983, as part of the ''[[Friendlyware|Friendlyware PC Arcade]]'' suite by Friendlysoft for IBM PC
+* ''Centi-Bug'', 1983, ZX Spectrum, by [[DK'Tronics]] (titled ''Centipede'' on screen)<ref>{{cite web|title=Centi-Bug|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0000865|website=World of Spectrum|access-date=2017-08-31|archive-url=https://web.archive.org/web/20171016052545/http://www.worldofspectrum.org/infoseekid.cgi?id=0000865|archive-date=2017-10-16|url-status=live}}</ref>
+* ''Maggotmania'', 1983, C64 by [[Commodore International|Commodore]]
+* ''[[Megapede]]'', 1983, ZX Spectrum, by Computerware<ref>{{cite web |url=http://nitros9.lcurtisboyle.com/megapede.html |title=Megapede |publisher=Nitros9.lcurtisboyle.com |access-date=2011-02-09 |url-status=dead |archive-url=https://web.archive.org/web/20101130144717/http://nitros9.lcurtisboyle.com/megapede.html |archive-date=2010-11-30}}</ref>
+* ''Mouse Stampede'', 1983, Mac, by [[Mark of the Unicorn]]
+* ''[[Mushroom Alley]]'', 1983, C64, by Victory Software
+* ''Spectipede'', 1983, ZX Spectrum, by R&R Software
+* ''Wiggle Worm'', 1984, TRS-80 Color Computer, by Chromasette<ref>{{cite web|last1=Boyle|first1=L. Curtis|title=Wiggle Worm|url=http://www.lcurtisboyle.com/nitros9/wiggleworm.html|website=The Tandy Color Computers Game List|access-date=2016-07-17|archive-url=https://web.archive.org/web/20160629204624/http://lcurtisboyle.com/nitros9/wiggleworm.html|archive-date=2016-06-29|url-status=live}}</ref>
+* ''Decipede'', 1987, type-in version for the C64  by ''[[COMPUTE!'s Gazette]]''<ref>{{cite web |url=http://www.atarimagazines.com/compute/gazette/ |title=COMPUTE!'s Gazette Index, page 1 |publisher=Atarimagazines.com |access-date=2011-02-09 |archive-url=https://web.archive.org/web/20110303043555/http://www.atarimagazines.com/compute/gazette/ |archive-date=2011-03-03 |url-status=live}}</ref>
+* ''[[Apeiron (video game)|Apeiron]]'', 1995, Macintosh, by Ambrosia Software
+* ''Champ Centiped-em'', 1997, MS-DOS, by CHAMProgramming<ref>{{cite web|title=CHAMP Centipede-em|url=http://www.champ-em.com/centiped.htm|website=The CHAMP Games Fan Page|access-date=2017-08-31|archive-url=https://web.archive.org/web/20170831100126/http://www.champ-em.com/centiped.htm|archive-date=2017-08-31|url-status=live}}</ref>
+* ''BuGS'', 2021, Apple IIGS, by Rand-Emonium<ref>{{Cite web|url=http://www.rand-emonium.com/2021/02/16/bugs-version-1-0-released/|title = BuGS version 1.0 released – Rand-Emonium Software}}</ref>
+
+===In other media===
+In 1983, [[Milton Bradley Company|Milton Bradley]] released a two-player board game based on the video game.<ref>{{cite web|title=Centipede: The Board Game|url=http://www.sydlexia.com/centipedegame.htm|website=SydLexia.com|access-date=7 April 2017|archive-url=https://web.archive.org/web/20161129222137/http://www.sydlexia.com/centipedegame.htm|archive-date=2016-11-29|url-status=live}}</ref> Another board game based on ''Centipede'' was published by [[IDW Publishing]] in 2017.<ref>{{cite web|title=IDW Games Announces Atari Partnership|url=http://www.idwpublishing.com/idw-games-announces-atari-partnership/|website=IDW Publishing|access-date=7 April 2017|date=8 March 2017|archive-url=https://web.archive.org/web/20170406052831/http://www.idwpublishing.com/idw-games-announces-atari-partnership/|archive-date=2017-04-06|url-status=live}}</ref>
+
+In 1989, a deadpan narration describing the original game appeared on side 2 of [[Negativland]]'s third cassette release, ''The Weatherman'' (SSTC902), which consists of clips from the ''Over the Edge'' radio show sometime between 1982 and 1984. The narrator may be Ed Logg.<ref>Negativland, ''The Weatherman''. Cassette only, SST Records SSTC902. [http://www.skeptictank.org/files/en004/negativd.htm Negativland Discography] {{Webarchive|url=https://web.archive.org/web/20150924102330/http://www.skeptictank.org/files/en004/negativd.htm |date=2015-09-24}} at The Skeptic Tank.</ref>
+
+American rock band [[The Strokes]] used promotional artwork for the game on their 2003 single "[[Reptilia (song)|Reptilia]]".
+
+''Centipede'' appears in the film ''[[Pixels (2015 film)|Pixels]]''.<ref>{{cite web|url=http://www.philstar.com/movies/2014/07/23/1349432/classic-video-game-characters-unite-film-pixels|title=Classic video game characters unite via film 'Pixels'|work=Philstar|date=July 23, 2014|access-date=July 23, 2014|archive-url=https://web.archive.org/web/20140723010101/http://www.philstar.com/movies/2014/07/23/1349432/classic-video-game-characters-unite-film-pixels|archive-date=2014-07-23|url-status=live}}</ref>
+
+In May 2016, Emmett/Furla/Oasis Films closed with Atari to produce and finance both ''Centipede'' and ''Missile Command'' film adaptations.<ref>{{cite magazine|url=https://deadline.com/2016/05/centipede-missile-command-atari-movie-emmett-furla-oasis-1201754686/|title=Atari Classic Arcade Games Centipede & Missile Command Headed For Big Screen|magazine=Deadline|last=Fleming|first=Mike Jr.|date=May 12, 2016|access-date=2016-05-13|archive-url=https://web.archive.org/web/20160513053326/http://deadline.com/2016/05/centipede-missile-command-atari-movie-emmett-furla-oasis-1201754686/|archive-date=2016-05-13|url-status=live}}</ref>
+
+[[Dynamite Entertainment]] started a limited run [[comic book]] series based on ''Centipede'' in July 2017.<ref>{{Cite web|title=Dynamite® Centipede #1|url=https://www.dynamite.com/htmlfiles/viewProduct.html?PRO=C725130260468|access-date=2022-02-05|website=www.dynamite.com}}</ref>
+
+==Competitive arena==
+The game was chosen for the final round of the 1981 Atari World Championships run by Tournament Games International. The men's champion was Eric Ginner and the women's champion was Ok-Soo Han.<ref>{{cite web |url=http://allincolorforaquarter.blogspot.com/2012/11/the-atari-50000-centipede-fiasco.html |title=1981 Atari World Championships History |access-date=2017-08-31 |archive-url=https://web.archive.org/web/20170831174542/http://allincolorforaquarter.blogspot.com/2012/11/the-atari-50000-centipede-fiasco.html |archive-date=2017-08-31 |url-status=live |date=2012-11-12}}</ref>
+
+The world record score on the arcade version of ''Centipede'' was 16,389,547 points by Jim Schneider of the USA on August 1, 1984.<ref>{{cite web |url=http://www.twingalaxies.com/scores.php?platformid=2&keyword=Centipede |title=Twin Galaxies Centipede Rankings |access-date=2017-08-30 |archive-url=https://web.archive.org/web/20170830235606/http://www.twingalaxies.com/scores.php?platformid=2&keyword=Centipede |archive-date=2017-08-30 |url-status=live}}</ref>
+
+Donald Hayes of [[Windham, New Hampshire]], scored a [[world record]] 7,111,111 points under tournament rules on the arcade version of ''Centipede'' on November 5, 2000.<ref name="Gamer page 240">"Guinness World Records 2008 - Gamer's Edition", page 240</ref><ref>{{cite web |url=http://www.twingalaxies.com/index.aspx?c=22&pi=2&gi=3834&vi=698 |title=Welcome to Twin Galaxies |publisher=Twingalaxies.com |access-date=2011-02-09 |url-status=dead |archive-url=https://web.archive.org/web/20101201023208/http://www.twingalaxies.com/index.aspx?c=22&pi=2&gi=3834&vi=698 |archive-date=2010-12-01}}</ref><!-- Note: Guinness World Records source their Arcade world records scores from Twin Galaxies -->
+
+==References==
+{{Reflist|refs=
+<ref name=giantlist>{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+}}
+
+{{Commons category|Centipede (video game)}}
+
+==External links==
+{{Portal|Video games|1980s}}
+* {{KLOV game|id=7299|name=Centipede}}
+* [http://www.arcade-history.com/?page=detail&id=427 ''Centipede''] at the Arcade History database
+* [https://web.archive.org/web/20120408142447/http://www.atari.com/arcade/arcade/centipede Atari's official online version of ''Centipede'']
+* [https://6502disassembly.com/va-centipede/ ''Centipede'' software disassembly and analysis]
+
+{{Centipede series}}
+{{Authority control}}
+
+[[Category:1981 video games]]
+[[Category:Atari games]]
+[[Category:Apple II games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 5200 games]]
+[[Category:Atari 7800 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari arcade games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Cancelled Atari Jaguar games]]
+[[Category:ColecoVision games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:Ed Logg games]]
+[[Category:Fixed shooters]]
+[[Category:Game Boy games]]
+[[Category:Game Boy Color games]]
+[[Category:Game.com games]]
+[[Category:Intellivision games]]
+[[Category:IOS games]]
+[[Category:Mobile games]]
+[[Category:TI-99/4A games]]
+[[Category:Trackball video games]]
+[[Category:Video games about insects]]
+[[Category:Video games adapted into comics]]
+[[Category:Video games developed in the United States]]
+[[Category:Windows games]]
+[[Category:World Video Game Hall of Fame]]
+[[Category:Handheld Games games]]

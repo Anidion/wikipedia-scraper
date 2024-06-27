@@ -1,0 +1,50 @@
+Atari Video Cube
+Permalink: //en.wikipedia.org/w/index.php?title=Atari_Video_Cube&oldid=1224890684
+Accessed on: 2024-06-26T16:52:57.784796
+
+
+
+------
+Atari Video Cube
+{{Infobox video game
+| title = Atari Video Cube
+| collapsible = 
+| state = 
+| image = Atari Video Cube Cover.jpg
+| caption = 
+| developer = [[General Computer Corporation]]<ref name=protos/>
+| publisher = [[Atari, Inc.|Atari]]
+| series = 
+| engine = 
+| released = [[1982 in video gaming|1982]]
+| genre = [[Puzzle video game|Puzzle]]
+| modes = 
+| platforms = [[Atari 2600]]
+}}
+
+'''''Atari Video Cube''''' is a [[puzzle video game]] developed by GCC for the [[Atari 2600]] and published by [[Atari, Inc.|Atari]] in 1982.<ref name=mania/> ''Atari Video Cube'' was sold exclusively through the Atari Club, run by Atari itself.<ref name=clubad/> Originally an unlicensed interpretation of the [[Rubik's Cube]] toy, Atari re-released the game in 1984 as ''Rubik's Cube''.<ref name=protos/><ref name="Weiss">{{cite book |last1=Weiss |first1=Brett |title=Classic Home Video Games, 1972-1984 A Complete Reference Guide |date=2011 |publisher=McFarland, Incorporated, Publishers |isbn=9780786487554 |pages=33, 101 |url=https://books.google.com/books?id=BzxTtml8Jq4C&dq=%22Atari+Video+Cube%22&pg=PA33 |access-date=27 February 2021}}</ref><ref name="Lapetino">{{cite book |last1=Lapetino |first1=Tim |title=Art Of Atari |date=2016 |publisher=Dynamite Entertainment |isbn=9781524101060 |page=252 |url=https://books.google.com/books?id=Z50oDAAAQBAJ&dq=%22Atari+Video+Cube%22&pg=PA254 |access-date=27 February 2021}}</ref>
+
+==Gameplay==
+[[File:Atari_Video_Cube_Screenshot.png|thumb|upright=2|Menu screen, which allows selection of preconfigured cube layout]]
+
+The game implements a [[Pocket Cube]], [[Rubik's Cube]] and [[Rubik's Revenge]]. The player takes control of "Hubie the Cube Master" as he tries to solve a scrambled "Video Cube". Hubie's method for solving the cube is to pick up the colored segments one-by-one and place them in their correct spaces. Picking up a square, however, limits Hubie's movements; he cannot move onto a square that matches the color of the one he is carrying.
+
+The game manual encourages players to try and solve the cube in as few moves as possible, with their total number of moves being counted at the bottom of the screen.<ref>{{Cite web|url=https://atariage.com/manual_html_page.php?SoftwareID=834|title=AtariAge - Atari 2600 Manuals (HTML) - Atari Video Cube (Atari)}}</ref> ''Atari Video Cube'' has several game modes that alter the difficulty of the game, such as square count and color range.
+
+==References==
+{{reflist|refs=
+<ref name="mania">{{cite web |title=Atari Video Cube |url=http://www.atarimania.com/game-atari-2600-vcs-atari-video-cube_7806.html |website=Atari Mania}}</ref>
+<ref name="protos">{{cite web |title=Atari Video Cube |url=http://www.atariprotos.com/2600/software/videocube/videocube.htm |website=AtariProtos}}</ref>
+<ref name="clubad">{{cite journal |title=Atari Club magazine ad |journal=Atari Age |volume=2 |issue=3 |page=17 |url=https://archive.org/details/atariage-2-3/page/n16 |date=September 1983 |publisher=Atari, Inc.}}</ref>
+}}
+
+==External links==
+* {{IAg|atari_2600_atari_video_cube}}
+
+[[Category:1982 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Video games based on Hasbro toys]]
+[[Category:Video games developed in the United States]]
+[[Category:General Computer Corporation games]]
+
+{{Puzzle-videogame-stub}}

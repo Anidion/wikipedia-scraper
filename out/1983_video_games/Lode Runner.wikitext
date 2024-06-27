@@ -1,0 +1,536 @@
+Lode Runner
+Permalink: //en.wikipedia.org/w/index.php?title=Lode_Runner&oldid=1229811024
+Accessed on: 2024-06-26T16:55:18.292619
+
+
+
+------
+Lode Runner
+{{short description|1983 video game}}
+{{Infobox video game
+| title = Lode Runner
+| image = Lode Runner Coverart.png
+| caption = VIC-20 cover art
+| developer = [[Douglas E. Smith|Doug Smith]] <br> [[Irem]] (arcade) <br> [[Hudson Soft]] (NES)
+| publisher = [[Broderbund]] (US) <br> [[Ariolasoft]] <br> [[SystemSoft]] (PC-8801)<ref name=PC88>{{cite web |title=Lode Runner (PC-8801) |url=https://mediaarts-db.bunka.go.jp/id/M736018 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=1 June 2021}}</ref> <br> [[Irem]] (arcade)
+| engine = 
+| programmer = Shinichi Nakamoto {{small|(NES)}}
+| composer = Isamu Hirano {{small|(NES)}}
+| platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[VIC-20]], [[IBM Personal Computer|IBM PC]], [[Arcade video game|Arcade]], [[PC-8801]], [[SG-1000]], [[Nintendo Entertainment System|NES]],  [[ZX Spectrum]], [[MSX]], [[Atari ST]], [[PC Engine]], [[Xbox 360]], [[Microsoft Windows|Windows]], [[iPod]], [[Classic Mac OS]], [[PlayStation 3]], [[BBC Micro]], [[PlayStation]], [[Super Nintendo Entertainment System|SNES]], [[Amstrad CPC]], [[Game Boy]]
+| released = '''Apple II, Atari 8-bit, C64''' {{vgrelease|NA|June 23, 1983<ref name="Copyright"/>}} '''PC-8801''' {{vgrelease|JP|December 1983<ref name="PC88"/>}} '''Arcade''' {{vgrelease|JP|July 1984<ref>{{cite web |title=Lode Runner (Irem) |url=https://mediaarts-db.bunka.go.jp/id/M730712 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=1 June 2021}}</ref>|EU|October 1984<ref>{{cite magazine |title=Arcade Action |magazine=[[Computer and Video Games]] |date=16 October 1984 |issue=37 (November 1984) |pages=98–9 |url=https://www.solvalou.com/arcade/reviews/191/546}}</ref>|NA|November 1984<ref>{{cite book |last=Akagi |first=Masumi |title=アーケードTVゲームリスト国内•海外編(1971–2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971–2005) |date=October 13, 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |pages=120–1 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n121/mode/2up}}</ref>}} '''NES'''<br />{{vgrelease|JP|July 20, 1984|NA|September 1987}}
+| genre = [[Platform game|Platform]]
+| modes = [[Single-player]]
+}}
+
+'''''Lode Runner''''' is a [[2D computer graphics|2D]] [[puzzle-platform game]], developed by [[Douglas E. Smith|Doug Smith]] and published by [[Broderbund]] in 1983. Its gameplay mechanics are similar to ''[[Space Panic]]'' from 1980. The player controls a character who must collect all the gold pieces in a level and get to the end while being chased by a number of enemies. It is one of the first games to include a [[level editor]].
+
+After the original game, a number of remakes, spin-offs and sequels were published in the [[Lode Runner#Legacy|''Lode Runner'' series]] for different computers and consoles by different developers and publishers. Tozai Games holds the copyright and trademark rights.<ref>{{cite web|url=http://www.tozaigames.com/legacy|title=Tozai Games ®|work=tozaigames.com|access-date=2017-07-26|archive-date=2019-12-15|archive-url=https://web.archive.org/web/20191215101222/http://www.tozaigames.com/legacy/|url-status=dead}}</ref><ref>{{Cite web|url=https://www.konami.com/games/ca/en/products/dl_battleloderunner_tg_e/|title=BATTLE LODE RUNNER|website=Konami Product Information}}</ref>
+
+==Gameplay==
+{{More citations needed section|date=November 2017}}
+[[File:Lode Runner.jpg|thumb|left|Apple II screenshot]]
+
+The player controls a [[stick figure]] who must collect all the gold in a [[Level (video games)|level]] while avoiding guards who try to catch the player. After collecting all the gold, the player must reach the top of the screen to reach the next level. There are 150 levels in the game, which progressively challenge players' problem-solving abilities or reaction times.<ref name=gameplay>{{cite news|url=http://kotaku.com/5936566/nearly-thirty-years-old-and-lode-runner-is-still-kicking-my-ass|title=Nearly Thirty Years Old, and ''Lode Runner'' Is Still Kicking My [Butt]|author=Mike Fahey|website=[[Kotaku]]|date=21 August 2012|access-date=21 September 2015}}</ref>
+
+Levels have a multi-story, brick platform motif, with [[ladder]]s and suspended [[hand-to-hand bar]]s that offer multiple ways to travel. Guards can pick up gold bars by running over them, but any individual guard may carry no more than one bar at a time. The player can dig holes into floors to temporarily trap guards and may safely walk atop any who have fallen into holes. Should a guard be carrying a bar of gold when he falls into a hole, he will drop it and the player can pick it up. Holes dug by the player fill themselves in after a short delay. A trapped guard who cannot escape a hole before it fills is consumed, immediately respawning in a random location at the top of the level. Unlike guards, the player's character may not climb up out of a hole, and he will be killed if it fills before he can escape by other means. Floors may contain [[trapdoor]]s, through which the player and guards will fall, and [[bedrock]], through which the player cannot dig.
+
+The player can dig a hole only to either side of his position and may not dig directly beneath his own feet. In order to dig through multiple layers of bricks, the player must create a gap whose width is at least equal to the number of layers. However, exceptions to this rule arise when the player digs from the position of standing on a ladder, or hanging from a hand-to-hand bar, which allows the player to repeatedly dig and descend one row. This kind of digging is involved in solving many of the levels.
+
+The player starts with five [[life (gaming)|lives]]; each level completion awards an extra life. Should a guard catch the player, one life is subtracted, and the current level restarts. The player's character can fall from arbitrary heights without any injury but cannot [[jumping|jump]], and players can trap themselves in pits from which the only escape is to abort the level, costing a life, and begin again.
+
+===Enemy AI===
+[[Image:Lode Runner enemies.gif|thumb|While the player's character's position changes, enemies tend to move alternatively, moving away from Lode Runner.]]
+
+The guards do not always take the shortest path to the player and can move in counterintuitive ways. Sometimes, when the player and a guard are on the same ladder, for instance, the guard will move away from the player. In general, depending on their exact positioning relative to Lode Runner, the guards sometimes appear to be repelled. Mastering the game involves developing the intuition to predict the movement of the guards.
+
+===Permitted contact===
+The player may come into contact with a guard directly from above, with the stick figure's feet touching the guard's head. This is what enables the player to walk over guards who are temporarily stuck in a hole that has been dug. It is also possible to make this contact while both the guard and the player are in free fall, since the player not only runs faster than the guards, but also falls faster; moreover, it is possible to survive the feet-to-head contact while a guard is standing on a platform and begins to move. Both forms of contact are necessary to solve some levels. Sometimes it is necessary to liberate a trapped guard by digging while standing on his head but then moving rapidly in the opposite direction when the guard begins marching to freedom. In a few levels, it is necessary to use a falling guard as a bridge to reach an otherwise unreachable area. One subtlety is that if a down movement is initiated while standing on a guard's head, or briefly touching the guard's head during free fall, the consequences are fatal.
+
+===Trapping and using guards===
+In some levels, guards can be deliberately trapped in various ways. For instance, they can be lured into entering a part of the level from which there is no escape. In some situations, the player can liberate trapped guards by digging them out. In some levels, the player must exploit the guards by having them collect gold pieces which are positioned such that whoever collects them will become trapped. When the guard collects the piece and becomes trapped, the player can release the guard and then later steal the gold when the guard drops it or falls into a hole.
+
+In some levels, there are gold pieces which can be collected only by killing guards by digging holes to trap them. Deceased guards come back to life from locations near the top of the screen, which may allow them to reach parts of the level that cannot be reached by the player.
+
+===Traversal orders===
+Some levels require careful ordering of traversal, because they are divided into zones connected by passages which are impossible to traverse in the reverse direction. If a gold piece remains in an unreachable zone, the player may have to abort the level to start again, losing a life, unless there is a way to coax a guard into bringing the gold.
+
+===Timing===
+Some of the game's puzzles in the advanced levels are time-sensitive. The player must dig in order to penetrate the interior of some cavern to collect gold, and quickly return the same way before the digging repairs itself, enclosing Lode Runner in that cavern with no means of escape.
+
+Some puzzles require deliberate timing among the digging actions because Lode Runner must run over previously dug-out tiles that have just repaired themselves, while having enough time to pass through ones which have not yet repaired.
+
+==Development==
+Around late 1980, high school student James Bratsanos heard from a friend about a new [[arcade video game]], ''[[Space Panic]]'' by [[Universal Entertainment|Universal]], which involves climbing platforms and ladders while digging holes to trap monsters. Bratsanos was intrigued by his friend's description of the concept, and he wanted to develop it further. He began writing a [[Commodore PET]] program, called ''Suicide'', using simple text-based graphics. Due to his lack of programming experience, there were no pre-programmed levels, but he instead built "an engine that could interpret a game level and then run a processing loop on the monsters". This novel design later evolved into the concept of a level editor.<ref name="Retro">{{cite magazine |last1=Grannell |first1=Craig |title=Lode Runner |magazine=[[Retro Gamer]] |date=January 2013 |issue=111 |pages=20–7 |url=https://issuu.com/michelfranca/docs/retro_gamer____111}}</ref><ref name="Maher">{{cite web |last1=Maher |first1=Jimmy |title=Lode Runner |url=https://www.filfre.net/2020/12/lode-runner/ |website=The Digital Antiquarian |date=December 18, 2020 |access-date=20 April 2021}}</ref>
+
+At the [[University of Washington]] in 1981, Bratsanos met two other students, [[architecture]] student [[Douglas E. Smith]] and Tracy Steinbeck. Following the release of [[Nintendo]]'s arcade platformer ''[[Donkey Kong (arcade game)|Donkey Kong]]'' that year, the three students began working on a program called ''Kong'', which evolved the concepts of ''Suicide''. Bratsanos later left the project to pursue his studies, and Smith continued to develop ''Kong''<ref name="Maher"/><ref name="Retro"/> into the prototype of what later became ''Lode Runner''.<ref name = "IGN_interview">{{cite news | date =1999-02-17| work= [[IGN]] | title = Lock'n'Lode | url = http://ign64.ign.com/articles/066/066952p1.html}}</ref> ''Kong'' was written for a [[Prime Computer|Prime Computer 550]] [[minicomputer]] limited to one building on the UW campus. ''Kong'' was soon [[porting|ported]] to [[VAX]] minicomputers, which had more terminals available on campus. The game was programmed in [[Fortran]] using [[ASCII art|ASCII character graphics]]. When ''Kong'' was ported to the VAX, some [[Pascal (programming language)|Pascal]] sections were mixed into the original Fortran code.<ref name=Douglas-death>{{cite news|url=https://www.engadget.com/2014/09/13/lode-runner-creator-douglas-e-smith-passes-away/|title=''Lode Runner'' Creator Douglas E. Smith Passes Away|author=Thomas Schulenberg|website=[[Engadget]]|date=13 September 2014|access-date=7 August 2015}}</ref>
+
+Over one weekend in 1982, Smith recreated a crude, playable version in [[MOS Technology 6502|6502]] [[assembly language]] on an [[Apple II series|Apple II+]] and renamed the game ''Miner''. Through the end of the year, he refined that version, which was black-and-white with no [[joystick]] support. He submitted a rough version to [[Broderbund]] around October 1982 and received a one-line rejection letter in response to the effect of "Thank you for submitting your game concept. Unfortunately, it does not fit within our product line."<ref name = "IGN_interview" />
+
+''Miner'', like its text-based ''Kong'' predecessors, had only simple animation where characters move across the screen in block increments. It was too primitive for an acceptable commercial product as Broderbund wanted detailed pixel-level movement.<ref name = "Ancient_History_Usenet" >{{cite web| date =1991-04-07| title = Loderunner: Ancient History! (Usenet posting to rec.games.programmer) | url = http://entropymine.com/jason/lr/misc/ldhist.html}}</ref> Smith's new game would be one of the first to include a [[level editor]] for [[user generated content]], allowing players to create [[Level (video gaming)|levels]] for the game.<ref name="Honoring the Code"/> Smith was given a $10,000 advance by Broderbund to develop the inter-square animation and to provide 150 levels of play. In a 2010 interview, [[game designer]] [[John Romero]] claimed that Smith added the level-editing function at the request of neighborhood kids he had testing the game, and "a ton" of the levels they designed ended up in the final game.<ref name="Honoring the Code">{{cite book | url=https://books.google.com/books?id=opLCzUsjRowC&pg=PA7 | title=Honoring the Code: Conversations with Great Game Designers | publisher=CRC Press | last=Barton |first=Matt | date=2010 | page=7 | isbn=978-1466567535}}</ref> Smith borrowed money to purchase a color monitor and joystick and continued to improve the game. Around Christmas of 1982, he submitted the game, renamed ''Lode Runner'', to four [[video game publisher|publishers]] and received offers from all four: [[Sierra Online|Sierra]], [[Sirius Software|Sirius]], [[Eclectic Games|Synergistic]], and Broderbund. He took the deal with Broderbund.{{citation needed|date=November 2017}}
+
+==Release and ports==
+{{More citations needed section|date=November 2017}}
+
+''Lode Runner'' was originally released on June 23, 1983.<ref name="Copyright">{{cite web |title=Lode Runner (Registration Number PA0000226732) |url=https://cocatalog.loc.gov |website=[[United States Copyright Office]] |access-date=1 June 2021}}</ref> The original [[microcomputer]] versions were for the [[Apple II series|Apple II]], [[Atari 8-bit computers]], [[VIC-20]], [[Commodore 64]], and [[IBM PC compatible]]s.<ref>{{cite book |title=Software Catalog For Apple, Atari, IBM PC, Commodore 64, and VIC-20 |chapter=Compatibility Chart |year=1983 |publisher=Broderbund Software |pages=8–9 |url=http://www.atarimania.com/catalog-atari-broderbund-software-_196_8.html |access-date=2015-02-08}}</ref> The VIC-20 version was released on cartridge, including the level editor. The Commodore 64 had both a disk and cartridge release, with the latter having 32 levels. The IBM PC port was originally on a [[self-booting disk]] and is incompatible with video cards other than [[Color Graphics Adapter|CGA]].{{Citation needed|date=January 2023}} A 1986 MS-DOS release runs on any video card.
+
+The [[Famicom]] version was released by [[Hudson Soft]] in 1984 (North American [[Nintendo Entertainment System|NES]] release in 1986) and became one of the earliest third-party games made for that system. It has 50 levels, scrolling screens, added music, and graphics redone in a more cartoon-like style. In addition, fruits and vegetables randomly appear which may be grabbed for additional points. A level editor was included, which in Japan used the Famicom's Family BASIC tape drive to save one's work; however, as with many US localisations, the NES lacked the tape drive and thus there is no way to save levels created with the US release.
+
+An [[Arcade video game|arcade]] version of ''Lode Runner'' was produced by [[Irem]] in 1984. It was notably the first time an American computer game was adapted into a Japanese arcade game.<ref name=":0">{{Cite magazine |last=Adams |first=Roe R. |date=September 1985 |title=Come Cast A Spell With Me |url=https://archive.org/details/Computer_Gaming_World_Issue_5.4/page/n20 |magazine=[[Computer Gaming World]] |pages=21, 33 |volume=4 |issue=3}}</ref> It had some added features like the ability to hang off the ends of ladders and an improved enemy AI.
+
+A port for the [[Macintosh 128K]] followed in January 1985;<ref name="CE1985">{{cite magazine |title=1985 Index |magazine=[[Computer Entertainer]] |date=January 1986 |volume=4 |issue=10 |page=6 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf#page=6}}</ref> it runs on machines up to OS 6 and can be used on System 7 with a patch. Other versions include those for the [[Atari ST]], [[ZX Spectrum]], a licensed version for [[MSX]] published by [[ASCII Corporation]], [[SG-1000]], [[Windows 3.1x]], and [[Game Boy]].
+
+Broderbund released an enhanced version, ''[[Championship Lode Runner]]'', in 1985, with 50 levels and a higher difficulty. The company offered a commemorative certificate to anyone who could submit proof of having beaten the game (and submitted proof of purchase to show that their copy of the game was not pirated). It was ported to the Apple, Atari, C64, MSX, and IBM PC, as well as the NES (although that version did not reach North America).
+
+The Atari 8-bit version of ''Lode Runner'' was converted to cartridge and re-released by [[Atari Corporation]] in 1987, as one of the series of releases for the [[Atari XEGS]] console. This version contains all 150 levels and the level editor, which requires a disk drive.
+
+==Reception==
+''Lode Runner'' was very successful. It was Broderbund's second best-selling Commodore game as of late 1987,<ref name="ferrell198712">{{cite news | url=https://archive.org/stream/1987-12-computegazette/Compute_Gazette_Issue_54_1987_Dec#page/n17/mode/2up | title=The Commodore Games That Live On And On | work=Compute's Gazette | date=December 1987 | access-date=24 January 2015 | author=Ferrell, Keith | pages=18–22}}</ref> and sales had surpassed 300,000 copies by August 1984.<ref>{{cite web|first=Susan|last=Blocker|url=https://www.newspapers.com/clip/89260965/the-gazette/|title=Iowan designs hot-selling video game|newspaper=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]]|page=20|date=August 23, 1984|access-date=November 20, 2021|via=[[Newspapers.com]]}}</ref> It was the top-selling computer game in the United States during 1983. By 1985, the game had sold just as many copies in Japan.<ref name=":0" /> {{As of|1999}}, Hudson Soft's Famicom (NES) version had sold about 1.5 million cartridges in Japan and all versions of the game had sold over 3 million units worldwide, including more than 2 million sales in Japan alone.<ref name="loderunner">{{cite web |date=February 17, 1999 |title=Lock'n'Lode |url=http://www.ign.com/articles/1999/02/18/locknlode |url-status=live |archive-url=https://web.archive.org/web/20190511123027/www.ign.com/articles/1999/02/18/locknlode |archive-date=May 11, 2019 |accessdate=April 22, 2017 |work=[[IGN]] |publisher=[[Ziff Davis]]}}</ref>
+
+''[[Softline (magazine)|Softline]]'' in 1983 praised ''Lode Runner'', calling it "smooth, thoughtful, and quite addictive". The magazine approved of its large number of unique levels, level editor ("the possibilities are astounding"), and emphasis on "wits and strategy" over violence.<ref name="albert19830708">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=6&id=12 | title=Lode Runner | work=Softline | date=Jul–Aug 1983 | access-date=28 July 2014 | author=Albert, Dave | pages=23–24}}</ref> [[Computer Gaming World|''Computer Gaming World'']] praised ''Lode Runner''{{'}}s unusually easy-to-use level editor and the strategy necessary for an arcade title, describing it as "one of the few thinking men's arcade games".<ref name="CGW">{{cite magazine | date = October 1983 | last = Besnard | first = John | magazine = [[Computer Gaming World]] | title = Lode Runner | url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=2&id=12 | page = 20}}</ref> In August 1984, ''Computer Gaming World'' held a contest for the best reader-built level.<ref name="CGWcontest">{{citation |title=Lode Runner Contest |date=August 1984 |url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=2&id=17 |magazine=[[Computer Gaming World]] |page=22}}</ref> Praises for the introduction of strategy into the "climbing game" genre and for the intuitive level editor were repeated in ''Video'' magazine's review of the game as well as praise for its graphics and animation, with the Apple II version being described as "stand[ing] out far ahead of the pack".<ref>{{cite magazine |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= November 1983 |title= Arcade Alley: Wintertime Winners |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 8|pages= 38–39|issn= 0147-8907}}</ref>{{rp|39}}
+
+''[[Ahoy!]]'' in 1984 called the game "a top-notch action game that requires both a quick mind and an agile joystick". With the "easy-to-use game generator", the magazine concluded that "''Lode Runner'' is one of the best games available for the C-64. Unconditionally and wholeheartedly recommended".<ref name="davies198403">{{cite news | url=https://archive.org/stream/Ahoy_Issue_03_1984-03_Ion_International_US#page/n57/mode/2up | title=Lode Runner | work=Ahoy! | date=Mar 1984 | access-date=27 June 2014 | author=Davies, Lloyd | pages=59–60}}</ref> ''[[PC Magazine]]'' gave the game 16.25 out of 18 points. The magazine called the game "a tour de force of American ingenuity ... the first release in a long, long time that can honestly bear the title, 'computer game' ... ''Lode Runner'' uses the power of the PC to create something much more than a video version of Ping Pong. This game requires thought, too." The magazine praised the IBM PC version's graphics, increasingly difficult level design, and the level editor.<ref name="sandler19840417">{{cite news | url=https://books.google.com/books?id=9eJxx_ZGKngC&pg=PA335 | title=Haute Cuisine and Hot Dogs | work=PC Magazine | date=1984-04-17 | access-date=24 October 2013 | author=Sandler, Corey | pages=335}}</ref> ''The Commodore 64 Home Companion'' said that "there's lots of education hidden in" the level editor, concluding that ''Lode Runner'' "is one of the first of a new breed of computer game that lets the player be a creator".<ref name=C64HC>{{cite web|url=https://archive.org/stream/The_Commodore_64_Home_Companion#page/n167/mode/2up|title=Broderbund Software|work=The Commodore 64 Home Companion|year=1984|access-date=August 19, 2016|pages=166–167}}</ref>
+
+By 1985, the game was still selling well, with ''Video'' magazine reporting that it was the 6th best-selling recreational title in March<ref>{{cite magazine|last1= Ditlea |first1= Steve |last2= Onosco |first2= Tim |last3= Kunkel |first3= Bill |author-link3= Bill Kunkel (journalist)|date= February 1985 |title= Random Access: Best Sellers/Recreation |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 8|issue= 11|pages= 34–35|issn= 0147-8907}}</ref>{{rp|35}} and April of that year.<ref>{{cite magazine |last1= Onosco |first1= Tim |last2= Kohl |first2= Louise |last3= Kunkel |first3= Bill |author-link3= Bill Kunkel (journalist)|last4= Garr|first4= Doug |author-link4= Doug Garr|date= March 1985 |title= Random Access: Best Sellers/Recreation |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 8|issue= 12|pages= 42–43|issn= 0147-8907}}</ref>{{rp|43}} ''[[Zzap!64]]'' called the Commodore 64 version "not one of the most recent games but certainly one of the best ... a classic for a long time to come ... graphically minuscule and aurally crude, the game's sheer addiction kept my eyes propped open until the owls went to bed".<ref name="zzap198506">{{cite news | url=https://archive.org/stream/zzap64-magazine-002/ZZap_64_Issue_002_1985_Jun#page/n71/mode/2up | title=Lode Runner | work=Zzap!64 | date=June 1985 | access-date=26 October 2013 | pages=73 | type=review}}</ref>
+
+In 1984, ''Lode Runner'' was awarded "1984 Computer [[List of Game of the Year awards|Game of the Year]]" at the 5th annual [[Arkie Awards]]. Judges praised its "outstanding design", and described it as "fascinating", "irresistible", and as "the thinking player's climbing conquest".<ref>{{cite magazine |last1= Kunkel |first1= Bill |author-link1= Bill Kunkel (journalist)|last2= Katz |first2= Arnie |author-link2= Arnie Katz|date= February 1984 |title= Arcade Alley: The 1984 Arcade Awards, Part II |magazine= [[Video (magazine)|Video]]|publisher= Reese Communications|volume= 7|issue= 11|pages= 28–29|issn= 0147-8907}}</ref>{{rp|28}} ''Softline'' readers named ''Lode Runner'' the most popular Apple and fourth most-popular Atari program of 1983.<ref name="stgame19840304">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=6&id=16 | title=The Best and the Rest | work=St.Game | date=Mar–Apr 1984 | access-date=28 July 2014 | pages=49}}</ref> In 1993 the [[ZX Spectrum|Spectrum]] version of the game was voted number 37 in the ''[[Your Sinclair]] Official Top 100 Games of All Time''.<ref>{{cite magazine |title=YS Top 100 Games of All Time|magazine=Your Sinclair|date=September 1993}}</ref> [[GameSpot]] named ''Lode Runner'' as one of the "Greatest Games of All Time".<ref>{{cite web|url=http://www.gamespot.com/gamespot/features/all/greatestgames/index.html|archive-url=https://web.archive.org/web/20110525052230/http://www.gamespot.com/gamespot/features/all/greatestgames/index.html|title=The Greatest Games of All Time|archive-date=25 May 2011|work=gamespot.com}}</ref> In 1996, ''Computer Gaming World'' declared ''Lode Runner'' the 80th-best computer game ever released.<ref name=cgw150>{{cite magazine | author=Staff | title=150 Best (and 50 Worst) Games of All Time | magazine=[[Computer Gaming World]] | date=November 1996 | issue=148 | pages=63–65, 68, 72, 74, 76, 78, 80, 84, 88, 90, 94, 98}}</ref> ''[[Time (magazine)|Time]]'' in 2010 rated ''Lode Runner'' #1 game in "The 10 Greatest Games for the Apple II" list.<ref>{{cite news
+|url = http://techland.time.com/2010/01/06/the-10-greatest-games-for-the-apple-ii/
+|title = The 10 Greatest Games for the Apple II
+|first = Lev
+|last = Grossman
+|magazine = Time
+|date = January 6, 2010}}</ref> ''[[Game Informer]]'' placed the game 52nd on their top 100 video games of all time in 2001.<ref>{{Cite magazine|last=Cork|first=Jeff|title=Game Informer's Top 100 Games Of All Time (Circa Issue 100)|url=https://www.gameinformer.com/b/features/archive/2009/11/16/game-informer-s-top-100-games-of-all-time-circa-issue-100.aspx|access-date=2020-12-01|magazine=Game Informer|language=en}}</ref>
+
+[[Orson Scott Card]] wrote in ''[[Compute!]]'' in 1989 that its editor was the first game that let him and his family express their creativity through gaming.<ref name="card198901">{{cite news | url=https://archive.org/stream/1989-01-compute-magazine/Compute_Issue_104_1989_Jan#page/n13/mode/2up | title=Gameplay | work=Compute! | date=January 1989 | access-date=10 November 2013 | author=Card, Orson Scott | pages=12}}</ref> ''[[Tetris]]'' designer [[Alexey Pajitnov]] stated in 2008 that ''Lode Runner'' was his favorite puzzle game for many years.<ref>{{cite web|url=http://www.next-gen.biz/features/interview-man-who-changed-everything|archive-url=https://archive.today/20120907030140/http://www.next-gen.biz/features/interview-man-who-changed-everything|url-status=dead|archive-date=2012-09-07|title=Interview: The Man Who Changed Everything|access-date=2008-01-01}}</ref>
+
+==Legacy==
+{| class="wikitable collapsible sortable"
+|+ List of ''Lode Runner'' games<ref name="tozaiHistory">{{cite web | url=http://www.tozaigames.com/loderunner/history | title=Lode Runner - History | publisher=Tozai, Inc | work=Tozai Games | access-date=16 September 2015 | archive-date=15 August 2015 | archive-url=https://web.archive.org/web/20150815164622/http://www.tozaigames.com/loderunner/history | url-status=dead }}</ref>
+! style="font-weight: bold;" | Title
+! style="font-weight: bold;" | Year released
+! style="font-weight: bold;" | Platforms
+! style="font-weight: bold;" | Developer(s)
+! style="font-weight: bold;" | Publisher(s)
+! style="font-weight: bold;" | Comments
+|-
+| ''Lode Runner''
+| 1983
+| Apple II, Atari 8-bit, Commodore 64, VIC-20, PC
+| Douglas E. Smith
+| [[Broderbund]]
+| The original game published by Broderbund, developed for Apple II, contained 150 levels and level editor.
+|-
+|''Lode Runner''
+| 1984
+| Macintosh
+| Glenn Axworthy
+| Broderbund
+| Macintosh port
+|-
+| ''Lode Runner''
+| 1984
+| Famicom (1984), NES (1986)
+| [[Hudson Soft]]
+| [[Hudson Soft]]
+| 50 levels, scrolling screens, added music, graphics redone in a more cartoon-like style, fruits and vegetables randomly appear which may be grabbed for additional points, level editor.
+|-
+| ''[[Championship Lode Runner]]''
+| 1984
+| Apple II, Commodore 64, VIC-20, ZX Spectrum, Atari 8-bit, SG-1000, MSX, Famicom, NEC PC Series
+| Broderbund, [[Compile (company)|Compile Corporation]] (SG-1000 and MSX versions)
+| Broderbund, [[Hudson Soft]] (for Famicom), SEGA (for SG-1000), Sony (for MSX)
+| A direct sequel with 50 levels edited by fans and intended for expert play. This game was also scheduled to be released in Japan on October 27, 2009 on the Virtual Console.
+|-
+| ''Lode Runner''
+| 1984
+| Arcade (Coin-operated [[Japan Amusement Machinery Manufacturers Association|JAMMA]] board)
+| [[Irem]]
+| Irem
+| 24 remixed levels from the 150 original 1983 levels but reduced to fit a smaller grid of 24x15. This was also the first time a game had transitioned from a home entertainment console to coin-operated arcade cabinet.
+|-
+| ''Lode Runner: The Bungeling Strikes Back''
+| 1984
+| Arcade (Coin-operated Jamma board)
+| Irem
+| Irem
+| Consisted of 30 levels, with 10 of these based on the original set.
+|-
+| ''Lode Runner II''
+| 1985
+| MSX
+| Douglas E. Smith
+| Broderbund
+| MSX version released in 1985 with 50 levels (22 original levels & 28 new levels)
+|-
+| ''Lode Runner: The Golden Labyrinth (Majin No Fukkatsu)''
+| 1985
+| Arcade (Coin-operated Jamma board)
+| Irem
+| Irem
+| As with the other Irem arcade versions contained 30 levels inspired on the original set.
+|-
+|''[[Lode Runner's Rescue]]''
+|1985
+|Atari 8-bit,<ref>{{cite web|url=http://www.atarimania.com/game-atari-400-800-xl-xe-lode-runner-s-rescue_3022.html|title=Atari 400 800 XL XE Lode Runner's Rescue: scans, dump, download, screenshots, ads, videos, catalog, instructions, roms|work=atarimania.com}}</ref> Commodore 64
+|Joshua Scholar
+|[[Synapse Software]]
+|3-D sequel with dozens of 3-D perspective levels and screen design editor. ''[[Computer Gaming World]]'' praised the Atari version's graphics but asked "How likely is it that a game with girls, mice, cats, and magic mushrooms should be called 'Lode Runner's Rescue'?" It speculated that the publisher put the series name on an unrelated game.<ref name="williams198602">{{cite magazine|title=Atari Playfield|url=http://www.cgwmuseum.org/galleries/index.php?year=1986&pub=2&id=25 | date=Jan–Feb 1986|magazine=Computer Gaming World|pages=32|author=Williams, Gregg}}</ref>
+|-
+| ''Lode Runner: Teikoku Karano Dasshutsu''
+| 1986
+| Arcade (Coin-operated Jamma board)
+| Irem
+| Irem
+| As with the other Irem arcade versions contained 30 levels inspired on the original set.
+|-
+| ''Lode Runner Board Game''<ref>{{cite web|url=http://boardgamegeek.com/boardgame/31564/lode-runner|title=Lode Runner - Board Game - BoardGameGeek|work=boardgamegeek.com}}</ref>
+| 1986
+| Board game
+| Don Carlston, Broderbund
+| [[Tsukuda]] Original
+|
+|-
+| ''Super Lode Runner''
+| 1987
+| Famicom Disk System, MSX
+| Irem
+| Irem
+|
+|-
+| ''Super Lode Runner II''
+| 1987
+| Famicom Disk System, MSX
+| Irem
+| Irem
+|
+|-
+| ''[[Hyper Lode Runner]]''
+| 1989
+| Game Boy
+| [[Bandai]]
+| Bandai
+|
+|-
+| ''Lode Runner: The Lost Labyrinth''
+| 1990
+| PC Engine
+| Pack-In-Video
+| Broderbund
+|
+|-
+| ''[[Battle Lode Runner]]''
+| 1993
+| PC Engine (Japan only)
+| Hudson Soft
+| Hudson Soft
+|
+|-
+| ''[[Lode Runner: The Legend Returns]]''
+| 1994
+| Windows, DOS, Mac OS, Saturn & PSX
+| Presage
+| [[Sierra Entertainment|Sierra Online]]
+|
+|-
+| ''Lode Runner Twin''
+| 1994
+| SNES (Japan only)
+| [[T&E Soft]]
+| T&E Soft
+|
+|-
+| ''[[Lode Runner Online: The Mad Monks' Revenge]]''
+| 1995
+| Windows, Mac OS
+| Presage
+| Sierra Online
+|
+|-
+| ''Lode Runner''
+| 1997
+| Handheld dedicated keychain game
+| XING Entertainment
+| XING Entertainment
+|
+|-
+| ''Lode Runner Extra''
+| 1997
+| Sega Saturn (Japan only) 1997, PSX 1998
+| Game Arts Co. Ltd
+| PATRA (Sega), Natsume (PSX)
+|
+|-
+| ''[[Lode Runner 2]]''
+| 1998
+| Windows, Mac OS
+| Presage
+| GT Interactive & MacSoft
+|
+|-
+| ''[[Lode Runner 3-D]]''
+| 1999
+| Nintendo 64
+| Big Bang Software
+| Infogrames (U.S./Europe), Banpresto (Japan)
+|
+|-
+| ''Power Lode Runner''
+| 1999
+| SNES (Japan only)
+| [[Atelier Double]], Eye On, T&E Soft
+| Nintendo
+|
+|-
+| ''Lode Runner: The Dig Fight''
+| 2000
+| Coin-operated Arcade (Japan only)
+| Psikyo
+| Psikyo
+|
+|-
+| ''Lode Runner: The Dig Fight Version B''
+| 2000
+| Coin-operated Arcade (Japan only)
+| Psikyo
+| Psikyo
+|
+|-
+| ''Lode Runner: WonderSwan''
+| 2000
+| WonderSwan (Japan only)
+| Banpresto
+| Banpresto
+|
+|-
+| ''Lode Runner: Domudomu Dan no Yabou''
+| 2000
+| Game Boy Color
+| XING Entertainment
+| XING Entertainment
+|
+|-
+| ''Lode Runner: Game Boy Advance''
+| 2002
+| Game Boy Advance
+| Success
+| Success
+|
+|-
+| ''Cubic Lode Runner''
+| 2003
+| GameCube, PS2 (Japan only)
+| Hudson Soft
+| Hudson Soft
+|
+|-
+| ''Lode Runner Mobile''
+| 2004
+| Mobile phone
+| FT Mobile
+| Hudson Soft
+|
+|-
+| ''Lode Runner: Hudson Best Collection, Vol. 2''
+| 2005
+| Game Boy Advance
+| Hudson Soft
+| Hudson Soft
+|
+|-
+| ''Lode Runner DS''
+| 2006
+| Nintendo DS
+| Hudson Soft
+| Hudson Soft
+|
+|-
+| ''Lode Runner Deluxe''
+| 2006
+| Mobile phone
+| Hudson Soft
+| Hudson Soft
+|
+|-
+| ''Lode Runner''
+| 2007
+| Wii VC
+| Hudson Soft
+| Hudson Soft
+| Re-release of ''Lode Runner'' NES original & ''Battle Lode Runner'' originally for PC Engine.
+|-
+| ''Lode Runner Mobile''
+| 2008
+| Mobile phone (Java)
+| Hudson Soft
+| Living Mobile
+|
+|-
+| ''Lode Runner iPod''
+| 2008
+| iPod
+| Hudson Soft
+| Hudson Soft
+| ''Lode Runner'' was made available for the click-wheel version of Apple's iPod in mid-December 2008 with enhanced, scrolling graphics. It was released by HudsonSoft. It contains 130 levels and several tutorial videos.<ref>{{cite web|url=http://www.ign.com/articles/2008/12/16/lode-runner-for-ipod-launches-today|title=''Lode Runner'' for iPod Launches Today|author=IGN Staff|website=[[IGN]]|date=16 December 2008|access-date=7 August 2015}}</ref>
+|-
+| ''Championship Lode Runner''
+| 2009
+| Wii VC
+| Hudson Soft
+| Hudson Soft
+| Re-release of ''Championship Lode Runner'' NES original (Japan only)
+|-
+| ''Lode Runner''
+| 2009
+| Xbox 360 LIVE Arcade
+| Tozai Games/[[Southend Interactive]]
+| Tozai Games/Microsoft
+|
+|-
+| ''Lode Runner X''
+| 2012
+| Xperia mobile devices, Android
+| Tozai Games/Southend Interactive
+| Tozai Games/Sony Ericsson
+|
+|-
+| ''Lode Runner Classic''
+| 2012
+| Windows Phone 7, Android, iOS
+| Tozai Games/Studio Voltz
+| Tozai Games/Microsoft
+|
+|-
+| ''Lode Runner 1''
+| 2017
+| Android, iOS
+| [[devCAT]]
+| [[NEXON Corporation|NEXON Company]]
+|Remake of NES version.
+|-
+|''Lode Runner Legacy''
+| 2017
+| Windows, MacOS, Linux, Nintendo Switch, PS4
+| Tozai Games
+| Tozai Games
+|
+|-
+|''Lode Runner''
+| 2022
+| Atari 2600
+| Dion Olsthoorn
+| Tozai Games
+|
+|-
+| Untitled ''Lode Runner'' game
+| TBA{{needs update inline|date=June 2022}}
+| [[Intellivision Amico]]
+| 
+| 
+| Made in partnership with [[Intellivision#Intellivision Entertainment|Intellivision Entertainment]].<ref name="Intellivision shows off Amico’s hardware design, with a Qualcomm processor">{{cite web|url=https://venturebeat.com/2020/10/10/intellivision-shows-off-amicos-hardware-design-with-a-qualcomm-processor/|title=Intellivision shows off Amico's hardware design, with a Qualcomm processor|last1=Takahashi|first1=Dean|date=October 10, 2019|publisher=Venture Beat|access-date=13 October 2020}}</ref>
+|}
+
+===Arcade===
+In 1984, [[Irem]] developed an arcade conversion of ''Lode Runner''.<ref>{{cite web |url        =http://www.arcade-museum.com/game_detail.php?game_id=8441| title =Lode Runner| publisher =The International Arcade Museum |access-date =5 Oct 2013}}</ref> It contains 24 remixed levels from the 150 original levels. Irem brought many of its arcade-inspired levels to the Famicom Disk System with the names ''Super Lode Runner'' and ''Super Lode Runner II''. In Japan, ''[[:ja:ゲームマシン|Game Machine]]'' listed ''Lode Runner'' on their August 1, 1984 issue as being the most successful [[table arcade cabinet]] of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=241|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 August 1984|page=27|lang=ja}}</ref> The arcade version has numerous sequels, including these:
+
+* ''Lode Runner: The Bungeling Strikes Back'' (1984), selecting 30 levels based on the original game developed for the arcade. The gameplay is almost exactly the same (save the addition of a two-player mode) and the only heavy modification was the graphics and advancement to a 512-color palette. In Japan, ''Game Machine'' listed ''Lode Runner: The Bungeling Strikes Back'' on their March 1, 1985 issue as the seventh most successful table arcade unit of the month.<ref>{{cite magazine|title=Game Machine's Best Hit Games 25 - テーブル型TVゲーム機 (Table Videos)|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=255|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 March 1985|page=21|lang=ja}}</ref>
+* ''Lode Runner: Majin No Fukkatsu'' (1985), also known as ''Lode Runner: The Golden Labyrinth'', developed by Irem. In Japan, ''Game Machine'' listed it on their December 15, 1985 issue as the top-grossing table arcade unit during that month.<ref>{{cite magazine|date=15 December 1985|title=Best Hit Games 25|url=https://onitama.tv/gamemachine/pdf/19851215p.pdf#page=13|magazine=[[:ja:ゲームマシン|Game Machine]]|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|issue=273|page=25|lang=ja}}</ref> It went on to be Japan's ninth highest-grossing table arcade game during the [[1986 in video games|first half of 1986]].<ref>{{cite magazine |title=Game Machine's Best Hit Games 25: '86 上半期 |trans-title=Game Machine's Best Hit Games 25: First Half '86 |magazine=[[:ja:ゲームマシン|Game Machine]] |issue=288 |publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]] |date=15 July 1986 |page=28 |lang=ja |url=https://onitama.tv/gamemachine/pdf/19860715p.pdf#page=15}}</ref>
+* ''Lode Runner: Teikoku Karano Dasshutsu'' (1986)
+* ''Lode Runner: The Dig Fight'' (2000)
+
+===1990s===
+* ''Lode Runner: The Lost Labyrinth'', 1990 updated version for the [[PC Engine|TurboGrafx-16]] featuring all 150 levels of the 1983 set.
+* ''[[Lode Runner: The Legend Returns]]'', a 1994 Sierra incarnation of the original game with enhanced graphics and tools.
+* ''[[Lode Runner Online: The Mad Monks' Revenge]]'', the 1995 [[Video game remake|remake]] which replaced all the elements of the previous plus new online play.
+* ''[[Lode Runner 2]]'' (1998), a game with isometric 3D gameplay.
+* ''[[Lode Runner (1998 video game)|Lode Runner]]'' (1998), a compilation game for PlayStation, which includes ''Lode Runner: The Legend Returns'' and ''Lode Runner Extra''.
+* ''[[Lode Runner 3-D]]'' (1999) for the [[Nintendo 64]].
+
+Several versions of ''Lode Runner'' were not released in the U.S., such as ''Lode Runner Twin'' and ''Power Lode Runner'' (1999, [[Super Famicom|SFC]]), which vary gameplay, mostly by adding different characters and scenarios. Another title, ''[[Battle Lode Runner]]'', was originally exclusive to Japan, but made available on 23 April 2007 as the first Japan-only game to appear on [[Nintendo]]'s [[Virtual Console]] service.<ref>{{cite magazine|url=https://www.wired.com/2007/04/battle_lode_run/|title=''Battle Lode Runner'' First Japan-Only Retro Game on U.S. Virtual Console|author=Chriskohler|magazine=[[Wired (website)|Wired]]|date= 23 April 2007|access-date=9 August 2015}}</ref> The original ''Lode Runner'' followed in June 2007. There is also a ''Cubic Lode Runner'', a 3-D ''Lode Runner'' variant released only in Japan for the [[GameCube]] and [[PlayStation 2]].<ref>{{cite web|url=http://www.hudson.co.jp/gamenavi/gamedb/softinfo/hu_select/load/load1.html|archive-url=https://web.archive.org/web/20070304202409/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/hu_select/load/load1.html|title=キュービックロードランナー公式サイト|archive-date=4 March 2007|work=hudson.co.jp}}</ref>
+
+The [[Nintendo Entertainment System|NES]] version, developed by [[Hudson Soft]], marked the first appearance of [[Bomberman|Bombermen]] as the opposing robots.<ref>{{cite news|url=http://www.gamesradar.com/seemingly-unrelated-games-you-probably-didnt-know-were-set-same-universe/|title=Seemingly Unrelated Games [Which] You Probably Didn't Know Were Set in the Same Universe|author=David Houghton|website=[[GamesRadar+]]|date=23 November 2012|access-date=8 August 2015}}</ref> The end screen to ''[[Bomberman (1983 video game)|Bomberman]]'' for the NES notes that the original White Bomberman has turned human and hints at his appearance in another game, with the Lode Runner behind him. In the Japanese version, the reference is more direct: "Congratulations - Bomber Man becomes Runner - See you again in Lode Runner".
+
+In Japan, the [[Nintendo Entertainment System|Famicom]] version of ''Lode Runner'' allows editing and creating levels to share with friends using a [[Famicom Data Recorder]].<ref>{{cite web | url=http://www.nintendoworldreport.com/feature/27929/nintendos-expansion-ports-famicom-basic-and-data-recorder | first=Danny | last=Bivens | work=Nintendo World Report | date=October 26, 2011 | title=Famicom BASIC and Data Recorder - Feature | access-date=September 29, 2019}}</ref>
+
+[[Hudson Soft]] released a version of ''Lode Runner'' for [[Nintendo DS]] in 2006.<ref>{{cite web|url=http://www.hudson.jp/puzzle/loderunner/|title=コナミ 商品・サービス - KONAMI|author=KONAMI|work=hudson.jp}}{{Dead link|date=August 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+An unreleased version of the game for the [[Atari Lynx]] was discovered in 2008 on an old Atari Corp. hard drive.<ref>{{cite web|title=Lode Runner Found and Released!|url=https://atariage.com/forums/topic/128853-lode-runner-found-and-released/|website=Atari Age Forums|date=July 16, 2008}}</ref>
+
+===2000s===
+[[Image:Loderunner.jpg|right|thumb|[[Xbox Live Arcade]] version]]
+
+A remake of ''Lode Runner'', developed by Tozai and [[Southend Interactive]], was released on April 22, 2009. The game features revamped 3D graphics, additional game modes, cooperative and competitive multiplayer support, six new block types and a level editor, as well as live leaderboards and a timeline of the game's history.<ref>[http://www.gamerankings.com/xbox360/944469-lode-runner/index.html Lode Runner for Xbox 360] on GameRankings</ref><ref>[http://xboxlive.ign.com/articles/974/974611p1.html Lode Runner (X360) Review] {{webarchive|url=https://web.archive.org/web/20090423080156/http://xboxlive.ign.com/articles/974/974611p1.html |date=2009-04-23}}, IGN</ref>
+
+===2010s===
+''Lode Runner Classic'' was made available as an Xbox Live enhanced game for [[Windows Phone]] 7 series of phones on July 18, 2012. It features the graphics, gameplay, and 150 levels from the original ''Lode Runner'' game.<ref>{{cite news|url=http://wmpoweruser.com/lode-runner-classic-another-new-xbox-live-title-in-windows-phone-marketplace/|title=''Lode Runner Classic'', Another New Xbox LIVE Title in Windows Phone Marketplace|author=Pradeep|website=[[WMPoweruser]]|date=18 July 2012|access-date=23 September 2015|archive-date=25 September 2015|archive-url=https://web.archive.org/web/20150925102323/http://wmpoweruser.com/lode-runner-classic-another-new-xbox-live-title-in-windows-phone-marketplace/|url-status=dead}}</ref> ''Lode Runner Classic'' was released for [[iOS]] and Android phones on January 17, 2013.<ref>{{cite news|url=https://venturebeat.com/2013/01/17/lode-runners-30th-anniversary-sees-it-reborn-for-ios-and-android/|title=Lode Runner's 30th Anniversary Sees the Gaming Classic Reborn for iOS and Android|author=Dan Crawley|work=[[VentureBeat]]|date=17 January 2013|access-date=23 September 2015}}</ref>
+
+''Lode Runner 1'' is a remake of the original NES game, and has the same mechanic, in brand new 2D graphics. It is different to the other same-year release in the series, ''Lode Runner Legacy''. It was released for free on Android, iPhone and iPad on May 18, 2017.<ref name="LR1-2017_TA">{{cite news|url=https://toucharcade.com/2017/05/19/lode-runner-1-is-a-well-made-adaptation-of-lode-runner-and-completely-free/ |title=‘Lode Runner 1’ is a Well-Made Adaptation of ‘Lode Runner’ and…Completely Free? |author=Carter Dotson |website=[[TouchArcade]] |date=May 19, 2017 |access-date=June 18, 2024 |archive-url=https://web.archive.org/web/20180430155819/http://toucharcade.com:80/2017/05/19/lode-runner-1-is-a-well-made-adaptation-of-lode-runner-and-completely-free |archive-date=April 30, 2018 |url-status=dead}}</ref>
+
+===2020s===
+A new ''Lode Runner'' game was announced for the [[Intellivision Amico]]. It is being made in partnership between [[Intellivision#Intellivision Entertainment|Intellivision Entertainment]] and Tozai Games.<ref>{{cite press release|title=Intellivision® Reveals Initial Details For The Upcoming Amico™ Home Video Game Console!|url=https://www.prnewswire.com/news-releases/intellivision-reveals-initial-details-for-the-upcoming-amico-home-video-game-console-300734998.html|website=PR Newswire|access-date=October 13, 2020}}</ref>
+
+Dion Olsthoorn licensed the original ''Lode Runner'' from Tozai to create a version for the Atari 2600.<ref>{{cite web|title=Lode Runner™ for Atari 2600
+|date=19 August 2022 |url=https://forums.atariage.com/topic/339630-lode-runner%E2%84%A2-for-atari-2600/#comment-5108404}} on Atari Age</ref> The ZeroPage Homebrew channel featured the gameplay and an interview with the programmer on their Twitch Livestream on October 8, 2022.<ref>{{cite web|title="Lode Runner™ (Atari 2600) Exclusive World Premiere PLUS Interview with Developer Dion Olsthoorn| website=[[YouTube]] |url=https://www.youtube.com/watch?v=Rp4MfAQ9fO8}} on YouTube</ref>
+
+==See also==
+* ''[[Mr. Robot and His Robot Factory]]'' (1984)
+* ''[[Ultimate Wizard]]'' (1984)
+* [[Ladder (video game)|''Ladder'' (video game)]] (1982)
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{moby game|id=-group/lode-runner-series|name=''Lode Runner'' series}}
+* {{KLOV game|id=8441}}
+* {{Internet Archive game|id=msdos_Lode_Runner_1983_1983}}
+* [https://www.igdb.com/collections/lode-runner ''Lode Runner'' series] at [[IGDB]]
+* [http://loderunnerwebgame.com/game/ ''Lode Runner''] can be played for free in the browser 
+* [https://web.archive.org/web/20131006092123/http://loderunner.home.insightbb.com/ The ''Lode Runner'' Museum]
+* [https://akakan.seesaa.net/article/LODE000.html The ''Lode Runner PC-98 Version'' Museum]
+
+{{Lode Runner Series}}
+
+[[Category:1983 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Arcade video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Atari ST games]]
+[[Category:Broderbund games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Cancelled Atari Lynx games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:DOS games]]
+[[Category:Game Boy games]]
+[[Category:FM-7 games]]
+[[Category:Classic Mac OS games]]
+[[Category:Mobile games]]
+[[Category:MSX games]]
+[[Category:NEC PC-6001 games]]
+[[Category:NEC PC-8001 games]]
+[[Category:NEC PC-8801 games]]
+[[Category:NEC PC-9801 games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Super Nintendo Entertainment System games]]
+[[Category:Puzzle-platformers]]
+[[Category:PlayStation (console) games]]
+[[Category:SG-1000 games]]
+[[Category:Sharp MZ games]]
+[[Category:Sharp X1 games]]
+[[Category:TurboGrafx-16 games]]
+[[Category:Virtual Console games]]
+[[Category:Virtual Console games for Wii U]]
+[[Category:Windows games]]
+[[Category:WonderSwan games]]
+[[Category:Nintendo DS games]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:ZX Spectrum games]]
+[[Category:Southend Interactive games]]
+[[Category:Video games developed in the United States]]
+[[Category:Android (operating system) games]]
+[[Category:Single-player video games]]
+[[Category:Video game level editors]]
+[[Category:Video games with user-generated gameplay content]]
+[[Category:Ariolasoft games]]
+[[Category:SystemSoft Alpha games]]

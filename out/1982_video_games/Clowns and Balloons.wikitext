@@ -1,0 +1,67 @@
+Clowns and Balloons
+Permalink: //en.wikipedia.org/w/index.php?title=Clowns_and_Balloons&oldid=1224116819
+Accessed on: 2024-06-26T16:53:11.754853
+
+
+
+------
+Clowns and Balloons
+{{short description|1982 video game}}
+{{Infobox video game
+| title = Clowns and Balloons
+| image = Clowns_and_Baloons_Atari_8_bit_front_cover.jpg
+| developer = 
+| publisher = [[Datasoft]]
+| designer = '''Atari 8-bit'''<br>Frank Cohen<br>'''TRS-80 Color Computer'''<br>Steve Bjork
+| platforms = [[Atari 8-bit computers|Atari 8-bit]], [[TRS-80 Color Computer]]
+| released = 1982
+| genre= [[Action game|Action]]
+}}
+
+'''''Clowns and Balloons''''' is a circus-themed video game written by Frank Cohen for [[Atari 8-bit computers]] and published in 1982 by [[Datasoft]].<ref name=giantlist/><ref name=atarimania/> The game was also released for the [[TRS-80 Color Computer]], written by [[Steve Bjork]] who had released a similar game called [[Space Ball]] for the [[TRS-80]] in 1980.<ref>{{Cite magazine |last=Ausburg |first=Cray |date=July 1986 |title=Building an OS-9 Support Network |url=https://archive.org/details/rainbowmagazine-1986-07/page/n87/mode/2up?view=theater |magazine=[[The Rainbow (magazine)|The Rainbow]] |volume=V |issue=12 |page=88 |access-date=June 1, 2023}}</ref><ref>{{Cite magazine |date=August 1985 |title=Radio Shack has the Color Computer Software You Want at New Low Prices! |url=https://archive.org/details/rainbowmagazine-1985-08/page/n183/mode/2up?view=theater |magazine=[[The Rainbow (magazine)|The Rainbow]] |volume=V |issue=1 |page=187 |access-date=March 20, 2024}}</ref><ref>{{cite web |url=https://www.youtube.com/watch?v=QcaVxxMhCHs |title=Space Ball (1980) by Steve Bjork for the Radio Shack TRS-80 Model 1/3|last= |first= |date= 16 March 2024|website= [[YouTube]]|publisher= |access-date= |quote=}}</ref> ''Clowns and Balloons'' is a clone of the 1977 arcade game ''[[Circus (video game)|Circus]]''. A variant of ''[[Breakout (video game)|Breakout]]'', the player moves a trampoline left and right to catch a bouncing clown who pops rows of balloons at the top of the screen with his head.
+
+==Gameplay==
+[[Image:Clowns_and_Baloons_Atari_8_bit_screenshot.png|thumb|left|A clown in mid-air about to pop a balloon]]
+
+The object of ''Clowns and Balloons'' is to move a trampoline under a clown and bounce it high enough into the air to burst the balloons at the top of the screen. The player moves the trampoline horizontally with the [[joystick]] or [[Paddle (game controller)|paddles]]. There are three levels of difficulty.<ref name="Creative Atari">{{Cite book |chapter-url=https://archive.org/details/ataribooks-the-creative-atari/page/n187/mode/2up?view=theater |title=The Creative Atari |publisher=Creative Computing Press |year=1983 |isbn=0-916688-34-8 |last=Anderson |first=John |editor-last=Small |editor-first=David |location=Morris Plains, NJ |pages=186–187 |chapter=Part III. Hardware and Software |lccn=82-71997 |editor-last2=Small |editor-first2=Sandy |editor-last3=Blank |editor-first3=George}}</ref>
+
+There is a bonus for clearing each row of balloons completely starting from the bottom and working up. If the balloons are not cleared in order, the row refills. The clown bounces at different angles depending on where they land on the trampoline.
+
+==Reception==
+Charles Brannon, who reviewed the game for ''[[Compute!]]'' magazine, liked the game: "The animation remains fairly simple, though smooth. The sound and music are some of the best I've heard. Despite the simple theme, ''Clowns and Balloons'' turned out to be great fun, and inspired hours of frenzied joystick twisting."<ref name=compute/> ''[[Page 6]]'' admired the graphics and sound, calling them an impressive demonstration of the Atari's capabilities. However, they stated: "Playing required a lot of perseverence to get used to the speed of movement of the joystick. In fact I was beginning to get bored before I got good enough to burst the first set of balloons [...]".<ref>{{Cite magazine |date=December 1982 |title=Clows & Balloons |url=https://archive.org/details/Page6-01-Dec82/page/14/mode/2up?view=theater |magazine=[[Page 6]] |issue=1 |page=15 |access-date=June 1, 2023}}</ref> David Plotkin of ''[[SoftSide]]'' remarked that the game is easy to play but "requires quick reflexes and considerable skill" to master and recommended the paddle rather than the joystick. Plotkin echoed ''Page 6''<nowiki/>'s sentiment regarding the presentation, stating: "The programmers at DataSoft understand the Atari's features very well."<ref>{{Cite magazine |last=Plotkin |first=David |date=November 1982 |title=An Atari Christmas |url=https://archive.org/details/softside-magazine-50/page/n91/mode/2up?view=theater |magazine=[[SoftSide]] |issue=35 |pages=90–91 |access-date=June 1, 2023}}</ref> John Anderson in the book ''The Creative Atari'' praised the game, writing that fans of ''Circus'' would "especially appreciate the sophistication of ''Clowns and Balloons''" and saying it "may well be the most addictive game I have seen since ''[[Threshold (video game)|Threshold]]''."<ref name="Creative Atari"/>
+
+==See also==
+{{Portal|Video games}}
+Other games written by Frank Cohen:
+* ''[[Cohen's Towers]]'' (1983)
+* ''[[Ghost Chaser]]'' (1984)
+* ''[[Ollie's Follies]]'' (1984)
+* ''[[The Scrolls of Abadon]]'' (1984)
+Other games written by Steve Bjork:
+* ''[[Space Ball]]'' (1980)
+* ''[[Canyon Climber]]'' (1982)
+* ''[[Dung Beetles (video game)|Mega-Bug]]'' (1982)
+* ''[[The Sands of Egypt]]'' (1982)
+* ''[[Pitfall II: Lost Caverns]]'' (1984)
+* ''[[Super Pitfall]]'' (1986)
+
+==References==
+{{Reflist|refs=
+<ref name=atarimania>{{cite web |title=Clowns and Balloons |url=http://www.atarimania.com/game-atari-400-800-xl-xe-clowns-and-balloons_1099.html |website=Atari Mania}}</ref>
+<ref name="giantlist">{{cite web|title=The Giant List of Classic Game Programmers|url=https://dadgum.com/giantlist/|last1=Hague|first1=James}}</ref>
+<ref name=compute>{{cite web |title=Compute! ISSUE 29 / OCTOBER 1982 / PAGE 127 |url=https://archive.org/stream/1982-10-compute-magazine/Compute_Issue_029_1982_Oct#page/n129/mode/2up |last1=Brannon |first1=Charles|date=October 1982 }}</ref>
+}}
+
+==External links==
+*{{MobyGames|id=/clowns-balloons}}
+*{{Internet Archive game|id=a8b_Clowns_Balloons_1982_Datasoft_US_a_k_file|platform=Atari 8-bit}}
+*{{Internet Archive game|id=coco2cart_Clowns_Balloons_1982_26-3087_Steve_Bjork|platform=TRS-80 Color Computer}}
+
+[[Category:1982 video games]]
+[[Category:Action games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Datasoft games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Breakout clones]]
+[[Category:Video games about clowns]]
+[[Category:Video games developed in the United States]]

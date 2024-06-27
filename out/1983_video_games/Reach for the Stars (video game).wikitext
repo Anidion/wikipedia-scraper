@@ -1,0 +1,128 @@
+Reach for the Stars (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Reach_for_the_Stars_%28video_game%29&oldid=1219554576
+Accessed on: 2024-06-26T16:55:43.572935
+
+
+
+------
+Reach for the Stars (video game)
+{{Infobox video game
+|title = Reach for the Stars
+|image = Reach for the Stars cover.jpg
+|developer = [[Strategic Studies Group]]
+|publisher = Strategic Studies Group
+|designer = [[Roger Keating]]<br />Ian Trout
+|released = '''1983:''' C64, Apple II<br>'''1988:''' Amiga, IIGS, DOS, Mac<br>'''1989:''' PC-98
+|genre = [[Turn-based strategy]], [[4X]]
+|modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+|platforms = [[Amiga]], [[Apple II]], [[Apple IIGS]], [[Commodore 64]], [[DOS]], [[Classic Mac OS|Mac OS]], [[PC-98]]
+}}
+
+'''''Reach for the Stars''''' is a [[science fiction]] [[strategy video game|strategy]] video game. It is the earliest known commercially published example of the [[4X]] genre. It was written by [[Roger Keating]] and Ian Trout of [[Strategic Studies Group|SSG]] of [[Australia]] and published in 1983 for the [[Commodore 64]] and then the [[Apple II]] in 1985. Versions for [[Classic Mac OS|Mac OS]], [[Amiga]], [[Apple IIGS]], and [[DOS]] were released in 1988.
+
+The player commands a home star in the galaxy, and then expands to form an interstellar empire by colonizing far-off worlds, building powerful starships, and researching new technologies.
+
+''Reach for the Stars'' was very strongly influenced by the board game ''[[Stellar Conquest]]''. Many of ''RFTS'''s features have direct correspondence in ''Stellar Conquest''.
+
+Graphics are minimal, yet the tactical and strategic elements provide countless rich combinations for colony development and interstellar warfare. The software's [[Artificial intelligence in video games|AI]] also offered a challenging opponent in single-player games. It is not uncommon for a ''Reach for the Stars'' game to take over twelve hours to complete in [[single-player video game|single-player mode]] and 24 hours with multiple players.
+
+==Gameplay==
+In Versions 1 to 3 the player starts off with one planet that has Level 1 technology and a middle level environment. Three types of ships are available:
+
+#Scouts – very inexpensive, incapable of fighting or carrying colonists. These can be used as a low-cost, low-risk means to learn the composition of unknown star systems or the locations and makeup of enemy fleets.
+#Transports – incapable of fighting, but can carry colonists.
+#Warships – incapable of carrying colonists, but can fight.
+
+[[Image:Reachforstars.jpg|thumb|left|Screenshot]]
+
+Starting players have limited funds, and have to decide where to invest the funds (technology upgrades, ships, or environmental upgrades). Upgrading a world's planetary environment, for example, means that its population grows more quickly, improving production; this is a mixed blessing, however, because if the population grows beyond the maximum allowed for that planet, the costs to feed the population skyrocket. Building a lot of ships early can win a player the game, if the player finds his enemies' home planets before they manage to upgrade their military technology; on the other hand, it can lead to a loss if the player's opponents upgrade first and attack with superior ships.
+
+Each turn is divided into two sections – a development phase, and a movement phase. In the development phase, players work on planetary production, deciding what each planet will produce that turn. In the movement phase, players have the option to send ships to other star systems to explore, colonize, or conquer.
+
+Because the game evolves along so many different axes of possibility, the game offers tremendous replay value. It is quite possible to save a game on the first turn, and have it play out differently each time it is restored.
+
+A bug causes human players that do nothing to become wealthy while computer opponents fight each other. The designers added a feature that causes the computer opponents to attack the human at 20,000 credits.<ref name="cgw199407">{{Cite magazine |last1=Wilson |first1=Johnny L. |last2=Brown |first2=Ken |last3=Lombardi |first3=Chris |last4=Weksler |first4=Mike |last5=Coleman |first5=Terry |date=July 1994 |title=The Designer's Dilemma: The Eighth Computer Game Developers Conference |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=120 |magazine=Computer Gaming World |pages=26–31}}</ref>
+
+==Reception==
+{{Video game reviews
+| CGW = {{rating|4|5}}{{r|brooks199405}}
+| Dragon = {{rating|3.5|5}}{{r|Dragon211}}
+| rev1 = ''[[inCider]]''
+| rev1Score = {{rating|3|4}}{{r|murphy198609}}
+}}
+
+''[[Computer Gaming World]]'' in 1983 found ''Reach for the Stars'' quite user-friendly and enjoyable, with the single flaw of a lack of notification of natural disasters, which could not fit onto the disk space available. The computer AI and customization of each game were particular highlights of the review.<ref name="CGW">{{Cite magazine |url=http://www.cgwmuseum.org/galleries/index.php?year=1983&pub=2&id=13 |title=Reach for the Stars |last=Curtis |first=Ed |date=December 1983 |magazine=[[Computer Gaming World]] |pages=27, 49}}</ref> In a 1992 survey of science fiction games the magazine gave the title five of five stars, praising it as "arguably the best science fiction game ever released ... a product still worth playing".<ref name="brooks199211">{{cite news | url=http://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100 | title=Strategy & Wargames: The Future (2000–....) | magazine=Computer Gaming World | date=November 1992 | accessdate=4 July 2014 | author=Brooks, M. Evan | pages=99}}</ref> A 1994 survey of strategic space games set in the year 2000 and later gave the game four stars out of five, stating that "a worthy update would no doubt raise this game again to 5-star status".<ref name="brooks199405">{{Cite magazine
+ |last=Brooks
+ |first=M. Evan
+ |author=
+ |last2=
+ |first2=
+ |date=May 1994
+ |title=Never Trust A Gazfluvian Flingschnogger!
+ |department=
+|url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=118 
+ |magazine=Computer Gaming World
+ |pages=42–58}}</ref> ''[[Compute!]]'' in 1986 called the game "a particularly fine simulation of galactic exploration, combat, and conquest", noting that players needed to balance several different priorities to succeed. It concluded that ''Reach for the Stars'' was "one of the better games on the market this year".<ref name="trunzo198602">{{cite news | url=https://archive.org/stream/1986-02-compute-magazine/Compute_Issue_069_1986_Feb#page/n37/mode/2up | title=Reach for the Stars For Commodore And Apple | work=Compute! | date=February 1986 | accessdate=8 November 2013 | author=Trunzo, James V. | pages=36}}</ref> ''inCider'' in 1986 gave the Apple II version three stars ("Above average") out of four, stating that while the game was "exciting", "[i]t's unromantic to say that much of the rest of the game is a matter of juggling numbers, but that's the truth".<ref name="murphy198609">{{cite news | url=https://archive.org/stream/inCider_1986-09#page/n111/mode/2up | title=Game Room | work=inCider | date=September 1986 | accessdate=2 July 2014 | author=Murphy, Brian J. | pages=113–114}}</ref> [[Jerry Pournelle]] of ''[[Byte (magazine)|BYTE]]'' wrote in 1989 that the Mac version of ''Reach for the Stars'' was "certainly the best implemented" version of ''[[Stellar Conquest]]''.<ref name="pournelle198901">{{Cite magazine |last=Pournelle |first=Jerry |author-link=Jerry Pournelle |date=January 1989 |title=To the Stars |url=https://archive.org/stream/byte-magazine-1989-01/1989_01_BYTE_14-01_PC_Communications_and_Annual_Awards_and_Digitizing_Tablets#page/n137/mode/2up |magazine=BYTE |page=109}}</ref> The game was reviewed in 1994 in ''[[Dragon (magazine)|Dragon]]'' #211 by Jay & Dee in the "Eye of the Monitor" column. Jay did not rate the game, but Dee gave the game 3½ out of 5 stars.<ref name="Dragon211">{{cite journal | title=Eye of the Monitor | author=Jay & Dee | journal=Dragon | issue=211 | date=November 1994 | pages=39–42}}</ref>
+
+The ''[[Macworld]]'' 1988 Game Hall of Fame named ''Reach for the Stars'' runner-up to ''[[Trust & Betrayal: The Legacy of Siboot]]'' in the Best Role-Playing Game category, calling it a "well-implemented" scenario of economic empire building in outer space.<ref>{{Cite magazine
+ |last=Levy
+ |first=Steven
+ |authorlink=Steven Levy
+ |date=December 1988
+ |title=The Game Hall of Fame
+ |magazine=Macworld
+ |volume=5
+ |number=12
+ |publisher=PCW Communications, Inc.
+ |page=122}}</ref>
+
+Norman Banduch reviewed ''Reach for the Stars'' in ''[[Space Gamer]]'' No. 69.<ref name="SG69">{{cite journal|last=Banduch |first=Norman |date=May–June 1984 |title=Capsule Reviews|journal=[[Space Gamer]]|publisher=[[Steve Jackson Games]]|issue=69|pages=40}}</ref> Banduch commented that "''Reach For The Stars'' is a most addictive game. After player 10 to 15 hours a week for several months I still find it hard to save the game and go home. It offers a wide variety of set-up conditions and victory conditions, and play is never the same. The computer is a tough foe. Even after the is mastered, there are enough options and random variables to keep it from going stale. I cannot recommend it enough".<ref name="SG69"/>
+
+Bob Ewald reviewed ''Reach for the Stars'' in ''[[The Space Gamer|Space Gamer/Fantasy Gamer]]'' No. 77.<ref name="SG77">{{cite journal|last=Ewald |first=Bob |date=February–March 1987 |title=Computer Gaming|journal=[[The Space Gamer|Space Gamer/Fantasy Gamer]]|publisher=[[Diverse Talents, Incorporated]]|issue=77|pages=38–39}}</ref> Ewald commented that "all things considered, I really enjoyed the game. I feel parts of the combat system are illogical, but the game as a whole is great".<ref name="SG77"/>
+
+In 1996, ''Computer Gaming World'' declared ''Reach for the Stars'' the 51st-best computer game ever released.<ref name=cgw150>{{cite magazine | author=Staff | title=150 Best (and 50 Worst) Games of All Time | magazine=[[Computer Gaming World]] | date=November 1996 | issue=148 | pages=63–65, 68, 72, 74, 76, 78, 80, 84, 88, 90, 94, 98}}</ref>
+
+==Reviews==
+* ''[[Casus Belli (magazine)|Casus Belli]]'' #22 (October 1984)<ref>[https://rpggeek.com/rpgissuearticle/149706/ludotique Ludotique | Article | RPGGeek<!-- Bot generated title -->]</ref>
+* ''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' HS #3<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-hs-3/page/100/mode/2up | title=Jeux & stratégie HS 3 | year=1986}}</ref>
+
+== Sequel ==
+{{Video game reviews
+| CGW = {{rating|3|5}}<ref>[https://web.archive.org/web/20001211203800/http://www.zdnet.com/cgw/stories/main/0,11529,2630212,00.html ZDNet: Computer Gaming World: Reviews: Star Search<!-- Bot generated title -->]</ref>
+}}
+
+A sequel to ''Reach for the Stars'' re-written for the [[Microsoft Windows|Windows]] platform was released on September 14, 2000 by developer Strategic Studies Group and publisher [[Strategic Simulations, Inc.]] In 2005 Matrix Games, working alongside Strategic Studies Group, updated the 2000 release; this updated version was released in 2005.<ref>[http://www.matrixgames.com/games/news.asp?gid=308 Browsing all Games – Matrix Games<!-- Bot generated title -->]</ref>
+
+== Books ==
+A series of books was written in 2018 by the game company Greentwip, called ''Interstellar'', ''Anatomy'' and ''The Garlan Wars''. While its publication is still ongoing, it is being said that a TV channel would produce cinematographic films out of the books. This happened after Greentwip's founder got deep into the story and proposed to give a better and linear approach to all the species that the game aims to deliver to the player, in order to become a better "pure Sci-Fi" experience.<ref>[https://www.amazon.com/dp/B07SVCKNDN/ref=sr_1_2?keywords=Reach+for+the+stars&qid=1559830035&s=digital-text&sr=1-2 Reach For The Stars: Interstellar (Spanish Edition) – Kindle edition by LTD, Greentwip. Children Kindle eBooks @ Amazon.com<!-- Bot generated title -->]</ref>
+
+==See also==
+* [[List of 4X video games]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/reach-for-the-stars-the-conquest-of-the-galaxy}}
+* {{Internet Archive game|id=msdos_Reach_for_the_Stars_-_The_Conquest_of_the_Galaxy_1986|platform=MS-DOS}}
+* [http://www.gamespot.com/pc/strategy/reachforthestars/review.html Gamespot review of Reach for the Stars 2000]
+* [http://www.matrixgames.com/games/news.asp?gid=308 Matrix Games website]
+
+{{Strategic Studies Group}}
+
+{{DEFAULTSORT:Reach For The Stars (Computer Game)}}
+[[Category:1983 video games]]
+[[Category:4X video games]]
+[[Category:Amiga games]]
+[[Category:Apple II games]]
+[[Category:Apple IIGS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Fiction about interstellar travel]]
+[[Category:Milky Way in fiction]]
+[[Category:NEC PC-9801 games]]
+[[Category:Science fiction video games]]
+[[Category:Strategic Studies Group games]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in Australia]]
+[[Category:Multiplayer and single-player video games]]

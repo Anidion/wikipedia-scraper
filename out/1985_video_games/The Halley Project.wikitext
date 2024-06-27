@@ -1,0 +1,65 @@
+The Halley Project
+Permalink: //en.wikipedia.org/w/index.php?title=The_Halley_Project&oldid=1230716340
+Accessed on: 2024-06-26T16:58:35.911288
+
+
+
+------
+The Halley Project
+{{Short description|1985 video game}}
+{{Infobox video game
+| title = The Halley Project: A Mission In Our Solar System
+| image = The Halley Project cover.jpg
+| publisher = [[Mindscape (company)|Mindscape]]
+| designer = Omar Khudari<br />[[Tom Snyder (animator)|Tom Snyder]]
+| programmer = '''Apple, C64, Amiga'''<br>Leonard Bertoni
+| released = 1985
+| genre = [[Space flight simulation game|Space flight simulation]]
+| modes = [[Single-player]]
+| platforms = [[Apple II]], [[Atari 8-bit]], [[Commodore 64]], [[Amiga]]
+| caption = 
+| alt = 
+| developer = Tom Snyder
+}}
+
+'''''The Halley Project: A Mission In Our Solar System''''' is a [[space flight simulation game]] developed for the [[Apple II]],<ref name=":0">{{Cite web |title=The Halley Project: A Mission In Our Solar System (1985) |url=https://www.mobygames.com/game/halley-project-a-mission-in-our-solar-system |access-date=2022-11-18 |website=MobyGames}}</ref> [[Commodore 64]],<ref name=":0" /><ref name="Compute" /><ref name=":1" /><ref name=":2">{{Cite journal |last=Smith |first=Tony |date=1988 |title=The Halley Project - Amiga vs C64 |url=https://archive.org/details/Australian_Commodore_and_Amiga_Review_The_Volume_5_Issue_10_1988-10_Saturday_Magazine_AU/page/n47/mode/1up |journal=The Australian Commodore and Amiga Review |volume=5 |issue=10 |pages=46}}</ref> and [[Atari 8-bit computers]]<ref name=":0" /><ref name=":1" /><ref name=":3">{{Cite magazine |last=Williams |first=Gregg |date=1986 |title=Tooling Through the Solar System with The Halley Project |url=https://www.cgwmuseum.org/galleries/issues/cgw_26.pdf |magazine=Computer Gaming World |issue=26 |pages=24}}</ref> by Omar Khudari and [[Tom Snyder (animator)|Tom Snyder]] and published by [[Mindscape (company)|Mindscape]] in 1985.<ref>{{Cite book |last=Vogt |first=Gregory |url=https://books.google.com/books?id=P_QT8wxHurUC&dq=%22The+Halley+Project%22+-wikipedia&pg=PA53 |title=Software for Aerospace Education: A Bibliography |date=1989 |publisher=Educational Technology Branch, Educational Affairs Division, NASA Headquarters |language=en}}</ref><ref>{{Cite book |last1=Reed |first1=W. Michael |url=https://books.google.com/books?id=Ks2-DwAAQBAJ&dq=%22The+Halley+Project%22+-wikipedia&pg=PA195 |title=Educational Computing and Problem Solving |last2=Burton |first2=John K. |date=2019-11-14 |publisher=CRC Press |isbn=978-1-000-71606-1 |language=en}}</ref> An [[Amiga]]<ref name=":0" /><ref name=":2" /> version with updated graphics was released in 1986.
+
+==Plot==
+The player assumes the role of a spacecraft pilot whose mission is to travel between the various bodies of the [[Solar System]].  The game opens with a mix of [[electric guitar]] music and [[Digital audio|digitized speech]] during which the player is shown the text of a transmission sent from the headquarters of a body known as "P.L.A.N.E.T.":
+
+<blockquote>
+<small>Greetings,<br />
+You have been chosen from all the pilots in the Solar System to attempt to qualify for The Halley Project team.  If you do indeed qualify, you will be invited to take part in the greatest scientific adventure in history: The Halley Project ... the Final Challenge.<br />
+Good luck, you will need it.<br />
+Neal "Buzz" Collins<br />
+Starbird 1st Class<br />
+P.L.A.N.E.T. out<br /></small>
+</blockquote>
+
+==Gameplay==
+{{More citations needed|section|date=October 2023}}
+The player starts out from a base on [[Halley's Comet]] and must first make his way to [[Earth]], and then back to Halley.  As longer and more difficult missions are completed, the player's rank increases from the starting level of [[Raven]] through [[Shrike]], [[Vulture]], [[Darter]], [[Condor]], [[Swift (bird)|Swift]], [[Nighthawk]], [[Falcon]], [[Eagle]], and finally Starbird.
+
+A secret mission at the end of the game is accessible by typing in a password mailed by the software company after the player completes the last registered mission and receives a number code.  The code is then mailed to "Project Halley" (in reality the software company that designed the game) on a pre-packaged postcard.<ref name=":3" />  A letter is then received from the software company instructing the player to load the program, initiate the Starbird level, go to Earth, and type MINDSCAPE to access the secret mission.<ref name=":1">{{cite web |last=MTE |date=2014 |title=Halley Project |url=http://www.vulcanjedi.com/halley.htm |accessdate=29 January 2015 |website=vulcanjedi.com}}</ref>
+
+''The Halley Project'' is distinctive for the accuracy and sense of realism it seeks to convey.  The distances between worlds are realistic, their sizes reasonably accurate, and the task of landing safely often less than easy — a small window at a certain point in [[orbit]] must be reached in a given amount of time.  Travel across the vast distances of the solar system is made bearable by one of the game's few fictional elements, a [[Hyperspace|hyperdrive]] that engages when the speed of the craft reaches 300,000 kilometers per second (the [[speed of light]]).  Navigation takes place entirely in a [[Plane (geometry)|plane]] with no "vertical" component, though the direction the ship travels and the direction it faces are each controlled separately.  The player is aided by a [[radar]] system that pinpoints the [[planets]] on a circular display centered on the ship's position, around which are also marked the 12 [[constellations]] of the [[Zodiac]].  The range of the radar can be zoomed from 50 million kilometers out to 10 billion.
+
+==Reception==
+A review in ''[[Computer Gaming World]]'' praised the game for seamlessly weaving educational material about the solar system into the game.  The game's scoring system, which imposes no penalty for taking time to plan a flight, was also praised, as were the visuals and sounds.  However, the five-week wait for the final mission was considered frustrating.<ref name = "CGW">{{citation | url=http://www.cgwmuseum.org/galleries/issues/cgw_26.pdf | accessdate=28 January 2015 | date = March 1986 | magazine = [[Computer Gaming World]] | last= Gregg |first = Williams | title = The Halley Project  | pages = 24–27}}</ref><ref name="Compute">{{cite news | url=https://archive.org/details/1985-12-computegazette | title=The Halley Project:A Mission in our Solar System | work=Compute! Gazette | date=December 1985 | accessdate=28 January 2015 | author=Miller, George | pages=108–112}}</ref>
+
+''The Australian Commodore and Amiga Review'' analyzed the Amiga version, mentioning: "A difficult game for the beginner, perseverance holds its own rewards. It is very satisfying to confidently approach a landing knowing that you have made good time and you are able to land safely, the music which plays when you are in range of base relaxes you completely and washes away the tension of the flight."<ref name=":2" />
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Halley Project, The}}
+[[Category:1985 video games]]
+[[Category:Apple II games]]
+[[Category:Amiga games]]
+[[Category:Atari 8-bit computer games]]
+[[Category:Commodore 64 games]]
+[[Category:Fiction about Halley's Comet]]
+[[Category:Mindscape games]]
+[[Category:Realistic space simulators]]
+[[Category:Video games developed in the United States]]
+[[Category:Single-player video games]]

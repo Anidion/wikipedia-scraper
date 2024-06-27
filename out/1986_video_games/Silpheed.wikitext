@@ -1,0 +1,111 @@
+Silpheed
+Permalink: //en.wikipedia.org/w/index.php?title=Silpheed&oldid=1216579514
+Accessed on: 2024-06-26T17:00:56.655979
+
+
+
+------
+Silpheed
+{{About|the original Silpheed game|the PlayStation 2 sequel|Silpheed: The Lost Planet|the Xbox 360 game|Project Sylpheed}}
+{{more citations needed|date=October 2010}}
+{{Infobox video game
+|title = Silpheed
+|image = Silpheed cover.png
+|caption = Apple IIGS / DOS cover art
+|developer = [[Game Arts]] (PC-8801, FM77AV, Sega CD)<br>[[Sierra On-Line]] (Apple IIGS, TRS-80 CoCo, DOS)
+|publisher = Game Arts (PC-8801, FM77AV)<br>Sierra On-Line (Apple IIGS, TRS-80 CoCo, DOS)<br>[[Sega]] (Sega CD)
+|director = [[Takeshi Miyaji]]
+|producer = Yoichi Miyaji<br>Toshiyuki Uchida
+|designer = Takeshi Miyaji<br>Masakuni Mitsuhashi<br>Osamu Harada
+|programmer = Satoshi Uesaka<br>Nia Necoyama<br>Akira Eye<br>Tomoyuki Shimada
+|artist = Satoshi Uesaka<br>Nobuyuki Ogawa<br>Akira Eye
+|composer = Fumihito Kasatani<br>Nobuyuki Aoshima<br>Masakuni Mitsuhashi<br>Hibiki Godai
+|released = {{collapsible list
+|title = December 5, 1986
+|'''PC-8801'''{{vgrelease|JP|December 5, 1986}}''' FM-77AV'''{{vgrelease|JP|March 3, 1988}}'''Apple IIGS, TRS-80 CoCo'''{{vgrelease|NA|1988}}'''DOS'''{{vgrelease|NA|1989}}'''Sega CD'''{{vgrelease|JP|July 7, 1993|EU|September 1993|NA|October 1993}}
+}}
+|genre = [[Third-person shooter]]
+|modes = [[Single-player]]
+|platforms = [[NEC PC-8801|PC-8801mkII SR]], [[Fujitsu FM-7|FM-77AV]], [[Apple IIGS]], [[TRS-80 Color Computer|TRS-80 CoCo]], [[DOS]], [[Sega CD]]
+}}
+
+{{nihongo|'''''Silpheed'''''|シルフィード|Shirufīdo|lead=yes}} is a [[video game]] [[video game developer|developed]] by [[Game Arts]] and designed by [[Takeshi Miyaji]].<ref name="edge_miyaji">{{cite magazine|title=Silpheed designer dies aged 45|url=http://www.next-gen.biz/news/silpheed-designer-dies-aged-45|magazine=[[Edge (magazine)|Edge]]|publisher=[[Next-Gen.biz]]|accessdate=3 August 2011|date=August 1, 2011|archive-url=https://archive.today/20121231093903/http://www.edge-online.com/news/silpheed-designer-dies-aged-45/|archive-date=2012-12-31|url-status=live}}</ref> It made its debut on the Japanese [[NEC PC-8801|PC-8801]] in 1986, and was ported to the [[Fujitsu FM-7]] and [[DOS]] formats soon after. It was later remade for the [[Sega CD]] and has a sequel called ''[[Silpheed: The Lost Planet]]'' for the [[PlayStation 2]].
+
+''Silpheed'' is the name of the spacecraft that the player controls, and is most likely derived from the famous ballet, ''[[La Sylphide]]''. Like many shooter games, the story involves using the Silpheed as Earth's last effort to save itself from destruction by a powerful enemy [[Alien invasion|invasion]]. The original 1986 PC-88 version used [[3D computer graphics|3D polygonal graphics]] on top of a tilted [[Third-person shooter|third-person]] backdrop.<ref>{{Cite web |url=http://www.silpheed.org/silpheedPC.htm |title={title} |access-date=2014-10-07 |archive-url=https://web.archive.org/web/20141101093634/http://www.silpheed.org/silpheedPC.htm |archive-date=2014-11-01 |url-status=live}}</ref> The 1993 [[Sega CD]] version later used pre-rendered computer animation as a full motion video background, a technique previously used by the [[Namco System 21]] arcade game ''[[Galaxian 3]]''.
+
+==Gameplay==
+[[File:Silpheed game screenshot.png|thumb|left|Screenshot taken from the PC-88 version.]]
+''Silpheed'' is a vertical-scrolling shooter video game. It is presented at an oblique view camera angle, with enemies and other objects becoming smaller as they move towards the top of the screen.<ref name="HG101">{{cite web |last1=Sczepaniak |first1=John |title=Silpheed |url=http://www.hardcoregaming101.net/silpheed/ |website=Hardcore Gaming 101 |accessdate=13 January 2020 |date=23 August 2013}}</ref> The player assumes the role of a starship named the SA-08 Silpheed, deployed by the Yggdrassil supercomputer to destroy the Xacalite terrorist organization.<ref name="HG101"/> The Silpheed can freely move about the screen.<ref name="HG101"/> In each level, the player is tasked with destroying various enemies while avoiding their projectiles.<ref name="HG101"/> By shooting down red-colored orbs found throughout levels, the player can acquire one of five different weapon types, each with their own unique behavior and strengths; these include homing missiles, an auto-aiming shot, and a "phalanx" spread-shot laser. Weapons can be attached to either side of the Silpheed.<ref name="HG101"/>
+
+==Computer versions==
+The original Silpheed game was created for the [[NEC PC-8801|PC-8801]], and released on December 5, 1986. Another version for the [[Fujitsu FM-7|FM-7]] was released on March 3, 1988. In the same year, the game was brought to the United States for the first time by [[Sierra On-Line]] who ported the game to DOS and other platforms. The DOS version (1.0) released on April 1989. Later in the same year, the version 2.3 has added [[Game Blaster]] soundcard support and bundled with Game Blaster soundcards.
+
+In 1989 Sierra On-Line also ported ''Silpheeed'' to the [[Apple IIGS]], which supported the same 640x200 graphics modes of the original NEC PC-8801 version, and its full musical score (based on the [[Roland MT-32]] soundtrack from the DOS version) using its 15-voice [[Ensoniq]] sound chip.
+
+The storyline is that in the future (no date is specified, though 3032 is referred to as the date when an alien ship was discovered that led to rapid technological advancement and allowed humans to colonize outer space) a terrorist named Xacalite has stolen "planetary buster" missiles and a battleship named Gloire. The fleet is not close enough to Earth to get there before Xacalite destroys it, so the supercomputer Yggdrassil orders the experimental SA-08 Silpheed fighter, a prototype, to be used to destroy Gloire.
+
+==Sega CD version==
+The Sega CD port of ''Silpheed'' places [[Polygon (computer graphics)|polygon]] ships over a [[Rendering (computer graphics)|pre-rendered]] video background; this method is also seen in other video game titles, such as Namco's ''[[Galaxian 3]]'' in 1990 and ''[[StarBlade]]'' in 1991, [[Sony Imagesoft]]'s ''[[Bram Stoker's Dracula (video game)|Bram Stoker's Dracula]]'' in 1992, and Micronet's ''[[A/X-101]]'' in 1994 for the Sega CD.
+
+The game's story concerns a space war campaign when terrorists—led by a man named Xacalite—hack into the mother computer of Earth, granting them control over all the space weaponry of the solar system. The Earth's only hope is a small fleet outside the computer's reach, provided with a squadron of SA-77 Silpheed dogfighters (referred to as "prototypes" in the manual for the PC version). In the ending credits sequence of this version there are cinematic animations of scenes depicting the fighters flying through stages in the game.
+
+==Reception==
+===Critical reception===
+{{Video game reviews
+<!-- Reviews -->| ACE = 905/1000 <small>(DOS)</small><ref name="ace_silpheed">{{cite journal|last=Minson|first=John|title=Silpheed|journal=[[ACE (games magazine)|ACE]]|date=September 1989|issue=24|url=https://archive.org/details/ace-magazine-24/page/n58|page=59}}</ref>
+| CVG = 85% <small>(Sega CD)</small><ref>''[[Computer and Video Games]]'', issue 143, pages 44-46</ref>
+| Dragon = {{rating|5|5}} <small>(DOS)</small><ref name="Dragon151">{{cite magazine|title=The Role of Computers |last1=Lesser |last2=Lesser |last3=Lesser |first1=Hartley |first2=Patricia |first3=Kirk |magazine=[[Dragon (magazine)|Dragon]] |issue=151 |date=November 1989 |pages=52–56}}</ref>
+| EGM = 30/40 <small>(Sega CD)</small><ref name="EGM51"/>
+| rev1 = ''[[Mega (magazine)|Mega]]''
+| rev1Score = 89% <small>(Sega CD)</small><ref>Review in {{cite journal|title=[[Mega (magazine)|Mega]]|issue=13|page=29|date=October 1993}}</ref>
+| rev2 = ''[[MegaTech]]''
+| rev2Score = 94% <small>(Sega CD)</small><ref>MegaTech rating, [[EMAP]], issue 21</ref>
+<!-- Awards -->| award1Pub = ''MegaTech''
+| award1 = Hyper Game
+| Allgame = {{rating|4.5|5}} (Sega CD)<ref>{{Cite web |last=Sackenheim |first=Shawn |title=Silpheed (Sega CD) Review |url=http://www.allgame.com/game.php?id=1437&tab=review |url-status=dead |archive-url=https://web.archive.org/web/20141114202443/http://www.allgame.com/game.php?id=1437&tab=review |archive-date=November 14, 2014 |access-date=August 14, 2022 |website=Allgame}}</ref><br>{{rating|3|5}} (DOS)<ref>{{Cite web |last=Knight |first=Kyle |title=Silpheed (DOS) Review |url=http://www.allgame.com/game.php?id=29109&tab=review |url-status=dead |archive-url=https://web.archive.org/web/20141115224049/http://www.allgame.com/game.php?id=29109&tab=review |archive-date=November 15, 2014 |access-date=August 14, 2022 |website=Allgame}}</ref>
+}}
+
+In 1989, ''[[Dragon (magazine)|Dragon]]'' gave the DOS version of the game 5 out of 5 stars, concluding that "''Silpheed'' is highly addictive, extremely colorful, and requires hours of enjoyable practice to master".<ref name="Dragon151" /> ''[[Computer Gaming World]]'' gave the same version a positive review, praising the original music for the game.<ref name="CGW">{{Cite magazine|date=August 1989 |last=Carter |first=Shiela |magazine=[[Computer Gaming World]] |title=Samurai Space Pilot |page=22 |issue=62}}</ref> The British gaming magazine ''[[ACE (games magazine)|ACE]]'' gave the game a score of 905 out of 1000.<ref name="ace_silpheed" /> ''[[Compute!]]'' called ''Silpheed'' "classic arcade fun with a little more depth than you'll find in many action-oriented games", but criticized the simple sound effects.<ref name="aycock198909">{{cite magazine|url=https://archive.org/stream/1989-09-compute-magazine/Compute_Issue_112_1989_Sep#page/n61/mode/2up |title=Silpheed |magazine=[[Compute!]] |date=September 1989 |accessdate=11 November 2013 |author=Aycock, Heidi E. H. |page=60}}</ref>
+
+The four reviewers of ''[[Electronic Gaming Monthly]]'' gave the Sega CD version scores of 9, 7, 7 and 7 out of 10. They said it is a "rather mundane" and "simple shooter" but the "game play is solid" and the backgrounds are "some of the most stunning visuals in a video game". However, they criticized the unimpressive bosses, mediocre powerups and especially the lack of reciprocal interaction with the backgrounds as the game's biggest problems.<ref name="EGM51">{{cite magazine|title=Review Crew: Silpheed|magazine=[[Electronic Gaming Monthly]]|issue=51|publisher=EGM Media, LLC|date=October 1993|page=42}}</ref>
+
+''[[Mega (magazine)|Mega]]'' placed the game at #5 in their Top [[Mega-CD]] Games of All Time,<ref>Mega magazine issue 26, page 74, [[Maverick Magazines]], November 1994</ref> ''[[MegaTech]]'' magazine said the game was "undoubtedly one of the best games yet for the Mega-CD".{{citation needed|date=September 2014}} This version of the game was a bestseller in Japan.<ref>Official Japanese Mega Drive sales chart, November 1993, published in [[Mega (magazine)]] issue 14</ref> The Sega CD version was a runner-up for ''[[GamePro]]''{{'}}s 1993 CD Game of the Year award.<ref name="gamepro_goty">{{cite magazine |title=Editor's Choice Awards |journal=[[GamePro]] |date=February 1994 |issue=55 |page=24 |publisher=[[International Data Group|IDG]]}}</ref>
+
+===Promotion===
+A Sega CD prototype version of the game was showcased at the Winter [[Consumer Electronics Show|CES]] in January 1993, with a great deal less enemies for gameplay demonstration.<ref>{{cite magazine |title=Las Vegas CES |url=https://archive.org/details/GamefanVolume1Issue04February/page/n61 |magazine=[[Gamefan]] |volume=1 |issue=4 |date=February 1993 |page=63}}</ref>
+
+===Legacy===
+A sequel was released, ''[[Silpheed: The Lost Planet]]'', for the [[PlayStation 2]] in 2000. It was developed by Game Arts alongside [[Treasure (company)|Treasure]].
+
+A [[Space flight simulator game|space combat simulator]] game was released by [[Square Enix]] in 2006 for the [[Xbox 360]] titled ''[[Project Sylpheed]]''. It is not directly tied into the ''Silpheed'' storyline, but was instead billed as a [[spiritual successor]].
+
+In 2012, an app for Android, called ''Silpheed Alternative: Menace From Beyond the Stars'' was made, also considered as a spiritual successor. Like ''Project Sylpheed'', it is a fully three-dimensional game.{{citation needed|date=July 2014}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* Game Arts pages: [https://web.archive.org/web/20041210142416/http://www.gamearts.co.jp:80/history/main/pc_sil.html PC88/FM-77], [https://web.archive.org/web/20041016024202/http://www.gamearts.co.jp:80/history/main/mcd_sil.html Mega CD]
+* {{moby game|id=/silpheed|name=''Silpheed'' computer versions}}
+* {{moby game|id=/silpheed_|name=''Silpheed'' Mega-CD version}}
+* {{MusicBrainz release|mbid=9ff5bc78-f57b-47b8-9744-8d23c64af095}}
+* {{Internet Archive game|msdos_Silpheed_1988}}
+
+{{Authority control}}
+
+[[Category:1986 video games]]
+[[Category:NEC PC-8801 games]]
+[[Category:Apple IIGS games]]
+[[Category:DOS games]]
+[[Category:Sega CD games]]
+[[Category:Scrolling shooters]]
+[[Category:GungHo Online Entertainment franchises]]
+[[Category:Game Arts games]]
+[[Category:MegaTech Hyper Game awards winners]]
+[[Category:Rail shooters]]
+[[Category:Sierra Entertainment games]]
+[[Category:FM-7 games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:Video games about terrorism]]
+[[Category:Video games developed in Japan]]
+[[Category:Single-player video games]]

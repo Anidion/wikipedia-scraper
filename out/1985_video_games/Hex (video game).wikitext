@@ -1,0 +1,69 @@
+Hex (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Hex_%28video_game%29&oldid=1229884864
+Accessed on: 2024-06-26T16:58:37.350722
+
+
+
+------
+Hex (video game)
+{{Short description|1985 video game}}
+{{for|the digital card game|Hex: Shards of Fate}}{{Distinguish|The Hex (video game)}}{{Infobox video game
+| title = Hex
+| image = File:Hex_1985_Cover_Art.jpg
+| image_size = 
+| developer = [[Mark of the Unicorn]]
+| designer = Steven Linhart <ref name="box"/>
+| released = '''1985:''' ST<ref name="box"/>
+| modes = 
+| genre = [[Turn-based strategy]]
+| platforms = [[Atari ST]], [[Amiga]]
+}}
+
+'''''Hex''''' is a [[turn-based strategy]] game developed by [[Mark of the Unicorn]] and published in 1985 for the then-new [[Atari ST]]<ref name=box/> and later for the [[Amiga]].<ref name=lemon/> The player controls a unicorn that is trying to turn all the hexes on the game board to the same colour. Opponents attempt to turn them to a different colour and thus defeat the unicorn. As the unicorn levels up, new spells are added to its repertoire, but only 5 can be used at any given time.
+
+==Gameplay==
+[[image:St hex game.JPG|thumb|left|A game in progress]]
+
+In general visual style and layout, the game is similar to turn-based version of ''[[Q-bert]]'' that takes place on hexagons instead of cubes. There are a number of key gameplay elements that result in very different play.
+
+The game takes place on an [[isometric video game graphics|isometric]] playfield consisting of a series of nineteen hexagonal platforms arranged into a larger hexagon. The top surface of each hexagon is colored green, blue, red or purple. The player, represented by a unicorn, can jump between the hexes, which will change color based on a fixed pattern - blue, purple, red, green. Adjacent hexes of the same color will all change when any one of them is changed by the player.
+
+On the first level the goal is simply to turn the entire field green. On subsequent levels, the player faces an opponent whose goal is to change the hexes to purple. To beat the level, the player has to arrange the field so that their last move will cause the hex the opponent is standing on to change to green as well. The match results in a tie if the playfield ever turns all red or all blue, or it reaches 100 turns.
+
+There are a total of twelve opponents with a variety of strategies they employ against the player. The first to be met is a [[dodo]] which simply jumps at random. Later opponents grow more strategic and difficult, including an invisible man and a magician.
+
+Additionally, the game includes a number of magic spells with a wide variety of effects. After winning a match, the player can select a new spell to add to the player's spell book. A maximum of five can be selected prior to the start of any match for use within that match. Spells can be cast only when the player has enough energy. For instance, there is a low-energy "change places" spell that swaps the player's location with that of the opponent. Energy is gained whenever the user wins a match or flips a tile green. The opponents also have spells of their own.
+
+There are 120 levels. In higher levels, the player faces multiple opponents at the same time.
+
+==Reception==
+George Millare reviewed the game in ''[[COMPUTE!]]'' and called ''Hex'' "one of the most challenging and fascinating strategy games yet devised for a computer." He concludes that players will "be amazed at how quickly your opponent ceases to be just a computer and seems to acquire distinct personality traits of its own."{{r|miller198603}}
+
+In a January 1986 review for ''[[Antic (magazine)|Antic]]'', Suede Barstow describes ''Hex'' as something like a cross between ''Q-bert'' and ''[[Archon]]'' but the result is unique. He concludes that "''Hex'' is a clean piece of programming and one of the best strategy-board games I've seen on a computer. It sets a high standard for future ST entertainments."<ref name="antic"/>
+
+The November 1985 review in ''[[ANALOG Computing]]'' was even more glowing, concluding; "In summary, I think this game is just super. It's as challenging a game as I've seen since Archon. The graphics, as viewed on Atari's SC1224 color monitor, are fantastic."<ref name=Analog>{{cite magazine |magazine=Analog Computing |url=https://archive.org/details/analog-computing-magazine-36/page/n65/mode/2up |title=Hex |first= Monte |last=Bank}}</ref>
+
+===Reviews===
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' #41<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-41/page/56/mode/2up | title=Jeux & stratégie 41 | date=October 1986 }}</ref>
+*''[[:fr:Jeux et Stratégie|Jeux & Stratégie]]'' HS #3<ref>{{cite web | url=https://archive.org/details/jeux-et-strategie-hs-3/page/106/mode/2up | title=Jeux & stratégie HS 3 | year=1986 }}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="miller198603">{{cite news
+ | url=https://archive.org/stream/1986-03-compute-magazine/Compute_Issue_070_1986_Mar#page/n61/mode/2up
+ | title=Hex For Atari ST
+ | work=Compute!
+ | date=March 1986
+ | accessdate=8 November 2013 | author=Miller, George | pages=60}}
+</ref>
+<ref name="box">{{cite book|title=Hex Box|date=1985|publisher=Mark of the Unicorn|location=Cambridge, MA|website=Atari Mania|url=http://www.atarimania.com/game-atari-st-hex_9554.html}}</ref>
+<ref name="antic">{{cite journal|last1=Barstow|first1=Suede|title=ST Reviews: Hex|journal=Antic|date=January 1986|volume=4|issue=9|url=https://www.atarimagazines.com/v4n9/stproducts.html}}</ref>
+<ref name="lemon">{{cite web |title=Hex |url=http://www.lemonamiga.com/?game_id=2813|website=Lemon Amiga}}</ref>
+}}
+
+[[Category:1985 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Fiction about unicorns]]
+[[Category:Turn-based strategy video games]]
+[[Category:Video games developed in the United States]]

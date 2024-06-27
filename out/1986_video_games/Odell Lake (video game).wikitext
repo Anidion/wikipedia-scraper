@@ -1,0 +1,76 @@
+Odell Lake (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Odell_Lake_%28video_game%29&oldid=1224651153
+Accessed on: 2024-06-26T17:00:37.765204
+
+
+
+------
+Odell Lake (video game)
+{{Infobox video game
+|title = Odell Lake
+|image = 
+|developer = [[MECC]]<ref name="gamefaqs">[http://www.gamefaqs.com/computer/apple2/data/921849.html ''Odell Lake''] at [[GameFAQs]]</ref>
+|publisher = MECC<ref name="gamefaqs"/>
+|designer = 
+|released = {{vgrelease|NA|1986<ref name="gamefaqs"/>|EU|1986<ref name="gamefaqs"/>}}
+|genre = [[Simulation game|Educational simulation]]<ref name="mobygames">[http://www.mobygames.com/game/odell-lake ''Odell Lake''] at [[MobyGames]]</ref>
+|modes = [[Single-player video game|Single-player]]
+|platforms = [[Apple II]],<ref name="mobygames"/> [[Commodore 64]]<ref name="mobygames"/>
+}}
+
+[[File:Odell-Lake-screenshot.png|thumb|right|alt=Screenshot from the Apple II version of the Odell Lake game.|Apple II: The player-controlled whitefish (right) encounters an otter (left).]]'''''Odell Lake''''' is a 1986 [[educational game|educational]] [[life simulation game]] produced by [[MECC]] for the [[Apple II]] and [[Commodore 64]].<ref name="mobygames"/> The player is a fish living in [[Odell Lake (Oregon)|Odell Lake]], a real-world lake in [[Oregon]].<ref name="mobygames"/>  It is based on a 1980 BASIC program of the same name. It was followed-up by ''[[Odell Down Under]]''.
+
+==Gameplay==
+As a fish, the player could "go exploring" or "play for points".<ref name="mobygames"/> The object was to decide which fish to eat, while trying to survive and avoid other enemies; such as otters, ospreys, and bait from fishermen. When simply exploring, the player could select from six different species of fish, such as Mackinaw Trout, Whitefish, or Rainbow Trout; however, when playing for points, the computer randomly assigned the type of fish that the player will play as. In addition, the titles for each of the types of fish and other creatures are removed when playing for points, forcing the player to rely on memory; also the game was timed. After every five moves, the player played as a different type of fish.
+
+When playing for points, the best decision netted the player the most points, with less intelligent decisions earning the player fewer or no points, or in the case of the fish eating something disagreeable, actually taking them away. If no decision was made when time ran out, it counted as "Ignore". If at any time the player's fish was attacked by an enemy, or the player got caught by an angler, the game ended immediately.
+
+In Israel the game was published in Hebrew in 1987 for Apple II.
+===Main fish===
+The [[species]] of fish found in Odell Lake included the following:
+*[[Rainbow trout]] 
+*[[Bull trout|Dolly Varden trout]]
+*[[Lake trout|Mackinaw trout]], the largest fish in the game
+*[[Sockeye salmon|Blueback salmon]]
+*[[Lake whitefish|Whitefish]]
+*[[Lake chub|Chub]], the smallest fish in the game
+
+The game is heavily random; the same situation played in the same way can have different outcomes. For the most points, players must play the game safely, choosing the action that has the greatest chance of leading to a positive outcome. It's helpful to remember the typical locations of food and predators (shallow or deep), and not every situation will have the same outcome.
+
+===Other species===
+In addition to the other species of fish, the player's fish could come across the following in or above the lake:
+*[[Otter]]s, who would eat any fish not making a deep escape (except the Mackinaw Trout, because it can only swim in deep water)
+*[[Osprey]]s, who would grab any fish not making a deep escape (except the Mackinaw Trout, because it can only swim in deep water)
+*[[Algae]] (only a good food to the Chub; any other fish would find it disgusting if eaten)
+*[[Plankton]]
+*[[Fisherman|Fishermen]], whose presence would not be known unless the player ate a baited Chub or a fisherman's fly concealed as [[Insect]]s and [[Larva]]
+*[[Benthos|Bottom organisms]]
+*[[Insect]]s and [[larva]]
+
+===Actions===
+The actions a fish could take when it approached (or was approached by) another fish, animal, or object included:
+*Attempting to eat the item
+*Attempting to chase away the item
+*Ignoring the item (by default when the player ran out of time in "Play for points")
+*Making a "shallow escape" (heading for high water)
+*Making a "deep escape" (heading for low water)
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IAg|id=a2_Odell_Lake_v1.2_1986_MECC_US|platform=Apple II}}
+*[http://www.virtualapple.org/odelllake.html ''Odell Lake'' Apple II game at VirtualApple.org]
+*{{gb64 game|id=9294}}
+
+[[Category:Life simulation games]]
+[[Category:Biological simulation video games]]
+[[Category:Apple II games]]
+[[Category:Commodore 64 games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in Oregon]]
+[[Category:Single-player video games]]
+[[Category:The Learning Company games]]
+[[Category:1986 video games]]
+[[Category:Video games set underwater]]
+[[Category:Video games about fish]]

@@ -1,0 +1,77 @@
+Atic Atac
+Permalink: //en.wikipedia.org/w/index.php?title=Atic_Atac&oldid=1223508625
+Accessed on: 2024-06-26T16:54:32.052680
+
+
+
+------
+Atic Atac
+{{good article}}
+{{Infobox video game|
+| title = Atic Atac
+| image = Atic Atac Coverart.png
+| caption = ZX Spectrum cover art
+| developer = Tim and Chris Stamper
+| publisher = [[Ultimate Play the Game]]
+| released = ZX Spectrum{{vgrelease|WW|1983<ref name='pcncharts1dec'>{{cite magazine |title=Top Thirty|magazine=Personal Computer News|issue=39|publisher=VNU|date=1 December 1983|page=8|url=https://archive.org/details/PersonalComputerNews/PersonalComputerNews039-07Dec1983/page/n9|access-date=15 September 2023}}</ref>}}BBC Micro{{vgrelease|UK|1985<ref>{{cite magazine|title=Atic Atac|magazine=The Micro User|publisher=Database Publications|volume=3|issue=8|date=October 1985}}</ref>}}
+| genre = [[Arcade adventure]] <br> [[Maze]]
+| modes = [[Single-player video game|Single-player]]
+| platforms = [[ZX Spectrum]]<br>[[BBC Micro]]
+}}
+
+'''''Atic Atac''''' is an [[Action-adventure game|arcade-adventure]] [[video game]] developed and published by [[Ultimate Play the Game]], released for the [[ZX Spectrum]] in 1983 and the [[BBC Micro]] in 1985. The game takes place within a castle in which the player must seek out the "Golden Key of ACG"{{efn|"ACG" is an acronym for Ashby Computers and Graphics, the parent company of Ultimate Play the Game}} by unlocking doors and avoiding enemies. It was Ultimate's second game to require 48K of RAM; most of their previous games for the Spectrum ran on unexpanded 16K models.
+
+The game was written by [[Tim Stamper (programmer)|Tim Stamper]] and its graphics were designed by brother [[Chris Stamper]]. ''Atic Atac'' received praise from critics upon release, mostly for its graphics and gameplay. It was later included in the 2015 release by [[Rare (company)|Rare]] on the
+[[Xbox One]] retrospective compilation, ''[[Rare Replay]]''. The game served as inspiration for the critically acclaimed adventure [[game show]] ''[[Knightmare (TV series)|Knightmare]]''.
+
+==Gameplay==
+[[File:Atic Atac gameplay.png|thumb|left|250px|A screenshot from the game, showing a room surrounded by locked doors, and the rotting chicken energy meter on the right]]
+The game is presented in a [[Video game graphics|top-down perspective]] (albeit with sideways-on action) and is set inside a complex, labyrinthine castle with multiple floors (accessed by staircases and timed trapdoors) and secret passages. The player has been trapped inside and needs to collect three pieces of the "Golden Key of ACG" in order to escape. They can choose from three different characters; a Wizard, Knight or Serf.<ref name="AttackAticAtac">{{cite journal |url=https://archive.org/stream/computer-video-games-magazine-034/CVG034_Aug_1984#page/n51/mode/2up | date=August 1984 |title=Attack Atic Atac |journal=[[Computer and Video Games]] |issue=34 |pages=53–59}}</ref><ref name=jefferson>{{cite book|last1=Fox|first1=Matt|title=The video games guide : 1,000+ arcade, console and computer games, 1962-2012|date=2013|publisher=McFarland & Company, Inc., Publishers|location=Jefferson, N.C.|isbn=978-0-7864-7257-4|edition=2nd|url=https://books.google.com/books?id=LVc1QNGo_g0C&q=atic+atac&pg=PA65}}</ref> Each character has different ground friction, a different weapon to kill common enemies and access to a secret passage unique to them, meaning that navigating the castle is different for each one.<ref name="CVGReview">{{cite journal |url=https://archive.org/stream/computer-video-games-magazine-028/CVG028_Feb_1984#page/n30/mode/1up | date=February 1984 |title=You'll be haunted by Atic Atac |journal=[[Computer and Video Games]] |issue=28 |pages=31–32}}</ref><ref>{{cite web |url=http://www.beebgames.com/games.php?company=295 |title=Ultimate Play the Game |access-date=2007-10-07 |work=The BBC Games Archive| archive-url= https://web.archive.org/web/20071020135754/http://www.beebgames.com/games.php?company=295| archive-date= 20 October 2007 | url-status= live}}</ref>
+
+There are a number of items scattered around the castle, of which the player may carry up to three at a time. Some of these are always in the same place at the start of the game, whereas others are distributed randomly.<ref name="CVGReview"/> Items include differently-coloured keys which will unlock their respective doors, the three pieces of the ACG key, and other items that affect certain enemies or are mere [[red herring]]s.<ref name="AttackAticAtac"/> Common enemies appear in each room upon entering and will attack the player on sight. Collision with these enemies destroys them but drains a portion of the player's [[health (game terminology)|health]]. There are also stationary poisonous fungi which will drain health constantly if the player is in contact with them, and enemies that require special items in order to either distract, repel or kill them, otherwise they remain in the room, invulnerable to conventional attacks, and rapidly drain the player's health if touched.<ref name=jefferson/>
+
+The player has three [[life (video games)|lives]] upon starting the game, and should they die a gravestone will appear at their location and stay in place for the remainder of the current game.<ref name="CVGReview"/> Health can be replenished by collecting food scattered throughout the castle, however it will constantly drop the more the player moves, thus the player may eventually lose a life from starvation if they have not escaped the castle in time.<ref name="AttackAticAtac"/>
+
+==Development==
+Ashby Computers and Graphics was founded by brothers [[Tim and Chris Stamper]], along with Tim's wife, Carol, from their headquarters in [[Ashby-de-la-Zouch]] in 1982. Under the trading name of Ultimate Play the Game, they began producing multiple video games for the [[ZX Spectrum]] throughout the early 1980s.<ref name=best>{{cite web|title=The Best of British - Ultimate|url=http://www.crashonline.org.uk/51/ultimate.htm|publisher=Crash|access-date=13 August 2015}}</ref> Prior to founding Ultimate, the Stamper brothers had backgrounds in designing arcade machines, but no marketing experience in the video game sector.
+
+The operations of Ultimate were secretive and the Stamper brothers rarely gave interviews.<ref name=best/><ref name=micro/> ''[[Computer and Video Games]]'' noted that during development of ''Atic Atac'', staff would work in "separate teams" to ensure quality control; one team would work on graphics whilst the other would oversee gameplay or sound.<ref name="AttackAticAtac"/> The Stamper brothers worked seven days a week with little sleep in order to devote more time into developing video games, and would frequently re-use the same mechanics of their earlier games in newer ZX Spectrum games.<ref name=best/>
+
+==Reception and legacy==
+{{Video game reviews
+| CVG = 9 out of 10<ref name="CVGReview"/>
+| CRASH = 92%<ref name=crash02>{{cite journal |date=March 1984 |title=Atic Atac |journal=[[CRASH (magazine)|CRASH]] |issue=2 |pages=34 |url=https://archive.org/stream/crash-magazine-02/Crash_02_Mar_1984#page/n36/mode/1up |access-date=2007-10-06| archive-url= https://web.archive.org/web/20070926213108/http://www.crashonline.org.uk/02/atic.htm| archive-date= 26 September 2007 | url-status= live}}
+</ref>
+| EuroG = 8/10<ref name=EuroG>{{cite web|last1=Spencer|first1=Spanner|title=Atic Atac review - Eurogamer|url=http://www.eurogamer.net/articles/atic-atac-review|website=Eurogamer|access-date=9 August 2015|date=10 October 2007}}</ref>
+}}
+
+''Atic Atac'' entered the [[Media Research Information Bureau|MRIB]] Top 30 software charts at number 5 in November 1983,<ref name='pcncharts1dec' /> taking the number 1 position from ''[[Valhalla (video game)|Valhalla]]'' the following fortnight.<ref name='pcncharts15dec'>{{cite magazine |title=Top Thirty|magazine=Personal Computer News|issue=40|publisher=VNU|date=15 December 1983|page=8|url=https://archive.org/details/PersonalComputerNews/PersonalComputerNews041-21Dec1983/page/n9|access-date=15 September 2023}}</ref>
+
+The game received a positive critical reception upon release. ''Micro Adventurer'' mainly praised Ultimate's capabilities of developing high quality games, saying that ''Atic Atac'' was "bound to fix their name firmly into the minds of adventurers", further recommending the game "without reservation".<ref name=micro>{{cite journal |date=January 1984 |title=Hybrid wins the accolades |journal=Micro Adventurer |issue=3 |pages=28 | url=https://archive.org/stream/MicroAdventurer03-Jan84#page/n27/mode/1up}}</ref> ''[[Crash (magazine)|Crash]]'' enjoyed the game's colourful graphics, heralding the detail and objects of the game to be "marvellous". However, they criticised the difficult joystick control and vague instructions, adding that the entire game is a "learning experience".<ref name=crash02/> ''[[Computer and Video Games]]'' stated that the game was "the best yet from Ultimate",<ref name="CVGReview"/> and later in 1984 described it as "the favourite [[Action-adventure game|arcade adventure]] amongst computer gamesters".<ref name="AttackAticAtac"/> ''[[Personal Computer Games]]'' wrote that it was "another blockbuster game",<ref>{{cite journal |date=February 1984 |title=Video horrorshow |journal=[[Personal Computer Games]] |issue=3 |pages=4 |url=https://archive.org/stream/personalcomputergames-magazine-03/PersonalComputerGames_03#page/n5/mode/2up/search/atic+atac}}</ref> while ''[[Sinclair User]]'' praised both the depth of plot and the advanced graphics, citing them both as "superb".<ref>{{cite journal|date=February 1984 |title=Dangerous castle is highly recommended |journal=[[Sinclair User]] |issue=23 |pages=52 |url=https://archive.org/stream/sinclair-user-magazine-023/SinclairUser_023_Feb_1984#page/n51/mode/1up |access-date=2007-10-06 |archive-url=https://web.archive.org/web/20070912123815/http://www.sincuser.f9.co.uk/023/softwreb.htm |archive-date=12 September 2007 |url-status=dead }}</ref>
+
+In 1991, ''Atic Atac'' was ranked as the 79th best ZX Spectrum game of all time by ''[[Your Sinclair]]'',<ref>{{Cite web|url=http://www.ysrnry.co.uk/articles/ystop100.htm|title=Alt URL|access-date=2006-09-04|archive-date=2006-08-16|archive-url=https://web.archive.org/web/20060816053829/http://www.ysrnry.co.uk/articles/ystop100.htm|url-status=dead}}</ref> and was voted the 8th best game of all time by the readers of [[Retro Gamer]] Magazine for an article that was scheduled to be in a special Your Sinclair Tribute issue.<ref>{{cite web|url=http://www.ysrnry.co.uk/articles/50bestspeccygames94.htm |title=The 50 Best Speccy Games Ever! |publisher=ysrnry.co.uk |date=November 2004 |url-status=dead |archive-url=https://web.archive.org/web/20150912235003/http://www.ysrnry.co.uk/articles/50bestspeccygames94.htm |archive-date=2015-09-12 }}</ref> In 2007, [[Eurogamer]] described it as a prime example of "what passion can do when properly digitised".<ref>{{cite web |url=http://www.eurogamer.net/article.php?article_id=85112 |title=Atic Atac |access-date=2007-10-30 |last=Spencer |first=Spanner |date=2007-10-10 |work=[[Eurogamer]]}}</ref> In 2015, the game was included in ''[[Rare Replay]]'', a collection of 30 Rare-designed games released for the [[Xbox One]] gaming console.<ref>{{cite news|url=http://news.xbox.com/2015/06/xbox-rare-celebrates-its-30th-anniversary-with-a-massive-30-game-collection|title=Rare Celebrates Its 30th Anniversary with a Massive 30-Game Collection|work=Xbox News|date=15 June 2015|access-date=19 August 2015}}</ref>
+
+The game was a major inspiration for the critically acclaimed [[CITV]] game show ''[[Knightmare (TV series)|Knightmare]]'', with producer [[Tim Child]] realising that if a ZX Spectrum could run a compelling adventure game, then a television programme with [[Pre-rendering|pre-rendered]] graphics could revolutionise the genre.<ref name="BothersBar-Child">{{cite web|title=A Man Walks Into a Bar... Tim Child| date=6 January 2010 |url=http://www.bothersbar.co.uk/?page_id=193|publisher=Bother's Bar|access-date=17 March 2010}}</ref><ref name=knightmare>{{cite web|title=The History of Knightmare|url=http://www.knightmare.com/history|publisher=Knightmare|access-date=10 August 2015|archive-url=https://web.archive.org/web/20090608024457/http://www.knightmare.com/history|archive-date=8 June 2009}}</ref> ''[[Sabre Wulf]]'', which was released for the ZX Spectrum by Ultimate Play the Game later in 1984, was noted for having similar gameplay to ''Atic Atac'', including its similar themes of a continuous maze.<ref name=jefferson/> In a retrospective interview with [[Retro Gamer]], Rare designer Greg Mayles asserted that their 2003 game ''[[Grabbed by the Ghoulies]]'' was not inspired by ''Atic Atac'', despite their similar themes of a haunted mansion.<ref name=rg>{{cite magazine |magazine=[[Retro Gamer]] |issue=84 |date=December 2010 |page=38 |title=A Rare Glimpse }}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|2}}
+
+== External links ==
+* {{Internet Archive game|zx_Atic_Atac_1983_Ultimate_Play_The_Game}}
+* {{moby game|id=/atic-atac}}
+* {{WoS_game|id=0009305}}
+
+{{Ultimate Play the Game}}
+
+[[Category:1983 video games]]
+[[Category:Action-adventure games]]
+[[Category:Rare (company) games]]
+[[Category:ZX Spectrum games]]
+[[Category:BBC Micro and Acorn Electron games]]
+[[Category:Single-player video games]]
+[[Category:Maze games]]
+[[Category:Video games developed in the United Kingdom]]
+[[Category:Video games set in castles]]

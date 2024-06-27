@@ -1,0 +1,76 @@
+Search for the Titanic
+Permalink: //en.wikipedia.org/w/index.php?title=Search_for_the_Titanic&oldid=1178419264
+Accessed on: 2024-06-26T17:07:20.535867
+
+
+
+------
+Search for the Titanic
+{{Short description|1989 video game}}
+{{Infobox video game
+ |title = Search for the Titanic
+ |image = File:Search_for_the_titanic_cover_art.jpg
+ |caption =
+ |developer = [[Codesmiths]]<br>[[IntraCorp]]
+ |publisher = [[Capstone Software]]
+ |composer = 
+ |programmer = Jeff Jones<br>Sean Puckett<ref>{{cite web|title=Sean M. Puckett Resume |url=http://www.allabout.com/afs/sean/resume-plain.htm |accessdate=January 8, 2020}}</ref>
+ |released = '''February 1989:''' MS-DOS<ref>{{cite magazine |title=Special Report |url=http://pdf.textfiles.com/zines/CGW/1989_02_issue56.pdf |magazine=[[Computer Gaming World]] |issue=56 |publisher=Golden Empire Publications |date=February 1989 |page=9}}</ref><br />'''1989:''' C64<ref>{{cite magazine |title=Taking a Peek |url=http://pdf.textfiles.com/zines/CGW/1989_05_issue59.pdf |magazine=[[Computer Gaming World]] |issue=59 |publisher=Golden Empire Publications |date=May 1989 |page=6}}</ref>
+ |genre = [[Adventure game|Adventure]]
+ |modes = [[Single-player video game|Single-player]]
+ |platforms = [[MS-DOS]], [[Commodore 64]]
+}}
+
+'''''Search for the Titanic''''' is a [[graphic adventure]] developed by [[Codesmiths]] and [[IntraCorp]] and published by its subsidiary [[Capstone Software]] in 1989. It was released for [[MS-DOS]] compatible operating systems, then ported to the [[Commodore 64]]. Versions for the [[Apple II]] and [[Amiga]] were planned, but never reached development (or just cancelled and not completed in the case of the announced Apple II port).<ref>{{cite magazine |title=News - Intracorp, Inc. |url=https://archive.org/details/28-commodore-magazine/page/n9 |magazine=[[Commodore Magazine]] |issue=28 |publisher=Commodore Magazine Inc. |date=April 1989 |page=8}}</ref><ref>{{cite book |title=Capstone 1993 Product Line |url=http://mocagh.org/miscgame/intracorp-93catalog.pdf |publisher=[[Capstone Software]] |date=1993 |page=7}}</ref> [[Accolade, Inc.]] helped to distribute the game.<ref>{{cite magazine |title=Buyer's Guide |url=https://archive.org/details/PCZone001/page/n117 |magazine=[[PC Zone]] |issue=1 |publisher=[[Future plc]] |date=April 1993 |page=119}}</ref> Much of the gameplay is based on [[Robert Ballard]]'s expedition to locate the wreck of the [[RMS Titanic|RMS ''Titanic'']].<ref>{{cite magazine |last=Randall |first=Neil |title=Search for the Titanic Gameplay |url=https://archive.org/details/1989-12-compute-magazine/page/n111 |magazine=[[Compute!]] |issue=115 |publisher=[[American Broadcasting Company|ABC Publishing]] |date=December 1989 |pages=110, 112}}</ref>
+
+==Gameplay==
+The game does oceanographic simulation. The player has to build up reputation and resources by exploring sunken ships on an expedition to find the ''[[Titanic]]''. To gain funds, the player needs sponsorship with good reasons to carry out the voyage. If that works out, the player needs the right equipment, adequate supplies, an ideal vessel and competent personnel on a limited budget. Next the player navigates through the sea and finds a suitable place to dive and find a shipwreck. The game includes 75 shipwrecks, over 100 maps and charts and 47 ports to stop at. Problems can occur during the expedition including the crew's health declining, bad weather and running out of supplies and funds.<ref name="Titanic-ACE31">{{cite magazine |title=Search for the Titanic - Capstone/CRL |url=https://archive.org/details/ACE_Issue_31_1990-04_Future_Publishing_GB/page/n69 |magazine=[[ACE (magazine)|ACE]] |issue=31 |publisher=[[Future plc|Future Publishing]] |date=April 1990 |page=70}}</ref> Some of those shipwrecks include Spanish treasure and [[Noah's Ark]].<ref>{{cite magazine |last=Hedrick |first=Steve |title=Gazette Reviews |url=https://archive.org/details/1990-06-computegazette/page/n63 |magazine=[[Compute!'s Gazette]] |issue=84 |publisher=[[American Broadcasting Company|ABC Publishing]] |date=June 1990 |page=62}}</ref>
+
+==Development==
+President of Intracorp, Leigh Rothschild was fascinated by historical shipwrecks and earned a degree in history the [[University of Miami]]. Being president of the large electronic company, Rothschild had access to a lot of multimedia. He built up his inspiration from whatever literature and videos on diving and shipwrecks he could dig up. It wasn't until June 1987, that Rothschild actually came up with an idea on the ''[[Titanic]]''. For this project he needed recent photos of the shipwreck and expertise from an oceanographer. He turned his attention to [[Woods Hole Oceanographic Institution]], whom his brother Kenneth had worked with previously and were conveniently located near enough for him to contact on a daily basis. Woods Hole were keen on the idea of a video game based on their exploits and Intracorp got the required rights. At the request of [[Robert Ballard]], Intracorp changed it so that no treasure collecting occurred in the gameplay, in order to set a good example for players and future oceanographers.<ref name="TitanicDev">{{cite magazine |title=Titanic: The Quest of the Century |url=https://archive.org/details/28-commodore-magazine/page/n55 |magazine=[[Commodore Magazine]] |issue=28 |publisher=Commodore Magazine Inc. |date=April 1989 |pages=54–55, 90–94}}</ref>
+
+Coding the game required the help of Codesmiths programmers Jeff Jones and Sean Puckett. Before their assignment, they did have a keen interest in the ''Titanic'' ocean liner. The proposal took ten days to produce. By November 1988, a substantial amount of programming had been completed. Puckett drew the maps of the game by hand. The simulated weather was the hardest feature to implement. All organisation names in the game were created so as not to coincide with real-life companies. Jones and Puckett had difficulty accurately researching the diving equipment, so they had to make educated guesses. Ballard's photos were no good for digitizing in their current format, so Codesmiths had the slides converted to contact prints (placed on one sheet of light-sensitive paper) at a photographic lab. Then the page of contact prints were placed inside a scanner with a special digitizing program to input them into a computer. The digitized images were then resized with dithering applied.<ref name="TitanicDev"/>
+
+==Release==
+An Amiga version of ''Search for the Titanic'' was introduced at the Winter [[Consumer Electronics Show|CES]] in January 1989.<ref>{{cite web|last=Polsson |first=Ken |title=Chronology of Amiga |url=http://pctimeline.info/amiga/amig1989.htm |archive-url=https://web.archive.org/web/20190514114430/http://pctimeline.info/amiga/amig1989.htm |archive-date=May 14, 2019}}</ref> The [[IBM PC compatible]] version was highlighted at the ACE Game of Show in 1989. 
+<ref>{{cite magazine |title=Game of the Show |url=https://archive.org/details/1990-06-computegazette/page/n63 |magazine=[[Compute!'s Gazette]] |issue=84 |publisher=[[American Broadcasting Company|ABC Publishing]] |date=July 1990 |page=62}}</ref> The [[Commodore 64]] version was shown at the European Computer Trade Show in April 1990.<ref>{{cite magazine|last=Canavese |first=Filippo |title=European Computer Trade Show '90 |url=https://archive.org/details/Guida-Videogiochi-13/page/n59 |magazine=Guida Videogiochi |issue=13 |publisher=Gruppo Editoriale Jackson |date=July 1990 |page=31}}</ref>
+
+==Reception==
+{{Video game reviews
+<!-- Reviewers -->
+ | rev1 = ''[[The Games Machine]]''
+ | rev1Score = 68% <small>(DOS)</small><ref name="FlyingHigh">{{cite magazine|last=Rigby |first=Paul |title=Still Flying High |url=https://archive.org/details/the-games-machine-29/page/n85 |magazine=[[The Games Machine]] |issue=29 |publisher=[[Newsfield Publications]] |date=April 1990 |page=86}}</ref>
+ | rev2 = ''[[ACE (magazine)|ACE]]''
+ | rev2Score = 647 <small>(C64)</small><ref name="Titanic-ACE31"/>
+ | rev3 = ''[[Zzap!64]]''
+ | rev3Score = 50% <small>(C64)</small><ref name="Titanic-Zzap64">{{cite magazine|title=Search for the Titanic - Zzap!64 |url=https://archive.org/details/zzap64-magazine-059/page/n23 |magazine=[[Zzap!64]] |issue=59 |publisher=[[Newsfield Publications]] |date=March 1990 |page=25}}</ref>
+ | rev4 = ''[[Run (magazine)|Run]]''
+ | rev4Score = B <small>(DOS)</small><ref>{{cite magazine|last=Ryan |first=John |title=Stay Dray While Exploring the Deep Seas |url=https://archive.org/details/run-magazine-74/page/n21 |magazine=[[Run (magazine)|Run]] |issue=74 |publisher=[[International Data Group|IDG Communications]] |date=February 1990 |page=20}}</ref>
+<!-- Awards -->
+ | award1Pub = ''[[Game Players]]''
+ | award1 = PC Excellence Award<ref>{{cite magazine|last=Rigby |first=Paul |title=Game Player's First Annual |url=https://archive.org/details/GPPCSGVol3No2/page/n13 |magazine=[[Game Players|Game Players PC Strategy Guide]] |volume=3 |issue=2 |publisher=[[Imagine Publishing]] |date=March 1990 |page=13}}</ref>
+}}
+A reviewer from ''[[The Games Machine]]'' gave the game a score of 68% saying that the game lacks gameplay  and gets boring, but may be worth checking out if you are looking for something different.<ref name="FlyingHigh"/> A reviewer from ''[[Zzap!64]]'' gave the game a score of 50% finding the graphics and screens uninteresting and the gameplay boring.<ref name="Titanic-Zzap64"/> An ST Log reviewer described the game as an off-beat adventure with enough detail to consume a computer-bound treasure hunter
+for hours.<ref>{{cite magazine|title=The World of Adventure |url=http://www.atarimania.com/mags/pdf/st-log-magazine-issue-31.pdf |magazine=ST Log |issue=31 |date=May 1989 |page=53}}</ref>
+
+[[Woods Hole Oceanographic Institution]] reviewed the game for its geographical accuracy.<ref>{{cite magazine|title=Commodore Clips |url=https://archive.org/details/1989-04-computegazette/page/n11 |magazine=[[Compute!'s Gazette]] |issue=70 |publisher=[[American Broadcasting Company|ABC Publishing]] |date=April 1989 |page=10}}</ref> 
+
+==References==
+{{reflist}}
+
+==External links==
+*{{moby game|id=/search-for-the-titanic}}
+
+{{Titanic}}
+
+[[Category:1989 video games]]
+[[Category:Adventure games]]
+[[Category:Capstone Software games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Cancelled Amiga games]]
+[[Category:Cancelled Apple II games]]
+[[Category:RMS Titanic in video games]]
+[[Category:Video games developed in the United States]]
+[[Category:IntraCorp games]]
+[[Category:Single-player video games]]

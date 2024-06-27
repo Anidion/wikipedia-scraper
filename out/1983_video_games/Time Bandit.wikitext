@@ -1,0 +1,95 @@
+Time Bandit
+Permalink: //en.wikipedia.org/w/index.php?title=Time_Bandit&oldid=1230696453
+Accessed on: 2024-06-26T16:56:02.934843
+
+
+
+------
+Time Bandit
+{{Short description|1983 video game}}
+{{about|the video game|the fantasy film|Time Bandits|the fishing vessel|FV Time Bandit}}
+{{Infobox video game
+| collapsible = 
+| state = 
+| italic title = 
+| title = 
+| image = Time Bandit cover art.jpg
+| alt = 
+| caption = 
+| designer = Bill Dunlevy<br />Harry Lafnear
+| programmer = '''TRS-80, Atari ST'''<br />Bill Dunlevy<br />Harry Lafnear<br />'''Amiga, MS-DOS'''<br />Timothy Purves
+| publisher = MichTron
+| series = 
+| platforms = [[TRS-80]], [[TRS-80 Color Computer]], [[Dragon 32]], [[Atari ST]], [[Amiga]], [[MS-DOS]]
+| released = '''1983:''' TRS-80, Color Computer<br />'''1985:''' Atari ST<br />'''1988:''' Amiga<br />'''1989:''' MS-DOS
+| genre =  [[Maze game|Maze]], [[shoot 'em up]]<ref name="legend"/>
+| modes = [[Single-player video game|Single-player]]
+}}
+
+'''''Time Bandit''''' is a  [[Maze game|maze]] [[shoot 'em up]] written for the [[TRS-80]] Model I by Bill Dunlevy and Harry Lafnear and published by MichTron in 1983.<ref name=coco>{{cite web|url=http://www.lcurtisboyle.com/nitros9/timebandit.html|title=Time Bandit|website=Tandy (TRS-80) Color Computer Games|last1=Boyle|first1=L. Curtis}}</ref> It was ported to the [[TRS-80 Color Computer]] and [[Dragon 32]], but enjoyed its greatest popularity several years later as an early release for the [[Atari ST]]. It was also released for the pseudo-PC-compatible [[MBC-550|Sanyo MBC-55x]] with 8-color display. [[Amiga]] and [[MS-DOS]] versions were ported by Timothy Purves.
+
+==Gameplay==
+In each overhead-view level, the player must gather keys to open locks which allow access to the exit. Between levels,  the player chooses the next level from one of 16 different "Timegates", each leading to a different world, and each of which must be completed sixteen times, each time being progressively more difficult than the last. The worlds vary in character and difficulty. Some worlds incorporate elements of [[text adventure game]]s, and most contain gameplay references to other popular games of the time, such as ''[[Pac-Man]]'' and ''[[Centipede (video game)|Centipede]]''. In addition to the primary objective of exiting each level, optional [[side quest]]s become available in the later stages of some worlds, usually awarding the player with one of several "artifacts" upon completion.
+
+The game also features a "Duel Mode" for two players.<ref name="Antic5.6">{{cite journal
+|title=ST Product News: Time Bandit
+|author=Gil Merciez
+|journal=Antic
+|volume=5
+|issue=6
+|url=http://www.atarimagazines.com/v5n6/STProductNews.html
+|date=October 1986
+|pages=67}}</ref> In this mode, a split screen is used for simultaneous play in the same worlds, allowing direct cooperation or combat between players.
+
+==Development==
+According to Harry Lafnear, ''Time Bandit'' was based on [[Konami]]'s 1982 arcade game ''[[Tutankham]]'' and was originally called ''Pharaoh''.<ref name="legend">{{cite web |title=Harry Lafnear Interview |url=https://www.atarilegend.com/interviews/interviews_detail.php?selected_interview_id=4 |website=Atari Legend |date=September 5, 2003}}</ref> The Atari ST and Amiga versions have visual similarities to ''[[Gauntlet (1985 video game)|Gauntlet]]'',<ref name=coco/> but ''Gauntlet'' was released in late 1985 after development of ''Time Bandit'' was complete.<ref name=legend/> According to Lafnear, he found out about ''Gauntlet'' from friends who saw it at an arcade and called it "a ''Time Bandit'' clone". However, he believes neither game copied each other, but that the similarities stem from earlier "[[Maze game|maze]] [[shoot 'em ups]]" such as ''[[Tutankham]]''.<ref name="legend"/>
+
+==Reception==
+Lafnear estimates that 75,000 copies were sold, mostly for the [[Atari ST]].<ref name=legend/>
+
+[[Jerry Pournelle]] of ''[[BYTE]]'' named ''Time Bandit'' his game of the month for September 1986, stating that the ST version "is the best arcade-type computer game I have ever seen".<ref name="pournelle198609">{{Cite magazine |last=Pournelle |first=Jerry |date=September 1986 |title=A Busy Day |url=https://archive.org/stream/byte-magazine-1986-09/1986_09_BYTE_11-09_The_68000_Family#page/n331/mode/2up |magazine=BYTE |page=321}}</ref> The game was well received by reviewers in ''[[Antic (magazine)|Antic]]'',<ref name="Antic5.6"/> ''[[Compute!|COMPUTE!]]'',<ref name="bateman198610">{{cite news | url=https://archive.org/stream/1986-10-compute-magazine/Compute_Issue_077_1986_Oct#page/n19/mode/2up | title=A Great Year For Games | work=Compute! | date=October 1986 | accessdate=9 November 2013 | author=Bateman, Selby | pages=18}}</ref> and ''[[BYTE]]''<ref name="webster198612">{{cite news | url=https://archive.org/stream/byte-magazine-1986-12/1986_12_BYTE_11-13_Graphics_Algorithms#page/n319/mode/2up | title=Season's Greetings | work=BYTE | date=December 1986 | accessdate=9 May 2015 | author=Webster, Bruce | pages=305}}</ref> for its gameplay and graphics, though reviews also noted that the game includes no music and has minimal sound effects.
+
+The [[Amiga]] version of the game was reviewed in 1990 in ''[[Dragon (magazine)|Dragon]]'' #158 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 4½ out of 5 stars.<ref name="Dragon158">{{cite journal
+|title=The Role of Computers
+|last1=Lesser|last2=Lesser|last3=Lesser|first1=Hartley|first2=Patricia|first3=Kirk
+|journal=Dragon
+|issue=158
+|date=June 1990
+|pages=47–54}}</ref>
+
+==Reviews==
+* ''Génération 4'' (1987)<ref>{{Cite web|url=http://download.abandonware.org/magazines/Generation%204/generation4_numero001/Generation4%20001%20-%20Page%20020%20(1987-Q4).jpg|title=Generation 4 numero 001|website=www.abandonware-magazines.org}} {{dead link|date=September 2023}}</ref>
+* ''[[Zzap!64|Zzap!]]'' (April 1988)<ref>{{Cite web|url=https://archive.org/details/zzap64-magazine-036/page/n61/mode/2up|title = ZZap!64 Magazine Issue 036|date = April 1988}}</ref>
+* ''[[The Games Machine]]'' (April 1988)<ref>{{Cite web|url=https://amr.abime.net/review_23080|title=Time Bandit review from The Games Machine 5 (Apr 1988) - Amiga Magazine Rack|website=amr.abime.net|accessdate=6 September 2023}}</ref>
+* ''ATARImagazin'' (March 1987)<ref>{{cite web|url=http://www.atarimania.com/mags/pdf/Atari-Magazin-87-02.pdf|title=Atari Magazin
+|website=atarimania.com|access-date=6 September 2023}}</ref>
+* ''[[ACE (Advanced Computer Entertainment)]]'' (April 1988)<ref>{{Cite web|url=http://www.atarimania.com/game-atari-st-warlock_22665.html|title = Atari ST Warlock: Scans, dump, download, screenshots, ads, videos, catalog, instructions, roms}}</ref>
+* ''Power Play'' (March 1988)<ref>{{Cite web|url=http://www.kultpower.de/archiv/heft_powerplay_1988-04_seite71|title = Kultpower Archiv: Komplettscan Powerplay 4/1988}}</ref>
+* ''Power Play'' (March 1989)<ref>{{Cite web|url=http://www.kultpower.de/archiv/heft_powerplay_1989-04_seite58|title = Kultpower Archiv: Komplettscan Powerplay 4/1989}}</ref>
+* ''[[ASM (Aktueller Software Markt)]]'' (March 1988)<ref name="auto">{{Cite web|url=https://archive.org/details/asm_magazine-1988-04/page/n13/mode/2up|title=Aktueller Software Markt (ASM) Magazine (April 1988)|date=April 1988}}</ref>
+* ''[[.info (magazine)|Info]]'' (May 1988)<ref name="auto"/>
+* ''[[Commodore User]]'' (March 1988)<ref>{{Cite web|url=https://archive.org/details/commodore-user-magazine-54/page/n72/mode/2up|title=Commodore User Magazine Issue 54|date=March 1988}}</ref>
+* ''[[Amiga User International]]'' (March 1988)<ref>{{Cite web|url=https://amr.abime.net/review_15710|title=Time Bandit review from AUI Vol 2 No 3 (Mar 1988) - Amiga Magazine Rack|website=amr.abime.net|accessdate=6 September 2023}}</ref>
+
+==Legacy==
+''The Timelord's Handbook'', a clue book and companion manual for the game, was released in March 2010 by Harry Lafnear, one of the original authors of the game. In addition to game clues, the book includes background fiction and profiles on the game's history and creators.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.atarimania.com/game-atari-st-time-bandit_s9454.html ''Time Bandit''] at Atari Mania
+
+[[Category:1983 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:DOS games]]
+[[Category:Dragon 32 games]]
+[[Category:Maze games]]
+[[Category:Science fiction video games]]
+[[Category:Shoot 'em ups]]
+[[Category:Single-player video games]]
+[[Category:TRS-80 Color Computer games]]
+[[Category:TRS-80 games]]
+[[Category:Video games about time travel]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,56 @@
+Hangman (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Hangman_%28video_game%29&oldid=1224579617
+Accessed on: 2024-06-26T16:47:55.307871
+
+
+
+------
+Hangman (video game)
+{{short description|1978 video game}}
+{{Infobox video game
+|title = Hangman
+|image = Hangman-atarii-2600-cover.jpg
+|caption =
+|developer = [[Atari, Inc.]]
+|publisher = [[Atari, Inc.]]
+|designer = [[Alan Miller (game designer)|Alan Miller]]
+|platforms = [[Atari 2600]]
+|released = {{vgrelease|NA|1978}}
+|genre = [[Puzzle video game|Puzzle]]
+|modes = [[Single-player video game|Single-player]], [[Two-player video game|two-player]]
+}}
+'''''Hangman''''' is a video game based on [[Hangman (game)|the pen-and-paper game]] of the same name released in 1978 by [[Atari, Inc.]] for the [[Atari 2600|Atari VCS]] (renamed to the Atari 2600 in 1982).<ref name="Classic Home Video Games">{{cite book |last1=Weiss |first1=Brett |title=Classic Home Video Games, 1972-1984: A Complete Reference Guide |date=2011 |publisher=McFarland |isbn=978-0786487554 |pages=68 |url=https://books.google.com/books?id=BzxTtml8Jq4C&q=Hangman |access-date=8 August 2019}}</ref>
+
+==Development==
+The game was programmed by [[Alan Miller (game designer)|Alan Miller]], who later cofounded [[Activision]],<ref name="The A-Z of Atari 2600 Games" /> with cover art by Susan Jaekel.<ref name="Art Of Atari">{{cite book |last1=Lapetino |first1=Tim |title=Art Of Atari |date=2016 |publisher=Dynamite Entertainment |isbn=978-1524101060 |page=84 |url=https://books.google.com/books?id=Z50oDAAAQBAJ&q=%22Hangman%22+%22Atari%22&pg=PA84 |access-date=4 September 2019}}</ref> The game was coded in [[assembly code]].<ref name="Stanton et al" />
+
+==Game play==
+
+As in the traditional game of ''Hangman'', the player must guess the letter of a hidden word, with each wrong guess resulting in a piece being added to a gallows, with the game ending either when the gallows is completed or when the word has been fully guessed. The player can select from a range of four difficulty levels from ''first grade'' to ''high school''. The words have a maximum length of six characters.<ref name="Classic Home Video Games" /> Instead of the traditional man to be hanged being shown in the picture, a monkey is shown hanging from the gallows by its arm. ''Hangman'' contains 510 words divided into four difficulty levels.<ref name="The A-Z of Atari 2600 Games">{{cite book |last1=Haw ken |first1=Kirsten |title=The A-Z of Atari 2600 Games: Volume 2 |date=2018 |publisher=Andrews UK Limited |isbn=978-1785387630 |url=https://books.google.com/books?id=_JE3DwAAQBAJ&q=%22Hangman%22+%22Atari%22&pg=PT36 |access-date=4 September 2019}}</ref> A timed mode where the player has to guess before a time limit expires is also available.<ref name="Art Of Atari" />
+
+The game may be played in single-player mode, or in a two-player mode where the players play together.<ref name="Classic Home Video Games" /> In one-player mode the player has 11 attempts at guessing before the gallows is constructed. In two-player mode, guessing may go on until one player wins.<ref name="The A-Z of Atari 2600 Games" />
+
+{{-}}
+==Reception==
+Contemporary reviewers were unimpressed with the game. UK-based ''TV Gamer'' described it as "poor value for money" as it differed little from the pen-and-paper version of the game.<ref>{{cite journal |title=Hangman |journal=TV Gamer |date=Autumn 1983 |page=28 |url=http://www.ataricompendium.com/archives/magazines/tv_gamer/tv_gamer_autumn83.pdf |access-date=4 September 2019}}</ref> A review in the 1983 ''Book of Atari Software'' described it as a "nice implementation of the classic game" but also criticised the graphics, and gave the game a rating of "B" overall.<ref name="Stanton et al">{{cite book |last1=Stanton |first1=Jeffrey |last2=Wells |first2=Robert P. |last3=Rochowansky |first3=Sandra |title=The Book of Atari Software 1983 |date=1983 |publisher=The Book Company |issn=0736-2706 |page=242 |url=https://archive.org/details/ataribooks-the-book-of-atari-software-1983/page/n243/mode/2up?q=hangman |access-date=20 February 2021}}</ref>
+
+In a retrospective review in ''Classic Home Video Games, 1972-1984: A Complete Reference Guide'', Brett Weiss described it as "a passable rendition of a classic game.<ref name="Classic Home Video Games" />
+
+== See also ==
+{{Portal|Video games|1970s}}
+*[[List of Atari 2600 games]]
+
+==References==
+{{reflist}}
+
+==External list==
+*{{atarimania|id=18201}}
+
+{{DEFAULTSORT:Hangman}}
+[[Category:1978 video games]]
+[[Category:Atari 2600 games]]
+[[Category:Atari 2600-only games]]
+[[Category:Word puzzle video games]]
+[[Category:Video games about primates]]
+[[Category:Video games developed in the United States]]
+[[Category:Multiplayer and single-player video games]]

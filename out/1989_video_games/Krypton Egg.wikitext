@@ -1,0 +1,68 @@
+Krypton Egg
+Permalink: //en.wikipedia.org/w/index.php?title=Krypton_Egg&oldid=1177251306
+Accessed on: 2024-06-26T17:06:42.131542
+
+
+
+------
+Krypton Egg
+{{More citations needed|date=June 2021}}
+{{Infobox VG
+| title = Krypton Egg
+| image = 
+| image_size =
+| caption = 
+| developer = [[Hitsoft]] (Atari ST/Amiga), [[C2V|Computers, Communications & Visions]] (DOS, Windows 3.1, Windows 95),<ref>{{Cite web |url=http://www.c2v.com/c2vcv.htm |title=C2V - Company Resume |access-date=2007-04-04 |archive-date=2007-04-04 |archive-url=https://web.archive.org/web/20070404213106/http://www.c2v.com/c2vcv.htm |url-status=live }}</ref> [[DotEmu]] (Windows XP, Windows Mobile 2003, Palm OS, iOS, Symbian OS)
+| publisher = [[Hitsoft]] (Atari ST/Amiga), [[C2V|Computers, Communications & Visions]] (DOS, Windows 3.1, Windows 95), [[DotEmu]] (Windows XP, Windows Mobile 2003, Palm OS), [[Chillingo|Chillingo Ltd]] (iOS)
+| designer = [[Alexandre Kral]], [[Patrick Geurten]], [[Xavier Kral]]
+| released = '''Atari ST/Amiga 500:''' [[1989 in video gaming|1989]]<br>'''iOS:''' 2009-06-15<br>
+| modes = [[Single-player]]
+| genre = [[Breakout clone]]
+| platforms = [[Atari ST]], [[Amiga|Amiga 500/600 (OCS/ECS)]], [[MS-DOS]] (C2V version), [[Microsoft Windows 3.1]] (C2V version), [[Microsoft Windows 95]] (C2V version), [[Microsoft Windows XP]] (DotEmu version), [[Windows Mobile 2003]] (DotEmu version), [[iPhone OS 2|iOS 2.0]] (DotEmu/Chillingo version), [[Palm OS|Palm OS 5]] (DotEmu version)
+}}
+'''''Krypton Egg''''' (subtitled ''The Ultimate Breakout'') is a [[Breakout clone|block breaker game]] developed in [[1989 in video gaming|1989]] by Alexandre Kral on [[Atari ST]] and [[Amiga|Amiga 500/600 (OCS/ECS)]].
+
+The game was remade for MS-DOS and Windows in the 1995, iOS and Adobe Flash in 2010. It was also re-released for modern Windows XP versions on [[DotEmu]].
+
+==Gameplay==
+[[image:Kryptonegg 1.PNG|thumb|left|Gameplay screenshot]]
+
+Like other games of the same kind, all bricks of the stage must be broken to clear the level to proceed to the next one. However, there are several bonuses which fall from broken bricks and give special capacities to either the paddle or the ball, including Glue, Multiple Ball, and Bigger Ball. Some of these bonuses, such as Frozen Tray, are harmful and should be avoided.
+
+The game also features several different monsters of varying sizes which will attempt to get in the way of the ball. The paddle can easily dispatch a monster by striking it with the paddle, and can additionally down a monster using the ball or a projectile granted from a bonus. Only one type of monster poses a direct threat to the paddle, which has a force field that can destroy the paddle unless it has a shield.
+
+===Stages===
+The number of stages in ''Krypton Egg'' depends on versions being released. For block-breaking stages, Hitsoft versions includes 60 stages; C2V shareware versions can include 5, 8, or 10 stages; in C2V registered versions, a game can include 50, 60, 100 stages; DotEmu iOS demo version includes 2 stages,<ref>{{Cite web |url=http://app-review.mphony.com/app/krypton-egg-lite/ |title=App Review - Krypton Egg Lite |access-date=2018-11-13 |archive-date=2018-11-13 |archive-url=https://web.archive.org/web/20181113165700/http://app-review.mphony.com/app/krypton-egg-lite/ |url-status=dead }}</ref> and 60 stages in full version ('72' refers to addition of bonus stages). 
+
+In C2V and DotEmu versions of the game, a horde attack stage appears after completing 5th stage of a 10 block-breaking stages set. It uses the same vertical orientation as block-breaking stages, features no bricks, but player's racket starts with 1 shield, with the goal of destroying all monsters exited from top of playing field without dying.
+
+Horizontal stages are only used in monster attack stages. It is similar to horde attack stages except it appears after completing 10th stage of a 10 block-breaking stages set, there is only one immobile monster, and player's racket can fire horizontally with more damage or diagonally for less damage (diagonal shots only available since C2V releases). In DotEmu versions, player's racket can also travel horizontally. The monster can only be damaged by hitting its head. Both player and monster includes an energy bar each, with first character loses entire bar first losing the match. Losing player's bar first causes an instant [[Game Over]] regardless of the number of [[Life (gaming)|lives]] remaining.
+
+Horde attack and monster attack stages can be turned off separately or activated together with password, for game versions supporting password features.
+
+===Password===
+In C2V version of the game, a password is shown in menu screen after Game Over by losing all lives after completing 10 block-breaking stages (and winning monster attack stage afterwards if it is turned on). The password records amount of lives remaining when entering the 1st stage of the next set of 10 block-breaking stages, but the given password does not contain more lives than the stage-dependent maximum amount of lives programmed into the game.
+
+In addition to returning to specific start of a 10-stage set, passwords exist to toggle horde attack and monster attack stages.
+
+==References==
+{{reflist}}
+
+==External links==
+*Computers, Communications & Visions page: [https://web.archive.org/web/20060211142855/http://www.chiliconvalley.com/games/keuk/start.htm English], [http://chiliconvalley.online.fr/games/keuk/start.htm France]
+*DotEmu page: [https://web.archive.org/web/20191221195802/http://www.kryptonegg.com/ English], [https://web.archive.org/web/20101223214831/http://www.dotemu.com/fr/telecharger-jeu/176/krypton-egg French]
+*iOS page: [https://web.archive.org/web/20120102190946/http://itunes.apple.com/app/krypton-egg/id304100615 KE 2.0]
+*{{moby game|id=/krypton-egg}}
+
+[[Category:1989 video games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Breakout clones]]
+[[Category:Chillingo games]]
+[[Category:DOS games]]
+[[Category:IOS games]]
+[[Category:Palm OS games]]
+[[Category:Single-player video games]]
+[[Category:Video games developed in France]]
+[[Category:Windows games]]
+[[Category:Dotemu games]]

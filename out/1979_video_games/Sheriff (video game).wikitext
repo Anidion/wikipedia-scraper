@@ -1,0 +1,91 @@
+Sheriff (video game)
+Permalink: //en.wikipedia.org/w/index.php?title=Sheriff_%28video_game%29&oldid=1225428192
+Accessed on: 2024-06-26T16:51:22.431248
+
+
+
+------
+Sheriff (video game)
+{{short description|1979 video game}}
+{{more citations needed|date=July 2008}}
+{{Infobox video game
+| title = Sheriff
+| image = Sheriff arcadeflyer.png
+| caption = Arcade flyer
+| developer = {{Unbulleted list
+  | [[Nintendo R&D1]]
+  | [[Ikegami Tsushinki]]<ref>{{Cite web|last=McFerran|first=Damien|date=2018-02-26|title=Feature: Shining A Light On Ikegami Tsushinki, The Company That Developed Donkey Kong|url=https://www.nintendolife.com/news/2018/02/feature_shining_a_light_on_ikegami_tsushinki_the_company_that_developed_donkey_kong|access-date=2020-06-09|website=Nintendo Life|language=en-GB}}</ref>
+  }}
+| publisher = {{vgrelease|JP/EU|[[Nintendo]]|NA|Far East Video|NA|[[Exidy]]|UK|[[Sega]]<ref>{{cite web |last1=Calvert |first1=Darren |title=Feature: Before They Were Enemies, Sega And Nintendo Worked On One Of The Rarest Arcade Games Ever Made |url=https://www.nintendolife.com/news/2015/03/feature_before_they_were_enemies_sega_and_nintendo_worked_on_one_of_the_rarest_arcade_games_ever_made |website=[[Nintendo Life]] |access-date=16 April 2021 |date=24 March 2015}}</ref> |UK|Bell-Fruit Mfg.}}
+| designer = [[Genyo Takeda]]<ref name="iwataasks2">{{cite web |title=Iwata Asks: Punch-Out!! - Investigating a Glove Interface |url=http://us.wii.com/iwata_asks/punchout/vol1_page2.jsp |publisher=[[Nintendo]] |accessdate=August 11, 2009 |date=August 7, 2009 |archive-date=January 11, 2010 |archive-url=https://web.archive.org/web/20100111070103/http://us.wii.com/iwata_asks/punchout/vol1_page2.jsp |url-status=dead}}</ref>
+| artist = [[Shigeru Miyamoto]]
+| released = {{vgrelease|JP|[[1979 in video games|October 1979]]<ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=57 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n58}}</ref>|EU|November 1979<ref>{{cite web|url=http://www.arcade-history.com/index.php?page=detail&id=2412|title=Sheriff arcade video game pcb by Nintendo Co., Ltd. (1979)|website=www.arcade-history.com}}</ref><ref>{{cite web|url=http://flyers.arcade-museum.com/?page=thumbs&db=videodb&id=1991|title=The Arcade Flyer Archive - Video Game Flyers: Sheriff, Nintendo|first=Daniel Hower, Eric Jacobson|last=www.arcadeflyers.com|website=flyers.arcade-museum.com}}</ref>|NA|November 1979<ref>{{Cite magazine |date=1979-12-15 |title=L.A. Distrib Holds 6th Annual Show |url=https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/70s/1979/CB-1979-12-15.pdf#page=41 |magazine=[[Cash Box]] |page=41}}</ref><ref>{{cite book |last1=Akagi |first1=Masumi |title=アーケードTVゲームリスト国内•海外編(1971-2005) |trans-title=Arcade TV Game List: Domestic • Overseas Edition (1971-2005) |date=13 October 2006 |publisher=Amusement News Agency |language=ja |location=Japan |isbn=978-4990251215 |page=128 |url=https://archive.org/details/ArcadeGameList1971-2005/page/n129}}</ref>}}
+| genre = [[Multi-directional shooter]]
+| modes = [[Single-player]], [[Two-player video game|two-player]]<ref name=klov>{{KLOV game|id=9511|name=Sheriff}}</ref>
+| platforms = [[Arcade game|Arcade]]
+| arcade system = Nintendo 8080<ref name="mamedev">{{cite web |title=Nintendo 8080 hardware |url=https://github.com/mamedev/mame/blob/master/src/mame/drivers/n8080.cpp |website=[[GitHub]] |publisher=[[MAME]] |access-date=19 May 2021}}</ref>
+}}
+
+{{nihongo foot|'''''Sheriff''''',|シェリフ|Sherifu|lead=yes|group=lower-alpha}} also known as '''''Bandido''''', is a 1979 [[multi-directional shooter]] [[arcade game]] by [[Nintendo]]. It is one of several [[List of Western video games|Western-themed video games]] from the 1970s, along with ''[[Gun Fight|Western Gun]]'', ''[[Outlaw (video game)|Outlaw]]'', and ''[[Boot Hill (video game)|Boot Hill]]''. The player controls a county [[sheriff]] tasked with defense of a town against bandits, to rescue the captured woman. It was a commercial success in Japan, where it was among the top ten highest-grossing arcade games of 1979.
+
+==Gameplay==
+[[Image:Sheriff arcade.png|145px|left|thumb|Screenshot]]
+The game's concept is Nintendo's first [[damsel in distress]] theme, predating '' [[Donkey Kong (arcade game)|Donkey Kong]]'' (1981). The player controls Mr. Jack,<ref name = "YT Vid">{{cite web | title=Nintendo Sheriff Arcade Machine | date=April 20, 2015 | url=https://www.youtube.com/watch?v=FYA_9D5l9CI&ab_channel=NintendoArcade | publisher= Nintendo Arcade | time=18:53}}</ref> a [[sheriff]], against a gang of attacking bandits, to defend the town and rescue Betty,<ref name = "YT Vid"></ref> the captured woman.<ref name="Shoots From the Hip">{{cite web | title=Interview: Nintendo Arcade Collector Shoots From the Hip With Rare Sheriff Cabinet | date=December 29, 2014 | url=http://www.nintendolife.com/news/2014/12/interview_nintendo_arcade_collector_shoots_from_the_hip_with_rare_sheriff_cabinet | work=[[Nintendo Life]] | accessdate=April 25, 2018}}</ref><ref name="Where Were They Then">{{cite web | title=Where Were They Then: The First Games of Nintendo, Konami, and More | url=http://www.1up.com/do/feature?pager.offset=1&cId=3181467 | url-status=dead | archiveurl=https://web.archive.org/web/20121017222352/http://www.1up.com/do/feature?pager.offset=1&cId=3181467 | archivedate=October 17, 2012 | work=[[1UP.com]] | accessdate=April 25, 2018}}</ref>
+
+''Sheriff'' distinctly features two separate controls: a [[joystick]] for movement, and a dial control for aiming and firing, a configuration unusual for [[arcade game]]s and nonexistent in consoles at the time. The joystick moves the character and the dial aims and fires, each in eight separate directions, allowing Mr. Jack to walk in one direction while shooting in another.<ref name="Where Were They Then"/> The movement joystick is set with a considerable time delay before moving.
+
+16 bandits (also referred to as "gangs")<ref name = "YT Vid"></ref> surround the outer rim, marked by a dotted "fence". Bullets from either Mr. Jack or the bandits can destroy the fenceposts, and they can function as defensive walls or aiming obstacles for the player. Larger barriers also exist on the midpoint of each side of the screen, and bullets from either Mr. Jack or the bandits will slowly erode these. The top and bottom barriers display the current level number.  
+
+The basic action taken by the enemy bandits is to walk around the outer rim while firing bullets at Mr. Jack, but they will sometimes enter into the central area, along with a change in game music. Mr. Jack must avoid touching the bandits, dodge bullets, and shoot all 16 bandits to complete each level.
+
+Occasionally, a [[condor]] flies along the top of the screen in much the same way as the UFO in [[Taito]]'s ''[[Space Invaders]]''. Shooting the condor awards the player a random amount of bonus points. 
+
+At the end of every round, a brief [[cutscene]] is shown. Depending on how many rounds the player has completed, this cutscene either shows Betty being chased by the bandits<ref>{{cite web | title=First cutscene | website=[[YouTube]] | url=https://www.youtube.com/watch?v=VI8oHZ9ouck&t=2m44s | time=2:44}}</ref> or reuniting with Mr. Jack. Whenever the latter is shown, the player's score is doubled.<ref>{{cite web | title=Second cutscene | website=[[YouTube]] | url=https://www.youtube.com/watch?v=VI8oHZ9ouck&t=5m19s | time=5:19}}</ref>
+
+==Development==
+The game was developed by [[Nintendo Research & Development 1|Nintendo R&D1]] in 1979, designed by [[Genyo Takeda]] with art by [[Shigeru Miyamoto]].<ref name="iwataasks2"/> Some sources<ref>{{cite web|url=http://gdri.smspower.org/wiki/index.php/Company:Ikegami_Tsushinki|title=Company:Ikegami Tsushinki - GDRI :: Game Developer Research Institute|website=gdri.smspower.org}}</ref><ref>[http://d.hatena.ne.jp/bn2islander/20080817/1218980061 ドンキーコング裁判についてちょこっと考えてみる] {{webarchive|url=https://web.archive.org/web/20100312191324/http://d.hatena.ne.jp/bn2islander/20080817/1218980061 |date=2010-03-12}} Thinking a bit about Donkey Kong, accessed February 1, 2009</ref><ref>{{Nihongo|It started from Pong|それは『ポン』から始まった : アーケードTVゲームの成り立ち|sore wa pon kara hajimatta: ākēdo terebi gēmu no naritachi}}, {{Nihongo|Masumi Akagi|赤木真澄|Akagi Masumi}}, {{Nihongo|Amusement Tsūshinsha|アミューズメント通信社|Amyūzumento Tsūshinsha}}, 2005, {{ISBN|4-9902512-0-2}}.</ref> assert that [[Ikegami Tsushinki]] also did design work on ''Sheriff''.
+
+==Release==
+The game was originally released in two formats: an upright [[Arcade cabinet|cabinet]] and a cocktail (tabletop) version. These versions were imported to Europe, Asia, and America. In America, the game was distributed by Far East Video.<ref>{{cite web | title = Sheriff arcade flyer | url = https://flyers.arcade-museum.com/flyers_video/nintendo/22309001.jpg | accessdate = 2021-08-19}}</ref> In the UK, ''Sheriff'' was licensed for production and distribution by Bell-Fruit Manufacturing in an upright cabinet. Bell-Fruit's core product range at the time was fruit/slot machines. ''Sheriff'' (and later ''[[Pac-Man|Puckman]]'') marked the company's first, and short lived, diversification into the market of video games as licensee, so the cabinet design for this territory differs considerably from that of the Japanese version. Although it features the same marquee and [[bezel (screen)|bezel]] design, it shares many properties more commonly associated with slot machines, such as a lack of side art or cabinet decals. However, the game's title in this region remains unchanged as ''Sheriff''.
+
+In North America, the game was distributed by [[Exidy]] as ''Bandido''. As was common practice for arcade games at the time, the game was sold as if it were Exidy's own creation, with all mentions of Nintendo being edited or removed. This version of the game renames Mr. Jack and Betty as "Our Hero" and "Pretty Priscilla" respectively. 
+
+A few rare and early prototype ''Sheriff'' arcades made and distributed with the help of Sega were shipped out to North America (mainly in Canada) to test market the game before Exidy obtained the rights and distributed the game as Bandido. These rare prototype arcades were hand converted from factory by Nintendo and Sega from previous Nintendo Space Fever B&W cocktail cabinets and were also the only instance of ''Sheriff'' featuring a black & white display.{{citation needed|date=July 2023}}
+
+A modified version of the game was released exclusively in Japan by [[Taito]] as ''Western Gun Part II''. This version features edited graphics and replaces most of the game's music with portions of songs such as the theme to ''[[The Magnificent Seven]]'' and ''[[Oh My Darling, Clementine]]''. It is unknown if this version of ''Sheriff'' was authorised by Nintendo.<ref>{{cite web | title = Western Gun Part II Longplay | website=[[YouTube]] | url= https://www.youtube.com/watch?v=wAxRreVsQ5w}}</ref><ref>{{cite web | title= Western Gun Part II Flyer | year=1980 | url=https://archive.org/details/arcadeflyer_western-gun-part-ii/page/nundefined/mode/1up}}</ref>
+
+==Reception==
+{{expand section|date=October 2020}}
+The game was a commercial success in Japan, where ''Sheriff'' was among the top ten highest-grossing [[1979 in video games|arcade games of 1979]].<ref name="GM136">{{cite magazine|title=ベストスリー 本紙調査|trans-title=Best 3 Paper Survey |magazine=[[:ja:ゲームマシン|Game Machine]]|issue=136|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=February 1980|page=2|lang=ja|url=https://onitama.tv/gamemachine/pdf/19800201p.pdf#page=2}}</ref>
+
+In 2012, 1up wrote that ''Sheriff'' put Nintendo on the right track as a game developer.<ref name="Where Were They Then"/>
+
+==Legacy==
+In 2003 it was re-released as part of ''[[WarioWare, Inc.: Mega Microgames!]]'', released for the [[Game Boy Advance]]. In ''WarioWare'', ''Sheriff'' was included as both a microgame and as a minigame ("Wario's Sheriff") in which [[Wario]] takes the role of the sheriff. Standard controls apply to the microgame version, but in the minigame version, the L/R buttons can make the sheriff face in the opposite direction without moving. The time delay for moving the sheriff was removed, and the sheriff's walking speed is greatly increased from the original. When the player's points double after completing a certain number of levels, the sheriff also gains extra lives, considerably reducing the game's difficulty.
+
+Mr. Jack has appeared in the ''Super Smash Bros.'' series starting with ''[[Super Smash Bros. Melee|Super Smash Bros Melee]]'', in which he appears as one of the many collectible Trophies in the game. Mr. Jack later returned in ''[[Super Smash Bros. for Nintendo 3DS and Wii U]]'' as an assist trophy where he fires a succession of eight bullets in a random order on the battlefield at the enemies of the summoner. He appears again as an Assist Trophy and Spirit in ''[[Super Smash Bros. Ultimate|Super Smash Bros Ultimate]].
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{KLOV game|id=9511|name=Sheriff}}
+* [http://www.arcade-history.com/index.php?page=detail&id=2412 ''Sheriff'' at arcade-history.com]
+* ''[https://web.archive.org/web/20100626034905/http://www.nindb.net/game/sheriff.html Sheriff]'' at [http://www.nindb.net NinDB]
+
+{{Shigeru Miyamoto}}
+
+[[Category:1979 video games]]
+[[Category:Arcade video games]]
+[[Category:Arcade-only video games]]
+[[Category:Nintendo Research & Development 1 games]]
+[[Category:Run and gun games]]
+[[Category:Video games about police officers]]
+[[Category:Video games developed in Japan]]
+[[Category:Western (genre) video games]]
+[[Category:Nintendo arcade games]]
+[[Category:Nintendo games]]
+[[Category:Multiplayer and single-player video games]]
