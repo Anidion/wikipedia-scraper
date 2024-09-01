@@ -8,17 +8,18 @@ known_good_articles = [
     "Spasim",
     "Star Trader",
     "Moria (1975)",
-    "Panther(1975)",
+    "Panther (1975)",
     "Empire (1977)",
     "Alto Trek (1978)",
     "MUD (1978)",
     "Avatar (1979)",
+    "Sopwith (video game)",
+    "SGI Dogfight",
 ]
 
 target_modes = ["network", "networked", "online"]
 
 debug_mode = True
-
 
 def dbg(msg):
     if debug_mode:
