@@ -59,8 +59,28 @@ def main():
                     with open(f"./matches/{file_name}", "w", encoding="utf-8") as out_file:
                         out_file.write(article_text)
 
+# Post-process to check if all known good articles were found
+def post_process():
+		found_kg = []
+
+		for root, _, files in os.walk("./matches"):
+				for file_name in files:
+						with open(os.path.join(root, file_name), "r", encoding="utf-8") as article:
+								if file_name in known_good_articles:
+										dbg(f"Found known good article {file_name}")
+										found_kg.append(file_name)
+
+		not_found = set(known_good_articles) - set(found_kg)
+		if not_found:
+				print("The following known good articles were not found:")
+				for article in not_found:
+						print(article)
+		else:
+			print("All known good articles were found.")
+
 
 if __name__ == "__main__":
     print("Processing...")
     main()
+    post_process()
     print("Done.")
