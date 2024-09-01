@@ -4,11 +4,6 @@ import re
 known_good_articles = [
     "Empire (1973 video game)",
     "Maze (1973 video game)",
-    "Airfight",
-    "Spasim",
-    "Star Trader",
-    "Moria (1975)",
-    "Panther (1975)",
     "Empire (1977)",
     "Alto Trek (1978)",
     "MUD (1978)",
