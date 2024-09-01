@@ -1,63 +1,67 @@
 import os
 import re
 
+known_good_articles = [
+    "Empire (1973 video game)",
+    "Maze (1973 video game)",
+    "Airfight",
+    "Spasim",
+    "Star Trader",
+    "Moria (1975)",
+    "Panther(1975)",
+    "Empire (1977)",
+    "Alto Trek (1978)",
+    "MUD (1978)",
+    "Avatar (1979)",
+]
 
-def process_infobox(text):
-    infobox_start = text.find("{{Infobox")
-    if infobox_start == -1:
-        return None
+target_modes = ["network", "networked", "online"]
 
-    infobox_end = text.find("\n}}", infobox_start)
-    infobox = text[infobox_start : infobox_end + 3]
-    infobox_lines = infobox.split("\n")
+debug_mode = True
 
-    # Extract infobox type
-    infobox_type_match = re.match(r"\{\{Infobox ([^\|]+)", infobox_lines[0])
-    infobox_type = (
-        infobox_type_match.group(1).strip() if infobox_type_match else "Unknown"
+
+def dbg(msg):
+    if debug_mode:
+        print(msg)
+
+
+def process_article(text, filename="none"):
+    article_end = re.search(
+        r"==\s*References\s*==|==\s*Reception\s*==|==\s*Reviews\s*==|==\s*Sources\s*==|==\s*See also\s*==|==\s*External links\s*==",
+        text,
     )
+    if article_end is None:
+        article_end = len(text)
+    else:
+        article_end = article_end.start()
 
-    # Extract key-value pairs
-    infobox_dict = {"type": infobox_type}
-    for line in infobox_lines[1:]:
-        if line.startswith("|"):
-            key_value = line[1:].split("=", 1)
-            if len(key_value) == 2:
-                key = key_value[0].strip()
-                value = key_value[1].strip()
-                infobox_dict[key] = value
-
-    return infobox_dict
+    for target in target_modes:
+        mode_start = text.rfind(f" {target} ", 0, article_end)
+        if mode_start != -1:
+            return True
+    return False
 
 
-def process_article(filename, text):
-    dict_box = process_infobox(text)
-    if dict_box is None:
-        return
+def main():
+    for root, _, files in os.walk("./out"):
+        for file in files:
+            with open(os.path.join(root, file), "r", encoding="utf-8") as article:
+                # First 7 lines are metadata, skip them
+                article_text = article.readlines()[7:]
+                article_text = "".join(article_text)
+                if len(article_text) < 3:
+                    continue
+                if article_text.find("#REDIRECT") != -1:
+                    continue
 
-    modes = dict_box.get("modes", None)
-
-    if modes is None:
-        return
-
-    lower_modes = modes.lower()
-
-    if "multiplayer" not in lower_modes and "multi-player" not in lower_modes:
-        return
-
-    mode_list = modes.split(",")
-
-    only_mp = list(
-        filter(
-            lambda x: "multiplayer" in x.lower() or "multi-player" in x.lower(),
-            mode_list,
-        )
-    )
-
-    print(only_mp)
+                mode_matches = process_article(article_text, file)
+                if mode_matches:
+                    dbg(f"Match found in {file}")
+                    with open(f"./matches/{file}", "w", encoding="utf-8") as out_file:
+                        out_file.write(article_text)
 
 
-for root, dirs, files in os.walk("./out"):
-    for file in files:
-        with open(os.path.join(root, file), "r", encoding="utf-8") as article:
-            process_article(file, article.read())
+if __name__ == "__main__":
+    print("Processing...")
+    main()
+    print("Done.")
