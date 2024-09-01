@@ -1,6 +1,7 @@
 apicache/
 logs/
-# out/
 .vscode/
 pywikibot-Anidion.lwp
 throttle.ctrl
+matches/
+processed/
