@@ -1,7 +1,9 @@
+# Ignore pywikibot files
 apicache/
 logs/
-.vscode/
 pywikibot-Anidion.lwp
 throttle.ctrl
+
+# Ignore the processed files
 matches/
 processed/
