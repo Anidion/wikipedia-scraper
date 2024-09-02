@@ -3,23 +3,23 @@
 import os
 import shutil
 import re
+from collections import Counter
 
 ENABLE_DBG = True
 
 KNOWN_GOOD_ARTICLES = [
-    "Empire (1973 video game)",
     "Maze (1973 video game)",
-    "Empire (1977)",
-    "Alto Trek (1978)",
-    "MUD (1978)",
-    "Avatar (1979)",
+    "Alto Trek",
+    "MUD1",
     "Sopwith (video game)",
     "SGI Dogfight",
 ]
 
-QUERY_KW = ["network", "networked", "online"]
+QUERY_KW = ["network", "networked", "networking"]
 
 OUTPUT_DIR = "matches"
+
+found_kw = []
 
 
 def dbg(msg):
@@ -42,8 +42,9 @@ def does_article_match(article_text):
 
     # Find one matching keyword in the article
     for kw in QUERY_KW:
-        found = re.search(r"\b" + kw + r"\b", article_text, re.IGNORECASE)
+        found = re.search(r"\b" + kw + r"\b", article_text)
         if found is not None:
+            found_kw.append(found.group(0))
             return True
     return False
 
@@ -66,7 +67,7 @@ def main():
                     continue
 
                 if does_article_match(article_text):
-                    dbg(f"Match found in {file_name}")
+                    dbg(f"Match found: {file_name}")
                     with open(
                         f"./{OUTPUT_DIR}/{file_name}", "w", encoding="utf-8"
                     ) as out_file:
@@ -82,27 +83,36 @@ def prep_output_dir():
 
 def post_process():
     """Post-process to check if all known good articles were found"""
+    dbg("\n")
+
     found_kg = []
 
     for root, _, files in os.walk("./matches"):
+        dbg(f"{len(files)} files matched")
         for file_name in files:
             with open(os.path.join(root, file_name), "r", encoding="utf-8") as article:
-                if file_name in KNOWN_GOOD_ARTICLES:
-                    dbg(f"Found known good article {file_name}")
-                    found_kg.append(file_name)
+                article_name = file_name[:-9]
+                if article_name in KNOWN_GOOD_ARTICLES:
+                    found_kg.append(article_name)
 
     not_found = set(KNOWN_GOOD_ARTICLES) - set(found_kg)
-    if not_found:
-        print("The following known good articles were not found:")
+    if len(not_found):
+
+        dbg(f"{len(found_kg)} known good articles were found:")
+        for article in found_kg:
+            dbg(article)
+        dbg("\n")
+        dbg(f"{len(not_found)} known good articles were not found:")
         for article in not_found:
-            print(article)
+            dbg(article)
     else:
-        print("All known good articles were found.")
+        dbg("All known good articles were found.")
 
 
 if __name__ == "__main__":
-    print("Processing...")
+    dbg("Processing...")
     prep_output_dir()
     main()
     post_process()
-    print("Done.")
+    dbg(Counter(found_kw))
+    dbg("Done.")

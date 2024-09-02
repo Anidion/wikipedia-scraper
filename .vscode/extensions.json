@@ -5,6 +5,7 @@
     "ms-python.pylint",
     "ms-python.debugpy",
     "ms-python.black-formatter",
-    "kevinrose.vsc-python-indent"
+    "kevinrose.vsc-python-indent",
+    "rowewilsonfrederiskholme.wikitext"
   ]
 }
