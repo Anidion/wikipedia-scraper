@@ -1,0 +1,35 @@
+Alto Trek
+{{short description|1978 video game}}
+{{more citations needed|date=October 2017}}
+{{Infobox video game
+| title = Alto Trek
+|image = 
+|developer = [[Gene Ball]], [[Rick Rashid]] <!-- http://pc.ign.com/articles/075/075281p1.html -->
+|released = 1978
+|genre = [[Space simulation]]/[[Real-time strategy]]/[[Action game|Action]]
+|modes = [[Multiplayer video game|Multiplayer]]
+|platforms = [[Xerox Alto]]
+}}
+'''''Alto Trek''''' is a [[computer game]], developed by [[Gene Ball]]<ref name="denber198202">{{cite news | url=https://archive.org/stream/byte-magazine-1982-02/1982_02_BYTE_07-02_Winter_Computing#page/n29/mode/2up | title=Altos Gamesmen | work=BYTE | date=February 1982 | accessdate=19 October 2013 | author=Denber, Michel | pages=28}}</ref> and [[Rick Rashid]] for the [[Xerox Alto]] while they were [[graduate student]]s at the [[University of Rochester]] during the late 1970s. It is one of the first [[computer networking|networked]] [[multiplayer video game|multiplayer game]]s.<ref name="nytimes">{{cite news |url=https://www.nytimes.com/2000/02/28/business/serious-about-research-microsoft-makes-time-for-a-game.html?pagewanted=2 |title=Serious About Research, Microsoft Makes Time for a Game |first=John |last=Markoff |work=[[The New York Times]] |date=February 28, 2000 |accessdate=2008-03-04 |archive-date=2018-07-07 |archive-url=https://web.archive.org/web/20180707090548/https://www.nytimes.com/2000/02/28/business/serious-about-research-microsoft-makes-time-for-a-game.html?pagewanted=2 |url-status=live }}</ref>
+
+==Gameplay==
+[[File:Alto Trek screenshot.jpg|thumb|180px|Alto Trek (in the Alto's 606×808 portrait ratio screen)]]
+''Alto Trek'' is a multiplayer game where each player uses their own Alto workstation to control a starship. The objective of the game is to destroy the enemy without being destroyed. A player can choose between being a [[Klingon]], [[Romulan]], or [[Starfleet|Terran]]. The game can be played by one player, but there will be no enemy to destroy.
+
+There is no central server that maintains the game state. Each Alto "[[multicast]]s" its game information on the shared Ethernet that all players must be on. The "multicast" address on which to rendezvous is a function of the number of stellar systems in the game.
+
+==Development==
+The manual for version 2.1 is dated August 1979 and authored by Allen Wells, Bob Baldwin, and Steve Quarterman. It confirms that the game was authored primarily by Ball.
+
+Around 1997, while a vice president at [[Microsoft]], Rashid began to re-implement the game as a way to teach himself to use the [[DirectX]] programming [[Application Programming Interface|API]]. This resulted in the development of ''[[Allegiance (computer game)|Microsoft Allegiance]]''.<ref name="devjo1">{{cite web |url=http://uk.pc.ign.com/articles/075/075281p1.html |title=Developer Journal: Allegiance, Chapter 1 |publisher=[[IGN]] |date=February 16, 2000 |accessdate=2008-03-04 |archive-date=2011-08-31 |archive-url=https://web.archive.org/web/20110831202529/http://uk.pc.ign.com/articles/075/075281p1.html |url-status=live }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20060823194351/http://www.bitsavers.org/pdf/xerox/alto/trek21.pdf Internet Archive - ''Alto Trek'' 2.1 manual]
+
+[[Category:1978 video games]]
+[[Category:Video games based on Star Trek]]
+[[Category:Xerox Alto games]]
+[[Category:Video games developed in the United States]]

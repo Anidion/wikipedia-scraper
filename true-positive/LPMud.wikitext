@@ -1,0 +1,405 @@
+LPMud
+{{Short description|MUD server software}}
+'''LPMud''', abbreviated '''LP''', is a family of [[multi-user dungeon]] (MUD) server software. Its first instance, the original LPMud game driver, was developed in 1989 by Lars Pensjö (the '''LP''' in LPMud).{{R|bartle-lars|shahromine-mudlib|pike}} LPMud was innovative in its separation of the MUD infrastructure into a [[virtual machine]] (termed the ''driver'') and a development framework written in the [[programming language]] LPC (termed the ''[[mudlib]]'').{{R|bartle-mudlib}}
+
+==Development==
+[[File:LoginScreen.jpg|thumb|right|The login screen from ''Genesis'' since May 2011]]
+
+Lars Pensjö had been an avid player of [[TinyMUD]] and [[AberMUD]]. He had wanted to create a world with the flexibility of TinyMUD and the style of AberMUD{{R|bartle-lpmud}} but did not want to have sole responsibility for creating and maintaining the game world. He once said, "I didn't think I would be able to design a good adventure. By allowing [[Wizard (MUD)|wizards]] coding rights, I thought others could help me with this."{{R|dog}}  The result was the creation of a new, [[C (programming language)|C]]-based, [[object-oriented programming]] language, LPC, that made it simple for people with minimal programming skills to add elements like rooms, weapons, and monsters to a virtual world.{{R|giuliano}}
+
+To accomplish his goal, [[Lennart Augustsson]] convinced Pensjö to write what today would be called a virtual machine, the LPMud driver. The driver managed the interpretation of LPC code as well as providing basic [[operating system]] services to the LPC code. By virtue of this design, Pensjö made it more difficult for common programming errors like [[infinite loop]]s and [[infinite recursion]] made by content builders to harm the overall stability of the server. His choice of an [[object-oriented programming|OO]] approach made it easy for new programmers to concentrate on the task of "building a room" rather than programming logic.{{R|pike}}
+
+Pensjö created ''Genesis'' in April 1989 as the first implementation of the LPC language, and therefore the first LPMud, in which the developer (commonly known as a [[Wizard (MUD)|wizard]] within the MUD) could code their own objects.{{R|netgames1|dog|reese-genesis|bartle-genesis}}
+
+Pensjö's work has been extended or reverse engineered in a number of projects:
+* {{Anchor|Amylaar}}LPMud 3.2, better known as the Amylaar driver, after its lead developer, Jörn "Amylaar" Rennecke{{R|ywwr2|reese-amylaar}}
+* [[MudOS]]{{R|ywwr2}}
+* [[Dworkin's Game Driver|DGD, Dworkin's Game Driver]], a conceptual rather than code derivative of LPMud developed by [[Felix Croes|Felix "Dworkin" Croes]]{{R|shahromine-dgd}}
+* [[SWLPC (programming language)|SWLPC]], [[Shattered World]]'s [[Fork (software development)|fork]] of LPMud 2.4.5{{R|reese-sw}}
+
+Though an LPMud server can be used to implement nearly any style of game,{{R|hahn}} LPMuds are often thought of as having certain common characteristics as a genre, such as a mixture of [[hack and slash]] with [[role-playing game|role-playing]], [[Quest (gaming)|quests]] as an element of advancement, and "guilds" as an alternative to [[character class]]es.{{R|internetculture|ywwr1}}
+
+==LPMud talkers==
+LPMud was used as the basis for the first [[Internet]] [[talker]], ''[[Cat Chat]]'', which opened in 1990{{R|netlingo}}.
+
+==TMI Mudlib==
+The '''TMI Mudlib''' from [[The Mud Institute]]<ref name="Takacs">{{cite journal|last=Takacs|first=Mark|date=August 17, 1993|title=Prolix A Text-based Participant System for VR|location=Washington|page=13|quote=2.3.7 MIRE Kay has taken a TMI LPMud driver (a popular alternative driver developed by The Mud Institute) and used it as the basis for a multi-user news and information retrieval system |citeseerx = 10.1.1.53.5993}}</ref> was an attempt to create a framework driven [[mudlib]] for the [[MudOS]] LPMud driver. It consisted of many contributors to MudOS as well as people who became influential in the LPMud community. When TMI began work in 1992, a mudlib was generally packaged with both an LPMud driver and a complete world built on top of the mudlib. As a framework-driven mudlib, the goal of the TMI mudlib was to provide only examples for world objects and place the burden of building a working world on the game developers using TMI.
+
+TMI implemented the first [[InterMUD]] communications network, when [[MudOS]] added network socket support in 1992.<ref name="dog"/>
+
+In 1992, MIRE, a multi-user information system producing customised newspapers<ref>Electronic Publishing Group at the MIT Media Lab. [http://web.media.mit.edu/~walter/ep.html 25+ Years of the Electronic Publishing Group] "MIRE--news in a MUD"</ref> was built based on a modified TMI driver.<ref name="Takacs"/>
+
+In 1993, the TMI-2 mudlib was used to create ''PangaeaMud'', an academic research project designed as an interactive geologic database tool.<ref>{{cite thesis
+ | last = Boring | first = Erich
+ | url = http://sc.lib.muohio.edu/bitstream/handle/2374.MIA/248/fulltext.pdf?sequence=1
+ | title = PangaeaMud: An Online, Object-oriented Multiple User Interactive Geologic Database Tool
+ | degree = Master's
+ | publisher = Miami University
+ | date = 1993-12-03
+ | access-date = 2010-05-03
+}}</ref>
+
+Notable MUDs based on TMI-derived mudlibs include ''[[The Two Towers (MUD)|The Two Towers]]''{{R|english}}{{R|smith-bebak}}{{R|jones}}{{R|ber}}{{R|Ekman-ttt}}<ref>{{cite web |url=http://www.mudconnect.com/mud-bin/adv_search.cgi?Mode=MUD&mud=The+Two+Towers |title=The MUD Connector: The Two Towers |publisher=[[The MUD Connector]] |quote=Highly customized TMI-2 1.1.1 mudlib on MudOS v22 (May 4, 2007) |access-date=2010-07-06 |archive-date=2012-07-17 |archive-url=https://web.archive.org/web/20120717014932/http://www.mudconnect.com/mud-bin/adv_search.cgi?Mode=MUD&mud=The+Two+Towers |url-status=dead }}</ref> set in [[Tolkien]]’s universe{{R|english}} and ''Threshold''.
+
+== Server software ==
+'''MudOS''' is a major family of LPMud server software, implementing its own variant of the LPC (programming language).<ref name="ywwr" /><ref name="busey-mudos" />  It first came into being on February 18, 1992.<ref name="reese-mudos" />  It pioneered important technical innovations in MUDs, including the network socket support that made [[InterMUD]] communications possible<ref name="dog" /><ref name="shahromine" /> and LPC-to-C compilation.<ref name="reese-beek" /> 
+
+'''FluffOS''' started as a collection of patches of last unreleased version of MudOS, FluffOS has evolved into an independent and enhanced project, providing a powerful platform for crafting interactive and immersive virtual worlds, it is the best choice of running LPMUD lib now, as well as creating new ones. For more information, you can visit the main website at FluffOS Official Website at.<ref name="fluffos" />
+
+''[[Genocide (MUD)|Genocide]]'' was an important development testbed for MudOS from 1992 to 1994, but switched back to the main LPMud branch, citing speed concerns.<ref name="reese-geno-mudos" /><ref name="reese-geno-lpmud" />
+
+==References==
+{{Reflist|colwidth=40em|refs=
+<ref name="bartle-lars">{{cite book
+ | last = Bartle | first = Richard | author-link = Richard Bartle
+ | title = [[Designing Virtual Worlds]]
+ | publisher = New Riders
+ | year = 2003
+ | isbn = 0-13-101816-7
+ | page = 10
+ | quote = LPMUD was named after its author, Lars Pensjö of the University of Gothenburg, Sweden.
+}}</ref>
+<ref name="shahromine-mudlib">{{cite book
+ | last1 = Shah | first1 = Rawn
+ | last2 = Romine | first2 = James
+ | year = 1995
+ | title = Playing MUDs on the Internet
+ | publisher = John Wiley & Sons, Inc.
+ | isbn = 0-471-11633-5
+ | page = 158
+ | quote = ... the original ''Mudlib'' distributed by LP, Lars Pensjö, and his team.
+}}</ref>
+<ref name="pike">{{cite web
+ |url         = http://pike.ida.liu.se/about/pike/history.xml
+ |title       = The History of Pike
+ |work        = Pike
+ |access-date  = 2009-09-09
+ |quote       = In the beginning, there was Adventure. Then a bunch of people decided to make multi-player adventure games. One of those people was Lars Pensjö at the Chalmers university in Gothenburg, Sweden. For his game he needed a simple, memory-efficient language, and thus LPC (Lars Pensjö C) was born. About a year later Fredrik Hübinette started playing one of these games and found that the language was the most easy-to-use language he had ever encountered.
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20100204062426/http://pike.ida.liu.se/about/pike/history.xml
+ |archive-date = 2010-02-04
+}}</ref>
+<ref name="bartle-mudlib">{{cite book
+ | last = Bartle | first = Richard | author-link = Richard Bartle
+ | title = [[Designing Virtual Worlds]]
+ | publisher = New Riders
+ | year = 2003
+ | isbn = 0-13-101816-7
+ | page = 43
+ | quote = Above this layer is what (for historical reasons) is known as the ''mudlib''<sup>58</sup>. [...] <sup>58</sup>For "mud library".  ''MUD1'' had a mudlib, but it was an adaptation of the BCPL input/output library and therefore was at a lower level than today's mudlibs.  The modern usage of the term was coined independently by ''LPMUD''.
+}}</ref>
+<ref name="bartle-lpmud">{{cite book
+ | last = Bartle | first = Richard | author-link = Richard Bartle
+ | title = [[Designing Virtual Worlds]]
+ | publisher = New Riders
+ | year = 2003
+ | isbn = 0-13-101816-7
+ | page = 10
+ | quote = Having played both AberMUD and TinyMUD, he decided he wanted to write his own game with the adventure of the former and the user-extensibility of the latter.
+}}</ref>
+<ref name="bartle-genesis">{{cite book
+ | last = Bartle | first = Richard | author-link = Richard Bartle
+ | title = [[Designing Virtual Worlds]]
+ | publisher = New Riders
+ | year = 2003
+ | isbn = 0-13-101816-7
+ | pages = 10
+ | quote = To this end, he developed an in-game programming language called LPC that allowed players of sufficient experience to add not only objects, but also powerful functionality to the game as it ran. 
+}}</ref>
+<ref name="dog">{{cite book
+ | last1 = Mulligan | first1 = Jessica
+ | last2 = Patrovsky | first2 = Bridgette
+ | year = 2003
+ | title = Developing Online Games: An Insider's Guide
+ | publisher = New Riders
+ | isbn = 1-59273-000-0
+ | page = 451
+ | quote = 1989 [...] Lars Penjske creates ''LPMud'' and opens ''Genesis''.  ''"Having fun playing ''TinyMUD'' and ''AberMUD'', Lars Penjske decides to write a server to combine the extensibility of ''TinyMUD'' with the adventures of ''AberMUD''.  Out of this inspiration, he designed ''LPC'' as a special MUD language to make extending the game simple.  Lars says, '...I didn't think I would be able to design a good adventure.  By allowing wizards coding rights, I thought others could help me with this.'  The first running code was developed in a week on Unix System V using IPC, not BSD sockets.  Early object-oriented features only existed accidentally by way of the nature of MUDs manipulating objects.  As Lars learned C++, he gradually extended those features.  The result is that the whole LPMud was developed from a small prototype, gradually extended with features."'' —'''George Reese's''' ''LPMud Timeline''
+}}</ref>
+<ref name="giuliano">{{cite book
+ | last = Giuliano | first = Luca | author-link = :it:Luca Giuliano
+ | title = I padroni della menzogna. Il gioco delle identità e dei mondi virtuali
+ | publisher = [[:it:Meltemi Editore|Meltemi Editore]]
+ | year = 1997
+ | isbn = 978-88-86479-35-6
+ | language = it
+ |trans-title=The masters of the lie: the play of identity and virtual worlds
+ | pages = 101–102
+ | quote = È stato creato nel 1990 da Lars Pensjö presso la Chalmers Academic Computing Society in Svezia.  Pensjö proveniva dall'esperienza dell'AberMUD e il suo sistema è sostanzialmente il frutto di un compromesso tra la rigidità di AberMUD e l'egualitarismo del TinyMUD.  Il server LPMUD è diverso dagli altri perché non è un gioco prefabricato ma un linguaggio, chiamato LPC, che gli utenti possono utilizzare per interagire, modificare il loro ambiente e costruire un gioco.  Un DikuMUD è molto più efficiente come programma ma non può essere modificato senza avere un alto livello di conoscenza nella programmatazione.  Invece un LPMUD è molto più flessible ed è possibile costruire anche oggetti molto complessi con un livello di conoscenza inferiore.  Grazie a questa flessibilita, che si adatta all'immaginazione dei giocatori, LPMUD si è diffuso rapidamente.  Il livello di programmazione degli oggetti però non è esteso a tutti, ma è limitato ai giocatori che hanno raggiunto un livello elevato di competenza all'interno del MUD stesso e delle sue regole.  Grazie a questo maggior controllo del mondo, un LPMUD tende ad essere più organico e coerente nella construzione del mondo, diversamente dal TinyMUD che tende invece a diventare un po' caotico. '''Translation''': It was created in 1990 by Lars Pensjö of the Chalmers Academic Computing Society in Sweden.  Pensjö's experience was with AberMUD, and its system is basically the result of a compromise between the rigidity of AberMUD and the egalitarianism of TinyMUD.  The LPMUD server is different from others because it is not a game but a prefabricated language called LPC, which users can use to interact, change their environment and build a game.  A DikuMUD is much more efficient as a program but cannot be changed without having a high level of programming knowledge.  On the other hand, LPMUD is much more flexible, and you can build very complex objects with a lower level of knowledge.  Thanks to this flexibility, which adapts to players' imagination, LPMUD has spread rapidly.  The level of programming objects is not for everyone, but is limited to players who have reached a high level of competence within the MUD itself and with its rules.  Thanks to this greater control of the world, a LPMUD tends toward more comprehensive and coherent construction of the world, unlike TinyMUD, which tends to get a little chaotic.}}</ref>
+<ref name="ywwr2">{{cite book
+ | last1 = Towers | first1 = J. Tarin
+ | last2 = Badertscher | first2 = Ken
+ | last3 = Cunningham | first3 = Wayne
+ | last4 = Buskirk | first4 = Laura
+ | title = Yahoo! Wild Web Rides
+ | publisher = IDG Books Worldwide Inc.
+ | year = 1996
+ | isbn = 0-7645-7003-X
+ | page = 141
+ | quote = '''MudOS and Amylaar:''': There are a couple versions of LPmuds that you might run into.  More are being developed as coders and wizards improve their games.  Both MudOS and Amylaar are descendants of LPmuds, and Amylaar is an especially popular version.
+}}</ref>
+<ref name="reese-amylaar">{{cite web
+ | last = Reese | first = George 
+ | url = http://www.faqs.org/faqs/games/mud-faq/lp/
+ | title = LPMud FAQ
+ | work = Internet FAQ Archives
+ | date = 1998-09-15
+ | access-date = 2009-06-25
+ | quote = Amylaar is a person, not an LPMud. He is the primary author and torch bearer of the LPMud name. Given the generic sound of the term "LPMud" these days, people often refer to LPMud 3.2 as the Amylaar driver.
+}}</ref>
+<ref name="shahromine-dgd">{{cite book
+ | last1 = Shah | first1 = Rawn
+ | last2 = Romine | first2 = James
+ | year = 1995
+ | title = Playing MUDs on the Internet
+ | publisher = John Wiley & Sons, Inc.
+ | isbn = 0-471-11633-5
+ | page = 164
+ | quote = DGD, created by Dworkin aka Felix Croes, is a complete rewrite of the LPmud game.
+}}</ref>
+<ref name="reese-sw">{{cite web
+ | last = Reese | first = George 
+ | url = http://www.faqs.org/faqs/games/mud-faq/lp/
+ | title = LPMud FAQ
+ | work = Internet FAQ Archives
+ | date = 1998-09-15
+ | access-date = 2009-06-25
+ | quote = Shattered Worlds, on the otherhand, derives from LPMud 2.4.5.
+}}</ref>
+<ref name="hahn">{{cite book
+ | last = Hahn
+ | first = Harley
+ | title = The Internet Complete Reference
+ | edition = 2nd
+ | publisher = Osborne McGraw-Hill
+ | year = 1996
+ | isbn = 0-07-882138-X
+ | page = [https://archive.org/details/harleyhahnsinter00hahn/page/557 557]
+ | quote = The original LPC language was designed to create hack-n-slash muds.  If you heard that a particular mud was an LPMud, you could guess what type of mud it was.  In recent years, though, LPC has been redesigned into a general-purpose mud-creation language and, nowadays, virtually any type of mud might be an LPMud.
+ | url = https://archive.org/details/harleyhahnsinter00hahn/page/557
+ }}</ref>
+<ref name="internetculture">{{cite book
+ | editor-last = Porter | editor-first = David
+ | title = Internet Culture
+ | publisher = Routledge
+ | year = 1997
+ | isbn = 0-415-91684-4
+ | edition = pbk.
+ | last = Ito | first = Mizuko | author-link = Mizuko Ito
+ | contribution = Virtually Embodied: The Reality of Fantasy in a Multi-User Dungeon
+ | page = 89
+ | quote = The MUDs that I study are LPMUDs, which are "traditional" and "mainstream" MUDs in the sense that they are combat and role-playing game oriented, and tend to use medieval images.
+}}</ref>
+<ref name="ywwr1">{{cite book
+ | last1 = Towers | first1 = J. Tarin
+ | last2 = Badertscher | first2 = Ken
+ | last3 = Cunningham | first3 = Wayne
+ | last4 = Buskirk | first4 = Laura
+ | title = Yahoo! Wild Web Rides
+ | publisher = IDG Books Worldwide Inc.
+ | year = 1996
+ | isbn = 0-7645-7003-X
+ | page = 141
+ | quote = '''LPmuds:''' When you play LPmuds, you'll probably be faced with more of a bent toward socialization and an attempt to get characters to role-play more.  Quests, where you have to complete a predetermined set of actions, tend to be used to try to move people away from relying simply on combat to gain experience.  When you first enter the game, your character has no profession until you join a guild, which you usually need to search around for.  It is normally against the rules for seasoned characters to help you with your quests or finding a guild, but some LPmuds do not enforce this.
+}}</ref>
+<ref name="netlingo">{{cite web
+ | url = http://www.netlingo.com/more/talker.php
+ | title = Talker History
+ | work = NetLingo the Internet Dictionary
+ | access-date = 2010-04-13
+ | quote = Single-server talkers on the internet first appeared in 1990, with the talker Cat Chat. This was a hack of the LPMud source code, put together by Chris Thompson (aka 'Cat') at Warwick University, in England.
+}}</ref>
+<ref name="english">{{cite book
+ | editor-last = English | editor-first = Katharine
+ | title = Most Popular Web Sites: The Best of the Net from A 2 Z
+ | publisher = Lycos Press / [[Macmillan Publishers]]
+ | year = 1996
+ | isbn = 0-7897-0792-6
+ | page = 315
+ | quote = '''Two Towers Multi-User Dungeon <nowiki>http://www.angband.com/towers</nowiki>''' This page serves as an entrance to the Two Towers Multi-User Dungeon, allowing game players to step into the world of fantasy writer J.R.R. Tolkien.  Intrepid visitors can learn about the game or link to Tolkien sites dotting the net.
+}}</ref>
+<ref name="smith-bebak">{{cite book
+ | last1 = Smith
+ | first1 = Bud
+ | last2 = Bebak
+ | first2 = Arthur
+ | title = Creating Web Pages for Dummies
+ | edition = 2nd
+ | publisher = IDG
+ | year = 1997
+ | isbn = 0-7645-0114-3
+ | pages = [https://archive.org/details/creatingwebpages00smit_0/page/40 40–41]
+ | url = https://archive.org/details/creatingwebpages00smit_0/page/40
+ }}</ref>
+<ref name="jones">{{cite web
+ | last = Jones | first = Nimrod
+ | title = nEt.SPeAk
+ |date=April 1997
+ | url = http://zencadet.info/net.speak/
+ | archive-url = https://web.archive.org/web/20110722012643/http://zencadet.info/net.speak/chapter1.html
+ | archive-date = 2011-07-22
+ | access-date = 2010-07-20
+ | quote = The MUD referred to in this work is ''The Two Towers LpMUD'' based upon J. R. R. Tolkien's ''Lord of the Rings''. It claims to be the most faithful MUD to his Middle-Earth and boasts players in their hundreds gathered from 50 countries world-wide.
+}}</ref>
+<ref name="ber">{{cite web
+ | url = http://haven.theonering.net/reviews/games/twotowersmud.html
+ | title = Tolkien Gaming - Gaming Havens - Game Reviews - Two Tower MUD
+ | work = theonering.net
+ | date = 2000-05-23
+ | quote = The experience system was very simple, you kill things and complete missions, you get more attributes.
+ | access-date = 2010-10-15
+}}</ref>
+<ref name="Ekman-ttt">{{cite web
+ | last = Ekman | first = Fredrik
+ | title = LP mud's
+ | date = 1995-05-09
+ | work = rec.arts.books.tolkien
+ | access-date = 2010-07-05
+ | url = http://groups.google.com/group/rec.arts.books.tolkien/msg/e73f9160aa34df11
+}}</ref>
+<ref name="ywwr">{{cite book
+ | last1 = Towers | first1 = J. Tarin
+ | last2 = Badertscher | first2 = Ken
+ | last3 = Cunningham | first3 = Wayne
+ | last4 = Buskirk | first4 = Laura
+ | title = Yahoo! Wild Web Rides
+ | publisher = IDG Books Worldwide Inc.
+ | year = 1996
+ | isbn = 0-7645-7003-X
+ | pages = 141
+ | quote = '''MudOS and Amylaar:''': There are a couple versions of LPmuds that you might run into.  More are being developed as coders and wizards improve their games.  Both MudOS and Amylaar are descendants of LPmuds, and Amylaar is an especially popular version.
+}}</ref>
+<ref name="busey-mudos">{{cite book
+ | last = Busey | first = Andrew
+ | title = Secrets of the MUD Wizards
+ | publisher = [[SAMS Publishing]]
+ | year = 1995
+ | isbn = 0-672-30723-5
+ | pages = 216
+ | quote = For example, the MudOS server is based on the LPMUD server, but has been developed along different lines than the current LPMUD server.
+}}</ref>
+<ref name="reese-mudos">{{cite web
+ |last        = Reese
+ |first       = George
+ |url         = http://www.rpgmud.com/lpmud_timeline.htm
+ |title       = LPMud Timeline
+ |date        = 1995-08-01
+ |quote       = February 18, 1992 The LPMud 3.1.2-A project is renamed MudOS.
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120226122409/http://www.rpgmud.com/lpmud_timeline.htm
+ |archive-date = February 26, 2012
+}}</ref>
+<ref name="shahromine">{{cite book
+ | last1 = Shah | first1 = Rawn
+ | last2 = Romine | first2 = James
+ | year = 1995
+ | title = Playing MUDs on the Internet
+ | publisher = John Wiley & Sons, Inc.
+ | pages = 164
+ | isbn = 0-471-11633-5
+ | quote = MudOS is a much enhanced version that was a major rewrite that is not compatible with the old 2.4.5 LPmud version.  It is one of the most feature-rich Mud systems available, making the game seem almost like a high-level operating system of its own.  You can create objects within the Mud that can directly access the Internet Protocols, such as Transmission Control Protocol (TCP) and User Datagram Protocol (UDP); [...]
+}}</ref>
+<ref name="reese-genesis">{{cite web
+ |last        = Reese
+ |first       = George
+ |url         = http://www.rpgmud.com/lpmud_timeline.htm
+ |title       = LPMud Timeline
+ |date        = 1996-03-11
+ |access-date  = 2010-04-18
+ |quote       = April 1989 ¶ Lars starts the first public LPMud, _Genesis_.
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120226122409/http://www.rpgmud.com/lpmud_timeline.htm
+ |archive-date = 2012-02-26
+}}</ref>
+<ref name="reese-beek">{{cite web
+ |last        = Reese
+ |first       = George
+ |url         = http://www.rpgmud.com/lpmud_timeline.htm
+ |title       = LPMud Timeline
+ |date        = 1995-08-01
+ |quote       = BeekOS is basically a MudOS core with dynamic compilation of LPC->C, linking the compiled machine code to the running server dynamically. These enhancements are later merged into MudOS once Beeks takes over MudOS development.
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120226122409/http://www.rpgmud.com/lpmud_timeline.htm
+ |archive-date = 2012-02-26
+}}</ref>
+<ref name="reese-geno-mudos">{{cite web
+ |last        = Reese
+ |first       = George
+ |url         = http://www.rpgmud.com/lpmud_timeline.htm
+ |title       = LPMud Timeline
+ |date        = 1996-03-11
+ |access-date  = 2010-04-14
+ |quote       = June 1992 ¶ After having taken over as admin of Genocide in April, Blackthorn decides to move Genocide over to the new MudOS driver. At this time, the driver was filled with new features, but equally filled with bugs. Genocide spent most of the summer as a testbed for MudOS development, with MudOS developers Truilka, Jacques, and Wayfarer working along on the driver over on Portals.
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120226122409/http://www.rpgmud.com/lpmud_timeline.htm
+ |archive-date = 2012-02-26
+}}</ref>
+<ref name="reese-geno-lpmud">{{cite web
+ |last        = Reese
+ |first       = George
+ |url         = http://www.rpgmud.com/lpmud_timeline.htm
+ |title       = LPMud Timeline
+ |date        = 1996-03-11
+ |access-date  = 2010-04-14
+ |quote       = Early 1994 ¶ {{sic|Genocide|s}} converts over to LPMud in order to get the unusual speed demands made of it by its theme and its old machine. As a result, Blackthorn stops with the trickle of bug-fixes which had been the whole of MudOS development at the time.
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120226122409/http://www.rpgmud.com/lpmud_timeline.htm
+ |archive-date = 2012-02-26
+}}</ref>
+<ref name="netgames1">{{cite book
+ | last1 = Maloni
+ | first1 = Kelly
+ | last2 = Baker
+ | first2 = Derek
+ | last3 = Wice
+ | first3 = Nathaniel
+ | year = 1994
+ | title = Net Games
+ | publisher = Random House / Michael Wolff & Company, Inc.
+ | isbn = 0-679-75592-6
+ | pages = [https://archive.org/details/netgamesyourguid00malo/page/78 78]
+ | quote = ''Genesis'' lays claim to being the first LPMUD.
+ | url = https://archive.org/details/netgamesyourguid00malo/page/78
+ }}</ref>
+<ref name="fluffos">{{cite web
+ | title = FluffOS website
+ | url = https://www.fluffos.info
+ }}</ref>
+}}
+
+==Further reading==
+* {{cite book
+ | editor1-last = Shah | editor1-first = Rawn
+ | editor2-last = Romine | editor2-first = James
+ | title = Playing MUDs on the Internet
+ | publisher = John Wiley & Sons, Inc.
+ | year = 1995
+ | isbn = 0-471-11633-5
+ | last = Shah | first = Rawn
+ | contribution = Part 2: LPmuds
+ | pages = 155–231
+}}
+* {{cite book
+ | last = Busey | first = Andrew
+ | title = Secrets of the MUD Wizards
+ | publisher = [[SAMS Publishing]]
+ | year = 1995
+ | isbn = 0-672-30723-5
+}}
+
+==External links==
+* [http://www.faqs.org/faqs/games/mud-faq/lp/ LPMud FAQ]
+* [https://web.archive.org/web/20120226122409/http://www.rpgmud.com/lpmud_timeline.htm LPMud Timeline]
+* [http://ldmud.eu/ LDMud Website]
+* [http://lpmuds.net/ LPMuds.net] - A resource for MUDs that use LPC.
+* [http://mudseek.com/ MUDseek] - A Google custom search engine for MUDs.
+* [http://lpmuds.net/downloads.html The LPmuds.net downloads page] has a driver-bundled version of TMI-2 that's "easy-ish" to install.
+* {{dmoz|Games/Online/MUDs/By_Codebase/LP/|LPMuds}}
+* [https://www.fluffos.info The main website for FluffOS], the best place to start with running old LPMUD or creating new ones.
+
+
+{{MUDs}}
+
+[[Category:1989 video games]]
+[[Category:MUD servers]]
+[[Category:Freeware games]]

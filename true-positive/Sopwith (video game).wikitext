@@ -1,0 +1,67 @@
+Sopwith (video game)
+{{Infobox video game
+| title          = Sopwith
+| collapsible    = 
+| state          = 
+| caption        = 
+| developer      = BMB Compuscience
+| publisher      = BMB Compuscience
+| series         = 
+| released       = 1984
+| genre          = 
+| modes          = [[Single-player video  game|Single-player]], [[Multiplayer video  game|multiplayer]] 
+| platforms      = [[MS-DOS]]
+| director       = 
+| producer       = 
+| designer       = David L. Clark
+| artist         =
+| writer         = 
+| composer       = 
+}}
+
+'''''Sopwith''''' is a side-scrolling [[shoot 'em up]] created by David L. Clark of BMB Compuscience in 1984. It was originally written to run on the [[IBM PC]] under [[MS-DOS]]. The game involves piloting a [[Sopwith Aviation Company|Sopwith]] [[biplane]], attempting to bomb enemy buildings while avoiding fire from enemy planes and various other obstacles. ''Sopwith'' uses four-color [[Color Graphics Adapter|CGA]] graphics and music and sound effects use the [[PC speaker]]. A sequel with the same name, but often referred to as ''Sopwith 2'', was released in 1985.
+
+== Gameplay ==
+Players begin at their base (typically a [[hangar]] and a [[runway]]). From here the player must launch the plane and attack targets. This stage can be a challenge for inexperienced players, as sufficient speed is needed to get the plane into the air; insufficient speed will cause the plane to stall and crash.
+
+The plane is equipped with a [[machine gun]] and a supply of [[bomb]]s. This weaponry can be used to destroy enemy buildings and down enemy planes. Gauges in the status bar at the bottom of the screen show the remaining lives, fuel, bombs and bullets, respectively.
+
+If the player manages to destroy all enemy buildings, the plane turns and flies into the sunset. In ''Sopwith 1'' this is the end of the game, but in later versions the game advances to the next level.  Successive levels increase in speed and add buildings that may return fire.
+
+The ox was included as an in-joke and refers to an employee at BMB named "Ox" (aka David Growden).<ref>{{cite newsgroup | title = Sopwith Documentatio(6/6) | author = MacLean, Andrew | date = 1993-10-14 | newsgroup = comp.sys.ibm.pc.games.action |message-id= 1993Oct14.154628.237@rose.com | url = http://groups.google.com/group/comp.sys.ibm.pc.games.action/browse_thread/thread/bdea79ae3d6a10fa/aedc282237fe93de?lnk=st&rnum=2 | accessdate = 2006-12-01 }}</ref>
+
+== Development ==
+''Sopwith'' was created to demonstrate the ''Imaginet'' proprietary networking system developed by BMB Compuscience.<ref>{{cite web|url=http://sopwith.classicgaming.gamespy.com/FAQ.htm |title=Sopwith FAQ |accessdate=2008-10-09 |url-status=unfit |archiveurl=https://web.archive.org/web/20081009155041/http://sopwith.classicgaming.gamespy.com/FAQ.htm |archivedate=October 9, 2008 }}</ref> David L. Clark, employed as a programmer at BMB, developed Sopwith as a multiplayer game. The multiplayer function would not operate without the Imaginet hardware and drivers. However, single-player functionality was also included, with the player flying alone or against computer-controlled planes. Because of this, the game was widely distributed, even though the Imaginet system itself was not hugely successful. 
+
+The [[C (programming language)|C]] and [[x86 assembly]] [[source code]] to ''Sopwith'' was released in [[2000 in video gaming|2000]],<ref>{{cite web | url = http://tech.groups.yahoo.com/group/sopwith/message/27 | archive-url = https://archive.today/20120718082412/http://tech.groups.yahoo.com/group/sopwith/message/27 | url-status = dead | archive-date = July 18, 2012 | title = Sopwith Code Support | accessdate = 2006-12-01 | last = Clark | first = Dave | date = 2000-10-29 }}</ref> at first under a non-commercial use license, but later under the [[GNU GPL]] at the request of fans.<ref>{{cite web | url = http://www.davidlclark.com/sopwith/sourcecode.html | title = Sopwith – Source Code | accessdate = 2006-12-01 | last = Clark | first = Dave | work = Dave Clark's Home Page }}</ref><ref>[http://www.sopwith.org/ sopwith.org]</ref>
+
+==Legacy==
+[[Image:sopwith-screenshot.png|thumb|left|The start of a ''Sopwith 2'' single-player game]]
+
+In ''Sopwith 2'' (1985), obstacles exist in the form of [[ox|oxen]] and birds. The oxen stand on the ground; if the player crashes into one, or shoots one, the game deducts 200 points and the plane crashes. The birds provide a more challenging obstacle: they move along the top of the screen in a flock and if shot at or flown into will disperse into individual birds. Flying into a bird causes the plane to crash. Sopwith 2 adds the ability to play multiplayer over an async serial interface, but a BMB dictionary driver (NAMEDEV.SYS) and a BMB serial communications driver (SERIAL.SYS or SERWORK.SYS) are needed.
+
+Following the source code release, ''SDL Sopwith'' was written as a [[C (programming language)|C]] port of ''Sopwith: The Author's Edition'' written in 2001 by Simon Howard. It uses the [[Simple DirectMedia Layer]] library and preserves the CGA graphics of the original.<ref>{{cite magazine|url=https://linuxformat.com/archives?issue=135|title=HotPicks|first=Nick|last=Veitch|magazine=[[Linux Format]]|issue=135|date=September 2010|page=71}}</ref>
+
+==See also==
+{{Portal|Free and open-source software|Video games}}
+* ''[[Triplane Turmoil]]'', a 1996 VGA Freeware [[Video game remake|remake]]
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* {{dmoz|Games/Video_Games/Simulation/Flight/Independent_Developers/Sopwith/}}
+* [http://www.davidlclark.com/ Homepage of the author, David L. Clark]
+* [http://sdl-sopwith.sourceforge.net/ SDL Sopwith source code]
+* [http://www.sopwith.org/ Sopwith fan site]
+
+[[Category:1984 video games]]
+[[Category:Horizontally scrolling shooters]]
+[[Category:GP2X games|SDL Sopwith]]
+[[Category:World War I video games]]
+[[Category:Linux games]]
+[[Category:Open-source video games]]
+[[Category:DOS games]]
+[[Category:Formerly proprietary software]]
+[[Category:Video games developed in Canada]]
+[[Category:Multiplayer and single-player video games]]

@@ -1,0 +1,76 @@
+Spasim
+{{Short description|1974 video game}}
+{{Good article}}
+{{Infobox video game
+| title          = Spasim
+| image          = 
+| caption        = 
+| developer      = Jim Bowery
+| publisher      = 
+| series         = 
+| engine         = 
+| released       = March 1974
+| genre          = [[Space flight simulation game|Space flight simulation]]
+| modes          = [[Multiplayer video game|Multiplayer]]
+| platforms      = [[Mainframe computer]] ([[PLATO (computer system)|PLATO]])
+}}
+
+'''''Spasim''''' is a 32-player 3D networked [[space flight simulation game]] and [[first-person (video games)|first-person]] [[space shooter]]<ref name="arstechnica"/> developed by Jim Bowery for the [[PLATO (computer system)|PLATO]] computer network and released in March 1974. The game features four teams of eight players, each controlling a planetary system, where each player controls a spaceship in 3D space in first-person view. Two versions of the game were released: in the first, gameplay is limited to flight and space combat, and in the second systems of resource management and strategy were added as players cooperate or compete to reach a distant planet with extensive resources while managing their own systems to prevent destructive revolts. Although ''[[Maze War|Maze]]'' is believed to be the earliest 3D game and [[first-person shooter]] as it had shooting and multiplayer by fall 1973, ''Spasim'' has previously been considered along with it to be one of the "joint ancestors" of the first-person shooter genre, due to earlier uncertainty over ''Maze''{{'}}s development timeline.
+
+The game was developed in 1974 at the [[University of Illinois at Urbana–Champaign]]; Bowery was assisted in the second version by fellow student Frank Canzolino. Bowery encountered the PLATO system of thousands of [[graphics terminal]]s remotely connected to a set of [[mainframe computers]] that January while assisting a computer art class. He was inspired to create the original game by the multiplayer PLATO action game ''[[Empire (1973 video game)|Empire]]'', and the second version by the concept of [[win-win game|positive sum games]]. ''Spasim'' was one of the first 3D first-person video games; at one point, Bowery offered a reward to any person who could offer proof that ''Spasim'' was not the first. He also claims that ''Spasim'' was the direct initial inspiration for several other PLATO games, including ''Airace'' (1974) and ''[[Panther (1975 video game)|Panther]]'' (1975).
+
+==Gameplay==
+[[File:Spasim gameplay.jpg|thumb|right|Screenshot of gameplay; the screen at the top shows the player's view of a space station, while the bottom half of the screen displayed details about the ship's position and direction.]]
+''Spasim'' is a multiplayer [[space flight simulation game]], in which up to 32 players fly spaceships around 4 planetary systems. Players are grouped into teams of up to 8 players, with 1 team per system; players add their names to the rosters of the four teams, named Aggstroms, Diffractions, Fouriers, and Lasers, each with a different type of spaceship from ''[[Star Trek]]''.<ref name="GS"/><ref name="Video"/> Players control their ships in first person in a 3D environment, with other ships appearing as wireframe models. There is no [[hidden-line removal]] implemented on the models, meaning that the models appear see-through and the player can see the wireframe of the "back" of an object as well.<ref name="GS"/> The positions of the planets and other players relative to the player update once a second.<ref name="GGG"/> Players can fire "phasers and torpedoes" to destroy other players' ships. ''Spasim'' was intended to include an educational component; players enter instructions to move their spaceships using [[polar coordinates]], e.g. altitude and [[azimuth]], along with acceleration, while their position in space is given in [[Cartesian coordinates]].<ref name="Bowery"/> Players can switch their perspective between their ship, their starting space station, and torpedoes they have launched, in addition to changing the angle and magnification zoom of their camera.<ref name="Video"/> All controls are entered via single-key text inputs.<ref name="Bowery"/>
+
+The gameplay of the original version of ''Spasim'' is focused on space flight and combat.<ref name="Bowery"/> An updated version of the game was released a few months after the initial release that added strategy and resource management; each team's planet has resources, population levels, and standard of living. Players spend their planet's supply of "anti-entropy" on powering their spaceship or managing their planet. Teams compete or cooperate in order to gain enough resources to reach a far distant planet. Mismanaging a team's resources or over-reliance on combat causes dissatisfaction on the players' planets, and can lead to a "planetary proletariat revolt" which greatly reduces the planet's population and resources.<ref name="Bowery"/><ref name="Video"/>
+
+==Development==
+[[Image:Platovterm1981.jpg|thumb|A PLATO terminal with attached keyboard in 1981]]
+The game was developed by Jim Bowery in early 1974 for the [[University of Illinois at Urbana–Champaign]]'s [[PLATO (computer system)|PLATO]] computer network, which by the 1970s supported several thousand [[graphical terminal]]s distributed worldwide, running processes on nearly a dozen different networked [[mainframe computer]]s.<ref name="GS"/> Bowery started working on the game, titled "spasim" as a contraction of "space simulation", as a student in January 1974 while assisting professor Leif Brush with the first computer art class at the university. Brush showed Bowery and the class a PLATO graphics terminal in the Lindquist Center on campus, and Bowery, intrigued, signed up for an individual studies course to assist professor Bobby Brown, who ran the lab with this terminal. Bowery learned to program on the computer, helped by other users such as John Daleske, the developer of ''[[Empire (PLATO)|Empire]]'' (1973), and Charles Miller, who later made ''[[Moria (PLATO)|Moria]]'' (1975). Bowery was inspired by the multiplayer and graphical nature of ''Empire'', a space action game, to create something in the same vein.<ref name="Bowery"/> Taking code for displaying a 3D [[vector graphics]] perspective previously written by Don Lee and [[Ron Resch]], he designed 3D versions of the ships from ''Empire'', and began adding more features to the game, including weapons inspired by ''[[Star Trek]]''.<ref name="GGG"/><ref name="Bowery"/>
+
+The first version of ''Spasim'', subtitled "An Investigation of Holographic Space", was launched in March 1974. A few months later, Bowery set out to rewrite the game, with the assistance of [[metallurgy]] student Frank Canzolino. At first, the pair optimized the 3D graphics of the game, but Bowery, inspired by the concept of [[win-win game|positive sum games]], or [[cooperative game theory|cooperative games]], decided to delete the entire game code from the mainframe and start over, building in strategy and resource management elements into the base game instead of adding them on top.<ref name="Bowery"/><ref name="HODG"/> Bowery designed the new version to penalize over-reliance on combat and incentivize cooperation as part of a philosophical stance on what he believed actual space expansion would require.<ref name="Bowery"/> The second version of ''Spasim'' was developed over the course of three days, and the pair released it in July 1974.<ref name="Bowery"/><ref name="HODG"/> Bowery released occasional updates to the game until he graduated; afterwards it was maintained by Steve Lionel, who added a tutorial on navigating in polar coordinates.<ref name="Video"/>
+
+==Legacy==
+Bowery claims that ''Spasim'' had "quite a following" on the PLATO network and that there was "a late night cult" that was devoted to the game, though the emphasis in the second version of strategy over combat cut the playerbase in half.<ref name="Bowery"/> ''Spasim'' is one of the first 3D first-person games ever made; at one point Bowery had a standing offer of $500 to any person who could find proof of an earlier such game, or $200 for an earlier game that mathematically modeled population versus resource availability and included space resources.<ref name="Bowery"/> The first is believed to be ''[[Maze War|Maze]]'', a maze game which ran on two connected computers at [[NASA]] in 1973 and was expanded to support up to eight players at the [[Massachusetts Institute of Technology]] that same year.<ref name="GS"/><ref name="Polygon"/> ''Spasim'' has been considered, along with ''Maze'', to be one of the "joint ancestors" of the [[first-person shooter]] genre, due to earlier uncertainty over ''Maze''{{'}} development timeline.<ref name="arstechnica"/><ref name="GGG"/><ref name="usgamer"/>
+
+According to Bowery, the initial release of ''Spasim'' inspired [[Silas Warner]], one of the developers of ''Empire'', to use Bowery's code in turn to develop the flight simulator game ''Airace'' for the PLATO system in 1975, which then lead to first ''Airfight'', another flight simulator, and then the tank driving game ''[[Panther (1975 video game)|Panther]]'' later that year.<ref name="GS"/><ref name="HODG"/> ''Spasim'' has also been cited as a "spiritual ancestor" of ''[[Elite (video game)|Elite]]'' (1984) and the line of [[space flight simulation game#Space trading and combat game|space trading]] games that came from it.<ref name="DOOMSDF"/> In December 2022, Bowery uploaded the source code for ''Spasim'' to [[GitHub]], which he had found in an archive.<ref name="SourceCodeRelease"/>
+
+==See also==
+* [[First person (video games)]]
+* [[Early mainframe games]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bowery">{{cite web |url=http://www.geocities.com/jim_bowery/spasim.html |archive-url=https://web.archive.org/web/20010410145350/http://www.geocities.com/jim_bowery/spasim.html |title=Spasim (1974) The First First-Person-Shooter 3D Multiplayer Networked Game |last=Bowery |first=Jim |publisher=Jim Bowery |date=2001-04-10 |access-date=2011-06-08 |archive-date=2001-04-10 |url-status=dead}}</ref>
+
+<ref name="GS">{{cite web |title=A History and Analysis of Level Design in 3D Computer Games |last=Shahrani |first=Sam |url=http://www.gamasutra.com/view/feature/2674/educational_feature_a_history_and_.php |work=[[Gamasutra]] |publisher=[[UBM plc|UBM]] |date=2006-04-05 |access-date=2017-09-05 |url-status=live |archive-url=https://web.archive.org/web/20121202085904/http://www.gamasutra.com/view/feature/2674/educational_feature_a_history_and_.php |archive-date=2012-12-02}}</ref>
+
+<ref name="Video">{{cite AV media |people=Bowery, Jim |date=2013-01-06 |title=Spasim |medium=Video |url=https://www.youtube.com/watch?v=nMZv5Akcum8 |access-date=2018-04-08 |archive-url=https://web.archive.org/web/20170216183758/https://www.youtube.com/watch?v=nMZv5Akcum8 |archive-date=2017-02-16 |url-status=live |publisher=[[YouTube]]}}</ref>
+
+<ref name="HODG">{{cite book |title=History of Digital Games: Developments in Art, Design and Interaction |last=Williams |first=Andrew |publisher=[[CRC Press]] |date=2017-03-16 |isbn=978-1-317-50381-1 |chapter=Early 3D and Networked Games}}</ref>
+
+<ref name="arstechnica">{{cite web |url=https://arstechnica.com/gaming/2016/02/headshot-a-visual-history-of-first-person-shooters/ |title=Headshot: A visual history of first-person shooters |last=Moss |first=Richard |publisher=[[Ars Technica]] |date=2016-02-14 |access-date=2017-10-14 |quote=Jim Bowery's 32-player, 3D networked, first-person perspective space shooter ''Spasim''—a kind of forebear to space combat sims ''Star Wars: X-Wing'' and ''Elite''—got its first release on the PLATO computer around this time as well, effectively making ''Maze'' and ''Spasim'' joint ancestors of the FPS genre. |url-status=live |archive-url=https://web.archive.org/web/20171015044747/https://arstechnica.com/gaming/2016/02/headshot-a-visual-history-of-first-person-shooters/ |archive-date=2017-10-15}}</ref>
+
+<ref name="Polygon">{{cite web |url=https://www.polygon.com/features/2015/5/21/8627231/the-first-first-person-shooter |title=The first first-person shooter |last=Moss |first=Richard |website=[[Polygon (website)|Polygon]] |date=2015-05-21 |access-date=2020-06-17 |quote=This is the story of ''Maze'', the video game that lays claim to perhaps more "firsts" than any other — the first first-person shooter, the first multiplayer networked game, the first game with both overhead and first-person view modes, the first game with modding tools and more. |url-status=live |archive-url=https://web.archive.org/web/20200617135233/https://www.polygon.com/features/2015/5/21/8627231/the-first-first-person-shooter |archive-date=2020-06-17}}</ref>
+
+<ref name="usgamer">{{cite web |url=http://www.usgamer.net/articles/blast-from-the-past-the-dawn-of-the-first-person-shooter |title=Blast from the Past: The Dawn of the First-Person Shooter |last=Davison |first=Pete |publisher=[[USGamer]] |date=2013-07-17 |access-date=2017-10-14 |quote=There's some debate over exactly what the first ever first-person perspective video game was, but it's either ''Maze War'', an early example of a maze-based "deathmatch", and a game which pioneered the "flick-screen" grid-based movement that would be seen in classic dungeon crawlers such as ''Wizardry'' and ''Eye of the Beholder'' for many years afterwards; or ''Spasim'', a space combat game which purports to be the first ever 3D multiplayer title. |url-status=live |archive-url=https://web.archive.org/web/20171015044409/http://www.usgamer.net/articles/blast-from-the-past-the-dawn-of-the-first-person-shooter |archive-date=2017-10-15}}</ref>
+
+<ref name="DOOMSDF">{{cite book |last=Pinchbeck |first=Dan |title=Doom: Scarydarkfast |date=2013-06-18 |publisher=[[University of Michigan Press]] |isbn=978-0-472-05191-5 |pages=6–7}}</ref>
+
+<ref name="GGG">{{cite book |last=Wolf |first=Mark J. P. |chapter=BattleZone and the Origins of First-Person Shooting Games |editor-last1=Voorhees |editor-first1=Gerald A. |editor-last2=Call |editor-first2=Joshua |editor-last3=Whitlock |editor-first3=Katie |title=Guns, Grenades, and Grunts: First-Person Shooter Games |publisher=[[Bloomsbury Publishing]] |date=2012-11-02 |isbn=978-1-4411-9144-1}}</ref>
+
+<ref name="SourceCodeRelease">{{cite tweet |last=Bowery |first=James |user=jabowery |number=1606377267566968833 |date=2022-12-23 |title=An archive from the 1970s had the source code for the world's first 3D networked game:  =spasim=... now a git hub repository |access-date=2023-01-02 |url-status=live |archive-url=https://web.archive.org/web/20230102223502/https://twitter.com/jabowery/status/1606377267566968833 |archive-date=2023-01-02}}</ref>
+}}
+
+== External links ==
+* Source code for {{GitHub|jabowery/spasim|''Spasim''}}
+
+[[Category:1974 video games]]
+[[Category:First-person shooters]]
+[[Category:PLATO (computer system) games]]
+[[Category:Space flight simulator games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with available source code]]
+[[Category:Science fiction video games]]

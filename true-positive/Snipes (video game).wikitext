@@ -1,0 +1,67 @@
+Snipes (video game)
+{{Short description|1983 video game}}
+{{Other uses of|Snipes|Snipes (disambiguation){{!}}Snipes}}
+{{more citations needed|date=November 2016}}
+{{Use dmy dates|date=May 2019|cs1-dates=y}}
+{{Infobox software
+| name = Snipes
+| screenshot = Snipes - Text mode game by Novell - screen grab Apr05.gif
+| screenshot size = 250px
+| caption = Screenshot
+| developer = [[Drew Major]]<br />Dale Neibaur<br />Mark Hurst<br />Kyle Powell
+| latest_release_version = v1.0
+| latest_release_date = [[1983 in video gaming|1983]]
+| operating_system = [[Novell NetWare]], [[MS-DOS]]
+| genre = [[List of maze video games|Maze]]
+| website = {{URL|http://www.novell.com}}
+}}
+
+'''''Snipes''''' (diminutive for '''''Snipers''''') is a [[text-mode]] networked [[computer game]] that was created in 1983 by [[SuperSet Software]]. Snipes is officially credited as being the original inspiration for [[NetWars]].<ref name="SNIPES"/><ref name="Textmodegames"/> It was one of the earliest text mode [[multi player game]]s, running on [[Novell NetWare]] systems.
+
+== Gameplay ==
+The objective of the game is to control the creature by moving it around a maze to destroy snipes and their hives, and/or destroy other networked players.
+
+The player must first specify the number of snipes, hives and difficulty before they play. Each game is different because the computer generates a random new maze.
+
+The creature is moved using the keyboard arrow keys and shoots in different directions with the {{keypress|A}}, {{keypress|S}}, {{keypress|D}} and {{keypress|W}} keys. By combining keys, diagonal movement and shooting can be achieved. Pressing the spacebar can provide extra velocity to run away from difficult situations from the snipes.
+
+Several level options are available. First, a letter is chosen, which controls the environment settings: what bad guys are available, their accuracy at attacking, whether or not the player's diagonal shots bounce off walls, whether running into a wall will simply block or kill the player, and whether the hives have a partial resistance to snipes' shots. The next choice is a number, which controls the maximum number of snipes that may exist, how many hives are initially created within the maze, and how many lives the player is given. There are 234 possible levels, from A1 to Z9, that the player can select in the game.
+
+== Technical details ==
+A requirement to play the multiplayer version of ''Snipes'' is that all users share a common network drive. It suggests that the various clients communicate to each other via shared file. The exact implementation details of this are not known but experiments have shown that ''Snipes'' can be played between Windows workstations in a Command Prompt window under [[Windows XP]], provided that each user maps a drive to the executable location with read/write rights. This also implies that [[Internetwork Packet Exchange|IPX]] is not directly used by ''Snipes'' to communicate between clients.
+
+==Legacy ==
+Seeing ''Snipes'' being played simultaneously on [[Apple II]], [[TRS-80]], and [[Commodore PET]] persuaded Novell owner [[Safeguard Scientifics]] that SuperSoft's networking technology was valuable. Novell used the technology to develop [[NetWare]].<ref name="white20180126">{{Cite web |last=White |first=Bradford Morgan |date=2018-01-26 |title=The History of Novell |url=https://www.abortretry.fail/p/the-history-of-novell |access-date=2024-04-19 |website=Abort Retry Fail |language=en}}</ref> A newer implementation of the game was developed and shipped with [[NetWare Lite 1.1]] in September 1991.<ref name="Novell_1995_NWLITE"/> Its NLSNIPES.EXE executable had a filesize of less than 18 KB. It was replaced by the [[NetWars 2.06]] game, that came bundled with [[Personal NetWare 1.0]] and [[Novell DOS 7]] since late 1993.
+
+In July 2016, a port of the original Snipes to the [[Simple Direct Media Layer]] became available. The port was done by [[reverse engineering]] the original code and permission was granted by [[Drew Major]] and Kyle Powell<ref name="C++"/> to make it public. The C++ source code is available at [[GitHub]].<ref name="Snipes"/>
+
+Clones were released for Linux<ref name=Linux/> and Android.<ref name="Android"/>
+
+== See also ==
+* [[NetWars]]
+
+==References==
+{{Reflist|refs=
+<ref name="SNIPES">{{cite web |title=Snipes! « Tribute to Text-Mode Games |website=Textmodegames.com |date=2010-09-17 |url=http://www.textmodegames.com/download/snipes.html |access-date=2016-08-08 |url-status=dead |archive-url=https://web.archive.org/web/20160728221417/http://www.textmodegames.com/download/snipes.html |archive-date=2016-07-28}}</ref>
+<ref name="Textmodegames">http://www.textmodegames.com/download/4613315.pdf{{dead link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+<ref name="Linux">{{cite web |title=Linux port |url=http://www.ugcs.caltech.edu/~boultonj/snipes.html |access-date=2008-08-07 |url-status=dead |archive-url=https://web.archive.org/web/20151024052244/http://www.ugcs.caltech.edu/~boultonj/snipes.html |archive-date=2015-10-24}}</ref>
+<ref name="Novell_1995_NWLITE">{{cite web |title=Upgrade to NetWare Lite 1.1 for DOS and Win |date=1995-11-03 |id=1203078 |publisher=[[Novell]] |url=https://support.novell.com/subscriptions/readmes/1203078.html |access-date=2018-05-10 |url-status=live |archive-url=https://web.archive.org/web/20180510102814/https://support.novell.com/subscriptions/readmes/1203078.html |archive-date=2018-05-10}} [http://download.novell.com/Download?buildid=8ExECBTrBVE~]</ref>
+<ref name="C++">{{cite web |title=Snipes ported to C/C++ with 100% logic compatibility and replay recording |website=www.vogons.org |url=https://www.vogons.org/viewtopic.php?f=7&t=49073 |access-date=2016-08-25 |url-status=live |archive-url=https://web.archive.org/web/20180510102000/https://www.vogons.org/viewtopic.php?f=7&t=49073 |archive-date=2018-05-10}}</ref>
+<ref name="Snipes">{{cite web |url=https://github.com/Davidebyzero/Snipes |title=Snipes |website=github.com|date=13 October 2021}}</ref>
+<ref name="Android">{{Cite web |url=http://www.bdesigncorp.com/ |title=Snipes for Android – Android game |access-date=2017-11-18  |archive-date=2017-12-01  |archive-url=https://web.archive.org/web/20171201131658/http://bdesigncorp.com/ |url-status=dead}}</ref>
+}}
+
+== External links ==
+* [https://www.youtube.com/watch?v=1iGKsuZlIIo A video of SNIPE gameplay]
+* [https://www.youtube.com/watch?v=FGj8rOKxq6M A video of NLSNIPES gameplay]
+* [https://www.youtube.com/watch?v=85IcFHTsVQs A video of NCSNIPES gameplay]
+
+[[Category:1983 video games]]
+[[Category:Android (operating system) games]]
+[[Category:DOS games]]
+[[Category:Multiplayer online games]]
+[[Category:Video games with textual graphics]]
+[[Category:Linux games]]
+[[Category:Commercial video games with freely available source code]]
+[[Category:Video games developed in the United States]]
+[[Category:Windows games]]
