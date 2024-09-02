@@ -1,4 +1,7 @@
+"""os"""
+
 import os
+import shutil
 import re
 
 ENABLE_DBG = True
@@ -16,13 +19,17 @@ KNOWN_GOOD_ARTICLES = [
 
 QUERY_KW = ["network", "networked", "online"]
 
+OUTPUT_DIR = "matches"
+
 
 def dbg(msg):
+    """Print iff flag is set"""
     if ENABLE_DBG:
         print(msg)
 
 
 def does_article_match(article_text):
+    """Checks if article matches query kws"""
     # One of these headers is usually present at the end of the article
     article_end = re.search(
         r"==\s*References\s*==|==\s*Reception\s*==|==\s*Reviews\s*==|==\s*Sources\s*==|==\s*See also\s*==|==\s*External links\s*==",
@@ -42,6 +49,9 @@ def does_article_match(article_text):
 
 
 def main():
+    """
+    Loops through raw files and sends them to be processed and writes them to matches if needed
+    """
     for root, _, files in os.walk("./out"):
         for file_name in files:
             with open(os.path.join(root, file_name), "r", encoding="utf-8") as article:
@@ -58,13 +68,20 @@ def main():
                 if does_article_match(article_text):
                     dbg(f"Match found in {file_name}")
                     with open(
-                        f"./matches/{file_name}", "w", encoding="utf-8"
+                        f"./{OUTPUT_DIR}/{file_name}", "w", encoding="utf-8"
                     ) as out_file:
                         out_file.write(article_text)
 
 
-# Post-process to check if all known good articles were found
+def prep_output_dir():
+    """Clears output dir and recreates it"""
+    if os.path.isdir(f"./{OUTPUT_DIR}"):
+        shutil.rmtree(OUTPUT_DIR)
+    os.mkdir(OUTPUT_DIR)
+
+
 def post_process():
+    """Post-process to check if all known good articles were found"""
     found_kg = []
 
     for root, _, files in os.walk("./matches"):
@@ -85,6 +102,7 @@ def post_process():
 
 if __name__ == "__main__":
     print("Processing...")
+    prep_output_dir()
     main()
     post_process()
     print("Done.")
